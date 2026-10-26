@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T03:11:51.083838+00:00",
+ "generated_at": "2026-10-26T03:33:34.239649+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -627,9 +627,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
-   "date": "2026-10-25T16:21:00+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
+   "date": "2026-10-25T17:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -698,6 +698,23 @@
    "date": "2026-10-25T13:18:09+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "cf9a32792c04",
+   "title": "Keiko Fujimori Llega A Lambayeque: \"La Primera Vez Que Visita Esta Región Como Presidenta\" Chocolate (9frj0rFFcd)",
+   "excerpt": "",
+   "source": "Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXanFmMjcyT2hodGhoWE8wY0VpUjQzWERvWTNsQTBYR2trdUI1UHpqSEFwa3lfcmRMTXMtQlpaOFBuX2NpRC1VbGowSmNHX0RtWk1tdU00dTR4TjBLV3E4Y056ckdOdw?oc=5",
+   "date": "2026-10-25T12:18:01+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lambayeque",
+    "lat": -6.701,
+    "lng": -79.906,
+    "abroad": false,
+    "city": "Lambayeque"
+   },
    "next": null
   },
   {
@@ -1130,17 +1147,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGV1RjFfcGZOYjQ4cUxOaVBSZUlBZEhISE02dFMwemY2STNBWE00cWpSa0R3cnI2RnJ4MmNZaXcyNFRzWTFRYld5QUhoZmItdWpwUWdoOWp1SjlfLWpKVlVtU2pqZTdyc0NnS1NVVXNKSzZFTV9sc2trX09BNHJDaTg2VEdVYUEzaV9JQXdCdEFRd1lYZHFTSHBlNmxXZnpwZzVOUXA4U1o3cmUwbS1kY3FCNmpVZ1F6N1pHWVVEVHRkRlpjWmgyeVgwWnpMUlRsTWpmMWluVXpIdmNkMF9aUzd3VU5fd9IBgAJBVV95cUxQcVE5cXMxTzVlWGtibUNYanRvbGh6S250aUhJSHF0RzlYZHZ3UzNiakdfbWlfUTk1UXVsUi1RRmJpc2dReXp2RTFTdXFZRUw0UjZTV3FyWG5hTUM1YUNFb21QU25uUmE5ZWtocWhWZGtPVUVhVUdjRkxLZUxFQ3RJbi1BOGNBdmxZUlpmUklKYVh2aUdxZ1pra3lDWmoxTHJ4akpnUF9nWmoteGRFNXcxLVRDbDVNYUhjQUpoLVZnN2NhYkl0LU1HLWNtZlFRcl9oRDE5RVVLNkNkdUtXaERuS0VTYmtxcHJzeUtvZ1R4d0tOVnZIa3JzbHpwMl80ZTlR?oc=5",
    "date": "2026-10-23T23:35:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "531a7b99062a",
-   "title": "Presidenta Keiko Fujimori inaugura obra de electrificación rural en Pampas de la Clemesí",
-   "excerpt": "",
-   "source": "La Prensa Regional",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX29jeDRSZHlBNWlYWUtmRlZCdFVOUnRQZkxtNmFPbXVZZ3hucnBYRzctem1pbWplUVNIajdDdDBsTm5YNDBXZGJsRFZJNVY5eHVIY19JMlVWUS1PRkNPYnR1ZWV3WVRoOUFteXl4eEdHeVk1MVFyNE1PMU5oRFl4UFR1bUM0YkFRM0NTT1h5X3JlQlc3Sm5RODJMTUdQQmd5bE82Qmg5amRqR00zZGZMSGlVRzlMdw?oc=5",
-   "date": "2026-10-23T23:05:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
