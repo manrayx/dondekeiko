@@ -54,13 +54,15 @@ h1 span{color:var(--orange)}
 .abroad img{width:40px;height:40px;border-radius:50%;image-rendering:pixelated}
 
 .card{display:flex;flex-direction:column;gap:16px}
-.top{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.top{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.face{width:72px;height:72px;border-radius:50%;border:3px solid var(--c,var(--muted));padding:2px;background:#000;image-rendering:pixelated;flex:none}
+.top-txt{display:flex;flex-direction:column;align-items:flex-start;gap:6px}
 .status{display:inline-flex;align-items:center;gap:7px;padding:4px 9px;border-radius:3px;border:1px solid currentColor;font-family:var(--display);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
 .status.live{background:var(--live);border-color:var(--live);color:#fff}
 .status .dot{width:8px;height:8px;border-radius:50%;background:currentColor}
 .status.live .dot{animation:blink 1s steps(2) infinite}
 @keyframes blink{50%{opacity:0}}
-.updated{color:var(--muted);font-size:12px;margin-left:auto}
+.updated{color:var(--muted);font-size:12px}
 .doing{font-family:var(--display);font-size:clamp(15px,2vw,18px);line-height:1.35;margin:0;text-wrap:balance}
 .rows{display:flex;flex-direction:column;border-top:1px solid var(--line)}
 .row{display:grid;grid-template-columns:120px minmax(0,1fr);gap:12px;padding:10px 0;border-bottom:1px solid var(--line);align-items:baseline}
@@ -106,8 +108,11 @@ h1 span{color:var(--orange)}
 
     <div class="panel card" aria-live="polite">
       <div class="top">
-        <span class="status" id="status"><span class="dot"></span><span id="statusText">Cargando</span></span>
-        <span class="updated" id="updated"></span>
+        <img class="face" id="face" alt="">
+        <div class="top-txt">
+          <span class="status" id="status"><span class="dot"></span><span id="statusText">Cargando</span></span>
+          <span class="updated" id="updated"></span>
+        </div>
       </div>
       <p class="doing" id="doing"></p>
       <div class="rows">
@@ -151,7 +156,7 @@ const inside=(x,y,p)=>{try{const pt=svg.createSVGPoint();pt.x=x;pt.y=y;return p.
 function buildMap(){
   P=MAP.proj;
   svg.setAttribute("viewBox",`-30 -60 ${P.W+60} ${P.H+80}`);
-  const defs=el("defs",{}), cp=el("clipPath",{id:"face"}); cp.appendChild(el("circle",{cx:0,cy:-44,r:22})); defs.appendChild(cp); svg.appendChild(defs);
+  const defs=el("defs",{}), cp=el("clipPath",{id:"faceclip"}); cp.appendChild(el("circle",{cx:0,cy:-44,r:22})); defs.appendChild(cp); svg.appendChild(defs);
   deps=MAP.deps.map(d=>{const p=el("path",{d:d.d,class:"dep"});const t=el("title",{});t.textContent=d.n;p.appendChild(t);svg.appendChild(p);return p});
   layer=el("g",{}); svg.appendChild(layer);
 }
@@ -161,6 +166,7 @@ function locationFor(item){
   if(item && item.place) return {place:item.place, note:`Según ${item.source}, ${ago(item.date)}`};
   const lp=DATA.last_place;
   if(lp && (Date.now()-new Date(lp.date))/864e5<=3) return {place:lp.place, note:`Último lugar reportado por ${lp.source}, ${ago(lp.date)}`};
+  // sin lugar reciente
   return {place:DATA.default_place, note:"Sin reporte de viaje. Se asume la sede de gobierno."};
 }
 
@@ -175,7 +181,7 @@ function drawMap(loc,state){
     [x,y]=proj(loc.place.lat,loc.place.lng);
     deps.forEach(p=>p.classList.toggle("on",inside(x,y,p)));
   } else {
-    $("abroadImg").src=IMG(state); $("abroadText").textContent="✈ En "+loc.place.name;
+    $("abroadImg").src=IMG(state); $("abroadText").textContent="✈ En "+(loc.place.city||loc.place.name);
   }
   const nx=DATA.next&&!DATA.next.place.abroad?proj(DATA.next.place.lat,DATA.next.place.lng):null;
   if(nx){
@@ -186,7 +192,7 @@ function drawMap(loc,state){
   const g=el("g",{transform:`translate(${x},${y})`});
   g.appendChild(el("circle",{class:"ring",cx:0,cy:0,r:8,stroke:st.color}));
   g.appendChild(el("path",{class:"pin-body",fill:st.color,d:"M0,0 C-6,-12 -27,-24 -27,-44 A27,27 0 1 1 27,-44 C27,-24 6,-12 0,0Z"}));
-  g.appendChild(el("image",{href:IMG(state),x:-22,y:-66,width:44,height:44,"clip-path":"url(#face)",preserveAspectRatio:"xMidYMid slice",style:"image-rendering:pixelated"}));
+  g.appendChild(el("image",{href:IMG(state),x:-22,y:-66,width:44,height:44,"clip-path":"url(#faceclip)",preserveAspectRatio:"xMidYMid slice",style:"image-rendering:pixelated"}));
   layer.appendChild(g);
 }
 
@@ -194,13 +200,15 @@ function show(item, isCurrent){
   selected=item;
   const silent = isCurrent && (!item || (Date.now()-new Date(item.date))/36e5 > DATA.silence_limit);
   const state = silent ? "posando" : item.state;
-  const st=DATA.states[state], live=state==="transmitiendo";
+  const st = silent ? (DATA.silence||DATA.states.posando) : DATA.states[state], live=state==="transmitiendo";
+  $("face").src=IMG(state); $("face").alt="Ilustración: "+st.label; $("face").style.setProperty("--c",st.color);
   const s=$("status"); s.className="status"+(live?" live":""); s.style.color=live?"":st.color;
   $("statusText").textContent=st.label;
   $("doing").textContent=st.doing;
 
   const loc = silent ? {place:DATA.default_place, note:item?`Ninguna nota desde ${fmt(item.date)}`:"Ningún medio reporta actividad reciente."} : locationFor(item);
-  $("place").replaceChildren(txt("b",loc.place.name+(loc.place.abroad?" (extranjero)":"")), txt("small",loc.note));
+  const pl=loc.place, where=[pl.city&&pl.city!==pl.name?pl.city:null, pl.abroad?"extranjero":null].filter(Boolean).join(" · ");
+  $("place").replaceChildren(txt("b",pl.name), txt("small",(where?where+" · ":"")+loc.note));
 
   const n=DATA.next;
   if(n){
