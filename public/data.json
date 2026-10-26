@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:04:44.976708+00:00",
+ "generated_at": "2026-10-26T16:26:32.018696+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -447,23 +447,6 @@
    "next": null
   },
   {
-   "id": "33e475f0321a",
-   "title": "Keiko Fujimori llega a Madre de Dios para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
-   "date": "2026-10-26T15:15:39+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Madre de Dios",
-    "lat": -12.594,
-    "lng": -69.189,
-    "abroad": false,
-    "city": "Madre de Dios"
-   },
-   "next": null
-  },
-  {
    "id": "58e76dfa8d06",
    "title": "Gobierno realiza operativo para quitar antenas de telecomunicaciones clandestinas en penales",
    "excerpt": "Gobierno realiza operativo para desmantelar antenas de telecomunicaciones clandestinas en penales. La presidenta Keiko Fujimori garantizó que no habra dispositivos tecnologicos ilegales en carceles.",
@@ -787,6 +770,17 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPejVuMmdmTm1JRUxERm45T01YbGRpNFByZktBa2ZLdGNhZmpHQlJzeGJ3U01nRlc0QVN1UTN5XzJmSHRrSkNXdjVseWNUdkNjc3NTOHY2NThONXdoUC11ZFBpa29ubXFLY2xGN3ZLQjRhV3ZhYW9faVphYmNfR21sTlpUaUFQdkNHTG9LTEwtUk1RRzd5VElTOXhrSVBVeU03?oc=5",
    "date": "2026-10-25T17:08:41+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dd4ca1da0cca",
+   "title": "Misa en Las Nazarenas: Keiko Fujimori asistió a ceremonia presidida por el cardenal Carlos Castillo",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOODdUcU45TXFPQndjMkhhS0t6ck15WW1uSG84THBrZmxfVWR2a0VOVWxmYnAwTjltcEl4U0o3RlliTWZsb1dXYTg3X3hyZzFVMl9UeXhkWHkxaDFYZnVFMjlVYlUzVjd1S19ES2pna3Z2Uzhka0k1cnM2OElQQk9FRjlzRDA2aUhlckR2SjhxUXVoQkt6Ujg4R0NJOA?oc=5",
+   "date": "2026-10-25T17:08:41+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
