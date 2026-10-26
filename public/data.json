@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T05:20:46.189714+00:00",
+ "generated_at": "2026-10-26T05:41:49.104732+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -436,17 +436,6 @@
    "next": null
   },
   {
-   "id": "0f682219bc76",
-   "title": "Presidenta Keiko Fujimori felicita a Lula da Silva tras su reelección como mandatario de Brasil",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9MWFMzeE5BUkE0Qk9teGx6THN0TUdaNF9nNnRQQkZFeFI5eUVjaVl2TEdtU0FBVlAzRnZUeFJPVFBLWk81Rk5RZ2lLVWNmUUwxYWNpb0ZPZU5rbzBxZExTanlXNWpXTHNILWtqZ2JCQl9QbXdZX1NhVWFxUHYzX1hzUWx0M3l6allCb0dQRlBOQVdVREwtblFtZDVLRm5nRGNGdHRGZGQ5Yk9yVDhGZFhJbG8yMEE5UG43anhYdVBtNlcxUHRfejh4RTFfYUZ5eWNHdQ?oc=5",
-   "date": "2026-10-26T02:59:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "3edcb5d7c85b",
    "title": "Presidenta Fujimori felicita a Lula da Silva por su reelección y ratifica alianza estratégica entre Perú y Brasil",
    "excerpt": "",
@@ -470,6 +459,17 @@
     "abroad": true,
     "city": "Brasil"
    },
+   "next": null
+  },
+  {
+   "id": "a626deac93f1",
+   "title": "Keiko Fujimori felicita a Lula da Silva por su reelección como presidente de Brasil",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONExtcjJLdDJHS0k4ajB0OUZ5a2UtTTUxMVE4WmttX25LLV8wdkxoaDJEYUZQZEt0dDUxZU1ySXpORzI4NEF6T1JjS1gtNS16MVpaUVYzWjcwclRZcGtjSS1HZE9CXzNsT2d3a090NEVvTVpoWUtfVzFQZncyU1hpMEllXzFScktYenNEaUFsXzRSNC1aWXk0Qm1ZR0lWa2VfNEJFMlBGM3ZPTlRQUFVrbmhSSEQzTjQyMmowM0NfRVA1NHNJNU5Ha2xScU1YaUVsUlHSAeYBQVVfeXFMT1ZLazFreDB4NUxYUzB1dUVCOGJCVGtWdFNCTHEyWkplaWZfdkg2VFhZSlBaSE56aWFvT0tPOEMwNkM4NVpkZk9mYThCWGpzQnY1QTB1d3pTR3ZEUHdjTVJIbUhiem4wRGtkaFZzVnZ2YnNVOWsyUWRrenBPSk9SN2ZkZjNiZHhIc2lDaEw1b2VHSDRvQlk3RTdnbFV5d1VGWUtuMm5tQ2gxVmVrTktQSGxVSEk2SDNGOHF1OU5mMlVTNklETE9EaWd6VDJhdUhfTlA4NnVaY0dYZ3ZiODlJZWprNkJDcXc?oc=5",
+   "date": "2026-10-26T02:32:58+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -522,6 +522,17 @@
     "abroad": true,
     "city": "Brasil"
    },
+   "next": null
+  },
+  {
+   "id": "0f682219bc76",
+   "title": "Presidenta Keiko Fujimori felicita a Lula da Silva tras su reelección como mandatario de Brasil",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9MWFMzeE5BUkE0Qk9teGx6THN0TUdaNF9nNnRQQkZFeFI5eUVjaVl2TEdtU0FBVlAzRnZUeFJPVFBLWk81Rk5RZ2lLVWNmUUwxYWNpb0ZPZU5rbzBxZExTanlXNWpXTHNILWtqZ2JCQl9QbXdZX1NhVWFxUHYzX1hzUWx0M3l6allCb0dQRlBOQVdVREwtblFtZDVLRm5nRGNGdHRGZGQ5Yk9yVDhGZFhJbG8yMEE5UG43anhYdVBtNlcxUHRfejh4RTFfYUZ5eWNHdQ?oc=5",
+   "date": "2026-10-26T01:59:00+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -622,9 +633,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
-   "date": "2026-10-25T16:21:00+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
+   "date": "2026-10-25T17:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1120,17 +1131,6 @@
    "source": "Evidencia.pe",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0ZNN1Y3UEM0bi1zcnF4bU00aXA1V0RaSjRBN01kNnV6ZlE5VUVaWFllNDdVWXpCUzRJRTdCWkgtam5iZFk2ckt2MHNMMVhLWl9OT0lIQTA2NTg5UlZWQlRRZTZlblhkb3ZlMUdXSmVxY2QtdmhhVzBHWUlHN0s0OFFJV1BwYTJDeWdRSHhyazUxMXZFamwzRF9oWm9BOWtmZVFmOdIBqgFBVV95cUxNd01PVUtyT3Y2TTM0VlBoWHpJbXpIczRZOC1mNWJtUFRadkU0SzZXcmdnUXo4OEp2aXplVWdza3lyM20ydVJHZGlyMWZBRG92MjlQZXdDYjl0cTQ1eUU4Zkl2VC11bmc3ZHBRNjVBV1Vjb0tTN2Y0bEdYS3hnZDlpQ1NMRjllajQ3TUxxZmtmOWFXaEs2T3JWelJ3cVZ1MHZrYjdGc2pVSFpLZw?oc=5",
    "date": "2026-10-24T08:29:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8a2f82e17866",
-   "title": "Keiko Fujimori anuncia S/ 18 mil millones para obras y Moquegua exige financiar proyectos pendientes",
-   "excerpt": "",
-   "source": "Revelación.pe",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUk3aXM5b1U2d1V3aktyWk5ERDVNR2tqWHJOR0Q4ejFpLTkxbHo0dGk0cl9uVE5ocWw3M0NKZWNWZVo4RjR4d0FvXzE2ZVowSzBKZXQ4Y3JETmJ6S08xVlEyZkU1UzJmb3RmM1hYSXhnd0xpajdBNTJPWjZhaUlqbmQ5NkFoeC0xemtkZXVIYTdpV21VOXFwcEc0bjFMM245bWxFY3FOWFZ4ZHhGMkJPc0NLcC1nb05OakN6amc0TE5oQnloc1VJVEZnRkE2dw?oc=5",
-   "date": "2026-10-24T07:17:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
