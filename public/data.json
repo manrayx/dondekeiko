@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T11:03:36.352416+00:00",
+ "generated_at": "2026-10-26T12:51:24.386764+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "Brasil"
   },
   "source": "RPP",
-  "date": "2026-10-26T03:03:44+00:00"
+  "date": "2026-10-26T12:42:55+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -412,6 +412,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e64ec253eb68",
+   "title": "Keiko Fujimori saludó a Lula da Silva por su triunfo en Brasil: \"Reafirmo nuestra voluntad de fortalecer nuestra alianza estratégica\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZTBRNkhXNDhVd1FtclJqN2g0NTFMdVpkQl83bExHaGphSmZnejhyNjhtRFFfNmswMlNNNld5UUVwNm0zemxYWWtCMlAyYllvNk1RLW1Nc015eDhvRklLQzhSX1pyTVZkV25sS2NhWnN4MnVVOUFzYTBNRUdzZkZNZ1huR0hWWXkzYmQyQXBpbkt5TW5ONE5rTXZvMk9uT3c3MzhwWXhONHAyMGM4alpUVWFDSnJXTDdlUmZtN05kZlpsa0FnU0RjTEFtcDJTYTdrd1Rha2p0MzJneE1UcVNXTE9IbVl0WHMzNEE5RUplenJ6SDRoRmtKQkNFejJkeU84VTl3WWJiQjdGWmc?oc=5",
+   "date": "2026-10-26T12:42:55+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
    "id": "ad455c3179d8",
    "title": "Keiko Fujimori acudió a las Nazarenas y pidió por la salud del Papa León XIV",
    "excerpt": "",
@@ -420,21 +435,6 @@
    "date": "2026-10-26T03:42:54+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "e64ec253eb68",
-   "title": "Keiko Fujimori saludó a Lula da Silva por su triunfo en Brasil: \"Reafirmo nuestra voluntad de fortalecer nuestra alianza estratégica\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZTBRNkhXNDhVd1FtclJqN2g0NTFMdVpkQl83bExHaGphSmZnejhyNjhtRFFfNmswMlNNNld5UUVwNm0zemxYWWtCMlAyYllvNk1RLW1Nc015eDhvRklLQzhSX1pyTVZkV25sS2NhWnN4MnVVOUFzYTBNRUdzZkZNZ1huR0hWWXkzYmQyQXBpbkt5TW5ONE5rTXZvMk9uT3c3MzhwWXhONHAyMGM4alpUVWFDSnJXTDdlUmZtN05kZlpsa0FnU0RjTEFtcDJTYTdrd1Rha2p0MzJneE1UcVNXTE9IbVl0WHMzNEE5RUplenJ6SDRoRmtKQkNFejJkeU84VTl3WWJiQjdGWmc?oc=5",
-   "date": "2026-10-26T03:03:44+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
    "next": null
   },
   {
