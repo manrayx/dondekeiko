@@ -2,8 +2,11 @@ name: Actualizar titulares
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "*/30 * * * *"   # cada 30 minutos (GitHub puede demorar unos minutos)
+  workflow_dispatch:          # botón "Run workflow" para correrlo a mano
+  push:                       # se ejecuta también al cambiar el código o la configuración
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**"]
 
 permissions:
   contents: write
@@ -16,8 +19,8 @@ jobs:
   actualizar:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
