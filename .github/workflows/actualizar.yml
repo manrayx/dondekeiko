@@ -1,15 +1,20 @@
 name: Actualizar titulares
 
+# Cada ejecución actualiza los datos y, al terminar, espera 20 minutos y lanza la siguiente.
+# Así el sitio se mantiene al día aunque la programación de GitHub se retrase.
+# La programación (cron) queda como respaldo para reanudar la cadena si alguna vez se corta.
+
 on:
   schedule:
-    - cron: "*/30 * * * *"   # cada 30 minutos (GitHub puede demorar unos minutos)
-  workflow_dispatch:          # botón "Run workflow" para correrlo a mano
-  push:                       # se ejecuta también al cambiar el código o la configuración
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+  push:
     branches: [main]
     paths: ["scripts/**", ".github/workflows/**"]
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: actualizar
@@ -18,6 +23,7 @@ concurrency:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
@@ -28,11 +34,24 @@ jobs:
       - name: Guardar cambios
         run: |
           if git diff --quiet public/data.json; then
-            echo "Sin titulares nuevos."
+            echo "Sin cambios."
             exit 0
           fi
           git config user.name "donde-esta-keiko-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data.json
           git commit -m "Actualiza titulares"
-          git push
+          git push || (git pull --rebase -X theirs && git push)
+
+  siguiente:
+    needs: actualizar
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Esperar y lanzar la siguiente actualización
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          sleep 1200
+          gh workflow run actualizar.yml -R "$GITHUB_REPOSITORY" --ref main
