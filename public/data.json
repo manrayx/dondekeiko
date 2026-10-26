@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T02:30:19.243532+00:00",
+ "generated_at": "2026-10-26T03:07:02.749488+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "Brasil"
   },
-  "source": "El Comercio",
-  "date": "2026-10-26T02:20:11+00:00"
+  "source": "Perú21",
+  "date": "2026-10-26T02:39:24+00:00"
  },
  "next": {
   "place": {
@@ -134,6 +134,7 @@
    "minutes": 70,
    "subject": "Asistió a la misa del XXX Domingo del Tiempo Ordinario, donde elevó plegarias por la salud del papa León XIV y para que continúe guiando a la Iglesia Católica.",
    "lugar": "Santuario de Las Nazarenas, Cercado de Lima",
+   "state": "posando",
    "place": {
     "name": "Santuario de Las Nazarenas",
     "full": "Santuario de Las Nazarenas, Cercado de Lima",
@@ -149,6 +150,7 @@
    "minutes": 27,
    "subject": "Inaugura canal de riego Sulcán Chala.",
    "lugar": "Distrito San José de Quero, provincia de Concepción, región Junín",
+   "state": "posando",
    "place": {
     "name": "Distrito San José de Quero",
     "full": "Distrito San José de Quero, provincia de Concepción, región Junín",
@@ -164,6 +166,7 @@
    "minutes": 61,
    "subject": "Lidera reinicio de operaciones del histórico Tren Macho en el tramo Chilca-Cuenca, en el marco de la conmemoración por los 100 años del ferrocarril Huancayo-Huancavelica.",
    "lugar": "Distrito de Chilca, provincia de Huancayo, región Junín",
+   "state": "posando",
    "place": {
     "name": "Distrito de Chilca",
     "full": "Distrito de Chilca, provincia de Huancayo, región Junín",
@@ -179,6 +182,7 @@
    "minutes": 37,
    "subject": "Lidera inauguración de proyecto de electrificación rural para ampliar acceso a la energía en Moquegua.",
    "lugar": "Comunidad de Pampas de Clemesí, provincia de Mariscal Nieto, región Moquegua",
+   "state": "posando",
    "place": {
     "name": "Comunidad de Pampas de Clemesí",
     "full": "Comunidad de Pampas de Clemesí, provincia de Mariscal Nieto, región Moquegua",
@@ -194,6 +198,7 @@
    "minutes": 47,
    "subject": "Inaugura el reservorio N-31 y obras de agua potable y alcantarillado en el distrito de Cerro Colorado, que permitirán mejorar el acceso a estos servicios esenciales para más de 30 000 habitantes, después de 15 años de espera.",
    "lugar": "Región Arequipa",
+   "state": "posando",
    "place": {
     "name": "Región Arequipa",
     "full": "Región Arequipa",
@@ -209,6 +214,7 @@
    "minutes": 60,
    "subject": "Participa en llegada de la tuneladora Micaela a la estación Carmen de La Legua.",
    "lugar": "Carmen de La Legua, Callao",
+   "state": "posando",
    "place": {
     "name": "Carmen de La Legua",
     "full": "Carmen de La Legua, Callao",
@@ -224,6 +230,7 @@
    "minutes": 24,
    "subject": "Lidera anuncio de un conjunto de medidas prioritarias de política fiscal contracíclica orientadas a mitigar los efectos de los choques externos y del fenómeno El Niño sobre la economía peruana, proteger a las familias más vulnerables y sostener la actividad económica del país.",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -239,6 +246,7 @@
    "minutes": 58,
    "subject": "Lidera inauguración de la línea pesquera del CITE Productivo de Pucallpa.",
    "lugar": "Distrito de Callería, provincia de Coronel Portillo, región Ucayali",
+   "state": "posando",
    "place": {
     "name": "Distrito de Callería",
     "full": "Distrito de Callería, provincia de Coronel Portillo, región Ucayali",
@@ -254,6 +262,7 @@
    "minutes": 60,
    "subject": "Inaugura los pabellones renovados y el nuevo equipamiento médico del Hospital Militar Central \"Coronel Luis Arias Schreiber\".",
    "lugar": "Jesús María",
+   "state": "posando",
    "place": {
     "name": "Jesús María",
     "full": "Jesús María",
@@ -269,6 +278,7 @@
    "minutes": 3,
    "subject": "Despedida a su homólogo ecuatoriano, Daniel Noboa Azín.",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -284,6 +294,7 @@
    "minutes": 26,
    "subject": "Ceremonia de suscripción de la Declaración Presidencial de Lima 2026.",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -299,6 +310,7 @@
    "minutes": 27,
    "subject": "Clausura del Encuentro Presidencial y XVII Gabinete Binacional Perú-Ecuador.",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -314,6 +326,7 @@
    "minutes": 76,
    "subject": "Presentación de los resultados de la XVIII Comisión de Vecindad Peruano – Ecuatoriana.",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -329,6 +342,7 @@
    "minutes": 19,
    "subject": "Inicio de la Sesión Plenaria del Gabinete Binacional.",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -344,6 +358,7 @@
    "minutes": 8,
    "subject": "Recibe de su homólogo ecuatoriano, Daniel Noboa Azín, la Presidencia Pro Tempore de la Comunidad Andina de Naciones (2026-2027)",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -359,6 +374,7 @@
    "minutes": 42,
    "subject": "Encuentro Presidencial.",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -374,6 +390,7 @@
    "minutes": 4,
    "subject": "Recibe a su homólogo ecuatoriano, Daniel Noboa Azín.",
    "lugar": "Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "full": "Palacio de Gobierno",
@@ -389,6 +406,7 @@
    "minutes": 55,
    "subject": "Lidera inauguración de la línea de transmisión de 138 kV y la nueva Subestación Iberia, que beneficiará directamente a 122,000 habitantes de las localidades de Nueva Pacarán, Alerta, San Lorenzo, La Merced, La Abeja, Iberia, Arca Pacahuara e Iñapari.",
    "lugar": "Plaza de Armas del distrito de Iberia, provincia de Tahuamanu, región Madre de Dios",
+   "state": "transmitiendo",
    "place": {
     "name": "Plaza de Armas del distrito de Iberia",
     "full": "Plaza de Armas del distrito de Iberia, provincia de Tahuamanu, región Madre de Dios",
@@ -404,6 +422,7 @@
    "minutes": 32,
    "subject": "Recibe y rinde homenaje a la sagrada imagen del Señor de los Milagros.",
    "lugar": "Patio de Honor de Palacio de Gobierno",
+   "state": "posando",
    "place": {
     "name": "Patio de Honor de Palacio de Gobierno",
     "full": "Patio de Honor de Palacio de Gobierno",
@@ -417,6 +436,47 @@
  "agenda_minutes_7d": 736,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "3edcb5d7c85b",
+   "title": "Presidenta Fujimori felicita a Lula da Silva por su reelección y ratifica alianza estratégica entre Perú y Brasil",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS3J4LTg4aEF1WnJCcXEwQjhPdXJCRTA0MVFDSnJrRzZtN2NlZVR5eF9DN3c0T1E1VmpuUk9FNThIYkl6M2NIeURBVHRQVlVyT3VJbEpxT3pWNUctOV9SMkJjVkJuSFVpNjRmZHVTN3NtRm91QUhFaC1iR1BhM1VodUM3MktQS042d2VtUE5fLTgwZkNaeUNwYk8wZmg0cEVrN0tiZXhpRHRDSmtKeUhQTUpmODJmWmNBZDU2bXlGTE5sZ08wUXFOSkhiYmF2REpEVVJwSnFTa3ZIYVF4ZXI4UmtRZw?oc=5",
+   "date": "2026-10-26T02:54:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d64a903d8f69",
+   "title": "Keiko Fujimori felicita a Lula da Silva por su victoria en Brasil",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3BJUjRCdDdzYk15MXZyTEs3UUhZOV9IQ0NhNXNjTldQYUVUdGhla0pKOTRWLThINDFSR1EzeWwtdktIcUVYSmo1VXhtMnZ5djZtZU53SVV5S0daVjFFUjRndkh3RWRVWWZLM3FTTkotLUdUdjhsbTkxd2hQNk1nT3d2UnlGQ0x5VVBwaThMSWprUQ?oc=5",
+   "date": "2026-10-26T02:39:24+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
+   "id": "073a90a67a9e",
+   "title": "Presidenta Keiko Fujimori felicita a Luiz Inácio Lula da Silva por su reelección en Brasil",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdFQxNlB6dW0tRXVaWEE1QUxETDBRYnR5QnpoTUxtTmhmRnhlVVFjOG9OOWkwU3dRQkdqLWwwV3g3d1hFdERqT0JhVW9iV1RpQ0s5VzBGOUw0R3JEZm5qMGhxblQ0bFByTy1JaXdRMUFlY1FlSTAxMnFvRVNXaUZzN1p1YzRQN1ExdGZGSjB5UUdCZ25GNkdLcEtQTjN1UnRDeVc3RG5mc3NqNW5nbU5qUDJabnh4QTYxYmF5c0k2bERqYjdLWFhUYTRR?oc=5",
+   "date": "2026-10-26T02:32:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
   {
    "id": "bf9e21100018",
    "title": "Keiko Fujimori recibe facultades: ¿Cuáles serán los primeros decretos legislativos que se dictarán?",
@@ -567,9 +627,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
-   "date": "2026-10-25T17:04:00+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
+   "date": "2026-10-25T16:21:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1081,45 +1141,6 @@
    "source": "Energiminas",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZoWEZfeEFGSElzQ2h3X3ZJTnJGMlI2dzNTSS05Tk1TNEk2Y0NVXzQwTDJSdnUzYlA4WGJLelVLak1uLXZyR0ZSdzRfTnI0aUQxa3FxMVo3WU01dHgxd3NJUEIwQlFiaDNCWDUxa0RHQlBycnNLZ1AtMGIxY3dIZGNGekZYeVBuODN6LTJUMFN4b3JVTTVYWDBzUjZyRVhJTkExLWYycWphbF91QWlSazFjUWROU0N3bFE1aXJVS1Y?oc=5",
    "date": "2026-10-23T23:01:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2c1f2d9993a6",
-   "title": "Keiko Fujimori anuncia evaluación de subsidio a tarifas eléctricas en Moquegua",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOXZhbjE0b280SGM2dEpfNGZrTUFaWnBVd1hPbHRxOVVDR3Z0VlpoVnRTNnpyWGM5bjlfdlIwOFZRbXZpVXZXeVBJWHlwYkZKTjZEcDhVczQzZ0hFcnFUTnlMcGgzRXFReTExdFRYa3FxVXhzeG4tUFhUTUFLWEJMT0FsSXlHa3FpOGh2Unp4OXNhN2tleUVMS1ljZl9lTVpYYkVuaVB2VThaVHhpNU8tdWdXWEgwY3V5MlRrUXFnRFNLcXNPT2c4dg?oc=5",
-   "date": "2026-10-23T22:34:05+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Moquegua",
-    "lat": -17.194,
-    "lng": -70.935,
-    "abroad": false,
-    "city": "Moquegua"
-   },
-   "next": null
-  },
-  {
-   "id": "914f74f32b8a",
-   "title": "Keiko Fujimori: “Será un mega Niño, pero también habrá una mega respuesta del Estado” – Diario Sin",
-   "excerpt": "",
-   "source": "Diario Sin Fronteras",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclNoOGZqUzhVMmJBMFZYTU4zZzAzbHJOdGt0WFJWdHZsc2xTck82b3RXb1Z3eE9kRE0wRFAzY1BJcWR3a2lPckszLWJJYlpFXzYwdkF6Smp5c2paN2RqYW5yS1ZhSXRGSTBFdnJhbUlDdVRKZHM2ZzNwdG5FUlQxX3MwdlJNVW5DR3BFMl9LTjM1ek1MZDBFc3NWUjNFaF9LUGhweER1bUJ1YVpFVllrdVJGc3BLLVRDcFNzWW05RF9ET1pldGfSAcsBQVVfeXFMTnNUOWdxYlEzenQ2a0lKaGp6TmFHR2Faa1RPSWFEbFdKZURVV1VyRFRuOTNGZGRPRWVza0hXa1pteVFsOTFvVTRUNFJ2c29KRkV1RVpmbTBGS0U1NjhXM3E2eGlHRWliVUtMVzZRX0pfVTM4LVJLMDdmUnVIRWl2WjgzU1JMUW1QVjBvRjhhOXA5b0lXLU5GZHhyRlM2NGJSNGd0RGtRektaakpiQkNtRXhEYXdPTFVISWVXZmJ4YWF5YUp1UjdoVlVYeUk?oc=5",
-   "date": "2026-10-23T22:06:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7d616ea96259",
-   "title": "Moquegua: Gilia Gutiérrez pide a Keiko Fujimori evitar paralización de obras",
-   "excerpt": "",
-   "source": "Evidencia.pe",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3VGUTlGZm5WY1NYV2djWExUMndQTHRpZmFnbHRLQUxmWXpfeUxNV2ZKNVM3blh2UjI4bUQ3VEV1RWFZc283MmJhZWlCcXpmSmJhNEFzQmdWWlRqTHd5MDBxajRkcVVESVUtUnlXVDduTkNhRm1LVlZPRllSeWFzR29SaWFZTTd2blRHZVJ1OWpqZ3RteE1TNU0wUTPSAZwBQVVfeXFMT2t1RlE5RmZuVmNTWFdnY1hMVDJ3UEx0aWZhZ2x0S0FMZll6X3lMTVdmSjVTN25YdlIyOG1EN1RFdUVhWXNvNzJiYWVpQnF6ZkpiYTRBc0JnVlpUakx3eTAwcWo0ZHFVRElVLVJ5V1Q3bk5DYUZtS1ZWT0ZZUnlhc0dvUmlhWU03dm5UR2VSdTlqamd0bXhNUzVNMFEz?oc=5",
-   "date": "2026-10-23T21:20:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
