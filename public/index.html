@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>¿Dónde está Keiko?</title>
+<meta name="description" content="¿Dónde está Keiko? · Por MNRY">
+<meta property="og:title" content="¿Dónde está Keiko?">
+<meta property="og:description" content="Por MNRY">
+<meta property="og:image" content="img/posando.png">
+<link rel="icon" href="img/posando.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=Atkinson+Hyperlegible:wght@400;700&family=VT323&display=swap">
+<style>
+:root{
+  --bg:#0c0a0f; --surface:#16131b; --surface-2:#1f1a26; --line:#2e2738;
+  --fg:#f4eee6; --muted:#9a90a4;
+  --live:#ff2d46; --orange:#f5781e; --sun:#ffc23d; --map:#221c2b; --map-line:#3b3247;
+  --display:"Silkscreen","Courier New",monospace;
+  --body:"Atkinson Hyperlegible",system-ui,sans-serif;
+  --digits:"VT323","Courier New",monospace;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 40px}
+img{max-width:100%}
+[hidden]{display:none!important}
+.wrap{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:12px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,5vw,46px);line-height:1;margin:0;text-wrap:balance}
+h1 span{color:var(--orange)}
+.by{font-family:var(--display);font-size:12px;letter-spacing:.14em;color:var(--muted)}
+.label{font-family:var(--display);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0}
+
+.stage{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:20px;align-items:start}
+@media (max-width:820px){.stage{grid-template-columns:1fr}}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:16px;min-width:0}
+
+.map-box{position:relative;display:flex;justify-content:center}
+#map{width:100%;max-width:440px;height:auto;max-height:72vh;overflow:visible}
+#map path.dep{fill:var(--map);stroke:var(--map-line);stroke-width:1;transition:fill .4s}
+#map path.dep.on{fill:#3a2633;stroke:var(--orange)}
+.past{fill:var(--muted);opacity:.6}
+.next-line{fill:none;stroke:var(--sun);stroke-width:1.6;stroke-dasharray:5 5;animation:dash 1s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-10}}
+.next-dot{fill:var(--bg);stroke:var(--sun);stroke-width:2}
+.ring{fill:none;stroke-width:2.5;transform-box:fill-box;transform-origin:center;animation:ping 1.8s ease-out infinite}
+@keyframes ping{from{transform:scale(1);opacity:.9}to{transform:scale(2.2);opacity:0}}
+.pin-body{stroke:var(--fg);stroke-width:2}
+.abroad{position:absolute;top:12px;left:12px;display:flex;align-items:center;gap:10px;padding:8px 12px 8px 8px;background:var(--surface-2);border:2px solid var(--sun);border-radius:40px;font-family:var(--display);font-size:13px}
+.abroad img{width:40px;height:40px;border-radius:50%;image-rendering:pixelated}
+
+.card{display:flex;flex-direction:column;gap:16px}
+.top{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.status{display:inline-flex;align-items:center;gap:7px;padding:4px 9px;border-radius:3px;border:1px solid currentColor;font-family:var(--display);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.status.live{background:var(--live);border-color:var(--live);color:#fff}
+.status .dot{width:8px;height:8px;border-radius:50%;background:currentColor}
+.status.live .dot{animation:blink 1s steps(2) infinite}
+@keyframes blink{50%{opacity:0}}
+.updated{color:var(--muted);font-size:12px;margin-left:auto}
+.doing{font-family:var(--display);font-size:clamp(15px,2vw,18px);line-height:1.35;margin:0;text-wrap:balance}
+.rows{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.row{display:grid;grid-template-columns:120px minmax(0,1fr);gap:12px;padding:10px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.row .v{min-width:0}
+.row .v b{font-family:var(--display);font-weight:700}
+.row .v small{display:block;color:var(--muted);font-size:13px}
+.row .v a{color:var(--muted)}
+.hours{display:flex;gap:18px;flex-wrap:wrap}
+.hours div{display:flex;flex-direction:column}
+.hours b{font-family:var(--digits)!important;font-weight:400!important;font-size:30px;line-height:1;font-variant-numeric:tabular-nums}
+.hours .live-h b{color:var(--live)}
+.hours small{font-size:12px}
+.headline{display:flex;flex-direction:column;gap:6px;padding:12px;background:var(--surface-2);border-radius:4px}
+.headline h2{font-size:15px;line-height:1.35;margin:0}
+.headline p{margin:0;font-size:13px;color:var(--muted)}
+.headline a{color:var(--fg);font-size:13px}
+
+.today{display:flex;flex-direction:column;gap:14px}
+.today h2{font-family:var(--display);font-size:20px;margin:0}
+.icons{display:flex;flex-wrap:wrap;gap:12px}
+.ico{all:unset;cursor:pointer;width:68px;height:68px;border-radius:50%;padding:3px;border:3px solid var(--c);background:#000;transition:transform .15s}
+.ico img{width:100%;height:100%;border-radius:50%;display:block;image-rendering:pixelated;object-fit:cover}
+.ico:hover{transform:translateY(-3px)}
+.ico[aria-current="true"]{box-shadow:0 0 0 3px var(--bg),0 0 0 5px var(--fg)}
+.ico:focus-visible{outline:2px solid var(--sun);outline-offset:4px}
+.empty{color:var(--muted);margin:0}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>¿Dónde está <span>Keiko</span>?</h1>
+    <span class="by">POR MNRY</span>
+  </header>
+
+  <section class="stage">
+    <div class="panel map-box">
+      <svg id="map" role="img" aria-label="Mapa del Perú con su ubicación"></svg>
+      <div class="abroad" id="abroad" hidden><img id="abroadImg" alt=""><span id="abroadText"></span></div>
+    </div>
+
+    <div class="panel card" aria-live="polite">
+      <div class="top">
+        <span class="status" id="status"><span class="dot"></span><span id="statusText">Cargando</span></span>
+        <span class="updated" id="updated"></span>
+      </div>
+      <p class="doing" id="doing"></p>
+      <div class="rows">
+        <div class="row"><span class="label">Ubicación</span><span class="v" id="place"></span></div>
+        <div class="row"><span class="label">Actividad</span>
+          <span class="v"><span class="hours">
+            <div class="live-h"><b id="nLive">–</b><small>notas de en vivos y redes</small></div>
+            <div><b id="nAll">–</b><small>notas en total</small></div>
+          </span><small>Últimos 7 días</small></span></div>
+        <div class="row"><span class="label">Siguiente punto</span><span class="v" id="next"></span></div>
+      </div>
+      <div class="headline" id="headline">
+        <span class="label" id="hMeta"></span>
+        <h2 id="hTitle"></h2>
+        <p id="hText" hidden></p>
+        <a id="hLink" href="#" target="_blank" rel="noopener">Ver nota</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel today">
+    <h2 id="todayTitle">¿Cómo le fue hoy?</h2>
+    <div class="icons" id="icons"></div>
+  </section>
+</div>
+
+<script>
+const NS="http://www.w3.org/2000/svg", $=id=>document.getElementById(id);
+const el=(n,a)=>{const e=document.createElementNS(NS,n);for(const k in a)e.setAttribute(k,a[k]);return e};
+const IMG=s=>`img/${s}.png`;
+const tz="America/Lima";
+const fmt=d=>new Date(d).toLocaleString("es-PE",{timeZone:tz,weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+const dayKey=d=>new Date(d).toLocaleDateString("en-CA",{timeZone:tz});
+function ago(d){const h=(Date.now()-new Date(d))/36e5;return h<1?"hace minutos":h<24?`hace ${Math.round(h)} h`:`hace ${Math.round(h/24)} d`}
+const txt=(tag,t)=>Object.assign(document.createElement(tag),{textContent:t});
+
+let MAP, DATA, svg=$("map"), deps=[], layer, P, selected=null;
+const proj=(lat,lng)=>[(lng-P.minx)*P.k*P.s,(P.maxy-lat)*P.s];
+const inside=(x,y,p)=>{try{const pt=svg.createSVGPoint();pt.x=x;pt.y=y;return p.isPointInFill(pt)}catch(e){return false}};
+
+function buildMap(){
+  P=MAP.proj;
+  svg.setAttribute("viewBox",`-30 -60 ${P.W+60} ${P.H+80}`);
+  const defs=el("defs",{}), cp=el("clipPath",{id:"face"}); cp.appendChild(el("circle",{cx:0,cy:-44,r:22})); defs.appendChild(cp); svg.appendChild(defs);
+  deps=MAP.deps.map(d=>{const p=el("path",{d:d.d,class:"dep"});const t=el("title",{});t.textContent=d.n;p.appendChild(t);svg.appendChild(p);return p});
+  layer=el("g",{}); svg.appendChild(layer);
+}
+
+// Dónde está: lugar de la nota si lo tiene; si no, el último lugar reportado (3 días); si no, la sede de gobierno.
+function locationFor(item){
+  if(item && item.place) return {place:item.place, note:`Según ${item.source}, ${ago(item.date)}`};
+  const lp=DATA.last_place;
+  if(lp && (Date.now()-new Date(lp.date))/864e5<=3) return {place:lp.place, note:`Último lugar reportado por ${lp.source}, ${ago(lp.date)}`};
+  return {place:DATA.default_place, note:"Sin reporte de viaje. Se asume la sede de gobierno."};
+}
+
+function drawMap(loc,state){
+  layer.innerHTML="";
+  DATA.items.forEach(o=>{if(o.place&&!o.place.abroad){const [x,y]=proj(o.place.lat,o.place.lng);layer.appendChild(el("circle",{class:"past",cx:x,cy:y,r:3.5}))}});
+  const st=DATA.states[state], abroad=loc.place.abroad;
+  $("abroad").hidden=!abroad;
+  deps.forEach(p=>p.classList.remove("on"));
+  let x,y;
+  if(!abroad){
+    [x,y]=proj(loc.place.lat,loc.place.lng);
+    deps.forEach(p=>p.classList.toggle("on",inside(x,y,p)));
+  } else {
+    $("abroadImg").src=IMG(state); $("abroadText").textContent="✈ En "+loc.place.name;
+  }
+  const nx=DATA.next&&!DATA.next.place.abroad?proj(DATA.next.place.lat,DATA.next.place.lng):null;
+  if(nx){
+    if(!abroad) layer.appendChild(el("path",{class:"next-line",d:`M${x},${y} Q${(x+nx[0])/2-40},${(y+nx[1])/2} ${nx[0]},${nx[1]}`}));
+    layer.appendChild(el("circle",{class:"next-dot",cx:nx[0],cy:nx[1],r:6}));
+  }
+  if(abroad) return;
+  const g=el("g",{transform:`translate(${x},${y})`});
+  g.appendChild(el("circle",{class:"ring",cx:0,cy:0,r:8,stroke:st.color}));
+  g.appendChild(el("path",{class:"pin-body",fill:st.color,d:"M0,0 C-6,-12 -27,-24 -27,-44 A27,27 0 1 1 27,-44 C27,-24 6,-12 0,0Z"}));
+  g.appendChild(el("image",{href:IMG(state),x:-22,y:-66,width:44,height:44,"clip-path":"url(#face)",preserveAspectRatio:"xMidYMid slice",style:"image-rendering:pixelated"}));
+  layer.appendChild(g);
+}
+
+function show(item, isCurrent){
+  selected=item;
+  const silent = isCurrent && (!item || (Date.now()-new Date(item.date))/36e5 > DATA.silence_limit);
+  const state = silent ? "posando" : item.state;
+  const st=DATA.states[state], live=state==="transmitiendo";
+  const s=$("status"); s.className="status"+(live?" live":""); s.style.color=live?"":st.color;
+  $("statusText").textContent=st.label;
+  $("doing").textContent=st.doing;
+
+  const loc = silent ? {place:DATA.default_place, note:item?`Ninguna nota desde ${fmt(item.date)}`:"Ningún medio reporta actividad reciente."} : locationFor(item);
+  $("place").replaceChildren(txt("b",loc.place.name+(loc.place.abroad?" (extranjero)":"")), txt("small",loc.note));
+
+  const n=DATA.next;
+  if(n){
+    const a=Object.assign(document.createElement("a"),{href:n.url,target:"_blank",rel:"noopener",textContent:`Según ${n.source}, ${ago(n.date)}`});
+    const sm=document.createElement("small"); sm.append(a);
+    $("next").replaceChildren(txt("b",n.place.name), sm);
+  } else $("next").replaceChildren(txt("b","Sin agenda pública anunciada"));
+
+  $("headline").hidden=!item;
+  if(item){
+    $("hMeta").textContent=item.source+" · "+fmt(item.date);
+    $("hTitle").textContent=item.title;
+    $("hText").textContent=item.excerpt||""; $("hText").hidden=!item.excerpt;
+    $("hLink").href=item.url;
+  }
+  drawMap(loc,state);
+  document.querySelectorAll(".ico").forEach(b=>b.setAttribute("aria-current",item&&b.dataset.id===item.id?"true":"false"));
+}
+
+function render(){
+  $("nLive").textContent=DATA.counts_7d.transmitiendo??0;
+  $("nAll").textContent=DATA.total_7d??0;
+  $("updated").textContent="Actualizado "+ago(DATA.generated_at);
+  const today=dayKey(Date.now());
+  let list=DATA.items.filter(i=>dayKey(i.date)===today);
+  $("todayTitle").textContent = list.length ? "¿Cómo le fue hoy?" : "¿Cómo le fue estos días?";
+  if(!list.length) list=DATA.items.slice(0,12);
+  const box=$("icons"); box.replaceChildren();
+  if(!list.length) box.append(txt("p","Todavía no hay titulares."));
+  list.forEach(i=>{
+    const st=DATA.states[i.state];
+    const b=document.createElement("button"); b.className="ico"; b.dataset.id=i.id; b.style.setProperty("--c",st.color);
+    b.title=`${st.label} · ${i.source} · ${fmt(i.date)}`; b.setAttribute("aria-label",b.title);
+    const im=document.createElement("img"); im.src=IMG(i.state); im.alt=""; b.append(im);
+    b.addEventListener("click",()=>{show(i,i===DATA.items[0]); if(innerWidth<820) document.querySelector(".stage").scrollIntoView({behavior:"smooth"})});
+    box.append(b);
+  });
+  const keep = selected && DATA.items.find(i=>i.id===selected.id);
+  show(keep||DATA.items[0]||null, !keep || keep===DATA.items[0]);
+}
+
+async function load(){
+  try{
+    if(!MAP){MAP=await (await fetch("peru.json")).json(); buildMap();}
+    DATA=await (await fetch("data.json?t="+Date.now(),{cache:"no-store"})).json();
+    render();
+  }catch(e){ $("statusText").textContent="Sin datos"; $("doing").textContent="No se pudieron cargar los titulares. Vuelve a intentarlo en unos minutos."; }
+}
+load(); setInterval(load,10*60*1000);
+</script>
+</body>
+</html>

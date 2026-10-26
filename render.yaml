@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: donde-esta-keiko
+    runtime: static
+    buildCommand: echo "Sitio estático, sin build"
+    staticPublishPath: ./public
+    headers:
+      - path: /data.json
+        name: Cache-Control
+        value: no-cache

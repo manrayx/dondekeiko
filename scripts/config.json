@@ -1,0 +1,407 @@
+{
+  "feeds": [
+    {
+      "name": "",
+      "google": true,
+      "url": "https://news.google.com/rss/search?q=%22Keiko+Fujimori%22+when:7d&hl=es-419&gl=PE&ceid=PE:es-419"
+    },
+    {
+      "name": "",
+      "google": true,
+      "url": "https://news.google.com/rss/search?q=%22presidenta+Keiko+Fujimori%22+when:7d&hl=es-419&gl=PE&ceid=PE:es-419"
+    },
+    {
+      "name": "",
+      "google": true,
+      "url": "https://news.google.com/rss/search?q=Keiko+Fujimori+(TikTok+OR+%22en+vivo%22+OR+redes)+when:7d&hl=es-419&gl=PE&ceid=PE:es-419"
+    },
+    {
+      "name": "",
+      "google": true,
+      "url": "https://news.google.com/rss/search?q=Keiko+Fujimori+(viaja+OR+visita+OR+agenda+OR+llegar%C3%A1)+when:7d&hl=es-419&gl=PE&ceid=PE:es-419"
+    },
+    {
+      "name": "El Comercio",
+      "url": "https://elcomercio.pe/arcio/rss/category/politica/"
+    },
+    {
+      "name": "Gestión",
+      "url": "https://gestion.pe/arcio/rss/category/peru/"
+    },
+    {
+      "name": "Perú21",
+      "url": "https://peru21.pe/arcio/rss/category/politica/"
+    },
+    {
+      "name": "Infobae Perú",
+      "url": "https://www.infobae.com/arc/outboundfeeds/rss/category/peru/"
+    },
+    {
+      "name": "La República",
+      "url": "https://larepublica.pe/rss/politica.xml"
+    },
+    {
+      "name": "RPP",
+      "url": "https://rpp.pe/rss/politica"
+    }
+  ],
+  "about": {
+    "any": [
+      "keiko"
+    ],
+    "with_fujimori": [
+      "presidenta",
+      "mandataria",
+      "jefa de estado",
+      "gobierno"
+    ]
+  },
+  "max_age_days": 14,
+  "max_items": 60,
+  "excerpt_words": 30,
+  "silence_hours": 24,
+  "order": [
+    "transmitiendo",
+    "entrevista",
+    "celebrando",
+    "molesta",
+    "triste"
+  ],
+  "states": {
+    "transmitiendo": {
+      "label": "En vivo",
+      "color": "#ff2d46",
+      "doing": "Transmitiendo en vivo. El país sigue en espera.",
+      "words": [
+        "tiktok",
+        "en vivo",
+        "transmision",
+        "transmite",
+        "live",
+        "redes sociales",
+        "instagram",
+        "video en redes"
+      ]
+    },
+    "entrevista": {
+      "label": "Entrevista",
+      "color": "#ffc23d",
+      "doing": "Dando una entrevista. Las preguntas incómodas quedan para otro día.",
+      "words": [
+        "entrevista",
+        "en dialogo con",
+        "declaro a",
+        "conversó con",
+        "converso con"
+      ]
+    },
+    "celebrando": {
+      "label": "Celebrando",
+      "color": "#49d17d",
+      "doing": "Celebrando. Otra vez se salvó.",
+      "words": [
+        "archivan",
+        "archiva",
+        "absuelven",
+        "absuelve",
+        "rechazan acusacion",
+        "descartan",
+        "blindaje",
+        "blindan",
+        "se salva",
+        "no procede",
+        "improcedente"
+      ]
+    },
+    "molesta": {
+      "label": "Molesta",
+      "color": "#f5781e",
+      "doing": "Molesta. Algo no salió como esperaba.",
+      "words": [
+        "reves",
+        "rechazan su propuesta",
+        "rechaza propuesta",
+        "fracasa",
+        "pierde",
+        "le niegan",
+        "niegan",
+        "traspie"
+      ]
+    },
+    "triste": {
+      "label": "Triste",
+      "color": "#5aa9ff",
+      "doing": "Triste. Las críticas llegaron fuerte.",
+      "words": [
+        "critican",
+        "critica a",
+        "cuestionan",
+        "cuestiona",
+        "vacancia",
+        "duras criticas",
+        "denuncian",
+        "protesta",
+        "paro",
+        "protestas",
+        "paros",
+        "criticas"
+      ]
+    },
+    "posando": {
+      "label": "Paradero desconocido",
+      "color": "#9a90a4",
+      "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?",
+      "words": []
+    }
+  },
+  "default_place": "Lima",
+  "places": {
+    "Lima": [
+      -12.046,
+      -77.043
+    ],
+    "Callao": [
+      -12.056,
+      -77.118
+    ],
+    "Arequipa": [
+      -16.409,
+      -71.537
+    ],
+    "Cusco": [
+      -13.532,
+      -71.967
+    ],
+    "Trujillo": [
+      -8.112,
+      -79.029
+    ],
+    "Chiclayo": [
+      -6.771,
+      -79.841
+    ],
+    "Piura": [
+      -5.194,
+      -80.632
+    ],
+    "Tumbes": [
+      -3.566,
+      -80.451
+    ],
+    "Iquitos": [
+      -3.749,
+      -73.253
+    ],
+    "Loreto": [
+      -3.749,
+      -73.253
+    ],
+    "Pucallpa": [
+      -8.379,
+      -74.554
+    ],
+    "Ucayali": [
+      -8.379,
+      -74.554
+    ],
+    "Puno": [
+      -15.84,
+      -70.022
+    ],
+    "Juliaca": [
+      -15.5,
+      -70.133
+    ],
+    "Tacna": [
+      -18.006,
+      -70.246
+    ],
+    "Moquegua": [
+      -17.194,
+      -70.935
+    ],
+    "Ica": [
+      -14.068,
+      -75.729
+    ],
+    "Ayacucho": [
+      -13.159,
+      -74.224
+    ],
+    "Huancavelica": [
+      -12.787,
+      -74.976
+    ],
+    "Huancayo": [
+      -12.065,
+      -75.205
+    ],
+    "Junín": [
+      -12.065,
+      -75.205
+    ],
+    "Cerro de Pasco": [
+      -10.683,
+      -76.256
+    ],
+    "Pasco": [
+      -10.683,
+      -76.256
+    ],
+    "Huánuco": [
+      -9.93,
+      -76.242
+    ],
+    "Huaraz": [
+      -9.528,
+      -77.528
+    ],
+    "Áncash": [
+      -9.528,
+      -77.528
+    ],
+    "Chimbote": [
+      -9.075,
+      -78.594
+    ],
+    "Cajamarca": [
+      -7.163,
+      -78.5
+    ],
+    "Chachapoyas": [
+      -6.231,
+      -77.869
+    ],
+    "Amazonas": [
+      -6.231,
+      -77.869
+    ],
+    "Moyobamba": [
+      -6.034,
+      -76.972
+    ],
+    "Tarapoto": [
+      -6.488,
+      -76.36
+    ],
+    "San Martín": [
+      -6.488,
+      -76.36
+    ],
+    "Lambayeque": [
+      -6.701,
+      -79.906
+    ],
+    "La Libertad": [
+      -8.112,
+      -79.029
+    ],
+    "Abancay": [
+      -13.636,
+      -72.881
+    ],
+    "Apurímac": [
+      -13.636,
+      -72.881
+    ],
+    "Puerto Maldonado": [
+      -12.594,
+      -69.189
+    ],
+    "Madre de Dios": [
+      -12.594,
+      -69.189
+    ],
+    "Machu Picchu": [
+      -13.163,
+      -72.545
+    ],
+    "Talara": [
+      -4.577,
+      -81.272
+    ],
+    "Paita": [
+      -5.089,
+      -81.114
+    ],
+    "Chancay": [
+      -11.565,
+      -77.27
+    ],
+    "Vraem": [
+      -12.4,
+      -73.9
+    ],
+    "Palacio de Gobierno": [
+      -12.045,
+      -77.03
+    ],
+    "Palacio": [
+      -12.045,
+      -77.03
+    ]
+  },
+  "abroad": [
+    "Washington",
+    "Nueva York",
+    "Madrid",
+    "Roma",
+    "Vaticano",
+    "París",
+    "Bruselas",
+    "Lisboa",
+    "Santiago de Chile",
+    "Buenos Aires",
+    "Brasilia",
+    "São Paulo",
+    "Bogotá",
+    "Quito",
+    "La Paz",
+    "Ciudad de México",
+    "Panamá",
+    "Pekín",
+    "Beijing",
+    "Shanghái",
+    "Tokio",
+    "Seúl",
+    "Nueva Delhi",
+    "Londres",
+    "Berlín",
+    "Ginebra",
+    "Estados Unidos",
+    "España",
+    "China",
+    "Japón",
+    "Chile",
+    "Brasil",
+    "Colombia",
+    "Ecuador",
+    "Bolivia",
+    "México",
+    "Argentina"
+  ],
+  "here_verbs": [
+    "en",
+    "desde",
+    "llega a",
+    "llego a",
+    "visita",
+    "visito",
+    "arribo a",
+    "recorre",
+    "recorrio",
+    "viajo a",
+    "aterrizo en",
+    "esta en"
+  ],
+  "next_verbs": [
+    "viajara a",
+    "visitara",
+    "llegara a",
+    "estara en",
+    "partira a",
+    "viaja a",
+    "viaje a",
+    "arribara a"
+  ]
+}

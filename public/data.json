@@ -1,0 +1,109 @@
+{
+ "generated_at": "2026-10-25T23:59:16.729280+00:00",
+ "states": {
+  "transmitiendo": {
+   "label": "En vivo",
+   "color": "#ff2d46",
+   "doing": "Transmitiendo en vivo. El país sigue en espera.",
+   "words": [
+    "tiktok",
+    "en vivo",
+    "transmision",
+    "transmite",
+    "live",
+    "redes sociales",
+    "instagram",
+    "video en redes"
+   ]
+  },
+  "entrevista": {
+   "label": "Entrevista",
+   "color": "#ffc23d",
+   "doing": "Dando una entrevista. Las preguntas incómodas quedan para otro día.",
+   "words": [
+    "entrevista",
+    "en dialogo con",
+    "declaro a",
+    "conversó con",
+    "converso con"
+   ]
+  },
+  "celebrando": {
+   "label": "Celebrando",
+   "color": "#49d17d",
+   "doing": "Celebrando. Otra vez se salvó.",
+   "words": [
+    "archivan",
+    "archiva",
+    "absuelven",
+    "absuelve",
+    "rechazan acusacion",
+    "descartan",
+    "blindaje",
+    "blindan",
+    "se salva",
+    "no procede",
+    "improcedente"
+   ]
+  },
+  "molesta": {
+   "label": "Molesta",
+   "color": "#f5781e",
+   "doing": "Molesta. Algo no salió como esperaba.",
+   "words": [
+    "reves",
+    "rechazan su propuesta",
+    "rechaza propuesta",
+    "fracasa",
+    "pierde",
+    "le niegan",
+    "niegan",
+    "traspie"
+   ]
+  },
+  "triste": {
+   "label": "Triste",
+   "color": "#5aa9ff",
+   "doing": "Triste. Las críticas llegaron fuerte.",
+   "words": [
+    "critican",
+    "critica a",
+    "cuestionan",
+    "cuestiona",
+    "vacancia",
+    "duras criticas",
+    "denuncian",
+    "protesta",
+    "paro",
+    "protestas",
+    "paros",
+    "criticas"
+   ]
+  },
+  "posando": {
+   "label": "Paradero desconocido",
+   "color": "#9a90a4",
+   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?",
+   "words": []
+  }
+ },
+ "default_place": {
+  "name": "Lima",
+  "lat": -12.046,
+  "lng": -77.043,
+  "abroad": false
+ },
+ "silence_limit": 24,
+ "last_place": null,
+ "next": null,
+ "counts_7d": {
+  "transmitiendo": 0,
+  "entrevista": 0,
+  "celebrando": 0,
+  "molesta": 0,
+  "triste": 0,
+  "posando": 0
+ },
+ "total_7d": 0,
+ "items": []
+}
