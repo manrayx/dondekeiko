@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T19:18:48.262072+00:00",
+ "generated_at": "2026-10-26T19:39:57.577009+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,17 +102,17 @@
    "lng": -77.0298,
    "abroad": false
   },
-  "source": "Expreso",
-  "date": "2026-10-26T18:24:41+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-10-26T19:24:51+00:00"
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -430,6 +430,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "679a50e8d5c9",
+   "title": "\"El orden vuelve\": Keiko Fujimori supervió la intervención de antenas ilegales en penales",
+   "excerpt": "La jefa de Estado lideró desde Palacio de Gobierno un operativo del Comando Unificado que retiró equipos de comunicación clandestina en cinco frentes",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/26/el-orden-vuelve-keiko-fujimori-supervio-la-intervencion-de-antenas-ilegales-en-penales/",
+   "date": "2026-10-26T19:24:51+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "758dee4c08d9",
    "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
    "excerpt": "",
@@ -506,6 +523,17 @@
    "next": null
   },
   {
+   "id": "42a3c0662c66",
+   "title": "Keiko Fujimori promete recuperar control de penales: \"No habrá señales ilegales\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHNWUm9xT2NRZ3Y2eEN6dGNzYnR0T2Q4ck5QQktwQloyT1J4MVNaS29PajJUb0ZuOGN0dU5ucVBzNUZmOVZ0TWlKbjZwSlpWb2VsZDA0R0FXLW1YVEJ4cVVVdU5qRXllQW9lWGZpQ0pVU0RSRnZOOHhobXBrN05HODB2UEM?oc=5",
+   "date": "2026-10-26T16:02:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c3b7b8e5f16b",
    "title": "Keiko Fujimori agrega puestos de Imagen en Palacio de Gobierno",
    "excerpt": "",
@@ -568,6 +596,17 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX18xS3BGamlIWHRXWlhxVzFnSHdIcVNuWDBLMm82Rl9yWExTaThDRHNhdUYzQ0xKQmxvWmo1TjVCSTExczFYbTRWUjl2M2JQTmJ6SlRLdTRJWkV3WlhKUEw4Q09nWXZtVWRYWWdtY3YtVUV6S0toZjJWTTJzWExiSnFRTW9VMFo1RW5QZV9KekVYSW8xd1p3NzB3ajhmUQ?oc=5",
    "date": "2026-10-26T14:39:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1635486f4578",
+   "title": "Keiko Fujimori asegura ante golpes del fenómeno de El Niño: \"Será una mega respuesta la que el Estado va a dar\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEFDUHdZTFNYdGpEQUpkMEtUVUJBa0w5WUZTaXQyaFF4MlNpSFg2ZDJCVTlKZ09wSzVSYzZnNFI0cnEzQ19pbVQwZ1VhSFVVbWdXMFUzbjhJSmtDN1ByZWlXSGF6dnRzeDU0dE1aLU1kTV9vSndVc2Y4SE1lSWxHTzJnb2MxZGI5WUNmRlJB?oc=5",
+   "date": "2026-10-26T14:11:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -658,6 +697,17 @@
    "next": null
   },
   {
+   "id": "319c9881dfb7",
+   "title": "Keiko Fujimori felicitó a Lula da Silva por su reelección y llamó a fortalecer la alianza estratégica bilateral entre Perú y Brasil",
+   "excerpt": "Tras confirmarse el triunfo del mandatario brasileño sobre Flávio Bolsonaro, la presidenta peruana destacó la cooperación fronteriza y el desarrollo sostenible de la Amazonía en el marco del bicentenario diplomático",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVElpS3lCNzJTRllEMzc3NWN1aUJqaEo0aXBTQ29YdUhxdTZ2R2lCcFBoT2pxZzg5R2M5V0F0X0tiOUFsNnVGelZCWU9FOVI3NVgzNnBhSnFLeGoyajZZeFNndEFGZTZaWXpjVTNqUU9RU21EZ2ROcThoeU1tZzFnZ0dkWndLdTFSemhnQnJSa0VGaEx2VnRnX1MtV3ozV3hGY0o0eEdnYV9vdkxkQmlWbG5HWjI1RVgxZnp5amZCTGdVdnIydEY4dGZCbndFOEtZTWQwOEJQNkJ0TUlCSmhLYi1mTk96Q3dQZWdqclJaMXI2LW9lYm1nN0paOEc4ek1xUVHSAZwCQVVfeXFMTjBjOEZjRER3UHNQSVNnV283eWoxUC1Ca2RRbUtWSTQ4NG5sUV9rbFE5S0lZUnRNUUtCa0ZKbERHLWtRUlJaMVBiY2VTSURiTV82OF9haGFaREJxTGExLXI3SlVmR1FFMEJKekZTMWxqeWMxbDVsUU1Qd3FqcU1xeGhkNVhDb0w0bE1XdHQzcHphQ1B4eFBxVmVmdUtoYVh2NnhtVTVKaEJDcUVMcVZNZGh0eEY2YUxJLWEwcnZ0emNiYXNvTWUzdnQ3eFZoWTdRb2w5cTBOOGNILVNwRlhKYUlfcGgtcHowdXpHTldrNFJnWHk3Q0ZoaUhXQ1ZRLXZWWE5jSERUNTJlN0lCbVBkRE5JeHh0QXB6SU9HZTY?oc=5",
+   "date": "2026-10-26T03:16:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3edcb5d7c85b",
    "title": "Presidenta Fujimori felicita a Lula da Silva por su reelección y ratifica alianza estratégica entre Perú y Brasil",
    "excerpt": "",
@@ -701,17 +751,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-recibe-facultades-cuales-seran-los-primeros-decretos-legislativos-que-se-daran-apuesplan-noticia/",
    "date": "2026-10-26T02:20:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "319c9881dfb7",
-   "title": "Keiko Fujimori felicitó a Lula da Silva por su reelección y llamó a fortalecer la alianza estratégica bilateral entre Perú y Brasil",
-   "excerpt": "Tras confirmarse el triunfo del mandatario brasileño sobre Flávio Bolsonaro, la presidenta peruana destacó la cooperación fronteriza y el desarrollo sostenible de la Amazonía en el marco del bicentenario diplomático",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/26/keiko-fujimori-felicito-a-lula-da-silva-por-su-reeleccion-y-llamo-a-fortalecer-la-alianza-estrategica-bilateral-entre-peru-y-brasil/",
-   "date": "2026-10-26T02:20:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1106,47 +1145,20 @@
    "next": null
   },
   {
-   "id": "2b3fa157c98f",
-   "title": "¡Y AHORA LLORA ROSPIGLIOSI! Keiko Fujimori Le Destruye Su Trampa Legal En VIVO Harrison Barnes (SHMff0mY4z)",
+   "id": "2ced5e4832a2",
+   "title": "Presidenta Keiko Fujimori en Junín: “Una obra de esta naturaleza le cambia la vida a la gente”",
    "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkh6QVdQcExvbHRoNERaV1cydXpHU1ZjeHF4UVQ1b1EzVWM2Ny1kbzBiTTJ4ckRIVmxZT2ozNlE0SERSZW1SbGNoTFdJWmtnbnhkdGNzUU5vY1FMQlJVNHFyVldvOGZhQnRvZWY0Y0M2d1d6UHd6TW56V0ZMaFJpUXdB?oc=5",
-   "date": "2026-10-24T23:28:35+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "55913eb31fe6",
-   "title": "Keiko Fujimori presenta como logro el retorno del Tren Macho, pero solo circulará los lunes",
-   "excerpt": "",
-   "source": "hytimes.pe",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlExTDB4UDVPdXZkVmVUbGtyQUZIcDVQc1dFejAxMnJ4U01KdTMwb2Y2clVudktZaXp5NGdkME5WWHNhNEswREl6bXY2a19vODB2bXNSUDhKWTA1cy02bkZ4cFR2T0EyekEtenJveG55Q2o1MHpMREUtQlB5SUdoWDFZWXMwb1VUaWdFbWlxcXpPLWRONGRuNDQwRXNFdWxKRDlOX2wxUEpHUWc5Y0U4?oc=5",
-   "date": "2026-10-24T23:07:43+00:00",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTJwUE56QVRkSTNiMjN6aTM3QVpVblp6MFRfWjVqdUF0Mzk1UnNISFRpVVJrOEtFZERDXzI3MTZTYUVLT2Y2UDNBSGJqSml1SGVGamhMWW55N2pMdFZFc3BPS1lMWXd4R0Fob2FlYkY1MVhWNW1jUWZsdWE2NjRpdFRSTkk0ZUJuUXJXMDhMTm9RZUdXQ2d3a2IwcVRJb0t2azZFeTBTU0I2WG5TWUVNWXVBc0lrdWpmOUE3TmllNXBZSVdvTVZiZHlB?oc=5",
+   "date": "2026-10-24T23:44:00+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5d6463df107e",
-   "title": "¡KEIKO SE VA A LA CÁRCEL! PERO DE VISITA: CONOCERÁ LA MEGACÁRCEL DE BUKELE",
-   "excerpt": "",
-   "source": "Noticias Trujillo 60",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzdxR3BFZUdWclRSN3NvTGxRQnJGSWpsUUIzQ0dqNWdmTFlLMmxYa1VrTVJGTHJlM0hpVG9MYjMxVjlfd2ctdnFfdEp3RGwzN0tTQTBnaGZ3MndodkFySWJ3RG1HaTZYMmRldGVzenowaGd3cXdGVFBsVzFCdklwbENOelFuaTItanVLSzBRd1k?oc=5",
-   "date": "2026-10-24T22:26:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "807fa06bbea3",
-   "title": "“Tren Macho” vuelve a operar tras un año paralizado: ¿qué anunció Keiko Fujimori?",
-   "excerpt": "El histórico Ferrocarril Huancayo-Huancavelica, conocido como el Tren Macho, volvió a operar tras un año de paralización. Este sábado, la presidenta Keiko Fujimori, encabezó la reactivación del servicio en el…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/tren-macho-vuelve-a-operar-tras-un-ano-paralizado-que-anuncio-keiko-fujimori-noticia/",
-   "date": "2026-10-24T22:15:21+00:00",
-   "state": "posando",
-   "place": null,
+   "place": {
+    "name": "Junín",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false,
+    "city": "Junín"
+   },
    "next": null
   }
  ],
