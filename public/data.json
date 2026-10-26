@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T22:31:50.877509+00:00",
+ "generated_at": "2026-10-26T22:53:36.515448+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,8 +111,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 58
+  "triste": 0,
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -430,12 +430,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1ff72610a9bb",
+   "title": "Keiko Fujimori celebra confirmación de visita del papa León XIV al Perú y destaca el cariño de los peruanos",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjdOYkRtY21JNkVsWF9FclRPc0J3VUFDbFpvWHZzTk1VaTNSNjJNcGdsYjUwNmFoMk8xdmxkT1d5emJpLXFHbEcwTUtBeXhOSWc3S3o1ZG9fYkViMml0WUpteTBiajJWZmZmemVCbHNlNzhaellzRmpxNFZEZDkyelVYZHNQY1Fzek9EaWNXQVBVRDdBdDQzNnRvRUUwWXBHRGdWX3JSd3RneWZBX1RQZ0EtXzRTTUpYdnd5YUdsVE5sVkRQTVU5YUdCQWNWM09WUS13VXRUaGdwTmZ1NlHSAfIBQVVfeXFMT0xoZW5MWF8yc01BLVZwckdUYkJidzVJM0tCZkxDM0JmVG1ZQmkycl84TkNJUVJUMFRJUEpMUWItSlBqM0pEaUFTSWdITFZwZ3JtMFhNb2ZDbmI0d0lGaHhUZDZwN0JSSFk5bUNaRDg0dWhjd2tNM3pzVUdQZ0owSnVnRllHdHZPQlM3aVVRTFF1WHFUbVpOTGR2Vm9lWWVxZzk3aEFTOHkxa1Q0MXdWeHMwWjZjVGhjTFVEWVpPc0hrUlNQbUVCN2o4c19PRW5nSHlxUkpjM1FIV1NMcVlTcUhicDQyOGJBaXpmYXFVVWU1eWc?oc=5",
+   "date": "2026-10-26T22:39:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4b372d58f33b",
    "title": "Keiko Fujimori se pronuncia tras confirmarse visita del papa León XIV al Perú: \"Lo esperamos con los brazos y corazones abiertos\"",
    "excerpt": "",
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYnNGdVNKZzFJUHRGSUhUbHR4WFVvWXAtR1NGckZTNkNhd2Zpa2o5U05sOURIQUxMNy0wTEpyNXBsYkxZWjg2WURSUk9HWkxqZjVSS1JQNDdMV2JOUTJtcHRPMjVheFdrQlJGVUk4SUFUcFNlVmt3bmVkbkM1Q1kwbmw0ckNsSEM3VHE0Mm04dFlsb0h6TU9CdmJuZDAwN2dnS2p0ejdWdVk1RWcwOHhuY0xQdjhZNVNIV0t5WFZHRkVWMUVhWVZERVdHdXJtb21GVFhQVU1DQ0Q1eDRZYmwwZGpLSUZUWkpzNXVLX1gxbVo0VEtjYS1OWUlSNnZodzBNVTVmYXFneFFzMklpY1E?oc=5",
    "date": "2026-10-26T22:25:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "08bb1e00dbb2",
+   "title": "Keiko Fujimori celebra visita del papa León XIV",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd29CUXFUek5PakVXdE41cTZ2TDlfUEpCOU5Pc3NjWHplR3V0VWpzYmFDeFhxOUVBcUxvUUtaOHFrcW10MzBTeVBITFNUTkN1UFEwUWE0YWNEX2ZEbGY0aGVsZU5CV3BrUkxvMjc3STJTazNFTDIzSTM3RDVaVHVmbXM1b1JaRC1ycEZGR0lRRVIyZ0JKUmVPRmFnbHIxTFkyeTdWcW1tZVRiMEdu0gGyAUFVX3lxTE1kazhXUlI4ZEszemRncTJZbHl6SnlUTkNwSDEzTFhhdjBpekp3ZUFqSXhnOENsT1JEWmhXQXBuemV5ZkZhSUJLZDN5d2d0eTJ0blR1Tko1MjVNdmJVUE50RUZ2ZGhleF9tMGdUcEVERnRTMVMtek9NNmlsb0VYY2lXYk51N2VUSjdsLVFrUXpfTW8zR2V4SGtQQXVNT1BaV3NYbWlJVW9kZlRyZG1QY1NKa1E?oc=5",
+   "date": "2026-10-26T22:22:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -458,6 +480,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/26/jose-gavidia-justifica-su-apoyo-al-oficialismo-tenemos-que-confiar-en-nuestro-gobierno-hnews-1345682",
    "date": "2026-10-26T22:12:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5efe9d989c92",
+   "title": "Keiko Fujimori expresa alegría por próxima...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjZqbzE0WGZVNUJsUnZ6cXJMdFlGS1FxNkJoZm9Ra2lrdXl5dS0wWnRfN2UxWllPWkVtNVdOQllyT3JZYnlzeXVmWXdpQkpyV3hqaFNSZFRWTGE4V2RCUnhsNFdBa1lTa25pNkZsQ2ZMaEkwVVhIVE9PREx3MnduSnVobU1HVUFwRHhqUHdRc2xkUmQ4VDdNdzFJSVExTzFOR1dMdmp5VDdXeG010gGsAUFVX3lxTE9mNmpvMTRYZlU1QmxSdnpxckx0WUZLUXE2Qmhmb1FraWt1eXl1LTBadF83ZTFaWU9aRW01V05CWXJPcllieXN5dWZZd2lCSnJXeGpoU1JkVFZMYThXZEJSeGw0V0FrWVNrbmk2RmxDZkxoSTBVWEhUT09ETHcyd25KdWhtTUdVQXBEeGpQd1FzbGRSZDhUN013MUlJUTFPMU5HV0x2anlUN1d4bTU?oc=5",
+   "date": "2026-10-26T21:56:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -511,7 +544,7 @@
    "title": "Keiko Fujimori felicita a Lula da Silva por su reelección y plantea fortalecer la cooperación con",
    "excerpt": "",
    "source": "Diario Sin Fronteras",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRjBTNDhhZ0NhcF9TbmNzb3d1VklWTW1kbjNkejhGSzhZYy0weVV1Rl9iT2FiNlhYRDJuNUpONk1pTnVUU1lBbWFuOTdITk51ZFhMWDRfSFo2aUx0dTNScUVoT3ZuQkxMeEtoZjVrR2VBZUpBWm5aZDdmd0I2RFZGWlFzMEppWVlyTFk1Ui1vYlBfZGZqQWFPV0lRLVFBZUszUnZxM2prYkVLd09NX0Jtc0RLRXd3M3VVbC00WUIzSVpzSGNNZzRlUC16SHVsOFQzbENqR3FxLVEwdURsOU5WSWxKb07SAeoBQVVfeXFMT21QajhLTThPeDhDZHdWWWxyWGprX3N4bUFiWmRZRm91eHpTQy1VX3FGNU5ZVGp4RWU2bTRkWWY1MVJFZlphbml6TDNfeXVqSEtrb2QyQV94MW1wOWdsaWE0MHcwN3RDckVaNU40dlJuTDFPWkhxRFFZZHZDMHd6ODlXdVZWbG9WYUZTX3FwZ0oyNmZsTFgwdXVFS2haeTJwczFzQ3BFZGxrUW9RdjNjRy1iQ3h3emdZd2pxQUI5bEFnSFE0TklYRUpscFBmRll5S1pfNW5GVjdyWHluVW1XcGJVSHg2TWVRWDZn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbVBqOEtNOE94OENkd1ZZbHJYamtfc3htQWJaZFlGb3V4elNDLVVfcUY1TllUanhFZTZtNGRZZjUxUkVmWmFuaXpMM195dWpIS2tvZDJBX3gxbXA5Z2xpYTQwdzA3dENyRVo1TjR2Um5MMU9aSHFEUVlkdkMwd3o4OVd1VlZsb1ZhRlNfcXBnSjI2ZmxMWDB1dUVLaFp5MnBzMXNDcEVkbGtRb1F2M2NHLWJDeHd6Z1l3anFBQjlsQWdIUTROSVhFSmxwUGZGWXlLWl81bkZWN3JYeW5VbVdwYlVIeDZNZVFYNmfSAeoBQVVfeXFMT21QajhLTThPeDhDZHdWWWxyWGprX3N4bUFiWmRZRm91eHpTQy1VX3FGNU5ZVGp4RWU2bTRkWWY1MVJFZlphbml6TDNfeXVqSEtrb2QyQV94MW1wOWdsaWE0MHcwN3RDckVaNU40dlJuTDFPWkhxRFFZZHZDMHd6ODlXdVZWbG9WYUZTX3FwZ0oyNmZsTFgwdXVFS2haeTJwczFzQ3BFZGxrUW9RdjNjRy1iQ3h3emdZd2pxQUI5bEFnSFE0TklYRUpscFBmRll5S1pfNW5GVjdyWHluVW1XcGJVSHg2TWVRWDZn?oc=5",
    "date": "2026-10-26T20:21:36+00:00",
    "state": "posando",
    "place": null,
@@ -624,6 +657,17 @@
   {
    "id": "a3628afc1170",
    "title": "Paseo de Comitiva que acompañará a Keiko en El Salvador nos costará más de US$ 24.000",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUM5NGlTcHl0TTBZMUJMaU40U3BvdXhCbjJvZDVaMU5ZRFdkLVFCOHcyYTRJMnJaNThGVnp2bE9YZjVTYWdnN00xdzJvWTF5UmVKc3dJVnM4LXN6WldER18xdWs4ODQtLWoxSkt5cVVwMk1PLWFkY3FNb3YxMUhlVDJXaU1BVUpQcEwxX3VETlNDMHRQaTZHTS1TcExOQXZOTmEwVHFlVG9jaGFRNnFRTlh6Tm5EQjg?oc=5",
+   "date": "2026-10-26T16:41:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "eced39f786da",
+   "title": "Paseo de Comitiva que acompañará a Keiko en El Salvador costará más de US$ 24.000",
    "excerpt": "",
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUM5NGlTcHl0TTBZMUJMaU40U3BvdXhCbjJvZDVaMU5ZRFdkLVFCOHcyYTRJMnJaNThGVnp2bE9YZjVTYWdnN00xdzJvWTF5UmVKc3dJVnM4LXN6WldER18xdWs4ODQtLWoxSkt5cVVwMk1PLWFkY3FNb3YxMUhlVDJXaU1BVUpQcEwxX3VETlNDMHRQaTZHTS1TcExOQXZOTmEwVHFlVG9jaGFRNnFRTlh6Tm5EQjg?oc=5",
@@ -1095,50 +1139,6 @@
    "source": "Unisba Media",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uTU50Q1NGRFk3VzV5Y3N4ZXZyX2UyNFFWYWloUDBTb0E0S1dydmpmdWcwZVpyTmVmX0JnQ1YyZHR5TTFHalZvRVMwbmhHVnlxLXc3czc5N3lMdV9adGFWY0xxQnpVZw?oc=5",
    "date": "2026-10-25T14:29:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d65bf00cfc5c",
-   "title": "¡Jóvenes en las calles!: Masiva protesta nacional en rechazo a Keiko Fujimori y a su gobierno (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzg1VG93ZUcwTGxlM1BoaG5vOUN3OFFuWGc3Wmg2Mmd0dUxLaEp4RnVYS1I5VTB2Qy14RnU0bEVkYVV6Zmkxd1BxMHozZkg4MEZxVFIwenBBVlQ5TkpBdUxEOUFZV1dxVEVSdUFmUEs4SnFRRE5TVWdLeGhMdUJqbnFGN3FzTDdvR0JUcXVxUTdrY0o4eUFjX1l1RzNGU2gwem8tamg5UzlkUWM4X3RLelBkRTN3aDNMbTRqZHdKc18?oc=5",
-   "date": "2026-10-25T14:26:22+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "60d0900cf09c",
-   "title": "Keiko Fujimori Acudió A Zona Del Incendio En Cercado De Lima #ECONOMIAXTODOS Mediaset (Uw6pPRlZF7)",
-   "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wRGZfd0p4MVBLOFpGWUE5Wkxjamt5M1c2TDdhV3Y5WXEtNWZZT0d3WWo2NHpOR1dLb2dOblNFZDZSUExteFB4MjlxQmNycnpEOG04V3Z1VFo1UU1kTnc2bFNfQ1JhT1hubm1Z?oc=5",
-   "date": "2026-10-25T14:00:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3661cf701829",
-   "title": "Crece la desaprobación de Keiko Fujimori, del premier Luis Galarreta y el resto del gabinete",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGdoRXRiX1RjX3Y0NEdJa3dGNzFCZmRHbHJFeE40SGpIRXBrS2FQMkFhU2dBUWxXV09mSldJQWZRZFNHZXJBVjBKWU5lb19jRGtlcTN0ZXFNTWkxXzZBNzBHbE90NTRJUUNLcVBDcWtBU3dxQkdZRV85bjA2MnJlaG5YSURyQ3RDUGFMVjh3Uzl1akk?oc=5",
-   "date": "2026-10-25T13:50:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "118c110f041f",
-   "title": "Gobierno publica resoluciones que autorizan viaje de Keiko Fujimori a El Salvador junto a Delegación de Avanzada del Despacho Presidencial",
-   "excerpt": "La Presidencia del Consejo de Ministros (PCM) y el Ministerio de Relaciones Exteriores autorizaron, mediante dos resoluciones ministeriales, el viaje de integrantes de la delegación presidencial y de un funcionario…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/gobierno-publica-resoluciones-que-autorizan-viaje-de-keiko-fujimori-a-el-salvador-junto-a-delegacion-de-avanzada-del-despacho-presidencial-ultimas-noticia/",
-   "date": "2026-10-25T13:41:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
