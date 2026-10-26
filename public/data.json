@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:16:49.585278+00:00",
+ "generated_at": "2026-10-26T14:38:34.917947+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -464,6 +464,17 @@
    "next": null
   },
   {
+   "id": "5b3306dc85e8",
+   "title": "Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
+   "excerpt": "",
+   "source": "perucheck",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTkt3b2hTa0dPNXp6Undsc1ZXZ1Vlak9rOUpCc3d2WEEyTkpJMlpQRUhpOHZiOUhyc204QktGdlJkY0ZzN2Rjc1QxZkQ5N0s3RldnbEMtVWZLa1h1bHNZbERBSEd1QmRqbTNQaUhjYkxXdzcyeXlpZXIybmxLRFNNeXRBVmRFXzA0ZkNVMHZ6RzZJRHhQNUR4Z3JwRFEzQ2xmUjByeHJ6WWtuUkhPZ1VyNXdmSEFWdHRjSFdrbnFJd05McUpjQ1p0ZEpCSDJ1T3c5MmlJVFM3bXRRbGZsQTNKTWU3Wi01QUNzZkpLS0VFXzlkUElqdEVV?oc=5",
+   "date": "2026-10-26T13:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "744d9986d7f3",
    "title": "Keiko Fujimori saluda la victoria de Lula y...",
    "excerpt": "",
@@ -872,6 +883,17 @@
    "next": null
   },
   {
+   "id": "ebcd4337c3cc",
+   "title": "Jóvenes de Ica marchan contra el Gobierno de Keiko Fujimori y exigen respuestas ante la inseguridad y los incendios",
+   "excerpt": "",
+   "source": "La Lupa",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkZKakNyb3NySjZ2MkdHb3k2ZExvNDdwSjVYSlJ1VlJfaUxfYXEwa0x4ZFpDcUVDaGtuVVBBZjFubnZvWmI2eGVHYmM2Zm05eUVGT0EtMlRFcXUyNUJSYnhOUlZfNDh3WTNzSUk4Ny1HQWNLVnNzaVU1anNCQWp5RUdVLVU2dE42UDBqcjFfRW44cUtPS2pLdDJVUDJqbFdQWXB5RUxRRUNEUktNX0RQcWlQNFhGUHVoTnAwXy16WC1PMTBlUVc4YU4zNllFV3RoaWRVUUJsd0tCdzNo?oc=5",
+   "date": "2026-10-25T06:52:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
@@ -1106,28 +1128,6 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV3o1MUFSTzVEdDVPRzFnRlh4N0hXVXp0OVpNRzRhN1BNay1VNEZBR0U0ZWhMOTFheFB6eWFPZlFmb0tqWWtRMjd3Zk5wSUMxQU1RQ1hlX0Q5WGZsVk1WOEJvUEFENVM1SGthSnBWM29ybHlyMmJNMzJpSWNVRFJoUGFoSERpQl9fTHdjd3FscTNaQWZiaEt5MUtmaENHemhfQlFsVk40cldESkxOdVRoMXpWbGNlc2ppcnZxSlAzOWtrTWxjeUtKMHhfdDE?oc=5",
    "date": "2026-10-24T17:21:41+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b7c6f393ce2f",
-   "title": "Keiko Fujimori: “Lo que ha faltado es decisión política para ejecutar las obras”",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS05lNjNxMTd3UFdOQm1XMlZCMmE1WU5sZG1zS2JBcnpOQndzVmd5d1JaRDZ4QmVETnFTOEh5ZkdGUTZhUndhcmtMa1FmektqR3lqTEg1ZWxRdVhaeEpjTlV1NnA2bHpvX0xkMFpjb3diUXNZT2xoQnc3N3hIakxoLTBjVElUZTRlTkhCNDlkLWEyR1BmdmJwX2w4a1picFRxR0FYUg?oc=5",
-   "date": "2026-10-24T17:12:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d72e68d5ad35",
-   "title": "Ministro de Justicia acompañará a la presidenta Keiko Fujimori a El Salvador",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWNERExwVU9PbjlMM2lDWmU0SE5CXzNMMnpXdG5SVlFZbnB2MFRJZF9tQjlFOFVBeVhPQkVhNVdJbFZ4M1dRUzY2aVRfY0drNDRLN0hRVFRpSTV1N0t1MW1GalhsRHN1VmxqSjZmdWlKbzRNd1h0ejNwTDIwRHZFTGZYUGdMWUR3aVVHbl9ZTkFFQmdiN0N0RzZXTTk0NDl1bHZGa3dR0gGmAUFVX3lxTE1tY0RETHBVT09uOUwzaUNaZTRITkJfM0wyeld0blJWUVlucHYwVElkX21COUU4VUF5WE9CRWE1V0lsVngzV1FTNjZpVF9jR2s0NEs3SFFUVGlJNXU3S3UxbUZqWGxEc3VWbGpKNmZ1aUpvNE13WHR6M3BMMjBEdkVMZlhQZ0xZRHdpVUduX1lOQUVCZ2I3Q3RHNldNOTQ0OXVsdkZrd1E?oc=5",
-   "date": "2026-10-24T16:42:05+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
