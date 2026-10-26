@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T20:00:59.072291+00:00",
+ "generated_at": "2026-10-26T20:44:13.460682+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -547,6 +547,23 @@
     "lat": -12.04491,
     "lng": -77.0298,
     "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-10-26T15:15:39+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
    },
    "next": null
   },
@@ -1142,17 +1159,6 @@
     "abroad": false,
     "city": "Junín"
    },
-   "next": null
-  },
-  {
-   "id": "2b3fa157c98f",
-   "title": "¡Y AHORA LLORA ROSPIGLIOSI! Keiko Fujimori Le Destruye Su Trampa Legal En VIVO Harrison Barnes (SHMff0mY4z)",
-   "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkh6QVdQcExvbHRoNERaV1cydXpHU1ZjeHF4UVQ1b1EzVWM2Ny1kbzBiTTJ4ckRIVmxZT2ozNlE0SERSZW1SbGNoTFdJWmtnbnhkdGNzUU5vY1FMQlJVNHFyVldvOGZhQnRvZWY0Y0M2d1d6UHd6TW56V0ZMaFJpUXdB?oc=5",
-   "date": "2026-10-24T23:28:35+00:00",
-   "state": "transmitiendo",
-   "place": null,
    "next": null
   }
  ],
