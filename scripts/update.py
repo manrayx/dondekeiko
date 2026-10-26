@@ -11,7 +11,10 @@ import html
 import json
 import pathlib
 import re
+import time
 import unicodedata
+import urllib.parse
+import urllib.request
 
 import feedparser
 
@@ -72,11 +75,92 @@ def find_place(t, verbs):
     return None
 
 
+VENUE_TYPES = sorted(CFG.get("venue_types", []), key=len, reverse=True)
+CAP = r"[A-ZÁÉÍÓÚÑ][\wÁÉÍÓÚÑáéíóúñü.'-]*"
+VENUE_RE = re.compile(
+    r"(?<!\w)(?:en|desde|visitó|visita|llegó a|llega a|recorrió|recorre)\s+(?:el |la |los |las |al )?"
+    r"((?:" + "|".join(re.escape(v) for v in VENUE_TYPES) + r")(?:\s+(?:de|del|la|las|los|el|y|" + CAP + r"))*)"
+) if VENUE_TYPES else None
+GEOCACHE = {}
+GEO_BUDGET = [12]  # consultas nuevas por pasada, para respetar el servicio gratuito
+
+
+def geocode(query):
+    key = norm(query)
+    if key in GEOCACHE:
+        return GEOCACHE[key]
+    if GEO_BUDGET[0] <= 0:
+        return None
+    GEO_BUDGET[0] -= 1
+    url = "https://nominatim.openstreetmap.org/search?" + urllib.parse.urlencode(
+        {"q": query, "format": "json", "limit": 1, "countrycodes": "pe"})
+    result = None
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "DondeEstaKeiko/1.0 (github.com/manrayx/dondekeiko)"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            rows = json.loads(r.read().decode())
+        if rows:
+            result = [round(float(rows[0]["lat"]), 5), round(float(rows[0]["lon"]), 5)]
+    except Exception as ex:  # noqa: BLE001
+        print(f"Geocodificación falló para {query}: {ex}")
+        return None
+    time.sleep(1.1)
+    GEOCACHE[key] = result
+    return result
+
+
+def find_venue(raw):
+    if not VENUE_RE:
+        return None
+    m = VENUE_RE.search(raw)
+    if not m:
+        return None
+    words = m.group(1).split()
+    while words and words[-1].lower() in ("de", "del", "la", "las", "los", "el", "y"):
+        words.pop()
+    name = " ".join(words).rstrip(".,")
+    if name == "Palacio":
+        name = "Palacio de Gobierno"
+    return name if len(name.split()) >= 2 or name in ("Congreso", "Vaticano") else None
+
+
+def locate(title, summary):
+    """Lugar donde estuvo: el sitio exacto (santuario, plaza…) si la nota lo nombra; si no, la ciudad."""
+    for raw in (title, summary):
+        if not raw:
+            continue
+        t = norm(raw)
+        city = find_place(t, CFG["here_verbs"]) or find_place(t, ["en", "de"])
+        venue = find_venue(raw)
+        if venue:
+            if city and city.get("abroad"):
+                return {"name": venue, "city": city["name"], "abroad": True}
+            extra = ", " + city["name"] if city and norm(city["name"]) not in norm(venue) else ""
+            coords = geocode(venue + extra + ", Perú")
+            base = city or {"name": None, "lat": None, "lng": None}
+            if coords:
+                return {"name": venue, "city": base["name"], "lat": coords[0], "lng": coords[1], "abroad": False}
+            if city:
+                return {"name": venue, "city": city["name"], "lat": city["lat"], "lng": city["lng"], "abroad": False}
+        here = find_place(t, CFG["here_verbs"])
+        if here:
+            return {**here, "city": here["name"]}
+    return None
+
+
 def entry_date(e):
     for k in ("published_parsed", "updated_parsed"):
         if e.get(k):
             return dt.datetime.fromtimestamp(calendar.timegm(e[k]), dt.timezone.utc)
     return None
+
+
+def next_place(title):
+    """Próximo destino: solo si el propio titular habla de ella y usa un verbo en futuro."""
+    t = norm(title)
+    if not any(has_word(t, w) for w in CFG.get("subject_words", [])):
+        return None
+    return find_place(t, CFG["next_verbs"])
 
 
 def collect():
@@ -90,10 +174,14 @@ def collect():
         report.append(f"{len(d.entries):>3} entradas · {f.get('name') or 'Google Noticias'} · {f['url'][:70]}")
         for e in d.entries:
             title = clean(e.get("title"))
-            medio = f.get("name") or clean((e.get("source") or {}).get("title", ""))
+            src = clean((e.get("source") or {}).get("title", ""))
+            medio = f.get("name") or src
+            if src in CFG.get("exclude_sources", []):
+                continue
             if f.get("google"):
-                if medio and title.endswith(" - " + medio):
-                    title = title[: -len(medio) - 3]
+                for suffix in {src, medio}:
+                    if suffix and title.endswith(" - " + suffix):
+                        title = title[: -len(suffix) - 3]
                 summary = ""  # Google Noticias no trae extracto propio del medio
             else:
                 summary = excerpt(clean(e.get("summary")), CFG["excerpt_words"])
@@ -108,13 +196,18 @@ def collect():
                 "title": title, "excerpt": summary, "source": medio or "Medio",
                 "url": e.get("link", ""), "date": date.isoformat(),
                 "state": classify(t),
-                "place": find_place(t, CFG["here_verbs"]),
-                "next": find_place(t, CFG["next_verbs"]),
+                "place": locate(title, summary),
+                "next": next_place(title),
             })
     return items, report
 
 
 def main():
+    if OUT.exists():
+        try:
+            GEOCACHE.update(json.loads(OUT.read_text(encoding="utf-8")).get("geocache", {}))
+        except ValueError:
+            pass
     fresh, report = collect()
     print("\n".join(report))
 
@@ -157,7 +250,9 @@ def main():
                  "title": upcoming["title"], "url": upcoming["url"]} if upcoming else None,
         "counts_7d": counts,
         "total_7d": sum(counts.values()),
+        "silence": CFG.get("silence"),
         "items": items,
+        "geocache": GEOCACHE,
     }
     # Si solo cambió la hora de generación, no reescribir (evita commits vacíos).
     if OUT.exists():
