@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T15:43:06.036631+00:00",
+ "generated_at": "2026-10-26T16:04:44.976708+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Brasil",
-   "abroad": true,
-   "city": "Brasil"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "Gestión",
-  "date": "2026-10-26T14:10:02+00:00"
+  "source": "Noticias Trujillo 60",
+  "date": "2026-10-26T15:43:18+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -119,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-26T08:20:00-05:00",
+   "end": "2026-10-26T09:45:00-05:00",
+   "minutes": 85,
+   "subject": "Da inicio y luego balance de la intervención simultánea de estaciones ilegales y antenas clandestinas de telecomunicaciones en alrededores de establecimientos penitenciarios de Lima, Callao y Andahuaylas que realiza el Gobierno como parte de las acciones del Comando Unificado.",
+   "lugar": "Desde Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Desde Palacio de Gobierno",
+    "full": "Desde Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-10-25T11:00:00-05:00",
    "end": "2026-10-25T12:10:00-05:00",
@@ -408,9 +426,43 @@
    }
   }
  ],
- "agenda_minutes_7d": 704,
+ "agenda_minutes_7d": 789,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "c3b7b8e5f16b",
+   "title": "Keiko Fujimori agrega puestos de Imagen en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Noticias Trujillo 60",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnQ5czM5S3JlMThTNHlTXzdWV3U2UjE2ZzBOV2UyckVmZFlZcXJWeGJleTlNcEhOdTJpS2ppODFKNHFGSHNPdkhsenNfOV9IcnNSQk9Tc2lIeVYxV3Z4MUtuaWgwcTVFa00zYWpUWHExd1BIQTU0aTFoYTJvcloyM1c0TE0?oc=5",
+   "date": "2026-10-26T15:43:18+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-10-26T15:15:39+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
+   },
+   "next": null
+  },
   {
    "id": "58e76dfa8d06",
    "title": "Gobierno realiza operativo para quitar antenas de telecomunicaciones clandestinas en penales",
@@ -1108,28 +1160,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "decf168a8bce",
-   "title": "Autorizan viaje de Carlos Espá a España y El Salvador para acompañar a Keiko Fujimori",
-   "excerpt": "",
-   "source": "Latina Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTjBZOWFDNjZMUW5NWFZabEZmOEd4OHVaZnNucTB4bENJVndVZ3Bud1U4WkgzcVhrXzRINmFsS1czMG9qUDZ0andiNVE5amRvaW95cU1hV0NUMUYtUTNLcDMwd1RUZ0h3Mm1DUFpEWHlrWGtYZjktNW04UWttSUFGdUItNkxXckNMUE1ScXJ6aDJQODVRWTJWaGdRUnVJMUdtUFczRmJQV0tRUkxJT29xTFg3X3BNeVdhbU50aU96ZWprb3lPVzJmV1k4UzJ3RDNaamVCbEotMmpEQQ?oc=5",
-   "date": "2026-10-24T18:57:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8c93ced75150",
-   "title": "¡El Tren Macho vuelve tras año paralizado! Keiko Fujimori anuncia inversión de más de US$500 millones",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak11c0pNY05NUXlrLWd3QnFPcmdySjhWOXFzM1FJeUlKaDl6NW9kdG5VaVUxTjdJQzJWYmtKaU01blotWlRmYUd6cy1qaGN1aC1XRUhHX2xuWUZCd2t3ZExmNDZDZzZxSmlxeklaaUNHZzFnaXR6TnM0d25zdmxTSXNTVF9CaDhkanlkRnZkT2phTkowYXRGR1ZsdTJNT3JYVFl4NGY2VVQwTVprbVd0QUVkNXUybUppZ1ozdDQ2ZHNqMXd2Q0ZmblpB?oc=5",
-   "date": "2026-10-24T17:45:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1161,6 +1191,7 @@
   ],
   "plaza de armas del distrito de iberia, provincia de tahuamanu, region madre de dios, peru": null,
   "plaza de armas del distrito de iberia, region madre de dios, peru": null,
-  "patio de honor de palacio de gobierno, peru": null
+  "patio de honor de palacio de gobierno, peru": null,
+  "desde palacio de gobierno, peru": null
  }
 }
