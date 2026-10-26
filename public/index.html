@@ -92,6 +92,7 @@ h1 span{color:var(--orange)}
 .empty{color:var(--muted)}
 
 .leaflet-container{font-family:var(--body);background:#0f0d13}
+.leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(.85) contrast(.9) saturate(.6)}
 .leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--surface-2);color:var(--fg);border:1px solid var(--line)}
 .leaflet-popup-content{margin:10px 12px;font-size:13px;line-height:1.4}
 .leaflet-popup-content b{font-family:var(--display);font-size:13px}
@@ -203,7 +204,7 @@ let DATA, STOPS=[], map, layers;
 function buildStops(){
   const s=[];
   (DATA.agenda||[]).forEach(a=>{ if(a.place&&a.place.lat!=null) s.push({kind:"agenda",time:a.start,end:a.end,place:a.place,text:a.subject,state:a.state||"posando",url:DATA.agenda_page,source:"Agenda oficial"}); });
-  (DATA.items||[]).forEach(n=>{ if(n.place&&n.place.lat!=null&&!n.place.abroad) s.push({kind:"news",time:n.date,place:n.place,text:clean(n.title),state:n.state,url:n.url,source:n.source}); });
+  // La ubicación sale solo de la agenda oficial: una noticia que menciona un lugar no prueba que ella estuviera ahí.
   s.sort((a,b)=>new Date(a.time)-new Date(b.time));
   const out=[];
   for(const x of s){
@@ -240,9 +241,9 @@ function currentGap(){
 
 function initMap(){
   map=L.map("map",{scrollWheelZoom:false}).setView([-9.2,-75],5);
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",{
-    maxZoom:18, subdomains:"abcd",
-    attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{
+    maxZoom:19,
+    attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
   map.on("click",()=>map.scrollWheelZoom.enable());
   layers=L.layerGroup().addTo(map);
@@ -296,10 +297,9 @@ function renderCard(){
   if(cur){
     $("nowPlace").textContent=(gap?"Última vez en ":"")+cur.place.name;
     $("nowFull").textContent=[cur.place.full&&cur.place.full!==cur.place.name?cur.place.full:cur.place.city, cur.place.approx?"ubicación aproximada":null].filter(Boolean).join(" · ");
-    const n=(DATA.items||[])[0], newer=n&&new Date(n.date)>new Date(cur.time);
-    $("nowWhat").textContent = silent()&&!gap ? st.doing : short(newer?clean(n.title):cur.text,150);
+    $("nowWhat").textContent = silent()&&!gap ? st.doing : short(cur.text,150);
     $("nowSrc").replaceChildren();
-    const src=newer?{u:n.url,t:`${n.source} · ${ago(n.date)}`}:{u:cur.url,t:cur.source};
+    const src={u:cur.url,t:cur.source};
     if(src.u) $("nowSrc").append(Object.assign(document.createElement("a"),{href:src.u,target:"_blank",rel:"noopener",textContent:src.t})); else $("nowSrc").textContent=src.t;
   } else { $("nowPlace").textContent="Paradero desconocido"; $("nowFull").textContent=""; $("nowWhat").textContent=st.doing; $("nowSrc").textContent=""; }
   $("nowGuess").hidden=!gap;
