@@ -120,8 +120,9 @@ h1 span{color:var(--orange)}
         <div class="row"><span class="label">Actividad</span>
           <span class="v"><span class="hours">
             <div class="live-h"><b id="nLive">–</b><small>notas de en vivos y redes</small></div>
-            <div><b id="nAll">–</b><small>notas en total</small></div>
+            <div><b id="nAll">–</b><small>horas en agenda oficial</small></div>
           </span><small>Últimos 7 días</small></span></div>
+        <div class="row"><span class="label">Agenda oficial</span><span class="v" id="agenda"></span></div>
         <div class="row"><span class="label">Siguiente punto</span><span class="v" id="next"></span></div>
       </div>
       <div class="headline" id="headline">
@@ -162,8 +163,14 @@ function buildMap(){
 }
 
 // Dónde está: lugar de la nota si lo tiene; si no, el último lugar reportado (3 días); si no, la sede de gobierno.
-function locationFor(item){
-  if(item && item.place) return {place:item.place, note:`Según ${item.source}, ${ago(item.date)}`};
+function locationFor(item, isCurrent){
+  const ag=(DATA.agenda||[]).find(a=>a.place);
+  const agLoc = ag && {place:ag.place, note:`Agenda oficial, ${ago(ag.start)}`, when:new Date(ag.start)};
+  const newsLoc = item && item.place && {place:item.place, note:`Según ${item.source}, ${ago(item.date)}`, when:new Date(item.date)};
+  if(!isCurrent && newsLoc) return newsLoc;
+  if(agLoc && newsLoc) return agLoc.when>=newsLoc.when ? agLoc : newsLoc;
+  if(newsLoc) return newsLoc;
+  if(agLoc && (Date.now()-agLoc.when)/864e5<=3) return agLoc;
   const lp=DATA.last_place;
   if(lp && (Date.now()-new Date(lp.date))/864e5<=3) return {place:lp.place, note:`Último lugar reportado por ${lp.source}, ${ago(lp.date)}`};
   // sin lugar reciente
@@ -198,7 +205,9 @@ function drawMap(loc,state){
 
 function show(item, isCurrent){
   selected=item;
-  const silent = isCurrent && (!item || (Date.now()-new Date(item.date))/36e5 > DATA.silence_limit);
+  const ag0=(DATA.agenda||[])[0];
+  const lastSeen=Math.max(item?+new Date(item.date):0, ag0?+new Date(ag0.end):0);
+  const silent = isCurrent && (!lastSeen || (Date.now()-lastSeen)/36e5 > DATA.silence_limit);
   const state = silent ? "posando" : item.state;
   const st = silent ? (DATA.silence||DATA.states.posando) : DATA.states[state], live=state==="transmitiendo";
   $("face").src=IMG(state); $("face").alt="Ilustración: "+st.label; $("face").style.setProperty("--c",st.color);
@@ -206,9 +215,20 @@ function show(item, isCurrent){
   $("statusText").textContent=st.label;
   $("doing").textContent=st.doing;
 
-  const loc = silent ? {place:DATA.default_place, note:item?`Ninguna nota desde ${fmt(item.date)}`:"Ningún medio reporta actividad reciente."} : locationFor(item);
-  const pl=loc.place, where=[pl.city&&pl.city!==pl.name?pl.city:null, pl.abroad?"extranjero":null].filter(Boolean).join(" · ");
+  const loc = silent ? {place:DATA.default_place, note:lastSeen?`Sin noticias ni agenda desde ${fmt(lastSeen)}`:"Ningún medio reporta actividad reciente."} : locationFor(item, isCurrent);
+  const pl=loc.place, where=[pl.city&&pl.city!==pl.name?pl.city:null, pl.abroad?"extranjero":null, pl.approx?"ubicación aproximada":null].filter(Boolean).join(" · ");
   $("place").replaceChildren(txt("b",pl.name), txt("small",(where?where+" · ":"")+loc.note));
+
+  if(ag0){
+    const hhmm=d=>new Date(d).toLocaleTimeString("es-PE",{timeZone:tz,hour:"2-digit",minute:"2-digit"});
+    const day=new Date(ag0.start).toLocaleDateString("es-PE",{timeZone:tz,weekday:"short",day:"numeric",month:"short"});
+    const sm=document.createElement("small");
+    sm.append(`${day} · ${hhmm(ag0.start)}–${hhmm(ag0.end)} · ${ag0.lugar||"sin lugar"} · `);
+    if(DATA.agenda_page) sm.append(Object.assign(document.createElement("a"),{href:DATA.agenda_page,target:"_blank",rel:"noopener",textContent:"Ver agenda"}));
+    const subj=ag0.subject.length>120?ag0.subject.slice(0,117)+"…":ag0.subject;
+    const b=txt("span",subj); b.style.cssText="display:block;font-size:14px";
+    $("agenda").replaceChildren(b, sm);
+  } else $("agenda").replaceChildren(txt("b","Sin actividades registradas"));
 
   const n=DATA.next;
   if(n){
@@ -230,7 +250,7 @@ function show(item, isCurrent){
 
 function render(){
   $("nLive").textContent=DATA.counts_7d.transmitiendo??0;
-  $("nAll").textContent=DATA.total_7d??0;
+  $("nAll").textContent=((DATA.agenda_minutes_7d||0)/60).toFixed(1).replace(".0","");
   $("updated").textContent="Actualizado "+ago(DATA.generated_at);
   const today=dayKey(Date.now());
   let list=DATA.items.filter(i=>dayKey(i.date)===today);
