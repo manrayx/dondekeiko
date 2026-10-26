@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T18:34:51.362423+00:00",
+ "generated_at": "2026-10-26T19:18:48.262072+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "Expreso",
-  "date": "2026-10-26T18:22:35+00:00"
+  "date": "2026-10-26T18:24:41+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -430,12 +430,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "758dee4c08d9",
+   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
+   "date": "2026-10-26T18:26:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "902aee74865a",
    "title": "Papa León XIV en Perú: confirmada cita clave con Keiko Fujimori en Palacio de Gobierno tras su llegada",
    "excerpt": "",
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcV9lX2RzckoxWTBiV29tckliMTRhWHhNRjNiczF4eS10anhqX1d2YWstMm5FTjFORi0tQ2c5TjVxT004MXhydExzckVUTExtYUdWQWRiVWFSanl2cGhWU3JUVGF4aHRJdEkyeU1pRXAzUnhUNDVITElZSHgzY1p0OW44RzZiRnAyemNkNng1cWhuT3BINkFiNlRpbEFodmtaNEZ0QUdIcjF0WFlHYlQ5aHF3NXo4YzlkY2twWGQ1OEJwd2htRTM5cnc4b2FtNDVZU3FjYnB3Uk9iN0dxMzlPVUVsQ2VSZ2tjUUZFSU42cmxDckRBZnpsakJydW45OVprclUzbjZLNFZVanY1WFJYRG8xcE1vMS02bXBUaDlLemh2VXJ6NHlhTlpuOXk0dw?oc=5",
-   "date": "2026-10-26T18:22:35+00:00",
+   "date": "2026-10-26T18:24:41+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -444,17 +455,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "758dee4c08d9",
-   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3FLWXNOSnpjWXJFc25fdU5neW4tbkVUUV9VWlNaSGpmTzV2dmRZZE5HNUdXcURTZDBFU19HdEJOaHM0QW54WnJJQ2FwbnFiTVhqN1hZX3JMMzBod3N6bFkzMjdac0dlWWFwNllLekswbTBtZFNpemJyT1pJTGQ1am0wTzFJSHNtMmY3X1p2ZlNZYTBkYVN6LVNqQ2NmdjhhTHdYZkJrRGdEb2E3dWlTeFVqdVNXeW8?oc=5",
-   "date": "2026-10-26T17:39:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
