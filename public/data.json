@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T23:15:22.086244+00:00",
+ "generated_at": "2026-10-26T23:36:49.316236+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -441,11 +441,22 @@
    "next": null
   },
   {
+   "id": "758dee4c08d9",
+   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
+   "date": "2026-10-26T22:44:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1ff72610a9bb",
    "title": "Keiko Fujimori celebra confirmación de visita del papa León XIV al Perú y destaca el cariño de los peruanos",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjdOYkRtY21JNkVsWF9FclRPc0J3VUFDbFpvWHZzTk1VaTNSNjJNcGdsYjUwNmFoMk8xdmxkT1d5emJpLXFHbEcwTUtBeXhOSWc3S3o1ZG9fYkViMml0WUpteTBiajJWZmZmemVCbHNlNzhaellzRmpxNFZEZDkyelVYZHNQY1Fzek9EaWNXQVBVRDdBdDQzNnRvRUUwWXBHRGdWX3JSd3RneWZBX1RQZ0EtXzRTTUpYdnd5YUdsVE5sVkRQTVU5YUdCQWNWM09WUS13VXRUaGdwTmZ1NlHSAfIBQVVfeXFMT0xoZW5MWF8yc01BLVZwckdUYkJidzVJM0tCZkxDM0JmVG1ZQmkycl84TkNJUVJUMFRJUEpMUWItSlBqM0pEaUFTSWdITFZwZ3JtMFhNb2ZDbmI0d0lGaHhUZDZwN0JSSFk5bUNaRDg0dWhjd2tNM3pzVUdQZ0owSnVnRllHdHZPQlM3aVVRTFF1WHFUbVpOTGR2Vm9lWWVxZzk3aEFTOHkxa1Q0MXdWeHMwWjZjVGhjTFVEWVpPc0hrUlNQbUVCN2o4c19PRW5nSHlxUkpjM1FIV1NMcVlTcUhicDQyOGJBaXpmYXFVVWU1eWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTGhlbkxYXzJzTUEtVnByR1RiQmJ3NUkzS0JmTEMzQmZUbVlCaTJyXzhOQ0lRUlQwVElQSkxRYi1KUGozSkRpQVNJZ0hMVnBncm0wWE1vZkNuYjR3SUZoeFRkNnA3QlJIWTltQ1pEODR1aGN3a00zenNVR1BnSjBKdWdGWUd0dk9CUzdpVVFMUXVYcVRtWk5MZHZWb2VZZXFnOTdoQVM4eTFrVDQxd1Z4czBaNmNUaGNMVURZWk9zSGtSU1BtRUI3ajhzX09FbmdIeXFSSmMzUUhXU0xxWVNxSGJwNDI4YkFpemZhcVVVZTV5Z9IB8gFBVV95cUxPTGhlbkxYXzJzTUEtVnByR1RiQmJ3NUkzS0JmTEMzQmZUbVlCaTJyXzhOQ0lRUlQwVElQSkxRYi1KUGozSkRpQVNJZ0hMVnBncm0wWE1vZkNuYjR3SUZoeFRkNnA3QlJIWTltQ1pEODR1aGN3a00zenNVR1BnSjBKdWdGWUd0dk9CUzdpVVFMUXVYcVRtWk5MZHZWb2VZZXFnOTdoQVM4eTFrVDQxd1Z4czBaNmNUaGNMVURZWk9zSGtSU1BtRUI3ajhzX09FbmdIeXFSSmMzUUhXU0xxWVNxSGJwNDI4YkFpemZhcVVVZTV5Zw?oc=5",
    "date": "2026-10-26T22:39:31+00:00",
    "state": "posando",
    "place": null,
@@ -507,6 +518,17 @@
    "next": null
   },
   {
+   "id": "52f10663c5c3",
+   "title": "Keiko Fujimori expresa alegría por próxima visita del papa León XIV al Perú",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFUzYVpmckNCWEp3R01yQmJnN0VoMU5MQjMzX3ZkZVdiVEJsNVJNTzRxanRTeWk2YWZOQWVieklVcDZLemZQZkZsYUpOcmpPd2YtRFpORmF3b1kzcTBwdGdNSUd0Qy1MeGdnMDJiYVpoR2pYem1HVkw5eVFCcE16TDlxSXdWOGdIdlNuMEtxTmRFdnBGTGJFeW53UUZreTJmWC1ldk1ZUQ?oc=5",
+   "date": "2026-10-26T21:56:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e04e7beaf131",
    "title": "Keiko Fujimori anuncia operativos constantes en penales para desmantelar antenas ilegales vinculadas a extorsiones",
    "excerpt": "La mandataria indicó que los controles se ampliarán a todos los establecimientos penitenciarios, luego de la incautación de dispositivos de telecomunicaciones en cuatro cárceles",
@@ -533,19 +555,8 @@
    "title": "Keiko Fujimori saluda confirmación de visita del papa León: \"Lo esperamos con los brazos y corazones abiertos\"",
    "excerpt": "",
    "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUkg3WFhVUE51c21jTVVRNV9oY1djUVQxaHVvQjJJcGtqRklTb1hoelFyNnpETjZsbVVpNDdBMlltMEhaWTRGb244b0QwQjk3cGVMVV9xM2NvanZuX3NraGRiLXI0azVDU2VIZUJYOW1UZGhVNjk5bENac1JyMlYxUFRTcmNnR1I3aFpKVzhYMUFXSDBlV1FYSHM5dXA3OTJyN3p4ZTJGNlktRXlTQ0E5aFdKZWZ4MlRFeXFya01faml6NV9qaEE1WlRzbnJ2aUcyaW0yTVFrbmZQc2s4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNjEyMm05a2gtdjRhSlBkeXZvVU1aMzhfamFEMHFhNGh1Y3NPUFZsV1MwWkV6ZlFSUFdYb3NlX0k5d1BPSVZ6MVJ0SFJldUp0UTUxV0VRbDB6NmtCWEc5WWpSdXh5VGJid21FUUlGcmtKRGJhY1poS3hXbS1iMjRIQ3g4MEVfaDRSclFWYXNoWjh4X3FQbS1MN3FMczBnYkdoM21JbGQ2STlVYmgwWmhob2l4ZkVjeEIwc0M2LUZCZHBuc29jQU5oaksxaFU4ZjVuREU4RWw2WQ?oc=5",
    "date": "2026-10-26T21:10:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "758dee4c08d9",
-   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
-   "date": "2026-10-26T20:53:04+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -566,7 +577,7 @@
    "title": "Keiko Fujimori felicita a Lula da Silva por su reelección y plantea fortalecer la cooperación con",
    "excerpt": "",
    "source": "Diario Sin Fronteras",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbVBqOEtNOE94OENkd1ZZbHJYamtfc3htQWJaZFlGb3V4elNDLVVfcUY1TllUanhFZTZtNGRZZjUxUkVmWmFuaXpMM195dWpIS2tvZDJBX3gxbXA5Z2xpYTQwdzA3dENyRVo1TjR2Um5MMU9aSHFEUVlkdkMwd3o4OVd1VlZsb1ZhRlNfcXBnSjI2ZmxMWDB1dUVLaFp5MnBzMXNDcEVkbGtRb1F2M2NHLWJDeHd6Z1l3anFBQjlsQWdIUTROSVhFSmxwUGZGWXlLWl81bkZWN3JYeW5VbVdwYlVIeDZNZVFYNmfSAeoBQVVfeXFMT21QajhLTThPeDhDZHdWWWxyWGprX3N4bUFiWmRZRm91eHpTQy1VX3FGNU5ZVGp4RWU2bTRkWWY1MVJFZlphbml6TDNfeXVqSEtrb2QyQV94MW1wOWdsaWE0MHcwN3RDckVaNU40dlJuTDFPWkhxRFFZZHZDMHd6ODlXdVZWbG9WYUZTX3FwZ0oyNmZsTFgwdXVFS2haeTJwczFzQ3BFZGxrUW9RdjNjRy1iQ3h3emdZd2pxQUI5bEFnSFE0TklYRUpscFBmRll5S1pfNW5GVjdyWHluVW1XcGJVSHg2TWVRWDZn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRjBTNDhhZ0NhcF9TbmNzb3d1VklWTW1kbjNkejhGSzhZYy0weVV1Rl9iT2FiNlhYRDJuNUpONk1pTnVUU1lBbWFuOTdITk51ZFhMWDRfSFo2aUx0dTNScUVoT3ZuQkxMeEtoZjVrR2VBZUpBWm5aZDdmd0I2RFZGWlFzMEppWVlyTFk1Ui1vYlBfZGZqQWFPV0lRLVFBZUszUnZxM2prYkVLd09NX0Jtc0RLRXd3M3VVbC00WUIzSVpzSGNNZzRlUC16SHVsOFQzbENqR3FxLVEwdURsOU5WSWxKb07SAeoBQVVfeXFMT21QajhLTThPeDhDZHdWWWxyWGprX3N4bUFiWmRZRm91eHpTQy1VX3FGNU5ZVGp4RWU2bTRkWWY1MVJFZlphbml6TDNfeXVqSEtrb2QyQV94MW1wOWdsaWE0MHcwN3RDckVaNU40dlJuTDFPWkhxRFFZZHZDMHd6ODlXdVZWbG9WYUZTX3FwZ0oyNmZsTFgwdXVFS2haeTJwczFzQ3BFZGxrUW9RdjNjRy1iQ3h3emdZd2pxQUI5bEFnSFE0TklYRUpscFBmRll5S1pfNW5GVjdyWHluVW1XcGJVSHg2TWVRWDZn?oc=5",
    "date": "2026-10-26T20:21:36+00:00",
    "state": "posando",
    "place": null,
@@ -626,6 +637,28 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "8ea4d9e9c80b",
+   "title": "Presidenta Fujimori dio inicio a intervención de estaciones y antenas ilegales cerca de penales",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHdWdzlLcDlkcF84T3QzTmRuNDJRUzFNRVY5MXRWNlJzYnpkclUtR0RHWlRWTEh0R0cyVUY0Y2FNOXo4Nm5sTlhzZkVQOXNWdm52N2Y5REE4WERoR1pZWEZNR3FLRzNGSm5RNEQta0FOa016OUhrVDd5VG5jQmNIZ3JlV1JRRHFrS3FHRGdWU3JYZkkzUDd0S3VxY01fVkg4eWhrc0hSYlpBamJ5cm1JNmE4aGtLMEk1bEVyOTUzakExQ2JZOXNzREEySQ?oc=5",
+   "date": "2026-10-26T18:04:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "08dd6e7efece",
+   "title": "Es incorrecta la versión de Keiko Fujimori acerca de que el fenómeno El Niño recién está empezando en el país",
+   "excerpt": "",
+   "source": "Ideele Radio",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeWlESjM2MHRXVXhMZE5LbkpscHJCd2p5VHRMeVNpemFPd1ZEcEY4dTNPUW5VVXktUnI0eFNvRTQ0ZGF3aWlNRHdWb0x5QTNrMzd1S0dRTU1jRTdpTFRvM1g4THdUS0pHWVp1c3EwaUNlaUo1eGFHZGdzTlFxUW9KbUxEWmJDdFc2YlZmb05iUkp1NU5ZOU9VZDZIR2xkd0FobmNUb05DeHZQcEl4bEN0X1lYWFh1eU9Mb2VhZlhjZzJjVWZpRThZZ1Nhd21FMUxaUlE2WGlBVGRDaEVKZl90OV9B?oc=5",
+   "date": "2026-10-26T17:39:42+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -693,7 +726,7 @@
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHNWUm9xT2NRZ3Y2eEN6dGNzYnR0T2Q4ck5QQktwQloyT1J4MVNaS29PajJUb0ZuOGN0dU5ucVBzNUZmOVZ0TWlKbjZwSlpWb2VsZDA0R0FXLW1YVEJ4cVVVdU5qRXllQW9lWGZpQ0pVU0RSRnZOOHhobXBrN05HODB2UEM?oc=5",
-   "date": "2026-10-26T16:02:35+00:00",
+   "date": "2026-10-26T16:21:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -961,8 +994,8 @@
    "id": "0f682219bc76",
    "title": "Presidenta Keiko Fujimori felicita a Lula da Silva tras su reelección como mandatario de Brasil",
    "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9MWFMzeE5BUkE0Qk9teGx6THN0TUdaNF9nNnRQQkZFeFI5eUVjaVl2TEdtU0FBVlAzRnZUeFJPVFBLWk81Rk5RZ2lLVWNmUUwxYWNpb0ZPZU5rbzBxZExTanlXNWpXTHNILWtqZ2JCQl9QbXdZX1NhVWFxUHYzX1hzUWx0M3l6allCb0dQRlBOQVdVREwtblFtZDVLRm5nRGNGdHRGZGQ5Yk9yVDhGZFhJbG8yMEE5UG43anhYdVBtNlcxUHRfejh4RTFfYUZ5eWNHdQ?oc=5",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS24xQ2luTWhTTUJ1cldNYWthQ2FObHp1YkJJYkUxQXVjYjlJbUdiNF9BMmdvbFd3SEgwRElFZFdNck55ZGRuaTdyVnVXNUFjdzFSaG83S0IwLWR2UHNQcm0zUHIwYnc2cGN3Z2xzQk9QT2NiMXhVNTNWQlI1ZkdXWDFOVmRhcTF2ajNfRTZCWWs5VG1xV2g5Ry1PWlloUldZY3c4Ym1hQVU0Q3JBRHRpWVdKU2x6czVyTnZlcTRRRDEyck9MY0ZBQg?oc=5",
    "date": "2026-10-26T01:59:00+00:00",
    "state": "posando",
    "place": null,
@@ -1106,39 +1139,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
    "date": "2026-10-25T16:21:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e337e4424354",
-   "title": "Comitiva que acompañará a Keiko Fujimori en El Salvador costará más de US$19.000 en pasajes y viáticos",
-   "excerpt": "El Gobierno autorizó el viaje de siete funcionarios del Despacho Presidencial con la presidenta Keiko Fujimori a El Salvador, del 28 al 31 de octubre. La delegación incluye asesores, comunicadores…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/25/comitiva-que-acompanara-a-keiko-fujimori-en-el-salvador-costara-mas-de-us19000-en-pasajes-y-viaticos-hnews-611300",
-   "date": "2026-10-25T15:24:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a91f766e41e1",
-   "title": "Autorizan el viaje de la Delegación de Avanzada del Despacho Presidencial que acompañará a Keiko Fujimori al El Salvador",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaEN4cC1DRXZ5b0ZJM3NGZ1RHeUduV2szY3hYNzF6YVFYLUVTQThfSmExZklfRjBQZkZueGpldmlVTVl5ZldlZzl4WmJTTHpVX0xuVFBJNEtiZE9jQUUzbW93di1FNEpJRl9zUDFEeGpKb1dJNDZRMmtRRGlVd2lReWoyQ1dYSmNnSmt0X0o0dWZpSjJPSmtvMGhOLVpuNU9qYmZaelRsNFJzWnNxcUdxMEZzZ3lteDNkYl92LUJzcXZCU2xHU0FudmVRRWstcVFzYjFwMWtCZw?oc=5",
-   "date": "2026-10-25T14:51:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2d15ebc9ec01",
-   "title": "Keiko Fujimori viajará a El Salvador con delegación presidencial: autorizan gastos de pasajes y viáticos",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXZRSTBRa1F3Q3gxMVFnOUF5djVXNml4ODJNMm5DZFpka19fTUJzeEJkSHpLN21nRXkzb3JwMUdqV1EzUmlYTld3ZzlfVUhZZUxLdmZWaFk1cFZXNzhJUEo3RFBIOGQwYzI3RmgzYVB4MEhmNDgyUkgxMmdIa21JM0UxblBTTFFNR05OV2FIWTRTYTd4a0lOdXF6QW9YY1Vlb01sdlBTbjY2QnIxLU4yRW1IRjBaX0pnalVLWXhFUzRVTWd2UHZTamlkZ1VPcnBlN3FF?oc=5",
-   "date": "2026-10-25T14:51:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
