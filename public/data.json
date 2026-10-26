@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T15:21:46.947681+00:00",
+ "generated_at": "2026-10-26T15:43:06.036631+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -742,9 +742,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
-   "date": "2026-10-25T16:21:00+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
+   "date": "2026-10-25T17:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -862,6 +862,23 @@
     "lng": -79.906,
     "abroad": false,
     "city": "Lambayeque"
+   },
+   "next": null
+  },
+  {
+   "id": "aa95b5a9aaf3",
+   "title": "Presidenta Fujimori inauguró canal de riego de Sulcán Chala en la región Junín",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm9nRG9laHVKc3hKbGlqOUppNXZJLWJfUHhYTmxRNktDSjhVa0VLeTBjODhLV1VxMlBmY0ZQNGFyN25FYnVNM01FN0R5SzF0YXhSSkVhdEsxUDBvX2tyRlVEYVhwQkpYUG4zeHlDd1dVd2pHRzAzNTZaeUVVUlkxbU9fOGVBdmJLMVJzTi1EdVUzWWFxWDd6eUs2eDBnMEQ4SURrblRtMURrcHg2cXBlYTVrZkNqbDA?oc=5",
+   "date": "2026-10-25T10:37:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Junín",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false,
+    "city": "Junín"
    },
    "next": null
   },
@@ -1101,23 +1118,6 @@
    "date": "2026-10-24T18:57:02+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "aa95b5a9aaf3",
-   "title": "Presidenta Fujimori inauguró canal de riego de Sulcán Chala en la región Junín",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm9nRG9laHVKc3hKbGlqOUppNXZJLWJfUHhYTmxRNktDSjhVa0VLeTBjODhLV1VxMlBmY0ZQNGFyN25FYnVNM01FN0R5SzF0YXhSSkVhdEsxUDBvX2tyRlVEYVhwQkpYUG4zeHlDd1dVd2pHRzAzNTZaeUVVUlkxbU9fOGVBdmJLMVJzTi1EdVUzWWFxWDd6eUs2eDBnMEQ4SURrblRtMURrcHg2cXBlYTVrZkNqbDA?oc=5",
-   "date": "2026-10-24T17:54:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Junín",
-    "lat": -12.065,
-    "lng": -75.205,
-    "abroad": false,
-    "city": "Junín"
-   },
    "next": null
   },
   {
