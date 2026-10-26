@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T13:55:33.588566+00:00",
+ "generated_at": "2026-10-26T14:16:49.585278+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "Brasil"
   },
-  "source": "Expreso",
-  "date": "2026-10-26T13:11:31+00:00"
+  "source": "Gestión",
+  "date": "2026-10-26T14:10:02+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -412,6 +412,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "073a90a67a9e",
+   "title": "Presidenta Keiko Fujimori felicita a Luiz Inácio Lula da Silva por su reelección en Brasil",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, expresó sus felicitaciones al mandatario de Brasil, Luiz Inácio Lula da Silva, cono motivo de su reelección en los comicios generales celebrados en…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/presidenta-keiko-fujimori-felicita-a-luiz-inacio-lula-da-silva-por-su-reeleccion-en-brasil-noticia/",
+   "date": "2026-10-26T14:10:02+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
    "id": "13bfd5449991",
    "title": "PerúCheck: Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
    "excerpt": "PerúCheck: Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
@@ -514,21 +529,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3BJUjRCdDdzYk15MXZyTEs3UUhZOV9IQ0NhNXNjTldQYUVUdGhla0pKOTRWLThINDFSR1EzeWwtdktIcUVYSmo1VXhtMnZ5djZtZU53SVV5S0daVjFFUjRndkh3RWRVWWZLM3FTTkotLUdUdjhsbTkxd2hQNk1nT3d2UnlGQ0x5VVBwaThMSWprUQ?oc=5",
    "date": "2026-10-26T02:39:24+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
-   "next": null
-  },
-  {
-   "id": "073a90a67a9e",
-   "title": "Presidenta Keiko Fujimori felicita a Luiz Inácio Lula da Silva por su reelección en Brasil",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMjRqRVpNVXd2TVFRaTBtN0ZlLXh3NVMzak05dFRHN0lJS0FqcWZhZjZzZ3YzOGx6bGpTa3M0RnFCd19nWlBjQ1RUSVd5ekFSUEZkY1NmZlI1MHVVeTQ2S1ZvQnUzRkVJZWo1QWdqNVMtMy0tREppTmR2WXBBcWxSQkU0TVpHRjVLTkhNWmllQTRXaTZ3LUJCRXlSZTVVUnQ2cHI4NkY5cDZQaC1lZ0wxOE92SDVDWEZXNFFrQ1JERWhCUEoxdUZVS1owenlxdDRtVlg5VG1laXplXy0w?oc=5",
-   "date": "2026-10-26T02:37:29+00:00",
    "state": "posando",
    "place": {
     "name": "Brasil",
@@ -695,6 +695,17 @@
    "next": null
   },
   {
+   "id": "b14b2d76f3e3",
+   "title": "Keiko Fujimori elevó oraciones por la salud del papa León XIV: ¿quiénes la acompañaron en el Santuario de Las Nazarenas?",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNGM3QjB3VW5rVVVIVnpaQ25YRGRxZEZQOW5IRXpMdTBFeVpsa21KQ1lsQThLSFpuOG5GdWxONTBucmVONDdOMlhfWjM3MWM2ZFVjdjE3NDFnb1ZYcDJBdXRFNXFxb0VRXzhaYlJXTWZ2QmJVdnFFbktxaExlVHJyLUxrdVYwS3ctRGZueGFJOXlsUTlpNjM2YjlGV1llb0IxaGZoZ1Y1dzVzTzZjQmlDbUoxczg2Z3hKZXFodzRPX1lrMzhhTHljQWVXRUstSDNiRUtyY2hHYVlBdkNLdUZsWEpSQjJ6RlVhSHVSc29KQmlDaDdGcjFZM25nQndteHpieWxwVFBWSTlheGNvQUtIa2NR?oc=5",
+   "date": "2026-10-25T18:39:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9529f9fb6501",
    "title": "Misa en Las Nazarenas EN VIVO: Keiko Fujimori asistió a ceremonia presidida por el cardenal Carlos Castillo",
    "excerpt": "",
@@ -709,9 +720,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
-   "date": "2026-10-25T17:04:00+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
+   "date": "2026-10-25T16:21:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1116,17 +1127,6 @@
    "source": "Revista COSAS Perú",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWNERExwVU9PbjlMM2lDWmU0SE5CXzNMMnpXdG5SVlFZbnB2MFRJZF9tQjlFOFVBeVhPQkVhNVdJbFZ4M1dRUzY2aVRfY0drNDRLN0hRVFRpSTV1N0t1MW1GalhsRHN1VmxqSjZmdWlKbzRNd1h0ejNwTDIwRHZFTGZYUGdMWUR3aVVHbl9ZTkFFQmdiN0N0RzZXTTk0NDl1bHZGa3dR0gGmAUFVX3lxTE1tY0RETHBVT09uOUwzaUNaZTRITkJfM0wyeld0blJWUVlucHYwVElkX21COUU4VUF5WE9CRWE1V0lsVngzV1FTNjZpVF9jR2s0NEs3SFFUVGlJNXU3S3UxbUZqWGxEc3VWbGpKNmZ1aUpvNE13WHR6M3BMMjBEdkVMZlhQZ0xZRHdpVUduX1lOQUVCZ2I3Q3RHNldNOTQ0OXVsdkZrd1E?oc=5",
    "date": "2026-10-24T16:42:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fd8e85541102",
-   "title": "Presidenta Keiko Fujimori lideró el reinicio de operaciones del histórico Tren Macho en el tramo Chilca–Cuenca",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM2VKaDY2bjdoTllPZWVkekNNa0gzM1VPRzN1b1JHbjN1Y1pEOUV4UXdDVFR1ZUloZEtpWmVYRHNpUUc3eFFQQmh0ZW9zN1JIQnhUT3hYNm1xWFpKdUVJNTFsdXIxczU4V1lFbE1veWY2bVVGWHF3cndPZlJPTlpZSTBpTWNTYlFNOEsyWXhITERUSm1UejczZWp0T21kazcxX3pyTVgwZ3BfS01HYW9yWXRFVFQxR2NoVFF3bFM0YkZoTlloOHV2cDhwb2JXZWttVGhiaE1EU3BYMndzMVRtZUJfbFNmcXNkcXc?oc=5",
-   "date": "2026-10-24T16:04:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
