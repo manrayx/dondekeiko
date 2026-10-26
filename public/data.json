@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T04:38:03.466602+00:00",
+ "generated_at": "2026-10-26T05:20:46.189714+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 3,
-  "posando": 54
+  "triste": 2,
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -415,25 +415,9 @@
     "lng": -69.189,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-18T12:04:00-05:00",
-   "end": "2026-10-18T12:36:00-05:00",
-   "minutes": 32,
-   "subject": "Recibe y rinde homenaje a la sagrada imagen del Señor de los Milagros.",
-   "lugar": "Patio de Honor de Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Patio de Honor de Palacio de Gobierno",
-    "full": "Patio de Honor de Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 736,
+ "agenda_minutes_7d": 704,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -449,6 +433,17 @@
     "abroad": true,
     "city": "Brasil"
    },
+   "next": null
+  },
+  {
+   "id": "0f682219bc76",
+   "title": "Presidenta Keiko Fujimori felicita a Lula da Silva tras su reelección como mandatario de Brasil",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9MWFMzeE5BUkE0Qk9teGx6THN0TUdaNF9nNnRQQkZFeFI5eUVjaVl2TEdtU0FBVlAzRnZUeFJPVFBLWk81Rk5RZ2lLVWNmUUwxYWNpb0ZPZU5rbzBxZExTanlXNWpXTHNILWtqZ2JCQl9QbXdZX1NhVWFxUHYzX1hzUWx0M3l6allCb0dQRlBOQVdVREwtblFtZDVLRm5nRGNGdHRGZGQ5Yk9yVDhGZFhJbG8yMEE5UG43anhYdVBtNlcxUHRfejh4RTFfYUZ5eWNHdQ?oc=5",
+   "date": "2026-10-26T02:59:22+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1137,17 +1132,6 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUk3aXM5b1U2d1V3aktyWk5ERDVNR2tqWHJOR0Q4ejFpLTkxbHo0dGk0cl9uVE5ocWw3M0NKZWNWZVo4RjR4d0FvXzE2ZVowSzBKZXQ4Y3JETmJ6S08xVlEyZkU1UzJmb3RmM1hYSXhnd0xpajdBNTJPWjZhaUlqbmQ5NkFoeC0xemtkZXVIYTdpV21VOXFwcEc0bjFMM245bWxFY3FOWFZ4ZHhGMkJPc0NLcC1nb05OakN6amc0TE5oQnloc1VJVEZnRkE2dw?oc=5",
    "date": "2026-10-24T07:17:18+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "80f58c213272",
-   "title": "Deudos de protestas se unieron para echar a Keiko Fujimori de Juliaca",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW9nT3pHTnJwdVRtXzE1a3B0bnBWNXpZcC1hcVdhejRuejllMXZFUnFUbjB0YzAxSWRWellmVWtITzdhTHlHVXQ2OFJtVEEwUkFVQkszQ2t4X29rRHNBVFg1S05pT1l0SWJ2MTVzVWY1eldGZkdYU2pPOFZ2a0ZHbW51YWpUWWV3ckNjRlRyM19vNkowTWdtaTdQNnRsRGFyam91eVlxSXlPYzd2S1NhbWxrWU5yZnNDRDlKVk83X2ZJNEFM0gHKAUFVX3lxTE5RdGNXNmExMVRsSFhTR05BVjlmREswSGMyczZBTkk3OTJ6d3RQRW1xbWk4akVuMmU0TFZ5amN1NkdIREVBS2stVDBCX3VaUHRncjlIVXFMcjEwUXl3U3JUUjhyVTVFTlpnbmdmUnNzUXBCUml1ZEVaaE1NcWo1a3gwaUV2NVlVUzFOMmxCWUt4TVctVDV0RndwR2VJU3VGaGYzOUtUQmQ4aXlhOWd3emY2U2pxcE5pU1lvSm9DeC1qWmtEY252UDJxOHc?oc=5",
-   "date": "2026-10-24T00:27:17+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
