@@ -6,17 +6,19 @@
 <title>¿Dónde está Keiko?</title>
 <meta name="description" content="¿Dónde está Keiko? · Por MNRY">
 <meta property="og:title" content="¿Dónde está Keiko?">
-<meta property="og:description" content="Por MNRY">
+<meta property="og:description" content="Dónde está, de dónde viene y a dónde va. Por MNRY">
 <meta property="og:image" content="img/posando.png">
 <link rel="icon" href="img/posando.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&family=Atkinson+Hyperlegible:wght@400;700&family=VT323&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <style>
 :root{
   --bg:#0c0a0f; --surface:#16131b; --surface-2:#1f1a26; --line:#2e2738;
   --fg:#f4eee6; --muted:#9a90a4;
-  --live:#ff2d46; --orange:#f5781e; --sun:#ffc23d; --map:#221c2b; --map-line:#3b3247;
+  --live:#ff2d46; --orange:#f5781e; --sun:#ffc23d; --guess:#c98bff;
   --display:"Silkscreen","Courier New",monospace;
   --body:"Atkinson Hyperlegible",system-ui,sans-serif;
   --digits:"VT323","Courier New",monospace;
@@ -25,71 +27,88 @@
 *{box-sizing:border-box}
 html{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.5;
-  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 40px}
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:16px 40px}
 img{max-width:100%}
 [hidden]{display:none!important}
-.wrap{max-width:1120px;margin:0 auto;display:flex;flex-direction:column;gap:20px}
-header{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:12px}
-h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,5vw,46px);line-height:1;margin:0;text-wrap:balance}
+a{color:inherit}
+.wrap{max-width:1240px;margin:0 auto;display:flex;flex-direction:column;gap:16px}
+header{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 16px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(26px,4.5vw,44px);line-height:1;margin:0}
 h1 span{color:var(--orange)}
-.by{font-family:var(--display);font-size:12px;letter-spacing:.14em;color:var(--muted)}
-.label{font-family:var(--display);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0}
+.meta{display:flex;align-items:center;gap:14px;font-family:var(--display);font-size:11px;letter-spacing:.1em;color:var(--muted)}
+.pulse{display:inline-flex;align-items:center;gap:6px}
+.pulse i{width:8px;height:8px;border-radius:50%;background:var(--live);animation:blink 1.2s steps(2) infinite}
+@keyframes blink{50%{opacity:.15}}
+.label{font-family:var(--display);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0}
 
-.stage{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:20px;align-items:start}
-@media (max-width:820px){.stage{grid-template-columns:1fr}}
-.panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:16px;min-width:0}
+.stage{display:grid;grid-template-columns:minmax(0,1fr) 380px;gap:16px;align-items:stretch}
+@media (max-width:900px){.stage{grid-template-columns:1fr}}
+#map{height:min(72vh,680px);min-height:420px;border-radius:8px;border:1px solid var(--line);background:#0f0d13}
+@media (max-width:900px){#map{height:58vh;min-height:360px}}
 
-.map-box{position:relative;display:flex;justify-content:center}
-#map{width:100%;max-width:440px;height:auto;max-height:72vh;overflow:visible}
-#map path.dep{fill:var(--map);stroke:var(--map-line);stroke-width:1;transition:fill .4s}
-#map path.dep.on{fill:#3a2633;stroke:var(--orange)}
-.past{fill:var(--muted);opacity:.6}
-.next-line{fill:none;stroke:var(--sun);stroke-width:1.6;stroke-dasharray:5 5;animation:dash 1s linear infinite}
-@keyframes dash{to{stroke-dashoffset:-10}}
-.next-dot{fill:var(--bg);stroke:var(--sun);stroke-width:2}
-.ring{fill:none;stroke-width:2.5;transform-box:fill-box;transform-origin:center;animation:ping 1.8s ease-out infinite}
-@keyframes ping{from{transform:scale(1);opacity:.9}to{transform:scale(2.2);opacity:0}}
-.pin-body{stroke:var(--fg);stroke-width:2}
-.abroad{position:absolute;top:12px;left:12px;display:flex;align-items:center;gap:10px;padding:8px 12px 8px 8px;background:var(--surface-2);border:2px solid var(--sun);border-radius:40px;font-family:var(--display);font-size:13px}
-.abroad img{width:40px;height:40px;border-radius:50%;image-rendering:pixelated}
-
-.card{display:flex;flex-direction:column;gap:16px}
-.top{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-.face{width:72px;height:72px;border-radius:50%;border:3px solid var(--c,var(--muted));padding:2px;background:#000;image-rendering:pixelated;flex:none}
-.top-txt{display:flex;flex-direction:column;align-items:flex-start;gap:6px}
-.status{display:inline-flex;align-items:center;gap:7px;padding:4px 9px;border-radius:3px;border:1px solid currentColor;font-family:var(--display);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:18px;display:flex;flex-direction:column;min-width:0}
+.block{display:flex;flex-direction:column;gap:6px;padding-block:14px;border-bottom:1px solid var(--line)}
+.block:first-child{padding-top:0}
+.now-top{display:flex;gap:14px;align-items:center}
+.face{width:88px;height:88px;border-radius:50%;border:3px solid var(--c,var(--muted));padding:2px;background:#000;image-rendering:pixelated;flex:none;object-fit:cover}
+.status{align-self:flex-start;display:inline-flex;align-items:center;gap:7px;padding:3px 8px;border-radius:3px;border:1px solid currentColor;font-family:var(--display);font-size:11px;letter-spacing:.06em;text-transform:uppercase}
 .status.live{background:var(--live);border-color:var(--live);color:#fff}
-.status .dot{width:8px;height:8px;border-radius:50%;background:currentColor}
-.status.live .dot{animation:blink 1s steps(2) infinite}
-@keyframes blink{50%{opacity:0}}
-.updated{color:var(--muted);font-size:12px}
-.doing{font-family:var(--display);font-size:clamp(15px,2vw,18px);line-height:1.35;margin:0;text-wrap:balance}
-.rows{display:flex;flex-direction:column;border-top:1px solid var(--line)}
-.row{display:grid;grid-template-columns:120px minmax(0,1fr);gap:12px;padding:10px 0;border-bottom:1px solid var(--line);align-items:baseline}
-.row .v{min-width:0}
-.row .v b{font-family:var(--display);font-weight:700}
-.row .v small{display:block;color:var(--muted);font-size:13px}
-.row .v a{color:var(--muted)}
-.hours{display:flex;gap:18px;flex-wrap:wrap}
-.hours div{display:flex;flex-direction:column}
-.hours b{font-family:var(--digits)!important;font-weight:400!important;font-size:30px;line-height:1;font-variant-numeric:tabular-nums}
-.hours .live-h b{color:var(--live)}
-.hours small{font-size:12px}
-.headline{display:flex;flex-direction:column;gap:6px;padding:12px;background:var(--surface-2);border-radius:4px}
-.headline h2{font-size:15px;line-height:1.35;margin:0}
-.headline p{margin:0;font-size:13px;color:var(--muted)}
-.headline a{color:var(--fg);font-size:13px}
+.status .dot{width:7px;height:7px;border-radius:50%;background:currentColor}
+.place{font-family:var(--display);font-weight:700;font-size:clamp(18px,2.2vw,22px);line-height:1.2;margin:0;text-wrap:balance}
+.place.sm{font-size:16px}
+.sub{color:var(--muted);font-size:13px;margin:0}
+.what{font-size:14px;margin:0}
+.src{font-size:12px;color:var(--muted)}
+.when{font-family:var(--digits);font-size:24px;line-height:1;color:var(--sun)}
+.dir{display:flex;align-items:center;gap:8px}
+.dir svg{flex:none}
+.guess{border:1px dashed var(--guess);border-radius:6px;padding:10px 12px;display:flex;flex-direction:column;gap:2px}
+.guess .label{color:var(--guess)}
+.guess .gq{font-family:var(--display);font-size:15px;line-height:1.3;color:var(--fg)}
+.guess .gd{font-family:var(--digits);font-size:20px;line-height:1;color:var(--guess)}
+.week{margin-top:auto;padding-top:14px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);display:flex;gap:6px 14px;flex-wrap:wrap}
+.block + .week{border-top:0}
+.week b{font-family:var(--digits);font-size:20px;font-weight:400;color:var(--fg)}
+.week .live-n b{color:var(--live)}
+.week .gap-n b{color:var(--guess)}
 
-.today{display:flex;flex-direction:column;gap:14px}
-.today h2{font-family:var(--display);font-size:20px;margin:0}
-.icons{display:flex;flex-wrap:wrap;gap:12px}
-.ico{all:unset;cursor:pointer;width:68px;height:68px;border-radius:50%;padding:3px;border:3px solid var(--c);background:#000;transition:transform .15s}
-.ico img{width:100%;height:100%;border-radius:50%;display:block;image-rendering:pixelated;object-fit:cover}
-.ico:hover{transform:translateY(-3px)}
-.ico[aria-current="true"]{box-shadow:0 0 0 3px var(--bg),0 0 0 5px var(--fg)}
-.ico:focus-visible{outline:2px solid var(--sun);outline-offset:4px}
-.empty{color:var(--muted);margin:0}
+.route{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:16px 18px}
+.route-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:6px}
+.route h2{font-family:var(--display);font-size:18px;margin:0}
+.day{font-family:var(--display);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:16px 0 4px}
+.stop{all:unset;box-sizing:border-box;cursor:pointer;display:grid;grid-template-columns:56px 14px minmax(0,1fr);gap:10px;align-items:start;width:100%;padding:8px 6px;border-radius:4px}
+.stop:hover{background:var(--surface-2)}
+.stop:focus-visible{outline:2px solid var(--sun)}
+.stop[aria-current="true"]{background:var(--surface-2)}
+.stop .t{font-family:var(--digits);font-size:20px;line-height:1.1;color:var(--muted);font-variant-numeric:tabular-nums}
+.stop .dotc{width:12px;height:12px;border-radius:50%;margin-top:5px;background:var(--c);box-shadow:0 0 0 3px var(--bg)}
+.stop .p{font-weight:700;display:block}
+.stop .d{display:block;font-size:13px;color:var(--muted)}
+.kind{font-family:var(--display);font-size:9px;letter-spacing:.08em;text-transform:uppercase;padding:1px 5px;border:1px solid var(--line);border-radius:2px;color:var(--muted);margin-left:6px;vertical-align:2px;white-space:nowrap}
+.gaprow{display:grid;grid-template-columns:56px 14px minmax(0,1fr);gap:10px;align-items:center;padding:6px}
+.gaprow .t{font-family:var(--digits);font-size:18px;color:var(--guess)}
+.gaprow .bar{width:2px;height:100%;min-height:28px;margin-left:5px;background:repeating-linear-gradient(var(--guess) 0 4px,transparent 4px 8px)}
+.gaprow .gq{font-size:13px;color:var(--guess);font-style:italic}
+.empty{color:var(--muted)}
 
+.leaflet-container{font-family:var(--body);background:#0f0d13}
+.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--surface-2);color:var(--fg);border:1px solid var(--line)}
+.leaflet-popup-content{margin:10px 12px;font-size:13px;line-height:1.4}
+.leaflet-popup-content b{font-family:var(--display);font-size:13px}
+.leaflet-control-attribution{background:rgba(12,10,15,.75)!important;color:var(--muted)!important}
+.leaflet-control-attribution a{color:var(--fg)!important}
+.leaflet-bar a{background:var(--surface-2);color:var(--fg);border-color:var(--line)}
+.route-line{stroke-dasharray:6 6;animation:dash 1.2s linear infinite}
+.next-line{stroke-dasharray:3 7;animation:dash 1s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-12}}
+.pin{position:relative;width:64px;height:76px}
+.pin .ring{position:absolute;left:22px;bottom:-10px;width:20px;height:20px;border-radius:50%;border:2px solid var(--c);animation:ping 1.8s ease-out infinite}
+@keyframes ping{from{transform:scale(1);opacity:.9}to{transform:scale(2.6);opacity:0}}
+.pin .head{position:absolute;left:0;top:0;width:64px;height:64px;border-radius:50%;background:var(--c);padding:4px;border:2px solid var(--fg);box-shadow:0 6px 18px rgba(0,0,0,.5)}
+.pin .head img{width:100%;height:100%;border-radius:50%;image-rendering:pixelated;object-fit:cover;background:#000}
+.pin .tail{position:absolute;left:24px;top:58px;width:0;height:0;border-left:8px solid transparent;border-right:8px solid transparent;border-top:14px solid var(--fg)}
+.num{width:22px;height:22px;border-radius:50%;background:var(--surface-2);border:2px solid var(--orange);color:var(--fg);font-family:var(--digits);font-size:16px;line-height:18px;text-align:center}
+.nextpin{width:22px;height:22px;border-radius:50%;background:var(--bg);border:3px dashed var(--sun)}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
@@ -97,187 +116,256 @@ h1 span{color:var(--orange)}
 <div class="wrap">
   <header>
     <h1>¿Dónde está <span>Keiko</span>?</h1>
-    <span class="by">POR MNRY</span>
+    <div class="meta"><span class="pulse"><i></i><span id="updated">Conectando</span></span><span>POR MNRY</span></div>
   </header>
 
   <section class="stage">
-    <div class="panel map-box">
-      <svg id="map" role="img" aria-label="Mapa del Perú con su ubicación"></svg>
-      <div class="abroad" id="abroad" hidden><img id="abroadImg" alt=""><span id="abroadText"></span></div>
-    </div>
+    <div id="map" role="region" aria-label="Mapa del recorrido"></div>
 
-    <div class="panel card" aria-live="polite">
-      <div class="top">
-        <img class="face" id="face" alt="">
-        <div class="top-txt">
-          <span class="status" id="status"><span class="dot"></span><span id="statusText">Cargando</span></span>
-          <span class="updated" id="updated"></span>
+    <aside class="card" aria-live="polite">
+      <div class="block">
+        <p class="label">Dónde está</p>
+        <div class="now-top">
+          <img class="face" id="face" alt="">
+          <div style="display:flex;flex-direction:column;gap:6px;min-width:0">
+            <span class="status" id="status"><span class="dot"></span><span id="statusText">Cargando</span></span>
+            <span class="when" id="nowWhen"></span>
+          </div>
+        </div>
+        <p class="place" id="nowPlace">…</p>
+        <p class="sub" id="nowFull"></p>
+        <p class="what" id="nowWhat"></p>
+        <span class="src" id="nowSrc"></span>
+        <div class="guess" id="nowGuess" hidden>
+          <span class="label">Sin agenda pública</span>
+          <span class="gd" id="gapDur"></span>
+          <span class="gq" id="gapQ"></span>
         </div>
       </div>
-      <p class="doing" id="doing"></p>
-      <div class="rows">
-        <div class="row"><span class="label">Ubicación</span><span class="v" id="place"></span></div>
-        <div class="row"><span class="label">Actividad</span>
-          <span class="v"><span class="hours">
-            <div class="live-h"><b id="nLive">–</b><small>notas de en vivos y redes</small></div>
-            <div><b id="nAll">–</b><small>horas en agenda oficial</small></div>
-          </span><small>Últimos 7 días</small></span></div>
-        <div class="row"><span class="label">Agenda oficial</span><span class="v" id="agenda"></span></div>
-        <div class="row"><span class="label">Siguiente punto</span><span class="v" id="next"></span></div>
+
+      <div class="block">
+        <p class="label dir"><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M12 7H2M6 3 2 7l4 4" fill="none" stroke="currentColor" stroke-width="2"/></svg>De dónde viene</p>
+        <p class="place sm" id="prevPlace">–</p>
+        <p class="sub" id="prevSub"></p>
       </div>
-      <div class="headline" id="headline">
-        <span class="label" id="hMeta"></span>
-        <h2 id="hTitle"></h2>
-        <p id="hText" hidden></p>
-        <a id="hLink" href="#" target="_blank" rel="noopener">Ver nota</a>
+
+      <div class="block">
+        <p class="label dir"><svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 7h10M8 3l4 4-4 4" fill="none" stroke="currentColor" stroke-width="2"/></svg>A dónde va</p>
+        <p class="place sm" id="nextPlace">–</p>
+        <p class="sub" id="nextSub"></p>
       </div>
-    </div>
+
+      <div class="week" id="week"></div>
+    </aside>
   </section>
 
-  <section class="panel today">
-    <h2 id="todayTitle">¿Cómo le fue hoy?</h2>
-    <div class="icons" id="icons"></div>
+  <section class="route">
+    <div class="route-head">
+      <h2>Su recorrido</h2>
+      <span class="label">Últimos 7 días · toca una parada</span>
+    </div>
+    <div id="stops"><p class="empty">Cargando recorrido…</p></div>
   </section>
 </div>
 
 <script>
-const NS="http://www.w3.org/2000/svg", $=id=>document.getElementById(id);
-const el=(n,a)=>{const e=document.createElementNS(NS,n);for(const k in a)e.setAttribute(k,a[k]);return e};
-const IMG=s=>`img/${s}.png`;
+const $=id=>document.getElementById(id);
 const tz="America/Lima";
-const fmt=d=>new Date(d).toLocaleString("es-PE",{timeZone:tz,weekday:"short",day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+const IMG=s=>`img/${s}.png`;
+const hhmm=d=>new Date(d).toLocaleTimeString("es-PE",{timeZone:tz,hour:"2-digit",minute:"2-digit",hour12:false});
+const dayName=d=>new Date(d).toLocaleDateString("es-PE",{timeZone:tz,weekday:"long",day:"numeric",month:"long"});
 const dayKey=d=>new Date(d).toLocaleDateString("en-CA",{timeZone:tz});
-function ago(d){const h=(Date.now()-new Date(d))/36e5;return h<1?"hace minutos":h<24?`hace ${Math.round(h)} h`:`hace ${Math.round(h/24)} d`}
-const txt=(tag,t)=>Object.assign(document.createElement(tag),{textContent:t});
+function ago(d){const m=(Date.now()-new Date(d))/6e4;if(m<1)return"ahora";if(m<60)return`hace ${Math.round(m)} min`;const h=m/60;if(h<24)return`hace ${Math.round(h)} h`;return`hace ${Math.round(h/24)} d`}
+const dur=ms=>{const m=Math.round(ms/6e4),h=Math.floor(m/60),r=m%60;return h?`${h} h${r?" "+r+" min":""}`:`${r} min`};
+const durShort=ms=>{const h=ms/36e5;return h>=1?`${Math.round(h)} h`:`${Math.round(ms/6e4)} min`};
+const wd=d=>new Date(d).toLocaleDateString("es-PE",{timeZone:tz,weekday:"short"}).replace(".","");
+const span=(a,b)=>dayKey(a)===dayKey(b)?`de ${hhmm(a)} a ${hhmm(b)}`:`del ${wd(a)} ${hhmm(a)} al ${wd(b)} ${hhmm(b)}`;
+const short=(s,n)=>!s?"":s.length>n?s.slice(0,n-1)+"…":s;
+const clean=s=>(s||"").replace(/^[^\p{L}\p{N}¿¡"“]+/u,"").trim();
 
-let MAP, DATA, svg=$("map"), deps=[], layer, P, selected=null;
-const proj=(lat,lng)=>[(lng-P.minx)*P.k*P.s,(P.maxy-lat)*P.s];
-const inside=(x,y,p)=>{try{const pt=svg.createSVGPoint();pt.x=x;pt.y=y;return p.isPointInFill(pt)}catch(e){return false}};
+// Conjeturas para los tiempos muertos de la agenda. Siempre como pregunta: el dato es el hueco, la pregunta es nuestra.
+const GUESSES=[
+  "¿Mirando su TikTok?",
+  "¿Viendo una receta en Instagram?",
+  "¿WhatsApeando a sus ministros?",
+  "¿Probándose sombreros?",
+  "¿Visitando a la pitonisa?",
+  "¿Ensayando el próximo en vivo?",
+  "¿Eligiendo el filtro para la foto?",
+  "¿Contestando comentarios con otra cuenta?"
+];
+const guessFor=t=>{let h=0;for(const c of String(t))h=(h*31+c.charCodeAt(0))>>>0;return GUESSES[h%GUESSES.length]};
+const GAP_MIN_H=3;          // un hueco cuenta desde 3 horas
+const DAY_START=8, DAY_END=20; // solo dentro del horario de trabajo
 
-function buildMap(){
-  P=MAP.proj;
-  svg.setAttribute("viewBox",`-30 -60 ${P.W+60} ${P.H+80}`);
-  const defs=el("defs",{}), cp=el("clipPath",{id:"faceclip"}); cp.appendChild(el("circle",{cx:0,cy:-44,r:22})); defs.appendChild(cp); svg.appendChild(defs);
-  deps=MAP.deps.map(d=>{const p=el("path",{d:d.d,class:"dep"});const t=el("title",{});t.textContent=d.n;p.appendChild(t);svg.appendChild(p);return p});
-  layer=el("g",{}); svg.appendChild(layer);
-}
+let DATA, STOPS=[], map, layers;
 
-// Dónde está: lugar de la nota si lo tiene; si no, el último lugar reportado (3 días); si no, la sede de gobierno.
-function locationFor(item, isCurrent){
-  const ag=(DATA.agenda||[]).find(a=>a.place);
-  const agLoc = ag && {place:ag.place, note:`Agenda oficial, ${ago(ag.start)}`, when:new Date(ag.start)};
-  const newsLoc = item && item.place && {place:item.place, note:`Según ${item.source}, ${ago(item.date)}`, when:new Date(item.date)};
-  if(!isCurrent && newsLoc) return newsLoc;
-  if(agLoc && newsLoc) return agLoc.when>=newsLoc.when ? agLoc : newsLoc;
-  if(newsLoc) return newsLoc;
-  if(agLoc && (Date.now()-agLoc.when)/864e5<=3) return agLoc;
-  const lp=DATA.last_place;
-  if(lp && (Date.now()-new Date(lp.date))/864e5<=3) return {place:lp.place, note:`Último lugar reportado por ${lp.source}, ${ago(lp.date)}`};
-  // sin lugar reciente
-  return {place:DATA.default_place, note:"Sin reporte de viaje. Se asume la sede de gobierno."};
-}
-
-function drawMap(loc,state){
-  layer.innerHTML="";
-  DATA.items.forEach(o=>{if(o.place&&!o.place.abroad){const [x,y]=proj(o.place.lat,o.place.lng);layer.appendChild(el("circle",{class:"past",cx:x,cy:y,r:3.5}))}});
-  const st=DATA.states[state], abroad=loc.place.abroad;
-  $("abroad").hidden=!abroad;
-  deps.forEach(p=>p.classList.remove("on"));
-  let x,y;
-  if(!abroad){
-    [x,y]=proj(loc.place.lat,loc.place.lng);
-    deps.forEach(p=>p.classList.toggle("on",inside(x,y,p)));
-  } else {
-    $("abroadImg").src=IMG(state); $("abroadText").textContent="✈ En "+(loc.place.city||loc.place.name);
+function buildStops(){
+  const s=[];
+  (DATA.agenda||[]).forEach(a=>{ if(a.place&&a.place.lat!=null) s.push({kind:"agenda",time:a.start,end:a.end,place:a.place,text:a.subject,state:a.state||"posando",url:DATA.agenda_page,source:"Agenda oficial"}); });
+  (DATA.items||[]).forEach(n=>{ if(n.place&&n.place.lat!=null&&!n.place.abroad) s.push({kind:"news",time:n.date,place:n.place,text:clean(n.title),state:n.state,url:n.url,source:n.source}); });
+  s.sort((a,b)=>new Date(a.time)-new Date(b.time));
+  const out=[];
+  for(const x of s){
+    const last=out[out.length-1];
+    if(last && last.place.name===x.place.name && Math.abs(new Date(x.time)-new Date(last.time))<6*36e5){ if(x.kind==="agenda"&&last.kind!=="agenda") out[out.length-1]={...x}; continue; }
+    out.push(x);
   }
-  const nx=DATA.next&&!DATA.next.place.abroad?proj(DATA.next.place.lat,DATA.next.place.lng):null;
-  if(nx){
-    if(!abroad) layer.appendChild(el("path",{class:"next-line",d:`M${x},${y} Q${(x+nx[0])/2-40},${(y+nx[1])/2} ${nx[0]},${nx[1]}`}));
-    layer.appendChild(el("circle",{class:"next-dot",cx:nx[0],cy:nx[1],r:6}));
-  }
-  if(abroad) return;
-  const g=el("g",{transform:`translate(${x},${y})`});
-  g.appendChild(el("circle",{class:"ring",cx:0,cy:0,r:8,stroke:st.color}));
-  g.appendChild(el("path",{class:"pin-body",fill:st.color,d:"M0,0 C-6,-12 -27,-24 -27,-44 A27,27 0 1 1 27,-44 C27,-24 6,-12 0,0Z"}));
-  g.appendChild(el("image",{href:IMG(state),x:-22,y:-66,width:44,height:44,"clip-path":"url(#faceclip)",preserveAspectRatio:"xMidYMid slice",style:"image-rendering:pixelated"}));
-  layer.appendChild(g);
+  const week=Date.now()-7*864e5;
+  return out.filter(x=>new Date(x.time)>=week);
 }
 
-function show(item, isCurrent){
-  selected=item;
-  const ag0=(DATA.agenda||[])[0];
-  const lastSeen=Math.max(item?+new Date(item.date):0, ag0?+new Date(ag0.end):0);
-  const silent = isCurrent && (!lastSeen || (Date.now()-lastSeen)/36e5 > DATA.silence_limit);
-  const state = silent ? "posando" : item.state;
-  const st = silent ? (DATA.silence||DATA.states.posando) : DATA.states[state], live=state==="transmitiendo";
+// Horas de trabajo (8 a 20 h, hora de Lima) sin ninguna actividad en la agenda oficial.
+const limaHour=d=>+new Date(d).toLocaleString("en-US",{timeZone:tz,hour:"numeric",hour12:false})%24;
+function workMs(a,b){ // tiempo entre a y b que cae entre DAY_START y DAY_END
+  let t=+a, total=0; const step=15*6e4;
+  while(t<b){ const h=limaHour(t); if(h>=DAY_START&&h<DAY_END) total+=Math.min(step,b-t); t+=step; }
+  return total;
+}
+function gaps(){
+  const ag=(DATA.agenda||[]).slice().sort((x,y)=>new Date(x.start)-new Date(y.start));
+  const g=[];
+  for(let i=1;i<ag.length;i++){
+    const a=new Date(ag[i-1].end||ag[i-1].start), b=new Date(ag[i].start);
+    const ms=workMs(a,b); if(ms>=GAP_MIN_H*36e5) g.push({from:a,to:b,ms});
+  }
+  return g;
+}
+function currentGap(){
+  const ag=DATA.agenda||[]; if(!ag.length) return null;
+  const lastEnd=new Date(ag.reduce((m,a)=>Math.max(m,+new Date(a.end||a.start)),0));
+  const ms=workMs(lastEnd,Date.now());
+  return ms>=GAP_MIN_H*36e5 ? {from:lastEnd,to:new Date(),ms} : null;
+}
+
+function initMap(){
+  map=L.map("map",{scrollWheelZoom:false}).setView([-9.2,-75],5);
+  L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",{
+    maxZoom:18, subdomains:"abcd",
+    attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  }).addTo(map);
+  map.on("click",()=>map.scrollWheelZoom.enable());
+  layers=L.layerGroup().addTo(map);
+}
+const color=s=>(DATA.states[s]||DATA.states.posando).color;
+const facePin=state=>L.divIcon({className:"",iconSize:[64,76],iconAnchor:[32,76],popupAnchor:[0,-70],
+  html:`<div class="pin" style="--c:${color(state)}"><span class="ring"></span><div class="head"><img src="${IMG(state)}" alt=""></div><span class="tail"></span></div>`});
+const numPin=n=>L.divIcon({className:"",iconSize:[22,22],iconAnchor:[11,11],html:`<div class="num">${n}</div>`});
+function popup(st){
+  const d=document.createElement("div"), br=()=>document.createElement("br");
+  d.append(Object.assign(document.createElement("b"),{textContent:st.place.name}), br());
+  d.append(`${dayName(st.time)} · ${hhmm(st.time)}${st.end&&st.end!==st.time?"–"+hhmm(st.end):""}`, br());
+  if(st.text) d.append(short(st.text,140), br());
+  if(st.url) d.append(Object.assign(document.createElement("a"),{href:st.url,target:"_blank",rel:"noopener",textContent:st.source}));
+  return d;
+}
+
+function drawMap(){
+  layers.clearLayers();
+  const pts=STOPS.map(s=>[s.place.lat,s.place.lng]);
+  if(pts.length>1) L.polyline(pts,{color:"#f5781e",weight:3,opacity:.85,className:"route-line"}).addTo(layers);
+  STOPS.forEach((s,i)=>{ if(i<STOPS.length-1) L.marker([s.place.lat,s.place.lng],{icon:numPin(i+1),title:s.place.name}).bindPopup(popup(s)).addTo(layers).on("click",()=>mark(i)); });
+  const cur=STOPS[STOPS.length-1];
+  const nx=DATA.next&&DATA.next.place&&!DATA.next.place.abroad&&DATA.next.place.lat!=null?DATA.next.place:null;
+  if(cur){
+    if(nx){
+      L.polyline([[cur.place.lat,cur.place.lng],[nx.lat,nx.lng]],{color:"#ffc23d",weight:2.5,className:"next-line"}).addTo(layers);
+      L.marker([nx.lat,nx.lng],{icon:L.divIcon({className:"",iconSize:[22,22],iconAnchor:[11,11],html:'<div class="nextpin"></div>'}),title:"Próximo destino"}).bindPopup("Próximo destino: "+nx.name).addTo(layers);
+    }
+    L.marker([cur.place.lat,cur.place.lng],{icon:facePin(currentState()),zIndexOffset:1000,title:cur.place.name}).bindPopup(popup(cur)).addTo(layers).on("click",()=>mark(STOPS.length-1));
+  }
+  const focus=STOPS.slice(-4).map(s=>[s.place.lat,s.place.lng]); if(nx) focus.push([nx.lat,nx.lng]);
+  if(focus.length>1) map.fitBounds(focus,{padding:[60,60],maxZoom:13}); else if(focus.length===1) map.setView(focus[0],13);
+}
+
+function lastSeen(){ const c=STOPS[STOPS.length-1], n=(DATA.items||[])[0]; return Math.max(c?+new Date(c.end||c.time):0, n?+new Date(n.date):0); }
+const silent=()=>{const t=lastSeen();return !t||(Date.now()-t)/36e5>(DATA.silence_limit||24)};
+function currentState(){
+  if(silent()||currentGap()) return "posando";
+  const n=(DATA.items||[])[0], c=STOPS[STOPS.length-1];
+  if(n&&(!c||new Date(n.date)>new Date(c.time))) return n.state;
+  return c?c.state:"posando";
+}
+
+function renderCard(){
+  const cur=STOPS[STOPS.length-1], prev=STOPS[STOPS.length-2], state=currentState(), gap=currentGap();
+  const st = silent() ? (DATA.silence||DATA.states.posando) : DATA.states[state];
   $("face").src=IMG(state); $("face").alt="Ilustración: "+st.label; $("face").style.setProperty("--c",st.color);
-  const s=$("status"); s.className="status"+(live?" live":""); s.style.color=live?"":st.color;
-  $("statusText").textContent=st.label;
-  $("doing").textContent=st.doing;
+  const s=$("status"); const live=state==="transmitiendo"&&!silent(); s.className="status"+(live?" live":""); s.style.color=live?"":st.color;
+  $("statusText").textContent=gap&&!silent()?"Sin agenda":st.label;
+  if(cur){
+    $("nowPlace").textContent=(gap?"Última vez en ":"")+cur.place.name;
+    $("nowFull").textContent=[cur.place.full&&cur.place.full!==cur.place.name?cur.place.full:cur.place.city, cur.place.approx?"ubicación aproximada":null].filter(Boolean).join(" · ");
+    const n=(DATA.items||[])[0], newer=n&&new Date(n.date)>new Date(cur.time);
+    $("nowWhat").textContent = silent()&&!gap ? st.doing : short(newer?clean(n.title):cur.text,150);
+    $("nowSrc").replaceChildren();
+    const src=newer?{u:n.url,t:`${n.source} · ${ago(n.date)}`}:{u:cur.url,t:cur.source};
+    if(src.u) $("nowSrc").append(Object.assign(document.createElement("a"),{href:src.u,target:"_blank",rel:"noopener",textContent:src.t})); else $("nowSrc").textContent=src.t;
+  } else { $("nowPlace").textContent="Paradero desconocido"; $("nowFull").textContent=""; $("nowWhat").textContent=st.doing; $("nowSrc").textContent=""; }
+  $("nowGuess").hidden=!gap;
+  if(gap){ $("gapDur").textContent=durShort(gap.ms)+" de horario laboral sin agenda"; $("gapQ").textContent=guessFor(+gap.from); }
+  tick();
 
-  const loc = silent ? {place:DATA.default_place, note:lastSeen?`Sin noticias ni agenda desde ${fmt(lastSeen)}`:"Ningún medio reporta actividad reciente."} : locationFor(item, isCurrent);
-  const pl=loc.place, where=[pl.city&&pl.city!==pl.name?pl.city:null, pl.abroad?"extranjero":null, pl.approx?"ubicación aproximada":null].filter(Boolean).join(" · ");
-  $("place").replaceChildren(txt("b",pl.name), txt("small",(where?where+" · ":"")+loc.note));
+  if(prev){ $("prevPlace").textContent=prev.place.name; $("prevSub").textContent=`${dayName(prev.time)} · ${hhmm(prev.time)} · ${short(prev.text,80)}`; }
+  else { $("prevPlace").textContent="Sin parada anterior registrada"; $("prevSub").textContent=""; }
 
-  if(ag0){
-    const hhmm=d=>new Date(d).toLocaleTimeString("es-PE",{timeZone:tz,hour:"2-digit",minute:"2-digit"});
-    const day=new Date(ag0.start).toLocaleDateString("es-PE",{timeZone:tz,weekday:"short",day:"numeric",month:"short"});
-    const sm=document.createElement("small");
-    sm.append(`${day} · ${hhmm(ag0.start)}–${hhmm(ag0.end)} · ${ag0.lugar||"sin lugar"} · `);
-    if(DATA.agenda_page) sm.append(Object.assign(document.createElement("a"),{href:DATA.agenda_page,target:"_blank",rel:"noopener",textContent:"Ver agenda"}));
-    const subj=ag0.subject.length>120?ag0.subject.slice(0,117)+"…":ag0.subject;
-    const b=txt("span",subj); b.style.cssText="display:block;font-size:14px";
-    $("agenda").replaceChildren(b, sm);
-  } else $("agenda").replaceChildren(txt("b","Sin actividades registradas"));
+  const nx=DATA.next;
+  if(nx&&nx.place){ $("nextPlace").textContent=nx.place.name; $("nextSub").replaceChildren(Object.assign(document.createElement("a"),{href:nx.url,target:"_blank",rel:"noopener",textContent:`Anunciado por ${nx.source}, ${ago(nx.date)}`})); }
+  else { $("nextPlace").textContent="Sin destino anunciado"; $("nextSub").textContent="Ni la agenda oficial ni la prensa dicen a dónde irá."; }
 
-  const n=DATA.next;
-  if(n){
-    const a=Object.assign(document.createElement("a"),{href:n.url,target:"_blank",rel:"noopener",textContent:`Según ${n.source}, ${ago(n.date)}`});
-    const sm=document.createElement("small"); sm.append(a);
-    $("next").replaceChildren(txt("b",n.place.name), sm);
-  } else $("next").replaceChildren(txt("b","Sin agenda pública anunciada"));
-
-  $("headline").hidden=!item;
-  if(item){
-    $("hMeta").textContent=item.source+" · "+fmt(item.date);
-    $("hTitle").textContent=item.title;
-    $("hText").textContent=item.excerpt||""; $("hText").hidden=!item.excerpt;
-    $("hLink").href=item.url;
-  }
-  drawMap(loc,state);
-  document.querySelectorAll(".ico").forEach(b=>b.setAttribute("aria-current",item&&b.dataset.id===item.id?"true":"false"));
+  const h=((DATA.agenda_minutes_7d||0)/60).toFixed(1).replace(".0","");
+  const gh=gaps().reduce((m,g)=>m+g.ms,0)/36e5;
+  $("week").innerHTML=`<span><b>${h} h</b> en agenda oficial</span><span class="gap-n"><b>${gh.toFixed(0)} h</b> de huecos</span><span class="live-n"><b>${DATA.counts_7d?.transmitiendo??0}</b> notas de en vivos</span><span>últimos 7 días</span>`;
 }
 
-function render(){
-  $("nLive").textContent=DATA.counts_7d.transmitiendo??0;
-  $("nAll").textContent=((DATA.agenda_minutes_7d||0)/60).toFixed(1).replace(".0","");
-  $("updated").textContent="Actualizado "+ago(DATA.generated_at);
-  const today=dayKey(Date.now());
-  let list=DATA.items.filter(i=>dayKey(i.date)===today);
-  $("todayTitle").textContent = list.length ? "¿Cómo le fue hoy?" : "¿Cómo le fue estos días?";
-  if(!list.length) list=DATA.items.slice(0,12);
-  const box=$("icons"); box.replaceChildren();
-  if(!list.length) box.append(txt("p","Todavía no hay titulares."));
-  list.forEach(i=>{
-    const st=DATA.states[i.state];
-    const b=document.createElement("button"); b.className="ico"; b.dataset.id=i.id; b.style.setProperty("--c",st.color);
-    b.title=`${st.label} · ${i.source} · ${fmt(i.date)}`; b.setAttribute("aria-label",b.title);
-    const im=document.createElement("img"); im.src=IMG(i.state); im.alt=""; b.append(im);
-    b.addEventListener("click",()=>{show(i,i===DATA.items[0]); if(innerWidth<820) document.querySelector(".stage").scrollIntoView({behavior:"smooth"})});
+function renderStops(){
+  const box=$("stops"); box.replaceChildren();
+  if(!STOPS.length){ box.append(Object.assign(document.createElement("p"),{className:"empty",textContent:"Todavía no hay paradas registradas."})); return; }
+  // línea de tiempo: paradas y huecos, de lo más reciente a lo más antiguo
+  const rows=STOPS.map((s,i)=>({type:"stop",t:+new Date(s.time),s,i}));
+  gaps().forEach(g=>rows.push({type:"gap",t:+g.from+1,g}));
+  const cg=currentGap(); if(cg) rows.push({type:"gap",t:Date.now(),g:cg,now:true});
+  rows.sort((a,b)=>b.t-a.t);
+  let lastDay="";
+  rows.forEach(r=>{
+    const dk=dayKey(r.type==="stop"?r.s.time:r.g.from);
+    if(dk!==lastDay){ lastDay=dk; box.append(Object.assign(document.createElement("p"),{className:"day",textContent:dayName(r.type==="stop"?r.s.time:r.g.from)})); }
+    if(r.type==="gap"){
+      const d=document.createElement("div"); d.className="gaprow";
+      d.innerHTML=`<span class="t"></span><span class="bar"></span><span class="gq"></span>`;
+      d.querySelector(".t").textContent=durShort(r.g.ms);
+      d.querySelector(".gq").textContent=(r.now?`Ahora: sin agenda desde el ${wd(r.g.from)} ${hhmm(r.g.from)}. `:`Sin agenda ${span(r.g.from,r.g.to)}. `)+guessFor(+r.g.from);
+      box.append(d); return;
+    }
+    const {s,i}=r;
+    const b=document.createElement("button"); b.className="stop"; b.dataset.i=i; b.style.setProperty("--c",color(s.state));
+    b.innerHTML=`<span class="t"></span><span class="dotc"></span><span><span class="p"></span><span class="d"></span></span>`;
+    b.querySelector(".t").textContent=hhmm(s.time);
+    const p=b.querySelector(".p"); p.textContent=(i===STOPS.length-1?"Último punto · ":"")+s.place.name;
+    p.append(Object.assign(document.createElement("span"),{className:"kind",textContent:s.kind==="agenda"?"Agenda oficial":s.source}));
+    b.querySelector(".d").textContent=short(s.text,130);
+    b.addEventListener("click",()=>{ mark(i); map.flyTo([s.place.lat,s.place.lng],15,{duration:.8}); setTimeout(()=>openPopup(i),850); if(innerWidth<900) $("map").scrollIntoView({behavior:"smooth"}); });
     box.append(b);
   });
-  const keep = selected && DATA.items.find(i=>i.id===selected.id);
-  show(keep||DATA.items[0]||null, !keep || keep===DATA.items[0]);
 }
+function mark(i){ document.querySelectorAll(".stop").forEach(b=>b.setAttribute("aria-current",+b.dataset.i===i?"true":"false")); }
+function openPopup(i){ const s=STOPS[i]; L.popup({offset:[0,i===STOPS.length-1?-70:-8]}).setLatLng([s.place.lat,s.place.lng]).setContent(popup(s)).openOn(map); }
 
+function tick(){
+  if(!DATA) return;
+  $("updated").textContent="Actualizado "+ago(DATA.generated_at);
+  const c=STOPS[STOPS.length-1]; if(c) $("nowWhen").textContent=`${hhmm(c.time)} · ${ago(c.time)}`;
+  const g=currentGap(); if(g) $("gapDur").textContent=durShort(g.ms)+" de horario laboral sin agenda";
+}
 async function load(){
   try{
-    if(!MAP){MAP=await (await fetch("peru.json")).json(); buildMap();}
     DATA=await (await fetch("data.json?t="+Date.now(),{cache:"no-store"})).json();
-    render();
-  }catch(e){ $("statusText").textContent="Sin datos"; $("doing").textContent="No se pudieron cargar los titulares. Vuelve a intentarlo en unos minutos."; }
+    STOPS=buildStops();
+    if(!map) initMap();
+    drawMap(); renderCard(); renderStops();
+  }catch(e){ console.error(e); $("statusText").textContent="Sin datos"; $("nowWhat").textContent="No se pudieron cargar los datos. Vuelve a intentarlo en unos minutos."; }
 }
-load(); setInterval(load,10*60*1000);
+load(); setInterval(load,5*60*1000); setInterval(tick,60*1000);
 </script>
 </body>
 </html>
