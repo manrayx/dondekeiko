@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T15:00:24.804895+00:00",
+ "generated_at": "2026-10-26T15:21:46.947681+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -109,8 +109,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 56
+  "triste": 1,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -411,6 +411,17 @@
  "agenda_minutes_7d": 704,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "58e76dfa8d06",
+   "title": "Gobierno realiza operativo para quitar antenas de telecomunicaciones clandestinas en penales",
+   "excerpt": "Gobierno realiza operativo para desmantelar antenas de telecomunicaciones clandestinas en penales. La presidenta Keiko Fujimori garantizó que no habra dispositivos tecnologicos ilegales en carceles.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/gobierno-de-keiko-fujimori-realiza-operativo-para-desmantelar-antenas-de-telecomunicaciones-clandestinas-en-penales-noticia/",
+   "date": "2026-10-26T15:06:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "073a90a67a9e",
    "title": "Presidenta Keiko Fujimori felicita a Luiz Inácio Lula da Silva por su reelección en Brasil",
@@ -1117,17 +1128,6 @@
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak11c0pNY05NUXlrLWd3QnFPcmdySjhWOXFzM1FJeUlKaDl6NW9kdG5VaVUxTjdJQzJWYmtKaU01blotWlRmYUd6cy1qaGN1aC1XRUhHX2xuWUZCd2t3ZExmNDZDZzZxSmlxeklaaUNHZzFnaXR6TnM0d25zdmxTSXNTVF9CaDhkanlkRnZkT2phTkowYXRGR1ZsdTJNT3JYVFl4NGY2VVQwTVprbVd0QUVkNXUybUppZ1ozdDQ2ZHNqMXd2Q0ZmblpB?oc=5",
    "date": "2026-10-24T17:45:19+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0823d5e4a54a",
-   "title": "\"¡Jamás va a querer a su patria!\": arequipeña encara a Keiko Fujimori y cuestiona apoyo de simpatizantes (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV3o1MUFSTzVEdDVPRzFnRlh4N0hXVXp0OVpNRzRhN1BNay1VNEZBR0U0ZWhMOTFheFB6eWFPZlFmb0tqWWtRMjd3Zk5wSUMxQU1RQ1hlX0Q5WGZsVk1WOEJvUEFENVM1SGthSnBWM29ybHlyMmJNMzJpSWNVRFJoUGFoSERpQl9fTHdjd3FscTNaQWZiaEt5MUtmaENHemhfQlFsVk40cldESkxOdVRoMXpWbGNlc2ppcnZxSlAzOWtrTWxjeUtKMHhfdDE?oc=5",
-   "date": "2026-10-24T17:21:41+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
