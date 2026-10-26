@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T20:44:13.460682+00:00",
+ "generated_at": "2026-10-26T21:05:45.022006+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -435,7 +435,18 @@
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
-   "date": "2026-10-26T19:43:42+00:00",
+   "date": "2026-10-26T20:53:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a7c9572720c4",
+   "title": "Presidenta Fujimori: “El orden vuelve y el control de las cárceles se va a retomar”",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaERkZmgxR2kxY3U0ZEwxQzFUSjlTV1gzSG1iZlNuYnF3YWlHdUJMbm1DeUU2T3JDOWo2QXpFcC01QkRLLVhoaWM1eW82eUFTQ3NQcEQxOTd2RHYzWW00aTdjWEpOSS1ZSThER285WkJCRDVCV3d0bGNVYTV0YUx3N1Y2LU9vTkFuRHBNcWVFTFNJbS1EUVQ1UkpCYjNvdFgzX0pwbm4xREs4ZHdyTURrdVhCX2dVNDQ0Q2ZuclZOcHhMZw?oc=5",
+   "date": "2026-10-26T20:15:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -509,6 +520,17 @@
     "abroad": true,
     "city": "Brasil"
    },
+   "next": null
+  },
+  {
+   "id": "1635486f4578",
+   "title": "Keiko Fujimori asegura ante golpes del fenómeno de El Niño: \"Será una mega respuesta la que el Estado va a dar\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEFDUHdZTFNYdGpEQUpkMEtUVUJBa0w5WUZTaXQyaFF4MlNpSFg2ZDJCVTlKZ09wSzVSYzZnNFI0cnEzQ19pbVQwZ1VhSFVVbWdXMFUzbjhJSmtDN1ByZWlXSGF6dnRzeDU0dE1aLU1kTV9vSndVc2Y4SE1lSWxHTzJnb2MxZGI5WUNmRlJB?oc=5",
+   "date": "2026-10-26T16:56:14+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -596,17 +618,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX18xS3BGamlIWHRXWlhxVzFnSHdIcVNuWDBLMm82Rl9yWExTaThDRHNhdUYzQ0xKQmxvWmo1TjVCSTExczFYbTRWUjl2M2JQTmJ6SlRLdTRJWkV3WlhKUEw4Q09nWXZtVWRYWWdtY3YtVUV6S0toZjJWTTJzWExiSnFRTW9VMFo1RW5QZV9KekVYSW8xd1p3NzB3ajhmUQ?oc=5",
    "date": "2026-10-26T14:39:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1635486f4578",
-   "title": "Keiko Fujimori asegura ante golpes del fenómeno de El Niño: \"Será una mega respuesta la que el Estado va a dar\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEFDUHdZTFNYdGpEQUpkMEtUVUJBa0w5WUZTaXQyaFF4MlNpSFg2ZDJCVTlKZ09wSzVSYzZnNFI0cnEzQ19pbVQwZ1VhSFVVbWdXMFUzbjhJSmtDN1ByZWlXSGF6dnRzeDU0dE1aLU1kTV9vSndVc2Y4SE1lSWxHTzJnb2MxZGI5WUNmRlJB?oc=5",
-   "date": "2026-10-26T14:11:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1142,23 +1153,6 @@
    "date": "2026-10-25T00:06:11+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "2ced5e4832a2",
-   "title": "Presidenta Keiko Fujimori en Junín: “Una obra de esta naturaleza le cambia la vida a la gente”",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTJwUE56QVRkSTNiMjN6aTM3QVpVblp6MFRfWjVqdUF0Mzk1UnNISFRpVVJrOEtFZERDXzI3MTZTYUVLT2Y2UDNBSGJqSml1SGVGamhMWW55N2pMdFZFc3BPS1lMWXd4R0Fob2FlYkY1MVhWNW1jUWZsdWE2NjRpdFRSTkk0ZUJuUXJXMDhMTm9RZUdXQ2d3a2IwcVRJb0t2azZFeTBTU0I2WG5TWUVNWXVBc0lrdWpmOUE3TmllNXBZSVdvTVZiZHlB?oc=5",
-   "date": "2026-10-24T23:44:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Junín",
-    "lat": -12.065,
-    "lng": -75.205,
-    "abroad": false,
-    "city": "Junín"
-   },
    "next": null
   }
  ],
