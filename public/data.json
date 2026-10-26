@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T03:33:34.239649+00:00",
+ "generated_at": "2026-10-26T03:55:07.010273+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "Brasil"
   },
-  "source": "Perú21",
-  "date": "2026-10-26T02:39:24+00:00"
+  "source": "RPP",
+  "date": "2026-10-26T03:03:44+00:00"
  },
  "next": {
   "place": {
@@ -437,6 +437,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e64ec253eb68",
+   "title": "Keiko Fujimori saludó a Lula da Silva por su triunfo en Brasil: \"Reafirmo nuestra voluntad de fortalecer nuestra alianza estratégica\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZTBRNkhXNDhVd1FtclJqN2g0NTFMdVpkQl83bExHaGphSmZnejhyNjhtRFFfNmswMlNNNld5UUVwNm0zemxYWWtCMlAyYllvNk1RLW1Nc015eDhvRklLQzhSX1pyTVZkV25sS2NhWnN4MnVVOUFzYTBNRUdzZkZNZ1huR0hWWXkzYmQyQXBpbkt5TW5ONE5rTXZvMk9uT3c3MzhwWXhONHAyMGM4alpUVWFDSnJXTDdlUmZtN05kZlpsa0FnU0RjTEFtcDJTYTdrd1Rha2p0MzJneE1UcVNXTE9IbVl0WHMzNEE5RUplenJ6SDRoRmtKQkNFejJkeU84VTl3WWJiQjdGWmc?oc=5",
+   "date": "2026-10-26T03:03:44+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
    "id": "3edcb5d7c85b",
    "title": "Presidenta Fujimori felicita a Lula da Silva por su reelección y ratifica alianza estratégica entre Perú y Brasil",
    "excerpt": "",
@@ -506,21 +521,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-felicita-a-lula-da-silva-tras-ganar-la-segunda-vuelta-en-las-elecciones-en-brasil-flavio-bolsonaro-ultimas-noticia/",
    "date": "2026-10-26T02:20:11+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
-   "next": null
-  },
-  {
-   "id": "e64ec253eb68",
-   "title": "Keiko Fujimori saludó a Lula da Silva por su triunfo en Brasil: \"Reafirmo nuestra voluntad de fortalecer nuestra alianza estratégica\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZTBRNkhXNDhVd1FtclJqN2g0NTFMdVpkQl83bExHaGphSmZnejhyNjhtRFFfNmswMlNNNld5UUVwNm0zemxYWWtCMlAyYllvNk1RLW1Nc015eDhvRklLQzhSX1pyTVZkV25sS2NhWnN4MnVVOUFzYTBNRUdzZkZNZ1huR0hWWXkzYmQyQXBpbkt5TW5ONE5rTXZvMk9uT3c3MzhwWXhONHAyMGM4alpUVWFDSnJXTDdlUmZtN05kZlpsa0FnU0RjTEFtcDJTYTdrd1Rha2p0MzJneE1UcVNXTE9IbVl0WHMzNEE5RUplenJ6SDRoRmtKQkNFejJkeU84VTl3WWJiQjdGWmc?oc=5",
-   "date": "2026-10-26T02:16:17+00:00",
    "state": "posando",
    "place": {
     "name": "Brasil",
@@ -627,9 +627,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
-   "date": "2026-10-25T17:04:00+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
+   "date": "2026-10-25T16:21:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1097,6 +1097,17 @@
    "next": null
   },
   {
+   "id": "d33273748279",
+   "title": "OFICIAL: KEIKO FUJIMORI ES PRESIDENTA ELECTA DEL PERÚ Manchester United F.c. Games (ZLzJzOZkZ4)",
+   "excerpt": "",
+   "source": "Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHFhWU8zNm1JSnJDQURRUmRmRlduVUtSbnFRR1ZqRXBybnp0SFgwX183Q24ycmJNbHBaNlEzUFpFYVlUVnNuUDVWVl9LTVVBRG1qZmZYS19fZS1JTkE2VXhlNTcxQnpienNPcDdETVhhT3R5UWUwUXlzSmtsTFhxaXhn?oc=5",
+   "date": "2026-10-24T08:41:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d599252f0302",
    "title": "Keiko Fujimori visitó fugazmente Arequipa y limitó sus promesas a Cerro Colorado",
    "excerpt": "",
@@ -1136,17 +1147,6 @@
    "source": "Noticias Trujillo 60",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbkJaWlFDLUQwT2tlLUFpbWVEcnNGUDUwS1RIRVNzV2NjYzJkQXY0R3Ezc2JZOHZ6b3hHSnV5UUc5SEUzQ2J6NTZMaGNORlVYOTNGNmZCMWtUUUVOU21EbXV0djhwR0diZURwNThtQi15d1NnV19NbFk5TXdqeTR4ZDZTR2RLTTduS1VwMkRtM3JNMDZ2eVpqbWg2eUNKWVJVQl9rMHYySW5rZ25zRFF3MzZtaEFvV3FISXQ4STlnVW1DemM?oc=5",
    "date": "2026-10-24T00:05:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "70a97f7a289a",
-   "title": "Moquegua podría tener tarifas eléctricas más bajas: Keiko Fujimori encarga al Minem evaluar un subsidio cruzado",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGV1RjFfcGZOYjQ4cUxOaVBSZUlBZEhISE02dFMwemY2STNBWE00cWpSa0R3cnI2RnJ4MmNZaXcyNFRzWTFRYld5QUhoZmItdWpwUWdoOWp1SjlfLWpKVlVtU2pqZTdyc0NnS1NVVXNKSzZFTV9sc2trX09BNHJDaTg2VEdVYUEzaV9JQXdCdEFRd1lYZHFTSHBlNmxXZnpwZzVOUXA4U1o3cmUwbS1kY3FCNmpVZ1F6N1pHWVVEVHRkRlpjWmgyeVgwWnpMUlRsTWpmMWluVXpIdmNkMF9aUzd3VU5fd9IBgAJBVV95cUxQcVE5cXMxTzVlWGtibUNYanRvbGh6S250aUhJSHF0RzlYZHZ3UzNiakdfbWlfUTk1UXVsUi1RRmJpc2dReXp2RTFTdXFZRUw0UjZTV3FyWG5hTUM1YUNFb21QU25uUmE5ZWtocWhWZGtPVUVhVUdjRkxLZUxFQ3RJbi1BOGNBdmxZUlpmUklKYVh2aUdxZ1pra3lDWmoxTHJ4akpnUF9nWmoteGRFNXcxLVRDbDVNYUhjQUpoLVZnN2NhYkl0LU1HLWNtZlFRcl9oRDE5RVVLNkNkdUtXaERuS0VTYmtxcHJzeUtvZ1R4d0tOVnZIa3JzbHpwMl80ZTlR?oc=5",
-   "date": "2026-10-23T23:35:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
