@@ -471,5 +471,12 @@
     "Fiscalía",
     "Jurado",
     "Hemiciclo"
-  ]
+  ],
+  "agenda": {
+    "enabled": true,
+    "url": "https://visitas.servicios.gob.pe/api/admin-agenda",
+    "page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
+    "id_funcionario": "237::0::0::0",
+    "days": 7
+  }
 }

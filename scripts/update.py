@@ -82,7 +82,7 @@ VENUE_RE = re.compile(
     r"((?:" + "|".join(re.escape(v) for v in VENUE_TYPES) + r")(?:\s+(?:de|del|la|las|los|el|y|" + CAP + r"))*)"
 ) if VENUE_TYPES else None
 GEOCACHE = {}
-GEO_BUDGET = [12]  # consultas nuevas por pasada, para respetar el servicio gratuito
+GEO_BUDGET = [25]  # consultas nuevas por pasada, para respetar el servicio gratuito
 
 
 def geocode(query):
@@ -155,6 +155,80 @@ def entry_date(e):
     return None
 
 
+LIMA_TZ = dt.timezone(dt.timedelta(hours=-5))
+
+
+def gazetteer(text):
+    t = norm(text)
+    if "palacio de gobierno" in t or "cercado de lima" in t:
+        name, (lat, lng) = PLACES["lima"]
+        return {"name": name, "lat": lat, "lng": lng, "abroad": False}
+    for p in ALL_PLACES:
+        if p in PLACES and has_word(t, p):
+            name, (lat, lng) = PLACES[p]
+            return {"name": name, "lat": lat, "lng": lng, "abroad": False}
+    return None
+
+
+def agenda_place(lugar):
+    """Lugar de la agenda oficial: el texto tal cual y coordenadas por geocodificación o por ciudad conocida."""
+    if not lugar:
+        return None
+    parts = [x.strip() for x in lugar.split(",") if x.strip()]
+    name = parts[0]
+    city = gazetteer(lugar)
+    coords = geocode(lugar + ", Perú")
+    if not coords and len(parts) > 1:
+        coords = geocode(parts[0] + ", " + parts[-1] + ", Perú")
+    if coords:
+        return {"name": name, "full": lugar, "city": city["name"] if city else None,
+                "lat": coords[0], "lng": coords[1], "abroad": False}
+    if city:
+        return {"name": name, "full": lugar, "city": city["name"], "lat": city["lat"], "lng": city["lng"], "abroad": False}
+    d = CFG["places"][CFG["default_place"]]
+    return {"name": name, "full": lugar, "city": None, "lat": d[0], "lng": d[1], "abroad": False, "approx": True}
+
+
+def fetch_agenda():
+    a = CFG.get("agenda") or {}
+    if not a.get("enabled"):
+        return None
+    today = NOW.astimezone(LIMA_TZ).date()
+    start = today - dt.timedelta(days=a.get("days", 7))
+    body = urllib.parse.urlencode({"opcion": "7", "id_funcionario": a["id_funcionario"],
+                                   "fecha": f"{start:%d/%m/%Y} - {today:%d/%m/%Y}"}).encode()
+    try:
+        req = urllib.request.Request(a["url"], data=body, headers={
+            "User-Agent": UA, "Content-Type": "application/x-www-form-urlencoded", "Referer": a["page"]})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            rows = json.loads(r.read().decode()).get("data") or []
+    except Exception as ex:  # noqa: BLE001
+        print(f"Agenda oficial no disponible: {ex}")
+        return None
+    out, seen = [], set()
+    for r in rows:
+        hi, hf = r.get("hora_inicio"), r.get("hora_fin")
+        if not r.get("fecha") or not hi or hi == "null":
+            continue
+        lugar = (r.get("lugar") or "").strip().rstrip(".").strip()
+        key = (r["fecha"], hi, norm(lugar))
+        if key in seen:
+            continue
+        seen.add(key)
+        try:
+            t0 = dt.datetime.strptime(f"{r['fecha']} {hi}", "%d/%m/%Y %H:%M").replace(tzinfo=LIMA_TZ)
+            t1 = dt.datetime.strptime(f"{r['fecha']} {hf}", "%d/%m/%Y %H:%M").replace(tzinfo=LIMA_TZ) if hf and hf != "null" else t0
+        except ValueError:
+            continue
+        out.append({"start": t0.isoformat(), "end": t1.isoformat(),
+                    "minutes": max(0, int((t1 - t0).total_seconds() // 60)),
+                    "subject": (r.get("asunto") or "").strip(), "lugar": lugar,
+                    "place": agenda_place(lugar)})
+    out.sort(key=lambda x: x["start"], reverse=True)
+    print(f"{len(out):>3} actividades · Agenda oficial del Despacho Presidencial")
+    return out
+
+
 def next_place(title):
     """Próximo destino: solo si el propio titular habla de ella y usa un verbo en futuro."""
     t = norm(title)
@@ -209,6 +283,13 @@ def main():
         except ValueError:
             pass
     fresh, report = collect()
+    agenda = fetch_agenda()
+    if agenda is None and OUT.exists():  # si la agenda falla, se conserva la última conocida
+        try:
+            agenda = json.loads(OUT.read_text(encoding="utf-8")).get("agenda")
+        except ValueError:
+            agenda = None
+    agenda = agenda or []
     print("\n".join(report))
 
     old = []
@@ -251,6 +332,9 @@ def main():
         "counts_7d": counts,
         "total_7d": sum(counts.values()),
         "silence": CFG.get("silence"),
+        "agenda": agenda[:40],
+        "agenda_minutes_7d": sum(a["minutes"] for a in agenda),
+        "agenda_page": (CFG.get("agenda") or {}).get("page"),
         "items": items,
         "geocache": GEOCACHE,
     }
