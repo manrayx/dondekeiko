@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T10:41:55.138325+00:00",
+ "generated_at": "2026-10-26T11:03:36.352416+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -774,23 +774,6 @@
    "next": null
   },
   {
-   "id": "aa95b5a9aaf3",
-   "title": "Presidenta Fujimori inauguró canal de riego de Sulcán Chala en la región Junín",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm9nRG9laHVKc3hKbGlqOUppNXZJLWJfUHhYTmxRNktDSjhVa0VLeTBjODhLV1VxMlBmY0ZQNGFyN25FYnVNM01FN0R5SzF0YXhSSkVhdEsxUDBvX2tyRlVEYVhwQkpYUG4zeHlDd1dVd2pHRzAzNTZaeUVVUlkxbU9fOGVBdmJLMVJzTi1EdVUzWWFxWDd6eUs2eDBnMEQ4SURrblRtMURrcHg2cXBlYTVrZkNqbDA?oc=5",
-   "date": "2026-10-25T10:37:10+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Junín",
-    "lat": -12.065,
-    "lng": -75.205,
-    "abroad": false,
-    "city": "Junín"
-   },
-   "next": null
-  },
-  {
    "id": "3a6754f71bc9",
    "title": "Presidenta Fujimori entrega obras de infraestructura hídrica para fortalecer agricultura",
    "excerpt": "",
@@ -998,6 +981,23 @@
    "date": "2026-10-24T18:57:02+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "aa95b5a9aaf3",
+   "title": "Presidenta Fujimori inauguró canal de riego de Sulcán Chala en la región Junín",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm9nRG9laHVKc3hKbGlqOUppNXZJLWJfUHhYTmxRNktDSjhVa0VLeTBjODhLV1VxMlBmY0ZQNGFyN25FYnVNM01FN0R5SzF0YXhSSkVhdEsxUDBvX2tyRlVEYVhwQkpYUG4zeHlDd1dVd2pHRzAzNTZaeUVVUlkxbU9fOGVBdmJLMVJzTi1EdVUzWWFxWDd6eUs2eDBnMEQ4SURrblRtMURrcHg2cXBlYTVrZkNqbDA?oc=5",
+   "date": "2026-10-24T17:54:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Junín",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false,
+    "city": "Junín"
+   },
    "next": null
   },
   {
