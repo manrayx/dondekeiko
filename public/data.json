@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T22:10:16.520867+00:00",
+ "generated_at": "2026-10-26T22:31:50.877509+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,6 +430,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4b372d58f33b",
+   "title": "Keiko Fujimori se pronuncia tras confirmarse visita del papa León XIV al Perú: \"Lo esperamos con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYnNGdVNKZzFJUHRGSUhUbHR4WFVvWXAtR1NGckZTNkNhd2Zpa2o5U05sOURIQUxMNy0wTEpyNXBsYkxZWjg2WURSUk9HWkxqZjVSS1JQNDdMV2JOUTJtcHRPMjVheFdrQlJGVUk4SUFUcFNlVmt3bmVkbkM1Q1kwbmw0ckNsSEM3VHE0Mm04dFlsb0h6TU9CdmJuZDAwN2dnS2p0ejdWdVk1RWcwOHhuY0xQdjhZNVNIV0t5WFZHRkVWMUVhWVZERVdHdXJtb21GVFhQVU1DQ0Q1eDRZYmwwZGpLSUZUWkpzNXVLX1gxbVo0VEtjYS1OWUlSNnZodzBNVTVmYXFneFFzMklpY1E?oc=5",
+   "date": "2026-10-26T22:25:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7d973be30296",
+   "title": "“El pueblo peruano recibe con profunda alegría la confirmación de la próxima visita del Santo Padre al Perú”: Keiko Fujimori",
+   "excerpt": "",
+   "source": "ELHERALDO.CO",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNWE2Y0Z6N3FnS0JKT3NfaXBMSmh0ODhFN1JVa2pHeVluU09VRjFMTHpmMnR6eW4xNzZ2Z242RWstRHBEMHZHU1ZPbHlKVTVUYjFYeUxVMi1lenlkYjQtU1p2bWQ1VHNnb3hTU2lYZEwtYVBqeHRFN0RkWFhpbGxqQlp6Qndqc2VCbzhJRTBiX1FWeFo2N3Q1NjZBcmp2M1pvUVJIbWRGQWtTcUgwN1J6Xy1XS0hwR2J4S0hxYTZIRGdIMkNkSFRJeDhnLWNyNzRha0FsdF9zOWhQSFlqWGJyLWd2REwzbEM5aFhQcHRGU3hqQXR2T0Jv?oc=5",
+   "date": "2026-10-26T22:14:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "720279d199d2",
+   "title": "José Gavidia justifica su apoyo al oficialismo: \"Tenemos que confiar en nuestro Gobierno\"",
+   "excerpt": "El senador explicó que sus diferencias con Buen Gobierno pasan por la desconfianza hacia Fuerza Popular y defendió darle una oportunidad a la gestión de Keiko Fujimori. También cuestionó que…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/26/jose-gavidia-justifica-su-apoyo-al-oficialismo-tenemos-que-confiar-en-nuestro-gobierno-hnews-1345682",
+   "date": "2026-10-26T22:12:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e04e7beaf131",
    "title": "Keiko Fujimori anuncia operativos constantes en penales para desmantelar antenas ilegales vinculadas a extorsiones",
    "excerpt": "La mandataria indicó que los controles se ampliarán a todos los establecimientos penitenciarios, luego de la incautación de dispositivos de telecomunicaciones en cuatro cárceles",
@@ -491,6 +524,17 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaERkZmgxR2kxY3U0ZEwxQzFUSjlTV1gzSG1iZlNuYnF3YWlHdUJMbm1DeUU2T3JDOWo2QXpFcC01QkRLLVhoaWM1eW82eUFTQ3NQcEQxOTd2RHYzWW00aTdjWEpOSS1ZSThER285WkJCRDVCV3d0bGNVYTV0YUx3N1Y2LU9vTkFuRHBNcWVFTFNJbS1EUVQ1UkpCYjNvdFgzX0pwbm4xREs4ZHdyTURrdVhCX2dVNDQ0Q2ZuclZOcHhMZw?oc=5",
    "date": "2026-10-26T20:15:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0a667d28b1ce",
+   "title": "Keiko lidera megaoperativo para desmantelar antenas clandestinas de internet en penales",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDA4SUw1OFlGUVlqYkNRTFNsblFDeHpqb2JOYkpKbloxMGNERmpuejM2M1FSSC12NWJXbVktNHo3dmhwazhHVkRCb2huZ0VvS04zN1dWR09EdFMxQUZPSjU5NnZwQjZZWkllU3NpNDJhRFVHaTlEa1dEdXF3ektaMEZ0ejZsVzJJN2Z5UnJxN3BhWkNFZkEzd2pfc1puVG1FYjBlT2pUWkNtbVBXZ2trQVZaY9IBuAFBVV95cUxNNFNaQi1jX1BxT0VtdzNjbTNjZlNEanVJVEFzMERXcXpIc1NiYm5nUmx1bTJTcUJ4T1hvdjNPMDZaVjkyS2d0OHh3cVBnVjdoUGZUT1JobFM1VlIyalViRHFXTWR4QlowVnhFUVBIY28yZ3lIQ3ZMdWQ4WlMxZ05wbUVpUlRPaTVYTHVTYVA1YXB6Z19zTkdWZFhsRzh6VFNRSFhyMUd3eHBtMkhuVXZqNTd0MW5NcHVS?oc=5",
+   "date": "2026-10-26T20:02:39+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1095,62 +1139,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/gobierno-publica-resoluciones-que-autorizan-viaje-de-keiko-fujimori-a-el-salvador-junto-a-delegacion-de-avanzada-del-despacho-presidencial-ultimas-noticia/",
    "date": "2026-10-25T13:41:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "19afd996c436",
-   "title": "Presidenta Keiko Fujimori Envía Mensaje De Respaldo A La Policía Y Lanza Advertencia A Criminales Dortmund (B06ecoDoKA)",
-   "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0RJYzBUekh0SUJNV3RjcVlaUUZPeFFxeW5jNFNTQUljWUpNMFVFWHF1bEt4M1d1ZDNUWW1CYlpESUFHUklhRXg4REpvSEdQbUItWDR3ekFOQ3Fkd0pxOUZCOFJ0X2swNzNZVV9wUV9abDVrWlNVNWRReHRCQWdJX2Jn?oc=5",
-   "date": "2026-10-25T13:18:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cf9a32792c04",
-   "title": "Keiko Fujimori Llega A Lambayeque: \"La Primera Vez Que Visita Esta Región Como Presidenta\" Chocolate (9frj0rFFcd)",
-   "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXanFmMjcyT2hodGhoWE8wY0VpUjQzWERvWTNsQTBYR2trdUI1UHpqSEFwa3lfcmRMTXMtQlpaOFBuX2NpRC1VbGowSmNHX0RtWk1tdU00dTR4TjBLV3E4Y056ckdOdw?oc=5",
-   "date": "2026-10-25T12:18:01+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lambayeque",
-    "lat": -6.701,
-    "lng": -79.906,
-    "abroad": false,
-    "city": "Lambayeque"
-   },
-   "next": null
-  },
-  {
-   "id": "e23f8af0b95d",
-   "title": "Crece de a pocos rechazo contra Keiko Fujimori en Lima y varias regiones, según encuesta de CIT",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb1pVMlhYSVViS09KV2VkT1c5endvZlRvM0Y0WlRrLTJRTGJLVUJZVWxGN3czWVF3dTQzbUFEd0otcVRCdGlaVkRraHlNSGE5NkloQjNwdFFWY01FTlcwemdNckdMQ0ZTSnJaV0pPaEFRTnVmTVdlNm02MjNLUy1Xei1OLUtMV0VNdmswOVlNOWZHeFZXUzRXdV9LS2VYVXBvcGhqQ2JzNGVPYVJmaTZpREJkeTMtSWNOQW94MHc0SC1NVzRreXlyM2xTeVVuTUNFb0tRUGU2WTctUjJDMFJ3ZW9rcnc2d3lFNk5uMVRqWQ?oc=5",
-   "date": "2026-10-25T09:02:13+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "3a6754f71bc9",
-   "title": "Presidenta Fujimori entrega obras de infraestructura hídrica para fortalecer agricultura",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGZxNGJmY0VXN25HYXF1bmZ5OG9BSmFwdW9mZUhteFd1eVRzUzN6S1RyOXZrUlNkeFJwLUctMnFWLUNRVC1EeFMyck9Fck9LSEVGODNvbDk1aFdoazMwaVhYNmR4YTZQM3ZfQlpMZHVfMGt3X0JiWjE5RTlCd0ZERGVYdlJnOHZtUXNQaV84U0lUQ2IyUENWVGlZT2VrU0kwc3U5bEJzdkJGSGNReWYzbE5UaTdfWHM4SjI3NHZlcHg0N2JDeVJ6ZEZCbHc?oc=5",
-   "date": "2026-10-25T08:00:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
