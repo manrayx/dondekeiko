@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T07:07:32.414770+00:00",
+ "generated_at": "2026-10-26T07:29:17.769636+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,23 +103,14 @@
   "source": "RPP",
   "date": "2026-10-26T03:03:44+00:00"
  },
- "next": {
-  "place": {
-   "name": "España",
-   "abroad": true
-  },
-  "source": "Perú21",
-  "date": "2026-10-24T12:34:34+00:00",
-  "title": "Keiko Fujimori viajará a España para participar en la Cumbre Iberoamericana",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTZOQi12TVFyTm9jUHhZS2ZwVnY5Q0FGU3UxN09QSmlhc2dHSEVEZmxlODdRNjdIVENDX2hrcTZTb2RPby1TUkJjbTNCRVpMTWViTkxxU1ZmMTRrTmhvbWhKYUxydGxsZFBmSG1QR0hGa2NoWGM0ZEZSVUdJVFNVcGJBc2RDblI1ZjZMOUF5Z1NaSTB1cm1OcnZjci1SZktpaGxr?oc=5"
- },
+ "next": null,
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 55
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -421,6 +412,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ad455c3179d8",
+   "title": "Keiko Fujimori acudió a las Nazarenas y pidió por la salud del Papa León XIV",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWVA3ZEVBdkE5YlZ4d2ZtdTlRdHk4SG50MEJkc1llSllhbzV2LUs3QWpDUE44X3ZBVlJ5b3RRNE5tNFp5YXRDYUQwaWlPdjZQcTdjSVgwU2hSQnBXSEMzMTJWbkszS1NxRXlXc01BOGE5ek02UXN4Q1pLZXJsVUdyYkduMzZyM1N1dDVETjFUaGlLR1FucFhhNmo1VTMtbGxDaTB6UUJzLUNzT2I1Y19kaXVqNlY2TElxekNSTGd2OTlBMGJScHc4ZEJKOWRZTDVuaDVjSGhpeENzZFdPR2lSY1NMcWxlRzNS0gH8AUFVX3lxTE1VRThXZnRvSGdVU3M2ZElHVWdoVFBxa0VtWnhpcFh1S25CLUdNWDFzQS01SHJhS09rYUJKb0VKUjRJWDhucG1Sc1FtNnYzd18yeHlwd2lVZFhfd0hKa2VyRV8tV2xYc2h4bXcwSTFCX2ZTS1VpRnl4Ym9GdnBma3AxWE1QSk1IYXpWdjFuVUxPM0Y0RXNCVzZvRThYbWZPQnA1WE9UazBRd0sxNHZHa3g3dlBMNkM0S0E0MGhxemtYQV8yZF96VGFxZ0lJc2l5cDVXV05QWUVFRlVVdUVYU05QQndlaWZEZGRnc0lTXzNqMU9lekhlM2dfNjBMRw?oc=5",
+   "date": "2026-10-26T03:42:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e64ec253eb68",
    "title": "Keiko Fujimori saludó a Lula da Silva por su triunfo en Brasil: \"Reafirmo nuestra voluntad de fortalecer nuestra alianza estratégica\"",
    "excerpt": "",
@@ -536,6 +538,21 @@
    "next": null
   },
   {
+   "id": "f150e1178244",
+   "title": "Presidenta Keiko Fujimori felicita a Lula da Silva tras su reelección en Brasil",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUG9yWWQ4VXl4OGc1aFhGS0U1TmhzRTN4NFVkQzYyTVVQQUVYWHYwNmh5XzRnbm5QRTlOZU9sb2h1dFVWTkpHWS1hc0lLZWRQUWFWTVd5akJjX1lEVEJLN0c0UUR2NDA0V05zTHc1WEZRajdFNkk5OG1tbk5UUWwzTXE3TFNUaVNVLU1xdUd4RkEtVDhHZjlwNXpEQ3hxeU15dmtVM3ozV2dWREs1VDktVkVuMU5sM3J4WTMwWXY3TQ?oc=5",
+   "date": "2026-10-26T01:59:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
    "id": "9f39d100ce8d",
    "title": "Presidenta Fujimori destaca la seguridad jurídica tras entregar títulos de propiedad en Lambayeque",
    "excerpt": "",
@@ -633,9 +650,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
-   "date": "2026-10-25T16:21:00+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
+   "date": "2026-10-25T17:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -696,6 +713,17 @@
    "next": null
   },
   {
+   "id": "3661cf701829",
+   "title": "Crece la desaprobación de Keiko Fujimori, del premier Luis Galarreta y el resto del gabinete",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGdoRXRiX1RjX3Y0NEdJa3dGNzFCZmRHbHJFeE40SGpIRXBrS2FQMkFhU2dBUWxXV09mSldJQWZRZFNHZXJBVjBKWU5lb19jRGtlcTN0ZXFNTWkxXzZBNzBHbE90NTRJUUNLcVBDcWtBU3dxQkdZRV85bjA2MnJlaG5YSURyQ3RDUGFMVjh3Uzl1akk?oc=5",
+   "date": "2026-10-25T13:50:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "118c110f041f",
    "title": "Gobierno publica resoluciones que autorizan viaje de Keiko Fujimori a El Salvador junto a Delegación de Avanzada del Despacho Presidencial",
    "excerpt": "La Presidencia del Consejo de Ministros (PCM) y el Ministerio de Relaciones Exteriores autorizaron, mediante dos resoluciones ministeriales, el viaje de integrantes de la delegación presidencial y de un funcionario…",
@@ -749,6 +777,17 @@
     "abroad": false,
     "city": "Junín"
    },
+   "next": null
+  },
+  {
+   "id": "3a6754f71bc9",
+   "title": "Presidenta Fujimori entrega obras de infraestructura hídrica para fortalecer agricultura",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMGZxNGJmY0VXN25HYXF1bmZ5OG9BSmFwdW9mZUhteFd1eVRzUzN6S1RyOXZrUlNkeFJwLUctMnFWLUNRVC1EeFMyck9Fck9LSEVGODNvbDk1aFdoazMwaVhYNmR4YTZQM3ZfQlpMZHVfMGt3X0JiWjE5RTlCd0ZERGVYdlJnOHZtUXNQaV84U0lUQ2IyUENWVGlZT2VrU0kwc3U5bEJzdkJGSGNReWYzbE5UaTdfWHM4SjI3NHZlcHg0N2JDeVJ6ZEZCbHc?oc=5",
+   "date": "2026-10-25T08:00:01+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -829,6 +868,17 @@
    "next": null
   },
   {
+   "id": "55913eb31fe6",
+   "title": "Keiko Fujimori presenta como logro el retorno del Tren Macho, pero solo circulará los lunes",
+   "excerpt": "",
+   "source": "hytimes.pe",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlExTDB4UDVPdXZkVmVUbGtyQUZIcDVQc1dFejAxMnJ4U01KdTMwb2Y2clVudktZaXp5NGdkME5WWHNhNEswREl6bXY2a19vODB2bXNSUDhKWTA1cy02bkZ4cFR2T0EyekEtenJveG55Q2o1MHpMREUtQlB5SUdoWDFZWXMwb1VUaWdFbWlxcXpPLWRONGRuNDQwRXNFdWxKRDlOX2wxUEpHUWc5Y0U4?oc=5",
+   "date": "2026-10-24T23:07:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5d6463df107e",
    "title": "¡KEIKO SE VA A LA CÁRCEL! PERO DE VISITA: CONOCERÁ LA MEGACÁRCEL DE BUKELE",
    "excerpt": "",
@@ -868,6 +918,17 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0VEenRXR190VmdfZndOREtWV1JjMThVNF9BRVdteHJNLS1SUWlvMkRwZVpqVFVzMk9SYUxYX0xQbXhzQmk2VDZTWnpudFVheE1BeGhCNnNjTF95MS1nYmJhWmJyMXV0dDJ6bTREYWhxaFlGWWhMdjRMU1N4dEw5cXFPQkQ5dGVZekg4RnZMWmhIVng0eGFBNjU0RVdQeGN3N3JaNUFUWlZOa1JaVmtlYkwxRHJwQQ?oc=5",
    "date": "2026-10-24T21:02:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a2a91e372545",
+   "title": "Junín: presidenta Fujimori entrega obras de infraestructura hídrica para fortalecer la agricultura familiar",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNE9rbWFBR2tqdkFLNVpzNlpUSHJoTGp5ejlMUy0xcVhZYks3dmtPekhPZk8zek5PMmVfYS1iVHpmd2FOOVlfTmFhZXBDSmp3OGZKWkhvNFRQa1hWVzVyZndpSGgySzUtc280OXNzR3JOYTFBS2gxZlNVVnpyb2ZXR3VWY1VZanZYUl9JV2JNQmFsQ19ubUZEZU5veDVQOHJ1N0tBamNveGNnT29qMEJFaG8xc0tmNzNnMUdJVzR0YjhFQ2hiQzJLN0hiWU4yMV9fNm5pMU56MUphWGd1SUl4QVBpYm8?oc=5",
+   "date": "2026-10-24T20:43:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1062,75 +1123,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/gobierno-autoriza-viajes-de-ministros-a-el-salvador-y-espana-con-keiko-fujimori-ultimas-noticia/",
    "date": "2026-10-24T13:56:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "509dcd433098",
-   "title": "Ministro de Justicia acompañará a la presidenta Fujimori en su viaje a El Salvador para conocer el modelo Bukele",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlNhZmxIcmtyeVNXSk04Z1U5Tk5pS08zQnZxV0VpbHR1SU9oaTdSdEljRnhuaml1ZkJVemxaQlY1QkctbmdudlNDNUNBLVRfTFQ5d1d2MlJVSVY5VVNlbWFLUWRlSFRmdGNQVXhRelhjLXR5Vm1kUWZxWng1NkNOTW5sZGdWdW4tbGEwaC1KeWtxNWl2a01ZNGg1SG9DZmlNeUJfWENEamJrS3ZvSl9jUWtpTkRtaXlELWpwRUIxRjFURlpDMHhEMW1OMXF4MGtUVlE?oc=5",
-   "date": "2026-10-24T13:21:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d7f9444288aa",
-   "title": "Keiko Fujimori viajará a España para participar en la Cumbre Iberoamericana",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTZOQi12TVFyTm9jUHhZS2ZwVnY5Q0FGU3UxN09QSmlhc2dHSEVEZmxlODdRNjdIVENDX2hrcTZTb2RPby1TUkJjbTNCRVpMTWViTkxxU1ZmMTRrTmhvbWhKYUxydGxsZFBmSG1QR0hGa2NoWGM0ZEZSVUdJVFNVcGJBc2RDblI1ZjZMOUF5Z1NaSTB1cm1OcnZjci1SZktpaGxr?oc=5",
-   "date": "2026-10-24T12:34:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
-  },
-  {
-   "id": "0485a65f5cec",
-   "title": "🔴🔵 EN VIVO | KEIKO FUJIMORI ES LA NUEVA PRESIDENTA DEL PERÚ POR EL PERIODO 2026-2031 Insurance (Sh9zpUgMr5)",
-   "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmE4NXVoR1hCaG5mdFBfLURNdlZtTGwzRzdWeFR2a0xKUmFqQkxjQ1ptZnpyQWpVamVPYi1JSDgwNVNpRTFvX0s2NGlFVjlYeGZWMElvWUFpUHRtcG16Y0lNNlk3SlN3M2pUODdCc1k0YTBPdGRtZDVYY2c1blFTZUdR?oc=5",
-   "date": "2026-10-24T09:41:21+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5489e30565ef",
-   "title": "“Keiko Fujimori debe acompañar sus mensajes con hechos”, indica Carla García",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQalZlWEtYblJTSEVVWWxDR1pTZXVhVkg2UXR3WnhCcDZqRkJWWmVTTkxNdUZPVkhvcnZWcEdKdGFzNnR2Y1o2YTdONDkySXQzejdQZ0ItOFNjSjliVU1qUGJxX1JLczBxRVdzX0xmT0EwTU5HOTlWZ3ZNSzJ1bHR2OE5KVk1sbS1RcU5XWU9RXzJoUzNKd1gzNXhmN1FweEVEX2ZxWVpxdkVJWDJDR09ESlJ2UU4zdlMyWnoyZjNEeUI2THNzMzBR?oc=5",
-   "date": "2026-10-24T09:02:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d33273748279",
-   "title": "OFICIAL: KEIKO FUJIMORI ES PRESIDENTA ELECTA DEL PERÚ Manchester United F.c. Games (ZLzJzOZkZ4)",
-   "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHFhWU8zNm1JSnJDQURRUmRmRlduVUtSbnFRR1ZqRXBybnp0SFgwX183Q24ycmJNbHBaNlEzUFpFYVlUVnNuUDVWVl9LTVVBRG1qZmZYS19fZS1JTkE2VXhlNTcxQnpienNPcDdETVhhT3R5UWUwUXlzSmtsTFhxaXhn?oc=5",
-   "date": "2026-10-24T08:41:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d599252f0302",
-   "title": "Keiko Fujimori visitó fugazmente Arequipa y limitó sus promesas a Cerro Colorado",
-   "excerpt": "",
-   "source": "Evidencia.pe",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0ZNN1Y3UEM0bi1zcnF4bU00aXA1V0RaSjRBN01kNnV6ZlE5VUVaWFllNDdVWXpCUzRJRTdCWkgtam5iZFk2ckt2MHNMMVhLWl9OT0lIQTA2NTg5UlZWQlRRZTZlblhkb3ZlMUdXSmVxY2QtdmhhVzBHWUlHN0s0OFFJV1BwYTJDeWdRSHhyazUxMXZFamwzRF9oWm9BOWtmZVFmOdIBqgFBVV95cUxNd01PVUtyT3Y2TTM0VlBoWHpJbXpIczRZOC1mNWJtUFRadkU0SzZXcmdnUXo4OEp2aXplVWdza3lyM20ydVJHZGlyMWZBRG92MjlQZXdDYjl0cTQ1eUU4Zkl2VC11bmc3ZHBRNjVBV1Vjb0tTN2Y0bEdYS3hnZDlpQ1NMRjllajQ3TUxxZmtmOWFXaEs2T3JWelJ3cVZ1MHZrYjdGc2pVSFpLZw?oc=5",
-   "date": "2026-10-24T08:29:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
