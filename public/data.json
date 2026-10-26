@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T12:51:24.386764+00:00",
+ "generated_at": "2026-10-26T13:34:11.359414+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "Brasil"
   },
-  "source": "RPP",
-  "date": "2026-10-26T12:42:55+00:00"
+  "source": "Expreso",
+  "date": "2026-10-26T13:11:31+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -412,6 +412,32 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "df05a2621117",
+   "title": "Keiko Fujimori felicita a Lula da Silva: ¿qué dijo tras su triunfo en Brasil?",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb2JhQ0o5V2VwZm55MzBEMVdfTWF0LW5hSkI2UTNyODE5R0dsZk1WcUNxTUY2ZVI2ZGp6b3plSy1obkY5cTlMQVB5SHJPVFA3UEUyX1hveGFjOER3UXlDT2EweEU2ek1Mb1pkRERtc3VXNGc4dVZYYUd4Q0ZDS0M2V0lfWjhXVlltVDV3STNxdUlWUkZyM0wyNEhGQk13VUNqS3FuLUxydWlHUXA4bmZOVHRsR2NsRTJqMHQwc21EMHQzcmRjZ1F3N3M4cDlJMkNmMXZtVFRudDF3VnVJM3NRQW9LdkZ4UmY1cUNvVDhXNVl3WkRLYVQwNmlGS3lIUFZXTzNJSS05NXY?oc=5",
+   "date": "2026-10-26T13:11:31+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
+   "id": "744d9986d7f3",
+   "title": "Keiko Fujimori saluda la victoria de Lula y...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODU2amlPVkZxZ2t6R0dlVFJNeVRsd2RIZVZaT0hmTFZyenNkT3hPWUEzMVlqYXNDSEg4d21GVHFYdmRYb2ZqRm9pQXlzbDV0cGJURGtHTnl4dkJLM2F2U2U2NkRXaG9pNUdpMVdEeTRYYzZoT05nSHdUemJkbkI4aVlmdGQ5Tm1jOEpmaE9aWHZoazVLbXJYUGczNjZNZjVDZG9rVldnU1ZYSW1aOGlZVGIyN0JubmxU0gG-AUFVX3lxTE1MX0JFWkVUa2pvNnBuZFhxMEs3NW1nTDNESTBORkJEeVZvM3lGZUY0d1F0SGVsQTdCSzlSamFwbWpmME9MWFMxOVE4Yk04NTIzLU1GV293OVNrZjdvdy1NbHRWczNmYXJacXhfbWNsbWdiUnFqSDFnamh4aWhreHNsSEFreHFlRTVQXzNDcDFRUXRqT09vck1EelVaYzk0dWFnZDA3aWVkM2l2MFRzbFc0eTR2cFE1djg5cEJoV0E?oc=5",
+   "date": "2026-10-26T12:58:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e64ec253eb68",
    "title": "Keiko Fujimori saludó a Lula da Silva por su triunfo en Brasil: \"Reafirmo nuestra voluntad de fortalecer nuestra alianza estratégica\"",
    "excerpt": "",
@@ -424,6 +450,17 @@
     "abroad": true,
     "city": "Brasil"
    },
+   "next": null
+  },
+  {
+   "id": "4fd37e89250b",
+   "title": "Keiko Fujimori tras reelección de Lula da Silva: \"Reafirmo la voluntad de fortalecer nuestra alianza estratégica\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzJIaVBtNDRhNmVEU3pmMEhPUjZCeWc2d3k4T29CTXk5VVBpR09oTzhpN2ZNV0VvTXkzODR2ckdLWGozQW43eTBhaVZCRmNhckNoSVNCMXhVVWhuMXh4QlZlWk1ibHJXLWx6dVI0VC1LRm56UGNXd3lIUGY0TUJWT3RSdmNFTXQ2TE9pOXZwQWJCT1Z4bUxZaWk1dmtsajQ?oc=5",
+   "date": "2026-10-26T11:50:28+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -650,9 +687,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
-   "date": "2026-10-25T17:04:00+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
+   "date": "2026-10-25T16:21:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -770,6 +807,23 @@
     "lng": -79.906,
     "abroad": false,
     "city": "Lambayeque"
+   },
+   "next": null
+  },
+  {
+   "id": "e23f8af0b95d",
+   "title": "Crece de a pocos rechazo contra Keiko Fujimori en Lima y varias regiones, según encuesta de CIT",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb1pVMlhYSVViS09KV2VkT1c5endvZlRvM0Y0WlRrLTJRTGJLVUJZVWxGN3czWVF3dTQzbUFEd0otcVRCdGlaVkRraHlNSGE5NkloQjNwdFFWY01FTlcwemdNckdMQ0ZTSnJaV0pPaEFRTnVmTVdlNm02MjNLUy1Xei1OLUtMV0VNdmswOVlNOWZHeFZXUzRXdV9LS2VYVXBvcGhqQ2JzNGVPYVJmaTZpREJkeTMtSWNOQW94MHc0SC1NVzRreXlyM2xTeVVuTUNFb0tRUGU2WTctUjJDMFJ3ZW9rcnc2d3lFNk5uMVRqWQ?oc=5",
+   "date": "2026-10-25T09:02:13+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
    },
    "next": null
   },
@@ -1073,56 +1127,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUk9GLWQyLVR0SDk1Z0F0WWdfQmo3VWY5LV9wc3FjTXkzdmZQcloyNzJsdU1ENUlGRlRQakd5SVkzc01tN2lsMWVPX3RKZXRtZ29XWmN4TTdMR3drS2NEQUJLN3JOMnFFQUpqSU9fRVZfQTJRYms4X2t4aWdZSjRmWkg1U2I2NmNqakQwR1JidmlGVEJBTXY2TWVyOXZaV1Z2M2xWZmNncXhxQS14UDB1dkNXYTlRNm9taWtMZUNvQnVKV0Z5c1RsYUxHUWNxenhZV2FMdnlSZHhZbThKY0tzSG1B?oc=5",
    "date": "2026-10-24T15:49:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5f11432dcc8e",
-   "title": "🔴🔵 Keiko Fujimori anuncia continuidad del Tren Macho Huancayo-Huancavelica",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGdqSGRpb2xtREREd2JFWTItbUwyNG51dEMzVDFCaUE3Wlh3LUw0dkktbU5NY0hXVU4tOC1XREFWRHlzLWhzcWhHZHlTa0JhSngzU1lSeWcyd293bHQtTzhWOFRRTmt4V25kMUV3WFo3WkRPck8zeWY0RkxPT1IwblBjbkF5ZE9uYmpRUUo3LUI5Z19CVU5aNUk5bkRKczFtNGZyZnNXUlI2ZFc3OHRz?oc=5",
-   "date": "2026-10-24T15:28:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "33e475f0321a",
-   "title": "Keiko Fujimori llega a Madre de Dios para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
-   "date": "2026-10-24T15:12:15+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Madre de Dios",
-    "lat": -12.594,
-    "lng": -69.189,
-    "abroad": false,
-    "city": "Madre de Dios"
-   },
-   "next": null
-  },
-  {
-   "id": "c9e78cfb9183",
-   "title": "Keiko Fujimori anuncia inversión de más de US$ 500 millones para modernizar el Tren Macho",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGtqQ1owTWJ2NTE4V0hET2hIZVVsLVNnSHRIY1lLNzkyWUxVYUUydDhycmRDUnVuVG9HOXlzREEtcWdnbGFsM2M0NTBjSzE5WG9YOTdONVNNZjZaRUFuS0lnblNuNTA1VDJpQzNzYnhtU211cUtJM3gtN1VFMmthMEF2UnBLMGdEbXViSFBkSlprbVBvRWNiWVdYR2UyeEprc1NMVmhDTnNiVlp5aWN5Qg?oc=5",
-   "date": "2026-10-24T14:59:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "911042d1e88c",
-   "title": "Presidenta Fujimori lidera el reinicio de operaciones del histórico Tren Macho en el tramo Chilca–Cuenca",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelVJR3d5T203dFRIQklDaFFZdG92UEFzcmVCSGU3RDMxeC0tVnhCSF9QT1RMNlBqRkFpMkRxX3dOMkhiZVMyTEJJOVpkNzE1anZSdnhoY0dfTnZQQm5uX3c2U0FpVzhYWG50MklWeVZYSXE2M2dDUGRINzVIX0owdTZuU0hCdTV5dV80YmpvbHVzS3UxN3I5blc4WWdmaXlyTl94eDR3VjJkaGJwV1NydW4ybzU5UndRc2JfaW1zcUZZdHpuMGRrOTJYVDBnSkgxazUxTU9uWHNQUVo2cEZjUmZB?oc=5",
-   "date": "2026-10-24T14:35:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
