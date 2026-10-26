@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:47:35.896940+00:00",
+ "generated_at": "2026-10-26T17:30:39.561595+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Brasil",
+   "abroad": true,
+   "city": "Brasil"
   },
-  "source": "Noticias Trujillo 60",
-  "date": "2026-10-26T15:43:18+00:00"
+  "source": "Gestión",
+  "date": "2026-10-26T17:10:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -430,6 +428,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "073a90a67a9e",
+   "title": "Presidenta Keiko Fujimori felicita a Luiz Inácio Lula da Silva por su reelección en Brasil",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, expresó sus felicitaciones al mandatario de Brasil, Luiz Inácio Lula da Silva, cono motivo de su reelección en los comicios generales celebrados en…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/presidenta-keiko-fujimori-felicita-a-luiz-inacio-lula-da-silva-por-su-reeleccion-en-brasil-noticia/",
+   "date": "2026-10-26T17:10:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
    "id": "a3628afc1170",
    "title": "Paseo de Comitiva que acompañará a Keiko en El Salvador nos costará más de US$ 24.000",
    "excerpt": "",
@@ -505,21 +518,6 @@
    "date": "2026-10-26T14:39:26+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "073a90a67a9e",
-   "title": "Presidenta Keiko Fujimori felicita a Luiz Inácio Lula da Silva por su reelección en Brasil",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, expresó sus felicitaciones al mandatario de Brasil, Luiz Inácio Lula da Silva, cono motivo de su reelección en los comicios generales celebrados en…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/presidenta-keiko-fujimori-felicita-a-luiz-inacio-lula-da-silva-por-su-reeleccion-en-brasil-noticia/",
-   "date": "2026-10-26T14:10:02+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
    "next": null
   },
   {
