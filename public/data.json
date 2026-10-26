@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T16:26:32.018696+00:00",
+ "generated_at": "2026-10-26T16:47:35.896940+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,6 +430,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a3628afc1170",
+   "title": "Paseo de Comitiva que acompañará a Keiko en El Salvador nos costará más de US$ 24.000",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUM5NGlTcHl0TTBZMUJMaU40U3BvdXhCbjJvZDVaMU5ZRFdkLVFCOHcyYTRJMnJaNThGVnp2bE9YZjVTYWdnN00xdzJvWTF5UmVKc3dJVnM4LXN6WldER18xdWs4ODQtLWoxSkt5cVVwMk1PLWFkY3FNb3YxMUhlVDJXaU1BVUpQcEwxX3VETlNDMHRQaTZHTS1TcExOQXZOTmEwVHFlVG9jaGFRNnFRTlh6Tm5EQjg?oc=5",
+   "date": "2026-10-26T16:41:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c3b7b8e5f16b",
    "title": "Keiko Fujimori agrega puestos de Imagen en Palacio de Gobierno",
    "excerpt": "",
@@ -447,12 +458,51 @@
    "next": null
   },
   {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-10-26T15:15:39+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
+   },
+   "next": null
+  },
+  {
+   "id": "aeb342382f5a",
+   "title": "Keiko Fujimori promete recuperar control de cárceles: ¿qué medidas anunció?",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZXQ1dFRndFhxLTN6eUtfVk1VR0t6clZBNFhFZmFDSm9lREcxQ1UwZ1ZDTGJGalEyNW9CZjVMdmNyNm0zWnBpNjBHajQwVW96N0gzM3ZjVl9pSGFEQTVRSWp4X2NzbVVjeFc4M21aSlB2T2tmaHotSVZVM3A5ZnMyeEoxVDc3TkZWQUFReWhMQ2UycGUwNmtVWEtyT2M2SDAwak5iN3pnWENsWllzcG9YSHI1eEtpT2JlUGNWTjhMdlhEcDVfYmt5X20zMkt1QzA1QzA4NGRScDUxeVAwb3JDVFdsUlFuZnhrUTJibDl2Zw?oc=5",
+   "date": "2026-10-26T15:13:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "58e76dfa8d06",
    "title": "Gobierno realiza operativo para quitar antenas de telecomunicaciones clandestinas en penales",
    "excerpt": "Gobierno realiza operativo para desmantelar antenas de telecomunicaciones clandestinas en penales. La presidenta Keiko Fujimori garantizó que no habra dispositivos tecnologicos ilegales en carceles.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/gobierno-de-keiko-fujimori-realiza-operativo-para-desmantelar-antenas-de-telecomunicaciones-clandestinas-en-penales-noticia/",
    "date": "2026-10-26T15:06:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e988dfcc6017",
+   "title": "Keiko Fujimori: “El orden vuelve y el control de las cárceles se va a retomar”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX18xS3BGamlIWHRXWlhxVzFnSHdIcVNuWDBLMm82Rl9yWExTaThDRHNhdUYzQ0xKQmxvWmo1TjVCSTExczFYbTRWUjl2M2JQTmJ6SlRLdTRJWkV3WlhKUEw4Q09nWXZtVWRYWWdtY3YtVUV6S0toZjJWTTJzWExiSnFRTW9VMFo1RW5QZV9KekVYSW8xd1p3NzB3ajhmUQ?oc=5",
+   "date": "2026-10-26T14:39:26+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1095,62 +1145,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0VEenRXR190VmdfZndOREtWV1JjMThVNF9BRVdteHJNLS1SUWlvMkRwZVpqVFVzMk9SYUxYX0xQbXhzQmk2VDZTWnpudFVheE1BeGhCNnNjTF95MS1nYmJhWmJyMXV0dDJ6bTREYWhxaFlGWWhMdjRMU1N4dEw5cXFPQkQ5dGVZekg4RnZMWmhIVng0eGFBNjU0RVdQeGN3N3JaNUFUWlZOa1JaVmtlYkwxRHJwQQ?oc=5",
    "date": "2026-10-24T21:02:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a2a91e372545",
-   "title": "Junín: presidenta Fujimori entrega obras de infraestructura hídrica para fortalecer la agricultura familiar",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNE9rbWFBR2tqdkFLNVpzNlpUSHJoTGp5ejlMUy0xcVhZYks3dmtPekhPZk8zek5PMmVfYS1iVHpmd2FOOVlfTmFhZXBDSmp3OGZKWkhvNFRQa1hWVzVyZndpSGgySzUtc280OXNzR3JOYTFBS2gxZlNVVnpyb2ZXR3VWY1VZanZYUl9JV2JNQmFsQ19ubUZEZU5veDVQOHJ1N0tBamNveGNnT29qMEJFaG8xc0tmNzNnMUdJVzR0YjhFQ2hiQzJLN0hiWU4yMV9fNm5pMU56MUphWGd1SUl4QVBpYm8?oc=5",
-   "date": "2026-10-24T20:43:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0e2eaa965699",
-   "title": "Keiko Fujimori participa en reinicio de operaciones de Tren Macho en Junín",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, encabezó este sábado el reinicio de operaciones del Tren Macho en Chilca, Junín. La reactivación ocurrió durante la ceremonia por el centenario del…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/lima/sucesos/keiko-fujimori-participa-en-reinicio-de-operaciones-de-tren-macho-en-junin-ultimas-noticia/",
-   "date": "2026-10-24T20:24:22+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Junín",
-    "lat": -12.065,
-    "lng": -75.205,
-    "abroad": false,
-    "city": "Junín"
-   },
-   "next": null
-  },
-  {
-   "id": "5b0da68de9f3",
-   "title": "Presidenta Keiko Fujimori entregó obras de infraestructura hídrica para fortalecer la agricultura familiar en Junín",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0M4WlV3bEIyTGc2azZpRlVha1QxdkNtNEplWHNWYWRmNU1IcXlrZm1INC1USnJUQ0ZKbUN6c0ZpTUwyY0ZTVmxkNHh1TnVrRm12bjNkX3RzOXdxLWRMVXFNZzZqVDNzaHhla2FoNlJBemt4R0RleHpXNUlIOTdsN0pENGp1MjRCX2tJQjJmenIzTEVOSVJuc3hQSDM3aUFpX3NMMk9wNFVNd0xXc0g4MnVQUVA0bkczOEVCbGljV0lqWXA3WDNJTmh2YmVNa0UzZHZmdnpOSEJYa3YybEZLVVlLT2VvUQ?oc=5",
-   "date": "2026-10-24T20:09:49+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Junín",
-    "lat": -12.065,
-    "lng": -75.205,
-    "abroad": false,
-    "city": "Junín"
-   },
-   "next": null
-  },
-  {
-   "id": "d4f0e488b309",
-   "title": "Presidenta Keiko Fujimori lidera el reinicio de operaciones del Tren Macho en el tramo Chilca–Cuenca",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVdTc0czOWZZeDlpUElwVEhmb2Z5NGJ3UE8wV2RYem5Td3RHQjJaaGd0Tmc2alNrZUo4RmJXSEo3UnFySEtRemtSbGJwVEp1RlJrVnBhWEdCQ1R6ZFBxTVBPYkNFMjFOQlhlNEtxd3I2WVNZb1QxRXpUeVkxSW0wdlZuSmJ5dXNQU19JVGZZaTNpSHFOMEJyYXFXazJFel9rclFSWkphR0Z3WEltbk51NC0yb0EzZGphR2U1djA1TUU3LXJpWTl0Z2p3MV95VXJ2VFE?oc=5",
-   "date": "2026-10-24T19:09:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
