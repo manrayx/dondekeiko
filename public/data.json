@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:30:39.561595+00:00",
+ "generated_at": "2026-10-26T17:52:26.398741+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "758dee4c08d9",
+   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3FLWXNOSnpjWXJFc25fdU5neW4tbkVUUV9VWlNaSGpmTzV2dmRZZE5HNUdXcURTZDBFU19HdEJOaHM0QW54WnJJQ2FwbnFiTVhqN1hZX3JMMzBod3N6bFkzMjdac0dlWWFwNllLekswbTBtZFNpemJyT1pJTGQ1am0wTzFJSHNtMmY3X1p2ZlNZYTBkYVN6LVNqQ2NmdjhhTHdYZkJrRGdEb2E3dWlTeFVqdVNXeW8?oc=5",
+   "date": "2026-10-26T17:39:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "cff8a7be9fde",
+   "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
+   "date": "2026-10-26T17:36:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "adcea349d87a",
+   "title": "Presidenta Keiko Fujimori lideró un megaoperativo simultáneo para desmantelar estaciones ilegales y antenas clandestinas de telecomunicaciones instaladas en los alrededores de diversos penales del país",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPUjJ1SnRnZ2hEaWhpSHl6NHR5N0VjNjJqeXR1RG9PTEpxR3p0Q2lOZ1E5NWpEMVpka3RBMlJXUzRwRDBPXzVUaW5MZDRweWhWMzc4dTV0NlhOcVB3N2NveFRrcUNWSzJmTzYyLXNSNVRVczRJcXpFQ0RBM3ZDSktkR052ZC1RYVFaLXJkdlJlX1ctNEEzRW1hb0tVNFd6QWtPVDhETzlaYU0ycVdpMF9KM1hySEhGSEd6X0dWOXlTcGFhbE5wYjdVLVpQMVVwZ3dsSnhJcXdyQ1BNcVdLRTZJamI5Ykpqc216NWFHOHZfMm5NX1RoMmlhaTBrbWhFTzB1M3BudTVnbjFWR2xVelVObjVIb0RJQk03MDlFQ3pSWTI3T1NOY01xdEhqTVZNV2V3WlRsTW9jRVRUZWg5c1RwdkxDdlNySVppVjVQSU9aX2hUcGR1MU00SQ?oc=5",
+   "date": "2026-10-26T17:33:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "073a90a67a9e",
    "title": "Presidenta Keiko Fujimori felicita a Luiz Inácio Lula da Silva por su reelección en Brasil",
    "excerpt": "La presidenta de la república, Keiko Fujimori, expresó sus felicitaciones al mandatario de Brasil, Luiz Inácio Lula da Silva, cono motivo de su reelección en los comicios generales celebrados en…",
@@ -527,17 +560,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/perucheck-es-imprecisa-la-afirmacion-de-keiko-fujimori-de-que-la-tasa-nacional-de-anemia-es-del-40-noticia/",
    "date": "2026-10-26T13:47:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cff8a7be9fde",
-   "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
-   "date": "2026-10-26T13:41:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -960,23 +982,6 @@
    "next": null
   },
   {
-   "id": "aa95b5a9aaf3",
-   "title": "Presidenta Fujimori inauguró canal de riego de Sulcán Chala en la región Junín",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm9nRG9laHVKc3hKbGlqOUppNXZJLWJfUHhYTmxRNktDSjhVa0VLeTBjODhLV1VxMlBmY0ZQNGFyN25FYnVNM01FN0R5SzF0YXhSSkVhdEsxUDBvX2tyRlVEYVhwQkpYUG4zeHlDd1dVd2pHRzAzNTZaeUVVUlkxbU9fOGVBdmJLMVJzTi1EdVUzWWFxWDd6eUs2eDBnMEQ4SURrblRtMURrcHg2cXBlYTVrZkNqbDA?oc=5",
-   "date": "2026-10-25T10:37:10+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Junín",
-    "lat": -12.065,
-    "lng": -75.205,
-    "abroad": false,
-    "city": "Junín"
-   },
-   "next": null
-  },
-  {
    "id": "e23f8af0b95d",
    "title": "Crece de a pocos rechazo contra Keiko Fujimori en Lima y varias regiones, según encuesta de CIT",
    "excerpt": "",
@@ -1132,17 +1137,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/24/canciller-y-ministro-de-justicia-viajaran-con-keiko-fujimori-a-el-salvador-del-28-al-31-de-octubre-hnews-2004984",
    "date": "2026-10-24T21:57:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "30bfbf4f5915",
-   "title": "Jóvenes salen este 24 de octubre a las calles para protestar contra Keiko Fujimori (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0VEenRXR190VmdfZndOREtWV1JjMThVNF9BRVdteHJNLS1SUWlvMkRwZVpqVFVzMk9SYUxYX0xQbXhzQmk2VDZTWnpudFVheE1BeGhCNnNjTF95MS1nYmJhWmJyMXV0dDJ6bTREYWhxaFlGWWhMdjRMU1N4dEw5cXFPQkQ5dGVZekg4RnZMWmhIVng0eGFBNjU0RVdQeGN3N3JaNUFUWlZOa1JaVmtlYkwxRHJwQQ?oc=5",
-   "date": "2026-10-24T21:02:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
