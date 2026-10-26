@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T23:59:16.729280+00:00",
+ "generated_at": "2026-10-26T02:30:19.243532+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -81,9 +81,9 @@
    ]
   },
   "posando": {
-   "label": "Paradero desconocido",
+   "label": "Posando",
    "color": "#9a90a4",
-   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?",
+   "doing": "Otra foto para el álbum.",
    "words": []
   }
  },
@@ -94,16 +94,1066 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": null,
- "next": null,
+ "last_place": {
+  "place": {
+   "name": "Brasil",
+   "abroad": true,
+   "city": "Brasil"
+  },
+  "source": "El Comercio",
+  "date": "2026-10-26T02:20:11+00:00"
+ },
+ "next": {
+  "place": {
+   "name": "España",
+   "abroad": true
+  },
+  "source": "Perú21",
+  "date": "2026-10-24T12:34:34+00:00",
+  "title": "Keiko Fujimori viajará a España para participar en la Cumbre Iberoamericana",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTZOQi12TVFyTm9jUHhZS2ZwVnY5Q0FGU3UxN09QSmlhc2dHSEVEZmxlODdRNjdIVENDX2hrcTZTb2RPby1TUkJjbTNCRVpMTWViTkxxU1ZmMTRrTmhvbWhKYUxydGxsZFBmSG1QR0hGa2NoWGM0ZEZSVUdJVFNVcGJBc2RDblI1ZjZMOUF5Z1NaSTB1cm1OcnZjci1SZktpaGxr?oc=5"
+ },
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 0,
-  "posando": 0
+  "triste": 3,
+  "posando": 54
  },
- "total_7d": 0,
- "items": []
+ "total_7d": 60,
+ "silence": {
+  "label": "Paradero desconocido",
+  "color": "#9a90a4",
+  "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
+ },
+ "agenda": [
+  {
+   "start": "2026-10-25T11:00:00-05:00",
+   "end": "2026-10-25T12:10:00-05:00",
+   "minutes": 70,
+   "subject": "Asistió a la misa del XXX Domingo del Tiempo Ordinario, donde elevó plegarias por la salud del papa León XIV y para que continúe guiando a la Iglesia Católica.",
+   "lugar": "Santuario de Las Nazarenas, Cercado de Lima",
+   "place": {
+    "name": "Santuario de Las Nazarenas",
+    "full": "Santuario de Las Nazarenas, Cercado de Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-24T12:35:00-05:00",
+   "end": "2026-10-24T13:02:00-05:00",
+   "minutes": 27,
+   "subject": "Inaugura canal de riego Sulcán Chala.",
+   "lugar": "Distrito San José de Quero, provincia de Concepción, región Junín",
+   "place": {
+    "name": "Distrito San José de Quero",
+    "full": "Distrito San José de Quero, provincia de Concepción, región Junín",
+    "city": "Junín",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-24T08:34:00-05:00",
+   "end": "2026-10-24T09:35:00-05:00",
+   "minutes": 61,
+   "subject": "Lidera reinicio de operaciones del histórico Tren Macho en el tramo Chilca-Cuenca, en el marco de la conmemoración por los 100 años del ferrocarril Huancayo-Huancavelica.",
+   "lugar": "Distrito de Chilca, provincia de Huancayo, región Junín",
+   "place": {
+    "name": "Distrito de Chilca",
+    "full": "Distrito de Chilca, provincia de Huancayo, región Junín",
+    "city": "Huancayo",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-23T12:45:00-05:00",
+   "end": "2026-10-23T13:22:00-05:00",
+   "minutes": 37,
+   "subject": "Lidera inauguración de proyecto de electrificación rural para ampliar acceso a la energía en Moquegua.",
+   "lugar": "Comunidad de Pampas de Clemesí, provincia de Mariscal Nieto, región Moquegua",
+   "place": {
+    "name": "Comunidad de Pampas de Clemesí",
+    "full": "Comunidad de Pampas de Clemesí, provincia de Mariscal Nieto, región Moquegua",
+    "city": "Moquegua",
+    "lat": -17.194,
+    "lng": -70.935,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-23T09:48:00-05:00",
+   "end": "2026-10-23T10:35:00-05:00",
+   "minutes": 47,
+   "subject": "Inaugura el reservorio N-31 y obras de agua potable y alcantarillado en el distrito de Cerro Colorado, que permitirán mejorar el acceso a estos servicios esenciales para más de 30 000 habitantes, después de 15 años de espera.",
+   "lugar": "Región Arequipa",
+   "place": {
+    "name": "Región Arequipa",
+    "full": "Región Arequipa",
+    "city": "Arequipa",
+    "lat": -16.39181,
+    "lng": -71.54371,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-22T14:05:00-05:00",
+   "end": "2026-10-22T15:05:00-05:00",
+   "minutes": 60,
+   "subject": "Participa en llegada de la tuneladora Micaela a la estación Carmen de La Legua.",
+   "lugar": "Carmen de La Legua, Callao",
+   "place": {
+    "name": "Carmen de La Legua",
+    "full": "Carmen de La Legua, Callao",
+    "city": "Callao",
+    "lat": -12.03938,
+    "lng": -77.09056,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-22T09:14:00-05:00",
+   "end": "2026-10-22T09:38:00-05:00",
+   "minutes": 24,
+   "subject": "Lidera anuncio de un conjunto de medidas prioritarias de política fiscal contracíclica orientadas a mitigar los efectos de los choques externos y del fenómeno El Niño sobre la economía peruana, proteger a las familias más vulnerables y sostener la actividad económica del país.",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-21T11:20:00-05:00",
+   "end": "2026-10-21T12:18:00-05:00",
+   "minutes": 58,
+   "subject": "Lidera inauguración de la línea pesquera del CITE Productivo de Pucallpa.",
+   "lugar": "Distrito de Callería, provincia de Coronel Portillo, región Ucayali",
+   "place": {
+    "name": "Distrito de Callería",
+    "full": "Distrito de Callería, provincia de Coronel Portillo, región Ucayali",
+    "city": "Ucayali",
+    "lat": -8.379,
+    "lng": -74.554,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T17:00:00-05:00",
+   "end": "2026-10-20T18:00:00-05:00",
+   "minutes": 60,
+   "subject": "Inaugura los pabellones renovados y el nuevo equipamiento médico del Hospital Militar Central \"Coronel Luis Arias Schreiber\".",
+   "lugar": "Jesús María",
+   "place": {
+    "name": "Jesús María",
+    "full": "Jesús María",
+    "city": null,
+    "lat": -12.07819,
+    "lng": -77.0464,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T15:10:00-05:00",
+   "end": "2026-10-20T15:13:00-05:00",
+   "minutes": 3,
+   "subject": "Despedida a su homólogo ecuatoriano, Daniel Noboa Azín.",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T13:29:00-05:00",
+   "end": "2026-10-20T13:55:00-05:00",
+   "minutes": 26,
+   "subject": "Ceremonia de suscripción de la Declaración Presidencial de Lima 2026.",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T13:00:00-05:00",
+   "end": "2026-10-20T13:27:00-05:00",
+   "minutes": 27,
+   "subject": "Clausura del Encuentro Presidencial y XVII Gabinete Binacional Perú-Ecuador.",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T11:42:00-05:00",
+   "end": "2026-10-20T12:58:00-05:00",
+   "minutes": 76,
+   "subject": "Presentación de los resultados de la XVIII Comisión de Vecindad Peruano – Ecuatoriana.",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T11:21:00-05:00",
+   "end": "2026-10-20T11:40:00-05:00",
+   "minutes": 19,
+   "subject": "Inicio de la Sesión Plenaria del Gabinete Binacional.",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T11:11:00-05:00",
+   "end": "2026-10-20T11:19:00-05:00",
+   "minutes": 8,
+   "subject": "Recibe de su homólogo ecuatoriano, Daniel Noboa Azín, la Presidencia Pro Tempore de la Comunidad Andina de Naciones (2026-2027)",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T10:23:00-05:00",
+   "end": "2026-10-20T11:05:00-05:00",
+   "minutes": 42,
+   "subject": "Encuentro Presidencial.",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-20T10:16:00-05:00",
+   "end": "2026-10-20T10:20:00-05:00",
+   "minutes": 4,
+   "subject": "Recibe a su homólogo ecuatoriano, Daniel Noboa Azín.",
+   "lugar": "Palacio de Gobierno",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-19T12:00:00-05:00",
+   "end": "2026-10-19T12:55:00-05:00",
+   "minutes": 55,
+   "subject": "Lidera inauguración de la línea de transmisión de 138 kV y la nueva Subestación Iberia, que beneficiará directamente a 122,000 habitantes de las localidades de Nueva Pacarán, Alerta, San Lorenzo, La Merced, La Abeja, Iberia, Arca Pacahuara e Iñapari.",
+   "lugar": "Plaza de Armas del distrito de Iberia, provincia de Tahuamanu, región Madre de Dios",
+   "place": {
+    "name": "Plaza de Armas del distrito de Iberia",
+    "full": "Plaza de Armas del distrito de Iberia, provincia de Tahuamanu, región Madre de Dios",
+    "city": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-18T12:04:00-05:00",
+   "end": "2026-10-18T12:36:00-05:00",
+   "minutes": 32,
+   "subject": "Recibe y rinde homenaje a la sagrada imagen del Señor de los Milagros.",
+   "lugar": "Patio de Honor de Palacio de Gobierno",
+   "place": {
+    "name": "Patio de Honor de Palacio de Gobierno",
+    "full": "Patio de Honor de Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  }
+ ],
+ "agenda_minutes_7d": 736,
+ "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
+ "items": [
+  {
+   "id": "bf9e21100018",
+   "title": "Keiko Fujimori recibe facultades: ¿Cuáles serán los primeros decretos legislativos que se dictarán?",
+   "excerpt": "El gobierno de Keiko Fujimori obtuvo una parte de las facultades para legislar que solicitó al Congreso hace casi dos meses. El Senado aprobó otorgarle 27 de los 66 puntos…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-recibe-facultades-cuales-seran-los-primeros-decretos-legislativos-que-se-daran-apuesplan-noticia/",
+   "date": "2026-10-26T02:20:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "319c9881dfb7",
+   "title": "Keiko Fujimori felicitó a Lula da Silva por su reelección y llamó a fortalecer la alianza estratégica bilateral entre Perú y Brasil",
+   "excerpt": "Tras confirmarse el triunfo del mandatario brasileño sobre Flávio Bolsonaro, la presidenta peruana destacó la cooperación fronteriza y el desarrollo sostenible de la Amazonía en el marco del bicentenario diplomático",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/26/keiko-fujimori-felicito-a-lula-da-silva-por-su-reeleccion-y-llamo-a-fortalecer-la-alianza-estrategica-bilateral-entre-peru-y-brasil/",
+   "date": "2026-10-26T02:20:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a4ba91d83dfb",
+   "title": "Keiko Fujimori felicita a Lula da Silva tras ganar la segunda vuelta en las elecciones en Brasil",
+   "excerpt": "La presidenta Keiko Fujimori felicitó a su homólogo de Brasil, Lula da Silva, por su reelección, tras ganar la segunda vuelta en las elecciones generales en ese país frente al…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-felicita-a-lula-da-silva-tras-ganar-la-segunda-vuelta-en-las-elecciones-en-brasil-flavio-bolsonaro-ultimas-noticia/",
+   "date": "2026-10-26T02:20:11+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
+   "id": "e64ec253eb68",
+   "title": "Keiko Fujimori saludó a Lula da Silva por su triunfo en Brasil: \"Reafirmo nuestra voluntad de fortalecer nuestra alianza estratégica\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZTBRNkhXNDhVd1FtclJqN2g0NTFMdVpkQl83bExHaGphSmZnejhyNjhtRFFfNmswMlNNNld5UUVwNm0zemxYWWtCMlAyYllvNk1RLW1Nc015eDhvRklLQzhSX1pyTVZkV25sS2NhWnN4MnVVOUFzYTBNRUdzZkZNZ1huR0hWWXkzYmQyQXBpbkt5TW5ONE5rTXZvMk9uT3c3MzhwWXhONHAyMGM4alpUVWFDSnJXTDdlUmZtN05kZlpsa0FnU0RjTEFtcDJTYTdrd1Rha2p0MzJneE1UcVNXTE9IbVl0WHMzNEE5RUplenJ6SDRoRmtKQkNFejJkeU84VTl3WWJiQjdGWmc?oc=5",
+   "date": "2026-10-26T02:16:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
+   "id": "9f39d100ce8d",
+   "title": "Presidenta Fujimori destaca la seguridad jurídica tras entregar títulos de propiedad en Lambayeque",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYy1yeHVrYTZlODh0X18xeG56UnhRV1RhWjcxZkMyMVdKeVItM0xmTGpTRG10R2lKVXUxS2szeXhFTGt0S2YwQ3dmcERLSEYxX29wZlpxeTB1SlZBUm9QNElBYzhzdzlCS1M2dlV1angzd0E1RmpsZnlwVXFHUmI3MjVuNjNMbzc2YUd3c3ppU3I0end3MkEwQnpPT3hiRnpYNzBVSVdsd0VIT3oxRWV6Smp0Tk4xMDJCY2ZieThETlZCYmhFcVJrZ3hIaXlicEx2UTNQejNKYjljZw?oc=5",
+   "date": "2026-10-25T23:49:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lambayeque",
+    "lat": -6.701,
+    "lng": -79.906,
+    "abroad": false,
+    "city": "Lambayeque"
+   },
+   "next": null
+  },
+  {
+   "id": "2593666cec0e",
+   "title": "Presidenta Keiko Fujimori elevó plegarias por la salud del papa León XIV",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcnpTUkJMZnc0elhWbmdPMnNhTjRVSGRaWUh3VnlwU2tKQ0lLX2tNSFd5dmhoT0ozaEM4YkhlZ0FjRWpWWlJVbnNPcXhVN1ZiR3FkYkhpR0FHQ0dRcW1uSTg3Y2h2bk9yOUpSUDJ3S1lTRk9OU25KQ2c0Tms4MXk2Z09PQVZnTVJleHVFajdhd2IwcGExeEQ0MUFvQzVoUGZuajktdmdWRXJXR2lFUC03ZUtR?oc=5",
+   "date": "2026-10-25T21:27:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5c3f9ad59016",
+   "title": "Keiko Fujimori reza por la salud del papa León XIV y pide que siga guiando a la Iglesia católica",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEEwMlFfWTZzcnZocEMyd3hwYU5uR2FXTTY5QnJXdEpqVjdSRTl4aWZnaUhYcjhkVUhFeXk1eFI2YklEQVIzbkM1T3VyT3pGeWhSb3A5VWR1Vnc3Z2ZFc1lTc1JXSlZMWlNyM1dqVUdHMXlKTTVfWmwzdHo1dllQdEdYMmhyeDNseHBuaXZIN05uZU1zVDdKVA?oc=5",
+   "date": "2026-10-25T21:07:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "db10dd40cfad",
+   "title": "Presidenta Keiko Fujimori pide por la salud del papa León XIV en Las Nazarenas",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2ZOQWZpV1J0VVBfemQ4UDN5NUF2emh5OEIzVXJOTXp6QkUyNFlMdUd5WUo3Wk1IRi13aE40VHlSZWo2WG5fbzU4VzN3WHVzS3JIdEg4RkI0SkNRRlZ0b1FuMmVoWUp0NVlDaFY4bklmZDBKSHl4MEF5anB3Q0RxRXYtbmVPVDVZUGVyUGRlUlc3cGJWb1ZWTUZBc29mbXdEOW9YeXJjLTlmRE5iTmRqMnJSN2k1LXRadWVFdXZLdw?oc=5",
+   "date": "2026-10-25T20:29:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "09d6f5ced61f",
+   "title": "Presidenta Keiko Fujimori eleva plegarias por la salud del papa León XIV",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWF1X3VSOW1MTWFLcU1FSjJfWFNOZnN2WHpZQ3hqLUR3cGVSLTZRUnQtdXAzUTJYeUJucE1mQzhleWlCY1dkRWE3RGlQa0dtTXlhXzFPX2c0alZUNVh4ZkpYSjVteEdQNm1wSU00c185RjNZalc1dV95S2Z5U3V0NVFORk9meU1rRzNrcURnVVVPSnRqYkQ2emxjS203b3lTa2VFNVRBUktZTHMt?oc=5",
+   "date": "2026-10-25T19:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2aa09c525e26",
+   "title": "Presidenta Keiko Fujimori eleva plegarias por el papa León XIV y pide por su salud para que continúe guiando a la Iglesia con fortaleza",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSmxCSWlZS2tFWEtNT25iXzZ4a2plTWtUcHlQNjFvU3BUX2paMWlUcXBGTE5fTnREWUpuZ2VGaHJIbURCSjhpTmtxelZXc0pnT0dRQUQ5c0d6SDIxdVczNWhmZXc3OTVCUFl0Vm5IcndlRXlzcHZKV2JIMkJlWUVHVy1VR0Z6VGVSVHcxM2c2cWlybE9peVI4eTRZeUdDbjgwTS14cXd0VlpkU2p0VkhQQWk0NkNCaUdhd2JrUy1vS2ZTNEQ1bk95STFNOHFDU1B1RkZKLURCVDA1Q2pEV1cwRFdnSTIyUkhCTy1Qb2pYOTdOLURF?oc=5",
+   "date": "2026-10-25T19:07:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "875135c3b947",
+   "title": "Keiko Fujimori rezó por la salud del papa León XIV en una misa en Las Nazarenas",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWl3UnFVVTltc0FYa3g2bFh6Zk1xNTZadUxtOFlIRV8zN1JUanBiN1EyOVBsSTBZdHlOWHFSdlpqMXJhenRCc0NSdkZtU1g0LWhWZGNCcnpqWlRnRVlQcVZ0bmY3MU5TU1BaQUt5SHQ4SGZJb3lpS3AxM2VtOGNrcFhRcUhJLW1qR0NNQmpIMi1qVXFBbzg0eWdiOTQ3OVBtMnNZd0UxZnZFNFItUzJV?oc=5",
+   "date": "2026-10-25T19:00:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9529f9fb6501",
+   "title": "Misa en Las Nazarenas EN VIVO: Keiko Fujimori asistió a ceremonia presidida por el cardenal Carlos Castillo",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPejVuMmdmTm1JRUxERm45T01YbGRpNFByZktBa2ZLdGNhZmpHQlJzeGJ3U01nRlc0QVN1UTN5XzJmSHRrSkNXdjVseWNUdkNjc3NTOHY2NThONXdoUC11ZFBpa29ubXFLY2xGN3ZLQjRhV3ZhYW9faVphYmNfR21sTlpUaUFQdkNHTG9LTEwtUk1RRzd5VElTOXhrSVBVeU03?oc=5",
+   "date": "2026-10-25T17:08:41+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a385bf0ef741",
+   "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
+   "date": "2026-10-25T17:04:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e337e4424354",
+   "title": "Comitiva que acompañará a Keiko Fujimori en El Salvador costará más de US$19.000 en pasajes y viáticos",
+   "excerpt": "El Gobierno autorizó el viaje de siete funcionarios del Despacho Presidencial con la presidenta Keiko Fujimori a El Salvador, del 28 al 31 de octubre. La delegación incluye asesores, comunicadores…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/25/comitiva-que-acompanara-a-keiko-fujimori-en-el-salvador-costara-mas-de-us19000-en-pasajes-y-viaticos-hnews-611300",
+   "date": "2026-10-25T15:24:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a91f766e41e1",
+   "title": "Autorizan el viaje de la Delegación de Avanzada del Despacho Presidencial que acompañará a Keiko Fujimori al El Salvador",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaEN4cC1DRXZ5b0ZJM3NGZ1RHeUduV2szY3hYNzF6YVFYLUVTQThfSmExZklfRjBQZkZueGpldmlVTVl5ZldlZzl4WmJTTHpVX0xuVFBJNEtiZE9jQUUzbW93di1FNEpJRl9zUDFEeGpKb1dJNDZRMmtRRGlVd2lReWoyQ1dYSmNnSmt0X0o0dWZpSjJPSmtvMGhOLVpuNU9qYmZaelRsNFJzWnNxcUdxMEZzZ3lteDNkYl92LUJzcXZCU2xHU0FudmVRRWstcVFzYjFwMWtCZw?oc=5",
+   "date": "2026-10-25T14:51:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2d15ebc9ec01",
+   "title": "Keiko Fujimori viajará a El Salvador con delegación presidencial: autorizan gastos de pasajes y viáticos",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZXZRSTBRa1F3Q3gxMVFnOUF5djVXNml4ODJNMm5DZFpka19fTUJzeEJkSHpLN21nRXkzb3JwMUdqV1EzUmlYTld3ZzlfVUhZZUxLdmZWaFk1cFZXNzhJUEo3RFBIOGQwYzI3RmgzYVB4MEhmNDgyUkgxMmdIa21JM0UxblBTTFFNR05OV2FIWTRTYTd4a0lOdXF6QW9YY1Vlb01sdlBTbjY2QnIxLU4yRW1IRjBaX0pnalVLWXhFUzRVTWd2UHZTamlkZ1VPcnBlN3FF?oc=5",
+   "date": "2026-10-25T14:51:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d65bf00cfc5c",
+   "title": "¡Jóvenes en las calles!: Masiva protesta nacional en rechazo a Keiko Fujimori y a su gobierno (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRzg1VG93ZUcwTGxlM1BoaG5vOUN3OFFuWGc3Wmg2Mmd0dUxLaEp4RnVYS1I5VTB2Qy14RnU0bEVkYVV6Zmkxd1BxMHozZkg4MEZxVFIwenBBVlQ5TkpBdUxEOUFZV1dxVEVSdUFmUEs4SnFRRE5TVWdLeGhMdUJqbnFGN3FzTDdvR0JUcXVxUTdrY0o4eUFjX1l1RzNGU2gwem8tamg5UzlkUWM4X3RLelBkRTN3aDNMbTRqZHdKc18?oc=5",
+   "date": "2026-10-25T14:26:22+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "118c110f041f",
+   "title": "Gobierno publica resoluciones que autorizan viaje de Keiko Fujimori a El Salvador junto a Delegación de Avanzada del Despacho Presidencial",
+   "excerpt": "La Presidencia del Consejo de Ministros (PCM) y el Ministerio de Relaciones Exteriores autorizaron, mediante dos resoluciones ministeriales, el viaje de integrantes de la delegación presidencial y de un funcionario…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/gobierno-publica-resoluciones-que-autorizan-viaje-de-keiko-fujimori-a-el-salvador-junto-a-delegacion-de-avanzada-del-despacho-presidencial-ultimas-noticia/",
+   "date": "2026-10-25T13:41:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "aa95b5a9aaf3",
+   "title": "Presidenta Fujimori inauguró canal de riego de Sulcán Chala en la región Junín",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSm9nRG9laHVKc3hKbGlqOUppNXZJLWJfUHhYTmxRNktDSjhVa0VLeTBjODhLV1VxMlBmY0ZQNGFyN25FYnVNM01FN0R5SzF0YXhSSkVhdEsxUDBvX2tyRlVEYVhwQkpYUG4zeHlDd1dVd2pHRzAzNTZaeUVVUlkxbU9fOGVBdmJLMVJzTi1EdVUzWWFxWDd6eUs2eDBnMEQ4SURrblRtMURrcHg2cXBlYTVrZkNqbDA?oc=5",
+   "date": "2026-10-25T10:37:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Junín",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false,
+    "city": "Junín"
+   },
+   "next": null
+  },
+  {
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-10-25T06:08:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "98595e65c8fd",
+   "title": "El dictador feliz",
+   "excerpt": "Keiko Fujimori viajará a El Salvador, del 28 al 31 de octubre, ​​​por​ invitación del presidente Nayib Bukele. Recorrerá el Centro de Confinamiento del Terrorismo (Cecot), emblema de la exitosa…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/opinion/columnistas/el-dictador-feliz-por-ricardo-uceda-nayib-bukele-el-salvador-noticia/",
+   "date": "2026-10-25T05:33:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5a6b55c0b217",
+   "title": "Presidenta Fujimori inaugura reservorios en comunidades de Achahuanca y Usibamba",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaThiUlJzZ3dyVWlQYm1EbnVhaHhUMlZobld5LWpLOVhJR2RQZlQtTm1paFEwZ1M3NndlYnJSekZXRE1KSXUxc05ZN3l5MFdiaTQxN3l5X21yUXZlNDVSN3Zra1BIdDBBazVLdDZDY3laR0NXM2VpZk43dVBTTmFpTFZfZktPbWhPUnBjNEVIY3UwWkY1eGRoaE1FeEFfT2o2NjA0Z3BOT05MNjZXVHJCNEJWSXQ0TWtoRWNCNXdR?oc=5",
+   "date": "2026-10-25T05:19:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b3ff5ff4d4ee",
+   "title": "Vergara: “Keiko Fujimori y su gobierno no juegan ningún papel relevante en la derecha latinoamericana”",
+   "excerpt": "",
+   "source": "Ojo-Público",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeU9BcEM4cWJSX2lKU1VOOHY4ZmhzZTZiOVlfSnZ0aDlfbDdlSkgzNjVHOGhtbVB0LWRXT0x2ZHdEcjZUbEFfNGE3cFZlSmJ4R2ZXUTdPb2lBcmMzOEJqZVRnZjNnTndjS1hDbmM5S1JvMU5ib2xvSjh4ZHdDaHBfQzQ4OFI1WU1Wd1FRemt2OC1HdVJLbTRoT1JR?oc=5",
+   "date": "2026-10-25T05:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f3b42662e767",
+   "title": "KEIKO FUJIMORI ENVÍA IMPORTANTE MENSAJE A TODO EL PAÍS Man City Vs Palace (7MGaLdYkX7)",
+   "excerpt": "",
+   "source": "Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LSFI2Wk8zeElmVXBhQVRZTUtpUV9ETEV5S1lxc2pTSGg1b1N5dk54ZUN5Y2dmZE1OZDNicWx4cWk4QUVzZHZhejIwMTZieUZDSVhNVFBvTnRuc0JCUUJvMlNOY2l4S09RUFZGNA?oc=5",
+   "date": "2026-10-25T00:56:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0ee4409f8b07",
+   "title": "Presidenta Keiko Fujimori Realiza Visita A Bases Militares Y Policiales Del Vraem Aroldis Chapman (YdyAMvQMOM)",
+   "excerpt": "",
+   "source": "Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZm5XU01tRkFhajlTNk1CY2l4VDFjYUhUNDl4TG9OOFJuY1BxRTRhX21zcXlZWkRWRndheFhGV1hvdkxHUHMwUDMta250VVhsaDFEMmpHdWZUV3hiRmFNOHp5c3FuUDdkSHRhblpXY0p2dTRlUzNlZWNDY3VIZFNKQTJncw?oc=5",
+   "date": "2026-10-25T00:06:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2b3fa157c98f",
+   "title": "¡Y AHORA LLORA ROSPIGLIOSI! Keiko Fujimori Le Destruye Su Trampa Legal En VIVO Harrison Barnes (SHMff0mY4z)",
+   "excerpt": "",
+   "source": "Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUkh6QVdQcExvbHRoNERaV1cydXpHU1ZjeHF4UVQ1b1EzVWM2Ny1kbzBiTTJ4ckRIVmxZT2ozNlE0SERSZW1SbGNoTFdJWmtnbnhkdGNzUU5vY1FMQlJVNHFyVldvOGZhQnRvZWY0Y0M2d1d6UHd6TW56V0ZMaFJpUXdB?oc=5",
+   "date": "2026-10-24T23:28:35+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5d6463df107e",
+   "title": "¡KEIKO SE VA A LA CÁRCEL! PERO DE VISITA: CONOCERÁ LA MEGACÁRCEL DE BUKELE",
+   "excerpt": "",
+   "source": "Noticias Trujillo 60",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVzdxR3BFZUdWclRSN3NvTGxRQnJGSWpsUUIzQ0dqNWdmTFlLMmxYa1VrTVJGTHJlM0hpVG9MYjMxVjlfd2ctdnFfdEp3RGwzN0tTQTBnaGZ3MndodkFySWJ3RG1HaTZYMmRldGVzenowaGd3cXdGVFBsVzFCdklwbENOelFuaTItanVLSzBRd1k?oc=5",
+   "date": "2026-10-24T22:26:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "807fa06bbea3",
+   "title": "“Tren Macho” vuelve a operar tras un año paralizado: ¿qué anunció Keiko Fujimori?",
+   "excerpt": "El histórico Ferrocarril Huancayo-Huancavelica, conocido como el Tren Macho, volvió a operar tras un año de paralización. Este sábado, la presidenta Keiko Fujimori, encabezó la reactivación del servicio en el…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/tren-macho-vuelve-a-operar-tras-un-ano-paralizado-que-anuncio-keiko-fujimori-noticia/",
+   "date": "2026-10-24T22:15:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4eca3de74098",
+   "title": "Canciller y ministro de Justicia viajarán con Keiko Fujimori a El Salvador del 28 al 31 de octubre",
+   "excerpt": "Ernesto Álvarez irá por encargo de la presidenta a recoger información sobre el sistema penitenciario. Marco Vinelli y Juan Carlos Requejo asumirán los despachos de Relaciones Exteriores y Justicia durante…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/24/canciller-y-ministro-de-justicia-viajaran-con-keiko-fujimori-a-el-salvador-del-28-al-31-de-octubre-hnews-2004984",
+   "date": "2026-10-24T21:57:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "30bfbf4f5915",
+   "title": "Jóvenes salen este 24 de octubre a las calles para protestar contra Keiko Fujimori (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR0VEenRXR190VmdfZndOREtWV1JjMThVNF9BRVdteHJNLS1SUWlvMkRwZVpqVFVzMk9SYUxYX0xQbXhzQmk2VDZTWnpudFVheE1BeGhCNnNjTF95MS1nYmJhWmJyMXV0dDJ6bTREYWhxaFlGWWhMdjRMU1N4dEw5cXFPQkQ5dGVZekg4RnZMWmhIVng0eGFBNjU0RVdQeGN3N3JaNUFUWlZOa1JaVmtlYkwxRHJwQQ?oc=5",
+   "date": "2026-10-24T21:02:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0e2eaa965699",
+   "title": "Keiko Fujimori participa en reinicio de operaciones de Tren Macho en Junín",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, encabezó este sábado el reinicio de operaciones del Tren Macho en Chilca, Junín. La reactivación ocurrió durante la ceremonia por el centenario del…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/lima/sucesos/keiko-fujimori-participa-en-reinicio-de-operaciones-de-tren-macho-en-junin-ultimas-noticia/",
+   "date": "2026-10-24T20:24:22+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Junín",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false,
+    "city": "Junín"
+   },
+   "next": null
+  },
+  {
+   "id": "5b0da68de9f3",
+   "title": "Presidenta Keiko Fujimori entregó obras de infraestructura hídrica para fortalecer la agricultura familiar en Junín",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0M4WlV3bEIyTGc2azZpRlVha1QxdkNtNEplWHNWYWRmNU1IcXlrZm1INC1USnJUQ0ZKbUN6c0ZpTUwyY0ZTVmxkNHh1TnVrRm12bjNkX3RzOXdxLWRMVXFNZzZqVDNzaHhla2FoNlJBemt4R0RleHpXNUlIOTdsN0pENGp1MjRCX2tJQjJmenIzTEVOSVJuc3hQSDM3aUFpX3NMMk9wNFVNd0xXc0g4MnVQUVA0bkczOEVCbGljV0lqWXA3WDNJTmh2YmVNa0UzZHZmdnpOSEJYa3YybEZLVVlLT2VvUQ?oc=5",
+   "date": "2026-10-24T20:09:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Junín",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false,
+    "city": "Junín"
+   },
+   "next": null
+  },
+  {
+   "id": "d4f0e488b309",
+   "title": "Presidenta Keiko Fujimori lidera el reinicio de operaciones del Tren Macho en el tramo Chilca–Cuenca",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVdTc0czOWZZeDlpUElwVEhmb2Z5NGJ3UE8wV2RYem5Td3RHQjJaaGd0Tmc2alNrZUo4RmJXSEo3UnFySEtRemtSbGJwVEp1RlJrVnBhWEdCQ1R6ZFBxTVBPYkNFMjFOQlhlNEtxd3I2WVNZb1QxRXpUeVkxSW0wdlZuSmJ5dXNQU19JVGZZaTNpSHFOMEJyYXFXazJFel9rclFSWkphR0Z3WEltbk51NC0yb0EzZGphR2U1djA1TUU3LXJpWTl0Z2p3MV95VXJ2VFE?oc=5",
+   "date": "2026-10-24T19:09:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "decf168a8bce",
+   "title": "Autorizan viaje de Carlos Espá a España y El Salvador para acompañar a Keiko Fujimori",
+   "excerpt": "",
+   "source": "Latina Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTjBZOWFDNjZMUW5NWFZabEZmOEd4OHVaZnNucTB4bENJVndVZ3Bud1U4WkgzcVhrXzRINmFsS1czMG9qUDZ0andiNVE5amRvaW95cU1hV0NUMUYtUTNLcDMwd1RUZ0h3Mm1DUFpEWHlrWGtYZjktNW04UWttSUFGdUItNkxXckNMUE1ScXJ6aDJQODVRWTJWaGdRUnVJMUdtUFczRmJQV0tRUkxJT29xTFg3X3BNeVdhbU50aU96ZWprb3lPVzJmV1k4UzJ3RDNaamVCbEotMmpEQQ?oc=5",
+   "date": "2026-10-24T18:57:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8c93ced75150",
+   "title": "¡El Tren Macho vuelve tras año paralizado! Keiko Fujimori anuncia inversión de más de US$500 millones",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNak11c0pNY05NUXlrLWd3QnFPcmdySjhWOXFzM1FJeUlKaDl6NW9kdG5VaVUxTjdJQzJWYmtKaU01blotWlRmYUd6cy1qaGN1aC1XRUhHX2xuWUZCd2t3ZExmNDZDZzZxSmlxeklaaUNHZzFnaXR6TnM0d25zdmxTSXNTVF9CaDhkanlkRnZkT2phTkowYXRGR1ZsdTJNT3JYVFl4NGY2VVQwTVprbVd0QUVkNXUybUppZ1ozdDQ2ZHNqMXd2Q0ZmblpB?oc=5",
+   "date": "2026-10-24T17:45:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0823d5e4a54a",
+   "title": "\"¡Jamás va a querer a su patria!\": arequipeña encara a Keiko Fujimori y cuestiona apoyo de simpatizantes (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV3o1MUFSTzVEdDVPRzFnRlh4N0hXVXp0OVpNRzRhN1BNay1VNEZBR0U0ZWhMOTFheFB6eWFPZlFmb0tqWWtRMjd3Zk5wSUMxQU1RQ1hlX0Q5WGZsVk1WOEJvUEFENVM1SGthSnBWM29ybHlyMmJNMzJpSWNVRFJoUGFoSERpQl9fTHdjd3FscTNaQWZiaEt5MUtmaENHemhfQlFsVk40cldESkxOdVRoMXpWbGNlc2ppcnZxSlAzOWtrTWxjeUtKMHhfdDE?oc=5",
+   "date": "2026-10-24T17:21:41+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b7c6f393ce2f",
+   "title": "Keiko Fujimori: “Lo que ha faltado es decisión política para ejecutar las obras”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS05lNjNxMTd3UFdOQm1XMlZCMmE1WU5sZG1zS2JBcnpOQndzVmd5d1JaRDZ4QmVETnFTOEh5ZkdGUTZhUndhcmtMa1FmektqR3lqTEg1ZWxRdVhaeEpjTlV1NnA2bHpvX0xkMFpjb3diUXNZT2xoQnc3N3hIakxoLTBjVElUZTRlTkhCNDlkLWEyR1BmdmJwX2w4a1picFRxR0FYUg?oc=5",
+   "date": "2026-10-24T17:12:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d72e68d5ad35",
+   "title": "Ministro de Justicia acompañará a la presidenta Keiko Fujimori a El Salvador",
+   "excerpt": "",
+   "source": "Revista COSAS Perú",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbWNERExwVU9PbjlMM2lDWmU0SE5CXzNMMnpXdG5SVlFZbnB2MFRJZF9tQjlFOFVBeVhPQkVhNVdJbFZ4M1dRUzY2aVRfY0drNDRLN0hRVFRpSTV1N0t1MW1GalhsRHN1VmxqSjZmdWlKbzRNd1h0ejNwTDIwRHZFTGZYUGdMWUR3aVVHbl9ZTkFFQmdiN0N0RzZXTTk0NDl1bHZGa3dR0gGmAUFVX3lxTE1tY0RETHBVT09uOUwzaUNaZTRITkJfM0wyeld0blJWUVlucHYwVElkX21COUU4VUF5WE9CRWE1V0lsVngzV1FTNjZpVF9jR2s0NEs3SFFUVGlJNXU3S3UxbUZqWGxEc3VWbGpKNmZ1aUpvNE13WHR6M3BMMjBEdkVMZlhQZ0xZRHdpVUduX1lOQUVCZ2I3Q3RHNldNOTQ0OXVsdkZrd1E?oc=5",
+   "date": "2026-10-24T16:42:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fd8e85541102",
+   "title": "Presidenta Keiko Fujimori lideró el reinicio de operaciones del histórico Tren Macho en el tramo Chilca–Cuenca",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM2VKaDY2bjdoTllPZWVkekNNa0gzM1VPRzN1b1JHbjN1Y1pEOUV4UXdDVFR1ZUloZEtpWmVYRHNpUUc3eFFQQmh0ZW9zN1JIQnhUT3hYNm1xWFpKdUVJNTFsdXIxczU4V1lFbE1veWY2bVVGWHF3cndPZlJPTlpZSTBpTWNTYlFNOEsyWXhITERUSm1UejczZWp0T21kazcxX3pyTVgwZ3BfS01HYW9yWXRFVFQxR2NoVFF3bFM0YkZoTlloOHV2cDhwb2JXZWttVGhiaE1EU3BYMndzMVRtZUJfbFNmcXNkcXc?oc=5",
+   "date": "2026-10-24T16:04:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8f4408ab4aa9",
+   "title": "Canciller Carlos Espá y ministro Ernesto Álvarez acompañarán a Keiko Fujimori a su visita oficial a El Salvador",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWU5ONTJndUNDbXVfRUVua3AzUmhDYVltLU1oSDFXVHNLU2oyc1cteFVFTDFMb2VCWno5SUhpVDZ2aU1MYllPV180cXczTFp2SUNWVnZXRjVkcTlWbGlfNFhEcm4tckRiZGc4OGNpSWJ1Q0ZUSmE3cFhHZWNGbFBpOGNGOVFMa19LX3JnRFp6V2tBUGF1NENYeWtvanhYQ0diamxQQTJMUlpncGRIZVNkbWRKZEdjdlN5VHh4RkFJQXNaY2dtR0pvWHVOTnJQTHUtQ19PLUhvaThxbzBST0dmWjZvelY0cUnSAYICQVVfeXFMTmRxRzFPMGFNVVVHTzBobnlZQzV2MFpURkFtTzRZT2ZoTDh6TkZjZUFVRHpwZ3lXWXlPVDRRVHJVdUJ2VnlwcGhPcUkzZTFkTmRvd0VGcWw5cWUwNkxXaHRrZ3pDclc3ekRKdUxyMWhwUUd4MEhMTFB1R1gyMWtSQzdibFJ4akNxWmM4R3V3WWViM1YxdkdCZ18xeXdkbURGRnR6VzFISk1IcjdEelBraUpJVmZOOWNzTFN0MnlDR3RkVS10WmZZano0X3NTOVI1OURSVlNIbGFFeVdjSXd1ZngwOXZ5c1J2Q3JCeDZjeXpsaU9YZzI2NE9DV0ZPUHdTTG1B?oc=5",
+   "date": "2026-10-24T15:55:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "302b01114f91",
+   "title": "¿Qué papel juega José Chlimper en el Gobierno de Keiko Fujimori? Esto dijo Luis Galarreta",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUk9GLWQyLVR0SDk1Z0F0WWdfQmo3VWY5LV9wc3FjTXkzdmZQcloyNzJsdU1ENUlGRlRQakd5SVkzc01tN2lsMWVPX3RKZXRtZ29XWmN4TTdMR3drS2NEQUJLN3JOMnFFQUpqSU9fRVZfQTJRYms4X2t4aWdZSjRmWkg1U2I2NmNqakQwR1JidmlGVEJBTXY2TWVyOXZaV1Z2M2xWZmNncXhxQS14UDB1dkNXYTlRNm9taWtMZUNvQnVKV0Z5c1RsYUxHUWNxenhZV2FMdnlSZHhZbThKY0tzSG1B?oc=5",
+   "date": "2026-10-24T15:49:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5f11432dcc8e",
+   "title": "🔴🔵 Keiko Fujimori anuncia continuidad del Tren Macho Huancayo-Huancavelica",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGdqSGRpb2xtREREd2JFWTItbUwyNG51dEMzVDFCaUE3Wlh3LUw0dkktbU5NY0hXVU4tOC1XREFWRHlzLWhzcWhHZHlTa0JhSngzU1lSeWcyd293bHQtTzhWOFRRTmt4V25kMUV3WFo3WkRPck8zeWY0RkxPT1IwblBjbkF5ZE9uYmpRUUo3LUI5Z19CVU5aNUk5bkRKczFtNGZyZnNXUlI2ZFc3OHRz?oc=5",
+   "date": "2026-10-24T15:28:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-10-24T15:12:15+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
+   },
+   "next": null
+  },
+  {
+   "id": "c9e78cfb9183",
+   "title": "Keiko Fujimori anuncia inversión de más de US$ 500 millones para modernizar el Tren Macho",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGtqQ1owTWJ2NTE4V0hET2hIZVVsLVNnSHRIY1lLNzkyWUxVYUUydDhycmRDUnVuVG9HOXlzREEtcWdnbGFsM2M0NTBjSzE5WG9YOTdONVNNZjZaRUFuS0lnblNuNTA1VDJpQzNzYnhtU211cUtJM3gtN1VFMmthMEF2UnBLMGdEbXViSFBkSlprbVBvRWNiWVdYR2UyeEprc1NMVmhDTnNiVlp5aWN5Qg?oc=5",
+   "date": "2026-10-24T14:59:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "911042d1e88c",
+   "title": "Presidenta Fujimori lidera el reinicio de operaciones del histórico Tren Macho en el tramo Chilca–Cuenca",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNelVJR3d5T203dFRIQklDaFFZdG92UEFzcmVCSGU3RDMxeC0tVnhCSF9QT1RMNlBqRkFpMkRxX3dOMkhiZVMyTEJJOVpkNzE1anZSdnhoY0dfTnZQQm5uX3c2U0FpVzhYWG50MklWeVZYSXE2M2dDUGRINzVIX0owdTZuU0hCdTV5dV80YmpvbHVzS3UxN3I5blc4WWdmaXlyTl94eDR3VjJkaGJwV1NydW4ybzU5UndRc2JfaW1zcUZZdHpuMGRrOTJYVDBnSkgxazUxTU9uWHNQUVo2cEZjUmZB?oc=5",
+   "date": "2026-10-24T14:35:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "195a7e97e107",
+   "title": "Gobierno autoriza viajes de ministros a El Salvador y España con Keiko Fujimori",
+   "excerpt": "El Ejecutivo autorizó la salida al exterior de los ministros Ernesto Álvarez y Carlos Espá, junto al jefe del Comando Conjunto de las Fuerzas Armadas, General César Briceño Valdivia. Las…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/gobierno-autoriza-viajes-de-ministros-a-el-salvador-y-espana-con-keiko-fujimori-ultimas-noticia/",
+   "date": "2026-10-24T13:56:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "509dcd433098",
+   "title": "Ministro de Justicia acompañará a la presidenta Fujimori en su viaje a El Salvador para conocer el modelo Bukele",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSlNhZmxIcmtyeVNXSk04Z1U5Tk5pS08zQnZxV0VpbHR1SU9oaTdSdEljRnhuaml1ZkJVemxaQlY1QkctbmdudlNDNUNBLVRfTFQ5d1d2MlJVSVY5VVNlbWFLUWRlSFRmdGNQVXhRelhjLXR5Vm1kUWZxWng1NkNOTW5sZGdWdW4tbGEwaC1KeWtxNWl2a01ZNGg1SG9DZmlNeUJfWENEamJrS3ZvSl9jUWtpTkRtaXlELWpwRUIxRjFURlpDMHhEMW1OMXF4MGtUVlE?oc=5",
+   "date": "2026-10-24T13:21:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d7f9444288aa",
+   "title": "Keiko Fujimori viajará a España para participar en la Cumbre Iberoamericana",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTZOQi12TVFyTm9jUHhZS2ZwVnY5Q0FGU3UxN09QSmlhc2dHSEVEZmxlODdRNjdIVENDX2hrcTZTb2RPby1TUkJjbTNCRVpMTWViTkxxU1ZmMTRrTmhvbWhKYUxydGxsZFBmSG1QR0hGa2NoWGM0ZEZSVUdJVFNVcGJBc2RDblI1ZjZMOUF5Z1NaSTB1cm1OcnZjci1SZktpaGxr?oc=5",
+   "date": "2026-10-24T12:34:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
+  },
+  {
+   "id": "0485a65f5cec",
+   "title": "🔴🔵 EN VIVO | KEIKO FUJIMORI ES LA NUEVA PRESIDENTA DEL PERÚ POR EL PERIODO 2026-2031 Insurance (Sh9zpUgMr5)",
+   "excerpt": "",
+   "source": "Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmE4NXVoR1hCaG5mdFBfLURNdlZtTGwzRzdWeFR2a0xKUmFqQkxjQ1ptZnpyQWpVamVPYi1JSDgwNVNpRTFvX0s2NGlFVjlYeGZWMElvWUFpUHRtcG16Y0lNNlk3SlN3M2pUODdCc1k0YTBPdGRtZDVYY2c1blFTZUdR?oc=5",
+   "date": "2026-10-24T09:41:21+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5489e30565ef",
+   "title": "“Keiko Fujimori debe acompañar sus mensajes con hechos”, indica Carla García",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQalZlWEtYblJTSEVVWWxDR1pTZXVhVkg2UXR3WnhCcDZqRkJWWmVTTkxNdUZPVkhvcnZWcEdKdGFzNnR2Y1o2YTdONDkySXQzejdQZ0ItOFNjSjliVU1qUGJxX1JLczBxRVdzX0xmT0EwTU5HOTlWZ3ZNSzJ1bHR2OE5KVk1sbS1RcU5XWU9RXzJoUzNKd1gzNXhmN1FweEVEX2ZxWVpxdkVJWDJDR09ESlJ2UU4zdlMyWnoyZjNEeUI2THNzMzBR?oc=5",
+   "date": "2026-10-24T09:02:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d599252f0302",
+   "title": "Keiko Fujimori visitó fugazmente Arequipa y limitó sus promesas a Cerro Colorado",
+   "excerpt": "",
+   "source": "Evidencia.pe",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ0ZNN1Y3UEM0bi1zcnF4bU00aXA1V0RaSjRBN01kNnV6ZlE5VUVaWFllNDdVWXpCUzRJRTdCWkgtam5iZFk2ckt2MHNMMVhLWl9OT0lIQTA2NTg5UlZWQlRRZTZlblhkb3ZlMUdXSmVxY2QtdmhhVzBHWUlHN0s0OFFJV1BwYTJDeWdRSHhyazUxMXZFamwzRF9oWm9BOWtmZVFmOdIBqgFBVV95cUxNd01PVUtyT3Y2TTM0VlBoWHpJbXpIczRZOC1mNWJtUFRadkU0SzZXcmdnUXo4OEp2aXplVWdza3lyM20ydVJHZGlyMWZBRG92MjlQZXdDYjl0cTQ1eUU4Zkl2VC11bmc3ZHBRNjVBV1Vjb0tTN2Y0bEdYS3hnZDlpQ1NMRjllajQ3TUxxZmtmOWFXaEs2T3JWelJ3cVZ1MHZrYjdGc2pVSFpLZw?oc=5",
+   "date": "2026-10-24T08:29:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8a2f82e17866",
+   "title": "Keiko Fujimori anuncia S/ 18 mil millones para obras y Moquegua exige financiar proyectos pendientes",
+   "excerpt": "",
+   "source": "Revelación.pe",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUk3aXM5b1U2d1V3aktyWk5ERDVNR2tqWHJOR0Q4ejFpLTkxbHo0dGk0cl9uVE5ocWw3M0NKZWNWZVo4RjR4d0FvXzE2ZVowSzBKZXQ4Y3JETmJ6S08xVlEyZkU1UzJmb3RmM1hYSXhnd0xpajdBNTJPWjZhaUlqbmQ5NkFoeC0xemtkZXVIYTdpV21VOXFwcEc0bjFMM245bWxFY3FOWFZ4ZHhGMkJPc0NLcC1nb05OakN6amc0TE5oQnloc1VJVEZnRkE2dw?oc=5",
+   "date": "2026-10-24T07:17:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "80f58c213272",
+   "title": "Deudos de protestas se unieron para echar a Keiko Fujimori de Juliaca",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW9nT3pHTnJwdVRtXzE1a3B0bnBWNXpZcC1hcVdhejRuejllMXZFUnFUbjB0YzAxSWRWellmVWtITzdhTHlHVXQ2OFJtVEEwUkFVQkszQ2t4X29rRHNBVFg1S05pT1l0SWJ2MTVzVWY1eldGZkdYU2pPOFZ2a0ZHbW51YWpUWWV3ckNjRlRyM19vNkowTWdtaTdQNnRsRGFyam91eVlxSXlPYzd2S1NhbWxrWU5yZnNDRDlKVk83X2ZJNEFM0gHKAUFVX3lxTE5RdGNXNmExMVRsSFhTR05BVjlmREswSGMyczZBTkk3OTJ6d3RQRW1xbWk4akVuMmU0TFZ5amN1NkdIREVBS2stVDBCX3VaUHRncjlIVXFMcjEwUXl3U3JUUjhyVTVFTlpnbmdmUnNzUXBCUml1ZEVaaE1NcWo1a3gwaUV2NVlVUzFOMmxCWUt4TVctVDV0RndwR2VJU3VGaGYzOUtUQmQ4aXlhOWd3emY2U2pxcE5pU1lvSm9DeC1qWmtEY252UDJxOHc?oc=5",
+   "date": "2026-10-24T00:27:17+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0cd90aa194d6",
+   "title": "Deudos del 9 de enero rechazan visita de Keiko Fujimori y advierten que protestarán ante su llegada a Juliaca",
+   "excerpt": "",
+   "source": "Noticias Trujillo 60",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbkJaWlFDLUQwT2tlLUFpbWVEcnNGUDUwS1RIRVNzV2NjYzJkQXY0R3Ezc2JZOHZ6b3hHSnV5UUc5SEUzQ2J6NTZMaGNORlVYOTNGNmZCMWtUUUVOU21EbXV0djhwR0diZURwNThtQi15d1NnV19NbFk5TXdqeTR4ZDZTR2RLTTduS1VwMkRtM3JNMDZ2eVpqbWg2eUNKWVJVQl9rMHYySW5rZ25zRFF3MzZtaEFvV3FISXQ4STlnVW1DemM?oc=5",
+   "date": "2026-10-24T00:05:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "70a97f7a289a",
+   "title": "Moquegua podría tener tarifas eléctricas más bajas: Keiko Fujimori encarga al Minem evaluar un subsidio cruzado",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZGV1RjFfcGZOYjQ4cUxOaVBSZUlBZEhISE02dFMwemY2STNBWE00cWpSa0R3cnI2RnJ4MmNZaXcyNFRzWTFRYld5QUhoZmItdWpwUWdoOWp1SjlfLWpKVlVtU2pqZTdyc0NnS1NVVXNKSzZFTV9sc2trX09BNHJDaTg2VEdVYUEzaV9JQXdCdEFRd1lYZHFTSHBlNmxXZnpwZzVOUXA4U1o3cmUwbS1kY3FCNmpVZ1F6N1pHWVVEVHRkRlpjWmgyeVgwWnpMUlRsTWpmMWluVXpIdmNkMF9aUzd3VU5fd9IBgAJBVV95cUxQcVE5cXMxTzVlWGtibUNYanRvbGh6S250aUhJSHF0RzlYZHZ3UzNiakdfbWlfUTk1UXVsUi1RRmJpc2dReXp2RTFTdXFZRUw0UjZTV3FyWG5hTUM1YUNFb21QU25uUmE5ZWtocWhWZGtPVUVhVUdjRkxLZUxFQ3RJbi1BOGNBdmxZUlpmUklKYVh2aUdxZ1pra3lDWmoxTHJ4akpnUF9nWmoteGRFNXcxLVRDbDVNYUhjQUpoLVZnN2NhYkl0LU1HLWNtZlFRcl9oRDE5RVVLNkNkdUtXaERuS0VTYmtxcHJzeUtvZ1R4d0tOVnZIa3JzbHpwMl80ZTlR?oc=5",
+   "date": "2026-10-23T23:35:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "531a7b99062a",
+   "title": "Presidenta Keiko Fujimori inaugura obra de electrificación rural en Pampas de la Clemesí",
+   "excerpt": "",
+   "source": "La Prensa Regional",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX29jeDRSZHlBNWlYWUtmRlZCdFVOUnRQZkxtNmFPbXVZZ3hucnBYRzctem1pbWplUVNIajdDdDBsTm5YNDBXZGJsRFZJNVY5eHVIY19JMlVWUS1PRkNPYnR1ZWV3WVRoOUFteXl4eEdHeVk1MVFyNE1PMU5oRFl4UFR1bUM0YkFRM0NTT1h5X3JlQlc3Sm5RODJMTUdQQmd5bE82Qmg5amRqR00zZGZMSGlVRzlMdw?oc=5",
+   "date": "2026-10-23T23:05:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6cc42d184c33",
+   "title": "Keiko Fujimori: \"Será un mega Niño, pero será una mega respuesta la que el Estado va a dar\"",
+   "excerpt": "",
+   "source": "Energiminas",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQjZoWEZfeEFGSElzQ2h3X3ZJTnJGMlI2dzNTSS05Tk1TNEk2Y0NVXzQwTDJSdnUzYlA4WGJLelVLak1uLXZyR0ZSdzRfTnI0aUQxa3FxMVo3WU01dHgxd3NJUEIwQlFiaDNCWDUxa0RHQlBycnNLZ1AtMGIxY3dIZGNGekZYeVBuODN6LTJUMFN4b3JVTTVYWDBzUjZyRVhJTkExLWYycWphbF91QWlSazFjUWROU0N3bFE1aXJVS1Y?oc=5",
+   "date": "2026-10-23T23:01:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2c1f2d9993a6",
+   "title": "Keiko Fujimori anuncia evaluación de subsidio a tarifas eléctricas en Moquegua",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOXZhbjE0b280SGM2dEpfNGZrTUFaWnBVd1hPbHRxOVVDR3Z0VlpoVnRTNnpyWGM5bjlfdlIwOFZRbXZpVXZXeVBJWHlwYkZKTjZEcDhVczQzZ0hFcnFUTnlMcGgzRXFReTExdFRYa3FxVXhzeG4tUFhUTUFLWEJMT0FsSXlHa3FpOGh2Unp4OXNhN2tleUVMS1ljZl9lTVpYYkVuaVB2VThaVHhpNU8tdWdXWEgwY3V5MlRrUXFnRFNLcXNPT2c4dg?oc=5",
+   "date": "2026-10-23T22:34:05+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Moquegua",
+    "lat": -17.194,
+    "lng": -70.935,
+    "abroad": false,
+    "city": "Moquegua"
+   },
+   "next": null
+  },
+  {
+   "id": "914f74f32b8a",
+   "title": "Keiko Fujimori: “Será un mega Niño, pero también habrá una mega respuesta del Estado” – Diario Sin",
+   "excerpt": "",
+   "source": "Diario Sin Fronteras",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOclNoOGZqUzhVMmJBMFZYTU4zZzAzbHJOdGt0WFJWdHZsc2xTck82b3RXb1Z3eE9kRE0wRFAzY1BJcWR3a2lPckszLWJJYlpFXzYwdkF6Smp5c2paN2RqYW5yS1ZhSXRGSTBFdnJhbUlDdVRKZHM2ZzNwdG5FUlQxX3MwdlJNVW5DR3BFMl9LTjM1ek1MZDBFc3NWUjNFaF9LUGhweER1bUJ1YVpFVllrdVJGc3BLLVRDcFNzWW05RF9ET1pldGfSAcsBQVVfeXFMTnNUOWdxYlEzenQ2a0lKaGp6TmFHR2Faa1RPSWFEbFdKZURVV1VyRFRuOTNGZGRPRWVza0hXa1pteVFsOTFvVTRUNFJ2c29KRkV1RVpmbTBGS0U1NjhXM3E2eGlHRWliVUtMVzZRX0pfVTM4LVJLMDdmUnVIRWl2WjgzU1JMUW1QVjBvRjhhOXA5b0lXLU5GZHhyRlM2NGJSNGd0RGtRektaakpiQkNtRXhEYXdPTFVISWVXZmJ4YWF5YUp1UjdoVlVYeUk?oc=5",
+   "date": "2026-10-23T22:06:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7d616ea96259",
+   "title": "Moquegua: Gilia Gutiérrez pide a Keiko Fujimori evitar paralización de obras",
+   "excerpt": "",
+   "source": "Evidencia.pe",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa3VGUTlGZm5WY1NYV2djWExUMndQTHRpZmFnbHRLQUxmWXpfeUxNV2ZKNVM3blh2UjI4bUQ3VEV1RWFZc283MmJhZWlCcXpmSmJhNEFzQmdWWlRqTHd5MDBxajRkcVVESVUtUnlXVDduTkNhRm1LVlZPRllSeWFzR29SaWFZTTd2blRHZVJ1OWpqZ3RteE1TNU0wUTPSAZwBQVVfeXFMT2t1RlE5RmZuVmNTWFdnY1hMVDJ3UEx0aWZhZ2x0S0FMZll6X3lMTVdmSjVTN25YdlIyOG1EN1RFdUVhWXNvNzJiYWVpQnF6ZkpiYTRBc0JnVlpUakx3eTAwcWo0ZHFVRElVLVJ5V1Q3bk5DYUZtS1ZWT0ZZUnlhc0dvUmlhWU03dm5UR2VSdTlqamd0bXhNUzVNMFEz?oc=5",
+   "date": "2026-10-23T21:20:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  }
+ ],
+ "geocache": {
+  "santuario de las nazarenas, peru": null,
+  "palacio de gobierno, peru": [
+   -12.04491,
+   -77.0298
+  ],
+  "santuario de las nazarenas, cercado de lima, peru": null,
+  "distrito san jose de quero, provincia de concepcion, region junin, peru": null,
+  "distrito san jose de quero, region junin, peru": null,
+  "distrito de chilca, provincia de huancayo, region junin, peru": null,
+  "distrito de chilca, region junin, peru": null,
+  "comunidad de pampas de clemesi, provincia de mariscal nieto, region moquegua, peru": null,
+  "comunidad de pampas de clemesi, region moquegua, peru": null,
+  "region arequipa, peru": [
+   -16.39181,
+   -71.54371
+  ],
+  "carmen de la legua, callao, peru": [
+   -12.03938,
+   -77.09056
+  ],
+  "distrito de calleria, provincia de coronel portillo, region ucayali, peru": null,
+  "distrito de calleria, region ucayali, peru": null,
+  "jesus maria, peru": [
+   -12.07819,
+   -77.0464
+  ],
+  "plaza de armas del distrito de iberia, provincia de tahuamanu, region madre de dios, peru": null,
+  "plaza de armas del distrito de iberia, region madre de dios, peru": null,
+  "patio de honor de palacio de gobierno, peru": null
+ }
 }
