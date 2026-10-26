@@ -223,6 +223,7 @@ def fetch_agenda():
         out.append({"start": t0.isoformat(), "end": t1.isoformat(),
                     "minutes": max(0, int((t1 - t0).total_seconds() // 60)),
                     "subject": (r.get("asunto") or "").strip(), "lugar": lugar,
+                    "state": classify(norm(r.get("asunto") or "")),
                     "place": agenda_place(lugar)})
     out.sort(key=lambda x: x["start"], reverse=True)
     print(f"{len(out):>3} actividades · Agenda oficial del Despacho Presidencial")
