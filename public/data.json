@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T13:34:11.359414+00:00",
+ "generated_at": "2026-10-26T13:55:33.588566+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -412,6 +412,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "13bfd5449991",
+   "title": "PerúCheck: Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
+   "excerpt": "PerúCheck: Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/perucheck-es-imprecisa-la-afirmacion-de-keiko-fujimori-de-que-la-tasa-nacional-de-anemia-es-del-40-noticia/",
+   "date": "2026-10-26T13:47:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "cff8a7be9fde",
+   "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
+   "date": "2026-10-26T13:41:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "df05a2621117",
    "title": "Keiko Fujimori felicita a Lula da Silva: ¿qué dijo tras su triunfo en Brasil?",
    "excerpt": "",
@@ -687,9 +709,9 @@
    "id": "a385bf0ef741",
    "title": "Presidenta Keiko Fujimori asiste a misa en Santuario de Las Nazarenas",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUxrcUY1QmhUQ1VZZVBYZFp5aEhGOVVBMDF3NU5Wc3JRNXlLRUlJdU5ra2hoVHZ6LW1vZkJWMlZwY05ycllqVkdkVWxJbU11ZHBMTUNGQ2YwQlVaQ2Zid1MzRmI0OEVRWXhBSUtiTVE4cWx0eXBjYW9EZmJjUnM2NzhCRWRydWFQYVRHMUVVYllLdDRDR1dUODZ3ajdrWk4taXhqNFpqb2Znbk5PYUVB?oc=5",
-   "date": "2026-10-25T16:21:00+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFF2emJfZ1JFdEZ2NnZtSWx0ZjBFSWxyZDdzWkhKVV96dS15SkIyWE90RzFDT3d3eU5tSDI0SV9kZ1RMbmdoZUtlbVlWOExSMHdibWg2amhRQzRfR3ZfU0J5LVJfVkVBdGcwT2dpc0ZzUUZ3SkxncXY4bzYzQnNJOGJzTEUzLUdkRV9sd2h0RG9DSkh2Qms3bGtrdDI4dUxpRDhkWXQycVY?oc=5",
+   "date": "2026-10-25T17:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1105,28 +1127,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNM2VKaDY2bjdoTllPZWVkekNNa0gzM1VPRzN1b1JHbjN1Y1pEOUV4UXdDVFR1ZUloZEtpWmVYRHNpUUc3eFFQQmh0ZW9zN1JIQnhUT3hYNm1xWFpKdUVJNTFsdXIxczU4V1lFbE1veWY2bVVGWHF3cndPZlJPTlpZSTBpTWNTYlFNOEsyWXhITERUSm1UejczZWp0T21kazcxX3pyTVgwZ3BfS01HYW9yWXRFVFQxR2NoVFF3bFM0YkZoTlloOHV2cDhwb2JXZWttVGhiaE1EU3BYMndzMVRtZUJfbFNmcXNkcXc?oc=5",
    "date": "2026-10-24T16:04:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f4408ab4aa9",
-   "title": "Canciller Carlos Espá y ministro Ernesto Álvarez acompañarán a Keiko Fujimori a su visita oficial a El Salvador",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWU5ONTJndUNDbXVfRUVua3AzUmhDYVltLU1oSDFXVHNLU2oyc1cteFVFTDFMb2VCWno5SUhpVDZ2aU1MYllPV180cXczTFp2SUNWVnZXRjVkcTlWbGlfNFhEcm4tckRiZGc4OGNpSWJ1Q0ZUSmE3cFhHZWNGbFBpOGNGOVFMa19LX3JnRFp6V2tBUGF1NENYeWtvanhYQ0diamxQQTJMUlpncGRIZVNkbWRKZEdjdlN5VHh4RkFJQXNaY2dtR0pvWHVOTnJQTHUtQ19PLUhvaThxbzBST0dmWjZvelY0cUnSAYICQVVfeXFMTmRxRzFPMGFNVVVHTzBobnlZQzV2MFpURkFtTzRZT2ZoTDh6TkZjZUFVRHpwZ3lXWXlPVDRRVHJVdUJ2VnlwcGhPcUkzZTFkTmRvd0VGcWw5cWUwNkxXaHRrZ3pDclc3ekRKdUxyMWhwUUd4MEhMTFB1R1gyMWtSQzdibFJ4akNxWmM4R3V3WWViM1YxdkdCZ18xeXdkbURGRnR6VzFISk1IcjdEelBraUpJVmZOOWNzTFN0MnlDR3RkVS10WmZZano0X3NTOVI1OURSVlNIbGFFeVdjSXd1ZngwOXZ5c1J2Q3JCeDZjeXpsaU9YZzI2NE9DV0ZPUHdTTG1B?oc=5",
-   "date": "2026-10-24T15:55:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "302b01114f91",
-   "title": "¿Qué papel juega José Chlimper en el Gobierno de Keiko Fujimori? Esto dijo Luis Galarreta",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUk9GLWQyLVR0SDk1Z0F0WWdfQmo3VWY5LV9wc3FjTXkzdmZQcloyNzJsdU1ENUlGRlRQakd5SVkzc01tN2lsMWVPX3RKZXRtZ29XWmN4TTdMR3drS2NEQUJLN3JOMnFFQUpqSU9fRVZfQTJRYms4X2t4aWdZSjRmWkg1U2I2NmNqakQwR1JidmlGVEJBTXY2TWVyOXZaV1Z2M2xWZmNncXhxQS14UDB1dkNXYTlRNm9taWtMZUNvQnVKV0Z5c1RsYUxHUWNxenhZV2FMdnlSZHhZbThKY0tzSG1B?oc=5",
-   "date": "2026-10-24T15:49:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
