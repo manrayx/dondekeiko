@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T21:55:54.330232+00:00",
+ "generated_at": "2026-10-27T22:17:38.355861+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,12 +105,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 59
+  "posando": 60
  },
  "total_7d": 60,
  "silence": {
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ea0c396d826a",
+   "title": "Keiko Fujimori saluda al Congreso por el retorno de S/ 300 millones para atender prioridades",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTJ4SkJ5bXNEZU9qaVhPNElITjBhalNqeXJkbjVOdlhNWFA0QmhUMk9nekIyek5DQk1SOUhfNXJpRnRFX3Z6Y0NsbXk0T2o5VWNEMW4xTXFKNFpIOExvV1JWR1V6RzY0LVRXcF9EeHJ5NC1pcGZtcFBTNVZjYkdkNm5SRXBpS0NnSFZ6WEF0akdqNTNqQmtmQjFnTG5WblhxU1MxVWtDU05sUG9jczUzd2tsYw?oc=5",
+   "date": "2026-10-27T22:08:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "120ee2da09e1",
    "title": "Keiko Fujimori saluda decisión de Mesas Directivas de Diputados y Senadores: “Recursos serán destinados para atender prioridades del país”",
    "excerpt": "La presidenta de la República, Keiko Fujimori, saludó la decisión de las mesas directivas del Senado y la Cámara de Diputados de devolver S/270 millones al Poder Ejecutivo, recursos que…",
@@ -445,6 +456,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzNQMElVY2hoU0VyRmItYlUxMW8zWFB1N3ZlTEk1WmVRdHBKRDl1aFJreHNYTHJ5eG1YNWM0VEVyR2RVN1lRZW1pRzJvMGZqZFhNWHEtTWgxQ1VrZWJfeWxkazJmUXhmZzREVDR1dHUxOXA1OXJmUk54Nmc3Wi10UFBrT0lGMVd2NDhVNy1aci03RVFicmRvdHlMaW1Rb0NJYzMtV0NrZTNVTHp1MnBGU05xY2ZZZ214MzhGRC1KbndJMExpWVZ3?oc=5",
    "date": "2026-10-27T20:54:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "16926014f276",
+   "title": "Keiko Fujimori sobre llegada del papa: “Es un regalo que nos da en medio de la adversidad”",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1k4cUl2N3JMMXBSamdONHdSTEp6MlM5S25GN3ZJbkVWMUFELWZ4VzJxNnZPZHdrekJHdkdnOXJIZzRVcmxqZ0c0NENoSXFzYjJxQ1dpd1Vfa2ZtOXZ4eUFLRm5RRU8wSDBocUJnVEl3Mll1V3A1NEdKTlJhMmpuNi05T2V5M1puV2N6VTNwa2gzYjI0ckQ0RjNmMDVMYkdKY056QjhQbkwyWU1vU09sZTFQUzdZY1V2d2ctYks1aldlWVdRVkpJZNIB3AFBVV95cUxPV1dmY2psRW9RUm9ENk5iTW5Gdy1qYkFEcnBDbTZkRTZ2WUZWQkF0aWxTWDdKWFRDY3B2YlZEWjQ2c1l1bldrZ3BVU0R3NWkzSjhReWZXMzhWZlVnVzBKM2N1OGUwNEswYU54M0ZuNzAtRGk2S0RwdVNoQm1qcnk0ZEQwbmw3bkNEQ2dMb28tbzlNZlgtWkFNazl5cmxJdDNkNmFmS2UxWE1RUHlLNGtnU0N5X1FTemdZTXFDQ3E0STRpQW1oak51RWpIbzRWN25DY1l0Q1dvRWxrUDlH?oc=5",
+   "date": "2026-10-27T20:49:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -780,6 +802,17 @@
    "next": null
   },
   {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
+   "date": "2026-10-27T14:54:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
@@ -852,17 +885,6 @@
    "source": "AP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzgyYklndnVlVVlya0k3VF9zVHQxUHFyRmFmaXFwbnRhOVlOUmJnWmlDOXdVbzBqaE55bm1iVElsN1JTUzNRTmpQaFNkdGtPWmxpVlBobkNpSzJScld1RzZqVEhrSHpEV1dOWi1hR1V4bGdBak04clZiSjFFRkJ2VlZ4YW9rcmtCMzNDMjN4VWNVUzdNNDFmYm0xLXV5SEFnNFlxYkxtTTJ6M1dsNk1lLTNZRDhnTUtwenlsMzdsTUhzTnRDcnNpelU4eEVNV29r?oc=5",
    "date": "2026-10-27T14:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "40e77490c316",
-   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
-   "date": "2026-10-27T14:05:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1067,32 +1089,6 @@
     "abroad": true,
     "city": "Brasil"
    },
-   "next": null
-  },
-  {
-   "id": "a6b9b0999e6c",
-   "title": "Lula da Silva agradece el saludo de Keiko Fujimori tras ganar las elecciones en Brasil",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa3FyN2ZycWhmOWVERG1PemVIZklwb0w5YVNqRUN3a242eVFNdDJmcDZvMlJxSWZYOWpzQWw1YUp3UlowMW5ndEhBR2RhS0dFQjdXOUtFOXUwZHdNQUMyOGlwU05nVTYxd1R5bUMwRXIxWUxYSVFPQ1VURkVfaGxqa05kQjd5MXNVTmVOQzlUMVl2Z25oZldtOVpPSE0?oc=5",
-   "date": "2026-10-27T01:29:13+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
-   "next": null
-  },
-  {
-   "id": "37d1121074a5",
-   "title": "El equipo de TikTok que acompaña a Keiko Fujimori - YouTube",
-   "excerpt": "",
-   "source": "Howl.Link",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9fSVhXZVBoaVVIQWVHdmh6TGNVTWtGY3BSUDUwWjVTZGk0R2E0bnhsQ0pEUlNGYXI5RG9R?oc=5",
-   "date": "2026-10-27T00:12:36+00:00",
-   "state": "transmitiendo",
-   "place": null,
    "next": null
   }
  ],
