@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T21:12:12.568005+00:00",
+ "generated_at": "2026-10-27T21:34:08.400083+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "120ee2da09e1",
+   "title": "Keiko Fujimori saluda decisión de Mesas Directivas de Diputados y Senadores: “Recursos serán destinados para atender prioridades del país”",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, saludó la decisión de las mesas directivas del Senado y la Cámara de Diputados de devolver S/270 millones al Poder Ejecutivo, recursos que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-decision-de-mesas-directivas-de-diputados-y-senadores-recursos-seran-destinados-para-atender-prioridades-del-pais-ultimas-noticia/",
+   "date": "2026-10-27T21:10:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7ae540d220f1",
    "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
    "excerpt": "",
@@ -439,12 +450,45 @@
    "next": null
   },
   {
+   "id": "1a7012aac022",
+   "title": "Keiko Fujimori saluda ahorro anunciado por Congreso Bicameral para atender el FEN y la inseguridad",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN1hnTVNzcEhENVFWUHphc1JyOFRWY2VYTmlUSFdKandORV9TXzUtR1IwY0QxaDNFd3ZWUjM5eHZDeGRLWXktWU9vVkhnT2RoVGVGcUtCYk5UOW1OR0lTby1SMGoxUFFLaENpUVB6OXFkcjBFNlhEa0YyVkx5eDhjejFQSjNpUXdqdDhyTTZkNE10WFQxemQzN193eEh0YUFzS0RCVm5WVEhiU295dGJoS2ZZNnZDd2F3STRfSFhTX3NwVEtMclFLZWRrTW0?oc=5",
+   "date": "2026-10-27T20:33:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "11d47348c019",
    "title": "Penales del Perú en emergencia: Caparrós respalda operativos de Keiko, pero exige plan penitenciario",
    "excerpt": "",
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORTNRa3d1SXR5blRhMEdUZ0h2NXVwdlBKSHBQQTF6Mk1USkVtbmdySkd0M08tb1J4dWVIdmxWc25uOXY2TlJuWUxLdEJ0ZTNqdmlSWE1Uby1VQlZMTjAyZkc5SmJab3dIM2EybW9QM0trc285cS1ZN3AtRHFnYzNuSkdVdFcxS2xsTXVrVlJvMHFwTmtHTU5NcFpDY2FZYWFzaS1hYjBCV2ZpWmVOQnltV1ZsaVFSajAyMWZGTGRIUDJuakEx0gHKAUFVX3lxTE0yMG1DYklBdkRqV2pmVDdrMzl2TkFJOENzWjZXWWtQX2xSdFlDR3l6SGFSUmZZbEo2VTB5MXViQTV0RFF0dUp4c2FLcmtnR1hVZ295MWYwVVhXYWxJLWk1LU1aUDdGY05oM0E2UnFZREhFbERqMDdFYVlLYklUQWZRSDRoTHlQd0FmRGluRVNjYTg5M3BlVHJmNXd0RVhLdTJPcDJzYm4xMW91dnFHUFFNN3ljSVp3d1hnZmNuMjdYVmlrMDY5aU9tVWc?oc=5",
    "date": "2026-10-27T20:12:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e63a65447625",
+   "title": "Keiko Fujimori lleva 4 ministros a El Salvador: ¿cuánto costará la comitiva? | El Comercio",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3U1cnRXQUFsRmpMVEJ5dl9yMzlvbFF6WHhicnBZYnh5RDJmR0pmTlRRUm9wUzhicUhtVlFscldoZ3VYYXU4YVZJYW1SVTRyQ0QwRjg0bzJsNGtFOXozb3ZsQWxIbTRGam1ldVluVVJJZmdPTi05dENoRDQtZnpabEZpZDhsUmFjemVhNVFIMWhTSzFxVWlPdFVpaURHeFdnMmZxeHkwZW0yblYyYkg1SnRvNjNlUW5CQjNtQS1VbG1WZw?oc=5",
+   "date": "2026-10-27T20:04:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
+   "date": "2026-10-27T20:01:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -704,7 +748,7 @@
   },
   {
    "id": "803d19c77113",
-   "title": "Las 5 del día: Presidenta Keiko Fujimori viajará al exterior y encargará el despacho presidencial",
+   "title": "Las 5 del día: presidenta Keiko Fujimori viajará al exterior y encargará el despacho presidencial",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY08yODdOQkpMcVFSVXBmOGRwcnZITWdJZlV1eUdGTXJkYldlbkhkZDF4b1llTGlqTk5iLURtdy1LRzB0YkFvT3AyaDgxaC1GOHI0Mi1OeFRjX19PdG1KMkU4ejBaYnI2SHZWU005a2g3aWMwMVM2MHJaWmR3TGJCb1VVUUJlT2dvdi1CVVd3VWdPUjBqSWp2RjEzN3hEZDdienY0cDFrblQ0eVY1V3k0am1WU2VFQVZrNDVwaDVTeThHNjFwWEhLemVsN1lEMzhFOFE?oc=5",
@@ -720,6 +764,17 @@
    "source": "ATV.pe",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02N1NJLTlzWUxOQ1VxS0VkbVJvNWxDS0pSV01xV2REYTNUXzRCc0FzNURYeWJTNGlzX0tWWEhXazExSGRQYWY3bzFyZjRoUlNDd2k4WTZ4d3JWYllFZnNVRml3TUozdFJMTDY3ZENlZ2dpZU9wRVNB?oc=5",
    "date": "2026-10-27T14:57:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
+   "date": "2026-10-27T14:54:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -797,17 +852,6 @@
    "source": "AP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzgyYklndnVlVVlya0k3VF9zVHQxUHFyRmFmaXFwbnRhOVlOUmJnWmlDOXdVbzBqaE55bm1iVElsN1JTUzNRTmpQaFNkdGtPWmxpVlBobkNpSzJScld1RzZqVEhrSHpEV1dOWi1hR1V4bGdBak04clZiSjFFRkJ2VlZ4YW9rcmtCMzNDMjN4VWNVUzdNNDFmYm0xLXV5SEFnNFlxYkxtTTJ6M1dsNk1lLTNZRDhnTUtwenlsMzdsTUhzTnRDcnNpelU4eEVNV29r?oc=5",
    "date": "2026-10-27T14:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "40e77490c316",
-   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
-   "date": "2026-10-27T14:05:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1047,50 +1091,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUdVeTh4Y2J2bE9Oc2syU0RFQ0JXUjk1a0Z2ZmNsZzZwaVdTSmFfREt2UHlxSmhYdDF0emtHbTJXWVBhRk5ac25PRTlfUWRNVzNVc2llbjB5aEdIdnpEdjA4dWtOOThCZmg2T3BheUdQcVNFN1liSVQyRWNtT0FSdVgxUkFCY0I0QmtSdjRTVlZRbHJ0dEhlaVpIZzliR1BJOVhoVmU0MnZlbjc1eUdrdGdBMm1yVWgxMkQ5em93Mi1OQQ?oc=5",
    "date": "2026-10-26T23:03:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1ff72610a9bb",
-   "title": "Keiko Fujimori celebra confirmación de visita del papa León XIV al Perú y destaca el cariño de los peruanos",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjdOYkRtY21JNkVsWF9FclRPc0J3VUFDbFpvWHZzTk1VaTNSNjJNcGdsYjUwNmFoMk8xdmxkT1d5emJpLXFHbEcwTUtBeXhOSWc3S3o1ZG9fYkViMml0WUpteTBiajJWZmZmemVCbHNlNzhaellzRmpxNFZEZDkyelVYZHNQY1Fzek9EaWNXQVBVRDdBdDQzNnRvRUUwWXBHRGdWX3JSd3RneWZBX1RQZ0EtXzRTTUpYdnd5YUdsVE5sVkRQTVU5YUdCQWNWM09WUS13VXRUaGdwTmZ1NlHSAfIBQVVfeXFMT0xoZW5MWF8yc01BLVZwckdUYkJidzVJM0tCZkxDM0JmVG1ZQmkycl84TkNJUVJUMFRJUEpMUWItSlBqM0pEaUFTSWdITFZwZ3JtMFhNb2ZDbmI0d0lGaHhUZDZwN0JSSFk5bUNaRDg0dWhjd2tNM3pzVUdQZ0owSnVnRllHdHZPQlM3aVVRTFF1WHFUbVpOTGR2Vm9lWWVxZzk3aEFTOHkxa1Q0MXdWeHMwWjZjVGhjTFVEWVpPc0hrUlNQbUVCN2o4c19PRW5nSHlxUkpjM1FIV1NMcVlTcUhicDQyOGJBaXpmYXFVVWU1eWc?oc=5",
-   "date": "2026-10-26T22:39:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4b372d58f33b",
-   "title": "Keiko Fujimori se pronuncia tras confirmarse visita del papa León XIV al Perú: \"Lo esperamos con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYnNGdVNKZzFJUHRGSUhUbHR4WFVvWXAtR1NGckZTNkNhd2Zpa2o5U05sOURIQUxMNy0wTEpyNXBsYkxZWjg2WURSUk9HWkxqZjVSS1JQNDdMV2JOUTJtcHRPMjVheFdrQlJGVUk4SUFUcFNlVmt3bmVkbkM1Q1kwbmw0ckNsSEM3VHE0Mm04dFlsb0h6TU9CdmJuZDAwN2dnS2p0ejdWdVk1RWcwOHhuY0xQdjhZNVNIV0t5WFZHRkVWMUVhWVZERVdHdXJtb21GVFhQVU1DQ0Q1eDRZYmwwZGpLSUZUWkpzNXVLX1gxbVo0VEtjYS1OWUlSNnZodzBNVTVmYXFneFFzMklpY1E?oc=5",
-   "date": "2026-10-26T22:28:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "51601b406b12",
-   "title": "Keiko Fujimori celebra visita del papa León XIV al Perú y destaca noticias sobre su recuperación",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMk9HZ0Vrc1h4YWZQNWNOWVFPQnJSRkFBbUNPdmpJWlJoWng4SHhNVGJodjZoRjlsbDFPb1J1enQ0cjZ1U19HVU1US1lGZjN6Y21nWXdyUzdKbm5NWHFON2NFZXdsRE1XelM3M19mYVNmckFNel9zbGxiaEdlMUtHNDVLRll1SG9LU2h5N3NEUzhFZw?oc=5",
-   "date": "2026-10-26T22:19:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7d973be30296",
-   "title": "“El pueblo peruano recibe con profunda alegría la confirmación de la próxima visita del Santo Padre al Perú”: Keiko Fujimori",
-   "excerpt": "",
-   "source": "ELHERALDO.CO",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNWE2Y0Z6N3FnS0JKT3NfaXBMSmh0ODhFN1JVa2pHeVluU09VRjFMTHpmMnR6eW4xNzZ2Z242RWstRHBEMHZHU1ZPbHlKVTVUYjFYeUxVMi1lenlkYjQtU1p2bWQ1VHNnb3hTU2lYZEwtYVBqeHRFN0RkWFhpbGxqQlp6Qndqc2VCbzhJRTBiX1FWeFo2N3Q1NjZBcmp2M1pvUVJIbWRGQWtTcUgwN1J6Xy1XS0hwR2J4S0hxYTZIRGdIMkNkSFRJeDhnLWNyNzRha0FsdF9zOWhQSFlqWGJyLWd2REwzbEM5aFhQcHRGU3hqQXR2T0Jv?oc=5",
-   "date": "2026-10-26T22:14:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
