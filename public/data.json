@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:50:21.249126+00:00",
+ "generated_at": "2026-10-27T17:12:05.003118+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -780,12 +780,23 @@
    "next": null
   },
   {
+   "id": "61c872e60cf9",
+   "title": "Lula responde a Keiko Fujimori y la invita a fortalecer la integración regional con un “modelo sostenible” para la Amazonía",
+   "excerpt": "El líder brasileño agradeció las felicitaciones de la presidenta y expresó su expectativa de celebrar en 2027 el bicentenario de las relaciones bilaterales",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVnZFeFpUYnRlcFRXdzlKeWNLMUFLX0hSNnMwNkJ6dWt4YTZKTHpheWYybUMtaXowZEJReFlxcEp2U2p5WkZlUnp3by16S3NwTFdNaG5zZlMxbGg4OHoydVVzc2tNZkpRU09Vd2tXM2JzNU9FdHBDYXlUQW8wUTA4ZmFSV0VQM3gtMi01dmpCVDNFZXZKeDlIR2hqOWlVMFNZeTlobFlBSk9QeEtLOG1ZZ05uWUxvd1oxcUNXdl9FZnNtaFdmNmR5Vlc3ZHRzU1R5am55UzJwNWtQZXh1aDgyeV9tOTNzU1h3U2F4RzZVQkVCel9Y0gGPAkFVX3lxTE9XaTJIS1VpczQ5WThFcV8tbGRpRm5jUnZMTzNKem0wM2RTR05vXzRQTGoxT0VOWVJZNDAwM216TVctaFRHWEFSTnZNUUg0aHpfd1ZDSlZMVXVEeVBSblRoNENOTFlFZUZWQzBhRDhVTjJ4V05TTkRRN0FlRjFaQWVjTWdPU1JHMHp4Z2tqUDdDQmtYcFdWSEJZYzhoQjhfbDQwUXZrV2tyR2ZxdHczV1drLUQ1Zm5XdzhoaVRpd0d6bEpHQ2pyOFB4RDFvUU54dTZzNDQ2aTlhRU5fdHc1Nms4blhuMW9hZlZ1SEgtaTE4S0ZaWkpaOFlmVmhhejRBZ0dfUlJWcDhmQ1g4b3QtUkE?oc=5",
+   "date": "2026-10-27T03:18:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4dcc39f483c2",
    "title": "Lula da Silva agradece a Keiko Fujimori y propone fortalecer la integración entre Perú y Brasil",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEtnOGsyRzluSEJzdWRMQmIzcHhWdUZQUDdNZlU5T3Y5VWIzcFMxbzFIbU0wbDRhQXNoVGRiVmVvS1FaOUxPc2FxbUhFcGI1UnU3aXlNNTdRaDc0VTlSeTJkYXAtdzFXSmlWSjdXZEYxekhRb3F4eVR1enZNalRBZnRrd0NBNjVJbDktTU12N2loTUVlQVRjRUJmX3J4TDdrWElheGxkQnp5SzFBYWdyNVBpZ2ZvMjN5VDVfYUhnS3FTMHcxZ3l0SDZUcTR3NC1tR1NqdlJiSnRwdGZlZlRnVGNkaFo2WHPSAecBQVVfeXFMTkxLZzhrMkc5bkhCc3VkTEJiM3B4VnVGUFA3TWZVOU92OVViM3BTMW8xSG1NMGw0YUFzaFRkYlZlb0tRWjlMT3NhcW1IRXBiNVJ1N2l5TTU3UWg3NFU5UnkyZGFwLXcxV0ppVko3V2RGMXpIUW9xeHlUdXp2TWpUQWZ0a3dDQTY1SWw5LU1NdjdpaE1FZUFUY0VCZl9yeEw3a1hJYXhsZEJ6eUsxQWFncjVQaWdmbzIzeVQ1X2FIZ0txUzB3MWd5dEg2VHE0dzQtbUdTanZSYkp0cHRmZWZUZ1RjZGhaNlhz?oc=5",
-   "date": "2026-10-27T02:39:17+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzNqTVF4RC10MGR1WUlZLVYxS3Y4NmxwZE5UZ1c5STEzNjM5dkk1OUtLSTk1Z04xV3lfR0dlYmNGUm1zVXJhVHdSNDh4bXlET2pmVXlfWVkwRF8yNHFiZGZfcDh4QjdLVnp2elo2aUpVV0JyblRNd1V4YVFYMS01OU1Wb3VJYkFGUjNnSnJ5ZmZoN0kteWZVYXMzNlp0OXdFWmlGOE9RbHJhWFZiRm9NMTJ1NG93NzhXSUhya3lDUXFzTUdVak9HSC1xMU1RVEgzY1pn0gHnAUFVX3lxTE5MS2c4azJHOW5IQnN1ZExCYjNweFZ1RlBQN01mVTlPdjlVYjNwUzFvMUhtTTBsNGFBc2hUZGJWZW9LUVo5TE9zYXFtSEVwYjVSdTdpeU01N1FoNzRVOVJ5MmRhcC13MVdKaVZKN1dkRjF6SFFvcXh5VHV6dk1qVEFmdGt3Q0E2NUlsOS1NTXY3aWhNRWVBVGNFQmZfcnhMN2tYSWF4bGRCenlLMUFhZ3I1UGlnZm8yM3lUNV9hSGdLcVMwdzFneXRINlRxNHc0LW1HU2p2UmJKdHB0ZmVmVGdUY2RoWjZYcw?oc=5",
+   "date": "2026-10-27T02:57:48+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -797,17 +808,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXFndlNtQm5SZmtIRGJGUHRmOUxDWWJNdnlJdUc0cUdGU1Q1VHVIM2RJUGp5ME5yNUZueU15NndGTEZyM19TejVNSGRHQU1vdkoyXzlLa1NfcFVZeFFfZHJldnZNa0dFS1dLcHVmMGhvY0FxU3dhaU5TNXVwU2N1WmxzSFFiMTEzOVI3MUF5MGFvZll0TGx5T3NwMkY2SXI2cUd2SHAwNGVuVUxFbjhxaXpjS1d4RE80WTQyN3pVbzBfRVQyOTg4SA?oc=5",
    "date": "2026-10-27T02:27:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "61c872e60cf9",
-   "title": "Lula responde a Keiko Fujimori y la invita a fortalecer la integración regional con un “modelo sostenible” para la Amazonía",
-   "excerpt": "El líder brasileño agradeció las felicitaciones de la presidenta y expresó su expectativa de celebrar en 2027 el bicentenario de las relaciones bilaterales",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/27/lula-responde-a-keiko-fujimori-y-la-invita-a-fortalecer-la-integracion-regional-con-un-modelo-sostenible-para-la-amazonia/",
-   "date": "2026-10-27T02:18:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
