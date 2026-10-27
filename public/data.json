@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T01:46:19.988804+00:00",
+ "generated_at": "2026-10-27T02:08:04.944823+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Brasil",
+   "abroad": true,
+   "city": "Brasil"
   },
-  "source": "Infobae Perú",
-  "date": "2026-10-26T19:24:51+00:00"
+  "source": "El Comercio",
+  "date": "2026-10-27T02:01:09+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -430,12 +428,38 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "61c872e60cf9",
+   "title": "Lula responde a Keiko Fujimori y la invita a fortalecer la integración regional con un “modelo sostenible” para la Amazonía",
+   "excerpt": "El líder brasileño agradeció las felicitaciones de la presidenta y expresó su expectativa de celebrar en 2027 el bicentenario de las relaciones bilaterales",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/27/lula-responde-a-keiko-fujimori-y-la-invita-a-fortalecer-la-integracion-regional-con-un-modelo-sostenible-para-la-amazonia/",
+   "date": "2026-10-27T02:02:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9acbddaf3a60",
+   "title": "Lula da Silva agradece a Keiko Fujimori sus felicitaciones por su victoria en las elecciones en Brasil",
+   "excerpt": "El presidente de Brasil, Lula da Silva, agradeció a su homóloga de Perú, Keiko Fujimori, por sus felicitaciones tras su reciente victoria en la segunda vuelta de las elecciones generales…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/lula-da-silva-agradece-a-keiko-fujimori-sus-felicitaciones-por-su-victoria-en-la-segunda-vuelta-de-las-elecciones-en-brasil-flavio-bolsonaro-ultimas-noticia/",
+   "date": "2026-10-27T02:01:09+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
+   "next": null
+  },
+  {
    "id": "758dee4c08d9",
    "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
-   "date": "2026-10-27T01:44:49+00:00",
+   "date": "2026-10-27T01:52:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -446,9 +470,24 @@
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
-   "date": "2026-10-27T01:43:20+00:00",
+   "date": "2026-10-27T01:52:52+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "a6b9b0999e6c",
+   "title": "Lula da Silva agradece el saludo de Keiko Fujimori tras ganar las elecciones en Brasil",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa3FyN2ZycWhmOWVERG1PemVIZklwb0w5YVNqRUN3a242eVFNdDJmcDZvMlJxSWZYOWpzQWw1YUp3UlowMW5ndEhBR2RhS0dFQjdXOUtFOXUwZHdNQUMyOGlwU05nVTYxd1R5bUMwRXIxWUxYSVFPQ1VURkVfaGxqa05kQjd5MXNVTmVOQzlUMVl2Z25oZldtOVpPSE0?oc=5",
+   "date": "2026-10-27T01:29:13+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Brasil",
+    "abroad": true,
+    "city": "Brasil"
+   },
    "next": null
   },
   {
@@ -1106,39 +1145,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWF1X3VSOW1MTWFLcU1FSjJfWFNOZnN2WHpZQ3hqLUR3cGVSLTZRUnQtdXAzUTJYeUJucE1mQzhleWlCY1dkRWE3RGlQa0dtTXlhXzFPX2c0alZUNVh4ZkpYSjVteEdQNm1wSU00c185RjNZalc1dV95S2Z5U3V0NVFORk9meU1rRzNrcURnVVVPSnRqYkQ2emxjS203b3lTa2VFNVRBUktZTHMt?oc=5",
    "date": "2026-10-25T19:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2aa09c525e26",
-   "title": "Presidenta Keiko Fujimori eleva plegarias por el papa León XIV y pide por su salud para que continúe guiando a la Iglesia con fortaleza",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSmxCSWlZS2tFWEtNT25iXzZ4a2plTWtUcHlQNjFvU3BUX2paMWlUcXBGTE5fTnREWUpuZ2VGaHJIbURCSjhpTmtxelZXc0pnT0dRQUQ5c0d6SDIxdVczNWhmZXc3OTVCUFl0Vm5IcndlRXlzcHZKV2JIMkJlWUVHVy1VR0Z6VGVSVHcxM2c2cWlybE9peVI4eTRZeUdDbjgwTS14cXd0VlpkU2p0VkhQQWk0NkNCaUdhd2JrUy1vS2ZTNEQ1bk95STFNOHFDU1B1RkZKLURCVDA1Q2pEV1cwRFdnSTIyUkhCTy1Qb2pYOTdOLURF?oc=5",
-   "date": "2026-10-25T19:07:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "875135c3b947",
-   "title": "Keiko Fujimori rezó por la salud del papa León XIV en una misa en Las Nazarenas",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWl3UnFVVTltc0FYa3g2bFh6Zk1xNTZadUxtOFlIRV8zN1JUanBiN1EyOVBsSTBZdHlOWHFSdlpqMXJhenRCc0NSdkZtU1g0LWhWZGNCcnpqWlRnRVlQcVZ0bmY3MU5TU1BaQUt5SHQ4SGZJb3lpS3AxM2VtOGNrcFhRcUhJLW1qR0NNQmpIMi1qVXFBbzg0eWdiOTQ3OVBtMnNZd0UxZnZFNFItUzJV?oc=5",
-   "date": "2026-10-25T19:00:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b14b2d76f3e3",
-   "title": "Keiko Fujimori elevó oraciones por la salud del papa León XIV: ¿quiénes la acompañaron en el Santuario de Las Nazarenas?",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNGM3QjB3VW5rVVVIVnpaQ25YRGRxZEZQOW5IRXpMdTBFeVpsa21KQ1lsQThLSFpuOG5GdWxONTBucmVONDdOMlhfWjM3MWM2ZFVjdjE3NDFnb1ZYcDJBdXRFNXFxb0VRXzhaYlJXTWZ2QmJVdnFFbktxaExlVHJyLUxrdVYwS3ctRGZueGFJOXlsUTlpNjM2YjlGV1llb0IxaGZoZ1Y1dzVzTzZjQmlDbUoxczg2Z3hKZXFodzRPX1lrMzhhTHljQWVXRUstSDNiRUtyY2hHYVlBdkNLdUZsWEpSQjJ6RlVhSHVSc29KQmlDaDdGcjFZM25nQndteHpieWxwVFBWSTlheGNvQUtIa2NR?oc=5",
-   "date": "2026-10-25T18:39:49+00:00",
    "state": "posando",
    "place": null,
    "next": null
