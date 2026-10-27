@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T17:12:05.003118+00:00",
+ "generated_at": "2026-10-27T17:33:58.588896+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,12 +428,56 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d61f66e20d37",
+   "title": "Congreso recorta sus gastos y ahorra más de 300 millones de soles: Monto será transferido al Gobierno de Keiko Fujimori",
+   "excerpt": "El Senado y la Cámara de Diputados eliminaron alquileres y redujeron gastos internos para ahorrar dicha cantidad de dinero. Miguel Torres y Óscar Reto anunciaron que los fondos se destinarán…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/27/congreso-recorta-sus-gastos-y-ahorra-mas-de-300-millones-de-soles-monto-sera-transferido-al-gobierno-de-keiko-fujimori/",
+   "date": "2026-10-27T17:26:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "37503a44d670",
+   "title": "Keiko Fujimori anuncia que hará un balance de su Gobierno al cumplir los 100 días",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMG05S3VMVjk2bVVSQnlPNmJkLWFITmo4MEJJSEx2enNkamhzeHNYVS1OWjgwYzJTMm9FVXhOTXVkaVc3YzJGUGxHMHI0TlZOeUx1YXQ3UXVqd21aY1hVWWJCQUtkd01lc05iQUhZNzU1YVRhWkJqWHFNeUlTSXBsUmxnSFlDVHlBQkdVd1VlakRFMjk4NlBfNi1GSnFWclZHc09VandTcjliQ3lvNm9xcHA2YjZGdWcyWkpUNDVsbGnSAdQBQVVfeXFMTkg3RWQ3Rm9VN0lLOXlieGdnTHZ1aTJmN283R2NjRDZZczBWWG9sUWJOTmNGTXdFZ0FMYTN3dzc5NF8wbC1KSXljc3pSc2cxYWZBOXdHVGt4bmZrZkVIMlR4ZjZRQ2Rxa2FSVkp5WUxfVlJTRENiRDJReHp0YlRfVV9VajVHZGFQbnZHdWJPM0c5OEZOam5OUGNmbkhhLXVxbVZmRGN3VHVCM2QxNUpmME1EN0ROdnZrRmdFM1Y5d0pDZVBGSzBzYVNCa3JWZVBYWEpza04?oc=5",
+   "date": "2026-10-27T17:14:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "35733553ab59",
+   "title": "Keiko Fujimori destaca el papel del Comando Unificado y afirma que su gestión está \"golpeando fuertemente\" al crimen organizado",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWEdSdXNNNGZzbU8tQ3NvY0ZZWUM0SzR0SVFVY0lnNmlJX01OUGNrX0ktX1lKZjZwdTNfNzNXVjlSQVVPNE1uNTdiUG5QWHZUVWFuYXprR3NzZFlDRjJhekNSTDlsN3Vodm5DeHpSUDZ5ejhNNUFhZmd3anlKa3VnUzFFOG9KVHVGckxZeW5mY0ltSEkycFBBSXBfQWlKOURBdXREcmRsc1BkNHJQQXJyc0R6MjNsYUx2R1psWjB0VVlTOFFqb2NBd2dfaUxUWEdnblgtZmVadFVqVHlqeHFfSndYdTU4V0JPY2c?oc=5",
+   "date": "2026-10-27T16:52:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "933f08f06a3f",
    "title": "Presidenta Keiko Fujimori sobre llegada del papa León XIV: “La recibimos como una gran bendición”",
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjdRVEtnZGdBYjhDT1hmSlJZOU9SR3QteC16SnBGWUxnRGhHUHNTSEJ5amU5WWdJM2NLYmJTVy1CdVJqVG5lZXMxWnBGWk45cEIyQ0VfY2V1eWN0Mjgwc205N0xiai1vN09SQWxUc0dXZjZhREJBMVZCZGFpcE5QS3U2NkNxQXVRQS16NE1hOVNZZG5aMUFPalBla1dwaURWcUNDeFRrNmhKV2dLaUEzb0l6d25BaTY0SlV0cGRBWlBWMXdWNklReU9HWQ?oc=5",
    "date": "2026-10-27T16:31:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "454660c400ef",
+   "title": "🔴🔵 Keiko Fujimori destaca acciones contra los incendios forestales",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0FBelN5ME9Ta2MwQUo0VkR6UklQMVBIdmFyVlhZX3VwQWRJNWVvdjI1dXc4V2J1NDRtaFVjemtCS0NjYjIya0FpbWstd1RNTTZUcnJxbFk5cmdYM0dYaWNSTnY0cEhjRGNSMTI1U2Ewcm8tZnlZRjFYRXJmbmdKTnlqcmN1SmtZSDhBRWNyQkFEdTdzaDdRVFV6R185QTVKQWgxQQ?oc=5",
+   "date": "2026-10-27T16:03:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -538,6 +582,17 @@
    "next": null
   },
   {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
+   "date": "2026-10-27T14:54:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
@@ -599,17 +654,6 @@
    "source": "AP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzgyYklndnVlVVlya0k3VF9zVHQxUHFyRmFmaXFwbnRhOVlOUmJnWmlDOXdVbzBqaE55bm1iVElsN1JTUzNRTmpQaFNkdGtPWmxpVlBobkNpSzJScld1RzZqVEhrSHpEV1dOWi1hR1V4bGdBak04clZiSjFFRkJ2VlZ4YW9rcmtCMzNDMjN4VWNVUzdNNDFmYm0xLXV5SEFnNFlxYkxtTTJ6M1dsNk1lLTNZRDhnTUtwenlsMzdsTUhzTnRDcnNpelU4eEVNV29r?oc=5",
    "date": "2026-10-27T14:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "40e77490c316",
-   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
-   "date": "2026-10-27T14:05:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -795,8 +839,8 @@
    "title": "Lula da Silva agradece a Keiko Fujimori y propone fortalecer la integración entre Perú y Brasil",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzNqTVF4RC10MGR1WUlZLVYxS3Y4NmxwZE5UZ1c5STEzNjM5dkk1OUtLSTk1Z04xV3lfR0dlYmNGUm1zVXJhVHdSNDh4bXlET2pmVXlfWVkwRF8yNHFiZGZfcDh4QjdLVnp2elo2aUpVV0JyblRNd1V4YVFYMS01OU1Wb3VJYkFGUjNnSnJ5ZmZoN0kteWZVYXMzNlp0OXdFWmlGOE9RbHJhWFZiRm9NMTJ1NG93NzhXSUhya3lDUXFzTUdVak9HSC1xMU1RVEgzY1pn0gHnAUFVX3lxTE5MS2c4azJHOW5IQnN1ZExCYjNweFZ1RlBQN01mVTlPdjlVYjNwUzFvMUhtTTBsNGFBc2hUZGJWZW9LUVo5TE9zYXFtSEVwYjVSdTdpeU01N1FoNzRVOVJ5MmRhcC13MVdKaVZKN1dkRjF6SFFvcXh5VHV6dk1qVEFmdGt3Q0E2NUlsOS1NTXY3aWhNRWVBVGNFQmZfcnhMN2tYSWF4bGRCenlLMUFhZ3I1UGlnZm8yM3lUNV9hSGdLcVMwdzFneXRINlRxNHc0LW1HU2p2UmJKdHB0ZmVmVGdUY2RoWjZYcw?oc=5",
-   "date": "2026-10-27T02:57:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEtnOGsyRzluSEJzdWRMQmIzcHhWdUZQUDdNZlU5T3Y5VWIzcFMxbzFIbU0wbDRhQXNoVGRiVmVvS1FaOUxPc2FxbUhFcGI1UnU3aXlNNTdRaDc0VTlSeTJkYXAtdzFXSmlWSjdXZEYxekhRb3F4eVR1enZNalRBZnRrd0NBNjVJbDktTU12N2loTUVlQVRjRUJmX3J4TDdrWElheGxkQnp5SzFBYWdyNVBpZ2ZvMjN5VDVfYUhnS3FTMHcxZ3l0SDZUcTR3NC1tR1NqdlJiSnRwdGZlZlRnVGNkaFo2WHPSAecBQVVfeXFMTkxLZzhrMkc5bkhCc3VkTEJiM3B4VnVGUFA3TWZVOU92OVViM3BTMW8xSG1NMGw0YUFzaFRkYlZlb0tRWjlMT3NhcW1IRXBiNVJ1N2l5TTU3UWg3NFU5UnkyZGFwLXcxV0ppVko3V2RGMXpIUW9xeHlUdXp2TWpUQWZ0a3dDQTY1SWw5LU1NdjdpaE1FZUFUY0VCZl9yeEw3a1hJYXhsZEJ6eUsxQWFncjVQaWdmbzIzeVQ1X2FIZ0txUzB3MWd5dEg2VHE0dzQtbUdTanZSYkp0cHRmZWZUZ1RjZGhaNlhz?oc=5",
+   "date": "2026-10-27T02:39:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1053,54 +1097,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHdWdzlLcDlkcF84T3QzTmRuNDJRUzFNRVY5MXRWNlJzYnpkclUtR0RHWlRWTEh0R0cyVUY0Y2FNOXo4Nm5sTlhzZkVQOXNWdm52N2Y5REE4WERoR1pZWEZNR3FLRzNGSm5RNEQta0FOa016OUhrVDd5VG5jQmNIZ3JlV1JRRHFrS3FHRGdWU3JYZkkzUDd0S3VxY01fVkg4eWhrc0hSYlpBamJ5cm1JNmE4aGtLMEk1bEVyOTUzakExQ2JZOXNzREEySQ?oc=5",
    "date": "2026-10-26T18:04:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08dd6e7efece",
-   "title": "Es incorrecta la versión de Keiko Fujimori acerca de que el fenómeno El Niño recién está empezando en el país",
-   "excerpt": "",
-   "source": "Ideele Radio",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeWlESjM2MHRXVXhMZE5LbkpscHJCd2p5VHRMeVNpemFPd1ZEcEY4dTNPUW5VVXktUnI0eFNvRTQ0ZGF3aWlNRHdWb0x5QTNrMzd1S0dRTU1jRTdpTFRvM1g4THdUS0pHWVp1c3EwaUNlaUo1eGFHZGdzTlFxUW9KbUxEWmJDdFc2YlZmb05iUkp1NU5ZOU9VZDZIR2xkd0FobmNUb05DeHZQcEl4bEN0X1lYWFh1eU9Mb2VhZlhjZzJjVWZpRThZZ1Nhd21FMUxaUlE2WGlBVGRDaEVKZl90OV9B?oc=5",
-   "date": "2026-10-26T17:39:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "adcea349d87a",
-   "title": "Presidenta Keiko Fujimori lideró un megaoperativo simultáneo para desmantelar estaciones ilegales y antenas clandestinas de telecomunicaciones instaladas en los alrededores de diversos penales del país",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPUjJ1SnRnZ2hEaWhpSHl6NHR5N0VjNjJqeXR1RG9PTEpxR3p0Q2lOZ1E5NWpEMVpka3RBMlJXUzRwRDBPXzVUaW5MZDRweWhWMzc4dTV0NlhOcVB3N2NveFRrcUNWSzJmTzYyLXNSNVRVczRJcXpFQ0RBM3ZDSktkR052ZC1RYVFaLXJkdlJlX1ctNEEzRW1hb0tVNFd6QWtPVDhETzlaYU0ycVdpMF9KM1hySEhGSEd6X0dWOXlTcGFhbE5wYjdVLVpQMVVwZ3dsSnhJcXdyQ1BNcVdLRTZJamI5Ykpqc216NWFHOHZfMm5NX1RoMmlhaTBrbWhFTzB1M3BudTVnbjFWR2xVelVObjVIb0RJQk03MDlFQ3pSWTI3T1NOY01xdEhqTVZNV2V3WlRsTW9jRVRUZWg5c1RwdkxDdlNySVppVjVQSU9aX2hUcGR1MU00SQ?oc=5",
-   "date": "2026-10-26T17:33:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "073a90a67a9e",
-   "title": "Presidenta Keiko Fujimori felicita a Luiz Inácio Lula da Silva por su reelección en Brasil",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, expresó sus felicitaciones al mandatario de Brasil, Luiz Inácio Lula da Silva, cono motivo de su reelección en los comicios generales celebrados en…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/presidenta-keiko-fujimori-felicita-a-luiz-inacio-lula-da-silva-por-su-reeleccion-en-brasil-noticia/",
-   "date": "2026-10-26T17:10:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
-   "next": null
-  },
-  {
-   "id": "1635486f4578",
-   "title": "Keiko Fujimori asegura ante golpes del fenómeno de El Niño: \"Será una mega respuesta la que el Estado va a dar\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEFDUHdZTFNYdGpEQUpkMEtUVUJBa0w5WUZTaXQyaFF4MlNpSFg2ZDJCVTlKZ09wSzVSYzZnNFI0cnEzQ19pbVQwZ1VhSFVVbWdXMFUzbjhJSmtDN1ByZWlXSGF6dnRzeDU0dE1aLU1kTV9vSndVc2Y4SE1lSWxHTzJnb2MxZGI5WUNmRlJB?oc=5",
-   "date": "2026-10-26T16:56:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
