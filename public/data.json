@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T12:52:14.396786+00:00",
+ "generated_at": "2026-10-27T13:13:59.166408+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -411,6 +411,17 @@
  "agenda_minutes_7d": 734,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "eb6280b7dd6a",
+   "title": "Encargan despacho presidencial a Luis Galarreta por viaje de Keiko Fujimori a El Salvador y España",
+   "excerpt": "El Gobierno encargó el despacho de la Presidencia de la República al primer vicepresidente, Luis Fernando Galarreta Velarde, durante los viajes que realizará la presidenta Keiko Fujimori a El Salvador…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/encargan-despacho-presidencial-a-luis-galarreta-por-viaje-de-keiko-fujimori-a-el-salvador-y-espana-noticia/",
+   "date": "2026-10-27T12:56:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "ec881145682b",
    "title": "Encargan despacho presidencial a Luis Galarreta por viaje de Keiko a El Salvador y España",
@@ -1100,17 +1111,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVElpS3lCNzJTRllEMzc3NWN1aUJqaEo0aXBTQ29YdUhxdTZ2R2lCcFBoT2pxZzg5R2M5V0F0X0tiOUFsNnVGelZCWU9FOVI3NVgzNnBhSnFLeGoyajZZeFNndEFGZTZaWXpjVTNqUU9RU21EZ2ROcThoeU1tZzFnZ0dkWndLdTFSemhnQnJSa0VGaEx2VnRnX1MtV3ozV3hGY0o0eEdnYV9vdkxkQmlWbG5HWjI1RVgxZnp5amZCTGdVdnIydEY4dGZCbndFOEtZTWQwOEJQNkJ0TUlCSmhLYi1mTk96Q3dQZWdqclJaMXI2LW9lYm1nN0paOEc4ek1xUVHSAZwCQVVfeXFMTjBjOEZjRER3UHNQSVNnV283eWoxUC1Ca2RRbUtWSTQ4NG5sUV9rbFE5S0lZUnRNUUtCa0ZKbERHLWtRUlJaMVBiY2VTSURiTV82OF9haGFaREJxTGExLXI3SlVmR1FFMEJKekZTMWxqeWMxbDVsUU1Qd3FqcU1xeGhkNVhDb0w0bE1XdHQzcHphQ1B4eFBxVmVmdUtoYVh2NnhtVTVKaEJDcUVMcVZNZGh0eEY2YUxJLWEwcnZ0emNiYXNvTWUzdnQ3eFZoWTdRb2w5cTBOOGNILVNwRlhKYUlfcGgtcHowdXpHTldrNFJnWHk3Q0ZoaUhXQ1ZRLXZWWE5jSERUNTJlN0lCbVBkRE5JeHh0QXB6SU9HZTY?oc=5",
    "date": "2026-10-26T03:16:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3edcb5d7c85b",
-   "title": "Presidenta Fujimori felicita a Lula da Silva por su reelección y ratifica alianza estratégica entre Perú y Brasil",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS3J4LTg4aEF1WnJCcXEwQjhPdXJCRTA0MVFDSnJrRzZtN2NlZVR5eF9DN3c0T1E1VmpuUk9FNThIYkl6M2NIeURBVHRQVlVyT3VJbEpxT3pWNUctOV9SMkJjVkJuSFVpNjRmZHVTN3NtRm91QUhFaC1iR1BhM1VodUM3MktQS042d2VtUE5fLTgwZkNaeUNwYk8wZmg0cEVrN0tiZXhpRHRDSmtKeUhQTUpmODJmWmNBZDU2bXlGTE5sZ08wUXFOSkhiYmF2REpEVVJwSnFTa3ZIYVF4ZXI4UmtRZw?oc=5",
-   "date": "2026-10-26T03:06:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
