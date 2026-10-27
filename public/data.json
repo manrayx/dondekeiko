@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T13:35:40.023762+00:00",
+ "generated_at": "2026-10-27T13:57:15.905237+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -412,6 +412,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d5cc4d2d2209",
+   "title": "Presidenta Keiko Fujimori coloca primera piedra de Institución Educativa en Santa Anita",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWZhNks5NlE0RzBNdC1LZ2JPemVLSmRKUGh2YXZTRmxfZk9fcm9IQ3JUb1g3TXJROGVRdHVSYUlkMWZRM2JuTE1vaWwtY0Z2VXFveXM0NXZlNmwzUDRucTl5QnZQNnI0QWVZbVQ2a1RDaG5sdkVpNG1lSDlDWTJySFVLd2dvTkhpOEp5NkJGTTg1NldWbTd5T0lVd0VGaFBsdWN3X1YyUmtIQ0RjNDJUaDVQanJKMnVCN0tTbTQtNW1NVm9DYXB3?oc=5",
+   "date": "2026-10-27T13:33:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6b4cd7152456",
    "title": "Ministros César Astudillo y Luis Dyer también acompañarán a Keiko Fujimori a su viaje a El Salvador",
    "excerpt": "El Ejecutivo autorizó el desplazamiento de los titulares del Interior y de Salud, quienes participarán en la visita oficial junto al canciller y el ministro de Justicia",
@@ -440,6 +451,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/encargan-despacho-presidencial-a-luis-galarreta-por-viaje-de-keiko-a-el-salvador-y-espana-ultimas-noticia/",
    "date": "2026-10-27T12:46:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3baf2c75bbd7",
+   "title": "Luis Galarreta asumirá la Presidencia durante los viajes de Keiko Fujimori a El Salvador y España",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU29PVHl2elQ2T1p1eXZfLVd1MUJjazBBT1VxbE83TTlvaF8wcHl2Rzg0Rm1VWkJMelBGRkoxTm9KOHpxN0JGUU5nTnpaMGhocGNnVFp6X2tqX2dWZ2p5VEdjckdObkJoVFdZLTM4Qnd5dzJaNXhLM1RrVUdCNmRubHUzaXVpa1N4QWZTelY3cHg0d1d5T0hkVXZLamFSSW9HRDJpUzNUQldOVDdtZ0xqdF90QndseDN6d3JhZllLaVVudDdEQWQzalp0SGk4YWc0cGN2Zmtn0gHqAUFVX3lxTE1lSS1Fb05aNGthTWRzY3hIV1dMdWRGbTJ6d3UtcEpjb2tiSEpCQ05mTkRUUkV4RDduRXc0V0psZkVYSEdTUVl3cW9xbFNoaWVDU1FmNFBCNHB4TDdDSFRDUW1pRGdvYlpHckJKSDN3UzNzWTRvWmcxekExWjBVSFhjYWZENFNLc3BGTm92Q2pBVFF2dHBJQlNCeGFIWlVUWUk1YkdQcEh3cVdwM0NxSWhZZjJqaEJyY2p0cjdwV214azF4cFhUNlFGTU9TSVJPamYzMWo0OXNKYVZuTjRqS0ZhQmotdWgzQkgydw?oc=5",
+   "date": "2026-10-27T12:27:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1091,28 +1113,6 @@
     "abroad": true,
     "city": "Brasil"
    },
-   "next": null
-  },
-  {
-   "id": "4fd37e89250b",
-   "title": "Keiko Fujimori tras reelección de Lula da Silva: \"Reafirmo la voluntad de fortalecer nuestra alianza estratégica\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTzJIaVBtNDRhNmVEU3pmMEhPUjZCeWc2d3k4T29CTXk5VVBpR09oTzhpN2ZNV0VvTXkzODR2ckdLWGozQW43eTBhaVZCRmNhckNoSVNCMXhVVWhuMXh4QlZlWk1ibHJXLWx6dVI0VC1LRm56UGNXd3lIUGY0TUJWT3RSdmNFTXQ2TE9pOXZwQWJCT1Z4bUxZaWk1dmtsajQ?oc=5",
-   "date": "2026-10-26T11:50:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ad455c3179d8",
-   "title": "Keiko Fujimori acudió a las Nazarenas y pidió por la salud del Papa León XIV",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWVA3ZEVBdkE5YlZ4d2ZtdTlRdHk4SG50MEJkc1llSllhbzV2LUs3QWpDUE44X3ZBVlJ5b3RRNE5tNFp5YXRDYUQwaWlPdjZQcTdjSVgwU2hSQnBXSEMzMTJWbkszS1NxRXlXc01BOGE5ek02UXN4Q1pLZXJsVUdyYkduMzZyM1N1dDVETjFUaGlLR1FucFhhNmo1VTMtbGxDaTB6UUJzLUNzT2I1Y19kaXVqNlY2TElxekNSTGd2OTlBMGJScHc4ZEJKOWRZTDVuaDVjSGhpeENzZFdPR2lSY1NMcWxlRzNS0gH8AUFVX3lxTE1VRThXZnRvSGdVU3M2ZElHVWdoVFBxa0VtWnhpcFh1S25CLUdNWDFzQS01SHJhS09rYUJKb0VKUjRJWDhucG1Sc1FtNnYzd18yeHlwd2lVZFhfd0hKa2VyRV8tV2xYc2h4bXcwSTFCX2ZTS1VpRnl4Ym9GdnBma3AxWE1QSk1IYXpWdjFuVUxPM0Y0RXNCVzZvRThYbWZPQnA1WE9UazBRd0sxNHZHa3g3dlBMNkM0S0E0MGhxemtYQV8yZF96VGFxZ0lJc2l5cDVXV05QWUVFRlVVdUVYU05QQndlaWZEZGRnc0lTXzNqMU9lekhlM2dfNjBMRw?oc=5",
-   "date": "2026-10-26T03:42:54+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
