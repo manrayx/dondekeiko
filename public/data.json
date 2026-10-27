@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T05:00:32.211419+00:00",
+ "generated_at": "2026-10-27T05:22:17.406138+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -412,23 +412,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c394ac203cac",
+   "title": "Lula da Silva propone a Keiko Fujimori \"fortalecer la integración regional\" con nuevo modelo que proteja la Amazonía",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbV8xeXZKZnA3NVZwelRGVU1LTG9iTU1sOHVHd2ZFWHdqWkwtVmxwamJDaW9yWkNjWjlMREZybml4U19PM3U0T0M3R25PUnRZUUE1STdPcnpKUUxWZXphY1ktSUF1S2JZQUJLMW5aWm90UnBodm13d2FuUnFOMTk4dDc3MFpvdHJTOW5EdUgyRnJwekJCTldrSG40NGZQeEloa3puWjA1elRPaDQ2UklZOVpVazVVVl84ZGd0ZEFRM0dPMXhTY0dyYnBEeTllS1JyRndnSldZbmdsaVgxdmhnOEphUHd6VnlOaG1lQnRfRmNtN3Rf?oc=5",
+   "date": "2026-10-27T05:01:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "26493a2c659b",
    "title": "Keiko Fujimori: Gobierno autoriza viaje de ministros de Salud y del Interior a El Salvador",
    "excerpt": "El Gobierno de la presidenta Keiko Fujimori autorizó este lunes 26 de octubre el viaje de los ministros de Salud, Luis Dyer, y del Interior, César Astudillo, a El Salvador,…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-gobierno-autoriza-viaje-de-ministros-de-salud-y-del-interior-a-el-salvador-nayib-bukele-luis-dyer-cesar-astudillo-ultimas-noticia/",
    "date": "2026-10-27T04:43:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "758dee4c08d9",
-   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
-   "date": "2026-10-27T02:53:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -596,6 +596,17 @@
    "next": null
   },
   {
+   "id": "5efe9d989c92",
+   "title": "Keiko Fujimori expresa alegría por próxima...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFUzYVpmckNCWEp3R01yQmJnN0VoMU5MQjMzX3ZkZVdiVEJsNVJNTzRxanRTeWk2YWZOQWVieklVcDZLemZQZkZsYUpOcmpPd2YtRFpORmF3b1kzcTBwdGdNSUd0Qy1MeGdnMDJiYVpoR2pYem1HVkw5eVFCcE16TDlxSXdWOGdIdlNuMEtxTmRFdnBGTGJFeW53UUZreTJmWC1ldk1ZUdIBrAFBVV95cUxPZjZqbzE0WGZVNUJsUnZ6cXJMdFlGS1FxNkJoZm9Ra2lrdXl5dS0wWnRfN2UxWllPWkVtNVdOQllyT3JZYnlzeXVmWXdpQkpyV3hqaFNSZFRWTGE4V2RCUnhsNFdBa1lTa25pNkZsQ2ZMaEkwVVhIVE9PREx3MnduSnVobU1HVUFwRHhqUHdRc2xkUmQ4VDdNdzFJSVExTzFOR1dMdmp5VDdXeG01?oc=5",
+   "date": "2026-10-26T22:03:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "52f10663c5c3",
    "title": "Keiko Fujimori expresa alegría por próxima visita del papa León XIV al Perú",
    "excerpt": "",
@@ -624,17 +635,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-confirmacion-de-viaje-del-papa-leon-xiv-al-peru-lo-esperamos-con-los-brazos-y-corazones-abiertos-apuesplan-ultimas-noticia/",
    "date": "2026-10-26T21:43:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5efe9d989c92",
-   "title": "Keiko Fujimori expresa alegría por próxima...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFUzYVpmckNCWEp3R01yQmJnN0VoMU5MQjMzX3ZkZVdiVEJsNVJNTzRxanRTeWk2YWZOQWVieklVcDZLemZQZkZsYUpOcmpPd2YtRFpORmF3b1kzcTBwdGdNSUd0Qy1MeGdnMDJiYVpoR2pYem1HVkw5eVFCcE16TDlxSXdWOGdIdlNuMEtxTmRFdnBGTGJFeW53UUZreTJmWC1ldk1ZUdIBrAFBVV95cUxPZjZqbzE0WGZVNUJsUnZ6cXJMdFlGS1FxNkJoZm9Ra2lrdXl5dS0wWnRfN2UxWllPWkVtNVdOQllyT3JZYnlzeXVmWXdpQkpyV3hqaFNSZFRWTGE4V2RCUnhsNFdBa1lTa25pNkZsQ2ZMaEkwVVhIVE9PREx3MnduSnVobU1HVUFwRHhqUHdRc2xkUmQ4VDdNdzFJSVExTzFOR1dMdmp5VDdXeG01?oc=5",
-   "date": "2026-10-26T21:38:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -877,6 +877,17 @@
    "next": null
   },
   {
+   "id": "758dee4c08d9",
+   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
+   "date": "2026-10-26T14:50:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "46cf9f6f2d7f",
    "title": "Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40%",
    "excerpt": "",
@@ -1113,23 +1124,6 @@
     "name": "Brasil",
     "abroad": true,
     "city": "Brasil"
-   },
-   "next": null
-  },
-  {
-   "id": "9f39d100ce8d",
-   "title": "Presidenta Fujimori destaca la seguridad jurídica tras entregar títulos de propiedad en Lambayeque",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYy1yeHVrYTZlODh0X18xeG56UnhRV1RhWjcxZkMyMVdKeVItM0xmTGpTRG10R2lKVXUxS2szeXhFTGt0S2YwQ3dmcERLSEYxX29wZlpxeTB1SlZBUm9QNElBYzhzdzlCS1M2dlV1angzd0E1RmpsZnlwVXFHUmI3MjVuNjNMbzc2YUd3c3ppU3I0end3MkEwQnpPT3hiRnpYNzBVSVdsd0VIT3oxRWV6Smp0Tk4xMDJCY2ZieThETlZCYmhFcVJrZ3hIaXlicEx2UTNQejNKYjljZw?oc=5",
-   "date": "2026-10-25T23:49:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lambayeque",
-    "lat": -6.701,
-    "lng": -79.906,
-    "abroad": false,
-    "city": "Lambayeque"
    },
    "next": null
   }
