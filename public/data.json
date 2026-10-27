@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:07:00.252733+00:00",
+ "generated_at": "2026-10-27T20:28:56.991631+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "11d47348c019",
+   "title": "Penales del Perú en emergencia: Caparrós respalda operativos de Keiko, pero exige plan penitenciario",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORTNRa3d1SXR5blRhMEdUZ0h2NXVwdlBKSHBQQTF6Mk1USkVtbmdySkd0M08tb1J4dWVIdmxWc25uOXY2TlJuWUxLdEJ0ZTNqdmlSWE1Uby1VQlZMTjAyZkc5SmJab3dIM2EybW9QM0trc285cS1ZN3AtRHFnYzNuSkdVdFcxS2xsTXVrVlJvMHFwTmtHTU5NcFpDY2FZYWFzaS1hYjBCV2ZpWmVOQnltV1ZsaVFSajAyMWZGTGRIUDJuakEx0gHKAUFVX3lxTE0yMG1DYklBdkRqV2pmVDdrMzl2TkFJOENzWjZXWWtQX2xSdFlDR3l6SGFSUmZZbEo2VTB5MXViQTV0RFF0dUp4c2FLcmtnR1hVZ295MWYwVVhXYWxJLWk1LU1aUDdGY05oM0E2UnFZREhFbERqMDdFYVlLYklUQWZRSDRoTHlQd0FmRGluRVNjYTg5M3BlVHJmNXd0RVhLdTJPcDJzYm4xMW91dnFHUFFNN3ljSVp3d1hnZmNuMjdYVmlrMDY5aU9tVWc?oc=5",
+   "date": "2026-10-27T20:12:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0024f0942d3e",
    "title": "Keiko Fujimori evalúa sacar a Galarreta de la PCM",
    "excerpt": "CAMBIOS. Fuentes de este diario dicen que se busca un nuevo premier y cambios en otros ministerios. Podrían ingresar personajes históricos del fujimorismo.",
@@ -450,23 +461,34 @@
    "next": null
   },
   {
-   "id": "332a57548dbc",
-   "title": "Keiko Fujimori: \"El balance - de la gestión- vendrá a los 100 días de gobierno\"",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFJlaGJCNGVlTEhTVlFPNlJFVllYb2hqaXVaNml1V080Y2pmdjVadHlDdFVlSUU1T1h2QWoyNVVsOUEycXlBMUpRcGxiS0x0WnlfNzVGV1E4UGZ5c3VacEhQbzVLTmEyVFQ2cGk3a3kxNDVHMXo2LTcxUEVxTWo5ZDhnbUVoWkJuRm1Zd0g5UjdDQnlKOGYxR1NuaEUxd9IBowFBVV95cUxPazJjdkRHZTdmZThzbG1SSzJ0UnpJUTNjcGFaVjA5QzVKaWNoczhxaDNQOWtsRjRwRXVXWmpLMjBudXFOdzkzR0Q0TnVuZkU4NzRlRlFLUDAtTmZ2YkJFOVI1enZQbmJfYm9GZlhOTWtRWVp0TFp6M2xEN29uTXVXSFpiem54Y0RMb3NkWnB6Y1Q0cGV5NVV4VmhRQS1qVHJfQmhF?oc=5",
-   "date": "2026-10-27T18:16:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "09c1af49251f",
    "title": "Keiko Fujimori dice que está golpeando “fuertemente” a las organizaciones criminales a poco de cumplir 100 días de gobierno",
    "excerpt": "",
    "source": "https://hbanoticias.pe/",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQWNWNzRIRUhycmRoc2V6UXh2Q19KTENNMjVRUWJ1OTkyS2pSeVIwcVlrcGhob294NlpJcnA2YjJEa2ZsSzRIZDRnTjg3MmVaSTFvbEZFNW1LbzBPTzFGT3JaRFdOTDJXckFCT1lHREZjWUctOXBjTEN5djZkMGZXWGhOUjFtVFY4TXNJQkNnMEdOSUg4eHYwb0IxaVNMckVQaG5NaDdaa20wMGlad01hWnlLYl83WkZjUEh4d3VQalpSUWN2bjhLRnVSdVNTNjhDMDRPRnBZR1FCa250bUE?oc=5",
    "date": "2026-10-27T18:05:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "332a57548dbc",
+   "title": "Keiko Fujimori: \"El balance - de la gestión- vendrá a los 100 días de gobierno\"",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazJjdkRHZTdmZThzbG1SSzJ0UnpJUTNjcGFaVjA5QzVKaWNoczhxaDNQOWtsRjRwRXVXWmpLMjBudXFOdzkzR0Q0TnVuZkU4NzRlRlFLUDAtTmZ2YkJFOVI1enZQbmJfYm9GZlhOTWtRWVp0TFp6M2xEN29uTXVXSFpiem54Y0RMb3NkWnB6Y1Q0cGV5NVV4VmhRQS1qVHJfQmhF0gGjAUFVX3lxTE9rMmN2REdlN2ZlOHNsbVJLMnRSeklRM2NwYVpWMDlDNUppY2hzOHFoM1A5a2xGNHBFdVdaaksyMG51cU53OTNHRDROdW5mRTg3NGVGUUtQMC1OZnZiQkU5UjV6dlBuYl9ib0ZmWE5Na1FZWnRMWnozbEQ3b25NdVdIWmJ6bnhjRExvc2RacHpjVDRwZXk1VXhWaFFBLWpUcl9CaEU?oc=5",
+   "date": "2026-10-27T17:47:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0340ea59475d",
+   "title": "Presidenta Fujimori: S/ 6,000 millones se destinarán a construir colegios en 2027",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeEJsRnVkbUFMbnRBT01UcnhIZUx2Q2RKeGU5WndzVXpQQzJtazNxRzF5MDQzYVFveS1rb25hM25DN1NaRkNEekJMYzRGRkcyd3VkcnVhV3dkLXFldFNzbnJWNGNjTk5QZGJsb0Y1OHJ2bXJjcHVIR0liRDhQbmhQaV84bDN4bzlzYmlMMFlZc09mdFNVMEltODN3R1dtYWJTNnI1cVRPbTBfcUl5d0syTXpkdWc?oc=5",
+   "date": "2026-10-27T17:36:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -692,17 +714,6 @@
    "next": null
   },
   {
-   "id": "40e77490c316",
-   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
-   "date": "2026-10-27T14:54:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
@@ -775,6 +786,17 @@
    "source": "AP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzgyYklndnVlVVlya0k3VF9zVHQxUHFyRmFmaXFwbnRhOVlOUmJnWmlDOXdVbzBqaE55bm1iVElsN1JTUzNRTmpQaFNkdGtPWmxpVlBobkNpSzJScld1RzZqVEhrSHpEV1dOWi1hR1V4bGdBak04clZiSjFFRkJ2VlZ4YW9rcmtCMzNDMjN4VWNVUzdNNDFmYm0xLXV5SEFnNFlxYkxtTTJ6M1dsNk1lLTNZRDhnTUtwenlsMzdsTUhzTnRDcnNpelU4eEVNV29r?oc=5",
    "date": "2026-10-27T14:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
+   "date": "2026-10-27T14:05:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1023,7 +1045,7 @@
    "title": "Keiko Fujimori celebra confirmación de visita del papa León XIV al Perú y destaca el cariño de los peruanos",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTGhlbkxYXzJzTUEtVnByR1RiQmJ3NUkzS0JmTEMzQmZUbVlCaTJyXzhOQ0lRUlQwVElQSkxRYi1KUGozSkRpQVNJZ0hMVnBncm0wWE1vZkNuYjR3SUZoeFRkNnA3QlJIWTltQ1pEODR1aGN3a00zenNVR1BnSjBKdWdGWUd0dk9CUzdpVVFMUXVYcVRtWk5MZHZWb2VZZXFnOTdoQVM4eTFrVDQxd1Z4czBaNmNUaGNMVURZWk9zSGtSU1BtRUI3ajhzX09FbmdIeXFSSmMzUUhXU0xxWVNxSGJwNDI4YkFpemZhcVVVZTV5Z9IB8gFBVV95cUxPTGhlbkxYXzJzTUEtVnByR1RiQmJ3NUkzS0JmTEMzQmZUbVlCaTJyXzhOQ0lRUlQwVElQSkxRYi1KUGozSkRpQVNJZ0hMVnBncm0wWE1vZkNuYjR3SUZoeFRkNnA3QlJIWTltQ1pEODR1aGN3a00zenNVR1BnSjBKdWdGWUd0dk9CUzdpVVFMUXVYcVRtWk5MZHZWb2VZZXFnOTdoQVM4eTFrVDQxd1Z4czBaNmNUaGNMVURZWk9zSGtSU1BtRUI3ajhzX09FbmdIeXFSSmMzUUhXU0xxWVNxSGJwNDI4YkFpemZhcVVVZTV5Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjdOYkRtY21JNkVsWF9FclRPc0J3VUFDbFpvWHZzTk1VaTNSNjJNcGdsYjUwNmFoMk8xdmxkT1d5emJpLXFHbEcwTUtBeXhOSWc3S3o1ZG9fYkViMml0WUpteTBiajJWZmZmemVCbHNlNzhaellzRmpxNFZEZDkyelVYZHNQY1Fzek9EaWNXQVBVRDdBdDQzNnRvRUUwWXBHRGdWX3JSd3RneWZBX1RQZ0EtXzRTTUpYdnd5YUdsVE5sVkRQTVU5YUdCQWNWM09WUS13VXRUaGdwTmZ1NlHSAfIBQVVfeXFMT0xoZW5MWF8yc01BLVZwckdUYkJidzVJM0tCZkxDM0JmVG1ZQmkycl84TkNJUVJUMFRJUEpMUWItSlBqM0pEaUFTSWdITFZwZ3JtMFhNb2ZDbmI0d0lGaHhUZDZwN0JSSFk5bUNaRDg0dWhjd2tNM3pzVUdQZ0owSnVnRllHdHZPQlM3aVVRTFF1WHFUbVpOTGR2Vm9lWWVxZzk3aEFTOHkxa1Q0MXdWeHMwWjZjVGhjTFVEWVpPc0hrUlNQbUVCN2o4c19PRW5nSHlxUkpjM1FIV1NMcVlTcUhicDQyOGJBaXpmYXFVVWU1eWc?oc=5",
    "date": "2026-10-26T22:39:31+00:00",
    "state": "posando",
    "place": null,
@@ -1069,28 +1091,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/26/jose-gavidia-justifica-su-apoyo-al-oficialismo-tenemos-que-confiar-en-nuestro-gobierno-hnews-1345682",
    "date": "2026-10-26T22:12:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5efe9d989c92",
-   "title": "Keiko Fujimori expresa alegría por próxima...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFUzYVpmckNCWEp3R01yQmJnN0VoMU5MQjMzX3ZkZVdiVEJsNVJNTzRxanRTeWk2YWZOQWVieklVcDZLemZQZkZsYUpOcmpPd2YtRFpORmF3b1kzcTBwdGdNSUd0Qy1MeGdnMDJiYVpoR2pYem1HVkw5eVFCcE16TDlxSXdWOGdIdlNuMEtxTmRFdnBGTGJFeW53UUZreTJmWC1ldk1ZUdIBrAFBVV95cUxPZjZqbzE0WGZVNUJsUnZ6cXJMdFlGS1FxNkJoZm9Ra2lrdXl5dS0wWnRfN2UxWllPWkVtNVdOQllyT3JZYnlzeXVmWXdpQkpyV3hqaFNSZFRWTGE4V2RCUnhsNFdBa1lTa25pNkZsQ2ZMaEkwVVhIVE9PREx3MnduSnVobU1HVUFwRHhqUHdRc2xkUmQ4VDdNdzFJSVExTzFOR1dMdmp5VDdXeG01?oc=5",
-   "date": "2026-10-26T22:02:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "52f10663c5c3",
-   "title": "Keiko Fujimori expresa alegría por próxima visita del papa León XIV al Perú",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVFUzYVpmckNCWEp3R01yQmJnN0VoMU5MQjMzX3ZkZVdiVEJsNVJNTzRxanRTeWk2YWZOQWVieklVcDZLemZQZkZsYUpOcmpPd2YtRFpORmF3b1kzcTBwdGdNSUd0Qy1MeGdnMDJiYVpoR2pYem1HVkw5eVFCcE16TDlxSXdWOGdIdlNuMEtxTmRFdnBGTGJFeW53UUZreTJmWC1ldk1ZUQ?oc=5",
-   "date": "2026-10-26T21:56:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
