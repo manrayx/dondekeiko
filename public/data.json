@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:28:39.289087+00:00",
+ "generated_at": "2026-10-27T16:50:21.249126+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "933f08f06a3f",
+   "title": "Presidenta Keiko Fujimori sobre llegada del papa León XIV: “La recibimos como una gran bendición”",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjdRVEtnZGdBYjhDT1hmSlJZOU9SR3QteC16SnBGWUxnRGhHUHNTSEJ5amU5WWdJM2NLYmJTVy1CdVJqVG5lZXMxWnBGWk45cEIyQ0VfY2V1eWN0Mjgwc205N0xiai1vN09SQWxUc0dXZjZhREJBMVZCZGFpcE5QS3U2NkNxQXVRQS16NE1hOVNZZG5aMUFPalBla1dwaURWcUNDeFRrNmhKV2dLaUEzb0l6d25BaTY0SlV0cGRBWlBWMXdWNklReU9HWQ?oc=5",
+   "date": "2026-10-27T16:31:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5f48d7fce7d2",
    "title": "Ministro Luis Galarreta estará a cargo del Despacho Presidencial durante los viajes de Keiko Fujimori al extranjero",
    "excerpt": "La jefa de Estado viajará a El Salvador y España. Fujimori sostendrá un encuentro privado con Nayib Bukele para conocer de cerca las estrategias de orden interno, administración carcelaria e…",
@@ -497,8 +508,8 @@
    "id": "cec5719701b8",
    "title": "Galarreta asumirá la Presidencia del Perú durante los viajes de Keiko Fujimori a El Salvador y España",
    "excerpt": "",
-   "source": "Perú 21",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2VTVkZfd3p5X0l0NzcxOXBERFQzZDJuWlNzVVBVcmtBUDl5WDBnemRuWnVMd3Q3dXEwazZNQXA5cEhaSnZpZkFwN3RXTDE2X2pnbGVQanlRN0dHYjBCVHRjTlAxTF81VWlYR0JuUmtrNHN6dlV0NEwtS1dLV2ZMTGJ1anZ1Q0pkZzBiZFdIcDd0RW8?oc=5",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnl4LWtCdWdSVUpLY1V2cGE2RDhDVVRwMTJBUUs4QWhfbUp6ZWNDSmhVQ0tKWEVaVVlHY0t3V25CNnhTU1E1NWJOWjE3VzNEcjJOeUVNOXRZeDVWeWdNQ1FZQmVwZmxyRHZUTEloY0g3T0dwank5ZG12RXhRMDBIdGZqcGFxd3I2QXFYUGlB?oc=5",
    "date": "2026-10-27T15:17:19+00:00",
    "state": "posando",
    "place": null,
@@ -555,6 +566,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGVGNXZyaVJ4LU1hSUFveFFGSkdqS29laEpJT21VdUdZTFNtNGg3NVY2dFN3QnYxeTJ0LWI5SmRtQkhtVE04S1owUXBBd3luMm5jeERfSmx4bE5HMEtNZXpPdGZQR1J1eHdFVXduQ21XcVhudkFvNXdnUjgzdE5UZmptV25CaG1BME1saUdLZUVrcE1XRXBaeFNaeFFzMWI3LUpTbVdYaWwtUDBIdGhjU1Bfd2c1Q0o3ZFdRaXNkbmMxZVl3ZnFjUVJpSEhpMmJ5aURGelk5VFgyZw?oc=5",
    "date": "2026-10-27T14:45:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6ff3546f1dd8",
+   "title": "Keiko Fujimori anuncia S/ 6,000 millones para construir colegios en Perú durante 2027",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOTl4TWJPOE9jcXJWakRfaU1KdDd2cTJpa3JidUJjU0hBN1ZlVEJZX01PbFJrSDFralFORTNoVmhtNHpMcmZXb2kycXVCMWE0SGpGVzJKdnVkNG00bEtTSFFhclYyRmZzTEE4QlFJb2h2VEFQTEtGVjcxVkl6OXA1OFl4OTlodmJZei1KcFo5Q09FbW5JUUw1SHlrY2VQMW1KUlVOVWlLUTlGeXpObnp6eUhjRVAwTkU3am5rMFZwY3czTjTSAdcBQVVfeXFMTVJKTVd4RnJxR04zRUVKUmVsQnE2ZHNPRUtTX0NNd0ZGU3Z5TV9rQ1NUOFRyOTdaTW81UlBIYmR1STZpbGRrNE00ZG56OFh3MmNSdmpUWkQyOGxhZ3A2RUloOEY2eERPYlBYRzhQVHZ3Z1MwT2JHbjFHbUtqdXEwUU5SYk1CN2xMMDN2STJXOUkzRzNXc1BvS3U1UUJmQnNuSWpBdTRUMzlYQXB1YmFMdlBNMk1lRWYtbXZUY3lWOXdtMlMzZ1VseHlhWXZzZ0lWUXlqYVpURXc?oc=5",
+   "date": "2026-10-27T14:43:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -626,6 +648,17 @@
    "next": null
   },
   {
+   "id": "08c18d1d186a",
+   "title": "Presidenta Keiko Fujimori dio inicio a construcción del primero de 2,000 colegios",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkVMa3Jra0Z1ZzV4TS01eWt0MGFNTVNSZ3V4ZkJxclROZzlUUFZwZndiNmZTSU9PNUJSOWpLZndGbjRkY2xjd1pJTTQ0dUszUkh1bFV5RU9PTGVtTjNkT1BpMGtHejQzX0dWR0xqVFdnMzFSek83SjR2ZlVDOGJ6M3NhVzBxZ1VvVHk4T1FKUE5SUENzYmRvejdRUmUzamQ4TUdMMVVpTXJOUDJoLVBYNUlqZTNWMW9OYVVjYm9iREhTR1U?oc=5",
+   "date": "2026-10-27T13:33:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6b4cd7152456",
    "title": "Ministros César Astudillo y Luis Dyer también acompañarán a Keiko Fujimori a su viaje a El Salvador",
    "excerpt": "El Ejecutivo autorizó el desplazamiento de los titulares del Interior y de Salud, quienes participarán en la visita oficial junto al canciller y el ministro de Justicia",
@@ -665,6 +698,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU29PVHl2elQ2T1p1eXZfLVd1MUJjazBBT1VxbE83TTlvaF8wcHl2Rzg0Rm1VWkJMelBGRkoxTm9KOHpxN0JGUU5nTnpaMGhocGNnVFp6X2tqX2dWZ2p5VEdjckdObkJoVFdZLTM4Qnd5dzJaNXhLM1RrVUdCNmRubHUzaXVpa1N4QWZTelY3cHg0d1d5T0hkVXZLamFSSW9HRDJpUzNUQldOVDdtZ0xqdF90QndseDN6d3JhZllLaVVudDdEQWQzalp0SGk4YWc0cGN2Zmtn0gHqAUFVX3lxTE1lSS1Fb05aNGthTWRzY3hIV1dMdWRGbTJ6d3UtcEpjb2tiSEpCQ05mTkRUUkV4RDduRXc0V0psZkVYSEdTUVl3cW9xbFNoaWVDU1FmNFBCNHB4TDdDSFRDUW1pRGdvYlpHckJKSDN3UzNzWTRvWmcxekExWjBVSFhjYWZENFNLc3BGTm92Q2pBVFF2dHBJQlNCeGFIWlVUWUk1YkdQcEh3cVdwM0NxSWhZZjJqaEJyY2p0cjdwV214azF4cFhUNlFGTU9TSVJPamYzMWo0OXNKYVZuTjRqS0ZhQmotdWgzQkgydw?oc=5",
    "date": "2026-10-27T12:27:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "94b38565b5c9",
+   "title": "Keiko Fujimori viajará a El Salvador y España:...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdE5OdFU4UGhlUk1xM01yTFYySTc2MVZLTFBFOEFXZGIzYjdQdmZXQ2pHWHhBSUNsaE1COXpJZk1LRlU1bnM2RlpKd3ZMeF91ZFk0czJDU2MxX2MwRGtXZ0RYWFBiWEJkUzl1bjdsUU1RbF9YaDA1YXlfTVYtX2QtR3BwbWN0dkNCMmhvLU1NQjh0TUNzNUhMUUNZSlB6Z3ZMekUyNk5jNVFmcENUT1VrRkZ3MU4tdGR2VzdFYXVGOEk2d9IBxwFBVV95cUxOYkNXVk9mcl9odTREN0VRN3d3WmdhcUtxUU85Rk4tV2lsY09nUk16cjJlVzJTaW1sdHVad3JCcmJrNTgtSTNsSmZuYTBaN1hCMEczVEhiZEhQcVVRNG5JdmdQdDlESkw2REdiSmJqVmpfVjVFMXBKTzJNRDZTSF9uTFBZRzlDdkdyeGdkYXU2QldKT2VJaUtGTzVsYng2eXBNel9tSkRKbk1BZkV4Sk1ZUndvRzdFVGVGM1J6SFBKTG9JTnRjS2pv?oc=5",
+   "date": "2026-10-27T12:20:49+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1059,56 +1103,6 @@
    "date": "2026-10-26T16:56:14+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "a3628afc1170",
-   "title": "Paseo de Comitiva que acompañará a Keiko en El Salvador nos costará más de US$ 24.000",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUM5NGlTcHl0TTBZMUJMaU40U3BvdXhCbjJvZDVaMU5ZRFdkLVFCOHcyYTRJMnJaNThGVnp2bE9YZjVTYWdnN00xdzJvWTF5UmVKc3dJVnM4LXN6WldER18xdWs4ODQtLWoxSkt5cVVwMk1PLWFkY3FNb3YxMUhlVDJXaU1BVUpQcEwxX3VETlNDMHRQaTZHTS1TcExOQXZOTmEwVHFlVG9jaGFRNnFRTlh6Tm5EQjg?oc=5",
-   "date": "2026-10-26T16:41:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "eced39f786da",
-   "title": "Paseo de Comitiva que acompañará a Keiko en El Salvador costará más de US$ 24.000",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUM5NGlTcHl0TTBZMUJMaU40U3BvdXhCbjJvZDVaMU5ZRFdkLVFCOHcyYTRJMnJaNThGVnp2bE9YZjVTYWdnN00xdzJvWTF5UmVKc3dJVnM4LXN6WldER18xdWs4ODQtLWoxSkt5cVVwMk1PLWFkY3FNb3YxMUhlVDJXaU1BVUpQcEwxX3VETlNDMHRQaTZHTS1TcExOQXZOTmEwVHFlVG9jaGFRNnFRTlh6Tm5EQjg?oc=5",
-   "date": "2026-10-26T16:41:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "42a3c0662c66",
-   "title": "Keiko Fujimori promete recuperar control de penales: \"No habrá señales ilegales\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHNWUm9xT2NRZ3Y2eEN6dGNzYnR0T2Q4ck5QQktwQloyT1J4MVNaS29PajJUb0ZuOGN0dU5ucVBzNUZmOVZ0TWlKbjZwSlpWb2VsZDA0R0FXLW1YVEJ4cVVVdU5qRXllQW9lWGZpQ0pVU0RSRnZOOHhobXBrN05HODB2UEM?oc=5",
-   "date": "2026-10-26T16:21:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c3b7b8e5f16b",
-   "title": "Keiko Fujimori agrega puestos de Imagen en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Noticias Trujillo 60",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVnQ5czM5S3JlMThTNHlTXzdWV3U2UjE2ZzBOV2UyckVmZFlZcXJWeGJleTlNcEhOdTJpS2ppODFKNHFGSHNPdkhsenNfOV9IcnNSQk9Tc2lIeVYxV3Z4MUtuaWgwcTVFa00zYWpUWHExd1BIQTU0aTFoYTJvcloyM1c0TE0?oc=5",
-   "date": "2026-10-26T15:43:18+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
