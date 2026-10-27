@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:40:10.172601+00:00",
+ "generated_at": "2026-10-27T15:02:01.953084+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,12 +428,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d575b5bcd757",
+   "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
+   "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-el-salvador-que-aspectos-del-plan-bukele-quiere-estudiar-noticia/",
+   "date": "2026-10-27T14:54:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f59add8fe644",
+   "title": "Keiko Fujimori dice que su gestión está golpeando \"fuertemente\" a las organizaciones criminales",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGVGNXZyaVJ4LU1hSUFveFFGSkdqS29laEpJT21VdUdZTFNtNGg3NVY2dFN3QnYxeTJ0LWI5SmRtQkhtVE04S1owUXBBd3luMm5jeERfSmx4bE5HMEtNZXpPdGZQR1J1eHdFVXduQ21XcVhudkFvNXdnUjgzdE5UZmptV25CaG1BME1saUdLZUVrcE1XRXBaeFNaeFFzMWI3LUpTbVdYaWwtUDBIdGhjU1Bfd2c1Q0o3ZFdRaXNkbmMxZVl3ZnFjUVJpSEhpMmJ5aURGelk5VFgyZw?oc=5",
+   "date": "2026-10-27T14:45:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c9b50433aca6",
    "title": "Luis Galarreta asumirá el Despacho Presidencial durante los viajes de Keiko Fujimori",
    "excerpt": "El primer vicepresidente, Luis Galarreta, asumirá el Despacho Presidencial durante las próximas ausencias de la mandataria Keiko Fujimori, quien realizará una gira internacional en dos tramos con destino a El…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/luis-galarreta-asumira-el-despacho-presidencial-durante-los-viajes-de-keiko-fujimori-a-el-salvador-y-espana-noticia/",
    "date": "2026-10-27T14:16:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "34ea93b45a9e",
+   "title": "Keiko Fujimori celebra la confirmación de la visita del papa León XIV al Perú: \"Es un regalo que nos da\"",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzgyYklndnVlVVlya0k3VF9zVHQxUHFyRmFmaXFwbnRhOVlOUmJnWmlDOXdVbzBqaE55bm1iVElsN1JTUzNRTmpQaFNkdGtPWmxpVlBobkNpSzJScld1RzZqVEhrSHpEV1dOWi1hR1V4bGdBak04clZiSjFFRkJ2VlZ4YW9rcmtCMzNDMjN4VWNVUzdNNDFmYm0xLXV5SEFnNFlxYkxtTTJ6M1dsNk1lLTNZRDhnTUtwenlsMzdsTUhzTnRDcnNpelU4eEVNV29r?oc=5",
+   "date": "2026-10-27T14:07:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -522,17 +555,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU29PVHl2elQ2T1p1eXZfLVd1MUJjazBBT1VxbE83TTlvaF8wcHl2Rzg0Rm1VWkJMelBGRkoxTm9KOHpxN0JGUU5nTnpaMGhocGNnVFp6X2tqX2dWZ2p5VEdjckdObkJoVFdZLTM4Qnd5dzJaNXhLM1RrVUdCNmRubHUzaXVpa1N4QWZTelY3cHg0d1d5T0hkVXZLamFSSW9HRDJpUzNUQldOVDdtZ0xqdF90QndseDN6d3JhZllLaVVudDdEQWQzalp0SGk4YWc0cGN2Zmtn0gHqAUFVX3lxTE1lSS1Fb05aNGthTWRzY3hIV1dMdWRGbTJ6d3UtcEpjb2tiSEpCQ05mTkRUUkV4RDduRXc0V0psZkVYSEdTUVl3cW9xbFNoaWVDU1FmNFBCNHB4TDdDSFRDUW1pRGdvYlpHckJKSDN3UzNzWTRvWmcxekExWjBVSFhjYWZENFNLc3BGTm92Q2pBVFF2dHBJQlNCeGFIWlVUWUk1YkdQcEh3cVdwM0NxSWhZZjJqaEJyY2p0cjdwV214azF4cFhUNlFGTU9TSVJPamYzMWo0OXNKYVZuTjRqS0ZhQmotdWgzQkgydw?oc=5",
    "date": "2026-10-27T12:27:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d575b5bcd757",
-   "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
-   "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-el-salvador-que-aspectos-del-plan-bukele-quiere-estudiar-noticia/",
-   "date": "2026-10-27T12:27:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1099,32 +1121,6 @@
    "date": "2026-10-26T13:41:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "bee869c91338",
-   "title": "Presidenta Keiko Fujimori felicita a Lula da Silva por su reelección",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlNEOEE3eVJKT0FwWTJmTFp0VEFLTVhZd0xidVRFOW9RdUJLVlpMQUtGT19aR2ZMWlNBVHJYZXhWb1JVQlRNZGhiN21Ea04wRmt5dDVUc1JEUGkzQVcwaWs2bVdTVk9XV2VxaFRFV1VFSzRhZUMtUVpDOE9oQlduRUZpeGZHOGRuSW4yZ09Rd0FKOGd0MlFPQUo3YU9kUWNORDBqbzhBNndyWFNENkV6Q3YwZXY3d1Q3?oc=5",
-   "date": "2026-10-26T13:30:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "df05a2621117",
-   "title": "Keiko Fujimori felicita a Lula da Silva: ¿qué dijo tras su triunfo en Brasil?",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPb2JhQ0o5V2VwZm55MzBEMVdfTWF0LW5hSkI2UTNyODE5R0dsZk1WcUNxTUY2ZVI2ZGp6b3plSy1obkY5cTlMQVB5SHJPVFA3UEUyX1hveGFjOER3UXlDT2EweEU2ek1Mb1pkRERtc3VXNGc4dVZYYUd4Q0ZDS0M2V0lfWjhXVlltVDV3STNxdUlWUkZyM0wyNEhGQk13VUNqS3FuLUxydWlHUXA4bmZOVHRsR2NsRTJqMHQwc21EMHQzcmRjZ1F3N3M4cDlJMkNmMXZtVFRudDF3VnVJM3NRQW9LdkZ4UmY1cUNvVDhXNVl3WkRLYVQwNmlGS3lIUFZXTzNJSS05NXY?oc=5",
-   "date": "2026-10-26T13:11:31+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
    "next": null
   }
  ],
