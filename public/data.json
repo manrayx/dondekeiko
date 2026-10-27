@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T17:33:58.588896+00:00",
+ "generated_at": "2026-10-27T17:55:34.264408+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -499,6 +499,17 @@
    "excerpt": "La presidenta de la República, Keiko Fujimori, afirmó que su Gobierno viene golpeando “fuertemente” a las organizaciones criminales, a pocos días de cumplir sus primeros 100 días de gestión. La…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-asegura-que-su-gestion-esta-golpeando-fuertemente-a-las-organizaciones-criminales-noticia/",
+   "date": "2026-10-27T15:59:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e8284adf0eae",
+   "title": "Keiko Fujimori asegura que su gestión está “golpeando fuertemente” a las organizaciones criminales | PERU",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1dyMnNKM0p3NENjSW53YWlSWTJxZFVRQjlkLVVJSlZsU1QzNHJHTzhyTU5JUHRPMlp4UXhrRWh6dGx0YU5qdHBqWkphTEN5bDhuZFEybFcwSW5RWVBnSDlqQzNmYTI1ZWtfYXdFMDRWUXN1ZVc4enFGaGRUYW8tZlJvakR4bExDZmRtS1otRkJ3RXQyRFk1OWFMTjRfMlczLTJRcUIzRnNCLWNGSmY3RHRIU2hFZ3BYYk8tblBRV1l4YmM2a1o4cQ?oc=5",
    "date": "2026-10-27T15:59:44+00:00",
    "state": "posando",
    "place": null,
@@ -1088,17 +1099,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "8ea4d9e9c80b",
-   "title": "Presidenta Fujimori dio inicio a intervención de estaciones y antenas ilegales cerca de penales",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSHdWdzlLcDlkcF84T3QzTmRuNDJRUzFNRVY5MXRWNlJzYnpkclUtR0RHWlRWTEh0R0cyVUY0Y2FNOXo4Nm5sTlhzZkVQOXNWdm52N2Y5REE4WERoR1pZWEZNR3FLRzNGSm5RNEQta0FOa016OUhrVDd5VG5jQmNIZ3JlV1JRRHFrS3FHRGdWU3JYZkkzUDd0S3VxY01fVkg4eWhrc0hSYlpBamJ5cm1JNmE4aGtLMEk1bEVyOTUzakExQ2JZOXNzREEySQ?oc=5",
-   "date": "2026-10-26T18:04:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
