@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:02:01.953084+00:00",
+ "generated_at": "2026-10-27T15:23:41.054950+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "81e8da9eacf2",
+   "title": "Lula da Silva responde a Keiko Fujimori tras saludo: \"Podemos fortalecer la integración regional\"",
+   "excerpt": "La presidenta peruana y el electo mandatario brasileño coincidieron en impulsar una agenda conjunta con Brasil, con énfasis en el desarrollo sostenible de la Amazonía, a puertas del bicentenario de…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/27/lula-da-silva-responde-a-keiko-fujimori-tras-saludo-podemos-fortalecer-la-integracion-regional-hnews-687879",
+   "date": "2026-10-27T15:18:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "803d19c77113",
+   "title": "Las 5 del día: presidenta Keiko Fujimori viajará al exterior y encargará el despacho presidencial",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY08yODdOQkpMcVFSVXBmOGRwcnZITWdJZlV1eUdGTXJkYldlbkhkZDF4b1llTGlqTk5iLURtdy1LRzB0YkFvT3AyaDgxaC1GOHI0Mi1OeFRjX19PdG1KMkU4ejBaYnI2SHZWU005a2g3aWMwMVM2MHJaWmR3TGJCb1VVUUJlT2dvdi1CVVd3VWdPUjBqSWp2RjEzN3hEZDdienY0cDFrblQ0eVY1V3k0am1WU2VFQVZrNDVwaDVTeThHNjFwWEhLemVsN1lEMzhFOFE?oc=5",
+   "date": "2026-10-27T15:14:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b3a5f4b444c8",
+   "title": "Keiko Fujimori: \"La llegada del Papa la recibimos como una gran bendición\"",
+   "excerpt": "",
+   "source": "ATV.pe",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02N1NJLTlzWUxOQ1VxS0VkbVJvNWxDS0pSV01xV2REYTNUXzRCc0FzNURYeWJTNGlzX0tWWEhXazExSGRQYWY3bzFyZjRoUlNDd2k4WTZ4d3JWYllFZnNVRml3TUozdFJMTDY3ZENlZ2dpZU9wRVNB?oc=5",
+   "date": "2026-10-27T14:57:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
@@ -832,6 +865,17 @@
    "next": null
   },
   {
+   "id": "679a50e8d5c9",
+   "title": "\"El orden vuelve\": Keiko Fujimori supervió la intervención de antenas ilegales en penales",
+   "excerpt": "La jefa de Estado lideró desde Palacio de Gobierno un operativo del Comando Unificado que retiró equipos de comunicación clandestina en cinco frentes",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDdRdm1VVktDcjh0V3lGa3FnSFNtUkJ1YzBxYm9zVTFOTjhCZnFzZ004YnoxLXBTWkxrdWlEekp0eHZjVXdmNW5NQU5PakEtbnJyTlBDUEU4MjVCeHdUMmY3dEhPbnlMcFhCWmZGak9SMk9oMTVvU0VDMWJPLVZOWUZhV09sbmRRX00yX09LeWRKWm0wdi1KdE15UVhFZUJzaDhEM0VKREl0SzhqNXMtVk1sTzhzN0dURTRFWE5lSXZna3R0bnfSAeABQVVfeXFMT2hIcS1rTTRJT1hTX2ZaTWZ4QThnUld0aWthS3hjamkxb2tleFFjblpMZW5JcVNFaC1NZVdXZ29JT1UtU3hBMkJZWC1zSld2LTJITmdRYWFpQzFmNTJLdWR4RjJrWk5sWlc4NUJFVGppVWM4SVk0cjVSTUZYdFNhQkdBTG1CNmlld3RLUnlLajNSdkNyTmFIWE1BZE1mOXBNVjJPejBKQnY2ZzYxdFNlTDJ5UDRKRFpZMUpTbG9aUXhuZ29WZjZ2N1daLVdGU0IxM3h6RWN4U1o2R2hmNzNrbmg?oc=5",
+   "date": "2026-10-26T20:24:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "45f3f652e038",
    "title": "Keiko Fujimori felicita a Lula da Silva por su reelección y plantea fortalecer la cooperación con",
    "excerpt": "",
@@ -862,23 +906,6 @@
    "date": "2026-10-26T20:02:39+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "679a50e8d5c9",
-   "title": "\"El orden vuelve\": Keiko Fujimori supervió la intervención de antenas ilegales en penales",
-   "excerpt": "La jefa de Estado lideró desde Palacio de Gobierno un operativo del Comando Unificado que retiró equipos de comunicación clandestina en cinco frentes",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/26/el-orden-vuelve-keiko-fujimori-supervio-la-intervencion-de-antenas-ilegales-en-penales/",
-   "date": "2026-10-26T19:24:51+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   },
   {
@@ -1086,39 +1113,6 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1lfVThjckZQWFpQTm12YlJ2Y2pqSVJDTVdzeDNlZ0Q4cWZ0Q2Y0cVlGUXJ6YnFfLVAwQ19YbkZkZ1Q3cWNWRThyRk13U3BWSkdyX1FyMFBtZU8zVFQ3dGdRRkN6b29GQTFwRk5zNm4xcTZ0am56cWVVQk9kaFNlUHMxZGgyR3NsMExMdS1yZnRILXpKUV95RWZ3WGotYXVwRkNJLVoxd095MkZQdW1sU0Y2NEVfOE1a0gG-AUFVX3lxTFB3dEpJLUJEa3FVaGQzR3BRa0RHOFFLdngzc0ViVmw1RVJZOE5aSTg5SXBScTJXSXFjcUxrdm5hVllhRTJZWjNXeV8wLU1NTkEyNXhYSkNvdEdzX3ZJNDdaNEF3RkowZnhJSS1acVdxVldNMzc4QkMtbHVGLV84S2FJYmRYTS1uZ1VsZXdnZ0RLMGlQaFozX0c3Q3ZxV1Bqb19aR09vcDVDMnlHYk02MWQ4NXZLRlhWSjIwbS1JQ0E?oc=5",
    "date": "2026-10-26T14:37:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "744d9986d7f3",
-   "title": "Keiko Fujimori saluda la victoria de Lula y...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODU2amlPVkZxZ2t6R0dlVFJNeVRsd2RIZVZaT0hmTFZyenNkT3hPWUEzMVlqYXNDSEg4d21GVHFYdmRYb2ZqRm9pQXlzbDV0cGJURGtHTnl4dkJLM2F2U2U2NkRXaG9pNUdpMVdEeTRYYzZoT05nSHdUemJkbkI4aVlmdGQ5Tm1jOEpmaE9aWHZoazVLbXJYUGczNjZNZjVDZG9rVldnU1ZYSW1aOGlZVGIyN0JubmxU0gG-AUFVX3lxTE1MX0JFWkVUa2pvNnBuZFhxMEs3NW1nTDNESTBORkJEeVZvM3lGZUY0d1F0SGVsQTdCSzlSamFwbWpmME9MWFMxOVE4Yk04NTIzLU1GV293OVNrZjdvdy1NbHRWczNmYXJacXhfbWNsbWdiUnFqSDFnamh4aWhreHNsSEFreHFlRTVQXzNDcDFRUXRqT09vck1EelVaYzk0dWFnZDA3aWVkM2l2MFRzbFc0eTR2cFE1djg5cEJoV0E?oc=5",
-   "date": "2026-10-26T14:03:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "13bfd5449991",
-   "title": "PerúCheck: Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
-   "excerpt": "PerúCheck: Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/perucheck-es-imprecisa-la-afirmacion-de-keiko-fujimori-de-que-la-tasa-nacional-de-anemia-es-del-40-noticia/",
-   "date": "2026-10-26T13:47:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cff8a7be9fde",
-   "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
-   "date": "2026-10-26T13:41:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
