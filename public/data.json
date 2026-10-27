@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T12:30:58.568202+00:00",
+ "generated_at": "2026-10-27T12:52:14.396786+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -412,12 +412,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ec881145682b",
+   "title": "Encargan despacho presidencial a Luis Galarreta por viaje de Keiko a El Salvador y España",
+   "excerpt": "El Gobierno encargó el despacho de la Presidencia de la República al primer vicepresidente, Luis Fernando Galarreta Velarde, durante los viajes que realizará la presidenta Keiko Fujimori a El Salvador…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/encargan-despacho-presidencial-a-luis-galarreta-por-viaje-de-keiko-a-el-salvador-y-espana-ultimas-noticia/",
+   "date": "2026-10-27T12:46:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-el-salvador-que-aspectos-del-plan-bukele-quiere-estudiar-noticia/",
    "date": "2026-10-27T12:27:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a54bb4936440",
+   "title": "Keiko Fujimori viajará a El Salvador y España: encargan Despacho Presidencial al premier Luis Galarreta",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWFHNUY4ZEJhTm81V1NPZHdpUlFVQ0hsY3ozQlk1ZHVlZVAxQnduclJoNUhUOWNxclB6eDJRMnY1cVpYTGQtVGtRSk9fbkVNWkR4Q0p0RFBKNlYtVl9jcVVkWmJBNGw1WVQzZkg2c1R0YnJmdV9fVV85MjQ3bTN4X2huVzMzMjF5MDFSZFZxVWhPakY3Q0xxeHB5cF9BUmpsN3hSQlBZb2pQN1FmTnFNbWIwWlpBSG1ldnNrUjlyLWJyVUx3RVBPUENEandERFNqZlE?oc=5",
+   "date": "2026-10-27T12:06:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1089,32 +1111,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS3J4LTg4aEF1WnJCcXEwQjhPdXJCRTA0MVFDSnJrRzZtN2NlZVR5eF9DN3c0T1E1VmpuUk9FNThIYkl6M2NIeURBVHRQVlVyT3VJbEpxT3pWNUctOV9SMkJjVkJuSFVpNjRmZHVTN3NtRm91QUhFaC1iR1BhM1VodUM3MktQS042d2VtUE5fLTgwZkNaeUNwYk8wZmg0cEVrN0tiZXhpRHRDSmtKeUhQTUpmODJmWmNBZDU2bXlGTE5sZ08wUXFOSkhiYmF2REpEVVJwSnFTa3ZIYVF4ZXI4UmtRZw?oc=5",
    "date": "2026-10-26T03:06:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d64a903d8f69",
-   "title": "Keiko Fujimori felicita a Lula da Silva por su victoria en Brasil",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3BJUjRCdDdzYk15MXZyTEs3UUhZOV9IQ0NhNXNjTldQYUVUdGhla0pKOTRWLThINDFSR1EzeWwtdktIcUVYSmo1VXhtMnZ5djZtZU53SVV5S0daVjFFUjRndkh3RWRVWWZLM3FTTkotLUdUdjhsbTkxd2hQNk1nT3d2UnlGQ0x5VVBwaThMSWprUQ?oc=5",
-   "date": "2026-10-26T02:39:24+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
-   "next": null
-  },
-  {
-   "id": "a626deac93f1",
-   "title": "Keiko Fujimori felicita a Lula da Silva por su reelección como presidente de Brasil",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONExtcjJLdDJHS0k4ajB0OUZ5a2UtTTUxMVE4WmttX25LLV8wdkxoaDJEYUZQZEt0dDUxZU1ySXpORzI4NEF6T1JjS1gtNS16MVpaUVYzWjcwclRZcGtjSS1HZE9CXzNsT2d3a090NEVvTVpoWUtfVzFQZncyU1hpMEllXzFScktYenNEaUFsXzRSNC1aWXk0Qm1ZR0lWa2VfNEJFMlBGM3ZPTlRQUFVrbmhSSEQzTjQyMmowM0NfRVA1NHNJNU5Ha2xScU1YaUVsUlHSAeYBQVVfeXFMT1ZLazFreDB4NUxYUzB1dUVCOGJCVGtWdFNCTHEyWkplaWZfdkg2VFhZSlBaSE56aWFvT0tPOEMwNkM4NVpkZk9mYThCWGpzQnY1QTB1d3pTR3ZEUHdjTVJIbUhiem4wRGtkaFZzVnZ2YnNVOWsyUWRrenBPSk9SN2ZkZjNiZHhIc2lDaEw1b2VHSDRvQlk3RTdnbFV5d1VGWUtuMm5tQ2gxVmVrTktQSGxVSEk2SDNGOHF1OU5mMlVTNklETE9EaWd6VDJhdUhfTlA4NnVaY0dYZ3ZiODlJZWprNkJDcXc?oc=5",
-   "date": "2026-10-26T02:32:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
