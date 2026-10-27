@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:18:58.897097+00:00",
+ "generated_at": "2026-10-27T14:40:10.172601+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -119,6 +119,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-27T08:20:00-05:00",
+   "end": "2026-10-27T08:55:00-05:00",
+   "minutes": 35,
+   "subject": "Lidera ceremonia de colocación de la primera piedra para el inicio de la construcción de la Institución Educativa N.° 1211 José María Arguedas Altamirano.",
+   "lugar": "Santa Anita",
+   "state": "posando",
+   "place": {
+    "name": "Santa Anita",
+    "full": "Santa Anita",
+    "city": null,
+    "lat": -12.04327,
+    "lng": -76.96195,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-10-26T08:20:00-05:00",
    "end": "2026-10-26T09:45:00-05:00",
@@ -408,7 +424,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 734,
+ "agenda_minutes_7d": 769,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -451,6 +467,17 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3d6b0oyMXZhNy1EeTM0YVByOVJlaE1xNU1wa2dGYWpVcUFFVTNqRmVBa2NWeVhqdFRzM3VmUVpzQjBjQU9udHV5emFob2xYVEpKamZwSUxBVTdjYTN5NmN4SUV4U3VPZS1pSllWQjh3a1FxQVJONTM2UzZLWk1abWtuY1l2UHdQLXFrMGlveVJJWTRQU1ZVN0sxSC0yZVhYNWJwT0JSTXlXQndDTDE3T2xGSmM2MG9YOXRsMUxKOC0?oc=5",
    "date": "2026-10-27T13:49:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ba1db98aa067",
+   "title": "Keiko Fujimori tras visitar colegio en Santa Anita: \"Este será el primer de 2 mil colegios que vamos a construir\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSTNKQndWSFBlWDJ1TkxMdzA0U2s0Q2N5WjRYVWNXaWs5V0VJY096UklKVjUwa014OXJVQkF6LWwwbHlNWlpHMVVlcXViMlFQamF3WW1QRndabF80T1pHc0o4QnlJOTVBakYxWWNqdkJHWjBaNXd3d0ZnMHZpbUFOeXpzNlRKcUZmMVp0MnZOYUgzZ1Iyb1ZoSUdHSWdfbU1yMXFSZzlwMHZRM3UweThselpFNGVYYnZYaFlVNDZidjlQRmVKNkFlRFhrSWJ1MzZGV2Z6X0ZhWVI0NUF6RlE?oc=5",
+   "date": "2026-10-27T13:41:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -537,8 +564,8 @@
    "title": "Keiko Fujimori viaja a El Salvador y España: Galarreta asume la Presidencia",
    "excerpt": "",
    "source": "Diario Ahora",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2xMTFpkX05rREF4Y29UN2pqaWtZR194LUJzcU93TmZUY2VpbGh5RXhmWGEtR0hzSW1qcmFtcGZjSWNCUDdkZFBUdXpKNlhCNkhtSGZTZ3o4eHhqUk9tTGpRT3A0OTJ1eXczNVg3T0tONmJEdGxaRnJfVEt0OWkyVUdQRjVwUUppVnV0NFE5enE5UQ?oc=5",
-   "date": "2026-10-27T09:40:44+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmhxS0cwcG9kSTF0V055ZXNrQzBXd3lRNWxHeS1YS25GSHJEaDNTRU9WQi16Vi1odS0yVVBrU2dCcmRESVVnSFpPUjlaRnEwZjdSTXRwNUloaWFXWXJubHhMZDdLNERUbHI4Rk5nYlRIY0k2UmtfR3NGVFF2ejRBOFhsME9iMnFYT1RtejZQc2Q?oc=5",
+   "date": "2026-10-27T09:41:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1099,17 +1126,6 @@
     "city": "Brasil"
    },
    "next": null
-  },
-  {
-   "id": "5b3306dc85e8",
-   "title": "Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
-   "excerpt": "",
-   "source": "perucheck",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTkt3b2hTa0dPNXp6Undsc1ZXZ1Vlak9rOUpCc3d2WEEyTkpJMlpQRUhpOHZiOUhyc204QktGdlJkY0ZzN2Rjc1QxZkQ5N0s3RldnbEMtVWZLa1h1bHNZbERBSEd1QmRqbTNQaUhjYkxXdzcyeXlpZXIybmxLRFNNeXRBVmRFXzA0ZkNVMHZ6RzZJRHhQNUR4Z3JwRFEzQ2xmUjByeHJ6WWtuUkhPZ1VyNXdmSEFWdHRjSFdrbnFJd05McUpjQ1p0ZEpCSDJ1T3c5MmlJVFM3bXRRbGZsQTNKTWU3Wi01QUNzZkpLS0VFXzlkUElqdEVV?oc=5",
-   "date": "2026-10-26T13:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1142,6 +1158,10 @@
   "plaza de armas del distrito de iberia, provincia de tahuamanu, region madre de dios, peru": null,
   "plaza de armas del distrito de iberia, region madre de dios, peru": null,
   "patio de honor de palacio de gobierno, peru": null,
-  "desde palacio de gobierno, peru": null
+  "desde palacio de gobierno, peru": null,
+  "santa anita, peru": [
+   -12.04327,
+   -76.96195
+  ]
  }
 }
