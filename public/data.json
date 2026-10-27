@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T13:13:59.166408+00:00",
+ "generated_at": "2026-10-27T13:35:40.023762+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -411,6 +411,17 @@
  "agenda_minutes_7d": 734,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "6b4cd7152456",
+   "title": "Ministros César Astudillo y Luis Dyer también acompañarán a Keiko Fujimori a su viaje a El Salvador",
+   "excerpt": "El Ejecutivo autorizó el desplazamiento de los titulares del Interior y de Salud, quienes participarán en la visita oficial junto al canciller y el ministro de Justicia",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/27/ministros-cesar-astudillo-y-luis-dyer-tambien-acompanaran-a-keiko-fujimori-a-su-viaje-a-el-salvador/",
+   "date": "2026-10-27T13:28:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "eb6280b7dd6a",
    "title": "Encargan despacho presidencial a Luis Galarreta por viaje de Keiko Fujimori a El Salvador y España",
@@ -1100,17 +1111,6 @@
    "source": "Trome.com",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWVA3ZEVBdkE5YlZ4d2ZtdTlRdHk4SG50MEJkc1llSllhbzV2LUs3QWpDUE44X3ZBVlJ5b3RRNE5tNFp5YXRDYUQwaWlPdjZQcTdjSVgwU2hSQnBXSEMzMTJWbkszS1NxRXlXc01BOGE5ek02UXN4Q1pLZXJsVUdyYkduMzZyM1N1dDVETjFUaGlLR1FucFhhNmo1VTMtbGxDaTB6UUJzLUNzT2I1Y19kaXVqNlY2TElxekNSTGd2OTlBMGJScHc4ZEJKOWRZTDVuaDVjSGhpeENzZFdPR2lSY1NMcWxlRzNS0gH8AUFVX3lxTE1VRThXZnRvSGdVU3M2ZElHVWdoVFBxa0VtWnhpcFh1S25CLUdNWDFzQS01SHJhS09rYUJKb0VKUjRJWDhucG1Sc1FtNnYzd18yeHlwd2lVZFhfd0hKa2VyRV8tV2xYc2h4bXcwSTFCX2ZTS1VpRnl4Ym9GdnBma3AxWE1QSk1IYXpWdjFuVUxPM0Y0RXNCVzZvRThYbWZPQnA1WE9UazBRd0sxNHZHa3g3dlBMNkM0S0E0MGhxemtYQV8yZF96VGFxZ0lJc2l5cDVXV05QWUVFRlVVdUVYU05QQndlaWZEZGRnc0lTXzNqMU9lekhlM2dfNjBMRw?oc=5",
    "date": "2026-10-26T03:42:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "319c9881dfb7",
-   "title": "Keiko Fujimori felicitó a Lula da Silva por su reelección y llamó a fortalecer la alianza estratégica bilateral entre Perú y Brasil",
-   "excerpt": "Tras confirmarse el triunfo del mandatario brasileño sobre Flávio Bolsonaro, la presidenta peruana destacó la cooperación fronteriza y el desarrollo sostenible de la Amazonía en el marco del bicentenario diplomático",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVElpS3lCNzJTRllEMzc3NWN1aUJqaEo0aXBTQ29YdUhxdTZ2R2lCcFBoT2pxZzg5R2M5V0F0X0tiOUFsNnVGelZCWU9FOVI3NVgzNnBhSnFLeGoyajZZeFNndEFGZTZaWXpjVTNqUU9RU21EZ2ROcThoeU1tZzFnZ0dkWndLdTFSemhnQnJSa0VGaEx2VnRnX1MtV3ozV3hGY0o0eEdnYV9vdkxkQmlWbG5HWjI1RVgxZnp5amZCTGdVdnIydEY4dGZCbndFOEtZTWQwOEJQNkJ0TUlCSmhLYi1mTk96Q3dQZWdqclJaMXI2LW9lYm1nN0paOEc4ek1xUVHSAZwCQVVfeXFMTjBjOEZjRER3UHNQSVNnV283eWoxUC1Ca2RRbUtWSTQ4NG5sUV9rbFE5S0lZUnRNUUtCa0ZKbERHLWtRUlJaMVBiY2VTSURiTV82OF9haGFaREJxTGExLXI3SlVmR1FFMEJKekZTMWxqeWMxbDVsUU1Qd3FqcU1xeGhkNVhDb0w0bE1XdHQzcHphQ1B4eFBxVmVmdUtoYVh2NnhtVTVKaEJDcUVMcVZNZGh0eEY2YUxJLWEwcnZ0emNiYXNvTWUzdnQ3eFZoWTdRb2w5cTBOOGNILVNwRlhKYUlfcGgtcHowdXpHTldrNFJnWHk3Q0ZoaUhXQ1ZRLXZWWE5jSERUNTJlN0lCbVBkRE5JeHh0QXB6SU9HZTY?oc=5",
-   "date": "2026-10-26T03:16:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
