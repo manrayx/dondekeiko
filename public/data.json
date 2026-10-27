@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T11:26:21.839799+00:00",
+ "generated_at": "2026-10-27T11:48:02.973140+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -412,23 +412,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "763d1385d647",
+   "title": "Luis Galarreta asumirá el Despacho Presidencial durante los viajes de Keiko Fujimori a El Salvador y España",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUDVBQUxHNlJzQzExZUpOeWVZYTNKMDZqRVYxQUhBcE54OGEwdzNBN0dWZ1QxT2x5V1FBZTMyUmNxbUQ0ZU82OTVEUlJ2a2VRaVRma2JwWmtHMTZPc1IxbTl2eDBHVS1nemgzUjY0NmlaZEJLTElKQVJGdE9PdjBrNnd3MmFFaHl1amV1Mm9IRHRzN1ZjeVRGZUVfckc2MUhxeGlocDcwemR4ajVVYW03RzN0bkI0UFZQTHh3UHBOWjlKRlM5TmIzYTNWUFhycnRNNVQxN3hUbXdITkEtV2VzSWNwYzVxSXA0RmlNcg?oc=5",
+   "date": "2026-10-27T11:35:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "32908747b8a3",
    "title": "Keiko Fujimori viaja a El Salvador y España: Galarreta asume la Presidencia",
    "excerpt": "",
    "source": "Diario Ahora",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmhxS0cwcG9kSTF0V055ZXNrQzBXd3lRNWxHeS1YS25GSHJEaDNTRU9WQi16Vi1odS0yVVBrU2dCcmRESVVnSFpPUjlaRnEwZjdSTXRwNUloaWFXWXJubHhMZDdLNERUbHI4Rk5nYlRIY0k2UmtfR3NGVFF2ejRBOFhsME9iMnFYT1RtejZQc2Q?oc=5",
    "date": "2026-10-27T09:41:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cff8a7be9fde",
-   "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
-   "date": "2026-10-27T08:45:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -965,6 +965,17 @@
    "next": null
   },
   {
+   "id": "cff8a7be9fde",
+   "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
+   "date": "2026-10-26T13:41:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bee869c91338",
    "title": "Presidenta Keiko Fujimori felicita a Lula da Silva por su reelección",
    "excerpt": "",
@@ -1106,21 +1117,6 @@
    "date": "2026-10-26T02:20:33+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "a4ba91d83dfb",
-   "title": "Keiko Fujimori felicita a Lula da Silva tras ganar la segunda vuelta en las elecciones en Brasil",
-   "excerpt": "La presidenta Keiko Fujimori felicitó a su homólogo de Brasil, Lula da Silva, por su reelección, tras ganar la segunda vuelta en las elecciones generales en ese país frente al…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-felicita-a-lula-da-silva-tras-ganar-la-segunda-vuelta-en-las-elecciones-en-brasil-flavio-bolsonaro-ultimas-noticia/",
-   "date": "2026-10-26T02:20:11+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
    "next": null
   }
  ],
