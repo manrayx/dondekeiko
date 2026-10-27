@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T17:55:34.264408+00:00",
+ "generated_at": "2026-10-27T18:17:34.575498+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "09c1af49251f",
+   "title": "Keiko Fujimori dice que está golpeando “fuertemente” a las organizaciones criminales a poco de cumplir 100 días de gobierno",
+   "excerpt": "",
+   "source": "https://hbanoticias.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQWNWNzRIRUhycmRoc2V6UXh2Q19KTENNMjVRUWJ1OTkyS2pSeVIwcVlrcGhob294NlpJcnA2YjJEa2ZsSzRIZDRnTjg3MmVaSTFvbEZFNW1LbzBPTzFGT3JaRFdOTDJXckFCT1lHREZjWUctOXBjTEN5djZkMGZXWGhOUjFtVFY4TXNJQkNnMEdOSUg4eHYwb0IxaVNMckVQaG5NaDdaa20wMGlad01hWnlLYl83WkZjUEh4d3VQalpSUWN2bjhLRnVSdVNTNjhDMDRPRnBZR1FCa250bUE?oc=5",
+   "date": "2026-10-27T18:05:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d61f66e20d37",
    "title": "Congreso recorta sus gastos y ahorra más de 300 millones de soles: Monto será transferido al Gobierno de Keiko Fujimori",
    "excerpt": "El Senado y la Cámara de Diputados eliminaron alquileres y redujeron gastos internos para ahorrar dicha cantidad de dinero. Miguel Torres y Óscar Reto anunciaron que los fondos se destinarán…",
@@ -450,6 +461,28 @@
    "next": null
   },
   {
+   "id": "4bda1b681cfa",
+   "title": "Keiko Fujimori considera una bendición la visita del papa León XIV al Perú",
+   "excerpt": "",
+   "source": "Radio Onda Azul",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUJpS0dWNTZRTDRFQ0tOaTZobVJubVhGMzFEYWJaWV9Fc0Z6ZFhnYTJ3RGkzTTNlcmRrUEczWmNLajJlN3FBQmxhQWk5cDMzOTRDVmlsZFhZRmstOEdzSkw1VTBVaXA5RXRzdUZnZFh3dlIzdzlCOWg0WjNackxYSUktUUV4bzdfUTBnZ2lfbUhKRG5mZUlMU2tTNWc5dGRiUFpF?oc=5",
+   "date": "2026-10-27T17:05:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "933f08f06a3f",
+   "title": "Presidenta Keiko Fujimori sobre llegada del papa León XIV: “La recibimos como una gran bendición”",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjdRVEtnZGdBYjhDT1hmSlJZOU9SR3QteC16SnBGWUxnRGhHUHNTSEJ5amU5WWdJM2NLYmJTVy1CdVJqVG5lZXMxWnBGWk45cEIyQ0VfY2V1eWN0Mjgwc205N0xiai1vN09SQWxUc0dXZjZhREJBMVZCZGFpcE5QS3U2NkNxQXVRQS16NE1hOVNZZG5aMUFPalBla1dwaURWcUNDeFRrNmhKV2dLaUEzb0l6d25BaTY0SlV0cGRBWlBWMXdWNklReU9HWQ?oc=5",
+   "date": "2026-10-27T16:59:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "35733553ab59",
    "title": "Keiko Fujimori destaca el papel del Comando Unificado y afirma que su gestión está \"golpeando fuertemente\" al crimen organizado",
    "excerpt": "",
@@ -461,12 +494,12 @@
    "next": null
   },
   {
-   "id": "933f08f06a3f",
-   "title": "Presidenta Keiko Fujimori sobre llegada del papa León XIV: “La recibimos como una gran bendición”",
+   "id": "6e66232269cf",
+   "title": "Keiko Fujimori: Comando Unificado viene...",
    "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjdRVEtnZGdBYjhDT1hmSlJZOU9SR3QteC16SnBGWUxnRGhHUHNTSEJ5amU5WWdJM2NLYmJTVy1CdVJqVG5lZXMxWnBGWk45cEIyQ0VfY2V1eWN0Mjgwc205N0xiai1vN09SQWxUc0dXZjZhREJBMVZCZGFpcE5QS3U2NkNxQXVRQS16NE1hOVNZZG5aMUFPalBla1dwaURWcUNDeFRrNmhKV2dLaUEzb0l6d25BaTY0SlV0cGRBWlBWMXdWNklReU9HWQ?oc=5",
-   "date": "2026-10-27T16:31:00+00:00",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmtzUUxmVlM1MFBJeUhpclRjb2c3NGtlWllNTFhKX201TG5oVmJ6TTFXWFNVWm9Pd2dCMVRDdWlDLVJDRGRUN3hxUFBHcVQ3ZzZqNDJXVTlhQk5SM0Y1ODVGRW1POXZXT0t2aFZZR0xmaC12OFF6LUZLeGJabHUxOG9oaE55LVhPYW5sem9ZVXphZVlQbzNsUWNmVHJXZDM3ME5wMkdXeFBEaHPSAbABQVVfeXFMT3ZhajU2Z2xNQ0RMWk9iR01Ha0MzRjRPdkwySUxuYmRzdnlNejJrU3Q4cG1leVFrNFdiYnhHNUptdUc4U2VSUmNEQ1pBRk5oUXNtOXl2QzdmNHdlQ0xEa2RrVTZiNlVQZGZjRHM0bUtJekRUaGRGN21meUljNG1zRHViajgtaTJQRW11cVNmYUFhanhyZE55bVVMZ1lMZ0JQbEl5aDhmV1hnb3RESEN2ejM?oc=5",
+   "date": "2026-10-27T16:47:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -564,7 +597,7 @@
    "title": "Galarreta asumirá la Presidencia del Perú durante los viajes de Keiko Fujimori a El Salvador y España",
    "excerpt": "",
    "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnl4LWtCdWdSVUpLY1V2cGE2RDhDVVRwMTJBUUs4QWhfbUp6ZWNDSmhVQ0tKWEVaVVlHY0t3V25CNnhTU1E1NWJOWjE3VzNEcjJOeUVNOXRZeDVWeWdNQ1FZQmVwZmxyRHZUTEloY0g3T0dwank5ZG12RXhRMDBIdGZqcGFxd3I2QXFYUGlB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS2VTVkZfd3p5X0l0NzcxOXBERFQzZDJuWlNzVVBVcmtBUDl5WDBnemRuWnVMd3Q3dXEwazZNQXA5cEhaSnZpZkFwN3RXTDE2X2pnbGVQanlRN0dHYjBCVHRjTlAxTF81VWlYR0JuUmtrNHN6dlV0NEwtS1dLV2ZMTGJ1anZ1Q0pkZzBiZFdIcDd0RW8?oc=5",
    "date": "2026-10-27T15:17:19+00:00",
    "state": "posando",
    "place": null,
@@ -1060,45 +1093,6 @@
    "date": "2026-10-26T20:21:36+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "a7c9572720c4",
-   "title": "Presidenta Fujimori: “El orden vuelve y el control de las cárceles se va a retomar”",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaERkZmgxR2kxY3U0ZEwxQzFUSjlTV1gzSG1iZlNuYnF3YWlHdUJMbm1DeUU2T3JDOWo2QXpFcC01QkRLLVhoaWM1eW82eUFTQ3NQcEQxOTd2RHYzWW00aTdjWEpOSS1ZSThER285WkJCRDVCV3d0bGNVYTV0YUx3N1Y2LU9vTkFuRHBNcWVFTFNJbS1EUVQ1UkpCYjNvdFgzX0pwbm4xREs4ZHdyTURrdVhCX2dVNDQ0Q2ZuclZOcHhMZw?oc=5",
-   "date": "2026-10-26T20:17:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0a667d28b1ce",
-   "title": "Keiko lidera megaoperativo para desmantelar antenas clandestinas de internet en penales",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDA4SUw1OFlGUVlqYkNRTFNsblFDeHpqb2JOYkpKbloxMGNERmpuejM2M1FSSC12NWJXbVktNHo3dmhwazhHVkRCb2huZ0VvS04zN1dWR09EdFMxQUZPSjU5NnZwQjZZWkllU3NpNDJhRFVHaTlEa1dEdXF3ektaMEZ0ejZsVzJJN2Z5UnJxN3BhWkNFZkEzd2pfc1puVG1FYjBlT2pUWkNtbVBXZ2trQVZaY9IBuAFBVV95cUxNNFNaQi1jX1BxT0VtdzNjbTNjZlNEanVJVEFzMERXcXpIc1NiYm5nUmx1bTJTcUJ4T1hvdjNPMDZaVjkyS2d0OHh3cVBnVjdoUGZUT1JobFM1VlIyalViRHFXTWR4QlowVnhFUVBIY28yZ3lIQ3ZMdWQ4WlMxZ05wbUVpUlRPaTVYTHVTYVA1YXB6Z19zTkdWZFhsRzh6VFNRSFhyMUd3eHBtMkhuVXZqNTd0MW5NcHVS?oc=5",
-   "date": "2026-10-26T20:02:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "902aee74865a",
-   "title": "Papa León XIV en Perú: confirmada cita clave con Keiko Fujimori en Palacio de Gobierno tras su llegada",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOcV9lX2RzckoxWTBiV29tckliMTRhWHhNRjNiczF4eS10anhqX1d2YWstMm5FTjFORi0tQ2c5TjVxT004MXhydExzckVUTExtYUdWQWRiVWFSanl2cGhWU3JUVGF4aHRJdEkyeU1pRXAzUnhUNDVITElZSHgzY1p0OW44RzZiRnAyemNkNng1cWhuT3BINkFiNlRpbEFodmtaNEZ0QUdIcjF0WFlHYlQ5aHF3NXo4YzlkY2twWGQ1OEJwd2htRTM5cnc4b2FtNDVZU3FjYnB3Uk9iN0dxMzlPVUVsQ2VSZ2tjUUZFSU42cmxDckRBZnpsakJydW45OVprclUzbjZLNFZVanY1WFJYRG8xcE1vMS02bXBUaDlLemh2VXJ6NHlhTlpuOXk0dw?oc=5",
-   "date": "2026-10-26T18:24:41+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
