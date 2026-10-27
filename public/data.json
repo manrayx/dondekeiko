@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T22:17:38.355861+00:00",
+ "generated_at": "2026-10-27T22:39:28.509511+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,15 +94,7 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": {
-  "place": {
-   "name": "Brasil",
-   "abroad": true,
-   "city": "Brasil"
-  },
-  "source": "El Comercio",
-  "date": "2026-10-27T02:01:09+00:00"
- },
+ "last_place": null,
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
@@ -428,6 +420,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "57c8b4ea58df",
+   "title": "¿Qué dijo Keiko Fujimori sobre los recursos transferidos por el Congreso?",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR0NoYUgwZFhvb2dHa3U2UXJrYUJrMlhWX0otRXcwVXBEN0FCdlplazZCcktobmJfT193LUtONTV2OU5pbXlsbzFpQXItQTNpSEthSFFIVjFfREQ5MGxMSG1VR1lYQ290MTFhMzZjS0VEM21OaHc1SEhLOEtzRG0zTENEck5jZ2VlNnhLQVZ0TVhETzRqdFBrQ2FIa0RMN2c1bkNXWnA0SUhTdDd2bWxvMHVhaUFGNThES0tobnlrSUFqNDVtVFlqM2VIQWxiem_SAdQBQVVfeXFMTTlNOVhQb19GZ2lXN3ZGOE9WLVQwWFd5V2tpaF9IWnRBdk1XRTE1Z0czME9KdDZDWFRWX3pCc01yaW5fQ0xLaU1NcXktM1VHd3hqWFlhN2M0TFZUbjJ1MXNWWHVnZFBkcGd4TU9Sd0hWZ2V3bnF0Y29UeEg3RWpsNWhLakdabUdULW9pbi1BeFhucUxyem9Ld3Nkc0tGT1ZGanE1N19Ed21GT0VpS2c0MGN2c0plYkFxTjFsNWVyakZGdFdvUm9wc3Z6aFd5YWpHXzN5Unk?oc=5",
+   "date": "2026-10-27T22:09:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ea0c396d826a",
    "title": "Keiko Fujimori saluda al Congreso por el retorno de S/ 300 millones para atender prioridades",
    "excerpt": "",
@@ -615,17 +618,6 @@
    "next": null
   },
   {
-   "id": "933f08f06a3f",
-   "title": "Presidenta Keiko Fujimori sobre llegada del papa León XIV: “La recibimos como una gran bendición”",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjdRVEtnZGdBYjhDT1hmSlJZOU9SR3QteC16SnBGWUxnRGhHUHNTSEJ5amU5WWdJM2NLYmJTVy1CdVJqVG5lZXMxWnBGWk45cEIyQ0VfY2V1eWN0Mjgwc205N0xiai1vN09SQWxUc0dXZjZhREJBMVZCZGFpcE5QS3U2NkNxQXVRQS16NE1hOVNZZG5aMUFPalBla1dwaURWcUNDeFRrNmhKV2dLaUEzb0l6d25BaTY0SlV0cGRBWlBWMXdWNklReU9HWQ?oc=5",
-   "date": "2026-10-27T16:59:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "35733553ab59",
    "title": "Keiko Fujimori destaca el papel del Comando Unificado y afirma que su gestión está \"golpeando fuertemente\" al crimen organizado",
    "excerpt": "",
@@ -665,6 +657,17 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2c0Y3NyNFZJckxkOE5jT2ZZZWJidWNJQkZrRTkteE52YkpqRGZCbUloQkcxc1R1b0MzTm5oejZLWHVsVXpsQWJvbjFkTnZyRHNiNm9xa0ctVFVzYXlNZk9NQkpidHZlM1RWcWQzSUtqbmhOeF9sc0JONGFpcmVYa2dEMTVSQ0VGc1E5UjNCa1lfRGtUN2JHTFpUZy12TmVkUTJ6aFI0b3p2WG51cFhMNmg0di1kYU1PdkVNdmN3YmFvR3ExaW1VWg?oc=5",
    "date": "2026-10-27T16:39:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "933f08f06a3f",
+   "title": "PRESIDENTA KEIKO FUJIMORI SOBRE LLEGADA DEL PAPA LEÓN XIV: “LA RECIBIMOS COMO UNA GRAN BENDICIÓN”",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ0ZFMDJUMTIwcVNBMVdpX2R4YVJyQWVlWWZGMU9jdmkySlJ5M0UycU95V081X3BNWFFaQml1NnQ0Qmk3UWJfamw5d19FbWJ4bUgzTFNYVTNhWkszTGlGcHhROEVwM3pTbmJMSGh2eDhQOGVLdk13REJ4aWhaSmtmWm1ISDJEUkdkbjZxS0ktb1k2NFBzZkYwcWJrblkzYWhJTExHc3IxM0xWZU9iWFFHU2VwajNnSXJySThF?oc=5",
+   "date": "2026-10-27T16:37:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -802,17 +805,6 @@
    "next": null
   },
   {
-   "id": "40e77490c316",
-   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
-   "date": "2026-10-27T14:54:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
@@ -885,6 +877,17 @@
    "source": "AP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMzgyYklndnVlVVlya0k3VF9zVHQxUHFyRmFmaXFwbnRhOVlOUmJnWmlDOXdVbzBqaE55bm1iVElsN1JTUzNRTmpQaFNkdGtPWmxpVlBobkNpSzJScld1RzZqVEhrSHpEV1dOWi1hR1V4bGdBak04clZiSjFFRkJ2VlZ4YW9rcmtCMzNDMjN4VWNVUzdNNDFmYm0xLXV5SEFnNFlxYkxtTTJ6M1dsNk1lLTNZRDhnTUtwenlsMzdsTUhzTnRDcnNpelU4eEVNV29r?oc=5",
    "date": "2026-10-27T14:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
+   "date": "2026-10-27T14:05:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1059,8 +1062,8 @@
    "title": "Lula da Silva agradece a Keiko Fujimori y propone fortalecer la integración entre Perú y Brasil",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzNqTVF4RC10MGR1WUlZLVYxS3Y4NmxwZE5UZ1c5STEzNjM5dkk1OUtLSTk1Z04xV3lfR0dlYmNGUm1zVXJhVHdSNDh4bXlET2pmVXlfWVkwRF8yNHFiZGZfcDh4QjdLVnp2elo2aUpVV0JyblRNd1V4YVFYMS01OU1Wb3VJYkFGUjNnSnJ5ZmZoN0kteWZVYXMzNlp0OXdFWmlGOE9RbHJhWFZiRm9NMTJ1NG93NzhXSUhya3lDUXFzTUdVak9HSC1xMU1RVEgzY1pn0gHnAUFVX3lxTE5MS2c4azJHOW5IQnN1ZExCYjNweFZ1RlBQN01mVTlPdjlVYjNwUzFvMUhtTTBsNGFBc2hUZGJWZW9LUVo5TE9zYXFtSEVwYjVSdTdpeU01N1FoNzRVOVJ5MmRhcC13MVdKaVZKN1dkRjF6SFFvcXh5VHV6dk1qVEFmdGt3Q0E2NUlsOS1NTXY3aWhNRWVBVGNFQmZfcnhMN2tYSWF4bGRCenlLMUFhZ3I1UGlnZm8yM3lUNV9hSGdLcVMwdzFneXRINlRxNHc0LW1HU2p2UmJKdHB0ZmVmVGdUY2RoWjZYcw?oc=5",
-   "date": "2026-10-27T02:57:48+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEtnOGsyRzluSEJzdWRMQmIzcHhWdUZQUDdNZlU5T3Y5VWIzcFMxbzFIbU0wbDRhQXNoVGRiVmVvS1FaOUxPc2FxbUhFcGI1UnU3aXlNNTdRaDc0VTlSeTJkYXAtdzFXSmlWSjdXZEYxekhRb3F4eVR1enZNalRBZnRrd0NBNjVJbDktTU12N2loTUVlQVRjRUJmX3J4TDdrWElheGxkQnp5SzFBYWdyNVBpZ2ZvMjN5VDVfYUhnS3FTMHcxZ3l0SDZUcTR3NC1tR1NqdlJiSnRwdGZlZlRnVGNkaFo2WHPSAecBQVVfeXFMTkxLZzhrMkc5bkhCc3VkTEJiM3B4VnVGUFA3TWZVOU92OVViM3BTMW8xSG1NMGw0YUFzaFRkYlZlb0tRWjlMT3NhcW1IRXBiNVJ1N2l5TTU3UWg3NFU5UnkyZGFwLXcxV0ppVko3V2RGMXpIUW9xeHlUdXp2TWpUQWZ0a3dDQTY1SWw5LU1NdjdpaE1FZUFUY0VCZl9yeEw3a1hJYXhsZEJ6eUsxQWFncjVQaWdmbzIzeVQ1X2FIZ0txUzB3MWd5dEg2VHE0dzQtbUdTanZSYkp0cHRmZWZUZ1RjZGhaNlhz?oc=5",
+   "date": "2026-10-27T02:39:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1074,21 +1077,6 @@
    "date": "2026-10-27T02:27:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "9acbddaf3a60",
-   "title": "Lula da Silva agradece a Keiko Fujimori sus felicitaciones por su victoria en las elecciones en Brasil",
-   "excerpt": "El presidente de Brasil, Lula da Silva, agradeció a su homóloga de Perú, Keiko Fujimori, por sus felicitaciones tras su reciente victoria en la segunda vuelta de las elecciones generales…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/lula-da-silva-agradece-a-keiko-fujimori-sus-felicitaciones-por-su-victoria-en-la-segunda-vuelta-de-las-elecciones-en-brasil-flavio-bolsonaro-ultimas-noticia/",
-   "date": "2026-10-27T02:01:09+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
    "next": null
   }
  ],
