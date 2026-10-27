@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T13:57:15.905237+00:00",
+ "generated_at": "2026-10-27T14:18:58.897097+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -412,12 +412,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c9b50433aca6",
+   "title": "Luis Galarreta asumirá el Despacho Presidencial durante los viajes de Keiko Fujimori",
+   "excerpt": "El primer vicepresidente, Luis Galarreta, asumirá el Despacho Presidencial durante las próximas ausencias de la mandataria Keiko Fujimori, quien realizará una gira internacional en dos tramos con destino a El…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/luis-galarreta-asumira-el-despacho-presidencial-durante-los-viajes-de-keiko-fujimori-a-el-salvador-y-espana-noticia/",
+   "date": "2026-10-27T14:16:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
+   "date": "2026-10-27T14:05:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "08bb1e00dbb2",
+   "title": "Keiko Fujimori celebra visita del papa León XIV",
+   "excerpt": "",
+   "source": "CanalB.pe",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFljSFA4VEY5NzVJd1VFb1owSWh2ejZnUWxvU3JHLTZqaGNISW0weWFnSG5sLU1adWJDcVBZN0VpRGRsaFdnVWJkd2E3MTJuc0V4X0JRd3NpTllBYlVXc3h2R1ZYWk5XWXZjeDNQY0RGaVMwdHhCemJWNUF0ZHJaX2sxQXIzYkF1aGhmdVJR?oc=5",
+   "date": "2026-10-27T13:58:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d5cc4d2d2209",
    "title": "Presidenta Keiko Fujimori coloca primera piedra de Institución Educativa en Santa Anita",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLWZhNks5NlE0RzBNdC1LZ2JPemVLSmRKUGh2YXZTRmxfZk9fcm9IQ3JUb1g3TXJROGVRdHVSYUlkMWZRM2JuTE1vaWwtY0Z2VXFveXM0NXZlNmwzUDRucTl5QnZQNnI0QWVZbVQ2a1RDaG5sdkVpNG1lSDlDWTJySFVLd2dvTkhpOEp5NkJGTTg1NldWbTd5T0lVd0VGaFBsdWN3X1YyUmtIQ0RjNDJUaDVQanJKMnVCN0tTbTQtNW1NVm9DYXB3?oc=5",
-   "date": "2026-10-27T13:33:00+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3d6b0oyMXZhNy1EeTM0YVByOVJlaE1xNU1wa2dGYWpVcUFFVTNqRmVBa2NWeVhqdFRzM3VmUVpzQjBjQU9udHV5emFob2xYVEpKamZwSUxBVTdjYTN5NmN4SUV4U3VPZS1pSllWQjh3a1FxQVJONTM2UzZLWk1abWtuY1l2UHdQLXFrMGlveVJJWTRQU1ZVN0sxSC0yZVhYNWJwT0JSTXlXQndDTDE3T2xGSmM2MG9YOXRsMUxKOC0?oc=5",
+   "date": "2026-10-27T13:49:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -504,8 +537,8 @@
    "title": "Keiko Fujimori viaja a El Salvador y España: Galarreta asume la Presidencia",
    "excerpt": "",
    "source": "Diario Ahora",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmhxS0cwcG9kSTF0V055ZXNrQzBXd3lRNWxHeS1YS25GSHJEaDNTRU9WQi16Vi1odS0yVVBrU2dCcmRESVVnSFpPUjlaRnEwZjdSTXRwNUloaWFXWXJubHhMZDdLNERUbHI4Rk5nYlRIY0k2UmtfR3NGVFF2ejRBOFhsME9iMnFYT1RtejZQc2Q?oc=5",
-   "date": "2026-10-27T09:41:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb2xMTFpkX05rREF4Y29UN2pqaWtZR194LUJzcU93TmZUY2VpbGh5RXhmWGEtR0hzSW1qcmFtcGZjSWNCUDdkZFBUdXpKNlhCNkhtSGZTZ3o4eHhqUk9tTGpRT3A0OTJ1eXczNVg3T0tONmJEdGxaRnJfVEt0OWkyVUdQRjVwUUppVnV0NFE5enE5UQ?oc=5",
+   "date": "2026-10-27T09:40:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -646,17 +679,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYnNGdVNKZzFJUHRGSUhUbHR4WFVvWXAtR1NGckZTNkNhd2Zpa2o5U05sOURIQUxMNy0wTEpyNXBsYkxZWjg2WURSUk9HWkxqZjVSS1JQNDdMV2JOUTJtcHRPMjVheFdrQlJGVUk4SUFUcFNlVmt3bmVkbkM1Q1kwbmw0ckNsSEM3VHE0Mm04dFlsb0h6TU9CdmJuZDAwN2dnS2p0ejdWdVk1RWcwOHhuY0xQdjhZNVNIV0t5WFZHRkVWMUVhWVZERVdHdXJtb21GVFhQVU1DQ0Q1eDRZYmwwZGpLSUZUWkpzNXVLX1gxbVo0VEtjYS1OWUlSNnZodzBNVTVmYXFneFFzMklpY1E?oc=5",
    "date": "2026-10-26T22:28:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08bb1e00dbb2",
-   "title": "Keiko Fujimori celebra visita del papa León XIV",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd29CUXFUek5PakVXdE41cTZ2TDlfUEpCOU5Pc3NjWHplR3V0VWpzYmFDeFhxOUVBcUxvUUtaOHFrcW10MzBTeVBITFNUTkN1UFEwUWE0YWNEX2ZEbGY0aGVsZU5CV3BrUkxvMjc3STJTazNFTDIzSTM3RDVaVHVmbXM1b1JaRC1ycEZGR0lRRVIyZ0JKUmVPRmFnbHIxTFkyeTdWcW1tZVRiMEdu0gGyAUFVX3lxTE1kazhXUlI4ZEszemRncTJZbHl6SnlUTkNwSDEzTFhhdjBpekp3ZUFqSXhnOENsT1JEWmhXQXBuemV5ZkZhSUJLZDN5d2d0eTJ0blR1Tko1MjVNdmJVUE50RUZ2ZGhleF9tMGdUcEVERnRTMVMtek9NNmlsb0VYY2lXYk51N2VUSjdsLVFrUXpfTW8zR2V4SGtQQXVNT1BaV3NYbWlJVW9kZlRyZG1QY1NKa1E?oc=5",
-   "date": "2026-10-26T22:22:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1087,32 +1109,6 @@
    "date": "2026-10-26T13:00:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "63d9a066dad1",
-   "title": "Keiko Fujimori felicita a Lula da Silva por su reelección y propone fortalecer la alianza con Brasil",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSUpJYU53b3dZSUpaTGkyeGFiQ3RMRVJxTUw2Q3E2UVlqdXRYNXRDX01ZOFNVN01rcVNqdHBVVk5OUHlwa00wM05ManNfNzFRSUcyQlpPeWcxZk5mdVVqclRMSzFaU1ZlNGxlcWpTRHdvSHJrOEVwb05Ca2hWV05Ma1RVUVMtdlZmUDBRUTdSMTNMa2RRYXV4X2k2akNMNzBYbWM0a28tQ3kyTzRGcjgxYUxVeGNFd1E5VGgyNnAzbEdXaDIzYzZRMQ?oc=5",
-   "date": "2026-10-26T12:55:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e64ec253eb68",
-   "title": "Keiko Fujimori saludó a Lula da Silva por su triunfo en Brasil: \"Reafirmo nuestra voluntad de fortalecer nuestra alianza estratégica\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZTBRNkhXNDhVd1FtclJqN2g0NTFMdVpkQl83bExHaGphSmZnejhyNjhtRFFfNmswMlNNNld5UUVwNm0zemxYWWtCMlAyYllvNk1RLW1Nc015eDhvRklLQzhSX1pyTVZkV25sS2NhWnN4MnVVOUFzYTBNRUdzZkZNZ1huR0hWWXkzYmQyQXBpbkt5TW5ONE5rTXZvMk9uT3c3MzhwWXhONHAyMGM4alpUVWFDSnJXTDdlUmZtN05kZlpsa0FnU0RjTEFtcDJTYTdrd1Rha2p0MzJneE1UcVNXTE9IbVl0WHMzNEE5RUplenJ6SDRoRmtKQkNFejJkeU84VTl3WWJiQjdGWmc?oc=5",
-   "date": "2026-10-26T12:42:55+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Brasil",
-    "abroad": true,
-    "city": "Brasil"
-   },
    "next": null
   }
  ],
