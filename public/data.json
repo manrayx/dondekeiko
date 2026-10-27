@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T00:41:40.006328+00:00",
+ "generated_at": "2026-10-27T01:03:27.227428+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -429,6 +429,17 @@
  "agenda_minutes_7d": 789,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "37d1121074a5",
+   "title": "El equipo de TikTok que acompaña a Keiko Fujimori - YouTube",
+   "excerpt": "",
+   "source": "Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9fSVhXZVBoaVVIQWVHdmh6TGNVTWtGY3BSUDUwWjVTZGk0R2E0bnhsQ0pEUlNGYXI5RG9R?oc=5",
+   "date": "2026-10-27T00:12:36+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
   {
    "id": "cff8a7be9fde",
    "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
@@ -1016,8 +1027,8 @@
    "id": "0f682219bc76",
    "title": "Presidenta Keiko Fujimori felicita a Lula da Silva tras su reelección como mandatario de Brasil",
    "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS24xQ2luTWhTTUJ1cldNYWthQ2FObHp1YkJJYkUxQXVjYjlJbUdiNF9BMmdvbFd3SEgwRElFZFdNck55ZGRuaTdyVnVXNUFjdzFSaG83S0IwLWR2UHNQcm0zUHIwYnc2cGN3Z2xzQk9QT2NiMXhVNTNWQlI1ZkdXWDFOVmRhcTF2ajNfRTZCWWs5VG1xV2g5Ry1PWlloUldZY3c4Ym1hQVU0Q3JBRHRpWVdKU2x6czVyTnZlcTRRRDEyck9MY0ZBQg?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW9MWFMzeE5BUkE0Qk9teGx6THN0TUdaNF9nNnRQQkZFeFI5eUVjaVl2TEdtU0FBVlAzRnZUeFJPVFBLWk81Rk5RZ2lLVWNmUUwxYWNpb0ZPZU5rbzBxZExTanlXNWpXTHNILWtqZ2JCQl9QbXdZX1NhVWFxUHYzX1hzUWx0M3l6allCb0dQRlBOQVdVREwtblFtZDVLRm5nRGNGdHRGZGQ5Yk9yVDhGZFhJbG8yMEE5UG43anhYdVBtNlcxUHRfejh4RTFfYUZ5eWNHdQ?oc=5",
    "date": "2026-10-26T01:59:00+00:00",
    "state": "posando",
    "place": null,
@@ -1129,17 +1140,6 @@
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNGM3QjB3VW5rVVVIVnpaQ25YRGRxZEZQOW5IRXpMdTBFeVpsa21KQ1lsQThLSFpuOG5GdWxONTBucmVONDdOMlhfWjM3MWM2ZFVjdjE3NDFnb1ZYcDJBdXRFNXFxb0VRXzhaYlJXTWZ2QmJVdnFFbktxaExlVHJyLUxrdVYwS3ctRGZueGFJOXlsUTlpNjM2YjlGV1llb0IxaGZoZ1Y1dzVzTzZjQmlDbUoxczg2Z3hKZXFodzRPX1lrMzhhTHljQWVXRUstSDNiRUtyY2hHYVlBdkNLdUZsWEpSQjJ6RlVhSHVSc29KQmlDaDdGcjFZM25nQndteHpieWxwVFBWSTlheGNvQUtIa2NR?oc=5",
    "date": "2026-10-25T18:39:49+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9529f9fb6501",
-   "title": "Misa en Las Nazarenas EN VIVO: Keiko Fujimori asistió a ceremonia presidida por el cardenal Carlos Castillo",
-   "excerpt": "",
-   "source": "Perú 21",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPejVuMmdmTm1JRUxERm45T01YbGRpNFByZktBa2ZLdGNhZmpHQlJzeGJ3U01nRlc0QVN1UTN5XzJmSHRrSkNXdjVseWNUdkNjc3NTOHY2NThONXdoUC11ZFBpa29ubXFLY2xGN3ZLQjRhV3ZhYW9faVphYmNfR21sTlpUaUFQdkNHTG9LTEwtUk1RRzd5VElTOXhrSVBVeU03?oc=5",
-   "date": "2026-10-25T17:08:41+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
