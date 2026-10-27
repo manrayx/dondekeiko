@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T19:23:12.974064+00:00",
+ "generated_at": "2026-10-27T19:45:03.912695+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -450,23 +450,23 @@
    "next": null
   },
   {
-   "id": "332a57548dbc",
-   "title": "Keiko Fujimori: \"El balance - de la gestión- vendrá a los 100 días de gobierno\"",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFJlaGJCNGVlTEhTVlFPNlJFVllYb2hqaXVaNml1V080Y2pmdjVadHlDdFVlSUU1T1h2QWoyNVVsOUEycXlBMUpRcGxiS0x0WnlfNzVGV1E4UGZ5c3VacEhQbzVLTmEyVFQ2cGk3a3kxNDVHMXo2LTcxUEVxTWo5ZDhnbUVoWkJuRm1Zd0g5UjdDQnlKOGYxR1NuaEUxd9IBowFBVV95cUxPazJjdkRHZTdmZThzbG1SSzJ0UnpJUTNjcGFaVjA5QzVKaWNoczhxaDNQOWtsRjRwRXVXWmpLMjBudXFOdzkzR0Q0TnVuZkU4NzRlRlFLUDAtTmZ2YkJFOVI1enZQbmJfYm9GZlhOTWtRWVp0TFp6M2xEN29uTXVXSFpiem54Y0RMb3NkWnB6Y1Q0cGV5NVV4VmhRQS1qVHJfQmhF?oc=5",
-   "date": "2026-10-27T18:16:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "09c1af49251f",
    "title": "Keiko Fujimori dice que está golpeando “fuertemente” a las organizaciones criminales a poco de cumplir 100 días de gobierno",
    "excerpt": "",
    "source": "https://hbanoticias.pe/",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQWNWNzRIRUhycmRoc2V6UXh2Q19KTENNMjVRUWJ1OTkyS2pSeVIwcVlrcGhob294NlpJcnA2YjJEa2ZsSzRIZDRnTjg3MmVaSTFvbEZFNW1LbzBPTzFGT3JaRFdOTDJXckFCT1lHREZjWUctOXBjTEN5djZkMGZXWGhOUjFtVFY4TXNJQkNnMEdOSUg4eHYwb0IxaVNMckVQaG5NaDdaa20wMGlad01hWnlLYl83WkZjUEh4d3VQalpSUWN2bjhLRnVSdVNTNjhDMDRPRnBZR1FCa250bUE?oc=5",
    "date": "2026-10-27T18:05:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "332a57548dbc",
+   "title": "Keiko Fujimori: \"El balance - de la gestión- vendrá a los 100 días de gobierno\"",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPazJjdkRHZTdmZThzbG1SSzJ0UnpJUTNjcGFaVjA5QzVKaWNoczhxaDNQOWtsRjRwRXVXWmpLMjBudXFOdzkzR0Q0TnVuZkU4NzRlRlFLUDAtTmZ2YkJFOVI1enZQbmJfYm9GZlhOTWtRWVp0TFp6M2xEN29uTXVXSFpiem54Y0RMb3NkWnB6Y1Q0cGV5NVV4VmhRQS1qVHJfQmhF0gGjAUFVX3lxTE9rMmN2REdlN2ZlOHNsbVJLMnRSeklRM2NwYVpWMDlDNUppY2hzOHFoM1A5a2xGNHBFdVdaaksyMG51cU53OTNHRDROdW5mRTg3NGVGUUtQMC1OZnZiQkU5UjV6dlBuYl9ib0ZmWE5Na1FZWnRMWnozbEQ3b25NdVdIWmJ6bnhjRExvc2RacHpjVDRwZXk1VXhWaFFBLWpUcl9CaEU?oc=5",
+   "date": "2026-10-27T17:47:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -544,6 +544,17 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmtzUUxmVlM1MFBJeUhpclRjb2c3NGtlWllNTFhKX201TG5oVmJ6TTFXWFNVWm9Pd2dCMVRDdWlDLVJDRGRUN3hxUFBHcVQ3ZzZqNDJXVTlhQk5SM0Y1ODVGRW1POXZXT0t2aFZZR0xmaC12OFF6LUZLeGJabHUxOG9oaE55LVhPYW5sem9ZVXphZVlQbzNsUWNmVHJXZDM3ME5wMkdXeFBEaHPSAbABQVVfeXFMT3ZhajU2Z2xNQ0RMWk9iR01Ha0MzRjRPdkwySUxuYmRzdnlNejJrU3Q4cG1leVFrNFdiYnhHNUptdUc4U2VSUmNEQ1pBRk5oUXNtOXl2QzdmNHdlQ0xEa2RrVTZiNlVQZGZjRHM0bUtJekRUaGRGN21meUljNG1zRHViajgtaTJQRW11cVNmYUFhanhyZE55bVVMZ1lMZ0JQbEl5aDhmV1hnb3RESEN2ejM?oc=5",
    "date": "2026-10-27T16:47:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4983f81e367d",
+   "title": "Presidenta Keiko Fujimori coloca primera piedra de nuevo colegio José María Arguedas en Santa Anita",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDBlRXE1QXlLVW9oWVBORVkza1lTNkEzWnctWjZBdEVsR2U2WVd6Z0lXT2JRNTlEc1FzOHVQY3VoUGhFNkNtc08tN082TXVKZnhHSzNBbGU2SlZzaGpZd0VmSGN2elRBNnkxQUIxLXZ4YkZ5cUNFdWtFOUh2c2hmOXhsdmFOOTRMLWtGWjVXRWNiNHp5MDd6M1k5UWRoekhEdDNERW5DZHdpTlpuZkpJdGZBaHJ1QkNIdUtvOUE2SE9LTEptbk5PQlhITXo2dzRjNUlIdA?oc=5",
+   "date": "2026-10-27T16:14:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1080,17 +1091,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/26/keiko-fujimori-anuncia-operativos-constantes-en-penales-para-desmantelar-antenas-ilegales-vinculadas-a-extorsiones/",
    "date": "2026-10-26T21:56:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9125f43eb9bf",
-   "title": "Keiko Fujimori saluda confirmación de viaje del papa León XIV al Perú: “Lo esperamos con los brazos y corazones abiertos”",
-   "excerpt": "La presidenta Keiko Fujimori saludó la confirmación del viaje del papa León XIV al Perú, en noviembre próximo, y dijo que nuestro país lo espera “con los brazos y corazones…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-confirmacion-de-viaje-del-papa-leon-xiv-al-peru-lo-esperamos-con-los-brazos-y-corazones-abiertos-apuesplan-ultimas-noticia/",
-   "date": "2026-10-26T21:43:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
