@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T02:51:04.740917+00:00",
+ "generated_at": "2026-10-27T03:12:46.442181+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "758dee4c08d9",
+   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
+   "date": "2026-10-27T02:53:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "cff8a7be9fde",
    "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
    "excerpt": "",
@@ -473,17 +484,6 @@
     "abroad": true,
     "city": "Brasil"
    },
-   "next": null
-  },
-  {
-   "id": "758dee4c08d9",
-   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
-   "date": "2026-10-27T01:52:52+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
