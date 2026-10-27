@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T02:29:18.052474+00:00",
+ "generated_at": "2026-10-27T02:51:04.740917+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "cff8a7be9fde",
+   "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
+   "date": "2026-10-27T02:41:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bd70476360e8",
+   "title": "Ministros del Interior y de Salud se integran a comitiva de presidenta Fujimori a El Salvador",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXFndlNtQm5SZmtIRGJGUHRmOUxDWWJNdnlJdUc0cUdGU1Q1VHVIM2RJUGp5ME5yNUZueU15NndGTEZyM19TejVNSGRHQU1vdkoyXzlLa1NfcFVZeFFfZHJldnZNa0dFS1dLcHVmMGhvY0FxU3dhaU5TNXVwU2N1WmxzSFFiMTEzOVI3MUF5MGFvZll0TGx5T3NwMkY2SXI2cUd2SHAwNGVuVUxFbjhxaXpjS1d4RE80WTQyN3pVbzBfRVQyOTg4SA?oc=5",
+   "date": "2026-10-27T02:27:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "61c872e60cf9",
    "title": "Lula responde a Keiko Fujimori y la invita a fortalecer la integración regional con un “modelo sostenible” para la Amazonía",
    "excerpt": "El líder brasileño agradeció las felicitaciones de la presidenta y expresó su expectativa de celebrar en 2027 el bicentenario de las relaciones bilaterales",
@@ -459,17 +481,6 @@
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
-   "date": "2026-10-27T01:52:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cff8a7be9fde",
-   "title": "Presidenta Keiko Fujimori dio inicio a intervención de estaciones ilegales cerca a penales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
    "date": "2026-10-27T01:52:52+00:00",
    "state": "posando",
    "place": null,
@@ -893,12 +904,34 @@
    "next": null
   },
   {
+   "id": "744d9986d7f3",
+   "title": "Keiko Fujimori saluda la victoria de Lula y...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODU2amlPVkZxZ2t6R0dlVFJNeVRsd2RIZVZaT0hmTFZyenNkT3hPWUEzMVlqYXNDSEg4d21GVHFYdmRYb2ZqRm9pQXlzbDV0cGJURGtHTnl4dkJLM2F2U2U2NkRXaG9pNUdpMVdEeTRYYzZoT05nSHdUemJkbkI4aVlmdGQ5Tm1jOEpmaE9aWHZoazVLbXJYUGczNjZNZjVDZG9rVldnU1ZYSW1aOGlZVGIyN0JubmxU0gG-AUFVX3lxTE1MX0JFWkVUa2pvNnBuZFhxMEs3NW1nTDNESTBORkJEeVZvM3lGZUY0d1F0SGVsQTdCSzlSamFwbWpmME9MWFMxOVE4Yk04NTIzLU1GV293OVNrZjdvdy1NbHRWczNmYXJacXhfbWNsbWdiUnFqSDFnamh4aWhreHNsSEFreHFlRTVQXzNDcDFRUXRqT09vck1EelVaYzk0dWFnZDA3aWVkM2l2MFRzbFc0eTR2cFE1djg5cEJoV0E?oc=5",
+   "date": "2026-10-26T14:03:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "13bfd5449991",
    "title": "PerúCheck: Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
    "excerpt": "PerúCheck: Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40 %",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/perucheck-es-imprecisa-la-afirmacion-de-keiko-fujimori-de-que-la-tasa-nacional-de-anemia-es-del-40-noticia/",
    "date": "2026-10-26T13:47:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bee869c91338",
+   "title": "Presidenta Keiko Fujimori felicita a Lula da Silva por su reelección",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlNEOEE3eVJKT0FwWTJmTFp0VEFLTVhZd0xidVRFOW9RdUJLVlpMQUtGT19aR2ZMWlNBVHJYZXhWb1JVQlRNZGhiN21Ea04wRmt5dDVUc1JEUGkzQVcwaWs2bVdTVk9XV2VxaFRFV1VFSzRhZUMtUVpDOE9oQlduRUZpeGZHOGRuSW4yZ09Rd0FKOGd0MlFPQUo3YU9kUWNORDBqbzhBNndyWFNENkV6Q3YwZXY3d1Q3?oc=5",
+   "date": "2026-10-26T13:30:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -925,17 +958,6 @@
    "source": "perucheck",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTkt3b2hTa0dPNXp6Undsc1ZXZ1Vlak9rOUpCc3d2WEEyTkpJMlpQRUhpOHZiOUhyc204QktGdlJkY0ZzN2Rjc1QxZkQ5N0s3RldnbEMtVWZLa1h1bHNZbERBSEd1QmRqbTNQaUhjYkxXdzcyeXlpZXIybmxLRFNNeXRBVmRFXzA0ZkNVMHZ6RzZJRHhQNUR4Z3JwRFEzQ2xmUjByeHJ6WWtuUkhPZ1VyNXdmSEFWdHRjSFdrbnFJd05McUpjQ1p0ZEpCSDJ1T3c5MmlJVFM3bXRRbGZsQTNKTWU3Wi01QUNzZkpLS0VFXzlkUElqdEVV?oc=5",
    "date": "2026-10-26T13:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "744d9986d7f3",
-   "title": "Keiko Fujimori saluda la victoria de Lula y...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODU2amlPVkZxZ2t6R0dlVFJNeVRsd2RIZVZaT0hmTFZyenNkT3hPWUEzMVlqYXNDSEg4d21GVHFYdmRYb2ZqRm9pQXlzbDV0cGJURGtHTnl4dkJLM2F2U2U2NkRXaG9pNUdpMVdEeTRYYzZoT05nSHdUemJkbkI4aVlmdGQ5Tm1jOEpmaE9aWHZoazVLbXJYUGczNjZNZjVDZG9rVldnU1ZYSW1aOGlZVGIyN0JubmxU0gG-AUFVX3lxTE1MX0JFWkVUa2pvNnBuZFhxMEs3NW1nTDNESTBORkJEeVZvM3lGZUY0d1F0SGVsQTdCSzlSamFwbWpmME9MWFMxOVE4Yk04NTIzLU1GV293OVNrZjdvdy1NbHRWczNmYXJacXhfbWNsbWdiUnFqSDFnamh4aWhreHNsSEFreHFlRTVQXzNDcDFRUXRqT09vck1EelVaYzk0dWFnZDA3aWVkM2l2MFRzbFc0eTR2cFE1djg5cEJoV0E?oc=5",
-   "date": "2026-10-26T12:58:46+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1123,28 +1145,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEEwMlFfWTZzcnZocEMyd3hwYU5uR2FXTTY5QnJXdEpqVjdSRTl4aWZnaUhYcjhkVUhFeXk1eFI2YklEQVIzbkM1T3VyT3pGeWhSb3A5VWR1Vnc3Z2ZFc1lTc1JXSlZMWlNyM1dqVUdHMXlKTTVfWmwzdHo1dllQdEdYMmhyeDNseHBuaXZIN05uZU1zVDdKVA?oc=5",
    "date": "2026-10-25T21:07:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "db10dd40cfad",
-   "title": "Presidenta Keiko Fujimori pide por la salud del papa León XIV en Las Nazarenas",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2ZOQWZpV1J0VVBfemQ4UDN5NUF2emh5OEIzVXJOTXp6QkUyNFlMdUd5WUo3Wk1IRi13aE40VHlSZWo2WG5fbzU4VzN3WHVzS3JIdEg4RkI0SkNRRlZ0b1FuMmVoWUp0NVlDaFY4bklmZDBKSHl4MEF5anB3Q0RxRXYtbmVPVDVZUGVyUGRlUlc3cGJWb1ZWTUZBc29mbXdEOW9YeXJjLTlmRE5iTmRqMnJSN2k1LXRadWVFdXZLdw?oc=5",
-   "date": "2026-10-25T20:29:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "09d6f5ced61f",
-   "title": "Presidenta Keiko Fujimori eleva plegarias por la salud del papa León XIV",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWF1X3VSOW1MTWFLcU1FSjJfWFNOZnN2WHpZQ3hqLUR3cGVSLTZRUnQtdXAzUTJYeUJucE1mQzhleWlCY1dkRWE3RGlQa0dtTXlhXzFPX2c0alZUNVh4ZkpYSjVteEdQNm1wSU00c185RjNZalc1dV95S2Z5U3V0NVFORk9meU1rRzNrcURnVVVPSnRqYkQ2emxjS203b3lTa2VFNVRBUktZTHMt?oc=5",
-   "date": "2026-10-25T19:15:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
