@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T03:12:46.442181+00:00",
+ "generated_at": "2026-10-27T05:00:32.211419+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -406,27 +406,22 @@
     "lng": -77.0298,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-19T12:00:00-05:00",
-   "end": "2026-10-19T12:55:00-05:00",
-   "minutes": 55,
-   "subject": "Lidera inauguración de la línea de transmisión de 138 kV y la nueva Subestación Iberia, que beneficiará directamente a 122,000 habitantes de las localidades de Nueva Pacarán, Alerta, San Lorenzo, La Merced, La Abeja, Iberia, Arca Pacahuara e Iñapari.",
-   "lugar": "Plaza de Armas del distrito de Iberia, provincia de Tahuamanu, región Madre de Dios",
-   "state": "transmitiendo",
-   "place": {
-    "name": "Plaza de Armas del distrito de Iberia",
-    "full": "Plaza de Armas del distrito de Iberia, provincia de Tahuamanu, región Madre de Dios",
-    "city": "Madre de Dios",
-    "lat": -12.594,
-    "lng": -69.189,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 789,
+ "agenda_minutes_7d": 734,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "26493a2c659b",
+   "title": "Keiko Fujimori: Gobierno autoriza viaje de ministros de Salud y del Interior a El Salvador",
+   "excerpt": "El Gobierno de la presidenta Keiko Fujimori autorizó este lunes 26 de octubre el viaje de los ministros de Salud, Luis Dyer, y del Interior, César Astudillo, a El Salvador,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-gobierno-autoriza-viaje-de-ministros-de-salud-y-del-interior-a-el-salvador-nayib-bukele-luis-dyer-cesar-astudillo-ultimas-noticia/",
+   "date": "2026-10-27T04:43:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "758dee4c08d9",
    "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
@@ -445,6 +440,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTzJ3SE9saEUwOGl0YmZTckF0a2UtZ2lJMjY1Y1pZc3pud2lJc0NZd01MMGl3SmFLa1lTSkYyeEp1X2FzanZrc1lkVVZPbGtSTTl3ajg0VGlCSk1CQkNxQ0E4OTU4aV9kb1JVbTJpSnh0amI3N21kLXc0c2o2YW1ZT0VLQ0JicUpEQUxsZmRpU0hqT3BJYlVlLUJrVmw3Y0FIU0FJRF9Tak03ZnROaGdLX0JpalJlZWVkVk13Q2FJSl9KVHhMeVZ0OXdSNzBWOE0?oc=5",
    "date": "2026-10-27T02:41:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4dcc39f483c2",
+   "title": "Lula da Silva agradece a Keiko Fujimori y propone fortalecer la integración entre Perú y Brasil",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEtnOGsyRzluSEJzdWRMQmIzcHhWdUZQUDdNZlU5T3Y5VWIzcFMxbzFIbU0wbDRhQXNoVGRiVmVvS1FaOUxPc2FxbUhFcGI1UnU3aXlNNTdRaDc0VTlSeTJkYXAtdzFXSmlWSjdXZEYxekhRb3F4eVR1enZNalRBZnRrd0NBNjVJbDktTU12N2loTUVlQVRjRUJmX3J4TDdrWElheGxkQnp5SzFBYWdyNVBpZ2ZvMjN5VDVfYUhnS3FTMHcxZ3l0SDZUcTR3NC1tR1NqdlJiSnRwdGZlZlRnVGNkaFo2WHPSAecBQVVfeXFMTkxLZzhrMkc5bkhCc3VkTEJiM3B4VnVGUFA3TWZVOU92OVViM3BTMW8xSG1NMGw0YUFzaFRkYlZlb0tRWjlMT3NhcW1IRXBiNVJ1N2l5TTU3UWg3NFU5UnkyZGFwLXcxV0ppVko3V2RGMXpIUW9xeHlUdXp2TWpUQWZ0a3dDQTY1SWw5LU1NdjdpaE1FZUFUY0VCZl9yeEw3a1hJYXhsZEJ6eUsxQWFncjVQaWdmbzIzeVQ1X2FIZ0txUzB3MWd5dEg2VHE0dzQtbUdTanZSYkp0cHRmZWZUZ1RjZGhaNlhz?oc=5",
+   "date": "2026-10-27T02:39:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1125,28 +1131,6 @@
     "abroad": false,
     "city": "Lambayeque"
    },
-   "next": null
-  },
-  {
-   "id": "2593666cec0e",
-   "title": "Presidenta Keiko Fujimori elevó plegarias por la salud del papa León XIV",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcnpTUkJMZnc0elhWbmdPMnNhTjRVSGRaWUh3VnlwU2tKQ0lLX2tNSFd5dmhoT0ozaEM4YkhlZ0FjRWpWWlJVbnNPcXhVN1ZiR3FkYkhpR0FHQ0dRcW1uSTg3Y2h2bk9yOUpSUDJ3S1lTRk9OU25KQ2c0Tms4MXk2Z09PQVZnTVJleHVFajdhd2IwcGExeEQ0MUFvQzVoUGZuajktdmdWRXJXR2lFUC03ZUtR?oc=5",
-   "date": "2026-10-25T21:27:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5c3f9ad59016",
-   "title": "Keiko Fujimori reza por la salud del papa León XIV y pide que siga guiando a la Iglesia católica",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEEwMlFfWTZzcnZocEMyd3hwYU5uR2FXTTY5QnJXdEpqVjdSRTl4aWZnaUhYcjhkVUhFeXk1eFI2YklEQVIzbkM1T3VyT3pGeWhSb3A5VWR1Vnc3Z2ZFc1lTc1JXSlZMWlNyM1dqVUdHMXlKTTVfWmwzdHo1dllQdEdYMmhyeDNseHBuaXZIN05uZU1zVDdKVA?oc=5",
-   "date": "2026-10-25T21:07:35+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
