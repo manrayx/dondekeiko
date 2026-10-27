@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T00:19:54.515153+00:00",
+ "generated_at": "2026-10-27T00:41:40.006328+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -446,7 +446,7 @@
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUdVeTh4Y2J2bE9Oc2syU0RFQ0JXUjk1a0Z2ZmNsZzZwaVdTSmFfREt2UHlxSmhYdDF0emtHbTJXWVBhRk5ac25PRTlfUWRNVzNVc2llbjB5aEdIdnpEdjA4dWtOOThCZmg2T3BheUdQcVNFN1liSVQyRWNtT0FSdVgxUkFCY0I0QmtSdjRTVlZRbHJ0dEhlaVpIZzliR1BJOVhoVmU0MnZlbjc1eUdrdGdBMm1yVWgxMkQ5em93Mi1OQQ?oc=5",
-   "date": "2026-10-26T22:48:00+00:00",
+   "date": "2026-10-26T23:03:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -467,7 +467,7 @@
    "title": "Keiko Fujimori celebra confirmación de visita del papa León XIV al Perú y destaca el cariño de los peruanos",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdjdOYkRtY21JNkVsWF9FclRPc0J3VUFDbFpvWHZzTk1VaTNSNjJNcGdsYjUwNmFoMk8xdmxkT1d5emJpLXFHbEcwTUtBeXhOSWc3S3o1ZG9fYkViMml0WUpteTBiajJWZmZmemVCbHNlNzhaellzRmpxNFZEZDkyelVYZHNQY1Fzek9EaWNXQVBVRDdBdDQzNnRvRUUwWXBHRGdWX3JSd3RneWZBX1RQZ0EtXzRTTUpYdnd5YUdsVE5sVkRQTVU5YUdCQWNWM09WUS13VXRUaGdwTmZ1NlHSAfIBQVVfeXFMT0xoZW5MWF8yc01BLVZwckdUYkJidzVJM0tCZkxDM0JmVG1ZQmkycl84TkNJUVJUMFRJUEpMUWItSlBqM0pEaUFTSWdITFZwZ3JtMFhNb2ZDbmI0d0lGaHhUZDZwN0JSSFk5bUNaRDg0dWhjd2tNM3pzVUdQZ0owSnVnRllHdHZPQlM3aVVRTFF1WHFUbVpOTGR2Vm9lWWVxZzk3aEFTOHkxa1Q0MXdWeHMwWjZjVGhjTFVEWVpPc0hrUlNQbUVCN2o4c19PRW5nSHlxUkpjM1FIV1NMcVlTcUhicDQyOGJBaXpmYXFVVWU1eWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTGhlbkxYXzJzTUEtVnByR1RiQmJ3NUkzS0JmTEMzQmZUbVlCaTJyXzhOQ0lRUlQwVElQSkxRYi1KUGozSkRpQVNJZ0hMVnBncm0wWE1vZkNuYjR3SUZoeFRkNnA3QlJIWTltQ1pEODR1aGN3a00zenNVR1BnSjBKdWdGWUd0dk9CUzdpVVFMUXVYcVRtWk5MZHZWb2VZZXFnOTdoQVM4eTFrVDQxd1Z4czBaNmNUaGNMVURZWk9zSGtSU1BtRUI3ajhzX09FbmdIeXFSSmMzUUhXU0xxWVNxSGJwNDI4YkFpemZhcVVVZTV5Z9IB8gFBVV95cUxPTGhlbkxYXzJzTUEtVnByR1RiQmJ3NUkzS0JmTEMzQmZUbVlCaTJyXzhOQ0lRUlQwVElQSkxRYi1KUGozSkRpQVNJZ0hMVnBncm0wWE1vZkNuYjR3SUZoeFRkNnA3QlJIWTltQ1pEODR1aGN3a00zenNVR1BnSjBKdWdGWUd0dk9CUzdpVVFMUXVYcVRtWk5MZHZWb2VZZXFnOTdoQVM4eTFrVDQxd1Z4czBaNmNUaGNMVURZWk9zSGtSU1BtRUI3ajhzX09FbmdIeXFSSmMzUUhXU0xxWVNxSGJwNDI4YkFpemZhcVVVZTV5Zw?oc=5",
    "date": "2026-10-26T22:39:31+00:00",
    "state": "posando",
    "place": null,
@@ -491,6 +491,17 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd29CUXFUek5PakVXdE41cTZ2TDlfUEpCOU5Pc3NjWHplR3V0VWpzYmFDeFhxOUVBcUxvUUtaOHFrcW10MzBTeVBITFNUTkN1UFEwUWE0YWNEX2ZEbGY0aGVsZU5CV3BrUkxvMjc3STJTazNFTDIzSTM3RDVaVHVmbXM1b1JaRC1ycEZGR0lRRVIyZ0JKUmVPRmFnbHIxTFkyeTdWcW1tZVRiMEdu0gGyAUFVX3lxTE1kazhXUlI4ZEszemRncTJZbHl6SnlUTkNwSDEzTFhhdjBpekp3ZUFqSXhnOENsT1JEWmhXQXBuemV5ZkZhSUJLZDN5d2d0eTJ0blR1Tko1MjVNdmJVUE50RUZ2ZGhleF9tMGdUcEVERnRTMVMtek9NNmlsb0VYY2lXYk51N2VUSjdsLVFrUXpfTW8zR2V4SGtQQXVNT1BaV3NYbWlJVW9kZlRyZG1QY1NKa1E?oc=5",
    "date": "2026-10-26T22:22:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "51601b406b12",
+   "title": "Keiko Fujimori celebra visita del papa León XIV al Perú y destaca noticias sobre su recuperación",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMk9HZ0Vrc1h4YWZQNWNOWVFPQnJSRkFBbUNPdmpJWlJoWng4SHhNVGJodjZoRjlsbDFPb1J1enQ0cjZ1U19HVU1US1lGZjN6Y21nWXdyUzdKbm5NWHFON2NFZXdsRE1XelM3M19mYVNmckFNel9zbGxiaEdlMUtHNDVLRll1SG9LU2h5N3NEUzhFZw?oc=5",
+   "date": "2026-10-26T22:19:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1129,17 +1140,6 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPejVuMmdmTm1JRUxERm45T01YbGRpNFByZktBa2ZLdGNhZmpHQlJzeGJ3U01nRlc0QVN1UTN5XzJmSHRrSkNXdjVseWNUdkNjc3NTOHY2NThONXdoUC11ZFBpa29ubXFLY2xGN3ZLQjRhV3ZhYW9faVphYmNfR21sTlpUaUFQdkNHTG9LTEwtUk1RRzd5VElTOXhrSVBVeU03?oc=5",
    "date": "2026-10-25T17:08:41+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dd4ca1da0cca",
-   "title": "Misa en Las Nazarenas: Keiko Fujimori asistió a ceremonia presidida por el cardenal Carlos Castillo",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOODdUcU45TXFPQndjMkhhS0t6ck15WW1uSG84THBrZmxfVWR2a0VOVWxmYnAwTjltcEl4U0o3RlliTWZsb1dXYTg3X3hyZzFVMl9UeXhkWHkxaDFYZnVFMjlVYlUzVjd1S19ES2pna3Z2Uzhka0k1cnM2OElQQk9FRjlzRDA2aUhlckR2SjhxUXVoQkt6Ujg4R0NJOA?oc=5",
-   "date": "2026-10-25T17:08:41+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
