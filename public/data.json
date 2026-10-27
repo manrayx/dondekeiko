@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:39:35.509237+00:00",
+ "generated_at": "2026-10-27T19:01:26.834456+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,12 +428,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0024f0942d3e",
+   "title": "Keiko Fujimori evalúa sacar a Galarreta de la PCM",
+   "excerpt": "CAMBIOS. Fuentes de este diario dicen que se busca un nuevo premier y cambios en otros ministerios. Podrían ingresar personajes históricos del fujimorismo.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/27/keiko-fujimori-evalua-sacar-a-galarreta-de-la-pcm-hnews-1842399",
+   "date": "2026-10-27T18:52:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5a5c0662469d",
    "title": "Luis Galarreta asumirá el Despacho Presidencial durante viajes de Keiko Fujimori a El Salvador y España",
    "excerpt": "Luis Galarreta quedará a cargo del Despacho Presidencial y Rafael Belaunde de la PCM ante los viajes de Keiko Fujimori a El Salvador y España, programados del 28 al 31…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/27/luis-galarreta-asumira-el-despacho-presidencial-durante-viajes-de-keiko-fujimori-a-el-salvador-y-espana-hnews-2097306",
    "date": "2026-10-27T18:34:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "332a57548dbc",
+   "title": "Keiko Fujimori: \"El balance - de la gestión- vendrá a los 100 días de gobierno\"",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFJlaGJCNGVlTEhTVlFPNlJFVllYb2hqaXVaNml1V080Y2pmdjVadHlDdFVlSUU1T1h2QWoyNVVsOUEycXlBMUpRcGxiS0x0WnlfNzVGV1E4UGZ5c3VacEhQbzVLTmEyVFQ2cGk3a3kxNDVHMXo2LTcxUEVxTWo5ZDhnbUVoWkJuRm1Zd0g5UjdDQnlKOGYxR1NuaEUxd9IBowFBVV95cUxPazJjdkRHZTdmZThzbG1SSzJ0UnpJUTNjcGFaVjA5QzVKaWNoczhxaDNQOWtsRjRwRXVXWmpLMjBudXFOdzkzR0Q0TnVuZkU4NzRlRlFLUDAtTmZ2YkJFOVI1enZQbmJfYm9GZlhOTWtRWVp0TFp6M2xEN29uTXVXSFpiem54Y0RMb3NkWnB6Y1Q0cGV5NVV4VmhRQS1qVHJfQmhF?oc=5",
+   "date": "2026-10-27T18:16:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -456,6 +478,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/27/congreso-recorta-sus-gastos-y-ahorra-mas-de-300-millones-de-soles-monto-sera-transferido-al-gobierno-de-keiko-fujimori/",
    "date": "2026-10-27T17:26:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1db158896a22",
+   "title": "Últimas noticias de Asentamiento Humano Keiko Fujimori hoy Martes 27 octubre",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoRjZMZ19uV0Yzb3ZlbXc3VW81VzdQZ19kM1NTMTdQNGtCQVA4SUgyeWtDR3FBTTl2MDNCeHJnNWdfeTF5SWF3YlZlU3NiYmduVVViWTJjMjUyWGJ6WDBhd2UxalE4Ul9URmc?oc=5",
+   "date": "2026-10-27T17:17:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1058,39 +1091,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-confirmacion-de-viaje-del-papa-leon-xiv-al-peru-lo-esperamos-con-los-brazos-y-corazones-abiertos-apuesplan-ultimas-noticia/",
    "date": "2026-10-26T21:43:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "65162fc6a53c",
-   "title": "🔴🔵 Keiko Fujimori felicitó la reeleción de Luiz Inácio Lula da Silva",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUlEWm01cjFKRzJBQTdiYXpNWmtkanNHSnpvcHN1YXJnNjZQNHBaYkdpUHpac09HUl9FNmF0d0xTeVV5SUtCdDBWUWVxRjZXMkVMT1VLdFAxcDczRVl6UEM1QmtLOFNYV1UxTk4zbmpkc3V6MDZaOE45OF95aVh5V1pTR2lXSVlrVWJrU3hmcDlnNUpQSHpCQkM1Q3ZtN1MtdXRmcEUwMDU4eFJaMy1QQ1dhaUM?oc=5",
-   "date": "2026-10-26T21:35:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "45b49779cac6",
-   "title": "Keiko Fujimori saluda confirmación de visita del papa León: \"Lo esperamos con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNjEyMm05a2gtdjRhSlBkeXZvVU1aMzhfamFEMHFhNGh1Y3NPUFZsV1MwWkV6ZlFSUFdYb3NlX0k5d1BPSVZ6MVJ0SFJldUp0UTUxV0VRbDB6NmtCWEc5WWpSdXh5VGJid21FUUlGcmtKRGJhY1poS3hXbS1iMjRIQ3g4MEVfaDRSclFWYXNoWjh4X3FQbS1MN3FMczBnYkdoM21JbGQ2STlVYmgwWmhob2l4ZkVjeEIwc0M2LUZCZHBuc29jQU5oaksxaFU4ZjVuREU4RWw2WQ?oc=5",
-   "date": "2026-10-26T21:10:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "679a50e8d5c9",
-   "title": "\"El orden vuelve\": Keiko Fujimori supervió la intervención de antenas ilegales en penales",
-   "excerpt": "La jefa de Estado lideró desde Palacio de Gobierno un operativo del Comando Unificado que retiró equipos de comunicación clandestina en cinco frentes",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDdRdm1VVktDcjh0V3lGa3FnSFNtUkJ1YzBxYm9zVTFOTjhCZnFzZ004YnoxLXBTWkxrdWlEekp0eHZjVXdmNW5NQU5PakEtbnJyTlBDUEU4MjVCeHdUMmY3dEhPbnlMcFhCWmZGak9SMk9oMTVvU0VDMWJPLVZOWUZhV09sbmRRX00yX09LeWRKWm0wdi1KdE15UVhFZUJzaDhEM0VKREl0SzhqNXMtVk1sTzhzN0dURTRFWE5lSXZna3R0bnfSAeABQVVfeXFMT2hIcS1rTTRJT1hTX2ZaTWZ4QThnUld0aWthS3hjamkxb2tleFFjblpMZW5JcVNFaC1NZVdXZ29JT1UtU3hBMkJZWC1zSld2LTJITmdRYWFpQzFmNTJLdWR4RjJrWk5sWlc4NUJFVGppVWM4SVk0cjVSTUZYdFNhQkdBTG1CNmlld3RLUnlLajNSdkNyTmFIWE1BZE1mOXBNVjJPejBKQnY2ZzYxdFNlTDJ5UDRKRFpZMUpTbG9aUXhuZ29WZjZ2N1daLVdGU0IxM3h6RWN4U1o2R2hmNzNrbmg?oc=5",
-   "date": "2026-10-26T20:24:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
