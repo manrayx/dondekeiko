@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:46:00.984895+00:00",
+ "generated_at": "2026-10-27T16:07:17.615339+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5f48d7fce7d2",
+   "title": "Ministro Luis Galarreta estará a cargo del Despacho Presidencial durante los viajes de Keiko Fujimori al extranjero",
+   "excerpt": "La jefa de Estado viajará a El Salvador y España. Fujimori sostendrá un encuentro privado con Nayib Bukele para conocer de cerca las estrategias de orden interno, administración carcelaria e…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/27/ministro-luis-galarreta-estara-a-cargo-del-despacho-presidencial-durante-los-viajes-de-keiko-fujimori-al-extranjero/",
+   "date": "2026-10-27T16:00:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "458b31884deb",
+   "title": "Fujimori asegura que su gestión está “golpeando fuertemente” a las organizaciones criminales",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, afirmó que su Gobierno viene golpeando “fuertemente” a las organizaciones criminales, a pocos días de cumplir sus primeros 100 días de gestión. La…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-asegura-que-su-gestion-esta-golpeando-fuertemente-a-las-organizaciones-criminales-noticia/",
+   "date": "2026-10-27T15:59:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6b72c7e0755e",
+   "title": "Keiko Fujimori sobre su gobierno: “El balance vendrá a los 100 días”",
+   "excerpt": "La presidenta de la República, Keiko Fujimori remarcó que el balance de su Gobierno se hará a los 100 días de haber iniciado su gestión como mandataria.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-sobre-su-gobierno-el-balance-vendra-a-los-100-dias-ultimas-noticia/",
+   "date": "2026-10-27T15:48:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9ce41a0da2b3",
    "title": "Keiko Fujimori: “Estamos golpeando a las organizaciones criminales con el Comando Unificado”",
    "excerpt": "La presidenta de la República, Keiko Fujimori, destacó los avances del Comando Unificado en la lucha contra la delincuencia organizada. La jefa de Estado declaró desde una actividad oficial realizada…",
@@ -674,8 +707,8 @@
    "title": "Lula da Silva agradece a Keiko Fujimori y propone fortalecer la integración entre Perú y Brasil",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEtnOGsyRzluSEJzdWRMQmIzcHhWdUZQUDdNZlU5T3Y5VWIzcFMxbzFIbU0wbDRhQXNoVGRiVmVvS1FaOUxPc2FxbUhFcGI1UnU3aXlNNTdRaDc0VTlSeTJkYXAtdzFXSmlWSjdXZEYxekhRb3F4eVR1enZNalRBZnRrd0NBNjVJbDktTU12N2loTUVlQVRjRUJmX3J4TDdrWElheGxkQnp5SzFBYWdyNVBpZ2ZvMjN5VDVfYUhnS3FTMHcxZ3l0SDZUcTR3NC1tR1NqdlJiSnRwdGZlZlRnVGNkaFo2WHPSAecBQVVfeXFMTkxLZzhrMkc5bkhCc3VkTEJiM3B4VnVGUFA3TWZVOU92OVViM3BTMW8xSG1NMGw0YUFzaFRkYlZlb0tRWjlMT3NhcW1IRXBiNVJ1N2l5TTU3UWg3NFU5UnkyZGFwLXcxV0ppVko3V2RGMXpIUW9xeHlUdXp2TWpUQWZ0a3dDQTY1SWw5LU1NdjdpaE1FZUFUY0VCZl9yeEw3a1hJYXhsZEJ6eUsxQWFncjVQaWdmbzIzeVQ1X2FIZ0txUzB3MWd5dEg2VHE0dzQtbUdTanZSYkp0cHRmZWZUZ1RjZGhaNlhz?oc=5",
-   "date": "2026-10-27T02:39:17+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRzNqTVF4RC10MGR1WUlZLVYxS3Y4NmxwZE5UZ1c5STEzNjM5dkk1OUtLSTk1Z04xV3lfR0dlYmNGUm1zVXJhVHdSNDh4bXlET2pmVXlfWVkwRF8yNHFiZGZfcDh4QjdLVnp2elo2aUpVV0JyblRNd1V4YVFYMS01OU1Wb3VJYkFGUjNnSnJ5ZmZoN0kteWZVYXMzNlp0OXdFWmlGOE9RbHJhWFZiRm9NMTJ1NG93NzhXSUhya3lDUXFzTUdVak9HSC1xMU1RVEgzY1pn0gHnAUFVX3lxTE5MS2c4azJHOW5IQnN1ZExCYjNweFZ1RlBQN01mVTlPdjlVYjNwUzFvMUhtTTBsNGFBc2hUZGJWZW9LUVo5TE9zYXFtSEVwYjVSdTdpeU01N1FoNzRVOVJ5MmRhcC13MVdKaVZKN1dkRjF6SFFvcXh5VHV6dk1qVEFmdGt3Q0E2NUlsOS1NTXY3aWhNRWVBVGNFQmZfcnhMN2tYSWF4bGRCenlLMUFhZ3I1UGlnZm8yM3lUNV9hSGdLcVMwdzFneXRINlRxNHc0LW1HU2p2UmJKdHB0ZmVmVGdUY2RoWjZYcw?oc=5",
+   "date": "2026-10-27T02:57:48+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1080,39 +1113,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/gobierno-de-keiko-fujimori-realiza-operativo-para-desmantelar-antenas-de-telecomunicaciones-clandestinas-en-penales-noticia/",
    "date": "2026-10-26T15:06:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "758dee4c08d9",
-   "title": "Presidenta Fujimori: \"El orden vuelve y el control de las cárceles se va a retomar\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTI4cWkyU05jVGNpWl9BRXNhbTVibjVYbFZoczZMTlo2cTZXcDU2dkZnbThlaFF4VTNJdUEtdU1YTEJWcTJueHhGX2JOcmNYT1d1V05BMXA0ZDczandpS1FxZ0JtWm14RmdOelZrcDZlRFFkR3JOZDZOTnhOSWdjNC0xR0tZTWVwSk5BTG5tYlQxMUIyOGZONEZMTEpiRkFxazR4SUJMUVZrRzN4SVljalA5aFdZTVBDTmc?oc=5",
-   "date": "2026-10-26T14:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "46cf9f6f2d7f",
-   "title": "Es imprecisa la afirmación de Keiko Fujimori de que la tasa nacional de anemia es del 40%",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRTlXbXEzSlNEQm8xRC01ZDdqZ1BfX0FJVEd1YjRycXloR3lVTDZwYm5faWhtNXplQ0Z0bnVSUVZIa1J4eXk4b0RldC04NkdhMVJUMFRJcGRnaVQyOWxwYUV1bXhmWUw1QlZlaFVvbDhpSkdQZUY1QWdPSFVhemFNMTNlaUZLaVNDR014a1Nyc3dqaWZHd2c0dGRZNEtPU1p6U2RmOGVFUVFzUXFPSGpxd0JMLXhBUQ?oc=5",
-   "date": "2026-10-26T14:49:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e988dfcc6017",
-   "title": "Keiko Fujimori: “El orden vuelve y el control de las cárceles se va a retomar”",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX18xS3BGamlIWHRXWlhxVzFnSHdIcVNuWDBLMm82Rl9yWExTaThDRHNhdUYzQ0xKQmxvWmo1TjVCSTExczFYbTRWUjl2M2JQTmJ6SlRLdTRJWkV3WlhKUEw4Q09nWXZtVWRYWWdtY3YtVUV6S0toZjJWTTJzWExiSnFRTW9VMFo1RW5QZV9KekVYSW8xd1p3NzB3ajhmUQ?oc=5",
-   "date": "2026-10-26T14:39:26+00:00",
    "state": "posando",
    "place": null,
    "next": null
