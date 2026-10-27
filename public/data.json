@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T15:23:41.054950+00:00",
+ "generated_at": "2026-10-27T15:46:00.984895+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9ce41a0da2b3",
+   "title": "Keiko Fujimori: “Estamos golpeando a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, destacó los avances del Comando Unificado en la lucha contra la delincuencia organizada. La jefa de Estado declaró desde una actividad oficial realizada…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/lima/seguridad/keiko-fujimori-estamos-golpeando-a-las-organizaciones-criminales-con-el-comando-unificado-ultimas-noticia/",
+   "date": "2026-10-27T15:43:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "81e8da9eacf2",
    "title": "Lula da Silva responde a Keiko Fujimori tras saludo: \"Podemos fortalecer la integración regional\"",
    "excerpt": "La presidenta peruana y el electo mandatario brasileño coincidieron en impulsar una agenda conjunta con Brasil, con énfasis en el desarrollo sostenible de la Amazonía, a puertas del bicentenario de…",
@@ -440,7 +451,7 @@
   },
   {
    "id": "803d19c77113",
-   "title": "Las 5 del día: presidenta Keiko Fujimori viajará al exterior y encargará el despacho presidencial",
+   "title": "Las 5 del día: Presidenta Keiko Fujimori viajará al exterior y encargará el despacho presidencial",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY08yODdOQkpMcVFSVXBmOGRwcnZITWdJZlV1eUdGTXJkYldlbkhkZDF4b1llTGlqTk5iLURtdy1LRzB0YkFvT3AyaDgxaC1GOHI0Mi1OeFRjX19PdG1KMkU4ejBaYnI2SHZWU005a2g3aWMwMVM2MHJaWmR3TGJCb1VVUUJlT2dvdi1CVVd3VWdPUjBqSWp2RjEzN3hEZDdienY0cDFrblQ0eVY1V3k0am1WU2VFQVZrNDVwaDVTeThHNjFwWEhLemVsN1lEMzhFOFE?oc=5",
@@ -619,8 +630,8 @@
    "title": "Keiko Fujimori viaja a El Salvador y España: Galarreta asume la Presidencia",
    "excerpt": "",
    "source": "Diario Ahora",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmhxS0cwcG9kSTF0V055ZXNrQzBXd3lRNWxHeS1YS25GSHJEaDNTRU9WQi16Vi1odS0yVVBrU2dCcmRESVVnSFpPUjlaRnEwZjdSTXRwNUloaWFXWXJubHhMZDdLNERUbHI4Rk5nYlRIY0k2UmtfR3NGVFF2ejRBOFhsME9iMnFYT1RtejZQc2Q?oc=5",
-   "date": "2026-10-27T09:41:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMlJMUmp0c1U2WjhBWDBlcExOVzA5TnExUUo4bmxoamlNODhhQUVYeE9wNl9wd3JtWGx1RGJVVkFxaFNhRUtSWjJfdmNYb1dWRFEyLWo1LUp1bkloV1RtaERmclNXT1YxVXFRbE9XSl9VTTY4TnZnLUtZYmxUYmlmbl9WWDVDWmcxXzRKdERzQ3pRQQ?oc=5",
+   "date": "2026-10-27T09:40:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1102,17 +1113,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX18xS3BGamlIWHRXWlhxVzFnSHdIcVNuWDBLMm82Rl9yWExTaThDRHNhdUYzQ0xKQmxvWmo1TjVCSTExczFYbTRWUjl2M2JQTmJ6SlRLdTRJWkV3WlhKUEw4Q09nWXZtVWRYWWdtY3YtVUV6S0toZjJWTTJzWExiSnFRTW9VMFo1RW5QZV9KekVYSW8xd1p3NzB3ajhmUQ?oc=5",
    "date": "2026-10-26T14:39:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fcbc47f62983",
-   "title": "Keiko Fujimori afirma que operativo contra antenas clandestinas busca frenar comunicaciones ilegales desde penales",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1lfVThjckZQWFpQTm12YlJ2Y2pqSVJDTVdzeDNlZ0Q4cWZ0Q2Y0cVlGUXJ6YnFfLVAwQ19YbkZkZ1Q3cWNWRThyRk13U3BWSkdyX1FyMFBtZU8zVFQ3dGdRRkN6b29GQTFwRk5zNm4xcTZ0am56cWVVQk9kaFNlUHMxZGgyR3NsMExMdS1yZnRILXpKUV95RWZ3WGotYXVwRkNJLVoxd095MkZQdW1sU0Y2NEVfOE1a0gG-AUFVX3lxTFB3dEpJLUJEa3FVaGQzR3BRa0RHOFFLdngzc0ViVmw1RVJZOE5aSTg5SXBScTJXSXFjcUxrdm5hVllhRTJZWjNXeV8wLU1NTkEyNXhYSkNvdEdzX3ZJNDdaNEF3RkowZnhJSS1acVdxVldNMzc4QkMtbHVGLV84S2FJYmRYTS1uZ1VsZXdnZ0RLMGlQaFozX0c3Q3ZxV1Bqb19aR09vcDVDMnlHYk02MWQ4NXZLRlhWSjIwbS1JQ0E?oc=5",
-   "date": "2026-10-26T14:37:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
