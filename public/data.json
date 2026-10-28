@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T19:02:17.272344+00:00",
+ "generated_at": "2026-10-28T19:23:52.661867+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,6 +286,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2bd6991ff108",
+   "title": "Miguel Torres: Viaje de Keiko Fujimori a El Salvador debe servir para combatir inseguridad",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVlBfRHIzYzUzY1pXVzlOendUeHM3TmpuUHoyYUFZcTFMQkpkM21Pd2poeGJ5RVdCbkthRXV4TWItM3FkS2FDMnVKM0ZfQXY2aGw2S3pmWjZ0WFZJcGgtay13TU56THBDSkdhYWdGTEoySWxFb3FLRXZ1dWNoQzFHY3p1cVJ4MENRM2pKSmZIY2lkUG1GN0xPaS11TjZyWDZuQnV6NllidURCMkpoZFNaQkhYRWtaVllWSHludkJYMFZkd0VQdjlpWFFrYU5HYzFxcmdGVUpIZ0YwQdIB7gFBVV95cUxOa1RXdG42TW05SGt0b1VHM2tTbGw2dm1tXzdUTy1aZ3FpYXB0dmNYU0YwNGpuMG1XQWVoZ2NfMHpCV3N5QlMxT0NrZEQtM21CU1hsb1NnOHV5RndLZW9kOHRacFk5M25ocFhIZUh5NGlHN3A1Y2NtVVdLMDFqNWNoRmpzVW5GTDZtS3JJV0kyNk8xSHNVR0pzTjZDVGo4UUxCd25vY25OT1ZKd3VtOW9nYWFjS1Rid1Z2c3U1RndNbHExa0hNOXNySGh1blF4RlJQdTFSVGQ5NThHYkg3Mjdacnh3a2h4Z1BzVWpTa1p3?oc=5",
+   "date": "2026-10-28T19:08:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "287dc5b34c43",
+   "title": "Miguel Torres respalda viaje de Keiko Fujimori a El Salvador %",
+   "excerpt": "",
+   "source": "larazon.pe",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE14eUhYdGJicGYtQ2tBbV80X1hvRVFReUxpVG1CTFMzbzRzR0UwTExnQWRfS2dqVlh4Mjl4ZXJmbFo0WnVvM2FCNHpvLXljTEpneFZ5WjNwZl83SlIxcDdBdFV1cTE4bk82VVpOS29DZU84eFA3c3ptc1IwMFctMlU1UDNaQVU?oc=5",
+   "date": "2026-10-28T19:00:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "016059de2049",
+   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
+   "date": "2026-10-28T18:52:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7832119bb7aa",
    "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele y conocer su megacárcel",
    "excerpt": "",
@@ -308,12 +341,12 @@
    "next": null
   },
   {
-   "id": "016059de2049",
-   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
+   "id": "8db254ebf69b",
+   "title": "Keiko Fujimori se reúne este jueves 29 con Nayib Bukele, presidente de El Salvador",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
-   "date": "2026-10-28T17:30:00+00:00",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeHhGMHRDanNUeFp0OTYzWGxEeVY1UEMwZXVzTkc3SXRodzlrbDg1TWhqelh1Q0l2cnJTTE95d1RIVnFnRUEtM0JaeWZGM002ekNHaU12N05JMmNmT3UtWnlfbkR1UTJUNFJMVkhKaGNGY3BRdE1MNEZCTU1wU3pfQ2kzS1UyRDFzUjNPN2JWaHZlcGZYNlZRVGdDYnVCLVc1MXE5VmpnSndWVGFyR3NaOGZhOA?oc=5",
+   "date": "2026-10-28T17:17:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -920,39 +953,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/27/lula-da-silva-responde-a-keiko-fujimori-tras-saludo-podemos-fortalecer-la-integracion-regional-hnews-687879",
    "date": "2026-10-27T15:18:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cec5719701b8",
-   "title": "Galarreta asumirá la Presidencia del Perú durante los viajes de Keiko Fujimori a El Salvador y España",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnl4LWtCdWdSVUpLY1V2cGE2RDhDVVRwMTJBUUs4QWhfbUp6ZWNDSmhVQ0tKWEVaVVlHY0t3V25CNnhTU1E1NWJOWjE3VzNEcjJOeUVNOXRZeDVWeWdNQ1FZQmVwZmxyRHZUTEloY0g3T0dwank5ZG12RXhRMDBIdGZqcGFxd3I2QXFYUGlB?oc=5",
-   "date": "2026-10-27T15:17:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "803d19c77113",
-   "title": "Las 5 del día: presidenta Keiko Fujimori viajará al exterior y encargará el despacho presidencial",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY08yODdOQkpMcVFSVXBmOGRwcnZITWdJZlV1eUdGTXJkYldlbkhkZDF4b1llTGlqTk5iLURtdy1LRzB0YkFvT3AyaDgxaC1GOHI0Mi1OeFRjX19PdG1KMkU4ejBaYnI2SHZWU005a2g3aWMwMVM2MHJaWmR3TGJCb1VVUUJlT2dvdi1CVVd3VWdPUjBqSWp2RjEzN3hEZDdienY0cDFrblQ0eVY1V3k0am1WU2VFQVZrNDVwaDVTeThHNjFwWEhLemVsN1lEMzhFOFE?oc=5",
-   "date": "2026-10-27T15:14:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b3a5f4b444c8",
-   "title": "Keiko Fujimori: \"La llegada del Papa la recibimos como una gran bendición\"",
-   "excerpt": "",
-   "source": "ATV.pe",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02N1NJLTlzWUxOQ1VxS0VkbVJvNWxDS0pSV01xV2REYTNUXzRCc0FzNURYeWJTNGlzX0tWWEhXazExSGRQYWY3bzFyZjRoUlNDd2k4WTZ4d3JWYllFZnNVRml3TUozdFJMTDY3ZENlZ2dpZU9wRVNB?oc=5",
-   "date": "2026-10-27T14:57:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
