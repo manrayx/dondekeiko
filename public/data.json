@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T10:44:29.440607+00:00",
+ "generated_at": "2026-10-28T11:06:32.126319+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,6 +286,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "01fd6136666a",
+   "title": "Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTDNoNTl5X05DcV9nVGNsMDM1SmhGM2w1RTNOdUNqWUlfREpNVTU2eWZvcjZna3NnMmFlVDNYMXA0UXVFemRaTDBtUkx5Wng4V1hZbDFGcXJ2QmVEZE5lRXpPX0RSUGZSVmVtRl9TWHp6dDZrRVRkUXVtY3VuUXdadlQ0ZGR0aWZIZFdOOGhaTkFRbDFnNDJxMW5ZTjJFRkktUWpCUTZkczJEQzZaQkVKenpQdnc1MHFaeWtkRHRCanR4MDVLQ3F1MjFxSUpXaF9BQV81ZHZRSzE3TVpaa3NuekZuV0t0OEQ3ZFFMSDYtemp0SVFQbVpFUXZEdXYta19OaWZrOTdvTFNTTEpFdVln?oc=5",
+   "date": "2026-10-28T11:01:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f2f063bfd846",
    "title": "Presidenta Fujimori: S/6,000 millones se destinarán a construcción de colegios en 2027",
    "excerpt": "",
@@ -452,6 +463,17 @@
    "next": null
   },
   {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
+   "date": "2026-10-27T22:38:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "57c8b4ea58df",
    "title": "¿Qué dijo Keiko Fujimori sobre los recursos transferidos por el Congreso?",
    "excerpt": "",
@@ -524,17 +546,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3U1cnRXQUFsRmpMVEJ5dl9yMzlvbFF6WHhicnBZYnh5RDJmR0pmTlRRUm9wUzhicUhtVlFscldoZ3VYYXU4YVZJYW1SVTRyQ0QwRjg0bzJsNGtFOXozb3ZsQWxIbTRGam1ldVluVVJJZmdPTi05dENoRDQtZnpabEZpZDhsUmFjemVhNVFIMWhTSzFxVWlPdFVpaURHeFdnMmZxeHkwZW0yblYyYkg1SnRvNjNlUW5CQjNtQS1VbG1WZw?oc=5",
    "date": "2026-10-27T20:04:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
-   "date": "2026-10-27T20:01:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -848,17 +859,6 @@
    "next": null
   },
   {
-   "id": "40e77490c316",
-   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
-   "date": "2026-10-27T14:54:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
@@ -947,12 +947,12 @@
    "next": null
   },
   {
-   "id": "d5cc4d2d2209",
-   "title": "Presidenta Keiko Fujimori coloca primera piedra de Institución Educativa en Santa Anita",
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
    "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3d6b0oyMXZhNy1EeTM0YVByOVJlaE1xNU1wa2dGYWpVcUFFVTNqRmVBa2NWeVhqdFRzM3VmUVpzQjBjQU9udHV5emFob2xYVEpKamZwSUxBVTdjYTN5NmN4SUV4U3VPZS1pSllWQjh3a1FxQVJONTM2UzZLWk1abWtuY1l2UHdQLXFrMGlveVJJWTRQU1ZVN0sxSC0yZVhYNWJwT0JSTXlXQndDTDE3T2xGSmM2MG9YOXRsMUxKOC0?oc=5",
-   "date": "2026-10-27T13:49:00+00:00",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
+   "date": "2026-10-27T14:05:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
