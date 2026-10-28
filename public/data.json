@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T22:15:00.488129+00:00",
+ "generated_at": "2026-10-28T22:37:02.768209+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -285,6 +285,17 @@
  "agenda_minutes_7d": 504,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "6a41305da7ae",
+   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele",
+   "excerpt": "",
+   "source": "HCH",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LNkRfeHVyY0lWSVRGdUtoN3YtUzJERkxpMGR4UHFtX01yUzhnVzlqM1hON3YtZlN6YTNBbE16QlhsdFI0Qmo0ZnluaDNfcHJDWF95RGtqRVFYWk1tR3c?oc=5",
+   "date": "2026-10-28T22:34:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "82468b03db5d",
    "title": "Keiko Fujimori viajó a El Salvador en medio de crisis de inseguridad",
@@ -804,6 +815,17 @@
    "next": null
   },
   {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
+   "date": "2026-10-27T22:38:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "57c8b4ea58df",
    "title": "¿Qué dijo Keiko Fujimori sobre los recursos transferidos por el Congreso?",
    "excerpt": "",
@@ -892,17 +914,6 @@
    "next": null
   },
   {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
-   "date": "2026-10-27T20:01:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "58ff1a2324d1",
    "title": "Keiko: “Estamos GOLPEANDO a las ORGANIZACIONES CRIMINALES con el COMANDO UNIFICADO” | Trome",
    "excerpt": "",
@@ -942,17 +953,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/27/luis-galarreta-asumira-el-despacho-presidencial-durante-viajes-de-keiko-fujimori-a-el-salvador-y-espana-hnews-2097306",
    "date": "2026-10-27T18:34:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3ced2e8f253b",
-   "title": "🔴🔵 Keiko Fujimori celebra confirmación de visita del papa León XIV al Perú",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3JjUEFUakJsZW9DM3BETG9rM19CZ2VISVV3Sk1PazBMYnVuX1dpaDJGbFM1dEg4aVI5S0JJTmV2UXNDVnRwWS1oTVl0WEZZQ3pIZDd5TUt1czczcFR3dEFUQVYtMzM4NnMzUDgyMEpsLS1HcEs2VGNKNV9iTDNUUlpiNV9pNW1EZW5COUtPY2thaXVsTzMyem9qNzQxTnN3anBFQWFUdVYxUl9PTmk5S3pRZzVaa1JXX29PZA?oc=5",
-   "date": "2026-10-27T18:31:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
