@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:49:31.739118+00:00",
+ "generated_at": "2026-10-28T21:10:39.434940+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,12 +286,56 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "016059de2049",
+   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
+   "date": "2026-10-28T21:08:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ca9478ee190c",
+   "title": "El Salvador: Keiko Fujimori se reunirá con Nayib Bukele este jueves",
+   "excerpt": "",
+   "source": "Gaceta Perú TV",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHNNWjBjVFpxX0tNQ1B1RnFnSG1UOUh2NlBlSVJqMWpTSG1wRkxVRzZRczV6ZWVMWHQwX1hSWnpBTkVwOVdzWTlGRUx6RnRBTTNpbTh0VFk0eVdSVEw5MHpsbnZsMWF0UmQyN3BLbkk5VUw0QldRRnp5WXFsYzl5dzV4Q0JBbnI0V0h2cWtPbkZtSG82YjR5dFRia3AxR09jZkRkTWtR?oc=5",
+   "date": "2026-10-28T20:48:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f05b8124f889",
    "title": "Esterilizaciones forzadas: víctimas rechazan el archivo fiscal y exigen justicia para más de 4.000 mujeres",
    "excerpt": "Pese a que el Ministerio Público reconoció que se cometieron crímenes de lesa humanidad contra 4.172 mujeres durante el Gobierno de Alberto Fujimori, archivó el caso aplicando la Ley 32107,…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/28/esterilizaciones-forzadas-victimas-rechazan-archivo-fiscal-y-exigen-justicia-para-mas-de-4000-mujeres-hnews-993832",
    "date": "2026-10-28T20:38:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2fea8efba716",
+   "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVBrWWJsU1dzaUlDTm9JeGQtV1ZpeHB6ZTJuMFEtcGNsQ3NBaVNuS18zN3ppNndqNDRsSy1Pakd5dnV6em9hQThIcThPaDlGSWlXNmtBTFJIMWZpSVFvZlNFOERoYklrMzVDeXp5NHF2TllmRGR6dDFMbnZEX3pqYUpVTWZmcUk1VkVMUnRjVG8wU2tKYTRjOTMtTXVWdGRqNFpEaFpFZHlqWjhYamlPZEpTaEc4eF9pWnZnadIBwgFBVV95cUxNQ3psSVVNR1Bjb0NLajh3QnFFc1phMWN6TWpoSlZ3Z1JST1VjQ2xzazBUaEtzRVh0em8xVW5qR2tXc3h2QWliTWxMS3duRzJneWZScHN5YW1zR3RCMEdpNEIwYi0yc01mVHk3S245a3JJcGdFZHVyOXhJOElCZlNwMnc3YTN4UGIyMHRraDdpdFZ5bksyMExoUU4teEl5cmhGWEdSNkJzMnI5U0ltaF9XMXJsWVVMTUxOWUdqWnR5NFNXUQ?oc=5",
+   "date": "2026-10-28T20:37:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7832119bb7aa",
+   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele y conocer su megacárcel",
+   "excerpt": "",
+   "source": "Noticias SIN",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1RZVjZkVEhVQVJBeUMxVlZ2dC1zWFJxc1JFX1psVlhSQnBEdk9QQlFST1hxdVo2b2IySjJBR2g3Sm1fRC00bW5WRjZyUGRrWWs3QzVRT2NaanB5TVRsZExiQ21LMHBSMWlmbk1hRFB1eHVnNThpWE0zb25WNzBTdmI0STBNOW16WkxWM1E3S3hZcUs4dzR5bG80dllaMGh6MGUwZzUxOUFzZkkwX1ZSUHJ6NXNlNjTSAb8BQVVfeXFMUEJRakdQZDlEWEl1T0RPT0hwUTZuWVJhMV9GTGstQmN1NVdicnVrY09DWUw3Szl5YVRlMUZFdjloXzhmN09HUkVYSExEYjJNRy1ZdlNnQmRibkhEZmpnR2xqNlNMQVBrSFh0c3lFaW43SHc5dy1oTTRLUmFUVmE3ajhqZUM1aldSR3JwU3V4REtqUU0yUHVxdlJtT1Mwc1poa1FFNTlPN1gzTGlpcExHWTVzR2VMdWlJRXJUTFRuems?oc=5",
+   "date": "2026-10-28T20:26:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -325,17 +369,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
    "date": "2026-10-28T19:50:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7832119bb7aa",
-   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele y conocer su megacárcel",
-   "excerpt": "",
-   "source": "Diario1",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWVmb2xzTTdyU25Nb0lXdnVrZXJ2MGVIc05odlR6bGFPTDFoaU05SUR5aWVOeEc0WXI4Qjk4NWVoaldTNVlOMmdpSTFnTk9yMWlqOC16SXVsT3JfUE9CMFNpdlBNUVU0akJFR0JtamJoQWNVOFVpbWVPTElrM0M2R09UVXFTdVVSQVNPQnY1SHFPNExsSTNpZmhaa2QwYW00NlRoTHVCcVdJMEV6NlFOMXhiZGpPM09pTVhpUDd3?oc=5",
-   "date": "2026-10-28T19:26:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -378,19 +411,8 @@
    "title": "¿Qué opina Miguel Torres sobre el viaje de Keiko Fujimori a El Salvador para conocer su modelo de seguridad?",
    "excerpt": "",
    "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdmp0Q2tNcjBDdklwMWhUdXFQYW14SjRKbzdDa0ljclVUNHYwb0xGVV9JYldVOWN3cUZqZmFJWEN5Rkp5amNLN0lpblNjUlRKRVZ2Y2hDZ1pvVFRJaDZ2bGthcjg5TUNaT0dzMGRfUlRubGc2WC1oOGNERzBEeXQ3MmpIZVh0OWZ3TVVKanBiM0s1X0RGallxV1pPeE5tYXE2cW5jeS1IVmIxbGZ6Slg2VmFac29oMGMtaktBVmNvTV9MY056V1U2bmlndEZ1SmU0MnVKbjJRMnIwUDFI0gHcAUFVX3lxTE12anRDa01yMEN2SXAxaFR1cVBhbXhKNEpvN0NrSWNyVVQ0djBvTEZVX0liV1U5Y3dxRmpmYUlYQ3lGSnlqY0s3SWluU2NSVEpFVnZjaENnWm9UVEloNnZsa2FyODlNQ1pPR3MwZF9SVG5sZzZYLWg4Y0RHMER5dDcyakhlWHQ5ZndNVUpqcGIzSzVfREZqWXFXWk94Tm1hcTZxbmN5LUhWYjFsZnpKWDZWYVpzb2gwYy1qS0FWY29NX0xjTnpXVTZuaWd0RnVKZTQydUpuMlEycjBQMUg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVQtdU9EWDVVWkg4YUlwWTBxTmM3T1U1bDdJanB6U05HWUYzSUZRb19ydjdSZHB4ZjNxTmttdWFQdDN3QzlkdGltVXUwMGNjVXlMaTZUU3lKOHJnRXI2aXNvNnN1VWZ5YmhUUEF2elNFc043dE5QanJSQ1JmM0ZCc29rNUNxaUl1OVBoak1CdVQ5MDBZcGRpeTJqUTh3M2Jxekw0MTYtV0ZWbEhGTURLN0VRSHBKZFFlS1VZM2FlbHN1Zjh5SktyTmF1SGFtblJDYW5jRGdqY9IB3AFBVV95cUxNdmp0Q2tNcjBDdklwMWhUdXFQYW14SjRKbzdDa0ljclVUNHYwb0xGVV9JYldVOWN3cUZqZmFJWEN5Rkp5amNLN0lpblNjUlRKRVZ2Y2hDZ1pvVFRJaDZ2bGthcjg5TUNaT0dzMGRfUlRubGc2WC1oOGNERzBEeXQ3MmpIZVh0OWZ3TVVKanBiM0s1X0RGallxV1pPeE5tYXE2cW5jeS1IVmIxbGZ6Slg2VmFac29oMGMtaktBVmNvTV9MY056V1U2bmlndEZ1SmU0MnVKbjJRMnIwUDFI?oc=5",
    "date": "2026-10-28T18:27:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "016059de2049",
-   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
-   "date": "2026-10-28T17:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -639,6 +661,17 @@
    "next": null
   },
   {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
+   "date": "2026-10-27T22:38:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "57c8b4ea58df",
    "title": "¿Qué dijo Keiko Fujimori sobre los recursos transferidos por el Congreso?",
    "excerpt": "",
@@ -722,17 +755,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3U1cnRXQUFsRmpMVEJ5dl9yMzlvbFF6WHhicnBZYnh5RDJmR0pmTlRRUm9wUzhicUhtVlFscldoZ3VYYXU4YVZJYW1SVTRyQ0QwRjg0bzJsNGtFOXozb3ZsQWxIbTRGam1ldVluVVJJZmdPTi05dENoRDQtZnpabEZpZDhsUmFjemVhNVFIMWhTSzFxVWlPdFVpaURHeFdnMmZxeHkwZW0yblYyYkg1SnRvNjNlUW5CQjNtQS1VbG1WZw?oc=5",
    "date": "2026-10-27T20:04:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
-   "date": "2026-10-27T20:01:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -931,28 +953,6 @@
    "source": "RCR Peru",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZExGTm5ubWdwbnZpMHhMMXJmVS1RMEZ4X0JGR1pjX3dyOHlidVZfVi1KMEw4MjlCWmV6UHNJcEszQ1NIdC03NDd4YkliSVdRV1BnRzJTOXllaWt5ZDFKZ1VUa1ZfNVJCdnkyb0xIdU9uVjZJV09feV9KZDVKX3Y5TW9COTFfc2RPYlMtV2RuTU94QzNveHFqQzVHd2RFeUJWS2kyWHgzOWwwN2VzT19wUk5KSDdxbEZzN3FEU2FjY2ZXM0FmRm9Ia0xIelFMSm9qTmJF?oc=5",
    "date": "2026-10-27T16:42:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7c571422013c",
-   "title": "Tren Macho solo opera con un autovagón y la locomotora anunciada por Keiko Fujimori está en reparación",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2c0Y3NyNFZJckxkOE5jT2ZZZWJidWNJQkZrRTkteE52YkpqRGZCbUloQkcxc1R1b0MzTm5oejZLWHVsVXpsQWJvbjFkTnZyRHNiNm9xa0ctVFVzYXlNZk9NQkpidHZlM1RWcWQzSUtqbmhOeF9sc0JONGFpcmVYa2dEMTVSQ0VGc1E5UjNCa1lfRGtUN2JHTFpUZy12TmVkUTJ6aFI0b3p2WG51cFhMNmg0di1kYU1PdkVNdmN3YmFvR3ExaW1VWg?oc=5",
-   "date": "2026-10-27T16:39:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4983f81e367d",
-   "title": "Presidenta Keiko Fujimori coloca primera piedra de nuevo colegio José María Arguedas en Santa Anita",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDBlRXE1QXlLVW9oWVBORVkza1lTNkEzWnctWjZBdEVsR2U2WVd6Z0lXT2JRNTlEc1FzOHVQY3VoUGhFNkNtc08tN082TXVKZnhHSzNBbGU2SlZzaGpZd0VmSGN2elRBNnkxQUIxLXZ4YkZ5cUNFdWtFOUh2c2hmOXhsdmFOOTRMLWtGWjVXRWNiNHp5MDd6M1k5UWRoekhEdDNERW5DZHdpTlpuZkpJdGZBaHJ1QkNIdUtvOUE2SE9LTEptbk5PQlhITXo2dzRjNUlIdA?oc=5",
-   "date": "2026-10-27T16:14:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
