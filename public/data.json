@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T21:10:39.434940+00:00",
+ "generated_at": "2026-10-28T21:31:48.183587+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -285,6 +285,28 @@
  "agenda_minutes_7d": 504,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "55693dddbeac",
+   "title": "¡Keiko Fujimori viaja a El Salvador! Se reunirá con Bukele y visitará megacárcel CECOT",
+   "excerpt": "",
+   "source": "La Decana Radio Juliaca",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2hQWHdoODNPX1NOa1Y0UEo5cmx6U21reGxEMnVSdUN3TE9pdllOMnpCLXg2MTZIdzhJR0Q1M3VUOG9KRDR4RzBKUTNBVUlac2oyeUZOSXRBUWJDcTVid1dLSXRLUW9iOGJ5a0xORHAzTVlZRmtmUjlQOUUyQ2piMEo5SnNfSHFwZjduRTlDTFNTaTM1VmVGNHNoRWdiampObnR6YkM2SENHNVh2aHNmZVduajBrN3FMU1hVMmV6bzZnVDBKREJoc1ZtQQ?oc=5",
+   "date": "2026-10-28T21:17:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1b81543c8dcf",
+   "title": "Keiko Fujimori llega hoy miércoles a El Salvador para conocer el modelo de seguridad de Bukele",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFBweGhqMFVIZnZIUzBxVk1ZYlgwWWRkUDN6bGIyR2xneHJiTHdtcDZYVS16V1d4QnY0MHB2VDZLY29RRVhCWDRjY1pUekEyaVNoX3d0T0VoZElQd3UwVGtUdzJQaHVQVWhYdFVZUWx4dWoxQjBkSXN0OXNMRnNLQmJwSWx5cVRKd0ZuOHg1NlVZWDRuSDVTclJpVFRQZnBzR296bTdKRVFZMU1JZDl6cmY4ZTR2TWxOTE9YOFR5ZFhiQXlQQ2taTnYwcnAtTE5OdHl3WnQzbkptd9IB9AFBVV95cUxORnhPNkVCVkFQc2lzVjJ6UTgzMlVjTklQakh2TkhPWEZYU3lsRHh2YVFLS2d5Wkp2MTl1SXBIcjRtS0VFUVBiQXJPS0xpamVpYTczbVNkVG1fUm1Gd3pyRkxaTG9EVnZORXBKakdQS0RnYU0tdkk0cHB1U3VnVG1DcFR6Z0hfNE9GdWE1V2xpaHVJdHRQNURJSHNIOWRfVW12VmVXMU1fSm9ERGVfdklrVDlBNUpaUk9NTmVla3ZPYlRwcmlGQlNHUTB4dFVDSl9ORGR0enYzdHkzUXpYcldReEczTGFuQ044YjVVUnJwS3o3cTdz?oc=5",
+   "date": "2026-10-28T21:16:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "016059de2049",
    "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
@@ -661,17 +683,6 @@
    "next": null
   },
   {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
-   "date": "2026-10-27T22:38:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "57c8b4ea58df",
    "title": "¿Qué dijo Keiko Fujimori sobre los recursos transferidos por el Congreso?",
    "excerpt": "",
@@ -755,6 +766,17 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3U1cnRXQUFsRmpMVEJ5dl9yMzlvbFF6WHhicnBZYnh5RDJmR0pmTlRRUm9wUzhicUhtVlFscldoZ3VYYXU4YVZJYW1SVTRyQ0QwRjg0bzJsNGtFOXozb3ZsQWxIbTRGam1ldVluVVJJZmdPTi05dENoRDQtZnpabEZpZDhsUmFjemVhNVFIMWhTSzFxVWlPdFVpaURHeFdnMmZxeHkwZW0yblYyYkg1SnRvNjNlUW5CQjNtQS1VbG1WZw?oc=5",
    "date": "2026-10-27T20:04:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
+   "date": "2026-10-27T20:01:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -931,28 +953,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmtzUUxmVlM1MFBJeUhpclRjb2c3NGtlWllNTFhKX201TG5oVmJ6TTFXWFNVWm9Pd2dCMVRDdWlDLVJDRGRUN3hxUFBHcVQ3ZzZqNDJXVTlhQk5SM0Y1ODVGRW1POXZXT0t2aFZZR0xmaC12OFF6LUZLeGJabHUxOG9oaE55LVhPYW5sem9ZVXphZVlQbzNsUWNmVHJXZDM3ME5wMkdXeFBEaHPSAbABQVVfeXFMT3ZhajU2Z2xNQ0RMWk9iR01Ha0MzRjRPdkwySUxuYmRzdnlNejJrU3Q4cG1leVFrNFdiYnhHNUptdUc4U2VSUmNEQ1pBRk5oUXNtOXl2QzdmNHdlQ0xEa2RrVTZiNlVQZGZjRHM0bUtJekRUaGRGN21meUljNG1zRHViajgtaTJQRW11cVNmYUFhanhyZE55bVVMZ1lMZ0JQbEl5aDhmV1hnb3RESEN2ejM?oc=5",
    "date": "2026-10-27T16:47:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "00d0b495d385",
-   "title": "Keiko Fujimori y su nuevo mensaje sobre llegada del papa León XIV al Perú",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnN1dVhQekJSVDFMQmtNaFhMSHpzQjQtVEw5elZkVXZZdGR5WHFVaEFwOTdnbDVOVzNHTHNBZlVEYWRNODd1UUlnQjk2V0J0QXRVdnJreFZzOG1jd0lSWm5QN094RDRRcWV3N3gxTko2Rm9lc0F0ZnBTYm83U1hwR096MnpWVEwtZ19Dd3cwRVlRQnE4cWR6MnpaNHV0NmJqSmk4SlIxUTZveE1naUtya1RpWUpKaDVuUmRRbGdmaUhvM1k1?oc=5",
-   "date": "2026-10-27T16:45:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "76dbba3b4770",
-   "title": "PRESIDENTA FUJIMORI DIO INICIO A CONSTRUCCIÓN DEL PRIMERO DE 2000 COLEGIOS QUE SE EJECUTARÁN DURANTE SU GOBIERNO",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZExGTm5ubWdwbnZpMHhMMXJmVS1RMEZ4X0JGR1pjX3dyOHlidVZfVi1KMEw4MjlCWmV6UHNJcEszQ1NIdC03NDd4YkliSVdRV1BnRzJTOXllaWt5ZDFKZ1VUa1ZfNVJCdnkyb0xIdU9uVjZJV09feV9KZDVKX3Y5TW9COTFfc2RPYlMtV2RuTU94QzNveHFqQzVHd2RFeUJWS2kyWHgzOWwwN2VzT19wUk5KSDdxbEZzN3FEU2FjY2ZXM0FmRm9Ia0xIelFMSm9qTmJF?oc=5",
-   "date": "2026-10-27T16:42:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
