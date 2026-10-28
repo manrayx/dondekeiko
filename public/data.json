@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T08:56:03.838746+00:00",
+ "generated_at": "2026-10-28T09:17:58.998021+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Puno",
-   "lat": -15.84,
-   "lng": -70.022,
+   "name": "Madre de Dios",
+   "lat": -12.594,
+   "lng": -69.189,
    "abroad": false,
-   "city": "Puno"
+   "city": "Madre de Dios"
   },
-  "source": "TVPerú",
-  "date": "2026-10-28T06:34:06+00:00"
+  "source": "Panamericana TV",
+  "date": "2026-10-28T07:14:11+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -286,6 +286,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-10-28T07:14:11+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
+   },
+   "next": null
+  },
+  {
    "id": "f1876100dab1",
    "title": "Presidenta Keiko Fujimori se compromete a destrabar obras en Puno",
    "excerpt": "",
@@ -309,6 +326,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1dMWHNqRlpNTHhSS21Tc0NzYk1zUVYyYXJ2YUdRNjZyb19zR01kZ19TQjU0RjJaUTVhWGVnX2FiSS1VaHZjSXptdWotODZuNktYbERNUDBDRnNnYXQ1Zmd3YXp6Y2J0YzB1YURhMEpzZkJ6LXgyYjhVOVdjcGNjMmdHakdJRnBEc1FBa2hMMzNiRTB2aHB0M2YweVUwcHp5bmhDZlBfZi1aai1TVUlIb055VGlNWW8yOTRrNzdB?oc=5",
    "date": "2026-10-28T06:15:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3848cd80b5be",
+   "title": "Keiko Fujimori anuncia balance a 100 días de gobierno y llegada del Papa León XIV",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZjA1RkwzOEtjdkpaRFltbENLc01mdVRuV3Q2NVpFZkJwblNQOXBBLThKSWVnZFZCaUpjN25lU1dvcmlhTnpUaElxdUIxMlJZNjFzVV84SFJWaVlXYk5YRFlsN1RBOXBxNzFnS0FMWWh2aU5fUXZrQThncFRnb1I3d29ramtJVTZCN0s0MUU2cVVmczFTUTJ1OEJvb0tXSjRtam50THNXb1ZVaXAzTjlRMDVaT1hFUUZBTHdyUg?oc=5",
+   "date": "2026-10-28T06:03:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -364,6 +392,17 @@
    "source": "Noticias Trujillo 60",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYV83NTZTa2s1N091aTdzenpHdW9XSmtKZVdDcWdjNWhiTzFkMGlkYzJ5ZWd0a0VvdnR0UjgtdUlCeWJvbDktc2lYQldQOTdGR2Y2S1pLR1ZzM3FQa25xcXZyMFpLaHlVU2pQOENHdERzTEE1bDB4MDctR3hnWjc3dVNBTnp4VUpQeG1TamFJcUc3eGtGS1E?oc=5",
    "date": "2026-10-27T23:42:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
+   "date": "2026-10-27T22:38:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -441,17 +480,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3U1cnRXQUFsRmpMVEJ5dl9yMzlvbFF6WHhicnBZYnh5RDJmR0pmTlRRUm9wUzhicUhtVlFscldoZ3VYYXU4YVZJYW1SVTRyQ0QwRjg0bzJsNGtFOXozb3ZsQWxIbTRGam1ldVluVVJJZmdPTi05dENoRDQtZnpabEZpZDhsUmFjemVhNVFIMWhTSzFxVWlPdFVpaURHeFdnMmZxeHkwZW0yblYyYkg1SnRvNjNlUW5CQjNtQS1VbG1WZw?oc=5",
    "date": "2026-10-27T20:04:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
-   "date": "2026-10-27T20:01:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -776,17 +804,6 @@
    "next": null
   },
   {
-   "id": "40e77490c316",
-   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
-   "date": "2026-10-27T14:54:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
@@ -875,6 +892,17 @@
    "next": null
   },
   {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
+   "date": "2026-10-27T14:05:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d5cc4d2d2209",
    "title": "Presidenta Keiko Fujimori coloca primera piedra de Institución Educativa en Santa Anita",
    "excerpt": "",
@@ -925,28 +953,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/encargan-despacho-presidencial-a-luis-galarreta-por-viaje-de-keiko-a-el-salvador-y-espana-ultimas-noticia/",
    "date": "2026-10-27T12:46:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3baf2c75bbd7",
-   "title": "Luis Galarreta asumirá la Presidencia durante los viajes de Keiko Fujimori a El Salvador y España",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU29PVHl2elQ2T1p1eXZfLVd1MUJjazBBT1VxbE83TTlvaF8wcHl2Rzg0Rm1VWkJMelBGRkoxTm9KOHpxN0JGUU5nTnpaMGhocGNnVFp6X2tqX2dWZ2p5VEdjckdObkJoVFdZLTM4Qnd5dzJaNXhLM1RrVUdCNmRubHUzaXVpa1N4QWZTelY3cHg0d1d5T0hkVXZLamFSSW9HRDJpUzNUQldOVDdtZ0xqdF90QndseDN6d3JhZllLaVVudDdEQWQzalp0SGk4YWc0cGN2Zmtn0gHqAUFVX3lxTE1lSS1Fb05aNGthTWRzY3hIV1dMdWRGbTJ6d3UtcEpjb2tiSEpCQ05mTkRUUkV4RDduRXc0V0psZkVYSEdTUVl3cW9xbFNoaWVDU1FmNFBCNHB4TDdDSFRDUW1pRGdvYlpHckJKSDN3UzNzWTRvWmcxekExWjBVSFhjYWZENFNLc3BGTm92Q2pBVFF2dHBJQlNCeGFIWlVUWUk1YkdQcEh3cVdwM0NxSWhZZjJqaEJyY2p0cjdwV214azF4cFhUNlFGTU9TSVJPamYzMWo0OXNKYVZuTjRqS0ZhQmotdWgzQkgydw?oc=5",
-   "date": "2026-10-27T12:27:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "94b38565b5c9",
-   "title": "Keiko Fujimori viajará a El Salvador y España:...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdE5OdFU4UGhlUk1xM01yTFYySTc2MVZLTFBFOEFXZGIzYjdQdmZXQ2pHWHhBSUNsaE1COXpJZk1LRlU1bnM2RlpKd3ZMeF91ZFk0czJDU2MxX2MwRGtXZ0RYWFBiWEJkUzl1bjdsUU1RbF9YaDA1YXlfTVYtX2QtR3BwbWN0dkNCMmhvLU1NQjh0TUNzNUhMUUNZSlB6Z3ZMekUyNk5jNVFmcENUT1VrRkZ3MU4tdGR2VzdFYXVGOEk2d9IBxwFBVV95cUxOYkNXVk9mcl9odTREN0VRN3d3WmdhcUtxUU85Rk4tV2lsY09nUk16cjJlVzJTaW1sdHVad3JCcmJrNTgtSTNsSmZuYTBaN1hCMEczVEhiZEhQcVVRNG5JdmdQdDlESkw2REdiSmJqVmpfVjVFMXBKTzJNRDZTSF9uTFBZRzlDdkdyeGdkYXU2QldKT2VJaUtGTzVsYng2eXBNel9tSkRKbk1BZkV4Sk1ZUndvRzdFVGVGM1J6SFBKTG9JTnRjS2pv?oc=5",
-   "date": "2026-10-27T12:20:49+00:00",
    "state": "posando",
    "place": null,
    "next": null
