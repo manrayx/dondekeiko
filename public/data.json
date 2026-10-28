@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T19:23:52.661867+00:00",
+ "generated_at": "2026-10-28T19:44:58.009011+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,6 +286,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7832119bb7aa",
+   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele y conocer su megacárcel",
+   "excerpt": "",
+   "source": "Diario1",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWVmb2xzTTdyU25Nb0lXdnVrZXJ2MGVIc05odlR6bGFPTDFoaU05SUR5aWVOeEc0WXI4Qjk4NWVoaldTNVlOMmdpSTFnTk9yMWlqOC16SXVsT3JfUE9CMFNpdlBNUVU0akJFR0JtamJoQWNVOFVpbWVPTElrM0M2R09UVXFTdVVSQVNPQnY1SHFPNExsSTNpZmhaa2QwYW00NlRoTHVCcVdJMEV6NlFOMXhiZGpPM09pTVhpUDd3?oc=5",
+   "date": "2026-10-28T19:26:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5ce98bdaf44c",
+   "title": "Presidenta Keiko Fujimori viajó a El Salvador en visita oficial",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakJsaEFYaDZGaUEwNWdDOEVSVHFHSjh0NWdhbGc1MEo0YVAxYUVwM0tyNEttb25mbWpIRUdWQzRWUnREdGczQzdIV0hRYUpIV3Fjd1R6aEg0b1NLR2NyQW9jX2JNVHllSVkxTm1fUVloWGdvOUxWdVVQTC1Da3FiTU13WmRBLXBuMFdXRGtkUmNQdzQ5SDkyWkhQMVNDS25ZVE05OHRVVQ?oc=5",
+   "date": "2026-10-28T19:21:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2bd6991ff108",
    "title": "Miguel Torres: Viaje de Keiko Fujimori a El Salvador debe servir para combatir inseguridad",
    "excerpt": "",
@@ -314,17 +336,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
    "date": "2026-10-28T18:52:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7832119bb7aa",
-   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele y conocer su megacárcel",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVFlvX2RVUktqaE9QUGotRUNGemx3djgtNVlKc0IxcTNRMk9fSWJkeXJ1R2Zsall1MTN0TG8xWU1WUXkya01tS05xWVpGLXlBdFFTWndIUXVaM252MnVEMldnMXFzdWpJVnBFWEdvUm90RXplYUZRN3lGZXMzUjFjUmJ5a2xDVVhGX1N2MVcyZnUxOUQzZm92QjBraGp3VWdKT2RoZ0R2TnlSaTNrT0l1S0VBUU5tU2JIdVRHNkFaZ1JuOEtsYkMteUtwUVlRUV8zeEHSAewBQVVfeXFMT3UyR2Q3cmhlNFBCU1I3UEZtR1pjQWNLOFV1Mjd1Y1JlMGhLdzl5NGJiR2p6NnlOV1V4NFVIcXdQejFDVDcycUY1bHcybm1TdlM1ZzR2VEt6Q0kzSlFmNEVwQk9sQk1pX21NWlpwMDMzWUZLNXhOVWpjVW5yZ19Ic2Q3VWN3Y1IyNTl4OVI5RUU2Vld5NFRCaU52dFJuWmhwckVfWjI5MzItSVNJWC1tQ092d0V5M3pYcE1scWlzM1haejRuQXFPejZSX0tjSTFNYmdwejJZbDFNOVR2UmhwRkpfcWRkZEViQmtDV0E?oc=5",
-   "date": "2026-10-28T18:38:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -942,17 +953,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/lima/seguridad/keiko-fujimori-estamos-golpeando-a-las-organizaciones-criminales-con-el-comando-unificado-ultimas-noticia/",
    "date": "2026-10-27T15:43:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "81e8da9eacf2",
-   "title": "Lula da Silva responde a Keiko Fujimori tras saludo: \"Podemos fortalecer la integración regional\"",
-   "excerpt": "La presidenta peruana y el electo mandatario brasileño coincidieron en impulsar una agenda conjunta con Brasil, con énfasis en el desarrollo sostenible de la Amazonía, a puertas del bicentenario de…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/27/lula-da-silva-responde-a-keiko-fujimori-tras-saludo-podemos-fortalecer-la-integracion-regional-hnews-687879",
-   "date": "2026-10-27T15:18:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
