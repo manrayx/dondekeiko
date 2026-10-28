@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T01:31:37.831316+00:00",
+ "generated_at": "2026-10-28T01:53:28.337392+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,7 +94,17 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": null,
+ "last_place": {
+  "place": {
+   "name": "Puno",
+   "lat": -15.84,
+   "lng": -70.022,
+   "abroad": false,
+   "city": "Puno"
+  },
+  "source": "TVPerú",
+  "date": "2026-10-28T01:37:01+00:00"
+ },
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
@@ -420,6 +430,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f1876100dab1",
+   "title": "Presidenta Keiko Fujimori se compromete a destrabar obras en Puno",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0dLd0lwR21LdFVnNVplSjluY2J5MlJaVnlzMjVlNGlDTi1jeVpBRFg2QUFJbzQyNE85Qm1DVWt0OENLeVp0RXJGZjFxb3BEZGx1c0l2NGhBSWJjZUFacDZHcDRFRU9OVkV5UWUwVDFRSDFqcXNLOTJmWkJMM0QwQ09xcU5BMmNlVnVWeXVuemlCaXZiMXlIV2ppMFV6NGdoQ2NQQUY5WTNsdFBWQWc?oc=5",
+   "date": "2026-10-28T01:37:01+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Puno",
+    "lat": -15.84,
+    "lng": -70.022,
+    "abroad": false,
+    "city": "Puno"
+   },
+   "next": null
+  },
+  {
+   "id": "6f16f1683b07",
+   "title": "Presidenta Fujimori se reunió con organizaciones de Puno por obras de agua y saneamiento",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1dMWHNqRlpNTHhSS21Tc0NzYk1zUVYyYXJ2YUdRNjZyb19zR01kZ19TQjU0RjJaUTVhWGVnX2FiSS1VaHZjSXptdWotODZuNktYbERNUDBDRnNnYXQ1Zmd3YXp6Y2J0YzB1YURhMEpzZkJ6LXgyYjhVOVdjcGNjMmdHakdJRnBEc1FBa2hMMzNiRTB2aHB0M2YweVUwcHp5bmhDZlBfZi1aai1TVUlIb055VGlNWW8yOTRrNzdB?oc=5",
+   "date": "2026-10-28T00:13:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "120ee2da09e1",
    "title": "Keiko Fujimori saluda decisión de Mesas Directivas de Diputados y Senadores: “Recursos serán destinados para atender prioridades del país”",
    "excerpt": "La presidenta de la República, Keiko Fujimori, saludó la decisión de las mesas directivas del Senado y la Cámara de Diputados de devolver S/270 millones al Poder Ejecutivo, recursos que…",
@@ -489,8 +527,8 @@
    "id": "1a7012aac022",
    "title": "Keiko Fujimori saluda ahorro anunciado por Congreso Bicameral para atender el FEN y la inseguridad",
    "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN1hnTVNzcEhENVFWUHphc1JyOFRWY2VYTmlUSFdKandORV9TXzUtR1IwY0QxaDNFd3ZWUjM5eHZDeGRLWXktWU9vVkhnT2RoVGVGcUtCYk5UOW1OR0lTby1SMGoxUFFLaENpUVB6OXFkcjBFNlhEa0YyVkx5eDhjejFQSjNpUXdqdDhyTTZkNE10WFQxemQzN193eEh0YUFzS0RCVm5WVEhiU295dGJoS2ZZNnZDd2F3STRfSFhTX3NwVEtMclFLZWRrTW0?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2k0VXl1eWJpN0c4WUtyQzJ4YTZUdGNkTjhfaU1rY0U2aW9zUkJ5OGJXcnRUV05tam82RVM1NU5NMEdQdWhzZlY1d2N6cjFkdU9iNmY5cmpSUDRhWGRrQVY1OHRacHdWenJnSi1qQ3UySWd4UktJLTRqbjBaNUNOdmdsd05zblVoSmh5WWdyRXNMM01IbkR3bnludVR6WVhFdGRJdmNMczRyenBtT0hUZEd6TzkyWUZsdmNVOGVENEFjTzlnRlJyaA?oc=5",
    "date": "2026-10-27T20:33:00+00:00",
    "state": "posando",
    "place": null,
@@ -1053,28 +1091,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVDdNckE1YkFkWDQxVU14V2pkdS05NGs5Y2EtX1l6bWV5MkNsSUEwNW1FUW1tTHZXdjFQT3pVeUJuVDJqb012R3drWFBJWWllQmNMdk4xMzlQZVl6UmlUaDVfb2dKU1JIamxqWGJmWmtvYXRVdjFQQWJQV3BwdW1NUHJWUVo0LVF2SHdBNHdxckJKUmlQcExNLTZwUmJCTmI2cm5VUkJsRdIBrAFBVV95cUxPMkpCZG1jMXNobEZiV3ZKbXF6My1QMlh6VHB5Zy01WTFvRTZtS1hTbVNQQVNETEh3dlNWV3JrckFkYUp6NllsczlxcVNDM3A2MTZsbGxOdlZaZnNuai1td3p4eTR6Y1FUVW9FUDdzZ0F2YklTc1NBVzdRVlN5VW1PLTlYSm1pblpLVHFNb0J1RWI3c3J2aWpmbmprcEJfQjdNT2ZxVC15YWR2MHFv?oc=5",
    "date": "2026-10-27T08:43:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c394ac203cac",
-   "title": "Lula da Silva propone a Keiko Fujimori \"fortalecer la integración regional\" con nuevo modelo que proteja la Amazonía",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbV8xeXZKZnA3NVZwelRGVU1LTG9iTU1sOHVHd2ZFWHdqWkwtVmxwamJDaW9yWkNjWjlMREZybml4U19PM3U0T0M3R25PUnRZUUE1STdPcnpKUUxWZXphY1ktSUF1S2JZQUJLMW5aWm90UnBodm13d2FuUnFOMTk4dDc3MFpvdHJTOW5EdUgyRnJwekJCTldrSG40NGZQeEloa3puWjA1elRPaDQ2UklZOVpVazVVVl84ZGd0ZEFRM0dPMXhTY0dyYnBEeTllS1JyRndnSldZbmdsaVgxdmhnOEphUHd6VnlOaG1lQnRfRmNtN3Rf?oc=5",
-   "date": "2026-10-27T05:01:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "26493a2c659b",
-   "title": "Keiko Fujimori: Gobierno autoriza viaje de ministros de Salud y del Interior a El Salvador",
-   "excerpt": "El Gobierno de la presidenta Keiko Fujimori autorizó este lunes 26 de octubre el viaje de los ministros de Salud, Luis Dyer, y del Interior, César Astudillo, a El Salvador,…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-gobierno-autoriza-viaje-de-ministros-de-salud-y-del-interior-a-el-salvador-nayib-bukele-luis-dyer-cesar-astudillo-ultimas-noticia/",
-   "date": "2026-10-27T04:43:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
