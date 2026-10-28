@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T02:36:53.727730+00:00",
+ "generated_at": "2026-10-28T02:58:49.670585+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,6 +430,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7ae540d220f1",
+   "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzNQMElVY2hoU0VyRmItYlUxMW8zWFB1N3ZlTEk1WmVRdHBKRDl1aFJreHNYTHJ5eG1YNWM0VEVyR2RVN1lRZW1pRzJvMGZqZFhNWHEtTWgxQ1VrZWJfeWxkazJmUXhmZzREVDR1dHUxOXA1OXJmUk54Nmc3Wi10UFBrT0lGMVd2NDhVNy1aci03RVFicmRvdHlMaW1Rb0NJYzMtV0NrZTNVTHp1MnBGU05xY2ZZZ214MzhGRC1KbndJMExpWVZ3?oc=5",
+   "date": "2026-10-28T02:54:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "018da6f19810",
+   "title": "Lula plantea a Fujimori fortalecer la integración con nuevo modelo que proteja la Amazonía",
+   "excerpt": "El presidente de Brasil, Luiz Inácio Lula da Silva, propuso a la presidenta Keiko Fujimori, fortalecer la integración regional mediante un nuevo modelo de desarrollo que proteja a la Amazonía…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/lula-plantea-a-fujimori-fortalecer-la-integracion-con-nuevo-modelo-que-proteja-la-amazonia-noticia/",
+   "date": "2026-10-28T02:45:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f1876100dab1",
    "title": "Presidenta Keiko Fujimori se compromete a destrabar obras en Puno",
    "excerpt": "",
@@ -508,17 +530,6 @@
    "source": "Universidad de Lima",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUZWVXQwN2QwWkRxTVdhc1RrM094ZngwWDB5WFhFSXNsdXFSSHRYYUwxSl9CZzdIdGRWSTE2UzFSaXBHV2xFVE9lNkJXMWJvQk02Wnh0OU5NTFE1OXk4NGVDendORHpfWWlySEZMNVBzZGtpdC1TVVlrT2dBMnY1ZGFYdVpiQXBBcS1LMnF0eVVYQW5JM1puZjI0ZUE3dTBwdlRB?oc=5",
    "date": "2026-10-27T21:05:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7ae540d220f1",
-   "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzNQMElVY2hoU0VyRmItYlUxMW8zWFB1N3ZlTEk1WmVRdHBKRDl1aFJreHNYTHJ5eG1YNWM0VEVyR2RVN1lRZW1pRzJvMGZqZFhNWHEtTWgxQ1VrZWJfeWxkazJmUXhmZzREVDR1dHUxOXA1OXJmUk54Nmc3Wi10UFBrT0lGMVd2NDhVNy1aci03RVFicmRvdHlMaW1Rb0NJYzMtV0NrZTNVTHp1MnBGU05xY2ZZZ214MzhGRC1KbndJMExpWVZ3?oc=5",
-   "date": "2026-10-27T20:54:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -920,23 +931,23 @@
    "next": null
   },
   {
-   "id": "f59add8fe644",
-   "title": "Keiko Fujimori dice que su gestión está golpeando \"fuertemente\" a las organizaciones criminales",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGVGNXZyaVJ4LU1hSUFveFFGSkdqS29laEpJT21VdUdZTFNtNGg3NVY2dFN3QnYxeTJ0LWI5SmRtQkhtVE04S1owUXBBd3luMm5jeERfSmx4bE5HMEtNZXpPdGZQR1J1eHdFVXduQ21XcVhudkFvNXdnUjgzdE5UZmptV25CaG1BME1saUdLZUVrcE1XRXBaeFNaeFFzMWI3LUpTbVdYaWwtUDBIdGhjU1Bfd2c1Q0o3ZFdRaXNkbmMxZVl3ZnFjUVJpSEhpMmJ5aURGelk5VFgyZw?oc=5",
-   "date": "2026-10-27T14:46:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "68121b6833df",
    "title": "Keiko Fujimori destaca acciones del Gobierno contra organizaciones criminales y anuncia nuevas medidas de seguridad",
    "excerpt": "",
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaF9oQXhyN2dwZDlaOGM1dFpkelBRY2YwNXBGZE5PcXQ0T085aTNmSTNKTjY3WlNxNmk1a1d4TTc1MnZkb2lhMjBuOUZSS2RBaEszcVhPVnpjcWxqNE5DMy1GUk5mOGxUMlhqbDJMVE9iQ1FTX3NIanRNYnF6amxsZ2diSHIyZjNYQjlFN2ZOWDFzcmY4YTh0VmRUbVNMRGEtbGRSZlhqb01IbmFKY3JCNWlvdXhDY0hUY1ZOQW5oMW5FYmttRVlUaXBwV0tMcFlPOGRwYmVEN1BOTHRuRnBCYlRHcTN6cHlvRUpKeGZB0gGCAkFVX3lxTE9CN2ZJa3dua1o3V0o0TUVJcVpvQ2R1YmxZT0plYkRZUkdKSFJxRTZFUExXQVNTcnBuNGIxR0pYUUdSYTQ2Y2pycThvMnU5SFZob0xXRHVqWWoxNlZaQzFjV0NfVDVldkRUOW02cHd3S0JGa2IySk1oQW9ybjl2SDByeW5KTkkza3hOY2JhbUtsdlJqaXUyQmhfa0l2SnBwYnY2ZjRveGxFeUlOOEpKWHl0ZTRkQzQzSjdaZkNQRGZMZ1BOYjFUcXcteWpISkNEZ0VKSXVYc213N3Z6VWg0Sjc1R3BwUVRHYTlKME1jY3ZVdGxlQWtTRWNkak5la0pZd3gwUQ?oc=5",
    "date": "2026-10-27T14:46:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f59add8fe644",
+   "title": "Keiko Fujimori dice que su gestión está golpeando \"fuertemente\" a las organizaciones criminales",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGVGNXZyaVJ4LU1hSUFveFFGSkdqS29laEpJT21VdUdZTFNtNGg3NVY2dFN3QnYxeTJ0LWI5SmRtQkhtVE04S1owUXBBd3luMm5jeERfSmx4bE5HMEtNZXpPdGZQR1J1eHdFVXduQ21XcVhudkFvNXdnUjgzdE5UZmptV25CaG1BME1saUdLZUVrcE1XRXBaeFNaeFFzMWI3LUpTbVdYaWwtUDBIdGhjU1Bfd2c1Q0o3ZFdRaXNkbmMxZVl3ZnFjUVJpSEhpMmJ5aURGelk5VFgyZw?oc=5",
+   "date": "2026-10-27T14:45:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1080,17 +1091,6 @@
    "source": "AP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWFHNUY4ZEJhTm81V1NPZHdpUlFVQ0hsY3ozQlk1ZHVlZVAxQnduclJoNUhUOWNxclB6eDJRMnY1cVpYTGQtVGtRSk9fbkVNWkR4Q0p0RFBKNlYtVl9jcVVkWmJBNGw1WVQzZkg2c1R0YnJmdV9fVV85MjQ3bTN4X2huVzMzMjF5MDFSZFZxVWhPakY3Q0xxeHB5cF9BUmpsN3hSQlBZb2pQN1FmTnFNbWIwWlpBSG1ldnNrUjlyLWJyVUx3RVBPUENEandERFNqZlE?oc=5",
    "date": "2026-10-27T12:06:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "763d1385d647",
-   "title": "Luis Galarreta asumirá el Despacho Presidencial durante los viajes de Keiko Fujimori a El Salvador y España",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUDVBQUxHNlJzQzExZUpOeWVZYTNKMDZqRVYxQUhBcE54OGEwdzNBN0dWZ1QxT2x5V1FBZTMyUmNxbUQ0ZU82OTVEUlJ2a2VRaVRma2JwWmtHMTZPc1IxbTl2eDBHVS1nemgzUjY0NmlaZEJLTElKQVJGdE9PdjBrNnd3MmFFaHl1amV1Mm9IRHRzN1ZjeVRGZUVfckc2MUhxeGlocDcwemR4ajVVYW03RzN0bkI0UFZQTHh3UHBOWjlKRlM5TmIzYTNWUFhycnRNNVQxN3hUbXdITkEtV2VzSWNwYzVxSXA0RmlNcg?oc=5",
-   "date": "2026-10-27T11:35:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
