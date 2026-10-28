@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T19:44:58.009011+00:00",
+ "generated_at": "2026-10-28T20:06:09.515970+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,6 +286,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4728bd6b1363",
+   "title": "Esterilizaciones forzadas: víctimas rechazan archivo fiscal y exigen justicia para más de 4.000 mujeres",
+   "excerpt": "Pese a que el Ministerio Público reconoció que se cometieron crímenes de lesa humanidad contra 4.172 mujeres durante el Gobierno de Alberto Fujimori, archivó el caso aplicando la Ley 32107,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/28/esterilizaciones-forzadas-victimas-rechazan-archivo-fiscal-y-exigen-justicia-para-mas-de-4000-mujeres-hnews-993832",
+   "date": "2026-10-28T20:04:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e0a4f0dd7c2e",
+   "title": "Keiko Fujimori viaja a El Salvador en visita oficial junto a cuatro ministros",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-viaja-a-el-salvador-en-visita-oficial-junto-a-cuatro-ministros-nayib-bukele-ultimas-noticia/",
+   "date": "2026-10-28T19:54:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b7d61a8a358d",
+   "title": "Presidenta Keiko Fujimori viajó a El Salvador en visita oficial: esta será su agenda",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
+   "date": "2026-10-28T19:50:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7832119bb7aa",
    "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele y conocer su megacárcel",
    "excerpt": "",
@@ -345,7 +378,7 @@
    "title": "¿Qué opina Miguel Torres sobre el viaje de Keiko Fujimori a El Salvador para conocer su modelo de seguridad?",
    "excerpt": "",
    "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVQtdU9EWDVVWkg4YUlwWTBxTmM3T1U1bDdJanB6U05HWUYzSUZRb19ydjdSZHB4ZjNxTmttdWFQdDN3QzlkdGltVXUwMGNjVXlMaTZUU3lKOHJnRXI2aXNvNnN1VWZ5YmhUUEF2elNFc043dE5QanJSQ1JmM0ZCc29rNUNxaUl1OVBoak1CdVQ5MDBZcGRpeTJqUTh3M2Jxekw0MTYtV0ZWbEhGTURLN0VRSHBKZFFlS1VZM2FlbHN1Zjh5SktyTmF1SGFtblJDYW5jRGdqY9IB3AFBVV95cUxNdmp0Q2tNcjBDdklwMWhUdXFQYW14SjRKbzdDa0ljclVUNHYwb0xGVV9JYldVOWN3cUZqZmFJWEN5Rkp5amNLN0lpblNjUlRKRVZ2Y2hDZ1pvVFRJaDZ2bGthcjg5TUNaT0dzMGRfUlRubGc2WC1oOGNERzBEeXQ3MmpIZVh0OWZ3TVVKanBiM0s1X0RGallxV1pPeE5tYXE2cW5jeS1IVmIxbGZ6Slg2VmFac29oMGMtaktBVmNvTV9MY056V1U2bmlndEZ1SmU0MnVKbjJRMnIwUDFI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdmp0Q2tNcjBDdklwMWhUdXFQYW14SjRKbzdDa0ljclVUNHYwb0xGVV9JYldVOWN3cUZqZmFJWEN5Rkp5amNLN0lpblNjUlRKRVZ2Y2hDZ1pvVFRJaDZ2bGthcjg5TUNaT0dzMGRfUlRubGc2WC1oOGNERzBEeXQ3MmpIZVh0OWZ3TVVKanBiM0s1X0RGallxV1pPeE5tYXE2cW5jeS1IVmIxbGZ6Slg2VmFac29oMGMtaktBVmNvTV9MY056V1U2bmlndEZ1SmU0MnVKbjJRMnIwUDFI0gHcAUFVX3lxTE12anRDa01yMEN2SXAxaFR1cVBhbXhKNEpvN0NrSWNyVVQ0djBvTEZVX0liV1U5Y3dxRmpmYUlYQ3lGSnlqY0s3SWluU2NSVEpFVnZjaENnWm9UVEloNnZsa2FyODlNQ1pPR3MwZF9SVG5sZzZYLWg4Y0RHMER5dDcyakhlWHQ5ZndNVUpqcGIzSzVfREZqWXFXWk94Tm1hcTZxbmN5LUhWYjFsZnpKWDZWYVpzb2gwYy1qS0FWY29NX0xjTnpXVTZuaWd0RnVKZTQydUpuMlEycjBQMUg?oc=5",
    "date": "2026-10-28T18:27:17+00:00",
    "state": "posando",
    "place": null,
@@ -391,6 +424,17 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUlSZjBQQkdoeWRZR1dZcWxwYXY2c01hVmZSQ1NpZWoxMnVYbk9fRkU5NUZmbzROaWNKY211U1MwS3gwVk1IclNtNWI2ME9zMGJmT2JON01EblY0enpsY25MS2UxaXp5eFQ3WGg5aTNkMUZzSUs2eWZESUx5dm54VGVYMlFrYUJ3ckdRN1ZoclBQcFYwd19wWDdhUEIxZV9aV1N2U3FYbGpOZVdLdlEzaE8yU3IyNkxxdXlUbQ?oc=5",
    "date": "2026-10-28T14:52:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8ed85bd9ba73",
+   "title": "Presidenta Keiko Fujimori inicia hoy su viaje oficial El Salvador",
+   "excerpt": "",
+   "source": "Revista COSAS Perú",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazZSM0pEd2pYQ19BTEdwWUpGczVzVFZwX29ISXhpTnctU3ZvYVBKTzc4bDJHVFg4NElMSUZVaGczX0FUY2RaU0F2dTdpYS1CMXFMaWlmWlNOd2RsUjRCeHplejFDdlBDLV81a1lTNlFOSmJQa0NGSVhjNVdRTXNwTWkxTFN1T3Azckd6aVpnVVJ6RXpodDFpbtIBnAFBVV95cUxOS3AzYjJLSGQyUFhneDB4ZmI2WWxLU0RxQmRNMWJYNEVoejJKMGJiX2VZY1FaUFZXeENNLWNBcks4M2dKZmdxb1BsWC1rdWd5OU1SWlRyQzRPMHhJdnRUcjIzaVFpcHNPenRySEJETjFLTkhNajAtQVNTeHJOOXVvbWRvV3pOeFZOODF4VjVPQ245SUdEQ2pvNEJfQkg?oc=5",
+   "date": "2026-10-28T14:19:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -584,17 +628,6 @@
    "next": null
   },
   {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
-   "date": "2026-10-27T22:38:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "57c8b4ea58df",
    "title": "¿Qué dijo Keiko Fujimori sobre los recursos transferidos por el Congreso?",
    "excerpt": "",
@@ -667,6 +700,17 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3U1cnRXQUFsRmpMVEJ5dl9yMzlvbFF6WHhicnBZYnh5RDJmR0pmTlRRUm9wUzhicUhtVlFscldoZ3VYYXU4YVZJYW1SVTRyQ0QwRjg0bzJsNGtFOXozb3ZsQWxIbTRGam1ldVluVVJJZmdPTi05dENoRDQtZnpabEZpZDhsUmFjemVhNVFIMWhTSzFxVWlPdFVpaURHeFdnMmZxeHkwZW0yblYyYkg1SnRvNjNlUW5CQjNtQS1VbG1WZw?oc=5",
    "date": "2026-10-27T20:04:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
+   "date": "2026-10-27T20:01:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -909,50 +953,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-asegura-que-su-gestion-esta-golpeando-fuertemente-a-las-organizaciones-criminales-noticia/",
    "date": "2026-10-27T15:59:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e8284adf0eae",
-   "title": "Keiko Fujimori asegura que su gestión está “golpeando fuertemente” a las organizaciones criminales | PERU",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU1dyMnNKM0p3NENjSW53YWlSWTJxZFVRQjlkLVVJSlZsU1QzNHJHTzhyTU5JUHRPMlp4UXhrRWh6dGx0YU5qdHBqWkphTEN5bDhuZFEybFcwSW5RWVBnSDlqQzNmYTI1ZWtfYXdFMDRWUXN1ZVc4enFGaGRUYW8tZlJvakR4bExDZmRtS1otRkJ3RXQyRFk1OWFMTjRfMlczLTJRcUIzRnNCLWNGSmY3RHRIU2hFZ3BYYk8tblBRV1l4YmM2a1o4cQ?oc=5",
-   "date": "2026-10-27T15:59:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cd158a58281a",
-   "title": "Keiko Fujimori saca pecho por sus primeros 100 días: “Estamos golpeando fuertemente a las organizaciones”",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS05qOG9IWjBSS05YNUxtSWJxSkNYaHhWa205RWRiQmF1VzR2cmdpc1U2aVJLbUw3bG9Sb3BNYjhZVjVDdUdrbFR1dzR0b0Fxem5fNFFwTEluVzdJdmR3UGttdG5HcDMwZFljdUVnOE5XTHFVM3BjdHlzUEtPZXFqdGxiMU5aMl94SFJ3S3RTMVBDNXZX?oc=5",
-   "date": "2026-10-27T15:56:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6b72c7e0755e",
-   "title": "Keiko Fujimori sobre su gobierno: “El balance vendrá a los 100 días”",
-   "excerpt": "La presidenta de la República, Keiko Fujimori remarcó que el balance de su Gobierno se hará a los 100 días de haber iniciado su gestión como mandataria.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-sobre-su-gobierno-el-balance-vendra-a-los-100-dias-ultimas-noticia/",
-   "date": "2026-10-27T15:48:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9ce41a0da2b3",
-   "title": "Keiko Fujimori: “Estamos golpeando a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, destacó los avances del Comando Unificado en la lucha contra la delincuencia organizada. La jefa de Estado declaró desde una actividad oficial realizada…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/lima/seguridad/keiko-fujimori-estamos-golpeando-a-las-organizaciones-criminales-con-el-comando-unificado-ultimas-noticia/",
-   "date": "2026-10-27T15:43:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
