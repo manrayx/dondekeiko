@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T10:22:56.173380+00:00",
+ "generated_at": "2026-10-28T10:44:29.440607+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,6 +286,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f2f063bfd846",
+   "title": "Presidenta Fujimori: S/6,000 millones se destinarán a construcción de colegios en 2027",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzkxLXZkTGI0bUNhT3VtNzRBY25zend0RG1vdG5VTXpiNkJWQV9rVnYwX1gyR0FyczVPNk5WZjV4aFF6akZvZFNId1ZnWnE2N2tES2Y2NTZhcFR5Tm9mdFpUd3BmY2VOUHNfelRlTDE3U1c1cElEb1FXRWRSTEduWVIyQm5nSENZdWEzZGlrMzRrMGNnZURKejMzSVI0QXB6dUpYd29SQnVCLUVITWxBRW01WUZlZ2pDQ3Fsc0ZnRk5WQQ?oc=5",
+   "date": "2026-10-28T10:40:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7ae540d220f1",
    "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
    "excerpt": "",
@@ -381,6 +392,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/lula-plantea-a-fujimori-fortalecer-la-integracion-con-nuevo-modelo-que-proteja-la-amazonia-noticia/",
    "date": "2026-10-28T05:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "525d97eb425b",
+   "title": "KEIKO FUJIMORI ENVÍA NUEVO MENSAJE A TODO EL PAÍS / HOY DOM 23 DE AGOSTO Real (peUpUAR7h3)",
+   "excerpt": "",
+   "source": "Unisba Media",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JeTQxWWtER1drWlhpNkZPbDRBN0NLSGpwTUVXWVY5cmRSUjhFN0Q4YU5DWl9mZThUR1BqbWZ1UEt5UzN6bEk5UFMzNnByWlFaY0d0UkdTb1JfR3lOVkJtd2N4MmMyOWhGSzVfdQ?oc=5",
+   "date": "2026-10-28T01:09:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -931,28 +953,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3d6b0oyMXZhNy1EeTM0YVByOVJlaE1xNU1wa2dGYWpVcUFFVTNqRmVBa2NWeVhqdFRzM3VmUVpzQjBjQU9udHV5emFob2xYVEpKamZwSUxBVTdjYTN5NmN4SUV4U3VPZS1pSllWQjh3a1FxQVJONTM2UzZLWk1abWtuY1l2UHdQLXFrMGlveVJJWTRQU1ZVN0sxSC0yZVhYNWJwT0JSTXlXQndDTDE3T2xGSmM2MG9YOXRsMUxKOC0?oc=5",
    "date": "2026-10-27T13:49:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ba1db98aa067",
-   "title": "Keiko Fujimori tras visitar colegio en Santa Anita: \"Este será el primer de 2 mil colegios que vamos a construir\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSTNKQndWSFBlWDJ1TkxMdzA0U2s0Q2N5WjRYVWNXaWs5V0VJY096UklKVjUwa014OXJVQkF6LWwwbHlNWlpHMVVlcXViMlFQamF3WW1QRndabF80T1pHc0o4QnlJOTVBakYxWWNqdkJHWjBaNXd3d0ZnMHZpbUFOeXpzNlRKcUZmMVp0MnZOYUgzZ1Iyb1ZoSUdHSWdfbU1yMXFSZzlwMHZRM3UweThselpFNGVYYnZYaFlVNDZidjlQRmVKNkFlRFhrSWJ1MzZGV2Z6X0ZhWVI0NUF6RlE?oc=5",
-   "date": "2026-10-27T13:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08c18d1d186a",
-   "title": "Presidenta Keiko Fujimori dio inicio a construcción del primero de 2,000 colegios",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTdXZjkyb1FOTlpqTkNVbUJuUFMxRU9mWjlyLVh6UDU0cnNGX3BiallRbDVLSVRyNldlMDJyZDZUVDlsSDBOMDlyMXREdjNDd1RvSlE3NnhvWF9FQkpFNHkxV3dQQnBhdkdVLTNRUHpiMmVJNXBZM1JPeEZaWnBsQUNzODFrajNwZzRJVlRRbjE2X01teGs3VzBTSC0xUWNidWgwZndDQ25ZS0s1YkwzNUVReWNScS1fMmI4RExZeDBTQQ?oc=5",
-   "date": "2026-10-27T13:33:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
