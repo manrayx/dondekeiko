@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T23:21:02.294004+00:00",
+ "generated_at": "2026-10-28T23:42:52.955376+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -302,6 +302,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "016059de2049",
+   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
+   "date": "2026-10-28T23:36:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "64833ba8ac42",
+   "title": "Keiko Fujimori viaja a El Salvador junto a comitiva de seis funcionarios y un gasto de más de US$ 19.600",
+   "excerpt": "",
+   "source": "altavoz.pe",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXNJWmJtaVFCbnNuS3pwSFdUWVVubTBGVlRNUkpHdnFpWXhEYThGVzAtUlpzcVpNUzNtVEMxZ1BoMGplTTl4QS1nWlk5WXdKMVkzOWFlRzRuYlJLRlU4LWRQdzQ4SFBjcFdnRHdKdnpVRnJ2aEd4LWF3Qm5oS0hjNmxzTjNRZVlVRnJXR3NMYm1tM08yOWprdllJOTdYamtBVnpNNkoxTl9pelUzR2NNVEoxMlRZRklQVEFhcVpGNldPajB4a0JpdkVDdU4?oc=5",
+   "date": "2026-10-28T23:30:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d3e9ec3ea946",
    "title": "Keiko Fujimori viaja a El Salvador para evaluar el modelo de seguridad de Nayib Bukele e inspeccionar el penal Cecot",
    "excerpt": "",
@@ -412,17 +434,6 @@
    "next": null
   },
   {
-   "id": "2fea8efba716",
-   "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQks1TEJ6UjR0SE55ODZfcTZhRXYtYnBHXzVzYUZhYm5DUEFXYlQ0blJid1FZeXo4UVdvak02X3dCQzRQMTUyMmQwc2NWSERMR3ZuQUZpSkFpOVo4RVFGam5qRWJFakhydS0tck5CLXc3QktqNl85MERlMHk0eXk5YVVLZEZNNXR1T1F2M0JCRmh4YlRLOTdYRHFwTnh5aFh5WXI4bi1nQmVFUmxkc2tMLXNNbFd5MTFLdURqNjJQX3VBb1dzakR1X1lrY0vSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
-   "date": "2026-10-28T21:33:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "1b81543c8dcf",
    "title": "Keiko Fujimori llega hoy miércoles a El Salvador para conocer el modelo de seguridad de Bukele",
    "excerpt": "",
@@ -445,23 +456,23 @@
    "next": null
   },
   {
-   "id": "016059de2049",
-   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
-   "date": "2026-10-28T21:08:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "ca9478ee190c",
    "title": "El Salvador: Keiko Fujimori se reunirá con Nayib Bukele este jueves",
    "excerpt": "",
    "source": "Gaceta Perú TV",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHNNWjBjVFpxX0tNQ1B1RnFnSG1UOUh2NlBlSVJqMWpTSG1wRkxVRzZRczV6ZWVMWHQwX1hSWnpBTkVwOVdzWTlGRUx6RnRBTTNpbTh0VFk0eVdSVEw5MHpsbnZsMWF0UmQyN3BLbkk5VUw0QldRRnp5WXFsYzl5dzV4Q0JBbnI0V0h2cWtPbkZtSG82YjR5dFRia3AxR09jZkRkTWtR?oc=5",
    "date": "2026-10-28T20:48:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2fea8efba716",
+   "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeEh2bDBFU2tLSnZQeTlLV19iTlpWcUk1cXNncXRhZzNDd2ItQldnaHdVaWZTZHYyQ0I5djNnMlQzNUcza01rM1BVNTAtSzVBel9xZml5YTVYdl83ZDMwMVZNMGRPT0NieU51Z0sxQ3ViUXRIQm5YbDljNHY4dU82dzh4TThHT0F1QXFZbjI4X21NUjY1NVJjakJsZUFIbkg2YTdydDFCcldmRnh2MWlPNjl6NERidHRYU3dkaWthdEZvakg5RlAwOWxCLVnSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
+   "date": "2026-10-28T20:41:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -886,6 +897,17 @@
    "next": null
   },
   {
+   "id": "0f91e608f531",
+   "title": "Keiko Fujimori agradece al Congreso por retornar S/ 300 millones para seguridad y emergencia por el fenómeno El Niño",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMHlPclVWWXY2VHdXemVGTUsxMGpKLWpkeGZjTzlUbzlmVXcxaXZwcW1STkdtN0dobnBzeV83WHRZTWMydFpqbURsX0xSaVZGbUtYcUZ2WFZpaDhyYTVtcmZPTENRYy1Ed3dUdldTRzdjQU52Q2o3UzN5bHFBSklkREtzdF8zbjBDQWpVTWNZbjN0WlJKc0l2VU5hSEUwT3VyejlmdXFwNXVuSWZwb1hnamNGMlUyZkhUdF82MUdtS3dYdHFXX1dzbDUxazk5akRvUmJhYk5zZkh3cnpMMlJ2azF4Uml5Y3ZaR0ZLODZFQm5hQmhoRVlhNTNvaV80Q09qakdoMVhuSVpxMHYtYlR6Y01Ib0Q?oc=5",
+   "date": "2026-10-27T23:17:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ac2548554845",
    "title": "Keiko Fujimori saluda al Congreso por retorno de más de S/ 300 millones",
    "excerpt": "",
@@ -947,28 +969,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1k4cUl2N3JMMXBSamdONHdSTEp6MlM5S25GN3ZJbkVWMUFELWZ4VzJxNnZPZHdrekJHdkdnOXJIZzRVcmxqZ0c0NENoSXFzYjJxQ1dpd1Vfa2ZtOXZ4eUFLRm5RRU8wSDBocUJnVEl3Mll1V3A1NEdKTlJhMmpuNi05T2V5M1puV2N6VTNwa2gzYjI0ckQ0RjNmMDVMYkdKY056QjhQbkwyWU1vU09sZTFQUzdZY1V2d2ctYks1aldlWVdRVkpJZNIB3AFBVV95cUxPV1dmY2psRW9RUm9ENk5iTW5Gdy1qYkFEcnBDbTZkRTZ2WUZWQkF0aWxTWDdKWFRDY3B2YlZEWjQ2c1l1bldrZ3BVU0R3NWkzSjhReWZXMzhWZlVnVzBKM2N1OGUwNEswYU54M0ZuNzAtRGk2S0RwdVNoQm1qcnk0ZEQwbmw3bkNEQ2dMb28tbzlNZlgtWkFNazl5cmxJdDNkNmFmS2UxWE1RUHlLNGtnU0N5X1FTemdZTXFDQ3E0STRpQW1oak51RWpIbzRWN25DY1l0Q1dvRWxrUDlH?oc=5",
    "date": "2026-10-27T20:49:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1a7012aac022",
-   "title": "Keiko Fujimori saluda ahorro anunciado por Congreso Bicameral para atender el FEN y la inseguridad",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN2k0VXl1eWJpN0c4WUtyQzJ4YTZUdGNkTjhfaU1rY0U2aW9zUkJ5OGJXcnRUV05tam82RVM1NU5NMEdQdWhzZlY1d2N6cjFkdU9iNmY5cmpSUDRhWGRrQVY1OHRacHdWenJnSi1qQ3UySWd4UktJLTRqbjBaNUNOdmdsd05zblVoSmh5WWdyRXNMM01IbkR3bnludVR6WVhFdGRJdmNMczRyenBtT0hUZEd6TzkyWUZsdmNVOGVENEFjTzlnRlJyaA?oc=5",
-   "date": "2026-10-27T20:33:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "11d47348c019",
-   "title": "Penales del Perú en emergencia: Caparrós respalda operativos de Keiko, pero exige plan penitenciario",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORTNRa3d1SXR5blRhMEdUZ0h2NXVwdlBKSHBQQTF6Mk1USkVtbmdySkd0M08tb1J4dWVIdmxWc25uOXY2TlJuWUxLdEJ0ZTNqdmlSWE1Uby1VQlZMTjAyZkc5SmJab3dIM2EybW9QM0trc285cS1ZN3AtRHFnYzNuSkdVdFcxS2xsTXVrVlJvMHFwTmtHTU5NcFpDY2FZYWFzaS1hYjBCV2ZpWmVOQnltV1ZsaVFSajAyMWZGTGRIUDJuakEx0gHKAUFVX3lxTE0yMG1DYklBdkRqV2pmVDdrMzl2TkFJOENzWjZXWWtQX2xSdFlDR3l6SGFSUmZZbEo2VTB5MXViQTV0RFF0dUp4c2FLcmtnR1hVZ295MWYwVVhXYWxJLWk1LU1aUDdGY05oM0E2UnFZREhFbERqMDdFYVlLYklUQWZRSDRoTHlQd0FmRGluRVNjYTg5M3BlVHJmNXd0RVhLdTJPcDJzYm4xMW91dnFHUFFNN3ljSVp3d1hnZmNuMjdYVmlrMDY5aU9tVWc?oc=5",
-   "date": "2026-10-27T20:12:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
