@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T04:25:58.510828+00:00",
+ "generated_at": "2026-10-28T08:56:03.838746+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "city": "Puno"
   },
   "source": "TVPerú",
-  "date": "2026-10-28T01:37:01+00:00"
+  "date": "2026-10-28T06:34:06+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -280,184 +280,18 @@
     "lng": -74.554,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-20T17:00:00-05:00",
-   "end": "2026-10-20T18:00:00-05:00",
-   "minutes": 60,
-   "subject": "Inaugura los pabellones renovados y el nuevo equipamiento médico del Hospital Militar Central \"Coronel Luis Arias Schreiber\".",
-   "lugar": "Jesús María",
-   "state": "posando",
-   "place": {
-    "name": "Jesús María",
-    "full": "Jesús María",
-    "city": null,
-    "lat": -12.07819,
-    "lng": -77.0464,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-20T15:10:00-05:00",
-   "end": "2026-10-20T15:13:00-05:00",
-   "minutes": 3,
-   "subject": "Despedida a su homólogo ecuatoriano, Daniel Noboa Azín.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-20T13:29:00-05:00",
-   "end": "2026-10-20T13:55:00-05:00",
-   "minutes": 26,
-   "subject": "Ceremonia de suscripción de la Declaración Presidencial de Lima 2026.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-20T13:00:00-05:00",
-   "end": "2026-10-20T13:27:00-05:00",
-   "minutes": 27,
-   "subject": "Clausura del Encuentro Presidencial y XVII Gabinete Binacional Perú-Ecuador.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-20T11:42:00-05:00",
-   "end": "2026-10-20T12:58:00-05:00",
-   "minutes": 76,
-   "subject": "Presentación de los resultados de la XVIII Comisión de Vecindad Peruano – Ecuatoriana.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-20T11:21:00-05:00",
-   "end": "2026-10-20T11:40:00-05:00",
-   "minutes": 19,
-   "subject": "Inicio de la Sesión Plenaria del Gabinete Binacional.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-20T11:11:00-05:00",
-   "end": "2026-10-20T11:19:00-05:00",
-   "minutes": 8,
-   "subject": "Recibe de su homólogo ecuatoriano, Daniel Noboa Azín, la Presidencia Pro Tempore de la Comunidad Andina de Naciones (2026-2027)",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-20T10:23:00-05:00",
-   "end": "2026-10-20T11:05:00-05:00",
-   "minutes": 42,
-   "subject": "Encuentro Presidencial.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-20T10:16:00-05:00",
-   "end": "2026-10-20T10:20:00-05:00",
-   "minutes": 4,
-   "subject": "Recibe a su homólogo ecuatoriano, Daniel Noboa Azín.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 769,
+ "agenda_minutes_7d": 504,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
-  {
-   "id": "7ae540d220f1",
-   "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzNQMElVY2hoU0VyRmItYlUxMW8zWFB1N3ZlTEk1WmVRdHBKRDl1aFJreHNYTHJ5eG1YNWM0VEVyR2RVN1lRZW1pRzJvMGZqZFhNWHEtTWgxQ1VrZWJfeWxkazJmUXhmZzREVDR1dHUxOXA1OXJmUk54Nmc3Wi10UFBrT0lGMVd2NDhVNy1aci03RVFicmRvdHlMaW1Rb0NJYzMtV0NrZTNVTHp1MnBGU05xY2ZZZ214MzhGRC1KbndJMExpWVZ3?oc=5",
-   "date": "2026-10-28T02:54:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "018da6f19810",
-   "title": "Lula plantea a Fujimori fortalecer la integración con nuevo modelo que proteja la Amazonía",
-   "excerpt": "El presidente de Brasil, Luiz Inácio Lula da Silva, propuso a la presidenta Keiko Fujimori, fortalecer la integración regional mediante un nuevo modelo de desarrollo que proteja a la Amazonía…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/lula-plantea-a-fujimori-fortalecer-la-integracion-con-nuevo-modelo-que-proteja-la-amazonia-noticia/",
-   "date": "2026-10-28T02:45:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
   {
    "id": "f1876100dab1",
    "title": "Presidenta Keiko Fujimori se compromete a destrabar obras en Puno",
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0dLd0lwR21LdFVnNVplSjluY2J5MlJaVnlzMjVlNGlDTi1jeVpBRFg2QUFJbzQyNE85Qm1DVWt0OENLeVp0RXJGZjFxb3BEZGx1c0l2NGhBSWJjZUFacDZHcDRFRU9OVkV5UWUwVDFRSDFqcXNLOTJmWkJMM0QwQ09xcU5BMmNlVnVWeXVuemlCaXZiMXlIV2ppMFV6NGdoQ2NQQUY5WTNsdFBWQWc?oc=5",
-   "date": "2026-10-28T01:37:01+00:00",
+   "date": "2026-10-28T06:34:06+00:00",
    "state": "posando",
    "place": {
     "name": "Puno",
@@ -474,7 +308,29 @@
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1dMWHNqRlpNTHhSS21Tc0NzYk1zUVYyYXJ2YUdRNjZyb19zR01kZ19TQjU0RjJaUTVhWGVnX2FiSS1VaHZjSXptdWotODZuNktYbERNUDBDRnNnYXQ1Zmd3YXp6Y2J0YzB1YURhMEpzZkJ6LXgyYjhVOVdjcGNjMmdHakdJRnBEc1FBa2hMMzNiRTB2aHB0M2YweVUwcHp5bmhDZlBfZi1aai1TVUlIb055VGlNWW8yOTRrNzdB?oc=5",
-   "date": "2026-10-28T00:13:00+00:00",
+   "date": "2026-10-28T06:15:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "018da6f19810",
+   "title": "Lula plantea a Fujimori fortalecer la integración con nuevo modelo que proteja la Amazonía",
+   "excerpt": "El presidente de Brasil, Luiz Inácio Lula da Silva, propuso a la presidenta Keiko Fujimori, fortalecer la integración regional mediante un nuevo modelo de desarrollo que proteja a la Amazonía…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/lula-plantea-a-fujimori-fortalecer-la-integracion-con-nuevo-modelo-que-proteja-la-amazonia-noticia/",
+   "date": "2026-10-28T05:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7ae540d220f1",
+   "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzNQMElVY2hoU0VyRmItYlUxMW8zWFB1N3ZlTEk1WmVRdHBKRDl1aFJreHNYTHJ5eG1YNWM0VEVyR2RVN1lRZW1pRzJvMGZqZFhNWHEtTWgxQ1VrZWJfeWxkazJmUXhmZzREVDR1dHUxOXA1OXJmUk54Nmc3Wi10UFBrT0lGMVd2NDhVNy1aci03RVFicmRvdHlMaW1Rb0NJYzMtV0NrZTNVTHp1MnBGU05xY2ZZZ214MzhGRC1KbndJMExpWVZ3?oc=5",
+   "date": "2026-10-28T02:54:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -508,17 +364,6 @@
    "source": "Noticias Trujillo 60",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYV83NTZTa2s1N091aTdzenpHdW9XSmtKZVdDcWdjNWhiTzFkMGlkYzJ5ZWd0a0VvdnR0UjgtdUlCeWJvbDktc2lYQldQOTdGR2Y2S1pLR1ZzM3FQa25xcXZyMFpLaHlVU2pQOENHdERzTEE1bDB4MDctR3hnWjc3dVNBTnp4VUpQeG1TamFJcUc3eGtGS1E?oc=5",
    "date": "2026-10-27T23:42:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
-   "date": "2026-10-27T22:38:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -596,6 +441,17 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3U1cnRXQUFsRmpMVEJ5dl9yMzlvbFF6WHhicnBZYnh5RDJmR0pmTlRRUm9wUzhicUhtVlFscldoZ3VYYXU4YVZJYW1SVTRyQ0QwRjg0bzJsNGtFOXozb3ZsQWxIbTRGam1ldVluVVJJZmdPTi05dENoRDQtZnpabEZpZDhsUmFjemVhNVFIMWhTSzFxVWlPdFVpaURHeFdnMmZxeHkwZW0yblYyYkg1SnRvNjNlUW5CQjNtQS1VbG1WZw?oc=5",
    "date": "2026-10-27T20:04:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
+   "date": "2026-10-27T20:01:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -920,6 +776,17 @@
    "next": null
   },
   {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
+   "date": "2026-10-27T14:54:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
@@ -1008,17 +875,6 @@
    "next": null
   },
   {
-   "id": "40e77490c316",
-   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObTRVdTVfVWcxUXo5R1RzZEllcUIyU1Qxb1M0enItck1ZTlB6QW1uM1VlQnQtbDFLR0w2Q0lLR2RTaVl3T1dOQ18zWkUtV3JZUVdWbW8ycHhmMjhqOVlvcHNwYjRjZDNwbmJRc2JTbUpuN1RDQzdrRmt2WUlubU9uNEJBaTZsQWdOU3E0TTFxcnhNVzE4ZEdKeExTblFKb0JBNkNMRlBNMTRfY1NWU2pTOEhTMUVYRnhLT1VobFMzempuTUt2SHpYVnVKTnhTOHotOC0tVdIB2gFBVV95cUxQSEdEMHJKODZ2Y0pPUnViVmpNbXFzUzZTY29sYmVGVlFaVTNZOVl1czBPdVdxMEZxdGFac2RVbmNVWUJKbGNITXE3RXp4V0tsdFc2TU1tVUpiSEJJeUNGX0xEanItcHhtQllnNU9HcUgxNU9BUmNfdFRlMWRRc2tNX3dka0RDX0ExMllDODFCd2hKWlFVMThvdmwxT01nNWFIS1JSeWdzSkxaanVNNC1oQ3MyS09YMWdTZjNFT0lHakxrOWJHbmJVTl9SdmVtdXBFZmpJdlpzS2JrUQ?oc=5",
-   "date": "2026-10-27T14:05:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d5cc4d2d2209",
    "title": "Presidenta Keiko Fujimori coloca primera piedra de Institución Educativa en Santa Anita",
    "excerpt": "",
@@ -1045,7 +901,7 @@
    "title": "Presidenta Keiko Fujimori dio inicio a construcción del primero de 2,000 colegios",
    "excerpt": "",
    "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkVMa3Jra0Z1ZzV4TS01eWt0MGFNTVNSZ3V4ZkJxclROZzlUUFZwZndiNmZTSU9PNUJSOWpLZndGbjRkY2xjd1pJTTQ0dUszUkh1bFV5RU9PTGVtTjNkT1BpMGtHejQzX0dWR0xqVFdnMzFSek83SjR2ZlVDOGJ6M3NhVzBxZ1VvVHk4T1FKUE5SUENzYmRvejdRUmUzamQ4TUdMMVVpTXJOUDJoLVBYNUlqZTNWMW9OYVVjYm9iREhTR1U?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTdXZjkyb1FOTlpqTkNVbUJuUFMxRU9mWjlyLVh6UDU0cnNGX3BiallRbDVLSVRyNldlMDJyZDZUVDlsSDBOMDlyMXREdjNDd1RvSlE3NnhvWF9FQkpFNHkxV3dQQnBhdkdVLTNRUHpiMmVJNXBZM1JPeEZaWnBsQUNzODFrajNwZzRJVlRRbjE2X01teGs3VzBTSC0xUWNidWgwZndDQ25ZS0s1YkwzNUVReWNScS1fMmI4RExZeDBTQQ?oc=5",
    "date": "2026-10-27T13:33:00+00:00",
    "state": "posando",
    "place": null,
