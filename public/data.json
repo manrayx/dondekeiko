@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T22:59:04.786309+00:00",
+ "generated_at": "2026-10-28T23:21:02.294004+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-28T13:20:00-05:00",
+   "end": "2026-10-28T13:20:00-05:00",
+   "minutes": 0,
+   "subject": "Partida en Visita Oficial a la República de El Salvador.",
+   "lugar": "Aeropuerto Internacional Jorge Chávez, Callao",
+   "state": "posando",
+   "place": {
+    "name": "Aeropuerto Internacional Jorge Chávez",
+    "full": "Aeropuerto Internacional Jorge Chávez, Callao",
+    "city": "Callao",
+    "lat": -12.01943,
+    "lng": -77.11941,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-10-27T08:20:00-05:00",
    "end": "2026-10-27T08:55:00-05:00",
@@ -285,6 +301,39 @@
  "agenda_minutes_7d": 504,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "d3e9ec3ea946",
+   "title": "Keiko Fujimori viaja a El Salvador para evaluar el modelo de seguridad de Nayib Bukele e inspeccionar el penal Cecot",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOODJ4ZFJJdXpVTGNZZlpaN05XaUZzdUNRM3ladFR4cENnZEt6NlRSV3JhSE5rN2w5VnVEcjR1amZqMzhDN0k0NTg5MkFtVVR3VkltQzZINkNZbEZ5WjE1ZTJFTGNIcGFKRDl4c2UzWkdOZE55bWpXelprbmY3d2pvUzZUcEZaT3FRaXRRRmVuRHI5ZlFQN044cko0VC03TUJjMHRJaVlRQWwtTkhzNWVaa1FVdlBibF8tX193OEk2dndwdEFsTVBxVWF1dHZjZDVzYU5xa1ZQX3pPaGxlLXc?oc=5",
+   "date": "2026-10-28T23:09:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7cb7bcc6c2b7",
+   "title": "Miguel Torres respalda viaje de Keiko Fujimori a El Salvador: “Es un acierto de la presidenta”",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmltS0d0NUhGbnNPNVdSaFpIeld1YXE4bjlnZDdmTFFrOVdGLTkyS2p1QThiTEtMYzBOaFNVNzVUMVdMci1uWlA4XzR6R2xTRXJpdllqUkR1dnVtYkVMTDM3U0FtN29qRndyOHRNQ1NHUVo2TlkzZzVQUmd1d3pyTS1BcHVBMmc1Vmc?oc=5",
+   "date": "2026-10-28T23:06:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b7d61a8a358d",
+   "title": "Presidenta Keiko Fujimori viajó a El Salvador en visita oficial: esta será su agenda",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
+   "date": "2026-10-28T23:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "6a41305da7ae",
    "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele",
@@ -468,17 +517,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-viaja-a-el-salvador-en-visita-oficial-junto-a-cuatro-ministros-nayib-bukele-ultimas-noticia/",
    "date": "2026-10-28T19:54:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b7d61a8a358d",
-   "title": "Presidenta Keiko Fujimori viajó a El Salvador en visita oficial: esta será su agenda",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
-   "date": "2026-10-28T19:50:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -934,28 +972,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "e63a65447625",
-   "title": "Keiko Fujimori lleva 4 ministros a El Salvador: ¿cuánto costará la comitiva? | El Comercio",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3U1cnRXQUFsRmpMVEJ5dl9yMzlvbFF6WHhicnBZYnh5RDJmR0pmTlRRUm9wUzhicUhtVlFscldoZ3VYYXU4YVZJYW1SVTRyQ0QwRjg0bzJsNGtFOXozb3ZsQWxIbTRGam1ldVluVVJJZmdPTi05dENoRDQtZnpabEZpZDhsUmFjemVhNVFIMWhTSzFxVWlPdFVpaURHeFdnMmZxeHkwZW0yblYyYkg1SnRvNjNlUW5CQjNtQS1VbG1WZw?oc=5",
-   "date": "2026-10-27T20:04:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
-   "date": "2026-10-27T20:01:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -992,6 +1008,10 @@
   "santa anita, peru": [
    -12.04327,
    -76.96195
+  ],
+  "aeropuerto internacional jorge chavez, callao, peru": [
+   -12.01943,
+   -77.11941
   ]
  }
 }
