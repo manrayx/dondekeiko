@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T10:00:51.415397+00:00",
+ "generated_at": "2026-10-28T10:22:56.173380+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,6 +286,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7ae540d220f1",
+   "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzNQMElVY2hoU0VyRmItYlUxMW8zWFB1N3ZlTEk1WmVRdHBKRDl1aFJreHNYTHJ5eG1YNWM0VEVyR2RVN1lRZW1pRzJvMGZqZFhNWHEtTWgxQ1VrZWJfeWxkazJmUXhmZzREVDR1dHUxOXA1OXJmUk54Nmc3Wi10UFBrT0lGMVd2NDhVNy1aci03RVFicmRvdHlMaW1Rb0NJYzMtV0NrZTNVTHp1MnBGU05xY2ZZZ214MzhGRC1KbndJMExpWVZ3?oc=5",
+   "date": "2026-10-28T10:16:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6f16f1683b07",
    "title": "Presidenta Fujimori se reunió con organizaciones de Puno por obras de agua y saneamiento",
    "excerpt": "",
@@ -370,17 +381,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/lula-plantea-a-fujimori-fortalecer-la-integracion-con-nuevo-modelo-que-proteja-la-amazonia-noticia/",
    "date": "2026-10-28T05:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7ae540d220f1",
-   "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzNQMElVY2hoU0VyRmItYlUxMW8zWFB1N3ZlTEk1WmVRdHBKRDl1aFJreHNYTHJ5eG1YNWM0VEVyR2RVN1lRZW1pRzJvMGZqZFhNWHEtTWgxQ1VrZWJfeWxkazJmUXhmZzREVDR1dHUxOXA1OXJmUk54Nmc3Wi10UFBrT0lGMVd2NDhVNy1aci03RVFicmRvdHlMaW1Rb0NJYzMtV0NrZTNVTHp1MnBGU05xY2ZZZ214MzhGRC1KbndJMExpWVZ3?oc=5",
-   "date": "2026-10-28T02:54:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
