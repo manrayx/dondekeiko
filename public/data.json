@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:19:58.000166+00:00",
+ "generated_at": "2026-10-28T18:41:05.824574+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,6 +286,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7832119bb7aa",
+   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele y conocer su megacárcel",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVFlvX2RVUktqaE9QUGotRUNGemx3djgtNVlKc0IxcTNRMk9fSWJkeXJ1R2Zsall1MTN0TG8xWU1WUXkya01tS05xWVpGLXlBdFFTWndIUXVaM252MnVEMldnMXFzdWpJVnBFWEdvUm90RXplYUZRN3lGZXMzUjFjUmJ5a2xDVVhGX1N2MVcyZnUxOUQzZm92QjBraGp3VWdKT2RoZ0R2TnlSaTNrT0l1S0VBUU5tU2JIdVRHNkFaZ1JuOEtsYkMteUtwUVlRUV8zeEHSAewBQVVfeXFMT3UyR2Q3cmhlNFBCU1I3UEZtR1pjQWNLOFV1Mjd1Y1JlMGhLdzl5NGJiR2p6NnlOV1V4NFVIcXdQejFDVDcycUY1bHcybm1TdlM1ZzR2VEt6Q0kzSlFmNEVwQk9sQk1pX21NWlpwMDMzWUZLNXhOVWpjVW5yZ19Ic2Q3VWN3Y1IyNTl4OVI5RUU2Vld5NFRCaU52dFJuWmhwckVfWjI5MzItSVNJWC1tQ092d0V5M3pYcE1scWlzM1haejRuQXFPejZSX0tjSTFNYmdwejJZbDFNOVR2UmhwRkpfcWRkZEViQmtDV0E?oc=5",
+   "date": "2026-10-28T18:38:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c206b8a7c047",
    "title": "Miguel Torres sobre viaje de Keiko Fujimori a El Salvador: “Tenemos que sacarle el mayor de los provechos”",
    "excerpt": "El presidente del Congreso, Miguel Torres (Fuerza Popular), consideró “fundamental” el próximo viaje de la mandataria Keiko Fujimori a El Salvador, donde se reunirá con su homólogo de ese país,…",
@@ -303,6 +314,17 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2tBWjZKcThVTlpOS20xQWJPWm5jMFM4c3h6SUtPbmdxLTRTc09SUE96d3JQVVVkQ3V4RklDZ1FVQ1hoSGIzWDh5ZHc2ZTN4U1lMai1mdEVCbGt0S2c4VTEyR1h5TGgyTkJyS2xDSjF4VkttT0JPMGx4cU9OQ2tUVXg1RkFGQl9KMjVOdVBnWEQ1ZEhwQmJ1UkpCRXg3dWowT2puM2Q1eGU1TXQ0N3dWOFoyUjNIQl9LRjBxRi1pVm5GTnpFbGVr?oc=5",
    "date": "2026-10-28T16:18:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b6b9dfc87dc2",
+   "title": "Miguel Torres respalda viaje de Keiko Fujimori a El Salvador para recoger experiencias en seguridad",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUlSZjBQQkdoeWRZR1dZcWxwYXY2c01hVmZSQ1NpZWoxMnVYbk9fRkU5NUZmbzROaWNKY211U1MwS3gwVk1IclNtNWI2ME9zMGJmT2JON01EblY0enpsY25MS2UxaXp5eFQ3WGg5aTNkMUZzSUs2eWZESUx5dm54VGVYMlFrYUJ3ckdRN1ZoclBQcFYwd19wWDdhUEIxZV9aV1N2U3FYbGpOZVdLdlEzaE8yU3IyNkxxdXlUbQ?oc=5",
+   "date": "2026-10-28T14:52:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -496,17 +518,6 @@
    "next": null
   },
   {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
-   "date": "2026-10-27T22:38:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "57c8b4ea58df",
    "title": "¿Qué dijo Keiko Fujimori sobre los recursos transferidos por el Congreso?",
    "excerpt": "",
@@ -584,6 +595,17 @@
    "next": null
   },
   {
+   "id": "b022a28921cf",
+   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHBRUUdGMnlCSTRUWlNhZ3l4VzdqamNKRXRvQ19vLUZMXzloT0RtU2cwN0FFYmJreldacGczdWZzQTV3VDhrRkx0OHNhWTRmTm5XSEUybDhEU05pWGgzb2JKUlZ4aGtLVVNUVFRqbnNFU25aZTdRYzRqNF9YZXRfazdRdEhQYlRDckJsSlFJMlV6R1Z2SmRHX21rWWtoQUHSAZ8BQVVfeXFMT1hwUVFHRjJ5Qkk0VFpTYWd5eFc3ampjSkV0b0Nfby1GTF85aE9EbVNnMDdBRWJia3pXWnBnM3Vmc0E1d1Q4a0ZMdDhzYVk0Zk5uV0hFMmw4RFNOaVhoM29iSlJWeGhrS1VTVFRUam5zRVNuWmU3UWM0ajRfWGV0X2s3UXRIUGJUQ3JCbEpRSTJVekdWdkpkR19ta1lraEFB?oc=5",
+   "date": "2026-10-27T20:01:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "58ff1a2324d1",
    "title": "Keiko: “Estamos GOLPEANDO a las ORGANIZACIONES CRIMINALES con el COMANDO UNIFICADO” | Trome",
    "excerpt": "",
@@ -601,6 +623,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/27/keiko-fujimori-evalua-sacar-a-galarreta-de-la-pcm-hnews-1842399",
    "date": "2026-10-27T19:12:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "52a4a1e23149",
+   "title": "Fe de Erratas | PRESIDENTA KEIKO FUJIMORI RESPALDA MEDIDAS CONTRA EL BULLYING Y EL ABUSO ESCOLAR",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSEM4cWxQWGRvUzhWX2V3c0FVLW1yTkdhUXZRRFpaUG5JMUFWc0FRM0JTRkVFYVIwZHVxRXhsYmVibk9ZT0UxMk5FaGVnbnNvMDFqOGc4dVV1Z1J6Zy1UcnZIX2xHMW45UVlERkVIV1J6Y2hBenZvdjdkd0ZiYmtsdi13dmxpMDFGUG1GYXRmOHE1OTJ2QktvZm56UTdCOWJ4Z2NkZmd4ZFJxWlpkdzV4NjZVMlZYTWZ3ZWxZNjU0YnltUUdhOGNkenJYemp4QQ?oc=5",
+   "date": "2026-10-27T18:44:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -903,56 +936,23 @@
    "next": null
   },
   {
+   "id": "40e77490c316",
+   "title": "Keiko Fujimori: “Estamos golpeando fuertemente a las organizaciones criminales con el Comando Unificado”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYThnTmt2VUk0Qmxhd3Ryd3dIV2pXYXR5dGUycG5rTDFOcnBETkFUNXdZdXRrLUxDajJWTkpGbHctRXVnRXFtR09aR290WmVuel91dnkwUVlQVnlxMkFqZk1LYWczN2lmQzB1VjBDamNGQXEtcmw3V1hqekFZay1XeFM3STl4XzFqZUl5MUNUNDktUmNzT3NpWXhOTkF0N3NKeHQ3WnRhYnk2S0ZRa1I1c29oLUZOVUFpUHdkNFFRZw?oc=5",
+   "date": "2026-10-27T14:54:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d575b5bcd757",
    "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele: ¿Qué puntos contempla su agenda en ese país?",
    "excerpt": "La presidenta Keiko Fujimori solicitó al Congreso autorización para salir del país entre el 28 y el 31 de octubre para visitar El Salvador. Tiene previsto reunirse con el mandatario…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-el-salvador-que-aspectos-del-plan-bukele-quiere-estudiar-noticia/",
    "date": "2026-10-27T14:54:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "68121b6833df",
-   "title": "Keiko Fujimori destaca acciones del Gobierno contra organizaciones criminales y anuncia nuevas medidas de seguridad",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaF9oQXhyN2dwZDlaOGM1dFpkelBRY2YwNXBGZE5PcXQ0T085aTNmSTNKTjY3WlNxNmk1a1d4TTc1MnZkb2lhMjBuOUZSS2RBaEszcVhPVnpjcWxqNE5DMy1GUk5mOGxUMlhqbDJMVE9iQ1FTX3NIanRNYnF6amxsZ2diSHIyZjNYQjlFN2ZOWDFzcmY4YTh0VmRUbVNMRGEtbGRSZlhqb01IbmFKY3JCNWlvdXhDY0hUY1ZOQW5oMW5FYmttRVlUaXBwV0tMcFlPOGRwYmVEN1BOTHRuRnBCYlRHcTN6cHlvRUpKeGZB0gGCAkFVX3lxTE9CN2ZJa3dua1o3V0o0TUVJcVpvQ2R1YmxZT0plYkRZUkdKSFJxRTZFUExXQVNTcnBuNGIxR0pYUUdSYTQ2Y2pycThvMnU5SFZob0xXRHVqWWoxNlZaQzFjV0NfVDVldkRUOW02cHd3S0JGa2IySk1oQW9ybjl2SDByeW5KTkkza3hOY2JhbUtsdlJqaXUyQmhfa0l2SnBwYnY2ZjRveGxFeUlOOEpKWHl0ZTRkQzQzSjdaZkNQRGZMZ1BOYjFUcXcteWpISkNEZ0VKSXVYc213N3Z6VWg0Sjc1R3BwUVRHYTlKME1jY3ZVdGxlQWtTRWNkak5la0pZd3gwUQ?oc=5",
-   "date": "2026-10-27T14:46:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f59add8fe644",
-   "title": "Keiko Fujimori dice que su gestión está golpeando \"fuertemente\" a las organizaciones criminales",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVGVGNXZyaVJ4LU1hSUFveFFGSkdqS29laEpJT21VdUdZTFNtNGg3NVY2dFN3QnYxeTJ0LWI5SmRtQkhtVE04S1owUXBBd3luMm5jeERfSmx4bE5HMEtNZXpPdGZQR1J1eHdFVXduQ21XcVhudkFvNXdnUjgzdE5UZmptV25CaG1BME1saUdLZUVrcE1XRXBaeFNaeFFzMWI3LUpTbVdYaWwtUDBIdGhjU1Bfd2c1Q0o3ZFdRaXNkbmMxZVl3ZnFjUVJpSEhpMmJ5aURGelk5VFgyZw?oc=5",
-   "date": "2026-10-27T14:45:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6ff3546f1dd8",
-   "title": "Keiko Fujimori anuncia S/ 6,000 millones para construir colegios en Perú durante 2027",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOTl4TWJPOE9jcXJWakRfaU1KdDd2cTJpa3JidUJjU0hBN1ZlVEJZX01PbFJrSDFralFORTNoVmhtNHpMcmZXb2kycXVCMWE0SGpGVzJKdnVkNG00bEtTSFFhclYyRmZzTEE4QlFJb2h2VEFQTEtGVjcxVkl6OXA1OFl4OTlodmJZei1KcFo5Q09FbW5JUUw1SHlrY2VQMW1KUlVOVWlLUTlGeXpObnp6eUhjRVAwTkU3am5rMFZwY3czTjTSAdcBQVVfeXFMTVJKTVd4RnJxR04zRUVKUmVsQnE2ZHNPRUtTX0NNd0ZGU3Z5TV9rQ1NUOFRyOTdaTW81UlBIYmR1STZpbGRrNE00ZG56OFh3MmNSdmpUWkQyOGxhZ3A2RUloOEY2eERPYlBYRzhQVHZ3Z1MwT2JHbjFHbUtqdXEwUU5SYk1CN2xMMDN2STJXOUkzRzNXc1BvS3U1UUJmQnNuSWpBdTRUMzlYQXB1YmFMdlBNMk1lRWYtbXZUY3lWOXdtMlMzZ1VseHlhWXZzZ0lWUXlqYVpURXc?oc=5",
-   "date": "2026-10-27T14:43:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6b4cd7152456",
-   "title": "Ministros César Astudillo y Luis Dyer también acompañarán a Keiko Fujimori a su viaje a El Salvador",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjdmcVpiNUxKRjVhZmJSc1J6bDU2dTVsSUF4TDEwa3ZUYmFEOTFqT1VpbEg1a0VzcDltQ2tJOTNqYzRIQndvdGtmZEJrN2dyQ0Eyb1lCWXNYZHNoZWVFUzJGWVZKTlpWek5XQ09SMFB4ZE9jaVItYlRaVnhRdWhTSC0zb013OExHdU5BWFB6RDRfbTY4RVhzd1NRRkw3aTBYYVpJQ3RLTWc4WENsaW13MTRkM2VwTnhhRzZPMVJja2tfRml3VkhPbFNlVlVfWnN4TlB2TjB6SdIB8gFBVV95cUxNbWg1anlwdlBBa2tCTE1NOFUydlVKQkZSRU9wTDdkNmN4RmVUNG9raW9OREhhRmpJNjc3Q0k3LXhsbHhUbThieVBXZmtxQlcwcWVKdExINHk5XzB3Tm9tcjRFYzl6azlfbGhTQ0lUbUZRTWpET21tN0VxTE1LU0tEeHFUSVhlVTlsd1Z1UVRSUGxMWS1iR0R2ZWlsTERFUVVzTS1HLUMxLWV2RDJqUTNJaWFYa2lVcF9TWW1qRDFyZ3VGWEcyNFpoRjNuNkRyczVDd3Rya0txOFJDdzR6bktGcVJiSDBjTnozd3BiTDBzTVRkdw?oc=5",
-   "date": "2026-10-27T14:28:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
