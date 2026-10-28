@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T16:31:37.023474+00:00",
+ "generated_at": "2026-10-28T16:53:26.772515+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -285,6 +285,17 @@
  "agenda_minutes_7d": 504,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "c206b8a7c047",
+   "title": "Miguel Torres sobre viaje de Keiko Fujimori a El Salvador: “Tenemos que sacarle el mayor de los provechos”",
+   "excerpt": "El presidente del Congreso, Miguel Torres (Fuerza Popular), consideró “fundamental” el próximo viaje de la mandataria Keiko Fujimori a El Salvador, donde se reunirá con su homólogo de ese país,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/congreso/miguel-torres-sobre-viaje-de-keiko-fujimori-a-el-salvador-tenemos-que-sacarle-el-mayor-de-los-provechos-nayib-bukele-ultimas-noticia/",
+   "date": "2026-10-28T16:47:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "51630e342a84",
    "title": "Keiko Fujimori viaja a El Salvador: Ministros César Astudillo y Luis Dyer se suman a la comitiva (VIDEO)",
@@ -727,6 +738,17 @@
    "next": null
   },
   {
+   "id": "00d0b495d385",
+   "title": "Keiko Fujimori y su nuevo mensaje sobre llegada del papa León XIV al Perú",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdnN1dVhQekJSVDFMQmtNaFhMSHpzQjQtVEw5elZkVXZZdGR5WHFVaEFwOTdnbDVOVzNHTHNBZlVEYWRNODd1UUlnQjk2V0J0QXRVdnJreFZzOG1jd0lSWm5QN094RDRRcWV3N3gxTko2Rm9lc0F0ZnBTYm83U1hwR096MnpWVEwtZ19Dd3cwRVlRQnE4cWR6MnpaNHV0NmJqSmk4SlIxUTZveE1naUtya1RpWUpKaDVuUmRRbGdmaUhvM1k1?oc=5",
+   "date": "2026-10-27T16:45:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "76dbba3b4770",
    "title": "PRESIDENTA FUJIMORI DIO INICIO A CONSTRUCCIÓN DEL PRIMERO DE 2000 COLEGIOS QUE SE EJECUTARÁN DURANTE SU GOBIERNO",
    "excerpt": "",
@@ -931,28 +953,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRjdmcVpiNUxKRjVhZmJSc1J6bDU2dTVsSUF4TDEwa3ZUYmFEOTFqT1VpbEg1a0VzcDltQ2tJOTNqYzRIQndvdGtmZEJrN2dyQ0Eyb1lCWXNYZHNoZWVFUzJGWVZKTlpWek5XQ09SMFB4ZE9jaVItYlRaVnhRdWhTSC0zb013OExHdU5BWFB6RDRfbTY4RVhzd1NRRkw3aTBYYVpJQ3RLTWc4WENsaW13MTRkM2VwTnhhRzZPMVJja2tfRml3VkhPbFNlVlVfWnN4TlB2TjB6SdIB8gFBVV95cUxNbWg1anlwdlBBa2tCTE1NOFUydlVKQkZSRU9wTDdkNmN4RmVUNG9raW9OREhhRmpJNjc3Q0k3LXhsbHhUbThieVBXZmtxQlcwcWVKdExINHk5XzB3Tm9tcjRFYzl6azlfbGhTQ0lUbUZRTWpET21tN0VxTE1LU0tEeHFUSVhlVTlsd1Z1UVRSUGxMWS1iR0R2ZWlsTERFUVVzTS1HLUMxLWV2RDJqUTNJaWFYa2lVcF9TWW1qRDFyZ3VGWEcyNFpoRjNuNkRyczVDd3Rya0txOFJDdzR6bktGcVJiSDBjTnozd3BiTDBzTVRkdw?oc=5",
    "date": "2026-10-27T14:28:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08bb1e00dbb2",
-   "title": "Keiko Fujimori celebra visita del papa León XIV",
-   "excerpt": "",
-   "source": "CanalB.pe",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFljSFA4VEY5NzVJd1VFb1owSWh2ejZnUWxvU3JHLTZqaGNISW0weWFnSG5sLU1adWJDcVBZN0VpRGRsaFdnVWJkd2E3MTJuc0V4X0JRd3NpTllBYlVXc3h2R1ZYWk5XWXZjeDNQY0RGaVMwdHhCemJWNUF0ZHJaX2sxQXIzYkF1aGhmdVJR?oc=5",
-   "date": "2026-10-27T14:18:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c9b50433aca6",
-   "title": "Luis Galarreta asumirá el Despacho Presidencial durante los viajes de Keiko Fujimori",
-   "excerpt": "El primer vicepresidente, Luis Galarreta, asumirá el Despacho Presidencial durante las próximas ausencias de la mandataria Keiko Fujimori, quien realizará una gira internacional en dos tramos con destino a El…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/luis-galarreta-asumira-el-despacho-presidencial-durante-los-viajes-de-keiko-fujimori-a-el-salvador-y-espana-noticia/",
-   "date": "2026-10-27T14:16:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
