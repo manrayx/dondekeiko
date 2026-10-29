@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T23:09:42.915877+00:00",
+ "generated_at": "2026-10-29T23:31:12.636036+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -97,12 +97,12 @@
  "last_place": null,
  "next": null,
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 60
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -310,6 +310,50 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c458ceafa91e",
+   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
+   "date": "2026-10-29T23:30:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6a2ee28c2594",
+   "title": "Presidenta Keiko Fujimori: “Vamos a enfrentar y arrinconar a las organizaciones criminales”",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUtLd0VVR0dFMEc4VTdYcXZkVzF3LWZOd2F3QjBsVEwwelhZaUh0UHpBcXJid1NXSlctbURNc01FNXZadnI5TTQ1UDN2dWx5X1dnbF9CQ2NWX21OaHo0LUp5SDR4VW5VSlFFb2Ixbi1zQ0xCdFFMY3VuaVQ0UVR2Q1Z5N2l1WEl3cFRlcFFCdEJoOGZRZEpFQnRnY1QxZ1Z0eW5zQmZ1UlI4QnJ0cFp0UTlrOFJZVWxRbE9sN0JZSmJZVUtxV3J1ZThrc1Q?oc=5",
+   "date": "2026-10-29T23:25:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d485050ec5be",
+   "title": "Keiko Fujimori elogia el modelo Bukele y afirma que Perú “debilitó y persiguió” a las FF. AA. y la PNP",
+   "excerpt": "Durante su visita a El Salvador, la lideresa de Fuerza Popular defendió la política de seguridad de Nayib Bukele y responsabilizó a gobiernos posteriores por el debilitamiento de las instituciones…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/29/keiko-fujimori-elogia-el-modelo-bukele-y-afirma-que-peru-debilito-y-persiguio-a-las-ff-aa-y-la-pnp-hnews-2750157",
+   "date": "2026-10-29T23:20:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f52d26b737d6",
+   "title": "Presidenta Keiko Fujimori en El Salvador: visita Centro de Confinamiento del Terrorismo (CECOT)",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-en-el-salvador-visita-centro-de-confinamiento-del-terrorismo-cecot-noticia/",
+   "date": "2026-10-29T23:12:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6cd6ef0f51ea",
    "title": "Keiko Fujimori se reúne con Nayib Bukele en el marco de su visita oficial a El Salvador",
    "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reúne este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
@@ -369,7 +413,7 @@
    "title": "Presidenta Keiko Fujimori destaca el modelo Bukele tras visitar el CECOT",
    "excerpt": "",
    "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTcybUVFckNRVTNZTnctTnRYdm9hOEtqOGlrclRNREdoYVBpeEF1bUU1NnJBWnVuTEpFbWMzMXh5RW1vcFpYNDlqQlRiaGtpQWpOZk12N1g5amhEZnNmYzZRODN3SzVLLTRPYjFILVBjaFkwUmtyRzhzR0M1QUJnME1pa0FVSlNuLUhaSm42RzhoVzNlckgwVVZ1WllZOWpHYWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnZXbTZQeDdQckszOXRSRUNuSmUwTFE3VzdaVjdxVWJabWQ4cWZ5RWV2Vjh1SDNBOGVWYWRpcjVlQ3Y1dUZTckI4NFdBcjF2ZldHOUUzOThvc3hNbS1kQWc5RFM5aFY0c2lnQlYwNElnelRRVms4MmhKSjIwVXdwMEV4MGRxbjZIX1VTVUVXeGtFV0lzcFZUUGZYRlFxQUs1YUw5OGstVQ?oc=5",
    "date": "2026-10-29T21:44:13+00:00",
    "state": "posando",
    "place": null,
@@ -394,6 +438,17 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41aFkyc2NfSnZoQWExTU1xQlBqb1NKcE5PSTNqQzRlU29WZTNBYlBsNkJLRTY3RVRVTzhUMl82NjdpamV3Tzh5SjVjWUtGS01YUk9GWDlQaDE1R01KMEdhdmNpLWktTl9RMUZ1dzJZNDh6QdIBckFVX3lxTE41aFkyc2NfSnZoQWExTU1xQlBqb1NKcE5PSTNqQzRlU29WZTNBYlBsNkJLRTY3RVRVTzhUMl82NjdpamV3Tzh5SjVjWUtGS01YUk9GWDlQaDE1R01KMEdhdmNpLWktTl9RMUZ1dzJZNDh6QQ?oc=5",
    "date": "2026-10-29T21:35:44+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1756a78647a6",
+   "title": "CONFERENCIA DE KEIKO FUJIMORI Y NAYIB BUKELE DESDE EL SALVADOR | EN VIVO | El Comercio",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTQzc2s1QWE2NkZqeE5DTUgtRXB1aS1EUXE5NkJfUFpncTkzd1I0QTFIckxOWUtmV2VpN1JHam1aX1dmN3hLM2oyOEJnOWtUSFFIMDI0VGs5N2xHb09BQnUwZmhqUHZEYWRFQkVlSWZLRktJVkIzQkM2cl8xRnJwUmZqZmFKUzdFZ1c1S09CeUkwek9YMUh4WXlBT01PNTZ3aHd4dW1rdzlWS1Yzek9RaVhvSEpJcXN2QUNTUUdn?oc=5",
+   "date": "2026-10-29T21:31:05+00:00",
+   "state": "transmitiendo",
    "place": null,
    "next": null
   },
@@ -486,17 +541,6 @@
    "next": null
   },
   {
-   "id": "f52d26b737d6",
-   "title": "Presidenta Keiko Fujimori en El Salvador: visita Centro de Confinamiento del Terrorismo (CECOT)",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-en-el-salvador-visita-centro-de-confinamiento-del-terrorismo-cecot-noticia/",
-   "date": "2026-10-29T20:16:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "245eebf5f410",
    "title": "Keiko Fujimori recorrió el Centro de Confinamiento del Terrorismo durante su visita a El Salvador [VIDEO]",
    "excerpt": "",
@@ -514,17 +558,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0NUUGZPUHA0SVU2TV9fWHZDQ3pSTlBYQ2tHbGxTcVZ6U0g0MWNuQWdia3dMemVfM2xXUk0zNXZMSlZpSDJEV0F6djB5bDVLNDVmMS1yZXNqOV9pSTlwMnlhRGtIS3IzYldoMmJiM2lxa19oUnI5T3M1SGowV1lWY0RHRElZckZpbHJKRktvVHlmUnFqNmJkeTF5UnVlYWlaMUNCNE9DZUJscnNQOVBrM00wWVZoWXZGVWtuTWFETzhCZDh4dlQ2RE1YSmdBN01qN3J4ZTh1T0h6MWRmci10SWdyZ9IB_gFBVV95cUxOUk05dXZ0cXJaQ3FBVjhSdU1Ga2dfR0kySE9qX01FRFlOX29JcHdxREYtVTNNdDRvOU1CTHIwRWpndzhLa3ZqaDJzU2V6VkhPMXpJczcyX3JXWVdnakgxLWlVb1Faa09rMmNUbjBYc25TVDdqYmJVODdmZ050VkxjNU1ZWVA0d3VwazNTeFlJVTEwQVpDQnV1UWdubF91TlpxMjkwbm1CXzdSNWc1YTJOMUwtME9LamI4VUR1YmZ5WWRjTG1XRmRDenBIeFdjamN2TWEtbVJMajR0cjZxeFgzc194T010Qkh2RWE4bGV2MGE3WkNCVTA5UUFfejZhUQ?oc=5",
    "date": "2026-10-29T19:34:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c458ceafa91e",
-   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
-   "date": "2026-10-29T19:16:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -932,39 +965,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeS1HMzNQTDhhY3ktdzkzUkRSWXMzU2Z6cS1YVHZoTTRhdHQ0YUtmRGdtZjNPMnJqY1UzT3VJZXVuTWJTQ1hIS1Y1UzF0cXJfRmxyRUYyVWJmck5IaHpFT0E4OHRmOWRSNGRFYTdPTWhrOEx2VnRuTDJ0RkI2T01URzJia2tEdXlHQXNhVXJNV0YyMkZpVHVESzNUR2w0WWJmanQ0?oc=5",
    "date": "2026-10-29T02:48:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c5ca237ad3a7",
-   "title": "Presidenta Keiko Fujimori llegó a El Salvador para su visita oficial con Nayib Bukele",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMEE5UUJ2WnpabnhOSEZfTGNveTB6bGpMZkFrWm5uSU1qTTV4WFNRYmhSVjdTS0ZrS0N2a2piRHBUN3UyLXJla0U0YW9JcDdwNzJUQ0w0Q2pTS0Q3YnRRemFEQTZsMVhWR3Q2Q3BhOEhXTGZBQ05xMlZJdVlST2ZMSFlXZ1pHOXZacE5XRXBMVTU0QmdpdHFRVDg4bWNNOUdCc2Itb3BBcWpnX3FqRlpMVHpvbGNKSHFLMVdSVFhB?oc=5",
-   "date": "2026-10-29T02:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "accf87c6859b",
-   "title": "Presidenta Keiko Fujimori llegó a El Salvador en visita oficial y fue recibida con honores",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnNXOFBMTDR5NFpXQmhYM0ZkdXBmLXF6WEp4X1p5VGo2NUQwSnk2Z0FONndSYmJ6WTBZQUZ2UU5jUzA0LVFybV82eVkwUnFreTZWN2ItZEFpSUp1aFRmZXN2N2RkdWdUR2lCOTR1UDc3OVpmODVLTE4xNkpxSjRkZEo0NVItd09sTVNUSUJOSEkxUXF0RDh6eHQ0T1VKYTk3cXJjWjBuaURZUzc5M2M4NWdGdWgzamQ4eVVqWThWMC1jbDdTLVE?oc=5",
-   "date": "2026-10-29T02:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7e044aceaf13",
-   "title": "¿Qué busca conseguir Keiko Fujimori con su visita a El Salvador? Exministro responde",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjY4Z2c5eWxhZjg4NHRLdDMxYXN5ZW1oNERmZ0xYRkhsMUhST2pMcDc4cXo4cndlU29wcVlzZ0s3d3YtVVU0VVlTX3pTbmJkZUZpR2syaS1ud2VlUURjT24zX0RBSmR4cjh5VmxDTV9ZUlZ6Tmt3dFVqM2lmR0FRUGhsTFROY3BVdUtRTDNPZ2UzS2xQUXNwemhDQkxaTFgyT0RtSXJOUDk3VWh2Mi1QT0UtTkVmN0xkLVFkUkhNMWJFSlBvbHJ5NA?oc=5",
-   "date": "2026-10-29T02:10:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
