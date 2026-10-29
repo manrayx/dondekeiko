@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T20:37:08.869084+00:00",
+ "generated_at": "2026-10-29T20:58:23.379068+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,6 +111,23 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-29T09:30:00-05:00",
+   "end": "2026-10-29T12:00:00-05:00",
+   "minutes": 150,
+   "subject": "Visita y recorrido por el Centro de Confinamiento del Terrorismo (CECOT). (Hora local)",
+   "lugar": "Municipio de Tecoluca, departamento de San Vicente, El Salvador",
+   "state": "posando",
+   "place": {
+    "name": "Municipio de Tecoluca",
+    "full": "Municipio de Tecoluca, departamento de San Vicente, El Salvador",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
   {
    "start": "2026-10-28T20:30:00-05:00",
    "end": "2026-10-28T20:30:00-05:00",
@@ -289,9 +306,42 @@
    }
   }
  ],
- "agenda_minutes_7d": 446,
+ "agenda_minutes_7d": 596,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "723e05495172",
+   "title": "Keiko Fujimori recorre megacárcel CECOT de El Salvador antes de reunirse con presidente Nayib Bukele",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, visitó este jueves el Centro de Confinamiento del Terrorismo (CECOT), la prisión de máxima seguridad de El Salvador, como primera actividad de su…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-visita-megacarcel-cecot-de-el-salvador-antes-de-reunirse-con-nayib-bukele-ultimas-noticia/",
+   "date": "2026-10-29T20:55:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7625691237bf",
+   "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
+   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
+   "date": "2026-10-29T20:42:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b383d1f611b8",
+   "title": "Keiko Fujimori visita megacárcel CECOT durante su primer día de actividades en El Salvador",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONVN2d2o3bDEyV2hCZjIzWEgxZTdJakFKb0RCY18tWDFibVQ2S2hMTjlkMTZ1RW51RkFDZ1AwdklfenVkdFVCQ0pvT21ZZkt1LWhvT0prZzBsd2UybUltcFpfSmJsOVVxMGxEcmg2VFlyVTROa2NZbllCRW1mV0FNT0NfV0liclRkQzk3Z1BKXzVERmV0eHA2QjZnT3ZZUkY4dmJpLWdDYzhGdkNodEpHU1ZwYjVteEJkZUwwNV9jTl9IVklYd1VOUFJCSF9Dc19EQTJMOFJEMXhxMl9pT3psbUNXMkNKQzFiSGhqZjhMejJNYURoSERIZ09BbUNWN0E?oc=5",
+   "date": "2026-10-29T20:39:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "032080787f49",
    "title": "Presidenta Keiko Fujimori visitó el Centro de Confinamiento del Terrorismo en El Salvador",
@@ -376,17 +426,6 @@
    "source": "Howl.Link",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE40b3ZSSUpRZ0kxaDJtbkE2VWVKWUxrR044bXYwWmE0OVozcTR0bUVsZjFzLTk3dkFOZXpJ?oc=5",
    "date": "2026-10-29T18:47:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7625691237bf",
-   "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
-   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
-   "date": "2026-10-29T18:37:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -929,28 +968,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "6a4a54263ca0",
-   "title": "Keiko Fujimori visita El Salvador para conocer el modelo de seguridad de Nayib Bukele y visitar la megacárcel Cecot",
-   "excerpt": "Durante su estadía, la jefa de Estado se reunirá con el ministro de Justicia y Seguridad Pública salvadoreño para conocer el programa “Cero ocio” de reinserción social",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTBpQTJhb1ExTEg4THRwQ3lTMkVEWkZEXzZaNjJyaUZiNzRTcXhxbG9nb3pCWHpveV9rWkhvdkJEVE5OY181c0p6b0NnYXhBcmlkU0pkanhqXzhuTWEyTXhab2QxR3pfRG9XZGNPenppTGpPRUtwTUV2MXg5NmJCSDNlbER5ZnR6Vk9KcG1mV0FLRG1IZ1VjcmZZeEIwbk9BMzE1b2g5Y05jY1RKMExCV1E3djB5OG1QLWVkRzY3VV9BVU9LYVBtNDhSVVVhOUhQbmNZc05wMUZCVlpYRVg2RHdfT0tlRnh6UGdpeWpR0gGIAkFVX3lxTE9nNmVnYUp1a0dsSGg4a1dEdUFtdmI0bkowYXJtVFVqMHRaNF8yMXkwMUxGN0djVzB1cUNjM2VMUTUweXp4ZUpCU3RwLTh5R1hYUUxubEFTNGdNYTNWVTBQRmNFekk4Wmx4d01zQ1I5VWJqRXdTNXJ2MnBGZk00MjZ5WlRJWld6b2MtcHl6dXM0NDYxUkxEWkN2WC02cnZXaFdhVWFxeXE1OEktRFl3emppcUZ5WG90SjIwWURDcFIzdVpMeFJ6c3ZjVnZ4dnQ5MjV3RHlEc0pVaFFkYmRDbTNTQXdEWVRzOUlQSXM2dlkwOW84UWIyR3pwU3dPUVhLRUZHTW55QllrcQ?oc=5",
-   "date": "2026-10-28T22:29:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1b81543c8dcf",
-   "title": "Keiko Fujimori llega hoy miércoles a El Salvador para conocer el modelo de seguridad de Bukele",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFBweGhqMFVIZnZIUzBxVk1ZYlgwWWRkUDN6bGIyR2xneHJiTHdtcDZYVS16V1d4QnY0MHB2VDZLY29RRVhCWDRjY1pUekEyaVNoX3d0T0VoZElQd3UwVGtUdzJQaHVQVWhYdFVZUWx4dWoxQjBkSXN0OXNMRnNLQmJwSWx5cVRKd0ZuOHg1NlVZWDRuSDVTclJpVFRQZnBzR296bTdKRVFZMU1JZDl6cmY4ZTR2TWxOTE9YOFR5ZFhiQXlQQ2taTnYwcnAtTE5OdHl3WnQzbkptd9IB9AFBVV95cUxORnhPNkVCVkFQc2lzVjJ6UTgzMlVjTklQakh2TkhPWEZYU3lsRHh2YVFLS2d5Wkp2MTl1SXBIcjRtS0VFUVBiQXJPS0xpamVpYTczbVNkVG1fUm1Gd3pyRkxaTG9EVnZORXBKakdQS0RnYU0tdkk0cHB1U3VnVG1DcFR6Z0hfNE9GdWE1V2xpaHVJdHRQNURJSHNIOWRfVW12VmVXMU1fSm9ERGVfdklrVDlBNUpaUk9NTmVla3ZPYlRwcmlGQlNHUTB4dFVDSl9ORGR0enYzdHkzUXpYcldReEczTGFuQ044YjVVUnJwS3o3cTdz?oc=5",
-   "date": "2026-10-28T22:11:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -993,6 +1010,8 @@
    -77.11941
   ],
   "aeropuerto internacional de el salvador san oscar arnulfo romero y galdamez, peru": null,
-  "centro de confinamiento, peru": null
+  "centro de confinamiento, peru": null,
+  "municipio de tecoluca, departamento de san vicente, el salvador, peru": null,
+  "municipio de tecoluca, el salvador, peru": null
  }
 }
