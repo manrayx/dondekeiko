@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T01:09:09.688411+00:00",
+ "generated_at": "2026-10-29T01:30:57.549055+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -302,23 +302,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4ee70fa95352",
+   "title": "Keiko Fujimori reduce de 3 mil a 2 mil los colegios prometidos durante la campaña",
+   "excerpt": "Durante la campaña, la propuesta inicial de Fuerza Popular incluía 3.000 colegios en cinco años, que luego aumentó a 5.000, abarcando nuevas construcciones y recuperaciones de locales.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/28/keiko-fujimori-reduce-de-3-mil-a-2-mil-los-colegios-prometidos-durante-la-campana-hnews-1691676",
+   "date": "2026-10-29T01:26:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b2b5435b1d7b",
    "title": "La presidente de Perú Keiko Fujimori llega esta noche a El Salvador - En La Mira Noticias",
    "excerpt": "",
    "source": "Howl.Link",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9WbGt1WVhsN2g5d3IwT0hrdDV3T21HeWM5RlZWQVdhcmo0YWxsb0lBQXJycTF1Yl9pd2s4?oc=5",
    "date": "2026-10-29T01:04:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4ee70fa95352",
-   "title": "Keiko Fujimori reduce de 3 mil a 2 mil los colegios prometidos durante la campaña",
-   "excerpt": "Durante la campaña, la propuesta inicial de Fuerza Popular incluía 3.000 colegios en cinco años, que luego aumentó a 5.000, abarcando nuevas construcciones y recuperaciones de locales.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/28/keiko-fujimori-reduce-de-3-mil-a-2-mil-los-colegios-prometidos-durante-la-campana-hnews-1691676",
-   "date": "2026-10-29T01:04:26+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -349,7 +349,7 @@
    "id": "64833ba8ac42",
    "title": "Keiko Fujimori viaja a El Salvador junto a comitiva de seis funcionarios y un gasto de más de US$ 19.600",
    "excerpt": "",
-   "source": "altavoz.pe",
+   "source": "Diario Altavoz",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXNJWmJtaVFCbnNuS3pwSFdUWVVubTBGVlRNUkpHdnFpWXhEYThGVzAtUlpzcVpNUzNtVEMxZ1BoMGplTTl4QS1nWlk5WXdKMVkzOWFlRzRuYlJLRlU4LWRQdzQ4SFBjcFdnRHdKdnpVRnJ2aEd4LWF3Qm5oS0hjNmxzTjNRZVlVRnJXR3NMYm1tM08yOWprdllJOTdYamtBVnpNNkoxTl9pelUzR2NNVEoxMlRZRklQVEFhcVpGNldPajB4a0JpdkVDdU4?oc=5",
    "date": "2026-10-28T23:30:07+00:00",
    "state": "posando",
@@ -493,7 +493,7 @@
    "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
    "excerpt": "",
    "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQks1TEJ6UjR0SE55ODZfcTZhRXYtYnBHXzVzYUZhYm5DUEFXYlQ0blJid1FZeXo4UVdvak02X3dCQzRQMTUyMmQwc2NWSERMR3ZuQUZpSkFpOVo4RVFGam5qRWJFakhydS0tck5CLXc3QktqNl85MERlMHk0eXk5YVVLZEZNNXR1T1F2M0JCRmh4YlRLOTdYRHFwTnh5aFh5WXI4bi1nQmVFUmxkc2tMLXNNbFd5MTFLdURqNjJQX3VBb1dzakR1X1lrY0vSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNKU21rbmN2SXdheU1WemxBWDJ6ZVJIdERJTmtKMFdzS2JPVXUwOWRUdVY4UnFFejc1bWRqOURkaG5WS3VQWGp3YUU0MGwwMnhzcEV1YWJTQlFSaWJuM2hDVjl2SHJWQWtDM0pVbWRPQVdaU20za1h6OWM4RWYwRDBzOFc5cGp6eVp3LWFRaWppYUhIN2Q0ODRsb3Nvd0x6Vzdqem9jbmRaWThwRUFtVmpCM0RuRU1ZdE5ReWZzN25wcEV6NUNv0gHMAUFVX3lxTE14SHZsMEVTa0tKdlB5OUtXX2JOWlZxSTVxc2dxdGFnM0N3Yi1CV2dod1VpZlNkdjJDQjl2M2cyVDM1RzNrTWszUFU1MC1LNUF6X3FmaXlhNVh2XzdkMzAxVk0wZE9PQ2J5TnVnSzFDdWJRdEhCblhsOWM0djh1TzZ3OHhNOEdPQXVBcVluMjhfbU1SNjU1UmNqQmxlQUhuSDZhN3J0MUJyV2ZGeHYxaU82OXo0RGJ0dFhTd2Rpa2F0Rm9qSDlGUDA5bEItWQ?oc=5",
    "date": "2026-10-28T21:33:30+00:00",
    "state": "posando",
    "place": null,
@@ -658,7 +658,7 @@
    "title": "¿Qué opina Miguel Torres sobre el viaje de Keiko Fujimori a El Salvador para conocer su modelo de seguridad?",
    "excerpt": "",
    "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVQtdU9EWDVVWkg4YUlwWTBxTmM3T1U1bDdJanB6U05HWUYzSUZRb19ydjdSZHB4ZjNxTmttdWFQdDN3QzlkdGltVXUwMGNjVXlMaTZUU3lKOHJnRXI2aXNvNnN1VWZ5YmhUUEF2elNFc043dE5QanJSQ1JmM0ZCc29rNUNxaUl1OVBoak1CdVQ5MDBZcGRpeTJqUTh3M2Jxekw0MTYtV0ZWbEhGTURLN0VRSHBKZFFlS1VZM2FlbHN1Zjh5SktyTmF1SGFtblJDYW5jRGdqY9IB3AFBVV95cUxNdmp0Q2tNcjBDdklwMWhUdXFQYW14SjRKbzdDa0ljclVUNHYwb0xGVV9JYldVOWN3cUZqZmFJWEN5Rkp5amNLN0lpblNjUlRKRVZ2Y2hDZ1pvVFRJaDZ2bGthcjg5TUNaT0dzMGRfUlRubGc2WC1oOGNERzBEeXQ3MmpIZVh0OWZ3TVVKanBiM0s1X0RGallxV1pPeE5tYXE2cW5jeS1IVmIxbGZ6Slg2VmFac29oMGMtaktBVmNvTV9MY056V1U2bmlndEZ1SmU0MnVKbjJRMnIwUDFI?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdmp0Q2tNcjBDdklwMWhUdXFQYW14SjRKbzdDa0ljclVUNHYwb0xGVV9JYldVOWN3cUZqZmFJWEN5Rkp5amNLN0lpblNjUlRKRVZ2Y2hDZ1pvVFRJaDZ2bGthcjg5TUNaT0dzMGRfUlRubGc2WC1oOGNERzBEeXQ3MmpIZVh0OWZ3TVVKanBiM0s1X0RGallxV1pPeE5tYXE2cW5jeS1IVmIxbGZ6Slg2VmFac29oMGMtaktBVmNvTV9MY056V1U2bmlndEZ1SmU0MnVKbjJRMnIwUDFI0gHcAUFVX3lxTE12anRDa01yMEN2SXAxaFR1cVBhbXhKNEpvN0NrSWNyVVQ0djBvTEZVX0liV1U5Y3dxRmpmYUlYQ3lGSnlqY0s3SWluU2NSVEpFVnZjaENnWm9UVEloNnZsa2FyODlNQ1pPR3MwZF9SVG5sZzZYLWg4Y0RHMER5dDcyakhlWHQ5ZndNVUpqcGIzSzVfREZqWXFXWk94Tm1hcTZxbmN5LUhWYjFsZnpKWDZWYVpzb2gwYy1qS0FWY29NX0xjTnpXVTZuaWd0RnVKZTQydUpuMlEycjBQMUg?oc=5",
    "date": "2026-10-28T18:27:17+00:00",
    "state": "posando",
    "place": null,
