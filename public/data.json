@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T00:04:46.449420+00:00",
+ "generated_at": "2026-10-29T00:26:50.720732+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -379,6 +379,17 @@
    "next": null
   },
   {
+   "id": "6a4a54263ca0",
+   "title": "Keiko Fujimori visita El Salvador para conocer el modelo de seguridad de Nayib Bukele y visitar la megacárcel Cecot",
+   "excerpt": "Durante su estadía, la jefa de Estado se reunirá con el ministro de Justicia y Seguridad Pública salvadoreño para conocer el programa “Cero ocio” de reinserción social",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTBpQTJhb1ExTEg4THRwQ3lTMkVEWkZEXzZaNjJyaUZiNzRTcXhxbG9nb3pCWHpveV9rWkhvdkJEVE5OY181c0p6b0NnYXhBcmlkU0pkanhqXzhuTWEyTXhab2QxR3pfRG9XZGNPenppTGpPRUtwTUV2MXg5NmJCSDNlbER5ZnR6Vk9KcG1mV0FLRG1IZ1VjcmZZeEIwbk9BMzE1b2g5Y05jY1RKMExCV1E3djB5OG1QLWVkRzY3VV9BVU9LYVBtNDhSVVVhOUhQbmNZc05wMUZCVlpYRVg2RHdfT0tlRnh6UGdpeWpR0gGIAkFVX3lxTE9nNmVnYUp1a0dsSGg4a1dEdUFtdmI0bkowYXJtVFVqMHRaNF8yMXkwMUxGN0djVzB1cUNjM2VMUTUweXp4ZUpCU3RwLTh5R1hYUUxubEFTNGdNYTNWVTBQRmNFekk4Wmx4d01zQ1I5VWJqRXdTNXJ2MnBGZk00MjZ5WlRJWld6b2MtcHl6dXM0NDYxUkxEWkN2WC02cnZXaFdhVWFxeXE1OEktRFl3emppcUZ5WG90SjIwWURDcFIzdVpMeFJ6c3ZjVnZ4dnQ5MjV3RHlEc0pVaFFkYmRDbTNTQXdEWVRzOUlQSXM2dlkwOW84UWIyR3pwU3dPUVhLRUZHTW55QllrcQ?oc=5",
+   "date": "2026-10-28T22:29:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "82468b03db5d",
    "title": "Keiko Fujimori viajó a El Salvador en medio de crisis de inseguridad",
    "excerpt": "La comitiva, integrada por siete personas, incluida la mandataria, representa un gasto de US$19.616,15 para el Estado. De ese monto, US$12.686,15 corresponden a pasajes y US$6.930 a viáticos, de acuerdo…",
@@ -418,17 +429,6 @@
    "source": "larazon.pe",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0djbkFaZkxhdU1mdDRCeXdzY1FwM3hHdi1oSXVPYXJKYTZtN0tBTi1JWkVXTnhnZFlheUU3eG03dkpyXy1NeU90Z0FWb3gxSVVKZ3pxdzNPMEtGcWhfanJLZGJWTVBNZ09Dc0lYQnR1UjVUOEVJTTZkTFVUMXdLX1FEN3BDNmJzeFYxdTl3?oc=5",
    "date": "2026-10-28T21:37:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6a4a54263ca0",
-   "title": "Keiko Fujimori visita El Salvador para conocer el modelo de seguridad de Nayib Bukele y visitar la megacárcel Cecot",
-   "excerpt": "Durante su estadía, la jefa de Estado se reunirá con el ministro de Justicia y Seguridad Pública salvadoreño para conocer el programa “Cero ocio” de reinserción social",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTBpQTJhb1ExTEg4THRwQ3lTMkVEWkZEXzZaNjJyaUZiNzRTcXhxbG9nb3pCWHpveV9rWkhvdkJEVE5OY181c0p6b0NnYXhBcmlkU0pkanhqXzhuTWEyTXhab2QxR3pfRG9XZGNPenppTGpPRUtwTUV2MXg5NmJCSDNlbER5ZnR6Vk9KcG1mV0FLRG1IZ1VjcmZZeEIwbk9BMzE1b2g5Y05jY1RKMExCV1E3djB5OG1QLWVkRzY3VV9BVU9LYVBtNDhSVVVhOUhQbmNZc05wMUZCVlpYRVg2RHdfT0tlRnh6UGdpeWpR0gGIAkFVX3lxTE9nNmVnYUp1a0dsSGg4a1dEdUFtdmI0bkowYXJtVFVqMHRaNF8yMXkwMUxGN0djVzB1cUNjM2VMUTUweXp4ZUpCU3RwLTh5R1hYUUxubEFTNGdNYTNWVTBQRmNFekk4Wmx4d01zQ1I5VWJqRXdTNXJ2MnBGZk00MjZ5WlRJWld6b2MtcHl6dXM0NDYxUkxEWkN2WC02cnZXaFdhVWFxeXE1OEktRFl3emppcUZ5WG90SjIwWURDcFIzdVpMeFJ6c3ZjVnZ4dnQ5MjV3RHlEc0pVaFFkYmRDbTNTQXdEWVRzOUlQSXM2dlkwOW84UWIyR3pwU3dPUVhLRUZHTW55QllrcQ?oc=5",
-   "date": "2026-10-28T21:34:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -616,6 +616,17 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVQtdU9EWDVVWkg4YUlwWTBxTmM3T1U1bDdJanB6U05HWUYzSUZRb19ydjdSZHB4ZjNxTmttdWFQdDN3QzlkdGltVXUwMGNjVXlMaTZUU3lKOHJnRXI2aXNvNnN1VWZ5YmhUUEF2elNFc043dE5QanJSQ1JmM0ZCc29rNUNxaUl1OVBoak1CdVQ5MDBZcGRpeTJqUTh3M2Jxekw0MTYtV0ZWbEhGTURLN0VRSHBKZFFlS1VZM2FlbHN1Zjh5SktyTmF1SGFtblJDYW5jRGdqY9IB3AFBVV95cUxNdmp0Q2tNcjBDdklwMWhUdXFQYW14SjRKbzdDa0ljclVUNHYwb0xGVV9JYldVOWN3cUZqZmFJWEN5Rkp5amNLN0lpblNjUlRKRVZ2Y2hDZ1pvVFRJaDZ2bGthcjg5TUNaT0dzMGRfUlRubGc2WC1oOGNERzBEeXQ3MmpIZVh0OWZ3TVVKanBiM0s1X0RGallxV1pPeE5tYXE2cW5jeS1IVmIxbGZ6Slg2VmFac29oMGMtaktBVmNvTV9MY056V1U2bmlndEZ1SmU0MnVKbjJRMnIwUDFI?oc=5",
    "date": "2026-10-28T18:27:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "26184e81e4b2",
+   "title": "Miguel Torres sobre viaje de Keiko Fujimori a El Salvador: \"Hay que rescatar las lecciones aprendidas\"",
+   "excerpt": "",
+   "source": "Diario Altavoz",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUl9oQUNFbFA0OFc5S3hPOUItcTRoVnA3bmxMcnh5TnE1MVBYOXVtZV8xQnJKSGNfSGpndHJqYlRDbWl3WE4xS0xPcFlPd0NUWTB5V3ZiZmtaZ0UycGZ4ZUI4RUpDMnBCM2pZWmlLMldfcC00SEpYZkZYTEJWdFZFYnU1cFVmTGhDZHczOHBTelliemlsU0tMRllCNm9FRGhndGEzWG5pVS0zbzhvNGpxUTQxSFRBUzRLcmcxQWFTcWgwa2FMYlRr?oc=5",
+   "date": "2026-10-28T18:19:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -958,17 +969,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZTJ4SkJ5bXNEZU9qaVhPNElITjBhalNqeXJkbjVOdlhNWFA0QmhUMk9nekIyek5DQk1SOUhfNXJpRnRFX3Z6Y0NsbXk0T2o5VWNEMW4xTXFKNFpIOExvV1JWR1V6RzY0LVRXcF9EeHJ5NC1pcGZtcFBTNVZjYkdkNm5SRXBpS0NnSFZ6WEF0akdqNTNqQmtmQjFnTG5WblhxU1MxVWtDU05sUG9jczUzd2tsYw?oc=5",
    "date": "2026-10-27T22:08:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "341c9abdfb11",
-   "title": "Keiko Fujimori destaca ahorro del Congreso y anuncia prioridades frente a El Niño y la criminalidad",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc0pTUUpsVWxaQy1vbnNqX3VLbk9Udk13TGN2N1lOaVdsTDhJMW5JclRNUW5WcGpOVmJ6SU9jczctU1ZFS251amJadVZhdnFaTXhxZnl4NE1rMUQ2V0t2MXBTZUpyMVJFYVFmT2VWZF9VZEtwNEhfdmQ5Qm40MXlQMmVmSWYxbGhrczA2c3ZrZTRHQTdaaXNBUURkNkdMZzhBbGE5S21JeXRmQlM5Z1UyN1ktMXN1LXZJanJBQ0h2SjIzUWNTVkhUcElLcDRpclRPeWpRX0lhVnjSAewBQVVfeXFMTVI5YXU2VjhrUWlKSFpkX1BhRjAyT21uUUNUa1Z2d1FxVk9EY09famtFT0ZSVk1NZTktRlNJU0Q5a3dsd2lnNGI2dVE2c3U4dlhOd0tuYnJkUDFyNFNSYzdQQnZjaHZGTHpqaF9rWlFxemg5QWxuMkRpSW5PeWFRX1NjemcxMEhIQWlLRjgwTUloRGZYeGd1cUt0SURjQkZNS2pxSWkxVGMzc1VOMzNSOEktNjlKeE01b0RFZmVFZnZ0YUpfUWJ0ZGxtSEg5c3ZUdk55RnhYYVQyVFpiQXdiY20yNlZOQmRMZ0FWSHg?oc=5",
-   "date": "2026-10-27T21:42:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
