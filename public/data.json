@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:20:15.257837+00:00",
+ "generated_at": "2026-10-29T21:42:14.588827+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -310,6 +310,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7ecda0e8f2a7",
+   "title": "Premier Luis Galarreta reitera que Keiko Fujimori traerá de El Salvador el “modelo exitoso” de cárceles de Nayib Bukele",
+   "excerpt": "El jefe de Gabinete explicó que la visita de la mandataria al país centroamericano apunta a conocer experiencias en materia penitenciaria, aunque no precisó qué elementos del modelo salvadoreño podrían…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/29/premier-luis-galarreta-reitera-que-keiko-fujimori-traera-de-el-salvador-el-modelo-exitoso-de-carceles-de-nayib-bukele/",
+   "date": "2026-10-29T21:37:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "072f5aa36ae3",
+   "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
+   "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
+   "date": "2026-10-29T21:37:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "cf9feca0cea1",
+   "title": "Keiko Fujimori recorrió el Cecot",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41aFkyc2NfSnZoQWExTU1xQlBqb1NKcE5PSTNqQzRlU29WZTNBYlBsNkJLRTY3RVRVTzhUMl82NjdpamV3Tzh5SjVjWUtGS01YUk9GWDlQaDE1R01KMEdhdmNpLWktTl9RMUZ1dzJZNDh6QdIBckFVX3lxTE41aFkyc2NfSnZoQWExTU1xQlBqb1NKcE5PSTNqQzRlU29WZTNBYlBsNkJLRTY3RVRVTzhUMl82NjdpamV3Tzh5SjVjWUtGS01YUk9GWDlQaDE1R01KMEdhdmNpLWktTl9RMUZ1dzJZNDh6QQ?oc=5",
+   "date": "2026-10-29T21:35:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d6ab55ffe706",
    "title": "Presidenta Keiko Fujimori inspecciona instalaciones del CECOT, megacárcel de máxima seguridad de El Salvador",
    "excerpt": "",
@@ -321,8 +354,8 @@
    "next": null
   },
   {
-   "id": "723e05495172",
-   "title": "Keiko Fujimori recorre megacárcel CECOT de El Salvador antes de reunirse con presidente Nayib Bukele",
+   "id": "ffc151cf2d55",
+   "title": "Keiko Fujimori recorre megacárcel CECOT de El Salvador antes de reunirse con presidente Bukele",
    "excerpt": "La presidenta de la República, Keiko Fujimori, visitó este jueves el Centro de Confinamiento del Terrorismo (CECOT), la prisión de máxima seguridad de El Salvador, como primera actividad de su…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-visita-megacarcel-cecot-de-el-salvador-antes-de-reunirse-con-nayib-bukele-ultimas-apuesplan-noticia/",
@@ -365,6 +398,17 @@
    "next": null
   },
   {
+   "id": "723e05495172",
+   "title": "Keiko Fujimori recorre megacárcel CECOT de El Salvador antes de reunirse con presidente Nayib Bukele",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, visitó este jueves el Centro de Confinamiento del Terrorismo (CECOT), la prisión de máxima seguridad de El Salvador, como primera actividad de su…",
+   "source": "El Comercio",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcFFyLTltMW5zRVlfRFpiOWpMb05rSGNjMnBEaF9ScEtyY0NNbElMeUdiUDJ4d3ZKX0RVb3kxQmo2UzFHTlBMMzlxQmVkaWQzQVlKRFZ6TDVrQUpaT0RHdi1ydXZ6cndQUF9VdWd3RVRleWxWdDJqLTFra1ZHNDR0RUNRTlBZbTRJcWd3THlOY3dHR1gzOVRvLUNZOWFiYUgyWHk0X2ttT1AzX3VDdlo3bWFaN0dzY05GdTNzZkIxUWxfNkJDbHMzSy1lTHg3VVUtYU95RVJ2N0poSWxGX0gyREdNX2_SAfgBQVVfeXFMTWl2LWw5SDMwT2RCLVhkMmtGMnBTV3RYcG5iM0g4Z2Y5Ty15NnBELS11bG5PQUtzUUhHOWltSnNydEdiMzFnTmR0MmpLSDdvd21ZUF9ESDJoRTFSTk5nUWY0aTh6SW5BY1VEREFhYXFuUHh2UFVMVnBKZm9aZXIzV1BhejBJVFVrQm5KTTlfUUw3X3BxNjJtd1ZvVVk5bnJvTU5weEZOUDgzdm9aaGZzbTBFMndIdXdSM2F1S1VQRnZrZnJBSTJSckVRUUk0UE0zMV9mUlJxeGlLRURZTXgxY0Q1dWdKaUhQdGpOeUVHeEZGSEk5WU5KODI?oc=5",
+   "date": "2026-10-29T20:28:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "dc25f5ee6a65",
    "title": "Keiko Fujimori visita megacárcel CECOT de El Salvador antes de reunirse con presidente Nayib Bukele",
    "excerpt": "La presidenta de la República, Keiko Fujimori, visitó este jueves el Centro de Confinamiento del Terrorismo (CECOT), la prisión de máxima seguridad de El Salvador, como primera actividad de su…",
@@ -393,17 +437,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-en-el-salvador-visita-centro-de-confinamiento-del-terrorismo-cecot-noticia/",
    "date": "2026-10-29T20:16:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "072f5aa36ae3",
-   "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
-   "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
-   "date": "2026-10-29T20:14:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -448,17 +481,6 @@
    "source": "Howl.Link",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE40b3ZSSUpRZ0kxaDJtbkE2VWVKWUxrR044bXYwWmE0OVozcTR0bUVsZjFzLTk3dkFOZXpJ?oc=5",
    "date": "2026-10-29T18:47:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "648313d5f08c",
-   "title": "Keiko Fujimori visita Centro de Confinamiento del Terrorismo (CECOT) en El Salvador",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVsQ3NIZFRKN09mS0Z0eHZMeVo0a3RWSzhaY1RUUEw0QU85Sm9BVVNtbTdac0hhbENLTlIxbVd6TFpjNVZoRlJMN19FaEh6VXV5cUw1QkFPSzRJUTc1Qnl4Z09vUElxclp3UF9QUHRvaE91MzRHMkVrNld5TjVuUzJST3BnSlNzU1pYOEhjWExyNXBzMG91ZzlwNVNrS3JtOFlPNmFCYm1pT0dsY2c?oc=5",
-   "date": "2026-10-29T18:13:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -943,28 +965,6 @@
    "source": "Diario Altavoz",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXNJWmJtaVFCbnNuS3pwSFdUWVVubTBGVlRNUkpHdnFpWXhEYThGVzAtUlpzcVpNUzNtVEMxZ1BoMGplTTl4QS1nWlk5WXdKMVkzOWFlRzRuYlJLRlU4LWRQdzQ4SFBjcFdnRHdKdnpVRnJ2aEd4LWF3Qm5oS0hjNmxzTjNRZVlVRnJXR3NMYm1tM08yOWprdllJOTdYamtBVnpNNkoxTl9pelUzR2NNVEoxMlRZRklQVEFhcVpGNldPajB4a0JpdkVDdU4?oc=5",
    "date": "2026-10-28T23:30:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7cb7bcc6c2b7",
-   "title": "Miguel Torres respalda viaje de Keiko Fujimori a El Salvador: “Es un acierto de la presidenta”",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmltS0d0NUhGbnNPNVdSaFpIeld1YXE4bjlnZDdmTFFrOVdGLTkyS2p1QThiTEtMYzBOaFNVNzVUMVdMci1uWlA4XzR6R2xTRXJpdllqUkR1dnVtYkVMTDM3U0FtN29qRndyOHRNQ1NHUVo2TlkzZzVQUmd1d3pyTS1BcHVBMmc1Vmc?oc=5",
-   "date": "2026-10-28T23:10:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d3e9ec3ea946",
-   "title": "Keiko Fujimori viaja a El Salvador para evaluar el modelo de seguridad de Nayib Bukele e inspeccionar el penal Cecot",
-   "excerpt": "",
-   "source": "Perú Informa",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOODJ4ZFJJdXpVTGNZZlpaN05XaUZzdUNRM3ladFR4cENnZEt6NlRSV3JhSE5rN2w5VnVEcjR1amZqMzhDN0k0NTg5MkFtVVR3VkltQzZINkNZbEZ5WjE1ZTJFTGNIcGFKRDl4c2UzWkdOZE55bWpXelprbmY3d2pvUzZUcEZaT3FRaXRRRmVuRHI5ZlFQN044cko0VC03TUJjMHRJaVlRQWwtTkhzNWVaa1FVdlBibF8tX193OEk2dndwdEFsTVBxVWF1dHZjZDVzYU5xa1ZQX3pPaGxlLXc?oc=5",
-   "date": "2026-10-28T23:09:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
