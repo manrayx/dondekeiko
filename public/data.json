@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T21:42:14.588827+00:00",
+ "generated_at": "2026-10-29T22:04:18.824564+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -310,12 +310,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "7ecda0e8f2a7",
-   "title": "Premier Luis Galarreta reitera que Keiko Fujimori traerá de El Salvador el “modelo exitoso” de cárceles de Nayib Bukele",
-   "excerpt": "El jefe de Gabinete explicó que la visita de la mandataria al país centroamericano apunta a conocer experiencias en materia penitenciaria, aunque no precisó qué elementos del modelo salvadoreño podrían…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/29/premier-luis-galarreta-reitera-que-keiko-fujimori-traera-de-el-salvador-el-modelo-exitoso-de-carceles-de-nayib-bukele/",
-   "date": "2026-10-29T21:37:32+00:00",
+   "id": "6cd6ef0f51ea",
+   "title": "Keiko Fujimori se reúne con Nayib Bukele en el marco de su visita oficial a El Salvador",
+   "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reúne este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
+   "date": "2026-10-29T22:01:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8f99dd032a39",
+   "title": "Keiko Fujimori recorrió el Cecot en El Salvador: las fotos de su visita a la megacárcel de Bukele",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1JCdkJOWGNqYWxNZGl1YjhlNExZYnk5anE1TEc3RGpUZGI2ZXZvLV9xSHFEdG84LW9xSHVUMmtyZThLaDZUWEstNkxJaGpBWnlTdEFmei1TWTVqUm9OTjM2b092NHB3ZmNpSGpwZk9JbzJCR01mc0RuZ3lXZlJ3SW1FVDBuUnV0ejQzWEtXQ2RaLXBEbzVQWFIyNGpoRHRuSEx5VG5iVWY3WHdkcEJRT0h5N2k1dzZwVEZBMHNjSWN4b1pqMm5INWZSaFBfRDNJVGFF?oc=5",
+   "date": "2026-10-29T21:58:49+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -326,7 +337,18 @@
    "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
-   "date": "2026-10-29T21:37:06+00:00",
+   "date": "2026-10-29T21:56:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7ecda0e8f2a7",
+   "title": "Premier Luis Galarreta reitera que Keiko Fujimori traerá de El Salvador el “modelo exitoso” de cárceles de Nayib Bukele",
+   "excerpt": "El jefe de Gabinete explicó que la visita de la mandataria al país centroamericano apunta a conocer experiencias en materia penitenciaria, aunque no precisó qué elementos del modelo salvadoreño podrían…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/29/premier-luis-galarreta-reitera-que-keiko-fujimori-traera-de-el-salvador-el-modelo-exitoso-de-carceles-de-nayib-bukele/",
+   "date": "2026-10-29T21:37:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -943,28 +965,6 @@
    "source": "Howl.Link",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9WbGt1WVhsN2g5d3IwT0hrdDV3T21HeWM5RlZWQVdhcmo0YWxsb0lBQXJycTF1Yl9pd2s4?oc=5",
    "date": "2026-10-29T01:04:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "850410bfc8fc",
-   "title": "Keiko Fujimori viaja a El Salvador en visita oficial a Nayib Bukele | Correo",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUh3WV9pRTVXMnBzYnFoZURLbGxkSnlmY0RHN29yVXA0RFlOenZNQzI4LXB5MG5HQUZaRHZtNUFFUEtKRVlEVDZ0VFZKbkpvYmlrTW1Vc1l1R3BGQ2JLZWVOUG54SDZFVkRMQ3dsMFlDRUNRSGcyNHJIeVJZaFAtVTJLVExrRVJIekNhNS1VWjN6NnpJREpTRXdncUxvQVRBMkg5WEgtNUszX19oMVhRMzdtRQ?oc=5",
-   "date": "2026-10-29T00:49:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "64833ba8ac42",
-   "title": "Keiko Fujimori viaja a El Salvador junto a comitiva de seis funcionarios y un gasto de más de US$ 19.600",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOXNJWmJtaVFCbnNuS3pwSFdUWVVubTBGVlRNUkpHdnFpWXhEYThGVzAtUlpzcVpNUzNtVEMxZ1BoMGplTTl4QS1nWlk5WXdKMVkzOWFlRzRuYlJLRlU4LWRQdzQ4SFBjcFdnRHdKdnpVRnJ2aEd4LWF3Qm5oS0hjNmxzTjNRZVlVRnJXR3NMYm1tM08yOWprdllJOTdYamtBVnpNNkoxTl9pelUzR2NNVEoxMlRZRklQVEFhcVpGNldPajB4a0JpdkVDdU4?oc=5",
-   "date": "2026-10-28T23:30:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
