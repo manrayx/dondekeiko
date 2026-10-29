@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T20:58:23.379068+00:00",
+ "generated_at": "2026-10-29T21:20:15.257837+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -310,12 +310,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d6ab55ffe706",
+   "title": "Presidenta Keiko Fujimori inspecciona instalaciones del CECOT, megacárcel de máxima seguridad de El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOVNvTWpxdmwwb2tBcGZyUXZtV1RTSTFOUENib0FwMWlmVFVMTS1yWDBfdlVrWDFMendKQzZ4VnkxSmZnOUJPMF9PWk5ZNFlTUHBldUhCMTdTRk1jcGFkLTRPdXNKVi1UaVFReUxLWDdSX2EtOEdhSkJHeXpocFNVaFAwSFNrRmRST2M2bGpFUkxpRWVOaU9SZHBkT0tVYVNiRnJlbmxzbV9Ic1dlVUtYa1JLMW13UzV4M3FWdHlOcFA2Zk5DUHR0aXFvSURRRWkxZHhyOVEzUE54enVqLUlv?oc=5",
+   "date": "2026-10-29T21:09:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "723e05495172",
    "title": "Keiko Fujimori recorre megacárcel CECOT de El Salvador antes de reunirse con presidente Nayib Bukele",
    "excerpt": "La presidenta de la República, Keiko Fujimori, visitó este jueves el Centro de Confinamiento del Terrorismo (CECOT), la prisión de máxima seguridad de El Salvador, como primera actividad de su…",
    "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-visita-megacarcel-cecot-de-el-salvador-antes-de-reunirse-con-nayib-bukele-ultimas-noticia/",
-   "date": "2026-10-29T20:55:04+00:00",
+   "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-visita-megacarcel-cecot-de-el-salvador-antes-de-reunirse-con-nayib-bukele-ultimas-apuesplan-noticia/",
+   "date": "2026-10-29T20:56:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -337,7 +348,7 @@
    "excerpt": "",
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONVN2d2o3bDEyV2hCZjIzWEgxZTdJakFKb0RCY18tWDFibVQ2S2hMTjlkMTZ1RW51RkFDZ1AwdklfenVkdFVCQ0pvT21ZZkt1LWhvT0prZzBsd2UybUltcFpfSmJsOVVxMGxEcmg2VFlyVTROa2NZbllCRW1mV0FNT0NfV0liclRkQzk3Z1BKXzVERmV0eHA2QjZnT3ZZUkY4dmJpLWdDYzhGdkNodEpHU1ZwYjVteEJkZUwwNV9jTl9IVklYd1VOUFJCSF9Dc19EQTJMOFJEMXhxMl9pT3psbUNXMkNKQzFiSGhqZjhMejJNYURoSERIZ09BbUNWN0E?oc=5",
-   "date": "2026-10-29T20:39:24+00:00",
+   "date": "2026-10-29T20:40:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -360,6 +371,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-visita-megacarcel-cecot-de-el-salvador-antes-de-reunirse-con-nayib-bukele-ultimas-noticia/",
    "date": "2026-10-29T20:28:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0aed9744bbfd",
+   "title": "Keiko Fujimori visitó el Centro de Confinamiento del Terrorismo en su primer día de actividades en El Salvador",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcGVDMW4yanhZc3VyQ2hrWVVOWHBNVWJYQWdCN2VBMndudmN4RUVkNE95TGxieTFNS1BKU2dBdzZ5U19tUHhORHJiM1hTWXVCa29mc0xwMmRVb0xiWFhMWmx3SDdGbGdUSWtLYTE1bHdXVFdHVVNfS1I3TVl0dFNrNDBWcDZFSmtwYUdJZ2xtX2xuMDFPX0FRYnh4eG55QUw0TnZoNUpuRHNLQVNhelRSMjV2T0NtQk12eW5iSmZ2d3lVdVhVZUgzZU0zd2tPMDY4aU9pYThMeXFRZ09za25KSDUzZDdTYm_SAfsBQVVfeXFMUFNaMXZyYWdkRVVJaGg0SXdSUGFWSEhrSnk5WF9pUkV2YVBOZ0dITnZ1NkVKQTQzVkFkeG5lZHpXWDMtakFNcUYzZHhOUEI4SzNRdzNXeW5HbDRGXzRYekZuckJuTGxiUDdxZkFndDJJZEJtc2JMYjFpSjVwdHZSUG96V09JTzNwY1RlZmVRX2tycXFnbnh4Nzg0b0dpLUM4OXRjYXpxZ2dwaHlubUdUWkI5NGxKQlFxT25wczdiWmx1aXJxODduWl9aQ1hRNTlKY09wazZOMjNPYkFXUTFiak4wVGstVnFXRmgtbXJMX3lITkhRUWYyb3dvWlk?oc=5",
+   "date": "2026-10-29T20:16:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -392,7 +414,7 @@
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSVJBOXpMaFNDLTN1WDBiVk13b3cxaWJfVDBjQkl6allDWk9MN25YQjlkbkJPWE5rZGFzN29oTjJQck5QeHlieHluU2c1dHdDbGhkTzFqYmlkdGVmSjh1V0pqSGktOXBWT1NkVDVraVp4X3E2OEx0c0pfcEdiMUZzZFo5WkZhRDN0X3JsOHU0bnRsci1wLWxGRGs1UDM3akx2M21YS2pxWjdxMU9IRVU1STdHUjB3cnduRHotX205T1h4RGl6Vm9GaWRRWTM?oc=5",
-   "date": "2026-10-29T20:00:39+00:00",
+   "date": "2026-10-29T20:12:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -431,23 +453,23 @@
    "next": null
   },
   {
-   "id": "29e23e1b4622",
-   "title": "Gonzales Posada: Viaje de Keiko Fujimori a El...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk14czlIN1J5Zi1LWEV5bm54NjgzdFplb0x5d3BHV0NGM1BqMkc4X0JSODFwUkdlZXFvOVBLV05vZFEtVmptUGZBZURlaEF5OHkyX3N0MGIxclpKQ3FoQkRfdUxfM1BvclItM3Rrd2toaFdSUmFEQkx5aEpDVkY0a0lqcHhMX1RMRHRUU0oxYUJ0OFZvaHFwVXYwRHNDdU1CbVBsMTVfcjB1WEdidGc3c1JGMHd5ZVZHNGpRSnZKVWfSAcYBQVVfeXFMTlpFN2FidmJWaURHQ2VJcGdMcUd0bXFKMG9SM3dSVm40MzNCaFNWanRSaTFkbUlnZ2dpMll1dzN0SmxoVHVBMDJJWVFqYzFCNnFjYVFMakpyRXZyWlBIOE5lMFNFSi11SFRPWEZMTUhXVllwWVdqMjZFbXA5OS11MWRIZ1lDM21BWU50cUdfTHNhTWlYOWFhY01UUzVCemNtNktRWFdtVDUybnZsX0x6NDVCWG9KS0FnVnpxcFJUd0ZCZWJLOExn?oc=5",
-   "date": "2026-10-29T18:22:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "648313d5f08c",
    "title": "Keiko Fujimori visita Centro de Confinamiento del Terrorismo (CECOT) en El Salvador",
    "excerpt": "",
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVsQ3NIZFRKN09mS0Z0eHZMeVo0a3RWSzhaY1RUUEw0QU85Sm9BVVNtbTdac0hhbENLTlIxbVd6TFpjNVZoRlJMN19FaEh6VXV5cUw1QkFPSzRJUTc1Qnl4Z09vUElxclp3UF9QUHRvaE91MzRHMkVrNld5TjVuUzJST3BnSlNzU1pYOEhjWExyNXBzMG91ZzlwNVNrS3JtOFlPNmFCYm1pT0dsY2c?oc=5",
    "date": "2026-10-29T18:13:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "29e23e1b4622",
+   "title": "Gonzales Posada: Viaje de Keiko Fujimori a El...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk14czlIN1J5Zi1LWEV5bm54NjgzdFplb0x5d3BHV0NGM1BqMkc4X0JSODFwUkdlZXFvOVBLV05vZFEtVmptUGZBZURlaEF5OHkyX3N0MGIxclpKQ3FoQkRfdUxfM1BvclItM3Rrd2toaFdSUmFEQkx5aEpDVkY0a0lqcHhMX1RMRHRUU0oxYUJ0OFZvaHFwVXYwRHNDdU1CbVBsMTVfcjB1WEdidGc3c1JGMHd5ZVZHNGpRSnZKVWfSAcYBQVVfeXFMTlpFN2FidmJWaURHQ2VJcGdMcUd0bXFKMG9SM3dSVm40MzNCaFNWanRSaTFkbUlnZ2dpMll1dzN0SmxoVHVBMDJJWVFqYzFCNnFjYVFMakpyRXZyWlBIOE5lMFNFSi11SFRPWEZMTUhXVllwWVdqMjZFbXA5OS11MWRIZ1lDM21BWU50cUdfTHNhTWlYOWFhY01UUzVCemNtNktRWFdtVDUybnZsX0x6NDVCWG9KS0FnVnpxcFJUd0ZCZWJLOExn?oc=5",
+   "date": "2026-10-29T18:08:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -943,28 +965,6 @@
    "source": "Perú Informa",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOODJ4ZFJJdXpVTGNZZlpaN05XaUZzdUNRM3ladFR4cENnZEt6NlRSV3JhSE5rN2w5VnVEcjR1amZqMzhDN0k0NTg5MkFtVVR3VkltQzZINkNZbEZ5WjE1ZTJFTGNIcGFKRDl4c2UzWkdOZE55bWpXelprbmY3d2pvUzZUcEZaT3FRaXRRRmVuRHI5ZlFQN044cko0VC03TUJjMHRJaVlRQWwtTkhzNWVaa1FVdlBibF8tX193OEk2dndwdEFsTVBxVWF1dHZjZDVzYU5xa1ZQX3pPaGxlLXc?oc=5",
    "date": "2026-10-28T23:09:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b7d61a8a358d",
-   "title": "Presidenta Keiko Fujimori viajó a El Salvador en visita oficial: esta será su agenda",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
-   "date": "2026-10-28T23:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6a41305da7ae",
-   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Bukele",
-   "excerpt": "",
-   "source": "HCH",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LNkRfeHVyY0lWSVRGdUtoN3YtUzJERkxpMGR4UHFtX01yUzhnVzlqM1hON3YtZlN6YTNBbE16QlhsdFI0Qmo0ZnluaDNfcHJDWF95RGtqRVFYWk1tR3c?oc=5",
-   "date": "2026-10-28T22:41:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
