@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:49:36.478173+00:00",
+ "generated_at": "2026-10-29T19:10:47.466495+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,6 +293,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5c8aae660de1",
+   "title": "Keiko Fujimori realiza recorrido en el CECOT",
+   "excerpt": "",
+   "source": "Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE40b3ZSSUpRZ0kxaDJtbkE2VWVKWUxrR044bXYwWmE0OVozcTR0bUVsZjFzLTk3dkFOZXpJ?oc=5",
+   "date": "2026-10-29T18:47:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7625691237bf",
    "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
    "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
@@ -304,10 +315,21 @@
    "next": null
   },
   {
+   "id": "29e23e1b4622",
+   "title": "Gonzales Posada: Viaje de Keiko Fujimori a El...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk14czlIN1J5Zi1LWEV5bm54NjgzdFplb0x5d3BHV0NGM1BqMkc4X0JSODFwUkdlZXFvOVBLV05vZFEtVmptUGZBZURlaEF5OHkyX3N0MGIxclpKQ3FoQkRfdUxfM1BvclItM3Rrd2toaFdSUmFEQkx5aEpDVkY0a0lqcHhMX1RMRHRUU0oxYUJ0OFZvaHFwVXYwRHNDdU1CbVBsMTVfcjB1WEdidGc3c1JGMHd5ZVZHNGpRSnZKVWfSAcYBQVVfeXFMTlpFN2FidmJWaURHQ2VJcGdMcUd0bXFKMG9SM3dSVm40MzNCaFNWanRSaTFkbUlnZ2dpMll1dzN0SmxoVHVBMDJJWVFqYzFCNnFjYVFMakpyRXZyWlBIOE5lMFNFSi11SFRPWEZMTUhXVllwWVdqMjZFbXA5OS11MWRIZ1lDM21BWU50cUdfTHNhTWlYOWFhY01UUzVCemNtNktRWFdtVDUybnZsX0x6NDVCWG9KS0FnVnpxcFJUd0ZCZWJLOExn?oc=5",
+   "date": "2026-10-29T18:22:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "648313d5f08c",
    "title": "Keiko Fujimori visita Centro de Confinamiento del Terrorismo (CECOT) en El Salvador",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVsQ3NIZFRKN09mS0Z0eHZMeVo0a3RWSzhaY1RUUEw0QU85Sm9BVVNtbTdac0hhbENLTlIxbVd6TFpjNVZoRlJMN19FaEh6VXV5cUw1QkFPSzRJUTc1Qnl4Z09vUElxclp3UF9QUHRvaE91MzRHMkVrNld5TjVuUzJST3BnSlNzU1pYOEhjWExyNXBzMG91ZzlwNVNrS3JtOFlPNmFCYm1pT0dsY2c?oc=5",
    "date": "2026-10-29T18:13:13+00:00",
    "state": "posando",
@@ -926,28 +948,6 @@
    "source": "Cooperativa",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1BXQ1NpYVRVcjJjR3JldEIzdTIyM3VtR3MxWDVkSHE1ZEIteE5Rc0hqT1FxQkJPUmY5U3FHZHdEUVpxMUZFaG1HMUlfUlZfVkpPMFFTUmFJaTR2SWNvTXJYTWxJSmN1TEJUX0p3NmFPekZ1R1B6enJQVEhIWloydGNGT3h2RlU3bVdFcjJLNjNUZFJSTXEtbHhKNHVpMVV4Tlgydk12VjAxRFUxRlhRcmxWby1qbmZablI0YWtRUTAzbXptbVFuMHZob2hTb3RXRWVkNHhNaHTSAYwBQVVfeXFMTy1uelZjRWhEZTlXTHgxanNHQ0QtSUluM0tJWGhScHpWUDl0NXRSWkNaTl84ck1TS3FYbnN3TVZ2T0h1MzJNSHZqaDN6NHozdVdoYTM2S1VBV1pBWGNsVUNSUW10ejgyWDFPYnh2UzRNVkpvMzN4UXlwTWlULU5ZYV8xY3p2dTdFYWZWdmQ?oc=5",
    "date": "2026-10-28T21:34:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2fea8efba716",
-   "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNKU21rbmN2SXdheU1WemxBWDJ6ZVJIdERJTmtKMFdzS2JPVXUwOWRUdVY4UnFFejc1bWRqOURkaG5WS3VQWGp3YUU0MGwwMnhzcEV1YWJTQlFSaWJuM2hDVjl2SHJWQWtDM0pVbWRPQVdaU20za1h6OWM4RWYwRDBzOFc5cGp6eVp3LWFRaWppYUhIN2Q0ODRsb3Nvd0x6Vzdqem9jbmRaWThwRUFtVmpCM0RuRU1ZdE5ReWZzN25wcEV6NUNv0gHMAUFVX3lxTE14SHZsMEVTa0tKdlB5OUtXX2JOWlZxSTVxc2dxdGFnM0N3Yi1CV2dod1VpZlNkdjJDQjl2M2cyVDM1RzNrTWszUFU1MC1LNUF6X3FmaXlhNVh2XzdkMzAxVk0wZE9PQ2J5TnVnSzFDdWJRdEhCblhsOWM0djh1TzZ3OHhNOEdPQXVBcVluMjhfbU1SNjU1UmNqQmxlQUhuSDZhN3J0MUJyV2ZGeHYxaU82OXo0RGJ0dFhTd2Rpa2F0Rm9qSDlGUDA5bEItWQ?oc=5",
-   "date": "2026-10-28T21:33:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "55693dddbeac",
-   "title": "¡Keiko Fujimori viaja a El Salvador! Se reunirá con Bukele y visitará megacárcel CECOT",
-   "excerpt": "",
-   "source": "La Decana Radio Juliaca",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2hQWHdoODNPX1NOa1Y0UEo5cmx6U21reGxEMnVSdUN3TE9pdllOMnpCLXg2MTZIdzhJR0Q1M3VUOG9KRDR4RzBKUTNBVUlac2oyeUZOSXRBUWJDcTVid1dLSXRLUW9iOGJ5a0xORHAzTVlZRmtmUjlQOUUyQ2piMEo5SnNfSHFwZjduRTlDTFNTaTM1VmVGNHNoRWdiampObnR6YkM2SENHNVh2aHNmZVduajBrN3FMU1hVMmV6bzZnVDBKREJoc1ZtQQ?oc=5",
-   "date": "2026-10-28T21:17:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
