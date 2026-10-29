@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T22:26:23.845192+00:00",
+ "generated_at": "2026-10-29T22:48:30.008858+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -310,12 +310,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "6cd6ef0f51ea",
-   "title": "Keiko Fujimori se reúne con Nayib Bukele en el marco de su visita oficial a El Salvador",
-   "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reúne este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
+   "id": "7625691237bf",
+   "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
+   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
    "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
-   "date": "2026-10-29T22:01:26+00:00",
+   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
+   "date": "2026-10-29T22:42:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -326,7 +326,18 @@
    "excerpt": "",
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1JCdkJOWGNqYWxNZGl1YjhlNExZYnk5anE1TEc3RGpUZGI2ZXZvLV9xSHFEdG84LW9xSHVUMmtyZThLaDZUWEstNkxJaGpBWnlTdEFmei1TWTVqUm9OTjM2b092NHB3ZmNpSGpwZk9JbzJCR01mc0RuZ3lXZlJ3SW1FVDBuUnV0ejQzWEtXQ2RaLXBEbzVQWFIyNGpoRHRuSEx5VG5iVWY3WHdkcEJRT0h5N2k1dzZwVEZBMHNjSWN4b1pqMm5INWZSaFBfRDNJVGFF?oc=5",
-   "date": "2026-10-29T21:58:49+00:00",
+   "date": "2026-10-29T22:35:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6cd6ef0f51ea",
+   "title": "Keiko Fujimori se reúne con Nayib Bukele en el marco de su visita oficial a El Salvador",
+   "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reúne este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
+   "date": "2026-10-29T22:01:26+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -349,6 +360,17 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakZyUHAwNXBmU2FyNUpJNmFWZXBhT1RBTkpLSG55X2VCcjdhSWVYMjhBbVZ6U2llaFhfWURoOUFOcHVaRFV5N21LN1Y0ejdJQTVPUEJsQlNyNjBLQnIwWFVCVm9kN1ZjZGpVSzEwVGRPdEtDOHM1OUJlZlQwZG5JeThxR2Q0SVpWZzJ1QjAzcGRWYkUtN0VYMkF0aG1fM2JwQlFGSl9wUQ?oc=5",
    "date": "2026-10-29T21:44:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "aa1a035fe682",
+   "title": "Presidenta Keiko Fujimori destaca el modelo Bukele tras visitar el CECOT",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTcybUVFckNRVTNZTnctTnRYdm9hOEtqOGlrclRNREdoYVBpeEF1bUU1NnJBWnVuTEpFbWMzMXh5RW1vcFpYNDlqQlRiaGtpQWpOZk12N1g5amhEZnNmYzZRODN3SzVLLTRPYjFILVBjaFkwUmtyRzhzR0M1QUJnME1pa0FVSlNuLUhaSm42RzhoVzNlckgwVVZ1WllZOWpHYWc?oc=5",
+   "date": "2026-10-29T21:44:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -398,23 +420,23 @@
    "next": null
   },
   {
-   "id": "7625691237bf",
-   "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
-   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
-   "date": "2026-10-29T20:42:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "b383d1f611b8",
    "title": "Keiko Fujimori visita megacárcel CECOT durante su primer día de actividades en El Salvador",
    "excerpt": "",
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONVN2d2o3bDEyV2hCZjIzWEgxZTdJakFKb0RCY18tWDFibVQ2S2hMTjlkMTZ1RW51RkFDZ1AwdklfenVkdFVCQ0pvT21ZZkt1LWhvT0prZzBsd2UybUltcFpfSmJsOVVxMGxEcmg2VFlyVTROa2NZbllCRW1mV0FNT0NfV0liclRkQzk3Z1BKXzVERmV0eHA2QjZnT3ZZUkY4dmJpLWdDYzhGdkNodEpHU1ZwYjVteEJkZUwwNV9jTl9IVklYd1VOUFJCSF9Dc19EQTJMOFJEMXhxMl9pT3psbUNXMkNKQzFiSGhqZjhMejJNYURoSERIZ09BbUNWN0E?oc=5",
    "date": "2026-10-29T20:40:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ac265cec5b48",
+   "title": "La presidenta de Perú, Keiko Fujimori, recorrió el CECOT para evaluar el sistema carcelario salvadoreño",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0NUUGZPUHA0SVU2TV9fWHZDQ3pSTlBYQ2tHbGxTcVZ6U0g0MWNuQWdia3dMemVfM2xXUk0zNXZMSlZpSDJEV0F6djB5bDVLNDVmMS1yZXNqOV9pSTlwMnlhRGtIS3IzYldoMmJiM2lxa19oUnI5T3M1SGowV1lWY0RHRElZckZpbHJKRktvVHlmUnFqNmJkeTF5UnVlYWlaMUNCNE9DZUJscnNQOVBrM00wWVZoWXZGVWtuTWFETzhCZDh4dlQ2RE1YSmdBN01qN3J4ZTh1T0h6MWRmci10SWdyZ9IB_gFBVV95cUxOUk05dXZ0cXJaQ3FBVjhSdU1Ga2dfR0kySE9qX01FRFlOX29JcHdxREYtVTNNdDRvOU1CTHIwRWpndzhLa3ZqaDJzU2V6VkhPMXpJczcyX3JXWVdnakgxLWlVb1Faa09rMmNUbjBYc25TVDdqYmJVODdmZ050VkxjNU1ZWVA0d3VwazNTeFlJVTEwQVpDQnV1UWdubF91TlpxMjkwbm1CXzdSNWc1YTJOMUwtME9LamI4VUR1YmZ5WWRjTG1XRmRDenBIeFdjamN2TWEtbVJMajR0cjZxeFgzc194T010Qkh2RWE4bGV2MGE3WkNCVTA5UUFfejZhUQ?oc=5",
+   "date": "2026-10-29T20:40:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -687,7 +709,7 @@
    "id": "59f16d7e83a8",
    "title": "“Keiko Fujimori busca copiar buenos ejemplos”, sostiene titular del Congreso, Miguel Ángel Torres",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVjFicG1wZGpJNjllemRzc05HUXVwYnJnOTFuT2premFLZ2g5TkJVNU9wRE5FLWVzUDR4ckwtWENkd1hBRTh3X3haR0FsdFRzeUtBM3hSeFVqYnlqVzkyYzUtTWg4QWJVamNaSWlNMUd3aVllTVhhLXB2WExRaW4xcG5vRlBCb0tqU3g0Smh4Z3VyMjJtZVl4NXRLX2VVZ2h1dFU4eWNNOHY5MUJfc29PQXAwTHphdlJEM0puUng2elJaenI1UjJ4M3FZSGJGbFBiaVNKUTkxN0dyeXVZSDUxcTBLM04yTVlhcHFtdnhiODE?oc=5",
    "date": "2026-10-29T10:26:15+00:00",
    "state": "posando",
@@ -943,28 +965,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcVdhaHhRZmluVndiODhxellNcDdtWjJjT1dPY21vc0x6NW8tUVkyRVY1X2dHelVJdnNDMl9uYnJKbTZTQUx2SlRjM2NMSDU5YjlZdlhJNWg2NWRwRFprLWdyWGRnczdvZkVQbFdaZmhWV210Rl8yUWplTm4yZkhVRnRGWlNlbm9jQUE?oc=5",
    "date": "2026-10-29T01:59:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7570f0006f82",
-   "title": "Internacionalista Luis Nunes respalda viaje de Keiko Fujimori a El Salvador: \"El Perú necesita orden, lo que no significa dictadura\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT1NJc1JxT3A0d1YyakhTYXJ2UVh2T25OSGZ5YUhIbG96LWtZRVl2NlVoNTllSjhrVl9xbnIxeHUwYk55dE02cW1DeUg2S3F6WkwzamFyUkVZWmlVRmZMclNkb1RSUWVUYzVpd0tMNXRhd2RGQWtUeTNYRkl5RWpMN0Z2RmoyLXhLcWxHdmFjOW5HbzNqcFJVeXQxWnNScUZHX3IzdlBua2VNeXVwRDE2WDhac0pybERhY2lWbTJZM1I3dHZwM1RiQ0JQUkNoc3MxLV9odW5wZTBNcVRFWHdFbXRKVHpOWHdNWGpRb0ZUX2lqNy1JM3c?oc=5",
-   "date": "2026-10-29T01:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4ee70fa95352",
-   "title": "Keiko Fujimori reduce de 3 mil a 2 mil los colegios prometidos durante la campaña",
-   "excerpt": "Durante la campaña, la propuesta inicial de Fuerza Popular incluía 3.000 colegios en cinco años, que luego aumentó a 5.000, abarcando nuevas construcciones y recuperaciones de locales.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/28/keiko-fujimori-reduce-de-3-mil-a-2-mil-los-colegios-prometidos-durante-la-campana-hnews-1691676",
-   "date": "2026-10-29T01:26:49+00:00",
    "state": "posando",
    "place": null,
    "next": null
