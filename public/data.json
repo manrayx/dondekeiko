@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T22:04:18.824564+00:00",
+ "generated_at": "2026-10-29T22:26:23.845192+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -343,6 +343,17 @@
    "next": null
   },
   {
+   "id": "8497928a21f8",
+   "title": "Presidenta De Perú, Keiko Fujimori, Visitó El CECOT De El Salvador",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakZyUHAwNXBmU2FyNUpJNmFWZXBhT1RBTkpLSG55X2VCcjdhSWVYMjhBbVZ6U2llaFhfWURoOUFOcHVaRFV5N21LN1Y0ejdJQTVPUEJsQlNyNjBLQnIwWFVCVm9kN1ZjZGpVSzEwVGRPdEtDOHM1OUJlZlQwZG5JeThxR2Q0SVpWZzJ1QjAzcGRWYkUtN0VYMkF0aG1fM2JwQlFGSl9wUQ?oc=5",
+   "date": "2026-10-29T21:44:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7ecda0e8f2a7",
    "title": "Premier Luis Galarreta reitera que Keiko Fujimori traerá de El Salvador el “modelo exitoso” de cárceles de Nayib Bukele",
    "excerpt": "El jefe de Gabinete explicó que la visita de la mandataria al país centroamericano apunta a conocer experiencias en materia penitenciaria, aunque no precisó qué elementos del modelo salvadoreño podrían…",
@@ -401,7 +412,7 @@
    "id": "b383d1f611b8",
    "title": "Keiko Fujimori visita megacárcel CECOT durante su primer día de actividades en El Salvador",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONVN2d2o3bDEyV2hCZjIzWEgxZTdJakFKb0RCY18tWDFibVQ2S2hMTjlkMTZ1RW51RkFDZ1AwdklfenVkdFVCQ0pvT21ZZkt1LWhvT0prZzBsd2UybUltcFpfSmJsOVVxMGxEcmg2VFlyVTROa2NZbllCRW1mV0FNT0NfV0liclRkQzk3Z1BKXzVERmV0eHA2QjZnT3ZZUkY4dmJpLWdDYzhGdkNodEpHU1ZwYjVteEJkZUwwNV9jTl9IVklYd1VOUFJCSF9Dc19EQTJMOFJEMXhxMl9pT3psbUNXMkNKQzFiSGhqZjhMejJNYURoSERIZ09BbUNWN0E?oc=5",
    "date": "2026-10-29T20:40:27+00:00",
    "state": "posando",
@@ -610,7 +621,7 @@
    "id": "b8eb2881e0a7",
    "title": "Keiko Fujimori llegó a El Salvador: su encuentro con Nayib Bukele, visita al CECOT y demás actividades programadas",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMUI5bGl1cVRjRGZISUZWaWpEYUNXcThHb1JaV0RCdTNGOWtVUFV0VWRObm9RZEpya282RkNDTWlMVHRaU3dKN1RXUUpUT0w5SnVZX3ZuSHFwR2l4RVBwLXZTNW9HNk95MzhQUFJBZzBaT2taU0JhVElfZ3lVZjNHbE8zaWExRGJMZE5lZFdlOG1IdDVIM1JuTzdpNXU3RFRibDZENXd2bUhKREY0clRXM1ZadklQRjhnWEtpWTZjRnJOUm9mSGtvTnB5NDZ4ZEN6UVFjc1QxZVk2bjJ1WDFYUFE3aFFaajlMckNWUHNiZ1pUUFhLX0t1NkNHLU5Jb28?oc=5",
    "date": "2026-10-29T13:04:51+00:00",
    "state": "posando",
@@ -954,17 +965,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/28/keiko-fujimori-reduce-de-3-mil-a-2-mil-los-colegios-prometidos-durante-la-campana-hnews-1691676",
    "date": "2026-10-29T01:26:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b2b5435b1d7b",
-   "title": "La presidente de Perú Keiko Fujimori llega esta noche a El Salvador - En La Mira Noticias",
-   "excerpt": "",
-   "source": "Howl.Link",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9WbGt1WVhsN2g5d3IwT0hrdDV3T21HeWM5RlZWQVdhcmo0YWxsb0lBQXJycTF1Yl9pd2s4?oc=5",
-   "date": "2026-10-29T01:04:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
