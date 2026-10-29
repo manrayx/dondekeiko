@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T19:53:18.338330+00:00",
+ "generated_at": "2026-10-29T20:15:20.055567+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -292,6 +292,39 @@
  "agenda_minutes_7d": 446,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "072f5aa36ae3",
+   "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
+   "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
+   "date": "2026-10-29T20:11:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "245eebf5f410",
+   "title": "Keiko Fujimori recorrió el Centro de Confinamiento del Terrorismo durante su visita a El Salvador [VIDEO]",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSVJBOXpMaFNDLTN1WDBiVk13b3cxaWJfVDBjQkl6allDWk9MN25YQjlkbkJPWE5rZGFzN29oTjJQck5QeHlieHluU2c1dHdDbGhkTzFqYmlkdGVmSjh1V0pqSGktOXBWT1NkVDVraVp4X3E2OEx0c0pfcEdiMUZzZFo5WkZhRDN0X3JsOHU0bnRsci1wLWxGRGs1UDM3akx2M21YS2pxWjdxMU9IRVU1STdHUjB3cnduRHotX205T1h4RGl6Vm9GaWRRWTM?oc=5",
+   "date": "2026-10-29T20:00:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f52d26b737d6",
+   "title": "Presidenta Keiko Fujimori en El Salvador: visita Centro de Confinamiento del Terrorismo (CECOT)",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-en-el-salvador-visita-centro-de-confinamiento-del-terrorismo-cecot-noticia/",
+   "date": "2026-10-29T19:57:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "b810e492832a",
    "title": "La presidenta de Perú, Keiko Fujimori recorrió el CECOT para evaluar el sistema carcelario salvadoreño",
@@ -915,39 +948,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFzNjB5cmpPQTZpUWZmemhWcW41dFphZXZSYWRZTnhDc3FhTmw5alJLVUg5STB1NzF6ZEdiaksyTWFOZmNKdTNpdG1xNkJkbFhKWkxiZ0R0cG85YmthUDdDZW1ySEZyaVFrdWZLVHFFWWtOcTVPYkZ4UjBsendZeXhZTWNiZDUweVRaTXJucHR3a1lEdUhLSVF3?oc=5",
    "date": "2026-10-28T21:59:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ca9478ee190c",
-   "title": "El Salvador: Keiko Fujimori se reunirá con Nayib Bukele este jueves",
-   "excerpt": "",
-   "source": "Gaceta Perú TV",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHNNWjBjVFpxX0tNQ1B1RnFnSG1UOUh2NlBlSVJqMWpTSG1wRkxVRzZRczV6ZWVMWHQwX1hSWnpBTkVwOVdzWTlGRUx6RnRBTTNpbTh0VFk0eVdSVEw5MHpsbnZsMWF0UmQyN3BLbkk5VUw0QldRRnp5WXFsYzl5dzV4Q0JBbnI0V0h2cWtPbkZtSG82YjR5dFRia3AxR09jZkRkTWtR?oc=5",
-   "date": "2026-10-28T21:50:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "586a6e9dd3fa",
-   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Nayib Bukele %",
-   "excerpt": "",
-   "source": "La Razón",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa0djbkFaZkxhdU1mdDRCeXdzY1FwM3hHdi1oSXVPYXJKYTZtN0tBTi1JWkVXTnhnZFlheUU3eG03dkpyXy1NeU90Z0FWb3gxSVVKZ3pxdzNPMEtGcWhfanJLZGJWTVBNZ09Dc0lYQnR1UjVUOEVJTTZkTFVUMXdLX1FEN3BDNmJzeFYxdTl3?oc=5",
-   "date": "2026-10-28T21:37:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f430fba0838a",
-   "title": "Keiko Fujimori llegó a El Salvador para conocer el modelo de seguridad de Nayib Bukele y visitar la megacárcel Cecot",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTBpQTJhb1ExTEg4THRwQ3lTMkVEWkZEXzZaNjJyaUZiNzRTcXhxbG9nb3pCWHpveV9rWkhvdkJEVE5OY181c0p6b0NnYXhBcmlkU0pkanhqXzhuTWEyTXhab2QxR3pfRG9XZGNPenppTGpPRUtwTUV2MXg5NmJCSDNlbER5ZnR6Vk9KcG1mV0FLRG1IZ1VjcmZZeEIwbk9BMzE1b2g5Y05jY1RKMExCV1E3djB5OG1QLWVkRzY3VV9BVU9LYVBtNDhSVVVhOUhQbmNZc05wMUZCVlpYRVg2RHdfT0tlRnh6UGdpeWpR0gGIAkFVX3lxTE9nNmVnYUp1a0dsSGg4a1dEdUFtdmI0bkowYXJtVFVqMHRaNF8yMXkwMUxGN0djVzB1cUNjM2VMUTUweXp4ZUpCU3RwLTh5R1hYUUxubEFTNGdNYTNWVTBQRmNFekk4Wmx4d01zQ1I5VWJqRXdTNXJ2MnBGZk00MjZ5WlRJWld6b2MtcHl6dXM0NDYxUkxEWkN2WC02cnZXaFdhVWFxeXE1OEktRFl3emppcUZ5WG90SjIwWURDcFIzdVpMeFJ6c3ZjVnZ4dnQ5MjV3RHlEc0pVaFFkYmRDbTNTQXdEWVRzOUlQSXM2dlkwOW84UWIyR3pwU3dPUVhLRUZHTW55QllrcQ?oc=5",
-   "date": "2026-10-28T21:34:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
