@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T19:31:59.366264+00:00",
+ "generated_at": "2026-10-29T19:53:18.338330+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -292,6 +292,28 @@
  "agenda_minutes_7d": 446,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b810e492832a",
+   "title": "La presidenta de Perú, Keiko Fujimori recorrió el CECOT para evaluar el sistema carcelario salvadoreño",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZ0NUUGZPUHA0SVU2TV9fWHZDQ3pSTlBYQ2tHbGxTcVZ6U0g0MWNuQWdia3dMemVfM2xXUk0zNXZMSlZpSDJEV0F6djB5bDVLNDVmMS1yZXNqOV9pSTlwMnlhRGtIS3IzYldoMmJiM2lxa19oUnI5T3M1SGowV1lWY0RHRElZckZpbHJKRktvVHlmUnFqNmJkeTF5UnVlYWlaMUNCNE9DZUJscnNQOVBrM00wWVZoWXZGVWtuTWFETzhCZDh4dlQ2RE1YSmdBN01qN3J4ZTh1T0h6MWRmci10SWdyZ9IB_gFBVV95cUxOUk05dXZ0cXJaQ3FBVjhSdU1Ga2dfR0kySE9qX01FRFlOX29JcHdxREYtVTNNdDRvOU1CTHIwRWpndzhLa3ZqaDJzU2V6VkhPMXpJczcyX3JXWVdnakgxLWlVb1Faa09rMmNUbjBYc25TVDdqYmJVODdmZ050VkxjNU1ZWVA0d3VwazNTeFlJVTEwQVpDQnV1UWdubF91TlpxMjkwbm1CXzdSNWc1YTJOMUwtME9LamI4VUR1YmZ5WWRjTG1XRmRDenBIeFdjamN2TWEtbVJMajR0cjZxeFgzc194T010Qkh2RWE4bGV2MGE3WkNCVTA5UUFfejZhUQ?oc=5",
+   "date": "2026-10-29T19:34:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c458ceafa91e",
+   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
+   "date": "2026-10-29T19:16:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "5c8aae660de1",
    "title": "Keiko Fujimori realiza recorrido en el CECOT",
@@ -926,28 +948,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTBpQTJhb1ExTEg4THRwQ3lTMkVEWkZEXzZaNjJyaUZiNzRTcXhxbG9nb3pCWHpveV9rWkhvdkJEVE5OY181c0p6b0NnYXhBcmlkU0pkanhqXzhuTWEyTXhab2QxR3pfRG9XZGNPenppTGpPRUtwTUV2MXg5NmJCSDNlbER5ZnR6Vk9KcG1mV0FLRG1IZ1VjcmZZeEIwbk9BMzE1b2g5Y05jY1RKMExCV1E3djB5OG1QLWVkRzY3VV9BVU9LYVBtNDhSVVVhOUhQbmNZc05wMUZCVlpYRVg2RHdfT0tlRnh6UGdpeWpR0gGIAkFVX3lxTE9nNmVnYUp1a0dsSGg4a1dEdUFtdmI0bkowYXJtVFVqMHRaNF8yMXkwMUxGN0djVzB1cUNjM2VMUTUweXp4ZUpCU3RwLTh5R1hYUUxubEFTNGdNYTNWVTBQRmNFekk4Wmx4d01zQ1I5VWJqRXdTNXJ2MnBGZk00MjZ5WlRJWld6b2MtcHl6dXM0NDYxUkxEWkN2WC02cnZXaFdhVWFxeXE1OEktRFl3emppcUZ5WG90SjIwWURDcFIzdVpMeFJ6c3ZjVnZ4dnQ5MjV3RHlEc0pVaFFkYmRDbTNTQXdEWVRzOUlQSXM2dlkwOW84UWIyR3pwU3dPUVhLRUZHTW55QllrcQ?oc=5",
    "date": "2026-10-28T21:34:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e001a65304ed",
-   "title": "Keiko Fujimori viaja a El Salvador para conocer el modelo de seguridad de Nayib Bukele y visitar la megacárcel Cecot",
-   "excerpt": "Durante su estadía, la jefa de Estado se reunirá con el ministro de Justicia y Seguridad Pública salvadoreño para conocer el programa “Cero ocio” de reinserción social",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTBpQTJhb1ExTEg4THRwQ3lTMkVEWkZEXzZaNjJyaUZiNzRTcXhxbG9nb3pCWHpveV9rWkhvdkJEVE5OY181c0p6b0NnYXhBcmlkU0pkanhqXzhuTWEyTXhab2QxR3pfRG9XZGNPenppTGpPRUtwTUV2MXg5NmJCSDNlbER5ZnR6Vk9KcG1mV0FLRG1IZ1VjcmZZeEIwbk9BMzE1b2g5Y05jY1RKMExCV1E3djB5OG1QLWVkRzY3VV9BVU9LYVBtNDhSVVVhOUhQbmNZc05wMUZCVlpYRVg2RHdfT0tlRnh6UGdpeWpR0gGIAkFVX3lxTE9nNmVnYUp1a0dsSGg4a1dEdUFtdmI0bkowYXJtVFVqMHRaNF8yMXkwMUxGN0djVzB1cUNjM2VMUTUweXp4ZUpCU3RwLTh5R1hYUUxubEFTNGdNYTNWVTBQRmNFekk4Wmx4d01zQ1I5VWJqRXdTNXJ2MnBGZk00MjZ5WlRJWld6b2MtcHl6dXM0NDYxUkxEWkN2WC02cnZXaFdhVWFxeXE1OEktRFl3emppcUZ5WG90SjIwWURDcFIzdVpMeFJ6c3ZjVnZ4dnQ5MjV3RHlEc0pVaFFkYmRDbTNTQXdEWVRzOUlQSXM2dlkwOW84UWIyR3pwU3dPUVhLRUZHTW55QllrcQ?oc=5",
-   "date": "2026-10-28T21:34:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d32ebca2ec04",
-   "title": "Keiko Fujimori viajará a El Salvador para reunirse con Bukele y conocer su megacárcel",
-   "excerpt": "",
-   "source": "Cooperativa",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQS1BXQ1NpYVRVcjJjR3JldEIzdTIyM3VtR3MxWDVkSHE1ZEIteE5Rc0hqT1FxQkJPUmY5U3FHZHdEUVpxMUZFaG1HMUlfUlZfVkpPMFFTUmFJaTR2SWNvTXJYTWxJSmN1TEJUX0p3NmFPekZ1R1B6enJQVEhIWloydGNGT3h2RlU3bVdFcjJLNjNUZFJSTXEtbHhKNHVpMVV4Tlgydk12VjAxRFUxRlhRcmxWby1qbmZablI0YWtRUTAzbXptbVFuMHZob2hTb3RXRWVkNHhNaHTSAYwBQVVfeXFMTy1uelZjRWhEZTlXTHgxanNHQ0QtSUluM0tJWGhScHpWUDl0NXRSWkNaTl84ck1TS3FYbnN3TVZ2T0h1MzJNSHZqaDN6NHozdVdoYTM2S1VBV1pBWGNsVUNSUW10ejgyWDFPYnh2UzRNVkpvMzN4UXlwTWlULU5ZYV8xY3p2dTdFYWZWdmQ?oc=5",
-   "date": "2026-10-28T21:34:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
