@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T08:03:12.741436+00:00",
+ "generated_at": "2026-10-29T14:08:30.262510+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,12 +293,67 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "016059de2049",
-   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
+   "id": "40cc8e56e3fd",
+   "title": "Bukele no fue a recibir a Keiko Fujimori a su llegada a El Salvador",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
-   "date": "2026-10-29T05:36:21+00:00",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTBMVjB0SHpzSEd2a3lqbzZSbEszZkNTV3JzanRLUHRmSVVUTmZ1eHB2TjhDcFJweWdfWkpoS0NrTUZNVlJXY01LLVJtNU81OTNpY1pzTUJTY3FQdTY2VDV2ODN0cUxxM3hUOXhZNmdPSmZNMkgwNjdwVFluSmo1UUM5dlYtRlJtUjR6YU5VeEtNN1B5?oc=5",
+   "date": "2026-10-29T13:47:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "87698339c94e",
+   "title": "Agenda de Keiko Fujimori en El Salvador: se reunirá con Bukele y visitará megacárcel",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXRZdXRyWnRLYUpSektaS2ktQzNjWElJWHc4ckV0WExRUG9VWUQ3LWNQWUNtUERoTzI1NFpCNHJJRThzZGl4Ti1oMDM0cUloUTJEU185bFhHdC10bDFMYUJkRVYzOVltZFB5S2lpLVozY3dhbWtjVWw3QnRZd3hWS2Z2VDVZMUtxY09fVGpZeUtONGM3NDZZLUZHWDdMZGJkRjkzaVdrdkVEYzcxMXB0RmlEMDBpY1pZVDVNZm9halRtT0nSAdcBQVVfeXFMT0ZQQWczbWRYWkZUaDQ5RWlyYzVYSGdwUUxtU2pyZUhTMWxQdEhLb1JURXNGYVM1czNoVTlDSzVXM3FpSDZCdnp3aFFNR2VRbFRMU2czMWtiTkF0TWdURjlDRTd6bUQ5dngxdWdySFctY0RVX0E4TEJiWUVjdzJ3QWt4YnhLcGQ3aHpjRHd3N1p4ZFdfUVZsT3NENjNwSGVGOHp0SzRaSkVMZ0lla0JQS2h1d0xIVTg3LWQ2cnNTb0pkOVpYaV9Kc254bVQ0QlBfVk1EZ19XV1E?oc=5",
+   "date": "2026-10-29T13:22:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b8eb2881e0a7",
+   "title": "Keiko Fujimori llegó a El Salvador: su encuentro con Nayib Bukele, visita al CECOT y demás actividades programadas",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMUI5bGl1cVRjRGZISUZWaWpEYUNXcThHb1JaV0RCdTNGOWtVUFV0VWRObm9RZEpya282RkNDTWlMVHRaU3dKN1RXUUpUT0w5SnVZX3ZuSHFwR2l4RVBwLXZTNW9HNk95MzhQUFJBZzBaT2taU0JhVElfZ3lVZjNHbE8zaWExRGJMZE5lZFdlOG1IdDVIM1JuTzdpNXU3RFRibDZENXd2bUhKREY0clRXM1ZadklQRjhnWEtpWTZjRnJOUm9mSGtvTnB5NDZ4ZEN6UVFjc1QxZVk2bjJ1WDFYUFE3aFFaajlMckNWUHNiZ1pUUFhLX0t1NkNHLU5Jb28?oc=5",
+   "date": "2026-10-29T13:04:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dd73eef51db3",
+   "title": "Keiko Fujimori en El Salvador: su agenda y cómo es el CECOT, la megacárcel de Nayib Bukele que visitará",
+   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
+   "date": "2026-10-29T12:12:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3ab6bcec8aa0",
+   "title": "Pensión 65 sube a S/700 este noviembre: ¿Cuándo se pagará el nuevo monto?",
+   "excerpt": "El Congreso aprobó el primer crédito suplementario del gobierno de Keiko Fujimori, que destinará S/288 millones 522 mil 850",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/29/pension-65-sube-a-s700-este-noviembre-cuando-se-pagara-el-nuevo-monto/",
+   "date": "2026-10-29T12:03:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "50c3067d2762",
+   "title": "Presidenta Keiko Fujimori llegó a El Salvador en visita oficial: esta será su agenda",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
+   "date": "2026-10-29T11:50:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -309,18 +364,29 @@
    "excerpt": "",
    "source": "Trome.com",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdzcySVVrMjZ2a1ZkSW4xY1oxLTlDMFJidEZ6d0tKUmNUbHlmNjlSTHZuclhURmdlamQxZWhYeU9JZmVpTGpoN1l1d1dRT0ZNN3FSeXBTdDZEeWxCSURTY0VvenZDY1ZGanpreDNBdlAxV1JaOFVXWjdjQ3FTUFZieFpQZk5sMnR3ckxjcFM4YlJJMFpSbnFuRjk3ZUNZU2NnYWdJWkQ3ZVZOOUFyLUFLLW5kZDRNd1VKb1AxR01tcXBNOU1BcjRLMnBzZjdad2dnbGxza0hxdjY5QkZ5Y2xXUGJHbVc2b3EyQ3ktQU0yOWVUVEXSAYcCQVVfeXFMTktyc2hqbFd4dHdlMU9TejA5RTczNGMxWk0tWlhRUjlrNGQzVmJMRFk3NzhCTklvTjBUNWdTaDduTUNKZ2JBR09tcG5ucUloWmtuM1FEZDZkNkNJRzFrNjRhRDZZSVo5LWk1anZYNFdJNUFna3A2NjNzUHpaMENMWVgxRFVUYlF1UDB0bFpPSE1QNTl0TWctMlhidUc0eE5lU1BmSVBJVVB0N3Bya0tqSjVneElId1V1M1ZvVFl6REIzM0Z5MUhpZWNvMDRDWkpVa0pXaE5uWlVyMUdGR1o5Nkh0LW9MRGRGYTlJNHhJQUtOY0x2TldmM3BKeHoxN21IRXMzeDJzYkE?oc=5",
-   "date": "2026-10-29T05:27:14+00:00",
+   "date": "2026-10-29T11:48:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
   },
   {
-   "id": "d5a6d47ada5f",
-   "title": "Keiko Fujimori fue recibida con honores militares...",
+   "id": "59f16d7e83a8",
+   "title": "“Keiko Fujimori busca copiar buenos ejemplos”, sostiene titular del Congreso, Miguel Ángel Torres",
    "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFdfV2ZpUHpDam5WV1UwTm5HTVpLeENJVTBIQkVSZFN3ODl4X0lTX3d5bmVFbzBjX2lVQVJ3ZlhJcWdhbVYydUx4LTdKalJ4OFFlNzNrdnRjRUZNeEp6VV95dHFmR3hobncxZ0hvWkRmeDBkT1UzZG5IMURFYnFhSFlZdHZGWUJHdEVUNUZoalYtdGpTTlIyb2VR0gGfAUFVX3lxTE80S0JKdUh2UXp5MGNGN2xTSmtMcGpUQ2VxdThQdTlVODY0cmVYNDl4eEdodVhGUUZVSnRfWHlCUkxWdjd2VGg0U0VHSEJUdGhsT3dhNDFQbDBDcVUzOXNPRVl3dG5OVmtfZ0dIRUhWQTRIUzh3eEhZa0hvcnJmSWRMTkIwYU5DSmFLLUp0UlI3RE53UzVmQWpacWU3Nl9KYw?oc=5",
-   "date": "2026-10-29T05:25:43+00:00",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVjFicG1wZGpJNjllemRzc05HUXVwYnJnOTFuT2premFLZ2g5TkJVNU9wRE5FLWVzUDR4ckwtWENkd1hBRTh3X3haR0FsdFRzeUtBM3hSeFVqYnlqVzkyYzUtTWg4QWJVamNaSWlNMUd3aVllTVhhLXB2WExRaW4xcG5vRlBCb0tqU3g0Smh4Z3VyMjJtZVl4NXRLX2VVZ2h1dFU4eWNNOHY5MUJfc29PQXAwTHphdlJEM0puUng2elJaenI1UjJ4M3FZSGJGbFBiaVNKUTkxN0dyeXVZSDUxcTBLM04yTVlhcHFtdnhiODE?oc=5",
+   "date": "2026-10-29T10:26:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "016059de2049",
+   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
+   "date": "2026-10-29T05:36:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -337,12 +403,12 @@
    "next": null
   },
   {
-   "id": "dd73eef51db3",
-   "title": "Keiko Fujimori en El Salvador: su agenda y cómo es el CECOT, la megacárcel de Nayib Bukele que visitará",
-   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
-   "date": "2026-10-29T05:01:00+00:00",
+   "id": "d5a6d47ada5f",
+   "title": "Keiko Fujimori fue recibida con honores militares...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFdfV2ZpUHpDam5WV1UwTm5HTVpLeENJVTBIQkVSZFN3ODl4X0lTX3d5bmVFbzBjX2lVQVJ3ZlhJcWdhbVYydUx4LTdKalJ4OFFlNzNrdnRjRUZNeEp6VV95dHFmR3hobncxZ0hvWkRmeDBkT1UzZG5IMURFYnFhSFlZdHZGWUJHdEVUNUZoalYtdGpTTlIyb2VR0gGfAUFVX3lxTE80S0JKdUh2UXp5MGNGN2xTSmtMcGpUQ2VxdThQdTlVODY0cmVYNDl4eEdodVhGUUZVSnRfWHlCUkxWdjd2VGg0U0VHSEJUdGhsT3dhNDFQbDBDcVUzOXNPRVl3dG5OVmtfZ0dIRUhWQTRIUzh3eEhZa0hvcnJmSWRMTkIwYU5DSmFLLUp0UlI3RE53UzVmQWpacWU3Nl9KYw?oc=5",
+   "date": "2026-10-29T05:02:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -365,17 +431,6 @@
    "source": "Perú Informa",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaGZub2hQSktfZlQzY3JwTVJoVFZFU0E4cXYzQWpHWkR5YnRWOEpFMW5BWEloWjRQTXc0YkptV1E3VElUdDJPRXJ4SnUzSTBqdy1VR2RVR3ZvcERveGFjT1BzeWJTN0pDVjZCQTBlNnZob3l6aHViR0tZeV9jR3dLREJCXzAwYnpETTBHb3FMV1BNS2owQUtCU21XUE9yUS1vZXlqSFp2cEpPT0NmUi1ySVdrRzFlMzJ5VExLVXhNZ3U1N3ltVm9LaWVvb1RiTHNUUXZBR3cwSmFWdTIwdmlvcUxHT1Rta21RdVZ3TXBR?oc=5",
    "date": "2026-10-29T04:34:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "50c3067d2762",
-   "title": "Presidenta Keiko Fujimori llegó a El Salvador en visita oficial: esta será su agenda",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
-   "date": "2026-10-29T04:33:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -474,7 +529,7 @@
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDROa29VN1VBWENKUmhNTDBmVEc1TGZubWE5MEJPckh2aW5mRzAxcGFTNkpVWmFmN1lmckdjZmtKSEwzZnBTYk1wbXBwXzUyRUlqc3lGYUhRM2NERFZodmNKU3RoeGZXZEdqa3JXZzBVa3B5UFlBTjRpQlEzSExKNWwzRGpLTjVzekRnY1dLZVN2akdhblI5T1pyeVE4ZU9yQ2YydVVrQkhHS1FLSGR3RXkteXBRR0FKLUJkcFJuWHR5TFVZMVQ0WHd2Q013MFpXeklIQnZSZGNXSHpWWFE?oc=5",
-   "date": "2026-10-29T03:22:01+00:00",
+   "date": "2026-10-29T03:27:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -557,6 +612,17 @@
    "next": null
   },
   {
+   "id": "7570f0006f82",
+   "title": "Internacionalista Luis Nunes respalda viaje de Keiko Fujimori a El Salvador: \"El Perú necesita orden, lo que no significa dictadura\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT1NJc1JxT3A0d1YyakhTYXJ2UVh2T25OSGZ5YUhIbG96LWtZRVl2NlVoNTllSjhrVl9xbnIxeHUwYk55dE02cW1DeUg2S3F6WkwzamFyUkVZWmlVRmZMclNkb1RSUWVUYzVpd0tMNXRhd2RGQWtUeTNYRkl5RWpMN0Z2RmoyLXhLcWxHdmFjOW5HbzNqcFJVeXQxWnNScUZHX3IzdlBua2VNeXVwRDE2WDhac0pybERhY2lWbTJZM1I3dHZwM1RiQ0JQUkNoc3MxLV9odW5wZTBNcVRFWHdFbXRKVHpOWHdNWGpRb0ZUX2lqNy1JM3c?oc=5",
+   "date": "2026-10-29T01:44:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4ee70fa95352",
    "title": "Keiko Fujimori reduce de 3 mil a 2 mil los colegios prometidos durante la campaña",
    "excerpt": "Durante la campaña, la propuesta inicial de Fuerza Popular incluía 3.000 colegios en cinco años, que luego aumentó a 5.000, abarcando nuevas construcciones y recuperaciones de locales.",
@@ -585,17 +651,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUh3WV9pRTVXMnBzYnFoZURLbGxkSnlmY0RHN29yVXA0RFlOenZNQzI4LXB5MG5HQUZaRHZtNUFFUEtKRVlEVDZ0VFZKbkpvYmlrTW1Vc1l1R3BGQ2JLZWVOUG54SDZFVkRMQ3dsMFlDRUNRSGcyNHJIeVJZaFAtVTJLVExrRVJIekNhNS1VWjN6NnpJREpTRXdncUxvQVRBMkg5WEgtNUszX19oMVhRMzdtRQ?oc=5",
    "date": "2026-10-29T00:49:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e001a65304ed",
-   "title": "Keiko Fujimori viaja a El Salvador para conocer el modelo de seguridad de Nayib Bukele y visitar la megacárcel Cecot",
-   "excerpt": "Durante su estadía, la jefa de Estado se reunirá con el ministro de Justicia y Seguridad Pública salvadoreño para conocer el programa “Cero ocio” de reinserción social",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/28/keiko-fujimori-llego-a-el-salvador-para-conocer-el-modelo-de-seguridad-de-nayib-bukele-y-visitar-la-megacarcel-cecot/",
-   "date": "2026-10-29T00:03:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -728,6 +783,17 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTBpQTJhb1ExTEg4THRwQ3lTMkVEWkZEXzZaNjJyaUZiNzRTcXhxbG9nb3pCWHpveV9rWkhvdkJEVE5OY181c0p6b0NnYXhBcmlkU0pkanhqXzhuTWEyTXhab2QxR3pfRG9XZGNPenppTGpPRUtwTUV2MXg5NmJCSDNlbER5ZnR6Vk9KcG1mV0FLRG1IZ1VjcmZZeEIwbk9BMzE1b2g5Y05jY1RKMExCV1E3djB5OG1QLWVkRzY3VV9BVU9LYVBtNDhSVVVhOUhQbmNZc05wMUZCVlpYRVg2RHdfT0tlRnh6UGdpeWpR0gGIAkFVX3lxTE9nNmVnYUp1a0dsSGg4a1dEdUFtdmI0bkowYXJtVFVqMHRaNF8yMXkwMUxGN0djVzB1cUNjM2VMUTUweXp4ZUpCU3RwLTh5R1hYUUxubEFTNGdNYTNWVTBQRmNFekk4Wmx4d01zQ1I5VWJqRXdTNXJ2MnBGZk00MjZ5WlRJWld6b2MtcHl6dXM0NDYxUkxEWkN2WC02cnZXaFdhVWFxeXE1OEktRFl3emppcUZ5WG90SjIwWURDcFIzdVpMeFJ6c3ZjVnZ4dnQ5MjV3RHlEc0pVaFFkYmRDbTNTQXdEWVRzOUlQSXM2dlkwOW84UWIyR3pwU3dPUVhLRUZHTW55QllrcQ?oc=5",
    "date": "2026-10-28T21:34:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e001a65304ed",
+   "title": "Keiko Fujimori viaja a El Salvador para conocer el modelo de seguridad de Nayib Bukele y visitar la megacárcel Cecot",
+   "excerpt": "Durante su estadía, la jefa de Estado se reunirá con el ministro de Justicia y Seguridad Pública salvadoreño para conocer el programa “Cero ocio” de reinserción social",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTBpQTJhb1ExTEg4THRwQ3lTMkVEWkZEXzZaNjJyaUZiNzRTcXhxbG9nb3pCWHpveV9rWkhvdkJEVE5OY181c0p6b0NnYXhBcmlkU0pkanhqXzhuTWEyTXhab2QxR3pfRG9XZGNPenppTGpPRUtwTUV2MXg5NmJCSDNlbER5ZnR6Vk9KcG1mV0FLRG1IZ1VjcmZZeEIwbk9BMzE1b2g5Y05jY1RKMExCV1E3djB5OG1QLWVkRzY3VV9BVU9LYVBtNDhSVVVhOUhQbmNZc05wMUZCVlpYRVg2RHdfT0tlRnh6UGdpeWpR0gGIAkFVX3lxTE9nNmVnYUp1a0dsSGg4a1dEdUFtdmI0bkowYXJtVFVqMHRaNF8yMXkwMUxGN0djVzB1cUNjM2VMUTUweXp4ZUpCU3RwLTh5R1hYUUxubEFTNGdNYTNWVTBQRmNFekk4Wmx4d01zQ1I5VWJqRXdTNXJ2MnBGZk00MjZ5WlRJWld6b2MtcHl6dXM0NDYxUkxEWkN2WC02cnZXaFdhVWFxeXE1OEktRFl3emppcUZ5WG90SjIwWURDcFIzdVpMeFJ6c3ZjVnZ4dnQ5MjV3RHlEc0pVaFFkYmRDbTNTQXdEWVRzOUlQSXM2dlkwOW84UWIyR3pwU3dPUVhLRUZHTW55QllrcQ?oc=5",
+   "date": "2026-10-28T21:34:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -882,72 +948,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakJsaEFYaDZGaUEwNWdDOEVSVHFHSjh0NWdhbGc1MEo0YVAxYUVwM0tyNEttb25mbWpIRUdWQzRWUnREdGczQzdIV0hRYUpIV3Fjd1R6aEg0b1NLR2NyQW9jX2JNVHllSVkxTm1fUVloWGdvOUxWdVVQTC1Da3FiTU13WmRBLXBuMFdXRGtkUmNQdzQ5SDkyWkhQMVNDS25ZVE05OHRVVQ?oc=5",
    "date": "2026-10-28T19:21:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2bd6991ff108",
-   "title": "Miguel Torres: Viaje de Keiko Fujimori a El Salvador debe servir para combatir inseguridad",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVlBfRHIzYzUzY1pXVzlOendUeHM3TmpuUHoyYUFZcTFMQkpkM21Pd2poeGJ5RVdCbkthRXV4TWItM3FkS2FDMnVKM0ZfQXY2aGw2S3pmWjZ0WFZJcGgtay13TU56THBDSkdhYWdGTEoySWxFb3FLRXZ1dWNoQzFHY3p1cVJ4MENRM2pKSmZIY2lkUG1GN0xPaS11TjZyWDZuQnV6NllidURCMkpoZFNaQkhYRWtaVllWSHludkJYMFZkd0VQdjlpWFFrYU5HYzFxcmdGVUpIZ0YwQdIB7gFBVV95cUxOa1RXdG42TW05SGt0b1VHM2tTbGw2dm1tXzdUTy1aZ3FpYXB0dmNYU0YwNGpuMG1XQWVoZ2NfMHpCV3N5QlMxT0NrZEQtM21CU1hsb1NnOHV5RndLZW9kOHRacFk5M25ocFhIZUh5NGlHN3A1Y2NtVVdLMDFqNWNoRmpzVW5GTDZtS3JJV0kyNk8xSHNVR0pzTjZDVGo4UUxCd25vY25OT1ZKd3VtOW9nYWFjS1Rid1Z2c3U1RndNbHExa0hNOXNySGh1blF4RlJQdTFSVGQ5NThHYkg3Mjdacnh3a2h4Z1BzVWpTa1p3?oc=5",
-   "date": "2026-10-28T19:08:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "287dc5b34c43",
-   "title": "Miguel Torres respalda viaje de Keiko Fujimori a El Salvador %",
-   "excerpt": "",
-   "source": "La Razón",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE14eUhYdGJicGYtQ2tBbV80X1hvRVFReUxpVG1CTFMzbzRzR0UwTExnQWRfS2dqVlh4Mjl4ZXJmbFo0WnVvM2FCNHpvLXljTEpneFZ5WjNwZl83SlIxcDdBdFV1cTE4bk82VVpOS29DZU84eFA3c3ptc1IwMFctMlU1UDNaQVU?oc=5",
-   "date": "2026-10-28T19:00:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "81a9c9266637",
-   "title": "Keiko Fujimori inicia visita oficial a El Salvador en busca de lecciones de seguridad",
-   "excerpt": "",
-   "source": "Diario Versión Final",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ19lYkg1Y3J2dWc5dFVhbS1ZY282ZktHRmtJS2lsQTlYMTBKRUhsZkttajF5RUh0S1E5ZjNrRUdjNGZiRVh5d1dWYzRlVmdwem81UTYxU0tsSW5rRGhqTDZwb095bGtNeWY3RC1BOGU1OWxwU1lPNlBmVzhuMTJ2X3NIdkNNejBuLUZ2TWE3c3lUbFBtLURNOF9aYXBsaUE0QVp4RW9Kc2JhUzJLNXhxNkNqZzNHZFMzWVI3Q1RnejY?oc=5",
-   "date": "2026-10-28T18:49:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "572842d2cc79",
-   "title": "¿Qué opina Miguel Torres sobre el viaje de Keiko Fujimori a El Salvador para conocer su modelo de seguridad?",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdmp0Q2tNcjBDdklwMWhUdXFQYW14SjRKbzdDa0ljclVUNHYwb0xGVV9JYldVOWN3cUZqZmFJWEN5Rkp5amNLN0lpblNjUlRKRVZ2Y2hDZ1pvVFRJaDZ2bGthcjg5TUNaT0dzMGRfUlRubGc2WC1oOGNERzBEeXQ3MmpIZVh0OWZ3TVVKanBiM0s1X0RGallxV1pPeE5tYXE2cW5jeS1IVmIxbGZ6Slg2VmFac29oMGMtaktBVmNvTV9MY056V1U2bmlndEZ1SmU0MnVKbjJRMnIwUDFI0gHcAUFVX3lxTE12anRDa01yMEN2SXAxaFR1cVBhbXhKNEpvN0NrSWNyVVQ0djBvTEZVX0liV1U5Y3dxRmpmYUlYQ3lGSnlqY0s3SWluU2NSVEpFVnZjaENnWm9UVEloNnZsa2FyODlNQ1pPR3MwZF9SVG5sZzZYLWg4Y0RHMER5dDcyakhlWHQ5ZndNVUpqcGIzSzVfREZqWXFXWk94Tm1hcTZxbmN5LUhWYjFsZnpKWDZWYVpzb2gwYy1qS0FWY29NX0xjTnpXVTZuaWd0RnVKZTQydUpuMlEycjBQMUg?oc=5",
-   "date": "2026-10-28T18:27:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "26184e81e4b2",
-   "title": "Miguel Torres sobre viaje de Keiko Fujimori a El Salvador: \"Hay que rescatar las lecciones aprendidas\"",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUl9oQUNFbFA0OFc5S3hPOUItcTRoVnA3bmxMcnh5TnE1MVBYOXVtZV8xQnJKSGNfSGpndHJqYlRDbWl3WE4xS0xPcFlPd0NUWTB5V3ZiZmtaZ0UycGZ4ZUI4RUpDMnBCM2pZWmlLMldfcC00SEpYZkZYTEJWdFZFYnU1cFVmTGhDZHczOHBTelliemlsU0tMRllCNm9FRGhndGEzWG5pVS0zbzhvNGpxUTQxSFRBUzRLcmcxQWFTcWgwa2FMYlRr?oc=5",
-   "date": "2026-10-28T18:19:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "57ac2c084fbc",
-   "title": "Presidente del Congreso destaca viaje de Keiko Fujimori a El Salvador para conocer estrategias de seguridad",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRFJ5dGhWeDVCbS1XcDloZDBnNHE4UTZsWmZudDJwRWRBUk9MTnIzNnU3LVB3OVFkLTFHRV9Mbm1GaDhGaXo0eUtPS2pfckxnZ3BTejBpbngwWjd0dUhFcG84LTJWYXM1UlZwaWNGV09obmpCWEVlTzFnTk9veG1SYU8zeWxvMFBCM19YZVlsNmx4V3BLeXEyYXk1U1JjRi1YTkxraC1jMU9kVnRrcHczX0I0eDFUdmtIRUlfbVg4QWlZR2Z4bDl4Q3A5a0FON2RuMnZtdTBmSWpNeVlsd2tjNDhyNkIxQQ?oc=5",
-   "date": "2026-10-28T18:02:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
