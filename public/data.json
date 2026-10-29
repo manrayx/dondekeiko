@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T16:40:23.638279+00:00",
+ "generated_at": "2026-10-29T17:01:40.135517+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -298,7 +298,7 @@
    "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
-   "date": "2026-10-29T15:42:17+00:00",
+   "date": "2026-10-29T16:50:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -310,6 +310,17 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2pJU052a3B2dzdLek5sUGhjQ3NGU01iT2RaOTZtMElXbTdnLXNBYUdicHpHdHBGWl9pTjRCajhqWXFSbzV0VmNvVlZHYkdyeVhfdWl1VllCZjRIX2RxRVd0R0xiU1FUNG1rXzYwYm0tN1ZhM1F5NlBkZTd4cGlGRVgzbDFoNVJDNktaZ2hrYW5XN0dMa3ljMHZFVXZtUW10MFpnN3Z0dWVnNFM5MEFBRl8wXzQtR1RT0gG-AUFVX3lxTE90LWtyZzEzZWduOVp4RzJSMUdWTUpJOENkVnlnMkZHVVZCSEJhR2duaHdLOG9zVW9naWJDNThUU1NPUEtCaHhKVGhCNlNFdGF4OGctdHExWm1lTEIwRk9jSkVCY2NRNDlJS1hYc2xMNHB5ZTQ1OU90M0g1WVNBY21oV0VBWTNIdzd3VGJVQ0ZkZ2xQYUxoSjMyYnA0N1Zjc2w5YXMza1VOa3BBNzZJeDFYa0tlb29obXVRVHdrNVE?oc=5",
    "date": "2026-10-29T15:08:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e782d2bf4005",
+   "title": "Keiko Fujimori se reúne hoy con Nayib Bukele para abordar estrategias de seguridad",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkxiNnY3aU5JcTEwREFWYktwQTROT0tIbFotdkVwbW50VFZya1dpaXdSNUI4czdoX0pTcGp6bVNlaDQwZW0zZW1qOXFjTzBXQW9yRm9zYzFpb1N3WVE2Szk1QWx3dmtaSDdONEJGc3VaUE1vYUFrYjEzNFlYN1Z2a0w1TkJtbFh1V2xJTWtUTDJxYXdsWHMzaVl2WGNYdXhBbFRsZ1dzdU15LWxvYTZQenJBX2dhN0E?oc=5",
+   "date": "2026-10-29T15:04:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -486,6 +497,17 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFdfV2ZpUHpDam5WV1UwTm5HTVpLeENJVTBIQkVSZFN3ODl4X0lTX3d5bmVFbzBjX2lVQVJ3ZlhJcWdhbVYydUx4LTdKalJ4OFFlNzNrdnRjRUZNeEp6VV95dHFmR3hobncxZ0hvWkRmeDBkT1UzZG5IMURFYnFhSFlZdHZGWUJHdEVUNUZoalYtdGpTTlIyb2VR0gGfAUFVX3lxTE80S0JKdUh2UXp5MGNGN2xTSmtMcGpUQ2VxdThQdTlVODY0cmVYNDl4eEdodVhGUUZVSnRfWHlCUkxWdjd2VGg0U0VHSEJUdGhsT3dhNDFQbDBDcVUzOXNPRVl3dG5OVmtfZ0dIRUhWQTRIUzh3eEhZa0hvcnJmSWRMTkIwYU5DSmFLLUp0UlI3RE53UzVmQWpacWU3Nl9KYw?oc=5",
    "date": "2026-10-29T05:02:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2af125de6d24",
+   "title": "President Keiko Fujimori arrived in El Salvador for an official visit",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3MzMVU2cXJDMnd4d3hFX0xrVWVBcTlzQ2JlRzhBTWJSYlVYcWc1MkNpNWVkZzJtQnc0UXpSS1J1SlBRaHlLV0F6OVNvVFF4eXdORW5jdmVwdkhwaVgwSkNsUE0tbllzcUNfZGVNY1lTbWlYVGEtend2VUlqT3djUEtLMFlfZDNlWmlEWWZSQWZzc04yQngxa0NuZG42VGtQYjlabFBYOV9VcktzVjEydGtn?oc=5",
+   "date": "2026-10-29T04:54:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -926,28 +948,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmtzUUxmVlM1MFBJeUhpclRjb2c3NGtlWllNTFhKX201TG5oVmJ6TTFXWFNVWm9Pd2dCMVRDdWlDLVJDRGRUN3hxUFBHcVQ3ZzZqNDJXVTlhQk5SM0Y1ODVGRW1POXZXT0t2aFZZR0xmaC12OFF6LUZLeGJabHUxOG9oaE55LVhPYW5sem9ZVXphZVlQbzNsUWNmVHJXZDM3ME5wMkdXeFBEaHPSAbABQVVfeXFMT3ZhajU2Z2xNQ0RMWk9iR01Ha0MzRjRPdkwySUxuYmRzdnlNejJrU3Q4cG1leVFrNFdiYnhHNUptdUc4U2VSUmNEQ1pBRk5oUXNtOXl2QzdmNHdlQ0xEa2RrVTZiNlVQZGZjRHM0bUtJekRUaGRGN21meUljNG1zRHViajgtaTJQRW11cVNmYUFhanhyZE55bVVMZ1lMZ0JQbEl5aDhmV1hnb3RESEN2ejM?oc=5",
    "date": "2026-10-28T20:41:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f05b8124f889",
-   "title": "Esterilizaciones forzadas: víctimas rechazan el archivo fiscal y exigen justicia para más de 4.000 mujeres",
-   "excerpt": "Pese a que el Ministerio Público reconoció que se cometieron crímenes de lesa humanidad contra 4.172 mujeres durante el Gobierno de Alberto Fujimori, archivó el caso aplicando la Ley 32107,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/28/esterilizaciones-forzadas-victimas-rechazan-archivo-fiscal-y-exigen-justicia-para-mas-de-4000-mujeres-hnews-993832",
-   "date": "2026-10-28T20:38:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e92456150897",
-   "title": "Keiko Fujimori saluda devolución de recursos del Congreso: \"Serán destinados a atender las principales prioridades del país\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEg1ek5Eb0dEbDlveXZHajRLUlFDZEc5a010WTRYc3NPOTcwZ1gzRHBwWGtIbi12bEdOYWZIYklVcmhXb05rd3l0RWJVUkxvRndGOUt5Skg3X2JzNzNlU3Q2cmY5ekpnNG1SalRRYjRWTWxSSlhydkJEamQ2VElQZmxSZWdnRlBzN2I5Sg?oc=5",
-   "date": "2026-10-28T20:35:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
