@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T20:15:20.055567+00:00",
+ "generated_at": "2026-10-29T20:37:08.869084+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,12 +293,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "032080787f49",
+   "title": "Presidenta Keiko Fujimori visitó el Centro de Confinamiento del Terrorismo en El Salvador",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSk81YjUtYk9POGlPOEp6V1psNXJHT29ndkdTVXVNM3Z1V0ZFWWRUcjh0YjRLODBEUVF2d1V5U2lDMndYVU1zSGdNWnBMMzlJVUdBeUFmVE81MlY4V3dVaWJuaURPc2t4LUU4QUQxcG5FTElQQmhmeVNRVmhrNzBLS0QwUGdpcExJN01wYW85cEZ3ZmNvZUxuNlJUOGlIZnFKWjdrZFBkOFB2Nldpdk0xbExhQ3I2dmhacFlCNXZfNG1ZaERRREtqMXRJUjFBZw?oc=5",
+   "date": "2026-10-29T20:30:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dc25f5ee6a65",
+   "title": "Keiko Fujimori visita megacárcel CECOT de El Salvador antes de reunirse con presidente Nayib Bukele",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, visitó este jueves el Centro de Confinamiento del Terrorismo (CECOT), la prisión de máxima seguridad de El Salvador, como primera actividad de su…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-visita-megacarcel-cecot-de-el-salvador-antes-de-reunirse-con-nayib-bukele-ultimas-noticia/",
+   "date": "2026-10-29T20:28:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f52d26b737d6",
+   "title": "Presidenta Keiko Fujimori en El Salvador: visita Centro de Confinamiento del Terrorismo (CECOT)",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-en-el-salvador-visita-centro-de-confinamiento-del-terrorismo-cecot-noticia/",
+   "date": "2026-10-29T20:16:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "072f5aa36ae3",
    "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
    "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
-   "date": "2026-10-29T20:11:46+00:00",
+   "date": "2026-10-29T20:14:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -310,17 +343,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSVJBOXpMaFNDLTN1WDBiVk13b3cxaWJfVDBjQkl6allDWk9MN25YQjlkbkJPWE5rZGFzN29oTjJQck5QeHlieHluU2c1dHdDbGhkTzFqYmlkdGVmSjh1V0pqSGktOXBWT1NkVDVraVp4X3E2OEx0c0pfcEdiMUZzZFo5WkZhRDN0X3JsOHU0bnRsci1wLWxGRGs1UDM3akx2M21YS2pxWjdxMU9IRVU1STdHUjB3cnduRHotX205T1h4RGl6Vm9GaWRRWTM?oc=5",
    "date": "2026-10-29T20:00:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f52d26b737d6",
-   "title": "Presidenta Keiko Fujimori en El Salvador: visita Centro de Confinamiento del Terrorismo (CECOT)",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-en-el-salvador-visita-centro-de-confinamiento-del-terrorismo-cecot-noticia/",
-   "date": "2026-10-29T19:57:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -429,8 +451,8 @@
    "title": "President Keiko Fujimori to meet today with El Salvador’s President Nayib Bukele",
    "excerpt": "",
    "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2RHU1hEY2kxakdyQXE4d1VvTjJnUUNmRVVxVlhLanB1VklTVkpKNjI4X1Zld0oybUNkZjJidmpIS0JWLVVfbkNxNVdZMHZhMnkwYWhRcXJZQVp3cU1GYjN3bkdOVWotZTJoUlJualJNUlJPS0s3RDdRZFUyNzhZeVlfWFdLZnR0VlQtRy1iLTh5VlNmXzc0R0I0bGNWVUFQY0MtNUg1MkVTYnE1Q21MNUJZTHRNNll3UklvSWhpV0M?oc=5",
-   "date": "2026-10-29T14:14:00+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOekhiNFZlbEJTQ2pnR3hFVDlGa1dXVVpMMFZfRHNTd05wQmlrSFdtdmZFbmxtNVRZbVZ6VTRhODdJMHFpUTI4SDN0MWVJUzlNay1ielpQS29GWk5HOHZ2M3VZVFhONlJPelVPY1o4X3MxeW83SHgzR2IyM2pfSzdpQThBVHJJbVZHVTg5WGlmd2ZHZnBzSzFPTDR5aGVlV3R0dkFILXBTdi0ySUpsZTJHQVRncHdaSjRzbURZU3hQaw?oc=5",
+   "date": "2026-10-29T14:14:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -926,28 +948,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFBweGhqMFVIZnZIUzBxVk1ZYlgwWWRkUDN6bGIyR2xneHJiTHdtcDZYVS16V1d4QnY0MHB2VDZLY29RRVhCWDRjY1pUekEyaVNoX3d0T0VoZElQd3UwVGtUdzJQaHVQVWhYdFVZUWx4dWoxQjBkSXN0OXNMRnNLQmJwSWx5cVRKd0ZuOHg1NlVZWDRuSDVTclJpVFRQZnBzR296bTdKRVFZMU1JZDl6cmY4ZTR2TWxOTE9YOFR5ZFhiQXlQQ2taTnYwcnAtTE5OdHl3WnQzbkptd9IB9AFBVV95cUxORnhPNkVCVkFQc2lzVjJ6UTgzMlVjTklQakh2TkhPWEZYU3lsRHh2YVFLS2d5Wkp2MTl1SXBIcjRtS0VFUVBiQXJPS0xpamVpYTczbVNkVG1fUm1Gd3pyRkxaTG9EVnZORXBKakdQS0RnYU0tdkk0cHB1U3VnVG1DcFR6Z0hfNE9GdWE1V2xpaHVJdHRQNURJSHNIOWRfVW12VmVXMU1fSm9ERGVfdklrVDlBNUpaUk9NTmVla3ZPYlRwcmlGQlNHUTB4dFVDSl9ORGR0enYzdHkzUXpYcldReEczTGFuQ044YjVVUnJwS3o3cTdz?oc=5",
    "date": "2026-10-28T22:11:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "82468b03db5d",
-   "title": "Keiko Fujimori viajó a El Salvador en medio de crisis de inseguridad",
-   "excerpt": "La comitiva, integrada por siete personas, incluida la mandataria, representa un gasto de US$19.616,15 para el Estado. De ese monto, US$12.686,15 corresponden a pasajes y US$6.930 a viáticos, de acuerdo…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/28/keiko-fujimori-viajo-a-el-salvador-en-medio-de-crisis-de-inseguridad-hnews-2524200",
-   "date": "2026-10-28T22:07:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "aac39576ba3f",
-   "title": "Keiko Fujimori llega a El Salvador y sostendrá reunión clave con Nayib Bukele: conoce todos los temas que se tocarán",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFzNjB5cmpPQTZpUWZmemhWcW41dFphZXZSYWRZTnhDc3FhTmw5alJLVUg5STB1NzF6ZEdiaksyTWFOZmNKdTNpdG1xNkJkbFhKWkxiZ0R0cG85YmthUDdDZW1ySEZyaVFrdWZLVHFFWWtOcTVPYkZ4UjBsendZeXhZTWNiZDUweVRaTXJucHR3a1lEdUhLSVF3?oc=5",
-   "date": "2026-10-28T21:59:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
