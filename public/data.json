@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T06:15:19.602637+00:00",
+ "generated_at": "2026-10-29T06:37:26.567932+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -299,6 +299,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
    "date": "2026-10-29T05:36:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "cf05a6414435",
+   "title": "Pepitas: La presidenta Keiko Fujimori ya está en El Salvador para ver el sistema penitenciario de ese país",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdzcySVVrMjZ2a1ZkSW4xY1oxLTlDMFJidEZ6d0tKUmNUbHlmNjlSTHZuclhURmdlamQxZWhYeU9JZmVpTGpoN1l1d1dRT0ZNN3FSeXBTdDZEeWxCSURTY0VvenZDY1ZGanpreDNBdlAxV1JaOFVXWjdjQ3FTUFZieFpQZk5sMnR3ckxjcFM4YlJJMFpSbnFuRjk3ZUNZU2NnYWdJWkQ3ZVZOOUFyLUFLLW5kZDRNd1VKb1AxR01tcXBNOU1BcjRLMnBzZjdad2dnbGxza0hxdjY5QkZ5Y2xXUGJHbVc2b3EyQ3ktQU0yOWVUVEXSAYcCQVVfeXFMTktyc2hqbFd4dHdlMU9TejA5RTczNGMxWk0tWlhRUjlrNGQzVmJMRFk3NzhCTklvTjBUNWdTaDduTUNKZ2JBR09tcG5ucUloWmtuM1FEZDZkNkNJRzFrNjRhRDZZSVo5LWk1anZYNFdJNUFna3A2NjNzUHpaMENMWVgxRFVUYlF1UDB0bFpPSE1QNTl0TWctMlhidUc0eE5lU1BmSVBJVVB0N3Bya0tqSjVneElId1V1M1ZvVFl6REIzM0Z5MUhpZWNvMDRDWkpVa0pXaE5uWlVyMUdGR1o5Nkh0LW9MRGRGYTlJNHhJQUtOY0x2TldmM3BKeHoxN21IRXMzeDJzYkE?oc=5",
+   "date": "2026-10-29T05:27:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -737,7 +748,7 @@
    "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
    "excerpt": "",
    "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQks1TEJ6UjR0SE55ODZfcTZhRXYtYnBHXzVzYUZhYm5DUEFXYlQ0blJid1FZeXo4UVdvak02X3dCQzRQMTUyMmQwc2NWSERMR3ZuQUZpSkFpOVo4RVFGam5qRWJFakhydS0tck5CLXc3QktqNl85MERlMHk0eXk5YVVLZEZNNXR1T1F2M0JCRmh4YlRLOTdYRHFwTnh5aFh5WXI4bi1nQmVFUmxkc2tMLXNNbFd5MTFLdURqNjJQX3VBb1dzakR1X1lrY0vSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNKU21rbmN2SXdheU1WemxBWDJ6ZVJIdERJTmtKMFdzS2JPVXUwOWRUdVY4UnFFejc1bWRqOURkaG5WS3VQWGp3YUU0MGwwMnhzcEV1YWJTQlFSaWJuM2hDVjl2SHJWQWtDM0pVbWRPQVdaU20za1h6OWM4RWYwRDBzOFc5cGp6eVp3LWFRaWppYUhIN2Q0ODRsb3Nvd0x6Vzdqem9jbmRaWThwRUFtVmpCM0RuRU1ZdE5ReWZzN25wcEV6NUNv0gHMAUFVX3lxTE14SHZsMEVTa0tKdlB5OUtXX2JOWlZxSTVxc2dxdGFnM0N3Yi1CV2dod1VpZlNkdjJDQjl2M2cyVDM1RzNrTWszUFU1MC1LNUF6X3FmaXlhNVh2XzdkMzAxVk0wZE9PQ2J5TnVnSzFDdWJRdEhCblhsOWM0djh1TzZ3OHhNOEdPQXVBcVluMjhfbU1SNjU1UmNqQmxlQUhuSDZhN3J0MUJyV2ZGeHYxaU82OXo0RGJ0dFhTd2Rpa2F0Rm9qSDlGUDA5bEItWQ?oc=5",
    "date": "2026-10-28T21:33:30+00:00",
    "state": "posando",
    "place": null,
@@ -937,17 +948,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRFJ5dGhWeDVCbS1XcDloZDBnNHE4UTZsWmZudDJwRWRBUk9MTnIzNnU3LVB3OVFkLTFHRV9Mbm1GaDhGaXo0eUtPS2pfckxnZ3BTejBpbngwWjd0dUhFcG84LTJWYXM1UlZwaWNGV09obmpCWEVlTzFnTk9veG1SYU8zeWxvMFBCM19YZVlsNmx4V3BLeXEyYXk1U1JjRi1YTkxraC1jMU9kVnRrcHczX0I0eDFUdmtIRUlfbVg4QWlZR2Z4bDl4Q3A5a0FON2RuMnZtdTBmSWpNeVlsd2tjNDhyNkIxQQ?oc=5",
    "date": "2026-10-28T18:02:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8db254ebf69b",
-   "title": "Keiko Fujimori se reúne este jueves 29 con Nayib Bukele, presidente de El Salvador",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVsQ3NIZFRKN09mS0Z0eHZMeVo0a3RWSzhaY1RUUEw0QU85Sm9BVVNtbTdac0hhbENLTlIxbVd6TFpjNVZoRlJMN19FaEh6VXV5cUw1QkFPSzRJUTc1Qnl4Z09vUElxclp3UF9QUHRvaE91MzRHMkVrNld5TjVuUzJST3BnSlNzU1pYOEhjWExyNXBzMG91ZzlwNVNrS3JtOFlPNmFCYm1pT0dsY2c?oc=5",
-   "date": "2026-10-28T17:17:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
