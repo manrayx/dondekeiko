@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T18:28:24.757166+00:00",
+ "generated_at": "2026-10-29T18:49:36.478173+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,23 +293,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "648313d5f08c",
-   "title": "Keiko Fujimori visita Centro de Confinamiento del Terrorismo (CECOT) en El Salvador",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVsQ3NIZFRKN09mS0Z0eHZMeVo0a3RWSzhaY1RUUEw0QU85Sm9BVVNtbTdac0hhbENLTlIxbVd6TFpjNVZoRlJMN19FaEh6VXV5cUw1QkFPSzRJUTc1Qnl4Z09vUElxclp3UF9QUHRvaE91MzRHMkVrNld5TjVuUzJST3BnSlNzU1pYOEhjWExyNXBzMG91ZzlwNVNrS3JtOFlPNmFCYm1pT0dsY2c?oc=5",
-   "date": "2026-10-29T17:49:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "7625691237bf",
    "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
    "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
-   "date": "2026-10-29T17:41:00+00:00",
+   "date": "2026-10-29T18:37:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "648313d5f08c",
+   "title": "Keiko Fujimori visita Centro de Confinamiento del Terrorismo (CECOT) en El Salvador",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVsQ3NIZFRKN09mS0Z0eHZMeVo0a3RWSzhaY1RUUEw0QU85Sm9BVVNtbTdac0hhbENLTlIxbVd6TFpjNVZoRlJMN19FaEh6VXV5cUw1QkFPSzRJUTc1Qnl4Z09vUElxclp3UF9QUHRvaE91MzRHMkVrNld5TjVuUzJST3BnSlNzU1pYOEhjWExyNXBzMG91ZzlwNVNrS3JtOFlPNmFCYm1pT0dsY2c?oc=5",
+   "date": "2026-10-29T18:13:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
