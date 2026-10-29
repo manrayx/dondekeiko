@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T02:36:35.666344+00:00",
+ "generated_at": "2026-10-29T02:58:44.363673+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -122,10 +122,27 @@
  },
  "agenda": [
   {
+   "start": "2026-10-28T20:30:00-05:00",
+   "end": "2026-10-28T20:30:00-05:00",
+   "minutes": 0,
+   "subject": "Llegada en Visita Oficial a El Salvador. (Hora local)",
+   "lugar": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
+   "state": "posando",
+   "place": {
+    "name": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
+    "full": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
    "start": "2026-10-28T13:20:00-05:00",
    "end": "2026-10-28T13:20:00-05:00",
    "minutes": 0,
-   "subject": "Partida en Visita Oficial a la República de El Salvador.",
+   "subject": "Partida en Visita Oficial a El Salvador.",
    "lugar": "Aeropuerto Internacional Jorge Chávez, Callao",
    "state": "posando",
    "place": {
@@ -302,6 +319,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "08a4f1207489",
+   "title": "Keiko Fujimori llegó a El Salvador en visita oficial [VIDEO]",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeS1HMzNQTDhhY3ktdzkzUkRSWXMzU2Z6cS1YVHZoTTRhdHQ0YUtmRGdtZjNPMnJqY1UzT3VJZXVuTWJTQ1hIS1Y1UzF0cXJfRmxyRUYyVWJmck5IaHpFT0E4OHRmOWRSNGRFYTdPTWhrOEx2VnRuTDJ0RkI2T01URzJia2tEdXlHQXNhVXJNV0YyMkZpVHVESzNUR2w0WWJmanQ0?oc=5",
+   "date": "2026-10-29T02:48:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "accf87c6859b",
+   "title": "Presidenta Keiko Fujimori llegó a El Salvador en visita oficial y fue recibida con honores",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnNXOFBMTDR5NFpXQmhYM0ZkdXBmLXF6WEp4X1p5VGo2NUQwSnk2Z0FONndSYmJ6WTBZQUZ2UU5jUzA0LVFybV82eVkwUnFreTZWN2ItZEFpSUp1aFRmZXN2N2RkdWdUR2lCOTR1UDc3OVpmODVLTE4xNkpxSjRkZEo0NVItd09sTVNUSUJOSEkxUXF0RDh6eHQ0T1VKYTk3cXJjWjBuaURZUzc5M2M4NWdGdWgzamQ4eVVqWThWMC1jbDdTLVE?oc=5",
+   "date": "2026-10-29T02:41:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "50c3067d2762",
+   "title": "Presidenta Keiko Fujimori llegó a El Salvador en visita oficial: esta será su agenda",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
+   "date": "2026-10-29T02:40:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7e044aceaf13",
    "title": "¿Qué busca conseguir Keiko Fujimori con su visita a El Salvador? Exministro responde",
    "excerpt": "",
@@ -330,6 +380,17 @@
    "source": "Howl.Link",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9WbGt1WVhsN2g5d3IwT0hrdDV3T21HeWM5RlZWQVdhcmo0YWxsb0lBQXJycTF1Yl9pd2s4?oc=5",
    "date": "2026-10-29T01:04:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "850410bfc8fc",
+   "title": "Keiko Fujimori viaja a El Salvador en visita oficial a Nayib Bukele | Correo",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUh3WV9pRTVXMnBzYnFoZURLbGxkSnlmY0RHN29yVXA0RFlOenZNQzI4LXB5MG5HQUZaRHZtNUFFUEtKRVlEVDZ0VFZKbkpvYmlrTW1Vc1l1R3BGQ2JLZWVOUG54SDZFVkRMQ3dsMFlDRUNRSGcyNHJIeVJZaFAtVTJLVExrRVJIekNhNS1VWjN6NnpJREpTRXdncUxvQVRBMkg5WEgtNUszX19oMVhRMzdtRQ?oc=5",
+   "date": "2026-10-29T00:49:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -450,7 +511,7 @@
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFzNjB5cmpPQTZpUWZmemhWcW41dFphZXZSYWRZTnhDc3FhTmw5alJLVUg5STB1NzF6ZEdiaksyTWFOZmNKdTNpdG1xNkJkbFhKWkxiZ0R0cG85YmthUDdDZW1ySEZyaVFrdWZLVHFFWWtOcTVPYkZ4UjBsendZeXhZTWNiZDUweVRaTXJucHR3a1lEdUhLSVF3?oc=5",
-   "date": "2026-10-28T21:55:41+00:00",
+   "date": "2026-10-28T21:59:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -504,7 +565,7 @@
    "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
    "excerpt": "",
    "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQks1TEJ6UjR0SE55ODZfcTZhRXYtYnBHXzVzYUZhYm5DUEFXYlQ0blJid1FZeXo4UVdvak02X3dCQzRQMTUyMmQwc2NWSERMR3ZuQUZpSkFpOVo4RVFGam5qRWJFakhydS0tck5CLXc3QktqNl85MERlMHk0eXk5YVVLZEZNNXR1T1F2M0JCRmh4YlRLOTdYRHFwTnh5aFh5WXI4bi1nQmVFUmxkc2tMLXNNbFd5MTFLdURqNjJQX3VBb1dzakR1X1lrY0vSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNKU21rbmN2SXdheU1WemxBWDJ6ZVJIdERJTmtKMFdzS2JPVXUwOWRUdVY4UnFFejc1bWRqOURkaG5WS3VQWGp3YUU0MGwwMnhzcEV1YWJTQlFSaWJuM2hDVjl2SHJWQWtDM0pVbWRPQVdaU20za1h6OWM4RWYwRDBzOFc5cGp6eVp3LWFRaWppYUhIN2Q0ODRsb3Nvd0x6Vzdqem9jbmRaWThwRUFtVmpCM0RuRU1ZdE5ReWZzN25wcEV6NUNv0gHMAUFVX3lxTE14SHZsMEVTa0tKdlB5OUtXX2JOWlZxSTVxc2dxdGFnM0N3Yi1CV2dod1VpZlNkdjJDQjl2M2cyVDM1RzNrTWszUFU1MC1LNUF6X3FmaXlhNVh2XzdkMzAxVk0wZE9PQ2J5TnVnSzFDdWJRdEhCblhsOWM0djh1TzZ3OHhNOEdPQXVBcVluMjhfbU1SNjU1UmNqQmxlQUhuSDZhN3J0MUJyV2ZGeHYxaU82OXo0RGJ0dFhTd2Rpa2F0Rm9qSDlGUDA5bEItWQ?oc=5",
    "date": "2026-10-28T21:33:30+00:00",
    "state": "posando",
    "place": null,
@@ -928,50 +989,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "525d97eb425b",
-   "title": "KEIKO FUJIMORI ENVÍA NUEVO MENSAJE A TODO EL PAÍS / HOY DOM 23 DE AGOSTO Real (peUpUAR7h3)",
-   "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JeTQxWWtER1drWlhpNkZPbDRBN0NLSGpwTUVXWVY5cmRSUjhFN0Q4YU5DWl9mZThUR1BqbWZ1UEt5UzN6bEk5UFMzNnByWlFaY0d0UkdTb1JfR3lOVkJtd2N4MmMyOWhGSzVfdQ?oc=5",
-   "date": "2026-10-28T01:09:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6f16f1683b07",
-   "title": "Presidenta Fujimori se reunió con organizaciones de Puno por obras de agua y saneamiento",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1dMWHNqRlpNTHhSS21Tc0NzYk1zUVYyYXJ2YUdRNjZyb19zR01kZ19TQjU0RjJaUTVhWGVnX2FiSS1VaHZjSXptdWotODZuNktYbERNUDBDRnNnYXQ1Zmd3YXp6Y2J0YzB1YURhMEpzZkJ6LXgyYjhVOVdjcGNjMmdHakdJRnBEc1FBa2hMMzNiRTB2aHB0M2YweVUwcHp5bmhDZlBfZi1aai1TVUlIb055VGlNWW8yOTRrNzdB?oc=5",
-   "date": "2026-10-28T00:13:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "120ee2da09e1",
-   "title": "Keiko Fujimori saluda decisión de Mesas Directivas de Diputados y Senadores: “Recursos serán destinados para atender prioridades del país”",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, saludó la decisión de las mesas directivas del Senado y la Cámara de Diputados de devolver S/270 millones al Poder Ejecutivo, recursos que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-decision-de-mesas-directivas-de-diputados-y-senadores-recursos-seran-destinados-para-atender-prioridades-del-pais-ultimas-noticia/",
-   "date": "2026-10-27T23:52:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4ff681a3eaa3",
-   "title": "Presidenta Keiko Fujimori se reunió con representantes de organizaciones de Puno para impulsar proyectos de agua y saneamiento en la región",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMVU1RUZNWHA5Q1ZsU3k0SFNjb2V3dUtFdHpRZmxqMjRhV0pvSGs4RVNsNS1LOEhWeUNya01nVjFjZUFpRXgxQjRERjhkbkhMNG5OS1VoZ0pQcnA4dmJDX1RJZG5xRF9jX0VNNEhLcUNONV96SDJoSTBmVXA0ZVJra2xZUkdsakV4V0dFX011dkZuckk0TTlJZ28zQzNSUjBzV2xRczRGZV9DTUk2V3Q2U3lvX3VCbnp3RGt2dGo4NFhJLUlHOGx5bUxMVXpsWmRUOHBvNkFQVVI0eERsclloM1A4eWVjUFZid1JrU3NZdHdCdDZLX2JOLWFvSnU?oc=5",
-   "date": "2026-10-27T23:50:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1012,6 +1029,7 @@
   "aeropuerto internacional jorge chavez, callao, peru": [
    -12.01943,
    -77.11941
-  ]
+  ],
+  "aeropuerto internacional de el salvador san oscar arnulfo romero y galdamez, peru": null
  }
 }
