@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T15:14:07.341444+00:00",
+ "generated_at": "2026-10-29T15:57:09.815482+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,23 +293,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7625691237bf",
+   "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitará",
+   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
+   "date": "2026-10-29T15:42:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "61d87025272b",
    "title": "Keiko Fujimori y Nayib Bukele sostendrán reunión hoy y ofrecerán conferencia conjunta",
    "excerpt": "",
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVWdFeXRzcWpQSWw1NElrU2VtZURLekJaS3YxM2V0RVp3TFJkd0Fha0hRMkpFcHRZT3ZZTjVVYnJTc3ExYjZVeEhManlPU2QtRXJrNHczcy1MYzh1RzRFeXlNZmJfSXFSWFlZOWFzTFpvcjE1akJNeC1UdEUzWXAzV19pYVo4ZVNXekx5ajZLNGhNTURHWTdrNlRqdUZFOVpleFpTR3V2ekc4RFFRTEpBM0xxSzk1WFFlMDVWUFFTbDNHU21XR2RmLTJzTVJ1Si0yQUHSAdcBQVVfeXFMUERSeUgyMzdacWtneHhhSlRFOWtxaXNMMEh5dHdiX0ZGUHRrRmdwWEMtLVV4dy1lN2E0dkhrYlJEWXFmN2NNYndDMEVMaXM3SVhMNFlEbjB3RlV0WUdFN0JTSXoteDlSX2EzMkZubk9BRmRld1dwSmFjS291Q1pMYTFsRXgzcVg2cjJWNHNvaFJsc0xzeUNVdFZWcC1PY3VSRHUtSlZsbG5xZDFyc2NpMjQxR1pIb2E4blZEbTI4V2Z6UFg5TVdlVUF2Z254TjJfS1ZUTE5nM0E?oc=5",
    "date": "2026-10-29T15:02:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7625691237bf",
-   "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitará",
-   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
-   "date": "2026-10-29T14:51:26+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -442,6 +442,17 @@
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVjFicG1wZGpJNjllemRzc05HUXVwYnJnOTFuT2premFLZ2g5TkJVNU9wRE5FLWVzUDR4ckwtWENkd1hBRTh3X3haR0FsdFRzeUtBM3hSeFVqYnlqVzkyYzUtTWg4QWJVamNaSWlNMUd3aVllTVhhLXB2WExRaW4xcG5vRlBCb0tqU3g0Smh4Z3VyMjJtZVl4NXRLX2VVZ2h1dFU4eWNNOHY5MUJfc29PQXAwTHphdlJEM0puUng2elJaenI1UjJ4M3FZSGJGbFBiaVNKUTkxN0dyeXVZSDUxcTBLM04yTVlhcHFtdnhiODE?oc=5",
    "date": "2026-10-29T10:26:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b91976f383c9",
+   "title": "Presidenta Keiko Fujimori llegó a El Salvador, fue recibida por la canciller y con honores militares",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUVlhdlJTM01kZ3NJbUkwc2plWDZhUzY2TEM4dnltTnlFaG5DWXFqRjRMY0lXNHNCQ3VhZl84RG1qU0Zuekdmb25WQ2gyTjl0SGoyR01YSnBmaXVjNFJKNkhaTmxVcmJ0c2I2UjVpLWNxbHV4LU5LcnYteFhZd2szQWROZTlpZXgtbHRRZ09NSUpia0JGOGtrT0ZQaTRJendXZjJ5eWF0WmFseGRvMXEwOUFlWlpQVU5ZbW5QUElpaEhTcmVlQ2NTT01xdGRsZ3NwRXV4SA?oc=5",
+   "date": "2026-10-29T08:32:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -937,17 +948,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEg1ek5Eb0dEbDlveXZHajRLUlFDZEc5a010WTRYc3NPOTcwZ1gzRHBwWGtIbi12bEdOYWZIYklVcmhXb05rd3l0RWJVUkxvRndGOUt5Skg3X2JzNzNlU3Q2cmY5ekpnNG1SalRRYjRWTWxSSlhydkJEamQ2VElQZmxSZWdnRlBzN2I5Sg?oc=5",
    "date": "2026-10-28T20:35:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4728bd6b1363",
-   "title": "Esterilizaciones forzadas: víctimas rechazan archivo fiscal y exigen justicia para más de 4.000 mujeres",
-   "excerpt": "Pese a que el Ministerio Público reconoció que se cometieron crímenes de lesa humanidad contra 4.172 mujeres durante el Gobierno de Alberto Fujimori, archivó el caso aplicando la Ley 32107,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/28/esterilizaciones-forzadas-victimas-rechazan-archivo-fiscal-y-exigen-justicia-para-mas-de-4000-mujeres-hnews-993832",
-   "date": "2026-10-28T20:04:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
