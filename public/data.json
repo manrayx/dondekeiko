@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T04:04:27.523157+00:00",
+ "generated_at": "2026-10-29T04:26:23.329040+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -309,6 +309,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6aa04e0917cb",
+   "title": "José Chlimper niega que vaya a reemplazar a Luis Galarreta y defiende su continuidad en la PCM",
+   "excerpt": "El integrante de la comisión consultiva del Gobierno de Keiko Fujimori rechazó tener aspiraciones políticas y acusó a algunos medios de intentar debilitar al presidente del Consejo de Ministros.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/28/jose-chlimper-niega-que-vaya-a-reemplazar-a-luis-galarreta-y-defiende-su-continuidad-en-la-pcm-hnews-795676",
+   "date": "2026-10-29T04:06:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ecc14edd1ad6",
+   "title": "Keiko Fujimori llegó a El Salvador y fue recibida con honores militares: se reunirá con Nayib Bukele",
+   "excerpt": "",
+   "source": "DSN Noticias",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzFla3c3TXR6TFh2UWZQamlEamlFN3RnQ1IyS2Z0TVpIbFlDTXdMYjNQaENPb1RINTNjdGpoYlRpREV5N1dPakNIdzg4Y1Q2d0Q5eFlIZFBoa3VpaGdUWjhQLUZxM0lveGt0ZU56RVpETWFsLWVpLWEyeTdEa1A5N2ZPMWNyN2hZRUxFYXFteVByQXZMc0UxVkVEX012NGdwWmRGalFmLXFrUEtGdFVTa2FVTWk0dw?oc=5",
+   "date": "2026-10-29T03:49:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "579ccfcda1c2",
    "title": "Presidenta Keiko Fujimori viajó hoy a El Salvador en visita oficial",
    "excerpt": "",
@@ -358,7 +380,7 @@
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDROa29VN1VBWENKUmhNTDBmVEc1TGZubWE5MEJPckh2aW5mRzAxcGFTNkpVWmFmN1lmckdjZmtKSEwzZnBTYk1wbXBwXzUyRUlqc3lGYUhRM2NERFZodmNKU3RoeGZXZEdqa3JXZzBVa3B5UFlBTjRpQlEzSExKNWwzRGpLTjVzekRnY1dLZVN2akdhblI5T1pyeVE4ZU9yQ2YydVVrQkhHS1FLSGR3RXkteXBRR0FKLUJkcFJuWHR5TFVZMVQ0WHd2Q013MFpXeklIQnZSZGNXSHpWWFE?oc=5",
-   "date": "2026-10-29T03:22:01+00:00",
+   "date": "2026-10-29T03:27:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -370,6 +392,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDE1NERCQU1kMUc0aXRXNm00bEhWYzQ5VE1CTmFDM01vR3hfU09ITFNjWWdaa1B4MlhwVnk1RWRNRVY1cGJvSDdONDdCMFR3dWs3cEk3NElBZUdrbmY3a2ZqQWlqdXlFVUkzZzFiTWdra0otb0FpYWxxNU9qaGtsUXljay1hanc3QkxxdHpVNzloZEpjdHpoeWl2YW1jWV9uVE0wOVh3TXVJOFpHRUJNSVFTSGFYWDZ60gHMAUFVX3lxTE41cUw2aGhqa0lnNXlleU9qZjlnWnEwTHRPcWNxckN1aU1CSllWUkozbXgxa3FSazRtQzlaUFZxRUx2Wmp2M0ZpNzU3Wms2MDJmYkQ0WnJxdnp1ZmpmSkd1V3V5eEwyc0Y5QnFfZnNBNUlWY3o2eW5PbkJlTjViemVXa196N05ldTRudU1XekJFdThBTjhlelBaRDE3dW1ta0x0MWp4SFJTMHFEQlpfdGJPRmRJV1QzLUItTnZYVUtyT3FDaWdnaDdsTVJTNg?oc=5",
    "date": "2026-10-29T03:20:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "52372c9aac94",
+   "title": "Presidenta Keiko Fujimori llegó a El Salvador para conocer el modelo de seguridad de Bukele",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFBweGhqMFVIZnZIUzBxVk1ZYlgwWWRkUDN6bGIyR2xneHJiTHdtcDZYVS16V1d4QnY0MHB2VDZLY29RRVhCWDRjY1pUekEyaVNoX3d0T0VoZElQd3UwVGtUdzJQaHVQVWhYdFVZUWx4dWoxQjBkSXN0OXNMRnNLQmJwSWx5cVRKd0ZuOHg1NlVZWDRuSDVTclJpVFRQZnBzR296bTdKRVFZMU1JZDl6cmY4ZTR2TWxOTE9YOFR5ZFhiQXlQQ2taTnYwcnAtTE5OdHl3WnQzbkptd9IB9AFBVV95cUxORnhPNkVCVkFQc2lzVjJ6UTgzMlVjTklQakh2TkhPWEZYU3lsRHh2YVFLS2d5Wkp2MTl1SXBIcjRtS0VFUVBiQXJPS0xpamVpYTczbVNkVG1fUm1Gd3pyRkxaTG9EVnZORXBKakdQS0RnYU0tdkk0cHB1U3VnVG1DcFR6Z0hfNE9GdWE1V2xpaHVJdHRQNURJSHNIOWRfVW12VmVXMU1fSm9ERGVfdklrVDlBNUpaUk9NTmVla3ZPYlRwcmlGQlNHUTB4dFVDSl9ORGR0enYzdHkzUXpYcldReEczTGFuQ044YjVVUnJwS3o3cTdz?oc=5",
+   "date": "2026-10-29T03:04:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -632,7 +665,7 @@
    "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
    "excerpt": "",
    "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNKU21rbmN2SXdheU1WemxBWDJ6ZVJIdERJTmtKMFdzS2JPVXUwOWRUdVY4UnFFejc1bWRqOURkaG5WS3VQWGp3YUU0MGwwMnhzcEV1YWJTQlFSaWJuM2hDVjl2SHJWQWtDM0pVbWRPQVdaU20za1h6OWM4RWYwRDBzOFc5cGp6eVp3LWFRaWppYUhIN2Q0ODRsb3Nvd0x6Vzdqem9jbmRaWThwRUFtVmpCM0RuRU1ZdE5ReWZzN25wcEV6NUNv0gHMAUFVX3lxTE14SHZsMEVTa0tKdlB5OUtXX2JOWlZxSTVxc2dxdGFnM0N3Yi1CV2dod1VpZlNkdjJDQjl2M2cyVDM1RzNrTWszUFU1MC1LNUF6X3FmaXlhNVh2XzdkMzAxVk0wZE9PQ2J5TnVnSzFDdWJRdEhCblhsOWM0djh1TzZ3OHhNOEdPQXVBcVluMjhfbU1SNjU1UmNqQmxlQUhuSDZhN3J0MUJyV2ZGeHYxaU82OXo0RGJ0dFhTd2Rpa2F0Rm9qSDlGUDA5bEItWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQks1TEJ6UjR0SE55ODZfcTZhRXYtYnBHXzVzYUZhYm5DUEFXYlQ0blJid1FZeXo4UVdvak02X3dCQzRQMTUyMmQwc2NWSERMR3ZuQUZpSkFpOVo4RVFGam5qRWJFakhydS0tck5CLXc3QktqNl85MERlMHk0eXk5YVVLZEZNNXR1T1F2M0JCRmh4YlRLOTdYRHFwTnh5aFh5WXI4bi1nQmVFUmxkc2tMLXNNbFd5MTFLdURqNjJQX3VBb1dzakR1X1lrY0vSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
    "date": "2026-10-28T21:33:30+00:00",
    "state": "posando",
    "place": null,
@@ -931,39 +964,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzkxLXZkTGI0bUNhT3VtNzRBY25zend0RG1vdG5VTXpiNkJWQV9rVnYwX1gyR0FyczVPNk5WZjV4aFF6akZvZFNId1ZnWnE2N2tES2Y2NTZhcFR5Tm9mdFpUd3BmY2VOUHNfelRlTDE3U1c1cElEb1FXRWRSTEduWVIyQm5nSENZdWEzZGlrMzRrMGNnZURKejMzSVI0QXB6dUpYd29SQnVCLUVITWxBRW01WUZlZ2pDQ3Fsc0ZnRk5WQQ?oc=5",
    "date": "2026-10-28T10:40:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "546739d15a43",
-   "title": "Keiko Fujimori Recibe Visita De Eduardo Verástegui Durante Etapa De Transición German Vargas Lleras (sampl9OAkd)",
-   "excerpt": "",
-   "source": "Unisba Media",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzRxTGE2SXE3Ti1wY0gxbE40ZTlhYU5pNkRJNXZwMU9ETnFrMU5kUlI3ZlhySWxlR1cySEItdVdXQzRnLXAwbGx5R09NYU9CRi0zUU5yWG1JY3IzQnN2bzZBYTJQTFFsUlRGNF9mWmVLSmgtd253amJHby1LaV9sZDFzZndhZDA?oc=5",
-   "date": "2026-10-28T10:35:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7ae540d220f1",
-   "title": "Presidenta Fujimori: Estamos golpeando fuertemente a las organizaciones criminales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdzNQMElVY2hoU0VyRmItYlUxMW8zWFB1N3ZlTEk1WmVRdHBKRDl1aFJreHNYTHJ5eG1YNWM0VEVyR2RVN1lRZW1pRzJvMGZqZFhNWHEtTWgxQ1VrZWJfeWxkazJmUXhmZzREVDR1dHUxOXA1OXJmUk54Nmc3Wi10UFBrT0lGMVd2NDhVNy1aci03RVFicmRvdHlMaW1Rb0NJYzMtV0NrZTNVTHp1MnBGU05xY2ZZZ214MzhGRC1KbndJMExpWVZ3?oc=5",
-   "date": "2026-10-28T10:16:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bc4ed63e4c18",
-   "title": "Keiko Fujimori se suma al modelo de mano dura de Bukele para hacer frente al crimen en Perú",
-   "excerpt": "",
-   "source": "EL PAÍS",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU3RpR3loU05OZThsTE9TZ2tXbzN4cE5MN1djQkhqR0lVUWF1TGI5VTJ4VXNRMGNySkt6TTFNR2xxSW90QmpNRkFfeG5qMlRiR1pRQ05NUnhSYWYtLXpWTXpyZG8tRE5mSkhfM3dxWGpMeWN0U2ZFcE1UbGN5Rjc1dEFpME1NX3JSb0tDb1hyQy1BVUJkYk5VLXpoc1d0ZXU3VzMtYkp6UGZDOGFRQ09RczZsaXN3cUxnUW9PalV4d1lIWnNRQVJ5RGJMR005Q2fSAeMBQVVfeXFMUG94eXlzVEpTUy1yakotZHM0Yno2bnhoRHVvX2FLc2l1RWg2U3d1SFFQSVRReU5KQnBfZGRYbHZ2Rmt1MkZyckQ2cXNZN2ZJMUlfeU53cFZiT0ptaW5BRWh4eGQzaFJ1dXNCTmkta09HWXE1djdMbGx2ZHFvWkJnQzRGc0R6S0lXZllfbWNZdDhUdFl4VzdfVmdkRmlZTGJKLUxFYjlOZE11aHRQVFladURKcGl4aThoVkdlNnNmajhoeVB1eXN1Z3Fid3ZBaFIzNzR3aGlCNWFTUHpzTWVtVFhNV2s?oc=5",
-   "date": "2026-10-28T09:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
