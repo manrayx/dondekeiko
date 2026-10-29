@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T14:52:02.669333+00:00",
+ "generated_at": "2026-10-29T15:14:07.341444+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,12 +293,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "61d87025272b",
+   "title": "Keiko Fujimori y Nayib Bukele sostendrán reunión hoy y ofrecerán conferencia conjunta",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVWdFeXRzcWpQSWw1NElrU2VtZURLekJaS3YxM2V0RVp3TFJkd0Fha0hRMkpFcHRZT3ZZTjVVYnJTc3ExYjZVeEhManlPU2QtRXJrNHczcy1MYzh1RzRFeXlNZmJfSXFSWFlZOWFzTFpvcjE1akJNeC1UdEUzWXAzV19pYVo4ZVNXekx5ajZLNGhNTURHWTdrNlRqdUZFOVpleFpTR3V2ekc4RFFRTEpBM0xxSzk1WFFlMDVWUFFTbDNHU21XR2RmLTJzTVJ1Si0yQUHSAdcBQVVfeXFMUERSeUgyMzdacWtneHhhSlRFOWtxaXNMMEh5dHdiX0ZGUHRrRmdwWEMtLVV4dy1lN2E0dkhrYlJEWXFmN2NNYndDMEVMaXM3SVhMNFlEbjB3RlV0WUdFN0JTSXoteDlSX2EzMkZubk9BRmRld1dwSmFjS291Q1pMYTFsRXgzcVg2cjJWNHNvaFJsc0xzeUNVdFZWcC1PY3VSRHUtSlZsbG5xZDFyc2NpMjQxR1pIb2E4blZEbTI4V2Z6UFg5TVdlVUF2Z254TjJfS1ZUTE5nM0E?oc=5",
+   "date": "2026-10-29T15:02:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7625691237bf",
    "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitará",
    "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
    "date": "2026-10-29T14:51:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a622a40a55e6",
+   "title": "Keiko Fujimori visitará el megapenal CECOT...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2pJU052a3B2dzdLek5sUGhjQ3NGU01iT2RaOTZtMElXbTdnLXNBYUdicHpHdHBGWl9pTjRCajhqWXFSbzV0VmNvVlZHYkdyeVhfdWl1VllCZjRIX2RxRVd0R0xiU1FUNG1rXzYwYm0tN1ZhM1F5NlBkZTd4cGlGRVgzbDFoNVJDNktaZ2hrYW5XN0dMa3ljMHZFVXZtUW10MFpnN3Z0dWVnNFM5MEFBRl8wXzQtR1RT0gG-AUFVX3lxTE90LWtyZzEzZWduOVp4RzJSMUdWTUpJOENkVnlnMkZHVVZCSEJhR2duaHdLOG9zVW9naWJDNThUU1NPUEtCaHhKVGhCNlNFdGF4OGctdHExWm1lTEIwRk9jSkVCY2NRNDlJS1hYc2xMNHB5ZTQ1OU90M0g1WVNBY21oV0VBWTNIdzd3VGJVQ0ZkZ2xQYUxoSjMyYnA0N1Zjc2w5YXMza1VOa3BBNzZJeDFYa0tlb29obXVRVHdrNVE?oc=5",
+   "date": "2026-10-29T14:32:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -376,6 +398,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/29/pension-65-sube-a-s700-este-noviembre-cuando-se-pagara-el-nuevo-monto/",
    "date": "2026-10-29T12:03:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "34a0cf371014",
+   "title": "Keiko Fujimori se reúne hoy con Nayib Bukele en El Salvador",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0E3cmJ4SDFucXdDeWV1aExoME1aWUFJMTBVR1piUjdGOVlYSjFYX212WUxwUHIwNFpiODFYWExaMWdvNVJON3pUcWZmbmg2NlBicUdQS25HNEZtdDZYOG1Zam9SVlRfWi03eWw1ZEJwQnFSWlBEbWxHellRS1hRV2c4dXZBMWh0a3F1Q1hTbk01dnhrZlBMZ1l5Xy12QjdYNWlz0gG3AUFVX3lxTE9fTzIwNE1yS0YyN09zOEoxM1M0eGpsVjhHbzVEWnUwbHdSZnhkdnpHV25CTkdqRDFDQkVkZV90Qkw3QWNldGFkd0JrZFg2YkR3YW40ZXE4bmlkOUdCdUk2MTVPT09LQ011MzRQN2RCUWdIMkdIT2xLQzF3b01Ebi1SOWgzQVdjS2pDeTVONVp2QTRsdGpLQzJRNUR5V3BDRXNjc1NSQmd5akhabnVzV0lyeG5YV0tlMA?oc=5",
+   "date": "2026-10-29T12:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -915,39 +948,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/28/esterilizaciones-forzadas-victimas-rechazan-archivo-fiscal-y-exigen-justicia-para-mas-de-4000-mujeres-hnews-993832",
    "date": "2026-10-28T20:04:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e0a4f0dd7c2e",
-   "title": "Keiko Fujimori viaja a El Salvador en visita oficial junto a cuatro ministros",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-viaja-a-el-salvador-en-visita-oficial-junto-a-cuatro-ministros-nayib-bukele-ultimas-noticia/",
-   "date": "2026-10-28T19:54:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c303ab60758e",
-   "title": "Presidenta Keiko Fujimori viajó a El Salvador: Visitará megacárcel Cecot (VIDEO)",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVl4MXcxeFBmal9Sd1d6Q0F2OGMwbkFlUERVenZTeHlIZDVtQjM4QkZ0SVAzb1VHOS1yemF6R0o2b0NVRi03bWFtODZFSFF2ZzdhUHlyQnFVZHRyNWVlMGRrMW9lSGZRVnM5Vjg2aFgtRWdmWlZDWFMtQTJmU0F3M2s4Z2laeE5oNmxWeFFxcm9neG9qSEV3MEhiNjl0OVU1TGZSdWw4U3cwZ2FMa2JSU2NmTkxyM3lXeEFnenVOWFNuTWVsMG9rSDRkONIB3wFBVV95cUxQSVRxUEFLcUdaMVR4bGtjS2tpQXdtdkNuelJXZkdHSWR6YTg5a3JOeFVUZnZXTElRYU5BVHN4ZE1RU2V2a3RmVml4SjR0R2NCck1LNEVTaWpWbU9IcGVoSUtrSmliLVhCMUpxWUFRZHhyTU05dzFuMDBaMnhCbl9ocEtzNTA5c2pIQ2lVVWtfaEJ3c0tsUkUxNmNsaWhwdEo1dFhYbzFxa1lGQ2NMeUpKQVFmNUR4ajJvZUlIMDlWVHN3SGNLQjg2QUNWQkVQYUpyNklQY0VtbTRzOEcwU0hJ?oc=5",
-   "date": "2026-10-28T19:49:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d3a846a44bf5",
-   "title": "Presidenta Keiko Fujimori emprende viaje oficial a El Salvador para reunirse con Nayib Bukele",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUt6a2toa1ZMNkJlWmpfSG1ncWlmNkJ5VmhfaFRRamlVZWZBQ1BTX0gzVFR5SkRkaVNyN29GRFZSVGtqd0hkXzNnNmVYNkQxQ2VMMVFzbk1ncHJWc1FoUVBiZDdBN0Jhb1p6a0RsallVenRib0hhdnh4d0dZZGt0ZjExcXdVZU1kTFZRQjh6LW5CT2JzUUNtbFl6XzU0WjhCeFYtNk9wdkN3R2ljNE5fem9UQ0VkQTVlSk95b0FaeThLOUxFTTRtbA?oc=5",
-   "date": "2026-10-28T19:46:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
