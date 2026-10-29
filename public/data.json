@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T04:47:58.010888+00:00",
+ "generated_at": "2026-10-29T05:09:28.782246+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -287,27 +287,22 @@
     "lng": -77.0298,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-21T11:20:00-05:00",
-   "end": "2026-10-21T12:18:00-05:00",
-   "minutes": 58,
-   "subject": "Lidera inauguración de la línea pesquera del CITE Productivo de Pucallpa.",
-   "lugar": "Distrito de Callería, provincia de Coronel Portillo, región Ucayali",
-   "state": "posando",
-   "place": {
-    "name": "Distrito de Callería",
-    "full": "Distrito de Callería, provincia de Coronel Portillo, región Ucayali",
-    "city": "Ucayali",
-    "lat": -8.379,
-    "lng": -74.554,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 504,
+ "agenda_minutes_7d": 446,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "dd73eef51db3",
+   "title": "Keiko Fujimori en El Salvador: su agenda y cómo es el CECOT, la megacárcel de Nayib Bukele que visitará",
+   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
+   "date": "2026-10-29T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "383ff980d942",
    "title": "Presidenta Keiko Fujimori arribó a El Salvador para evaluar de primera mano el modelo de seguridad implementado por Nayib Bukele",
@@ -370,6 +365,17 @@
    "source": "altavoz.pe",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFhNQ3ZqSGxoVlgyNDAzUldFMV9hX1Z4ci1vX0Z0bjRBaFNId2xRVDl3Sndnbzl4SDZld0dkRTZfVW5ncHJwSVBrSGM2T1ZzNklUT0ctWEt5TTFrU19WSGlMWnFRZzdVOW8xdm9wWWI1WlY0WERYZEgxVXFGTHZrMVY2N3lPYjJ6aHBlalEwYlMwWmVhbFJ3SFZ3a29YSmFlSE10cg?oc=5",
    "date": "2026-10-29T03:40:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0708c4305d9a",
+   "title": "Keiko Fujimori arribó a El Salvador en visita oficial",
+   "excerpt": "",
+   "source": "Prensa Latina",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUJFOTVuaTZvMlZGLUpnc1dFYlljMGplTkZTRGpUbUQ5N0hrRFdLMXdpbms2T05tMVo0c0FDRkhVRWx2TGNUNi13Q1ZfT3YtRHVNZjJ5NEFtN0xwXzRWTEpTN2RPRTZLUE1NOVh0RGUxd0ZHSjhHQkVnNVN6b1ZpcW1ILU1ncTNFa3ExVU5qazIwd3NmLXhiTHVR?oc=5",
+   "date": "2026-10-29T03:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -540,23 +546,23 @@
    "next": null
   },
   {
+   "id": "7cb7bcc6c2b7",
+   "title": "Miguel Torres respalda viaje de Keiko Fujimori a El Salvador: “Es un acierto de la presidenta”",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmltS0d0NUhGbnNPNVdSaFpIeld1YXE4bjlnZDdmTFFrOVdGLTkyS2p1QThiTEtMYzBOaFNVNzVUMVdMci1uWlA4XzR6R2xTRXJpdllqUkR1dnVtYkVMTDM3U0FtN29qRndyOHRNQ1NHUVo2TlkzZzVQUmd1d3pyTS1BcHVBMmc1Vmc?oc=5",
+   "date": "2026-10-28T23:10:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d3e9ec3ea946",
    "title": "Keiko Fujimori viaja a El Salvador para evaluar el modelo de seguridad de Nayib Bukele e inspeccionar el penal Cecot",
    "excerpt": "",
    "source": "Perú Informa",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOODJ4ZFJJdXpVTGNZZlpaN05XaUZzdUNRM3ladFR4cENnZEt6NlRSV3JhSE5rN2w5VnVEcjR1amZqMzhDN0k0NTg5MkFtVVR3VkltQzZINkNZbEZ5WjE1ZTJFTGNIcGFKRDl4c2UzWkdOZE55bWpXelprbmY3d2pvUzZUcEZaT3FRaXRRRmVuRHI5ZlFQN044cko0VC03TUJjMHRJaVlRQWwtTkhzNWVaa1FVdlBibF8tX193OEk2dndwdEFsTVBxVWF1dHZjZDVzYU5xa1ZQX3pPaGxlLXc?oc=5",
    "date": "2026-10-28T23:09:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7cb7bcc6c2b7",
-   "title": "Miguel Torres respalda viaje de Keiko Fujimori a El Salvador: “Es un acierto de la presidenta”",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmltS0d0NUhGbnNPNVdSaFpIeld1YXE4bjlnZDdmTFFrOVdGLTkyS2p1QThiTEtMYzBOaFNVNzVUMVdMci1uWlA4XzR6R2xTRXJpdllqUkR1dnVtYkVMTDM3U0FtN29qRndyOHRNQ1NHUVo2TlkzZzVQUmd1d3pyTS1BcHVBMmc1Vmc?oc=5",
-   "date": "2026-10-28T23:06:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -942,28 +948,6 @@
    "source": "Revista COSAS Perú",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazZSM0pEd2pYQ19BTEdwWUpGczVzVFZwX29ISXhpTnctU3ZvYVBKTzc4bDJHVFg4NElMSUZVaGczX0FUY2RaU0F2dTdpYS1CMXFMaWlmWlNOd2RsUjRCeHplejFDdlBDLV81a1lTNlFOSmJQa0NGSVhjNVdRTXNwTWkxTFN1T3Azckd6aVpnVVJ6RXpodDFpbtIBnAFBVV95cUxOS3AzYjJLSGQyUFhneDB4ZmI2WWxLU0RxQmRNMWJYNEVoejJKMGJiX2VZY1FaUFZXeENNLWNBcks4M2dKZmdxb1BsWC1rdWd5OU1SWlRyQzRPMHhJdnRUcjIzaVFpcHNPenRySEJETjFLTkhNajAtQVNTeHJOOXVvbWRvV3pOeFZOODF4VjVPQ245SUdEQ2pvNEJfQkg?oc=5",
    "date": "2026-10-28T14:19:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e05f79784cc0",
-   "title": "Exasesor de Nayib Bukele se dirige a Keiko Fujimori: \"Al crimen hay que aplicarle todo el poder del Estado\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRUpoM19DX1haVldqM3h4UmFiTWRSdTJXYi01WXk2YTFlTEtqV1NsUnA0N3F4Zm5Ydnhzam02S041TEp6UVRRcGN0WGw2T0p2TGJ2c3ZTYVg1bHdyVXRfNDBGcHRET1FmOGthT1YyYm9kQ2xLcWh6cDBQbm5JQVZXWktLSXNXZUxTLVE?oc=5",
-   "date": "2026-10-28T13:42:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "01fd6136666a",
-   "title": "Lluvias de diluvio en el norte y Keiko Fujimori se va: mandataria viaja a El Salvador y España en días críticos",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTDNoNTl5X05DcV9nVGNsMDM1SmhGM2w1RTNOdUNqWUlfREpNVTU2eWZvcjZna3NnMmFlVDNYMXA0UXVFemRaTDBtUkx5Wng4V1hZbDFGcXJ2QmVEZE5lRXpPX0RSUGZSVmVtRl9TWHp6dDZrRVRkUXVtY3VuUXdadlQ0ZGR0aWZIZFdOOGhaTkFRbDFnNDJxMW5ZTjJFRkktUWpCUTZkczJEQzZaQkVKenpQdnc1MHFaeWtkRHRCanR4MDVLQ3F1MjFxSUpXaF9BQV81ZHZRSzE3TVpaa3NuekZuV0t0OEQ3ZFFMSDYtemp0SVFQbVpFUXZEdXYta19OaWZrOTdvTFNTTEpFdVln?oc=5",
-   "date": "2026-10-28T11:01:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
