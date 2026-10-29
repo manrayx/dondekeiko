@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T14:30:23.801290+00:00",
+ "generated_at": "2026-10-29T14:52:02.669333+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,23 +293,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7625691237bf",
+   "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitará",
+   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
+   "date": "2026-10-29T14:51:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a3eb0b558efb",
    "title": "President Keiko Fujimori to meet today with El Salvador’s President Nayib Bukele",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS2RHU1hEY2kxakdyQXE4d1VvTjJnUUNmRVVxVlhLanB1VklTVkpKNjI4X1Zld0oybUNkZjJidmpIS0JWLVVfbkNxNVdZMHZhMnkwYWhRcXJZQVp3cU1GYjN3bkdOVWotZTJoUlJualJNUlJPS0s3RDdRZFUyNzhZeVlfWFdLZnR0VlQtRy1iLTh5VlNmXzc0R0I0bGNWVUFQY0MtNUg1MkVTYnE1Q21MNUJZTHRNNll3UklvSWhpV0M?oc=5",
    "date": "2026-10-29T14:14:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dd73eef51db3",
-   "title": "Keiko Fujimori en El Salvador: su agenda y cómo es el CECOT, la megacárcel de Nayib Bukele que visitará",
-   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
-   "date": "2026-10-29T14:07:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -354,6 +354,17 @@
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMUI5bGl1cVRjRGZISUZWaWpEYUNXcThHb1JaV0RCdTNGOWtVUFV0VWRObm9RZEpya282RkNDTWlMVHRaU3dKN1RXUUpUT0w5SnVZX3ZuSHFwR2l4RVBwLXZTNW9HNk95MzhQUFJBZzBaT2taU0JhVElfZ3lVZjNHbE8zaWExRGJMZE5lZFdlOG1IdDVIM1JuTzdpNXU3RFRibDZENXd2bUhKREY0clRXM1ZadklQRjhnWEtpWTZjRnJOUm9mSGtvTnB5NDZ4ZEN6UVFjc1QxZVk2bjJ1WDFYUFE3aFFaajlMckNWUHNiZ1pUUFhLX0t1NkNHLU5Jb28?oc=5",
    "date": "2026-10-29T13:04:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dd73eef51db3",
+   "title": "Keiko Fujimori en El Salvador: su agenda y cómo es el CECOT, la megacárcel de Nayib Bukele que visitará",
+   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
+   "source": "El Comercio",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLVE3TUZMTjdYc0dIZlFIYURXUnhlTnhhQVFDZTM0N2tvOFhZRmM5aE1scnNsY19WREQyZWpFX2FIckdpNHBpNkFBOS10V0M1TU42TGVrakNkRWpUSVh3WVZyQXhlbVNGbC1JUXZWU3E4ZTFza0s3MUZESjM3WmVzSjhSNk9UVUs3aUctU1VITjdZcDZYTW12d1ZOUl9aV05PakNkeTRoTlFoUTNoSjdhNXJXWlF5MXpRTDdfc3VjOTNQUFRCcmJSdEphejNCWmlVN2lhdFNEQ2xod9IB7gFBVV95cUxPZDQyS2pLZWYzTXdrbXFpNjJBM1UzTElQVjh3UGdwSTZGZ1pfX0hocERYTzFkajZhVEk3WGVDb2NBMkVvY2ZXMm9oUzZSTkNvRFFFSXpSbEc4RWdtLUQ2SlRjdHBJY21IRjdvXzc4ZnEtZmMzQnMyVnRhbUJVMXZvalNhZ1dEellCTmt5d2h6dFZJYVoybDFPa2dWODJOdWRmbEF6aW1QS2VjNENVaGJFR3dvUmI4Q3o2MWwwemoydWlaUlRrcmJTYk1uVHpNSXo5MnlXb2o1Z1ktTk9HTmVFNzJrMkJsTXAwdTRjUHpR?oc=5",
+   "date": "2026-10-29T12:12:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -937,17 +948,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUt6a2toa1ZMNkJlWmpfSG1ncWlmNkJ5VmhfaFRRamlVZWZBQ1BTX0gzVFR5SkRkaVNyN29GRFZSVGtqd0hkXzNnNmVYNkQxQ2VMMVFzbk1ncHJWc1FoUVBiZDdBN0Jhb1p6a0RsallVenRib0hhdnh4d0dZZGt0ZjExcXdVZU1kTFZRQjh6LW5CT2JzUUNtbFl6XzU0WjhCeFYtNk9wdkN3R2ljNE5fem9UQ0VkQTVlSk95b0FaeThLOUxFTTRtbA?oc=5",
    "date": "2026-10-28T19:46:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "99b264c17218",
-   "title": "Keiko Fujimori se reúne este jueves con Nayib Bukele en El Salvador",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkxDSVdpT2pCQ0t0ak94TVNuU3kwc0lNd2JyMHlZUVJxaUZfU3dmSmhXd2w2Q1laSmVMbDRDSjNWYlRtUE9vYzFIMF9fdXc3b0xTZnh2bnZiUE1fTDgxQkNudWllUC1LWkJ3QWFPNmZrelpnWWVWWktoN2l4TzZQc1JtVFgxV1luaU5nQU5fdFctZ0ZyTDQxNzBtVGg?oc=5",
-   "date": "2026-10-28T19:39:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
