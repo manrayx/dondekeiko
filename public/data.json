@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T05:31:35.675406+00:00",
+ "generated_at": "2026-10-29T05:53:10.558390+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,6 +293,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "016059de2049",
+   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
+   "date": "2026-10-29T05:36:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a6f4fee23bd7",
    "title": "Presidenta Keiko Fujimori desarrollará agenda de trabajo en El Salvador",
    "excerpt": "",
@@ -310,6 +321,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
    "date": "2026-10-29T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ca96869eadcd",
+   "title": "Keiko Fujimori viaja a El Salvador para reunirse con Nayib Bukele",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcl81anl6VVBPX2VLZTRKcElMMlUycGkzeXR6bDZESnF2aVlQLXFxV0ZlZkR2dmMtX1UtR1Z6LTVMXzR2TEhJZm92N3FYQTJ5UDRuTGZHQTFJVnVhX2RqYjZyZm9HWjhCTi1tOW1VV1F5eU8wRG01WVpvS2dJcXZZSUVXQ2liNWZldzgzOHlpdGFHZ3Fta3VxZHkzb1g2MU1oRi13T3hOWQ?oc=5",
+   "date": "2026-10-29T04:52:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -546,17 +568,6 @@
    "next": null
   },
   {
-   "id": "016059de2049",
-   "title": "Excanciller Tudela: viaje de presidenta Fujimori a El Salvador es un acierto",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQalBZNUl2OGtPUDQ1aHp5TEI4SE43NGdHWUtla0J3aUE0RDZQbloyTl84WVQ2ay01LWg3SG5MWVI4SlJXcHRPa2dGQW1GNmRyMWRza3ViZlFQRGg5VzY0MVhBdm1SY0RudXRQNDhCZkZuM2VGVy15dVhwNEVMM2NFazdDUXF1QlRBNHZZcERrTHBmTmlmX01Rc0c2M1p1UUlXUmVNakpCT0hTcklOU2JrSUEtRzdpYzA?oc=5",
-   "date": "2026-10-28T23:36:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "64833ba8ac42",
    "title": "Keiko Fujimori viaja a El Salvador junto a comitiva de seis funcionarios y un gasto de más de US$ 19.600",
    "excerpt": "",
@@ -704,7 +715,7 @@
    "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
    "excerpt": "",
    "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQks1TEJ6UjR0SE55ODZfcTZhRXYtYnBHXzVzYUZhYm5DUEFXYlQ0blJid1FZeXo4UVdvak02X3dCQzRQMTUyMmQwc2NWSERMR3ZuQUZpSkFpOVo4RVFGam5qRWJFakhydS0tck5CLXc3QktqNl85MERlMHk0eXk5YVVLZEZNNXR1T1F2M0JCRmh4YlRLOTdYRHFwTnh5aFh5WXI4bi1nQmVFUmxkc2tMLXNNbFd5MTFLdURqNjJQX3VBb1dzakR1X1lrY0vSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNKU21rbmN2SXdheU1WemxBWDJ6ZVJIdERJTmtKMFdzS2JPVXUwOWRUdVY4UnFFejc1bWRqOURkaG5WS3VQWGp3YUU0MGwwMnhzcEV1YWJTQlFSaWJuM2hDVjl2SHJWQWtDM0pVbWRPQVdaU20za1h6OWM4RWYwRDBzOFc5cGp6eVp3LWFRaWppYUhIN2Q0ODRsb3Nvd0x6Vzdqem9jbmRaWThwRUFtVmpCM0RuRU1ZdE5ReWZzN25wcEV6NUNv0gHMAUFVX3lxTE14SHZsMEVTa0tKdlB5OUtXX2JOWlZxSTVxc2dxdGFnM0N3Yi1CV2dod1VpZlNkdjJDQjl2M2cyVDM1RzNrTWszUFU1MC1LNUF6X3FmaXlhNVh2XzdkMzAxVk0wZE9PQ2J5TnVnSzFDdWJRdEhCblhsOWM0djh1TzZ3OHhNOEdPQXVBcVluMjhfbU1SNjU1UmNqQmxlQUhuSDZhN3J0MUJyV2ZGeHYxaU82OXo0RGJ0dFhTd2Rpa2F0Rm9qSDlGUDA5bEItWQ?oc=5",
    "date": "2026-10-28T21:33:30+00:00",
    "state": "posando",
    "place": null,
@@ -937,17 +948,6 @@
    "source": "La Prensa Gráfica",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTjdBZENLakdYejB3YVRhYjhBYmQ2bU53UWZsSFdLaVNBWXdMb0JxSUhQc0JLRk5tY25xX0UycDNjWjhVR3M0ekN5dTkxZzhqTUJOUlJCa05TOEFZb2E3QWM5Z2JTaGxWR2plcHhfSjY2UU1UX2NaODk5bnpISnVBTkg4Wmh2aDg1OGlaZGFKQ1FaeVgxM3paQ0lBNHlJdk1Cb0tadXdGMGpHQzdOalZLWU1tdjdaQVpX?oc=5",
    "date": "2026-10-28T16:35:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "51630e342a84",
-   "title": "Keiko Fujimori viaja a El Salvador: Ministros César Astudillo y Luis Dyer se suman a la comitiva (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM2tBWjZKcThVTlpOS20xQWJPWm5jMFM4c3h6SUtPbmdxLTRTc09SUE96d3JQVVVkQ3V4RklDZ1FVQ1hoSGIzWDh5ZHc2ZTN4U1lMai1mdEVCbGt0S2c4VTEyR1h5TGgyTkJyS2xDSjF4VkttT0JPMGx4cU9OQ2tUVXg1RkFGQl9KMjVOdVBnWEQ1ZEhwQmJ1UkpCRXg3dWowT2puM2Q1eGU1TXQ0N3dWOFoyUjNIQl9LRjBxRi1pVm5GTnpFbGVr?oc=5",
-   "date": "2026-10-28T16:18:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
