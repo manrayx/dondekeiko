@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T17:45:33.974396+00:00",
+ "generated_at": "2026-10-29T18:28:24.757166+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -293,6 +293,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "648313d5f08c",
+   "title": "Keiko Fujimori visita Centro de Confinamiento del Terrorismo (CECOT) en El Salvador",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVsQ3NIZFRKN09mS0Z0eHZMeVo0a3RWSzhaY1RUUEw0QU85Sm9BVVNtbTdac0hhbENLTlIxbVd6TFpjNVZoRlJMN19FaEh6VXV5cUw1QkFPSzRJUTc1Qnl4Z09vUElxclp3UF9QUHRvaE91MzRHMkVrNld5TjVuUzJST3BnSlNzU1pYOEhjWExyNXBzMG91ZzlwNVNrS3JtOFlPNmFCYm1pT0dsY2c?oc=5",
+   "date": "2026-10-29T17:49:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7625691237bf",
    "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
    "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
@@ -365,6 +376,17 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTBMVjB0SHpzSEd2a3lqbzZSbEszZkNTV3JzanRLUHRmSVVUTmZ1eHB2TjhDcFJweWdfWkpoS0NrTUZNVlJXY01LLVJtNU81OTNpY1pzTUJTY3FQdTY2VDV2ODN0cUxxM3hUOXhZNmdPSmZNMkgwNjdwVFluSmo1UUM5dlYtRlJtUjR6YU5VeEtNN1B5?oc=5",
    "date": "2026-10-29T13:47:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "243dc3526935",
+   "title": "Keiko Fujimori llegó a El Salvador para reunirse con Bukele y visitar el CECOT",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcURacmJ5ZkI4c1g0dzV1cEhua1gtNzBPYnJsaG1oVVJvQmNhaFNqWkZvT3hMOHY4NnFsalBKbzhpS2xzWERVd2t4Y1dtdnVjaHBKNjB5TlpVYjMwVUJOUDlsWmlQb0N6QWQyTWVJSy05eURYNU9ZRkhmWm1sVXdMSkxMbXhBWkdIcWYtb2RUcHVOU3duR0ZOSzNNNnRmN1BsMmdISkNDYm1TYms?oc=5",
+   "date": "2026-10-29T13:38:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -480,23 +502,23 @@
    "next": null
   },
   {
+   "id": "d5a6d47ada5f",
+   "title": "Keiko Fujimori fue recibida con honores militares...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFdfV2ZpUHpDam5WV1UwTm5HTVpLeENJVTBIQkVSZFN3ODl4X0lTX3d5bmVFbzBjX2lVQVJ3ZlhJcWdhbVYydUx4LTdKalJ4OFFlNzNrdnRjRUZNeEp6VV95dHFmR3hobncxZ0hvWkRmeDBkT1UzZG5IMURFYnFhSFlZdHZGWUJHdEVUNUZoalYtdGpTTlIyb2VR0gGfAUFVX3lxTE80S0JKdUh2UXp5MGNGN2xTSmtMcGpUQ2VxdThQdTlVODY0cmVYNDl4eEdodVhGUUZVSnRfWHlCUkxWdjd2VGg0U0VHSEJUdGhsT3dhNDFQbDBDcVUzOXNPRVl3dG5OVmtfZ0dIRUhWQTRIUzh3eEhZa0hvcnJmSWRMTkIwYU5DSmFLLUp0UlI3RE53UzVmQWpacWU3Nl9KYw?oc=5",
+   "date": "2026-10-29T05:33:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a6f4fee23bd7",
    "title": "Presidenta Keiko Fujimori desarrollará agenda de trabajo en El Salvador",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGpmeDI4Q3BiUm0wZkFjVmVUUDkwTVlZQjQ3QW9aSG44VmNzRVJ6VWJnTUhXWW5senp3T2U2SU40ODVDRWFleFk2M3R0Yl9mU0p2Z2N6SUZRYWRMZEhvTU9LOGdmMTBmQXBVQ1NkRFdPcGw4NDZkQWxtREdyNXY0LXhrcGZpdnZZX3RwTldpeFhRbzMyZ2JqTTVSM2xIZC1KVHVmcjNLVVU1RXM0R20yTnln?oc=5",
    "date": "2026-10-29T05:21:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d5a6d47ada5f",
-   "title": "Keiko Fujimori fue recibida con honores militares...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSFdfV2ZpUHpDam5WV1UwTm5HTVpLeENJVTBIQkVSZFN3ODl4X0lTX3d5bmVFbzBjX2lVQVJ3ZlhJcWdhbVYydUx4LTdKalJ4OFFlNzNrdnRjRUZNeEp6VV95dHFmR3hobncxZ0hvWkRmeDBkT1UzZG5IMURFYnFhSFlZdHZGWUJHdEVUNUZoalYtdGpTTlIyb2VR0gGfAUFVX3lxTE80S0JKdUh2UXp5MGNGN2xTSmtMcGpUQ2VxdThQdTlVODY0cmVYNDl4eEdodVhGUUZVSnRfWHlCUkxWdjd2VGg0U0VHSEJUdGhsT3dhNDFQbDBDcVUzOXNPRVl3dG5OVmtfZ0dIRUhWQTRIUzh3eEhZa0hvcnJmSWRMTkIwYU5DSmFLLUp0UlI3RE53UzVmQWpacWU3Nl9KYw?oc=5",
-   "date": "2026-10-29T05:02:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -929,28 +951,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "76ef6389fe1e",
-   "title": "Keiko Fujimori llega a El Salvador y alista encuentro con Nayib Bukele: los temas que abordarán",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNc0pCaktKMEIxNkxpcEtvM2ZkTi1sSXhEZHAtY1RoTTB5T0dpNjBJSjZISUFud24ycHowanByNkloT1o4bk1meVdIU2RiMk4tbjJQcFBZeDhNS1hDUGhWaGhFV2kyOTRwX256NmVBTjFRaVZFUzBHSEJXbkVJbTFCMkU3ZjFmdVcwdkVBRFlaMERPZTRZYld4cnctNFB5akY2MnpGeFI1bmRPSW5GUU9mZ2ZDdHFPVkVseGhWQWQ2cVpSRV96ZmxjYzd4WUFrclJyQnBVX2xHRUNTaVY4TnZ4VGJGa1dGSk5RaTNSbHJNaVZPX1JLa3phSTFIX2g5cGw4R2VGMzZUNkVKbzdOY1hWeGY4ZWZubFFiaTVxNW9lUld6Q0h1VTgyek4xZXVDd2JmX3N0T3FR?oc=5",
-   "date": "2026-10-28T21:05:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6e66232269cf",
-   "title": "Keiko Fujimori: Comando Unificado viene...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmtzUUxmVlM1MFBJeUhpclRjb2c3NGtlWllNTFhKX201TG5oVmJ6TTFXWFNVWm9Pd2dCMVRDdWlDLVJDRGRUN3hxUFBHcVQ3ZzZqNDJXVTlhQk5SM0Y1ODVGRW1POXZXT0t2aFZZR0xmaC12OFF6LUZLeGJabHUxOG9oaE55LVhPYW5sem9ZVXphZVlQbzNsUWNmVHJXZDM3ME5wMkdXeFBEaHPSAbABQVVfeXFMT3ZhajU2Z2xNQ0RMWk9iR01Ha0MzRjRPdkwySUxuYmRzdnlNejJrU3Q4cG1leVFrNFdiYnhHNUptdUc4U2VSUmNEQ1pBRk5oUXNtOXl2QzdmNHdlQ0xEa2RrVTZiNlVQZGZjRHM0bUtJekRUaGRGN21meUljNG1zRHViajgtaTJQRW11cVNmYUFhanhyZE55bVVMZ1lMZ0JQbEl5aDhmV1hnb3RESEN2ejM?oc=5",
-   "date": "2026-10-28T20:41:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -992,6 +992,7 @@
    -12.01943,
    -77.11941
   ],
-  "aeropuerto internacional de el salvador san oscar arnulfo romero y galdamez, peru": null
+  "aeropuerto internacional de el salvador san oscar arnulfo romero y galdamez, peru": null,
+  "centro de confinamiento, peru": null
  }
 }
