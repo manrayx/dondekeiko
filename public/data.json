@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T00:47:57.011946+00:00",
+ "generated_at": "2026-10-29T01:09:09.688411+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -302,6 +302,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b2b5435b1d7b",
+   "title": "La presidente de Perú Keiko Fujimori llega esta noche a El Salvador - En La Mira Noticias",
+   "excerpt": "",
+   "source": "Howl.Link",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9WbGt1WVhsN2g5d3IwT0hrdDV3T21HeWM5RlZWQVdhcmo0YWxsb0lBQXJycTF1Yl9pd2s4?oc=5",
+   "date": "2026-10-29T01:04:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4ee70fa95352",
+   "title": "Keiko Fujimori reduce de 3 mil a 2 mil los colegios prometidos durante la campaña",
+   "excerpt": "Durante la campaña, la propuesta inicial de Fuerza Popular incluía 3.000 colegios en cinco años, que luego aumentó a 5.000, abarcando nuevas construcciones y recuperaciones de locales.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/28/keiko-fujimori-reduce-de-3-mil-a-2-mil-los-colegios-prometidos-durante-la-campana-hnews-1691676",
+   "date": "2026-10-29T01:04:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e001a65304ed",
    "title": "Keiko Fujimori viaja a El Salvador para conocer el modelo de seguridad de Nayib Bukele y visitar la megacárcel Cecot",
    "excerpt": "Durante su estadía, la jefa de Estado se reunirá con el ministro de Justicia y Seguridad Pública salvadoreño para conocer el programa “Cero ocio” de reinserción social",
@@ -390,6 +412,17 @@
    "next": null
   },
   {
+   "id": "1b81543c8dcf",
+   "title": "Keiko Fujimori llega hoy miércoles a El Salvador para conocer el modelo de seguridad de Bukele",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFBweGhqMFVIZnZIUzBxVk1ZYlgwWWRkUDN6bGIyR2xneHJiTHdtcDZYVS16V1d4QnY0MHB2VDZLY29RRVhCWDRjY1pUekEyaVNoX3d0T0VoZElQd3UwVGtUdzJQaHVQVWhYdFVZUWx4dWoxQjBkSXN0OXNMRnNLQmJwSWx5cVRKd0ZuOHg1NlVZWDRuSDVTclJpVFRQZnBzR296bTdKRVFZMU1JZDl6cmY4ZTR2TWxOTE9YOFR5ZFhiQXlQQ2taTnYwcnAtTE5OdHl3WnQzbkptd9IB9AFBVV95cUxORnhPNkVCVkFQc2lzVjJ6UTgzMlVjTklQakh2TkhPWEZYU3lsRHh2YVFLS2d5Wkp2MTl1SXBIcjRtS0VFUVBiQXJPS0xpamVpYTczbVNkVG1fUm1Gd3pyRkxaTG9EVnZORXBKakdQS0RnYU0tdkk0cHB1U3VnVG1DcFR6Z0hfNE9GdWE1V2xpaHVJdHRQNURJSHNIOWRfVW12VmVXMU1fSm9ERGVfdklrVDlBNUpaUk9NTmVla3ZPYlRwcmlGQlNHUTB4dFVDSl9ORGR0enYzdHkzUXpYcldReEczTGFuQ044YjVVUnJwS3o3cTdz?oc=5",
+   "date": "2026-10-28T22:11:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "82468b03db5d",
    "title": "Keiko Fujimori viajó a El Salvador en medio de crisis de inseguridad",
    "excerpt": "La comitiva, integrada por siete personas, incluida la mandataria, representa un gasto de US$19.616,15 para el Estado. De ese monto, US$12.686,15 corresponden a pasajes y US$6.930 a viáticos, de acuerdo…",
@@ -462,17 +495,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQks1TEJ6UjR0SE55ODZfcTZhRXYtYnBHXzVzYUZhYm5DUEFXYlQ0blJid1FZeXo4UVdvak02X3dCQzRQMTUyMmQwc2NWSERMR3ZuQUZpSkFpOVo4RVFGam5qRWJFakhydS0tck5CLXc3QktqNl85MERlMHk0eXk5YVVLZEZNNXR1T1F2M0JCRmh4YlRLOTdYRHFwTnh5aFh5WXI4bi1nQmVFUmxkc2tMLXNNbFd5MTFLdURqNjJQX3VBb1dzakR1X1lrY0vSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
    "date": "2026-10-28T21:33:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1b81543c8dcf",
-   "title": "Keiko Fujimori llega hoy miércoles a El Salvador para conocer el modelo de seguridad de Bukele",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFBweGhqMFVIZnZIUzBxVk1ZYlgwWWRkUDN6bGIyR2xneHJiTHdtcDZYVS16V1d4QnY0MHB2VDZLY29RRVhCWDRjY1pUekEyaVNoX3d0T0VoZElQd3UwVGtUdzJQaHVQVWhYdFVZUWx4dWoxQjBkSXN0OXNMRnNLQmJwSWx5cVRKd0ZuOHg1NlVZWDRuSDVTclJpVFRQZnBzR296bTdKRVFZMU1JZDl6cmY4ZTR2TWxOTE9YOFR5ZFhiQXlQQ2taTnYwcnAtTE5OdHl3WnQzbkptd9IB9AFBVV95cUxORnhPNkVCVkFQc2lzVjJ6UTgzMlVjTklQakh2TkhPWEZYU3lsRHh2YVFLS2d5Wkp2MTl1SXBIcjRtS0VFUVBiQXJPS0xpamVpYTczbVNkVG1fUm1Gd3pyRkxaTG9EVnZORXBKakdQS0RnYU0tdkk0cHB1U3VnVG1DcFR6Z0hfNE9GdWE1V2xpaHVJdHRQNURJSHNIOWRfVW12VmVXMU1fSm9ERGVfdklrVDlBNUpaUk9NTmVla3ZPYlRwcmlGQlNHUTB4dFVDSl9ORGR0enYzdHkzUXpYcldReEczTGFuQ044YjVVUnJwS3o3cTdz?oc=5",
-   "date": "2026-10-28T21:32:40+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -613,9 +635,20 @@
    "id": "287dc5b34c43",
    "title": "Miguel Torres respalda viaje de Keiko Fujimori a El Salvador %",
    "excerpt": "",
-   "source": "larazon.pe",
+   "source": "La Razón",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE14eUhYdGJicGYtQ2tBbV80X1hvRVFReUxpVG1CTFMzbzRzR0UwTExnQWRfS2dqVlh4Mjl4ZXJmbFo0WnVvM2FCNHpvLXljTEpneFZ5WjNwZl83SlIxcDdBdFV1cTE4bk82VVpOS29DZU84eFA3c3ptc1IwMFctMlU1UDNaQVU?oc=5",
    "date": "2026-10-28T19:00:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "81a9c9266637",
+   "title": "Keiko Fujimori inicia visita oficial a El Salvador en busca de lecciones de seguridad",
+   "excerpt": "",
+   "source": "Diario Versión Final",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ19lYkg1Y3J2dWc5dFVhbS1ZY282ZktHRmtJS2lsQTlYMTBKRUhsZkttajF5RUh0S1E5ZjNrRUdjNGZiRVh5d1dWYzRlVmdwem81UTYxU0tsSW5rRGhqTDZwb095bGtNeWY3RC1BOGU1OWxwU1lPNlBmVzhuMTJ2X3NIdkNNejBuLUZ2TWE3c3lUbFBtLURNOF9aYXBsaUE0QVp4RW9Kc2JhUzJLNXhxNkNqZzNHZFMzWVI3Q1RnejY?oc=5",
+   "date": "2026-10-28T18:49:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -936,39 +969,6 @@
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNMHlPclVWWXY2VHdXemVGTUsxMGpKLWpkeGZjTzlUbzlmVXcxaXZwcW1STkdtN0dobnBzeV83WHRZTWMydFpqbURsX0xSaVZGbUtYcUZ2WFZpaDhyYTVtcmZPTENRYy1Ed3dUdldTRzdjQU52Q2o3UzN5bHFBSklkREtzdF8zbjBDQWpVTWNZbjN0WlJKc0l2VU5hSEUwT3VyejlmdXFwNXVuSWZwb1hnamNGMlUyZkhUdF82MUdtS3dYdHFXX1dzbDUxazk5akRvUmJhYk5zZkh3cnpMMlJ2azF4Uml5Y3ZaR0ZLODZFQm5hQmhoRVlhNTNvaV80Q09qakdoMVhuSVpxMHYtYlR6Y01Ib0Q?oc=5",
    "date": "2026-10-27T23:17:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ac2548554845",
-   "title": "Keiko Fujimori saluda al Congreso por retorno de más de S/ 300 millones",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1dzRGVvR2pEaG5PcnllV3RyTl9tdWlWRWp0YXNnYXZBN0RMZ1R4NExYWFJ4TWJkZGZ2ZzA0V1ctaXNvVkVlaDJ6czUzOEtLdWhZWUZoYlBRaE04aE9PbWwzam4xY2IyZDN4R24yZGh2Y3hKZ2RjR1NRZ213U0Z4NjNvVFZJVDk2SXdBdFE1OG8yRHlsRlltaHdpWHVhUU0?oc=5",
-   "date": "2026-10-27T23:14:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b022a28921cf",
-   "title": "Keiko Fujimori: El pueblo peruano espera al pontífice \"con los brazos y corazones abiertos\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlYwZ2dhcGZqMnFpdWh6b0hIMXp0RGUxMDJQdkx0QnF1SjYxQUZ6S0Ntc1Bpc25WcVhObUE1SWNTTnJVeW1TNGhQOFRlbXRZLVNIWFJKYldSaWRIQXdJZVAyOHZSQXBUNGNoN0F1bXNhTmk5NWdZbU5zWEt3cFBxMndQb25OOFozeGpsNE9XNkRBaUNrVUZRZ0l30gGfAUFVX3lxTE9YcFFRR0YyeUJJNFRaU2FneXhXN2pqY0pFdG9DX28tRkxfOWhPRG1TZzA3QUViYmt6V1pwZzN1ZnNBNXdUOGtGTHQ4c2FZNGZObldIRTJsOERTTmlYaDNvYkpSVnhoa0tVU1RUVGpuc0VTblplN1FjNGo0X1hldF9rN1F0SFBiVENyQmxKUUkyVXpHVnZKZEdfbWtZa2hBQQ?oc=5",
-   "date": "2026-10-27T22:38:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "57c8b4ea58df",
-   "title": "¿Qué dijo Keiko Fujimori sobre los recursos transferidos por el Congreso?",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR0NoYUgwZFhvb2dHa3U2UXJrYUJrMlhWX0otRXcwVXBEN0FCdlplazZCcktobmJfT193LUtONTV2OU5pbXlsbzFpQXItQTNpSEthSFFIVjFfREQ5MGxMSG1VR1lYQ290MTFhMzZjS0VEM21OaHc1SEhLOEtzRG0zTENEck5jZ2VlNnhLQVZ0TVhETzRqdFBrQ2FIa0RMN2c1bkNXWnA0SUhTdDd2bWxvMHVhaUFGNThES0tobnlrSUFqNDVtVFlqM2VIQWxiem_SAdQBQVVfeXFMTTlNOVhQb19GZ2lXN3ZGOE9WLVQwWFd5V2tpaF9IWnRBdk1XRTE1Z0czME9KdDZDWFRWX3pCc01yaW5fQ0xLaU1NcXktM1VHd3hqWFlhN2M0TFZUbjJ1MXNWWHVnZFBkcGd4TU9Sd0hWZ2V3bnF0Y29UeEg3RWpsNWhLakdabUdULW9pbi1BeFhucUxyem9Ld3Nkc0tGT1ZGanE1N19Ed21GT0VpS2c0MGN2c0plYkFxTjFsNWVyakZGdFdvUm9wc3Z6aFd5YWpHXzN5Unk?oc=5",
-   "date": "2026-10-27T22:09:04+00:00",
    "state": "posando",
    "place": null,
    "next": null
