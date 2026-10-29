@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T04:26:23.329040+00:00",
+ "generated_at": "2026-10-29T04:47:58.010888+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -309,6 +309,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "383ff980d942",
+   "title": "Presidenta Keiko Fujimori arribó a El Salvador para evaluar de primera mano el modelo de seguridad implementado por Nayib Bukele",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaGZub2hQSktfZlQzY3JwTVJoVFZFU0E4cXYzQWpHWkR5YnRWOEpFMW5BWEloWjRQTXc0YkptV1E3VElUdDJPRXJ4SnUzSTBqdy1VR2RVR3ZvcERveGFjT1BzeWJTN0pDVjZCQTBlNnZob3l6aHViR0tZeV9jR3dLREJCXzAwYnpETTBHb3FMV1BNS2owQUtCU21XUE9yUS1vZXlqSFp2cEpPT0NmUi1ySVdrRzFlMzJ5VExLVXhNZ3U1N3ltVm9LaWVvb1RiTHNUUXZBR3cwSmFWdTIwdmlvcUxHT1Rta21RdVZ3TXBR?oc=5",
+   "date": "2026-10-29T04:34:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "50c3067d2762",
+   "title": "Presidenta Keiko Fujimori llegó a El Salvador en visita oficial: esta será su agenda",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
+   "date": "2026-10-29T04:33:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6aa04e0917cb",
    "title": "José Chlimper niega que vaya a reemplazar a Luis Galarreta y defiende su continuidad en la PCM",
    "excerpt": "El integrante de la comisión consultiva del Gobierno de Keiko Fujimori rechazó tener aspiraciones políticas y acusó a algunos medios de intentar debilitar al presidente del Consejo de Ministros.",
@@ -380,7 +402,7 @@
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDROa29VN1VBWENKUmhNTDBmVEc1TGZubWE5MEJPckh2aW5mRzAxcGFTNkpVWmFmN1lmckdjZmtKSEwzZnBTYk1wbXBwXzUyRUlqc3lGYUhRM2NERFZodmNKU3RoeGZXZEdqa3JXZzBVa3B5UFlBTjRpQlEzSExKNWwzRGpLTjVzekRnY1dLZVN2akdhblI5T1pyeVE4ZU9yQ2YydVVrQkhHS1FLSGR3RXkteXBRR0FKLUJkcFJuWHR5TFVZMVQ0WHd2Q013MFpXeklIQnZSZGNXSHpWWFE?oc=5",
-   "date": "2026-10-29T03:27:24+00:00",
+   "date": "2026-10-29T03:22:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -436,17 +458,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYnNXOFBMTDR5NFpXQmhYM0ZkdXBmLXF6WEp4X1p5VGo2NUQwSnk2Z0FONndSYmJ6WTBZQUZ2UU5jUzA0LVFybV82eVkwUnFreTZWN2ItZEFpSUp1aFRmZXN2N2RkdWdUR2lCOTR1UDc3OVpmODVLTE4xNkpxSjRkZEo0NVItd09sTVNUSUJOSEkxUXF0RDh6eHQ0T1VKYTk3cXJjWjBuaURZUzc5M2M4NWdGdWgzamQ4eVVqWThWMC1jbDdTLVE?oc=5",
    "date": "2026-10-29T02:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "50c3067d2762",
-   "title": "Presidenta Keiko Fujimori llegó a El Salvador en visita oficial: esta será su agenda",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
-   "date": "2026-10-29T02:40:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -953,17 +964,6 @@
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTDNoNTl5X05DcV9nVGNsMDM1SmhGM2w1RTNOdUNqWUlfREpNVTU2eWZvcjZna3NnMmFlVDNYMXA0UXVFemRaTDBtUkx5Wng4V1hZbDFGcXJ2QmVEZE5lRXpPX0RSUGZSVmVtRl9TWHp6dDZrRVRkUXVtY3VuUXdadlQ0ZGR0aWZIZFdOOGhaTkFRbDFnNDJxMW5ZTjJFRkktUWpCUTZkczJEQzZaQkVKenpQdnc1MHFaeWtkRHRCanR4MDVLQ3F1MjFxSUpXaF9BQV81ZHZRSzE3TVpaa3NuekZuV0t0OEQ3ZFFMSDYtemp0SVFQbVpFUXZEdXYta19OaWZrOTdvTFNTTEpFdVln?oc=5",
    "date": "2026-10-28T11:01:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f2f063bfd846",
-   "title": "Presidenta Fujimori: S/6,000 millones se destinarán a construcción de colegios en 2027",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORzkxLXZkTGI0bUNhT3VtNzRBY25zend0RG1vdG5VTXpiNkJWQV9rVnYwX1gyR0FyczVPNk5WZjV4aFF6akZvZFNId1ZnWnE2N2tES2Y2NTZhcFR5Tm9mdFpUd3BmY2VOUHNfelRlTDE3U1c1cElEb1FXRWRSTEduWVIyQm5nSENZdWEzZGlrMzRrMGNnZURKejMzSVI0QXB6dUpYd29SQnVCLUVITWxBRW01WUZlZ2pDQ3Fsc0ZnRk5WQQ?oc=5",
-   "date": "2026-10-28T10:40:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
