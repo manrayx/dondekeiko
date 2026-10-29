@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T02:14:51.151661+00:00",
+ "generated_at": "2026-10-29T02:36:35.666344+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -302,6 +302,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7e044aceaf13",
+   "title": "¿Qué busca conseguir Keiko Fujimori con su visita a El Salvador? Exministro responde",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUjY4Z2c5eWxhZjg4NHRLdDMxYXN5ZW1oNERmZ0xYRkhsMUhST2pMcDc4cXo4cndlU29wcVlzZ0s3d3YtVVU0VVlTX3pTbmJkZUZpR2syaS1ud2VlUURjT24zX0RBSmR4cjh5VmxDTV9ZUlZ6Tmt3dFVqM2lmR0FRUGhsTFROY3BVdUtRTDNPZ2UzS2xQUXNwemhDQkxaTFgyT0RtSXJOUDk3VWh2Mi1QT0UtTkVmN0xkLVFkUkhNMWJFSlBvbHJ5NA?oc=5",
+   "date": "2026-10-29T02:10:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4ee70fa95352",
    "title": "Keiko Fujimori reduce de 3 mil a 2 mil los colegios prometidos durante la campaña",
    "excerpt": "Durante la campaña, la propuesta inicial de Fuerza Popular incluía 3.000 colegios en cinco años, que luego aumentó a 5.000, abarcando nuevas construcciones y recuperaciones de locales.",
@@ -493,7 +504,7 @@
    "title": "Keiko Fujimori viaja a El Salvador para reunirse...",
    "excerpt": "",
    "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzNKU21rbmN2SXdheU1WemxBWDJ6ZVJIdERJTmtKMFdzS2JPVXUwOWRUdVY4UnFFejc1bWRqOURkaG5WS3VQWGp3YUU0MGwwMnhzcEV1YWJTQlFSaWJuM2hDVjl2SHJWQWtDM0pVbWRPQVdaU20za1h6OWM4RWYwRDBzOFc5cGp6eVp3LWFRaWppYUhIN2Q0ODRsb3Nvd0x6Vzdqem9jbmRaWThwRUFtVmpCM0RuRU1ZdE5ReWZzN25wcEV6NUNv0gHMAUFVX3lxTE14SHZsMEVTa0tKdlB5OUtXX2JOWlZxSTVxc2dxdGFnM0N3Yi1CV2dod1VpZlNkdjJDQjl2M2cyVDM1RzNrTWszUFU1MC1LNUF6X3FmaXlhNVh2XzdkMzAxVk0wZE9PQ2J5TnVnSzFDdWJRdEhCblhsOWM0djh1TzZ3OHhNOEdPQXVBcVluMjhfbU1SNjU1UmNqQmxlQUhuSDZhN3J0MUJyV2ZGeHYxaU82OXo0RGJ0dFhTd2Rpa2F0Rm9qSDlGUDA5bEItWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQks1TEJ6UjR0SE55ODZfcTZhRXYtYnBHXzVzYUZhYm5DUEFXYlQ0blJid1FZeXo4UVdvak02X3dCQzRQMTUyMmQwc2NWSERMR3ZuQUZpSkFpOVo4RVFGam5qRWJFakhydS0tck5CLXc3QktqNl85MERlMHk0eXk5YVVLZEZNNXR1T1F2M0JCRmh4YlRLOTdYRHFwTnh5aFh5WXI4bi1nQmVFUmxkc2tMLXNNbFd5MTFLdURqNjJQX3VBb1dzakR1X1lrY0vSAcwBQVVfeXFMTXhIdmwwRVNrS0p2UHk5S1dfYk5aVnFJNXFzZ3F0YWczQ3diLUJXZ2h3VWlmU2R2MkNCOXYzZzJUMzVHM2tNazNQVTUwLUs1QXpfcWZpeWE1WHZfN2QzMDFWTTBkT09DYnlOdWdLMUN1YlF0SEJuWGw5YzR2OHVPNnc4eE04R09BdUFxWW4yOF9tTVI2NTVSY2pCbGVBSG5INmE3cnQxQnJXZkZ4djFpTzY5ejREYnR0WFN3ZGlrYXRGb2pIOUZQMDlsQi1Z?oc=5",
    "date": "2026-10-28T21:33:30+00:00",
    "state": "posando",
    "place": null,
@@ -958,17 +969,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMVU1RUZNWHA5Q1ZsU3k0SFNjb2V3dUtFdHpRZmxqMjRhV0pvSGs4RVNsNS1LOEhWeUNya01nVjFjZUFpRXgxQjRERjhkbkhMNG5OS1VoZ0pQcnA4dmJDX1RJZG5xRF9jX0VNNEhLcUNONV96SDJoSTBmVXA0ZVJra2xZUkdsakV4V0dFX011dkZuckk0TTlJZ28zQzNSUjBzV2xRczRGZV9DTUk2V3Q2U3lvX3VCbnp3RGt2dGo4NFhJLUlHOGx5bUxMVXpsWmRUOHBvNkFQVVI0eERsclloM1A4eWVjUFZid1JrU3NZdHdCdDZLX2JOLWFvSnU?oc=5",
    "date": "2026-10-27T23:50:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "571fda6e4916",
-   "title": "Keiko Fujimori deja temporalmente el mando y Galarreta asume la Presidencia",
-   "excerpt": "",
-   "source": "Noticias Trujillo 60",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYV83NTZTa2s1N091aTdzenpHdW9XSmtKZVdDcWdjNWhiTzFkMGlkYzJ5ZWd0a0VvdnR0UjgtdUlCeWJvbDktc2lYQldQOTdGR2Y2S1pLR1ZzM3FQa25xcXZyMFpLaHlVU2pQOENHdERzTEE1bDB4MDctR3hnWjc3dVNBTnp4VUpQeG1TamFJcUc3eGtGS1E?oc=5",
-   "date": "2026-10-27T23:42:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
