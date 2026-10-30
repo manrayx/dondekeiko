@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T07:03:27.572402+00:00",
+ "generated_at": "2026-10-30T07:25:16.260308+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -322,23 +322,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c458ceafa91e",
+   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
+   "date": "2026-10-30T07:19:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f1db38693a9f",
    "title": "Fujimori y Bukele firman acuerdo de cooperación en seguridad, justicia, salud y educación",
    "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-se-reune-con-su-homologo-nayib-bukele-noticia/",
    "date": "2026-10-30T05:47:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c458ceafa91e",
-   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
-   "date": "2026-10-30T05:31:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
