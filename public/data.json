@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:22:25.533693+00:00",
+ "generated_at": "2026-10-30T18:43:40.313199+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,8 +111,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 0,
-  "posando": 58
+  "triste": 1,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -420,12 +420,45 @@
    "next": null
   },
   {
+   "id": "f2e9dd6e1549",
+   "title": "Keiko Fujimori visita el colegio emblemático Marcelino García en El Salvador",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWhPOTRtV3R2M1M4bzdpZTlTYXYtOG92Ml9nT3ZKTTBCVHJIOFB2dzBlQ0MzVkdPWDNPRC1NTW1WRk96MUVnOXI2OEJBYi1YTUtnWWRVbENPMk9PdGRTX1M0bmx6VXc4X0hPMEV6b3VuWkFOeEtqMkRtdzZiY3JlX3BVSkZfbGJSR1p0Z1dfb1BoX2lmX3RpRmpRNFc5ZFFBTmFrOGo3LXNrUlpxU3FBX2w0NENBNkIxa2h0R2FB?oc=5",
+   "date": "2026-10-30T17:22:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "86841fde6f92",
+   "title": "Diethell Columbus respalda visita de Keiko Fujimori a El Salvador y cuestiona tratamiento a delincuentes",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFBTa2FVOW1NY18wX1pzSFdfQTd0MndSS0EtQjhJc05PWF9VTHNIbE5zekNSTFRBOVRYNXQ3dnhjSlREbEIwM2xPTzFuZmpEUDZKRUx2QTVYR3ZiQ0lyUWZHdEI1UGZ0aEk5a2hZOFhzbVYxVDAxOXFyV3l4NW1CWEtzUHJnWnAtZ2YzWlpmM1MtWFJ5emFFSnVXRUtXMWxraDBydnR5eUU5cmVReC1TUDk4NVc3R0R2MlEzMkhMWGk0VEl4VEpNTXNjQnBmUFpULXc?oc=5",
+   "date": "2026-10-30T17:09:52+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4cdfc33cee76",
    "title": "Presidenta Fujimori presentó en El Salvador las oportunidades de inversión y negocios que ofrece Perú",
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaU90Z2dUNGJQcVpQajNEaHE4TTZjNFN2MmkxRTBnOXNYY1lEbk1QWkNSX1N5WWNpcXQxQkhlS1VPakhPVkNURjhWUEVocWMwNzRlU2ZxMnJyczRVN3pNaHVzbVM2LXVJYUh5R0FtQm03WkFTZEFQM2VJQ0otdVp6R2o4OGFoekdya2NuOHdfWnltX2xOaVRnSlVSZUcwcjg2bWVUbEtpSEtKSk5YdEZfelpZT0EwMElTYUlCSUhBYU5La2ljY0pVMTcyclZBMTZPdnFV?oc=5",
    "date": "2026-10-30T16:53:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "05dfdaccb45f",
+   "title": "Keiko Fujimori se reúne con empresarios salvadoreños para promover inversiones en el Perú",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1Q2c09VTHpjSFZlQ1dyZm02N0hYNC1jMUZfS2VlX2gyaFctZkJvald4dVlHalF1ZnltcVprWHM2OFIzNFB3dUdza01zcEFHVWxZX0dRSjd6b0FlOGlUZWNpcEJmS01jaU50M3dnaVVPanJRU1QybEVxaHRzVnUzY05WVkpSMTlHSUtUaUp6bHZJN3c0bThBM3Q5NzQ0ZzRXbEVUT3ZCQlYxUktaN0d1YmZNMHFZbW90NC1CenFaZGQ3a1FwVE5iSFFDQQ?oc=5",
+   "date": "2026-10-30T16:44:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -503,6 +536,17 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3g4N3dILWFibnlJTzVqUGVKUEk5dVFPSEpFZ0JSXy1za2xqWkV2ajF6S0ZEQmNyeV9oN0drc3FyOTJvQlhIbTl2alZVdWhPRTlBYzFpdG9FcTN4V1ZrYzM4cklEaVUtLWgtSkdhNTc3Rkdhei1KSlpNNEJoc09Hb1J4Yjk0UjdHZDNnTTFCdEQ5NElieGlOTE45UHZPVk1QbXJ2MzZMcWJXVHNBNVRPNUkzZG1tRlBlOXkzVEg4d01vcm9kRUE?oc=5",
    "date": "2026-10-30T16:00:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f4b29291d0ba",
+   "title": "Jaime Abensur defiende viaje de Keiko Fujimori a El Salvador: \"Ha ido a observar una experiencia exitosa\"",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkRqYW5aYzI2bFNIUzExd3VnTEhkNXl5YlIwSVFWSE9XT3Z1M3N3bENkZHJ6dnJpcUpFbzg5S0NyTmY4Z1d4TFQwSGp0OVFJR080cnIwNjF3Ml9TalhOVERBMVh3cVZqeDZXeHdoUFlsYTFtZWVDZWNOZDBtV3R5eExiVzJPUW53U2s4TmtjVmNIc0tTMG1jeHhCX2Ztdzg0M0R3UU9WUGFIc2FrbWhnWFh4WTVRbmI3R2I1dlUyVUl0M1U?oc=5",
+   "date": "2026-10-30T15:51:48+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -979,50 +1023,6 @@
     "lng": -77.12822,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "1a003bf1ecb2",
-   "title": "Keiko Fujimori se reúne con Nayib Bukele en Casa Presidencial de El Salvador: mandatarios participaron en acto protocolar",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1drdjZHWFNhZ3R4dElVU09fX2YtaERPby0tSFFiaVBReVNfdHdVMUZTcWpJaUZROGdxSDJpZkZ2ekVEeWNUellzRE9Vb09qai1ySzVaVmptbkdwbjhvMHBUQzY3Y19CMlg2MGV0VTN0NUxDLVgtQi1iV3FJcjRxUU1xQlozQkpibVE?oc=5",
-   "date": "2026-10-30T00:00:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d485050ec5be",
-   "title": "Keiko Fujimori elogia el modelo Bukele y afirma que Perú “debilitó y persiguió” a las FF. AA. y la PNP",
-   "excerpt": "Durante su visita a El Salvador, la lideresa de Fuerza Popular defendió la política de seguridad de Nayib Bukele y responsabilizó a gobiernos posteriores por el debilitamiento de las instituciones…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/29/keiko-fujimori-elogia-el-modelo-bukele-y-afirma-que-peru-debilito-y-persiguio-a-las-ff-aa-y-la-pnp-hnews-2750157",
-   "date": "2026-10-29T23:58:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "447b0afdd827",
-   "title": "Desde El Salvador, Keiko Fujimori anuncia medidas contra las organizaciones criminales en el Perú",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2ZHV3hzdGt2YmVoQmZtbTFBTmxqMV9pOXpOSThiYmJDQ2lZSmlMUW02RklrYVZicEE3MlNJaXRBZW1YLUlpbUVLMGNXTTVqVGZlZUdVZFpPck1wRmxWaTFadDlWRWNTMzAydmtJUmh4Sk1vOVZjZG5XcjU3NFNiU3F5WmM5aG8zSlRmby1rRU9GTVNrUzMyajI2b1g0c1F0NXcwYUZtOGtsT2lmMVJaTVAxc3NsUG5EX1ZBT05kY3FGYmcyMGFCcVJFamhsNkFxaHRwZ9IB6AFBVV95cUxQMEdQTnNHMVFDMW1zZGYyUWl2RHZ5QXRNcG9ubkFCWFd5cjZnTlJidW1pVFV4c2g1b0Z4ZjZ6TnFORXVkSzM3RUtoVlBfQ0wwQ251S040Ny1uY1V6c1lFZnhmUUdYcHdwT05tQVNCWWhudDJ4cWd6ZWVIQ1VfZkdzX2g1MjNmRldlSXBQOGQ0UFJOQS1wWFJEQ2llb3RGVmF3YXNENUdzQjgzaHp0ZVFGNGVFYzVOMktyTzA5VG5PQ1IyYXlPZVkweGZUUTJIdGNWb2RVcmF4Z09TNXFGNFhWSzBEeHk2T0Fq?oc=5",
-   "date": "2026-10-29T23:55:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6cd6ef0f51ea",
-   "title": "Keiko Fujimori se reúne con Nayib Bukele en el marco de su visita oficial a El Salvador",
-   "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reúne este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbXR0Y1RYNlpUR1VoZFo1RlRDSGdlQjMzbklzRXRjdkdiRTJsQ1F0YzhrdUduRFNwZ0tJYXllQ3lKNmo3ZFFwb2VXNHpYOUtpaFN3dHRNUnd5T3JRVVdyZEZIeWc3OE5DeTFzbVVfbENLNTRMeWs2S3hjSnlzWDVTM1hzbGVqZGVZR2ZnQ0JLSjNjcTdzVzNheU4yYmFiTzh6UzdMSXB3d1h1eFdiUVVuSWJmXzBxcXM2bnd6bzFlalpmSW5uakRnWTQzaWlfR1g0TDNZOXJnZmhsTndoTFp6ODZPVk5MUTJSdGfSAf4BQVVfeXFMTTRaUUxXakFmN2EwUVl2dVV4cXpJbnFYOXlCbEZUbWdqXzVFYXFfVTJQMUFPWU5ZQ0dBTXFhVnB5V0RzZ0d1eU9vM0NVVGtnRTF2cDI5ajNhdWNjNWwtRERRYVlXSWlhU1NvWm9xRWVjb1VhOU1ZdmEweGxiOHJpTzVtQk1FZVg5YzhvWkduZEVqVW1Xem9paE1LV1lISWEwNDlfX1NTQ24tVmtzTnF2SjNpZkNDS3dvUWRxX3h3ZkV2QjRQYXRqN1VoV3BpODVkZU1IeUVTdk8teS14ZVhrUktnVHR3SGtrMTlIcTZheWIycnU2dnA2RGw0bFJWZnc?oc=5",
-   "date": "2026-10-29T23:52:15+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
