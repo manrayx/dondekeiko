@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T20:54:05.402460+00:00",
+ "generated_at": "2026-10-30T21:16:17.267924+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -381,6 +381,17 @@
    "next": null
   },
   {
+   "id": "8ba600fd7e63",
+   "title": "Presidenta Keiko Fujimori visitó colegio emblemático en El Salvador",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckQ3YkJpRTFkdjZEcmZWdWJXM2xqVGdtU3NqRnNyd1BUTmgyLVI2MVZiUHhwcUI5WmJJS1Jvd2F2UzB2eWFpOUhKTl9kSEYyeFZaQXZwWV81a0J0WWh1Q2hjeTV4WFhRUVduM3dPczZXc3o1cUl3a1NSREE3TWZuWkZhbFUxYncxWHFPbm1MZzNadE9RdlRWZXk4VFpDdlROeFBoUnZn?oc=5",
+   "date": "2026-10-30T20:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1bac729dea83",
    "title": "Keiko Fujimori visitó instalaciones de Doctor SV, programa de telesalud en El Salvador",
    "excerpt": "",
@@ -447,23 +458,23 @@
    "next": null
   },
   {
+   "id": "80065f62287b",
+   "title": "La presidenta Keiko Fujimori evalúa el modelo salvadoreño de telemedicina para recortar listas de espera en Perú",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2VRZDdLaDRvU3ZBTXhBNklTSVUtYWNvU3llWmREM1hzYWd4emxPa1ZzY0NoN3E4eHdMTUIydl82RVZLX3R4MEpISFc0N0t3UnAydXZNX0JpZmRIb2tDUEdScy1CWXB3aWl4dXl4WEJWX0tpSk5ZZ3RRcmMxV0V4SlVqOFZINWliaHlPQ3lWeHpsclJiYXVKSE1yWHBNR0xydHlQRUd4SHE4Tmk2MmNabzBUTDNzXzZBMXpReEVaM3VrWU1GV1JBblM5TjEwY0NoeHV5Z0hXdUJMVDVTaUd6OGxPWjNucElMRGU1aG4tT0pmQdIBjAJBVV95cUxOSDNCTzRxanhwdS0tYUVQZ2hPdG9KdGhEcU1Ed1lLQy1JNUxQenNxektyMkxETzRkRWprMEVkNmZhYlIxRm9uenNERXVSbkpsaDNjeGRiYzF6aTNCUWdwVG1nUWpmUnUwUks4cGJEQlFmSHJ3cVdmbDJLRm52c2ZQVFZ4WE9uYnFtZFRnWUsyUWhWMmZlZ3d0TjViZi03UnYtdzFSYTNaTXdEdzRYX3ZwaGgtZEZ0ajE2aVBPaDJIaVNBX09vbGREOFFheGNScWlrSlI3NUU1WE9HQmRySlZfX3hhUjdmUEMxUjRHWVdlUHQyTTJvNHpmMDBQZ0VvZFZJNklmcVNZYklsMVpq?oc=5",
+   "date": "2026-10-30T18:41:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "63642364187c",
    "title": "Keiko Fujimori visita colegio público en El Salvador acompañada de ministra de Educación, Karla Trigueros: \"Nos ha gustado muchísimo\"",
    "excerpt": "Keiko Fujimori recorrió el Marcelino García junto a la ministra Karla Trigueros para observar recursos digitales que permiten a los niños estudiar geografía mediante pantallas interactivas y computadoras durante la…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-visita-colegio-publico-en-el-salvador-acompanada-de-ministra-de-educacion-karla-trigueros-nos-ha-gustado-muchisimo/",
    "date": "2026-10-30T18:06:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8ba600fd7e63",
-   "title": "Presidenta Keiko Fujimori visitó colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckQ3YkJpRTFkdjZEcmZWdWJXM2xqVGdtU3NqRnNyd1BUTmgyLVI2MVZiUHhwcUI5WmJJS1Jvd2F2UzB2eWFpOUhKTl9kSEYyeFZaQXZwWV81a0J0WWh1Q2hjeTV4WFhRUVduM3dPczZXc3o1cUl3a1NSREE3TWZuWkZhbFUxYncxWHFPbm1MZzNadE9RdlRWZXk4VFpDdlROeFBoUnZn?oc=5",
-   "date": "2026-10-30T18:03:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1020,17 +1031,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM3pSMld2V2RPZXhxZl9Yc1pDUWVYdEdTOHJ0LUNPWmQwQ2FqM2VfeWJ3S2pnck1mQWxQU1ZGZGZpcGNEdnQyR1NZSTZvb2s5ZmNZV01sbWZJTmxRR01UbWQza1U2TExsUnV3bWJnU2Z2UFE1bks0ak5OeWwtRlZIWjhpWHVhZU84V1A3TnpWdXNKaVp5Q19nYV95dGNMSk9FTG1kNmJOeFd1NTZFU2pUckIySE9VZEVvLTAxZDZMV3lERlBHbTc0VEZLUkFUZTkwcXlWRTBjSG9UdjQ2enduUTIzV2hkTEtTNkE?oc=5",
    "date": "2026-10-30T01:29:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bcdf85e7a735",
-   "title": "Keiko Fujimori se reúne con Nayib Bukele tras ceremonia de recepción en la casa presidencial de El Salvador",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkNiMV81MzNBUVpObnBNdUlPYlZWeW9malQxc1BIUXR2Qnd3OXlSb2N4U1V3LW5SWFlhQmtLX3NsU1U2VEtWelpsN1p2N240Wm4wOHFxNTEzeXBMMU1mSUhmY2RTamIycE85Y1pCTWpub2laOExXdVhNT0pvbFVaUmtZNWZxTjZRVnlDNy1aM1BIc08tMS1mRkdsLXB6UVVaZEU4WVQydnVUdUxGNmtjVHB0QjNSRWVOQS1aRW5rNzhYeUZKVFNEMGJGOHNDZ3pY?oc=5",
-   "date": "2026-10-30T01:19:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
