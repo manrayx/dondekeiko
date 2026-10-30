@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:35:34.860360+00:00",
+ "generated_at": "2026-10-30T00:57:29.865651+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -320,12 +320,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "072f5aa36ae3",
+   "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
+   "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
+   "date": "2026-10-30T00:53:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b76c70d32f49",
-   "title": "Presidenta Keiko Fujimori se reune con su homólogo Nayib Bukele",
+   "title": "Presidenta Keiko Fujimori se reúne con su homólogo Nayib Bukele",
    "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-se-reune-con-su-homologo-nayib-bukele-noticia/",
-   "date": "2026-10-30T00:27:09+00:00",
+   "date": "2026-10-30T00:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -463,6 +474,17 @@
    "next": null
   },
   {
+   "id": "b9a74419da77",
+   "title": "Keiko Fujimori recorre penal de máxima seguridad en El Salvador",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2diVGdSR2tGckhTN1V2SWxtamw1WHZ2TmNhaXFVSXhaLU9LLTdxbFhMSWZ2bVNPbkRFTnQ5LTl5THFzQlhuODZFNG5ObjlrcUoySFZxWWthdkZ3RzR3Z2lMaGpWNnN0MDhtMkhkZ0k4MW1ob2ZNSzRHWlI1SDVFR2d4RjFrcXBLLV9Lb0UxYy15bGFSMEUta1JscW9kbDJmQ1E?oc=5",
+   "date": "2026-10-29T22:58:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7625691237bf",
    "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
    "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
@@ -474,34 +496,12 @@
    "next": null
   },
   {
-   "id": "b9a74419da77",
-   "title": "Keiko Fujimori recorre penal de máxima seguridad en El Salvador",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXpQakd6Smw3OXVkNEgxd1RncDhpSmlLOG1xWlhsUjJhb2dhQzJYTnBWVW5GQ2djenJyZmlGY3Q2YjE1aTEyUy00THJ6cjhsZFhHdl9od0pZQlBGelNRSzVPYTc0Vi01VXNIVEdwUGtJTzJrNG5tUVFMemt1QVhWc0JMc2RKdlZlay04REhtcGtleldEdXBoNW5UaU4?oc=5",
-   "date": "2026-10-29T22:37:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "8f99dd032a39",
    "title": "Keiko Fujimori recorrió el Cecot en El Salvador: las fotos de su visita a la megacárcel de Bukele",
    "excerpt": "",
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1JCdkJOWGNqYWxNZGl1YjhlNExZYnk5anE1TEc3RGpUZGI2ZXZvLV9xSHFEdG84LW9xSHVUMmtyZThLaDZUWEstNkxJaGpBWnlTdEFmei1TWTVqUm9OTjM2b092NHB3ZmNpSGpwZk9JbzJCR01mc0RuZ3lXZlJ3SW1FVDBuUnV0ejQzWEtXQ2RaLXBEbzVQWFIyNGpoRHRuSEx5VG5iVWY3WHdkcEJRT0h5N2k1dzZwVEZBMHNjSWN4b1pqMm5INWZSaFBfRDNJVGFF?oc=5",
    "date": "2026-10-29T22:35:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "072f5aa36ae3",
-   "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
-   "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
-   "date": "2026-10-29T21:56:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -744,6 +744,17 @@
    "next": null
   },
   {
+   "id": "977e92f4120b",
+   "title": "Keiko Fujimori se reunirá hoy con Nayib Bukele y visitará megacárcel CECOT en El Salvador",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkxiNnY3aU5JcTEwREFWYktwQTROT0tIbFotdkVwbW50VFZya1dpaXdSNUI4czdoX0pTcGp6bVNlaDQwZW0zZW1qOXFjTzBXQW9yRm9zYzFpb1N3WVE2Szk1QWx3dmtaSDdONEJGc3VaUE1vYUFrYjEzNFlYN1Z2a0w1TkJtbFh1V2xJTWtUTDJxYXdsWHMzaVl2WGNYdXhBbFRsZ1dzdU15LWxvYTZQenJBX2dhN0E?oc=5",
+   "date": "2026-10-29T15:04:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "61d87025272b",
    "title": "Keiko Fujimori y Nayib Bukele sostendrán reunión hoy y ofrecerán conferencia conjunta",
    "excerpt": "",
@@ -970,17 +981,6 @@
    "source": "Latina Noticias",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUEpYZ3NoZC1TRnJhQTBuWFdMOWpZbWhaeTdIV0hMazB1cjRmeDRsbkRFUGdPdnNqbXlKUXRZcFJwLXpoSlBrNTNUZ252aDZNTGZkTVJHZzBoaUZEc0FsaFdSblVndWkyNXVTLWVqekNjSDNzNjY4WmhVYTluWVRfUHdEcHJPa3JxN2NiMmV6MHNFYk5QWnNPTXVSeXBHSG5OcHhkNnAzanVfalZ1aC1fbF8zQms2bTIzcWtBTzdsYzJzaElPTl9jclpSeHBLaVBzeTM5c2U3cndZV2pyU0ZfQzZuaE01UC0zbWJrc3UzakZjX085alNn?oc=5",
    "date": "2026-10-29T04:32:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6aa04e0917cb",
-   "title": "José Chlimper niega que vaya a reemplazar a Luis Galarreta y defiende su continuidad en la PCM",
-   "excerpt": "El integrante de la comisión consultiva del Gobierno de Keiko Fujimori rechazó tener aspiraciones políticas y acusó a algunos medios de intentar debilitar al presidente del Consejo de Ministros.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/28/jose-chlimper-niega-que-vaya-a-reemplazar-a-luis-galarreta-y-defiende-su-continuidad-en-la-pcm-hnews-795676",
-   "date": "2026-10-29T04:06:26+00:00",
    "state": "posando",
    "place": null,
    "next": null
