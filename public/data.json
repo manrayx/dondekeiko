@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T01:40:16.544984+00:00",
+ "generated_at": "2026-10-30T02:01:32.364262+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -320,12 +320,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "366c7ea1ac6e",
-   "title": "Keiko Fujimori confirma construcción de una megacárcel modelo Bukele en Perú: “Es impresionante, presidente”",
-   "excerpt": "La mandataria anunció que evalúa construir dos penales adicionales a los previstos durante su gestión. Uno estará destinado a internos de alta peligrosidad y el otro está basado en la…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-confirma-construccion-de-dos-penales-uno-inspirado-en-la-megacarcel-de-bukele-es-impresionante-presidente/",
-   "date": "2026-10-30T01:39:42+00:00",
+   "id": "5c4089eb02aa",
+   "title": "Keiko Fujimori se reunió con Nayib Bukele en el marco de su visita oficial a El Salvador",
+   "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reunió este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
+   "date": "2026-10-30T01:49:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -336,7 +336,18 @@
    "excerpt": "La presidenta dijo a su homólogo que será recibido “con los brazos abiertos” y mencionó las pupusas, uno de los platos preferidos del mandatario salvadoreño",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-invita-a-nayib-bukele-a-visitar-peru-y-plantea-firmar-un-tratado-de-libre-comercio-con-el-salvador/",
-   "date": "2026-10-30T01:37:26+00:00",
+   "date": "2026-10-30T01:41:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "366c7ea1ac6e",
+   "title": "Keiko Fujimori confirma construcción de una megacárcel modelo Bukele en Perú: “Es impresionante, presidente”",
+   "excerpt": "La mandataria anunció que evalúa construir dos penales adicionales a los previstos durante su gestión. Uno estará destinado a internos de alta peligrosidad y el otro está basado en la…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-confirma-construccion-de-dos-penales-uno-inspirado-en-la-megacarcel-de-bukele-es-impresionante-presidente/",
+   "date": "2026-10-30T01:40:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -408,11 +419,22 @@
    "next": null
   },
   {
+   "id": "2d9ffab37219",
+   "title": "Presidenta Keiko Fujimori se reune con su homólogo Nayib Bukele | PERU",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMDNFODVpbFdkWTBZZnhzOGVfc3NHeGxXc2xkNkw0cGFYRWlPMXJIaXJET0g2Ui1TYjJiMzVndTdmNGhfMzdtX1JHWm5BekJqM0xCakk3cDJrdVBWNDFSM08xZWlxTE1UTVp6MGtWLUxHYUtrcHpDejMxaG1PUk4xUmtMa0NMSFEwSG5qYi1GUm1kMGNhT2JxY19BSGRGWlk4eEluRXBBTmo?oc=5",
+   "date": "2026-10-30T00:37:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bcdf85e7a735",
    "title": "Keiko Fujimori se reúne con Nayib Bukele tras ceremonia de recepción en la casa presidencial de El Salvador",
    "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUE5HQURNN2RheXBSYlNNTVk0VUpvTEdmbW56TFpNNFcxZXZUUE1aRm1UMWotZ3Bzc2JSaVVIMnRXMXhOSkdJNXE3aGYwWGkyaVkwZE1LVV9NMkNqME9jUHdfODZEQ0JRaXZDSVJQS1BUV1F0NVBlWHJYZDJLVE1lWFF5NkJGanUzY2xtV2xOR3lFNE11UjhjWTJaX1dmM1VQaXlOU0dVamYyX2hhWjhOTzRXR3prYVdZaVluc3U0NExIRjVjazB4RnFOaXJYRnFWUkl0SG5uanJyRFItT0xVTg?oc=5",
+   "source": "geniostv.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkNiMV81MzNBUVpObnBNdUlPYlZWeW9malQxc1BIUXR2Qnd3OXlSb2N4U1V3LW5SWFlhQmtLX3NsU1U2VEtWelpsN1p2N240Wm4wOHFxNTEzeXBMMU1mSUhmY2RTamIycE85Y1pCTWpub2laOExXdVhNT0pvbFVaUmtZNWZxTjZRVnlDNy1aM1BIc08tMS1mRkdsLXB6UVVaZEU4WVQydnVUdUxGNmtjVHB0QjNSRWVOQS1aRW5rNzhYeUZKVFNEMGJGOHNDZ3pY?oc=5",
    "date": "2026-10-30T00:34:31+00:00",
    "state": "posando",
    "place": null,
@@ -494,8 +516,8 @@
    "id": "6cd6ef0f51ea",
    "title": "Keiko Fujimori se reúne con Nayib Bukele en el marco de su visita oficial a El Salvador",
    "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reúne este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbXR0Y1RYNlpUR1VoZFo1RlRDSGdlQjMzbklzRXRjdkdiRTJsQ1F0YzhrdUduRFNwZ0tJYXllQ3lKNmo3ZFFwb2VXNHpYOUtpaFN3dHRNUnd5T3JRVVdyZEZIeWc3OE5DeTFzbVVfbENLNTRMeWs2S3hjSnlzWDVTM1hzbGVqZGVZR2ZnQ0JLSjNjcTdzVzNheU4yYmFiTzh6UzdMSXB3d1h1eFdiUVVuSWJmXzBxcXM2bnd6bzFlalpmSW5uakRnWTQzaWlfR1g0TDNZOXJnZmhsTndoTFp6ODZPVk5MUTJSdGfSAf4BQVVfeXFMTTRaUUxXakFmN2EwUVl2dVV4cXpJbnFYOXlCbEZUbWdqXzVFYXFfVTJQMUFPWU5ZQ0dBTXFhVnB5V0RzZ0d1eU9vM0NVVGtnRTF2cDI5ajNhdWNjNWwtRERRYVlXSWlhU1NvWm9xRWVjb1VhOU1ZdmEweGxiOHJpTzVtQk1FZVg5YzhvWkduZEVqVW1Xem9paE1LV1lISWEwNDlfX1NTQ24tVmtzTnF2SjNpZkNDS3dvUWRxX3h3ZkV2QjRQYXRqN1VoV3BpODVkZU1IeUVTdk8teS14ZVhrUktnVHR3SGtrMTlIcTZheWIycnU2dnA2RGw0bFJWZnc?oc=5",
    "date": "2026-10-29T23:52:15+00:00",
    "state": "posando",
    "place": null,
@@ -965,28 +987,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-viajo-a-el-salvador-en-visita-oficial-su-agenda-noticia/",
    "date": "2026-10-29T11:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cf05a6414435",
-   "title": "Pepitas: La presidenta Keiko Fujimori ya está en El Salvador para ver el sistema penitenciario de ese país",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdzcySVVrMjZ2a1ZkSW4xY1oxLTlDMFJidEZ6d0tKUmNUbHlmNjlSTHZuclhURmdlamQxZWhYeU9JZmVpTGpoN1l1d1dRT0ZNN3FSeXBTdDZEeWxCSURTY0VvenZDY1ZGanpreDNBdlAxV1JaOFVXWjdjQ3FTUFZieFpQZk5sMnR3ckxjcFM4YlJJMFpSbnFuRjk3ZUNZU2NnYWdJWkQ3ZVZOOUFyLUFLLW5kZDRNd1VKb1AxR01tcXBNOU1BcjRLMnBzZjdad2dnbGxza0hxdjY5QkZ5Y2xXUGJHbVc2b3EyQ3ktQU0yOWVUVEXSAYcCQVVfeXFMTktyc2hqbFd4dHdlMU9TejA5RTczNGMxWk0tWlhRUjlrNGQzVmJMRFk3NzhCTklvTjBUNWdTaDduTUNKZ2JBR09tcG5ucUloWmtuM1FEZDZkNkNJRzFrNjRhRDZZSVo5LWk1anZYNFdJNUFna3A2NjNzUHpaMENMWVgxRFVUYlF1UDB0bFpPSE1QNTl0TWctMlhidUc0eE5lU1BmSVBJVVB0N3Bya0tqSjVneElId1V1M1ZvVFl6REIzM0Z5MUhpZWNvMDRDWkpVa0pXaE5uWlVyMUdGR1o5Nkh0LW9MRGRGYTlJNHhJQUtOY0x2TldmM3BKeHoxN21IRXMzeDJzYkE?oc=5",
-   "date": "2026-10-29T11:48:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "59f16d7e83a8",
-   "title": "“Keiko Fujimori busca copiar buenos ejemplos”, sostiene titular del Congreso, Miguel Ángel Torres",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVjFicG1wZGpJNjllemRzc05HUXVwYnJnOTFuT2premFLZ2g5TkJVNU9wRE5FLWVzUDR4ckwtWENkd1hBRTh3X3haR0FsdFRzeUtBM3hSeFVqYnlqVzkyYzUtTWg4QWJVamNaSWlNMUd3aVllTVhhLXB2WExRaW4xcG5vRlBCb0tqU3g0Smh4Z3VyMjJtZVl4NXRLX2VVZ2h1dFU4eWNNOHY5MUJfc29PQXAwTHphdlJEM0puUng2elJaenI1UjJ4M3FZSGJGbFBiaVNKUTkxN0dyeXVZSDUxcTBLM04yTVlhcHFtdnhiODE?oc=5",
-   "date": "2026-10-29T10:26:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
