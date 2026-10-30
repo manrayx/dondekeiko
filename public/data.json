@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T11:03:54.744046+00:00",
+ "generated_at": "2026-10-30T11:25:51.400481+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -321,6 +321,17 @@
  "agenda_minutes_7d": 605,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "3a7dd9b85219",
+   "title": "Keiko Fujimori confirma que realizará una drástica reforma judicial tras su visita a El Salvador para aplicar el modelo Bukele | Al Vuelo",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNm9GbXpzS1pBZmVjeGt2MHFwQmoyZWFXY1BfQjhHQmdmcVRhX2xGVVhxM2VaemJ4TE1qNVY2aDFkZng0U0F2X0RrRHV4YnV3MEtwQ3NRdHNZeGplMENVQVZZODFfOVpNYmRQMnJIcGhMNnBOdFh1SGpBbEFMWl9BYTBkcjZPLTYxcHNGR093aF9CVjc5T09leXU0RUZBU1pMUGN5R19idWpRRmZDNm5qelViYldpR1gzdTh0Z3Zhc04tMWVQRFk3NXZ5dUl3Y2NvcVo3SV94RjYzempubjJhNkpOcmZ5LWpQVUN5LVBnN2w5cFJE?oc=5",
+   "date": "2026-10-30T11:03:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "f1db38693a9f",
    "title": "Fujimori y Bukele firman acuerdo de cooperación en seguridad, justicia, salud y educación",
@@ -978,17 +989,6 @@
    "source": "Howl.Link",
    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE40b3ZSSUpRZ0kxaDJtbkE2VWVKWUxrR044bXYwWmE0OVozcTR0bUVsZjFzLTk3dkFOZXpJ?oc=5",
    "date": "2026-10-29T18:47:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5829fc26cf7b",
-   "title": "Keiko Fujimori en El Salvador: mandataria visita Centro de Confinamiento del Terrorismo (CECOT)",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd04tYkVlNHdNQU5uYlNseUFleDBYOGswRF9IeFYzUDFyVmw4MlJ5c3c4bUlINlhlVGNjWGhTbjdwZzJSY2RFOENCdl9Ja3NXWGJPNkhKWGFzRUprLWE4MjBTb2dxMkkyLWx0a01tbVc3TUpETEFocTVXRFVzYS1xRWpScXlhR1VBQUpQUVJrWUpyZnVsMHpDelRwd2NFRjREdmhGbmR5OE9vYW5PRHA3Qk1Tc1JfMnpTc29oSkpUSExCaW9TdVE?oc=5",
-   "date": "2026-10-29T18:32:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
