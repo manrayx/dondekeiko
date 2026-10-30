@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T15:48:43.546026+00:00",
+ "generated_at": "2026-10-30T16:10:51.058021+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -338,23 +338,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "dbf625d54dba",
-   "title": "Presidenta Keiko Fujimori promoverá oportunidades de inversión y comercio con El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUC1OMHhKMGFUSVdiOWJGUmlkektiYkg3QlBwbkpnV2RtanczdXZpeW91VHd5RTUtdUU3TWszSnZta2xZWXMzZHNmTUtRaGR2cC1VT0JldzRNSFktdUtGdmJpRFJYNUJ2cFltVmVZcl85cmtzWF9mWXpMbVBYWW9HNHNoVmF2emVkSWxrMGJDdVUtdDVqMGJBOWd1Yi1qYVNnRTlQWUlTMEhWVEFFVmFRTTdHZEFVT3pYb1ducUZIOGxKQ3ZjOW5vYXhB?oc=5",
-   "date": "2026-10-30T15:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "bf44986cdb8c",
    "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
    "excerpt": "",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
-   "date": "2026-10-30T15:05:33+00:00",
+   "date": "2026-10-30T16:05:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a0808104cdb4",
+   "title": "Alcalde de Piura dice que Gobierno no asigna presupuesto a tres proyectos pese a compromiso de Keiko Fujimori",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYml3Wml1VUxTazQ4NW9ZSzBMYnBYS1hqSnVFVUFoSXZZQ1BkaUc0T2ROYXV6QTUwOHVJMDkyeUFBLUVfeU9QajFiNGlaenJtVnhuWk9xODAxZzRsVWRnclVObWJBZVdXVEZnYTdyUkRBb0ZwNkhLZUgwc0pvTGVBYnBSSFFEUXhnMlZOd29yeWVURWNXel9YNk5EVFY0VDdIWWZPX00xcUNacFMyS18yZ2w4enpLUQ?oc=5",
+   "date": "2026-10-30T16:04:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8601d03d467e",
+   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
+   "date": "2026-10-30T15:56:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dbf625d54dba",
+   "title": "Presidenta Keiko Fujimori promoverá oportunidades de inversión y comercio con El Salvador",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMG56VUoxdlg3b0RXZDZkdXRsMmY4LWk1VmM1eEJvUDRKYi1XbFRzVFltV0d0S1E4amwwNGZXU2VQVDVQdzR0LVVySTRFeWpVNU9ORnNlMk9HVVQyVUdMcC1JejJWNHlBcnJOejdTNHRSem9GbW9iRXg3TWx5THVRQ0U4YUMzUV82cmZ4TXp6MjNfYjl1ZG4zZ1plSUV3dDBwZEVnaXNyRjhqNmFPX0ZjODhfTWdIMFl4aDNPSHZMM0tELWlCREZlQU4tYlpBWGp4ZWJucUhHLU40WGM?oc=5",
+   "date": "2026-10-30T15:20:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -984,28 +1006,6 @@
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTcybUVFckNRVTNZTnctTnRYdm9hOEtqOGlrclRNREdoYVBpeEF1bUU1NnJBWnVuTEpFbWMzMXh5RW1vcFpYNDlqQlRiaGtpQWpOZk12N1g5amhEZnNmYzZRODN3SzVLLTRPYjFILVBjaFkwUmtyRzhzR0M1QUJnME1pa0FVSlNuLUhaSm42RzhoVzNlckgwVVZ1WllZOWpHYWc?oc=5",
    "date": "2026-10-29T21:44:13+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cf9feca0cea1",
-   "title": "Keiko Fujimori recorrió el Cecot",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41aFkyc2NfSnZoQWExTU1xQlBqb1NKcE5PSTNqQzRlU29WZTNBYlBsNkJLRTY3RVRVTzhUMl82NjdpamV3Tzh5SjVjWUtGS01YUk9GWDlQaDE1R01KMEdhdmNpLWktTl9RMUZ1dzJZNDh6QdIBckFVX3lxTE41aFkyc2NfSnZoQWExTU1xQlBqb1NKcE5PSTNqQzRlU29WZTNBYlBsNkJLRTY3RVRVTzhUMl82NjdpamV3Tzh5SjVjWUtGS01YUk9GWDlQaDE1R01KMEdhdmNpLWktTl9RMUZ1dzJZNDh6QQ?oc=5",
-   "date": "2026-10-29T21:35:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1756a78647a6",
-   "title": "CONFERENCIA DE KEIKO FUJIMORI Y NAYIB BUKELE DESDE EL SALVADOR | EN VIVO | El Comercio",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTQzc2s1QWE2NkZqeE5DTUgtRXB1aS1EUXE5NkJfUFpncTkzd1I0QTFIckxOWUtmV2VpN1JHam1aX1dmN3hLM2oyOEJnOWtUSFFIMDI0VGs5N2xHb09BQnUwZmhqUHZEYWRFQkVlSWZLRktJVkIzQkM2cl8xRnJwUmZqZmFKUzdFZ1c1S09CeUkwek9YMUh4WXlBT01PNTZ3aHd4dW1rdzlWS1Yzek9RaVhvSEpJcXN2QUNTUUdn?oc=5",
-   "date": "2026-10-29T21:31:05+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
