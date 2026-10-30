@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T16:32:02.555895+00:00",
+ "generated_at": "2026-10-30T16:53:53.056737+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -338,6 +338,50 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f86056cd6d7f",
+   "title": "Keiko Fujimori desde El Salvador: \"Somos países distintos, pero devolver la seguridad y el orden es algo que queremos replicar\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUlNIV2xMSGFzYlU3eDBGU3NDT04tdVZmUmJKWk9TM1RzTm5uTTVjSEtVVUx0elhJdUdkM2UycXU3ejdoTl9PeEU4NGh4QXJoektUeVZVM2xDdXc3TFFBeDk1dTREX3hzdEVJYXJwbUtXSXRzcVhlMmRsa1FremtkMUhPcEswUUZsdDl6M2JSV0JSREJST2l6TWVmcXFDWVl1ZWVFTU5Nd2h3ZHRXbWFlUmMxeFFkQ19KeTVSRTFuSE9UNVM2d0dudzcwcUpEVklCd0lwWTRLMjdEdFNtWUluaHN3R3dMNE8wbHFScC1uX00zVllfVnRGRzV0cEVQdDJwTkE?oc=5",
+   "date": "2026-10-30T16:44:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "91233d906989",
+   "title": "Keiko Fujimori en San Salvador: \"Los invito a invertir en el Perú sin esperar el tratado de libre comercio\"",
+   "excerpt": "La presidenta peruana encabezó un encuentro empresarial en El Salvador donde presentó las garantías constitucionales, los indicadores macroeconómicos del país y los avances en el acuerdo comercial bilateral",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-en-san-salvador-los-invito-a-invertir-en-el-peru-sin-esperar-el-tratado-de-libre-comercio/",
+   "date": "2026-10-30T16:40:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6ebb00e17241",
+   "title": "Carlos Basombrío advierte improvisación de Keiko Fujimori en política de seguridad tras visita a El Salvador",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZ3puVFl2dHNGMEI3b2RpSU5kUEhOYVU0cW9CTWo0Q2t0eEVScUxDT1FoREdGR1FiQ1U4ZnAxRWE4VmJKMy0wU2JiU05qbWV5UjBCZTJOSWRWQkc0OU5XTUk2eUlIaGtDME1ieVdMdC1YVFpsZ2hBUl96SE9uVm1SNUdTRENuYVItM0w2VXF6TUxYTGtNci1SQ0gyZHRfWWhVQ3BKRF9SbEVFUHlkdWxBWXh1V0c4eTIwRGQzNWkyTVRmSnB2eE5ma2cxYUw3aVY1TFg4TVJIMURfSTNtdndNUURPX2hBbnZpUTBscUNRcFp4R3d2aDBlWnd0OWZ1SmlEWU1Hb0NCWGxJR0ozSHpDcmlNWk1TaTFMMHFWWkhPZFd1ZHNT?oc=5",
+   "date": "2026-10-30T16:36:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "36474c48c3e4",
+   "title": "Presidenta Keiko Fujimori visitará colegio emblemático en El Salvador",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXVmTG9jY3lkV0VmV3g4OExySHV3T2xsUnhvcE9pYTNxNTkyZzE0clM4Z3hkYjA2dnFOVFptc1k3VEtScW55ZXpnMkVqVEwzWG5mcVdrMjg3OTVQdHNLSTV5X2Z6YVhOaWhiUGZkdW1USGhOVFJmVFJnRVMzNlJsVkttbF8ta3Zyb3JYT1liMUxFNE5IUDFIdTZMaU5YTVg4dnQ1RXVUTzU?oc=5",
+   "date": "2026-10-30T16:20:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bf44986cdb8c",
    "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
    "excerpt": "",
@@ -586,6 +630,17 @@
    "next": null
   },
   {
+   "id": "366c7ea1ac6e",
+   "title": "Keiko Fujimori confirma construcción de una megacárcel modelo Bukele en Perú: “Es impresionante, presidente”",
+   "excerpt": "La mandataria anunció que evalúa construir dos penales adicionales a los previstos durante su gestión. Uno estará destinado a internos de alta peligrosidad y el otro está basado en la…",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVnFtT00zd0hBOEgwSThETEpBaTEtWDUxdWJidXdOSnpQZWZSLTYxRndhS1ZiVTd6a0FWRXd0d0x3RXZrUzRtd0xrSDFEWUtEVU1rTGFrVXlDRWdRUGk1d1NtMnNCcEJZOWxzVWlSOGphS3RzNXZ3SlphWmVGZFB4clFYTFM5M05UbnBmMzNSQUp5a3Q4NFA2U2doeVhsV0FNYXdRR1hjbGZNZ0xMVWxnNDY2SlhNUWtzRzB1YjA4UVNJbUo1T0Vmc3JTYnlKSTFLMmFBQU9IM0FaMnllcFAxWWlFd0E0S3FUcEZBTGdONFZ4Y03SAY4CQVVfeXFMTUFWY1pEU19FN0hpQTBFeENqQVMweU1aQ2RMbWZyaTVLQVRjMDFFMUN6QkVrSG1xYTZOS0M2N2pUMEhJMXRCbW1KTmZWcWNxXzNia1NVVGpwemhEbTdNSW1qY3pnUVIxcVVUYUE1MGcxa1ZPT3NDcXAzVjFTa2VZLVRTOTBCeE9jVVYtX3RVRGRtYWxvRVR4NWowdGhFYkpDTlNuemZhdGVPbGtiT1AwWjNQdkI0RjNad1JLYkxXeFJtZEI1UXRSMkVJRHF2cnNQcVVlVDgzOTcxUF93ZUpFd0k5YThhQlc5bVM1UXpkX0JxOHJ0WnFrT0dIR1ZmclBOeVFaRHV5ZGdfajltZjVB?oc=5",
+   "date": "2026-10-30T02:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3c5f1379b2a5",
    "title": "Keiko Fujimori invita a Nayib Bukele a visitar Perú y plantea firmar un tratado de libre comercio con El Salvador",
    "excerpt": "La presidenta dijo a su homólogo que será recibido “con los brazos abiertos” y mencionó las pupusas, uno de los platos preferidos del mandatario salvadoreño",
@@ -669,17 +724,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
    "date": "2026-10-30T01:49:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "366c7ea1ac6e",
-   "title": "Keiko Fujimori confirma construcción de una megacárcel modelo Bukele en Perú: “Es impresionante, presidente”",
-   "excerpt": "La mandataria anunció que evalúa construir dos penales adicionales a los previstos durante su gestión. Uno estará destinado a internos de alta peligrosidad y el otro está basado en la…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-confirma-construccion-de-dos-penales-uno-inspirado-en-la-megacarcel-de-bukele-es-impresionante-presidente/",
-   "date": "2026-10-30T01:40:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -961,50 +1005,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcWM2dmFTazJlUm1qdGRPTlZzSUtaZWhaa3pTRUNtNFQyRzNXMFVmdU9IRlJIRmlCaFNsd0xEMVFjNFVYd3R3cWhKNm1wRnhJQjAzcGo0SE1FTmJheUUtWVZfcllmRk1IXy1sLXlzXzZnRmdjeV9ZblZWSzFvaXFGOHRIb2QxY1lrN2lWZ1ZGUzE0UVRXeUdqUzR3N1Fod1lXT2h0ODlpT21tQXlWTkxrVUk4UGNIZUFqQnBsZFFRSTljMzRZWlAzSThmRE1Da1JGTUgtZFE3QXBPaDU3bEJZYUdfckpwdzhVVXYwUXc4a9IBigJBVV95cUxPblBJQkFtSUFtaGNYY1YtWlB6ekhNUjhPX2FVMnNiYnVDLXFzUDVlWDlrM3B0QlpkU3pNazk4RlNNeGJmTUljYWw2aDd6Y1lkTTVEM2xseVJoRlhOVDlueXRLVmwwOUhDT0tKaGpQclpES0FGeFl0d0d5MEVkZVh4djN1VjZTSjFhWTB6aUtnSFRwZE9VM3FEVXVTLWV6cUxVNEl0U1ZpM2J0X3d2Szd1TUpsdUtqSE9JNzNEdWFGWFprTGJkbFR0N0d0LUhHdGEtSDh6YXZBZUE2SWFFMnk3ZWsyVkNfZmJuUWF1aWNzUGRJVGxzeXBObXZWRHpEbXZwYlFvdlB6bWhVZw?oc=5",
    "date": "2026-10-29T22:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f99dd032a39",
-   "title": "Keiko Fujimori recorrió el Cecot en El Salvador: las fotos de su visita a la megacárcel de Bukele",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1JCdkJOWGNqYWxNZGl1YjhlNExZYnk5anE1TEc3RGpUZGI2ZXZvLV9xSHFEdG84LW9xSHVUMmtyZThLaDZUWEstNkxJaGpBWnlTdEFmei1TWTVqUm9OTjM2b092NHB3ZmNpSGpwZk9JbzJCR01mc0RuZ3lXZlJ3SW1FVDBuUnV0ejQzWEtXQ2RaLXBEbzVQWFIyNGpoRHRuSEx5VG5iVWY3WHdkcEJRT0h5N2k1dzZwVEZBMHNjSWN4b1pqMm5INWZSaFBfRDNJVGFF?oc=5",
-   "date": "2026-10-29T22:35:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "179edafd6f52",
-   "title": "Keiko Fujimori anuncia que aplicará el modelo Bukele en seis nuevas cárceles tras recorrer el CECOT",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0hDUFZvVnNqc0RrWVNiamxYeXFQUVpLdjBfU212R0VndlN2YWh4MHRtQ2ZSSjhPclY4SjRtcEVIeHZCZFNtZVZpd2RtNFhneVpGTXlEMWtWUGxSaFBxalEyR29EdzkxQmQyQk1scGhWMl9KNHdhTlZoeXU0XzNqNTE5b2F4ckZpSUpGSDcwSDJ0TG9ycC04WFZYZVAyUEMtcDBzbDZac2dWYllHNkJCTGo0cjRZVlRadzJYQkZiQkFUbTl2OGfSAcoBQVVfeXFMTXJteXpqaTRTQUc2TWJFVVRPSExNRGY0ejJ1R2NzME9FTjhjeHBXSzhlTmxCa1RnS0NOZFM4Q1YwX0FCUllTX3BMRE9maTVFZ2FMckNzRXVlcGplWUxUQkxnWjZJcE51QWRmZ1cxQVJwLVJkMkt2OWhncGRFeURHcjU0WFVfOFZNSmtfWU5YazZpSVhONTREQTl5MGxiU253dXNUYjRJS0NvZERFbmlDelozTkdCdkJYN1MwNm40UXEtV2pWNVMzVWt0dw?oc=5",
-   "date": "2026-10-29T22:01:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8497928a21f8",
-   "title": "Presidenta De Perú, Keiko Fujimori, Visitó El CECOT De El Salvador",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQakZyUHAwNXBmU2FyNUpJNmFWZXBhT1RBTkpLSG55X2VCcjdhSWVYMjhBbVZ6U2llaFhfWURoOUFOcHVaRFV5N21LN1Y0ejdJQTVPUEJsQlNyNjBLQnIwWFVCVm9kN1ZjZGpVSzEwVGRPdEtDOHM1OUJlZlQwZG5JeThxR2Q0SVpWZzJ1QjAzcGRWYkUtN0VYMkF0aG1fM2JwQlFGSl9wUQ?oc=5",
-   "date": "2026-10-29T21:44:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "aa1a035fe682",
-   "title": "Presidenta Keiko Fujimori destaca el modelo Bukele tras visitar el CECOT",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTcybUVFckNRVTNZTnctTnRYdm9hOEtqOGlrclRNREdoYVBpeEF1bUU1NnJBWnVuTEpFbWMzMXh5RW1vcFpYNDlqQlRiaGtpQWpOZk12N1g5amhEZnNmYzZRODN3SzVLLTRPYjFILVBjaFkwUmtyRzhzR0M1QUJnME1pa0FVSlNuLUhaSm42RzhoVzNlckgwVVZ1WllZOWpHYWc?oc=5",
-   "date": "2026-10-29T21:44:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
