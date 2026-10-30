@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:26:29.345243+00:00",
+ "generated_at": "2026-10-30T23:48:19.513611+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -441,12 +441,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "634dcd67fcf7",
+   "title": "Keiko Fujimori cierra octubre con tercer día de visita a El Salvador y 156 homicidios registrados",
+   "excerpt": "La mandataria aseguró en El Salvador que busca conocer las estrategias de Nayib Bukele, pese a que el propio presidente descartó que puedan replicarse en el Perú. Mientras tanto, Lima,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-cierra-octubre-con-tercer-dia-de-visita-a-el-salvador-y-156-homicidios-registrados-hnews-472770",
+   "date": "2026-10-30T23:46:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3cc29d7f1a75",
    "title": "Keiko Fujimori asegura que Luis Galarreta continuará en el cargo de primer ministro: \"Mi confianza es absoluta\"",
    "excerpt": "Durante una declaración a la prensa en el marco de su visita a El Salvador, la mandataria calificó de “chismes” las versiones sobre una eventual recomposición del gabinete ministerial.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-asegura-que-luis-galarreta-continuara-en-el-cargo-de-primer-ministro-mi-confianza-es-absoluta-hnews-1360710",
-   "date": "2026-10-30T23:13:55+00:00",
+   "date": "2026-10-30T23:32:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fe640770dba8",
+   "title": "Keiko Fujimori descarta relevar a Luis Galarreta de la PCM: \"Es un simple chisme\" (VIDEO)",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjlGeGZWVk1QbGtyYkQyM3YtcU5HOURzcDQ1UTJ6bXRWcEg5cUJKcE1SS28xaFcxNi1BRUhyMEdMZXdsRDhRcFY3NTN6RWRIYUZzUTdubXR5azB6TEFXbjE1STBNa3BZMlFHY0tWaHBRWTZuQi02c3BJVG1pME80Z3ZmN1VsLUNzd0xGSlRqdmlUZU9sT0ZHN1ljRE5TOGJFb2ZKU01UWm8tSzA1VTdF?oc=5",
+   "date": "2026-10-30T23:24:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1f28cff27acd",
+   "title": "Keiko Fujimori a empresarios salvadoreños: Perú es un hub logístico ideal para expandir sus inversiones",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9KZHl4WjYwWHRIaGpiclZfVkpHQ3hKOUU5U3U3TVctY1NMQUxsTGpReDQ5eXhPRkhKUjBoLW13YzUyaUJIQm4waE5aLTJOTzk3dVNvblc2TUIyQ3gzT25UcENra3o0TVhZZU9GSVlEWm1pMFlFQkhVZGwyVUYxR2x1NVY5ZnBIUHJYdk5VMG52dFFPMEVPejFSdVlLWnVGQlZTeDdvZlN5bzk3TU0weWd4ZHVKcm45QUxoZ3V3eGJfWG1pRmR2bzZacEVOWER5TEV3UA?oc=5",
+   "date": "2026-10-30T23:22:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -590,17 +623,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
    "date": "2026-10-30T19:24:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1f28cff27acd",
-   "title": "Keiko Fujimori a empresarios salvadoreños: Perú es un hub logístico ideal para expandir sus inversiones",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9KZHl4WjYwWHRIaGpiclZfVkpHQ3hKOUU5U3U3TVctY1NMQUxsTGpReDQ5eXhPRkhKUjBoLW13YzUyaUJIQm4waE5aLTJOTzk3dVNvblc2TUIyQ3gzT25UcENra3o0TVhZZU9GSVlEWm1pMFlFQkhVZGwyVUYxR2x1NVY5ZnBIUHJYdk5VMG52dFFPMEVPejFSdVlLWnVGQlZTeDdvZlN5bzk3TU0weWd4ZHVKcm45QUxoZ3V3eGJfWG1pRmR2bzZacEVOWER5TEV3UA?oc=5",
-   "date": "2026-10-30T19:13:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -840,7 +862,7 @@
    "id": "6ebb00e17241",
    "title": "Carlos Basombrío advierte improvisación de Keiko Fujimori en política de seguridad tras visita a El Salvador",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZ3puVFl2dHNGMEI3b2RpSU5kUEhOYVU0cW9CTWo0Q2t0eEVScUxDT1FoREdGR1FiQ1U4ZnAxRWE4VmJKMy0wU2JiU05qbWV5UjBCZTJOSWRWQkc0OU5XTUk2eUlIaGtDME1ieVdMdC1YVFpsZ2hBUl96SE9uVm1SNUdTRENuYVItM0w2VXF6TUxYTGtNci1SQ0gyZHRfWWhVQ3BKRF9SbEVFUHlkdWxBWXh1V0c4eTIwRGQzNWkyTVRmSnB2eE5ma2cxYUw3aVY1TFg4TVJIMURfSTNtdndNUURPX2hBbnZpUTBscUNRcFp4R3d2aDBlWnd0OWZ1SmlEWU1Hb0NCWGxJR0ozSHpDcmlNWk1TaTFMMHFWWkhPZFd1ZHNT?oc=5",
    "date": "2026-10-30T16:36:43+00:00",
    "state": "posando",
@@ -1074,28 +1096,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTkJJYnpOVFNCMkhkeTZZMWo5TTJLckhra2Z3VTc5cmlkNDhleUdqTUZ1ck5GSzloTHZGbldtbklvWFpONGlkakR2c0x6Z3VXdVJaYzJZVl9udXdKc21UUWZwV0xRMkc2R3BkSWMwNTJIVG5CZlBidDY4MTQ0Rzd1RnJEeUI2dWNyQUptb2JxZTRVbXlDTzhJSmprZmVyOFhQQWx4RC1RVDB6UWxNZ1hjeXZkcVV5RWdsRnRaeHRzOFZYdzVGYzhRb0dKNWRsRllLd1dxczNDRDBFSzE4WHNTOVQ2aWd2bE9JUGfSAYQCQVVfeXFMTU1GUEFyNFVkckU4cUlNajBUTHFIREV0dk9xUUs0VUZNZmtIa2pJUlhZS202ajZnY2pVeDFIdXhFR3VYczgydXBiMW5XTmQxS3BLNHFkRkt4V3ZLNzJGbnVudUFnMk4wU2s5U1JwMVFiQTFuaHpPRW5BX01wU240UHNsR3gyOG8yVHVIcDJ4aTVtVmxQbjc2QkNjaTdaTUNKOThBVnRzbEFSV0hWV1IxU0JwUE44NUNHM1NqZG13R2w4b3BrbUdvTUZORWNCOWdMMVNnUTZRWFRZU244b0Y3eHNIbjBLSTN4N2dSUmRScmdfUEg1MlZyQ3puYjlyOW1BakY3ZVg?oc=5",
    "date": "2026-10-30T03:39:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "97d0372b672d",
-   "title": "La presidenta Keiko Fujimori invita a Nayib Bukele a Perú y plantea un tratado comercial bilateral",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR05Sem1sSEhPMlRfdjFlcndfYnk4TWdOT0IwTHZ1cGNiMktFenhTLXB2YWNBdU5VZDA4bGJzeEVHMS05SktrYnAwdnJQNFVBUmMteldTUFlyRkpBQm9lXy1pbm5ZV01ra1JiSjF5MHBaSlc2YmpRU2pKSFRnbVVFYzNaQnV4MlVRWDc1X2U2RVZrNkExYlJUV0IzWVdnSF9PNGkxVWNjYTJ5LTM2WWhjaVlHRER0RTdQTzJkV003eXpqd2lrUWdYc1NIRmlGb29wbHp3SXYzdDR5eWZfRmg00gH6AUFVX3lxTFBmOUpqMWtqaDU4V1VNVzZJQjlhTUZPRzZic3Z4YXJiQ0JUVDZSVmZ6U3NLRlloOHBDeUVLNHlsb2F6QVNJSGlfYkVFd0dTM0U5ZGN2TFRoZFBZNkR5V0NWTllTbXNjT0RGVG9Ba2dCek5kemFkLUFfQkthZFNiWDRsbmhudi05UGJHYnNBVW0zc1lpcVFMak1FdncxeXgzVG1neWdGRU5TeWtWeTI2dnFDQzJ5RmZCZ0tLSVhkekt0b29EbTVnUXZmMzBFTW92V1R0dXBoTkpvcDFCRVNfY1RBNEVlaVdXU3RmWHA5X2NzcUlfX3ZaWG1veEE?oc=5",
-   "date": "2026-10-30T03:27:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "87709307ae7e",
-   "title": "Nayib Bukele espera consolidar relación con el Perú durante visita de presidenta Fujimori",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2NLS2xKUmd2RTBOUk52UkstTDZWTUdrTEd5MEtRcVN1Tk9faUE0b3dsbmdrNWNhZ0htUzZFenFWaEI4U29TU3U4ZlNBN29Bc2t4SnU1MmtGQUZITGQzNTZHeVVMUHRlcjBRSkF4OGgxT09wTnRoSUNxaXBJRlhtSmNzTWJpWVBJQ0hjVXpEYUZMblo0a2VPdVU3Mlotc2gtWHJaR21kTHBTYUZlUzIwQlhuOWVqTlRxa01hQVFlclZBS0k?oc=5",
-   "date": "2026-10-30T03:08:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
