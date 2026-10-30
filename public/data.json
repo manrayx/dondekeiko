@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T09:14:08.361599+00:00",
+ "generated_at": "2026-10-30T10:19:58.262990+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -372,6 +372,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGE2c2ItVE0xRW5TOE5oVDBEMXRiNHlzbHYzNnBsNG9zQS1FMko3LUZ5MXVKX0oyUnZoS3ZNbWhRN1RWc2xZeXBsbnhOdzZkMXY2RjIzWG4zaUtUaUYxcTVLRjEwbURzZGVrcVVBdjNhelY5V3A2cDQ2NHA1b2pBT2tjcXZnTFdubHIyNHBybEZrZ01wa2F5Qk90SmdwTzY0QlB5X1VROGFGakVXaUU2YWE4QmdIVHlZd1YzdjNn?oc=5",
    "date": "2026-10-30T03:23:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "87709307ae7e",
+   "title": "Nayib Bukele espera consolidar relación con el Perú durante visita de presidenta Fujimori",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2NLS2xKUmd2RTBOUk52UkstTDZWTUdrTEd5MEtRcVN1Tk9faUE0b3dsbmdrNWNhZ0htUzZFenFWaEI4U29TU3U4ZlNBN29Bc2t4SnU1MmtGQUZITGQzNTZHeVVMUHRlcjBRSkF4OGgxT09wTnRoSUNxaXBJRlhtSmNzTWJpWVBJQ0hjVXpEYUZMblo0a2VPdVU3Mlotc2gtWHJaR21kTHBTYUZlUzIwQlhuOWVqTlRxa01hQVFlclZBS0k?oc=5",
+   "date": "2026-10-30T03:08:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -980,23 +991,6 @@
    "date": "2026-10-29T18:08:42+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "33e475f0321a",
-   "title": "Keiko Fujimori llega a Madre de Dios para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
-   "date": "2026-10-29T15:48:59+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Madre de Dios",
-    "lat": -12.594,
-    "lng": -69.189,
-    "abroad": false,
-    "city": "Madre de Dios"
-   },
    "next": null
   }
  ],
