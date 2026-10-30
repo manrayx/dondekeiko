@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T22:21:17.761271+00:00",
+ "generated_at": "2026-10-30T22:43:18.879550+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -451,6 +451,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "81c5c9f72153",
+   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
+   "date": "2026-10-30T22:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2a4e4af968cd",
+   "title": "Keiko Fujimori ratificó su respaldo a Luis Galarreta como presidente del Consejo de Ministros",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZWY4a3JFcnhZaXhaZEM1WWdnWnhZaTBUR3FBVDI5VUpYTVlGZVBDTGFlUEc5SEhnZEoySmRKblc0QzV0MEFIYUhhSUFMU0RnLU5XSmtsU3plSUtZbHFKU1p0RDZaeUR3VmdjcVp2WTd4YmRXYVhhaEdIa3cwcmRmWVJ2cTZPQWR6Q2c0S1RlYzQxTERibFl6eTNaOVV6Tm1XdU94TkdVTmt4MWJTX0JvOU1TWjdyVFd4eThnRG83dFIydXFXVVl4VkZNTUNkb2N4TkVYR1plVEhFdU1kV1RPVDNBNFVmNFMwTXlaMnhxVQ?oc=5",
+   "date": "2026-10-30T22:37:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8601d03d467e",
    "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
    "excerpt": "",
@@ -479,6 +501,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0VHZDEwZDF2ZWF4c2hpeTlZcy1pVzloMmNHN0lIZ3BTcDUyaThhbF8yZWZ3TVp3UVBMOERQejYzVTBFdmc0YVZtVE9ZbDlzdmFmMFg5UzNHQjFDUXRNd3FRdV9PSmtkZTRWb2lfQ0VCWVBQNU1qOWpSLUdpNlpuOHhENUdTLV9pZ3UxLU83MW9OYUhtSVpmOHAyLU5QY2ZYaWk2dzlmYmRQZGFvMW1GWkNUaVY0OE96RTRjXzJyYzVRSXlDNUZPYmRWOA?oc=5",
    "date": "2026-10-30T21:26:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "be2a09385ca5",
+   "title": "Avanza el TLC Perú-El Salvador: 14 de 19 capítulos ya están acordados, según Keiko Fujimori",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdiblJHQUV6cW1EWUlkeHY4cHdJWUhPNU5nZHNwRm9aWEFBdkozdVZWTnBvWEdPaWQ0YnZiaTI2a0FkYl9uMm1vMVh0aDI0Tzdvb252aU92dUpUR1Aydm5GSXVsdTZWa3F1SHJzUHdoX290d1NCLWItUm5ta0J4SEd1TGJTbmJmRzBEWXhHMDBod085d0lTNUNUM3UwWlEwYmZDTnNqNkI2QnVlX3RGS2lnUTZGZ2dnZ0VDZnZxWlk?oc=5",
+   "date": "2026-10-30T21:26:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -704,6 +737,17 @@
    "next": null
   },
   {
+   "id": "702ab8bd2faf",
+   "title": "Keiko Fujimori destaca modelo de seguridad de Bukele y plantea estudiarlo para aplicarlo en Perú",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1Q2c09VTHpjSFZlQ1dyZm02N0hYNC1jMUZfS2VlX2gyaFctZkJvald4dVlHalF1ZnltcVprWHM2OFIzNFB3dUdza01zcEFHVWxZX0dRSjd6b0FlOGlUZWNpcEJmS01jaU50M3dnaVVPanJRU1QybEVxaHRzVnUzY05WVkpSMTlHSUtUaUp6bHZJN3c0bThBM3Q5NzQ0ZzRXbEVUT3ZCQlYxUktaN0d1YmZNMHFZbW90NC1CenFaZGQ3a1FwVE5iSFFDQdIB3wFBVV95cUxPT0t2SU5mVERTVTN5RjZlNXNOZjBPQXliNVI1bXRyMkVZWExRY0dCVy1wRVlDWFZVWHpQeE1CVl9fNFJuWUx0NEZ5dnBpZVpzSkc2MFlCZTYzYV8xNkRmdWJ2eUFXQXpnc0EwaFpMS2FfQkJkUHJxbHU1X3pwNi1CWkdTRWtGcWJiX05STDFWZFhYRXQxZ3lNTUs4R1htaUlSR2llOHdrOENfRVNucm1WalVleDE4OU9DSXR5NE42cDVKM2VNelpNWlpwSk02X0VPclVaTlVmYjFkMWRVWm93?oc=5",
+   "date": "2026-10-30T16:44:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f86056cd6d7f",
    "title": "Keiko Fujimori desde El Salvador: \"Somos países distintos, pero devolver la seguridad y el orden es algo que queremos replicar\"",
    "excerpt": "",
@@ -765,17 +809,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVhaTGwzUFNraElydHJUYnYzUzZJUDZxRi12WnJySGxYTXNJRXV1dlVTYTZQOEtnd2g4djFGaWZaVGI1eEJhTEh1Unk0eHhObTJOUW50NFhDcXpBRHRXNlNZbVdsWmE4ZW9XWFhzVFFTQnRYWVg0NDJkQ0t5UERCWjVLSkJEd0Fwc1RMSHQwNmxpYzhWY3N4UUxHMElDLTYtY01BZzFYOW5zWmZfOEd2aFhEanVXNTVXTE11eEdsQ3lCY3R3cGc1NGhicmw?oc=5",
    "date": "2026-10-30T16:32:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "be2a09385ca5",
-   "title": "Avanza el TLC Perú-El Salvador: 14 de 19 capítulos ya están acordados, según Keiko Fujimori",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdiblJHQUV6cW1EWUlkeHY4cHdJWUhPNU5nZHNwRm9aWEFBdkozdVZWTnBvWEdPaWQ0YnZiaTI2a0FkYl9uMm1vMVh0aDI0Tzdvb252aU92dUpUR1Aydm5GSXVsdTZWa3F1SHJzUHdoX290d1NCLWItUm5ta0J4SEd1TGJTbmJmRzBEWXhHMDBod085d0lTNUNUM3UwWlEwYmZDTnNqNkI2QnVlX3RGS2lnUTZGZ2dnZ0VDZnZxWlk?oc=5",
-   "date": "2026-10-30T16:26:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1079,39 +1112,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmlLUDhmYlNxQUJIY2dEMG10aGo3SXlGN19XSWlPNGtSYjR6YTNoaTQwYTJCVXlnbDZXcDlsMGFHSVVaNzd4MGxQR2sybzBSMDBMdlFjeEdJX1kyOEtCTDBoTWxobHpwMmw4VkRLS1dla3JycUVVLXJyVExpU3U3VUZYNXF4WlVDWkFGWUpfTTBfLVk0dnViV3JIZEg1VTNWRDVETkFXdl92QWt1NmfSAa4BQVVfeXFMTnJpS1A4ZmJTcUFCSGNnRDBtdGhqN0l5RjdfV0lpTzRrUmI0emEzaGk0MGEyQlV5Z2w2V3A5bDBhR0lVWjc3eDBsUEdrMm8wUjAwTHZRY3hHSV9ZMjhLQkwwaE1saGx6cDJsOFZES0tXZWtycnFFVS1yclRMaVN1N1VGWDVxeFpVQ1pBRllKX00wXy1ZNHZ1YldySGRINVUzVkQ1RE5BV3ZfdkFrdTZn?oc=5",
    "date": "2026-10-30T02:24:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "49a2889e1255",
-   "title": "Keiko Fujimori anuncia que entregó invitación formal a Nayib Bukele para visitar el Perú",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, anunció este jueves 29 de octubre que entregó una invitación formal a su homólogo de El Salvador, Nayib Bukele, para visitar el Perú…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-anuncia-que-entrego-invitacion-formal-a-nayib-bukele-para-visitar-el-peru-el-salvador-apuesplan-ultimas-noticia/",
-   "date": "2026-10-30T02:24:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bd9c0d3ec53e",
-   "title": "Keiko Fujimori recoge modelo de El Salvador y anuncia construcción de DOS NUEVOS PENALES en Perú",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXAyN0tXbUhLZ3pGRldtQ0FITnNRQlQ4YlpRRU5vMjVFYUJZdHNOMUE0RGZrRVZrdFdBTEpONl9FWVI1MVBQZnhEWW1mRWtpNDE3MWltclJLYmZsV2E3U3NVelhyM0lxZC1uWHFoLXlWWDZUV3o5RDZQYkh4UHhzUC1iVmJ6T0U3WnlZV01CaHZubGphUk9YXzNHeGVTYVhpQWlIeGxKMEFGMG52N01lWkk2WlJ2XzJpMHd4cG1OcUpKZw?oc=5",
-   "date": "2026-10-30T02:23:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "280e897b248a",
-   "title": "Keiko Fujimori destaca el Cecot tras reunión con Bukele en El Salvador: \"Las experiencias exitosas hay que adaptarlas\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjBHYmlHamRlVmdfUWZ5QlZpRjIwdEFjdWFGVW9SZTBhS0FpdGN0eW9aTFV3SHhKOVRYRlFjeUZKVmItYVViN1Q5blVoT2M0MUhXTk9PVFZhU1VSaEFfY2ktWTJIek1VVVVXVk1DUkJHbkVIRF9uUGVKeEw4bkhoNU9FYzFhY2JNUldrTFJEVmlNeUlnMnpDaEl3LVdNSHVvRGVLNlZvel9xVGpGR3doWkIxR1JOYlpTZzNQaUJRSVc?oc=5",
-   "date": "2026-10-30T02:00:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
