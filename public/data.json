@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T13:37:24.040427+00:00",
+ "generated_at": "2026-10-30T14:20:44.587576+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -322,12 +322,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "bf44986cdb8c",
-   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
-   "date": "2026-10-30T13:31:52+00:00",
+   "id": "072f5aa36ae3",
+   "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
+   "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
+   "date": "2026-10-30T14:16:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -338,7 +338,18 @@
    "excerpt": "La declaración conjunta suscrita por Keiko Fujimori y Nayib Bukele establece una Asociación Bilateral y abre la posibilidad de negociar un Tratado de Libre Comercio entre ambas naciones como siguiente…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/30/peru-y-el-salvador-sellan-vinculos-con-acuerdos-en-justicia-salud-turismo-y-contra-el-crimen-organizado/",
-   "date": "2026-10-30T12:37:13+00:00",
+   "date": "2026-10-30T14:06:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bf44986cdb8c",
+   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
+   "date": "2026-10-30T13:31:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -559,17 +570,6 @@
    "next": null
   },
   {
-   "id": "072f5aa36ae3",
-   "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
-   "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
-   "date": "2026-10-30T01:35:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "f7bd9d10434e",
    "title": "Presidenta Keiko Fujimori y Nayib Bukele suscriben declaración conjunta para fortalecer la cooperación bilateral",
    "excerpt": "",
@@ -610,6 +610,17 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3R4MXRPLTBfZGl0V0pXeGtpd05nSHgwMldNQTliREpYZnNPT3IyYjNuVnhkcVJiSGJmcTVpX3ZXclhBYU9oZ2ZHS0ZjRmpMNDRnWVJPV2lJLWFqVjk2emwzWVMyTW9iTUNKa3pGdnE5SGxPeHhvbURFY2I0STY1MmIzNFFIbVBrQmxfVkExZzREbjU1NERPMjd2UTdNNHgwSjFFYXIxLU4tRE5LZDZhUm85U3E4VEpNZUplZEg2eHBBQQ?oc=5",
    "date": "2026-10-30T00:49:00+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "12e444d19455",
+   "title": "Keiko Fujimori declarará terroristas a bandas criminales tras conocer el modelo de seguridad y la megacárcel de El Salvador",
+   "excerpt": "Autoridades salvadoreñas recordaron que las pandillas llegaron a controlar el 83% del territorio antes de la implementación del Plan Control Territorial impulsado por Nayib Bukele desde 2019",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONkNlREF5R0QzN0ZHNlhOUW5tRks4X2tUd09BdFRWZHVaa3lEX1NJdW41Vk9oRVFaVjhYaFZpemJpSVY0NUlVUFVLQVVUd191QWI3Ml9iaGprbzB3d0dMZzRrTER2T0JSalM4MWIwMU0xckZXT3FKT2JwNkp4Q0dPNjk3allBVVBvRXYwZFE4ZGdWVTF2MTdpMjZzVVZaa3pZYkdlR0JUUnI1Y0MxdFlxbFZxVG9RYmt3dmFNS2dWQTZwMkhCRU54RDZ0ZE9TemNEUjVWUTAwSDVJVE1RZUxGeTVhRlFDd0hTdVVrYWxfNFhMbFd4Z3Fv0gGSAkFVX3lxTFBBSHN2MTVpQ2lnOWxOWkV4UkVDQjlmRGJEcmFkM0g0a0hVemdqLXJNdU41OUcySGVYX1FSNDhSRzF6NVJBa1hWUEd2ZzcyTnZ1SVFaa2t4Q1RjZVZVcGM2NGNmYTdLa08xWFg4MWdjT1A0YjBUY2Rfc1YxRlYyemRjU01yVTF2WTRabl9LYUxEdkpucmJiLVhGZGg2SlcwZ1lpY3BleE5Db1ZfWEUxRkpEdkNrRS10R1dYVjhac21nbG5zYXh4VDJhbjM1b0tBdk1BY1NpR0NQVkJYNUxUa1VCeEFpY2F3NHFaYkJJYkUtS3U3ZkVOdDVVdVdqY3ZubTZvM0FMVmhzLUl6WHppUlM1cGc?oc=5",
+   "date": "2026-10-30T00:38:00+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -758,17 +769,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa192cmlERzUxLUdicFhFZTRkaC10cWtEcUJwT3JQQWg5cHRpclE0VkZ1LU4zWmdidnRSOUhxYkE4a0tzYXZmcFR0bThveXR0bFpKZXJlczNsbWUtaEMyQjdPZFhzUDFtM0w0TXo5UFFYSmh0bmhWZzVwbW1rZERQLUZfbm5zbGFYdVNqTXgwTE5GLXBEUm1PZDltZF9mRmZ6Nlo3ekZlZWxCNlQ5dm5zQTZUWE40YnZYZHF6WGd4aWdMRE9INkQzV3pR?oc=5",
    "date": "2026-10-29T23:49:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "12e444d19455",
-   "title": "Keiko Fujimori declarará terroristas a bandas criminales tras conocer el modelo de seguridad y la megacárcel de El Salvador",
-   "excerpt": "Autoridades salvadoreñas recordaron que las pandillas llegaron a controlar el 83% del territorio antes de la implementación del Plan Control Territorial impulsado por Nayib Bukele desde 2019",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-declarara-terroristas-a-bandas-criminales-tras-conocer-el-modelo-de-seguridad-y-la-megacarcel-de-el-salvador/",
-   "date": "2026-10-29T23:38:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
