@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:05:06.952662+00:00",
+ "generated_at": "2026-10-30T23:26:29.345243+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,17 +94,7 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": {
-  "place": {
-   "name": "Casa Presidencial",
-   "city": null,
-   "lat": -12.07134,
-   "lng": -77.12822,
-   "abroad": false
-  },
-  "source": "Willax",
-  "date": "2026-10-30T03:05:02+00:00"
- },
+ "last_place": null,
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
@@ -451,6 +441,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3cc29d7f1a75",
+   "title": "Keiko Fujimori asegura que Luis Galarreta continuará en el cargo de primer ministro: \"Mi confianza es absoluta\"",
+   "excerpt": "Durante una declaración a la prensa en el marco de su visita a El Salvador, la mandataria calificó de “chismes” las versiones sobre una eventual recomposición del gabinete ministerial.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-asegura-que-luis-galarreta-continuara-en-el-cargo-de-primer-ministro-mi-confianza-es-absoluta-hnews-1360710",
+   "date": "2026-10-30T23:13:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1ba0a27a7cca",
+   "title": "Keiko Fujimori ratifica su “absoluta” confianza en primer ministro Luis Galarreta",
+   "excerpt": "Keiko Fujimori descartó una eventual salida del primer ministro Luis Galarreta y calificó de “simple chisme” las versiones sobre cambios en el Gabinete. También aclaró el papel de José Chlimper…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-ratifica-su-absoluta-confianza-en-primer-ministro-luis-galarreta-apuesplan-ultimas-noticia/",
+   "date": "2026-10-30T23:08:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7e23430df8de",
+   "title": "Presidenta Fujimori: “Gobierno impulsará la telemedicina para reducir esperas en salud”",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNQclJlV21pSUdNc1NJZ01VUWRiR01yOWpqS1pYWVRlcWtSdFNrOENfcTdKQjRYY05pLVFzckl3RGEyLXJibmxGX3FXcmk5SVowTDhIaGdLNndxb2xacXhDMlUxS1NOZHRGR1U2MXBfQmpRb3poUERJdmZVUHBUWDBrZmo3T0gyTU45YW9wMUlyZUo1OTY5MkNBQWZYUEc4bW0tSFpTTHMtSlhGdVExTUI2STZRQkJteUVyRW0zMmV6V1huZHh6U1Rn?oc=5",
+   "date": "2026-10-30T22:57:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "81c5c9f72153",
    "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
    "excerpt": "",
@@ -733,6 +756,17 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFBTa2FVOW1NY18wX1pzSFdfQTd0MndSS0EtQjhJc05PWF9VTHNIbE5zekNSTFRBOVRYNXQ3dnhjSlREbEIwM2xPTzFuZmpEUDZKRUx2QTVYR3ZiQ0lyUWZHdEI1UGZ0aEk5a2hZOFhzbVYxVDAxOXFyV3l4NW1CWEtzUHJnWnAtZ2YzWlpmM1MtWFJ5emFFSnVXRUtXMWxraDBydnR5eUU5cmVReC1TUDk4NVc3R0R2MlEzMkhMWGk0VEl4VEpNTXNjQnBmUFpULXc?oc=5",
    "date": "2026-10-30T17:09:52+00:00",
    "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dc01033fc998",
+   "title": "¿Nuevo modelo en camino? El anuncio de Keiko Fujimori sobre el sistema de justicia tras su paso por El Salvador (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd1B6N21yNzE1QmhpN0hKSXUzN05TMnZ3NHJ0QU5qUDJKY2tmeElOZnR5S0VMUG9tR2NMMHNDLTNyV3hSck9VR19GMlpXVVBYNWhyTEk2VF9jV04yRTFHbWRMYlExRGg2TWNGeFdPUTNZd2U1b045WkJETkw4aUNVNWdsSDNsUkdnZmctY2tocXJTQ1dCZWFmTU5iVVhuaDVDelgxeW9obHNOS3hQMGlOYjN0RWZCdVljUmh0NWhZYXFVNjJuY3NqNk05QzdKVnlQUXFvc0g1eHliZw?oc=5",
+   "date": "2026-10-30T17:05:09+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -1062,56 +1096,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2NLS2xKUmd2RTBOUk52UkstTDZWTUdrTEd5MEtRcVN1Tk9faUE0b3dsbmdrNWNhZ0htUzZFenFWaEI4U29TU3U4ZlNBN29Bc2t4SnU1MmtGQUZITGQzNTZHeVVMUHRlcjBRSkF4OGgxT09wTnRoSUNxaXBJRlhtSmNzTWJpWVBJQ0hjVXpEYUZMblo0a2VPdVU3Mlotc2gtWHJaR21kTHBTYUZlUzIwQlhuOWVqTlRxa01hQVFlclZBS0k?oc=5",
    "date": "2026-10-30T03:08:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "23378d9d3913",
-   "title": "Nayib Bukele ofrece a Keiko Fujimori acceso a las estrategias de seguridad de El Salvador",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSERWRjlpZEFqZUh5TE9NZVcxWDYyUU1HdVJvS2JubjVZWkFCVHJzQ1dQMDBfQkVfMjlKQXUxTlJ3RVp5TXpPYndxX0pLRlQ3UzZNbV8zS3FUQWRwTENKbGJLanhtOTBQdEYtNzdnNUJJcVA0bFl0WHpvc3Z6WVd1TXZSQUtua0ZoZnpyMkdKMnZCWTFwOVFNOXd0VEd1VmRFcGU5Sk1yVDc2WEFZenYtSEpYN0RpckNYc0h1TmYxd1VTMkJXTFZEQ3pGONIB3wFBVV95cUxNWjM4bEtvcUtZVXROX3VUelRpSTI4YzZZVWlMVUEzRWNGaXRtelV2NnByME8wVU9Yc3BJT3hYajI3bmxyNDN2NFVVQW9YOU1XUklNYzR3dDNSSXBpVDdWbzJxS21ld2lERk15TnNvZWVUQ3BXTzdvQTRIbnE0WEVtOGZSeVNTVmxVZUxuZXE1dERId2p0Tk9ITlRXSzN6alpQUElFdlNvRkZYZU9ycG5kOHFzbmVCTTFsVm5VUnFsaWJ2cXVlVGZVa2tId2ozXzExbnFnMndVemtvbmVvUlpj?oc=5",
-   "date": "2026-10-30T03:06:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0212ac9b5997",
-   "title": "Keiko Fujimori y Nayib Bukele firman acuerdos en El Salvador: claves del encuentro en Casa Presidencial",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkt1MXZCVjVHaXVYb3pGYWgtUTgtNTZIUjY4bUp6M3Nob2JvT3I5MEVqejlwc2NTWm5yNVZmdVhVY2FYcWZaSkJMQ01ZZkhmMklkbDVLT0cwb0N5WVV2QnlYdW50NkZOMnNGNGktYzQ1dDNPd3FtbllXWG5rY2tZbjJpWWl4VU9MU1FYTHh4dDZOQQ?oc=5",
-   "date": "2026-10-30T03:05:02+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Casa Presidencial",
-    "city": null,
-    "lat": -12.07134,
-    "lng": -77.12822,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "d59829c3700a",
-   "title": "Keiko Fujimori y Nayib Bukele sellan acuerdos tras reunión en Casa Presidencial de El Salvador",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbkVoWkhsVE9RMlZqTTFNTU9LTHZOVW8wY2pzOXlEZzdJZDV1V19xbzNPQUVkWTRqRC1GOG9KTWFnaEZaQUtwVzdNRzhNV0VZQkhwOHJoVy1HUXc3dk9hQzI1SUlsRUtqVHJrV0pCcGlxSUpUWmg5WGRZQ0VndHF4X0c0SmZ4ZTc4X1ZHektfY3dCSGVrTFNYS2Z0Y3U1dm43Wk5RYzFLS3NmbUdGNlh6TVJOZDFMdUhwLURqRk83X3NMdmtTbkZ4dTlTb2FvVHdMZXJRN1VVRjRLbFdhX0dETVhjRHpQeHRPS21oRGhpX1FHNF9yUjdXSnJzQzBjSmdpeEhOOUU3dm1QTl9SMGtwT1hqN1oyRjE3NVE?oc=5",
-   "date": "2026-10-30T02:50:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "366c7ea1ac6e",
-   "title": "Keiko Fujimori confirma construcción de una megacárcel modelo Bukele en Perú: “Es impresionante, presidente”",
-   "excerpt": "La mandataria anunció que evalúa construir dos penales adicionales a los previstos durante su gestión. Uno estará destinado a internos de alta peligrosidad y el otro está basado en la…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVnFtT00zd0hBOEgwSThETEpBaTEtWDUxdWJidXdOSnpQZWZSLTYxRndhS1ZiVTd6a0FWRXd0d0x3RXZrUzRtd0xrSDFEWUtEVU1rTGFrVXlDRWdRUGk1d1NtMnNCcEJZOWxzVWlSOGphS3RzNXZ3SlphWmVGZFB4clFYTFM5M05UbnBmMzNSQUp5a3Q4NFA2U2doeVhsV0FNYXdRR1hjbGZNZ0xMVWxnNDY2SlhNUWtzRzB1YjA4UVNJbUo1T0Vmc3JTYnlKSTFLMmFBQU9IM0FaMnllcFAxWWlFd0E0S3FUcEZBTGdONFZ4Y03SAY4CQVVfeXFMTUFWY1pEU19FN0hpQTBFeENqQVMweU1aQ2RMbWZyaTVLQVRjMDFFMUN6QkVrSG1xYTZOS0M2N2pUMEhJMXRCbW1KTmZWcWNxXzNia1NVVGpwemhEbTdNSW1qY3pnUVIxcVVUYUE1MGcxa1ZPT3NDcXAzVjFTa2VZLVRTOTBCeE9jVVYtX3RVRGRtYWxvRVR4NWowdGhFYkpDTlNuemZhdGVPbGtiT1AwWjNQdkI0RjNad1JLYkxXeFJtZEI1UXRSMkVJRHF2cnNQcVVlVDgzOTcxUF93ZUpFd0k5YThhQlc5bVM1UXpkX0JxOHJ0WnFrT0dIR1ZmclBOeVFaRHV5ZGdfajltZjVB?oc=5",
-   "date": "2026-10-30T02:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
