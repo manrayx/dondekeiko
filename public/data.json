@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T23:52:28.766270+00:00",
+ "generated_at": "2026-10-30T00:14:27.018259+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -310,6 +310,61 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a7a047ae4893",
+   "title": "Presidenta Keiko Fujimori y Nayib Bukele sostienen encuentro para fortalecer las relaciones bilaterales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVVVMT3F5eHJtbzBxWDRIdnNZUzBCSk5HbV9MeGRadXVwRFhNLVZaRU52ajVyUVJZdGkxVEl2U0xSMHpUZExBRjJEdUZ6RVB3bmR6ckpfcHdYdmEwdjBxZUNtc0Rna2xSby1wVEQtbzM0WkFSTHZvU3JkSjQtc1hEd19xYS1vU3B0NTVKRGlLNXo2aVE3cjlSSTNSMGRQWEtuZjgzd1hucmFWTzNWVEhwVlNHMFViS0V0MDNGdnhUQVlrbjR1REVySUs0VjFKRGsxOG5zaVljeFhPdkV6aU94eWZ3?oc=5",
+   "date": "2026-10-30T00:09:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bcdf85e7a735",
+   "title": "Keiko Fujimori se reúne con Nayib Bukele tras ceremonia de recepción en la casa presidencial de El Salvador",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNXJVYk9rUEJwWnIwbjh3VnJLd1dMVllmLXZDZnExbXgwUU5nUHFkX1d4bkdRQTYtcC1tckdMM3VHR0xadmxBbDhBSl9hekpVekF6Wl92Sm5iZkkwcmJGT3FVN3Jkb3p6ZlY1V1hMSXQ4c3Raal92bkpPY0xrZXlrcFI2MkRabExNcEFBWEVmX0M2MGhiYi1xbVM0LWoyVkhkRTFUc0hTRDBUaWpWNHBZdUhlX0tQelFIUF9vVXhzTGcxMl9pUjRpNDNqM1JtZk1qZFlua1J6VG1CY3FrSFI0RldXTzhWc0Y0X2wzeA?oc=5",
+   "date": "2026-10-30T00:05:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d485050ec5be",
+   "title": "Keiko Fujimori elogia el modelo Bukele y afirma que Perú “debilitó y persiguió” a las FF. AA. y la PNP",
+   "excerpt": "Durante su visita a El Salvador, la lideresa de Fuerza Popular defendió la política de seguridad de Nayib Bukele y responsabilizó a gobiernos posteriores por el debilitamiento de las instituciones…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/29/keiko-fujimori-elogia-el-modelo-bukele-y-afirma-que-peru-debilito-y-persiguio-a-las-ff-aa-y-la-pnp-hnews-2750157",
+   "date": "2026-10-29T23:58:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "447b0afdd827",
+   "title": "Desde El Salvador, Keiko Fujimori anuncia medidas contra las organizaciones criminales en el Perú",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2ZHV3hzdGt2YmVoQmZtbTFBTmxqMV9pOXpOSThiYmJDQ2lZSmlMUW02RklrYVZicEE3MlNJaXRBZW1YLUlpbUVLMGNXTTVqVGZlZUdVZFpPck1wRmxWaTFadDlWRWNTMzAydmtJUmh4Sk1vOVZjZG5XcjU3NFNiU3F5WmM5aG8zSlRmby1rRU9GTVNrUzMyajI2b1g0c1F0NXcwYUZtOGtsT2lmMVJaTVAxc3NsUG5EX1ZBT05kY3FGYmcyMGFCcVJFamhsNkFxaHRwZ9IB6AFBVV95cUxQMEdQTnNHMVFDMW1zZGYyUWl2RHZ5QXRNcG9ubkFCWFd5cjZnTlJidW1pVFV4c2g1b0Z4ZjZ6TnFORXVkSzM3RUtoVlBfQ0wwQ251S040Ny1uY1V6c1lFZnhmUUdYcHdwT05tQVNCWWhudDJ4cWd6ZWVIQ1VfZkdzX2g1MjNmRldlSXBQOGQ0UFJOQS1wWFJEQ2llb3RGVmF3YXNENUdzQjgzaHp0ZVFGNGVFYzVOMktyTzA5VG5PQ1IyYXlPZVkweGZUUTJIdGNWb2RVcmF4Z09TNXFGNFhWSzBEeHk2T0Fq?oc=5",
+   "date": "2026-10-29T23:55:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6cd6ef0f51ea",
+   "title": "Keiko Fujimori se reúne con Nayib Bukele en el marco de su visita oficial a El Salvador",
+   "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reúne este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
+   "date": "2026-10-29T23:52:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "242379faece1",
    "title": "Presidenta Keiko Fujimori se reúne con el mandatario de El Salvador, Nayib Bukele",
    "excerpt": "",
@@ -365,34 +420,12 @@
    "next": null
   },
   {
-   "id": "d485050ec5be",
-   "title": "Keiko Fujimori elogia el modelo Bukele y afirma que Perú “debilitó y persiguió” a las FF. AA. y la PNP",
-   "excerpt": "Durante su visita a El Salvador, la lideresa de Fuerza Popular defendió la política de seguridad de Nayib Bukele y responsabilizó a gobiernos posteriores por el debilitamiento de las instituciones…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/29/keiko-fujimori-elogia-el-modelo-bukele-y-afirma-que-peru-debilito-y-persiguio-a-las-ff-aa-y-la-pnp-hnews-2750157",
-   "date": "2026-10-29T23:20:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "f52d26b737d6",
    "title": "Presidenta Keiko Fujimori en El Salvador: visita Centro de Confinamiento del Terrorismo (CECOT)",
    "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-en-el-salvador-visita-centro-de-confinamiento-del-terrorismo-cecot-noticia/",
    "date": "2026-10-29T23:12:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6cd6ef0f51ea",
-   "title": "Keiko Fujimori se reúne con Nayib Bukele en el marco de su visita oficial a El Salvador",
-   "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reúne este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
-   "date": "2026-10-29T22:45:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -932,39 +965,6 @@
    "source": "Prensa Latina",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUJFOTVuaTZvMlZGLUpnc1dFYlljMGplTkZTRGpUbUQ5N0hrRFdLMXdpbms2T05tMVo0c0FDRkhVRWx2TGNUNi13Q1ZfT3YtRHVNZjJ5NEFtN0xwXzRWTEpTN2RPRTZLUE1NOVh0RGUxd0ZHSjhHQkVnNVN6b1ZpcW1ILU1ncTNFa3ExVU5qazIwd3NmLXhiTHVR?oc=5",
    "date": "2026-10-29T03:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8fc47e525e93",
-   "title": "Keiko Fujimori llegó a El Salvador y se reunirá con presidente Nayib Bukele",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWDk1dFdsTEt5MFI3YjB5NUdDM09FbU9icVBHX0stSkhvaXNoMHg0WGI5eW81eG03cFRIaUF6RVlBRXF4aThfdjhDU0M3eVJoTzMtamg4Vmx1Wjh6clZhSjdIUGIxak8ta1lDV0l6TndMNlBlOF90czJpblZ5R09MSGMzeUR4SzFJR2V0RXlydFdYUUxub1F6UWtfd0psdVU3Vkx5ejcxby1Cb1JtWGNyd1NYeEtPZF8zQ1JtaVNR0gHSAUFVX3lxTE1jVk1BLWx6ZFlyYlprRTlCMXhxQ0pVNkxtRlZUeEliTXlxemxyNTg0dXNPMWI1bl9FeUtCUEJZeTdnZGdCaC0yWjZoQU1TbFFaU3hrZ1Y5RW9zVEJkR0tpMHdIM3ZaQWlSeTBacnhud1ltYU1JRC1PdkEtZlZReTExbTQ3WlFCRzFxM1V5MEg3dThDX2xob0xHUEltZ2pCOHhhYmpiRVNJLWdvU2FHMDBCV1k1b1VTZWZvUUUxa0xXMGJBbDNtOGdJQVZMc3JBTWZLdw?oc=5",
-   "date": "2026-10-29T03:28:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "11ddf80a0850",
-   "title": "Keiko Fujimori llega a El Salvador para reunirse con Bukele y recorrer megacárcel Cecot",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd1VRNjZYWUhqR2hNREo2T3J6M1ZDNjJQYVU3RGRNSUZ6dFZqUGhhOENQMEN5UEppa2t5RE1jMkp4MlRVX1VkSUplMjU1cFptM1NNaU9DSm0wNm1LQ1FPZjlQMDd3ZE1kOW9ObklkZ05mZFBkZmtGNkxERmxIOTdXRVhLZ01iTUg5NjBqckVLQktqX1RLMXBiVV9xSWRNLWJIUGhKSmVITm9kYnJZTTFpWUJHMlMtVEVRYTZkem5lTW9vVHBDVGVOTWxTd054RDVIMFJWV0Vvd9IB8gFBVV95cUxNVjV2TmVncmF3QTd0ZzBTbjdwVkF5aHZkWDB4UWRaVU1renZXNWtUTlhJaTRRRUdXQjNqdkdfSEd4eUd2bjBwSnh1bEtIZW9RVEcwSFZJd3oxRzVoZjlQRC16eHNVTEhXRGI4WWtGLWlpSTF2eHlVOVpENzRHRHcyU0g0QTU3anlqN0ljeUdYaFBWS3pBeUh6WHhnM0dWVXZ5TDJCLUs1MlVYM0tMcWZEQXFCNmlXaXRPa1lfZUVTY1RGd0IyVEVPYlFYWFVCbWY5eXJOYWFCM29UaF9zazh1cXUyMEE1a0FtREJlTm9tUDVtZw?oc=5",
-   "date": "2026-10-29T03:28:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "070a5575fd50",
-   "title": "Presidenta Keiko Fujimori llega a El Salvador para fortalecer la cooperación y relaciones bilaterales",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDROa29VN1VBWENKUmhNTDBmVEc1TGZubWE5MEJPckh2aW5mRzAxcGFTNkpVWmFmN1lmckdjZmtKSEwzZnBTYk1wbXBwXzUyRUlqc3lGYUhRM2NERFZodmNKU3RoeGZXZEdqa3JXZzBVa3B5UFlBTjRpQlEzSExKNWwzRGpLTjVzekRnY1dLZVN2akdhblI5T1pyeVE4ZU9yQ2YydVVrQkhHS1FLSGR3RXkteXBRR0FKLUJkcFJuWHR5TFVZMVQ0WHd2Q013MFpXeklIQnZSZGNXSHpWWFE?oc=5",
-   "date": "2026-10-29T03:27:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
