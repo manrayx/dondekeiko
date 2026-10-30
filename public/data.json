@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T04:34:01.292447+00:00",
+ "generated_at": "2026-10-30T04:55:12.954623+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,8 +550,8 @@
    "id": "bcdf85e7a735",
    "title": "Keiko Fujimori se reúne con Nayib Bukele tras ceremonia de recepción en la casa presidencial de El Salvador",
    "excerpt": "",
-   "source": "geniostv.pe",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkNiMV81MzNBUVpObnBNdUlPYlZWeW9malQxc1BIUXR2Qnd3OXlSb2N4U1V3LW5SWFlhQmtLX3NsU1U2VEtWelpsN1p2N240Wm4wOHFxNTEzeXBMMU1mSUhmY2RTamIycE85Y1pCTWpub2laOExXdVhNT0pvbFVaUmtZNWZxTjZRVnlDNy1aM1BIc08tMS1mRkdsLXB6UVVaZEU4WVQydnVUdUxGNmtjVHB0QjNSRWVOQS1aRW5rNzhYeUZKVFNEMGJGOHNDZ3pY?oc=5",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUE5HQURNN2RheXBSYlNNTVk0VUpvTEdmbW56TFpNNFcxZXZUUE1aRm1UMWotZ3Bzc2JSaVVIMnRXMXhOSkdJNXE3aGYwWGkyaVkwZE1LVV9NMkNqME9jUHdfODZEQ0JRaXZDSVJQS1BUV1F0NVBlWHJYZDJLVE1lWFF5NkJGanUzY2xtV2xOR3lFNE11UjhjWTJaX1dmM1VQaXlOU0dVamYyX2hhWjhOTzRXR3prYVdZaVluc3U0NExIRjVjazB4RnFOaXJYRnFWUkl0SG5uanJyRFItT0xVTg?oc=5",
    "date": "2026-10-30T00:34:31+00:00",
    "state": "posando",
    "place": null,
@@ -757,6 +757,17 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPd1JCdkJOWGNqYWxNZGl1YjhlNExZYnk5anE1TEc3RGpUZGI2ZXZvLV9xSHFEdG84LW9xSHVUMmtyZThLaDZUWEstNkxJaGpBWnlTdEFmei1TWTVqUm9OTjM2b092NHB3ZmNpSGpwZk9JbzJCR01mc0RuZ3lXZlJ3SW1FVDBuUnV0ejQzWEtXQ2RaLXBEbzVQWFIyNGpoRHRuSEx5VG5iVWY3WHdkcEJRT0h5N2k1dzZwVEZBMHNjSWN4b1pqMm5INWZSaFBfRDNJVGFF?oc=5",
    "date": "2026-10-29T22:35:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "179edafd6f52",
+   "title": "Keiko Fujimori anuncia que aplicará el modelo Bukele en seis nuevas cárceles tras recorrer el CECOT",
+   "excerpt": "",
+   "source": "Revista COSAS Perú",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0hDUFZvVnNqc0RrWVNiamxYeXFQUVpLdjBfU212R0VndlN2YWh4MHRtQ2ZSSjhPclY4SjRtcEVIeHZCZFNtZVZpd2RtNFhneVpGTXlEMWtWUGxSaFBxalEyR29EdzkxQmQyQk1scGhWMl9KNHdhTlZoeXU0XzNqNTE5b2F4ckZpSUpGSDcwSDJ0TG9ycC04WFZYZVAyUEMtcDBzbDZac2dWYllHNkJCTGo0cjRZVlRadzJYQkZiQkFUbTl2OGfSAcoBQVVfeXFMTXJteXpqaTRTQUc2TWJFVVRPSExNRGY0ejJ1R2NzME9FTjhjeHBXSzhlTmxCa1RnS0NOZFM4Q1YwX0FCUllTX3BMRE9maTVFZ2FMckNzRXVlcGplWUxUQkxnWjZJcE51QWRmZ1cxQVJwLVJkMkt2OWhncGRFeURHcjU0WFVfOFZNSmtfWU5YazZpSVhONTREQTl5MGxiU253dXNUYjRJS0NvZERFbmlDelozTkdCdkJYN1MwNm40UXEtV2pWNVMzVWt0dw?oc=5",
+   "date": "2026-10-29T22:01:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1016,17 +1027,6 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVWdFeXRzcWpQSWw1NElrU2VtZURLekJaS3YxM2V0RVp3TFJkd0Fha0hRMkpFcHRZT3ZZTjVVYnJTc3ExYjZVeEhManlPU2QtRXJrNHczcy1MYzh1RzRFeXlNZmJfSXFSWFlZOWFzTFpvcjE1akJNeC1UdEUzWXAzV19pYVo4ZVNXekx5ajZLNGhNTURHWTdrNlRqdUZFOVpleFpTR3V2ekc4RFFRTEpBM0xxSzk1WFFlMDVWUFFTbDNHU21XR2RmLTJzTVJ1Si0yQUHSAdcBQVVfeXFMUERSeUgyMzdacWtneHhhSlRFOWtxaXNMMEh5dHdiX0ZGUHRrRmdwWEMtLVV4dy1lN2E0dkhrYlJEWXFmN2NNYndDMEVMaXM3SVhMNFlEbjB3RlV0WUdFN0JTSXoteDlSX2EzMkZubk9BRmRld1dwSmFjS291Q1pMYTFsRXgzcVg2cjJWNHNvaFJsc0xzeUNVdFZWcC1PY3VSRHUtSlZsbG5xZDFyc2NpMjQxR1pIb2E4blZEbTI4V2Z6UFg5TVdlVUF2Z254TjJfS1ZUTE5nM0E?oc=5",
    "date": "2026-10-29T15:02:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a3eb0b558efb",
-   "title": "President Keiko Fujimori to meet today with El Salvador’s President Nayib Bukele",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOekhiNFZlbEJTQ2pnR3hFVDlGa1dXVVpMMFZfRHNTd05wQmlrSFdtdmZFbmxtNVRZbVZ6VTRhODdJMHFpUTI4SDN0MWVJUzlNay1ielpQS29GWk5HOHZ2M3VZVFhONlJPelVPY1o4X3MxeW83SHgzR2IyM2pfSzdpQThBVHJJbVZHVTg5WGlmd2ZHZnBzSzFPTDR5aGVlV3R0dkFILXBTdi0ySUpsZTJHQVRncHdaSjRzbURZU3hQaw?oc=5",
-   "date": "2026-10-29T14:14:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
