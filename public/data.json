@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T02:45:29.515891+00:00",
+ "generated_at": "2026-10-30T03:07:42.017890+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,6 +121,40 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-29T18:39:00-05:00",
+   "end": "2026-10-29T19:37:00-05:00",
+   "minutes": 58,
+   "subject": "Declaración Conjunta con el presidente de El Salvador, Nayib Nukele, tras firma de acuerdos bilaterales en diversas materias. (Hora local)",
+   "lugar": "Casa Presidencial, San Salvador, El Salvador",
+   "state": "posando",
+   "place": {
+    "name": "Casa Presidencial",
+    "full": "Casa Presidencial, San Salvador, El Salvador",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
+   "start": "2026-10-29T18:00:00-05:00",
+   "end": "2026-10-29T18:35:00-05:00",
+   "minutes": 35,
+   "subject": "Reunión con el presidente de El Salvador, Nayib Nukele. (Hora Local)",
+   "lugar": "Casa Presidencial, San Salvador, El Salvador",
+   "state": "posando",
+   "place": {
+    "name": "Casa Presidencial",
+    "full": "Casa Presidencial, San Salvador, El Salvador",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
   {
    "start": "2026-10-29T09:30:00-05:00",
    "end": "2026-10-29T12:00:00-05:00",
@@ -316,7 +350,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 596,
+ "agenda_minutes_7d": 689,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -353,12 +387,34 @@
    "next": null
   },
   {
+   "id": "bd9c0d3ec53e",
+   "title": "Keiko Fujimori recoge modelo de El Salvador y anuncia construcción de DOS NUEVOS PENALES en Perú",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXAyN0tXbUhLZ3pGRldtQ0FITnNRQlQ4YlpRRU5vMjVFYUJZdHNOMUE0RGZrRVZrdFdBTEpONl9FWVI1MVBQZnhEWW1mRWtpNDE3MWltclJLYmZsV2E3U3NVelhyM0lxZC1uWHFoLXlWWDZUV3o5RDZQYkh4UHhzUC1iVmJ6T0U3WnlZV01CaHZubGphUk9YXzNHeGVTYVhpQWlIeGxKMEFGMG52N01lWkk2WlJ2XzJpMHd4cG1OcUpKZw?oc=5",
+   "date": "2026-10-30T02:23:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "280e897b248a",
    "title": "Keiko Fujimori destaca el Cecot tras reunión con Bukele en El Salvador: \"Las experiencias exitosas hay que adaptarlas\"",
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjBHYmlHamRlVmdfUWZ5QlZpRjIwdEFjdWFGVW9SZTBhS0FpdGN0eW9aTFV3SHhKOVRYRlFjeUZKVmItYVViN1Q5blVoT2M0MUhXTk9PVFZhU1VSaEFfY2ktWTJIek1VVVVXVk1DUkJHbkVIRF9uUGVKeEw4bkhoNU9FYzFhY2JNUldrTFJEVmlNeUlnMnpDaEl3LVdNSHVvRGVLNlZvel9xVGpGR3doWkIxR1JOYlpTZzNQaUJRSVc?oc=5",
    "date": "2026-10-30T02:00:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "07fac810d753",
+   "title": "Presidenta Fujimori: recogemos ideas de El Salvador para construir dos penales en el Perú",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWd2UUdGby1oeDhibFdTWDZfemM4ZGFBSmcwRDBkNnpYWW02dXVFQ0JsbUxvbFAydEdscFdEZEcwcUdQSEJKVmM3UnVBZEdySC10QnkwTFNiZVBmazE2NnhNY0ZfLXRHT1FaUXBST3ZBSmxHc1hHeW1GZWNSRE5EclFYc3hVTDdQSVU1cFFhRUNsRjJMS3FDd1R6MmkxV01tZTMwTHQ3dmV3TWxVTFRkSVdYWUNBUGJWNjFyRmRlTnhFUQ?oc=5",
+   "date": "2026-10-30T01:57:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -612,17 +668,6 @@
    "next": null
   },
   {
-   "id": "b9a74419da77",
-   "title": "Keiko Fujimori recorre penal de máxima seguridad en El Salvador",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb2diVGdSR2tGckhTN1V2SWxtamw1WHZ2TmNhaXFVSXhaLU9LLTdxbFhMSWZ2bVNPbkRFTnQ5LTl5THFzQlhuODZFNG5ObjlrcUoySFZxWWthdkZ3RzR3Z2lMaGpWNnN0MDhtMkhkZ0k4MW1ob2ZNSzRHWlI1SDVFR2d4RjFrcXBLLV9Lb0UxYy15bGFSMEUta1JscW9kbDJmQ1E?oc=5",
-   "date": "2026-10-29T22:58:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "8e70da3e8ed6",
    "title": "El Salvador: Keiko Fujimori visita penal, máxima seguridad",
    "excerpt": "",
@@ -640,6 +685,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
    "date": "2026-10-29T22:42:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b9a74419da77",
+   "title": "Keiko Fujimori recorre penal de máxima seguridad en El Salvador",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXpQakd6Smw3OXVkNEgxd1RncDhpSmlLOG1xWlhsUjJhb2dhQzJYTnBWVW5GQ2djenJyZmlGY3Q2YjE1aTEyUy00THJ6cjhsZFhHdl9od0pZQlBGelNRSzVPYTc0Vi01VXNIVEdwUGtJTzJrNG5tUVFMemt1QVhWc0JMc2RKdlZlay04REhtcGtleldEdXBoNW5UaU4?oc=5",
+   "date": "2026-10-29T22:37:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -854,6 +910,23 @@
    "next": null
   },
   {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-10-29T15:48:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
+   },
+   "next": null
+  },
+  {
    "id": "a622a40a55e6",
    "title": "Keiko Fujimori visitará el megapenal CECOT...",
    "excerpt": "",
@@ -951,39 +1024,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "b8eb2881e0a7",
-   "title": "Keiko Fujimori llegó a El Salvador: su encuentro con Nayib Bukele, visita al CECOT y demás actividades programadas",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMUI5bGl1cVRjRGZISUZWaWpEYUNXcThHb1JaV0RCdTNGOWtVUFV0VWRObm9RZEpya282RkNDTWlMVHRaU3dKN1RXUUpUT0w5SnVZX3ZuSHFwR2l4RVBwLXZTNW9HNk95MzhQUFJBZzBaT2taU0JhVElfZ3lVZjNHbE8zaWExRGJMZE5lZFdlOG1IdDVIM1JuTzdpNXU3RFRibDZENXd2bUhKREY0clRXM1ZadklQRjhnWEtpWTZjRnJOUm9mSGtvTnB5NDZ4ZEN6UVFjc1QxZVk2bjJ1WDFYUFE3aFFaajlMckNWUHNiZ1pUUFhLX0t1NkNHLU5Jb28?oc=5",
-   "date": "2026-10-29T13:04:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dd73eef51db3",
-   "title": "Keiko Fujimori en El Salvador: su agenda y cómo es el CECOT, la megacárcel de Nayib Bukele que visitará",
-   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
-   "source": "El Comercio",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLVE3TUZMTjdYc0dIZlFIYURXUnhlTnhhQVFDZTM0N2tvOFhZRmM5aE1scnNsY19WREQyZWpFX2FIckdpNHBpNkFBOS10V0M1TU42TGVrakNkRWpUSVh3WVZyQXhlbVNGbC1JUXZWU3E4ZTFza0s3MUZESjM3WmVzSjhSNk9UVUs3aUctU1VITjdZcDZYTW12d1ZOUl9aV05PakNkeTRoTlFoUTNoSjdhNXJXWlF5MXpRTDdfc3VjOTNQUFRCcmJSdEphejNCWmlVN2lhdFNEQ2xod9IB7gFBVV95cUxPZDQyS2pLZWYzTXdrbXFpNjJBM1UzTElQVjh3UGdwSTZGZ1pfX0hocERYTzFkajZhVEk3WGVDb2NBMkVvY2ZXMm9oUzZSTkNvRFFFSXpSbEc4RWdtLUQ2SlRjdHBJY21IRjdvXzc4ZnEtZmMzQnMyVnRhbUJVMXZvalNhZ1dEellCTmt5d2h6dFZJYVoybDFPa2dWODJOdWRmbEF6aW1QS2VjNENVaGJFR3dvUmI4Q3o2MWwwemoydWlaUlRrcmJTYk1uVHpNSXo5MnlXb2o1Z1ktTk9HTmVFNzJrMkJsTXAwdTRjUHpR?oc=5",
-   "date": "2026-10-29T12:12:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3ab6bcec8aa0",
-   "title": "Pensión 65 sube a S/700 este noviembre: ¿Cuándo se pagará el nuevo monto?",
-   "excerpt": "El Congreso aprobó el primer crédito suplementario del gobierno de Keiko Fujimori, que destinará S/288 millones 522 mil 850",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/29/pension-65-sube-a-s700-este-noviembre-cuando-se-pagara-el-nuevo-monto/",
-   "date": "2026-10-29T12:03:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1033,6 +1073,8 @@
   "casa presidencial, peru": [
    -12.07134,
    -77.12822
-  ]
+  ],
+  "casa presidencial, san salvador, el salvador, peru": null,
+  "casa presidencial, el salvador, peru": null
  }
 }
