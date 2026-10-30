@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:15:53.627356+00:00",
+ "generated_at": "2026-10-30T17:37:26.100574+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-30T09:48:00-05:00",
+   "end": "2026-10-30T11:14:00-05:00",
+   "minutes": 86,
+   "subject": "Visita y recorrido en el colegio emblemático Marcelino García Flamenco. (Hora local)",
+   "lugar": "Municipio de Santa Tecla, departamento de La Libertad, El Salvador",
+   "state": "posando",
+   "place": {
+    "name": "Municipio de Santa Tecla",
+    "full": "Municipio de Santa Tecla, departamento de La Libertad, El Salvador",
+    "city": "La Libertad",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-10-30T08:00:00-05:00",
    "end": "2026-10-30T09:24:00-05:00",
@@ -334,9 +350,42 @@
    }
   }
  ],
- "agenda_minutes_7d": 689,
+ "agenda_minutes_7d": 775,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "8470affc9ec5",
+   "title": "Keiko Fujimori visita colegio emblemático para evaluar modelo educativo en El Salvador",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, visitó el Centro Escolar Marcelino García Flamenco en la localidad de Santa Tecla, San Salvador. La jefa de Estado recorrió la infraestructura junto…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/actualidad/keiko-fujimori-visita-colegio-emblematico-para-evaluar-modelo-educativo-en-el-salvador-apuesplan-ultimas-noticia/",
+   "date": "2026-10-30T17:33:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bf44986cdb8c",
+   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
+   "date": "2026-10-30T17:24:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4cdfc33cee76",
+   "title": "Presidenta Fujimori presentó en El Salvador las oportunidades de inversión y negocios que ofrece Perú",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaU90Z2dUNGJQcVpQajNEaHE4TTZjNFN2MmkxRTBnOXNYY1lEbk1QWkNSX1N5WWNpcXQxQkhlS1VPakhPVkNURjhWUEVocWMwNzRlU2ZxMnJyczRVN3pNaHVzbVM2LXVJYUh5R0FtQm03WkFTZEFQM2VJQ0otdVp6R2o4OGFoekdya2NuOHdfWnltX2xOaVRnSlVSZUcwcjg2bWVUbEtpSEtKSk5YdEZfelpZT0EwMElTYUlCSUhBYU5La2ljY0pVMTcyclZBMTZPdnFV?oc=5",
+   "date": "2026-10-30T16:53:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "f86056cd6d7f",
    "title": "Keiko Fujimori desde El Salvador: \"Somos países distintos, pero devolver la seguridad y el orden es algo que queremos replicar\"",
@@ -377,17 +426,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXVmTG9jY3lkV0VmV3g4OExySHV3T2xsUnhvcE9pYTNxNTkyZzE0clM4Z3hkYjA2dnFOVFptc1k3VEtScW55ZXpnMkVqVEwzWG5mcVdrMjg3OTVQdHNLSTV5X2Z6YVhOaWhiUGZkdW1USGhOVFJmVFJnRVMzNlJsVkttbF8ta3Zyb3JYT1liMUxFNE5IUDFIdTZMaU5YTVg4dnQ1RXVUTzU?oc=5",
    "date": "2026-10-30T16:20:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bf44986cdb8c",
-   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
-   "date": "2026-10-30T16:05:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -986,28 +1024,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "7625691237bf",
-   "title": "Keiko Fujimori se reúne hoy con Bukele: su agenda en El Salvador y cómo es el CECOT, la megacárcel que visitó",
-   "excerpt": "Keiko Fujimori viajó a El Salvador para reunirse con Nayib Bukele y visitar el CECOT, la megacárcel de máxima seguridad. Conoce los detalles de su agenda oficial y las actividades…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
-   "date": "2026-10-29T22:42:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b9a74419da77",
-   "title": "Keiko Fujimori recorre penal de máxima seguridad en El Salvador",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXpQakd6Smw3OXVkNEgxd1RncDhpSmlLOG1xWlhsUjJhb2dhQzJYTnBWVW5GQ2djenJyZmlGY3Q2YjE1aTEyUy00THJ6cjhsZFhHdl9od0pZQlBGelNRSzVPYTc0Vi01VXNIVEdwUGtJTzJrNG5tUVFMemt1QVhWc0JMc2RKdlZlay04REhtcGtleldEdXBoNW5UaU4?oc=5",
-   "date": "2026-10-29T22:37:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1063,6 +1079,9 @@
   "san salvador, el salvador, peru": [
    -13.49121,
    -71.78126
-  ]
+  ],
+  "centro escolar marcelino garcia flamenco, peru": null,
+  "municipio de santa tecla, departamento de la libertad, el salvador, peru": null,
+  "municipio de santa tecla, el salvador, peru": null
  }
 }
