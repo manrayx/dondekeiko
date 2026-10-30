@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:14:27.018259+00:00",
+ "generated_at": "2026-10-30T00:35:34.860360+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,7 +94,17 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": null,
+ "last_place": {
+  "place": {
+   "name": "Madre de Dios",
+   "lat": -12.594,
+   "lng": -69.189,
+   "abroad": false,
+   "city": "Madre de Dios"
+  },
+  "source": "Panamericana TV",
+  "date": "2026-10-29T15:48:59+00:00"
+ },
  "next": null,
  "counts_7d": {
   "transmitiendo": 1,
@@ -310,12 +320,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b76c70d32f49",
+   "title": "Presidenta Keiko Fujimori se reune con su homólogo Nayib Bukele",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-se-reune-con-su-homologo-nayib-bukele-noticia/",
+   "date": "2026-10-30T00:27:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a7a047ae4893",
    "title": "Presidenta Keiko Fujimori y Nayib Bukele sostienen encuentro para fortalecer las relaciones bilaterales",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVVVMT3F5eHJtbzBxWDRIdnNZUzBCSk5HbV9MeGRadXVwRFhNLVZaRU52ajVyUVJZdGkxVEl2U0xSMHpUZExBRjJEdUZ6RVB3bmR6ckpfcHdYdmEwdjBxZUNtc0Rna2xSby1wVEQtbzM0WkFSTHZvU3JkSjQtc1hEd19xYS1vU3B0NTVKRGlLNXo2aVE3cjlSSTNSMGRQWEtuZjgzd1hucmFWTzNWVEhwVlNHMFViS0V0MDNGdnhUQVlrbjR1REVySUs0VjFKRGsxOG5zaVljeFhPdkV6aU94eWZ3?oc=5",
-   "date": "2026-10-30T00:09:29+00:00",
+   "date": "2026-10-30T00:11:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -326,7 +347,18 @@
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNXJVYk9rUEJwWnIwbjh3VnJLd1dMVllmLXZDZnExbXgwUU5nUHFkX1d4bkdRQTYtcC1tckdMM3VHR0xadmxBbDhBSl9hekpVekF6Wl92Sm5iZkkwcmJGT3FVN3Jkb3p6ZlY1V1hMSXQ4c3Raal92bkpPY0xrZXlrcFI2MkRabExNcEFBWEVmX0M2MGhiYi1xbVM0LWoyVkhkRTFUc0hTRDBUaWpWNHBZdUhlX0tQelFIUF9vVXhzTGcxMl9pUjRpNDNqM1JtZk1qZFlua1J6VG1CY3FrSFI0RldXTzhWc0Y0X2wzeA?oc=5",
-   "date": "2026-10-30T00:05:30+00:00",
+   "date": "2026-10-30T00:08:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1a003bf1ecb2",
+   "title": "Keiko Fujimori se reúne con Nayib Bukele en Casa Presidencial de El Salvador: mandatarios participaron en acto protocolar",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1drdjZHWFNhZ3R4dElVU09fX2YtaERPby0tSFFiaVBReVNfdHdVMUZTcWpJaUZROGdxSDJpZkZ2ekVEeWNUellzRE9Vb09qai1ySzVaVmptbkdwbjhvMHBUQzY3Y19CMlg2MGV0VTN0NUxDLVgtQi1iV3FJcjRxUU1xQlozQkpibVE?oc=5",
+   "date": "2026-10-30T00:00:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -437,6 +469,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-se-reune-con-nayib-bukele-en-el-salvador-su-agenda-y-como-es-el-cecot-la-megacarcel-que-visitara-noticia/",
    "date": "2026-10-29T22:42:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b9a74419da77",
+   "title": "Keiko Fujimori recorre penal de máxima seguridad en El Salvador",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXpQakd6Smw3OXVkNEgxd1RncDhpSmlLOG1xWlhsUjJhb2dhQzJYTnBWVW5GQ2djenJyZmlGY3Q2YjE1aTEyUy00THJ6cjhsZFhHdl9od0pZQlBGelNRSzVPYTc0Vi01VXNIVEdwUGtJTzJrNG5tUVFMemt1QVhWc0JMc2RKdlZlay04REhtcGtleldEdXBoNW5UaU4?oc=5",
+   "date": "2026-10-29T22:37:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -659,6 +702,23 @@
    "date": "2026-10-29T18:08:42+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-10-29T15:48:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
+   },
    "next": null
   },
   {
@@ -924,50 +984,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "ecc14edd1ad6",
-   "title": "Keiko Fujimori llegó a El Salvador y fue recibida con honores militares: se reunirá con Nayib Bukele",
-   "excerpt": "",
-   "source": "DSN Noticias",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzFla3c3TXR6TFh2UWZQamlEamlFN3RnQ1IyS2Z0TVpIbFlDTXdMYjNQaENPb1RINTNjdGpoYlRpREV5N1dPakNIdzg4Y1Q2d0Q5eFlIZFBoa3VpaGdUWjhQLUZxM0lveGt0ZU56RVpETWFsLWVpLWEyeTdEa1A5N2ZPMWNyN2hZRUxFYXFteVByQXZMc0UxVkVEX012NGdwWmRGalFmLXFrUEtGdFVTa2FVTWk0dw?oc=5",
-   "date": "2026-10-29T03:49:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "579ccfcda1c2",
-   "title": "Presidenta Keiko Fujimori viajó hoy a El Salvador en visita oficial",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTNqV1E2Rk1qWDFCdG0xcS1MSC00TXRGcVFZRktpU3k4MkhiZDQzLS1EWVVwbU1QSmJwUUl3Y19DS1pMcjR2eGc2NzdWVm5aWGROZEFEMlZ3dTYwUHNpZmFkM0NuQ2NVTHJ0WnhjMU9leHFKaTlGSUhERElzQ0ZFOVdwUkd2ZEtaQ1l2WEU5aHBick9VVlJ4MmtkeHRYeTJjNjJDcm83WGxQQQ?oc=5",
-   "date": "2026-10-29T03:41:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e9c455da1286",
-   "title": "Keiko Fujimori llegó este miércoles a El Salvador: todos los detalles aquí",
-   "excerpt": "",
-   "source": "altavoz.pe",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTFhNQ3ZqSGxoVlgyNDAzUldFMV9hX1Z4ci1vX0Z0bjRBaFNId2xRVDl3Sndnbzl4SDZld0dkRTZfVW5ncHJwSVBrSGM2T1ZzNklUT0ctWEt5TTFrU19WSGlMWnFRZzdVOW8xdm9wWWI1WlY0WERYZEgxVXFGTHZrMVY2N3lPYjJ6aHBlalEwYlMwWmVhbFJ3SFZ3a29YSmFlSE10cg?oc=5",
-   "date": "2026-10-29T03:40:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0708c4305d9a",
-   "title": "Keiko Fujimori arribó a El Salvador en visita oficial",
-   "excerpt": "",
-   "source": "Prensa Latina",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRUJFOTVuaTZvMlZGLUpnc1dFYlljMGplTkZTRGpUbUQ5N0hrRFdLMXdpbms2T05tMVo0c0FDRkhVRWx2TGNUNi13Q1ZfT3YtRHVNZjJ5NEFtN0xwXzRWTEpTN2RPRTZLUE1NOVh0RGUxd0ZHSjhHQkVnNVN6b1ZpcW1ILU1ncTNFa3ExVU5qazIwd3NmLXhiTHVR?oc=5",
-   "date": "2026-10-29T03:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1012,6 +1028,7 @@
   "aeropuerto internacional de el salvador san oscar arnulfo romero y galdamez, peru": null,
   "centro de confinamiento, peru": null,
   "municipio de tecoluca, departamento de san vicente, el salvador, peru": null,
-  "municipio de tecoluca, el salvador, peru": null
+  "municipio de tecoluca, el salvador, peru": null,
+  "casa presidencial de el salvador, peru": null
  }
 }
