@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T14:43:22.929271+00:00",
+ "generated_at": "2026-10-30T15:05:34.936154+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -338,6 +338,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7da03717ce48",
+   "title": "Keiko Fujimori invita a empresarios de El Salvador a que inviertan en el Perú",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, invitó a empresarios de El Salvador a que inviertan en el Perú debido a sus indicadores económicos y a la estabilidad política que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/actualidad/keiko-fujimori-invita-a-empresarios-de-el-salvador-a-que-inviertan-en-el-peru-apuesplan-ultimas-noticia/",
+   "date": "2026-10-30T14:59:57+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bf44986cdb8c",
+   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
+   "date": "2026-10-30T14:44:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "072f5aa36ae3",
    "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
    "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
@@ -355,17 +377,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/30/peru-y-el-salvador-sellan-vinculos-con-acuerdos-en-justicia-salud-turismo-y-contra-el-crimen-organizado/",
    "date": "2026-10-30T14:06:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bf44986cdb8c",
-   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
-   "date": "2026-10-30T13:31:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -523,7 +534,7 @@
    "id": "d59829c3700a",
    "title": "Keiko Fujimori y Nayib Bukele sellan acuerdos tras reunión en Casa Presidencial de El Salvador",
    "excerpt": "",
-   "source": "Diario Expreso",
+   "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbkVoWkhsVE9RMlZqTTFNTU9LTHZOVW8wY2pzOXlEZzdJZDV1V19xbzNPQUVkWTRqRC1GOG9KTWFnaEZaQUtwVzdNRzhNV0VZQkhwOHJoVy1HUXc3dk9hQzI1SUlsRUtqVHJrV0pCcGlxSUpUWmg5WGRZQ0VndHF4X0c0SmZ4ZTc4X1ZHektfY3dCSGVrTFNYS2Z0Y3U1dm43Wk5RYzFLS3NmbUdGNlh6TVJOZDFMdUhwLURqRk83X3NMdmtTbkZ4dTlTb2FvVHdMZXJRN1VVRjRLbFdhX0dETVhjRHpQeHRPS21oRGhpX1FHNF9yUjdXSnJzQzBjSmdpeEhOOUU3dm1QTl9SMGtwT1hqN1oyRjE3NVE?oc=5",
    "date": "2026-10-30T02:50:16+00:00",
    "state": "posando",
@@ -994,17 +1005,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-visita-megacarcel-cecot-de-el-salvador-antes-de-reunirse-con-nayib-bukele-ultimas-apuesplan-noticia/",
    "date": "2026-10-29T20:56:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9ff197f6cf24",
-   "title": "Presidenta Fujimori visitó el Centro de Confinamiento del Terrorismo en su primer día de actividades en El Salvador [fotos]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWXBhNTdEYVFSdHFpNlQzZTV3dWxlbGVmUlhsVElCWjJJdm00TTB4RDVoM3lwNnhnYjZIUTNqcmMtUW1FbFpyZ3IxdWx4NU83ZURwSTZ1R0Y2V1hFWTdsWkNXTjRSMTZZNDI1YkMxdm00aWhaOEtPM0xWZEhnMExTYjJhQUp3TkRnVU9iY3k0cVl6eHZDcGZkRnR6R1hjbWFDd2tYWEwydEJwNThZMTNtY0ZnR0pEdHFCYWpJc0ZwM1NyQ29rXzViVVBOVVJ4MkJXMnNSanZ5VjF6MHlvZmpkaUNySQ?oc=5",
-   "date": "2026-10-29T20:41:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
