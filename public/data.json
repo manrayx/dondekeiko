@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T15:27:08.763764+00:00",
+ "generated_at": "2026-10-30T15:48:43.546026+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -123,8 +123,8 @@
  "agenda": [
   {
    "start": "2026-10-30T08:00:00-05:00",
-   "end": "2026-10-30T08:20:00-05:00",
-   "minutes": 20,
+   "end": "2026-10-30T09:24:00-05:00",
+   "minutes": 84,
    "subject": "Participa en la ceremonia de inauguración del Encuentro Empresarial entre El Salvador – Perú. (Hora local)",
    "lugar": "San Salvador, El Salvador",
    "state": "posando",
@@ -334,7 +334,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 625,
+ "agenda_minutes_7d": 689,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
