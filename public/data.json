@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T07:47:18.904107+00:00",
+ "generated_at": "2026-10-30T08:09:23.015150+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -322,23 +322,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f1db38693a9f",
+   "title": "Fujimori y Bukele firman acuerdo de cooperación en seguridad, justicia, salud y educación",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-se-reune-con-su-homologo-nayib-bukele-noticia/",
+   "date": "2026-10-30T08:03:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c458ceafa91e",
    "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
    "date": "2026-10-30T07:19:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f1db38693a9f",
-   "title": "Fujimori y Bukele firman acuerdo de cooperación en seguridad, justicia, salud y educación",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-se-reune-con-su-homologo-nayib-bukele-noticia/",
-   "date": "2026-10-30T05:47:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -464,7 +464,7 @@
    "title": "Presidenta Fujimori: recogemos ideas de El Salvador para construir dos penales en el Perú",
    "excerpt": "",
    "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWd2UUdGby1oeDhibFdTWDZfemM4ZGFBSmcwRDBkNnpYWW02dXVFQ0JsbUxvbFAydEdscFdEZEcwcUdQSEJKVmM3UnVBZEdySC10QnkwTFNiZVBmazE2NnhNY0ZfLXRHT1FaUXBST3ZBSmxHc1hHeW1GZWNSRE5EclFYc3hVTDdQSVU1cFFhRUNsRjJMS3FDd1R6MmkxV01tZTMwTHQ3dmV3TWxVTFRkSVdYWUNBUGJWNjFyRmRlTnhFUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzA0ZjdRSGozd1l0S29zcnJibmt4MXFIYXlHeHFnRHZiLXBSM1lBanBSb2ppWlFrR0YwbmxqeDJPSHJzWlFmT3luMWJyT2pMaUhXanZ5eU9BOTdMbGJlek9IWVBKX0xvRUhldVNNTHV6bENLUjVUU293TmJ1TnJFUEZqZVNLVWNvQ1BJbndJc3FOZUdBRjI1eVNTYi1ZV0w5T1lUeEJXQUpZcE1xUGoyNUdVSC1sbERCUVdNbVR3?oc=5",
    "date": "2026-10-30T01:57:00+00:00",
    "state": "posando",
    "place": null,
