@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T03:07:42.017890+00:00",
+ "generated_at": "2026-10-30T03:29:31.028214+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -354,6 +354,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f1db38693a9f",
+   "title": "Fujimori y Bukele firman acuerdo de cooperación en seguridad, justicia, salud y educación",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-se-reune-con-su-homologo-nayib-bukele-noticia/",
+   "date": "2026-10-30T03:26:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3c5f1379b2a5",
    "title": "Keiko Fujimori invita a Nayib Bukele a visitar Perú y plantea firmar un tratado de libre comercio con El Salvador",
    "excerpt": "La presidenta dijo a su homólogo que será recibido “con los brazos abiertos” y mencionó las pupusas, uno de los platos preferidos del mandatario salvadoreño",
@@ -409,6 +420,17 @@
    "next": null
   },
   {
+   "id": "ecf9f6fea649",
+   "title": "Keiko Fujimori y Nayib Bukele firman acuerdos tras reunión en casa presidencial de El Salvador",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNXJVYk9rUEJwWnIwbjh3VnJLd1dMVllmLXZDZnExbXgwUU5nUHFkX1d4bkdRQTYtcC1tckdMM3VHR0xadmxBbDhBSl9hekpVekF6Wl92Sm5iZkkwcmJGT3FVN3Jkb3p6ZlY1V1hMSXQ4c3Raal92bkpPY0xrZXlrcFI2MkRabExNcEFBWEVmX0M2MGhiYi1xbVM0LWoyVkhkRTFUc0hTRDBUaWpWNHBZdUhlX0tQelFIUF9vVXhzTGcxMl9pUjRpNDNqM1JtZk1qZFlua1J6VG1CY3FrSFI0RldXTzhWc0Y0X2wzeA?oc=5",
+   "date": "2026-10-30T01:59:57+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "07fac810d753",
    "title": "Presidenta Fujimori: recogemos ideas de El Salvador para construir dos penales en el Perú",
    "excerpt": "",
@@ -448,17 +470,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
    "date": "2026-10-30T01:35:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ecf9f6fea649",
-   "title": "Keiko Fujimori y Nayib Bukele firman acuerdos tras reunión en casa presidencial de El Salvador",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNXJVYk9rUEJwWnIwbjh3VnJLd1dMVllmLXZDZnExbXgwUU5nUHFkX1d4bkdRQTYtcC1tckdMM3VHR0xadmxBbDhBSl9hekpVekF6Wl92Sm5iZkkwcmJGT3FVN3Jkb3p6ZlY1V1hMSXQ4c3Raal92bkpPY0xrZXlrcFI2MkRabExNcEFBWEVmX0M2MGhiYi1xbVM0LWoyVkhkRTFUc0hTRDBUaWpWNHBZdUhlX0tQelFIUF9vVXhzTGcxMl9pUjRpNDNqM1JtZk1qZFlua1J6VG1CY3FrSFI0RldXTzhWc0Y0X2wzeA?oc=5",
-   "date": "2026-10-30T01:35:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -511,8 +522,8 @@
    "id": "bcdf85e7a735",
    "title": "Keiko Fujimori se reúne con Nayib Bukele tras ceremonia de recepción en la casa presidencial de El Salvador",
    "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUE5HQURNN2RheXBSYlNNTVk0VUpvTEdmbW56TFpNNFcxZXZUUE1aRm1UMWotZ3Bzc2JSaVVIMnRXMXhOSkdJNXE3aGYwWGkyaVkwZE1LVV9NMkNqME9jUHdfODZEQ0JRaXZDSVJQS1BUV1F0NVBlWHJYZDJLVE1lWFF5NkJGanUzY2xtV2xOR3lFNE11UjhjWTJaX1dmM1VQaXlOU0dVamYyX2hhWjhOTzRXR3prYVdZaVluc3U0NExIRjVjazB4RnFOaXJYRnFWUkl0SG5uanJyRFItT0xVTg?oc=5",
+   "source": "geniostv.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkNiMV81MzNBUVpObnBNdUlPYlZWeW9malQxc1BIUXR2Qnd3OXlSb2N4U1V3LW5SWFlhQmtLX3NsU1U2VEtWelpsN1p2N240Wm4wOHFxNTEzeXBMMU1mSUhmY2RTamIycE85Y1pCTWpub2laOExXdVhNT0pvbFVaUmtZNWZxTjZRVnlDNy1aM1BIc08tMS1mRkdsLXB6UVVaZEU4WVQydnVUdUxGNmtjVHB0QjNSRWVOQS1aRW5rNzhYeUZKVFNEMGJGOHNDZ3pY?oc=5",
    "date": "2026-10-30T00:34:31+00:00",
    "state": "posando",
    "place": null,
@@ -1010,17 +1021,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcURacmJ5ZkI4c1g0dzV1cEhua1gtNzBPYnJsaG1oVVJvQmNhaFNqWkZvT3hMOHY4NnFsalBKbzhpS2xzWERVd2t4Y1dtdnVjaHBKNjB5TlpVYjMwVUJOUDlsWmlQb0N6QWQyTWVJSy05eURYNU9ZRkhmWm1sVXdMSkxMbXhBWkdIcWYtb2RUcHVOU3duR0ZOSzNNNnRmN1BsMmdISkNDYm1TYms?oc=5",
    "date": "2026-10-29T13:38:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "87698339c94e",
-   "title": "Agenda de Keiko Fujimori en El Salvador: se reunirá con Bukele y visitará megacárcel",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXRZdXRyWnRLYUpSektaS2ktQzNjWElJWHc4ckV0WExRUG9VWUQ3LWNQWUNtUERoTzI1NFpCNHJJRThzZGl4Ti1oMDM0cUloUTJEU185bFhHdC10bDFMYUJkRVYzOVltZFB5S2lpLVozY3dhbWtjVWw3QnRZd3hWS2Z2VDVZMUtxY09fVGpZeUtONGM3NDZZLUZHWDdMZGJkRjkzaVdrdkVEYzcxMXB0RmlEMDBpY1pZVDVNZm9halRtT0nSAdcBQVVfeXFMT0ZQQWczbWRYWkZUaDQ5RWlyYzVYSGdwUUxtU2pyZUhTMWxQdEhLb1JURXNGYVM1czNoVTlDSzVXM3FpSDZCdnp3aFFNR2VRbFRMU2czMWtiTkF0TWdURjlDRTd6bUQ5dngxdWdySFctY0RVX0E4TEJiWUVjdzJ3QWt4YnhLcGQ3aHpjRHd3N1p4ZFdfUVZsT3NENjNwSGVGOHp0SzRaSkVMZ0lla0JQS2h1d0xIVTg3LWQ2cnNTb0pkOVpYaV9Kc254bVQ0QlBfVk1EZ19XV1E?oc=5",
-   "date": "2026-10-29T13:22:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
