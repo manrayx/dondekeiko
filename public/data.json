@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T20:32:02.198282+00:00",
+ "generated_at": "2026-10-30T20:54:05.402460+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -370,6 +370,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "808adbada239",
+   "title": "Presidenta Keiko Fujimori visita Hospital Nacional Especializado Rosales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2dqNXppaUVZM0dnM1dLMmpRUXZFMmtJZDNOcWtaOVZNTWhWbkVLNnpxSjJoaEVBX2gxdlozS1NQWXRyN25TY0xFUFBsbDU3c2tidHhnRlF1Vk96bHhfSWV5WE9WS09WQUNjdUtFcVJPMlFmXzBhS1dfZG55Ylp0ZFA0dk5QV1JxMWJfaHFldVZoRGNjTVFnRktDWkFSTGhwSkFvcWY2aE16VjJsSFlEa1M0OHVZbXFOZlJJ?oc=5",
+   "date": "2026-10-30T20:49:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1bac729dea83",
    "title": "Keiko Fujimori visitó instalaciones de Doctor SV, programa de telesalud en El Salvador",
    "excerpt": "",
@@ -387,6 +398,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
    "date": "2026-10-30T19:24:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1f28cff27acd",
+   "title": "Keiko Fujimori a empresarios salvadoreños: Perú es un hub logístico ideal para expandir sus inversiones",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9KZHl4WjYwWHRIaGpiclZfVkpHQ3hKOUU5U3U3TVctY1NMQUxsTGpReDQ5eXhPRkhKUjBoLW13YzUyaUJIQm4waE5aLTJOTzk3dVNvblc2TUIyQ3gzT25UcENra3o0TVhZZU9GSVlEWm1pMFlFQkhVZGwyVUYxR2x1NVY5ZnBIUHJYdk5VMG52dFFPMEVPejFSdVlLWnVGQlZTeDdvZlN5bzk3TU0weWd4ZHVKcm45QUxoZ3V3eGJfWG1pRmR2bzZacEVOWER5TEV3UA?oc=5",
+   "date": "2026-10-30T19:13:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -420,17 +442,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSm03OTNNUGhWSTgxVG5jN3lSd0VKb0toZk5lVHlGU3FlTHZqdTIwSDJBQW9BZ2tidFl5NnJjcC1ud2lvSnJLVy1ac3RCMGZTc2NqRHdfMWhldTc1dzJUamlzYWdRU01rUVJ1UUhSMDBpMl9NYkI3NHNzQ3MzOENMV29SY2VhRWZXUHVMVUdVTjhhTlJMRGpCQjBkUFY0SGtiN1JxMG1ydEpjdk1pQ2pKWm1YamhGcllUZ3hPSmE1ZGpoamlFbHcyREttdmU4X0Nsc2RRYzRDRTNJQkF3M1JhMjBn?oc=5",
    "date": "2026-10-30T19:01:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1f28cff27acd",
-   "title": "Keiko Fujimori a empresarios salvadoreños: Perú es un hub logístico ideal para expandir sus inversiones",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9KZHl4WjYwWHRIaGpiclZfVkpHQ3hKOUU5U3U3TVctY1NMQUxsTGpReDQ5eXhPRkhKUjBoLW13YzUyaUJIQm4waE5aLTJOTzk3dVNvblc2TUIyQ3gzT25UcENra3o0TVhZZU9GSVlEWm1pMFlFQkhVZGwyVUYxR2x1NVY5ZnBIUHJYdk5VMG52dFFPMEVPejFSdVlLWnVGQlZTeDdvZlN5bzk3TU0weWd4ZHVKcm45QUxoZ3V3eGJfWG1pRmR2bzZacEVOWER5TEV3UA?oc=5",
-   "date": "2026-10-30T18:32:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -573,7 +584,7 @@
    "excerpt": "",
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakVfdGhET2hwclBBUkRvUTBBVU1CMkFQYVpTYjNlMGZXN2xPRFFhbFpsemhVSjAwYUR3a2pUci1sVVNSZUJmVEV5MFZzQ1pUUFZCQ3ZSZjJXcHE4aDdWV0dIdVJHM1h2SUhGLUJFSTNrYzRqWWFMWHdtb2NwVDJ5ZnlBSC1aanRlVFVkaUxndDZ0cjZwdS1xb2VXMnpQbTJfX2N3d0FxVGZJOTRuUUItWDAxUEg0R1FodnfSAb8BQVVfeXFMTW96MlBDSXA1cC1mVzA3SXRTNGpIVkZCbF8zTkhBcndvQ09tLV9xQ0M0OGk4cEhwSVBGbjROZWZjUTRzWTU4V25rVk5aSFdHWlJXV2VGUXJfYndyeUZReFlTUXhYeFh4WXFaX1dyR3RpQnZKd0dDVk9WQVhiQXVteHFWRXNXeG9CWV9VcTh2UUVlMGcySzc0dUQwT0EyQ1BuUkZqMDdxeGhEbkVETmt4R0xJaEhTQVBTRFpvbVBnakU?oc=5",
-   "date": "2026-10-30T16:42:38+00:00",
+   "date": "2026-10-30T16:43:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -607,6 +618,17 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOZ3puVFl2dHNGMEI3b2RpSU5kUEhOYVU0cW9CTWo0Q2t0eEVScUxDT1FoREdGR1FiQ1U4ZnAxRWE4VmJKMy0wU2JiU05qbWV5UjBCZTJOSWRWQkc0OU5XTUk2eUlIaGtDME1ieVdMdC1YVFpsZ2hBUl96SE9uVm1SNUdTRENuYVItM0w2VXF6TUxYTGtNci1SQ0gyZHRfWWhVQ3BKRF9SbEVFUHlkdWxBWXh1V0c4eTIwRGQzNWkyTVRmSnB2eE5ma2cxYUw3aVY1TFg4TVJIMURfSTNtdndNUURPX2hBbnZpUTBscUNRcFp4R3d2aDBlWnd0OWZ1SmlEWU1Hb0NCWGxJR0ozSHpDcmlNWk1TaTFMMHFWWkhPZFd1ZHNT?oc=5",
    "date": "2026-10-30T16:36:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "be2a09385ca5",
+   "title": "Avanza el TLC Perú-El Salvador: 14 de 19 capítulos ya están acordados, según Keiko Fujimori",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdiblJHQUV6cW1EWUlkeHY4cHdJWUhPNU5nZHNwRm9aWEFBdkozdVZWTnBvWEdPaWQ0YnZiaTI2a0FkYl9uMm1vMVh0aDI0Tzdvb252aU92dUpUR1Aydm5GSXVsdTZWa3F1SHJzUHdoX290d1NCLWItUm5ta0J4SEd1TGJTbmJmRzBEWXhHMDBod085d0lTNUNUM3UwWlEwYmZDTnNqNkI2QnVlX3RGS2lnUTZGZ2dnZ0VDZnZxWlk?oc=5",
+   "date": "2026-10-30T16:26:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1012,28 +1034,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "24bc7db150c1",
-   "title": "Keiko Fujimori y Nayib Bukele firman acuerdos para reforzar la seguridad entre Perú y El Salvador",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2Z2b0NLTTZtRHVBVk1za2JmOFhFTTd5VUpNd1FNR0docFhhZVFpMzZaaE1teXh2NFdsN3d2Vm9rbVlreUZNbzNsNHA5bXpLTHBtU0wtd19YRExmQlFqNjl0TVBZQVkwanV5MDIzQ2F0QldtODFBcENYWk14X1JGU25rYkNvbEozTkhBTW90S1RSQmxkWGNNeUMzYllLWlVZdGFxZGYtdUpBaDExaktwY0JFUThqSG9WVlVrSVhyMzNTY2h1ZmQ4X05od0tYamZlUlFNZE1R0gHqAUFVX3lxTE4zdmVKNHJBekM1UzFSbkJIdF9IbFIzSWo2LUFOWllaUmVtaUgzX0RZeDhqRFhBbjltUnd1QXFrSGlZMXBHc1RBWG9XLU9PMDBpU3BrbEdMVUFYeXl6RTY1eXpuQ19zM0p5UFUwZkRtV0VRQVI5MUczTEptTXZuREJLS19qSEJ0X0h1cEhvUzlVSlhHMC1LLVJCWTJfci1hNEJCS2IzRWEyR1dvUExEWm83eDRqTHNJcW9jVVB0V3hoeTBiUktha2Q0TEtHck5wY3BzU1dtY3JxanIyRjNEazNmSXRJRmFOWWVrdw?oc=5",
-   "date": "2026-10-30T01:11:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1f4442ab4cb2",
-   "title": "Presidenta Keiko Fujimori se reúne con el mandatario de El Salvador, Nayib Bukele [en vivo]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3R4MXRPLTBfZGl0V0pXeGtpd05nSHgwMldNQTliREpYZnNPT3IyYjNuVnhkcVJiSGJmcTVpX3ZXclhBYU9oZ2ZHS0ZjRmpMNDRnWVJPV2lJLWFqVjk2emwzWVMyTW9iTUNKa3pGdnE5SGxPeHhvbURFY2I0STY1MmIzNFFIbVBrQmxfVkExZzREbjU1NERPMjd2UTdNNHgwSjFFYXIxLU4tRE5LZDZhUm85U3E4VEpNZUplZEg2eHBBQQ?oc=5",
-   "date": "2026-10-30T00:49:00+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1092,6 +1092,7 @@
   ],
   "centro escolar marcelino garcia flamenco, peru": null,
   "municipio de santa tecla, departamento de la libertad, el salvador, peru": null,
-  "municipio de santa tecla, el salvador, peru": null
+  "municipio de santa tecla, el salvador, peru": null,
+  "hospital nacional especializado rosales, peru": null
  }
 }
