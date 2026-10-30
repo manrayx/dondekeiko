@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T19:48:26.770317+00:00",
+ "generated_at": "2026-10-30T20:32:02.198282+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,8 +111,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 58
+  "triste": 2,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -370,6 +370,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1bac729dea83",
+   "title": "Keiko Fujimori visitó instalaciones de Doctor SV, programa de telesalud en El Salvador",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3lpRjg3Qm9MbHNZZTdPNlh3aDVBenJOUHFvUWFFMnRFN0ttUlF1VkdfSl8xcFFfY1Mwd0QxSEE5NS1TUUl1QWhxS2tqNG5DSGhBUkI0elFDVUNoUk16VkVEYjE1bXZxYVZLRzItV1NDMFRvRGtxOE5fRDFGV1F3T2F5VnFEV291RmpSaU5mcFpsdVdJQmxOcnRzalhfMDR3SVpzOUs2alFWTGFmUzl1bVRzZE1sb3dJdHd1RHMtYUdueW56aVNWQVNMbVY?oc=5",
+   "date": "2026-10-30T20:13:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bf44986cdb8c",
    "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
    "excerpt": "",
@@ -451,7 +462,7 @@
    "title": "Keiko Fujimori pone la mira en colegios de Bukele y busca replicar construcciones rápidas en Perú",
    "excerpt": "",
    "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb184aU1BM2lRRnFPS05aMWJmZ1FFdndDaE0wTWcwY0pXOUU4WmNRV0dGWmlEV1dab3ZETjlhTGVmOHJWWmprYkpQczVyaGJfWW0wWmNrQWRzNGVuZGF4T2I4U3EtLUU0Z1gweno2WVRXb3RwWjhoZGhGN0prckstNkNQQzRKWXM2bFJzUDV0dkpWTmI2MW9EYURUUmxaSmk0NHpFajc5czRsenRVM0hXZVI3VWpUQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWF0cndnTkZMZEFveWtRZ0ZJUnZ6SmZ2RC1lckFDQWxGQ0JEcGZMMHA2dnBPZWQ3NGpYbGxMbDZORXFFbUJTX1cxeHVjZXRycVVxYXJ6WWpDWFNSamJ1RG1HVWZqaWRjbVNqSWJ2NFM5M0JYdnpiUF9qSUJtdHloRkdiVV9jWGlfSFd0QWVkMzM3WXotbXdOUTBfamN1a3BUM05MM3VIWUlUWktoUUt1dA?oc=5",
    "date": "2026-10-30T17:59:35+00:00",
    "state": "posando",
    "place": null,
@@ -652,6 +663,17 @@
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMG56VUoxdlg3b0RXZDZkdXRsMmY4LWk1VmM1eEJvUDRKYi1XbFRzVFltV0d0S1E4amwwNGZXU2VQVDVQdzR0LVVySTRFeWpVNU9ORnNlMk9HVVQyVUdMcC1JejJWNHlBcnJOejdTNHRSem9GbW9iRXg3TWx5THVRQ0U4YUMzUV82cmZ4TXp6MjNfYjl1ZG4zZ1plSUV3dDBwZEVnaXNyRjhqNmFPX0ZjODhfTWdIMFl4aDNPSHZMM0tELWlCREZlQU4tYlpBWGp4ZWJucUhHLU40WGM?oc=5",
    "date": "2026-10-30T15:20:42+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d2d816c94961",
+   "title": "Basombrío cuestiona viaje de Keiko Fujimori a El Salvador: “Debió hacerlo antes de asumir el cargo”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xoSW1WZUNfY3hUQ3NYbjVGZTlOMlRHUXJIeXpFWGpVVWFWMzJ4NWdZSDZwTUJaU2UwVm9VUVB5WlFZWnlRajFFamhNRDgyOGlkS1pVOE5ISVhwcFA0QU9qVHN2eFFJUWNDT0NteE9TZmF2OUxEVEdVRjFnemdKemF6elY2SVdBVktaQk9XaGhhcDVwWnpyalBtSzBEMl9XdFpZV09IMVF3YW5fWUVieWtMYWNDZklPbko4?oc=5",
+   "date": "2026-10-30T15:16:33+00:00",
+   "state": "triste",
    "place": null,
    "next": null
   },
@@ -1010,28 +1032,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ3R4MXRPLTBfZGl0V0pXeGtpd05nSHgwMldNQTliREpYZnNPT3IyYjNuVnhkcVJiSGJmcTVpX3ZXclhBYU9oZ2ZHS0ZjRmpMNDRnWVJPV2lJLWFqVjk2emwzWVMyTW9iTUNKa3pGdnE5SGxPeHhvbURFY2I0STY1MmIzNFFIbVBrQmxfVkExZzREbjU1NERPMjd2UTdNNHgwSjFFYXIxLU4tRE5LZDZhUm85U3E4VEpNZUplZEg2eHBBQQ?oc=5",
    "date": "2026-10-30T00:49:00+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "12e444d19455",
-   "title": "Keiko Fujimori declarará terroristas a bandas criminales tras conocer el modelo de seguridad y la megacárcel de El Salvador",
-   "excerpt": "Autoridades salvadoreñas recordaron que las pandillas llegaron a controlar el 83% del territorio antes de la implementación del Plan Control Territorial impulsado por Nayib Bukele desde 2019",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONkNlREF5R0QzN0ZHNlhOUW5tRks4X2tUd09BdFRWZHVaa3lEX1NJdW41Vk9oRVFaVjhYaFZpemJpSVY0NUlVUFVLQVVUd191QWI3Ml9iaGprbzB3d0dMZzRrTER2T0JSalM4MWIwMU0xckZXT3FKT2JwNkp4Q0dPNjk3allBVVBvRXYwZFE4ZGdWVTF2MTdpMjZzVVZaa3pZYkdlR0JUUnI1Y0MxdFlxbFZxVG9RYmt3dmFNS2dWQTZwMkhCRU54RDZ0ZE9TemNEUjVWUTAwSDVJVE1RZUxGeTVhRlFDd0hTdVVrYWxfNFhMbFd4Z3Fv0gGSAkFVX3lxTFBBSHN2MTVpQ2lnOWxOWkV4UkVDQjlmRGJEcmFkM0g0a0hVemdqLXJNdU41OUcySGVYX1FSNDhSRzF6NVJBa1hWUEd2ZzcyTnZ1SVFaa2t4Q1RjZVZVcGM2NGNmYTdLa08xWFg4MWdjT1A0YjBUY2Rfc1YxRlYyemRjU01yVTF2WTRabl9LYUxEdkpucmJiLVhGZGg2SlcwZ1lpY3BleE5Db1ZfWEUxRkpEdkNrRS10R1dYVjhac21nbG5zYXh4VDJhbjM1b0tBdk1BY1NpR0NQVkJYNUxUa1VCeEFpY2F3NHFaYkJJYkUtS3U3ZkVOdDVVdVdqY3ZubTZvM0FMVmhzLUl6WHppUlM1cGc?oc=5",
-   "date": "2026-10-30T00:38:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b76c70d32f49",
-   "title": "Presidenta Keiko Fujimori se reúne con su homólogo Nayib Bukele",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-se-reune-con-su-homologo-nayib-bukele-noticia/",
-   "date": "2026-10-30T00:37:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
