@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:38:16.486290+00:00",
+ "generated_at": "2026-10-30T21:59:56.886345+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -122,6 +122,23 @@
  },
  "agenda": [
   {
+   "start": "2026-10-30T11:55:00-05:00",
+   "end": "2026-10-30T12:25:00-05:00",
+   "minutes": 30,
+   "subject": "Reunión de trabajo con representantes del UNICEF ((Fondo de las Naciones Unidas para la Infancia), con participación de la ministra de Desarrollo e Inclusión Social, Maritza Canales Martínez, y la secretaria general de la PCM, Katushka Tapia Solari.",
+   "lugar": "Sala Javier Pérez de Cuellar – Presidencia del Consejo de Ministros",
+   "state": "posando",
+   "place": {
+    "name": "Sala Javier Pérez de Cuellar – Presidencia del Consejo de Ministros",
+    "full": "Sala Javier Pérez de Cuellar – Presidencia del Consejo de Ministros",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
    "start": "2026-10-30T11:24:00-05:00",
    "end": "2026-10-30T13:00:00-05:00",
    "minutes": 96,
@@ -150,6 +167,22 @@
     "city": "La Libertad",
     "lat": -8.112,
     "lng": -79.029,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-30T09:45:00-05:00",
+   "end": "2026-10-30T10:00:00-05:00",
+   "minutes": 15,
+   "subject": "Supervisión del inicio de operaciones del segundo módulo de control de acceso al penal Ancón I.",
+   "lugar": "Establecimiento Penitenciario Ancón I, Lima",
+   "state": "posando",
+   "place": {
+    "name": "Establecimiento Penitenciario Ancón I",
+    "full": "Establecimiento Penitenciario Ancón I, Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
     "abroad": false
    }
   },
@@ -398,7 +431,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 1051,
+ "agenda_minutes_7d": 1096,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -1131,6 +1164,8 @@
   "distrito de casitas, region tumbes, peru": [
    -4.09075,
    -80.68848
-  ]
+  ],
+  "sala javier perez de cuellar – presidencia del consejo de ministros, peru": null,
+  "establecimiento penitenciario ancon i, lima, peru": null
  }
 }
