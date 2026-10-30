@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T15:05:34.936154+00:00",
+ "generated_at": "2026-10-30T15:27:08.763764+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -338,12 +338,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "7da03717ce48",
-   "title": "Keiko Fujimori invita a empresarios de El Salvador a que inviertan en el Perú",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, invitó a empresarios de El Salvador a que inviertan en el Perú debido a sus indicadores económicos y a la estabilidad política que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/actualidad/keiko-fujimori-invita-a-empresarios-de-el-salvador-a-que-inviertan-en-el-peru-apuesplan-ultimas-noticia/",
-   "date": "2026-10-30T14:59:57+00:00",
+   "id": "dbf625d54dba",
+   "title": "Presidenta Keiko Fujimori promoverá oportunidades de inversión y comercio con El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUC1OMHhKMGFUSVdiOWJGUmlkektiYkg3QlBwbkpnV2RtanczdXZpeW91VHd5RTUtdUU3TWszSnZta2xZWXMzZHNmTUtRaGR2cC1VT0JldzRNSFktdUtGdmJpRFJYNUJ2cFltVmVZcl85cmtzWF9mWXpMbVBYWW9HNHNoVmF2emVkSWxrMGJDdVUtdDVqMGJBOWd1Yi1qYVNnRTlQWUlTMEhWVEFFVmFRTTdHZEFVT3pYb1ducUZIOGxKQ3ZjOW5vYXhB?oc=5",
+   "date": "2026-10-30T15:15:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -354,7 +354,18 @@
    "excerpt": "",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
-   "date": "2026-10-30T14:44:13+00:00",
+   "date": "2026-10-30T15:05:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7da03717ce48",
+   "title": "Keiko Fujimori invita a empresarios de El Salvador a que inviertan en el Perú",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, invitó a empresarios de El Salvador a que inviertan en el Perú debido a sus indicadores económicos y a la estabilidad política que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/actualidad/keiko-fujimori-invita-a-empresarios-de-el-salvador-a-que-inviertan-en-el-peru-apuesplan-ultimas-noticia/",
+   "date": "2026-10-30T14:59:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -377,6 +388,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/30/peru-y-el-salvador-sellan-vinculos-con-acuerdos-en-justicia-salud-turismo-y-contra-el-crimen-organizado/",
    "date": "2026-10-30T14:06:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "df4a507fa289",
+   "title": "Keiko Fujimori invitó a Bukele al Perú y plantea firmar un TLC con El Salvador",
+   "excerpt": "",
+   "source": "Revista COSAS Perú",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFN2WWhCV2p6ZU03ZnYzb2Fjb3MxRjBGbUNfRUVVU1BHOEZiRHhXOTdZZ1ZhZ3hxdFJBQ0VRSThfWF9tcXhfV1hxQ1VsdXdKRVR1VDZobjN0cmVsYnpuOXRoMnIwQW5VUndlSlF4MzFobTBOZW9JRG42NzRXbjNVLWpHaEs3N2xkdGhZU2k3VmltZ1l4QURTaDB0dGl3RHZnWXVUMjltY9IBqwFBVV95cUxPYzJBRnM4S3haYU1jVlZiUXlPODNfbERtdWRoZklVNk1zNmVuT2xlcjJuekdQS0NDUUx0SmRVNWNJN0sxcGQ1Wkg1Rnp4WElvTGN6LVdnczlteERkVVVPMktfUjJMVTUyVUcxMVlGaS14bWo0VmdJQVpGU1RRbGgxeHVaNUZRVXZGZ1VFVXZjclJ3a3BHU1oycUR2dkExM3BKOENPTUY0VVRwZmc?oc=5",
+   "date": "2026-10-30T13:25:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -984,28 +1006,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeTQzc2s1QWE2NkZqeE5DTUgtRXB1aS1EUXE5NkJfUFpncTkzd1I0QTFIckxOWUtmV2VpN1JHam1aX1dmN3hLM2oyOEJnOWtUSFFIMDI0VGs5N2xHb09BQnUwZmhqUHZEYWRFQkVlSWZLRktJVkIzQkM2cl8xRnJwUmZqZmFKUzdFZ1c1S09CeUkwek9YMUh4WXlBT01PNTZ3aHd4dW1rdzlWS1Yzek9RaVhvSEpJcXN2QUNTUUdn?oc=5",
    "date": "2026-10-29T21:31:05+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d6ab55ffe706",
-   "title": "Presidenta Keiko Fujimori inspecciona instalaciones del CECOT, megacárcel de máxima seguridad de El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOVNvTWpxdmwwb2tBcGZyUXZtV1RTSTFOUENib0FwMWlmVFVMTS1yWDBfdlVrWDFMendKQzZ4VnkxSmZnOUJPMF9PWk5ZNFlTUHBldUhCMTdTRk1jcGFkLTRPdXNKVi1UaVFReUxLWDdSX2EtOEdhSkJHeXpocFNVaFAwSFNrRmRST2M2bGpFUkxpRWVOaU9SZHBkT0tVYVNiRnJlbmxzbV9Ic1dlVUtYa1JLMW13UzV4M3FWdHlOcFA2Zk5DUHR0aXFvSURRRWkxZHhyOVEzUE54enVqLUlv?oc=5",
-   "date": "2026-10-29T21:09:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ffc151cf2d55",
-   "title": "Keiko Fujimori recorre megacárcel CECOT de El Salvador antes de reunirse con presidente Bukele",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, visitó este jueves el Centro de Confinamiento del Terrorismo (CECOT), la prisión de máxima seguridad de El Salvador, como primera actividad de su…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-visita-megacarcel-cecot-de-el-salvador-antes-de-reunirse-con-nayib-bukele-ultimas-apuesplan-noticia/",
-   "date": "2026-10-29T20:56:16+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
