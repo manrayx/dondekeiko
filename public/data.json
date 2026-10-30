@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T03:29:31.028214+00:00",
+ "generated_at": "2026-10-30T03:51:28.395634+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "lng": -77.12822,
    "abroad": false
   },
-  "source": "Infobae",
-  "date": "2026-10-30T00:11:23+00:00"
+  "source": "Willax",
+  "date": "2026-10-30T03:03:08+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -354,14 +354,42 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "16935394a184",
+   "title": "Bukele le dice a Fujimori que no se puede replicar el modelo salvadoreño en Perú: \"Copiarlo idéntico no tendría sentido\"",
+   "excerpt": "Durante la visita de Keiko Fujimori, Bukele destacó que las situaciones de inseguridad en ambos países son diferentes y no se pueden abordar con las mismas medidas. El mandatario salvadoreño…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/29/bukele-le-dice-a-fujimori-que-no-se-puede-replicar-el-modelo-salvadoreno-en-peru-copiarlo-identico-no-tendria-sentido-hnews-1292298",
+   "date": "2026-10-30T03:49:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f1db38693a9f",
    "title": "Fujimori y Bukele firman acuerdo de cooperación en seguridad, justicia, salud y educación",
    "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-se-reune-con-su-homologo-nayib-bukele-noticia/",
-   "date": "2026-10-30T03:26:08+00:00",
+   "date": "2026-10-30T03:27:08+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "0212ac9b5997",
+   "title": "Keiko Fujimori y Nayib Bukele firman acuerdos en El Salvador: claves del encuentro en Casa Presidencial",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkt1MXZCVjVHaXVYb3pGYWgtUTgtNTZIUjY4bUp6M3Nob2JvT3I5MEVqejlwc2NTWm5yNVZmdVhVY2FYcWZaSkJMQ01ZZkhmMklkbDVLT0cwb0N5WVV2QnlYdW50NkZOMnNGNGktYzQ1dDNPd3FtbllXWG5rY2tZbjJpWWl4VU9MU1FYTHh4dDZOQQ?oc=5",
+   "date": "2026-10-30T03:03:08+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Casa Presidencial",
+    "city": null,
+    "lat": -12.07134,
+    "lng": -77.12822,
+    "abroad": false
+   },
    "next": null
   },
   {
@@ -999,28 +1027,6 @@
    "source": "La Decana Radio Juliaca",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1pTTW1iS04xZ2Q2MGQzX0phYnQzSWdUMFRpVGtJQk5POUxhWFVOX0ZXNjVyLWFHZFhvc3A5UnQxeGZ1VENrQWg4dFlFWjcxWmZXMFlERXdUSmswRlNvZGxNM3FkOEhYbjBSWjlwWGZQMndMVEhfcG9mNkpOdnhJVlZ6QzNhRkxO?oc=5",
    "date": "2026-10-29T14:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "40cc8e56e3fd",
-   "title": "Bukele no fue a recibir a Keiko Fujimori a su llegada a El Salvador",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTBMVjB0SHpzSEd2a3lqbzZSbEszZkNTV3JzanRLUHRmSVVUTmZ1eHB2TjhDcFJweWdfWkpoS0NrTUZNVlJXY01LLVJtNU81OTNpY1pzTUJTY3FQdTY2VDV2ODN0cUxxM3hUOXhZNmdPSmZNMkgwNjdwVFluSmo1UUM5dlYtRlJtUjR6YU5VeEtNN1B5?oc=5",
-   "date": "2026-10-29T13:47:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "243dc3526935",
-   "title": "Keiko Fujimori llegó a El Salvador para reunirse con Bukele y visitar el CECOT",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcURacmJ5ZkI4c1g0dzV1cEhua1gtNzBPYnJsaG1oVVJvQmNhaFNqWkZvT3hMOHY4NnFsalBKbzhpS2xzWERVd2t4Y1dtdnVjaHBKNjB5TlpVYjMwVUJOUDlsWmlQb0N6QWQyTWVJSy05eURYNU9ZRkhmWm1sVXdMSkxMbXhBWkdIcWYtb2RUcHVOU3duR0ZOSzNNNnRmN1BsMmdISkNDYm1TYms?oc=5",
-   "date": "2026-10-29T13:38:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
