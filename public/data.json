@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T19:04:55.757022+00:00",
+ "generated_at": "2026-10-30T19:27:00.291712+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -370,6 +370,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "bf44986cdb8c",
+   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
+   "date": "2026-10-30T19:24:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4cdfc33cee76",
+   "title": "Presidenta Fujimori presentó en El Salvador las oportunidades de inversión y negocios que ofrece el Perú",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTd4cnBEUExrTVJ6eFlndEZ0d0t5b0hQUm51TTRucEVkQ1BEcnJGVW9Zb0k0dklyYndzaFZ3NlZRaXZWY3haSWl5b2hiZnpSVl9fMVNUeFFZcm0wVzc3SUpyLUttbEVaa2piUVpLNW0xZ2JENWM3dVNXZllQSVNFR2VZd1dWc2tfUmJWc1RZZUhPcl9pT21OUWctbjNYSEVxb3VUUTItcENYRjd5RzV3d0wwdGMtZTVvcUdqLVltVGNuelJEVm0zejVxdlBOX0l5VXFHMHFObw?oc=5",
+   "date": "2026-10-30T19:06:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1f28cff27acd",
    "title": "Keiko Fujimori a empresarios salvadoreños: Perú es un hub logístico ideal para expandir sus inversiones",
    "excerpt": "",
@@ -425,17 +447,6 @@
    "next": null
   },
   {
-   "id": "4cdfc33cee76",
-   "title": "Presidenta Fujimori presentó en El Salvador las oportunidades de inversión y negocios que ofrece Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaU90Z2dUNGJQcVpQajNEaHE4TTZjNFN2MmkxRTBnOXNYY1lEbk1QWkNSX1N5WWNpcXQxQkhlS1VPakhPVkNURjhWUEVocWMwNzRlU2ZxMnJyczRVN3pNaHVzbVM2LXVJYUh5R0FtQm03WkFTZEFQM2VJQ0otdVp6R2o4OGFoekdya2NuOHdfWnltX2xOaVRnSlVSZUcwcjg2bWVUbEtpSEtKSk5YdEZfelpZT0EwMElTYUlCSUhBYU5La2ljY0pVMTcyclZBMTZPdnFV?oc=5",
-   "date": "2026-10-30T17:36:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "8470affc9ec5",
    "title": "Keiko Fujimori visita colegio emblemático para evaluar modelo educativo en El Salvador",
    "excerpt": "La presidenta de la República, Keiko Fujimori, visitó el Centro Escolar Marcelino García Flamenco en la localidad de Santa Tecla, San Salvador. La jefa de Estado recorrió la infraestructura junto…",
@@ -458,12 +469,12 @@
    "next": null
   },
   {
-   "id": "bf44986cdb8c",
-   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
+   "id": "8ba600fd7e63",
+   "title": "Presidenta Keiko Fujimori visitó colegio emblemático en El Salvador",
    "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
-   "date": "2026-10-30T17:24:16+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckQ3YkJpRTFkdjZEcmZWdWJXM2xqVGdtU3NqRnNyd1BUTmgyLVI2MVZiUHhwcUI5WmJJS1Jvd2F2UzB2eWFpOUhKTl9kSEYyeFZaQXZwWV81a0J0WWh1Q2hjeTV4WFhRUVduM3dPczZXc3o1cUl3a1NSREE3TWZuWkZhbFUxYncxWHFPbm1MZzNadE9RdlRWZXk4VFpDdlROeFBoUnZn?oc=5",
+   "date": "2026-10-30T17:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1020,17 +1031,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFBTZlM1R2VzX3VBYUFFbmF6RngydzQxdThic3NuY3B1QUJiVW5zOWw3dU9uM0d5U3h4MDdueG1zLW1GQ0M5c0thYzhBYllONjNFRXVUZ0w5VmpUSG4xaEJ0d3dHcXR4SzRJYmk3LW1fbEUzY1EwOXNZWWFrYzVRY0toOVRNRWtYZUhXeHd1dkY3NTNYUVU2LTFlMWZuTUdSRWxieGt4NU9FRmJZaHNoVTJn?oc=5",
    "date": "2026-10-30T00:15:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7684f9c4b579",
-   "title": "Presidenta Keiko Fujimori se reúne con Nayib Bukele, mandatario de El Salvador, en su visita oficial",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOFh6LXBZSTBrU29BbkxSTk1VYmNrTGIzNVloSXRBY3dDV1B4bW5lanVVbkJNRVM1ZVVqUmdyTGRXdnBjeDN1ZW1BWjE4RUNUejNOWm4zTlB1b3Z4emNLY01SWEE1WnJ2QTN0SWY2R3dKMlhlUHBWWUtMUE5QbDkxSFgycEpaX1pQWFE4ZnZrZlM0R2dMcC16QmVuUjQyZTlib05YZURZZnQwMGlsd2V6NHFLMW8xb1pxLUxfcGtHb3BjTjY0TUhyVU9XN1pkeU3SAeMBQVVfeXFMTWpqUUh0Mm1tYXpwOXEzZU9JcGxNYU56d1FPRkhWNXlrYXdCYko2LUtuQm9hM0hKa2lpVl84VUY2ZUJ1VkhMY0w2OUFneXhaVlpGVGlYLXlqejE5N2w1TWhxdU1vN3NxdTIxa0xObjc0UGNjbnlSTEpGY0xBZFhNMkV1Z2xvM21qNVBhdWxVRjAzVDhlR3ExWXhtbVVuVF9Tbm5vREN1cGpneHppMXp5U2VhZnZhNFBSREkwVjVYa3VRa2gwdE54dHBBNU5kbjFKNG8xbW1oNDhtelB1djB0aXdRbE0?oc=5",
-   "date": "2026-10-30T00:13:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
