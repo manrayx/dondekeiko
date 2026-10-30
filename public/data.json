@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T02:23:22.583568+00:00",
+ "generated_at": "2026-10-30T02:45:29.515891+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -320,6 +320,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3c5f1379b2a5",
+   "title": "Keiko Fujimori invita a Nayib Bukele a visitar Perú y plantea firmar un tratado de libre comercio con El Salvador",
+   "excerpt": "La presidenta dijo a su homólogo que será recibido “con los brazos abiertos” y mencionó las pupusas, uno de los platos preferidos del mandatario salvadoreño",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-invita-a-nayib-bukele-a-visitar-peru-y-plantea-firmar-un-tratado-de-libre-comercio-con-el-salvador/",
+   "date": "2026-10-30T02:39:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c458ceafa91e",
+   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
+   "date": "2026-10-30T02:29:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "49a2889e1255",
+   "title": "Keiko Fujimori anuncia que entregó invitación formal a Nayib Bukele para visitar el Perú",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, anunció este jueves 29 de octubre que entregó una invitación formal a su homólogo de El Salvador, Nayib Bukele, para visitar el Perú…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-anuncia-que-entrego-invitacion-formal-a-nayib-bukele-para-visitar-el-peru-el-salvador-apuesplan-ultimas-noticia/",
+   "date": "2026-10-30T02:24:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "280e897b248a",
    "title": "Keiko Fujimori destaca el Cecot tras reunión con Bukele en El Salvador: \"Las experiencias exitosas hay que adaptarlas\"",
    "excerpt": "",
@@ -337,17 +370,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
    "date": "2026-10-30T01:49:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3c5f1379b2a5",
-   "title": "Keiko Fujimori invita a Nayib Bukele a visitar Perú y plantea firmar un tratado de libre comercio con El Salvador",
-   "excerpt": "La presidenta dijo a su homólogo que será recibido “con los brazos abiertos” y mencionó las pupusas, uno de los platos preferidos del mandatario salvadoreño",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-invita-a-nayib-bukele-a-visitar-peru-y-plantea-firmar-un-tratado-de-libre-comercio-con-el-salvador/",
-   "date": "2026-10-30T01:41:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -397,17 +419,6 @@
    "next": null
   },
   {
-   "id": "c458ceafa91e",
-   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
-   "date": "2026-10-30T01:19:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "1f4442ab4cb2",
    "title": "Presidenta Keiko Fujimori se reúne con el mandatario de El Salvador, Nayib Bukele [en vivo]",
    "excerpt": "",
@@ -444,8 +455,8 @@
    "id": "bcdf85e7a735",
    "title": "Keiko Fujimori se reúne con Nayib Bukele tras ceremonia de recepción en la casa presidencial de El Salvador",
    "excerpt": "",
-   "source": "geniostv.pe",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkNiMV81MzNBUVpObnBNdUlPYlZWeW9malQxc1BIUXR2Qnd3OXlSb2N4U1V3LW5SWFlhQmtLX3NsU1U2VEtWelpsN1p2N240Wm4wOHFxNTEzeXBMMU1mSUhmY2RTamIycE85Y1pCTWpub2laOExXdVhNT0pvbFVaUmtZNWZxTjZRVnlDNy1aM1BIc08tMS1mRkdsLXB6UVVaZEU4WVQydnVUdUxGNmtjVHB0QjNSRWVOQS1aRW5rNzhYeUZKVFNEMGJGOHNDZ3pY?oc=5",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUE5HQURNN2RheXBSYlNNTVk0VUpvTEdmbW56TFpNNFcxZXZUUE1aRm1UMWotZ3Bzc2JSaVVIMnRXMXhOSkdJNXE3aGYwWGkyaVkwZE1LVV9NMkNqME9jUHdfODZEQ0JRaXZDSVJQS1BUV1F0NVBlWHJYZDJLVE1lWFF5NkJGanUzY2xtV2xOR3lFNE11UjhjWTJaX1dmM1VQaXlOU0dVamYyX2hhWjhOTzRXR3prYVdZaVluc3U0NExIRjVjazB4RnFOaXJYRnFWUkl0SG5uanJyRFItT0xVTg?oc=5",
    "date": "2026-10-30T00:34:31+00:00",
    "state": "posando",
    "place": null,
@@ -749,7 +760,7 @@
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSk81YjUtYk9POGlPOEp6V1psNXJHT29ndkdTVXVNM3Z1V0ZFWWRUcjh0YjRLODBEUVF2d1V5U2lDMndYVU1zSGdNWnBMMzlJVUdBeUFmVE81MlY4V3dVaWJuaURPc2t4LUU4QUQxcG5FTElQQmhmeVNRVmhrNzBLS0QwUGdpcExJN01wYW85cEZ3ZmNvZUxuNlJUOGlIZnFKWjdrZFBkOFB2Nldpdk0xbExhQ3I2dmhacFlCNXZfNG1ZaERRREtqMXRJUjFBZw?oc=5",
-   "date": "2026-10-29T20:30:01+00:00",
+   "date": "2026-10-29T20:32:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -970,17 +981,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/29/pension-65-sube-a-s700-este-noviembre-cuando-se-pagara-el-nuevo-monto/",
    "date": "2026-10-29T12:03:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "34a0cf371014",
-   "title": "Keiko Fujimori se reúne hoy con Nayib Bukele en El Salvador",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS0E3cmJ4SDFucXdDeWV1aExoME1aWUFJMTBVR1piUjdGOVlYSjFYX212WUxwUHIwNFpiODFYWExaMWdvNVJON3pUcWZmbmg2NlBicUdQS25HNEZtdDZYOG1Zam9SVlRfWi03eWw1ZEJwQnFSWlBEbWxHellRS1hRV2c4dXZBMWh0a3F1Q1hTbk01dnhrZlBMZ1l5Xy12QjdYNWlz0gG3AUFVX3lxTE9fTzIwNE1yS0YyN09zOEoxM1M0eGpsVjhHbzVEWnUwbHdSZnhkdnpHV25CTkdqRDFDQkVkZV90Qkw3QWNldGFkd0JrZFg2YkR3YW40ZXE4bmlkOUdCdUk2MTVPT09LQ011MzRQN2RCUWdIMkdIT2xLQzF3b01Ebi1SOWgzQVdjS2pDeTVONVp2QTRsdGpLQzJRNUR5V3BDRXNjc1NSQmd5akhabnVzV0lyeG5YV0tlMA?oc=5",
-   "date": "2026-10-29T12:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
