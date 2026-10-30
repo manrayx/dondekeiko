@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T17:37:26.100574+00:00",
+ "generated_at": "2026-10-30T18:00:16.900010+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -354,6 +354,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7e2a7f2fb568",
+   "title": "Alvina Ruiz respalda el viaje de Keiko Fujimori a El Salvador: “Es una mujer que tiene mano dura y cumple sus promesas”",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVFpc0c4WEVDczZSZV9Lb2xJOUcxcElCTXJscE11X3pzRThhSUl5NFNkYVVBbzJncnJ0enZqZjdWS3ppXzMxZHRBVTlCd3RDLXhEandlc3dUOVgwUEJva0ZoOGFYZkJWb1d2Tmd4M2I4NUMzTllkdVR5LU5xQXdrNWpJVjNVSmc2bjFEMWIzZ1J0NU15TEE?oc=5",
+   "date": "2026-10-30T17:53:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5e14118369d5",
+   "title": "La presidenta Keiko Fujimori conoció aulas con inteligencia artificial en El Salvador",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHkxXzBYQ3VJOEpCTUppQ1RkTWRoT0t3dFFZaXNwdUh0bWltTGM3V2NIRTI0c1p0RTlPRGM4a0ttVWJkLUtzd3JyWnJ6NGJPLThpMDk4TDMtU010SGV4bkg3Q2VkUnBFY1J6S2dfaUxtTnQxbVgyVTN2UzNwTF9GZ3FhbVFxelBITXhfNE9PeUJDN0pEd3BjeFlXN05OQVlDanpRVFZfTlI3YWV0VVBpRmNkbm1vS3VNeWVlSTZ3dTJTRUFpVE4zRHd4YWljQdIB6AFBVV95cUxQMHkzNjQ4amxXbGM5TGN2N09mQTB2X0luZWViOEM3dF9MQVI4dkhlek5kQkhJeXdheFF5aVZpRURaOFdmZUllcmZRWWd2d3pYaDZlV0lBR3dwakVBbmsxeG5QS28yMy0zbTljb0gwUFlXLWIyeTA3dkI1M0F2d213LWpoZGlDRXN3S1pWc2d2VGdJX0FuSjBaYTd5TFFyQW54dk1EbWpydG9WN1ZiVGlKdHNCMDFJRlNFRWhrS21vVTV4QkRObDU4NGtSbnFBMFRLVGM3OW10VVEzREVJamY4aXoxWUtQbGtZ?oc=5",
+   "date": "2026-10-30T17:52:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8470affc9ec5",
    "title": "Keiko Fujimori visita colegio emblemático para evaluar modelo educativo en El Salvador",
    "excerpt": "La presidenta de la República, Keiko Fujimori, visitó el Centro Escolar Marcelino García Flamenco en la localidad de Santa Tecla, San Salvador. La jefa de Estado recorrió la infraestructura junto…",
@@ -618,6 +640,17 @@
    "next": null
   },
   {
+   "id": "3c5f1379b2a5",
+   "title": "Keiko Fujimori invita a Nayib Bukele a visitar Perú y plantea firmar un tratado de libre comercio con El Salvador",
+   "excerpt": "La presidenta dijo a su homólogo que será recibido “con los brazos abiertos” y mencionó las pupusas, uno de los platos preferidos del mandatario salvadoreño",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTkJJYnpOVFNCMkhkeTZZMWo5TTJLckhra2Z3VTc5cmlkNDhleUdqTUZ1ck5GSzloTHZGbldtbklvWFpONGlkakR2c0x6Z3VXdVJaYzJZVl9udXdKc21UUWZwV0xRMkc2R3BkSWMwNTJIVG5CZlBidDY4MTQ0Rzd1RnJEeUI2dWNyQUptb2JxZTRVbXlDTzhJSmprZmVyOFhQQWx4RC1RVDB6UWxNZ1hjeXZkcVV5RWdsRnRaeHRzOFZYdzVGYzhRb0dKNWRsRllLd1dxczNDRDBFSzE4WHNTOVQ2aWd2bE9JUGfSAYQCQVVfeXFMTU1GUEFyNFVkckU4cUlNajBUTHFIREV0dk9xUUs0VUZNZmtIa2pJUlhZS202ajZnY2pVeDFIdXhFR3VYczgydXBiMW5XTmQxS3BLNHFkRkt4V3ZLNzJGbnVudUFnMk4wU2s5U1JwMVFiQTFuaHpPRW5BX01wU240UHNsR3gyOG8yVHVIcDJ4aTVtVmxQbjc2QkNjaTdaTUNKOThBVnRzbEFSV0hWV1IxU0JwUE44NUNHM1NqZG13R2w4b3BrbUdvTUZORWNCOWdMMVNnUTZRWFRZU244b0Y3eHNIbjBLSTN4N2dSUmRScmdfUEg1MlZyQ3puYjlyOW1BakY3ZVg?oc=5",
+   "date": "2026-10-30T03:39:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "97d0372b672d",
    "title": "La presidenta Keiko Fujimori invita a Nayib Bukele a Perú y plantea un tratado comercial bilateral",
    "excerpt": "",
@@ -685,17 +718,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVnFtT00zd0hBOEgwSThETEpBaTEtWDUxdWJidXdOSnpQZWZSLTYxRndhS1ZiVTd6a0FWRXd0d0x3RXZrUzRtd0xrSDFEWUtEVU1rTGFrVXlDRWdRUGk1d1NtMnNCcEJZOWxzVWlSOGphS3RzNXZ3SlphWmVGZFB4clFYTFM5M05UbnBmMzNSQUp5a3Q4NFA2U2doeVhsV0FNYXdRR1hjbGZNZ0xMVWxnNDY2SlhNUWtzRzB1YjA4UVNJbUo1T0Vmc3JTYnlKSTFLMmFBQU9IM0FaMnllcFAxWWlFd0E0S3FUcEZBTGdONFZ4Y03SAY4CQVVfeXFMTUFWY1pEU19FN0hpQTBFeENqQVMweU1aQ2RMbWZyaTVLQVRjMDFFMUN6QkVrSG1xYTZOS0M2N2pUMEhJMXRCbW1KTmZWcWNxXzNia1NVVGpwemhEbTdNSW1qY3pnUVIxcVVUYUE1MGcxa1ZPT3NDcXAzVjFTa2VZLVRTOTBCeE9jVVYtX3RVRGRtYWxvRVR4NWowdGhFYkpDTlNuemZhdGVPbGtiT1AwWjNQdkI0RjNad1JLYkxXeFJtZEI1UXRSMkVJRHF2cnNQcVVlVDgzOTcxUF93ZUpFd0k5YThhQlc5bVM1UXpkX0JxOHJ0WnFrT0dIR1ZmclBOeVFaRHV5ZGdfajltZjVB?oc=5",
    "date": "2026-10-30T02:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3c5f1379b2a5",
-   "title": "Keiko Fujimori invita a Nayib Bukele a visitar Perú y plantea firmar un tratado de libre comercio con El Salvador",
-   "excerpt": "La presidenta dijo a su homólogo que será recibido “con los brazos abiertos” y mencionó las pupusas, uno de los platos preferidos del mandatario salvadoreño",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-invita-a-nayib-bukele-a-visitar-peru-y-plantea-firmar-un-tratado-de-libre-comercio-con-el-salvador/",
-   "date": "2026-10-30T02:39:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -999,28 +1021,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUtLd0VVR0dFMEc4VTdYcXZkVzF3LWZOd2F3QjBsVEwwelhZaUh0UHpBcXJid1NXSlctbURNc01FNXZadnI5TTQ1UDN2dWx5X1dnbF9CQ2NWX21OaHo0LUp5SDR4VW5VSlFFb2Ixbi1zQ0xCdFFMY3VuaVQ0UVR2Q1Z5N2l1WEl3cFRlcFFCdEJoOGZRZEpFQnRnY1QxZ1Z0eW5zQmZ1UlI4QnJ0cFp0UTlrOFJZVWxRbE9sN0JZSmJZVUtxV3J1ZThrc1Q?oc=5",
    "date": "2026-10-29T23:27:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f52d26b737d6",
-   "title": "Presidenta Keiko Fujimori en El Salvador: visita Centro de Confinamiento del Terrorismo (CECOT)",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, viajó hoy en visita oficial a El Salvador, donde sostendrá una reunión con su homólogo, Nayib Bukele, con quien abordará temas de interés…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/presidenta-keiko-fujimori-en-el-salvador-visita-centro-de-confinamiento-del-terrorismo-cecot-noticia/",
-   "date": "2026-10-29T23:12:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8e70da3e8ed6",
-   "title": "El Salvador: Keiko Fujimori visita penal, máxima seguridad",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR1lkck9YQnBLd25vU3hTWVpjcnZNMmlpNXZsVXNGS0EtVFd1NGlSWEZDRFE3M3h1d0l1V002SU52RnJDMno4d280UlRETDRtMTFUUHRjclZVZWZzVkN5Z01rMi11ekZGZWlJQTdnVmJVdWJCTE92YzNkU3N5T0lGLUtFOWczZVFvMUZUVHVzRzhKUDEzOEJybVdSQVNwdW5ndjB3ajZEZnQ0RnZBS3R6U1VnWUFHZkhV0gG-AUFVX3lxTE5jZGpJRGdtSDE1TEZJdmZjemJ0NGJsWS02NjdmaVJlYncyMjJUWWNVbHgyZXV1X3NGdU45c0c3RmVaYXhTSFVuSFlWODdyemVjTXNMOWtJMGZIaXI5TFpQZHkyRl9XX2lyc3o4SzQxNFZreVpqLXk2enA5bElQajI5YkRtUjNrRzNCQ2hZNWpDUVJ2ZGMtNGRDYTRrc1QwYktEUkZ3ZWh4TDNiWGhzQ3d3OG1ieGxyYnFjbjlrQVE?oc=5",
-   "date": "2026-10-29T22:54:08+00:00",
    "state": "posando",
    "place": null,
    "next": null
