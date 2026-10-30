@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T06:41:32.649122+00:00",
+ "generated_at": "2026-10-30T07:03:27.572402+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -961,6 +961,23 @@
    "next": null
   },
   {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-10-29T15:48:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
+   },
+   "next": null
+  },
+  {
    "id": "a622a40a55e6",
    "title": "Keiko Fujimori visitará el megapenal CECOT...",
    "excerpt": "",
@@ -974,17 +991,6 @@
   {
    "id": "e782d2bf4005",
    "title": "Keiko Fujimori se reúne hoy con Nayib Bukele para abordar estrategias de seguridad",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkxiNnY3aU5JcTEwREFWYktwQTROT0tIbFotdkVwbW50VFZya1dpaXdSNUI4czdoX0pTcGp6bVNlaDQwZW0zZW1qOXFjTzBXQW9yRm9zYzFpb1N3WVE2Szk1QWx3dmtaSDdONEJGc3VaUE1vYUFrYjEzNFlYN1Z2a0w1TkJtbFh1V2xJTWtUTDJxYXdsWHMzaVl2WGNYdXhBbFRsZ1dzdU15LWxvYTZQenJBX2dhN0E?oc=5",
-   "date": "2026-10-29T15:04:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "977e92f4120b",
-   "title": "Keiko Fujimori se reunirá hoy con Nayib Bukele y visitará megacárcel CECOT en El Salvador",
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkxiNnY3aU5JcTEwREFWYktwQTROT0tIbFotdkVwbW50VFZya1dpaXdSNUI4czdoX0pTcGp6bVNlaDQwZW0zZW1qOXFjTzBXQW9yRm9zYzFpb1N3WVE2Szk1QWx3dmtaSDdONEJGc3VaUE1vYUFrYjEzNFlYN1Z2a0w1TkJtbFh1V2xJTWtUTDJxYXdsWHMzaVl2WGNYdXhBbFRsZ1dzdU15LWxvYTZQenJBX2dhN0E?oc=5",
