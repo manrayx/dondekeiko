@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:59:56.886345+00:00",
+ "generated_at": "2026-10-30T22:21:17.761271+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-30T14:25:00-05:00",
+   "end": "2026-10-30T16:18:00-05:00",
+   "minutes": 113,
+   "subject": "Visita y recorrido en el Hospital Nacional Especializado Rosales. (Hora local)",
+   "lugar": "San Salvador, El Salvador",
+   "state": "posando",
+   "place": {
+    "name": "San Salvador",
+    "full": "San Salvador, El Salvador",
+    "city": null,
+    "lat": -13.49121,
+    "lng": -71.78126,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-10-30T11:55:00-05:00",
    "end": "2026-10-30T12:25:00-05:00",
@@ -431,9 +447,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 1096,
+ "agenda_minutes_7d": 1209,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "8601d03d467e",
+   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
+   "date": "2026-10-30T22:01:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e1dc9b733597",
+   "title": "Keiko Fujimori sobre el modelo de Bukele: “Devolver la seguridad y el orden es algo que queremos replicar”",
+   "excerpt": "La presidenta Keiko Fujimori destacó las políticas de seguridad del mandatario salvadoreño Nayib Bukele y manifestó su interés en replicar su enfoque en el Perú. También anunció inversiones adicionales para…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-sobre-el-modelo-de-nayib-bukele-devolver-la-seguridad-y-el-orden-es-algo-que-queremos-replicar-apuesplan-ultimas-noticia/",
+   "date": "2026-10-30T22:00:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "9a500d43e4b4",
    "title": "Presidenta Keiko Fujimori visitó las instalaciones de la plataforma “Doctor SV” en El Salvador",
@@ -556,6 +594,17 @@
    "next": null
   },
   {
+   "id": "5e14118369d5",
+   "title": "La presidenta Keiko Fujimori conoció aulas con inteligencia artificial en El Salvador",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHkxXzBYQ3VJOEpCTUppQ1RkTWRoT0t3dFFZaXNwdUh0bWltTGM3V2NIRTI0c1p0RTlPRGM4a0ttVWJkLUtzd3JyWnJ6NGJPLThpMDk4TDMtU010SGV4bkg3Q2VkUnBFY1J6S2dfaUxtTnQxbVgyVTN2UzNwTF9GZ3FhbVFxelBITXhfNE9PeUJDN0pEd3BjeFlXN05OQVlDanpRVFZfTlI3YWV0VVBpRmNkbm1vS3VNeWVlSTZ3dTJTRUFpVE4zRHd4YWljQdIB6AFBVV95cUxQMHkzNjQ4amxXbGM5TGN2N09mQTB2X0luZWViOEM3dF9MQVI4dkhlek5kQkhJeXdheFF5aVZpRURaOFdmZUllcmZRWWd2d3pYaDZlV0lBR3dwakVBbmsxeG5QS28yMy0zbTljb0gwUFlXLWIyeTA3dkI1M0F2d213LWpoZGlDRXN3S1pWc2d2VGdJX0FuSjBaYTd5TFFyQW54dk1EbWpydG9WN1ZiVGlKdHNCMDFJRlNFRWhrS21vVTV4QkRObDU4NGtSbnFBMFRLVGM3OW10VVEzREVJamY4aXoxWUtQbGtZ?oc=5",
+   "date": "2026-10-30T18:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "63642364187c",
    "title": "Keiko Fujimori visita colegio público en El Salvador acompañada de ministra de Educación, Karla Trigueros: \"Nos ha gustado muchísimo\"",
    "excerpt": "Keiko Fujimori recorrió el Marcelino García junto a la ministra Karla Trigueros para observar recursos digitales que permiten a los niños estudiar geografía mediante pantallas interactivas y computadoras durante la…",
@@ -584,17 +633,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVFpc0c4WEVDczZSZV9Lb2xJOUcxcElCTXJscE11X3pzRThhSUl5NFNkYVVBbzJncnJ0enZqZjdWS3ppXzMxZHRBVTlCd3RDLXhEandlc3dUOVgwUEJva0ZoOGFYZkJWb1d2Tmd4M2I4NUMzTllkdVR5LU5xQXdrNWpJVjNVSmc2bjFEMWIzZ1J0NU15TEE?oc=5",
    "date": "2026-10-30T17:53:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5e14118369d5",
-   "title": "La presidenta Keiko Fujimori conoció aulas con inteligencia artificial en El Salvador",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHkxXzBYQ3VJOEpCTUppQ1RkTWRoT0t3dFFZaXNwdUh0bWltTGM3V2NIRTI0c1p0RTlPRGM4a0ttVWJkLUtzd3JyWnJ6NGJPLThpMDk4TDMtU010SGV4bkg3Q2VkUnBFY1J6S2dfaUxtTnQxbVgyVTN2UzNwTF9GZ3FhbVFxelBITXhfNE9PeUJDN0pEd3BjeFlXN05OQVlDanpRVFZfTlI3YWV0VVBpRmNkbm1vS3VNeWVlSTZ3dTJTRUFpVE4zRHd4YWljQdIB6AFBVV95cUxQMHkzNjQ4amxXbGM5TGN2N09mQTB2X0luZWViOEM3dF9MQVI4dkhlek5kQkhJeXdheFF5aVZpRURaOFdmZUllcmZRWWd2d3pYaDZlV0lBR3dwakVBbmsxeG5QS28yMy0zbTljb0gwUFlXLWIyeTA3dkI1M0F2d213LWpoZGlDRXN3S1pWc2d2VGdJX0FuSjBaYTd5TFFyQW54dk1EbWpydG9WN1ZiVGlKdHNCMDFJRlNFRWhrS21vVTV4QkRObDU4NGtSbnFBMFRLVGM3OW10VVEzREVJamY4aXoxWUtQbGtZ?oc=5",
-   "date": "2026-10-30T17:52:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -721,6 +759,17 @@
    "next": null
   },
   {
+   "id": "ca5258aaf698",
+   "title": "Diethell Columbus defiende viaje de Keiko Fujimori a El Salvador y pide priorizar a víctimas de la delincuencia",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVhaTGwzUFNraElydHJUYnYzUzZJUDZxRi12WnJySGxYTXNJRXV1dlVTYTZQOEtnd2g4djFGaWZaVGI1eEJhTEh1Unk0eHhObTJOUW50NFhDcXpBRHRXNlNZbVdsWmE4ZW9XWFhzVFFTQnRYWVg0NDJkQ0t5UERCWjVLSkJEd0Fwc1RMSHQwNmxpYzhWY3N4UUxHMElDLTYtY01BZzFYOW5zWmZfOEd2aFhEanVXNTVXTE11eEdsQ3lCY3R3cGc1NGhicmw?oc=5",
+   "date": "2026-10-30T16:32:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "be2a09385ca5",
    "title": "Avanza el TLC Perú-El Salvador: 14 de 19 capítulos ya están acordados, según Keiko Fujimori",
    "excerpt": "",
@@ -749,17 +798,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYml3Wml1VUxTazQ4NW9ZSzBMYnBYS1hqSnVFVUFoSXZZQ1BkaUc0T2ROYXV6QTUwOHVJMDkyeUFBLUVfeU9QajFiNGlaenJtVnhuWk9xODAxZzRsVWRnclVObWJBZVdXVEZnYTdyUkRBb0ZwNkhLZUgwc0pvTGVBYnBSSFFEUXhnMlZOd29yeWVURWNXel9YNk5EVFY0VDdIWWZPX00xcUNacFMyS18yZ2w4enpLUQ?oc=5",
    "date": "2026-10-30T16:04:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8601d03d467e",
-   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN3g4N3dILWFibnlJTzVqUGVKUEk5dVFPSEpFZ0JSXy1za2xqWkV2ajF6S0ZEQmNyeV9oN0drc3FyOTJvQlhIbTl2alZVdWhPRTlBYzFpdG9FcTN4V1ZrYzM4cklEaVUtLWgtSkdhNTc3Rkdhei1KSlpNNEJoc09Hb1J4Yjk0UjdHZDNnTTFCdEQ5NElieGlOTE45UHZPVk1QbXJ2MzZMcWJXVHNBNVRPNUkzZG1tRlBlOXkzVEg4d01vcm9kRUE?oc=5",
-   "date": "2026-10-30T16:00:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -892,6 +930,17 @@
    "source": "Rumbo Minero",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTVJdEl4bWtqSHlaN01USHhpa2lYanZKMHlIZ0ZWdjgtY2gzVkxISWdkdEdNNy0zbTBYRE5HdHpPZUVpX2Q2b3p1QWVmRUFITm1CalMzSWxjd09LZGxCOWRKZGtoSW9JVjdsY094bXhvRHBtb1ZRdGJYUU14TzdRaTh6cnRPREpFWFZQTktxd2Vhbi1JQWd1TktyemlnOGdPY1lDN0NIMzZ3bjN6aUhrVmF6TkhHM0lkTFJYTG9LeDBOeTFqRXJsZWNlcE1aX2tveTBSLTgzbGxOX3E0TTJ6d1FUVQ?oc=5",
    "date": "2026-10-30T10:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "43db4f00a414",
+   "title": "Keiko Fujimori conoció de primera mano la política de “mano dura” de El Salvador en la lucha contra la delincuencia",
+   "excerpt": "",
+   "source": "Agenda País",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tUDZCclI0Tjg0N0RHR2pkb3E4SEp3bWl0VVl5YWhKeDVabjE0d2ZlNmZ6OUFGYV9Kd0kxNlVqOWxJVWYyT2dobHpvdDJXTlU4N29oT3RQelBmMGtnS2hDV3RuanlpMXpi?oc=5",
+   "date": "2026-10-30T08:10:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1063,39 +1112,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjBHYmlHamRlVmdfUWZ5QlZpRjIwdEFjdWFGVW9SZTBhS0FpdGN0eW9aTFV3SHhKOVRYRlFjeUZKVmItYVViN1Q5blVoT2M0MUhXTk9PVFZhU1VSaEFfY2ktWTJIek1VVVVXVk1DUkJHbkVIRF9uUGVKeEw4bkhoNU9FYzFhY2JNUldrTFJEVmlNeUlnMnpDaEl3LVdNSHVvRGVLNlZvel9xVGpGR3doWkIxR1JOYlpTZzNQaUJRSVc?oc=5",
    "date": "2026-10-30T02:00:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ecf9f6fea649",
-   "title": "Keiko Fujimori y Nayib Bukele firman acuerdos tras reunión en casa presidencial de El Salvador",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNXJVYk9rUEJwWnIwbjh3VnJLd1dMVllmLXZDZnExbXgwUU5nUHFkX1d4bkdRQTYtcC1tckdMM3VHR0xadmxBbDhBSl9hekpVekF6Wl92Sm5iZkkwcmJGT3FVN3Jkb3p6ZlY1V1hMSXQ4c3Raal92bkpPY0xrZXlrcFI2MkRabExNcEFBWEVmX0M2MGhiYi1xbVM0LWoyVkhkRTFUc0hTRDBUaWpWNHBZdUhlX0tQelFIUF9vVXhzTGcxMl9pUjRpNDNqM1JtZk1qZFlua1J6VG1CY3FrSFI0RldXTzhWc0Y0X2wzeA?oc=5",
-   "date": "2026-10-30T01:59:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "07fac810d753",
-   "title": "Presidenta Fujimori: recogemos ideas de El Salvador para construir dos penales en el Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWd2UUdGby1oeDhibFdTWDZfemM4ZGFBSmcwRDBkNnpYWW02dXVFQ0JsbUxvbFAydEdscFdEZEcwcUdQSEJKVmM3UnVBZEdySC10QnkwTFNiZVBmazE2NnhNY0ZfLXRHT1FaUXBST3ZBSmxHc1hHeW1GZWNSRE5EclFYc3hVTDdQSVU1cFFhRUNsRjJMS3FDd1R6MmkxV01tZTMwTHQ3dmV3TWxVTFRkSVdYWUNBUGJWNjFyRmRlTnhFUQ?oc=5",
-   "date": "2026-10-30T01:57:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5c4089eb02aa",
-   "title": "Keiko Fujimori se reunió con Nayib Bukele en el marco de su visita oficial a El Salvador",
-   "excerpt": "En el marco de su visita oficial a El Salvador, la presidenta Keiko Fujimori se reunió este jueves 29 de octubre con su homólogo de ese país, Nayib Bukele, tras…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-nayib-bukele-en-el-marco-de-su-visita-oficial-a-el-salvador-apuesplan-ultimas-noticia/",
-   "date": "2026-10-30T01:49:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
