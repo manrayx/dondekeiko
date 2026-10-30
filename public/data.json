@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T07:25:16.260308+00:00",
+ "generated_at": "2026-10-30T07:47:18.904107+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 58
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -526,6 +526,17 @@
    "next": null
   },
   {
+   "id": "24bc7db150c1",
+   "title": "Keiko Fujimori y Nayib Bukele firman acuerdos para reforzar la seguridad entre Perú y El Salvador",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa2Z2b0NLTTZtRHVBVk1za2JmOFhFTTd5VUpNd1FNR0docFhhZVFpMzZaaE1teXh2NFdsN3d2Vm9rbVlreUZNbzNsNHA5bXpLTHBtU0wtd19YRExmQlFqNjl0TVBZQVkwanV5MDIzQ2F0QldtODFBcENYWk14X1JGU25rYkNvbEozTkhBTW90S1RSQmxkWGNNeUMzYllLWlVZdGFxZGYtdUpBaDExaktwY0JFUThqSG9WVlVrSVhyMzNTY2h1ZmQ4X05od0tYamZlUlFNZE1R0gHqAUFVX3lxTE4zdmVKNHJBekM1UzFSbkJIdF9IbFIzSWo2LUFOWllaUmVtaUgzX0RZeDhqRFhBbjltUnd1QXFrSGlZMXBHc1RBWG9XLU9PMDBpU3BrbEdMVUFYeXl6RTY1eXpuQ19zM0p5UFUwZkRtV0VRQVI5MUczTEptTXZuREJLS19qSEJ0X0h1cEhvUzlVSlhHMC1LLVJCWTJfci1hNEJCS2IzRWEyR1dvUExEWm83eDRqTHNJcW9jVVB0V3hoeTBiUktha2Q0TEtHck5wY3BzU1dtY3JxanIyRjNEazNmSXRJRmFOWWVrdw?oc=5",
+   "date": "2026-10-30T01:11:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1f4442ab4cb2",
    "title": "Presidenta Keiko Fujimori se reúne con el mandatario de El Salvador, Nayib Bukele [en vivo]",
    "excerpt": "",
@@ -599,6 +610,17 @@
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOFh6LXBZSTBrU29BbkxSTk1VYmNrTGIzNVloSXRBY3dDV1B4bW5lanVVbkJNRVM1ZVVqUmdyTGRXdnBjeDN1ZW1BWjE4RUNUejNOWm4zTlB1b3Z4emNLY01SWEE1WnJ2QTN0SWY2R3dKMlhlUHBWWUtMUE5QbDkxSFgycEpaX1pQWFE4ZnZrZlM0R2dMcC16QmVuUjQyZTlib05YZURZZnQwMGlsd2V6NHFLMW8xb1pxLUxfcGtHb3BjTjY0TUhyVU9XN1pkeU3SAeMBQVVfeXFMTWpqUUh0Mm1tYXpwOXEzZU9JcGxNYU56d1FPRkhWNXlrYXdCYko2LUtuQm9hM0hKa2lpVl84VUY2ZUJ1VkhMY0w2OUFneXhaVlpGVGlYLXlqejE5N2w1TWhxdU1vN3NxdTIxa0xObjc0UGNjbnlSTEpGY0xBZFhNMkV1Z2xvM21qNVBhdWxVRjAzVDhlR3ExWXhtbVVuVF9Tbm5vREN1cGpneHppMXp5U2VhZnZhNFBSREkwVjVYa3VRa2gwdE54dHBBNU5kbjFKNG8xbW1oNDhtelB1djB0aXdRbE0?oc=5",
    "date": "2026-10-30T00:13:53+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b88d4192c74a",
+   "title": "KEIKO FUJIMORI SE REÚNE CON NAYIB BUKELE EN EL SALVADOR | EN VIVO",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjFPOEp4ZlEyZTZUV0lrY0JRWkxha3Q0T2NNTWVBUUlpVUR0QXdSZzZmV0d3a2E4M0RydFlQVC1iV2ZyVUxaTzh4QVVmR1VRQ193d2lKcDNjR1BRN2pFSVo2UjlDZ3hZVzZtMWRNSkNSZDNyN2xoS1kyNWlENVVHNl8tdXZhMXNNYmt4WnJlRHVfUzRDWHhBXzR1a1ItTV84SmFhWkIwSFBqQjdpTWFNRHhn?oc=5",
+   "date": "2026-10-30T00:11:46+00:00",
+   "state": "transmitiendo",
    "place": null,
    "next": null
   },
@@ -975,28 +997,6 @@
     "abroad": false,
     "city": "Madre de Dios"
    },
-   "next": null
-  },
-  {
-   "id": "a622a40a55e6",
-   "title": "Keiko Fujimori visitará el megapenal CECOT...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb2pJU052a3B2dzdLek5sUGhjQ3NGU01iT2RaOTZtMElXbTdnLXNBYUdicHpHdHBGWl9pTjRCajhqWXFSbzV0VmNvVlZHYkdyeVhfdWl1VllCZjRIX2RxRVd0R0xiU1FUNG1rXzYwYm0tN1ZhM1F5NlBkZTd4cGlGRVgzbDFoNVJDNktaZ2hrYW5XN0dMa3ljMHZFVXZtUW10MFpnN3Z0dWVnNFM5MEFBRl8wXzQtR1RT0gG-AUFVX3lxTE90LWtyZzEzZWduOVp4RzJSMUdWTUpJOENkVnlnMkZHVVZCSEJhR2duaHdLOG9zVW9naWJDNThUU1NPUEtCaHhKVGhCNlNFdGF4OGctdHExWm1lTEIwRk9jSkVCY2NRNDlJS1hYc2xMNHB5ZTQ1OU90M0g1WVNBY21oV0VBWTNIdzd3VGJVQ0ZkZ2xQYUxoSjMyYnA0N1Zjc2w5YXMza1VOa3BBNzZJeDFYa0tlb29obXVRVHdrNVE?oc=5",
-   "date": "2026-10-29T15:08:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e782d2bf4005",
-   "title": "Keiko Fujimori se reúne hoy con Nayib Bukele para abordar estrategias de seguridad",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMkxiNnY3aU5JcTEwREFWYktwQTROT0tIbFotdkVwbW50VFZya1dpaXdSNUI4czdoX0pTcGp6bVNlaDQwZW0zZW1qOXFjTzBXQW9yRm9zYzFpb1N3WVE2Szk1QWx3dmtaSDdONEJGc3VaUE1vYUFrYjEzNFlYN1Z2a0w1TkJtbFh1V2xJTWtUTDJxYXdsWHMzaVl2WGNYdXhBbFRsZ1dzdU15LWxvYTZQenJBX2dhN0E?oc=5",
-   "date": "2026-10-29T15:04:29+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
