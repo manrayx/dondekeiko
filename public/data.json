@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T21:16:17.267924+00:00",
+ "generated_at": "2026-10-30T21:38:16.486290+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -204,6 +204,38 @@
    }
   },
   {
+   "start": "2026-10-29T13:00:00-05:00",
+   "end": "2026-10-29T14:30:00-05:00",
+   "minutes": 90,
+   "subject": "Supervisión de los trabajos de limpieza y descolmatación del río Tumbes, que registran un avance del 89%, equivalente a 1219 metros de cauce intervenidos.",
+   "lugar": "Sector La Inverna, distrito de Pampas de Hospital, región Tumbes",
+   "state": "posando",
+   "place": {
+    "name": "Sector La Inverna",
+    "full": "Sector La Inverna, distrito de Pampas de Hospital, región Tumbes",
+    "city": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-29T11:00:00-05:00",
+   "end": "2026-10-29T12:30:00-05:00",
+   "minutes": 90,
+   "subject": "Inspección de los trabajos de limpieza de vías de acceso para prevenir el aislamiento de localidades ante posibles deslizamientos.                                        Reunión con la autoridad municipal.",
+   "lugar": "Distrito de Casitas, región Tumbes",
+   "state": "posando",
+   "place": {
+    "name": "Distrito de Casitas",
+    "full": "Distrito de Casitas, región Tumbes",
+    "city": "Tumbes",
+    "lat": -4.09075,
+    "lng": -80.68848,
+    "abroad": false
+   }
+  },
+  {
    "start": "2026-10-29T09:30:00-05:00",
    "end": "2026-10-29T12:00:00-05:00",
    "minutes": 150,
@@ -366,9 +398,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 871,
+ "agenda_minutes_7d": 1051,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "9a500d43e4b4",
+   "title": "Presidenta Keiko Fujimori visitó las instalaciones de la plataforma “Doctor SV” en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0VHZDEwZDF2ZWF4c2hpeTlZcy1pVzloMmNHN0lIZ3BTcDUyaThhbF8yZWZ3TVp3UVBMOERQejYzVTBFdmc0YVZtVE9ZbDlzdmFmMFg5UzNHQjFDUXRNd3FRdV9PSmtkZTRWb2lfQ0VCWVBQNU1qOWpSLUdpNlpuOHhENUdTLV9pZ3UxLU83MW9OYUhtSVpmOHAyLU5QY2ZYaWk2dzlmYmRQZGFvMW1GWkNUaVY0OE96RTRjXzJyYzVRSXlDNUZPYmRWOA?oc=5",
+   "date": "2026-10-30T21:26:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dbf625d54dba",
+   "title": "Presidenta Keiko Fujimori promoverá oportunidades de inversión y comercio con El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUC1OMHhKMGFUSVdiOWJGUmlkektiYkg3QlBwbkpnV2RtanczdXZpeW91VHd5RTUtdUU3TWszSnZta2xZWXMzZHNmTUtRaGR2cC1VT0JldzRNSFktdUtGdmJpRFJYNUJ2cFltVmVZcl85cmtzWF9mWXpMbVBYWW9HNHNoVmF2emVkSWxrMGJDdVUtdDVqMGJBOWd1Yi1qYVNnRTlQWUlTMEhWVEFFVmFRTTdHZEFVT3pYb1ducUZIOGxKQ3ZjOW5vYXhB?oc=5",
+   "date": "2026-10-30T21:21:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "808adbada239",
    "title": "Presidenta Keiko Fujimori visita Hospital Nacional Especializado Rosales",
@@ -684,17 +738,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkRqYW5aYzI2bFNIUzExd3VnTEhkNXl5YlIwSVFWSE9XT3Z1M3N3bENkZHJ6dnJpcUpFbzg5S0NyTmY4Z1d4TFQwSGp0OVFJR080cnIwNjF3Ml9TalhOVERBMVh3cVZqeDZXeHdoUFlsYTFtZWVDZWNOZDBtV3R5eExiVzJPUW53U2s4TmtjVmNIc0tTMG1jeHhCX2Ztdzg0M0R3UU9WUGFIc2FrbWhnWFh4WTVRbmI3R2I1dlUyVUl0M1U?oc=5",
    "date": "2026-10-30T15:51:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dbf625d54dba",
-   "title": "Presidenta Keiko Fujimori promoverá oportunidades de inversión y comercio con El Salvador",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMG56VUoxdlg3b0RXZDZkdXRsMmY4LWk1VmM1eEJvUDRKYi1XbFRzVFltV0d0S1E4amwwNGZXU2VQVDVQdzR0LVVySTRFeWpVNU9ORnNlMk9HVVQyVUdMcC1JejJWNHlBcnJOejdTNHRSem9GbW9iRXg3TWx5THVRQ0U4YUMzUV82cmZ4TXp6MjNfYjl1ZG4zZ1plSUV3dDBwZEVnaXNyRjhqNmFPX0ZjODhfTWdIMFl4aDNPSHZMM0tELWlCREZlQU4tYlpBWGp4ZWJucUhHLU40WGM?oc=5",
-   "date": "2026-10-30T15:20:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1023,17 +1066,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "f7bd9d10434e",
-   "title": "Presidenta Keiko Fujimori y Nayib Bukele suscriben declaración conjunta para fortalecer la cooperación bilateral",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM3pSMld2V2RPZXhxZl9Yc1pDUWVYdEdTOHJ0LUNPWmQwQ2FqM2VfeWJ3S2pnck1mQWxQU1ZGZGZpcGNEdnQyR1NZSTZvb2s5ZmNZV01sbWZJTmxRR01UbWQza1U2TExsUnV3bWJnU2Z2UFE1bks0ak5OeWwtRlZIWjhpWHVhZU84V1A3TnpWdXNKaVp5Q19nYV95dGNMSk9FTG1kNmJOeFd1NTZFU2pUckIySE9VZEVvLTAxZDZMV3lERlBHbTc0VEZLUkFUZTkwcXlWRTBjSG9UdjQ2enduUTIzV2hkTEtTNkE?oc=5",
-   "date": "2026-10-30T01:29:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1093,6 +1125,12 @@
   "centro escolar marcelino garcia flamenco, peru": null,
   "municipio de santa tecla, departamento de la libertad, el salvador, peru": null,
   "municipio de santa tecla, el salvador, peru": null,
-  "hospital nacional especializado rosales, peru": null
+  "hospital nacional especializado rosales, peru": null,
+  "sector la inverna, distrito de pampas de hospital, region tumbes, peru": null,
+  "sector la inverna, region tumbes, peru": null,
+  "distrito de casitas, region tumbes, peru": [
+   -4.09075,
+   -80.68848
+  ]
  }
 }
