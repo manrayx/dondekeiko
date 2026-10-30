@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T05:59:10.222702+00:00",
+ "generated_at": "2026-10-30T06:20:24.727223+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -366,6 +366,17 @@
    "next": null
   },
   {
+   "id": "242379faece1",
+   "title": "Presidenta Keiko Fujimori se reúne con el mandatario de El Salvador, Nayib Bukele",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGE2c2ItVE0xRW5TOE5oVDBEMXRiNHlzbHYzNnBsNG9zQS1FMko3LUZ5MXVKX0oyUnZoS3ZNbWhRN1RWc2xZeXBsbnhOdzZkMXY2RjIzWG4zaUtUaUYxcTVLRjEwbURzZGVrcVVBdjNhelY5V3A2cDQ2NHA1b2pBT2tjcXZnTFdubHIyNHBybEZrZ01wa2F5Qk90SmdwTzY0QlB5X1VROGFGakVXaUU2YWE4QmdIVHlZd1YzdjNn?oc=5",
+   "date": "2026-10-30T03:23:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0212ac9b5997",
    "title": "Keiko Fujimori y Nayib Bukele firman acuerdos en El Salvador: claves del encuentro en Casa Presidencial",
    "excerpt": "",
@@ -540,9 +551,20 @@
    "id": "bcdf85e7a735",
    "title": "Keiko Fujimori se reúne con Nayib Bukele tras ceremonia de recepción en la casa presidencial de El Salvador",
    "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUE5HQURNN2RheXBSYlNNTVk0VUpvTEdmbW56TFpNNFcxZXZUUE1aRm1UMWotZ3Bzc2JSaVVIMnRXMXhOSkdJNXE3aGYwWGkyaVkwZE1LVV9NMkNqME9jUHdfODZEQ0JRaXZDSVJQS1BUV1F0NVBlWHJYZDJLVE1lWFF5NkJGanUzY2xtV2xOR3lFNE11UjhjWTJaX1dmM1VQaXlOU0dVamYyX2hhWjhOTzRXR3prYVdZaVluc3U0NExIRjVjazB4RnFOaXJYRnFWUkl0SG5uanJyRFItT0xVTg?oc=5",
+   "source": "geniostv.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkNiMV81MzNBUVpObnBNdUlPYlZWeW9malQxc1BIUXR2Qnd3OXlSb2N4U1V3LW5SWFlhQmtLX3NsU1U2VEtWelpsN1p2N240Wm4wOHFxNTEzeXBMMU1mSUhmY2RTamIycE85Y1pCTWpub2laOExXdVhNT0pvbFVaUmtZNWZxTjZRVnlDNy1aM1BIc08tMS1mRkdsLXB6UVVaZEU4WVQydnVUdUxGNmtjVHB0QjNSRWVOQS1aRW5rNzhYeUZKVFNEMGJGOHNDZ3pY?oc=5",
    "date": "2026-10-30T00:34:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a7a047ae4893",
+   "title": "Presidenta Keiko Fujimori y Nayib Bukele sostienen encuentro para fortalecer las relaciones bilaterales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVVVMT3F5eHJtbzBxWDRIdnNZUzBCSk5HbV9MeGRadXVwRFhNLVZaRU52ajVyUVJZdGkxVEl2U0xSMHpUZExBRjJEdUZ6RVB3bmR6ckpfcHdYdmEwdjBxZUNtc0Rna2xSby1wVEQtbzM0WkFSTHZvU3JkSjQtc1hEd19xYS1vU3B0NTVKRGlLNXo2aVE3cjlSSTNSMGRQWEtuZjgzd1hucmFWTzNWVEhwVlNHMFViS0V0MDNGdnhUQVlrbjR1REVySUs0VjFKRGsxOG5zaVljeFhPdkV6aU94eWZ3?oc=5",
+   "date": "2026-10-30T00:33:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -598,17 +620,6 @@
    "next": null
   },
   {
-   "id": "a7a047ae4893",
-   "title": "Presidenta Keiko Fujimori y Nayib Bukele sostienen encuentro para fortalecer las relaciones bilaterales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVVVMT3F5eHJtbzBxWDRIdnNZUzBCSk5HbV9MeGRadXVwRFhNLVZaRU52ajVyUVJZdGkxVEl2U0xSMHpUZExBRjJEdUZ6RVB3bmR6ckpfcHdYdmEwdjBxZUNtc0Rna2xSby1wVEQtbzM0WkFSTHZvU3JkSjQtc1hEd19xYS1vU3B0NTVKRGlLNXo2aVE3cjlSSTNSMGRQWEtuZjgzd1hucmFWTzNWVEhwVlNHMFViS0V0MDNGdnhUQVlrbjR1REVySUs0VjFKRGsxOG5zaVljeFhPdkV6aU94eWZ3?oc=5",
-   "date": "2026-10-30T00:11:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "1a003bf1ecb2",
    "title": "Keiko Fujimori se reúne con Nayib Bukele en Casa Presidencial de El Salvador: mandatarios participaron en acto protocolar",
    "excerpt": "",
@@ -648,17 +659,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbXR0Y1RYNlpUR1VoZFo1RlRDSGdlQjMzbklzRXRjdkdiRTJsQ1F0YzhrdUduRFNwZ0tJYXllQ3lKNmo3ZFFwb2VXNHpYOUtpaFN3dHRNUnd5T3JRVVdyZEZIeWc3OE5DeTFzbVVfbENLNTRMeWs2S3hjSnlzWDVTM1hzbGVqZGVZR2ZnQ0JLSjNjcTdzVzNheU4yYmFiTzh6UzdMSXB3d1h1eFdiUVVuSWJmXzBxcXM2bnd6bzFlalpmSW5uakRnWTQzaWlfR1g0TDNZOXJnZmhsTndoTFp6ODZPVk5MUTJSdGfSAf4BQVVfeXFMTTRaUUxXakFmN2EwUVl2dVV4cXpJbnFYOXlCbEZUbWdqXzVFYXFfVTJQMUFPWU5ZQ0dBTXFhVnB5V0RzZ0d1eU9vM0NVVGtnRTF2cDI5ajNhdWNjNWwtRERRYVlXSWlhU1NvWm9xRWVjb1VhOU1ZdmEweGxiOHJpTzVtQk1FZVg5YzhvWkduZEVqVW1Xem9paE1LV1lISWEwNDlfX1NTQ24tVmtzTnF2SjNpZkNDS3dvUWRxX3h3ZkV2QjRQYXRqN1VoV3BpODVkZU1IeUVTdk8teS14ZVhrUktnVHR3SGtrMTlIcTZheWIycnU2dnA2RGw0bFJWZnc?oc=5",
    "date": "2026-10-29T23:52:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "242379faece1",
-   "title": "Presidenta Keiko Fujimori se reúne con el mandatario de El Salvador, Nayib Bukele",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcGE2c2ItVE0xRW5TOE5oVDBEMXRiNHlzbHYzNnBsNG9zQS1FMko3LUZ5MXVKX0oyUnZoS3ZNbWhRN1RWc2xZeXBsbnhOdzZkMXY2RjIzWG4zaUtUaUYxcTVLRjEwbURzZGVrcVVBdjNhelY5V3A2cDQ2NHA1b2pBT2tjcXZnTFdubHIyNHBybEZrZ01wa2F5Qk90SmdwTzY0QlB5X1VROGFGakVXaUU2YWE4QmdIVHlZd1YzdjNn?oc=5",
-   "date": "2026-10-29T23:43:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
