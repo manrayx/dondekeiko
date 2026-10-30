@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T18:43:40.313199+00:00",
+ "generated_at": "2026-10-30T19:04:55.757022+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -121,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-30T11:24:00-05:00",
+   "end": "2026-10-30T13:00:00-05:00",
+   "minutes": 96,
+   "subject": "Visita y recorrido de las instalaciones de la plataforma de telemedicina “Doctor SV”. (Hora local)",
+   "lugar": "San Salvador, El Salvador",
+   "state": "posando",
+   "place": {
+    "name": "San Salvador",
+    "full": "San Salvador, El Salvador",
+    "city": null,
+    "lat": -13.49121,
+    "lng": -71.78126,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-10-30T09:48:00-05:00",
    "end": "2026-10-30T11:14:00-05:00",
@@ -350,9 +366,20 @@
    }
   }
  ],
- "agenda_minutes_7d": 775,
+ "agenda_minutes_7d": 871,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "1f28cff27acd",
+   "title": "Keiko Fujimori a empresarios salvadoreños: Perú es un hub logístico ideal para expandir sus inversiones",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9KZHl4WjYwWHRIaGpiclZfVkpHQ3hKOUU5U3U3TVctY1NMQUxsTGpReDQ5eXhPRkhKUjBoLW13YzUyaUJIQm4waE5aLTJOTzk3dVNvblc2TUIyQ3gzT25UcENra3o0TVhZZU9GSVlEWm1pMFlFQkhVZGwyVUYxR2x1NVY5ZnBIUHJYdk5VMG52dFFPMEVPejFSdVlLWnVGQlZTeDdvZlN5bzk3TU0weWd4ZHVKcm45QUxoZ3V3eGJfWG1pRmR2bzZacEVOWER5TEV3UA?oc=5",
+   "date": "2026-10-30T18:32:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "63642364187c",
    "title": "Keiko Fujimori visita colegio público en El Salvador acompañada de ministra de Educación, Karla Trigueros: \"Nos ha gustado muchísimo\"",
@@ -360,6 +387,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/10/30/keiko-fujimori-visita-colegio-publico-en-el-salvador-acompanada-de-ministra-de-educacion-karla-trigueros-nos-ha-gustado-muchisimo/",
    "date": "2026-10-30T18:06:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1fedd4587429",
+   "title": "Keiko Fujimori pone la mira en colegios de Bukele y busca replicar construcciones rápidas en Perú",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb184aU1BM2lRRnFPS05aMWJmZ1FFdndDaE0wTWcwY0pXOUU4WmNRV0dGWmlEV1dab3ZETjlhTGVmOHJWWmprYkpQczVyaGJfWW0wWmNrQWRzNGVuZGF4T2I4U3EtLUU0Z1gweno2WVRXb3RwWjhoZGhGN0prckstNkNQQzRKWXM2bFJzUDV0dkpWTmI2MW9EYURUUmxaSmk0NHpFajc5czRsenRVM0hXZVI3VWpUQQ?oc=5",
+   "date": "2026-10-30T17:59:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -382,6 +420,17 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHkxXzBYQ3VJOEpCTUppQ1RkTWRoT0t3dFFZaXNwdUh0bWltTGM3V2NIRTI0c1p0RTlPRGM4a0ttVWJkLUtzd3JyWnJ6NGJPLThpMDk4TDMtU010SGV4bkg3Q2VkUnBFY1J6S2dfaUxtTnQxbVgyVTN2UzNwTF9GZ3FhbVFxelBITXhfNE9PeUJDN0pEd3BjeFlXN05OQVlDanpRVFZfTlI3YWV0VVBpRmNkbm1vS3VNeWVlSTZ3dTJTRUFpVE4zRHd4YWljQdIB6AFBVV95cUxQMHkzNjQ4amxXbGM5TGN2N09mQTB2X0luZWViOEM3dF9MQVI4dkhlek5kQkhJeXdheFF5aVZpRURaOFdmZUllcmZRWWd2d3pYaDZlV0lBR3dwakVBbmsxeG5QS28yMy0zbTljb0gwUFlXLWIyeTA3dkI1M0F2d213LWpoZGlDRXN3S1pWc2d2VGdJX0FuSjBaYTd5TFFyQW54dk1EbWpydG9WN1ZiVGlKdHNCMDFJRlNFRWhrS21vVTV4QkRObDU4NGtSbnFBMFRLVGM3OW10VVEzREVJamY4aXoxWUtQbGtZ?oc=5",
    "date": "2026-10-30T17:52:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4cdfc33cee76",
+   "title": "Presidenta Fujimori presentó en El Salvador las oportunidades de inversión y negocios que ofrece Perú",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaU90Z2dUNGJQcVpQajNEaHE4TTZjNFN2MmkxRTBnOXNYY1lEbk1QWkNSX1N5WWNpcXQxQkhlS1VPakhPVkNURjhWUEVocWMwNzRlU2ZxMnJyczRVN3pNaHVzbVM2LXVJYUh5R0FtQm03WkFTZEFQM2VJQ0otdVp6R2o4OGFoekdya2NuOHdfWnltX2xOaVRnSlVSZUcwcjg2bWVUbEtpSEtKSk5YdEZfelpZT0EwMElTYUlCSUhBYU5La2ljY0pVMTcyclZBMTZPdnFV?oc=5",
+   "date": "2026-10-30T17:36:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -438,17 +487,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFBTa2FVOW1NY18wX1pzSFdfQTd0MndSS0EtQjhJc05PWF9VTHNIbE5zekNSTFRBOVRYNXQ3dnhjSlREbEIwM2xPTzFuZmpEUDZKRUx2QTVYR3ZiQ0lyUWZHdEI1UGZ0aEk5a2hZOFhzbVYxVDAxOXFyV3l4NW1CWEtzUHJnWnAtZ2YzWlpmM1MtWFJ5emFFSnVXRUtXMWxraDBydnR5eUU5cmVReC1TUDk4NVc3R0R2MlEzMkhMWGk0VEl4VEpNTXNjQnBmUFpULXc?oc=5",
    "date": "2026-10-30T17:09:52+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4cdfc33cee76",
-   "title": "Presidenta Fujimori presentó en El Salvador las oportunidades de inversión y negocios que ofrece Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaU90Z2dUNGJQcVpQajNEaHE4TTZjNFN2MmkxRTBnOXNYY1lEbk1QWkNSX1N5WWNpcXQxQkhlS1VPakhPVkNURjhWUEVocWMwNzRlU2ZxMnJyczRVN3pNaHVzbVM2LXVJYUh5R0FtQm03WkFTZEFQM2VJQ0otdVp6R2o4OGFoekdya2NuOHdfWnltX2xOaVRnSlVSZUcwcjg2bWVUbEtpSEtKSk5YdEZfelpZT0EwMElTYUlCSUhBYU5La2ljY0pVMTcyclZBMTZPdnFV?oc=5",
-   "date": "2026-10-30T16:53:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -995,34 +1033,6 @@
    "date": "2026-10-30T00:13:53+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "b88d4192c74a",
-   "title": "KEIKO FUJIMORI SE REÚNE CON NAYIB BUKELE EN EL SALVADOR | EN VIVO",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjFPOEp4ZlEyZTZUV0lrY0JRWkxha3Q0T2NNTWVBUUlpVUR0QXdSZzZmV0d3a2E4M0RydFlQVC1iV2ZyVUxaTzh4QVVmR1VRQ193d2lKcDNjR1BRN2pFSVo2UjlDZ3hZVzZtMWRNSkNSZDNyN2xoS1kyNWlENVVHNl8tdXZhMXNNYmt4WnJlRHVfUzRDWHhBXzR1a1ItTV84SmFhWkIwSFBqQjdpTWFNRHhn?oc=5",
-   "date": "2026-10-30T00:11:46+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "308a59a4a2d3",
-   "title": "Bukele y Keiko Fujimori se reúnen en Casa Presidencial para discutir los retos de seguridad que comparten El Salvador y Perú",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbkdwbVZLRF9TZXZVaTlTOXVlNmIzQ1o5YkM2M0RQa3lZbzQ2bjcwM3IxRG0tNFZTOTIzaTdHSTc4SDk4blQ5cUQtOTVOZHppSi1DX0s1Nm9ncktYbGExbkxyZDhXZkFEYl95b1JCWTJtZWJ1NUdzNkI5RlNzRmtaN2lJdG1PaUN3M2hmRlk4WkE3MGZ4TXNhNWpIVGNtWWlXb05wNmo2ZmNKeDI4ZXVZZXFDMkpCcFE1OTZuVGNaZkFOOGpKUTB1WUgwUGVDRHZReVRtMlRxTF9ZaGlwRU9CVU90VkU1YlJwRWNOTldvRjZEdkFGYjlqM0dmOHpFaGRSUEHSAZwCQVVfeXFMTkY1Y3dGbk1zX3JXRjhfMWxHZ0hIeHVMTS1QSVJVLWRQRUdwMXd5Sk01aGNveU44TEo1aXI4WDBLejJoUmRuTDR6bllTNXRMUHlFbDEtOXN1Z2FpN1N6Yl9aRnV1UFJTSHd0b01xQjdxTGxTSTlXRVQ0OU9wY1J2RW5MQWpJcU9SbG1JdE5SdDlhYy1IVXlYb0dybzdNNXM1Y0E5TF9wekZOd2RTakZMQzZWNGZpUmtIRVZfejg3N2hEZ3pBYzY4NXF2dEh0VHpNdGY0LXJMNklTM0NtM2tWT1BINXVsX1VPb3NEbnJDWTdreTN1ZGhqWUUyU1FEYk1JVDRWQ1NqOGNaUnlwZzk0eEhPU0hNSGQ1RF9BOFA?oc=5",
-   "date": "2026-10-30T00:11:23+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Casa Presidencial",
-    "city": null,
-    "lat": -12.07134,
-    "lng": -77.12822,
-    "abroad": false
-   },
    "next": null
   }
  ],
