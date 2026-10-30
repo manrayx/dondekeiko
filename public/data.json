@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T04:55:12.954623+00:00",
+ "generated_at": "2026-10-30T05:16:28.543871+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -316,43 +316,22 @@
     "lng": -71.54371,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-22T14:05:00-05:00",
-   "end": "2026-10-22T15:05:00-05:00",
-   "minutes": 60,
-   "subject": "Participa en llegada de la tuneladora Micaela a la estación Carmen de La Legua.",
-   "lugar": "Carmen de La Legua, Callao",
-   "state": "posando",
-   "place": {
-    "name": "Carmen de La Legua",
-    "full": "Carmen de La Legua, Callao",
-    "city": "Callao",
-    "lat": -12.03938,
-    "lng": -77.09056,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-22T09:14:00-05:00",
-   "end": "2026-10-22T09:38:00-05:00",
-   "minutes": 24,
-   "subject": "Lidera anuncio de un conjunto de medidas prioritarias de política fiscal contracíclica orientadas a mitigar los efectos de los choques externos y del fenómeno El Niño sobre la economía peruana, proteger a las familias más vulnerables y sostener la actividad económica del país.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 689,
+ "agenda_minutes_7d": 605,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "bf44986cdb8c",
+   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
+   "date": "2026-10-30T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "16935394a184",
    "title": "Bukele le dice a Fujimori que no se puede replicar el modelo salvadoreño en Perú: \"Copiarlo idéntico no tendría sentido\"",
@@ -968,23 +947,6 @@
    "date": "2026-10-29T18:08:42+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "33e475f0321a",
-   "title": "Keiko Fujimori llega a Madre de Dios para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
-   "date": "2026-10-29T15:48:59+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Madre de Dios",
-    "lat": -12.594,
-    "lng": -69.189,
-    "abroad": false,
-    "city": "Madre de Dios"
-   },
    "next": null
   },
   {
