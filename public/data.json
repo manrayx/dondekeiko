@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T05:16:28.543871+00:00",
+ "generated_at": "2026-10-30T05:37:45.237935+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -322,6 +322,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c458ceafa91e",
+   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
+   "date": "2026-10-30T05:31:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bf44986cdb8c",
    "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
    "excerpt": "",
@@ -339,17 +350,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/29/bukele-le-dice-a-fujimori-que-no-se-puede-replicar-el-modelo-salvadoreno-en-peru-copiarlo-identico-no-tendria-sentido-hnews-1292298",
    "date": "2026-10-30T04:04:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c458ceafa91e",
-   "title": "Presidenta Fujimori visitó Centro de Confinamiento del Terrorismo en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
-   "date": "2026-10-30T04:03:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -529,8 +529,8 @@
    "id": "bcdf85e7a735",
    "title": "Keiko Fujimori se reúne con Nayib Bukele tras ceremonia de recepción en la casa presidencial de El Salvador",
    "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUE5HQURNN2RheXBSYlNNTVk0VUpvTEdmbW56TFpNNFcxZXZUUE1aRm1UMWotZ3Bzc2JSaVVIMnRXMXhOSkdJNXE3aGYwWGkyaVkwZE1LVV9NMkNqME9jUHdfODZEQ0JRaXZDSVJQS1BUV1F0NVBlWHJYZDJLVE1lWFF5NkJGanUzY2xtV2xOR3lFNE11UjhjWTJaX1dmM1VQaXlOU0dVamYyX2hhWjhOTzRXR3prYVdZaVluc3U0NExIRjVjazB4RnFOaXJYRnFWUkl0SG5uanJyRFItT0xVTg?oc=5",
+   "source": "geniostv.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRkNiMV81MzNBUVpObnBNdUlPYlZWeW9malQxc1BIUXR2Qnd3OXlSb2N4U1V3LW5SWFlhQmtLX3NsU1U2VEtWelpsN1p2N240Wm4wOHFxNTEzeXBMMU1mSUhmY2RTamIycE85Y1pCTWpub2laOExXdVhNT0pvbFVaUmtZNWZxTjZRVnlDNy1aM1BIc08tMS1mRkdsLXB6UVVaZEU4WVQydnVUdUxGNmtjVHB0QjNSRWVOQS1aRW5rNzhYeUZKVFNEMGJGOHNDZ3pY?oc=5",
    "date": "2026-10-30T00:34:31+00:00",
    "state": "posando",
    "place": null,
@@ -680,7 +680,7 @@
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNUtLd0VVR0dFMEc4VTdYcXZkVzF3LWZOd2F3QjBsVEwwelhZaUh0UHpBcXJid1NXSlctbURNc01FNXZadnI5TTQ1UDN2dWx5X1dnbF9CQ2NWX21OaHo0LUp5SDR4VW5VSlFFb2Ixbi1zQ0xCdFFMY3VuaVQ0UVR2Q1Z5N2l1WEl3cFRlcFFCdEJoOGZRZEpFQnRnY1QxZ1Z0eW5zQmZ1UlI4QnJ0cFp0UTlrOFJZVWxRbE9sN0JZSmJZVUtxV3J1ZThrc1Q?oc=5",
-   "date": "2026-10-29T23:25:19+00:00",
+   "date": "2026-10-29T23:27:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
