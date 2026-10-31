@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T04:32:15.538834+00:00",
+ "generated_at": "2026-10-31T04:54:16.873302+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -458,12 +458,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "81c5c9f72153",
+   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
+   "date": "2026-10-31T04:42:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5d63d5eb11a6",
    "title": "Keiko Fujimori señaló que dos megacárceles tipo el Cecot salvadoreño pueden construirse en el Perú en siete meses",
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb2ZGc1BubG41Z0U0RFdVU2drOHVSNlljWFZTQ3NBTVprZ014Y1hTbktxeVlhSXVabzJnYnZZdnp5dm05RFM3TUZiTl8tRkZoUlZRVVVJOUhpWkpwb29UVzF5QUNQelA0UGM2MEVsVmdiVEZrNHFobVlfNXlnUm82WFZ2UDVBdi1wblZobUNXTHZUMDF1STJsZVgtNTVhajNuZGNRTk9iRG1kRWl5NUFUNGZHSjNhckRCU2xvQ2JhWHJwTk5fZ2tDUk9SNEI0OWhldU5UajQ2ZTNDQVlnT0VpekhMRDVEYURxUHdweXRNQlM1YlFlakxj?oc=5",
    "date": "2026-10-31T04:12:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8601d03d467e",
+   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
+   "date": "2026-10-31T04:01:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -656,17 +678,6 @@
    "next": null
   },
   {
-   "id": "81c5c9f72153",
-   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
-   "date": "2026-10-30T22:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c9eac731a1b8",
    "title": "Presidenta Keiko Fujimori plantea replicar en Perú sistema de telemedicina de El Salvador",
    "excerpt": "",
@@ -706,6 +717,17 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdiblJHQUV6cW1EWUlkeHY4cHdJWUhPNU5nZHNwRm9aWEFBdkozdVZWTnBvWEdPaWQ0YnZiaTI2a0FkYl9uMm1vMVh0aDI0Tzdvb252aU92dUpUR1Aydm5GSXVsdTZWa3F1SHJzUHdoX290d1NCLWItUm5ta0J4SEd1TGJTbmJmRzBEWXhHMDBod085d0lTNUNUM3UwWlEwYmZDTnNqNkI2QnVlX3RGS2lnUTZGZ2dnZ0VDZnZxWlk?oc=5",
    "date": "2026-10-30T21:26:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c5ef81de3f2d",
+   "title": "Keiko Fujimori sobre TLC con El Salvador: “Estamos bien encaminados”",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGhPaV9TWFFnU1JuSU9jcURpR2tpc1BXOWRLbnlKVF8zdXJ0RDh4eDVsTWJjT2xUbTZ2dXZDVmN6alJNdk91T0EyWnFyY2h5X2tSQ1l2VklTNXJMTlhDNjF1eXlwb3lZcVFJVnVpaUxISDNiLTQyQkdpRUg4UlZHZ0o5LTkyNFhuSnhZV2prWFdwMEFhSG1ILTFhbHNGS0tUTjVlZ1phZjJuVHhzdG1nTW9rX29jcjhFVHFTWtIB0AFBVV95cUxNWHNMZkx1YzE5Q05uM2c4N3VIdDJ0dGdFOWlMaFYwWjFMUUZSNGs5cE1lLWJhbjc2eUN5SmZnRG85aFlJY0xrS1A3MFdxSjhxRXpvaVFnSzZWdU5BSGctQ2J4TDJ4UHI1VXZsY2VIRnpIZUtRRzVqdTNmNWh1MTV2N1UwZDdHRndxQnZ6b01xWmw2YzdvcUFXeFo1VnFWVHlrMFNWc21DTk1EU01WM3luTjZYUmdmNjhnci1LVHFPaVNleTVYQ0dxVjdHMmxoMkZG?oc=5",
+   "date": "2026-10-30T21:14:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -805,17 +827,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
    "date": "2026-10-30T19:24:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8601d03d467e",
-   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFJ6VlNxZG5mM2NyTWxaaG43VzFaZmR5RnNYbHBMWU1lQXU4Q3c0cDREaFRDZTlMdnpuYnJSTFdnZ3h3eWhIMjB3MlNaSE9samhHY09sc3ZMRmNlNVFPMmEwU2M4ZkVEY0t5TGlsbzl2b3QxaVhJbzk2ZXA1c05rMV85QTZiYW9OeEx3U0NZVnlubnppVlhTbTh3STd1TWt6Ym15S21hZ3dNN2NZSGc?oc=5",
-   "date": "2026-10-30T19:16:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1103,17 +1114,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xoSW1WZUNfY3hUQ3NYbjVGZTlOMlRHUXJIeXpFWGpVVWFWMzJ4NWdZSDZwTUJaU2UwVm9VUVB5WlFZWnlRajFFamhNRDgyOGlkS1pVOE5ISVhwcFA0QU9qVHN2eFFJUWNDT0NteE9TZmF2OUxEVEdVRjFnemdKemF6elY2SVdBVktaQk9XaGhhcDVwWnpyalBtSzBEMl9XdFpZV09IMVF3YW5fWUVieWtMYWNDZklPbko4?oc=5",
    "date": "2026-10-30T15:16:33+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9f5d12017a25",
-   "title": "KEIKO FUJIMORI Y NAYIB BUKELE: REUNIONES CLAVES EN EL SALVADOR | BUENAS NUEVAS MALAS NUEVAS",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1ZSeHg0a1hPUjdGMXBRX3QyUFVKQnpwXzZyWnVZMVFiT1l2dFlUbXluM3ROeEdYeUY4QjBkWmdqRGJpMzZoa1hnNlpBUWM4R0pPRGE3blVmQVQtckZmcGlySFhPNTZ6MFJBNFJSZ2pjT0hkZVJ6bnh4eVlKcHBzZ1J5b1Z0cEsyOWRPZmRMMEV3cUp4eEtvN2JkYU1JZ1JIcjNhUjRzRFVGaW9UdVFQajJsb3dvWlhiM3E4cW5kYzM0c0lzTFE?oc=5",
-   "date": "2026-10-30T15:16:03+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
