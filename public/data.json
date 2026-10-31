@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T09:36:41.992434+00:00",
+ "generated_at": "2026-10-31T09:58:38.756502+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -437,6 +437,17 @@
    "next": null
   },
   {
+   "id": "585d4be81c70",
+   "title": "Keiko Fujimori espera concluir dos megacárceles a misma velocidad que el Cecot de El Salvador",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVi0wSTN0Z0NELUdFR3FuaVpPUUlZZkJLakYyR0JLUW9GT3NOWjZZeW1CZ09GaUNjazBGTXhHQS1YQ1FGZGhGNVJUYWdnWnN3NnE4eTVWaEo1YzlHcmVuRHNobFlXdW1vN2dZcDRtM0lEVE12NVNNak5SMmMxcGZZWlUxMnRlNy14cVNJVVN5ZllXNHFwelFFcXNGRHVsNnNzX3psMHdXUWphU2V1VU9EVmp2TVVnZEEyN2g5ZGlxNTY5YU9LS3RxQ19ZUC14MDAz0gHkAUFVX3lxTE1BWlVsNDN0YWs2S2YtNE1FWGluRVc1VVZ4c05zWXRseHRZUGZ6YWpKY3U1RzhDR1ptYnZsd3FTdkw0bS0taFlMRjFqRUcxeklmLWw2Qlp1MWFuWFlHSVl3eENDUWhVVUxGZzlwOENIb1RGaklwMl9IUV94WXlVNml5X25QMlBsMmZYWV9UQ1VYUmc5b3hsaE04QWxkMC1admwweDVyQ05QWnpueVExNUNJalNmb1M3WHMzZXpNM1BrXzJLemdEUFQ1VkxtVkhHbzAyaVF4cjE0dFFGN2F6TUNOT3lVWA?oc=5",
+   "date": "2026-10-31T04:05:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8601d03d467e",
    "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
    "excerpt": "",
@@ -659,6 +670,17 @@
   {
    "id": "c9eac731a1b8",
    "title": "Presidenta Keiko Fujimori plantea replicar en Perú sistema de telemedicina de El Salvador",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXVlVm5sdHp3cDFEazdfQjdOdzFPZ2Q4cWlBV1VQcDVwNlhHck13Q1N4YVV0eGRnLXlCVlIyN184R1YzX0F3RjdIZ2ZUQm16QlNsUDRacDhOd0k5ZXVVSDFJT0VlUFF1cTR6bXRtNThvNzFFUkxiUzItdzZyNDJDTzg0bEM4bUp5T1hCVmZCVnU1VVMzQ1hWb3g4WHBKN3hvbmdfMUg2YW5ybHZkSTNnU0RoTkpSVU1SNDBaddIB0AFBVV95cUxQVG1KT1RJT3lRSVVlYXdOVkZUeW1UVnMxaWdKSm9rLTJaWHlabENZUkhiNE9YVGZoa282bzlkU285VDZ1Y1dpUmk2T2ttWmotMmhSRHh6SUw2ZDZGa1VKRlEteDQtclJjR1lHMktIelRMc0Z0NTZWSlBZWk93OG9rU3JDY0EzOFRTdEVfam40V1QtbHNHZmRQanFEYkxuRUJnUDVYQ0h4N1pUMVQ2eE5WZE4xOWtDdnVFcmVvTEZkWGkwNXNMNGpDejdTMUVRbWlP?oc=5",
+   "date": "2026-10-30T22:39:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b608fdbc5691",
+   "title": "Desde El Salvador, Keiko Fujimori anuncia impulso de telemedicina para agilizar atención en hospitales",
    "excerpt": "",
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXVlVm5sdHp3cDFEazdfQjdOdzFPZ2Q4cWlBV1VQcDVwNlhHck13Q1N4YVV0eGRnLXlCVlIyN184R1YzX0F3RjdIZ2ZUQm16QlNsUDRacDhOd0k5ZXVVSDFJT0VlUFF1cTR6bXRtNThvNzFFUkxiUzItdzZyNDJDTzg0bEM4bUp5T1hCVmZCVnU1VVMzQ1hWb3g4WHBKN3hvbmdfMUg2YW5ybHZkSTNnU0RoTkpSVU1SNDBaddIB0AFBVV95cUxQVG1KT1RJT3lRSVVlYXdOVkZUeW1UVnMxaWdKSm9rLTJaWHlabENZUkhiNE9YVGZoa282bzlkU285VDZ1Y1dpUmk2T2ttWmotMmhSRHh6SUw2ZDZGa1VKRlEteDQtclJjR1lHMktIelRMc0Z0NTZWSlBZWk93OG9rU3JDY0EzOFRTdEVfam40V1QtbHNHZmRQanFEYkxuRUJnUDVYQ0h4N1pUMVQ2eE5WZE4xOWtDdnVFcmVvTEZkWGkwNXNMNGpDejdTMUVRbWlP?oc=5",
@@ -1059,28 +1081,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVhaTGwzUFNraElydHJUYnYzUzZJUDZxRi12WnJySGxYTXNJRXV1dlVTYTZQOEtnd2g4djFGaWZaVGI1eEJhTEh1Unk0eHhObTJOUW50NFhDcXpBRHRXNlNZbVdsWmE4ZW9XWFhzVFFTQnRYWVg0NDJkQ0t5UERCWjVLSkJEd0Fwc1RMSHQwNmxpYzhWY3N4UUxHMElDLTYtY01BZzFYOW5zWmZfOEd2aFhEanVXNTVXTE11eEdsQ3lCY3R3cGc1NGhicmw?oc=5",
    "date": "2026-10-30T16:32:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "36474c48c3e4",
-   "title": "Presidenta Keiko Fujimori visitará colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXVmTG9jY3lkV0VmV3g4OExySHV3T2xsUnhvcE9pYTNxNTkyZzE0clM4Z3hkYjA2dnFOVFptc1k3VEtScW55ZXpnMkVqVEwzWG5mcVdrMjg3OTVQdHNLSTV5X2Z6YVhOaWhiUGZkdW1USGhOVFJmVFJnRVMzNlJsVkttbF8ta3Zyb3JYT1liMUxFNE5IUDFIdTZMaU5YTVg4dnQ1RXVUTzU?oc=5",
-   "date": "2026-10-30T16:20:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a0808104cdb4",
-   "title": "Alcalde de Piura dice que Gobierno no asigna presupuesto a tres proyectos pese a compromiso de Keiko Fujimori",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYml3Wml1VUxTazQ4NW9ZSzBMYnBYS1hqSnVFVUFoSXZZQ1BkaUc0T2ROYXV6QTUwOHVJMDkyeUFBLUVfeU9QajFiNGlaenJtVnhuWk9xODAxZzRsVWRnclVObWJBZVdXVEZnYTdyUkRBb0ZwNkhLZUgwc0pvTGVBYnBSSFFEUXhnMlZOd29yeWVURWNXel9YNk5EVFY0VDdIWWZPX00xcUNacFMyS18yZ2w4enpLUQ?oc=5",
-   "date": "2026-10-30T16:04:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
