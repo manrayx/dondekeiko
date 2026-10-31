@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T10:42:00.874097+00:00",
+ "generated_at": "2026-10-31T11:26:06.046423+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,7 +94,17 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": null,
+ "last_place": {
+  "place": {
+   "name": "Hospital Rosales",
+   "city": null,
+   "lat": -3.69762,
+   "lng": -80.43673,
+   "abroad": false
+  },
+  "source": "Infobae",
+  "date": "2026-10-30T23:43:00+00:00"
+ },
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
@@ -111,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-31T03:25:00-05:00",
+   "end": "2026-10-31T03:25:00-05:00",
+   "minutes": 0,
+   "subject": "Llegada tras cumplir Visita Oficial en El Salvador.",
+   "lugar": "Aeropuerto Internacional Jorge Chávez, Callao",
+   "state": "posando",
+   "place": {
+    "name": "Aeropuerto Internacional Jorge Chávez",
+    "full": "Aeropuerto Internacional Jorge Chávez, Callao",
+    "city": "Callao",
+    "lat": -12.01943,
+    "lng": -77.11941,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-10-30T22:21:00-05:00",
    "end": "2026-10-30T22:21:00-05:00",
@@ -566,6 +592,23 @@
    "date": "2026-10-30T23:46:28+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "d0fa64aec3fb",
+   "title": "Keiko Fujimori recorrió el Hospital Rosales y evaluó su modelo de atención especializada en El Salvador",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSTNoUkFRcEpCWXJ0MnVscWMzRHR2R0FyWm1sa3piT2VuRjFFZXlucU9fd0lpOWJGdEJucWF2bW5BMXlaYkhiaDVfQ3dqby1NZ1JuN21IY3JoYWVMb01JNEF1OVI0UUVkM3pmQXRKbXpvT1pmN01BYm5oTjFNUVkyaHBERVYybkJkbE9vVlRld0hEaFRzNXFLODc2NTY2cnY3Yl82Mi1fa1hqYVBOTkQ5XzJlUGluTHQxVV9ZbTZxaDdEb1QwOEc2SWdNOW5jUTdfNmF1b0k2WXAzS3U1czIxdlRwQTdVZ9IBgAJBVV95cUxNbFQ0TWVHVFdHR0NXOGhJa1pwTkgtbHJsbDNHTWRERDZTNnVWbzUxM1hUQ0x4U2JCVmxKdE90S19VWHBfWXFaNkRiaEcxN2NrZXBuVTJ5dVNTQThVemlPQnRqTmlONVY0djY0MmRNTE1SM2tHaGxPMFV6WElPYmRFOWZoWG1lT1FiaDNkMkoxZXc5bGliTTNubU9ybER3MWgtczdaOXdjcEM4Y3E1cjl5WmZtSER0VWszbzFLTTVTRDFHZnVvSFd5Q0R0dU1NMk9DWUgtYkFyOU51cGVrb2tEMUs5dUx2dEFKLXVBS1pwZmlCUWRPQ0QxNFpuUjEzc2ZO?oc=5",
+   "date": "2026-10-30T23:43:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Hospital Rosales",
+    "city": null,
+    "lat": -3.69762,
+    "lng": -80.43673,
+    "abroad": false
+   },
    "next": null
   },
   {
@@ -1073,17 +1116,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "ff5c1bb0c3c8",
-   "title": "Keiko Fujimori desde El Salvador: \"Estoy aquí para estudiar las cosas positivas que ha hecho Nayib Bukele\"",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeEptNGo0UjI4Rm5VU2N0cFpfVGxPeXlNdGlSTm5OT1hfeThzYWVGWnpGZFR6Qlpfb1Q4RzlOQ3RCSTF3dzBOWVdfYzFwcjVidVE1LW1FNXNUZWZ1UnB0ZXgxcnkyN0dDUjRoRG5QbDJqTWVhcXpjVE5Ma2pxb2dnTVNKVl9pLV81U1FIX0hwTldBVDNfdUlvNXBGNlk5Ql82cVpORTcwZTVJX2o0UlhIZkJxRUlsRWFiQUdieDRpZGk3TDBHTzlKNmFpTUJIQnV3RE5NRDNKNnpUaWYtc3F1WHpIZzRVVzdmb0t1WXF5UWRDLUx0?oc=5",
-   "date": "2026-10-30T16:41:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1151,6 +1183,10 @@
    -80.68848
   ],
   "sala javier perez de cuellar – presidencia del consejo de ministros, peru": null,
-  "establecimiento penitenciario ancon i, lima, peru": null
+  "establecimiento penitenciario ancon i, lima, peru": null,
+  "hospital rosales, peru": [
+   -3.69762,
+   -80.43673
+  ]
  }
 }
