@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T13:15:58.117732+00:00",
+ "generated_at": "2026-10-31T13:38:03.505662+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -452,6 +452,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "daa74d591914",
+   "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, descartó que su Gobierno evalúe un cambio en la conducción de la Presidencia del Consejo de Ministros (PCM) y ratificó su respaldo a…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-descarta-cambios-en-la-pcm-y-ratifica-respaldo-a-luis-galarreta-noticia/",
+   "date": "2026-10-31T13:32:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "634dcd67fcf7",
+   "title": "Keiko Fujimori cierra octubre con tercer día de visita a El Salvador y 156 homicidios registrados",
+   "excerpt": "La mandataria aseguró en El Salvador que busca conocer las estrategias de Nayib Bukele, pese a que el propio presidente descartó que puedan replicarse en el Perú. Mientras tanto, Lima,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-cierra-octubre-con-tercer-dia-de-visita-a-el-salvador-y-156-homicidios-registrados-hnews-472770",
+   "date": "2026-10-31T13:17:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "053c05b672b6",
    "title": "Keiko Fujimori: ¿ganar o gobernar?",
    "excerpt": "",
@@ -540,17 +562,6 @@
    "next": null
   },
   {
-   "id": "daa74d591914",
-   "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, descartó que su Gobierno evalúe un cambio en la conducción de la Presidencia del Consejo de Ministros (PCM) y ratificó su respaldo a…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-descarta-cambios-en-la-pcm-y-ratifica-respaldo-a-luis-galarreta-noticia/",
-   "date": "2026-10-31T01:55:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "b64b240b6345",
    "title": "Diputada Roxana Rocha dice que visita de Keiko Fujimori a El Salvador debe servir para replicar infraestructura carcelaria",
    "excerpt": "",
@@ -601,17 +612,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWVES2Zuc3Rfb0IzeEFJWXl4bXljVk83bWVaQTFTSlE2MU9CYWVETzhFRE1MczlYdVBlZDZwaWxHQm9IdlNMWTFPZHBFQWRYbTJKalRVaXliM0lleXBoQTRBd056WXZYMFJNd3l2U0xaYkJNeTAwWnNraHFEZ2owRnVVYkdHbEhaUEROTXhzeFFyZkRlS3Fv?oc=5",
    "date": "2026-10-30T23:49:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "634dcd67fcf7",
-   "title": "Keiko Fujimori cierra octubre con tercer día de visita a El Salvador y 156 homicidios registrados",
-   "excerpt": "La mandataria aseguró en El Salvador que busca conocer las estrategias de Nayib Bukele, pese a que el propio presidente descartó que puedan replicarse en el Perú. Mientras tanto, Lima,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-cierra-octubre-con-tercer-dia-de-visita-a-el-salvador-y-156-homicidios-registrados-hnews-472770",
-   "date": "2026-10-30T23:46:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
