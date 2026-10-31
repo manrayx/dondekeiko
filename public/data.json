@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T03:05:09.373662+00:00",
+ "generated_at": "2026-10-31T04:32:15.538834+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,6 +111,23 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-30T22:21:00-05:00",
+   "end": "2026-10-30T22:21:00-05:00",
+   "minutes": 0,
+   "subject": "Partida de retorno tras cumplir Visita Oficial en El Salvador. (Hora local)",
+   "lugar": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
+   "state": "posando",
+   "place": {
+    "name": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
+    "full": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
   {
    "start": "2026-10-30T14:25:00-05:00",
    "end": "2026-10-30T16:18:00-05:00",
@@ -441,6 +458,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5d63d5eb11a6",
+   "title": "Keiko Fujimori señaló que dos megacárceles tipo el Cecot salvadoreño pueden construirse en el Perú en siete meses",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb2ZGc1BubG41Z0U0RFdVU2drOHVSNlljWFZTQ3NBTVprZ014Y1hTbktxeVlhSXVabzJnYnZZdnp5dm05RFM3TUZiTl8tRkZoUlZRVVVJOUhpWkpwb29UVzF5QUNQelA0UGM2MEVsVmdiVEZrNHFobVlfNXlnUm82WFZ2UDVBdi1wblZobUNXTHZUMDF1STJsZVgtNTVhajNuZGNRTk9iRG1kRWl5NUFUNGZHSjNhckRCU2xvQ2JhWHJwTk5fZ2tDUk9SNEI0OWhldU5UajQ2ZTNDQVlnT0VpekhMRDVEYURxUHdweXRNQlM1YlFlakxj?oc=5",
+   "date": "2026-10-31T04:12:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "230d5ca1493f",
    "title": "Keiko Fujimori descarta salida de Luis Galarreta de la PCM tras versiones de cambios: \"Es un simple chisme\"",
    "excerpt": "El pronunciamiento desde El Salvador llega después de varios días de especulaciones sobre la continuidad del jefe del Gabinete. El propio premier había respondido a las versiones durante una visita…",
@@ -491,17 +519,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSllQd0c1cEhqTGRqek9lMlRCcUdRdFVxTC00QnZVRWZYYmU4VVRFUG1pRlAzakVNMkt6d0hCUmMwNFNCV2paLWMyakhlX2JXNW5pT2VNdjhwbFUtUkd2N2EwY3owRnlDcEZhTm05TTIzUXlLYUZXazFZOGx6a0FDd0NKN052a3dKSkRoWDF0MjNmdzkzRnpmcWV3NjJ4SjVVam9nTWlpREF5YWEzMDRubUhfMWNZMDloRTBHc01mQXB6LXN2WFE2QThhQTZOdW5qcGliWG41Q3BHOEMxUUVva2FMcE8xekwwc19xY1dRTGNjSUtFX3A2TmxvQXZqZw?oc=5",
    "date": "2026-10-31T01:06:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "81c5c9f72153",
-   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
-   "date": "2026-10-31T00:35:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -634,6 +651,17 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNQclJlV21pSUdNc1NJZ01VUWRiR01yOWpqS1pYWVRlcWtSdFNrOENfcTdKQjRYY05pLVFzckl3RGEyLXJibmxGX3FXcmk5SVowTDhIaGdLNndxb2xacXhDMlUxS1NOZHRGR1U2MXBfQmpRb3poUERJdmZVUHBUWDBrZmo3T0gyTU45YW9wMUlyZUo1OTY5MkNBQWZYUEc4bW0tSFpTTHMtSlhGdVExTUI2STZRQkJteUVyRW0zMmV6V1huZHh6U1Rn?oc=5",
    "date": "2026-10-30T22:57:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "81c5c9f72153",
+   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
+   "date": "2026-10-30T22:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1085,17 +1113,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1ZSeHg0a1hPUjdGMXBRX3QyUFVKQnpwXzZyWnVZMVFiT1l2dFlUbXluM3ROeEdYeUY4QjBkWmdqRGJpMzZoa1hnNlpBUWM4R0pPRGE3blVmQVQtckZmcGlySFhPNTZ6MFJBNFJSZ2pjT0hkZVJ6bnh4eVlKcHBzZ1J5b1Z0cEsyOWRPZmRMMEV3cUp4eEtvN2JkYU1JZ1JIcjNhUjRzRFVGaW9UdVFQajJsb3dvWlhiM3E4cW5kYzM0c0lzTFE?oc=5",
    "date": "2026-10-30T15:16:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7da03717ce48",
-   "title": "Keiko Fujimori invita a empresarios de El Salvador a que inviertan en el Perú",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, invitó a empresarios de El Salvador a que inviertan en el Perú debido a sus indicadores económicos y a la estabilidad política que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/actualidad/keiko-fujimori-invita-a-empresarios-de-el-salvador-a-que-inviertan-en-el-peru-apuesplan-ultimas-noticia/",
-   "date": "2026-10-30T14:59:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
