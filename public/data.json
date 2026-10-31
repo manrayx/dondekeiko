@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T00:32:15.794847+00:00",
+ "generated_at": "2026-10-31T00:53:47.533972+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -441,6 +441,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "81c5c9f72153",
+   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
+   "date": "2026-10-31T00:35:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8601d03d467e",
+   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
+   "date": "2026-10-31T00:35:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dbf625d54dba",
+   "title": "Presidenta Keiko Fujimori promoverá oportunidades de inversión y comercio con El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUC1OMHhKMGFUSVdiOWJGUmlkektiYkg3QlBwbkpnV2RtanczdXZpeW91VHd5RTUtdUU3TWszSnZta2xZWXMzZHNmTUtRaGR2cC1VT0JldzRNSFktdUtGdmJpRFJYNUJ2cFltVmVZcl85cmtzWF9mWXpMbVBYWW9HNHNoVmF2emVkSWxrMGJDdVUtdDVqMGJBOWd1Yi1qYVNnRTlQWUlTMEhWVEFFVmFRTTdHZEFVT3pYb1ducUZIOGxKQ3ZjOW5vYXhB?oc=5",
+   "date": "2026-10-31T00:33:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8c9ecbc67179",
    "title": "Visita de Keiko Fujimori a Bukele: el análisis de Carlos Basombrío",
    "excerpt": "",
@@ -540,34 +573,12 @@
    "next": null
   },
   {
-   "id": "81c5c9f72153",
-   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
-   "date": "2026-10-30T22:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c9eac731a1b8",
    "title": "Presidenta Keiko Fujimori plantea replicar en Perú sistema de telemedicina de El Salvador",
    "excerpt": "",
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXVlVm5sdHp3cDFEazdfQjdOdzFPZ2Q4cWlBV1VQcDVwNlhHck13Q1N4YVV0eGRnLXlCVlIyN184R1YzX0F3RjdIZ2ZUQm16QlNsUDRacDhOd0k5ZXVVSDFJT0VlUFF1cTR6bXRtNThvNzFFUkxiUzItdzZyNDJDTzg0bEM4bUp5T1hCVmZCVnU1VVMzQ1hWb3g4WHBKN3hvbmdfMUg2YW5ybHZkSTNnU0RoTkpSVU1SNDBaddIB0AFBVV95cUxQVG1KT1RJT3lRSVVlYXdOVkZUeW1UVnMxaWdKSm9rLTJaWHlabENZUkhiNE9YVGZoa282bzlkU285VDZ1Y1dpUmk2T2ttWmotMmhSRHh6SUw2ZDZGa1VKRlEteDQtclJjR1lHMktIelRMc0Z0NTZWSlBZWk93OG9rU3JDY0EzOFRTdEVfam40V1QtbHNHZmRQanFEYkxuRUJnUDVYQ0h4N1pUMVQ2eE5WZE4xOWtDdnVFcmVvTEZkWGkwNXNMNGpDejdTMUVRbWlP?oc=5",
    "date": "2026-10-30T22:39:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8601d03d467e",
-   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
-   "date": "2026-10-30T22:01:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -601,17 +612,6 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdiblJHQUV6cW1EWUlkeHY4cHdJWUhPNU5nZHNwRm9aWEFBdkozdVZWTnBvWEdPaWQ0YnZiaTI2a0FkYl9uMm1vMVh0aDI0Tzdvb252aU92dUpUR1Aydm5GSXVsdTZWa3F1SHJzUHdoX290d1NCLWItUm5ta0J4SEd1TGJTbmJmRzBEWXhHMDBod085d0lTNUNUM3UwWlEwYmZDTnNqNkI2QnVlX3RGS2lnUTZGZ2dnZ0VDZnZxWlk?oc=5",
    "date": "2026-10-30T21:26:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dbf625d54dba",
-   "title": "Presidenta Keiko Fujimori promoverá oportunidades de inversión y comercio con El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUC1OMHhKMGFUSVdiOWJGUmlkektiYkg3QlBwbkpnV2RtanczdXZpeW91VHd5RTUtdUU3TWszSnZta2xZWXMzZHNmTUtRaGR2cC1VT0JldzRNSFktdUtGdmJpRFJYNUJ2cFltVmVZcl85cmtzWF9mWXpMbVBYWW9HNHNoVmF2emVkSWxrMGJDdVUtdDVqMGJBOWd1Yi1qYVNnRTlQWUlTMEhWVEFFVmFRTTdHZEFVT3pYb1ducUZIOGxKQ3ZjOW5vYXhB?oc=5",
-   "date": "2026-10-30T21:21:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
