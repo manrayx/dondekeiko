@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:48:19.513611+00:00",
+ "generated_at": "2026-10-31T00:10:16.273533+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -441,6 +441,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8c9ecbc67179",
+   "title": "Visita de Keiko Fujimori a Bukele: el análisis de Carlos Basombrío",
+   "excerpt": "",
+   "source": "Epicentro TV",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMUo3dGx5V180Z05IVWFOMExEMUlWR1BkSjB2WXEyaGZlSTZYb3VXU1ZOanp3VTBBRjJmaVdyZHF5U0pEdmNDSm1yOGp0R3lYXzlJVXU0Nnh2RzliRTVNOHJmQ2ljeDg3NTVYMjc3YV9Fc2dRYWtud3pacC1YSzFZUWZVVkF3M0RhV0hWSDhxQ3o?oc=5",
+   "date": "2026-10-31T00:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "634dcd67fcf7",
    "title": "Keiko Fujimori cierra octubre con tercer día de visita a El Salvador y 156 homicidios registrados",
    "excerpt": "La mandataria aseguró en El Salvador que busca conocer las estrategias de Nayib Bukele, pese a que el propio presidente descartó que puedan replicarse en el Perú. Mientras tanto, Lima,…",
@@ -452,12 +463,34 @@
    "next": null
   },
   {
+   "id": "2a4e4af968cd",
+   "title": "Keiko Fujimori ratificó su respaldo a Luis Galarreta como presidente del Consejo de Ministros",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdGxHRjFZVzhYa0JrSmJmQ252TjhTZzZQZFJ4clctcG5OUk04UmRHV1YzMG1PSVdXeEJQaWtZdWpBMUIyRjF6QUctanhuQkYxbXBnVmg4ajd2S0tDbE1Sb1JhNl9ySmJrS1hpdUFLSmQ0R1F6TG5hWGNNc2pIV2xSc3dzckJpSkUzT2pfU1B1cmNha3Y2d0hHQk1YckxNVVp4UVBkSWFEa1RKQVpXSmlOaUdXVUY1UV9SdzJFakVLc0FrTXVQd1lwdWpoTWRXN0dhNWMzNEFNR1cxZw?oc=5",
+   "date": "2026-10-30T23:38:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3cc29d7f1a75",
    "title": "Keiko Fujimori asegura que Luis Galarreta continuará en el cargo de primer ministro: \"Mi confianza es absoluta\"",
    "excerpt": "Durante una declaración a la prensa en el marco de su visita a El Salvador, la mandataria calificó de “chismes” las versiones sobre una eventual recomposición del gabinete ministerial.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-asegura-que-luis-galarreta-continuara-en-el-cargo-de-primer-ministro-mi-confianza-es-absoluta-hnews-1360710",
    "date": "2026-10-30T23:32:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7e2a7f2fb568",
+   "title": "Alvina Ruiz respalda el viaje de Keiko Fujimori a El Salvador: “Es una mujer que tiene mano dura y cumple sus promesas”",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVFpc0c4WEVDczZSZV9Lb2xJOUcxcElCTXJscE11X3pzRThhSUl5NFNkYVVBbzJncnJ0enZqZjdWS3ppXzMxZHRBVTlCd3RDLXhEandlc3dUOVgwUEJva0ZoOGFYZkJWb1d2Tmd4M2I4NUMzTllkdVR5LU5xQXdrNWpJVjNVSmc2bjFEMWIzZ1J0NU15TEE?oc=5",
+   "date": "2026-10-30T23:26:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -513,17 +546,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
    "date": "2026-10-30T22:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2a4e4af968cd",
-   "title": "Keiko Fujimori ratificó su respaldo a Luis Galarreta como presidente del Consejo de Ministros",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdGxHRjFZVzhYa0JrSmJmQ252TjhTZzZQZFJ4clctcG5OUk04UmRHV1YzMG1PSVdXeEJQaWtZdWpBMUIyRjF6QUctanhuQkYxbXBnVmg4ajd2S0tDbE1Sb1JhNl9ySmJrS1hpdUFLSmQ0R1F6TG5hWGNNc2pIV2xSc3dzckJpSkUzT2pfU1B1cmNha3Y2d0hHQk1YckxNVVp4UVBkSWFEa1RKQVpXSmlOaUdXVUY1UV9SdzJFakVLc0FrTXVQd1lwdWpoTWRXN0dhNWMzNEFNR1cxZw?oc=5",
-   "date": "2026-10-30T22:37:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -590,6 +612,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY2dqNXppaUVZM0dnM1dLMmpRUXZFMmtJZDNOcWtaOVZNTWhWbkVLNnpxSjJoaEVBX2gxdlozS1NQWXRyN25TY0xFUFBsbDU3c2tidHhnRlF1Vk96bHhfSWV5WE9WS09WQUNjdUtFcVJPMlFmXzBhS1dfZG55Ylp0ZFA0dk5QV1JxMWJfaHFldVZoRGNjTVFnRktDWkFSTGhwSkFvcWY2aE16VjJsSFlEa1M0OHVZbXFOZlJJ?oc=5",
    "date": "2026-10-30T20:49:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "524cd3667b83",
+   "title": "¿Un CECOT a la PERUANA? Keiko anuncia 2 NUEVAS CÁRCELES al ESTILO BUKELE | Trome",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkJNVTNPZHFUNk10dXdSYlNidFJ4Ni1HUjBKQWdvSGQxSGlEX2E2cUV5Y1d3a1A3U29fTkdIc1Y0akFMbk5sMm9HYl9ZNUlDaDZMeTlZdU53T2dqZWdtT25Ob2pRS294QVd1NE9jYUFQWThzcVIzaHhXT3BhcHBaQ2tOY3JqbUtVcnRFMm1PaVRVWUJtR09Ra3huVzAwNXltSVJTZnQ0ajhjWGtXT1NETXRqMGtiUVU3?oc=5",
+   "date": "2026-10-30T20:33:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -700,17 +733,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWF0cndnTkZMZEFveWtRZ0ZJUnZ6SmZ2RC1lckFDQWxGQ0JEcGZMMHA2dnBPZWQ3NGpYbGxMbDZORXFFbUJTX1cxeHVjZXRycVVxYXJ6WWpDWFNSamJ1RG1HVWZqaWRjbVNqSWJ2NFM5M0JYdnpiUF9qSUJtdHloRkdiVV9jWGlfSFd0QWVkMzM3WXotbXdOUTBfamN1a3BUM05MM3VIWUlUWktoUUt1dA?oc=5",
    "date": "2026-10-30T17:59:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7e2a7f2fb568",
-   "title": "Alvina Ruiz respalda el viaje de Keiko Fujimori a El Salvador: “Es una mujer que tiene mano dura y cumple sus promesas”",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVFpc0c4WEVDczZSZV9Lb2xJOUcxcElCTXJscE11X3pzRThhSUl5NFNkYVVBbzJncnJ0enZqZjdWS3ppXzMxZHRBVTlCd3RDLXhEandlc3dUOVgwUEJva0ZoOGFYZkJWb1d2Tmd4M2I4NUMzTllkdVR5LU5xQXdrNWpJVjNVSmc2bjFEMWIzZ1J0NU15TEE?oc=5",
-   "date": "2026-10-30T17:53:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1074,28 +1096,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/29/bukele-le-dice-a-fujimori-que-no-se-puede-replicar-el-modelo-salvadoreno-en-peru-copiarlo-identico-no-tendria-sentido-hnews-1292298",
    "date": "2026-10-30T04:04:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "df1727838fe5",
-   "title": "Keiko Fujimori invitó a Nayib Bukele a visitar el Perú",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDA2MDdPU3ZYWVdYOFdrVkJFQ255WTNfV3dlRmFsX3hHSGZnOU8tNXIxbE5KRFdjLXpfYm1xcU5MSXVoQ3dWWDNfOEEtcXppdzVkeENJUEFGaEhPUm43TEd3SEZ5YUhZbUlfek9DczBBZ0U0SXNqNUxYM0VzQi1adXgxRUdBNDdBZ2VfTVMxTU5sUEdpdkVYV0pxc2zSAbABQVVfeXFMUEdvOWFEeHpWb2lsM0hpVmFWaW1DazB0NGlBOTQ1QzlQZ1hMRGQ4VWRLVjZfeHB1QjBRU18ya04wblI1VGJSMDBobklQN1NkOVR1cVR6aXQxc252RGMzRE1XVGpsQ3JvUUlFWlFCUDlmczEtdUF1QVI5V0NHX3dyTkotSWtqNE83b1lUSHM3ZThsN29odUJXQzZZaU11S0xBQkkxVVZRcFFrbWNMTkNhNUw?oc=5",
-   "date": "2026-10-30T03:50:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3c5f1379b2a5",
-   "title": "Keiko Fujimori invita a Nayib Bukele a visitar Perú y plantea firmar un tratado de libre comercio con El Salvador",
-   "excerpt": "La presidenta dijo a su homólogo que será recibido “con los brazos abiertos” y mencionó las pupusas, uno de los platos preferidos del mandatario salvadoreño",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTkJJYnpOVFNCMkhkeTZZMWo5TTJLckhra2Z3VTc5cmlkNDhleUdqTUZ1ck5GSzloTHZGbldtbklvWFpONGlkakR2c0x6Z3VXdVJaYzJZVl9udXdKc21UUWZwV0xRMkc2R3BkSWMwNTJIVG5CZlBidDY4MTQ0Rzd1RnJEeUI2dWNyQUptb2JxZTRVbXlDTzhJSmprZmVyOFhQQWx4RC1RVDB6UWxNZ1hjeXZkcVV5RWdsRnRaeHRzOFZYdzVGYzhRb0dKNWRsRllLd1dxczNDRDBFSzE4WHNTOVQ2aWd2bE9JUGfSAYQCQVVfeXFMTU1GUEFyNFVkckU4cUlNajBUTHFIREV0dk9xUUs0VUZNZmtIa2pJUlhZS202ajZnY2pVeDFIdXhFR3VYczgydXBiMW5XTmQxS3BLNHFkRkt4V3ZLNzJGbnVudUFnMk4wU2s5U1JwMVFiQTFuaHpPRW5BX01wU240UHNsR3gyOG8yVHVIcDJ4aTVtVmxQbjc2QkNjaTdaTUNKOThBVnRzbEFSV0hWV1IxU0JwUE44NUNHM1NqZG13R2w4b3BrbUdvTUZORWNCOWdMMVNnUTZRWFRZU244b0Y3eHNIbjBLSTN4N2dSUmRScmdfUEg1MlZyQ3puYjlyOW1BakY3ZVg?oc=5",
-   "date": "2026-10-30T03:39:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
