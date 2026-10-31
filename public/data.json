@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T11:26:06.046423+00:00",
+ "generated_at": "2026-10-31T11:48:17.746112+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -451,6 +451,17 @@
  "agenda_minutes_7d": 1125,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "053c05b672b6",
+   "title": "Keiko Fujimori: ¿ganar o gobernar?",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUjNDcGZ2VGpSOU9obU1JVjFzMEhMLVVEbk4yNVhNZjB0bnlYZVRiTXhrR0NfdFI1MFZ3c1p2MHU4bWNWeGtEejlocVN6TlVReGFFMzhTM1dhMWNfampfZWRNaEw1QmlLdWhvSjZ6Y1g?oc=5",
+   "date": "2026-10-31T11:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
@@ -1102,17 +1113,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUlNIV2xMSGFzYlU3eDBGU3NDT04tdVZmUmJKWk9TM1RzTm5uTTVjSEtVVUx0elhJdUdkM2UycXU3ejdoTl9PeEU4NGh4QXJoektUeVZVM2xDdXc3TFFBeDk1dTREX3hzdEVJYXJwbUtXSXRzcVhlMmRsa1FremtkMUhPcEswUUZsdDl6M2JSV0JSREJST2l6TWVmcXFDWVl1ZWVFTU5Nd2h3ZHRXbWFlUmMxeFFkQ19KeTVSRTFuSE9UNVM2d0dudzcwcUpEVklCd0lwWTRLMjdEdFNtWUluaHN3R3dMNE8wbHFScC1uX00zVllfVnRGRzV0cEVQdDJwTkE?oc=5",
    "date": "2026-10-30T16:44:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "35975cd0310f",
-   "title": "Presidenta Keiko Fujimori se reúne con...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQakVfdGhET2hwclBBUkRvUTBBVU1CMkFQYVpTYjNlMGZXN2xPRFFhbFpsemhVSjAwYUR3a2pUci1sVVNSZUJmVEV5MFZzQ1pUUFZCQ3ZSZjJXcHE4aDdWV0dIdVJHM1h2SUhGLUJFSTNrYzRqWWFMWHdtb2NwVDJ5ZnlBSC1aanRlVFVkaUxndDZ0cjZwdS1xb2VXMnpQbTJfX2N3d0FxVGZJOTRuUUItWDAxUEg0R1FodnfSAb8BQVVfeXFMTW96MlBDSXA1cC1mVzA3SXRTNGpIVkZCbF8zTkhBcndvQ09tLV9xQ0M0OGk4cEhwSVBGbjROZWZjUTRzWTU4V25rVk5aSFdHWlJXV2VGUXJfYndyeUZReFlTUXhYeFh4WXFaX1dyR3RpQnZKd0dDVk9WQVhiQXVteHFWRXNXeG9CWV9VcTh2UUVlMGcySzc0dUQwT0EyQ1BuUkZqMDdxeGhEbkVETmt4R0xJaEhTQVBTRFpvbVBnakU?oc=5",
-   "date": "2026-10-30T16:43:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
