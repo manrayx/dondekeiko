@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T01:59:25.070682+00:00",
+ "generated_at": "2026-10-31T02:21:28.460100+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -440,6 +440,17 @@
  "agenda_minutes_7d": 1209,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "230d5ca1493f",
+   "title": "Keiko Fujimori descarta salida de Luis Galarreta de la PCM tras versiones de cambios: \"Es un simple chisme\"",
+   "excerpt": "El pronunciamiento desde El Salvador llega después de varios días de especulaciones sobre la continuidad del jefe del Gabinete. El propio premier había respondido a las versiones durante una visita…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/10/31/keiko-fujimori-descarta-salida-de-luis-galarreta-de-la-pcm-tras-versiones-de-cambios-es-un-simple-chisme/",
+   "date": "2026-10-31T02:04:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "d1eda63e7c4a",
    "title": "Visita oficial a El Salvador ha sido muy fructífera, asegura Keiko Fujimori",
@@ -1085,17 +1096,6 @@
    "source": "Revista COSAS Perú",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFN2WWhCV2p6ZU03ZnYzb2Fjb3MxRjBGbUNfRUVVU1BHOEZiRHhXOTdZZ1ZhZ3hxdFJBQ0VRSThfWF9tcXhfV1hxQ1VsdXdKRVR1VDZobjN0cmVsYnpuOXRoMnIwQW5VUndlSlF4MzFobTBOZW9JRG42NzRXbjNVLWpHaEs3N2xkdGhZU2k3VmltZ1l4QURTaDB0dGl3RHZnWXVUMjltY9IBqwFBVV95cUxPYzJBRnM4S3haYU1jVlZiUXlPODNfbERtdWRoZklVNk1zNmVuT2xlcjJuekdQS0NDUUx0SmRVNWNJN0sxcGQ1Wkg1Rnp4WElvTGN6LVdnczlteERkVVVPMktfUjJMVTUyVUcxMVlGaS14bWo0VmdJQVpGU1RRbGgxeHVaNUZRVXZGZ1VFVXZjclJ3a3BHU1oycUR2dkExM3BKOENPTUY0VVRwZmc?oc=5",
    "date": "2026-10-30T13:25:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7afcd867f375",
-   "title": "Presidentes Keiko Fujimori y Nayib Bukele se reúnen en la Casa Presidencial de El Salvador",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQldvaXIybkkzaklseUVEdGtNajktWnhKZEdoSEhHYk9IUktKeG9jRmUxaW11b0liTXdKb3FhTnRXaVJFczRBbnJpdmJpVTVIZ0ZtcDlabmlrdWQ3YVBPMEZXLTR5SEhkRl8xYzJteDMzVm1BWVVBVkg5clEyeEp0UHZGS29Ua1o5VFhDN0QtcG9mSnoyYlNFMi1hVVZ2TFRBRU9wV1ppWVFwOVRaREdBR2JPNmR3WTZseVNDV1ZkYXpGRl8yQ1I3YlNLbVo3RGs?oc=5",
-   "date": "2026-10-30T12:33:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
