@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T20:10:08.708338+00:00",
+ "generated_at": "2026-10-31T20:32:06.895939+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,8 +111,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 59
+  "triste": 0,
+  "posando": 60
  },
  "total_7d": 60,
  "silence": {
@@ -451,6 +451,17 @@
  "agenda_minutes_7d": 1125,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "59f8b51f6851",
+   "title": "Gobierno de Keiko Fujimori nombra a excandidato de Fuerza Popular director de la Casa de la Literatura",
+   "excerpt": "Ricardo Vásquez Kunze reemplazará a Gary Marroquín Mendoza, cuya gestión quedó marcada por la controversia tras la suspensión del premio al historietista Juan Acevedo. El nuevo director fue jefe del…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/31/gobierno-de-keiko-fujimori-nombra-a-excandidato-de-fuerza-popular-director-de-la-casa-de-la-literatura-hnews-1960161",
+   "date": "2026-10-31T20:22:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "735742eb9616",
    "title": "Keiko Fujimori visita hospital de El Salvador: conoció avances en tecnología médica",
@@ -1115,17 +1126,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWhPOTRtV3R2M1M4bzdpZTlTYXYtOG92Ml9nT3ZKTTBCVHJIOFB2dzBlQ0MzVkdPWDNPRC1NTW1WRk96MUVnOXI2OEJBYi1YTUtnWWRVbENPMk9PdGRTX1M0bmx6VXc4X0hPMEV6b3VuWkFOeEtqMkRtdzZiY3JlX3BVSkZfbGJSR1p0Z1dfb1BoX2lmX3RpRmpRNFc5ZFFBTmFrOGo3LXNrUlpxU3FBX2w0NENBNkIxa2h0R2FB?oc=5",
    "date": "2026-10-30T17:22:25+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "86841fde6f92",
-   "title": "Diethell Columbus respalda visita de Keiko Fujimori a El Salvador y cuestiona tratamiento a delincuentes",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFBTa2FVOW1NY18wX1pzSFdfQTd0MndSS0EtQjhJc05PWF9VTHNIbE5zekNSTFRBOVRYNXQ3dnhjSlREbEIwM2xPTzFuZmpEUDZKRUx2QTVYR3ZiQ0lyUWZHdEI1UGZ0aEk5a2hZOFhzbVYxVDAxOXFyV3l4NW1CWEtzUHJnWnAtZ2YzWlpmM1MtWFJ5emFFSnVXRUtXMWxraDBydnR5eUU5cmVReC1TUDk4NVc3R0R2MlEzMkhMWGk0VEl4VEpNTXNjQnBmUFpULXc?oc=5",
-   "date": "2026-10-30T17:09:52+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
