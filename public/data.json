@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T01:15:47.193507+00:00",
+ "generated_at": "2026-10-31T01:38:00.427901+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -440,6 +440,28 @@
  "agenda_minutes_7d": 1209,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b64b240b6345",
+   "title": "Diputada Roxana Rocha dice que visita de Keiko Fujimori a El Salvador debe servir para replicar infraestructura carcelaria",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNM21VdENXeGxiOTdZTWpKUnhRVzRfUmtPYjFYeWRZYnJhbHB6UXNLTU1tUlpmN0x0c0NWdUdObnBXa1p0c0Jsbng3Wlk3OEZ5TXpoYmh5T21EaEVQMTUyM0NYd0duLVJDRlp4M3dsaThDWlNKRVJ2Z0VINXlkbGhNS252Y0NhbXNNemVzczMxcDNXMmwzTnhMVXNGMV9kMlNPQnlqSUdUZXQyTEhYYlhianpBMkpDWDJodUxncnpWV1pGZm9VRUdBTmJncm9CeXVzSmdrZVZUd0I1eHowTnRsNllnRDJpR3Z4WXlQYVpaWF9sdHQwQjFwNDBfVWYweEdo?oc=5",
+   "date": "2026-10-31T01:35:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7589f1178365",
+   "title": "Presidenta Keiko Fujimori visitó el Hospital Nacional Especializado Rosales para conocer modernización hospitalaria en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSllQd0c1cEhqTGRqek9lMlRCcUdRdFVxTC00QnZVRWZYYmU4VVRFUG1pRlAzakVNMkt6d0hCUmMwNFNCV2paLWMyakhlX2JXNW5pT2VNdjhwbFUtUkd2N2EwY3owRnlDcEZhTm05TTIzUXlLYUZXazFZOGx6a0FDd0NKN052a3dKSkRoWDF0MjNmdzkzRnpmcWV3NjJ4SjVVam9nTWlpREF5YWEzMDRubUhfMWNZMDloRTBHc01mQXB6LXN2WFE2QThhQTZOdW5qcGliWG41Q3BHOEMxUUVva2FMcE8xekwwc19xY1dRTGNjSUtFX3A2TmxvQXZqZw?oc=5",
+   "date": "2026-10-31T01:06:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "81c5c9f72153",
    "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
@@ -1074,28 +1096,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNm9GbXpzS1pBZmVjeGt2MHFwQmoyZWFXY1BfQjhHQmdmcVRhX2xGVVhxM2VaemJ4TE1qNVY2aDFkZng0U0F2X0RrRHV4YnV3MEtwQ3NRdHNZeGplMENVQVZZODFfOVpNYmRQMnJIcGhMNnBOdFh1SGpBbEFMWl9BYTBkcjZPLTYxcHNGR093aF9CVjc5T09leXU0RUZBU1pMUGN5R19idWpRRmZDNm5qelViYldpR1gzdTh0Z3Zhc04tMWVQRFk3NXZ5dUl3Y2NvcVo3SV94RjYzempubjJhNkpOcmZ5LWpQVUN5LVBnN2w5cFJE?oc=5",
    "date": "2026-10-30T11:03:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e90e10db23f8",
-   "title": "Elmer Cuba asegura que el gobierno de Keiko Fujimori resolverá las políticas antimineras del Perú",
-   "excerpt": "",
-   "source": "Rumbo Minero",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTVJdEl4bWtqSHlaN01USHhpa2lYanZKMHlIZ0ZWdjgtY2gzVkxISWdkdEdNNy0zbTBYRE5HdHpPZUVpX2Q2b3p1QWVmRUFITm1CalMzSWxjd09LZGxCOWRKZGtoSW9JVjdsY094bXhvRHBtb1ZRdGJYUU14TzdRaTh6cnRPREpFWFZQTktxd2Vhbi1JQWd1TktyemlnOGdPY1lDN0NIMzZ3bjN6aUhrVmF6TkhHM0lkTFJYTG9LeDBOeTFqRXJsZWNlcE1aX2tveTBSLTgzbGxOX3E0TTJ6d1FUVQ?oc=5",
-   "date": "2026-10-30T10:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "43db4f00a414",
-   "title": "Keiko Fujimori conoció de primera mano la política de “mano dura” de El Salvador en la lucha contra la delincuencia",
-   "excerpt": "",
-   "source": "Agenda País",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tUDZCclI0Tjg0N0RHR2pkb3E4SEp3bWl0VVl5YWhKeDVabjE0d2ZlNmZ6OUFGYV9Kd0kxNlVqOWxJVWYyT2dobHpvdDJXTlU4N29oT3RQelBmMGtnS2hDV3RuanlpMXpi?oc=5",
-   "date": "2026-10-30T08:10:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
