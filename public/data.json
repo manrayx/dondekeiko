@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T04:54:16.873302+00:00",
+ "generated_at": "2026-10-31T05:15:47.587377+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,8 +101,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 58
+  "triste": 1,
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -420,72 +420,18 @@
     "lng": -75.205,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-23T12:45:00-05:00",
-   "end": "2026-10-23T13:22:00-05:00",
-   "minutes": 37,
-   "subject": "Lidera inauguración de proyecto de electrificación rural para ampliar acceso a la energía en Moquegua.",
-   "lugar": "Comunidad de Pampas de Clemesí, provincia de Mariscal Nieto, región Moquegua",
-   "state": "posando",
-   "place": {
-    "name": "Comunidad de Pampas de Clemesí",
-    "full": "Comunidad de Pampas de Clemesí, provincia de Mariscal Nieto, región Moquegua",
-    "city": "Moquegua",
-    "lat": -17.194,
-    "lng": -70.935,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-23T09:48:00-05:00",
-   "end": "2026-10-23T10:35:00-05:00",
-   "minutes": 47,
-   "subject": "Inaugura el reservorio N-31 y obras de agua potable y alcantarillado en el distrito de Cerro Colorado, que permitirán mejorar el acceso a estos servicios esenciales para más de 30 000 habitantes, después de 15 años de espera.",
-   "lugar": "Región Arequipa",
-   "state": "posando",
-   "place": {
-    "name": "Región Arequipa",
-    "full": "Región Arequipa",
-    "city": "Arequipa",
-    "lat": -16.39181,
-    "lng": -71.54371,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 1209,
+ "agenda_minutes_7d": 1125,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
-  {
-   "id": "81c5c9f72153",
-   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
-   "date": "2026-10-31T04:42:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
   {
    "id": "5d63d5eb11a6",
    "title": "Keiko Fujimori señaló que dos megacárceles tipo el Cecot salvadoreño pueden construirse en el Perú en siete meses",
    "excerpt": "",
    "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb2ZGc1BubG41Z0U0RFdVU2drOHVSNlljWFZTQ3NBTVprZ014Y1hTbktxeVlhSXVabzJnYnZZdnp5dm05RFM3TUZiTl8tRkZoUlZRVVVJOUhpWkpwb29UVzF5QUNQelA0UGM2MEVsVmdiVEZrNHFobVlfNXlnUm82WFZ2UDVBdi1wblZobUNXTHZUMDF1STJsZVgtNTVhajNuZGNRTk9iRG1kRWl5NUFUNGZHSjNhckRCU2xvQ2JhWHJwTk5fZ2tDUk9SNEI0OWhldU5UajQ2ZTNDQVlnT0VpekhMRDVEYURxUHdweXRNQlM1YlFlakxj?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOak1QNXNvc2lycVZybVNFWjNYdV9vcTBBQTFvVElHMXdnWHg0VHVIdkVDSjhZcVJycU0xeS1OMmVrbm4zci10MnZsMmZ5YjlKSy15T0dMSF9hR0J6Ni1kaExSbkI2X0JzWUhKMjQ4alpmUnp1ZUhuQjBpbjBpN1p4ZUNaRno2LVNBRVBlM2FlSXBWM1lSX2tCeUZwVE05ZmgtZzcyWTJwc0Ytc1RGYm9jckI4WG5mMG1aclhFZGtyaHYzajZRcHhiMmV3enh5TnFFekxiT0luMFphSUFQUFF3eERRT0RtQUVGbDdvODM0bzVtWFQz?oc=5",
    "date": "2026-10-31T04:12:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8601d03d467e",
-   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
-   "date": "2026-10-31T04:01:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -667,12 +613,34 @@
    "next": null
   },
   {
+   "id": "0cd773fe5c46",
+   "title": "Keiko Fujimori: Mi confianza al primer ministro es absoluta",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWVES2Zuc3Rfb0IzeEFJWXl4bXljVk83bWVaQTFTSlE2MU9CYWVETzhFRE1MczlYdVBlZDZwaWxHQm9IdlNMWTFPZHBFQWRYbTJKalRVaXliM0lleXBoQTRBd056WXZYMFJNd3l2U0xaYkJNeTAwWnNraHFEZ2owRnVVYkdHbEhaUEROTXhzeFFyZkRlS3Fv?oc=5",
+   "date": "2026-10-30T23:02:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7e23430df8de",
    "title": "Presidenta Fujimori: “Gobierno impulsará la telemedicina para reducir esperas en salud”",
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNQclJlV21pSUdNc1NJZ01VUWRiR01yOWpqS1pYWVRlcWtSdFNrOENfcTdKQjRYY05pLVFzckl3RGEyLXJibmxGX3FXcmk5SVowTDhIaGdLNndxb2xacXhDMlUxS1NOZHRGR1U2MXBfQmpRb3poUERJdmZVUHBUWDBrZmo3T0gyTU45YW9wMUlyZUo1OTY5MkNBQWZYUEc4bW0tSFpTTHMtSlhGdVExTUI2STZRQkJteUVyRW0zMmV6V1huZHh6U1Rn?oc=5",
    "date": "2026-10-30T22:57:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "81c5c9f72153",
+   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTEZMdFcxSjBUSVJjdzhRU2M4TWVPYTNtWExyNVRlTkdJd3pPWkJhcnFWMGFKTGt1SWdTNmhqd2dvaHBlSXFZTXQxZEIwb1NINjY5dW9uejNOZkRJd1d5cmg4eXRpTTlUOGwtZ2hNYUxwNHpnN1huSkx5M2lVejhPcTVVaE1pLTZ3QkdBSGNraWQxaDczd2lrZmlMd1BXSlUxS2lCamRoS2pVS1Y1V3l5dXhQOVZkbUhwRzhxR3BuRjlPdk5nZVREZmhPOURhemJQ?oc=5",
+   "date": "2026-10-30T22:41:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -827,6 +795,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
    "date": "2026-10-30T19:24:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8601d03d467e",
+   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFJ6VlNxZG5mM2NyTWxaaG43VzFaZmR5RnNYbHBMWU1lQXU4Q3c0cDREaFRDZTlMdnpuYnJSTFdnZ3h3eWhIMjB3MlNaSE9samhHY09sc3ZMRmNlNVFPMmEwU2M4ZkVEY0t5TGlsbzl2b3QxaVhJbzk2ZXA1c05rMV85QTZiYW9OeEx3U0NZVnlubnppVlhTbTh3STd1TWt6Ym15S21hZ3dNN2NZSGc?oc=5",
+   "date": "2026-10-30T19:16:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1103,17 +1082,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkRqYW5aYzI2bFNIUzExd3VnTEhkNXl5YlIwSVFWSE9XT3Z1M3N3bENkZHJ6dnJpcUpFbzg5S0NyTmY4Z1d4TFQwSGp0OVFJR080cnIwNjF3Ml9TalhOVERBMVh3cVZqeDZXeHdoUFlsYTFtZWVDZWNOZDBtV3R5eExiVzJPUW53U2s4TmtjVmNIc0tTMG1jeHhCX2Ztdzg0M0R3UU9WUGFIc2FrbWhnWFh4WTVRbmI3R2I1dlUyVUl0M1U?oc=5",
    "date": "2026-10-30T15:51:48+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d2d816c94961",
-   "title": "Basombrío cuestiona viaje de Keiko Fujimori a El Salvador: “Debió hacerlo antes de asumir el cargo”",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2xoSW1WZUNfY3hUQ3NYbjVGZTlOMlRHUXJIeXpFWGpVVWFWMzJ4NWdZSDZwTUJaU2UwVm9VUVB5WlFZWnlRajFFamhNRDgyOGlkS1pVOE5ISVhwcFA0QU9qVHN2eFFJUWNDT0NteE9TZmF2OUxEVEdVRjFnemdKemF6elY2SVdBVktaQk9XaGhhcDVwWnpyalBtSzBEMl9XdFpZV09IMVF3YW5fWUVieWtMYWNDZklPbko4?oc=5",
-   "date": "2026-10-30T15:16:33+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
