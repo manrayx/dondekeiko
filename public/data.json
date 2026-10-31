@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T02:43:10.327898+00:00",
+ "generated_at": "2026-10-31T03:05:09.373662+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -452,17 +452,6 @@
    "next": null
   },
   {
-   "id": "d1eda63e7c4a",
-   "title": "Visita oficial a El Salvador ha sido muy fructífera, asegura Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT05rVlFtY2FObjNwdlFCbWlLVmcwaEVaNURrYUI1RE84NVgzQk5WWno1VEkwRWVybnNWQjdwRWhfcHMxdmpNdXpUcEl6bXRaSm5LOXhqUTBENVdLRkEyLWJaS2FYeWVwbWhkdzVGeUJuTzBZak9FbGRrMkRxbFZBY0hLRGZNWFQxdWVSbFhZcUNHWmNyVFR6Sk9CU1hXWjV5Z1kyUGpVdkhvU3o0SERB?oc=5",
-   "date": "2026-10-31T01:56:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "daa74d591914",
    "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
    "excerpt": "La presidenta de la República, Keiko Fujimori, descartó que su Gobierno evalúe un cambio en la conducción de la Presidencia del Consejo de Ministros (PCM) y ratificó su respaldo a…",
@@ -480,6 +469,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNM21VdENXeGxiOTdZTWpKUnhRVzRfUmtPYjFYeWRZYnJhbHB6UXNLTU1tUlpmN0x0c0NWdUdObnBXa1p0c0Jsbng3Wlk3OEZ5TXpoYmh5T21EaEVQMTUyM0NYd0duLVJDRlp4M3dsaThDWlNKRVJ2Z0VINXlkbGhNS252Y0NhbXNNemVzczMxcDNXMmwzTnhMVXNGMV9kMlNPQnlqSUdUZXQyTEhYYlhianpBMkpDWDJodUxncnpWV1pGZm9VRUdBTmJncm9CeXVzSmdrZVZUd0I1eHowTnRsNllnRDJpR3Z4WXlQYVpaWF9sdHQwQjFwNDBfVWYweEdo?oc=5",
    "date": "2026-10-31T01:36:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d46e35dbd17c",
+   "title": "Keiko Fujimori visita colegio en El Salvador para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOamVMZk16RmxPVlluM3Y3ZENGUTMwSmRnbXUxUjBuM2tOdTZZeUN2a1VuNHozclVHeW01Z0p4bzZiQVZNNUxhbVFYeUJHRE1FbVh6aUxBdnFQTmEycmUwVUt1Rlh5eUpjaGlWd2VCMkJLWWxla0ZiV2J2MExIZWFZQ0tKcndmWUVZT2NmMS1DSjVSNnpTLWExbzRDYUlRVXRGTVlDU0V5ekt2VUs0OU0wNjRfc9IBuAFBVV95cUxObXpCMi1XSTh0bm5MbHdNWFlScDdzOWJPeG1LVVoybm53NlJnZ0JVVlo3LU4tWWE5TUxCemFlRG9ndFZ4cWJ3T3RuRDNmZ3Rkb3pDOGZ1TXgyMEtySk94ZUpLMGNZY2F4V1RpaXBvY2lIcllmamhOUS1iNkhxYjgyMHpjeTdfM3lFREtFd01jM1FXTkhkX3VyZ2VHVWVRVkJmYTNmeUlIQmhMWllvTWFfQ1lXSHRrUUdS?oc=5",
+   "date": "2026-10-31T01:23:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -595,12 +595,34 @@
    "next": null
   },
   {
+   "id": "d1eda63e7c4a",
+   "title": "Visita oficial a El Salvador ha sido muy fructífera, asegura Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT05rVlFtY2FObjNwdlFCbWlLVmcwaEVaNURrYUI1RE84NVgzQk5WWno1VEkwRWVybnNWQjdwRWhfcHMxdmpNdXpUcEl6bXRaSm5LOXhqUTBENVdLRkEyLWJaS2FYeWVwbWhkdzVGeUJuTzBZak9FbGRrMkRxbFZBY0hLRGZNWFQxdWVSbFhZcUNHWmNyVFR6Sk9CU1hXWjV5Z1kyUGpVdkhvU3o0SERB?oc=5",
+   "date": "2026-10-30T23:09:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1ba0a27a7cca",
    "title": "Keiko Fujimori ratifica su “absoluta” confianza en primer ministro Luis Galarreta",
    "excerpt": "Keiko Fujimori descartó una eventual salida del primer ministro Luis Galarreta y calificó de “simple chisme” las versiones sobre cambios en el Gabinete. También aclaró el papel de José Chlimper…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-ratifica-su-absoluta-confianza-en-primer-ministro-luis-galarreta-apuesplan-ultimas-noticia/",
    "date": "2026-10-30T23:08:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b63d194e6551",
+   "title": "Keiko Fujimori: Respalda a Luis Galarreta como premier",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVNvNW1ySDkxSEQ0Q254YlJSNEN0SFlyOTVTUS1BZFlPOFBhT0xLNmdMNXcycVdLY0NqR2JhYzEzYVpDUlJMWk51Qk1PbkpQR2NoWVZjLXVrN0tfMUY5Mm1DOEZiR3U2cWxxRTRXUEJsUnMxWWREdVpNMnZmZVZKaFZRTnk5Uk5lWTA0dVRzeF8ydms2bGxEMkJGSXdYd2l4N0pFWFBZSktCSkhZOVHSAbMBQVVfeXFMT0lPRmFpemJBdW9Ra09oenl3b002bl9jYWlPTVEzZGI4bFU4a25pTVBZUk1ud1RUM2JxMUdUZWN2NHZaWklpTmJXVHViOTNpQi1JcUJ2a2NTNlY1ZXdSRUYwazdxYzFqeTB2VURBdjFlcUp4OGE3Z2pnX2RNRkFUNDVNQVlvVXhtb0Q3Qjhpem1hLXVtZ1YzWWZhRlBPMl9uci03RC0xMWprYnFTOFZEeEd6akk?oc=5",
+   "date": "2026-10-30T23:06:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -656,6 +678,17 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdiblJHQUV6cW1EWUlkeHY4cHdJWUhPNU5nZHNwRm9aWEFBdkozdVZWTnBvWEdPaWQ0YnZiaTI2a0FkYl9uMm1vMVh0aDI0Tzdvb252aU92dUpUR1Aydm5GSXVsdTZWa3F1SHJzUHdoX290d1NCLWItUm5ta0J4SEd1TGJTbmJmRzBEWXhHMDBod085d0lTNUNUM3UwWlEwYmZDTnNqNkI2QnVlX3RGS2lnUTZGZ2dnZ0VDZnZxWlk?oc=5",
    "date": "2026-10-30T21:26:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "06e994d9b6cf",
+   "title": "Perú.- Presidenta Keiko Fujimori visita Hospital Nacional Especializado Rosales",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnhNcl9hdHk0bGtFYzVHZjhXTmE3azFGQUNTT3U0cm9hSkdVMnBCNU9sLUJ2SFZaNFZneUlXekF5NnlXMWdFbDZURmMtOEtRcjdrT1NOLXZ1bUEtRHBEd3lOMDd3ZHRhX0Q5VTBHUXZPVFlkcXJSYWlLRXhjdGlPNVlQM0VrdDB1bGlBejg4clJOZ09GclBWdzBjeXJaUmlONUVSVnI1eWwyalpkbHBmcUhKSnlxUGJFY1RTd213emRtYTV5TDlwV3VMaU5ydXhkdUtqRg?oc=5",
+   "date": "2026-10-30T20:50:48+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1063,39 +1096,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/actualidad/keiko-fujimori-invita-a-empresarios-de-el-salvador-a-que-inviertan-en-el-peru-apuesplan-ultimas-noticia/",
    "date": "2026-10-30T14:59:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "072f5aa36ae3",
-   "title": "Keiko Fujimori confirma en El Salvador que las seis cárceles en construcción en Perú incorporarán el modelo Bukele",
-   "excerpt": "La mandataria afirmó que los penales tomarán como referencia la experiencia salvadoreña y elogió a su homólogo por las políticas de seguridad contra las pandillas",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/29/keiko-fujimori-confirma-en-el-salvador-que-las-seis-carceles-en-construccion-en-peru-incorporaran-el-modelo-bukele/",
-   "date": "2026-10-30T14:16:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8221f35b9fc9",
-   "title": "Perú y El Salvador sellan vínculos con acuerdos en justicia, salud, turismo y contra el crimen organizado",
-   "excerpt": "La declaración conjunta suscrita por Keiko Fujimori y Nayib Bukele establece una Asociación Bilateral y abre la posibilidad de negociar un Tratado de Libre Comercio entre ambas naciones como siguiente…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/10/30/peru-y-el-salvador-sellan-vinculos-con-acuerdos-en-justicia-salud-turismo-y-contra-el-crimen-organizado/",
-   "date": "2026-10-30T14:06:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3a2b20415401",
-   "title": "Keiko Fujimori visita megacárcel de Bukele en El Salvador y lanza contundente mensaje contra bandas criminales",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUXZrY21KYTVzY04yN0ptN3paVXFWX1d3ekRQdW5GYzdRTktabExkMlp5aXVNMEZ0N19ucVpQMlJobDI5WElycFFYNWVNaHpIVUJWN01xcnR6dU9yZllJekkwTkFJUzBSc1g1eXl0SkVLWjlvZHFhQ1YzX0RCeUExUnZOaGl6dnl5bTRoMkZZcHZhT1VtLXFmM3JvcXl2c1c0MVJ2a0txNXUyWHVSaml4cWhqQXduUmk3Y29DOUNVVzhEU1FhVFplMDBuUmh6aC1waXc?oc=5",
-   "date": "2026-10-30T13:30:46+00:00",
    "state": "posando",
    "place": null,
    "next": null
