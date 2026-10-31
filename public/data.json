@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T16:12:11.702232+00:00",
+ "generated_at": "2026-10-31T16:55:45.176422+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -451,6 +451,17 @@
  "agenda_minutes_7d": 1125,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "735742eb9616",
+   "title": "Keiko Fujimori visita hospital de El Salvador: conoció avances en tecnología médica",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSThBWHhyX1dRNVM1RzFiRmJaaVRvbWcwSEZlS1ZtMWc5eElzRkhrcHpleFZ6VDlsTF90OUVCelMwRlM1LWZCVWJYcms1RDhXVll3WF9SdzBxblZpWl9NRHRoUDFwQkdsdTlSQzBFZVpwYjdScTBUMjhIT04yeExLekdrbUp5N3NnUFhYdzVoRE9TYkhDbDIxUmlMcC1HdjJvYmo4cXhQQjhNdHF2enZBUFMtYTZEaXBOWndkRXNIT3U2dXo2SFB5Y3VlcGhXSzFRNFFWOW5zMWM2a3BMeGhpZXlycw?oc=5",
+   "date": "2026-10-31T16:39:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "daa74d591914",
    "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
@@ -1102,17 +1113,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVhaTGwzUFNraElydHJUYnYzUzZJUDZxRi12WnJySGxYTXNJRXV1dlVTYTZQOEtnd2g4djFGaWZaVGI1eEJhTEh1Unk0eHhObTJOUW50NFhDcXpBRHRXNlNZbVdsWmE4ZW9XWFhzVFFTQnRYWVg0NDJkQ0t5UERCWjVLSkJEd0Fwc1RMSHQwNmxpYzhWY3N4UUxHMElDLTYtY01BZzFYOW5zWmZfOEd2aFhEanVXNTVXTE11eEdsQ3lCY3R3cGc1NGhicmw?oc=5",
    "date": "2026-10-30T17:06:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dc01033fc998",
-   "title": "¿Nuevo modelo en camino? El anuncio de Keiko Fujimori sobre el sistema de justicia tras su paso por El Salvador (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd1B6N21yNzE1QmhpN0hKSXUzN05TMnZ3NHJ0QU5qUDJKY2tmeElOZnR5S0VMUG9tR2NMMHNDLTNyV3hSck9VR19GMlpXVVBYNWhyTEk2VF9jV04yRTFHbWRMYlExRGg2TWNGeFdPUTNZd2U1b045WkJETkw4aUNVNWdsSDNsUkdnZmctY2tocXJTQ1dCZWFmTU5iVVhuaDVDelgxeW9obHNOS3hQMGlOYjN0RWZCdVljUmh0NWhZYXFVNjJuY3NqNk05QzdKVnlQUXFvc0g1eHliZw?oc=5",
-   "date": "2026-10-30T17:05:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
