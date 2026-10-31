@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T01:38:00.427901+00:00",
+ "generated_at": "2026-10-31T01:59:25.070682+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -441,12 +441,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d1eda63e7c4a",
+   "title": "Visita oficial a El Salvador ha sido muy fructífera, asegura Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT05rVlFtY2FObjNwdlFCbWlLVmcwaEVaNURrYUI1RE84NVgzQk5WWno1VEkwRWVybnNWQjdwRWhfcHMxdmpNdXpUcEl6bXRaSm5LOXhqUTBENVdLRkEyLWJaS2FYeWVwbWhkdzVGeUJuTzBZak9FbGRrMkRxbFZBY0hLRGZNWFQxdWVSbFhZcUNHWmNyVFR6Sk9CU1hXWjV5Z1kyUGpVdkhvU3o0SERB?oc=5",
+   "date": "2026-10-31T01:56:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "daa74d591914",
+   "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, descartó que su Gobierno evalúe un cambio en la conducción de la Presidencia del Consejo de Ministros (PCM) y ratificó su respaldo a…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-descarta-cambios-en-la-pcm-y-ratifica-respaldo-a-luis-galarreta-noticia/",
+   "date": "2026-10-31T01:55:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b64b240b6345",
    "title": "Diputada Roxana Rocha dice que visita de Keiko Fujimori a El Salvador debe servir para replicar infraestructura carcelaria",
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNM21VdENXeGxiOTdZTWpKUnhRVzRfUmtPYjFYeWRZYnJhbHB6UXNLTU1tUlpmN0x0c0NWdUdObnBXa1p0c0Jsbng3Wlk3OEZ5TXpoYmh5T21EaEVQMTUyM0NYd0duLVJDRlp4M3dsaThDWlNKRVJ2Z0VINXlkbGhNS252Y0NhbXNNemVzczMxcDNXMmwzTnhMVXNGMV9kMlNPQnlqSUdUZXQyTEhYYlhianpBMkpDWDJodUxncnpWV1pGZm9VRUdBTmJncm9CeXVzSmdrZVZUd0I1eHowTnRsNllnRDJpR3Z4WXlQYVpaWF9sdHQwQjFwNDBfVWYweEdo?oc=5",
-   "date": "2026-10-31T01:35:18+00:00",
+   "date": "2026-10-31T01:36:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -694,6 +716,17 @@
    "next": null
   },
   {
+   "id": "80065f62287b",
+   "title": "La presidenta Keiko Fujimori evalúa el modelo salvadoreño de telemedicina para recortar listas de espera en Perú",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2VRZDdLaDRvU3ZBTXhBNklTSVUtYWNvU3llWmREM1hzYWd4emxPa1ZzY0NoN3E4eHdMTUIydl82RVZLX3R4MEpISFc0N0t3UnAydXZNX0JpZmRIb2tDUEdScy1CWXB3aWl4dXl4WEJWX0tpSk5ZZ3RRcmMxV0V4SlVqOFZINWliaHlPQ3lWeHpsclJiYXVKSE1yWHBNR0xydHlQRUd4SHE4Tmk2MmNabzBUTDNzXzZBMXpReEVaM3VrWU1GV1JBblM5TjEwY0NoeHV5Z0hXdUJMVDVTaUd6OGxPWjNucElMRGU1aG4tT0pmQdIBjAJBVV95cUxOSDNCTzRxanhwdS0tYUVQZ2hPdG9KdGhEcU1Ed1lLQy1JNUxQenNxektyMkxETzRkRWprMEVkNmZhYlIxRm9uenNERXVSbkpsaDNjeGRiYzF6aTNCUWdwVG1nUWpmUnUwUks4cGJEQlFmSHJ3cVdmbDJLRm52c2ZQVFZ4WE9uYnFtZFRnWUsyUWhWMmZlZ3d0TjViZi03UnYtdzFSYTNaTXdEdzRYX3ZwaGgtZEZ0ajE2aVBPaDJIaVNBX09vbGREOFFheGNScWlrSlI3NUU1WE9HQmRySlZfX3hhUjdmUEMxUjRHWVdlUHQyTTJvNHpmMDBQZ0VvZFZJNklmcVNZYklsMVpq?oc=5",
+   "date": "2026-10-30T19:38:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bf44986cdb8c",
    "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
    "excerpt": "",
@@ -733,17 +766,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSm03OTNNUGhWSTgxVG5jN3lSd0VKb0toZk5lVHlGU3FlTHZqdTIwSDJBQW9BZ2tidFl5NnJjcC1ud2lvSnJLVy1ac3RCMGZTc2NqRHdfMWhldTc1dzJUamlzYWdRU01rUVJ1UUhSMDBpMl9NYkI3NHNzQ3MzOENMV29SY2VhRWZXUHVMVUdVTjhhTlJMRGpCQjBkUFY0SGtiN1JxMG1ydEpjdk1pQ2pKWm1YamhGcllUZ3hPSmE1ZGpoamlFbHcyREttdmU4X0Nsc2RRYzRDRTNJQkF3M1JhMjBn?oc=5",
    "date": "2026-10-30T19:01:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "80065f62287b",
-   "title": "La presidenta Keiko Fujimori evalúa el modelo salvadoreño de telemedicina para recortar listas de espera en Perú",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2VRZDdLaDRvU3ZBTXhBNklTSVUtYWNvU3llWmREM1hzYWd4emxPa1ZzY0NoN3E4eHdMTUIydl82RVZLX3R4MEpISFc0N0t3UnAydXZNX0JpZmRIb2tDUEdScy1CWXB3aWl4dXl4WEJWX0tpSk5ZZ3RRcmMxV0V4SlVqOFZINWliaHlPQ3lWeHpsclJiYXVKSE1yWHBNR0xydHlQRUd4SHE4Tmk2MmNabzBUTDNzXzZBMXpReEVaM3VrWU1GV1JBblM5TjEwY0NoeHV5Z0hXdUJMVDVTaUd6OGxPWjNucElMRGU1aG4tT0pmQdIBjAJBVV95cUxOSDNCTzRxanhwdS0tYUVQZ2hPdG9KdGhEcU1Ed1lLQy1JNUxQenNxektyMkxETzRkRWprMEVkNmZhYlIxRm9uenNERXVSbkpsaDNjeGRiYzF6aTNCUWdwVG1nUWpmUnUwUks4cGJEQlFmSHJ3cVdmbDJLRm52c2ZQVFZ4WE9uYnFtZFRnWUsyUWhWMmZlZ3d0TjViZi03UnYtdzFSYTNaTXdEdzRYX3ZwaGgtZEZ0ajE2aVBPaDJIaVNBX09vbGREOFFheGNScWlrSlI3NUU1WE9HQmRySlZfX3hhUjdmUEMxUjRHWVdlUHQyTTJvNHpmMDBQZ0VvZFZJNklmcVNZYklsMVpq?oc=5",
-   "date": "2026-10-30T18:41:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1074,28 +1096,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQldvaXIybkkzaklseUVEdGtNajktWnhKZEdoSEhHYk9IUktKeG9jRmUxaW11b0liTXdKb3FhTnRXaVJFczRBbnJpdmJpVTVIZ0ZtcDlabmlrdWQ3YVBPMEZXLTR5SEhkRl8xYzJteDMzVm1BWVVBVkg5clEyeEp0UHZGS29Ua1o5VFhDN0QtcG9mSnoyYlNFMi1hVVZ2TFRBRU9wV1ppWVFwOVRaREdBR2JPNmR3WTZseVNDV1ZkYXpGRl8yQ1I3YlNLbVo3RGs?oc=5",
    "date": "2026-10-30T12:33:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "48cad8b14e3d",
-   "title": "Columna sobre Keiko Fujimori, Dina Boluarte y Nayib Bukele",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaXZYSS1KTVlEREhWQnQzU3dRLVl6UC0tR3h6ZU9CWFlLQUgzRjlsWVFTMm50QnAtRFU3UUVHeVctbktQOG52a29hTGNMamlpc1RGQWpmSnRyM0FJOUlma2hvYnZwQjIwZm1CT1JEVVgyeHZRUy0tNHY3bkdqNzdfV0VfNkRGdmdQVktaRNIBkgFBVV95cUxOdUtITkU0ZHNwampzeEJmVEd3QTdHTGVjRUI0Mzk0Tk9tNTNjNzhFd3dtTjlfS1RUN1JZU1ZqM202dWlYaEpnQk45cEkxOVF6M2ZIWmpVSjRJNWcxRl9XcEl0ZC1QYVdOQ09PWml5M2c4M3YxVU9qdEUzeWFzMm02UENLUXJEUGpWVU5tdmNCbjBtdw?oc=5",
-   "date": "2026-10-30T12:23:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3a7dd9b85219",
-   "title": "Keiko Fujimori confirma que realizará una drástica reforma judicial tras su visita a El Salvador para aplicar el modelo Bukele | Al Vuelo",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNm9GbXpzS1pBZmVjeGt2MHFwQmoyZWFXY1BfQjhHQmdmcVRhX2xGVVhxM2VaemJ4TE1qNVY2aDFkZng0U0F2X0RrRHV4YnV3MEtwQ3NRdHNZeGplMENVQVZZODFfOVpNYmRQMnJIcGhMNnBOdFh1SGpBbEFMWl9BYTBkcjZPLTYxcHNGR093aF9CVjc5T09leXU0RUZBU1pMUGN5R19idWpRRmZDNm5qelViYldpR1gzdTh0Z3Zhc04tMWVQRFk3NXZ5dUl3Y2NvcVo3SV94RjYzempubjJhNkpOcmZ5LWpQVUN5LVBnN2w5cFJE?oc=5",
-   "date": "2026-10-30T11:03:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
