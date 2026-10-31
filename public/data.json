@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T00:10:16.273533+00:00",
+ "generated_at": "2026-10-31T00:32:15.794847+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -551,6 +551,17 @@
    "next": null
   },
   {
+   "id": "c9eac731a1b8",
+   "title": "Presidenta Keiko Fujimori plantea replicar en Perú sistema de telemedicina de El Salvador",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdXVlVm5sdHp3cDFEazdfQjdOdzFPZ2Q4cWlBV1VQcDVwNlhHck13Q1N4YVV0eGRnLXlCVlIyN184R1YzX0F3RjdIZ2ZUQm16QlNsUDRacDhOd0k5ZXVVSDFJT0VlUFF1cTR6bXRtNThvNzFFUkxiUzItdzZyNDJDTzg0bEM4bUp5T1hCVmZCVnU1VVMzQ1hWb3g4WHBKN3hvbmdfMUg2YW5ybHZkSTNnU0RoTkpSVU1SNDBaddIB0AFBVV95cUxQVG1KT1RJT3lRSVVlYXdOVkZUeW1UVnMxaWdKSm9rLTJaWHlabENZUkhiNE9YVGZoa282bzlkU285VDZ1Y1dpUmk2T2ttWmotMmhSRHh6SUw2ZDZGa1VKRlEteDQtclJjR1lHMktIelRMc0Z0NTZWSlBZWk93OG9rU3JDY0EzOFRTdEVfam40V1QtbHNHZmRQanFEYkxuRUJnUDVYQ0h4N1pUMVQ2eE5WZE4xOWtDdnVFcmVvTEZkWGkwNXNMNGpDejdTMUVRbWlP?oc=5",
+   "date": "2026-10-30T22:39:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8601d03d467e",
    "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
    "excerpt": "",
@@ -862,7 +873,7 @@
    "id": "ff5c1bb0c3c8",
    "title": "Keiko Fujimori desde El Salvador: \"Estoy aquí para estudiar las cosas positivas que ha hecho Nayib Bukele\"",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeEptNGo0UjI4Rm5VU2N0cFpfVGxPeXlNdGlSTm5OT1hfeThzYWVGWnpGZFR6Qlpfb1Q4RzlOQ3RCSTF3dzBOWVdfYzFwcjVidVE1LW1FNXNUZWZ1UnB0ZXgxcnkyN0dDUjRoRG5QbDJqTWVhcXpjVE5Ma2pxb2dnTVNKVl9pLV81U1FIX0hwTldBVDNfdUlvNXBGNlk5Ql82cVpORTcwZTVJX2o0UlhIZkJxRUlsRWFiQUdieDRpZGk3TDBHTzlKNmFpTUJIQnV3RE5NRDNKNnpUaWYtc3F1WHpIZzRVVzdmb0t1WXF5UWRDLUx0?oc=5",
    "date": "2026-10-30T16:41:37+00:00",
    "state": "posando",
@@ -1085,17 +1096,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3MzQndLbmlJYTF4N3MwbjZTTlZWNUhLWHZBaEtBVEJ1QU4tUTdEb3o3M0RNNkw5OE5oNkd5U2tZc2UyMTRrUnZrRkNDc2FaTlVpeDdDZm55LU9QSWVaYy04cG9YeHJMWllHa2E0NzNablpnZ1ExVVJaLTJtdmR4eTItRkxDSTQ0eVp5bWlqN0xkQkpmek11ZXlYOGlRY3Juenc0SjJKTmNTcFpPbkMtc1NZMXVuUUlhWE5DUzJn?oc=5",
    "date": "2026-10-30T07:19:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "16935394a184",
-   "title": "Bukele le dice a Fujimori que no se puede replicar el modelo salvadoreño en Perú: \"Copiarlo idéntico no tendría sentido\"",
-   "excerpt": "Durante la visita de Keiko Fujimori, Bukele destacó que las situaciones de inseguridad en ambos países son diferentes y no se pueden abordar con las mismas medidas. El mandatario salvadoreño…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/29/bukele-le-dice-a-fujimori-que-no-se-puede-replicar-el-modelo-salvadoreno-en-peru-copiarlo-identico-no-tendria-sentido-hnews-1292298",
-   "date": "2026-10-30T04:04:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
