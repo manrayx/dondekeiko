@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T18:36:56.775649+00:00",
+ "generated_at": "2026-11-01T18:58:33.749955+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "España"
   },
-  "source": "El Comercio",
-  "date": "2026-11-01T17:34:19+00:00"
+  "source": "El Peruano",
+  "date": "2026-11-01T18:34:00+00:00"
  },
  "next": {
   "place": {
@@ -109,7 +109,7 @@
    "abroad": true
   },
   "source": "Infobae Perú",
-  "date": "2026-11-01T18:28:13+00:00",
+  "date": "2026-11-01T18:41:28+00:00",
   "title": "Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte reportado por el Comando FEN para esta noche",
   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-cancela-viaje-a-espana-por-incremento-de-lluvias-en-el-norte-reportado-por-el-comando-fen-para-esta-noche/"
  },
@@ -480,13 +480,28 @@
    "excerpt": "La mandataria indicó que las precipitaciones aumentarán a partir de hoy. Ministro de Defensa, Rafael Belaúnde, se movilizará a Tumbes para coordinar protocolos de emergencia",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-cancela-viaje-a-espana-por-incremento-de-lluvias-en-el-norte-reportado-por-el-comando-fen-para-esta-noche/",
-   "date": "2026-11-01T18:28:13+00:00",
+   "date": "2026-11-01T18:41:28+00:00",
    "state": "posando",
    "place": null,
    "next": {
     "name": "España",
     "abroad": true
    }
+  },
+  {
+   "id": "569d1e6462a3",
+   "title": "Presidenta Fujimori no asistirá a cumbre en España para atender emergencia por lluvias en el norte",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2ZSbE9jSUloU2R0LWJkblNfQmNja0w5NlZoQWRoN3JDVV84NEdPcTFoM0doQjFxTll2aVEtWExUZVhocXFCdE1uYjRwRnNDbWxlMGN6MHZwQXFZMGdVOFY5eV95YlcxNnI1bVVLY2Rkc3dOc1BuTlpIQ0EySUJKamdfOV9WcU9pWG1pOFhMRWNCNjBSc3FGR0pvX1UyT3A4NlU4c2lqQXpOSERCZjE3azdDYVVPNFBNWjlRMlVleWcyaDRIVEYyb1R2YjFCZlk?oc=5",
+   "date": "2026-11-01T18:34:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "España",
+    "abroad": true,
+    "city": "España"
+   },
+   "next": null
   },
   {
    "id": "29dce5af6e96",
@@ -515,6 +530,37 @@
     "name": "España",
     "abroad": true
    }
+  },
+  {
+   "id": "4ff07ee0a7f0",
+   "title": "Keiko Fujimori cancela viaje a España por lluvias",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem5lS1Z5N0lsWHlYUFJqYWlrM0tJcHE1Qm5EcmZRR2JHVGdPTDZtUTVWSGZfU3ZFMHpYUjFoMDNUX0dvZDdUWmd5U3laclZVTGFiZl9yQUVSMVdTS1JGN1AwZlo5QnRoMFFCM3RaY2xITTdJQm9DRTlLMmc1RGpCTjAyMGliaGJ5VFlpaGNtNWJlQW5jYnJvMDVpdkVlN0MzVjE1bldRTEnSAa4BQVVfeXFMTkRZbjRFcVhxOWowX1lFNmVWV01PMFNPci0zZjNPaHNTNzFUa3BYS21JbDZGQjFwWEJKZHlZSVBrc2xBWHl5R1RtQWJITmlqOTd6M051QjcyVnRPSUJza2FOOXE2aUx4N3drUGROSHBRS2NUckJrc0J6ZnhGM0RQUmk0NGhHd0hEeGFKX2pOMmpIU0Q3dDB1c1FoOWp3Y3NNdzdrUVJVM2VoSDFWaEJn?oc=5",
+   "date": "2026-11-01T18:05:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
+  },
+  {
+   "id": "0fad3945514f",
+   "title": "Presidenta Keiko Fujimori cancela su viaje a Cumbre en España para atender anuncio de fuertes lluvias en Tumbes",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmNGSWRBRUEzdjdvTS10Y2RZb011OVZJeHc2QW04R191cERGT0NxTXB5NEZTMXVnSzRzU084LVo1MjJEdkRFTnF1alo2X3hDVTJyMnNQdWlUcHpzQkd3MnBRV1dZcFcwVk9aN3pLS2R4Nkpwd1djTldteC11YWJSdEMyMF83QkFjRVBFZkQxNnQ2UUZ4c182S21xV0lMVDIwbVVSZjRtN0xlblVSYi16NFo5eUpPRVpweFVWSDdCOGw0X09pMlZPNmpwUmJnYkpYR0lzUGQ3ZERVUFpvUk1sRw?oc=5",
+   "date": "2026-11-01T17:46:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
   },
   {
    "id": "39529639abf7",
@@ -1134,39 +1180,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-ratifica-su-absoluta-confianza-en-primer-ministro-luis-galarreta-apuesplan-ultimas-noticia/",
    "date": "2026-10-30T23:08:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b63d194e6551",
-   "title": "Keiko Fujimori: Respalda a Luis Galarreta como premier",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVNvNW1ySDkxSEQ0Q254YlJSNEN0SFlyOTVTUS1BZFlPOFBhT0xLNmdMNXcycVdLY0NqR2JhYzEzYVpDUlJMWk51Qk1PbkpQR2NoWVZjLXVrN0tfMUY5Mm1DOEZiR3U2cWxxRTRXUEJsUnMxWWREdVpNMnZmZVZKaFZRTnk5Uk5lWTA0dVRzeF8ydms2bGxEMkJGSXdYd2l4N0pFWFBZSktCSkhZOVHSAbMBQVVfeXFMT0lPRmFpemJBdW9Ra09oenl3b002bl9jYWlPTVEzZGI4bFU4a25pTVBZUk1ud1RUM2JxMUdUZWN2NHZaWklpTmJXVHViOTNpQi1JcUJ2a2NTNlY1ZXdSRUYwazdxYzFqeTB2VURBdjFlcUp4OGE3Z2pnX2RNRkFUNDVNQVlvVXhtb0Q3Qjhpem1hLXVtZ1YzWWZhRlBPMl9uci03RC0xMWprYnFTOFZEeEd6akk?oc=5",
-   "date": "2026-10-30T23:06:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7e23430df8de",
-   "title": "Presidenta Fujimori: “Gobierno impulsará la telemedicina para reducir esperas en salud”",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNQclJlV21pSUdNc1NJZ01VUWRiR01yOWpqS1pYWVRlcWtSdFNrOENfcTdKQjRYY05pLVFzckl3RGEyLXJibmxGX3FXcmk5SVowTDhIaGdLNndxb2xacXhDMlUxS1NOZHRGR1U2MXBfQmpRb3poUERJdmZVUHBUWDBrZmo3T0gyTU45YW9wMUlyZUo1OTY5MkNBQWZYUEc4bW0tSFpTTHMtSlhGdVExTUI2STZRQkJteUVyRW0zMmV6V1huZHh6U1Rn?oc=5",
-   "date": "2026-10-30T22:57:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "81c5c9f72153",
-   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTEZMdFcxSjBUSVJjdzhRU2M4TWVPYTNtWExyNVRlTkdJd3pPWkJhcnFWMGFKTGt1SWdTNmhqd2dvaHBlSXFZTXQxZEIwb1NINjY5dW9uejNOZkRJd1d5cmg4eXRpTTlUOGwtZ2hNYUxwNHpnN1huSkx5M2lVejhPcTVVaE1pLTZ3QkdBSGNraWQxaDczd2lrZmlMd1BXSlUxS2lCamRoS2pVS1Y1V3l5dXhQOVZkbUhwRzhxR3BuRjlPdk5nZVREZmhPOURhemJQ?oc=5",
-   "date": "2026-10-30T22:41:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
