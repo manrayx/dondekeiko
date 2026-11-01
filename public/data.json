@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T05:35:14.235259+00:00",
+ "generated_at": "2026-11-01T05:57:07.954994+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -467,6 +467,28 @@
  "agenda_minutes_7d": 1173,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "909c4fb35c98",
+   "title": "Cien días de soledad",
+   "excerpt": "El fujimorismo se ha consolidado como la expresión política de nuestro establishment. Aunque en campaña varios de sus agentes desconfiaban de que Keiko Fujimori pudiese salir de la racha de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-soledad-por-carlos-melendez-fujimorismo-fuerza-popular-keiko-fujimori-noticia/",
+   "date": "2026-11-01T05:35:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c5811d4f0794",
+   "title": "Aquí, no en El Salvador",
+   "excerpt": "La presidente Keiko Fujimori visitó la cárcel de máxima seguridad de El Salvador. “Construiremos algo parecido al Cecot [Centro de Confinamiento del Terrorismo] para internos de alta peligrosidad”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/opinion/columnistas/aqui-no-en-el-salvador-por-federico-salazar-noticia/",
+   "date": "2026-11-01T05:35:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "3eddc224a408",
    "title": "Keiko Fujimori agradece invitación de Nayib Bukele y destaca agenda sobre seguridad, salud y educación",
@@ -1119,28 +1141,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTd4cnBEUExrTVJ6eFlndEZ0d0t5b0hQUm51TTRucEVkQ1BEcnJGVW9Zb0k0dklyYndzaFZ3NlZRaXZWY3haSWl5b2hiZnpSVl9fMVNUeFFZcm0wVzc3SUpyLUttbEVaa2piUVpLNW0xZ2JENWM3dVNXZllQSVNFR2VZd1dWc2tfUmJWc1RZZUhPcl9pT21OUWctbjNYSEVxb3VUUTItcENYRjd5RzV3d0wwdGMtZTVvcUdqLVltVGNuelJEVm0zejVxdlBOX0l5VXFHMHFObw?oc=5",
    "date": "2026-10-30T19:06:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "63642364187c",
-   "title": "Keiko Fujimori visita colegio público en El Salvador acompañada de ministra de Educación, Karla Trigueros: \"Nos ha gustado muchísimo\"",
-   "excerpt": "Keiko Fujimori recorrió el Marcelino García junto a la ministra Karla Trigueros para observar recursos digitales que permiten a los niños estudiar geografía mediante pantallas interactivas y computadoras durante la…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPT0hrZkFpb0tkT1FQZG1RNXk0ekFIWDYtWWJ2SUUtUDdKNDhrcUIxbkxaclJ4U3ZUanlTd2ppVHVEY0R3X1dUdExlREVLY0NyY2MwVEc1Rk1Tdjg5WF9lSmE0d2tkVjF4YXhQMlZRTDNkZlBBSG9wLVZGSDAxLTVkRkRnYlNoZHFybU1aaVVsRWMyOHFiTFpWZHFaS19pODVkS2RQaVZjSmRKZEJyYVR0ZzBRVENVREhhVzg2M01OOF9ZT3lING1WRS0wQzZ0U0R2N3NqYmtrSGRITjJKdmJqdEpKcnlpUHpBUUE4bEtxRmNVR1dGZUU2dG42ck0zaW_SAZoCQVVfeXFMTlBtXzZsMlI0dnZBV0lnTmFNWlMyMGdMd3g2YzR4V3oyWkZWNUhNczU0YWNiOVJyMUZrelNaOXF4U2FvdS00aEZTZU5fdEJnUTF4cFJVUHlCajBGSWctU29tb3BqLUVOYTNyWWpXU2ZFTFVrM1QyWDlDV2hsTkpHZnJpZDdzaXZ6LTlWYXk2N3hzZmpmVkpuQ19GMnZ0bVZtLURPQnFJX0J1UkhpWDFOemo4al9iTzJ4cThobXZxbjRGTTRzUFZqcUpOcGYyamozN2lmYVBRUUpfaElKMENtT25jdE1ya2tqbnhINWo4QV9qVWNEcFJCUDYxYjhPdmktb2dzQTVOd3l6eGUyM3UyZXY2TlgtM2JHTWN3?oc=5",
-   "date": "2026-10-30T19:06:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "93288239f93f",
-   "title": "Keiko Fujimori agradece al Gobierno de Bukele por \"compartir su experiencia\" en seguridad durante su visita a El Salvador",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSm03OTNNUGhWSTgxVG5jN3lSd0VKb0toZk5lVHlGU3FlTHZqdTIwSDJBQW9BZ2tidFl5NnJjcC1ud2lvSnJLVy1ac3RCMGZTc2NqRHdfMWhldTc1dzJUamlzYWdRU01rUVJ1UUhSMDBpMl9NYkI3NHNzQ3MzOENMV29SY2VhRWZXUHVMVUdVTjhhTlJMRGpCQjBkUFY0SGtiN1JxMG1ydEpjdk1pQ2pKWm1YamhGcllUZ3hPSmE1ZGpoamlFbHcyREttdmU4X0Nsc2RRYzRDRTNJQkF3M1JhMjBn?oc=5",
-   "date": "2026-10-30T19:01:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
