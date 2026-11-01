@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T23:20:19.634983+00:00",
+ "generated_at": "2026-11-01T23:41:38.941328+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "España"
   },
   "source": "Agencia Andina",
-  "date": "2026-11-01T23:00:15+00:00"
+  "date": "2026-11-01T23:34:59+00:00"
  },
  "next": {
   "place": {
@@ -475,6 +475,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "284bc0d8bbfa",
+   "title": "Presidenta Fujimori no asistirá a Cumbre en España para atender emergencia por lluvias",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUpNMVU2NHFuMV9vdk5oSDlaOUNMbmFuZ0ZaVFBYV1lUSHI2UlNkbzZEUmFKRkNqRlpoZDROaGtYZnNJRlBqZHFBOGxlTHVZT0dhblNLRXlkczIyS2Y4R29ZU0FGZjl1NUNjaHNYdTZxbmxyQ3l3dC1NYmF5dWR0VEU0X3AxZS1jNVZtbjVPME9BSEwyRmIzelQwdXd1cnNyU1NKSzVDMzUyTmRULWVXUVpXWUk0TFVnUTNjZWl0ZUROUThl?oc=5",
+   "date": "2026-11-01T23:34:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "España",
+    "abroad": true,
+    "city": "España"
+   },
+   "next": null
+  },
+  {
    "id": "3b7df9f66098",
    "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
    "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
@@ -483,21 +498,6 @@
    "date": "2026-11-01T23:06:22+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "284bc0d8bbfa",
-   "title": "Presidenta Fujimori no asistirá a Cumbre en España para atender emergencia por lluvias",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUpNMVU2NHFuMV9vdk5oSDlaOUNMbmFuZ0ZaVFBYV1lUSHI2UlNkbzZEUmFKRkNqRlpoZDROaGtYZnNJRlBqZHFBOGxlTHVZT0dhblNLRXlkczIyS2Y4R29ZU0FGZjl1NUNjaHNYdTZxbmxyQ3l3dC1NYmF5dWR0VEU0X3AxZS1jNVZtbjVPME9BSEwyRmIzelQwdXd1cnNyU1NKSzVDMzUyTmRULWVXUVpXWUk0TFVnUTNjZWl0ZUROUThl?oc=5",
-   "date": "2026-11-01T23:00:15+00:00",
-   "state": "posando",
-   "place": {
-    "name": "España",
-    "abroad": true,
-    "city": "España"
-   },
    "next": null
   },
   {
