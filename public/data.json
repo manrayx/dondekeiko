@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T04:08:07.476725+00:00",
+ "generated_at": "2026-11-01T04:29:59.302949+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -500,6 +500,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c25b90efce60",
+   "title": "Keiko Fujimori destaca acuerdos de cooperación con El Salvador tras visita a Nayib Bukele",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDB6R25oMDY5b2VtaHh0R0tEUzhhaHo1UmdSWDRRNW5nNE5sMi1URWVseV9sZ0VIQW5oQkNvRzg1SWRNRzR5dWtqRmVOQjRVNlYtTURoc0RhUHI0R2RGY05Hc2hTcWlacXpEQm9XM0dpYWs3cEt1QmdvN1dZT0pEX1YzM0t6Ukotd3hlVjJiSGN4UlpKMldZWno0djBUd0V4aWVsYW5yNklQNHhWMFFFYTB6OXRHdWtFaTNpS0ZjbTJ0SVXSAdcBQVVfeXFMTkd1MG1DdFk5WENfazhLYmRJTmdWWWVNZUdiZ19NWGtVTW52R2pOcDQwUDdrODZXb240SFpDdWpRdmU2MmpxS1RpVTQ5dUJ0a3RRWEE3UkZoRjZnMWp0RTdodlFLOWFmdmc3REtiZU1XT1NNbnZ6VExLeFlrbDdJd25kOUF5SGczQms5ZTVVNW9MTUZnYk0wR2pNcTh4UVdkTXhCZTNlVU84aHRLVl9DX1VxakRMeWszMnpTUElsY1ZiQ0diZ1B0bVBPdUYxcUdzLU1zcFA0VVk?oc=5",
+   "date": "2026-11-01T04:16:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c12e57435cd4",
    "title": "Presidenta Fujimori retoma agenda de trabajo tras visita oficial a El Salvador",
    "excerpt": "",
@@ -545,6 +556,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-retoma-agenda-de-trabajo-y-sostiene-encuentros-con-representantes-diplomaticos-del-peru-tras-visita-oficial-a-el-salvador-ultimas-noticia/",
    "date": "2026-11-01T01:42:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "917289776ced",
+   "title": "Presidenta Keiko Fujimori se reúne con representantes diplomáticos tras regresar de El Salvador",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUpmRzZka3dmUWpYMkwxbjlTdEllcUI3ZVhLZWRYRUFiQkVIdW93TW5XTHFES0pXemtlODhBQWRnVTBMcGVjcHktRjdCWHcyZl92R09vS21vMmY5TXVRNlRVQ1FsTGkxTTgwX0psSzB4UW1xX1pvV2Y1bEpXRHlXNFhuOWVvWXVYR19UX0pFQS1WZmlCbkxNLXNQMUJRMTllaUMtVjZReW9vZHVIOHYtZTIwcDRjZzNfa3k0dnlLbjM5X00zLXBFTlZ3SWY4RlZyemtiYXZhcHAtQ3dEbEhGWXU2N0dVZTBxYUE?oc=5",
+   "date": "2026-11-01T01:01:46+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1151,28 +1173,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWF0cndnTkZMZEFveWtRZ0ZJUnZ6SmZ2RC1lckFDQWxGQ0JEcGZMMHA2dnBPZWQ3NGpYbGxMbDZORXFFbUJTX1cxeHVjZXRycVVxYXJ6WWpDWFNSamJ1RG1HVWZqaWRjbVNqSWJ2NFM5M0JYdnpiUF9qSUJtdHloRkdiVV9jWGlfSFd0QWVkMzM3WXotbXdOUTBfamN1a3BUM05MM3VIWUlUWktoUUt1dA?oc=5",
    "date": "2026-10-30T17:59:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2d23f95be3c4",
-   "title": "Presidenta Keiko Fujimori promueve oportunidades de inversión y comercio con El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMmhEdlEyOFU0RGwzYW1LalRjWjVfSnhoYkg0WkhPcWYwUFVIOU51MUdYamN2REdaV1dBUktEbkZ3NU0zdFRZaE5sZUtqMGFTeV80cGEzY2tzc19QVE5YYmhWaFF4VnBMYkthOEV2UHkxNFZUU3BObXVkRF9wRGtOWlhXdjEzTWtlRTk1U1lsQ2F6U1A1eENfNVFKeGNfVEtnZnU5S2hPUjJ6YTRCRXBVcnZ0OVhuSG9pY1RlbEtmejFUOGM?oc=5",
-   "date": "2026-10-30T17:53:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "91233d906989",
-   "title": "Keiko Fujimori en San Salvador: \"Los invito a invertir en el Perú sin esperar el tratado de libre comercio\"",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNTlnbU5NNzFWQXVlaUVLYXlSS2EzN1pSSi1BMkFSazBYbTdQUE8wOXR6S0VnSVVXalZIakZMbDR3Mmx2Wm9DaEZ2SVZlQkFIUmQ0WTRtMUxhZ2FsVEFKdUctdUx4UHJOTWJBYVdRZWR5T1d6SkY0ZzNqQlNGMXU1NXBGMFZqRFZWcWtKVUkwSFRKb2Y1c0c5MnY1SUgxdk9fN2U5ZFlzQm9hNWNTN2duWFpBTkRQRE1lN1ZXR2xUdkI1UzhYLWV0LVVDTGRkM21fZXI5WTRtWU9ubnpwU2fSAfgBQVVfeXFMT1otUlBaTTBPaFpEWkVkbGFnTHFaeEx0YkVjakh3d0p3QkdzMnduWXZUbncxb3dzRWM1NG5rRy1qYlI5ZnVJbDM5MGp6QnI2YzVjZVhia0d2SnNwMF9HMFdjRkg4cmMzejc3RXUyNmxTRFdFRFlxemV0dlRoRHRvZDJNbmkxUXJaQU94RmlYZFh0RXBQR2JJb05MWk9fREkzMHlHQkFaa0JrQjFsU1RvM3ZXWlFVdE9pQ1p2LXVxdUpJcGxOTVVxNk53UklGajBFdEtWR0xzRFYtU1hudlFBTVI4dkVURUJPcnBuSVI5US0wc1lRMS02WFk?oc=5",
-   "date": "2026-10-30T17:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
