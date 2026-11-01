@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T08:49:15.393209+00:00",
+ "generated_at": "2026-11-01T10:16:42.535525+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -467,6 +467,17 @@
  "agenda_minutes_7d": 1173,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "00dd2ecdc54e",
+   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmV5MjhCRUJKdUpxSFJlT21jaDNITU90QWk1eGhUd3MwTmxKWnQzcHoxeXRiQ2IwU1pFcV9vVDE2ajNvZGxnNmVQcGFwMFNHRlczUWpfbW5XSDZGSmlrSVdybWZqVDE4VE9yVmoyZ01POHBzVGpiM0ZyWnBMV1hsci1JZnNPM1RBcENvQWpPUQ?oc=5",
+   "date": "2026-11-01T10:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "909c4fb35c98",
    "title": "Cien días de soledad",
@@ -1130,17 +1141,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
    "date": "2026-10-30T19:24:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "af29dd1eaf1a",
-   "title": "Presidenta Fujimori anuncia que Perú y El Salvador tienen 14 de los 19 capítulos del TLC resueltos",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYnpjaEFlNkxBUC1fMGdQMmdZUzRzN0tEX0xOZEM4SnhwU3dtNUFYUFU5Y0o5TGhyM0ljZDJqREZMek9yNXE2dFlhUGlEem5icEt1ZGItaklaQ1pMY3VMcDk3QXJBekJlalZqOEk1MFRpMXkyV0FyNlA3Mi1Edk8wX0VlYzY4bWMyNTV5T0Vvcmw3WWhwLWliY0NNMmlReGZkTTZKcERRVEQ1WjBQa0FMbWJFR0wxbUo3Rkxzc2l2TndQcDln?oc=5",
-   "date": "2026-10-30T19:06:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
