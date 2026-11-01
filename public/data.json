@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T02:19:53.746755+00:00",
+ "generated_at": "2026-11-01T02:41:05.918540+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -500,6 +500,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "daa74d591914",
+   "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, descartó que su Gobierno evalúe un cambio en la conducción de la Presidencia del Consejo de Ministros (PCM) y ratificó su respaldo a…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-descarta-cambios-en-la-pcm-y-ratifica-respaldo-a-luis-galarreta-noticia/",
+   "date": "2026-11-01T02:33:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "66bc10ba808e",
    "title": "Keiko Fujimori retoma agenda en Palacio de Gobierno tras visita oficial a El Salvador",
    "excerpt": "",
@@ -561,17 +572,6 @@
    "next": null
   },
   {
-   "id": "daa74d591914",
-   "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, descartó que su Gobierno evalúe un cambio en la conducción de la Presidencia del Consejo de Ministros (PCM) y ratificó su respaldo a…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-descarta-cambios-en-la-pcm-y-ratifica-respaldo-a-luis-galarreta-noticia/",
-   "date": "2026-10-31T13:32:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "634dcd67fcf7",
    "title": "Keiko Fujimori cierra octubre con tercer día de visita a El Salvador y 156 homicidios registrados",
    "excerpt": "La mandataria aseguró en El Salvador que busca conocer las estrategias de Nayib Bukele, pese a que el propio presidente descartó que puedan replicarse en el Perú. Mientras tanto, Lima,…",
@@ -600,17 +600,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUjNDcGZ2VGpSOU9obU1JVjFzMEhMLVVEbk4yNVhNZjB0bnlYZVRiTXhrR0NfdFI1MFZ3c1p2MHU4bWNWeGtEejlocVN6TlVReGFFMzhTM1dhMWNfampfZWRNaEw1QmlLdWhvSjZ6Y1g?oc=5",
    "date": "2026-10-31T11:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "81c5c9f72153",
-   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
-   "date": "2026-10-31T10:42:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -892,6 +881,17 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNQclJlV21pSUdNc1NJZ01VUWRiR01yOWpqS1pYWVRlcWtSdFNrOENfcTdKQjRYY05pLVFzckl3RGEyLXJibmxGX3FXcmk5SVowTDhIaGdLNndxb2xacXhDMlUxS1NOZHRGR1U2MXBfQmpRb3poUERJdmZVUHBUWDBrZmo3T0gyTU45YW9wMUlyZUo1OTY5MkNBQWZYUEc4bW0tSFpTTHMtSlhGdVExTUI2STZRQkJteUVyRW0zMmV6V1huZHh6U1Rn?oc=5",
    "date": "2026-10-30T22:57:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "81c5c9f72153",
+   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTEZMdFcxSjBUSVJjdzhRU2M4TWVPYTNtWExyNVRlTkdJd3pPWkJhcnFWMGFKTGt1SWdTNmhqd2dvaHBlSXFZTXQxZEIwb1NINjY5dW9uejNOZkRJd1d5cmg4eXRpTTlUOGwtZ2hNYUxwNHpnN1huSkx5M2lVejhPcTVVaE1pLTZ3QkdBSGNraWQxaDczd2lrZmlMd1BXSlUxS2lCamRoS2pVS1Y1V3l5dXhQOVZkbUhwRzhxR3BuRjlPdk5nZVREZmhPOURhemJQ?oc=5",
+   "date": "2026-10-30T22:41:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
