@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T19:41:49.555565+00:00",
+ "generated_at": "2026-11-01T20:03:58.454461+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -480,7 +480,7 @@
    "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
-   "date": "2026-11-01T19:31:10+00:00",
+   "date": "2026-11-01T19:47:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1028,23 +1028,23 @@
    "next": null
   },
   {
+   "id": "230d5ca1493f",
+   "title": "Keiko Fujimori descarta salida de Luis Galarreta de la PCM tras versiones de cambios: \"Es un simple chisme\"",
+   "excerpt": "El pronunciamiento desde El Salvador llega después de varios días de especulaciones sobre la continuidad del jefe del Gabinete. El propio premier había respondido a las versiones durante una visita…",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTNUWkVYZXdJRWhJY1d5Z1NLbEJDX2dnWTdyb1V0SVN4ZWdZX01FR1RwYnFxTXdvTmxxcHZEcWFZMVJKbUhqOE52clFTbVpHUHM3UFhxZTF2Y1VRc21OdEl3eU5MS2N2UXJxVlRsa0xiTzRnNVVzamh4SXk0d0ZDRWs5Y2JoeldCZGp5M2t5VE5pbldJSlhZYVBOUHM4TndJOURaTFoybk02clIySDFRX2VGWmw1NzFuWnFNVXo3dzNkMXFBMHhEMzFGeUNnRWtVbTN5d1RZUjNhSUR0bFHSAfgBQVVfeXFMTzFkTHZCWUlLbGtHU2tidVNUU0NqSXpfODB1MVlsQzF4R2RHanB6aVFkbFFiMHk4aXdaQW52U2tGaU5ZX2Nya2tCZzg1S3IwQnRnWTkzYVQ5M2NfcnZsUDFyWjVfbEtZV01udjBWc2l6bTlNZFA2c3pjQ1ZUZUNMcXhuRFBVSm5aZ1ROeDVfNUV2cHNFNmhuZ2NvWktRS3hPb0todEw2dERJS3pyQ3V5dy10OEFzOUFVLWxndlNDYlcyRE04U1UtS1lOZnJBRUhuMmNfelg0c2ZhZExKU3VSdVFQZ3U0a3d0SUNQZWZYWWUtZEdRLWRCeTU?oc=5",
+   "date": "2026-10-31T03:04:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d46e35dbd17c",
    "title": "Keiko Fujimori visita colegio en El Salvador para...",
    "excerpt": "",
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOamVMZk16RmxPVlluM3Y3ZENGUTMwSmRnbXUxUjBuM2tOdTZZeUN2a1VuNHozclVHeW01Z0p4bzZiQVZNNUxhbVFYeUJHRE1FbVh6aUxBdnFQTmEycmUwVUt1Rlh5eUpjaGlWd2VCMkJLWWxla0ZiV2J2MExIZWFZQ0tKcndmWUVZT2NmMS1DSjVSNnpTLWExbzRDYUlRVXRGTVlDU0V5ekt2VUs0OU0wNjRfc9IBuAFBVV95cUxObXpCMi1XSTh0bm5MbHdNWFlScDdzOWJPeG1LVVoybm53NlJnZ0JVVlo3LU4tWWE5TUxCemFlRG9ndFZ4cWJ3T3RuRDNmZ3Rkb3pDOGZ1TXgyMEtySk94ZUpLMGNZY2F4V1RpaXBvY2lIcllmamhOUS1iNkhxYjgyMHpjeTdfM3lFREtFd01jM1FXTkhkX3VyZ2VHVWVRVkJmYTNmeUlIQmhMWllvTWFfQ1lXSHRrUUdS?oc=5",
    "date": "2026-10-31T02:43:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "230d5ca1493f",
-   "title": "Keiko Fujimori descarta salida de Luis Galarreta de la PCM tras versiones de cambios: \"Es un simple chisme\"",
-   "excerpt": "El pronunciamiento desde El Salvador llega después de varios días de especulaciones sobre la continuidad del jefe del Gabinete. El propio premier había respondido a las versiones durante una visita…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTNUWkVYZXdJRWhJY1d5Z1NLbEJDX2dnWTdyb1V0SVN4ZWdZX01FR1RwYnFxTXdvTmxxcHZEcWFZMVJKbUhqOE52clFTbVpHUHM3UFhxZTF2Y1VRc21OdEl3eU5MS2N2UXJxVlRsa0xiTzRnNVVzamh4SXk0d0ZDRWs5Y2JoeldCZGp5M2t5VE5pbldJSlhZYVBOUHM4TndJOURaTFoybk02clIySDFRX2VGWmw1NzFuWnFNVXo3dzNkMXFBMHhEMzFGeUNnRWtVbTN5d1RZUjNhSUR0bFHSAfgBQVVfeXFMTzFkTHZCWUlLbGtHU2tidVNUU0NqSXpfODB1MVlsQzF4R2RHanB6aVFkbFFiMHk4aXdaQW52U2tGaU5ZX2Nya2tCZzg1S3IwQnRnWTkzYVQ5M2NfcnZsUDFyWjVfbEtZV01udjBWc2l6bTlNZFA2c3pjQ1ZUZUNMcXhuRFBVSm5aZ1ROeDVfNUV2cHNFNmhuZ2NvWktRS3hPb0todEw2dERJS3pyQ3V5dy10OEFzOUFVLWxndlNDYlcyRE04U1UtS1lOZnJBRUhuMmNfelg0c2ZhZExKU3VSdVFQZ3U0a3d0SUNQZWZYWWUtZEdRLWRCeTU?oc=5",
-   "date": "2026-10-31T02:15:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
