@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T00:09:45.951360+00:00",
+ "generated_at": "2026-11-01T01:14:32.640768+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -451,6 +451,17 @@
  "agenda_minutes_7d": 1125,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "5ac68db11753",
+   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS21ZQzNkOEl5VnR6UERPSXM4aFJmdmdweVlxRi1MU3E5akpyNHRGVi1mcHNtclRDUW9vcGFmMlZmQ3habkN0ZXgyTnB4a1JpV2RBeDlIcDVMZWF2ZEt1ek5DdHAwTWdOdHBoY0xVU2Fvek9tcEN6Q3FBbEZlV2N6SmhzdHF4RjdIdDhiSTY1amRlaS10ZzYtZlI5RTI4LXUxSFU1Y3hVc0MwdEp2dnYyalpaeFE2QlBmZW13MUhNSElXOEFH?oc=5",
+   "date": "2026-11-01T01:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "59f8b51f6851",
    "title": "Gobierno de Keiko Fujimori nombra a excandidato de Fuerza Popular director de la Casa de la Literatura",
@@ -1113,17 +1124,6 @@
    "excerpt": "La presidenta de la República, Keiko Fujimori, visitó el Centro Escolar Marcelino García Flamenco en la localidad de Santa Tecla, San Salvador. La jefa de Estado recorrió la infraestructura junto…",
    "source": "El Comercio",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaXQ0OTFWTFNtcmJBekhWcFhLeXJSd2owTV85WWxzY2JhaXpuTEpRN2lhQ3VVczFfSWVOSnNITEt5SWJMZlI0bG45WHBVLXZBV0ZQQWs3M1FVVlI4c2lmVEd4WFB4V0ZiS3VxdE9oQ1J3Q01JWGVqQ0xLbzhoVDU5NlFuREk4WmpPbmo0RkcxcjdVUlpQUjNLbXdxSWhEeDAwVHl1VkZpNEFyNHhoU24yRC1nelRRd2lObGQzQUkzSUF5ODVqQXZmRHk0eEp6anVJRXVTeXVCQnhodU1NMEduNUJ0aHlad3BvZDNV0gH_AUFVX3lxTE9XNEtkcmFNSGRvQUg3OS1mc0psUWdhckRFS2Z0U1JDUjBnbTBCZWtzR01veDNFeV9oRElQZE9JelE4WUJ2TFhUZ01lREtKclpBRFBJR3hwb1VYajdYYV9hOG80aDVsUXE1RzZsY0MwRmlhdXpBUlhhU3pMOFJIb2ZqOUJrT0t2WTgzQzFCbDJqRXRxNEw3UUljTldVS3BKSG1Gb2tBaVJFbmJEMVh3enplaFFETnJuZ09jTWkzTGZrZWFORktpRXdXZVFGRDZkX0dPa2hsZktxcW9jWUdpVWk4SWQ4QVRoNjQ0VXVCcFRpSXBVWDhad2VrS1lxWjVROA?oc=5",
-   "date": "2026-10-30T17:33:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "47e1e4c521e1",
-   "title": "Keiko Fujimori visita colegio emblemático y plataforma de salud Doctor SV en El Salvador",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, visitó el Centro Escolar Marcelino García Flamenco en la localidad de Santa Tecla, San Salvador. La jefa de Estado recorrió la infraestructura junto…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/actualidad/keiko-fujimori-visita-colegio-emblematico-para-evaluar-modelo-educativo-en-el-salvador-apuesplan-ultimas-noticia/",
    "date": "2026-10-30T17:33:18+00:00",
    "state": "posando",
    "place": null,
