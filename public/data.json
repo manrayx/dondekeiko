@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T19:20:01.861244+00:00",
+ "generated_at": "2026-11-01T19:41:49.555565+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -474,6 +474,17 @@
  "agenda_minutes_7d": 1173,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "36d9ffbc6be4",
+   "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
+   "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
+   "date": "2026-11-01T19:31:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "769888c6987e",
    "title": "Keiko Fujimori canceló su viaje a España para atender emergencias por incremento de lluvias en el norte",
@@ -1172,17 +1183,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9KZHl4WjYwWHRIaGpiclZfVkpHQ3hKOUU5U3U3TVctY1NMQUxsTGpReDQ5eXhPRkhKUjBoLW13YzUyaUJIQm4waE5aLTJOTzk3dVNvblc2TUIyQ3gzT25UcENra3o0TVhZZU9GSVlEWm1pMFlFQkhVZGwyVUYxR2x1NVY5ZnBIUHJYdk5VMG52dFFPMEVPejFSdVlLWnVGQlZTeDdvZlN5bzk3TU0weWd4ZHVKcm45QUxoZ3V3eGJfWG1pRmR2bzZacEVOWER5TEV3UA?oc=5",
    "date": "2026-10-30T23:22:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d1eda63e7c4a",
-   "title": "Visita oficial a El Salvador ha sido muy fructífera, asegura Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT05rVlFtY2FObjNwdlFCbWlLVmcwaEVaNURrYUI1RE84NVgzQk5WWno1VEkwRWVybnNWQjdwRWhfcHMxdmpNdXpUcEl6bXRaSm5LOXhqUTBENVdLRkEyLWJaS2FYeWVwbWhkdzVGeUJuTzBZak9FbGRrMkRxbFZBY0hLRGZNWFQxdWVSbFhZcUNHWmNyVFR6Sk9CU1hXWjV5Z1kyUGpVdkhvU3o0SERB?oc=5",
-   "date": "2026-10-30T23:09:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
