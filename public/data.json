@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T16:48:36.973684+00:00",
+ "generated_at": "2026-11-01T17:09:51.597812+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -468,6 +468,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "095f03bafca8",
+   "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
+   "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/",
+   "date": "2026-11-01T16:56:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6e5614c4d2c5",
    "title": "Sheput: Gobierno de Keiko Fujimori logró reconstitución de la figura presidencial",
    "excerpt": "",
@@ -507,17 +518,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/juan-sheput-no-hay-algun-tipo-de-desplante-del-presidente-nayib-bukele-a-keiko-fujimori-ultimas-noticia/",
    "date": "2026-11-01T14:43:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "095f03bafca8",
-   "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
-   "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/",
-   "date": "2026-11-01T14:15:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
