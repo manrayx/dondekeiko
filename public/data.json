@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T13:11:20.836415+00:00",
+ "generated_at": "2026-11-01T14:38:02.957913+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -468,6 +468,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "095f03bafca8",
+   "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
+   "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/",
+   "date": "2026-11-01T14:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2c4a2840641b",
    "title": "Keiko Fujimori regresó de El Salvador y enfrenta el incremento de casos de dengue y leptospirosis",
    "excerpt": "El ministro Dyer informó que la estrategia de vacunación incorporó a ocho regiones como zonas prioritarias, junto con San Juan de Lurigancho y Carabayllo en Lima",
@@ -502,17 +513,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
    "date": "2026-11-01T11:51:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "095f03bafca8",
-   "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
-   "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/",
-   "date": "2026-11-01T11:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
