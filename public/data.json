@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T18:58:33.749955+00:00",
+ "generated_at": "2026-11-01T19:20:01.861244+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -108,10 +108,10 @@
    "name": "España",
    "abroad": true
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-01T18:41:28+00:00",
-  "title": "Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte reportado por el Comando FEN para esta noche",
-  "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-cancela-viaje-a-espana-por-incremento-de-lluvias-en-el-norte-reportado-por-el-comando-fen-para-esta-noche/"
+  "source": "RPP",
+  "date": "2026-11-01T18:56:18+00:00",
+  "title": "Keiko Fujimori canceló su viaje a España para atender emergencias por incremento de lluvias en el norte",
+  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbDV6aWNEb3V4X2xxYkdmMnhEMVRDcWNyUzZBZ2VYcldnYW1WWEVjeG1ia25IOHpPdXd4eV9HNTFFOFl1ZnFKdlRObjMzOGpoZldCXzJrV2V5b3hkUTMwdWRmSE5nd3pUUkVZcjROTVNyckgzVS13bURrLW5BRURvMFNSS2NtMHJsVGNSUEExZ3JaTXA3bkNPd2RmZWQwRkJSTnJVSUxReXJMMVh6dWR6TVc5dFZESUdObUtkZ2I1ZG1JdXZZUXZPQjVzUTE4cnVNODJEUS1kWVBQQnN3eTJSNGdHdFI?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -475,6 +475,20 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "769888c6987e",
+   "title": "Keiko Fujimori canceló su viaje a España para atender emergencias por incremento de lluvias en el norte",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbDV6aWNEb3V4X2xxYkdmMnhEMVRDcWNyUzZBZ2VYcldnYW1WWEVjeG1ia25IOHpPdXd4eV9HNTFFOFl1ZnFKdlRObjMzOGpoZldCXzJrV2V5b3hkUTMwdWRmSE5nd3pUUkVZcjROTVNyckgzVS13bURrLW5BRURvMFNSS2NtMHJsVGNSUEExZ3JaTXA3bkNPd2RmZWQwRkJSTnJVSUxReXJMMVh6dWR6TVc5dFZESUdObUtkZ2I1ZG1JdXZZUXZPQjVzUTE4cnVNODJEUS1kWVBQQnN3eTJSNGdHdFI?oc=5",
+   "date": "2026-11-01T18:56:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
+  },
+  {
    "id": "92fd31913598",
    "title": "Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte reportado por el Comando FEN para esta noche",
    "excerpt": "La mandataria indicó que las precipitaciones aumentarán a partir de hoy. Ministro de Defensa, Rafael Belaúnde, se movilizará a Tumbes para coordinar protocolos de emergencia",
@@ -550,7 +564,7 @@
    "title": "Presidenta Keiko Fujimori cancela su viaje a Cumbre en España para atender anuncio de fuertes lluvias en Tumbes",
    "excerpt": "",
    "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmNGSWRBRUEzdjdvTS10Y2RZb011OVZJeHc2QW04R191cERGT0NxTXB5NEZTMXVnSzRzU084LVo1MjJEdkRFTnF1alo2X3hDVTJyMnNQdWlUcHpzQkd3MnBRV1dZcFcwVk9aN3pLS2R4Nkpwd1djTldteC11YWJSdEMyMF83QkFjRVBFZkQxNnQ2UUZ4c182S21xV0lMVDIwbVVSZjRtN0xlblVSYi16NFo5eUpPRVpweFVWSDdCOGw0X09pMlZPNmpwUmJnYkpYR0lzUGQ3ZERVUFpvUk1sRw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUxoUE4tRUE2RGF6WmhXNUxraE9EOVpwd09xWHlsc0hTdHlCcV9QSmQyWklKdTFsdm1OcEhzd2pVMUd6WHFxZW92TnJwSkxWeEtWU1d6YjFaeXdudUdxamdCd3Q2QUt4eEZuZDVNSzNMalh0U3Zjd3o5ZThqU3lCVjVXOW1jQkxCUjhvTGtuZ1lieEQ5NnJ5VHZucE9DWk9pVmhyekdSREJJaE9fSFF3S0luQ1ZXWWlDSzdIUFlsb2JKTE0wMXFYeVBZcDh5M3o2ZEQxRXpxdEVFemM?oc=5",
    "date": "2026-11-01T17:46:00+00:00",
    "state": "posando",
    "place": {
@@ -1169,17 +1183,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT05rVlFtY2FObjNwdlFCbWlLVmcwaEVaNURrYUI1RE84NVgzQk5WWno1VEkwRWVybnNWQjdwRWhfcHMxdmpNdXpUcEl6bXRaSm5LOXhqUTBENVdLRkEyLWJaS2FYeWVwbWhkdzVGeUJuTzBZak9FbGRrMkRxbFZBY0hLRGZNWFQxdWVSbFhZcUNHWmNyVFR6Sk9CU1hXWjV5Z1kyUGpVdkhvU3o0SERB?oc=5",
    "date": "2026-10-30T23:09:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1ba0a27a7cca",
-   "title": "Keiko Fujimori ratifica su “absoluta” confianza en primer ministro Luis Galarreta",
-   "excerpt": "Keiko Fujimori descartó una eventual salida del primer ministro Luis Galarreta y calificó de “simple chisme” las versiones sobre cambios en el Gabinete. También aclaró el papel de José Chlimper…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-ratifica-su-absoluta-confianza-en-primer-ministro-luis-galarreta-apuesplan-ultimas-noticia/",
-   "date": "2026-10-30T23:08:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
