@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T12:06:31.046318+00:00",
+ "generated_at": "2026-11-01T12:28:21.350718+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -661,6 +661,17 @@
    "next": null
   },
   {
+   "id": "49ada8fc864a",
+   "title": "Keiko Fujimori afirma que megacárceles en Perú podrían construirse en siete meses, como el CECOT de El Salvador",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEt0bkFFYlNLZ2JhdjZSdGFrV2VvMDc2MHhqZ1JtT0RDWHNwU29XYlY4azlRMWhCUWZ0c1FzeUhrNUN0TmhBeDVZT2hGdGtEdlM0ZXNWVUIwZ2VSYWRJTTdkVUlIRlZSbng0dkE0X2lTQWQzbllUdjNINWxzWE82amRTaE9ScU1uLXFTQkZjcHpaZDNETXBOd1I1ai15SUxqV21iSzg5WlE3eGtRNk1PYUt1Nkg4amZnbmJ1QjUtZWpLMUlWalpXVVhNZkg?oc=5",
+   "date": "2026-10-31T13:26:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "634dcd67fcf7",
    "title": "Keiko Fujimori cierra octubre con tercer día de visita a El Salvador y 156 homicidios registrados",
    "excerpt": "La mandataria aseguró en El Salvador que busca conocer las estrategias de Nayib Bukele, pese a que el propio presidente descartó que puedan replicarse en el Perú. Mientras tanto, Lima,…",
@@ -1126,23 +1137,6 @@
    "date": "2026-10-30T19:38:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "399cc69d1471",
-   "title": "Keiko Fujimori visita el Hospital El Salvador para conocer el funcionamiento del sistema médico Doctor SV",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb0VMOElfLWlvY0ZvM1BsQ1dSeUtTMlVLRjNYZWZaemJ0LThuaG9lYXNZeGpPcGk5cHBGdFY0Ui15WjlUUGVkMXp2VkdndEdWaVVMR05FeWNlX2xCNkQ1SXpEMEQwSS1WTmY4RFN0UVpSdG4tX3Zvd3Q5bmZWLVVyRGxhWGtjbUFxWlB4ejdzdlZieTI5Y1dEM0hWczR3WEFnejZUZEpKMXJBZHgtSDZxZldHUWxlV0kzRFp5S0RqbVc2dW9kRjBGRXFRSUU1SjBX?oc=5",
-   "date": "2026-10-30T19:37:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Hospital El Salvador",
-    "city": null,
-    "lat": -12.23211,
-    "lng": -76.93483,
-    "abroad": false
-   },
    "next": null
   }
  ],
