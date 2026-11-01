@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T22:58:09.215276+00:00",
+ "generated_at": "2026-11-01T23:20:19.634983+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "España"
   },
-  "source": "El Peruano",
-  "date": "2026-11-01T18:34:00+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-01T23:00:15+00:00"
  },
  "next": {
   "place": {
@@ -475,23 +475,38 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3b7df9f66098",
+   "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
+   "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-sobre-el-combate-a-la-criminalidad-ya-no-vamos-a-esperar-mas-vamos-a-hacer-uso-legitimo-de-la-fuerza/",
+   "date": "2026-11-01T23:06:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "284bc0d8bbfa",
+   "title": "Presidenta Fujimori no asistirá a Cumbre en España para atender emergencia por lluvias",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUpNMVU2NHFuMV9vdk5oSDlaOUNMbmFuZ0ZaVFBYV1lUSHI2UlNkbzZEUmFKRkNqRlpoZDROaGtYZnNJRlBqZHFBOGxlTHVZT0dhblNLRXlkczIyS2Y4R29ZU0FGZjl1NUNjaHNYdTZxbmxyQ3l3dC1NYmF5dWR0VEU0X3AxZS1jNVZtbjVPME9BSEwyRmIzelQwdXd1cnNyU1NKSzVDMzUyTmRULWVXUVpXWUk0TFVnUTNjZWl0ZUROUThl?oc=5",
+   "date": "2026-11-01T23:00:15+00:00",
+   "state": "posando",
+   "place": {
+    "name": "España",
+    "abroad": true,
+    "city": "España"
+   },
+   "next": null
+  },
+  {
    "id": "909c4fb35c98",
    "title": "Cien días de soledad",
    "excerpt": "El fujimorismo se ha consolidado como la expresión política de nuestro establishment. Aunque en campaña varios de sus agentes desconfiaban de que Keiko Fujimori pudiese salir de la racha de…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-soledad-por-carlos-melendez-fujimorismo-fuerza-popular-keiko-fujimori-noticia/",
    "date": "2026-11-01T22:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3b7df9f66098",
-   "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
-   "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-sobre-el-combate-a-la-criminalidad-ya-no-vamos-a-esperar-mas-vamos-a-hacer-uso-legitimo-de-la-fuerza/",
-   "date": "2026-11-01T22:48:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -671,6 +686,21 @@
     "name": "España",
     "abroad": true
    }
+  },
+  {
+   "id": "771036ad90fe",
+   "title": "Keiko Fujimori suspende viaje a Cumbre Iberoamericana en Madrid para atender emergencia por El Niño",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVNtV09uaWhuU29mcUY0elprRXoyU2FnSThDOXpKcnRnLVlIVVdYaTlLcXppVjJxbW9VR0RYTDBxRVdnTDNwcENwM3p2eGxIblcxSFdnX1dGWXVjWVIwWWVGczBVVkF5XzBSV0EzbXZsT3ZtSGJyYjk1Z1p5TXpIem5aN2hvRERKM3N5ZnRR?oc=5",
+   "date": "2026-11-01T18:01:39+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madrid",
+    "abroad": true,
+    "city": "Madrid"
+   },
+   "next": null
   },
   {
    "id": "59a35e9d45fe",
@@ -1161,28 +1191,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOG9raEJ3MEwwZ1hZM1U4VVhSOFlWRWtXalJjZ1VRM1BzeWtOQ1ByWmxnaGRjODZVeEsyRmVKcjVGQ0FSbnBHa3ZGcFBNc2puQ3VTUktHYUxHb2JBanAxNnlUUEk3eVMxenhiV2N5MW1yb3dEeklmajV2TlRrSnA1VHFkektoa3VPd0FERUtJdmhMZGNPeWRrUHpBQ016SnJra2tFaUhRWmp1TDVxRlBOMmxDX3I0czhPd0tJaGItd2tmd9IBxwFBVV95cUxNOHUyaGI0b21JMG1jdmlpRGlDVC16LUNNdmlpVDByUnFxd1ZEaGFmenA0dE8wZUs3SnZ3Ym5OYWMwVEFmWTBSRjh1SjUzLTBtZHdQUHl4aDE3NkdMYU0wLUhBTFR3VW9zeE1ucDF2TVA2M1RfMURzWmxhVjlIMTZSWnNqQ2Z3Ylk3NVFOOGEyMTdzaW5OVnNET0lIX3dVeWRVbWZibk5XckZOblVOcTB4bzE0V21oWHpENWpkX2IyeUhLVk5YX1Iw?oc=5",
    "date": "2026-10-31T01:03:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dbf625d54dba",
-   "title": "Presidenta Keiko Fujimori promoverá oportunidades de inversión y comercio con El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUC1OMHhKMGFUSVdiOWJGUmlkektiYkg3QlBwbkpnV2RtanczdXZpeW91VHd5RTUtdUU3TWszSnZta2xZWXMzZHNmTUtRaGR2cC1VT0JldzRNSFktdUtGdmJpRFJYNUJ2cFltVmVZcl85cmtzWF9mWXpMbVBYWW9HNHNoVmF2emVkSWxrMGJDdVUtdDVqMGJBOWd1Yi1qYVNnRTlQWUlTMEhWVEFFVmFRTTdHZEFVT3pYb1ducUZIOGxKQ3ZjOW5vYXhB?oc=5",
-   "date": "2026-10-31T00:33:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8c9ecbc67179",
-   "title": "Visita de Keiko Fujimori a Bukele: el análisis de Carlos Basombrío",
-   "excerpt": "",
-   "source": "Epicentro TV",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMUo3dGx5V180Z05IVWFOMExEMUlWR1BkSjB2WXEyaGZlSTZYb3VXU1ZOanp3VTBBRjJmaVdyZHF5U0pEdmNDSm1yOGp0R3lYXzlJVXU0Nnh2RzliRTVNOHJmQ2ljeDg3NTVYMjc3YV9Fc2dRYWtud3pacC1YSzFZUWZVVkF3M0RhV0hWSDhxQ3o?oc=5",
-   "date": "2026-10-31T00:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
