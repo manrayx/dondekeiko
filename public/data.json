@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T01:35:59.157711+00:00",
+ "generated_at": "2026-11-01T01:57:54.999840+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -451,6 +451,17 @@
  "agenda_minutes_7d": 1125,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "883334ff6e1a",
+   "title": "Keiko Fujimori sostiene encuentros con representantes diplomáticos del Perú tras visita oficial a El Salvador",
+   "excerpt": "Durante las reuniones se abordaron diversos asuntos relacionados con la política exterior peruana, así como las prioridades de trabajo en las respectivas representaciones diplomáticas y el fortalecimiento de los vínculos…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-retoma-agenda-de-trabajo-y-sostiene-encuentros-con-representantes-diplomaticos-del-peru-tras-visita-oficial-a-el-salvador-ultimas-noticia/",
+   "date": "2026-11-01T01:42:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "5ac68db11753",
    "title": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
@@ -1114,17 +1125,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlhjYS1PQXpjZ1dwaGxxaDU3M1hRWHM2Q091S2VYaUhRcHl0MnpBXzAzeG9mVVZnYzBtTl9Cd1Z4UjA5Q3A0SzVZeXBxdUN5ZmE1SzZid3BvbXp2RS00bVZKZFZ3Zk9tVG5FclhRakVZMjFjTjg3ZHNhbXlFQ2xibnlEM1FIZmdyWlNQWV92dG5VOUQwZEt0VXN0X0ppUlJpQnJUby1scG5zUmRzLVVyMF9mZ1l5dw?oc=5",
    "date": "2026-10-30T17:36:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "64e5d1a98111",
-   "title": "Keiko Fujimori destaca modelo educativo de Bukele y plantea recoger experiencias para el Perú",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZlRJbkROTk9IZ1RRcEZjQW1VM2hRNHdlY2V0TXd1emF3Z1U0YVRVMDhPdnlheU1TdG0tZmxvV3FVWXdmMkZCcFVLR0tFYnVVSjItZmN2Vjd3d1pTMW02N184ajhXSFFCRW5jTXdZVzFha2sycXVxcmk5NkR2Ni14TWpIYzlWOTVuWFZqZzVQZi1xQUMyWWIwUDg1a3lOS1kxR1RadFY3VXlGVkdydXRhQWR6SkFPWU1HWVREVXlTRnUzUE1jNWFWMzJnamJaUWpPN1Exb3Q4cllaOVE2TkIxWFVydHZPcWhCaUYxZG9jOV_SAfYBQVVfeXFMUFdWb3R0UmQtWmpHd1FSaUYyV1JfU1FaQjJWQy1oc0hOQkxjVXdwdmxPdXg4SDhrY3Z0TjhYWE5UYkVpMlVESkhSa0NCUm9ObVFWVVE4OEJvVzBCRDRDUHMtbU1NX3ZiVkVBRlNET0VzUkVHbVRzbklDd3U1cWdkclJjNDZodHdyR3RmUHhQWk1PaFZva0RHVU5WYmNWUnZDOE1NNURMSzVQVjdSX2VLSkJiemRNZXNkRWN2UDdpVVdycklReVBoalh6NmJ4N1g0QTRLcW9PTmlwZ3haTTFMeHlpZnJjMzdRem9TRDNIbER2V1RJU3ZB?oc=5",
-   "date": "2026-10-30T17:34:04+00:00",
    "state": "posando",
    "place": null,
    "next": null
