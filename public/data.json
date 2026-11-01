@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T21:52:25.627313+00:00",
+ "generated_at": "2026-11-01T22:14:33.922595+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -108,10 +108,10 @@
    "name": "España",
    "abroad": true
   },
-  "source": "RPP",
-  "date": "2026-11-01T18:56:18+00:00",
-  "title": "Keiko Fujimori canceló su viaje a España para atender emergencias por incremento de lluvias en el norte",
-  "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbDV6aWNEb3V4X2xxYkdmMnhEMVRDcWNyUzZBZ2VYcldnYW1WWEVjeG1ia25IOHpPdXd4eV9HNTFFOFl1ZnFKdlRObjMzOGpoZldCXzJrV2V5b3hkUTMwdWRmSE5nd3pUUkVZcjROTVNyckgzVS13bURrLW5BRURvMFNSS2NtMHJsVGNSUEExZ3JaTXA3bkNPd2RmZWQwRkJSTnJVSUxReXJMMVh6dWR6TVc5dFZESUdObUtkZ2I1ZG1JdXZZUXZPQjVzUTE4cnVNODJEUS1kWVBQQnN3eTJSNGdHdFI?oc=5"
+  "source": "www.apnoticias.pe",
+  "date": "2026-11-01T19:05:01+00:00",
+  "title": "🚨 Keiko Fujimori cancela viaje a España por alerta de lluvias en el norte",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDZkMkNXS3NyWGdDb2ZCZENKR2dRWk9jdHNKeGEtYk5uV3RVMVg5bXhJS3UyU3ZVeU41X3hYNnNxZC1ZNy02SHN5ZjBNQngtR29RWW1oNVZmckE1Ums1VmtxWmpNVGFDd1ZWYWxCOG8wc0NJVFE0emF4UEdPRVhvVUgyNXNXSndVbnRjNHJTbHpNdWlGRVMtdzFsZnljQ3RsS0pZRk4xSTdIbTFnREJr?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -475,6 +475,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e65fda6e1e53",
+   "title": "Municipalidad de Piura denunciará al Gobierno de Fujimori por no incluir a región en obras por FEN: \"Han desfinanciado convenios\"",
+   "excerpt": "El alcalde Francisco Cevallos afirma que la presidenta se comprometió a destrabar cinco de los seis proyectos. Pide menos de S/ 20 millones para cerrarlos.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/01/municipalidad-de-piura-denunciara-al-gobierno-de-fujimori-por-no-incluir-a-region-en-obras-por-fen-han-desfinanciado-convenios-89356",
+   "date": "2026-11-01T22:00:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "36d9ffbc6be4",
+   "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
+   "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
+   "date": "2026-11-01T21:54:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c5811d4f0794",
    "title": "Aquí, no en El Salvador",
    "excerpt": "La presidente Keiko Fujimori visitó la cárcel de máxima seguridad de El Salvador. “Construiremos algo parecido al Cecot [Centro de Confinamiento del Terrorismo] para internos de alta peligrosidad”.",
@@ -519,17 +541,6 @@
    "next": null
   },
   {
-   "id": "36d9ffbc6be4",
-   "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
-   "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
-   "date": "2026-11-01T19:47:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "f70b1b70b70f",
    "title": "Keiko Fujimori no irá a la Cumbre Iberoamericana para atender emergencia por fenómeno de El Niño en Perú",
    "excerpt": "",
@@ -539,6 +550,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "988b662bc7bc",
+   "title": "🚨 Keiko Fujimori cancela viaje a España por alerta de lluvias en el norte",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDZkMkNXS3NyWGdDb2ZCZENKR2dRWk9jdHNKeGEtYk5uV3RVMVg5bXhJS3UyU3ZVeU41X3hYNnNxZC1ZNy02SHN5ZjBNQngtR29RWW1oNVZmckE1Ums1VmtxWmpNVGFDd1ZWYWxCOG8wc0NJVFE0emF4UEdPRVhvVUgyNXNXSndVbnRjNHJTbHpNdWlGRVMtdzFsZnljQ3RsS0pZRk4xSTdIbTFnREJr?oc=5",
+   "date": "2026-11-01T19:05:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
   },
   {
    "id": "769888c6987e",
@@ -1158,34 +1183,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWVES2Zuc3Rfb0IzeEFJWXl4bXljVk83bWVaQTFTSlE2MU9CYWVETzhFRE1MczlYdVBlZDZwaWxHQm9IdlNMWTFPZHBFQWRYbTJKalRVaXliM0lleXBoQTRBd056WXZYMFJNd3l2U0xaYkJNeTAwWnNraHFEZ2owRnVVYkdHbEhaUEROTXhzeFFyZkRlS3Fv?oc=5",
    "date": "2026-10-30T23:49:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d0fa64aec3fb",
-   "title": "Keiko Fujimori recorrió el Hospital Rosales y evaluó su modelo de atención especializada en El Salvador",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSTNoUkFRcEpCWXJ0MnVscWMzRHR2R0FyWm1sa3piT2VuRjFFZXlucU9fd0lpOWJGdEJucWF2bW5BMXlaYkhiaDVfQ3dqby1NZ1JuN21IY3JoYWVMb01JNEF1OVI0UUVkM3pmQXRKbXpvT1pmN01BYm5oTjFNUVkyaHBERVYybkJkbE9vVlRld0hEaFRzNXFLODc2NTY2cnY3Yl82Mi1fa1hqYVBOTkQ5XzJlUGluTHQxVV9ZbTZxaDdEb1QwOEc2SWdNOW5jUTdfNmF1b0k2WXAzS3U1czIxdlRwQTdVZ9IBgAJBVV95cUxNbFQ0TWVHVFdHR0NXOGhJa1pwTkgtbHJsbDNHTWRERDZTNnVWbzUxM1hUQ0x4U2JCVmxKdE90S19VWHBfWXFaNkRiaEcxN2NrZXBuVTJ5dVNTQThVemlPQnRqTmlONVY0djY0MmRNTE1SM2tHaGxPMFV6WElPYmRFOWZoWG1lT1FiaDNkMkoxZXc5bGliTTNubU9ybER3MWgtczdaOXdjcEM4Y3E1cjl5WmZtSER0VWszbzFLTTVTRDFHZnVvSFd5Q0R0dU1NMk9DWUgtYkFyOU51cGVrb2tEMUs5dUx2dEFKLXVBS1pwZmlCUWRPQ0QxNFpuUjEzc2ZO?oc=5",
-   "date": "2026-10-30T23:43:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Hospital Rosales",
-    "city": null,
-    "lat": -3.69762,
-    "lng": -80.43673,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "2a4e4af968cd",
-   "title": "Keiko Fujimori ratificó su respaldo a Luis Galarreta como presidente del Consejo de Ministros",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdGxHRjFZVzhYa0JrSmJmQ252TjhTZzZQZFJ4clctcG5OUk04UmRHV1YzMG1PSVdXeEJQaWtZdWpBMUIyRjF6QUctanhuQkYxbXBnVmg4ajd2S0tDbE1Sb1JhNl9ySmJrS1hpdUFLSmQ0R1F6TG5hWGNNc2pIV2xSc3dzckJpSkUzT2pfU1B1cmNha3Y2d0hHQk1YckxNVVp4UVBkSWFEa1RKQVpXSmlOaUdXVUY1UV9SdzJFakVLc0FrTXVQd1lwdWpoTWRXN0dhNWMzNEFNR1cxZw?oc=5",
-   "date": "2026-10-30T23:38:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
