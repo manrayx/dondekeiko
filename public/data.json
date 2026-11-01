@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T14:59:20.889586+00:00",
+ "generated_at": "2026-11-01T15:21:17.804512+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -467,6 +467,17 @@
  "agenda_minutes_7d": 1173,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a19157cecb57",
+   "title": "Presidenta Fujimori y ministro de Salud evalúan medidas frente al dengue y la leptospirosis",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQl9WSWNHdl9zSzFaY3RSNFZUeTRXc3E2ZTNHajF0ZlItWjMzSGJ5V09oM0JCVmhmc28wTlZUOVBZeGZSblpkdk02d1ZPbUNOU21aMjlVakRZRXlqRFhrY1gwcHUzODJQd3dGOHU3a0VFNXRYQmRzLTE2OFNVM0Ezemt4cTFTLUhBc1dDR004aXJ0WXpfQ20yLWtyMGhMbXFBLUJhWDk4UHRjYWZaalJ4ZkxxUXBuVFYyUVFnQU13ZnNWMTMzRC16Q3ZxQVNBZEdD?oc=5",
+   "date": "2026-11-01T14:59:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "17e05578ef29",
    "title": "Juan Sheput: “No hay algún tipo de desplante” del presidente Nayib Bukele a Keiko Fujimori",
@@ -1130,17 +1141,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnhNcl9hdHk0bGtFYzVHZjhXTmE3azFGQUNTT3U0cm9hSkdVMnBCNU9sLUJ2SFZaNFZneUlXekF5NnlXMWdFbDZURmMtOEtRcjdrT1NOLXZ1bUEtRHBEd3lOMDd3ZHRhX0Q5VTBHUXZPVFlkcXJSYWlLRXhjdGlPNVlQM0VrdDB1bGlBejg4clJOZ09GclBWdzBjeXJaUmlONUVSVnI1eWwyalpkbHBmcUhKSnlxUGJFY1RTd213emRtYTV5TDlwV3VMaU5ydXhkdUtqRg?oc=5",
    "date": "2026-10-30T20:50:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8ba600fd7e63",
-   "title": "Presidenta Keiko Fujimori visitó colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckQ3YkJpRTFkdjZEcmZWdWJXM2xqVGdtU3NqRnNyd1BUTmgyLVI2MVZiUHhwcUI5WmJJS1Jvd2F2UzB2eWFpOUhKTl9kSEYyeFZaQXZwWV81a0J0WWh1Q2hjeTV4WFhRUVduM3dPczZXc3o1cUl3a1NSREE3TWZuWkZhbFUxYncxWHFPbm1MZzNadE9RdlRWZXk4VFpDdlROeFBoUnZn?oc=5",
-   "date": "2026-10-30T20:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
