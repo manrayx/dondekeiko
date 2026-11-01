@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T07:22:28.218380+00:00",
+ "generated_at": "2026-11-01T08:05:49.255515+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -468,17 +468,6 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "5ac68db11753",
-   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS21ZQzNkOEl5VnR6UERPSXM4aFJmdmdweVlxRi1MU3E5akpyNHRGVi1mcHNtclRDUW9vcGFmMlZmQ3habkN0ZXgyTnB4a1JpV2RBeDlIcDVMZWF2ZEt1ek5DdHAwTWdOdHBoY0xVU2Fvek9tcEN6Q3FBbEZlV2N6SmhzdHF4RjdIdDhiSTY1amRlaS10ZzYtZlI5RTI4LXUxSFU1Y3hVc0MwdEp2dnYyalpaeFE2QlBmZW13MUhNSElXOEFH?oc=5",
-   "date": "2026-11-01T07:02:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "909c4fb35c98",
    "title": "Cien días de soledad",
    "excerpt": "El fujimorismo se ha consolidado como la expresión política de nuestro establishment. Aunque en campaña varios de sus agentes desconfiaban de que Keiko Fujimori pudiese salir de la racha de…",
@@ -507,6 +496,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-agradece-invitacion-de-nayib-bukele-y-destaca-agenda-sobre-seguridad-salud-y-educacion-ultimas-noticia/",
    "date": "2026-11-01T05:11:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "117540cbbfae",
+   "title": "Keiko Fujimori reanuda agenda de trabajo en...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXdYNFJ0dE9NRzhWYlpTWEdlbTQzVXhTV2d6WVd4aDdXZXM3a2hHbFdmckJfLXhlMXlNVl82OHVDWEhCNHVhcDgyMjI3VDBPQm85eDhpVGNfS0pBT0VaRXkyYmFhTmxSUEVwblRUclBfS096ODJvalA1bnFxcUdGcUdBSmxOWS1acTRqTy1SNFdlUldpaW5TUGJXaHRYS1hJVXNz0gGoAUFVX3lxTE93RElpbk1jQm9UQ0RLUTA5WmtrU1RzUGlvUTVSZFQ5VGNZN1MwaHNQampyVHhsN2hvMFFfTnRXdW5MNWJjQzhfNmVkMlc1eGxjeV9jME45X19TNWhIZ0hQY2I5ekxBMU81RDFyVG0zbE9WLVdoRHNteHZyUmtZVmg4Uld4SFU4WFQwYWp5dldtUjZRRmZnRnJvOU8tdndCVGtFZF9jMlUxQQ?oc=5",
+   "date": "2026-11-01T04:51:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -579,6 +579,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-retoma-agenda-de-trabajo-y-sostiene-encuentros-con-representantes-diplomaticos-del-peru-tras-visita-oficial-a-el-salvador-ultimas-noticia/",
    "date": "2026-11-01T01:42:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5ac68db11753",
+   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTWQ0R0ZLZFF6RXJBbmtlRUotYXlORkdSdEl5bmNRMkRBV2N1WS1NUHRZMkZpNVZnRGxVQUJGNnNtTlhmeDRnVDV4Ym5OMFUyRzRlNF9SNVBuVHY4RGl0SjVlaDNkNmhxUXUwWWJHdzZQcW1hZVZhVXN5a1dMWGU4bng2LTd0VTdqV0FmQlpjUUNsblV6akJKTVVnWk16NUtocEhPcGxQNzhuYkFPZTJwSkNLTWxpd3oycWxrUW5fdjVUSVMwRlJfZ0ltTHA5U3RWRFFkUkswX2VYaFk?oc=5",
+   "date": "2026-11-01T01:02:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1130,17 +1141,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYnpjaEFlNkxBUC1fMGdQMmdZUzRzN0tEX0xOZEM4SnhwU3dtNUFYUFU5Y0o5TGhyM0ljZDJqREZMek9yNXE2dFlhUGlEem5icEt1ZGItaklaQ1pMY3VMcDk3QXJBekJlalZqOEk1MFRpMXkyV0FyNlA3Mi1Edk8wX0VlYzY4bWMyNTV5T0Vvcmw3WWhwLWliY0NNMmlReGZkTTZKcERRVEQ1WjBQa0FMbWJFR0wxbUo3Rkxzc2l2TndQcDln?oc=5",
    "date": "2026-10-30T19:06:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4cdfc33cee76",
-   "title": "Presidenta Fujimori presentó en El Salvador las oportunidades de inversión y negocios que ofrece el Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTd4cnBEUExrTVJ6eFlndEZ0d0t5b0hQUm51TTRucEVkQ1BEcnJGVW9Zb0k0dklyYndzaFZ3NlZRaXZWY3haSWl5b2hiZnpSVl9fMVNUeFFZcm0wVzc3SUpyLUttbEVaa2piUVpLNW0xZ2JENWM3dVNXZllQSVNFR2VZd1dWc2tfUmJWc1RZZUhPcl9pT21OUWctbjNYSEVxb3VUUTItcENYRjd5RzV3d0wwdGMtZTVvcUdqLVltVGNuelJEVm0zejVxdlBOX0l5VXFHMHFObw?oc=5",
-   "date": "2026-10-30T19:06:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
