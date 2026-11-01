@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T01:57:54.999840+00:00",
+ "generated_at": "2026-11-01T02:19:53.746755+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Hospital Rosales",
+   "name": "Palacio de Gobierno",
    "city": null,
-   "lat": -3.69762,
-   "lng": -80.43673,
+   "lat": -12.04491,
+   "lng": -77.0298,
    "abroad": false
   },
-  "source": "Infobae",
-  "date": "2026-10-30T23:43:00+00:00"
+  "source": "Perú21",
+  "date": "2026-11-01T01:51:29+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -121,6 +121,54 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-10-31T18:26:00-05:00",
+   "end": "2026-10-31T19:00:00-05:00",
+   "minutes": 34,
+   "subject": "Reunión de trabajo con el Representante Permanente del Perú ante los organismos internacionales con sede en Ginebra, Suiza, José Recoba Martínez",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-31T17:03:00-05:00",
+   "end": "2026-10-31T18:23:00-05:00",
+   "minutes": 80,
+   "subject": "Reunión de trabajo con el Representante Permanente del Perú ante la Organización de los Estados Americanos (OEA), Aurelio Pastor Valdivieso.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-10-31T16:38:00-05:00",
+   "end": "2026-10-31T17:00:00-05:00",
+   "minutes": 22,
+   "subject": "Reunión de trabajo con el embajador del Perú en Colombia, Ricardo Ghibellini Harten.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-10-31T03:25:00-05:00",
    "end": "2026-10-31T03:25:00-05:00",
@@ -448,9 +496,26 @@
    }
   }
  ],
- "agenda_minutes_7d": 1125,
+ "agenda_minutes_7d": 1261,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "66bc10ba808e",
+   "title": "Keiko Fujimori retoma agenda en Palacio de Gobierno tras visita oficial a El Salvador",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOU52LWFjbHRTUWZOZVJlTEljZDNXT0JTaUxhYWFJNmtLNzhUMU01dnc0b1NWWW5tVW5CdElNb1FBbDU2QmM4Y3pIQ0Y2YlJLTm52THdfMEhNVWdnU0xBYl9VM2I5QWNEeE85SVR5Smp6RmZrM3dhWHF2Y1YydUhQTjNXcWNIODk0M0xxdmJUUVg3TGlnQ0IySVhiTmJyOWdFSlZ2SHpibnV2TkFKdVNLRA?oc=5",
+   "date": "2026-11-01T01:51:29+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
   {
    "id": "883334ff6e1a",
    "title": "Keiko Fujimori sostiene encuentros con representantes diplomáticos del Perú tras visita oficial a El Salvador",
@@ -535,6 +600,17 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUjNDcGZ2VGpSOU9obU1JVjFzMEhMLVVEbk4yNVhNZjB0bnlYZVRiTXhrR0NfdFI1MFZ3c1p2MHU4bWNWeGtEejlocVN6TlVReGFFMzhTM1dhMWNfampfZWRNaEw1QmlLdWhvSjZ6Y1g?oc=5",
    "date": "2026-10-31T11:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "81c5c9f72153",
+   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODgtc3l1NmlyWHBJZV83ZDdFdjBxeWNCdFU3RUVUQ0NOT0sxVl9lSWwyWE1pWmxTUThFb0wwaTVKZzlPYjlHT0lvVkc3TEwwX25QdnlhMmtwVjQ0M0ctQzJWdXBpSmc4SFJoMVZvMWR5UmhjN0IxSS1MUWt1bVNIeUpaeGNPWWNlYjAyRUppamRhSmhzTEFLdklQV1ZGM3d2ZnZSdVJKbEduYkJsT21sZFhUUFdteDNCaGlVRC13?oc=5",
+   "date": "2026-10-31T10:42:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -816,17 +892,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNQclJlV21pSUdNc1NJZ01VUWRiR01yOWpqS1pYWVRlcWtSdFNrOENfcTdKQjRYY05pLVFzckl3RGEyLXJibmxGX3FXcmk5SVowTDhIaGdLNndxb2xacXhDMlUxS1NOZHRGR1U2MXBfQmpRb3poUERJdmZVUHBUWDBrZmo3T0gyTU45YW9wMUlyZUo1OTY5MkNBQWZYUEc4bW0tSFpTTHMtSlhGdVExTUI2STZRQkJteUVyRW0zMmV6V1huZHh6U1Rn?oc=5",
    "date": "2026-10-30T22:57:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "81c5c9f72153",
-   "title": "Presidenta Keiko Fujimori: Visita oficial a El Salvador ha sido muy fructífera",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTEZMdFcxSjBUSVJjdzhRU2M4TWVPYTNtWExyNVRlTkdJd3pPWkJhcnFWMGFKTGt1SWdTNmhqd2dvaHBlSXFZTXQxZEIwb1NINjY5dW9uejNOZkRJd1d5cmg4eXRpTTlUOGwtZ2hNYUxwNHpnN1huSkx5M2lVejhPcTVVaE1pLTZ3QkdBSGNraWQxaDczd2lrZmlMd1BXSlUxS2lCamRoS2pVS1Y1V3l5dXhQOVZkbUhwRzhxR3BuRjlPdk5nZVREZmhPOURhemJQ?oc=5",
-   "date": "2026-10-30T22:41:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1116,17 +1181,6 @@
     "abroad": false,
     "city": "Madre de Dios"
    },
-   "next": null
-  },
-  {
-   "id": "31fa14f16dd0",
-   "title": "¡BUKELE le ACLARA a KEIKO! Su modelo NO SE PUEDE COPIAR TAL CUAL EN PERÚ | Trome",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQlhjYS1PQXpjZ1dwaGxxaDU3M1hRWHM2Q091S2VYaUhRcHl0MnpBXzAzeG9mVVZnYzBtTl9Cd1Z4UjA5Q3A0SzVZeXBxdUN5ZmE1SzZid3BvbXp2RS00bVZKZFZ3Zk9tVG5FclhRakVZMjFjTjg3ZHNhbXlFQ2xibnlEM1FIZmdyWlNQWV92dG5VOUQwZEt0VXN0X0ppUlJpQnJUby1scG5zUmRzLVVyMF9mZ1l5dw?oc=5",
-   "date": "2026-10-30T17:36:36+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
