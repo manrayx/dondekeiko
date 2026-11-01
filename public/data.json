@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T20:03:58.454461+00:00",
+ "generated_at": "2026-11-01T20:25:11.132459+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -475,6 +475,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c5811d4f0794",
+   "title": "Aquí, no en El Salvador",
+   "excerpt": "La presidente Keiko Fujimori visitó la cárcel de máxima seguridad de El Salvador. “Construiremos algo parecido al Cecot [Centro de Confinamiento del Terrorismo] para internos de alta peligrosidad”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/opinion/columnistas/aqui-no-en-el-salvador-por-federico-salazar-noticia/",
+   "date": "2026-11-01T20:14:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "095f03bafca8",
+   "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
+   "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/",
+   "date": "2026-11-01T20:12:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "36d9ffbc6be4",
    "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
    "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
@@ -603,17 +625,6 @@
    "next": null
   },
   {
-   "id": "095f03bafca8",
-   "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
-   "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/",
-   "date": "2026-11-01T17:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "4d0cb6e6f7ef",
    "title": "Canciller califica de “muy positivo” el viaje de la presidenta Fujimori a El Salvador",
    "excerpt": "",
@@ -730,17 +741,6 @@
    "excerpt": "El fujimorismo se ha consolidado como la expresión política de nuestro establishment. Aunque en campaña varios de sus agentes desconfiaban de que Keiko Fujimori pudiese salir de la racha de…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-soledad-por-carlos-melendez-fujimorismo-fuerza-popular-keiko-fujimori-noticia/",
-   "date": "2026-11-01T05:35:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c5811d4f0794",
-   "title": "Aquí, no en El Salvador",
-   "excerpt": "La presidente Keiko Fujimori visitó la cárcel de máxima seguridad de El Salvador. “Construiremos algo parecido al Cecot [Centro de Confinamiento del Terrorismo] para internos de alta peligrosidad”.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/opinion/columnistas/aqui-no-en-el-salvador-por-federico-salazar-noticia/",
    "date": "2026-11-01T05:35:00+00:00",
    "state": "posando",
    "place": null,
@@ -1050,6 +1050,17 @@
    "next": null
   },
   {
+   "id": "e7e9bd8831ad",
+   "title": "Presidenta Fujimori ratifica absoluta confianza a primer ministro, Luis Galarreta",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZklQRGtpMVRuRURrN25CNFlDamJxQ0FQS05FZ3o4X3FSTWgxZXZENTRRWU1jV2RWenJadnFDWVUxcVBGaWxDLWZMVURXRENlNGp3VnJzM0FmU0tGcjZuMEdwbjlObFdTZGctMFV6TE44eDZxczAtekdxcGw4V0VKWHh0c29HdUUtQXN6Q2xlQ1RQUkhPWXpzb256WFJxNTlzNHJNUElqa1JiUXBTQS05TWFTY0FydlZXWVlSVmt0cjNIZw?oc=5",
+   "date": "2026-10-31T02:19:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b64b240b6345",
    "title": "Diputada Roxana Rocha dice que visita de Keiko Fujimori a El Salvador debe servir para replicar infraestructura carcelaria",
    "excerpt": "",
@@ -1172,17 +1183,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjlGeGZWVk1QbGtyYkQyM3YtcU5HOURzcDQ1UTJ6bXRWcEg5cUJKcE1SS28xaFcxNi1BRUhyMEdMZXdsRDhRcFY3NTN6RWRIYUZzUTdubXR5azB6TEFXbjE1STBNa3BZMlFHY0tWaHBRWTZuQi02c3BJVG1pME80Z3ZmN1VsLUNzd0xGSlRqdmlUZU9sT0ZHN1ljRE5TOGJFb2ZKU01UWm8tSzA1VTdF?oc=5",
    "date": "2026-10-30T23:24:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1f28cff27acd",
-   "title": "Keiko Fujimori a empresarios salvadoreños: Perú es un hub logístico ideal para expandir sus inversiones",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWG9KZHl4WjYwWHRIaGpiclZfVkpHQ3hKOUU5U3U3TVctY1NMQUxsTGpReDQ5eXhPRkhKUjBoLW13YzUyaUJIQm4waE5aLTJOTzk3dVNvblc2TUIyQ3gzT25UcENra3o0TVhZZU9GSVlEWm1pMFlFQkhVZGwyVUYxR2x1NVY5ZnBIUHJYdk5VMG52dFFPMEVPejFSdVlLWnVGQlZTeDdvZlN5bzk3TU0weWd4ZHVKcm45QUxoZ3V3eGJfWG1pRmR2bzZacEVOWER5TEV3UA?oc=5",
-   "date": "2026-10-30T23:22:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
