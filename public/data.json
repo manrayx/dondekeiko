@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T12:28:21.350718+00:00",
+ "generated_at": "2026-11-01T12:49:51.617993+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -468,6 +468,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "66fcc0ed5aad",
+   "title": "Los 100 días de Keiko Fujimori comparados con otros expresidentes",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWswN3VpQl9tQ0w3TU84Ym1tanI3WjY0OHhwR2VFUFB3R1FXUnRQckdtU1d4aU5FN0lxQ0FhZDhTazlwR0tXaVJUVmlLQ3BmYUpfcHVTYzJlbUtwb0VQdkR3QnphblZKMHI0aEFjZG9mVkhlbTF2elFnU2hkaU40RGVlNXd5WDIwWmxJS3VGWHNlc0NKSmlWWdIBngFBVV95cUxPOHlmRHdTRHl5ZGZFRk9UN2szTGtyeHY5LWczM0d3TnZvaVluWE1zVEpaY0NaQ3ZnZ0xXcTJod1ZKZVJRMVRCNWNNRHBOQjJpQllSN1BVMmtoUi0zbDZZSXJPaHUzTzZidEpLMFBTb1dFWi1WNG1rOElHN0RMRUhnei1ZbGNlZVU5RzYyYUZadlFyX3ByR1c1VXlYbnpxZw?oc=5",
+   "date": "2026-11-01T12:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "46e2f536830e",
    "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
    "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
@@ -722,6 +733,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-10-31T10:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "524cd3667b83",
+   "title": "¿Un CECOT a la PERUANA? Keiko anuncia 2 NUEVAS CÁRCELES al ESTILO BUKELE | Trome",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjM4R3MtbUMzOURpZ1FKeTU2N0NOekJlZzZLVnUtYUJVODJvbW9XTVhRaU1wOWJ3ZW0ydmw3YnBBUjdmRWlnbEdHem9GQmpGYzI1Mi1xc1hhUDRLcmo4NTlQWjJoaVMtaVRrTFBNRER4VjBiVW1rVWFHN3lNTDMwTURlRGswcUxNaXYxVDl3am1CS2tSMC1NWnZMWDhUZFMtYzhrOGdpOWtveDgtdy1YcS12Ty1MQQ?oc=5",
+   "date": "2026-10-31T08:43:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1085,17 +1107,6 @@
    "next": null
   },
   {
-   "id": "524cd3667b83",
-   "title": "¿Un CECOT a la PERUANA? Keiko anuncia 2 NUEVAS CÁRCELES al ESTILO BUKELE | Trome",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkJNVTNPZHFUNk10dXdSYlNidFJ4Ni1HUjBKQWdvSGQxSGlEX2E2cUV5Y1d3a1A3U29fTkdIc1Y0akFMbk5sMm9HYl9ZNUlDaDZMeTlZdU53T2dqZWdtT25Ob2pRS294QVd1NE9jYUFQWThzcVIzaHhXT3BhcHBaQ2tOY3JqbUtVcnRFMm1PaVRVWUJtR09Ra3huVzAwNXltSVJTZnQ0ajhjWGtXT1NETXRqMGtiUVU3?oc=5",
-   "date": "2026-10-30T20:33:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "8ba600fd7e63",
    "title": "Presidenta Keiko Fujimori visitó colegio emblemático en El Salvador",
    "excerpt": "",
@@ -1124,17 +1135,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNjJmMXBXaU1FRENWUFczUlpUYkpkVklfX0hCbVZfQ2pCemc5U1FoU1o4WGEyYmR3NGRjMWU5WTBieGVaNW9ieVFET1g3Y2tYTktSUHF6cXEzRVd1VE10dFduODBYYm5pLUdpZkZFMmZvY3lVbU1RVzlaQ2NaRzZRZEZIaV9FVEpsajMwN2kyeFUzdWNHZTdYbUxLQTdvZ0ZGS1o4SE5MU2dYVTQ0VDlfMS1uVE9XdXJ1V01ZV3Z0TmdDbnlyclI2VWg1bEV0REJ3MFZNYw?oc=5",
    "date": "2026-10-30T19:43:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "80065f62287b",
-   "title": "La presidenta Keiko Fujimori evalúa el modelo salvadoreño de telemedicina para recortar listas de espera en Perú",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPb2VRZDdLaDRvU3ZBTXhBNklTSVUtYWNvU3llWmREM1hzYWd4emxPa1ZzY0NoN3E4eHdMTUIydl82RVZLX3R4MEpISFc0N0t3UnAydXZNX0JpZmRIb2tDUEdScy1CWXB3aWl4dXl4WEJWX0tpSk5ZZ3RRcmMxV0V4SlVqOFZINWliaHlPQ3lWeHpsclJiYXVKSE1yWHBNR0xydHlQRUd4SHE4Tmk2MmNabzBUTDNzXzZBMXpReEVaM3VrWU1GV1JBblM5TjEwY0NoeHV5Z0hXdUJMVDVTaUd6OGxPWjNucElMRGU1aG4tT0pmQdIBjAJBVV95cUxOSDNCTzRxanhwdS0tYUVQZ2hPdG9KdGhEcU1Ed1lLQy1JNUxQenNxektyMkxETzRkRWprMEVkNmZhYlIxRm9uenNERXVSbkpsaDNjeGRiYzF6aTNCUWdwVG1nUWpmUnUwUks4cGJEQlFmSHJ3cVdmbDJLRm52c2ZQVFZ4WE9uYnFtZFRnWUsyUWhWMmZlZ3d0TjViZi03UnYtdzFSYTNaTXdEdzRYX3ZwaGgtZEZ0ajE2aVBPaDJIaVNBX09vbGREOFFheGNScWlrSlI3NUU1WE9HQmRySlZfX3hhUjdmUEMxUjRHWVdlUHQyTTJvNHpmMDBQZ0VvZFZJNklmcVNZYklsMVpq?oc=5",
-   "date": "2026-10-30T19:38:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
