@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T04:51:21.234344+00:00",
+ "generated_at": "2026-11-01T05:13:12.743863+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -462,43 +462,22 @@
     "lng": -77.043,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-24T12:35:00-05:00",
-   "end": "2026-10-24T13:02:00-05:00",
-   "minutes": 27,
-   "subject": "Inaugura canal de riego Sulcán Chala.",
-   "lugar": "Distrito San José de Quero, provincia de Concepción, región Junín",
-   "state": "posando",
-   "place": {
-    "name": "Distrito San José de Quero",
-    "full": "Distrito San José de Quero, provincia de Concepción, región Junín",
-    "city": "Junín",
-    "lat": -12.065,
-    "lng": -75.205,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-24T08:34:00-05:00",
-   "end": "2026-10-24T09:35:00-05:00",
-   "minutes": 61,
-   "subject": "Lidera reinicio de operaciones del histórico Tren Macho en el tramo Chilca-Cuenca, en el marco de la conmemoración por los 100 años del ferrocarril Huancayo-Huancavelica.",
-   "lugar": "Distrito de Chilca, provincia de Huancayo, región Junín",
-   "state": "posando",
-   "place": {
-    "name": "Distrito de Chilca",
-    "full": "Distrito de Chilca, provincia de Huancayo, región Junín",
-    "city": "Huancayo",
-    "lat": -12.065,
-    "lng": -75.205,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 1261,
+ "agenda_minutes_7d": 1173,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "3eddc224a408",
+   "title": "Keiko Fujimori agradece invitación de Nayib Bukele y destaca agenda sobre seguridad, salud y educación",
+   "excerpt": "Mandataria agradeció la oportunidad de compartir experiencias y avanzar con decisión en una agenda de cooperación bilateral.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-agradece-invitacion-de-nayib-bukele-y-destaca-agenda-sobre-seguridad-salud-y-educacion-ultimas-noticia/",
+   "date": "2026-11-01T05:07:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "c25b90efce60",
    "title": "Keiko Fujimori destaca acuerdos de cooperación con El Salvador tras visita a Nayib Bukele",
@@ -506,6 +485,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDB6R25oMDY5b2VtaHh0R0tEUzhhaHo1UmdSWDRRNW5nNE5sMi1URWVseV9sZ0VIQW5oQkNvRzg1SWRNRzR5dWtqRmVOQjRVNlYtTURoc0RhUHI0R2RGY05Hc2hTcWlacXpEQm9XM0dpYWs3cEt1QmdvN1dZT0pEX1YzM0t6Ukotd3hlVjJiSGN4UlpKMldZWno0djBUd0V4aWVsYW5yNklQNHhWMFFFYTB6OXRHdWtFaTNpS0ZjbTJ0SVXSAdcBQVVfeXFMTkd1MG1DdFk5WENfazhLYmRJTmdWWWVNZUdiZ19NWGtVTW52R2pOcDQwUDdrODZXb240SFpDdWpRdmU2MmpxS1RpVTQ5dUJ0a3RRWEE3UkZoRjZnMWp0RTdodlFLOWFmdmc3REtiZU1XT1NNbnZ6VExLeFlrbDdJd25kOUF5SGczQms5ZTVVNW9MTUZnYk0wR2pNcTh4UVdkTXhCZTNlVU84aHRLVl9DX1VxakRMeWszMnpTUElsY1ZiQ0diZ1B0bVBPdUYxcUdzLU1zcFA0VVk?oc=5",
    "date": "2026-11-01T04:16:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b29d46b5f406",
+   "title": "Keiko Fujimori revisa estrategia sanitaria contra el dengue tras retorno de El Salvador",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDRhdGg5eVo0OVNfYmJKVF96VmhVSjBEdHFERTAyVGpJdjBTcUtrREtJVkVIb2U4eEo3VVYzSHh2YV8zUkkwbXo5UXZ1VXNKVXV0Y3p1Nzd6NGItb2FQUE13TEt1Z05JZF9vRGxQcjZ2Y0ZpNnc4Ym9kN2Y2Z010dS1yQ2ctUk1MQk85dnpLSUg0UENIbFdKeWtrS2VqR3QtTWV2UXJqcHdpZWdfTnY1MWR2TUdkUWRGclNTcDhjLVVhN1l1enc0SVlKUG1nUdIB4gFBVV95cUxPNnRLRTRmRDVSd2hXbXl0WVJRNnBZMlVGa1FsdlFMNkNPdkE3V1c1X3drY20xdy1yTFkyLVZMMjc3bE9CWHhlQ21xSGZSTFAzeW9CV0FFZDRjQkVwNGlRQzNWNWtzaURPdElpUmtZa2ZkWmZidlgwSmV4N1I4bE9KTFp6dGFTN0NnUUJ6ZEtUS2wwRzlqUUw5OURtWE5JdkhCLWRNYnR5X0pPaklncGtIcjFFbHRJbjhXOGRqMmJmY3FPS0k5d2JjWnItanFTaTZCUzl4c2F3V0owUHdXUE8taGpR?oc=5",
+   "date": "2026-11-01T03:36:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -564,7 +554,7 @@
    "id": "917289776ced",
    "title": "Presidenta Keiko Fujimori se reúne con representantes diplomáticos tras regresar de El Salvador",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUpmRzZka3dmUWpYMkwxbjlTdEllcUI3ZVhLZWRYRUFiQkVIdW93TW5XTHFES0pXemtlODhBQWRnVTBMcGVjcHktRjdCWHcyZl92R09vS21vMmY5TXVRNlRVQ1FsTGkxTTgwX0psSzB4UW1xX1pvV2Y1bEpXRHlXNFhuOWVvWXVYR19UX0pFQS1WZmlCbkxNLXNQMUJRMTllaUMtVjZReW9vZHVIOHYtZTIwcDRjZzNfa3k0dnlLbjM5X00zLXBFTlZ3SWY4RlZyemtiYXZhcHAtQ3dEbEhGWXU2N0dVZTBxYUE?oc=5",
    "date": "2026-11-01T01:01:46+00:00",
    "state": "posando",
@@ -1151,28 +1141,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSm03OTNNUGhWSTgxVG5jN3lSd0VKb0toZk5lVHlGU3FlTHZqdTIwSDJBQW9BZ2tidFl5NnJjcC1ud2lvSnJLVy1ac3RCMGZTc2NqRHdfMWhldTc1dzJUamlzYWdRU01rUVJ1UUhSMDBpMl9NYkI3NHNzQ3MzOENMV29SY2VhRWZXUHVMVUdVTjhhTlJMRGpCQjBkUFY0SGtiN1JxMG1ydEpjdk1pQ2pKWm1YamhGcllUZ3hPSmE1ZGpoamlFbHcyREttdmU4X0Nsc2RRYzRDRTNJQkF3M1JhMjBn?oc=5",
    "date": "2026-10-30T19:01:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5e14118369d5",
-   "title": "La presidenta Keiko Fujimori conoció aulas con inteligencia artificial en El Salvador",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeHkxXzBYQ3VJOEpCTUppQ1RkTWRoT0t3dFFZaXNwdUh0bWltTGM3V2NIRTI0c1p0RTlPRGM4a0ttVWJkLUtzd3JyWnJ6NGJPLThpMDk4TDMtU010SGV4bkg3Q2VkUnBFY1J6S2dfaUxtTnQxbVgyVTN2UzNwTF9GZ3FhbVFxelBITXhfNE9PeUJDN0pEd3BjeFlXN05OQVlDanpRVFZfTlI3YWV0VVBpRmNkbm1vS3VNeWVlSTZ3dTJTRUFpVE4zRHd4YWljQdIB6AFBVV95cUxQMHkzNjQ4amxXbGM5TGN2N09mQTB2X0luZWViOEM3dF9MQVI4dkhlek5kQkhJeXdheFF5aVZpRURaOFdmZUllcmZRWWd2d3pYaDZlV0lBR3dwakVBbmsxeG5QS28yMy0zbTljb0gwUFlXLWIyeTA3dkI1M0F2d213LWpoZGlDRXN3S1pWc2d2VGdJX0FuSjBaYTd5TFFyQW54dk1EbWpydG9WN1ZiVGlKdHNCMDFJRlNFRWhrS21vVTV4QkRObDU4NGtSbnFBMFRLVGM3OW10VVEzREVJamY4aXoxWUtQbGtZ?oc=5",
-   "date": "2026-10-30T18:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1fedd4587429",
-   "title": "Keiko Fujimori pone la mira en colegios de Bukele y busca replicar construcciones rápidas en Perú",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWF0cndnTkZMZEFveWtRZ0ZJUnZ6SmZ2RC1lckFDQWxGQ0JEcGZMMHA2dnBPZWQ3NGpYbGxMbDZORXFFbUJTX1cxeHVjZXRycVVxYXJ6WWpDWFNSamJ1RG1HVWZqaWRjbVNqSWJ2NFM5M0JYdnpiUF9qSUJtdHloRkdiVV9jWGlfSFd0QWVkMzM3WXotbXdOUTBfamN1a3BUM05MM3VIWUlUWktoUUt1dA?oc=5",
-   "date": "2026-10-30T17:59:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
