@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T17:31:21.606900+00:00",
+ "generated_at": "2026-11-01T17:52:37.880559+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,16 +96,23 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Lima",
-   "lat": -12.046,
-   "lng": -77.043,
-   "abroad": false,
-   "city": "Lima"
+   "name": "España",
+   "abroad": true,
+   "city": "España"
+  },
+  "source": "El Comercio",
+  "date": "2026-11-01T17:34:19+00:00"
+ },
+ "next": {
+  "place": {
+   "name": "España",
+   "abroad": true
   },
   "source": "Infobae Perú",
-  "date": "2026-11-01T13:01:56+00:00"
+  "date": "2026-11-01T17:44:36+00:00",
+  "title": "Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte reportado por el Comando FEN para esta noche",
+  "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-cancela-viaje-a-espana-por-incremento-de-lluvias-en-el-norte-reportado-por-el-comando-fen-para-esta-noche/"
  },
- "next": null,
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
@@ -468,6 +475,35 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "92fd31913598",
+   "title": "Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte reportado por el Comando FEN para esta noche",
+   "excerpt": "La mandataria indicó que las precipitaciones aumentarán a partir de hoy. Ministro de Defensa, Rafael Belaúnde, se movilizará a Tumbes para coordinar protocolos de emergencia",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-cancela-viaje-a-espana-por-incremento-de-lluvias-en-el-norte-reportado-por-el-comando-fen-para-esta-noche/",
+   "date": "2026-11-01T17:44:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
+  },
+  {
+   "id": "39529639abf7",
+   "title": "Keiko Fujimori anuncia que no asistirá a cumbre de jefes de Estado en España por lluvias en el norte",
+   "excerpt": "La presidenta Keiko Fujimori anunció que no asistirá a la cumbre de jefes de Estado que se realizará en España, debido al incremento de las lluvias reportado en la zona…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cancela-su-viaje-a-espana-y-no-asistira-a-cumbre-de-jefes-de-estado-por-lluvias-en-el-norte-ultimas-noticia/",
+   "date": "2026-11-01T17:34:19+00:00",
+   "state": "posando",
+   "place": {
+    "name": "España",
+    "abroad": true,
+    "city": "España"
+   },
+   "next": null
+  },
+  {
    "id": "095f03bafca8",
    "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
    "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
@@ -681,7 +717,7 @@
    "id": "917289776ced",
    "title": "Presidenta Keiko Fujimori se reúne con representantes diplomáticos tras regresar de El Salvador",
    "excerpt": "",
-   "source": "Diario Expreso",
+   "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUpmRzZka3dmUWpYMkwxbjlTdEllcUI3ZVhLZWRYRUFiQkVIdW93TW5XTHFES0pXemtlODhBQWRnVTBMcGVjcHktRjdCWHcyZl92R09vS21vMmY5TXVRNlRVQ1FsTGkxTTgwX0psSzB4UW1xX1pvV2Y1bEpXRHlXNFhuOWVvWXVYR19UX0pFQS1WZmlCbkxNLXNQMUJRMTllaUMtVjZReW9vZHVIOHYtZTIwcDRjZzNfa3k0dnlLbjM5X00zLXBFTlZ3SWY4RlZyemtiYXZhcHAtQ3dEbEhGWXU2N0dVZTBxYUE?oc=5",
    "date": "2026-11-01T01:01:46+00:00",
    "state": "posando",
@@ -1119,28 +1155,6 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzdiblJHQUV6cW1EWUlkeHY4cHdJWUhPNU5nZHNwRm9aWEFBdkozdVZWTnBvWEdPaWQ0YnZiaTI2a0FkYl9uMm1vMVh0aDI0Tzdvb252aU92dUpUR1Aydm5GSXVsdTZWa3F1SHJzUHdoX290d1NCLWItUm5ta0J4SEd1TGJTbmJmRzBEWXhHMDBod085d0lTNUNUM3UwWlEwYmZDTnNqNkI2QnVlX3RGS2lnUTZGZ2dnZ0VDZnZxWlk?oc=5",
    "date": "2026-10-30T21:26:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c5ef81de3f2d",
-   "title": "Keiko Fujimori sobre TLC con El Salvador: “Estamos bien encaminados”",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGhPaV9TWFFnU1JuSU9jcURpR2tpc1BXOWRLbnlKVF8zdXJ0RDh4eDVsTWJjT2xUbTZ2dXZDVmN6alJNdk91T0EyWnFyY2h5X2tSQ1l2VklTNXJMTlhDNjF1eXlwb3lZcVFJVnVpaUxISDNiLTQyQkdpRUg4UlZHZ0o5LTkyNFhuSnhZV2prWFdwMEFhSG1ILTFhbHNGS0tUTjVlZ1phZjJuVHhzdG1nTW9rX29jcjhFVHFTWtIB0AFBVV95cUxNWHNMZkx1YzE5Q05uM2c4N3VIdDJ0dGdFOWlMaFYwWjFMUUZSNGs5cE1lLWJhbjc2eUN5SmZnRG85aFlJY0xrS1A3MFdxSjhxRXpvaVFnSzZWdU5BSGctQ2J4TDJ4UHI1VXZsY2VIRnpIZUtRRzVqdTNmNWh1MTV2N1UwZDdHRndxQnZ6b01xWmw2YzdvcUFXeFo1VnFWVHlrMFNWc21DTk1EU01WM3luTjZYUmdmNjhnci1LVHFPaVNleTVYQ0dxVjdHMmxoMkZG?oc=5",
-   "date": "2026-10-30T21:14:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "06e994d9b6cf",
-   "title": "Perú.- Presidenta Keiko Fujimori visita Hospital Nacional Especializado Rosales",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUnhNcl9hdHk0bGtFYzVHZjhXTmE3azFGQUNTT3U0cm9hSkdVMnBCNU9sLUJ2SFZaNFZneUlXekF5NnlXMWdFbDZURmMtOEtRcjdrT1NOLXZ1bUEtRHBEd3lOMDd3ZHRhX0Q5VTBHUXZPVFlkcXJSYWlLRXhjdGlPNVlQM0VrdDB1bGlBejg4clJOZ09GclBWdzBjeXJaUmlONUVSVnI1eWwyalpkbHBmcUhKSnlxUGJFY1RTd213emRtYTV5TDlwV3VMaU5ydXhkdUtqRg?oc=5",
-   "date": "2026-10-30T20:50:48+00:00",
    "state": "posando",
    "place": null,
    "next": null
