@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T01:14:32.640768+00:00",
+ "generated_at": "2026-11-01T01:35:59.157711+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -524,6 +524,17 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wUjNDcGZ2VGpSOU9obU1JVjFzMEhMLVVEbk4yNVhNZjB0bnlYZVRiTXhrR0NfdFI1MFZ3c1p2MHU4bWNWeGtEejlocVN6TlVReGFFMzhTM1dhMWNfampfZWRNaEw1QmlLdWhvSjZ6Y1g?oc=5",
    "date": "2026-10-31T11:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e6513bc12e08",
+   "title": "Keiko Fujimori destaca modelo Bukele para recuperar el orden en Perú",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG51dGpEY19CcWNYTFd2aXlyRWpGZ3o3Q2xEQWZyUTBCaE9UX0xSdmxWMXpFYUtGOW0wOXpUV3NKRmNEYXV5WDZhT0xLRHE5aC1VSnFleXlDZDgyV0R2LUV2cm9NdjNOekVzUzMzWTFrM1pndFo2Rk9HTl84eXZEMzhsbm9SV1VNOXlqbVZFWWFzTTA4bE10VmxKbUxzS1d1YVdiMTg2dktqTUpEZnZscTd4V2hqeUJHN3N1THRn?oc=5",
+   "date": "2026-10-31T10:16:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1114,17 +1125,6 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZlRJbkROTk9IZ1RRcEZjQW1VM2hRNHdlY2V0TXd1emF3Z1U0YVRVMDhPdnlheU1TdG0tZmxvV3FVWXdmMkZCcFVLR0tFYnVVSjItZmN2Vjd3d1pTMW02N184ajhXSFFCRW5jTXdZVzFha2sycXVxcmk5NkR2Ni14TWpIYzlWOTVuWFZqZzVQZi1xQUMyWWIwUDg1a3lOS1kxR1RadFY3VXlGVkdydXRhQWR6SkFPWU1HWVREVXlTRnUzUE1jNWFWMzJnamJaUWpPN1Exb3Q4cllaOVE2TkIxWFVydHZPcWhCaUYxZG9jOV_SAfYBQVVfeXFMUFdWb3R0UmQtWmpHd1FSaUYyV1JfU1FaQjJWQy1oc0hOQkxjVXdwdmxPdXg4SDhrY3Z0TjhYWE5UYkVpMlVESkhSa0NCUm9ObVFWVVE4OEJvVzBCRDRDUHMtbU1NX3ZiVkVBRlNET0VzUkVHbVRzbklDd3U1cWdkclJjNDZodHdyR3RmUHhQWk1PaFZva0RHVU5WYmNWUnZDOE1NNURMSzVQVjdSX2VLSkJiemRNZXNkRWN2UDdpVVdycklReVBoalh6NmJ4N1g0QTRLcW9PTmlwZ3haTTFMeHlpZnJjMzdRem9TRDNIbER2V1RJU3ZB?oc=5",
    "date": "2026-10-30T17:34:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8470affc9ec5",
-   "title": "Keiko Fujimori visita colegio emblemático para evaluar modelo educativo en El Salvador",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, visitó el Centro Escolar Marcelino García Flamenco en la localidad de Santa Tecla, San Salvador. La jefa de Estado recorrió la infraestructura junto…",
-   "source": "El Comercio",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaXQ0OTFWTFNtcmJBekhWcFhLeXJSd2owTV85WWxzY2JhaXpuTEpRN2lhQ3VVczFfSWVOSnNITEt5SWJMZlI0bG45WHBVLXZBV0ZQQWs3M1FVVlI4c2lmVEd4WFB4V0ZiS3VxdE9oQ1J3Q01JWGVqQ0xLbzhoVDU5NlFuREk4WmpPbmo0RkcxcjdVUlpQUjNLbXdxSWhEeDAwVHl1VkZpNEFyNHhoU24yRC1nelRRd2lObGQzQUkzSUF5ODVqQXZmRHk0eEp6anVJRXVTeXVCQnhodU1NMEduNUJ0aHlad3BvZDNV0gH_AUFVX3lxTE9XNEtkcmFNSGRvQUg3OS1mc0psUWdhckRFS2Z0U1JDUjBnbTBCZWtzR01veDNFeV9oRElQZE9JelE4WUJ2TFhUZ01lREtKclpBRFBJR3hwb1VYajdYYV9hOG80aDVsUXE1RzZsY0MwRmlhdXpBUlhhU3pMOFJIb2ZqOUJrT0t2WTgzQzFCbDJqRXRxNEw3UUljTldVS3BKSG1Gb2tBaVJFbmJEMVh3enplaFFETnJuZ09jTWkzTGZrZWFORktpRXdXZVFGRDZkX0dPa2hsZktxcW9jWUdpVWk4SWQ4QVRoNjQ0VXVCcFRpSXBVWDhad2VrS1lxWjVROA?oc=5",
-   "date": "2026-10-30T17:33:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
