@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T15:21:17.804512+00:00",
+ "generated_at": "2026-11-01T15:42:48.181435+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -468,6 +468,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "46e2f536830e",
+   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
+   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
+   "date": "2026-11-01T15:25:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a19157cecb57",
    "title": "Presidenta Fujimori y ministro de Salud evalúan medidas frente al dengue y la leptospirosis",
    "excerpt": "",
@@ -524,17 +535,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWswN3VpQl9tQ0w3TU84Ym1tanI3WjY0OHhwR2VFUFB3R1FXUnRQckdtU1d4aU5FN0lxQ0FhZDhTazlwR0tXaVJUVmlLQ3BmYUpfcHVTYzJlbUtwb0VQdkR3QnphblZKMHI0aEFjZG9mVkhlbTF2elFnU2hkaU40RGVlNXd5WDIwWmxJS3VGWHNlc0NKSmlWWdIBngFBVV95cUxPOHlmRHdTRHl5ZGZFRk9UN2szTGtyeHY5LWczM0d3TnZvaVluWE1zVEpaY0NaQ3ZnZ0xXcTJod1ZKZVJRMVRCNWNNRHBOQjJpQllSN1BVMmtoUi0zbDZZSXJPaHUzTzZidEpLMFBTb1dFWi1WNG1rOElHN0RMRUhnei1ZbGNlZVU5RzYyYUZadlFyX3ByR1c1VXlYbnpxZw?oc=5",
    "date": "2026-11-01T12:29:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "46e2f536830e",
-   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
-   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
-   "date": "2026-11-01T11:51:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
