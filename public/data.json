@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T10:16:42.535525+00:00",
+ "generated_at": "2026-11-01T11:22:46.559569+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -467,6 +467,28 @@
  "agenda_minutes_7d": 1173,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "46e2f536830e",
+   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
+   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
+   "date": "2026-11-01T11:00:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "095f03bafca8",
+   "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
+   "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/",
+   "date": "2026-11-01T11:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "00dd2ecdc54e",
    "title": "Presidenta Keiko Fujimori retoma agenda de trabajo",
@@ -1121,28 +1143,6 @@
     "lng": -76.93483,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "46bc158c017c",
-   "title": "Keiko Fujimori anuncia construcción de dos nuevos penales bajo el modelo del CECOT de El Salvador",
-   "excerpt": "",
-   "source": "Karibeña",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb3BTVERrWU53b0VlQkFzN1NWNDY1Z0h5bGJsaFZlRUJZLXExa3hyMkxNSlpjd1ctdkZJTUhkMDJIZUlZVjZ6ellRODNMcFhWc1RkUnV5aUdBQmw4bVVUMG1MSUZDZUtCdlQ0NS1TV1o4MWpQbjRkbXNCNFhRSzVTWmhpdzM3eTBGaU1UOGdfbEZKeXBfdE9MR0pzZHQ4cFNadXVOTGNDZzRvWmtQUFh5d3ZGd0vSAboBQVVfeXFMTkZSWXR5MDVrR18tRkI1MW5wV0VPUHlTa01vSm9acGJBbEdfcjRzaXFVM3ZvVnd2UDB5b3J2NDc4eTBUSFliVDJTLTQ2ZTRUMnc0Y1NBTURrbTMzbFJXN2Q4aFhmcUZWaWk5OTJBN2V3TUM0OUltQnFQQ1BlUU5lOHFTTXVPUmU5YWlhTVRnYllwcE9oLVFvNUVNSTJKbXpqQmpOR2cyUFNpZW55TE1ZZ0REWGF1ODZtVGtB?oc=5",
-   "date": "2026-10-30T19:26:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bf44986cdb8c",
-   "title": "Keiko Fujimori recorre el CECOT y se reúne con Nayib Bukele: ¿qué medidas buscará implementar en las cárceles peruanas?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-recorre-el-cecot-y-se-reune-con-nayib-bukele-que-medidas-buscara-implementar-en-las-carceles-peruanas-apuesplan-noticia/",
-   "date": "2026-10-30T19:24:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
