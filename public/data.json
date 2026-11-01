@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T02:41:05.918540+00:00",
+ "generated_at": "2026-11-01T04:08:07.476725+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -499,6 +499,17 @@
  "agenda_minutes_7d": 1261,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "c12e57435cd4",
+   "title": "Presidenta Fujimori retoma agenda de trabajo tras visita oficial a El Salvador",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNThKY1FzU1JTNTc5ZmRJdDBGXzl2VlhsRDlJckF6ejVvSFhVV1VlcGIxZWppc2I5bDdsSXJNVEtTbEhDeXN3OUVyQVNHOXpIaW5nVFBlNkNDc3ZqVVB5RWlDTTZQSkhUeVFuQlh1Z3h6bURsY1F4TzhnUmEwM3BRVmpaeEVCa2N1aE1WYUZGZWlvdUx1TXRyR00zWWVNRVk1cFlQM2htUVEya0d1eEctVnh1a3E?oc=5",
+   "date": "2026-11-01T02:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "daa74d591914",
    "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
@@ -1164,23 +1175,6 @@
    "date": "2026-10-30T17:40:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "33e475f0321a",
-   "title": "Keiko Fujimori llega a Madre de Dios para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
-   "date": "2026-10-30T17:39:45+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Madre de Dios",
-    "lat": -12.594,
-    "lng": -69.189,
-    "abroad": false,
-    "city": "Madre de Dios"
-   },
    "next": null
   }
  ],
