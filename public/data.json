@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T20:47:12.820941+00:00",
+ "generated_at": "2026-11-01T21:08:27.392871+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -475,6 +475,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "46e2f536830e",
+   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
+   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
+   "date": "2026-11-01T20:50:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c5811d4f0794",
    "title": "Aquí, no en El Salvador",
    "excerpt": "La presidente Keiko Fujimori visitó la cárcel de máxima seguridad de El Salvador. “Construiremos algo parecido al Cecot [Centro de Confinamiento del Terrorismo] para internos de alta peligrosidad”.",
@@ -658,17 +669,6 @@
    "next": null
   },
   {
-   "id": "46e2f536830e",
-   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
-   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
-   "date": "2026-11-01T15:25:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "a19157cecb57",
    "title": "Presidenta Fujimori y ministro de Salud evalúan medidas frente al dengue y la leptospirosis",
    "excerpt": "",
@@ -824,6 +824,17 @@
    "next": null
   },
   {
+   "id": "58b68000b621",
+   "title": "Presidenta Fujimori y ministro de Salud revisaron acciones ante el dengue y leptospirosis",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW5UNENyNFdYT3R4ZURyS1NCMGZkd2YwS1pxU2dtRUo4TUJvNlY4aEpGQUhzOC12S3d4WmxzUklOOWVXRVd0SmdwM3hIUlNzMFdNTUZKbGM5c1J4M3ZITVgyM2JxYnUzUGh5Y1F0b0dJVEx6Zko0T3lSdUxwMDVERks0dFBOYWkyWXlnUVpHWXQyRV92YnZmMkNjNWJPNUFHTGZDOHgzNFlyeFlMa0ZwVmx6VERHcHB5c1hkbG5kNnZOOHFKdUd2NHNB?oc=5",
+   "date": "2026-11-01T02:18:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "66bc10ba808e",
    "title": "Keiko Fujimori retoma agenda en Palacio de Gobierno tras visita oficial a El Salvador",
    "excerpt": "",
@@ -899,7 +910,7 @@
    "id": "735742eb9616",
    "title": "Keiko Fujimori visita hospital de El Salvador: conoció avances en tecnología médica",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSThBWHhyX1dRNVM1RzFiRmJaaVRvbWcwSEZlS1ZtMWc5eElzRkhrcHpleFZ6VDlsTF90OUVCelMwRlM1LWZCVWJYcms1RDhXVll3WF9SdzBxblZpWl9NRHRoUDFwQkdsdTlSQzBFZVpwYjdScTBUMjhIT04yeExLekdrbUp5N3NnUFhYdzVoRE9TYkhDbDIxUmlMcC1HdjJvYmo4cXhQQjhNdHF2enZBUFMtYTZEaXBOWndkRXNIT3U2dXo2SFB5Y3VlcGhXSzFRNFFWOW5zMWM2a3BMeGhpZXlycw?oc=5",
    "date": "2026-10-31T16:39:26+00:00",
    "state": "posando",
@@ -1172,17 +1183,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-asegura-que-luis-galarreta-continuara-en-el-cargo-de-primer-ministro-mi-confianza-es-absoluta-hnews-1360710",
    "date": "2026-10-30T23:32:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7e2a7f2fb568",
-   "title": "Alvina Ruiz respalda el viaje de Keiko Fujimori a El Salvador: “Es una mujer que tiene mano dura y cumple sus promesas”",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVFpc0c4WEVDczZSZV9Lb2xJOUcxcElCTXJscE11X3pzRThhSUl5NFNkYVVBbzJncnJ0enZqZjdWS3ppXzMxZHRBVTlCd3RDLXhEandlc3dUOVgwUEJva0ZoOGFYZkJWb1d2Tmd4M2I4NUMzTllkdVR5LU5xQXdrNWpJVjNVSmc2bjFEMWIzZ1J0NU15TEE?oc=5",
-   "date": "2026-10-30T23:26:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
