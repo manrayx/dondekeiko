@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T14:38:02.957913+00:00",
+ "generated_at": "2026-11-01T14:59:20.889586+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -467,6 +467,17 @@
  "agenda_minutes_7d": 1173,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "17e05578ef29",
+   "title": "Juan Sheput: “No hay algún tipo de desplante” del presidente Nayib Bukele a Keiko Fujimori",
+   "excerpt": "El ministro Juan Sheput descartó que el presidente de El Salvador, Nayib Bukele, haya tenido algún gesto de desaire hacia la presidenta Keiko Fujimori. Además, consideró que el mandatario salvadoreño…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/juan-sheput-no-hay-algun-tipo-de-desplante-del-presidente-nayib-bukele-a-keiko-fujimori-ultimas-noticia/",
+   "date": "2026-11-01T14:43:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "095f03bafca8",
    "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
@@ -1130,17 +1141,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckQ3YkJpRTFkdjZEcmZWdWJXM2xqVGdtU3NqRnNyd1BUTmgyLVI2MVZiUHhwcUI5WmJJS1Jvd2F2UzB2eWFpOUhKTl9kSEYyeFZaQXZwWV81a0J0WWh1Q2hjeTV4WFhRUVduM3dPczZXc3o1cUl3a1NSREE3TWZuWkZhbFUxYncxWHFPbm1MZzNadE9RdlRWZXk4VFpDdlROeFBoUnZn?oc=5",
    "date": "2026-10-30T20:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1bac729dea83",
-   "title": "Keiko Fujimori visitó instalaciones de Doctor SV, programa de telesalud en El Salvador",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3lpRjg3Qm9MbHNZZTdPNlh3aDVBenJOUHFvUWFFMnRFN0ttUlF1VkdfSl8xcFFfY1Mwd0QxSEE5NS1TUUl1QWhxS2tqNG5DSGhBUkI0elFDVUNoUk16VkVEYjE1bXZxYVZLRzItV1NDMFRvRGtxOE5fRDFGV1F3T2F5VnFEV291RmpSaU5mcFpsdVdJQmxOcnRzalhfMDR3SVpzOUs2alFWTGFmUzl1bVRzZE1sb3dJdHd1RHMtYUdueW56aVNWQVNMbVY?oc=5",
-   "date": "2026-10-30T20:13:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
