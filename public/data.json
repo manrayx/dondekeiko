@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T12:49:51.617993+00:00",
+ "generated_at": "2026-11-01T13:11:20.836415+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Lima",
+   "lat": -12.046,
+   "lng": -77.043,
+   "abroad": false,
+   "city": "Lima"
   },
-  "source": "Perú21",
-  "date": "2026-11-01T01:51:29+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-01T13:01:56+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -468,6 +468,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2c4a2840641b",
+   "title": "Keiko Fujimori regresó de El Salvador y enfrenta el incremento de casos de dengue y leptospirosis",
+   "excerpt": "El ministro Dyer informó que la estrategia de vacunación incorporó a ocho regiones como zonas prioritarias, junto con San Juan de Lurigancho y Carabayllo en Lima",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-regreso-de-el-salvador-y-enfrenta-el-incremento-de-casos-de-dengue-y-leptospirosis/",
+   "date": "2026-11-01T13:01:56+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
    "id": "66fcc0ed5aad",
    "title": "Los 100 días de Keiko Fujimori comparados con otros expresidentes",
    "excerpt": "",
@@ -628,23 +645,23 @@
    "next": null
   },
   {
-   "id": "5ac68db11753",
-   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTWQ0R0ZLZFF6RXJBbmtlRUotYXlORkdSdEl5bmNRMkRBV2N1WS1NUHRZMkZpNVZnRGxVQUJGNnNtTlhmeDRnVDV4Ym5OMFUyRzRlNF9SNVBuVHY4RGl0SjVlaDNkNmhxUXUwWWJHdzZQcW1hZVZhVXN5a1dMWGU4bng2LTd0VTdqV0FmQlpjUUNsblV6akJKTVVnWk16NUtocEhPcGxQNzhuYkFPZTJwSkNLTWxpd3oycWxrUW5fdjVUSVMwRlJfZ0ltTHA5U3RWRFFkUkswX2VYaFk?oc=5",
-   "date": "2026-11-01T01:02:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "917289776ced",
    "title": "Presidenta Keiko Fujimori se reúne con representantes diplomáticos tras regresar de El Salvador",
    "excerpt": "",
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUpmRzZka3dmUWpYMkwxbjlTdEllcUI3ZVhLZWRYRUFiQkVIdW93TW5XTHFES0pXemtlODhBQWRnVTBMcGVjcHktRjdCWHcyZl92R09vS21vMmY5TXVRNlRVQ1FsTGkxTTgwX0psSzB4UW1xX1pvV2Y1bEpXRHlXNFhuOWVvWXVYR19UX0pFQS1WZmlCbkxNLXNQMUJRMTllaUMtVjZReW9vZHVIOHYtZTIwcDRjZzNfa3k0dnlLbjM5X00zLXBFTlZ3SWY4RlZyemtiYXZhcHAtQ3dEbEhGWXU2N0dVZTBxYUE?oc=5",
    "date": "2026-11-01T01:01:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5ac68db11753",
+   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS21ZQzNkOEl5VnR6UERPSXM4aFJmdmdweVlxRi1MU3E5akpyNHRGVi1mcHNtclRDUW9vcGFmMlZmQ3habkN0ZXgyTnB4a1JpV2RBeDlIcDVMZWF2ZEt1ek5DdHAwTWdOdHBoY0xVU2Fvek9tcEN6Q3FBbEZlV2N6SmhzdHF4RjdIdDhiSTY1amRlaS10ZzYtZlI5RTI4LXUxSFU1Y3hVc0MwdEp2dnYyalpaeFE2QlBmZW13MUhNSElXOEFH?oc=5",
+   "date": "2026-11-01T01:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1124,17 +1141,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa3lpRjg3Qm9MbHNZZTdPNlh3aDVBenJOUHFvUWFFMnRFN0ttUlF1VkdfSl8xcFFfY1Mwd0QxSEE5NS1TUUl1QWhxS2tqNG5DSGhBUkI0elFDVUNoUk16VkVEYjE1bXZxYVZLRzItV1NDMFRvRGtxOE5fRDFGV1F3T2F5VnFEV291RmpSaU5mcFpsdVdJQmxOcnRzalhfMDR3SVpzOUs2alFWTGFmUzl1bVRzZE1sb3dJdHd1RHMtYUdueW56aVNWQVNMbVY?oc=5",
    "date": "2026-10-30T20:13:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2933a35acc72",
-   "title": "Presidenta Fujimori conoció experiencia de El Salvador en modernización de infraestructura escolar",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNjJmMXBXaU1FRENWUFczUlpUYkpkVklfX0hCbVZfQ2pCemc5U1FoU1o4WGEyYmR3NGRjMWU5WTBieGVaNW9ieVFET1g3Y2tYTktSUHF6cXEzRVd1VE10dFduODBYYm5pLUdpZkZFMmZvY3lVbU1RVzlaQ2NaRzZRZEZIaV9FVEpsajMwN2kyeFUzdWNHZTdYbUxLQTdvZ0ZGS1o4SE5MU2dYVTQ0VDlfMS1uVE9XdXJ1V01ZV3Z0TmdDbnlyclI2VWg1bEV0REJ3MFZNYw?oc=5",
-   "date": "2026-10-30T19:43:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
