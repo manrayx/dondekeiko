@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T22:14:33.922595+00:00",
+ "generated_at": "2026-11-01T22:58:09.215276+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -475,6 +475,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "909c4fb35c98",
+   "title": "Cien días de soledad",
+   "excerpt": "El fujimorismo se ha consolidado como la expresión política de nuestro establishment. Aunque en campaña varios de sus agentes desconfiaban de que Keiko Fujimori pudiese salir de la racha de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-soledad-por-carlos-melendez-fujimorismo-fuerza-popular-keiko-fujimori-noticia/",
+   "date": "2026-11-01T22:50:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3b7df9f66098",
+   "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
+   "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-sobre-el-combate-a-la-criminalidad-ya-no-vamos-a-esperar-mas-vamos-a-hacer-uso-legitimo-de-la-fuerza/",
+   "date": "2026-11-01T22:48:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e65fda6e1e53",
    "title": "Municipalidad de Piura denunciará al Gobierno de Fujimori por no incluir a región en obras por FEN: \"Han desfinanciado convenios\"",
    "excerpt": "El alcalde Francisco Cevallos afirma que la presidenta se comprometió a destrabar cinco de los seis proyectos. Pide menos de S/ 20 millones para cerrarlos.",
@@ -781,17 +803,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmV5MjhCRUJKdUpxSFJlT21jaDNITU90QWk1eGhUd3MwTmxKWnQzcHoxeXRiQ2IwU1pFcV9vVDE2ajNvZGxnNmVQcGFwMFNHRlczUWpfbW5XSDZGSmlrSVdybWZqVDE4VE9yVmoyZ01POHBzVGpiM0ZyWnBMV1hsci1JZnNPM1RBcENvQWpPUQ?oc=5",
    "date": "2026-11-01T10:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "909c4fb35c98",
-   "title": "Cien días de soledad",
-   "excerpt": "El fujimorismo se ha consolidado como la expresión política de nuestro establishment. Aunque en campaña varios de sus agentes desconfiaban de que Keiko Fujimori pudiese salir de la racha de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-soledad-por-carlos-melendez-fujimorismo-fuerza-popular-keiko-fujimori-noticia/",
-   "date": "2026-11-01T05:35:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1172,17 +1183,6 @@
    "source": "Epicentro TV",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMUo3dGx5V180Z05IVWFOMExEMUlWR1BkSjB2WXEyaGZlSTZYb3VXU1ZOanp3VTBBRjJmaVdyZHF5U0pEdmNDSm1yOGp0R3lYXzlJVXU0Nnh2RzliRTVNOHJmQ2ljeDg3NTVYMjc3YV9Fc2dRYWtud3pacC1YSzFZUWZVVkF3M0RhV0hWSDhxQ3o?oc=5",
    "date": "2026-10-31T00:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0cd773fe5c46",
-   "title": "Keiko Fujimori: Mi confianza al primer ministro es absoluta",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWVES2Zuc3Rfb0IzeEFJWXl4bXljVk83bWVaQTFTSlE2MU9CYWVETzhFRE1MczlYdVBlZDZwaWxHQm9IdlNMWTFPZHBFQWRYbTJKalRVaXliM0lleXBoQTRBd056WXZYMFJNd3l2U0xaYkJNeTAwWnNraHFEZ2owRnVVYkdHbEhaUEROTXhzeFFyZkRlS3Fv?oc=5",
-   "date": "2026-10-30T23:49:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
