@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T21:30:32.437773+00:00",
+ "generated_at": "2026-11-01T21:52:25.627313+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -475,6 +475,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c5811d4f0794",
+   "title": "Aquí, no en El Salvador",
+   "excerpt": "La presidente Keiko Fujimori visitó la cárcel de máxima seguridad de El Salvador. “Construiremos algo parecido al Cecot [Centro de Confinamiento del Terrorismo] para internos de alta peligrosidad”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/opinion/columnistas/aqui-no-en-el-salvador-por-federico-salazar-noticia/",
+   "date": "2026-11-01T21:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6e5614c4d2c5",
+   "title": "Sheput: Gobierno de Keiko Fujimori logró reconstitución de la figura presidencial",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHJPNG5tRVNHUmxScW1iekJOUE4zblNJdVYyQWpCUDJHVS13Y08zWlFQZzRnbkFVR1BOcUV2RWw0dWZ3endtSXo4UlNvdnhuZktDaG9aUG1YZ3J6dnNVY0YzaUhsc3FuY21UZVo2eEZacGkyRzAxNVBXSUNscGFINjJ2Ykx4NThqR19zNHhtN2FORlA4aU9RUElvREpfZUg3Q3BVLS1KVk9GaUprQ0pLZU44TE81VzhhTHBvWDFB?oc=5",
+   "date": "2026-11-01T21:32:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "095f03bafca8",
    "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
    "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
@@ -492,17 +514,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
    "date": "2026-11-01T20:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c5811d4f0794",
-   "title": "Aquí, no en El Salvador",
-   "excerpt": "La presidente Keiko Fujimori visitó la cárcel de máxima seguridad de El Salvador. “Construiremos algo parecido al Cecot [Centro de Confinamiento del Terrorismo] para internos de alta peligrosidad”.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/opinion/columnistas/aqui-no-en-el-salvador-por-federico-salazar-noticia/",
-   "date": "2026-11-01T20:14:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -615,6 +626,20 @@
    }
   },
   {
+   "id": "59a35e9d45fe",
+   "title": "Presidenta Fujimori no viajará a España por incremento de lluvias en el norte del país",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHNHSjFOYmozbmtmeHIxdWxjeXNYQV9PV2p0c1RuXzNrekpPV3dZTjR0NnIzblJrYVVkaWlteEdNTUhLQUxaNlJlRUN3Yi1pRXRXbGZ4N3ozUFh5SnRWVHhlbGtGZmFPX01oUjFRY3loeVJUaE5waU1YaTkzTzJmOWgtQ1dTR1pGWVU1cWh6Q1BiZnA3aWJxb1NIaDR5STFRNksxQmlVaHNubW4wT05iWHN3Vmo1ZExqQ1ZZcUVfcFgwZDhjTGRGY1Nn?oc=5",
+   "date": "2026-11-01T17:50:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
+  },
+  {
    "id": "0fad3945514f",
    "title": "Presidenta Keiko Fujimori cancela su viaje a Cumbre en España para atender anuncio de fuertes lluvias en Tumbes",
    "excerpt": "",
@@ -653,17 +678,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0wtYjlFeG5CMDk1b2NJRWFMampkZWtFWHNfRTFWdVE0YkFYVEJOUG9ZQVp2eXhtcUMtMk95TnljcXZ6SnZQak41VEI3R1F4a25QWWt0YXpvQ1dJQnZVeGdQbzVKZ3hjZndqOEFGUnhuUjNIZVFOZTRGWDlEUTVjTEpUckJOQVgzdFdMS0hVWURuNlV3WU5OZmktQWlxdHJGNTZMUjk1S0lLSk9KMDdUajd2U1RyeFNTbGpuWg?oc=5",
    "date": "2026-11-01T17:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6e5614c4d2c5",
-   "title": "Sheput: Gobierno de Keiko Fujimori logró reconstitución de la figura presidencial",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHJPNG5tRVNHUmxScW1iekJOUE4zblNJdVYyQWpCUDJHVS13Y08zWlFQZzRnbkFVR1BOcUV2RWw0dWZ3endtSXo4UlNvdnhuZktDaG9aUG1YZ3J6dnNVY0YzaUhsc3FuY21UZVo2eEZacGkyRzAxNVBXSUNscGFINjJ2Ykx4NThqR19zNHhtN2FORlA4aU9RUElvREpfZUg3Q3BVLS1KVk9GaUprQ0pLZU44TE81VzhhTHBvWDFB?oc=5",
-   "date": "2026-11-01T16:30:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1172,17 +1186,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdGxHRjFZVzhYa0JrSmJmQ252TjhTZzZQZFJ4clctcG5OUk04UmRHV1YzMG1PSVdXeEJQaWtZdWpBMUIyRjF6QUctanhuQkYxbXBnVmg4ajd2S0tDbE1Sb1JhNl9ySmJrS1hpdUFLSmQ0R1F6TG5hWGNNc2pIV2xSc3dzckJpSkUzT2pfU1B1cmNha3Y2d0hHQk1YckxNVVp4UVBkSWFEa1RKQVpXSmlOaUdXVUY1UV9SdzJFakVLc0FrTXVQd1lwdWpoTWRXN0dhNWMzNEFNR1cxZw?oc=5",
    "date": "2026-10-30T23:38:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3cc29d7f1a75",
-   "title": "Keiko Fujimori asegura que Luis Galarreta continuará en el cargo de primer ministro: \"Mi confianza es absoluta\"",
-   "excerpt": "Durante una declaración a la prensa en el marco de su visita a El Salvador, la mandataria calificó de “chismes” las versiones sobre una eventual recomposición del gabinete ministerial.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-asegura-que-luis-galarreta-continuara-en-el-cargo-de-primer-ministro-mi-confianza-es-absoluta-hnews-1360710",
-   "date": "2026-10-30T23:32:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
