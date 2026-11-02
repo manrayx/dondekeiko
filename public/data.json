@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T15:21:19.688910+00:00",
+ "generated_at": "2026-11-02T15:42:55.584305+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 0,
-  "posando": 60
+  "triste": 1,
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -128,6 +128,23 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-02T09:28:00-05:00",
+   "end": "2026-11-02T09:56:00-05:00",
+   "minutes": 28,
+   "subject": "Lidera reporte oficial sobre la situación que atraviesan las regiones de Tumbes y Ucayali, afectadas por las intensas lluvias, así como las medidas que viene adoptando el Ejecutivo para atender las emergencias y proteger a las familias que viven en las zonas más vulnerables.",
+   "lugar": "Centro de Operaciones de Emergencia Nacional (COEN), Chorrillos",
+   "state": "posando",
+   "place": {
+    "name": "Centro de Operaciones de Emergencia Nacional (COEN)",
+    "full": "Centro de Operaciones de Emergencia Nacional (COEN), Chorrillos",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
   {
    "start": "2026-10-31T18:26:00-05:00",
    "end": "2026-10-31T19:00:00-05:00",
@@ -455,9 +472,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 1103,
+ "agenda_minutes_7d": 1131,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a6d77724d265",
+   "title": "Zunini cuestiona al Gobierno de Fujimori por inacción ante el FEN e inseguridad: \"Presionó indebidamente al Congreso\"",
+   "excerpt": "Mientras el parlamentario de Juntos por el Perú, Ernesto Zunini, exigió acciones inmediatas en materia de seguridad y obras de prevención, el ministro de Desarrollo Agrario, Marco Vinelli, sostuvo que…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/02/zunini-cuestiona-al-gobierno-de-fujimori-por-inaccion-ante-el-fen-e-inseguridad-presiono-indebidamente-al-congreso-hnews-156906",
+   "date": "2026-11-02T15:42:44+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "46e2f536830e",
+   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
+   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
+   "date": "2026-11-02T15:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "523186bdd597",
    "title": "Presidenta Keiko Fujimori recibe en el COEN reportes sobre la situación en la zona norte del país",
@@ -597,17 +636,6 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0lVQWxiQ1ZGZFVhTmN6TmlHYjdzanQwRm5VQ3QxaERjLUF6dFoycHRrNUVKX2txcG9lNWVBSF9Yck5wejRYSlFPSU11cnRMb0VuVWhReTBSUVZ0Y1JqbGZGcmltZ05kbnNJQ2hvNE9QVklRVGczTWJRS1BnSWNDT0hYcW9MZERTMFRQRDRJamtUZFlja2phRHF2OWh4a1VHa2hpOUc0MzTSAa4BQVVfeXFMT2k2cHdPMWN4QmZnX01keVhmOEJ5cVAxRVZzcmZ2MTh2ZDU4dkY2dDdKQmVWdTY4N1g4NFBVeVQ0ck5OWXhKdnpNclN1d0pjSU1ITGRtZHk4Q0lVNURJUVY0djVVU3RWU3BoYWZnVndXWFotQ1NSVWxXVm5XSnJQM2E0cVQ4VzFHRXVXTHBKcUgxUDB2QnZSNVNNUUZ3NE0ybVdlT3JDUkdvY0xJbjJn?oc=5",
    "date": "2026-11-02T02:51:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "46e2f536830e",
-   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
-   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
-   "date": "2026-11-02T01:49:08+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1164,17 +1192,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "cfb5536cbbaf",
-   "title": "Keiko Fujimori plantea construir megacárceles en Perú en un plazo similar al del CECOT",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeWRFb09XSHFQNmFzZWJaMlNuOUVlR2diNTdRWnJ2aVVMQnQxYmJCdWpCbF9PaGJwdWRzbDY3ZjgyV2lsQlNtZExLYTBNTjNOME53UERzM09jYUg1R3htMWRUNWNyNGhTNjQ5NjVudVR1dC1HV0tUalpJV01GaVBEZFFJd3VCdWp3bFNrd0lsaEw4NTBRMXhZNkpvYXZCTVRnVWF4bEJFNWxFUUREZlJSN0VYUlBlbk9WMFhKUU9oN1poSHo5YnlwR19XZ1lkSGdqQkktcXJwaTZZY3M2WEdUdFVLbXRJWFnSAewBQVVfeXFMTjZPS2hvNi01bzlWMUl2MzNoR2lJWmVPQS1Zb1Q2V1dYUXlZSFlPQ2NQVEtyTWZpSUZKU2d3U3VxWlNoUEFEOERWM21JRDNwNHZybWxROThHQktUWmNHRGpmSnNIa3FnWjdHM1JkMVgwMFpYT3ZmUDhobnNoWTJhZUw4dW1POE9Icm5Lc2x5SG9nbWJUZDNoSF8ydk9KeVhZNXVxTGZrcHR4VzVIM3UxSlRYazBjNXUtQWpmQ0VieS04YVBPc2U2YVlpaVlhdHczd3oxM25ycFBjaVFDRnQ3WjJ5aGM1VE5HeVNWR2c?oc=5",
-   "date": "2026-10-31T12:30:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1250,6 +1267,7 @@
   "hospital el salvador, peru": [
    -12.23211,
    -76.93483
-  ]
+  ],
+  "centro de operaciones de emergencia nacional (coen), chorrillos, peru": null
  }
 }
