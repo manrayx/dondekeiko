@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T10:14:01.639099+00:00",
+ "generated_at": "2026-11-02T10:57:38.391743+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -795,7 +795,7 @@
    "title": "Presidenta Fujimori y ministro de Salud evalúan medidas frente al dengue y la leptospirosis",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQl9WSWNHdl9zSzFaY3RSNFZUeTRXc3E2ZTNHajF0ZlItWjMzSGJ5V09oM0JCVmhmc28wTlZUOVBZeGZSblpkdk02d1ZPbUNOU21aMjlVakRZRXlqRFhrY1gwcHUzODJQd3dGOHU3a0VFNXRYQmRzLTE2OFNVM0Ezemt4cTFTLUhBc1dDR004aXJ0WXpfQ20yLWtyMGhMbXFBLUJhWDk4UHRjYWZaalJ4ZkxxUXBuVFYyUVFnQU13ZnNWMTMzRC16Q3ZxQVNBZEdD?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcER0eUVwWjV3ZnRlNTkxY1JqMG1oM0ZyZG90Z2VWckZUTHJtV3AxaURSdVBOdEJvOWRvZVl6UVdqeUY4LTBvblJySHEwQUtMM1kxVGZCSm9Pc0ZsUVpwQ2RLYUMxbl9XTkhfM0lvNUxLNm5ZUm5hTVlSWXo2WHRJSVJ6ampwNzJ2TW8xRGNHeTNuclJIYlN3eFd0QW8tZ0o3Mk16cGI4M01JcWtheTdveFoyWW13dDNITnB1X3hXMHRHUGtaQ28zYjN4Zw?oc=5",
    "date": "2026-11-01T14:59:01+00:00",
    "state": "posando",
    "place": null,
@@ -833,17 +833,11 @@
    "id": "2c4a2840641b",
    "title": "Keiko Fujimori regresó de El Salvador y enfrenta el incremento de casos de dengue y leptospirosis",
    "excerpt": "El ministro Dyer informó que la estrategia de vacunación incorporó a ocho regiones como zonas prioritarias, junto con San Juan de Lurigancho y Carabayllo en Lima",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-regreso-de-el-salvador-y-enfrenta-el-incremento-de-casos-de-dengue-y-leptospirosis/",
-   "date": "2026-11-01T13:01:56+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2ZhUHYwYjFhUXBRTW1ZNUFPaWFPY2hVa3FkWTVTaEVfbXQ1ZmROTDBIdVJsX2k0eGhoXzF6eWJLUVB2TUVKUkItMzk3TUg0ZlhNZ3VxR0dXZUw2aFFCaWpCdEk0Z0hfQ2d1SWhzV1FOMTc3bHpCN1JtNkRJeV9PTkZYNHNpUk91MzJiWThRYU9YS3FmVHRfY2lEdHZTdW9Ea0Fna2ZqM1ozSDRyZkRHRC1tQmZ1V0pEb3ZOdU9VSkYyeXBpQ015T2Y3R3JmYU1scm5GZNIB7wFBVV95cUxQcHFHdlIwc2dCYjFRSGg1VWVIU3dvSHNSLS1mdk9WX1FPMDltb0xXZnotVkVLX3Zuc3pEMmlESk1mdjE1c1JjWlVUQThJR1BJem9fdGFPNWlfYkV3Tl9CS2o3YTJQYS15ZDlUZWJCc1VQNlphTlBVSERJYW5oczhQM0t4SWhHaFBNNFoya0hZRVFFQnpfeVlpcjJZUkQxUzI2ZWgzWVY2VGJOTC1mQVItVktMcTBMd0k2M3NqTGo1bENIdlhmaWxjcDFSSnFBMHEtOUY3YTFXWWJxamJTWTgzNm94d0JWNmh1QUpaSC11TQ?oc=5",
+   "date": "2026-11-01T13:01:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
+   "place": null,
    "next": null
   },
   {
