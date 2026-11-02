@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:54:17.566053+00:00",
+ "generated_at": "2026-11-02T18:15:52.619890+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Tumbes"
   },
-  "source": "Diario Correo",
-  "date": "2026-11-02T16:20:44+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-02T18:09:34+00:00"
  },
  "next": {
   "place": {
@@ -477,6 +477,23 @@
  "agenda_minutes_7d": 1131,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "18d798b04de8",
+   "title": "Keiko Fujimori alerta por lluvias en el norte del Perú y advierte: “Vamos a enfrentar una condición de Fenómeno El Niño ‘extraordinario’”",
+   "excerpt": "La presidenta encabezó una reunión de emergencia en el COEN tras registrarse el segundo pulso de lluvias intensas en Tumbes y Piura. Anticipó precipitaciones muy fuertes para el 7 y…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-alerta-por-lluvias-en-el-norte-del-peru-y-advierte-vamos-a-enfrentar-una-condicion-de-fenomeno-el-nino-extraordinario/",
+   "date": "2026-11-02T18:09:34+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
   {
    "id": "1f2ec4020471",
    "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
@@ -1172,7 +1189,7 @@
    "id": "917289776ced",
    "title": "Presidenta Keiko Fujimori se reúne con representantes diplomáticos tras regresar de El Salvador",
    "excerpt": "",
-   "source": "Diario Expreso",
+   "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUpmRzZka3dmUWpYMkwxbjlTdEllcUI3ZVhLZWRYRUFiQkVIdW93TW5XTHFES0pXemtlODhBQWRnVTBMcGVjcHktRjdCWHcyZl92R09vS21vMmY5TXVRNlRVQ1FsTGkxTTgwX0psSzB4UW1xX1pvV2Y1bEpXRHlXNFhuOWVvWXVYR19UX0pFQS1WZmlCbkxNLXNQMUJRMTllaUMtVjZReW9vZHVIOHYtZTIwcDRjZzNfa3k0dnlLbjM5X00zLXBFTlZ3SWY4RlZyemtiYXZhcHAtQ3dEbEhGWXU2N0dVZTBxYUE?oc=5",
    "date": "2026-11-01T01:01:46+00:00",
    "state": "posando",
@@ -1186,17 +1203,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS21ZQzNkOEl5VnR6UERPSXM4aFJmdmdweVlxRi1MU3E5akpyNHRGVi1mcHNtclRDUW9vcGFmMlZmQ3habkN0ZXgyTnB4a1JpV2RBeDlIcDVMZWF2ZEt1ek5DdHAwTWdOdHBoY0xVU2Fvek9tcEN6Q3FBbEZlV2N6SmhzdHF4RjdIdDhiSTY1amRlaS10ZzYtZlI5RTI4LXUxSFU1Y3hVc0MwdEp2dnYyalpaeFE2QlBmZW13MUhNSElXOEFH?oc=5",
    "date": "2026-11-01T01:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ab8ffe1fba32",
-   "title": "Dos mil colegios y una cárcel de máxima seguridad: Keiko Fujimori culmina viaje en El Salvador",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3dWOFN3dlNJX3hSamUyQmhvWkZGN1Q1elBvLWJma3B0RHppVUZ3Rlp0NXVpZHc4NXkydHRNTzBwRVprbmREbW9aYmZWVG5iTUIxNDJhdTNaZnU0MDBaamtVTjI5TmFTV3ctc3cycmd5Rm1mdnMteVRmeFhiaFdJUERjSE52UXIzSkxXT0ljY1NpbHJZVW8wNWxxWlBUdGNJVlVzNjVQcm1aWVg3U1kzdVdMWTRNMU5YdVFaRTRWZ1FPUkoyZUt6dGxRWUg?oc=5",
-   "date": "2026-10-31T22:53:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
