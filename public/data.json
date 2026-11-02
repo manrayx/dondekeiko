@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T10:57:38.391743+00:00",
+ "generated_at": "2026-11-02T11:19:57.995228+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -459,6 +459,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7e3f5aa8260b",
+   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
+   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
+   "date": "2026-11-02T11:00:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "36d9ffbc6be4",
    "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
    "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
@@ -795,7 +806,7 @@
    "title": "Presidenta Fujimori y ministro de Salud evalúan medidas frente al dengue y la leptospirosis",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcER0eUVwWjV3ZnRlNTkxY1JqMG1oM0ZyZG90Z2VWckZUTHJtV3AxaURSdVBOdEJvOWRvZVl6UVdqeUY4LTBvblJySHEwQUtMM1kxVGZCSm9Pc0ZsUVpwQ2RLYUMxbl9XTkhfM0lvNUxLNm5ZUm5hTVlSWXo2WHRJSVJ6ampwNzJ2TW8xRGNHeTNuclJIYlN3eFd0QW8tZ0o3Mk16cGI4M01JcWtheTdveFoyWW13dDNITnB1X3hXMHRHUGtaQ28zYjN4Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQl9WSWNHdl9zSzFaY3RSNFZUeTRXc3E2ZTNHajF0ZlItWjMzSGJ5V09oM0JCVmhmc28wTlZUOVBZeGZSblpkdk02d1ZPbUNOU21aMjlVakRZRXlqRFhrY1gwcHUzODJQd3dGOHU3a0VFNXRYQmRzLTE2OFNVM0Ezemt4cTFTLUhBc1dDR004aXJ0WXpfQ20yLWtyMGhMbXFBLUJhWDk4UHRjYWZaalJ4ZkxxUXBuVFYyUVFnQU13ZnNWMTMzRC16Q3ZxQVNBZEdD?oc=5",
    "date": "2026-11-01T14:59:01+00:00",
    "state": "posando",
    "place": null,
@@ -1161,17 +1172,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeTJocHczNUVsU1hXM3BQU2RxTXU3V1hTR0J0c0gxbThoYlFuRkoxRmYyYjhWV1RNUnprZEl6SWFDNUNuZEQwRkRaSEpSZmE3Wi1FZzQzeXlEMDA3cXVoc1h2X1BWM0liTW1XOWxrSmlWdmRxQ0R5bGZweEpDT2NMa0xIeU5WMW0zVE9fUFE3ZVBreUE?oc=5",
    "date": "2026-10-31T03:16:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "230d5ca1493f",
-   "title": "Keiko Fujimori descarta salida de Luis Galarreta de la PCM tras versiones de cambios: \"Es un simple chisme\"",
-   "excerpt": "El pronunciamiento desde El Salvador llega después de varios días de especulaciones sobre la continuidad del jefe del Gabinete. El propio premier había respondido a las versiones durante una visita…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTNUWkVYZXdJRWhJY1d5Z1NLbEJDX2dnWTdyb1V0SVN4ZWdZX01FR1RwYnFxTXdvTmxxcHZEcWFZMVJKbUhqOE52clFTbVpHUHM3UFhxZTF2Y1VRc21OdEl3eU5MS2N2UXJxVlRsa0xiTzRnNVVzamh4SXk0d0ZDRWs5Y2JoeldCZGp5M2t5VE5pbldJSlhZYVBOUHM4TndJOURaTFoybk02clIySDFRX2VGWmw1NzFuWnFNVXo3dzNkMXFBMHhEMzFGeUNnRWtVbTN5d1RZUjNhSUR0bFHSAfgBQVVfeXFMTzFkTHZCWUlLbGtHU2tidVNUU0NqSXpfODB1MVlsQzF4R2RHanB6aVFkbFFiMHk4aXdaQW52U2tGaU5ZX2Nya2tCZzg1S3IwQnRnWTkzYVQ5M2NfcnZsUDFyWjVfbEtZV01udjBWc2l6bTlNZFA2c3pjQ1ZUZUNMcXhuRFBVSm5aZ1ROeDVfNUV2cHNFNmhuZ2NvWktRS3hPb0todEw2dERJS3pyQ3V5dy10OEFzOUFVLWxndlNDYlcyRE04U1UtS1lOZnJBRUhuMmNfelg0c2ZhZExKU3VSdVFQZ3U0a3d0SUNQZWZYWWUtZEdRLWRCeTU?oc=5",
-   "date": "2026-10-31T03:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
