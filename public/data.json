@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T19:43:08.022433+00:00",
+ "generated_at": "2026-11-02T20:04:38.433857+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -511,6 +511,17 @@
    "next": null
   },
   {
+   "id": "40ebfceca4f7",
+   "title": "Luis Galarreta anuncia que Keiko Fujimori presentará balance de sus primeros 100 días este jueves",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbS0zYzRObVRGRU9SdjJkaUJwNkZIRTJDNHdQRFBYVkY0NVhWYTVoVy1TZTFpYUpMWHdOZUlvR2xkTm0yOWJTdndwZ1RCUjVUTzB1LWs4Mm1TT2UxTnNyNjlWYTktVmxISUQtYXVic3RtMFIwaDl3NkVFSi1EbGgtc2NRazJPOWxyRUdBeGxuOHhMN3I2NmlDNDNxQy1XSS1UNHVYUkphN3d4NmM1NVl5MG5YNy1WNnZCQ045UkUySHBCOVViLVp4VWlDVWRRRDdlWFN1NjdaWnE0R0dNLUsyVlZhbWvSAeoBQVVfeXFMT0JhT00xam9zXzZ6YTZUZ3FQcTJhMVljX3libUhqMi1rUExtLUQtblgxbEE0aEJzZ19UX3dYcWh2Z3F2bGd5dVFkVTJFVHdqU3VUUGFsY3VhbEZrdll3LVZ4ajJvT1hBd3lyRGoySzJhNzY1TjdHeFp0SGhQOGJkMWxoMjFSWWN0TlVuR0loUDJyU3N0blNIVGtaTFduWlJqb2lyc2paRWx4c09JR0tCQWROVFNtTXZ5SHptd3JYZUVWRGc0VE41X2wxTFRYR3VWRURlcEUyal8yel9RV0lNUW1UZFhFVGo1SGlR?oc=5",
+   "date": "2026-11-02T19:13:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4359651dc30d",
    "title": "Keiko Fujimori reitera que su Gobierno no se detendrá en acciones para recuperar el orden: “No vamos a parar”",
    "excerpt": "",
@@ -584,6 +595,17 @@
     "name": "España",
     "abroad": true
    }
+  },
+  {
+   "id": "35c2743d07a8",
+   "title": "Presidenta Fujimori evalúa emergencias por lluvias en el norte: \"Estamos alerta en todo momento\"",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzVseU5sTlA0ZkZxc3hvdzZ1WHd0V2dNZENDVUV4MklNNEtFcy10RUlVV09LdksyUWFWVnVIZTBxcnZ0bGhyMEFEbmNCcGpTdndGU01OdHJldzN5V1g2OUZVTWNHRWhDaHplQW01Z0haVkVERWNZY3p6NndJaWZxS1lRSU9DR2RXQVNuV2toVWlLdC00MUQ4RldlQlFfT2x3RV9neVZjQWppa0VzRng0Y1ZUdDRBVHRhbWJGQg?oc=5",
+   "date": "2026-11-02T18:17:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "18d798b04de8",
@@ -708,23 +730,23 @@
    "next": null
   },
   {
-   "id": "35c2743d07a8",
-   "title": "Presidenta Fujimori evalúa emergencias por lluvias en el norte: \"Estamos alerta en todo momento\"",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzVseU5sTlA0ZkZxc3hvdzZ1WHd0V2dNZENDVUV4MklNNEtFcy10RUlVV09LdksyUWFWVnVIZTBxcnZ0bGhyMEFEbmNCcGpTdndGU01OdHJldzN5V1g2OUZVTWNHRWhDaHplQW01Z0haVkVERWNZY3p6NndJaWZxS1lRSU9DR2RXQVNuV2toVWlLdC00MUQ4RldlQlFfT2x3RV9neVZjQWppa0VzRng0Y1ZUdDRBVHRhbWJGQg?oc=5",
-   "date": "2026-11-02T12:53:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "5f39deab5c54",
    "title": "Keiko Fujimori cancela viaje a Europa por lluvias en el Perú",
    "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
    "date": "2026-11-02T12:51:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7ca66b5ec768",
+   "title": "Mónica Delta: ¿Fue productivo el viaje de Keiko Fujimori a El Salvador?",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWF1a05qM2FrSkZOclU5LTB2NURSZEhESTBsY3dIWkc2QzdLbXR1R181S1BIX2FtY0ExMUZGcjJ6Y2IxdmppTkI5X1hyaHNZRnlnYTNobFJ2ZnJ2OWZpZzRHVVExWFEwYjkzVk9WYUhfMDM2MVk1bHBkSFJ6RUxzT3hUQjR3UkRUNXIwbTBLbEZnSjJfWTdNeVp1d2hvLXNuOHlHalpfclM1elk?oc=5",
+   "date": "2026-11-02T06:34:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1206,28 +1228,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDRhdGg5eVo0OVNfYmJKVF96VmhVSjBEdHFERTAyVGpJdjBTcUtrREtJVkVIb2U4eEo3VVYzSHh2YV8zUkkwbXo5UXZ1VXNKVXV0Y3p1Nzd6NGItb2FQUE13TEt1Z05JZF9vRGxQcjZ2Y0ZpNnc4Ym9kN2Y2Z010dS1yQ2ctUk1MQk85dnpLSUg0UENIbFdKeWtrS2VqR3QtTWV2UXJqcHdpZWdfTnY1MWR2TUdkUWRGclNTcDhjLVVhN1l1enc0SVlKUG1nUdIB4gFBVV95cUxPNnRLRTRmRDVSd2hXbXl0WVJRNnBZMlVGa1FsdlFMNkNPdkE3V1c1X3drY20xdy1yTFkyLVZMMjc3bE9CWHhlQ21xSGZSTFAzeW9CV0FFZDRjQkVwNGlRQzNWNWtzaURPdElpUmtZa2ZkWmZidlgwSmV4N1I4bE9KTFp6dGFTN0NnUUJ6ZEtUS2wwRzlqUUw5OURtWE5JdkhCLWRNYnR5X0pPaklncGtIcjFFbHRJbjhXOGRqMmJmY3FPS0k5d2JjWnItanFTaTZCUzl4c2F3V0owUHdXUE8taGpR?oc=5",
    "date": "2026-11-01T03:36:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c12e57435cd4",
-   "title": "Presidenta Fujimori retoma agenda de trabajo tras visita oficial a El Salvador",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGdHbHVnUXppbzhFQ2oxUFExRHdDUEtSaUlwSFhHMFBHMndPWW5mb1I1c2FiSTY1WTl3YVg4NThzUnRjVWhPQ1lzTVJ1ZHpJN3I3Q3BYM3Z2bDh3aFlOM0h3eF80V0N1dmtOc2tPU0RwVEV4dmFCaDlxWUdmaTJwZVh0LU9tTWdESDRXdWtOaEhDeDJmTTVYVDhHOHVxa0xUQlNoNnNBaWZuS1lYOThIVW1fS1VTb1A4LWc?oc=5",
-   "date": "2026-11-01T02:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "daa74d591914",
-   "title": "Keiko Fujimori descarta cambios en la PCM y ratifica respaldo a Luis Galarreta",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, descartó que su Gobierno evalúe un cambio en la conducción de la Presidencia del Consejo de Ministros (PCM) y ratificó su respaldo a…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-descarta-cambios-en-la-pcm-y-ratifica-respaldo-a-luis-galarreta-noticia/",
-   "date": "2026-11-01T02:33:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
