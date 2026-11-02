@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T23:01:13.225711+00:00",
+ "generated_at": "2026-11-02T23:23:36.416575+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,6 +493,28 @@
  "agenda_minutes_7d": 1147,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "24797d7c2747",
+   "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
+   "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-ordena-reclasificar-a-todos-los-presos-del-peru-y-ampliar-el-trabajo-en-carceles-habra-varios-cambios/",
+   "date": "2026-11-02T23:09:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3f17682bee7e",
+   "title": "Presidenta Keiko Fujimori sobre operativo en Pataz: el objetivo es recuperar el orden y la paz",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUlqckRVaTNSYUxFTW1Ndi13QXdfNVl4T3l4dXlmWjJTLWtsVnVYMlFaZF9FbERQMlJNTWJRY0xSdVFObWNYajhNeHlxSnAxWHJrNTBDTUhtZWx6NjJnVWZZeVRjUi1uNGJZSVJ0aEhRNDlVd3pydmRETXlQNXIxWThjSUpNV2lFb2lKQ3BkelIzOXFtSXB4cUlEejdIb0s4aU80VXc3cHVqQ3UyWEMtWVJWZzZSSW9za2I2SkpRR2J3UlN3ZndnYlFqbzJxNUI2RGxR?oc=5",
+   "date": "2026-11-02T23:00:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "ed823cbf4880",
    "title": "Keiko Fujimori sobre el modelo de Bukele: “Hemos tomado varias iniciativas, como el programa Cero Ocio”",
@@ -1217,34 +1239,6 @@
    "date": "2026-11-01T14:59:01+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "17e05578ef29",
-   "title": "Juan Sheput: “No hay algún tipo de desplante” del presidente Nayib Bukele a Keiko Fujimori",
-   "excerpt": "El ministro Juan Sheput descartó que el presidente de El Salvador, Nayib Bukele, haya tenido algún gesto de desaire hacia la presidenta Keiko Fujimori. Además, consideró que el mandatario salvadoreño…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/juan-sheput-no-hay-algun-tipo-de-desplante-del-presidente-nayib-bukele-a-keiko-fujimori-ultimas-noticia/",
-   "date": "2026-11-01T14:43:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f44e9d29d6aa",
-   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo en Palacio de Gobierno tras visita a El Salvador",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdmVqTTd3NVF5cUZGZTBvWDVfejZNcFV5VWIzTXRnYzNQR3Zna1pIWlhJTWpuVGpaMzFra0l4UDNhQUVtazRFUExjaVU3dmFmWm5sbTlUeG1oS2oyTmt2S0kxZHJGTEJEclV0ZW1OZ0lKaXlicnZ1WkZUWXZoNjdfX3RndzNzSVFKSDFFU05ZcE43MDEzcGtZQmI3ZU9naTFBM1laU1dScFZFZDh0QkVoX3B3T0RlVEpiT3dpSGMybEpXaDF2Wk9EQjNPZDFTUQ?oc=5",
-   "date": "2026-11-01T13:35:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
