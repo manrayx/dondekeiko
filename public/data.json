@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T04:23:23.880406+00:00",
+ "generated_at": "2026-11-02T05:07:23.380836+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -453,25 +453,9 @@
     "lng": -77.043,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-25T11:00:00-05:00",
-   "end": "2026-10-25T12:10:00-05:00",
-   "minutes": 70,
-   "subject": "Asistió a la misa del XXX Domingo del Tiempo Ordinario, donde elevó plegarias por la salud del papa León XIV y para que continúe guiando a la Iglesia Católica.",
-   "lugar": "Santuario de Las Nazarenas, Cercado de Lima",
-   "state": "posando",
-   "place": {
-    "name": "Santuario de Las Nazarenas",
-    "full": "Santuario de Las Nazarenas, Cercado de Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 1173,
+ "agenda_minutes_7d": 1103,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -503,6 +487,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHJPNG5tRVNHUmxScW1iekJOUE4zblNJdVYyQWpCUDJHVS13Y08zWlFQZzRnbkFVR1BOcUV2RWw0dWZ3endtSXo4UlNvdnhuZktDaG9aUG1YZ3J6dnNVY0YzaUhsc3FuY21UZVo2eEZacGkyRzAxNVBXSUNscGFINjJ2Ykx4NThqR19zNHhtN2FORlA4aU9RUElvREpfZUg3Q3BVLS1KVk9GaUprQ0pLZU44TE81VzhhTHBvWDFB?oc=5",
    "date": "2026-11-02T03:32:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "51ba7b5c79a9",
+   "title": "Keiko Fujimori en El Salvador: detalles in situ...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelJRdVQ5eTVPTjlqdTZzR2JGU1g3c21zVllUNmdpaTNlSXBNYXZuSTZKSWg0NjlNS2pqaEtXdkwxUm43ZU0taTRmNWxRU09pVjB5d3VMcHZCZ09EX1UtNlFwZ2Z0cXd2RzVpdUVUUXY5TTJJUDU5cWtaRF9oSGp6amJnb3dWMkhNRkh3V0hxMWFNeGVKRUlad0lZVGUzZmFWZGRzaXJ0U1FhajlUeUprd0w1THpyZWw0eWhzN9IBwgFBVV95cUxNbGlscXJDa0wwSVBWX0kwdlU1R3hkNzN1aDk5ekRhZU8xekxjUVFORTdtSmZQRW1BSXF5bWFGUVk2TnN5WlZNcXM5cE5WcXFqV1FhdGxrZTlQZ29mTWdqTnJMY3BubVJXTjh4M2FIdWJpc2VpNXNaSWJ3T01TaEJibWxiQlVNNDljZm54RkJqZmxWNzZnOTBMcXk5WjZKeVgxNkFVblptSDBCdlBiN0FaNFNtaV9yaFVsaEdPOFVqaWpjUQ?oc=5",
+   "date": "2026-11-02T03:14:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1183,17 +1178,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZTNUWkVYZXdJRWhJY1d5Z1NLbEJDX2dnWTdyb1V0SVN4ZWdZX01FR1RwYnFxTXdvTmxxcHZEcWFZMVJKbUhqOE52clFTbVpHUHM3UFhxZTF2Y1VRc21OdEl3eU5MS2N2UXJxVlRsa0xiTzRnNVVzamh4SXk0d0ZDRWs5Y2JoeldCZGp5M2t5VE5pbldJSlhZYVBOUHM4TndJOURaTFoybk02clIySDFRX2VGWmw1NzFuWnFNVXo3dzNkMXFBMHhEMzFGeUNnRWtVbTN5d1RZUjNhSUR0bFHSAfgBQVVfeXFMTzFkTHZCWUlLbGtHU2tidVNUU0NqSXpfODB1MVlsQzF4R2RHanB6aVFkbFFiMHk4aXdaQW52U2tGaU5ZX2Nya2tCZzg1S3IwQnRnWTkzYVQ5M2NfcnZsUDFyWjVfbEtZV01udjBWc2l6bTlNZFA2c3pjQ1ZUZUNMcXhuRFBVSm5aZ1ROeDVfNUV2cHNFNmhuZ2NvWktRS3hPb0todEw2dERJS3pyQ3V5dy10OEFzOUFVLWxndlNDYlcyRE04U1UtS1lOZnJBRUhuMmNfelg0c2ZhZExKU3VSdVFQZ3U0a3d0SUNQZWZYWWUtZEdRLWRCeTU?oc=5",
    "date": "2026-10-31T03:04:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d46e35dbd17c",
-   "title": "Keiko Fujimori visita colegio en El Salvador para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOamVMZk16RmxPVlluM3Y3ZENGUTMwSmRnbXUxUjBuM2tOdTZZeUN2a1VuNHozclVHeW01Z0p4bzZiQVZNNUxhbVFYeUJHRE1FbVh6aUxBdnFQTmEycmUwVUt1Rlh5eUpjaGlWd2VCMkJLWWxla0ZiV2J2MExIZWFZQ0tKcndmWUVZT2NmMS1DSjVSNnpTLWExbzRDYUlRVXRGTVlDU0V5ekt2VUs0OU0wNjRfc9IBuAFBVV95cUxObXpCMi1XSTh0bm5MbHdNWFlScDdzOWJPeG1LVVoybm53NlJnZ0JVVlo3LU4tWWE5TUxCemFlRG9ndFZ4cWJ3T3RuRDNmZ3Rkb3pDOGZ1TXgyMEtySk94ZUpLMGNZY2F4V1RpaXBvY2lIcllmamhOUS1iNkhxYjgyMHpjeTdfM3lFREtFd01jM1FXTkhkX3VyZ2VHVWVRVkJmYTNmeUlIQmhMWllvTWFfQ1lXSHRrUUdS?oc=5",
-   "date": "2026-10-31T02:43:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
