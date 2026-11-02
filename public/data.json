@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T21:10:23.794849+00:00",
+ "generated_at": "2026-11-02T21:32:25.415724+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Congreso",
-   "city": null,
-   "lat": -12.04814,
-   "lng": -77.02636,
-   "abroad": false
+   "name": "Trujillo",
+   "lat": -8.112,
+   "lng": -79.029,
+   "abroad": false,
+   "city": "Trujillo"
   },
-  "source": "Gestión",
-  "date": "2026-11-02T19:31:56+00:00"
+  "source": "La República",
+  "date": "2026-11-02T21:20:37+00:00"
  },
  "next": {
   "place": {
@@ -494,12 +494,51 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "500cd8e33049",
+   "title": "Keiko Fujimori: tiran huevo al vehículo presidencial tras su vista a penal en Trujillo",
+   "excerpt": "La mandataria acudió al penal El Milagro, donde familiares de internos protestaron para exigir justicia por la muerte de reos. La tensión marcó su salida del establecimiento penitenciario.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/02/keiko-fujimori-tiran-huevo-al-vehiculo-presidencial-tras-su-vista-a-penal-en-trujillo-hnews-37164",
+   "date": "2026-11-02T21:20:37+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Trujillo",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false,
+    "city": "Trujillo"
+   },
+   "next": null
+  },
+  {
+   "id": "3b7df9f66098",
+   "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
+   "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-sobre-el-combate-a-la-criminalidad-ya-no-vamos-a-esperar-mas-vamos-a-hacer-uso-legitimo-de-la-fuerza/",
+   "date": "2026-11-02T21:08:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7e3f5aa8260b",
    "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
    "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
    "date": "2026-11-02T20:58:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4b53ed203f21",
+   "title": "Presidenta Keiko Fujimori anuncia reordenamiento de internos a nivel nacional",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNjJiTTFVc2hEbGpyOE8xTWg3YjU0UVNBMHZFRlpxNldPLTlWaWhGTzc3c3RSR1FQMUszTzFzcmNNLUFhaWF1YnVGNGRCYUhWQUk2OW5NOF85bVNLTlA1WVM0dlA3TUJjQU16cnY5Q052WmZzREpuMmlfcFZxOTRsd3YzZ1dTekVBVjFwQ0RhXzVCcFhsd0pwaWt5UzhsMkpnTVdEZHBXSWJCcjc0eEhGamV1NUhrMHNxUmk5RS1kOFZVbTVyN21JVkZsaVdtVUZ4d1JfRg?oc=5",
+   "date": "2026-11-02T20:54:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -555,17 +594,6 @@
    "next": null
   },
   {
-   "id": "09820e8d1bb9",
-   "title": "Es falso que este video muestre a Keiko Fujimori siendo insultada durante una reciente visita a Villa El Salvador",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTZ3YmZKV052NFhIZVNwTFFZblV0b2ZyQzRCcjhPOTVTaWM2b3p4ZGtHT3dySFc4NWtjdGlvRTF5NmxiRWZ3TzNkRElGREtNb1J6d1BydnZRcEZZVWpDcFU4SWM2S090M0tNZEZuQ2s4bmVMTjF4cEpVZnJXU1pzUXdXX2trU1BWYWc?oc=5",
-   "date": "2026-11-02T18:58:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "46e2f536830e",
    "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
    "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
@@ -591,6 +619,17 @@
     "abroad": false,
     "city": "Trujillo"
    },
+   "next": null
+  },
+  {
+   "id": "09820e8d1bb9",
+   "title": "Es falso que este video muestre a Keiko Fujimori siendo insultada durante una reciente visita a Villa El Salvador",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0x6ZnprVENVbEhqVUpSNlRNUW1CUDBYUnVoSzFLNFpJY3RBbkg5Ukd6RlI4Y3ZiTGRqS0lNS3cxNVM4ak9LcnA5QWRsRzd6Z1BJLTBtblFVNTVreUtfX3pNQ1Z4aFRuUmc2T09PeXh6Qk9UZkVpT1VmY1hCeGdnMTF2QUlxQUpLQ21yTnFLSldOcEx5T19hTi1RaFVGMllKUlM2YW12R2lNaHNlS0Z4eHFqVUdabkFOQTZUOWprTENvVWNDWHdVVW1TYmtGVXRtdjVINlFncVUtdmFxYmJTTkl4VERYX1gwY3h3MFpiMEdNbzlocFJraFB30gH_AUFVX3lxTE9PR3hULVlnMUNfcWI2U0pMVm5xYjhUSFFfRm1iUElRd3Z0TExlQk9WWTJlTHBiRzMxc1ZjSGhnNFV3UElCLTYyem9TY3lLMnhpcTJiM1VtN09LYk1aMnBaME5hT3RvSWNvRTRqZWEyOW9LLVVqakhDTnVEUS03SVRpMEZCM2N6cGRfcldzZUhVT2FQc1lMaTNLeXZGU3VfZ2YxaWxPLXBEeFpDdTRsZUM2aVE4Q1FJRUcyRHpVYXh2d2dSVUZGN2ZtRFp0V29DZ3ZjOWFLa2tQVEFpSlVGOXVaeENmVTZHbFFTV1dfOHVTbFJhc0ZpRzRSVjNGYngyYw?oc=5",
+   "date": "2026-11-02T18:47:44+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -703,6 +742,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVJDcy1saUhBRFViTk5iOWstMWtCTFJjYWE5RWd1YnJEQ1RFby1tRlh5dGFzaFRWS0xLMnFEVENSdUgzdTdVaTlEalBEX2M0bGtBMHJEdGhBZVJjeE9FTG5nMC1LbWZqSGxrdWt6eDZ2dTZham9SaThGNmZQY0kya3dhenFYWWh0cS1HTlBtajJmTGxCZjN4UER3WnBkbjc2Sy11c1dBd2FOeHA3R2ZXTWpRdVd0eUludm8ySmFhYjljekdmYldaTnRKSHM4dw?oc=5",
    "date": "2026-11-02T15:02:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6de045390c31",
+   "title": "Keiko Fujimori: 47% peruanos considera que la situación mejorará",
+   "excerpt": "",
+   "source": "Revista COSAS Perú",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRnBqeXY1dGZ6NTYxeGtuZlczX3hQT3BuOEpwUjl5YUJBQ3JxMmM1eEtCQUFmc3V3c1RyN2hPS09NZF8tQ3dsVEduV3dyeDNtRE9Jb3FSbTBtT0pXU3JjeU13aGNlUzJKS3J0XzVMdDFvNjNobUV0MzYzVVZPV19MS1dZd3ZldzNMYUNYX1pjaHJCd9IBlgFBVV95cUxNOHQ3Z0NKWFJXcXdqSkNJN040aDkxdTNpTEdHbEhSRGNPV01rMlVwX3NGaTA2UllVWGRkZEd1TGZlMHNFSXVtalZoSE5zQ0lneWRObU16U2NoVFhWdVBJRkhpT3IwM0k5TU01bjBtbmlQZG9vdUlJbFplSWcwYVBGcXl3V1g2Tm8wNkd3N3RfTTdkcUhCd2c?oc=5",
+   "date": "2026-11-02T14:47:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -858,15 +908,18 @@
    }
   },
   {
-   "id": "3b7df9f66098",
-   "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
-   "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcDhVLUxPM1haVFF6UWdadnFTdGVxb1NZaDhLYWZyMVJvc2JnSWdwdXo0MDg1Q1Z4a3BwMEhnbGN4LU1jTkFDUzMxTGJ0MnRaYkhPSkZ5dmdYZVViMVI0ZVBtUmtkMlRpaGVldzZsUFpkMlg2d1paMENRcjY3ZjFwRWFQdlJObW4xN3ZxTURKdWpNMy1CbkVjVDdGcTgtajVrVWZBTWhiN1R3MGlOendRN1lDQmludG42ZHB6UklQWDVwNHRVWVA3ZktGdll0dENnSzhzM3hiLS1yaGhhdjdwNWotcVdOSkoyNVRYZdIBhwJBVV95cUxOM3VGYmNROGMzeFJNX3NGbFJfLTdDVjU1eWNHb18tOGVwNVNrZEYwb0l6eTJVOTNoZF9lblNSTW1sdWJFMHB6aFNLYmN2ZDFJdUM4QTJtckl1di1qQmF1U3lVdlQ0UHQ1Q2gwekJIbXdpRGRkZkpHeHE5QXU4d1VFb1FtTWZEcHJfMlU2bGZtV0dYb1NvNDZtS09TOWN1Y2I2RWNlX1QycnljWGxtbm9kVS1WRzZKUWlRQTNnLVlDUmdfS05FNk9VUGxoNUtOVzJ1emJzeUJtYmMtcEkwRWdoSlNzM2lwZUdraW95U1VGQlhGZDhUU2xkeEJOQS03MmN4Mnc3cjA3Yw?oc=5",
-   "date": "2026-11-01T23:39:00+00:00",
+   "id": "9826fee9fd10",
+   "title": "Keiko Fujimori suspende viaje a España por...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjFLbTVQZWgzUTd0ZUN5RVFqTTZVTWU1Z3VJVUFtUlpaVGFTTDF6TURBTmFCaWdhcnRQQmU3M2k2anU2SFg0TEw3WDM1bmpXM2psT3Qtclh6cG5hSExYaFVTYjFObjNBcDhrcE5nVGdSM0l5ZHNmYVNCMm45d2tLaWtwbTBJQ3lYSmtNWC03SXIxQXFYaUhRamJHS3Q5a1lac0RFaXpLZS1tb29TVlVVatIBtgFBVV95cUxORmtqeFhKTFdzWUg4YV9UemtmTFpfdmU2a2tUb0ZBdHJVVzhIcEVmMDYwTzktWnVtTHphUHJ5NUpheHphVzR6LUhwNFg2UlEtZDNvanItVDFjNU1SeDJ3RmdMMnhzbWdrUmN4c19RUGpXaDFlRTBEb0lMdng1WVZuV2dDODBkRG95VXJCaVkzYTJSNkpBaFdsZ2ctLXYxbkhZWGFMUzJyWUJBLXpGN2htakVMbmNYdw?oc=5",
+   "date": "2026-11-01T23:05:05+00:00",
    "state": "posando",
    "place": null,
-   "next": null
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
   },
   {
    "id": "909c4fb35c98",
@@ -1184,50 +1237,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmV5MjhCRUJKdUpxSFJlT21jaDNITU90QWk1eGhUd3MwTmxKWnQzcHoxeXRiQ2IwU1pFcV9vVDE2ajNvZGxnNmVQcGFwMFNHRlczUWpfbW5XSDZGSmlrSVdybWZqVDE4VE9yVmoyZ01POHBzVGpiM0ZyWnBMV1hsci1JZnNPM1RBcENvQWpPUQ?oc=5",
    "date": "2026-11-01T10:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "79d397dc5123",
-   "title": "“Éxito del viaje de Keiko Fujimori dependerá de los resultados”, advierte exministro del Interior, Cluber Aliaga",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV3NlNmNldHJTbXAxWVlvd2JUYkp6SnRhWHRkNXk1ZkJCS2Utc2FvQi10RS1BTmsyUm0zdzJ4SFFYeFlzNlgxVHRGRFY0c1NUODVyTWZPNm1IMGRoVlhiZ21HWU9Yb3VqSy1ZZEF4MFJ2b2ZBWURfQkF1YkdVYWFRQlNld1U0ZlFmeGljMTRWSGMyNWFqMm1DNC02aE4wNUhtV1R3NG9YcXRFUllJYkNfNmZzZnJ3RUdxMGJtdEZZSzZ2aHNpeWFZYXo4VXRreHFNWE00ZVJKczd0ZUVqVVlQLV9sSTVLeHlDX3lnY3hGdmNZTFE?oc=5",
-   "date": "2026-11-01T06:12:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3eddc224a408",
-   "title": "Keiko Fujimori agradece invitación de Nayib Bukele y destaca agenda sobre seguridad, salud y educación",
-   "excerpt": "Mandataria agradeció la oportunidad de compartir experiencias y avanzar con decisión en una agenda de cooperación bilateral.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-agradece-invitacion-de-nayib-bukele-y-destaca-agenda-sobre-seguridad-salud-y-educacion-ultimas-noticia/",
-   "date": "2026-11-01T05:11:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "117540cbbfae",
-   "title": "Keiko Fujimori reanuda agenda de trabajo en...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXdYNFJ0dE9NRzhWYlpTWEdlbTQzVXhTV2d6WVd4aDdXZXM3a2hHbFdmckJfLXhlMXlNVl82OHVDWEhCNHVhcDgyMjI3VDBPQm85eDhpVGNfS0pBT0VaRXkyYmFhTmxSUEVwblRUclBfS096ODJvalA1bnFxcUdGcUdBSmxOWS1acTRqTy1SNFdlUldpaW5TUGJXaHRYS1hJVXNz0gGoAUFVX3lxTE93RElpbk1jQm9UQ0RLUTA5WmtrU1RzUGlvUTVSZFQ5VGNZN1MwaHNQampyVHhsN2hvMFFfTnRXdW5MNWJjQzhfNmVkMlc1eGxjeV9jME45X19TNWhIZ0hQY2I5ekxBMU81RDFyVG0zbE9WLVdoRHNteHZyUmtZVmg4Uld4SFU4WFQwYWp5dldtUjZRRmZnRnJvOU8tdndCVGtFZF9jMlUxQQ?oc=5",
-   "date": "2026-11-01T04:38:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c25b90efce60",
-   "title": "Keiko Fujimori destaca acuerdos de cooperación con El Salvador tras visita a Nayib Bukele",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDB6R25oMDY5b2VtaHh0R0tEUzhhaHo1UmdSWDRRNW5nNE5sMi1URWVseV9sZ0VIQW5oQkNvRzg1SWRNRzR5dWtqRmVOQjRVNlYtTURoc0RhUHI0R2RGY05Hc2hTcWlacXpEQm9XM0dpYWs3cEt1QmdvN1dZT0pEX1YzM0t6Ukotd3hlVjJiSGN4UlpKMldZWno0djBUd0V4aWVsYW5yNklQNHhWMFFFYTB6OXRHdWtFaTNpS0ZjbTJ0SVXSAdcBQVVfeXFMTkd1MG1DdFk5WENfazhLYmRJTmdWWWVNZUdiZ19NWGtVTW52R2pOcDQwUDdrODZXb240SFpDdWpRdmU2MmpxS1RpVTQ5dUJ0a3RRWEE3UkZoRjZnMWp0RTdodlFLOWFmdmc3REtiZU1XT1NNbnZ6VExLeFlrbDdJd25kOUF5SGczQms5ZTVVNW9MTUZnYk0wR2pNcTh4UVdkTXhCZTNlVU84aHRLVl9DX1VxakRMeWszMnpTUElsY1ZiQ0diZ1B0bVBPdUYxcUdzLU1zcFA0VVk?oc=5",
-   "date": "2026-11-01T04:16:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
