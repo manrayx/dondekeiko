@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T18:15:52.619890+00:00",
+ "generated_at": "2026-11-02T18:37:44.648428+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "España",
    "abroad": true
   },
-  "source": "Revista Caretas",
-  "date": "2026-11-02T01:09:13+00:00",
-  "title": "Keiko Fujimori afirma que no viajará a España para encuentro con jefes de Estado tras incremento de lluvias en el norte del país",
-  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkdVdURVY0xBTU1WMkxRS2R3d3RBNWppcmE4WTR4S2NvQTJNY0k0VXlXT01Ja3pVcDV0WXNDUDhrVUZuUmNLNVVRRENQQWNjN2VkbE9TZm9BdzNmNDRrcTBkQVdMcWloNmRxVUZsdXRzT0htQTBRaVlENHBoN2V2RmN2Rjl4RVdqRGczUnUxY29YbDJMM2dSRExfTXc1ZUU2OFd1bk1VZUpkTUpRU0VlajV2UVZybHlkaTUwZ0RmOTdlSzNTQ0xHSlg2TTd0QndPU2o1ZWFIbGVqTzFXdWxFT3plWXR4alZIRkZSR21n?oc=5"
+  "source": "El Búho.pe",
+  "date": "2026-11-02T18:22:30+00:00",
+  "title": "¿Por qué canceló Keiko Fujimori su viaje a España? ¿Qué se iba a tratar en la Cumbre Iberoamericana?",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWdOdjZpWTI0dDU3MmhWd0VkSDMzeFpnYTYtMlhCUnpGaWNld0FhV1M2eWt0b0xEVHRPQ2w0aGlwcGY3V3ljR0xROHVtRjdLZ0RtUTQxaTlmYnJUY2VVNzg2UmhFUW1UMngyQzA3VF9JcWk3SmNWQXFKeGc3YV82REh1cVloTFNWcnFEX0dPOUlXNGxNV2JqR0JhS0lheXN3Wm1IMTgxZHExdkk0VlZHUTdXYmY1aFJlVnR5dEtzbGY?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -477,6 +477,20 @@
  "agenda_minutes_7d": 1131,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "dbfcb9451c96",
+   "title": "¿Por qué canceló Keiko Fujimori su viaje a España? ¿Qué se iba a tratar en la Cumbre Iberoamericana?",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWdOdjZpWTI0dDU3MmhWd0VkSDMzeFpnYTYtMlhCUnpGaWNld0FhV1M2eWt0b0xEVHRPQ2w0aGlwcGY3V3ljR0xROHVtRjdLZ0RtUTQxaTlmYnJUY2VVNzg2UmhFUW1UMngyQzA3VF9JcWk3SmNWQXFKeGc3YV82REh1cVloTFNWcnFEX0dPOUlXNGxNV2JqR0JhS0lheXN3Wm1IMTgxZHExdkk0VlZHUTdXYmY1aFJlVnR5dEtzbGY?oc=5",
+   "date": "2026-11-02T18:22:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
+  },
   {
    "id": "18d798b04de8",
    "title": "Keiko Fujimori alerta por lluvias en el norte del Perú y advierte: “Vamos a enfrentar una condición de Fenómeno El Niño ‘extraordinario’”",
@@ -1192,17 +1206,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUpmRzZka3dmUWpYMkwxbjlTdEllcUI3ZVhLZWRYRUFiQkVIdW93TW5XTHFES0pXemtlODhBQWRnVTBMcGVjcHktRjdCWHcyZl92R09vS21vMmY5TXVRNlRVQ1FsTGkxTTgwX0psSzB4UW1xX1pvV2Y1bEpXRHlXNFhuOWVvWXVYR19UX0pFQS1WZmlCbkxNLXNQMUJRMTllaUMtVjZReW9vZHVIOHYtZTIwcDRjZzNfa3k0dnlLbjM5X00zLXBFTlZ3SWY4RlZyemtiYXZhcHAtQ3dEbEhGWXU2N0dVZTBxYUE?oc=5",
    "date": "2026-11-01T01:01:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5ac68db11753",
-   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo luego de visita oficial a El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS21ZQzNkOEl5VnR6UERPSXM4aFJmdmdweVlxRi1MU3E5akpyNHRGVi1mcHNtclRDUW9vcGFmMlZmQ3habkN0ZXgyTnB4a1JpV2RBeDlIcDVMZWF2ZEt1ek5DdHAwTWdOdHBoY0xVU2Fvek9tcEN6Q3FBbEZlV2N6SmhzdHF4RjdIdDhiSTY1amRlaS10ZzYtZlI5RTI4LXUxSFU1Y3hVc0MwdEp2dnYyalpaeFE2QlBmZW13MUhNSElXOEFH?oc=5",
-   "date": "2026-11-01T01:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
