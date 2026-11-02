@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T18:37:44.648428+00:00",
+ "generated_at": "2026-11-02T18:59:18.241690+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -130,6 +130,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-02T13:20:00-05:00",
+   "end": "2026-11-02T13:36:00-05:00",
+   "minutes": 16,
+   "subject": "Participa en presentación de resultados de operativos del Comando Unificado en Pataz.",
+   "lugar": "Trujillo, región La Libertad",
+   "state": "posando",
+   "place": {
+    "name": "Trujillo",
+    "full": "Trujillo, región La Libertad",
+    "city": "La Libertad",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-02T09:28:00-05:00",
    "end": "2026-11-02T09:56:00-05:00",
@@ -474,9 +490,42 @@
    }
   }
  ],
- "agenda_minutes_7d": 1131,
+ "agenda_minutes_7d": 1147,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "7e3f5aa8260b",
+   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
+   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
+   "date": "2026-11-02T18:58:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "46e2f536830e",
+   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
+   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
+   "date": "2026-11-02T18:53:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "09820e8d1bb9",
+   "title": "Es falso que este video muestre a Keiko Fujimori siendo insultada durante una reciente visita a Villa El Salvador",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0x6ZnprVENVbEhqVUpSNlRNUW1CUDBYUnVoSzFLNFpJY3RBbkg5Ukd6RlI4Y3ZiTGRqS0lNS3cxNVM4ak9LcnA5QWRsRzd6Z1BJLTBtblFVNTVreUtfX3pNQ1Z4aFRuUmc2T09PeXh6Qk9UZkVpT1VmY1hCeGdnMTF2QUlxQUpLQ21yTnFLSldOcEx5T19hTi1RaFVGMllKUlM2YW12R2lNaHNlS0Z4eHFqVUdabkFOQTZUOWprTENvVWNDWHdVVW1TYmtGVXRtdjVINlFncVUtdmFxYmJTTkl4VERYX1gwY3h3MFpiMEdNbzlocFJraFB30gH_AUFVX3lxTE9PR3hULVlnMUNfcWI2U0pMVm5xYjhUSFFfRm1iUElRd3Z0TExlQk9WWTJlTHBiRzMxc1ZjSGhnNFV3UElCLTYyem9TY3lLMnhpcTJiM1VtN09LYk1aMnBaME5hT3RvSWNvRTRqZWEyOW9LLVVqakhDTnVEUS03SVRpMEZCM2N6cGRfcldzZUhVT2FQc1lMaTNLeXZGU3VfZ2YxaWxPLXBEeFpDdTRsZUM2aVE4Q1FJRUcyRHpVYXh2d2dSVUZGN2ZtRFp0V29DZ3ZjOWFLa2tQVEFpSlVGOXVaeENmVTZHbFFTV1dfOHVTbFJhc0ZpRzRSVjNGYngyYw?oc=5",
+   "date": "2026-11-02T18:47:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "dbfcb9451c96",
    "title": "¿Por qué canceló Keiko Fujimori su viaje a España? ¿Qué se iba a tratar en la Cumbre Iberoamericana?",
@@ -520,17 +569,6 @@
    "next": null
   },
   {
-   "id": "7e3f5aa8260b",
-   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
-   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
-   "date": "2026-11-02T16:26:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "b334460fbd0e",
    "title": "Keiko Fujimori advierte nuevas lluvias muy fuertes en Tumbes y Piura el 7 y 8 de noviembre",
    "excerpt": "",
@@ -565,17 +603,6 @@
    "source": "radio uno 93.7",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1Z4MDUwYkg0d2c2WlFQSkNpWllNTlBSTzZOeFRVNDg1b21zcko3S2pKR2YxeG9SQTNicEFkcWMwSlJXc1U5U2dadWNybllESW9CMXpYRTZIdGdsWHZ5eGVvN0JEczhacXdkQ1VSU3hPa0JxX2w5ZDM0RUtjcFlqUGhSUnFxcS1hd1lYLXJEeVQ3YWdWS19WNVVzZ205aUprcU92bmdhdFVwNWJUakNxeA?oc=5",
    "date": "2026-11-02T15:37:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "46e2f536830e",
-   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
-   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
-   "date": "2026-11-02T15:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1198,17 +1225,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "917289776ced",
-   "title": "Presidenta Keiko Fujimori se reúne con representantes diplomáticos tras regresar de El Salvador",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdUpmRzZka3dmUWpYMkwxbjlTdEllcUI3ZVhLZWRYRUFiQkVIdW93TW5XTHFES0pXemtlODhBQWRnVTBMcGVjcHktRjdCWHcyZl92R09vS21vMmY5TXVRNlRVQ1FsTGkxTTgwX0psSzB4UW1xX1pvV2Y1bEpXRHlXNFhuOWVvWXVYR19UX0pFQS1WZmlCbkxNLXNQMUJRMTllaUMtVjZReW9vZHVIOHYtZTIwcDRjZzNfa3k0dnlLbjM5X00zLXBFTlZ3SWY4RlZyemtiYXZhcHAtQ3dEbEhGWXU2N0dVZTBxYUE?oc=5",
-   "date": "2026-11-01T01:01:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1285,6 +1301,7 @@
    -12.23211,
    -76.93483
   ],
-  "centro de operaciones de emergencia nacional (coen), chorrillos, peru": null
+  "centro de operaciones de emergencia nacional (coen), chorrillos, peru": null,
+  "trujillo, region la libertad, peru": null
  }
 }
