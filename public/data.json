@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T19:21:33.331149+00:00",
+ "generated_at": "2026-11-02T19:43:08.022433+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Trujillo",
-   "lat": -8.112,
-   "lng": -79.029,
-   "abroad": false,
-   "city": "Trujillo"
+   "name": "Congreso",
+   "city": null,
+   "lat": -12.04814,
+   "lng": -77.02636,
+   "abroad": false
   },
-  "source": "Perú21",
-  "date": "2026-11-02T18:52:57+00:00"
+  "source": "Gestión",
+  "date": "2026-11-02T19:31:56+00:00"
  },
  "next": {
   "place": {
@@ -493,6 +493,23 @@
  "agenda_minutes_7d": 1147,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "4d43ecdd1f4a",
+   "title": "Keiko Fujimori: reacciones tras encuesta sobre sus primeros 100 días de gestión",
+   "excerpt": "La evaluación de los primeros 100 días de gobierno de Keiko Fujimori genera posiciones divididas en el Congreso. Mientras desde el oficialismo destacan las acciones emprendidas por el Ejecutivo en…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-reacciones-de-diputados-tras-encuesta-sobre-sus-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-02T19:31:56+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Congreso",
+    "city": null,
+    "lat": -12.04814,
+    "lng": -77.02636,
+    "abroad": false
+   },
+   "next": null
+  },
   {
    "id": "4359651dc30d",
    "title": "Keiko Fujimori reitera que su Gobierno no se detendrá en acciones para recuperar el orden: “No vamos a parar”",
@@ -1214,17 +1231,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "58b68000b621",
-   "title": "Presidenta Fujimori y ministro de Salud revisaron acciones ante el dengue y leptospirosis",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW5UNENyNFdYT3R4ZURyS1NCMGZkd2YwS1pxU2dtRUo4TUJvNlY4aEpGQUhzOC12S3d4WmxzUklOOWVXRVd0SmdwM3hIUlNzMFdNTUZKbGM5c1J4M3ZITVgyM2JxYnUzUGh5Y1F0b0dJVEx6Zko0T3lSdUxwMDVERks0dFBOYWkyWXlnUVpHWXQyRV92YnZmMkNjNWJPNUFHTGZDOHgzNFlyeFlMa0ZwVmx6VERHcHB5c1hkbG5kNnZOOHFKdUd2NHNB?oc=5",
-   "date": "2026-11-01T02:18:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1302,6 +1308,10 @@
    -76.93483
   ],
   "centro de operaciones de emergencia nacional (coen), chorrillos, peru": null,
-  "trujillo, region la libertad, peru": null
+  "trujillo, region la libertad, peru": null,
+  "congreso, peru": [
+   -12.04814,
+   -77.02636
+  ]
  }
 }
