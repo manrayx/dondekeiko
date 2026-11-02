@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:33:03.985647+00:00",
+ "generated_at": "2026-11-02T17:54:17.566053+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "España",
-   "abroad": true,
-   "city": "España"
+   "name": "Tumbes",
+   "lat": -3.566,
+   "lng": -80.451,
+   "abroad": false,
+   "city": "Tumbes"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-02T01:17:28+00:00"
+  "source": "Diario Correo",
+  "date": "2026-11-02T16:20:44+00:00"
  },
  "next": {
   "place": {
@@ -498,6 +500,23 @@
    "next": null
   },
   {
+   "id": "b334460fbd0e",
+   "title": "Keiko Fujimori advierte nuevas lluvias muy fuertes en Tumbes y Piura el 7 y 8 de noviembre",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUxRdWFQenE3cDFKaGEtTkpram1BdkU1d0tfVGxSWTRyX1VMX1I1LVdpYV85VzhBOE5wZ0lqSzA4V3FyZmZncmlDVzA5TkVyd1YtbXN1VXV0ZjhvYTJSaUdfbjBUT0xyUHJhNDNsV1AwVkhadDhuTUs5UFV1cGVxUjJpdGhLZV9malVMbml6VEFISXk3OWlmWXEwX21ZZjRNWm9UXzY2R2tYRkdoOUt4SFVpTUhuV0J1WlJaVmRwa09YZnBUWHB5b1FTa2HSAeABQVVfeXFMUHBIT0Y0VmF4REtzcTBUR3ZsNXllQkctOFZOY29xYTQtV1JnR1I4ZU50TUpOXzQ3UndKeUhCM0pZZjZmRmxhcFJ0eHFybVQtWWhvd2VXX0xBRW9BQW5fOEFQeEJpN0ZTVU1yUFFxLUNQSDh3ajJjWW9KckxDMm52Zm0wdENZZjdkVFhtNU1OVUtWdXh6d2R0empVUVFWWE4xOW1pYWFvbFNZVk00N0ItVG0wcjB5cncyeTNnZ01oUWdIaTBkY1FSTGRFNllBaWFDX3hhUWpCMUluYlMtYXRYQXM?oc=5",
+   "date": "2026-11-02T16:20:44+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "a6d77724d265",
    "title": "Zunini cuestiona al Gobierno de Fujimori por inacción ante el FEN e inseguridad: \"Presionó indebidamente al Congreso\"",
    "excerpt": "Mientras el parlamentario de Juntos por el Perú, Ernesto Zunini, exigió acciones inmediatas en materia de seguridad y obras de prevención, el ministro de Desarrollo Agrario, Marco Vinelli, sostuvo que…",
@@ -526,6 +545,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
    "date": "2026-11-02T15:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "06250dee045a",
+   "title": "Keiko Fujimori afirma que su Gobierno no negociará con la delincuencia: “Usaremos la fuerza de la ley”",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPV2xmYUx4VjVpNUQwVk9yMk1VdU1lTVJ6NnlpX3Z3YVdJWUlQTXFNNWs0dm5zY0pqeVZvN3ZKNWczX3prTjVoTUg0ejdKdnpTNDhZOS1jempQOVNBcU9IMi1zN25rd1gwS2M2V2xNRmc0OXdQYmNpS05KSjlkU1U4VHBRVk1QU3Voc0RZcWVuR2VzVGdTTVo5cm1ZRWFrNDlHSmJ6Y3RCYm14LU5rZG13ZGR0dlIzRWJZOEI4SlB2Z1RHZTlBeTRiT0VKbWJoR0VlOHVZQjdhZnJpY3RUYTBxbEtzMlNPMjF1c1Y4UlVVRFdpMlpYNWJnUHRPc2cwN0Q3cDdpTWh0OHdZVWdBSjNTdEg2XzFhUk5vQ2FKRWc4Mi0?oc=5",
+   "date": "2026-11-02T15:22:46+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1082,7 +1112,7 @@
    "title": "Presidenta Fujimori retoma agenda de trabajo tras visita oficial a El Salvador",
    "excerpt": "",
    "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNThKY1FzU1JTNTc5ZmRJdDBGXzl2VlhsRDlJckF6ejVvSFhVV1VlcGIxZWppc2I5bDdsSXJNVEtTbEhDeXN3OUVyQVNHOXpIaW5nVFBlNkNDc3ZqVVB5RWlDTTZQSkhUeVFuQlh1Z3h6bURsY1F4TzhnUmEwM3BRVmpaeEVCa2N1aE1WYUZGZWlvdUx1TXRyR00zWWVNRVk1cFlQM2htUVEya0d1eEctVnh1a3E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTGdHbHVnUXppbzhFQ2oxUFExRHdDUEtSaUlwSFhHMFBHMndPWW5mb1I1c2FiSTY1WTl3YVg4NThzUnRjVWhPQ1lzTVJ1ZHpJN3I3Q3BYM3Z2bDh3aFlOM0h3eF80V0N1dmtOc2tPU0RwVEV4dmFCaDlxWUdmaTJwZVh0LU9tTWdESDRXdWtOaEhDeDJmTTVYVDhHOHVxa0xUQlNoNnNBaWZuS1lYOThIVW1fS1VTb1A4LWc?oc=5",
    "date": "2026-11-01T02:44:00+00:00",
    "state": "posando",
    "place": null,
@@ -1167,28 +1197,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3dWOFN3dlNJX3hSamUyQmhvWkZGN1Q1elBvLWJma3B0RHppVUZ3Rlp0NXVpZHc4NXkydHRNTzBwRVprbmREbW9aYmZWVG5iTUIxNDJhdTNaZnU0MDBaamtVTjI5TmFTV3ctc3cycmd5Rm1mdnMteVRmeFhiaFdJUERjSE52UXIzSkxXT0ljY1NpbHJZVW8wNWxxWlBUdGNJVlVzNjVQcm1aWVg3U1kzdVdMWTRNMU5YdVFaRTRWZ1FPUkoyZUt6dGxRWUg?oc=5",
    "date": "2026-10-31T22:53:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "735742eb9616",
-   "title": "Keiko Fujimori visita hospital de El Salvador: conoció avances en tecnología médica",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSThBWHhyX1dRNVM1RzFiRmJaaVRvbWcwSEZlS1ZtMWc5eElzRkhrcHpleFZ6VDlsTF90OUVCelMwRlM1LWZCVWJYcms1RDhXVll3WF9SdzBxblZpWl9NRHRoUDFwQkdsdTlSQzBFZVpwYjdScTBUMjhIT04yeExLekdrbUp5N3NnUFhYdzVoRE9TYkhDbDIxUmlMcC1HdjJvYmo4cXhQQjhNdHF2enZBUFMtYTZEaXBOWndkRXNIT3U2dXo2SFB5Y3VlcGhXSzFRNFFWOW5zMWM2a3BMeGhpZXlycw?oc=5",
-   "date": "2026-10-31T16:39:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e7a86085e513",
-   "title": "Danilo Guevara: Creo que viaje de la presidenta Keiko Fujimori a El Salvador puede ser provechosa",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUx5c29FSXRfamVzLW9qTjE2NE5DbEYwbnZYa21icV9wSjI4T3NFd3ExcWJwaGhWUm5wLTVDcnVRcGpkWXNXM0lCYVVIMGNRb2RRQ3EwMDI2QzNMY29iR2FsVmpBTkNmUEJsakVQbDk4RUpPSkJveDBMTVl2ZndYb0hoWjAzWjRia0VBWnlGb3ZXYnpVZURvTFczSkVOWmNPSEd5RFlDcE5VeDlMU2RGMkl1TllNU0k0OVA4VnpnNDZKYmg5ckZF?oc=5",
-   "date": "2026-10-31T16:23:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
