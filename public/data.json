@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T17:10:54.619387+00:00",
+ "generated_at": "2026-11-02T17:33:03.985647+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -476,6 +476,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1f2ec4020471",
+   "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
+   "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
+   "date": "2026-11-02T17:28:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7e3f5aa8260b",
    "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
    "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
@@ -526,17 +537,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVJDcy1saUhBRFViTk5iOWstMWtCTFJjYWE5RWd1YnJEQ1RFby1tRlh5dGFzaFRWS0xLMnFEVENSdUgzdTdVaTlEalBEX2M0bGtBMHJEdGhBZVJjeE9FTG5nMC1LbWZqSGxrdWt6eDZ2dTZham9SaThGNmZQY0kya3dhenFYWWh0cS1HTlBtajJmTGxCZjN4UER3WnBkbjc2Sy11c1dBd2FOeHA3R2ZXTWpRdVd0eUludm8ySmFhYjljekdmYldaTnRKSHM4dw?oc=5",
    "date": "2026-11-02T15:02:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1f2ec4020471",
-   "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
-   "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
-   "date": "2026-11-02T14:27:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
