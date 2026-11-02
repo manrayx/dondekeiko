@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T13:31:10.275214+00:00",
+ "generated_at": "2026-11-02T13:53:15.610158+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -458,6 +458,17 @@
  "agenda_minutes_7d": 1103,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "af5e2d442e08",
+   "title": "ES ACERTADA LA VISITA DE LA PRESIDENTA KEIKO FUJIMORI A EL SALVADOR PARA CONOCER DE PRIMERA MANO CÓMO NAYIB BUKELE DERROTÓ AL CRIMEN ORGANIZADO EN SU PAÍS",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM2xnNU11UnU4QUVJOS1na3NTN05WWTRIeW1MNkR0M0dZYnpoTVRkSlloTTFTQmpab1ZFbXlodGlEWjVONi1GUHhwZjhHYzZGRW5KWGtpX2xjM2I1OWZ6bGd6QWp4X1B6OXU3aDMydElFOTNMUHVzNjFYZV93cklzV1dfRGV3VC1wNURRdkREOFV5THJ0cmRWdHF1STNqQkh1ZDJEOWwtaVR6WThDbF9sMXNyalU2eURpRUo0THZyRlo5MzZuc0JuX0h5Q2FqeVJSdHdjSFpDcUJDR3FydGNqUkRzdWUtQUgwODAwNTZOSDNvWkk3RW83dm9QTkp2cnBaMnFiUU5HUEkyUlk?oc=5",
+   "date": "2026-11-02T13:33:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "59f8b51f6851",
    "title": "Gobierno de Keiko Fujimori nombra a excandidato de Fuerza Popular director de la Casa de la Literatura",
@@ -1161,17 +1172,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOak1QNXNvc2lycVZybVNFWjNYdV9vcTBBQTFvVElHMXdnWHg0VHVIdkVDSjhZcVJycU0xeS1OMmVrbm4zci10MnZsMmZ5YjlKSy15T0dMSF9hR0J6Ni1kaExSbkI2X0JzWUhKMjQ4alpmUnp1ZUhuQjBpbjBpN1p4ZUNaRno2LVNBRVBlM2FlSXBWM1lSX2tCeUZwVE05ZmgtZzcyWTJwc0Ytc1RGYm9jckI4WG5mMG1aclhFZGtyaHYzajZRcHhiMmV3enh5TnFFekxiT0luMFphSUFQUFF3eERRT0RtQUVGbDdvODM0bzVtWFQz?oc=5",
    "date": "2026-10-31T04:12:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8601d03d467e",
-   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
-   "date": "2026-10-31T04:01:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
