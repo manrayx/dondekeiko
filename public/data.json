@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T23:41:38.941328+00:00",
+ "generated_at": "2026-11-02T00:02:54.380625+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -475,6 +475,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3b7df9f66098",
+   "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
+   "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-sobre-el-combate-a-la-criminalidad-ya-no-vamos-a-esperar-mas-vamos-a-hacer-uso-legitimo-de-la-fuerza/",
+   "date": "2026-11-01T23:39:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "284bc0d8bbfa",
    "title": "Presidenta Fujimori no asistirá a Cumbre en España para atender emergencia por lluvias",
    "excerpt": "",
@@ -487,17 +498,6 @@
     "abroad": true,
     "city": "España"
    },
-   "next": null
-  },
-  {
-   "id": "3b7df9f66098",
-   "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
-   "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-sobre-el-combate-a-la-criminalidad-ya-no-vamos-a-esperar-mas-vamos-a-hacer-uso-legitimo-de-la-fuerza/",
-   "date": "2026-11-01T23:06:22+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -708,7 +708,7 @@
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbHNHSjFOYmozbmtmeHIxdWxjeXNYQV9PV2p0c1RuXzNrekpPV3dZTjR0NnIzblJrYVVkaWlteEdNTUhLQUxaNlJlRUN3Yi1pRXRXbGZ4N3ozUFh5SnRWVHhlbGtGZmFPX01oUjFRY3loeVJUaE5waU1YaTkzTzJmOWgtQ1dTR1pGWVU1cWh6Q1BiZnA3aWJxb1NIaDR5STFRNksxQmlVaHNubW4wT05iWHN3Vmo1ZExqQ1ZZcUVfcFgwZDhjTGRGY1Nn?oc=5",
-   "date": "2026-11-01T17:50:11+00:00",
+   "date": "2026-11-01T17:51:51+00:00",
    "state": "posando",
    "place": null,
    "next": {
