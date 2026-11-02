@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T04:02:11.161891+00:00",
+ "generated_at": "2026-11-02T04:23:23.880406+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -475,6 +475,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "36d9ffbc6be4",
+   "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
+   "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
+   "date": "2026-11-02T04:22:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "92ef65b5898b",
    "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular",
    "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
@@ -492,17 +503,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHJPNG5tRVNHUmxScW1iekJOUE4zblNJdVYyQWpCUDJHVS13Y08zWlFQZzRnbkFVR1BOcUV2RWw0dWZ3endtSXo4UlNvdnhuZktDaG9aUG1YZ3J6dnNVY0YzaUhsc3FuY21UZVo2eEZacGkyRzAxNVBXSUNscGFINjJ2Ykx4NThqR19zNHhtN2FORlA4aU9RUElvREpfZUg3Q3BVLS1KVk9GaUprQ0pLZU44TE81VzhhTHBvWDFB?oc=5",
    "date": "2026-11-02T03:32:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "36d9ffbc6be4",
-   "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
-   "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
-   "date": "2026-11-02T02:39:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
