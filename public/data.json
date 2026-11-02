@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T20:26:49.273218+00:00",
+ "generated_at": "2026-11-02T21:10:23.794849+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -494,6 +494,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7e3f5aa8260b",
+   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
+   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
+   "date": "2026-11-02T20:58:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0501d98b86eb",
+   "title": "Keiko Fujimori presentará balance de sus primeros 100 días de gestión este jueves, anuncia Luis Galarreta",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR1pXMW5PQmpLMVo5RlYzT284WGhNeHRkbjFDM0lXb3pWSGh4QldwaHNRZFZielNLRkpUaTRqMDh1OHJpb19YWnQ2VGU1TnF2aXdmam4zZkdFV0dMMUFPUmN6YVhONlpJdVZKMjZVTjNjSThaZlhCVXpZT0lCTTNBYW1zUEJqNkx6WFRMMEpsdDJ3NzlfbW8xU3NvajdqVzdDdllpY1RycXNJVzQ0aV85eWU4ckc4eWtsSmZtbDVQbU9keExOS2F0cTVUck9LZFdKVkRKbUJpTmpIMWtrNWRNdFFxaU54Y3RwTE5EbEJmYnJpVXRVb2NsdXljVXI0NnYta0o3OVVpOWhDY1NyOUdVMVdieEk?oc=5",
+   "date": "2026-11-02T20:31:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4d43ecdd1f4a",
    "title": "Keiko Fujimori: reacciones tras encuesta sobre sus primeros 100 días de gestión",
    "excerpt": "La evaluación de los primeros 100 días de gobierno de Keiko Fujimori genera posiciones divididas en el Congreso. Mientras desde el oficialismo destacan las acciones emprendidas por el Ejecutivo en…",
@@ -533,12 +555,12 @@
    "next": null
   },
   {
-   "id": "7e3f5aa8260b",
-   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
-   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
-   "date": "2026-11-02T18:58:09+00:00",
+   "id": "09820e8d1bb9",
+   "title": "Es falso que este video muestre a Keiko Fujimori siendo insultada durante una reciente visita a Villa El Salvador",
+   "excerpt": "",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTZ3YmZKV052NFhIZVNwTFFZblV0b2ZyQzRCcjhPOTVTaWM2b3p4ZGtHT3dySFc4NWtjdGlvRTF5NmxiRWZ3TzNkRElGREtNb1J6d1BydnZRcEZZVWpDcFU4SWM2S090M0tNZEZuQ2s4bmVMTjF4cEpVZnJXU1pzUXdXX2trU1BWYWc?oc=5",
+   "date": "2026-11-02T18:58:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -569,17 +591,6 @@
     "abroad": false,
     "city": "Trujillo"
    },
-   "next": null
-  },
-  {
-   "id": "09820e8d1bb9",
-   "title": "Es falso que este video muestre a Keiko Fujimori siendo insultada durante una reciente visita a Villa El Salvador",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0x6ZnprVENVbEhqVUpSNlRNUW1CUDBYUnVoSzFLNFpJY3RBbkg5Ukd6RlI4Y3ZiTGRqS0lNS3cxNVM4ak9LcnA5QWRsRzd6Z1BJLTBtblFVNTVreUtfX3pNQ1Z4aFRuUmc2T09PeXh6Qk9UZkVpT1VmY1hCeGdnMTF2QUlxQUpLQ21yTnFLSldOcEx5T19hTi1RaFVGMllKUlM2YW12R2lNaHNlS0Z4eHFqVUdabkFOQTZUOWprTENvVWNDWHdVVW1TYmtGVXRtdjVINlFncVUtdmFxYmJTTkl4VERYX1gwY3h3MFpiMEdNbzlocFJraFB30gH_AUFVX3lxTE9PR3hULVlnMUNfcWI2U0pMVm5xYjhUSFFfRm1iUElRd3Z0TExlQk9WWTJlTHBiRzMxc1ZjSGhnNFV3UElCLTYyem9TY3lLMnhpcTJiM1VtN09LYk1aMnBaME5hT3RvSWNvRTRqZWEyOW9LLVVqakhDTnVEUS03SVRpMEZCM2N6cGRfcldzZUhVT2FQc1lMaTNLeXZGU3VfZ2YxaWxPLXBEeFpDdTRsZUM2aVE4Q1FJRUcyRHpVYXh2d2dSVUZGN2ZtRFp0V29DZ3ZjOWFLa2tQVEFpSlVGOXVaeENmVTZHbFFTV1dfOHVTbFJhc0ZpRzRSVjNGYngyYw?oc=5",
-   "date": "2026-11-02T18:47:44+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -850,9 +861,9 @@
    "id": "3b7df9f66098",
    "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
    "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-sobre-el-combate-a-la-criminalidad-ya-no-vamos-a-esperar-mas-vamos-a-hacer-uso-legitimo-de-la-fuerza/",
-   "date": "2026-11-01T23:39:49+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcDhVLUxPM1haVFF6UWdadnFTdGVxb1NZaDhLYWZyMVJvc2JnSWdwdXo0MDg1Q1Z4a3BwMEhnbGN4LU1jTkFDUzMxTGJ0MnRaYkhPSkZ5dmdYZVViMVI0ZVBtUmtkMlRpaGVldzZsUFpkMlg2d1paMENRcjY3ZjFwRWFQdlJObW4xN3ZxTURKdWpNMy1CbkVjVDdGcTgtajVrVWZBTWhiN1R3MGlOendRN1lDQmludG42ZHB6UklQWDVwNHRVWVA3ZktGdll0dENnSzhzM3hiLS1yaGhhdjdwNWotcVdOSkoyNVRYZdIBhwJBVV95cUxOM3VGYmNROGMzeFJNX3NGbFJfLTdDVjU1eWNHb18tOGVwNVNrZEYwb0l6eTJVOTNoZF9lblNSTW1sdWJFMHB6aFNLYmN2ZDFJdUM4QTJtckl1di1qQmF1U3lVdlQ0UHQ1Q2gwekJIbXdpRGRkZkpHeHE5QXU4d1VFb1FtTWZEcHJfMlU2bGZtV0dYb1NvNDZtS09TOWN1Y2I2RWNlX1QycnljWGxtbm9kVS1WRzZKUWlRQTNnLVlDUmdfS05FNk9VUGxoNUtOVzJ1emJzeUJtYmMtcEkwRWdoSlNzM2lwZUdraW95U1VGQlhGZDhUU2xkeEJOQS03MmN4Mnc3cjA3Yw?oc=5",
+   "date": "2026-11-01T23:39:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1217,17 +1228,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDB6R25oMDY5b2VtaHh0R0tEUzhhaHo1UmdSWDRRNW5nNE5sMi1URWVseV9sZ0VIQW5oQkNvRzg1SWRNRzR5dWtqRmVOQjRVNlYtTURoc0RhUHI0R2RGY05Hc2hTcWlacXpEQm9XM0dpYWs3cEt1QmdvN1dZT0pEX1YzM0t6Ukotd3hlVjJiSGN4UlpKMldZWno0djBUd0V4aWVsYW5yNklQNHhWMFFFYTB6OXRHdWtFaTNpS0ZjbTJ0SVXSAdcBQVVfeXFMTkd1MG1DdFk5WENfazhLYmRJTmdWWWVNZUdiZ19NWGtVTW52R2pOcDQwUDdrODZXb240SFpDdWpRdmU2MmpxS1RpVTQ5dUJ0a3RRWEE3UkZoRjZnMWp0RTdodlFLOWFmdmc3REtiZU1XT1NNbnZ6VExLeFlrbDdJd25kOUF5SGczQms5ZTVVNW9MTUZnYk0wR2pNcTh4UVdkTXhCZTNlVU84aHRLVl9DX1VxakRMeWszMnpTUElsY1ZiQ0diZ1B0bVBPdUYxcUdzLU1zcFA0VVk?oc=5",
    "date": "2026-11-01T04:16:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b29d46b5f406",
-   "title": "Keiko Fujimori revisa estrategia sanitaria contra el dengue tras retorno de El Salvador",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDRhdGg5eVo0OVNfYmJKVF96VmhVSjBEdHFERTAyVGpJdjBTcUtrREtJVkVIb2U4eEo3VVYzSHh2YV8zUkkwbXo5UXZ1VXNKVXV0Y3p1Nzd6NGItb2FQUE13TEt1Z05JZF9vRGxQcjZ2Y0ZpNnc4Ym9kN2Y2Z010dS1yQ2ctUk1MQk85dnpLSUg0UENIbFdKeWtrS2VqR3QtTWV2UXJqcHdpZWdfTnY1MWR2TUdkUWRGclNTcDhjLVVhN1l1enc0SVlKUG1nUdIB4gFBVV95cUxPNnRLRTRmRDVSd2hXbXl0WVJRNnBZMlVGa1FsdlFMNkNPdkE3V1c1X3drY20xdy1yTFkyLVZMMjc3bE9CWHhlQ21xSGZSTFAzeW9CV0FFZDRjQkVwNGlRQzNWNWtzaURPdElpUmtZa2ZkWmZidlgwSmV4N1I4bE9KTFp6dGFTN0NnUUJ6ZEtUS2wwRzlqUUw5OURtWE5JdkhCLWRNYnR5X0pPaklncGtIcjFFbHRJbjhXOGRqMmJmY3FPS0k5d2JjWnItanFTaTZCUzl4c2F3V0owUHdXUE8taGpR?oc=5",
-   "date": "2026-11-01T03:36:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
