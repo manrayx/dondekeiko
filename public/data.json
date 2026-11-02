@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T12:26:10.245410+00:00",
+ "generated_at": "2026-11-02T13:09:43.769159+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -459,6 +459,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "cc9fa049a3e8",
+   "title": "Presidenta Fujimori acudirá al COEN para evaluar emergencia por lluvias en el norte del país",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzVseU5sTlA0ZkZxc3hvdzZ1WHd0V2dNZENDVUV4MklNNEtFcy10RUlVV09LdksyUWFWVnVIZTBxcnZ0bGhyMEFEbmNCcGpTdndGU01OdHJldzN5V1g2OUZVTWNHRWhDaHplQW01Z0haVkVERWNZY3p6NndJaWZxS1lRSU9DR2RXQVNuV2toVWlLdC00MUQ4RldlQlFfT2x3RV9neVZjQWppa0VzRng0Y1ZUdDRBVHRhbWJGQg?oc=5",
+   "date": "2026-11-02T12:53:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5f39deab5c54",
+   "title": "Keiko Fujimori cancela viaje a Europa por lluvias en el Perú",
+   "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
+   "date": "2026-11-02T12:51:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1f2ec4020471",
    "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
    "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
@@ -485,7 +507,7 @@
    "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
    "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
    "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOek95TXFjb2RDY2J5eHczLVVQSDA2ZDF6U08zcy1RTDVjZHpieGRUWkVUdlEtVEVHNDlfQ0JjZFpocm5Xc3NsV1ZqcmlHbTFmUUxPLV91LTVpZTNyV1duYzZYNlVOOExCUjl3cHRBUEVrYnpCaUZwRGZRSDRJVlJQbURyYW9xbzFSRlhxYmhwOVYxN2tzSjQyazIweFBjblVwenhkQk1B?oc=5",
    "date": "2026-11-02T04:22:13+00:00",
    "state": "posando",
    "place": null,
@@ -1150,28 +1172,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOak1QNXNvc2lycVZybVNFWjNYdV9vcTBBQTFvVElHMXdnWHg0VHVIdkVDSjhZcVJycU0xeS1OMmVrbm4zci10MnZsMmZ5YjlKSy15T0dMSF9hR0J6Ni1kaExSbkI2X0JzWUhKMjQ4alpmUnp1ZUhuQjBpbjBpN1p4ZUNaRno2LVNBRVBlM2FlSXBWM1lSX2tCeUZwVE05ZmgtZzcyWTJwc0Ytc1RGYm9jckI4WG5mMG1aclhFZGtyaHYzajZRcHhiMmV3enh5TnFFekxiT0luMFphSUFQUFF3eERRT0RtQUVGbDdvODM0bzVtWFQz?oc=5",
    "date": "2026-10-31T04:12:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "585d4be81c70",
-   "title": "Keiko Fujimori espera concluir dos megacárceles a misma velocidad que el Cecot de El Salvador",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVi0wSTN0Z0NELUdFR3FuaVpPUUlZZkJLakYyR0JLUW9GT3NOWjZZeW1CZ09GaUNjazBGTXhHQS1YQ1FGZGhGNVJUYWdnWnN3NnE4eTVWaEo1YzlHcmVuRHNobFlXdW1vN2dZcDRtM0lEVE12NVNNak5SMmMxcGZZWlUxMnRlNy14cVNJVVN5ZllXNHFwelFFcXNGRHVsNnNzX3psMHdXUWphU2V1VU9EVmp2TVVnZEEyN2g5ZGlxNTY5YU9LS3RxQ19ZUC14MDAz0gHkAUFVX3lxTE1BWlVsNDN0YWs2S2YtNE1FWGluRVc1VVZ4c05zWXRseHRZUGZ6YWpKY3U1RzhDR1ptYnZsd3FTdkw0bS0taFlMRjFqRUcxeklmLWw2Qlp1MWFuWFlHSVl3eENDUWhVVUxGZzlwOENIb1RGaklwMl9IUV94WXlVNml5X25QMlBsMmZYWV9UQ1VYUmc5b3hsaE04QWxkMC1admwweDVyQ05QWnpueVExNUNJalNmb1M3WHMzZXpNM1BrXzJLemdEUFQ1VkxtVkhHbzAyaVF4cjE0dFFGN2F6TUNOT3lVWA?oc=5",
-   "date": "2026-10-31T04:05:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8601d03d467e",
-   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
-   "date": "2026-10-31T04:01:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
