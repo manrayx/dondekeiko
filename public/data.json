@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T22:16:33.966300+00:00",
+ "generated_at": "2026-11-02T22:38:48.597578+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -494,6 +494,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ed823cbf4880",
+   "title": "Keiko Fujimori sobre el modelo de Bukele: “Hemos tomado varias iniciativas, como el programa Cero Ocio”",
+   "excerpt": "La presidenta Keiko Fujimori se refirió al modelo penitenciario de su homólogo de El Salvador, Nayib Bukele, y dijo que se han tomado varias iniciativas en nuestro país, como el…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-sobre-el-modelo-de-nayib-bukele-hemos-tomado-varias-iniciativas-como-el-programa-cero-ocio-ultimas-noticia/",
+   "date": "2026-11-02T22:19:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4b53ed203f21",
+   "title": "Presidenta Keiko Fujimori anuncia reordenamiento de internos a nivel nacional",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, sostuvo que su Gobierno realizará un reordenamiento de todos los reclusos a nivel nacional y que los más peligrosos serán trasladados al penal…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/presidenta-keiko-fujimori-anuncia-reordenamiento-de-internos-a-nivel-nacional-noticia/",
+   "date": "2026-11-02T22:15:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "500cd8e33049",
    "title": "Keiko Fujimori: tiran huevo al vehículo presidencial tras su vista a penal en Trujillo",
    "excerpt": "La mandataria acudió al penal El Milagro, donde familiares de internos protestaron para exigir justicia por la muerte de reos. La tensión marcó su salida del establecimiento penitenciario.",
@@ -539,17 +561,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
    "date": "2026-11-02T20:58:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4b53ed203f21",
-   "title": "Presidenta Keiko Fujimori anuncia reordenamiento de internos a nivel nacional",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNjJiTTFVc2hEbGpyOE8xTWg3YjU0UVNBMHZFRlpxNldPLTlWaWhGTzc3c3RSR1FQMUszTzFzcmNNLUFhaWF1YnVGNGRCYUhWQUk2OW5NOF85bVNLTlA1WVM0dlA3TUJjQU16cnY5Q052WmZzREpuMmlfcFZxOTRsd3YzZ1dTekVBVjFwQ0RhXzVCcFhsd0pwaWt5UzhsMkpnTVdEZHBXSWJCcjc0eEhGamV1NUhrMHNxUmk5RS1kOFZVbTVyN21JVkZsaVdtVUZ4d1JfRg?oc=5",
-   "date": "2026-11-02T20:54:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1226,17 +1237,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUpMUkNKOUpETzVKaWVYNzhQTi1GdHR1XzNnQ1dFTE5idU55dnkyV2JvMXFLamcwT0hBSWZWQk45d29QNFZfYnRsWXFZSUdWRVBKQlY4NzRYbkJEV2xCSklFSDhXNVdnVGFHMWxrNUpZQ3otQlJ1ajR1cTBiRV8wS1JJcVJQWDlMMkFVTXotcVpBZkE2Y3psTEdoX3Z1MWp1YXNMMDZVSWxSMl91ZjhSWDNDbExEQdIBuwFBVV95cUxNd1R1TWhlbFBjXzRwc05weDFXNTRGS0RDUnVFNUZQdVFST0dGdkc4cXRxOFd5N0toSy04VE4xVlhwNWw4b3VjR2h3TW9kc1lxbHJHTVBWTGZURzdOYjZLUkdLQ2tCdklvLXRwSGsza2NFY3ZpUndnUTJhczczWWlDWXRzR1U4WjVhVDUwaXFheXhSZTk2ZkMxOTFwVzVScEtmNGVJU09YVHlDcm5CNDZqSHVkRXA1NVh5akV3?oc=5",
    "date": "2026-11-01T12:41:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "66fcc0ed5aad",
-   "title": "Los 100 días de Keiko Fujimori comparados con otros expresidentes",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWswN3VpQl9tQ0w3TU84Ym1tanI3WjY0OHhwR2VFUFB3R1FXUnRQckdtU1d4aU5FN0lxQ0FhZDhTazlwR0tXaVJUVmlLQ3BmYUpfcHVTYzJlbUtwb0VQdkR3QnphblZKMHI0aEFjZG9mVkhlbTF2elFnU2hkaU40RGVlNXd5WDIwWmxJS3VGWHNlc0NKSmlWWdIBngFBVV95cUxPOHlmRHdTRHl5ZGZFRk9UN2szTGtyeHY5LWczM0d3TnZvaVluWE1zVEpaY0NaQ3ZnZ0xXcTJod1ZKZVJRMVRCNWNNRHBOQjJpQllSN1BVMmtoUi0zbDZZSXJPaHUzTzZidEpLMFBTb1dFWi1WNG1rOElHN0RMRUhnei1ZbGNlZVU5RzYyYUZadlFyX3ByR1c1VXlYbnpxZw?oc=5",
-   "date": "2026-11-01T10:21:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
