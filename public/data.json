@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T21:32:25.415724+00:00",
+ "generated_at": "2026-11-02T21:54:41.659086+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "city": "Trujillo"
   },
   "source": "La República",
-  "date": "2026-11-02T21:20:37+00:00"
+  "date": "2026-11-02T21:41:58+00:00"
  },
  "next": {
   "place": {
@@ -111,7 +111,7 @@
    "abroad": true
   },
   "source": "El Búho.pe",
-  "date": "2026-11-02T18:23:41+00:00",
+  "date": "2026-11-02T18:23:59+00:00",
   "title": "¿Por qué canceló Keiko Fujimori su viaje a España? ¿Qué se iba a tratar en la Cumbre Iberoamericana?",
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWdOdjZpWTI0dDU3MmhWd0VkSDMzeFpnYTYtMlhCUnpGaWNld0FhV1M2eWt0b0xEVHRPQ2w0aGlwcGY3V3ljR0xROHVtRjdLZ0RtUTQxaTlmYnJUY2VVNzg2UmhFUW1UMngyQzA3VF9JcWk3SmNWQXFKeGc3YV82REh1cVloTFNWcnFEX0dPOUlXNGxNV2JqR0JhS0lheXN3Wm1IMTgxZHExdkk0VlZHUTdXYmY1aFJlVnR5dEtzbGY?oc=5"
  },
@@ -494,12 +494,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2127c766c4c6",
+   "title": "Keiko Fujimori anuncia reclasificación de internos y traslado de los más peligrosos a Challapalca",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVnVwY0ZPZ0VwOV9PemxmY0I3N3NjbzZvUXhiaVFzQ0dTQ19Ud2VpSWIyRHgwMlZxNGZqb0tsMS1DeTk1Q0gtZFgzOE82MUxhQnptR2dWTjE4TFFYdm5EVzhQaE9fSDlpTjI4M0QtS2NrV29aU05UZTQzMVEyQVFObWxfN0lFUm0xSmc2b0d3WjFWR2hnZ0Z1emhOZE1Pa210LVcwSURsbHpxaE9rMmVVNERGRE54WWZjcmR5X3Q1RnBWMHh5bmJpNndncHBqNFFvOFRYTW84amdQOHU0?oc=5",
+   "date": "2026-11-02T21:49:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "500cd8e33049",
    "title": "Keiko Fujimori: tiran huevo al vehículo presidencial tras su vista a penal en Trujillo",
    "excerpt": "La mandataria acudió al penal El Milagro, donde familiares de internos protestaron para exigir justicia por la muerte de reos. La tensión marcó su salida del establecimiento penitenciario.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/02/keiko-fujimori-tiran-huevo-al-vehiculo-presidencial-tras-su-vista-a-penal-en-trujillo-hnews-37164",
-   "date": "2026-11-02T21:20:37+00:00",
+   "date": "2026-11-02T21:41:58+00:00",
    "state": "posando",
    "place": {
     "name": "Trujillo",
@@ -638,7 +649,7 @@
    "excerpt": "",
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWdOdjZpWTI0dDU3MmhWd0VkSDMzeFpnYTYtMlhCUnpGaWNld0FhV1M2eWt0b0xEVHRPQ2w0aGlwcGY3V3ljR0xROHVtRjdLZ0RtUTQxaTlmYnJUY2VVNzg2UmhFUW1UMngyQzA3VF9JcWk3SmNWQXFKeGc3YV82REh1cVloTFNWcnFEX0dPOUlXNGxNV2JqR0JhS0lheXN3Wm1IMTgxZHExdkk0VlZHUTdXYmY1aFJlVnR5dEtzbGY?oc=5",
-   "date": "2026-11-02T18:23:41+00:00",
+   "date": "2026-11-02T18:23:59+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -1226,17 +1237,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWswN3VpQl9tQ0w3TU84Ym1tanI3WjY0OHhwR2VFUFB3R1FXUnRQckdtU1d4aU5FN0lxQ0FhZDhTazlwR0tXaVJUVmlLQ3BmYUpfcHVTYzJlbUtwb0VQdkR3QnphblZKMHI0aEFjZG9mVkhlbTF2elFnU2hkaU40RGVlNXd5WDIwWmxJS3VGWHNlc0NKSmlWWdIBngFBVV95cUxPOHlmRHdTRHl5ZGZFRk9UN2szTGtyeHY5LWczM0d3TnZvaVluWE1zVEpaY0NaQ3ZnZ0xXcTJod1ZKZVJRMVRCNWNNRHBOQjJpQllSN1BVMmtoUi0zbDZZSXJPaHUzTzZidEpLMFBTb1dFWi1WNG1rOElHN0RMRUhnei1ZbGNlZVU5RzYyYUZadlFyX3ByR1c1VXlYbnpxZw?oc=5",
    "date": "2026-11-01T10:21:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "00dd2ecdc54e",
-   "title": "Presidenta Keiko Fujimori retoma agenda de trabajo",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmV5MjhCRUJKdUpxSFJlT21jaDNITU90QWk1eGhUd3MwTmxKWnQzcHoxeXRiQ2IwU1pFcV9vVDE2ajNvZGxnNmVQcGFwMFNHRlczUWpfbW5XSDZGSmlrSVdybWZqVDE4VE9yVmoyZ01POHBzVGpiM0ZyWnBMV1hsci1JZnNPM1RBcENvQWpPUQ?oc=5",
-   "date": "2026-11-01T10:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
