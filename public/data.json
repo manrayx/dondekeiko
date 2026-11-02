@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T22:38:48.597578+00:00",
+ "generated_at": "2026-11-02T23:01:13.225711+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -544,6 +544,17 @@
    "next": null
   },
   {
+   "id": "8efa92cbafe4",
+   "title": "Keiko Fujimori: \"Se hará un reordenamiento de todos los internos a nivel nacional\"",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hsMkNkSW0yX19aT3c4YlBoc3M4LU1rMXEzY041c1BpMlpfWERhN0ZiM0ZZVllHUm1pQktvYWJyNFRkVGtKVlctU3RWb25IMnZOT2ZJMGExX01tOWJFSlZ5anNuR3dPbkp0MmNzdnZEUE9LMkt1NXRfZ1htcWZQQi1rM2Vwa1JvZEtsbGdCNzFyVnFMMVdOQXA1azJ2U3JMVG11QWh5NWs?oc=5",
+   "date": "2026-11-02T21:43:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3b7df9f66098",
    "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
    "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
@@ -602,6 +613,23 @@
    "date": "2026-11-02T19:13:26+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "6a581ed1cafb",
+   "title": "Keiko Fujimori anuncia nuevo episodio de lluvias muy fuertes en Piura y Tumbes para el 7 y 8 de noviembre",
+   "excerpt": "",
+   "source": "Norte Sostenible",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmtiNWhOQVlpN2VIZDNtZGJnQjZhTzhrNHFtR3pFUW5SYzd5bXc0bTNKUXNycUpFdHNkNjhhX3BBT2QtaE1sczJ3bm5EblUxeGpVRFJObmFQdXZTR2U3WHR1OTJIRzNTazNkVWVrQXY0Z3BzSzZETzlMUXVra0ROY09JcFNuTDF0SEd5N0RnSQ?oc=5",
+   "date": "2026-11-02T19:05:47+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
    "next": null
   },
   {
@@ -750,7 +778,7 @@
    "id": "06250dee045a",
    "title": "Keiko Fujimori afirma que su Gobierno no negociará con la delincuencia: “Usaremos la fuerza de la ley”",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPV2xmYUx4VjVpNUQwVk9yMk1VdU1lTVJ6NnlpX3Z3YVdJWUlQTXFNNWs0dm5zY0pqeVZvN3ZKNWczX3prTjVoTUg0ejdKdnpTNDhZOS1jempQOVNBcU9IMi1zN25rd1gwS2M2V2xNRmc0OXdQYmNpS05KSjlkU1U4VHBRVk1QU3Voc0RZcWVuR2VzVGdTTVo5cm1ZRWFrNDlHSmJ6Y3RCYm14LU5rZG13ZGR0dlIzRWJZOEI4SlB2Z1RHZTlBeTRiT0VKbWJoR0VlOHVZQjdhZnJpY3RUYTBxbEtzMlNPMjF1c1Y4UlVVRFdpMlpYNWJnUHRPc2cwN0Q3cDdpTWh0OHdZVWdBSjNTdEg2XzFhUk5vQ2FKRWc4Mi0?oc=5",
    "date": "2026-11-02T15:22:46+00:00",
    "state": "posando",
@@ -1217,28 +1245,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "2c4a2840641b",
-   "title": "Keiko Fujimori regresó de El Salvador y enfrenta el incremento de casos de dengue y leptospirosis",
-   "excerpt": "El ministro Dyer informó que la estrategia de vacunación incorporó a ocho regiones como zonas prioritarias, junto con San Juan de Lurigancho y Carabayllo en Lima",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT2ZhUHYwYjFhUXBRTW1ZNUFPaWFPY2hVa3FkWTVTaEVfbXQ1ZmROTDBIdVJsX2k0eGhoXzF6eWJLUVB2TUVKUkItMzk3TUg0ZlhNZ3VxR0dXZUw2aFFCaWpCdEk0Z0hfQ2d1SWhzV1FOMTc3bHpCN1JtNkRJeV9PTkZYNHNpUk91MzJiWThRYU9YS3FmVHRfY2lEdHZTdW9Ea0Fna2ZqM1ozSDRyZkRHRC1tQmZ1V0pEb3ZOdU9VSkYyeXBpQ015T2Y3R3JmYU1scm5GZNIB7wFBVV95cUxQcHFHdlIwc2dCYjFRSGg1VWVIU3dvSHNSLS1mdk9WX1FPMDltb0xXZnotVkVLX3Zuc3pEMmlESk1mdjE1c1JjWlVUQThJR1BJem9fdGFPNWlfYkV3Tl9CS2o3YTJQYS15ZDlUZWJCc1VQNlphTlBVSERJYW5oczhQM0t4SWhHaFBNNFoya0hZRVFFQnpfeVlpcjJZUkQxUzI2ZWgzWVY2VGJOTC1mQVItVktMcTBMd0k2M3NqTGo1bENIdlhmaWxjcDFSSnFBMHEtOUY3YTFXWWJxamJTWTgzNm94d0JWNmh1QUpaSC11TQ?oc=5",
-   "date": "2026-11-01T13:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "30ae64f5d3c9",
-   "title": "Keiko Fujimori inaugurará reservorio de agua...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUpMUkNKOUpETzVKaWVYNzhQTi1GdHR1XzNnQ1dFTE5idU55dnkyV2JvMXFLamcwT0hBSWZWQk45d29QNFZfYnRsWXFZSUdWRVBKQlY4NzRYbkJEV2xCSklFSDhXNVdnVGFHMWxrNUpZQ3otQlJ1ajR1cTBiRV8wS1JJcVJQWDlMMkFVTXotcVpBZkE2Y3psTEdoX3Z1MWp1YXNMMDZVSWxSMl91ZjhSWDNDbExEQdIBuwFBVV95cUxNd1R1TWhlbFBjXzRwc05weDFXNTRGS0RDUnVFNUZQdVFST0dGdkc4cXRxOFd5N0toSy04VE4xVlhwNWw4b3VjR2h3TW9kc1lxbHJHTVBWTGZURzdOYjZLUkdLQ2tCdklvLXRwSGsza2NFY3ZpUndnUTJhczczWWlDWXRzR1U4WjVhVDUwaXFheXhSZTk2ZkMxOTFwVzVScEtmNGVJU09YVHlDcm5CNDZqSHVkRXA1NVh5akV3?oc=5",
-   "date": "2026-11-01T12:41:55+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
