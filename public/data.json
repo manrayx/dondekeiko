@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T13:09:43.769159+00:00",
+ "generated_at": "2026-11-02T13:31:10.275214+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -459,6 +459,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "59f8b51f6851",
+   "title": "Gobierno de Keiko Fujimori nombra a excandidato de Fuerza Popular director de la Casa de la Literatura",
+   "excerpt": "Ricardo Vásquez Kunze reemplazará a Gary Marroquín Mendoza, cuya gestión quedó marcada por la controversia tras la suspensión del premio al historietista Juan Acevedo. El nuevo director fue jefe del…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/31/gobierno-de-keiko-fujimori-nombra-a-excandidato-de-fuerza-popular-director-de-la-casa-de-la-literatura-hnews-1960161",
+   "date": "2026-11-02T13:28:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "cc9fa049a3e8",
    "title": "Presidenta Fujimori acudirá al COEN para evaluar emergencia por lluvias en el norte del país",
    "excerpt": "",
@@ -839,7 +850,7 @@
    "title": "Presidenta Fujimori y ministro de Salud evalúan medidas frente al dengue y la leptospirosis",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcER0eUVwWjV3ZnRlNTkxY1JqMG1oM0ZyZG90Z2VWckZUTHJtV3AxaURSdVBOdEJvOWRvZVl6UVdqeUY4LTBvblJySHEwQUtMM1kxVGZCSm9Pc0ZsUVpwQ2RLYUMxbl9XTkhfM0lvNUxLNm5ZUm5hTVlSWXo2WHRJSVJ6ampwNzJ2TW8xRGNHeTNuclJIYlN3eFd0QW8tZ0o3Mk16cGI4M01JcWtheTdveFoyWW13dDNITnB1X3hXMHRHUGtaQ28zYjN4Zw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQl9WSWNHdl9zSzFaY3RSNFZUeTRXc3E2ZTNHajF0ZlItWjMzSGJ5V09oM0JCVmhmc28wTlZUOVBZeGZSblpkdk02d1ZPbUNOU21aMjlVakRZRXlqRFhrY1gwcHUzODJQd3dGOHU3a0VFNXRYQmRzLTE2OFNVM0Ezemt4cTFTLUhBc1dDR004aXJ0WXpfQ20yLWtyMGhMbXFBLUJhWDk4UHRjYWZaalJ4ZkxxUXBuVFYyUVFnQU13ZnNWMTMzRC16Q3ZxQVNBZEdD?oc=5",
    "date": "2026-11-01T14:59:01+00:00",
    "state": "posando",
    "place": null,
@@ -1045,17 +1056,6 @@
    "next": null
   },
   {
-   "id": "59f8b51f6851",
-   "title": "Gobierno de Keiko Fujimori nombra a excandidato de Fuerza Popular director de la Casa de la Literatura",
-   "excerpt": "Ricardo Vásquez Kunze reemplazará a Gary Marroquín Mendoza, cuya gestión quedó marcada por la controversia tras la suspensión del premio al historietista Juan Acevedo. El nuevo director fue jefe del…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/31/gobierno-de-keiko-fujimori-nombra-a-excandidato-de-fuerza-popular-director-de-la-casa-de-la-literatura-hnews-1960161",
-   "date": "2026-10-31T20:22:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "735742eb9616",
    "title": "Keiko Fujimori visita hospital de El Salvador: conoció avances en tecnología médica",
    "excerpt": "",
@@ -1093,7 +1093,7 @@
    "title": "Keiko Fujimori cierra octubre con tercer día de visita a El Salvador y 156 homicidios registrados",
    "excerpt": "La mandataria aseguró en El Salvador que busca conocer las estrategias de Nayib Bukele, pese a que el propio presidente descartó que puedan replicarse en el Perú. Mientras tanto, Lima,…",
    "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/30/keiko-fujimori-cierra-octubre-con-tercer-dia-de-visita-a-el-salvador-y-156-homicidios-registrados-hnews-472770",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOelFxNTV2eVNiNFdmY0NoWkVUQzRINHhkakUwUUpDcXA0NDhFZVR5MnJJWUlPNF93S0Fveld0MVJLVEhCYmZwRzZiTURtOV9QS0lkd1QxRmNLOFA4VGdKU1cwbGNjVXNvWnozd1JSb0JTaGs0YmlzRnZIMmd0UVZFNzFZR1oyNDJnd29VeGpEVm9oMmNRZ2FUdFo2WGlBc21FaVZJOUx4bjdOMl85Szc2aVdQTnZCYms0OHRDcHZGbmExMGQzSVQ0UEF5Qll4VE1fcVZqOWhTZFdhQnh5eXVqajBVcmJLcEh40gHuAUFVX3lxTE55cUZheGZBZnpEY3JkbXI2NFZPZkw3bXVQYURPWml3bWFDLWtPX29wTmNackJnMWg3NVo3WGRaRGdjbThyckFURTYzUF9mNEkzNjdrTUx2X2RfNTlHNVUzNGlSNFF1bnpuRHhYUmZkWmJrM2JFSEQ5SkJRQk1iRHJVR0xXRG04dWxzMXRmb2djUTJYWVozWHBhTXdYaXhidS1YZXVFS2ppLXdiSk5CYnJSZ2ZqMzFnWlR1UzNBd3hwY0NibFZpc2QycjFyUndia3E2NlpIX1NKUG9nckRSZWZyWUFLQjEtaXR5UE5WcVE?oc=5",
    "date": "2026-10-31T13:17:41+00:00",
    "state": "posando",
    "place": null,
@@ -1144,17 +1144,6 @@
    "next": null
   },
   {
-   "id": "524cd3667b83",
-   "title": "¿Un CECOT a la PERUANA? Keiko anuncia 2 NUEVAS CÁRCELES al ESTILO BUKELE | Trome",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjM4R3MtbUMzOURpZ1FKeTU2N0NOekJlZzZLVnUtYUJVODJvbW9XTVhRaU1wOWJ3ZW0ydmw3YnBBUjdmRWlnbEdHem9GQmpGYzI1Mi1xc1hhUDRLcmo4NTlQWjJoaVMtaVRrTFBNRER4VjBiVW1rVWFHN3lNTDMwTURlRGswcUxNaXYxVDl3am1CS2tSMC1NWnZMWDhUZFMtYzhrOGdpOWtveDgtdy1YcS12Ty1MQQ?oc=5",
-   "date": "2026-10-31T08:43:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "4be2b3911a95",
    "title": "Christian Hudtwalcker sobre de videos de Keiko Fujimori en El Salvador: \"Esto no va a subir tu aprobación. Tampoco le ganará a la criminalidad\"",
    "excerpt": "",
@@ -1172,6 +1161,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOak1QNXNvc2lycVZybVNFWjNYdV9vcTBBQTFvVElHMXdnWHg0VHVIdkVDSjhZcVJycU0xeS1OMmVrbm4zci10MnZsMmZ5YjlKSy15T0dMSF9hR0J6Ni1kaExSbkI2X0JzWUhKMjQ4alpmUnp1ZUhuQjBpbjBpN1p4ZUNaRno2LVNBRVBlM2FlSXBWM1lSX2tCeUZwVE05ZmgtZzcyWTJwc0Ytc1RGYm9jckI4WG5mMG1aclhFZGtyaHYzajZRcHhiMmV3enh5TnFFekxiT0luMFphSUFQUFF3eERRT0RtQUVGbDdvODM0bzVtWFQz?oc=5",
    "date": "2026-10-31T04:12:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8601d03d467e",
+   "title": "Presidenta Keiko Fujimori visita colegio emblemático en El Salvador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOHpMQ2Fja09YbFQ5V0RfNmdpNUlvZGhqYXg0RTBZTmF4VlVGQ2ZpVldPQmEtSUZOOGxPb3dHRE95RFI4dU9IZGpuYU03ZF91d2dVcDhCaU1ZTFhPdW0tNzlnZnJqOGlGbG52TlBEQW5rMHV3SkNMdDVmZExRY0tOWVlhV1E4VUMzVk9Hd3FEaXk5T3pES1I3Zml5Mk5yTzRpNzJwM0JzVUU3MVNqYlRSNg?oc=5",
+   "date": "2026-10-31T04:01:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
