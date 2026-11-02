@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T00:24:13.956130+00:00",
+ "generated_at": "2026-11-02T01:29:24.034058+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,17 +101,17 @@
    "city": "España"
   },
   "source": "Agencia Andina",
-  "date": "2026-11-01T23:34:59+00:00"
+  "date": "2026-11-02T01:17:28+00:00"
  },
  "next": {
   "place": {
    "name": "España",
    "abroad": true
   },
-  "source": "www.apnoticias.pe",
-  "date": "2026-11-01T19:05:01+00:00",
-  "title": "🚨 Keiko Fujimori cancela viaje a España por alerta de lluvias en el norte",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDZkMkNXS3NyWGdDb2ZCZENKR2dRWk9jdHNKeGEtYk5uV3RVMVg5bXhJS3UyU3ZVeU41X3hYNnNxZC1ZNy02SHN5ZjBNQngtR29RWW1oNVZmckE1Ums1VmtxWmpNVGFDd1ZWYWxCOG8wc0NJVFE0emF4UEdPRVhvVUgyNXNXSndVbnRjNHJTbHpNdWlGRVMtdzFsZnljQ3RsS0pZRk4xSTdIbTFnREJr?oc=5"
+  "source": "Revista Caretas",
+  "date": "2026-11-02T01:09:13+00:00",
+  "title": "Keiko Fujimori afirma que no viajará a España para encuentro con jefes de Estado tras incremento de lluvias en el norte del país",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkdVdURVY0xBTU1WMkxRS2R3d3RBNWppcmE4WTR4S2NvQTJNY0k0VXlXT01Ja3pVcDV0WXNDUDhrVUZuUmNLNVVRRENQQWNjN2VkbE9TZm9BdzNmNDRrcTBkQVdMcWloNmRxVUZsdXRzT0htQTBRaVlENHBoN2V2RmN2Rjl4RVdqRGczUnUxY29YbDJMM2dSRExfTXc1ZUU2OFd1bk1VZUpkTUpRU0VlajV2UVZybHlkaTUwZ0RmOTdlSzNTQ0xHSlg2TTd0QndPU2o1ZWFIbGVqTzFXdWxFT3plWXR4alZIRkZSR21n?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -475,6 +475,46 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "284bc0d8bbfa",
+   "title": "Presidenta Fujimori no asistirá a Cumbre en España para atender emergencia por lluvias",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUpNMVU2NHFuMV9vdk5oSDlaOUNMbmFuZ0ZaVFBYV1lUSHI2UlNkbzZEUmFKRkNqRlpoZDROaGtYZnNJRlBqZHFBOGxlTHVZT0dhblNLRXlkczIyS2Y4R29ZU0FGZjl1NUNjaHNYdTZxbmxyQ3l3dC1NYmF5dWR0VEU0X3AxZS1jNVZtbjVPME9BSEwyRmIzelQwdXd1cnNyU1NKSzVDMzUyTmRULWVXUVpXWUk0TFVnUTNjZWl0ZUROUThl?oc=5",
+   "date": "2026-11-02T01:17:28+00:00",
+   "state": "posando",
+   "place": {
+    "name": "España",
+    "abroad": true,
+    "city": "España"
+   },
+   "next": null
+  },
+  {
+   "id": "6e5614c4d2c5",
+   "title": "Sheput: Gobierno de Keiko Fujimori logró reconstitución de la figura presidencial",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHJPNG5tRVNHUmxScW1iekJOUE4zblNJdVYyQWpCUDJHVS13Y08zWlFQZzRnbkFVR1BOcUV2RWw0dWZ3endtSXo4UlNvdnhuZktDaG9aUG1YZ3J6dnNVY0YzaUhsc3FuY21UZVo2eEZacGkyRzAxNVBXSUNscGFINjJ2Ykx4NThqR19zNHhtN2FORlA4aU9RUElvREpfZUg3Q3BVLS1KVk9GaUprQ0pLZU44TE81VzhhTHBvWDFB?oc=5",
+   "date": "2026-11-02T01:17:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3f70f31c1e79",
+   "title": "Keiko Fujimori afirma que no viajará a España para encuentro con jefes de Estado tras incremento de lluvias en el norte del país",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkdVdURVY0xBTU1WMkxRS2R3d3RBNWppcmE4WTR4S2NvQTJNY0k0VXlXT01Ja3pVcDV0WXNDUDhrVUZuUmNLNVVRRENQQWNjN2VkbE9TZm9BdzNmNDRrcTBkQVdMcWloNmRxVUZsdXRzT0htQTBRaVlENHBoN2V2RmN2Rjl4RVdqRGczUnUxY29YbDJMM2dSRExfTXc1ZUU2OFd1bk1VZUpkTUpRU0VlajV2UVZybHlkaTUwZ0RmOTdlSzNTQ0xHSlg2TTd0QndPU2o1ZWFIbGVqTzFXdWxFT3plWXR4alZIRkZSR21n?oc=5",
+   "date": "2026-11-02T01:09:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "España",
+    "abroad": true
+   }
+  },
+  {
    "id": "3b7df9f66098",
    "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
    "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
@@ -483,21 +523,6 @@
    "date": "2026-11-01T23:39:49+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "284bc0d8bbfa",
-   "title": "Presidenta Fujimori no asistirá a Cumbre en España para atender emergencia por lluvias",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbUpNMVU2NHFuMV9vdk5oSDlaOUNMbmFuZ0ZaVFBYV1lUSHI2UlNkbzZEUmFKRkNqRlpoZDROaGtYZnNJRlBqZHFBOGxlTHVZT0dhblNLRXlkczIyS2Y4R29ZU0FGZjl1NUNjaHNYdTZxbmxyQ3l3dC1NYmF5dWR0VEU0X3AxZS1jNVZtbjVPME9BSEwyRmIzelQwdXd1cnNyU1NKSzVDMzUyTmRULWVXUVpXWUk0TFVnUTNjZWl0ZUROUThl?oc=5",
-   "date": "2026-11-01T23:34:59+00:00",
-   "state": "posando",
-   "place": {
-    "name": "España",
-    "abroad": true,
-    "city": "España"
-   },
    "next": null
   },
   {
@@ -545,17 +570,6 @@
    "next": null
   },
   {
-   "id": "6e5614c4d2c5",
-   "title": "Sheput: Gobierno de Keiko Fujimori logró reconstitución de la figura presidencial",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHJPNG5tRVNHUmxScW1iekJOUE4zblNJdVYyQWpCUDJHVS13Y08zWlFQZzRnbkFVR1BOcUV2RWw0dWZ3endtSXo4UlNvdnhuZktDaG9aUG1YZ3J6dnNVY0YzaUhsc3FuY21UZVo2eEZacGkyRzAxNVBXSUNscGFINjJ2Ykx4NThqR19zNHhtN2FORlA4aU9RUElvREpfZUg3Q3BVLS1KVk9GaUprQ0pLZU44TE81VzhhTHBvWDFB?oc=5",
-   "date": "2026-11-01T21:32:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "095f03bafca8",
    "title": "Ejecutivo incluirá al menos a cinco organizaciones criminales en registro de “grupos hostiles”",
    "excerpt": "Dentro del paquete de normas en seguridad ciudadana que el gobierno de Keiko Fujimori tiene previsto emitir en las próximas semanas, en amparo a la delegación de facultades que recibió…",
@@ -583,7 +597,7 @@
    "excerpt": "",
    "source": "EFE - Agencia de noticias",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PeHJGY3BrUmRsZFA1TTB4WGJ1aGVUMlJmb0ZXSTIzaWtvNWZFMVdtVzNrWjVQY0Z6TXRPWDh2Qm9XMmJxeWFVQ01JaEotbjVSdHpoMU9TVjRnTE0yNVQ1czBScDdRcVBYbzFoeWNB?oc=5",
-   "date": "2026-11-01T19:18:45+00:00",
+   "date": "2026-11-01T19:19:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1180,17 +1194,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNM21VdENXeGxiOTdZTWpKUnhRVzRfUmtPYjFYeWRZYnJhbHB6UXNLTU1tUlpmN0x0c0NWdUdObnBXa1p0c0Jsbng3Wlk3OEZ5TXpoYmh5T21EaEVQMTUyM0NYd0duLVJDRlp4M3dsaThDWlNKRVJ2Z0VINXlkbGhNS252Y0NhbXNNemVzczMxcDNXMmwzTnhMVXNGMV9kMlNPQnlqSUdUZXQyTEhYYlhianpBMkpDWDJodUxncnpWV1pGZm9VRUdBTmJncm9CeXVzSmdrZVZUd0I1eHowTnRsNllnRDJpR3Z4WXlQYVpaWF9sdHQwQjFwNDBfVWYweEdo?oc=5",
    "date": "2026-10-31T01:36:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7589f1178365",
-   "title": "Presidenta Keiko Fujimori visitó el Hospital Nacional Especializado Rosales para conocer modernización hospitalaria en El Salvador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSllQd0c1cEhqTGRqek9lMlRCcUdRdFVxTC00QnZVRWZYYmU4VVRFUG1pRlAzakVNMkt6d0hCUmMwNFNCV2paLWMyakhlX2JXNW5pT2VNdjhwbFUtUkd2N2EwY3owRnlDcEZhTm05TTIzUXlLYUZXazFZOGx6a0FDd0NKN052a3dKSkRoWDF0MjNmdzkzRnpmcWV3NjJ4SjVVam9nTWlpREF5YWEzMDRubUhfMWNZMDloRTBHc01mQXB6LXN2WFE2QThhQTZOdW5qcGliWG41Q3BHOEMxUUVva2FMcE8xekwwc19xY1dRTGNjSUtFX3A2TmxvQXZqZw?oc=5",
-   "date": "2026-10-31T01:06:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
