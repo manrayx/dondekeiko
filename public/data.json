@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T18:59:18.241690+00:00",
+ "generated_at": "2026-11-02T19:21:33.331149+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Tumbes",
-   "lat": -3.566,
-   "lng": -80.451,
+   "name": "Trujillo",
+   "lat": -8.112,
+   "lng": -79.029,
    "abroad": false,
-   "city": "Tumbes"
+   "city": "Trujillo"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-02T18:09:34+00:00"
+  "source": "Perú21",
+  "date": "2026-11-02T18:52:57+00:00"
  },
  "next": {
   "place": {
@@ -494,6 +494,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4359651dc30d",
+   "title": "Keiko Fujimori reitera que su Gobierno no se detendrá en acciones para recuperar el orden: “No vamos a parar”",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzBxVlVRYkdHeXJ4WjZDb3F3ZDBGcVpPMjRnUldPbmhpQldsMXhYLTBwQ0dTLVBKcndIVVl1SE1feHppWURsaktZRjhCNV9rOS1jRW16YmNGMFdldU5RSGVqTGROVDc0Zi1uS0FqNnlGZ1k5cEZMdk05T010UnF4VDJtSjZQaDd6Y2RWblBRbERxX1JPQ2EzS29wVXpzN2tEUmd0VjRCOGRfN19oRXR5dmV6WlJxUmlCeEF3TVNnZGJLaTJvcHpzeXZERVUxZFRSeHFoMXFMVlI4ZTllTURzYW54ZXVXbDdtbW5SLV83NUlQb2c5NGFhQg?oc=5",
+   "date": "2026-11-02T19:01:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7e3f5aa8260b",
    "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
    "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
@@ -513,6 +524,23 @@
    "date": "2026-11-02T18:53:44+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "8188daeeb643",
+   "title": "Keiko Fujimori llega a Trujillo tras captura de ‘Goku' por el Comando Unificado de Pataz",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWNNYTNVVWltZUhsQVZjeEh0YmNJdmVVc19odm1COGVLS2R1V3k1QzZtVmVpMWx3QzRDbXZUVHNyXzVldzZzU1c0b2NtUncyZy1mZzAyMXBTNWJsbjZ3RnJaa2JkUC1XYXRINk9zdEQyWmxiYWFhRi1HN3ZXb1pvRTN5eDV4WlNFa3pGU3R2NXpIT2VSdmc?oc=5",
+   "date": "2026-11-02T18:52:57+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Trujillo",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false,
+    "city": "Trujillo"
+   },
    "next": null
   },
   {
@@ -1194,34 +1222,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUW5UNENyNFdYT3R4ZURyS1NCMGZkd2YwS1pxU2dtRUo4TUJvNlY4aEpGQUhzOC12S3d4WmxzUklOOWVXRVd0SmdwM3hIUlNzMFdNTUZKbGM5c1J4M3ZITVgyM2JxYnUzUGh5Y1F0b0dJVEx6Zko0T3lSdUxwMDVERks0dFBOYWkyWXlnUVpHWXQyRV92YnZmMkNjNWJPNUFHTGZDOHgzNFlyeFlMa0ZwVmx6VERHcHB5c1hkbG5kNnZOOHFKdUd2NHNB?oc=5",
    "date": "2026-11-01T02:18:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "66bc10ba808e",
-   "title": "Keiko Fujimori retoma agenda en Palacio de Gobierno tras visita oficial a El Salvador",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOU52LWFjbHRTUWZOZVJlTEljZDNXT0JTaUxhYWFJNmtLNzhUMU01dnc0b1NWWW5tVW5CdElNb1FBbDU2QmM4Y3pIQ0Y2YlJLTm52THdfMEhNVWdnU0xBYl9VM2I5QWNEeE85SVR5Smp6RmZrM3dhWHF2Y1YydUhQTjNXcWNIODk0M0xxdmJUUVg3TGlnQ0IySVhiTmJyOWdFSlZ2SHpibnV2TkFKdVNLRA?oc=5",
-   "date": "2026-11-01T01:51:29+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "883334ff6e1a",
-   "title": "Keiko Fujimori sostiene encuentros con representantes diplomáticos del Perú tras visita oficial a El Salvador",
-   "excerpt": "Durante las reuniones se abordaron diversos asuntos relacionados con la política exterior peruana, así como las prioridades de trabajo en las respectivas representaciones diplomáticas y el fortalecimiento de los vínculos…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-retoma-agenda-de-trabajo-y-sostiene-encuentros-con-representantes-diplomaticos-del-peru-tras-visita-oficial-a-el-salvador-ultimas-noticia/",
-   "date": "2026-11-01T01:42:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
