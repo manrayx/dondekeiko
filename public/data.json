@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T14:15:10.570068+00:00",
+ "generated_at": "2026-11-02T14:36:43.861979+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -459,6 +459,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1f2ec4020471",
+   "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
+   "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
+   "date": "2026-11-02T14:27:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7e3f5aa8260b",
+   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
+   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
+   "date": "2026-11-02T14:26:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "af5e2d442e08",
    "title": "ES ACERTADA LA VISITA DE LA PRESIDENTA KEIKO FUJIMORI A EL SALVADOR PARA CONOCER DE PRIMERA MANO CÓMO NAYIB BUKELE DERROTÓ AL CRIMEN ORGANIZADO EN SU PAÍS",
    "excerpt": "",
@@ -503,23 +525,12 @@
    "next": null
   },
   {
-   "id": "1f2ec4020471",
-   "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
-   "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
-   "date": "2026-11-02T12:13:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7e3f5aa8260b",
-   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
-   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
-   "date": "2026-11-02T12:12:36+00:00",
+   "id": "2d0f33296401",
+   "title": "Richard Arce: Quién salva a Keiko en El Salvador",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdzJUV1ZoT1BoQ2Qxc21nSXJuV21Za1FXN1N0Ni01dHoxdVVyRWI3MHhYSGoycU9nUkRJamx1OTBQUkYtV202R0ViRHo2bVBfOS1vWU1ORjM3LWRqeW1iaEpsNGVNcS0teGV6Z0RmVEN4M1hNS2FNRTNZbVVxSk9qdmJn?oc=5",
+   "date": "2026-11-02T04:22:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -861,7 +872,7 @@
    "title": "Presidenta Fujimori y ministro de Salud evalúan medidas frente al dengue y la leptospirosis",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQl9WSWNHdl9zSzFaY3RSNFZUeTRXc3E2ZTNHajF0ZlItWjMzSGJ5V09oM0JCVmhmc28wTlZUOVBZeGZSblpkdk02d1ZPbUNOU21aMjlVakRZRXlqRFhrY1gwcHUzODJQd3dGOHU3a0VFNXRYQmRzLTE2OFNVM0Ezemt4cTFTLUhBc1dDR004aXJ0WXpfQ20yLWtyMGhMbXFBLUJhWDk4UHRjYWZaalJ4ZkxxUXBuVFYyUVFnQU13ZnNWMTMzRC16Q3ZxQVNBZEdD?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcER0eUVwWjV3ZnRlNTkxY1JqMG1oM0ZyZG90Z2VWckZUTHJtV3AxaURSdVBOdEJvOWRvZVl6UVdqeUY4LTBvblJySHEwQUtMM1kxVGZCSm9Pc0ZsUVpwQ2RLYUMxbl9XTkhfM0lvNUxLNm5ZUm5hTVlSWXo2WHRJSVJ6ampwNzJ2TW8xRGNHeTNuclJIYlN3eFd0QW8tZ0o3Mk16cGI4M01JcWtheTdveFoyWW13dDNITnB1X3hXMHRHUGtaQ28zYjN4Zw?oc=5",
    "date": "2026-11-01T14:59:01+00:00",
    "state": "posando",
    "place": null,
@@ -1161,17 +1172,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-10-31T10:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4be2b3911a95",
-   "title": "Christian Hudtwalcker sobre de videos de Keiko Fujimori en El Salvador: \"Esto no va a subir tu aprobación. Tampoco le ganará a la criminalidad\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFQtbkZBMkM5TWZHc2s5dGEtRmNwM2hmQlJFZ0RFc0lsenB0S3I2ZGNwaWNwVk95UjVGY21hTG5DdElSWjlaTWF6X3ZqdGZrS3NTLU4xRHZtbXp5MjlvY2xQTURsNDFpR3Fxa3RkUWRPUmh0ZWd0bW9qeUR1MGx6dHd2SlN5WlFYS3NoekxiZmlsUllJ?oc=5",
-   "date": "2026-10-31T07:36:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
