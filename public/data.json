@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T01:50:38.739305+00:00",
+ "generated_at": "2026-11-02T02:12:40.467181+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -475,6 +475,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "46e2f536830e",
+   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
+   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
+   "date": "2026-11-02T01:49:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "284bc0d8bbfa",
    "title": "Presidenta Fujimori no asistirá a Cumbre en España para atender emergencia por lluvias",
    "excerpt": "",
@@ -576,17 +587,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-ejecutivo-incluira-al-menos-a-cinco-organizaciones-criminales-en-registro-de-grupos-hostiles-inseguridad-ciudadana-en-peru-facultades-noticia/",
    "date": "2026-11-01T21:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "46e2f536830e",
-   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
-   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
-   "date": "2026-11-01T20:50:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
