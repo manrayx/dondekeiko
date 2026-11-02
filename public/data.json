@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T16:27:13.348476+00:00",
+ "generated_at": "2026-11-02T16:48:34.922385+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -476,6 +476,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7e3f5aa8260b",
+   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
+   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
+   "date": "2026-11-02T16:26:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a6d77724d265",
    "title": "Zunini cuestiona al Gobierno de Fujimori por inacción ante el FEN e inseguridad: \"Presionó indebidamente al Congreso\"",
    "excerpt": "Mientras el parlamentario de Juntos por el Perú, Ernesto Zunini, exigió acciones inmediatas en materia de seguridad y obras de prevención, el ministro de Desarrollo Agrario, Marco Vinelli, sostuvo que…",
@@ -531,17 +542,6 @@
    "next": null
   },
   {
-   "id": "7e3f5aa8260b",
-   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
-   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
-   "date": "2026-11-02T14:26:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "af5e2d442e08",
    "title": "ES ACERTADA LA VISITA DE LA PRESIDENTA KEIKO FUJIMORI A EL SALVADOR PARA CONOCER DE PRIMERA MANO CÓMO NAYIB BUKELE DERROTÓ AL CRIMEN ORGANIZADO EN SU PAÍS",
    "excerpt": "",
@@ -566,6 +566,17 @@
   {
    "id": "cc9fa049a3e8",
    "title": "Presidenta Fujimori acudirá al COEN para evaluar emergencia por lluvias en el norte del país",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzVseU5sTlA0ZkZxc3hvdzZ1WHd0V2dNZENDVUV4MklNNEtFcy10RUlVV09LdksyUWFWVnVIZTBxcnZ0bGhyMEFEbmNCcGpTdndGU01OdHJldzN5V1g2OUZVTWNHRWhDaHplQW01Z0haVkVERWNZY3p6NndJaWZxS1lRSU9DR2RXQVNuV2toVWlLdC00MUQ4RldlQlFfT2x3RV9neVZjQWppa0VzRng0Y1ZUdDRBVHRhbWJGQg?oc=5",
+   "date": "2026-11-02T12:53:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "35c2743d07a8",
+   "title": "Presidenta Fujimori evalúa emergencias por lluvias en el norte: \"Estamos alerta en todo momento\"",
    "excerpt": "",
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzVseU5sTlA0ZkZxc3hvdzZ1WHd0V2dNZENDVUV4MklNNEtFcy10RUlVV09LdksyUWFWVnVIZTBxcnZ0bGhyMEFEbmNCcGpTdndGU01OdHJldzN5V1g2OUZVTWNHRWhDaHplQW01Z0haVkVERWNZY3p6NndJaWZxS1lRSU9DR2RXQVNuV2toVWlLdC00MUQ4RldlQlFfT2x3RV9neVZjQWppa0VzRng0Y1ZUdDRBVHRhbWJGQg?oc=5",
@@ -1178,17 +1189,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUx5c29FSXRfamVzLW9qTjE2NE5DbEYwbnZYa21icV9wSjI4T3NFd3ExcWJwaGhWUm5wLTVDcnVRcGpkWXNXM0lCYVVIMGNRb2RRQ3EwMDI2QzNMY29iR2FsVmpBTkNmUEJsakVQbDk4RUpPSkJveDBMTVl2ZndYb0hoWjAzWjRia0VBWnlGb3ZXYnpVZURvTFczSkVOWmNPSEd5RFlDcE5VeDlMU2RGMkl1TllNU0k0OVA4VnpnNDZKYmg5ckZF?oc=5",
    "date": "2026-10-31T16:23:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "49ada8fc864a",
-   "title": "Keiko Fujimori afirma que megacárceles en Perú podrían construirse en siete meses, como el CECOT de El Salvador",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEt0bkFFYlNLZ2JhdjZSdGFrV2VvMDc2MHhqZ1JtT0RDWHNwU29XYlY4azlRMWhCUWZ0c1FzeUhrNUN0TmhBeDVZT2hGdGtEdlM0ZXNWVUIwZ2VSYWRJTTdkVUlIRlZSbng0dkE0X2lTQWQzbllUdjNINWxzWE82amRTaE9ScU1uLXFTQkZjcHpaZDNETXBOd1I1ai15SUxqV21iSzg5WlE3eGtRNk1PYUt1Nkg4amZnbmJ1QjUtZWpLMUlWalpXVVhNZkg?oc=5",
-   "date": "2026-10-31T13:26:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
