@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T20:00:37.492099+00:00",
+ "generated_at": "2026-11-03T20:23:00.771398+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -636,6 +636,17 @@
    "next": null
   },
   {
+   "id": "13bf761ea2fe",
+   "title": "De bastión a rechazo: trujillanos enfrentan a Keiko Fujimori por crisis de inseguridad y violencia en las cárceles (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaHFUWUxlZ0V4ajBWeUNDOE9ka010Skk4cFY0c0lZR0gwU0pLVFJlLURtb2R5bXJtRFFfajA4YlpJZFJLYTB2bGxjcHAyY1ZIR28ySTlMUWRFTnFwbkVtZzNiS0tnRENlWWhjMDh6Wmp1c2VfQ2NVT2twdzVTVmhNbFRDLUhqTS1BaklieGVscm81N194ZWxyRGxzQWtfOFlKVl9rQ0FGTm9wTnBIRGE0d28tdTFyRXpnZllsZnFjSkJxbEVsaHFxZUxSZzF4OE9UalFla1pNVG1QNnBJR3dF?oc=5",
+   "date": "2026-11-03T16:32:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "764db1e48be7",
    "title": "Keiko Fujimori anuncia que la Torre Trecca será inaugurada en 18 meses tras más de 50 años de abandono",
    "excerpt": "La construcción comenzó en 1969 y atravesó distintas paralizaciones. Finalmente, el nuevo establecimiento recibirá pacientes derivados de las redes asistenciales Rebagliati, Almenara y Sabogal",
@@ -1250,23 +1261,6 @@
    "date": "2026-11-02T15:46:05+00:00",
    "state": "triste",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "e0a523806713",
-   "title": "Presidenta Fujimori alerta por nuevas lluvias en Tumbes y Piura para el 7 y 8 de noviembre",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5TZWZHR0FwZXhMdklZSzJ1djZUd2tkQllSTTJSVHFfLXVFM1U2SFVadzdERDhjSWNnOU5UeGl5WEpWaVhqdDkyNmhhT2xnUlVyUXNjbl8tVmtENmFkY25pOHRNMGtNc1hHSU1Cc0ozdG5VS1NRM2ZLcXRNOUVRUGNYTVN6bHBhUTlubTJEU1NGc3pLcVRoRUN2Z2RiS1R3eXF2bnZyTFE0UnFlaHhRdnUxTnVRNWJ1Q1N4UTI2RFJ3dw?oc=5",
-   "date": "2026-11-02T15:39:33+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
    "next": null
   }
  ],
