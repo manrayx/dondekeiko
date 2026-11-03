@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T03:27:55.744970+00:00",
+ "generated_at": "2026-11-03T05:17:49.583195+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -504,25 +504,9 @@
     "lng": -76.96195,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-26T08:20:00-05:00",
-   "end": "2026-10-26T09:45:00-05:00",
-   "minutes": 85,
-   "subject": "Da inicio y luego balance de la intervención simultánea de estaciones ilegales y antenas clandestinas de telecomunicaciones en alrededores de establecimientos penitenciarios de Lima, Callao y Andahuaylas que realiza el Gobierno como parte de las acciones del Comando Unificado.",
-   "lugar": "Desde Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Desde Palacio de Gobierno",
-    "full": "Desde Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 1234,
+ "agenda_minutes_7d": 1149,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -586,7 +570,7 @@
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUlqckRVaTNSYUxFTW1Ndi13QXdfNVl4T3l4dXlmWjJTLWtsVnVYMlFaZF9FbERQMlJNTWJRY0xSdVFObWNYajhNeHlxSnAxWHJrNTBDTUhtZWx6NjJnVWZZeVRjUi1uNGJZSVJ0aEhRNDlVd3pydmRETXlQNXIxWThjSUpNV2lFb2lKQ3BkelIzOXFtSXB4cUlEejdIb0s4aU80VXc3cHVqQ3UyWEMtWVJWZzZSSW9za2I2SkpRR2J3UlN3ZndnYlFqbzJxNUI2RGxR?oc=5",
-   "date": "2026-11-02T23:00:43+00:00",
+   "date": "2026-11-02T23:01:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
