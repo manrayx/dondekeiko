@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T00:52:52.254321+00:00",
+ "generated_at": "2026-11-03T01:15:12.765876+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Trujillo",
-   "lat": -8.112,
-   "lng": -79.029,
+   "name": "Madre de Dios",
+   "lat": -12.594,
+   "lng": -69.189,
    "abroad": false,
-   "city": "Trujillo"
+   "city": "Madre de Dios"
   },
-  "source": "La República",
-  "date": "2026-11-02T21:58:39+00:00"
+  "source": "Panamericana TV",
+  "date": "2026-11-02T22:40:09+00:00"
  },
  "next": {
   "place": {
@@ -494,6 +494,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d485050ec5be",
+   "title": "Keiko Fujimori elogia el modelo Bukele y afirma que Perú “debilitó y persiguió” a las FF. AA. y la PNP",
+   "excerpt": "Durante su visita a El Salvador, la lideresa de Fuerza Popular defendió la política de seguridad de Nayib Bukele y responsabilizó a gobiernos posteriores por el debilitamiento de las instituciones…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/10/29/keiko-fujimori-elogia-el-modelo-bukele-y-afirma-que-peru-debilito-y-persiguio-a-las-ff-aa-y-la-pnp-hnews-2750157",
+   "date": "2026-11-03T00:57:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7e3f5aa8260b",
    "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
    "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
@@ -535,6 +546,23 @@
    "date": "2026-11-02T23:00:43+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "33e475f0321a",
+   "title": "Keiko Fujimori llega a Madre de Dios para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
+   "date": "2026-11-02T22:40:09+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Madre de Dios",
+    "lat": -12.594,
+    "lng": -69.189,
+    "abroad": false,
+    "city": "Madre de Dios"
+   },
    "next": null
   },
   {
@@ -624,7 +652,7 @@
    "id": "0501d98b86eb",
    "title": "Keiko Fujimori presentará balance de sus primeros 100 días de gestión este jueves, anuncia Luis Galarreta",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR1pXMW5PQmpLMVo5RlYzT284WGhNeHRkbjFDM0lXb3pWSGh4QldwaHNRZFZielNLRkpUaTRqMDh1OHJpb19YWnQ2VGU1TnF2aXdmam4zZkdFV0dMMUFPUmN6YVhONlpJdVZKMjZVTjNjSThaZlhCVXpZT0lCTTNBYW1zUEJqNkx6WFRMMEpsdDJ3NzlfbW8xU3NvajdqVzdDdllpY1RycXNJVzQ0aV85eWU4ckc4eWtsSmZtbDVQbU9keExOS2F0cTVUck9LZFdKVkRKbUJpTmpIMWtrNWRNdFFxaU54Y3RwTE5EbEJmYnJpVXRVb2NsdXljVXI0NnYta0o3OVVpOWhDY1NyOUdVMVdieEk?oc=5",
    "date": "2026-11-02T20:31:03+00:00",
    "state": "posando",
@@ -747,6 +775,17 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzVseU5sTlA0ZkZxc3hvdzZ1WHd0V2dNZENDVUV4MklNNEtFcy10RUlVV09LdksyUWFWVnVIZTBxcnZ0bGhyMEFEbmNCcGpTdndGU01OdHJldzN5V1g2OUZVTWNHRWhDaHplQW01Z0haVkVERWNZY3p6NndJaWZxS1lRSU9DR2RXQVNuV2toVWlLdC00MUQ4RldlQlFfT2x3RV9neVZjQWppa0VzRng0Y1ZUdDRBVHRhbWJGQg?oc=5",
    "date": "2026-11-02T18:17:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fa2132ecfc13",
+   "title": "Presidenta Keiko Fujimori arriba a Trujillo para cumplir agenda de trabajo",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUzZrZEZKNUdYS1RkVnFNMkRXTVpya0szcXRkbDM0Y1N4SlhGMkFycVNCYjgzTmpYeEFCQURsM2FneFN2OEx1VTg3a0dXaXN6bWhXUFNaVTFMWk9UY2s2ZndpdzdhRGk5WWpmS3VmbzdFMXFZaDJITVBiLWVrdFg5MlpDTDNVRXNxZGZlekRodnItYTd2Skx1dmRFbHlIaG5ac0FxYXRmRU4yS3RHM0QtN0FfcWZoV1hKOEE?oc=5",
+   "date": "2026-11-02T18:13:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1197,49 +1236,6 @@
     "name": "España",
     "abroad": true
    }
-  },
-  {
-   "id": "0fad3945514f",
-   "title": "Presidenta Keiko Fujimori cancela su viaje a Cumbre en España para atender anuncio de fuertes lluvias en Tumbes",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWUxoUE4tRUE2RGF6WmhXNUxraE9EOVpwd09xWHlsc0hTdHlCcV9QSmQyWklKdTFsdm1OcEhzd2pVMUd6WHFxZW92TnJwSkxWeEtWU1d6YjFaeXdudUdxamdCd3Q2QUt4eEZuZDVNSzNMalh0U3Zjd3o5ZThqU3lCVjVXOW1jQkxCUjhvTGtuZ1lieEQ5NnJ5VHZucE9DWk9pVmhyekdSREJJaE9fSFF3S0luQ1ZXWWlDSzdIUFlsb2JKTE0wMXFYeVBZcDh5M3o2ZEQxRXpxdEVFemM?oc=5",
-   "date": "2026-11-01T17:46:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
-   "next": null
-  },
-  {
-   "id": "39529639abf7",
-   "title": "Keiko Fujimori anuncia que no asistirá a cumbre de jefes de Estado en España por lluvias en el norte",
-   "excerpt": "La presidenta Keiko Fujimori anunció que no asistirá a la cumbre de jefes de Estado que se realizará en España, debido al incremento de las lluvias reportado en la zona…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cancela-su-viaje-a-espana-y-no-asistira-a-cumbre-de-jefes-de-estado-por-lluvias-en-el-norte-ultimas-noticia/",
-   "date": "2026-11-01T17:34:19+00:00",
-   "state": "posando",
-   "place": {
-    "name": "España",
-    "abroad": true,
-    "city": "España"
-   },
-   "next": null
-  },
-  {
-   "id": "4d0cb6e6f7ef",
-   "title": "Canciller califica de “muy positivo” el viaje de la presidenta Fujimori a El Salvador",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0wtYjlFeG5CMDk1b2NJRWFMampkZWtFWHNfRTFWdVE0YkFYVEJOUG9ZQVp2eXhtcUMtMk95TnljcXZ6SnZQak41VEI3R1F4a25QWWt0YXpvQ1dJQnZVeGdQbzVKZ3hjZndqOEFGUnhuUjNIZVFOZTRGWDlEUTVjTEpUckJOQVgzdFdMS0hVWURuNlV3WU5OZmktQWlxdHJGNTZMUjk1S0lLSk9KMDdUajd2U1RyeFNTbGpuWg?oc=5",
-   "date": "2026-11-01T17:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
