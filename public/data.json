@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T15:10:14.938106+00:00",
+ "generated_at": "2026-11-03T15:32:24.103135+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWdOdjZpWTI0dDU3MmhWd0VkSDMzeFpnYTYtMlhCUnpGaWNld0FhV1M2eWt0b0xEVHRPQ2w0aGlwcGY3V3ljR0xROHVtRjdLZ0RtUTQxaTlmYnJUY2VVNzg2UmhFUW1UMngyQzA3VF9JcWk3SmNWQXFKeGc3YV82REh1cVloTFNWcnFEX0dPOUlXNGxNV2JqR0JhS0lheXN3Wm1IMTgxZHExdkk0VlZHUTdXYmY1aFJlVnR5dEtzbGY?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 58
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -537,8 +537,30 @@
    "next": null
   },
   {
+   "id": "3d1978b52951",
+   "title": "Keiko Fujimori inicia obras de Torre Trecca de EsSalud: inversión supera S/ 486 millones",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUphVG1Ublo5Rm5MWVdQQm1DMEZYLUd4U2o5R25aTXoyTkZidmp5Wm1WUHhzQk9VdGswYjdqbVV6UkZydF92MG42ajc0SzVGcV9QY1ljMDR2cDhiUXZoX2g5Tk1WUDA3aFVOY0lJcnhiR3k3SkY1RzQwZFdWem5pRnZSMk1BOVRqcDBxQzdETmNxWEJsakE3TXNfdVh3dDdndm02TTVVbVgxdC1XY0RzbUhJR3g5bWRYTFdaTGhsRTlBcG9FUlFv0gHbAUFVX3lxTE9qQmJ0NnB6NlZDcUExWEJjVlNfSkVpTVA5TEhRZzIxbDhHeDVrQjhRbzFrNjFIQ2NhU0NGZWlEc3ZTWmk4a01YcHQ3N0phRWNmMmNCY3FUaG5nMkNfbmlKS2ZuSUxCdmhDaUVubmdaMmJkVXFaUjBKanYtTWZNdWRoMlY4eTh1SWRzT0VNZTc3MTQ1SGc1dHpHRTdpUHA0dlUtd0s1cUdRZTl6VXYyWFlTRTlPWlVZMkExVm9Eb2dnOVJfVUxpLWo2aXZ5VkpQX2dIUFJHNEVlV081bw?oc=5",
+   "date": "2026-11-03T15:04:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f0cb9bdd8ea5",
    "title": "Keiko Fujimori destaca “mensaje de unidad y esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
+   "excerpt": "La presidenta Keiko Fujimori resaltó la coordinación entre el Gobierno y el sector privado para destrabar la Torre Trecca de EsSalud, una obra que permaneció paralizada durante 16 años y…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
+   "date": "2026-11-03T14:37:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "95e8fe8c5900",
+   "title": "Keiko Fujimori destaca “mensaje de unidad” y “esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
    "excerpt": "La presidenta Keiko Fujimori resaltó la coordinación entre el Gobierno y el sector privado para destrabar la Torre Trecca de EsSalud, una obra que permaneció paralizada durante 16 años y…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
@@ -625,12 +647,34 @@
    "next": null
   },
   {
+   "id": "72cc954d2f21",
+   "title": "Keiko Fujimori dice que aplicará el programa 'Cero Ocio' en el sistema penitenciario peruano tras su visita a El Salvador",
+   "excerpt": "",
+   "source": "Diario Altavoz",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVjAxNGF1a2h2YTQzQ1l3OTRCNENSTi1zRDd3Vjhnd3gtNW5GUWM5QzM5OGdqZER2QTlMdWdqZ0REUWs1S3VmbmRmV3JYUWtqVDZ2Nl9nM3lWVWlWUmR0cGJCU1hrRnJrN1AwMVRsRHlXZVZQNnJ3WVA1R3BPNmRDeldaTGhXZzZwcHdaMlJPSzFnQnlZYTh0TEY0RWNrNkFNWUhPbEx2Z09wOElmR3V2T0ZycF9oOTVqUkU0LWFYdmcwUVVkZEZqUzVZaWtkdGFadFhQUjhLcTc2X0M0YWtZWnJn?oc=5",
+   "date": "2026-11-03T01:43:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "24797d7c2747",
    "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
    "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-ordena-reclasificar-a-todos-los-presos-del-peru-y-ampliar-el-trabajo-en-carceles-habra-varios-cambios/",
    "date": "2026-11-03T01:20:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "567dd34b2faa",
+   "title": "Keiko anuncia reordenamiento de todos los reclusos a nivel nacional: “Los más peligrosos irán a Challapalca”",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWmIzZVhFMVdNSmFRUTIyS1RIMDZsdXJ0TVBUU2UwUTE2VVFnby1VTUg4RDR6N3FpSThKdGZFakZtLVMyR2x3Ry1qWmlhY2RyT21jMVN4aVFVYXJxWG1ZclVDMExwQ1F2SXRjNTZkZXg4OHg0SFFvdFh3ZWIyYWNrOHdELWtiVWl2ZFk3cUF1MkUzRmxndDd1NG9DVlg2UXJ2Y2FfVkhDSk13UllldjJ5aUxJYU1QU0tVWS1Jem1vTVl5OXZnU19EM1N6ZFdONUh4ZlRwcjRzRTBib080ckRZMTNULUFjczluNzF6WklPczAtRmFjZDFPd1Jwc9IBjwJBVV95cUxPME5MU0FrX1RRQ2tSTldJanhma3FHcFF1ZkdSTGl3U0tQMXZkd3Y2MkkwMnNNTEs4VWNxZTAtRGdhRFY5dXRQSkowbkg3S3dtaUVuOU9TTVloNVBIdFlZSThYMUtBeHlRemo5QWlNZi1la3JHV3VlVjV6cUw0UkFZRTl0MnNkZllOUDdJV3g1TUwzYnc5YURTOVFWRV9uTjFDbzZOcUI5QnV3STJHbl9PdWNrZnREc1VXbFA2bnBqakg4WUpOMnlxWWhzbWp5a3JyUzFEX1hSbFVxcXpTQndiSkMyWUdtLXcxTHdhUDdSNEtmOEFaSVROZ2J3U2hxNlB3dFVVWHhOdFRucU5rM21r?oc=5",
+   "date": "2026-11-03T01:19:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -875,17 +919,6 @@
    "next": null
   },
   {
-   "id": "09820e8d1bb9",
-   "title": "Es falso que este video muestre a Keiko Fujimori siendo insultada durante una reciente visita a Villa El Salvador",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTZ3YmZKV052NFhIZVNwTFFZblV0b2ZyQzRCcjhPOTVTaWM2b3p4ZGtHT3dySFc4NWtjdGlvRTF5NmxiRWZ3TzNkRElGREtNb1J6d1BydnZRcEZZVWpDcFU4SWM2S090M0tNZEZuQ2s4bmVMTjF4cEpVZnJXU1pzUXdXX2trU1BWYWc?oc=5",
-   "date": "2026-11-02T18:58:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "46e2f536830e",
    "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
    "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
@@ -911,6 +944,17 @@
     "abroad": false,
     "city": "Trujillo"
    },
+   "next": null
+  },
+  {
+   "id": "09820e8d1bb9",
+   "title": "Es falso que este video muestre a Keiko Fujimori siendo insultada durante una reciente visita a Villa El Salvador",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0x6ZnprVENVbEhqVUpSNlRNUW1CUDBYUnVoSzFLNFpJY3RBbkg5Ukd6RlI4Y3ZiTGRqS0lNS3cxNVM4ak9LcnA5QWRsRzd6Z1BJLTBtblFVNTVreUtfX3pNQ1Z4aFRuUmc2T09PeXh6Qk9UZkVpT1VmY1hCeGdnMTF2QUlxQUpLQ21yTnFLSldOcEx5T19hTi1RaFVGMllKUlM2YW12R2lNaHNlS0Z4eHFqVUdabkFOQTZUOWprTENvVWNDWHdVVW1TYmtGVXRtdjVINlFncVUtdmFxYmJTTkl4VERYX1gwY3h3MFpiMEdNbzlocFJraFB30gH_AUFVX3lxTE9PR3hULVlnMUNfcWI2U0pMVm5xYjhUSFFfRm1iUElRd3Z0TExlQk9WWTJlTHBiRzMxc1ZjSGhnNFV3UElCLTYyem9TY3lLMnhpcTJiM1VtN09LYk1aMnBaME5hT3RvSWNvRTRqZWEyOW9LLVVqakhDTnVEUS03SVRpMEZCM2N6cGRfcldzZUhVT2FQc1lMaTNLeXZGU3VfZ2YxaWxPLXBEeFpDdTRsZUM2aVE4Q1FJRUcyRHpVYXh2d2dSVUZGN2ZtRFp0V29DZ3ZjOWFLa2tQVEFpSlVGOXVaeENmVTZHbFFTV1dfOHVTbFJhc0ZpRzRSVjNGYngyYw?oc=5",
+   "date": "2026-11-02T18:47:44+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1050,6 +1094,17 @@
    "next": null
   },
   {
+   "id": "ba19b8ce8583",
+   "title": "EN VIVO Intensas lluvias se registran en el norte y Keiko y sus ministros visitan zonas afectadas",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3JFVGFudHBHU196R2xpVnpMX1QzWkhnU2d6Ym1ma3EyQjR1dmkxS3lMMkVocnp4V3E4T2h5S3R6dzFyRmlyVXdSaEx5MFQtczNxRDcyMWJlSzhkZ1R3NkpTVHpwXzNCU3dUaTFpdjJNRXZ2VkVZbFJPR2xZU3Nadmdqa0lrM2FIakt1RE4yTkI2b04wZ3VCaTdEd012VUtmQThzanJNS0t1SWVFeXlJcXpod21EYWxkYTRhRVRRMzZtVi1BQkUtZ09CWld1TlppMkE?oc=5",
+   "date": "2026-11-02T14:43:00+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "af5e2d442e08",
    "title": "ES ACERTADA LA VISITA DE LA PRESIDENTA KEIKO FUJIMORI A EL SALVADOR PARA CONOCER DE PRIMERA MANO CÓMO NAYIB BUKELE DERROTÓ AL CRIMEN ORGANIZADO EN SU PAÍS",
    "excerpt": "",
@@ -1183,67 +1238,6 @@
     "abroad": true,
     "city": "España"
    },
-   "next": null
-  },
-  {
-   "id": "3f70f31c1e79",
-   "title": "Keiko Fujimori afirma que no viajará a España para encuentro con jefes de Estado tras incremento de lluvias en el norte del país",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkdVdURVY0xBTU1WMkxRS2R3d3RBNWppcmE4WTR4S2NvQTJNY0k0VXlXT01Ja3pVcDV0WXNDUDhrVUZuUmNLNVVRRENQQWNjN2VkbE9TZm9BdzNmNDRrcTBkQVdMcWloNmRxVUZsdXRzT0htQTBRaVlENHBoN2V2RmN2Rjl4RVdqRGczUnUxY29YbDJMM2dSRExfTXc1ZUU2OFd1bk1VZUpkTUpRU0VlajV2UVZybHlkaTUwZ0RmOTdlSzNTQ0xHSlg2TTd0QndPU2o1ZWFIbGVqTzFXdWxFT3plWXR4alZIRkZSR21n?oc=5",
-   "date": "2026-11-02T01:09:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
-  },
-  {
-   "id": "9826fee9fd10",
-   "title": "Keiko Fujimori suspende viaje a España por...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjFLbTVQZWgzUTd0ZUN5RVFqTTZVTWU1Z3VJVUFtUlpaVGFTTDF6TURBTmFCaWdhcnRQQmU3M2k2anU2SFg0TEw3WDM1bmpXM2psT3Qtclh6cG5hSExYaFVTYjFObjNBcDhrcE5nVGdSM0l5ZHNmYVNCMm45d2tLaWtwbTBJQ3lYSmtNWC03SXIxQXFYaUhRamJHS3Q5a1lac0RFaXpLZS1tb29TVlVVatIBtgFBVV95cUxORmtqeFhKTFdzWUg4YV9UemtmTFpfdmU2a2tUb0ZBdHJVVzhIcEVmMDYwTzktWnVtTHphUHJ5NUpheHphVzR6LUhwNFg2UlEtZDNvanItVDFjNU1SeDJ3RmdMMnhzbWdrUmN4c19RUGpXaDFlRTBEb0lMdng1WVZuV2dDODBkRG95VXJCaVkzYTJSNkpBaFdsZ2ctLXYxbkhZWGFMUzJyWUJBLXpGN2htakVMbmNYdw?oc=5",
-   "date": "2026-11-01T23:05:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
-  },
-  {
-   "id": "909c4fb35c98",
-   "title": "Cien días de soledad",
-   "excerpt": "El fujimorismo se ha consolidado como la expresión política de nuestro establishment. Aunque en campaña varios de sus agentes desconfiaban de que Keiko Fujimori pudiese salir de la racha de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-soledad-por-carlos-melendez-fujimorismo-fuerza-popular-keiko-fujimori-noticia/",
-   "date": "2026-11-01T22:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e65fda6e1e53",
-   "title": "Municipalidad de Piura denunciará al Gobierno de Fujimori por no incluir a región en obras por FEN: \"Han desfinanciado convenios\"",
-   "excerpt": "El alcalde Francisco Cevallos afirma que la presidenta se comprometió a destrabar cinco de los seis proyectos. Pide menos de S/ 20 millones para cerrarlos.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/01/municipalidad-de-piura-denunciara-al-gobierno-de-fujimori-por-no-incluir-a-region-en-obras-por-fen-han-desfinanciado-convenios-89356",
-   "date": "2026-11-01T22:00:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c5811d4f0794",
-   "title": "Aquí, no en El Salvador",
-   "excerpt": "La presidente Keiko Fujimori visitó la cárcel de máxima seguridad de El Salvador. “Construiremos algo parecido al Cecot [Centro de Confinamiento del Terrorismo] para internos de alta peligrosidad”.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/opinion/columnistas/aqui-no-en-el-salvador-por-federico-salazar-noticia/",
-   "date": "2026-11-01T21:45:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
