@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:32:00.208484+00:00",
+ "generated_at": "2026-11-03T18:54:46.843918+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -873,17 +873,6 @@
    "next": null
   },
   {
-   "id": "de270b3b851e",
-   "title": "Presidenta Keiko Fujimori ordena traslado de 10 internos del penal El Milagro a Challapalca",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3Azbkg0OU9ZdC0yS2VHbVVyMlNLQUlXdy1XQjhrV3hTaVFHb0xIeFpMd0ppSlAtaDdTQ2pFZThOdl8wYUgyR1BhZXY0RVNXZ0xsYk9BMnJPa2dSaTBJWWozU1h4czRwS01ZM3QtcmE2b2tMbnAzNjlxMGN4MV9uYm5xVFEtREtxMmNWdlhraWtqeHpzSTNvUnlKdVE2cWZfWmVyUEkwQnhIcTNtNUtSY1VyNXBwNTl1TElEeDRTeEZIVW1BUnVNaDVwNA?oc=5",
-   "date": "2026-11-02T23:00:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "ead7db7e908f",
    "title": "Keiko Fujimori anuncia traslados a Challapalca tras reyerta en penal El Milagro",
    "excerpt": "",
@@ -918,6 +907,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-sobre-el-modelo-de-nayib-bukele-hemos-tomado-varias-iniciativas-como-el-programa-cero-ocio-ultimas-noticia/",
    "date": "2026-11-02T22:19:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "de270b3b851e",
+   "title": "Presidenta Keiko Fujimori ordena traslado de 10 internos del penal El Milagro a Challapalca",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORHRVSld2MDhLRV96RFBSUml5LUJBSnBhaVhEeDl6OGtGcmpkVy1VcC1fWXlKQzdSb0xmeHNNQWxJRkFDRVk2aHZ0SGh4WV9MMGc3WnNkb2VrTGZEN1B4UlhxN1RBSl9qZjU3NVpWbUJUZlhCMGxtcTRRRkR6UG1iSFhBRDNSb05ybVdMeFhaY2ZKRWVoSE5fVWNzQmo1YXByeWNKX1pPWW1GNW5ZdjgydlAwaDV3R1UzTnpqRlhmakEwRGd2aWdnbTZNQkJxb2tT?oc=5",
+   "date": "2026-11-02T22:10:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
