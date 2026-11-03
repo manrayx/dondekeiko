@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T23:18:22.805721+00:00",
+ "generated_at": "2026-11-03T23:39:50.438203+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,6 +550,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "cabcebd7bc9f",
+   "title": "Senador José Castillo defiende proyecto de ley que propone amnistía para Pedro Castillo: \"Es el derecho que le corresponde\"",
+   "excerpt": "El senador afirmó que la amnistía a su hermano le corresponde como 'derecho' y criticó a la gestión de Keiko Fujimori por no abordar los problemas del país.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/03/senador-jose-castillo-defiende-proyecto-de-ley-que-propone-amnistia-para-pedro-castillo-es-el-derecho-que-le-corresponde-hnews-214086",
+   "date": "2026-11-03T23:34:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c7f84f4b4b66",
    "title": "Keiko Fujimori: “El próximo año será peor (por El Niño). El Perú unido va a enfrentar los terribles estragos”",
    "excerpt": "La presidenta pidió acción conjunta frente a los efectos del fenómeno climático durante la presentación de una donación de cinco vehículos de emergencia para los bomberos",
@@ -740,9 +751,9 @@
    "id": "764db1e48be7",
    "title": "Keiko Fujimori anuncia que la Torre Trecca será inaugurada en 18 meses tras más de 50 años de abandono",
    "excerpt": "La construcción comenzó en 1969 y atravesó distintas paralizaciones. Finalmente, el nuevo establecimiento recibirá pacientes derivados de las redes asistenciales Rebagliati, Almenara y Sabogal",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/03/keiko-fujimori-anuncia-que-la-torre-trecca-sera-inaugurada-en-18-meses-tras-mas-de-50-anos-de-abandono/",
-   "date": "2026-11-03T16:30:43+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQWVrVFNwNFR4NldpSXFOV3NueDNnaFdDdWplbGVpVVVxaTd4a3prUEFfTGlLZV83SHdsUmYwSHU2RXVoQ0hydk9YaWZWVC05MF9uX0gyQlVIVE13UmRmTjF5S1A4VzY3NVpJSjlqTUhEem05dThOSVlhb3FKNEVMMjRMZ2tNSjBGbnBkRFZrbTUwbGpqNXFDeWEzbFhQTWNOeGFsYlpiT2RiR1RFWWJ5SXdya0dJVHhPMFVEWFNNWlVNR3lrYm9uelo5UUJoTkJPdXJjMzF5OWg3bmvSAfYBQVVfeXFMUHgzbVBUU0lnekZmZjR3QzAxSGJDN3dsS0w3ckYtX3hGVDg5ZHlmRlpSTkpoYTAyN05ncHdTUHZIY2MwLTBWOGRlX0Fpc0RoUElsZ0lBcDdxTXRDTDFTOGNyM0I1a1l2aWpOcUpZZHlyd2dMVjFiSUxxejVnLTVxcnNEX1RDeFYzc1JqTm81TFhvOVg1aTMySUFSVm51bWFUU1R6T1lNZVFTLXBhcnBlYm5kTmVzN0lOeUdLejVDLW9NVENzREdpQm4yM21jWE9Pcjljd05fc2dhMzhKc3gzdFhjMnV0eHJjSUFpcmJXcFRUYXhyUFdB?oc=5",
+   "date": "2026-11-03T16:27:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -908,6 +919,17 @@
    "source": "AP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa2NtUzNMaE9ENnEtVjA5NXBqNmRtWG5pVWJEcnNnNkd3aHZCbklLQ25JbmRZanBELVF2Sl9fMEVRVW9MWmVKZGw4TzJJYWpORmNsUEZlRXYyTUNUTllPUHh4RlJZVWhnMnNYaEdhdUtCLUw3ZnM1eUV6aUtoTmVzYXREdmNKXzRpRmdEY19hNHlnOWVGdDZBc21rNF9kZUhBVDB6Y2RyamZ1d0RaR250bDU1cG1JTGgtY29xUTRJcTVJaVg3dTBnSjZVLW1CdzBk?oc=5",
    "date": "2026-11-03T13:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f3c6a6bf7fca",
+   "title": "🔴🔵 Trujillo: Pdta. Keiko Fujimori sobrevoló las quebradas San Idelfonso y San Marcos",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUctWFUxMUthSnA0VDRpUWZhV19pM0RkcU9uRzg3NzVFY3FCYkJmTmQ0ZHZHWFFjWHRyekh5NjNDMHE0TGZXSl80M2VTUS1yWDhOVFZmX1RGWFdrdVpnc0xud0cyaml0OXljY1pXYnJvczlVMlBuaE5kek9CVzdCaTVveGxpeGtUMEpCZGJFVTJLU1ZMalJzaTdUUzZlY2VFR3pMbjgtQ0Y1Q2dwR3ZqNTBLbWhqanl2WFE?oc=5",
+   "date": "2026-11-03T12:47:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1214,34 +1236,6 @@
     "lat": -12.04814,
     "lng": -77.02636,
     "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "40ebfceca4f7",
-   "title": "Luis Galarreta anuncia que Keiko Fujimori presentará balance de sus primeros 100 días este jueves",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbS0zYzRObVRGRU9SdjJkaUJwNkZIRTJDNHdQRFBYVkY0NVhWYTVoVy1TZTFpYUpMWHdOZUlvR2xkTm0yOWJTdndwZ1RCUjVUTzB1LWs4Mm1TT2UxTnNyNjlWYTktVmxISUQtYXVic3RtMFIwaDl3NkVFSi1EbGgtc2NRazJPOWxyRUdBeGxuOHhMN3I2NmlDNDNxQy1XSS1UNHVYUkphN3d4NmM1NVl5MG5YNy1WNnZCQ045UkUySHBCOVViLVp4VWlDVWRRRDdlWFN1NjdaWnE0R0dNLUsyVlZhbWvSAeoBQVVfeXFMT0JhT00xam9zXzZ6YTZUZ3FQcTJhMVljX3libUhqMi1rUExtLUQtblgxbEE0aEJzZ19UX3dYcWh2Z3F2bGd5dVFkVTJFVHdqU3VUUGFsY3VhbEZrdll3LVZ4ajJvT1hBd3lyRGoySzJhNzY1TjdHeFp0SGhQOGJkMWxoMjFSWWN0TlVuR0loUDJyU3N0blNIVGtaTFduWlJqb2lyc2paRWx4c09JR0tCQWROVFNtTXZ5SHptd3JYZUVWRGc0VE41X2wxTFRYR3VWRURlcEUyal8yel9RV0lNUW1UZFhFVGo1SGlR?oc=5",
-   "date": "2026-11-02T19:13:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6a581ed1cafb",
-   "title": "Keiko Fujimori anuncia nuevo episodio de lluvias muy fuertes en Piura y Tumbes para el 7 y 8 de noviembre",
-   "excerpt": "",
-   "source": "Norte Sostenible",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmtiNWhOQVlpN2VIZDNtZGJnQjZhTzhrNHFtR3pFUW5SYzd5bXc0bTNKUXNycUpFdHNkNjhhX3BBT2QtaE1sczJ3bm5EblUxeGpVRFJObmFQdXZTR2U3WHR1OTJIRzNTazNkVWVrQXY0Z3BzSzZETzlMUXVra0ROY09JcFNuTDF0SEd5N0RnSQ?oc=5",
-   "date": "2026-11-02T19:05:47+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
    },
    "next": null
   }
