@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T21:51:08.624830+00:00",
+ "generated_at": "2026-11-03T22:12:43.423779+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,16 +105,7 @@
   "source": "Revista Caretas",
   "date": "2026-11-02T23:51:22+00:00"
  },
- "next": {
-  "place": {
-   "name": "España",
-   "abroad": true
-  },
-  "source": "El Búho.pe",
-  "date": "2026-11-02T18:23:59+00:00",
-  "title": "¿Por qué canceló Keiko Fujimori su viaje a España? ¿Qué se iba a tratar en la Cumbre Iberoamericana?",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWdOdjZpWTI0dDU3MmhWd0VkSDMzeFpnYTYtMlhCUnpGaWNld0FhV1M2eWt0b0xEVHRPQ2w0aGlwcGY3V3ljR0xROHVtRjdLZ0RtUTQxaTlmYnJUY2VVNzg2UmhFUW1UMngyQzA3VF9JcWk3SmNWQXFKeGc3YV82REh1cVloTFNWcnFEX0dPOUlXNGxNV2JqR0JhS0lheXN3Wm1IMTgxZHExdkk0VlZHUTdXYmY1aFJlVnR5dEtzbGY?oc=5"
- },
+ "next": null,
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
@@ -559,6 +550,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5c0772d4a52c",
+   "title": "Presidenta Keiko Fujimori entregó 6500 laptops a estudiantes de los 25 Colegios de Alto Rendimiento del país",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUF9kSE1hOUplc0xEVXpjdXpwS25CMHNGeWFvWjlIOGJxdjllcGZ0UGNMd0ZlMjV0MEVIZUI0bnNHeXBvcUEweDZzMi11TTFWLXptQmdlRm5tV0JYVnEwRms5Ri1yVGtYSG1PU2lsTk1OU0NVTVVIMFZHMm5ESUFxb29CZ0xXNFJHb0dIajZSVzhWcHFGdzJzX2VYQ0dOYnFkZlpGVU80NXRtbDIzcWotYTFOdWxXTmhkYVdNQWtNVXJSSlhrV3lUN3ZKeHZhX3BwdVRLcm5yY0t0SlZPS3N2cA?oc=5",
+   "date": "2026-11-03T22:00:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "89f852718c3e",
    "title": "Presidenta Fujimori participa en entrega de vehículos de emergencia para bomberos",
    "excerpt": "",
@@ -664,6 +666,17 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT00yaVBPS0JVckw1aTVCZms1THRoS1d5S2lBbTNkak1ORTFmbXRwRkpDMHVmWDYwZjdKSU5BRjlQWXFRUTRDQW96TWpNc1FvZ3RfdXBqVU9USTBvUTFGN0dMcl9PVGZuS0VIWXBncXJ2Uk9ILVY3eHZWVGxoLUlWRndFMnlOeEF6?oc=5",
    "date": "2026-11-03T16:55:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0f625e9be559",
+   "title": "Ministros defienden viaje de Keiko Fujimori a El Salvador y explican alcances del modelo de seguridad (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0RMVlRmS2hpbXFXMVd5Ti1TekpRX3gwZFNjREJFQkdmbWh5RDBGV3VNWjdZaWltVDB5LVM1VG00Wk5ZRmxvSW9xTXRlYWU1THZ5ZmkxTXd3WG5fM3FSUkd6M2pFNzl0RHFyNnBUUjQxR3Rabl9ZVGlxbnJvcmxGeWNzMlAyWTBXd21tOWpIQlo4N2RRSWptaHBGWDR3YTQtR1p5Y0ZlQ2ZSZHZDdm9yREllTHk3cG5uTUdjQTM2cUVWVlFNcEJWSkRBZFFyczQ?oc=5",
+   "date": "2026-11-03T16:53:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1083,6 +1096,17 @@
    "next": null
   },
   {
+   "id": "b89bb69ab329",
+   "title": "¿BUKELE LE PUSO UN FRENO A KEIKO EN EL SALVADOR? JULIANA OXENFORD ANALIZA SU VISITA | ARDE TROYA",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkxlZlVQajY1dElSUHlPRHNLZFl2Rk5IREVSbzlzWGJkZUgyTm5NT1J6MS1rRzhibFlsZF92U3I1WC02Vk9CNWhkWjg3R0FHRjlIT1JudjRoNmoxY3hBYWNaMkhveE5pY200WkktZzZVYk9uX2FJUzh3dEFBTWZQeWZaUVR3UkkyYlg0UlFxYnhJbldkY3VBS1I1UTBpcjJSVHlPV2w4Nnd3S3VRSzVmSlBHeVFzNWl3c1JyRFRmcFplY29udmtJX1h4MA?oc=5",
+   "date": "2026-11-02T21:47:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8efa92cbafe4",
    "title": "Keiko Fujimori: \"Se hará un reordenamiento de todos los internos a nivel nacional\"",
    "excerpt": "",
@@ -1220,48 +1244,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "8188daeeb643",
-   "title": "Keiko Fujimori llega a Trujillo tras captura de ‘Goku' por el Comando Unificado de Pataz",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOWNNYTNVVWltZUhsQVZjeEh0YmNJdmVVc19odm1COGVLS2R1V3k1QzZtVmVpMWx3QzRDbXZUVHNyXzVldzZzU1c0b2NtUncyZy1mZzAyMXBTNWJsbjZ3RnJaa2JkUC1XYXRINk9zdEQyWmxiYWFhRi1HN3ZXb1pvRTN5eDV4WlNFa3pGU3R2NXpIT2VSdmc?oc=5",
-   "date": "2026-11-02T18:52:57+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Trujillo",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false,
-    "city": "Trujillo"
-   },
-   "next": null
-  },
-  {
-   "id": "09820e8d1bb9",
-   "title": "Es falso que este video muestre a Keiko Fujimori siendo insultada durante una reciente visita a Villa El Salvador",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ0x6ZnprVENVbEhqVUpSNlRNUW1CUDBYUnVoSzFLNFpJY3RBbkg5Ukd6RlI4Y3ZiTGRqS0lNS3cxNVM4ak9LcnA5QWRsRzd6Z1BJLTBtblFVNTVreUtfX3pNQ1Z4aFRuUmc2T09PeXh6Qk9UZkVpT1VmY1hCeGdnMTF2QUlxQUpLQ21yTnFLSldOcEx5T19hTi1RaFVGMllKUlM2YW12R2lNaHNlS0Z4eHFqVUdabkFOQTZUOWprTENvVWNDWHdVVW1TYmtGVXRtdjVINlFncVUtdmFxYmJTTkl4VERYX1gwY3h3MFpiMEdNbzlocFJraFB30gH_AUFVX3lxTE9PR3hULVlnMUNfcWI2U0pMVm5xYjhUSFFfRm1iUElRd3Z0TExlQk9WWTJlTHBiRzMxc1ZjSGhnNFV3UElCLTYyem9TY3lLMnhpcTJiM1VtN09LYk1aMnBaME5hT3RvSWNvRTRqZWEyOW9LLVVqakhDTnVEUS03SVRpMEZCM2N6cGRfcldzZUhVT2FQc1lMaTNLeXZGU3VfZ2YxaWxPLXBEeFpDdTRsZUM2aVE4Q1FJRUcyRHpVYXh2d2dSVUZGN2ZtRFp0V29DZ3ZjOWFLa2tQVEFpSlVGOXVaeENmVTZHbFFTV1dfOHVTbFJhc0ZpRzRSVjNGYngyYw?oc=5",
-   "date": "2026-11-02T18:47:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dbfcb9451c96",
-   "title": "¿Por qué canceló Keiko Fujimori su viaje a España? ¿Qué se iba a tratar en la Cumbre Iberoamericana?",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWdOdjZpWTI0dDU3MmhWd0VkSDMzeFpnYTYtMlhCUnpGaWNld0FhV1M2eWt0b0xEVHRPQ2w0aGlwcGY3V3ljR0xROHVtRjdLZ0RtUTQxaTlmYnJUY2VVNzg2UmhFUW1UMngyQzA3VF9JcWk3SmNWQXFKeGc3YV82REh1cVloTFNWcnFEX0dPOUlXNGxNV2JqR0JhS0lheXN3Wm1IMTgxZHExdkk0VlZHUTdXYmY1aFJlVnR5dEtzbGY?oc=5",
-   "date": "2026-11-02T18:23:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
