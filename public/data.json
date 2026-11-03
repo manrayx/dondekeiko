@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T15:54:40.517255+00:00",
+ "generated_at": "2026-11-03T16:17:08.287039+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -543,12 +543,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9e2875fe804c",
+   "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
+   "date": "2026-11-03T16:10:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "95e8fe8c5900",
    "title": "Keiko Fujimori destaca “mensaje de unidad” y “esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
    "excerpt": "La presidenta Keiko Fujimori resaltó la coordinación entre el Gobierno y el sector privado para destrabar la Torre Trecca de EsSalud, una obra que permaneció paralizada durante 16 años y…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
    "date": "2026-11-03T15:47:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8f38f6134f74",
+   "title": "Presidenta Fujimori: “Torre Trecca estará lista en 18 meses y atenderá a un millón 400 mil asegurados”",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlFPaEZvWDJYVVYwODlGLXlHa1pzcTFwck9EUUhnZlpLUGprY0VrMVY5dHZBdmlTTGd3S1FKcFAyQ1pEN0JaaXIyaXpqQVFYTG1pNWRCaUpaOU1GbUJNNG1yak4wSk55eml1aEFUV0ZobGo0dUdEaHdpYkN3TXc2U0ZsaEFaYzdfaDJDWDh2SXFrS1VfNVp1SU4wQm9Zc0g2a3hWWkNZeVJ0UzBKQW96eDZMMnBtRUdpTGJGT3dzY2NmVno5OWZqTzFhX0YzT29l?oc=5",
+   "date": "2026-11-03T15:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -579,8 +601,8 @@
    "id": "f0cb9bdd8ea5",
    "title": "Keiko Fujimori destaca “mensaje de unidad y esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
    "excerpt": "La presidenta Keiko Fujimori resaltó la coordinación entre el Gobierno y el sector privado para destrabar la Torre Trecca de EsSalud, una obra que permaneció paralizada durante 16 años y…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdTJOWVFqNndGaDVRNS16ZFFuSFRSSkl1YkdESW14dF84aUxQWkdEX2ZVTlowNlF5SkhPQWxFMW9HWHdBR2F4OElKMi03NG02QzFCNDZNSmJTM05BejQwa0RTbl9WSWREdDFWeWJ1NXpjeHQ5c09ZRzVTZjRDVDd5VVZpT3IzZXdramVFcUIzbFpyaFhrbzF3RjZaN3ZIcUIwSkRHb0NPY1JNSTNJaGgtOVRocTVrTUhZTUI2bW1IcmZIY2xiX1dQcHJ1MzRmTkwtck9zeU5jNGxHbUVNRllqR09xbWtHdmgwRkhfcXZsc1dfUTQ0RzF1aHQxQzh5V3VSMHZpUmQzVVVOZ9IBngJBVV95cUxNMXV6U1pPUUZwS2dhUm5BbVpOWTNTeHBtbXd3bFJsODdIb2xkblFqMFJ5NU1kZ2FWVW9Nal9fMWJnaDhPZlQwY1o4X0RUR1c1UG5wUllfRFpqUUJjSXoxbmw3U1Zxek1JYkZWeGh0MjN4U1drQ3RnWDBQTUpva3J4ajVLTzg3QnN3R0YxRkZIMlgyOFlPSll4ZGR0dzMxYkVsTjJEd1JsSlA1XzUtQXlZMmh6eTI4SUNMbmd0QkJJaUdCUVJQdEp6WnZmUzROaGRzSFl3bFBHVGdndmNvcjZZcDJxc1k2cHlzVHNmTFFwNjlBTE1DV0QyQ3NJWmdsY3ZfNHp2Y0QweTFHLXVkZGNJUEJpYk5KNm5tVzNsT2Fn?oc=5",
    "date": "2026-11-03T14:37:53+00:00",
    "state": "posando",
    "place": null,
@@ -648,6 +670,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-keiko-fujimori-por-martin-tanaka-noticia/",
    "date": "2026-11-03T10:33:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "163019f12705",
+   "title": "Keiko Fujimori reordena a los presos de todas las cárceles de Perú",
+   "excerpt": "",
+   "source": "PanAm Post",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFZPNGthdWY0N1IzcmdTemtqdFdQLW1lU1NtbG5haHhKQUZFRXF2TXVrQ050SkpzOEFmZW5iZmRGc3BrZ3hLSXh1QzJrZTlnS3pmeUxYaGF1VnBtVFFKSlkzZVNqTS0zMG5OdnNBenZ2TGhUS1h6TTlqUkE1WjctQkgzb1drbjVMd1ZJTC1OUGl1VjdTR09vMmNEVGV4NldURlVsRWR1NGhPTGI0bTkwUEVnT3c?oc=5",
+   "date": "2026-11-03T03:33:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1219,42 +1252,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "51ba7b5c79a9",
-   "title": "Keiko Fujimori en El Salvador: detalles in situ...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelJRdVQ5eTVPTjlqdTZzR2JGU1g3c21zVllUNmdpaTNlSXBNYXZuSTZKSWg0NjlNS2pqaEtXdkwxUm43ZU0taTRmNWxRU09pVjB5d3VMcHZCZ09EX1UtNlFwZ2Z0cXd2RzVpdUVUUXY5TTJJUDU5cWtaRF9oSGp6amJnb3dWMkhNRkh3V0hxMWFNeGVKRUlad0lZVGUzZmFWZGRzaXJ0U1FhajlUeUprd0w1THpyZWw0eWhzN9IBwgFBVV95cUxNbGlscXJDa0wwSVBWX0kwdlU1R3hkNzN1aDk5ekRhZU8xekxjUVFORTdtSmZQRW1BSXF5bWFGUVk2TnN5WlZNcXM5cE5WcXFqV1FhdGxrZTlQZ29mTWdqTnJMY3BubVJXTjh4M2FIdWJpc2VpNXNaSWJ3T01TaEJibWxiQlVNNDljZm54RkJqZmxWNzZnOTBMcXk5WjZKeVgxNkFVblptSDBCdlBiN0FaNFNtaV9yaFVsaEdPOFVqaWpjUQ?oc=5",
-   "date": "2026-11-02T03:14:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dfff71c7a798",
-   "title": "Datum: 47 % califica de \"regular\" gestión de Keiko Fujimori",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0lVQWxiQ1ZGZFVhTmN6TmlHYjdzanQwRm5VQ3QxaERjLUF6dFoycHRrNUVKX2txcG9lNWVBSF9Yck5wejRYSlFPSU11cnRMb0VuVWhReTBSUVZ0Y1JqbGZGcmltZ05kbnNJQ2hvNE9QVklRVGczTWJRS1BnSWNDT0hYcW9MZERTMFRQRDRJamtUZFlja2phRHF2OWh4a1VHa2hpOUc0MzTSAa4BQVVfeXFMT2k2cHdPMWN4QmZnX01keVhmOEJ5cVAxRVZzcmZ2MTh2ZDU4dkY2dDdKQmVWdTY4N1g4NFBVeVQ0ck5OWXhKdnpNclN1d0pjSU1ITGRtZHk4Q0lVNURJUVY0djVVU3RWU3BoYWZnVndXWFotQ1NSVWxXVm5XSnJQM2E0cVQ4VzFHRXVXTHBKcUgxUDB2QnZSNVNNUUZ3NE0ybVdlT3JDUkdvY0xJbjJn?oc=5",
-   "date": "2026-11-02T02:51:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3f70f31c1e79",
-   "title": "Keiko Fujimori afirma que no viajará a España para encuentro con jefes de Estado tras incremento de lluvias en el norte del país",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMkdVdURVY0xBTU1WMkxRS2R3d3RBNWppcmE4WTR4S2NvQTJNY0k0VXlXT01Ja3pVcDV0WXNDUDhrVUZuUmNLNVVRRENQQWNjN2VkbE9TZm9BdzNmNDRrcTBkQVdMcWloNmRxVUZsdXRzT0htQTBRaVlENHBoN2V2RmN2Rjl4RVdqRGczUnUxY29YbDJMM2dSRExfTXc1ZUU2OFd1bk1VZUpkTUpRU0VlajV2UVZybHlkaTUwZ0RmOTdlSzNTQ0xHSlg2TTd0QndPU2o1ZWFIbGVqTzFXdWxFT3plWXR4alZIRkZSR21n?oc=5",
-   "date": "2026-11-02T01:09:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
