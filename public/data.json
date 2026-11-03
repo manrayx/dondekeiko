@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T21:07:27.739123+00:00",
+ "generated_at": "2026-11-03T21:29:42.896865+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Madre de Dios",
-   "lat": -12.594,
-   "lng": -69.189,
+   "name": "Trujillo",
+   "lat": -8.112,
+   "lng": -79.029,
    "abroad": false,
-   "city": "Madre de Dios"
+   "city": "Trujillo"
   },
-  "source": "Panamericana TV",
-  "date": "2026-11-02T22:40:09+00:00"
+  "source": "Revista Caretas",
+  "date": "2026-11-02T23:51:22+00:00"
  },
  "next": {
   "place": {
@@ -559,6 +559,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ba9e5445579f",
+   "title": "Ministro Sheput: “En la Sunafil hay una serie de petitorios de suspensión perfecta”",
+   "excerpt": "“La suspensión perfecta no es una decisión del Gobierno de la señora (Keiko) Fujimori, ni del Ministerio de Trabajo; es una ley que tiene como 30 años, y una empresa,…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/economia/management-empleo/ministro-de-trabajo-juan-sheput-en-la-sunafil-hay-una-serie-de-petitorios-de-suspension-perfecta-noticia/",
+   "date": "2026-11-03T21:12:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "62c6d9f57da8",
+   "title": "Keiko Fujimori no acude a la Cumbre Iberoamericana por las lluvias torrenciales de 'El Niño' en Perú",
+   "excerpt": "",
+   "source": "ABC",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenQwbF95LUxjVGlvY3lOMmZLdHFsTjBjZkNkRW8xdXJZekJ6MnFmTklHSHhIS1RMNkRPWlJQckJkNkdnY0pCYzEzS0M2S09xQ0l0c2EycC1XeG9KRDFIbEZVUVJnN2V5Z0xuSWZfZ2xXVFdnQ3F5MTloVUZKcHlwUGFjSUtIaVVUdXpLaW9jOTUtYXNXYnBPN1Z5M2NMaVA3V1phWnU5M293enRsay1wRU5TTGh1MVhESHFiYzJB0gHDAUFVX3lxTE1jSWZCcHlaVnJJdU5iOXg2V0dJVHA5MFhFa092REdZWTB5anVVZExqdW9EZkhXN0s2a3l1Zlc5YjBPVHloOFBka3FRbVRJSUlHQW1XaWFyVnhGRkQzNkF2ZWVaS1dpeUk3VVlrbmNHbEt0Z1RDN3Aza1J1REdEUFpGaGstbmZVcjhKNmtEa3lNTGxiTF9VVkVJeVlCR2dCMXc0SkdIQTlEWTh0WDdIcXRQX2pLM3p2Z1VPa3pSeXlQN09Naw?oc=5",
+   "date": "2026-11-03T21:03:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0cd100412a91",
    "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
    "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
@@ -576,17 +598,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-ordena-reclasificar-a-todos-los-presos-del-peru-y-ampliar-el-trabajo-en-carceles-habra-varios-cambios/",
    "date": "2026-11-03T19:32:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ba9e5445579f",
-   "title": "Ministro Sheput: “En la Sunafil hay una serie de petitorios de suspensión perfecta”",
-   "excerpt": "“La suspensión perfecta no es una decisión del Gobierno de la señora (Keiko) Fujimori, ni del Ministerio de Trabajo; es una ley que tiene como 30 años, y una empresa,…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/economia/management-empleo/ministro-de-trabajo-juan-sheput-en-la-sunafil-hay-una-serie-de-petitorios-de-suspension-perfecta-noticia/",
-   "date": "2026-11-03T19:12:46+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -933,6 +944,23 @@
    "next": null
   },
   {
+   "id": "28e155efbb05",
+   "title": "Lanzan huevo a vehículo donde se trasladaba Keiko Fujimori en Trujillo",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWlFNHZ0SFBvdUx2dU9SSGs2WVNTX3Z3MGtvTFRWT1V5MzYzcDl6dkxLVncxQmotb3BneVlfVVIxa0tMTFRHcWhrS0kxQmdEQ0szdmhJRE52a1NCRmp5QVktR0VzWU9Fd3EtZTBfb1RRczI2YzJDNVpjdF9WSGlXYWtMM3J5d1JZNWhHVkN3UFVoS1pyUTNqaTJKc2tfMXgtc1JJVXhybFI?oc=5",
+   "date": "2026-11-02T23:51:22+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Trujillo",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false,
+    "city": "Trujillo"
+   },
+   "next": null
+  },
+  {
    "id": "3f17682bee7e",
    "title": "Presidenta Keiko Fujimori sobre operativo en Pataz: el objetivo es recuperar el orden y la paz",
    "excerpt": "",
@@ -1233,34 +1261,6 @@
    "date": "2026-11-02T18:09:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "1f2ec4020471",
-   "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
-   "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
-   "date": "2026-11-02T17:28:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b334460fbd0e",
-   "title": "Keiko Fujimori advierte nuevas lluvias muy fuertes en Tumbes y Piura el 7 y 8 de noviembre",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOUxRdWFQenE3cDFKaGEtTkpram1BdkU1d0tfVGxSWTRyX1VMX1I1LVdpYV85VzhBOE5wZ0lqSzA4V3FyZmZncmlDVzA5TkVyd1YtbXN1VXV0ZjhvYTJSaUdfbjBUT0xyUHJhNDNsV1AwVkhadDhuTUs5UFV1cGVxUjJpdGhLZV9malVMbml6VEFISXk3OWlmWXEwX21ZZjRNWm9UXzY2R2tYRkdoOUt4SFVpTUhuV0J1WlJaVmRwa09YZnBUWHB5b1FTa2HSAeABQVVfeXFMUHBIT0Y0VmF4REtzcTBUR3ZsNXllQkctOFZOY29xYTQtV1JnR1I4ZU50TUpOXzQ3UndKeUhCM0pZZjZmRmxhcFJ0eHFybVQtWWhvd2VXX0xBRW9BQW5fOEFQeEJpN0ZTVU1yUFFxLUNQSDh3ajJjWW9KckxDMm52Zm0wdENZZjdkVFhtNU1OVUtWdXh6d2R0empVUVFWWE4xOW1pYWFvbFNZVk00N0ItVG0wcjB5cncyeTNnZ01oUWdIaTBkY1FSTGRFNllBaWFDX3hhUWpCMUluYlMtYXRYQXM?oc=5",
-   "date": "2026-11-02T16:20:44+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
    "next": null
   }
  ],
