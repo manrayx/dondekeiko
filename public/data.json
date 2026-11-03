@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T10:03:59.707276+00:00",
+ "generated_at": "2026-11-03T10:48:03.787772+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -509,6 +509,17 @@
  "agenda_minutes_7d": 1149,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "3ee51377761c",
+   "title": "Cien días de Keiko Fujimori",
+   "excerpt": "Esta semana, la presidenta cumple cien días de gestión, hito que suele considerarse para realizar una primera evaluación del rumbo del gobierno. A propósito de la conformación del primer Consejo…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-keiko-fujimori-por-martin-tanaka-noticia/",
+   "date": "2026-11-03T10:33:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "4b53ed203f21",
    "title": "Presidenta Keiko Fujimori anuncia reordenamiento de internos a nivel nacional",
@@ -1231,20 +1242,6 @@
     "city": "España"
    },
    "next": null
-  },
-  {
-   "id": "29dce5af6e96",
-   "title": "Keiko Fujimori cancela su viaje a España por incremento de lluvias por el Fenómeno El Niño",
-   "excerpt": "La mandataria anunció que el ministro de Defensa viajará a Tumbes para coordinar las acciones de respuesta ante las lluvias. Su visita a España estaba prevista del 2 al 6…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/01/keiko-fujimori-cancela-su-viaje-a-espana-por-incremento-de-lluvias-por-el-fenomeno-el-nino-hnews-83199",
-   "date": "2026-11-01T18:27:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
