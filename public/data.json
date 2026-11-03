@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:02:02.507791+00:00",
+ "generated_at": "2026-11-03T17:24:31.576409+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -543,6 +543,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "75e7d72426f1",
+   "title": "“Pasará a ser un referente en Latinoamérica”: Keiko Fujimori dice que la Torre Trecca de EsSalud será inaugurada en 18 meses",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTDhsSlVlaVpYV2w1MUFiVWpSU0NBTXI0V2RsR1NhbmpoOFpYRHpCd2xLcU9NLUZ2OGZzd2xfVmhnQ0x0MFhYUlZ6Ul84ck1LdGMxYi1wb3Y1SFdGVWRpRVVzRk1CYU9sa2t3b3BGZUVpWGVLSzFvZ3h5cExrUWJfVWs4MlFpZTM4dG4yakNtM0NiMU14MTZQQWpCQ2xWbERQZi1hZmxVZjNFOXZDVkRCYXZRdi11a1Q2OUdLbm5HYmd4Vkc2cVItbnBpdHk1WDR1MzExbXBISmxyc1dGdS1FV0Z6NU83QTlobzd0NGYtTklscjhNZFVpY1VhY0w?oc=5",
+   "date": "2026-11-03T16:41:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2e7820fe4a17",
    "title": "¿Puede Keiko Fujimori aplicar el modelo Bukele en el Perú? Esto advierte Wilfredo Pedraza",
    "excerpt": "",
@@ -571,6 +582,17 @@
    "source": "inforegion.pe",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNloyeUxMRWFHVFhEUnZ4SXlYaVVqWU1RQk9PenNBdzZLQlJUSWxJRmZfZWxSVnlwLXlUeXY1SjNXQTVwaGVDSFlyZnY4c1VrNW4tSE04TnJnTDdBaXJhUlNSRGFJenh3R0F0SW10dFRDX1YzUVJPQ1V0c042MlBENHgzRzhndUV1ZEljTWFFanFxOGw2WTd0azdfa2VGenRQQjgyOE9Sa2k?oc=5",
    "date": "2026-11-03T16:24:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "17807f4b4765",
+   "title": "Presidenta Fujimori: “Torre Trecca estará lista en 18 meses y atenderá a 1,400,000 asegurados”",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVN1a3dwMUxRbkhTMmRLLUVZMXpkcDctb3J2cFpuWHBLeThBcXRPQ2Y1VlRlX3kzaTA5N0JKOWpELWZGNnNiYmdrSXJBZVZGUkd0aG1NT0VJSUlibkh5ZHN1eUVja18tOTdqWDdSR3VRalZEdUtTaUI5QXJTWW1qc0hidUlYMkR1UUJqWGRUVEVRc2RnNzZEbGFyM1RtX1VhaWpKX21RQk56d2lscFNjdHhTUm50Y1ZYcFliNC1SMUJZZnM?oc=5",
+   "date": "2026-11-03T16:20:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1233,28 +1255,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/31/gobierno-de-keiko-fujimori-nombra-a-excandidato-de-fuerza-popular-director-de-la-casa-de-la-literatura-hnews-1960161",
    "date": "2026-11-02T13:28:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cc9fa049a3e8",
-   "title": "Presidenta Fujimori acudirá al COEN para evaluar emergencia por lluvias en el norte del país",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzVseU5sTlA0ZkZxc3hvdzZ1WHd0V2dNZENDVUV4MklNNEtFcy10RUlVV09LdksyUWFWVnVIZTBxcnZ0bGhyMEFEbmNCcGpTdndGU01OdHJldzN5V1g2OUZVTWNHRWhDaHplQW01Z0haVkVERWNZY3p6NndJaWZxS1lRSU9DR2RXQVNuV2toVWlLdC00MUQ4RldlQlFfT2x3RV9neVZjQWppa0VzRng0Y1ZUdDRBVHRhbWJGQg?oc=5",
-   "date": "2026-11-02T12:53:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5f39deab5c54",
-   "title": "Keiko Fujimori cancela viaje a Europa por lluvias en el Perú",
-   "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
-   "date": "2026-11-02T12:51:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
