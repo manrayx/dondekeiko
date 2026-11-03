@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T20:23:00.771398+00:00",
+ "generated_at": "2026-11-03T20:45:08.210859+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -559,6 +559,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0cd100412a91",
+   "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
+   "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
+   "date": "2026-11-03T20:32:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "24797d7c2747",
    "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
    "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
@@ -779,17 +790,6 @@
    "next": null
   },
   {
-   "id": "0cd100412a91",
-   "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
-   "date": "2026-11-03T14:32:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "23df404b0701",
    "title": "MIGUEL SANTILLANA: GOBIERNO DE KEIKO FUJIMORI ENFRENTA CRISIS POLÍTICA, INSEGURIDAD Y RIESGOS POR EL FENÓMENO DE EL NIÑO",
    "excerpt": "",
@@ -949,7 +949,7 @@
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQi1MUlR4ZUdmalFZTllJMFJGNklWa3JCRnFJbXloc0I0cVVGTVN4Q01RMVpHNDV3dExqUXIxU0MwMEJSbXpJbG9kTjhUZHl4VG1WMndUcFA0bEJsYW1hNkFNSVQ0MlNHWlB5T1RGd3ZLMkxLYzNiazFTTEtmS3c1VV9XdmFVSUQ5WGhJS3V1VmJsQldsd2c2MW84XzJjbVk1VXptNk93?oc=5",
-   "date": "2026-11-02T22:42:26+00:00",
+   "date": "2026-11-02T22:51:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
