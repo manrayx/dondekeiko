@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T14:25:43.701806+00:00",
+ "generated_at": "2026-11-03T14:48:06.452057+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -526,12 +526,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "23df404b0701",
-   "title": "MIGUEL SANTILLANA: GOBIERNO DE KEIKO FUJIMORI ENFRENTA CRISIS POLÍTICA, INSEGURIDAD Y RIESGOS POR EL FENÓMENO DE EL NIÑO",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFVPTjI3SE9RQkJHSGswaE5CNDFhd25ka2R1bkxQaWhlRjIxSnphT0VtUlJJYjV0VmNUVDRHWTV0anJUTks2UTFvMFE2YWZOMjNReXlNRVFMd0UzZTVSempZNEZKNnJfUWV1dG5UaGhvS0E1MzFmV1hvNEQ3dkhUT2gyZV90R0xxOTRMaHl5dVY4ZzczanpLZVpqeGlPbnVEcmZXOG1GcmV3NElyYi1wWVRib2pTeXd4OW9hMXNOUVFOTVNNWWVjZkpWVXlzVTBCZlZPSXp1ZHFaTFk?oc=5",
-   "date": "2026-11-03T14:05:59+00:00",
+   "id": "f0cb9bdd8ea5",
+   "title": "Keiko Fujimori destaca “mensaje de unidad y esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
+   "excerpt": "La presidenta Keiko Fujimori resaltó la coordinación entre el Gobierno y el sector privado para destrabar la Torre Trecca de EsSalud, una obra que permaneció paralizada durante 16 años y…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
+   "date": "2026-11-03T14:37:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -542,7 +542,18 @@
    "excerpt": "",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
-   "date": "2026-11-03T13:51:56+00:00",
+   "date": "2026-11-03T14:32:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "23df404b0701",
+   "title": "MIGUEL SANTILLANA: GOBIERNO DE KEIKO FUJIMORI ENFRENTA CRISIS POLÍTICA, INSEGURIDAD Y RIESGOS POR EL FENÓMENO DE EL NIÑO",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFVPTjI3SE9RQkJHSGswaE5CNDFhd25ka2R1bkxQaWhlRjIxSnphT0VtUlJJYjV0VmNUVDRHWTV0anJUTks2UTFvMFE2YWZOMjNReXlNRVFMd0UzZTVSempZNEZKNnJfUWV1dG5UaGhvS0E1MzFmV1hvNEQ3dkhUT2gyZV90R0xxOTRMaHl5dVY4ZzczanpLZVpqeGlPbnVEcmZXOG1GcmV3NElyYi1wWVRib2pTeXd4OW9hMXNOUVFOTVNNWWVjZkpWVXlzVTBCZlZPSXp1ZHFaTFk?oc=5",
+   "date": "2026-11-03T14:05:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1234,20 +1245,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "988b662bc7bc",
-   "title": "🚨 Keiko Fujimori cancela viaje a España por alerta de lluvias en el norte",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZDZkMkNXS3NyWGdDb2ZCZENKR2dRWk9jdHNKeGEtYk5uV3RVMVg5bXhJS3UyU3ZVeU41X3hYNnNxZC1ZNy02SHN5ZjBNQngtR29RWW1oNVZmckE1Ums1VmtxWmpNVGFDd1ZWYWxCOG8wc0NJVFE0emF4UEdPRVhvVUgyNXNXSndVbnRjNHJTbHpNdWlGRVMtdzFsZnljQ3RsS0pZRk4xSTdIbTFnREJr?oc=5",
-   "date": "2026-11-01T19:05:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
