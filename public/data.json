@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T22:34:51.673554+00:00",
+ "generated_at": "2026-11-03T23:18:22.805721+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -549,6 +549,17 @@
  "agenda_minutes_7d": 1264,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "c7f84f4b4b66",
+   "title": "Keiko Fujimori: “El próximo año será peor (por El Niño). El Perú unido va a enfrentar los terribles estragos”",
+   "excerpt": "La presidenta pidió acción conjunta frente a los efectos del fenómeno climático durante la presentación de una donación de cinco vehículos de emergencia para los bomberos",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/03/keiko-fujimori-el-proximo-ano-sera-peor-por-el-nino-el-peru-unido-va-a-enfrentar-los-terribles-estragos/",
+   "date": "2026-11-03T23:11:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "9e2875fe804c",
    "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
@@ -1232,17 +1243,6 @@
     "abroad": false,
     "city": "Piura"
    },
-   "next": null
-  },
-  {
-   "id": "4359651dc30d",
-   "title": "Keiko Fujimori reitera que su Gobierno no se detendrá en acciones para recuperar el orden: “No vamos a parar”",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzBxVlVRYkdHeXJ4WjZDb3F3ZDBGcVpPMjRnUldPbmhpQldsMXhYLTBwQ0dTLVBKcndIVVl1SE1feHppWURsaktZRjhCNV9rOS1jRW16YmNGMFdldU5RSGVqTGROVDc0Zi1uS0FqNnlGZ1k5cEZMdk05T010UnF4VDJtSjZQaDd6Y2RWblBRbERxX1JPQ2EzS29wVXpzN2tEUmd0VjRCOGRfN19oRXR5dmV6WlJxUmlCeEF3TVNnZGJLaTJvcHpzeXZERVUxZFRSeHFoMXFMVlI4ZTllTURzYW54ZXVXbDdtbW5SLV83NUlQb2c5NGFhQg?oc=5",
-   "date": "2026-11-02T19:01:42+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
