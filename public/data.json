@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T23:23:36.416575+00:00",
+ "generated_at": "2026-11-03T00:08:24.183197+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,6 +493,17 @@
  "agenda_minutes_7d": 1147,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "0b2630bdeab1",
+   "title": "Presidenta Keiko Fujimori: “Se hará un reordenamiento de todos los internos a nivel nacional”",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOckZhbW9KMkZ5OWNfLVhPMTlPVzM1d0NGTW52UFRoWWF5YzdzMVpFdzN1c1dOaEJheG0yNlJZcHkwQnl1eWlZVWdKVG05YkNzOV9xSW9fZFl6U0lQZUZxYzk1NDJJNkpNN2w1ejRBU0ZNTUdQSUVsd2RLWWRVT2doaTYzeGpvc003b2IzREd5MjN2QlMyV0h1WmNOUGRQZWdKR3RIWk8zenhZMVN1SmwyOXUxUmdaTnNBa2VsTlZaWTdqRURC?oc=5",
+   "date": "2026-11-02T23:34:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "24797d7c2747",
    "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
@@ -1226,17 +1237,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ1ZWUmE0ZEJLMGFSSWRqTkUwWUZBWmlIY3hCN2dtWEhSVW81MFVNZzRld09BcldMYk9MLTYxeXM4dzNNeVE4MGsyWjM2OHN2N2RObXYwT0pQdEZPZXhXRkNjUmpRTUxEYTRIUl9UMS1LY0N1a2pvcnpacUVTdXV2SGhVY0hoNTBfTWRrVEFtMjZKYlNPalh0dkdLMW1lMm5fN2Q4eWtJbUh1U3BqVWM1T2V0R21NWGJYOFpyMWNTTDVUcFpxN2xGX1hnVmpzdGV4Yjk5c2c4YXE?oc=5",
    "date": "2026-11-01T16:14:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a19157cecb57",
-   "title": "Presidenta Fujimori y ministro de Salud evalúan medidas frente al dengue y la leptospirosis",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcER0eUVwWjV3ZnRlNTkxY1JqMG1oM0ZyZG90Z2VWckZUTHJtV3AxaURSdVBOdEJvOWRvZVl6UVdqeUY4LTBvblJySHEwQUtMM1kxVGZCSm9Pc0ZsUVpwQ2RLYUMxbl9XTkhfM0lvNUxLNm5ZUm5hTVlSWXo2WHRJSVJ6ampwNzJ2TW8xRGNHeTNuclJIYlN3eFd0QW8tZ0o3Mk16cGI4M01JcWtheTdveFoyWW13dDNITnB1X3hXMHRHUGtaQ28zYjN4Zw?oc=5",
-   "date": "2026-11-01T14:59:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
