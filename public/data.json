@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T21:29:42.896865+00:00",
+ "generated_at": "2026-11-03T21:51:08.624830+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -559,6 +559,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "89f852718c3e",
+   "title": "Presidenta Fujimori participa en entrega de vehículos de emergencia para bomberos",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWhQLUFyUXVnS3M3ZXBMLWRUeGV3d3dYZmxJbFlUNnRsZ3lIa0ZuZG5PUjNuWmRSWHRXWXNkSGxXWjFvZFZpWGZQQlBKbUs5eGVra3BYdEZuNHFsRURZcGdJMlR4QXJBdkQ3NFNPcjBLdWpyV3A1aTNkYVVKWUxrUkdkTmxQa0VIYmVNSldEMTdTNW1TMUJJTzN6bnI3NmJBa3pIbWxhVjMyY2drQ2RyZm1qcHNQSUtqQUow?oc=5",
+   "date": "2026-11-03T21:39:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1891069da766",
+   "title": "Quinua invita a Keiko Fujimori a participar en aniversario de la Batalla de Ayacucho",
+   "excerpt": "",
+   "source": "Jornada",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhoMjk3WDlZTFpRU3Y5bkt5bk8zUVpremVVQV83bGhURzJ5bDYzcWZUVm5yai1FMmdOdUp5UzgzX25YcjNGRzB0NDZScVVxOHhDSmRtcU1ZNkl1VFE3Zk1aVFoxVzFJQ0N2RHk4TFZJMTZNRTFwSEFxTlM0OG1RamxRbkY0N3pNTi0zSHI1VFlDR1IzSjd0QlJ2cUg4bS11ZnpsTGVXTklCdmhpREkwaEVtbTR4VGFBODlB?oc=5",
+   "date": "2026-11-03T21:29:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5568109da307",
+   "title": "Embajador de EE. UU. en Perú destaca visita de la presidenta Keiko Fujimori a El Salvador",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1BwNDVqTzdmeXBNVXhjUzJMeWhIN0ptOHlKMFEyZlFRVmhnTXdaUzhaNGFjNVdVNUlJb28tT2xXaC1WUk0yd0FWVWxvUnlScDVZbUk0VUhfRHpadHpQclhkb1A5ZXNPMjhLM0xWUDAyd1JHZ0VEMnRmSWk0ckNXczEwZnJTSFVxMXhJTW1hZWpqam5aSG5oSHFrMGpsa1RzbEtERW4tV1JyMHo1SUJyVG5IdXNnc3BEYWZUQktfR0M3VDV5OXNENWhyS2pENHM?oc=5",
+   "date": "2026-11-03T21:20:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ba9e5445579f",
    "title": "Ministro Sheput: “En la Sunafil hay una serie de petitorios de suspensión perfecta”",
    "excerpt": "“La suspensión perfecta no es una decisión del Gobierno de la señora (Keiko) Fujimori, ni del Ministerio de Trabajo; es una ley que tiene como 30 años, y una empresa,…",
@@ -741,17 +774,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
    "date": "2026-11-03T15:47:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "89f852718c3e",
-   "title": "Presidenta Fujimori participa en entrega de vehículos de emergencia para bomberos",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWhQLUFyUXVnS3M3ZXBMLWRUeGV3d3dYZmxJbFlUNnRsZ3lIa0ZuZG5PUjNuWmRSWHRXWXNkSGxXWjFvZFZpWGZQQlBKbUs5eGVra3BYdEZuNHFsRURZcGdJMlR4QXJBdkQ3NFNPcjBLdWpyV3A1aTNkYVVKWUxrUkdkTmxQa0VIYmVNSldEMTdTNW1TMUJJTzN6bnI3NmJBa3pIbWxhVjMyY2drQ2RyZm1qcHNQSUtqQUow?oc=5",
-   "date": "2026-11-03T15:33:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1039,6 +1061,17 @@
    "next": null
   },
   {
+   "id": "5127498baa35",
+   "title": "Gobierno de Keiko plantea declarar en estado de emergencia a Tumbes, Lima, Callao y otras regiones \"por peligro inminente\" ante El Niño",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPektTZGd6Yk0yY0p4ZHJRdi1qRGVxeXJvQjJQdzdvbm1hNHppTDY4ZjhEUnk1c2hSbjdmWTBzSTRHV3VKS2Q3a2l3UERIWXFEZ3F2WTZBRzRIODltVmpIZVd5MVBWbXVtLTN6Z2g5MjZBS1I3aDdJamMtRzNLN3pIaC1oazJXSllBeEdkMVFqbllRY3BHekpCeU85ZjV1SGpyUVNqcWJGOFQ3UEF2RUdGZjIwNVBUMjFOMkFFMUxvY2lXMWJmaXpLVE5qX0dKV2ltV2JuaGdTTFgzU3NQUklBOFRxZmNNdGFvczEwd1AtZ25YMlZzWHVXVzVIZTN1UQ?oc=5",
+   "date": "2026-11-02T21:51:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2127c766c4c6",
    "title": "Keiko Fujimori anuncia reclasificación de internos y traslado de los más peligrosos a Challapalca",
    "excerpt": "",
@@ -1229,39 +1262,6 @@
     "name": "España",
     "abroad": true
    }
-  },
-  {
-   "id": "35c2743d07a8",
-   "title": "Presidenta Fujimori evalúa emergencias por lluvias en el norte: \"Estamos alerta en todo momento\"",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUzVseU5sTlA0ZkZxc3hvdzZ1WHd0V2dNZENDVUV4MklNNEtFcy10RUlVV09LdksyUWFWVnVIZTBxcnZ0bGhyMEFEbmNCcGpTdndGU01OdHJldzN5V1g2OUZVTWNHRWhDaHplQW01Z0haVkVERWNZY3p6NndJaWZxS1lRSU9DR2RXQVNuV2toVWlLdC00MUQ4RldlQlFfT2x3RV9neVZjQWppa0VzRng0Y1ZUdDRBVHRhbWJGQg?oc=5",
-   "date": "2026-11-02T18:17:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fa2132ecfc13",
-   "title": "Presidenta Keiko Fujimori arriba a Trujillo para cumplir agenda de trabajo",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUzZrZEZKNUdYS1RkVnFNMkRXTVpya0szcXRkbDM0Y1N4SlhGMkFycVNCYjgzTmpYeEFCQURsM2FneFN2OEx1VTg3a0dXaXN6bWhXUFNaVTFMWk9UY2s2ZndpdzdhRGk5WWpmS3VmbzdFMXFZaDJITVBiLWVrdFg5MlpDTDNVRXNxZGZlekRodnItYTd2Skx1dmRFbHlIaG5ac0FxYXRmRU4yS3RHM0QtN0FfcWZoV1hKOEE?oc=5",
-   "date": "2026-11-02T18:13:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "18d798b04de8",
-   "title": "Keiko Fujimori alerta por lluvias en el norte del Perú y advierte: “Vamos a enfrentar una condición de Fenómeno El Niño ‘extraordinario’”",
-   "excerpt": "La presidenta encabezó una reunión de emergencia en el COEN tras registrarse el segundo pulso de lluvias intensas en Tumbes y Piura. Anticipó precipitaciones muy fuertes para el 7 y…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTjY5NzA4WldKcEk4cTk5OV9MblhGQ1RWMEFIVmV4N2pIM0VBaHFKekRDQ0dIcnpiTkx4Q01GbUlxczRlbUs4UGNXY3FLN3owbGhXdm5taFdJal9FaTdoWTRVaXZpZHZhTEt2T1Y3cEpnS0dVa1JVVEV2ZWJjRkZVRnhHU0M0c3dLRjRvcXZxQnJEQkJ4czhRa2dSUm5MWk5QV25FYjd3YW1hYjZjMVNCRWhTOXRzVDFhMEtFU1dYNlBvanZ1LVgyYXRwNzdrODhsMTV2QlB1YWJNU0xVV0JUOWp0OVF6WDdxbzB3LVpnOXBhTVkyV3pGR2R2MnpqWFZWaXc40gGeAkFVX3lxTE5VSFFpODd6Q1V3MzN4ZDhtb1VlWlRNMVUycFFSOGMxVkVnZnpfUHhoSVh6XzJxWVdsV2paZlFRTGhFczZGOUNZakg3MFlyWmxweEdLc2dVdXBfNW4tTWxKUUpxT3lmdXVNMU9CUXA4SDZXQzlCS1hYU21iWGxsU3Bhd3Y2Rmo0czItRXRsVTI2SFFoc2ZFUU9tV3BjVHJPcTZDb2lfdzRvV1A4NGZNUkZ2d2prYUd0OUpmZHJLZ0M5T2t0YmNuc29FXzI3bFY1ZmdISnFKelJlSnVrQmoyVkNtNXdjaWZHeFdFWlNEa0J4bEFLNWhxeVFxNktpTzBCdUNPWVpkR2d6NEFtU3NTLUY2X1BhTkZPRVBUdkN2SFE?oc=5",
-   "date": "2026-11-02T18:09:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
