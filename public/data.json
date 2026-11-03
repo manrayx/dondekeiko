@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:24:31.576409+00:00",
+ "generated_at": "2026-11-03T17:46:53.662094+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -542,6 +542,28 @@
  "agenda_minutes_7d": 1210,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "1a67c503937e",
+   "title": "Presidenta Keiko Fujimori participa en entrega de vehículos de emergencia para bomberos",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWR1SzR1c3pKY01kRE9aQU50YUpLN1lHT1ZpSkJBWnJjLTZKQ2xCUVFfTWJnTy1RaTRyYV9wa3JNRnhpZ3ptRnR0c0xLNWhkdGZLdzFQSGZhdmFJTzlPZi1xWDQxUWpVaXFZRzhYQ1MxZ2VZdnhpSXM1b0lFcDhMcXR1ZzBPVjdoU18yZXNRamloeVpWZEJXRlo3bXp3VTZyZDFaVVA1RFMwUmVpNjA0bjlLbkg4N3p3UUh4Y2UyVnk?oc=5",
+   "date": "2026-11-03T17:35:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "763814265973",
+   "title": "Keiko Fujimori recibe donación de Japón para reforzar a los bomberos ante el impacto de El Niño",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT00yaVBPS0JVckw1aTVCZms1THRoS1d5S2lBbTNkak1ORTFmbXRwRkpDMHVmWDYwZjdKSU5BRjlQWXFRUTRDQW96TWpNc1FvZ3RfdXBqVU9USTBvUTFGN0dMcl9PVGZuS0VIWXBncXJ2Uk9ILVY3eHZWVGxoLUlWRndFMnlOeEF6?oc=5",
+   "date": "2026-11-03T16:55:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "75e7d72426f1",
    "title": "“Pasará a ser un referente en Latinoamérica”: Keiko Fujimori dice que la Torre Trecca de EsSalud será inaugurada en 18 meses",
@@ -1234,28 +1256,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3JFVGFudHBHU196R2xpVnpMX1QzWkhnU2d6Ym1ma3EyQjR1dmkxS3lMMkVocnp4V3E4T2h5S3R6dzFyRmlyVXdSaEx5MFQtczNxRDcyMWJlSzhkZ1R3NkpTVHpwXzNCU3dUaTFpdjJNRXZ2VkVZbFJPR2xZU3Nadmdqa0lrM2FIakt1RE4yTkI2b04wZ3VCaTdEd012VUtmQThzanJNS0t1SWVFeXlJcXpod21EYWxkYTRhRVRRMzZtVi1BQkUtZ09CWld1TlppMkE?oc=5",
    "date": "2026-11-02T14:43:00+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "af5e2d442e08",
-   "title": "ES ACERTADA LA VISITA DE LA PRESIDENTA KEIKO FUJIMORI A EL SALVADOR PARA CONOCER DE PRIMERA MANO CÓMO NAYIB BUKELE DERROTÓ AL CRIMEN ORGANIZADO EN SU PAÍS",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM2xnNU11UnU4QUVJOS1na3NTN05WWTRIeW1MNkR0M0dZYnpoTVRkSlloTTFTQmpab1ZFbXlodGlEWjVONi1GUHhwZjhHYzZGRW5KWGtpX2xjM2I1OWZ6bGd6QWp4X1B6OXU3aDMydElFOTNMUHVzNjFYZV93cklzV1dfRGV3VC1wNURRdkREOFV5THJ0cmRWdHF1STNqQkh1ZDJEOWwtaVR6WThDbF9sMXNyalU2eURpRUo0THZyRlo5MzZuc0JuX0h5Q2FqeVJSdHdjSFpDcUJDR3FydGNqUkRzdWUtQUgwODAwNTZOSDNvWkk3RW83dm9QTkp2cnBaMnFiUU5HUEkyUlk?oc=5",
-   "date": "2026-11-02T13:33:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "59f8b51f6851",
-   "title": "Gobierno de Keiko Fujimori nombra a excandidato de Fuerza Popular director de la Casa de la Literatura",
-   "excerpt": "Ricardo Vásquez Kunze reemplazará a Gary Marroquín Mendoza, cuya gestión quedó marcada por la controversia tras la suspensión del premio al historietista Juan Acevedo. El nuevo director fue jefe del…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/31/gobierno-de-keiko-fujimori-nombra-a-excandidato-de-fuerza-popular-director-de-la-casa-de-la-literatura-hnews-1960161",
-   "date": "2026-11-02T13:28:39+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
