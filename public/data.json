@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T22:12:43.423779+00:00",
+ "generated_at": "2026-11-03T22:34:51.673554+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,6 +550,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9e2875fe804c",
+   "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
+   "date": "2026-11-03T22:14:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5c0772d4a52c",
    "title": "Presidenta Keiko Fujimori entregó 6500 laptops a estudiantes de los 25 Colegios de Alto Rendimiento del país",
    "excerpt": "",
@@ -748,6 +759,17 @@
    "next": null
   },
   {
+   "id": "d88aaa42a385",
+   "title": "Keiko Fujimori, demasiado endeudada para gobernar: A 100 días de gobierno y contando",
+   "excerpt": "",
+   "source": "INFOREGION",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNloyeUxMRWFHVFhEUnZ4SXlYaVVqWU1RQk9PenNBdzZLQlJUSWxJRmZfZWxSVnlwLXlUeXY1SjNXQTVwaGVDSFlyZnY4c1VrNW4tSE04TnJnTDdBaXJhUlNSRGFJenh3R0F0SW10dFRDX1YzUVJPQ1V0c042MlBENHgzRzhndUV1ZEljTWFFanFxOGw2WTd0azdfa2VGenRQQjgyOE9Sa2k?oc=5",
+   "date": "2026-11-03T16:24:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "17807f4b4765",
    "title": "Presidenta Fujimori: “Torre Trecca estará lista en 18 meses y atenderá a 1,400,000 asegurados”",
    "excerpt": "",
@@ -765,17 +787,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVWZkTHZBRnc4c2p2N2FvMk9nTHdMR3RjczhPd3BEbDZSSmhoR0t6ZVY2T1FvTm9mZTJJU0hLam5hbkRpT3FmTlBSX19BQmdJTzlHeld4UnBCTjJpR08zLVBsSldManZ6T0FYMFU2bTFkMEtXeVFEVEstLVNmdHQ5NXphUFFqbXJxM3VsOFFjU2xhUVNBNUdMTDdVZDM2RTh6dVJOdEJoXzJZX2xpSFBzWUpMMWVYeDR3XzgyNFpGeDVIWDdzd0dGMjlMd0lMQkc4UzdUUzVmb1hLS0k1ajZJZTItelBfd0t4MjV1NHhCWHU1dWFoM0NkNktCSWJGTFpEV2cxbkdCSXp4ODBvRm4zdmVRZVRwdVE?oc=5",
    "date": "2026-11-03T16:12:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9e2875fe804c",
-   "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
-   "date": "2026-11-03T16:10:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1230,17 +1241,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzBxVlVRYkdHeXJ4WjZDb3F3ZDBGcVpPMjRnUldPbmhpQldsMXhYLTBwQ0dTLVBKcndIVVl1SE1feHppWURsaktZRjhCNV9rOS1jRW16YmNGMFdldU5RSGVqTGROVDc0Zi1uS0FqNnlGZ1k5cEZMdk05T010UnF4VDJtSjZQaDd6Y2RWblBRbERxX1JPQ2EzS29wVXpzN2tEUmd0VjRCOGRfN19oRXR5dmV6WlJxUmlCeEF3TVNnZGJLaTJvcHpzeXZERVUxZFRSeHFoMXFMVlI4ZTllTURzYW54ZXVXbDdtbW5SLV83NUlQb2c5NGFhQg?oc=5",
    "date": "2026-11-02T19:01:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "46e2f536830e",
-   "title": "El Niño terrible, una crónica de Fernando Vivas sobre las acciones del Gobierno frente al FEN",
-   "excerpt": "En octubre vivimos un giro en la prevención contra El Niño. El gobierno empezó a sincerarse. Keiko, incluso, rozó la hipérbole el jueves 15. Ante el enjambre de micrófonos, se…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-nino-terrible-una-cronica-de-fernando-vivas-sobre-las-acciones-del-gobierno-frente-al-fen-en-peru-apuesplan-noticia/",
-   "date": "2026-11-02T18:53:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
