@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T16:39:30.708917+00:00",
+ "generated_at": "2026-11-03T17:02:02.507791+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -554,6 +554,17 @@
    "next": null
   },
   {
+   "id": "764db1e48be7",
+   "title": "Keiko Fujimori anuncia que la Torre Trecca será inaugurada en 18 meses tras más de 50 años de abandono",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQWVrVFNwNFR4NldpSXFOV3NueDNnaFdDdWplbGVpVVVxaTd4a3prUEFfTGlLZV83SHdsUmYwSHU2RXVoQ0hydk9YaWZWVC05MF9uX0gyQlVIVE13UmRmTjF5S1A4VzY3NVpJSjlqTUhEem05dThOSVlhb3FKNEVMMjRMZ2tNSjBGbnBkRFZrbTUwbGpqNXFDeWEzbFhQTWNOeGFsYlpiT2RiR1RFWWJ5SXdya0dJVHhPMFVEWFNNWlVNR3lrYm9uelo5UUJoTkJPdXJjMzF5OWg3bmvSAfYBQVVfeXFMUHgzbVBUU0lnekZmZjR3QzAxSGJDN3dsS0w3ckYtX3hGVDg5ZHlmRlpSTkpoYTAyN05ncHdTUHZIY2MwLTBWOGRlX0Fpc0RoUElsZ0lBcDdxTXRDTDFTOGNyM0I1a1l2aWpOcUpZZHlyd2dMVjFiSUxxejVnLTVxcnNEX1RDeFYzc1JqTm81TFhvOVg1aTMySUFSVm51bWFUU1R6T1lNZVFTLXBhcnBlYm5kTmVzN0lOeUdLejVDLW9NVENzREdpQm4yM21jWE9Pcjljd05fc2dhMzhKc3gzdFhjMnV0eHJjSUFpcmJXcFRUYXhyUFdB?oc=5",
+   "date": "2026-11-03T16:27:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "775bf8c961ab",
    "title": "Keiko Fujimori: demasiado endeudada para gobernar: A 100 días de gobierno y contando",
    "excerpt": "",
@@ -582,6 +593,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
    "date": "2026-11-03T15:47:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "89f852718c3e",
+   "title": "Presidenta Fujimori participa en entrega de vehículos de emergencia para bomberos",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWhQLUFyUXVnS3M3ZXBMLWRUeGV3d3dYZmxJbFlUNnRsZ3lIa0ZuZG5PUjNuWmRSWHRXWXNkSGxXWjFvZFZpWGZQQlBKbUs5eGVra3BYdEZuNHFsRURZcGdJMlR4QXJBdkQ3NFNPcjBLdWpyV3A1aTNkYVVKWUxrUkdkTmxQa0VIYmVNSldEMTdTNW1TMUJJTzN6bnI3NmJBa3pIbWxhVjMyY2drQ2RyZm1qcHNQSUtqQUow?oc=5",
+   "date": "2026-11-03T15:33:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1122,6 +1144,23 @@
    "next": null
   },
   {
+   "id": "e0a523806713",
+   "title": "Presidenta Fujimori alerta por nuevas lluvias en Tumbes y Piura para el 7 y 8 de noviembre",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZU5TZWZHR0FwZXhMdklZSzJ1djZUd2tkQllSTTJSVHFfLXVFM1U2SFVadzdERDhjSWNnOU5UeGl5WEpWaVhqdDkyNmhhT2xnUlVyUXNjbl8tVmtENmFkY25pOHRNMGtNc1hHSU1Cc0ozdG5VS1NRM2ZLcXRNOUVRUGNYTVN6bHBhUTlubTJEU1NGc3pLcVRoRUN2Z2RiS1R3eXF2bnZyTFE0UnFlaHhRdnUxTnVRNWJ1Q1N4UTI2RFJ3dw?oc=5",
+   "date": "2026-11-02T15:39:33+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "673132229741",
    "title": "Gobierno de Keiko Fujimori es calificado como «Los 100 días de la estupidez»",
    "excerpt": "",
@@ -1216,39 +1255,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-alerta-sobre-incremento-de-lluvias-en-el-norte-del-pais-noticia/",
    "date": "2026-11-02T12:51:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7ca66b5ec768",
-   "title": "Mónica Delta: ¿Fue productivo el viaje de Keiko Fujimori a El Salvador?",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWF1a05qM2FrSkZOclU5LTB2NURSZEhESTBsY3dIWkc2QzdLbXR1R181S1BIX2FtY0ExMUZGcjJ6Y2IxdmppTkI5X1hyaHNZRnlnYTNobFJ2ZnJ2OWZpZzRHVVExWFEwYjkzVk9WYUhfMDM2MVk1bHBkSFJ6RUxzT3hUQjR3UkRUNXIwbTBLbEZnSjJfWTdNeVp1d2hvLXNuOHlHalpfclM1elk?oc=5",
-   "date": "2026-11-02T06:34:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2d0f33296401",
-   "title": "Richard Arce: Quién salva a Keiko en El Salvador",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40THZtd2M3cHFGbUVrN0Z0LXVFaGxPOV9XeDNVcE9vN0dBejJUcVpxSXNfRFVqSlkxOUdQWk1Na0pNR0tRYjI3a1VESlVBd2E5b3FCUUF0R3F5MjR3N1pZZF9GV1laelBYVXEwZjFDbEVDTm9xY28zZ2Q5Ry0?oc=5",
-   "date": "2026-11-02T04:22:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "36d9ffbc6be4",
-   "title": "Keiko Fujimori alerta sobre incremento de lluvias esta noche en el norte del país",
-   "excerpt": "La presidenta Keiko Fujimori alertó sobre un fuerte incremento de las lluvias en la zona norte del país a partir de esta noche, según un reporte del Comando FEN.",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOek95TXFjb2RDY2J5eHczLVVQSDA2ZDF6U08zcy1RTDVjZHpieGRUWkVUdlEtVEVHNDlfQ0JjZFpocm5Xc3NsV1ZqcmlHbTFmUUxPLV91LTVpZTNyV1duYzZYNlVOOExCUjl3cHRBUEVrYnpCaUZwRGZRSDRJVlJQbURyYW9xbzFSRlhxYmhwOVYxN2tzSjQyazIweFBjblVwenhkQk1B?oc=5",
-   "date": "2026-11-02T04:22:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
