@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T19:38:15.995722+00:00",
+ "generated_at": "2026-11-03T20:00:37.492099+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -131,10 +131,26 @@
  },
  "agenda": [
   {
+   "start": "2026-11-03T14:00:00-05:00",
+   "end": "2026-11-03T14:54:00-05:00",
+   "minutes": 54,
+   "subject": "Participa en la ceremonia de entrega de 6 500 laptops a estudiantes de 25 Colegios de Alto Rendimiento.",
+   "lugar": "Colegio Mayor Secundario Presidente del Perú - COAR Lima, localidad de Huampaní, distrito de Lurigancho-Chosica",
+   "state": "posando",
+   "place": {
+    "name": "Colegio Mayor Secundario Presidente del Perú - COAR Lima",
+    "full": "Colegio Mayor Secundario Presidente del Perú - COAR Lima, localidad de Huampaní, distrito de Lurigancho-Chosica",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
+  {
    "start": "2026-11-03T10:25:00-05:00",
    "end": "2026-11-03T10:46:00-05:00",
    "minutes": 21,
-   "subject": "Participa en ceremonia de entrega de vehículos de emergencia al Cuerpo General de Bomberos Voluntarios del Perú.",
+   "subject": "Participa en la ceremonia de entrega de vehículos de emergencia al Cuerpo General de Bomberos Voluntarios del Perú.",
    "lugar": "Compañía de Bomberos Voluntarios \"Cosmopolita\" 11, San Borja",
    "state": "posando",
    "place": {
@@ -539,7 +555,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 1210,
+ "agenda_minutes_7d": 1264,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -560,6 +576,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/economia/management-empleo/ministro-de-trabajo-juan-sheput-en-la-sunafil-hay-una-serie-de-petitorios-de-suspension-perfecta-noticia/",
    "date": "2026-11-03T19:12:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6305419f792a",
+   "title": "Presidenta Keiko Fujimori: «Torre Trecca estará lista en 18 meses»",
+   "excerpt": "",
+   "source": "Energiminas",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0xUQWVobktoMW0zOXh1NEJ5YThvZTRFWS1tWGcweTJyRWF6T0t5NU5uVmhJNlNEaGh1WTZNSXdxNm1KVW4yYndrblMtb0RndENCcmZLM3ZhVGk4bi1XeTFMbks5VTZFaTBuWVpINXhhSVNmeDE3bHlMdXFIMDBuLTRRQmhucXlaM3JkQzFvZ1dBSGVSZEk5X3M5SlBMVkFB?oc=5",
+   "date": "2026-11-03T18:31:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1241,17 +1268,6 @@
     "city": "Tumbes"
    },
    "next": null
-  },
-  {
-   "id": "673132229741",
-   "title": "Gobierno de Keiko Fujimori es calificado como «Los 100 días de la estupidez»",
-   "excerpt": "",
-   "source": "radio uno 93.7",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV1Z4MDUwYkg0d2c2WlFQSkNpWllNTlBSTzZOeFRVNDg1b21zcko3S2pKR2YxeG9SQTNicEFkcWMwSlJXc1U5U2dadWNybllESW9CMXpYRTZIdGdsWHZ5eGVvN0JEczhacXdkQ1VSU3hPa0JxX2w5ZDM0RUtjcFlqUGhSUnFxcS1hd1lYLXJEeVQ3YWdWS19WNVVzZ205aUprcU92bmdhdFVwNWJUakNxeA?oc=5",
-   "date": "2026-11-02T15:37:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1336,6 +1352,8 @@
   ],
   "unidad de servicios especiales de la policia nacional, trujillo, region la libertad, peru": null,
   "unidad de servicios especiales de la policia nacional, region la libertad, peru": null,
-  "compania de bomberos voluntarios \"cosmopolita\" 11, san borja, peru": null
+  "compania de bomberos voluntarios \"cosmopolita\" 11, san borja, peru": null,
+  "colegio mayor secundario presidente del peru - coar lima, localidad de huampani, distrito de lurigancho-chosica, peru": null,
+  "colegio mayor secundario presidente del peru - coar lima, distrito de lurigancho-chosica, peru": null
  }
 }
