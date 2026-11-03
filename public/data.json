@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T02:21:49.975640+00:00",
+ "generated_at": "2026-11-03T02:44:03.016064+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -643,7 +643,7 @@
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQkZBUFNQV0FROVpKNDBTUzFWRzFOZm0yeEVKNjRSNUk0S3pCUS1RVEJSaTQwMjAzTlp0S2tyc0FpUGdPY3pPb1JxRE12N24welVnUzE2VzR0MlFuUlMxdmtNWi12VmJpM25xOVhKcXZSNnF1Q1o2MEZVZ2hjdUZVNXE2WWJOckI5TXZXcklxWmhJTkJnOE5PeVpsbXIzcVlMX0Q0SlRuTjIteG1HSkh5bUpfRFJMRklEajZjbVVzZ2EwSzVWaFlaTXFBVnlNaXhXQnBfNUs2eGk?oc=5",
-   "date": "2026-11-02T21:23:12+00:00",
+   "date": "2026-11-02T21:22:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -663,11 +663,28 @@
    "id": "0501d98b86eb",
    "title": "Keiko Fujimori presentará balance de sus primeros 100 días de gestión este jueves, anuncia Luis Galarreta",
    "excerpt": "",
-   "source": "Diario Expreso",
+   "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR1pXMW5PQmpLMVo5RlYzT284WGhNeHRkbjFDM0lXb3pWSGh4QldwaHNRZFZielNLRkpUaTRqMDh1OHJpb19YWnQ2VGU1TnF2aXdmam4zZkdFV0dMMUFPUmN6YVhONlpJdVZKMjZVTjNjSThaZlhCVXpZT0lCTTNBYW1zUEJqNkx6WFRMMEpsdDJ3NzlfbW8xU3NvajdqVzdDdllpY1RycXNJVzQ0aV85eWU4ckc4eWtsSmZtbDVQbU9keExOS2F0cTVUck9LZFdKVkRKbUJpTmpIMWtrNWRNdFFxaU54Y3RwTE5EbEJmYnJpVXRVb2NsdXljVXI0NnYta0o3OVVpOWhDY1NyOUdVMVdieEk?oc=5",
    "date": "2026-11-02T20:31:03+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "e156b6ec5fda",
+   "title": "Keiko Fujimori llega a Trujillo tras captura de alias ‘Goku’ y otros 17 sospechosos en Pataz",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOamxnaWpmVTNjSnUzUjEta05hRzZjWFhpcDFlMHFHbGh5bDFuRldOUUJxeWtSd19wV0xZSmFyc2dmNVNWeGtZd182dklycjdHbmJXeVd3a1VOTktSQy1LdDhxa1huSnQ2WC10UFBNNFBjZWJFRk93dVIxX0twSEpqSzJOZlR2TlYzVERYcmRPcndYTXhoR3M2eHo0c0ZuY1hQR2RlZmF3VDNOZjM3V1UzZi14ZXd0WmFJd2pIWWxqaEFDT3FGZ0hsRHJsNXhUTWw4RXpEclRSSjJuMVlNVG1TUGRfckdPWUJrMENfSC1MQy13bU1uTXRVV0dsQUdTTVNqS2VJSUh3?oc=5",
+   "date": "2026-11-02T19:58:39+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Trujillo",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false,
+    "city": "Trujillo"
+   },
    "next": null
   },
   {
@@ -1218,21 +1235,6 @@
     "name": "España",
     "abroad": true
    }
-  },
-  {
-   "id": "771036ad90fe",
-   "title": "Keiko Fujimori suspende viaje a Cumbre Iberoamericana en Madrid para atender emergencia por El Niño",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVNtV09uaWhuU29mcUY0elprRXoyU2FnSThDOXpKcnRnLVlIVVdYaTlLcXppVjJxbW9VR0RYTDBxRVdnTDNwcENwM3p2eGxIblcxSFdnX1dGWXVjWVIwWWVGczBVVkF5XzBSV0EzbXZsT3ZtSGJyYjk1Z1p5TXpIem5aN2hvRERKM3N5ZnRR?oc=5",
-   "date": "2026-11-01T18:01:39+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Madrid",
-    "abroad": true,
-    "city": "Madrid"
-   },
-   "next": null
   }
  ],
  "geocache": {
