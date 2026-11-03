@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T13:42:21.308010+00:00",
+ "generated_at": "2026-11-03T14:03:36.725117+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -130,6 +130,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-03T07:55:00-05:00",
+   "end": "2026-11-03T08:35:00-05:00",
+   "minutes": 40,
+   "subject": "Lidera acto de inicio de las obras y la modernización del proyecto Torre Trecca de EsSalud, que contempla una inversión superior a los S/486 millones.",
+   "lugar": "Jesús María",
+   "state": "posando",
+   "place": {
+    "name": "Jesús María",
+    "full": "Jesús María",
+    "city": null,
+    "lat": -12.07819,
+    "lng": -77.0464,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-02T15:18:00-05:00",
    "end": "2026-11-02T16:05:00-05:00",
@@ -506,9 +522,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 1149,
+ "agenda_minutes_7d": 1189,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "0cd100412a91",
+   "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
+   "date": "2026-11-03T13:51:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "570c7afb4713",
+   "title": "Presidenta Keiko Fujimori da inicio a las obras y modernización del proyecto Torre Trecca de EsSalud",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDFCLVlKdjNuMklOdWl6LThwdjhNX1ZaX3c0d2lJTlA4azN3R2c0QmNEZHFGLXAxM21DaUZFWWp6VWRIaFJ0MVBFM2lKZFVVdmoxRWVMUkdiRXB1cGlfYVN4bElVLU8zZS04NjNzQWpfOFREVGNVTmxEV25rNThETy1hOGM1WmpNM2QxcklxTjJmYlBXQ21VbElQeXJ3RkFCYkl6c1RsdUljbEJkS25kdEtEZm1FYWwzbEtoUUtTN0Q5Q0ZJRWEyNlJSdzBsMGc4ZGRnN0hYa0kxUQ?oc=5",
+   "date": "2026-11-03T13:44:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "7e3f5aa8260b",
    "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
@@ -1213,35 +1251,6 @@
     "name": "España",
     "abroad": true
    }
-  },
-  {
-   "id": "92fd31913598",
-   "title": "Keiko Fujimori cancela viaje a España por incremento de lluvias en el norte reportado por el Comando FEN para esta noche",
-   "excerpt": "La mandataria indicó que las precipitaciones aumentarán a partir de hoy. Ministro de Defensa, Rafael Belaúnde, se movilizará a Tumbes para coordinar protocolos de emergencia",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObVB0akdhdWRraHAwQ3VHd3R6ck5JaXhSY25JTnVJb1VsUFk3X2FZb3BmVUdZX29nb3BvSTJJTWpqTEM2MGRxQ3R0eWtoMnU5akk0bTE0UXdmMXZTZVkxeFU2aVJOXzBROTZjOFRad1l2NWZVS2oydmJSRERPUjZJYjVaLXFabk9sQlRfRlVmeW9CbEVCN3NDOEY0ZkpPTEQxTHcxMFl4TXNiSWFUdWhjcmhtbjJSMU45cEloVDdpY3k1R0lQSmxERjJnMC1Bc3dLOENINE9OdUdEZzF1Nm42X09fVjE3cnhaTjgwcXhkTlRkeDjSAY4CQVVfeXFMTjZNenJPV1FtN2Q4QnNuTTdhSzZfRkJXLVRQMmdUUk9VaXZRZTRkZVJESW1KNFZRajFyVG1zQTlOUE5QYm12ZFJmaXB0VFFQVUJVdFlGT3Y3alFIQW5PVWlhVHA2TWVQUzFJT180czJldGVmZnUyd1BJSnA4bzJrQnM3U29aaVVzTFpSS2ZWSXVQRXNwZ1o4ZVpqemN5TUpQS0x5NzJaX2RIa3NSTGt2ZDRvdkpDM3NBZTFlSFBNdDFkWXJlVUdVZmRldHM2U0tmVEdxeXJmcDVIX05Sa20xMlVvRHBXRGNqT0JfaEt6QTBYM1RaVjFNc3ByZVpYNzdhUjJ3d0FkY1RTLWVEdjFn?oc=5",
-   "date": "2026-11-01T18:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
-  },
-  {
-   "id": "569d1e6462a3",
-   "title": "Presidenta Fujimori no asistirá a cumbre en España para atender emergencia por lluvias en el norte",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM2ZSbE9jSUloU2R0LWJkblNfQmNja0w5NlZoQWRoN3JDVV84NEdPcTFoM0doQjFxTll2aVEtWExUZVhocXFCdE1uYjRwRnNDbWxlMGN6MHZwQXFZMGdVOFY5eV95YlcxNnI1bVVLY2Rkc3dOc1BuTlpIQ0EySUJKamdfOV9WcU9pWG1pOFhMRWNCNjBSc3FGR0pvX1UyT3A4NlU4c2lqQXpOSERCZjE3azdDYVVPNFBNWjlRMlVleWcyaDRIVEYyb1R2YjFCZlk?oc=5",
-   "date": "2026-11-01T18:34:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "España",
-    "abroad": true,
-    "city": "España"
-   },
-   "next": null
   }
  ],
  "geocache": {
