@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:46:53.662094+00:00",
+ "generated_at": "2026-11-03T18:32:00.208484+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,9 +116,9 @@
   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeWdOdjZpWTI0dDU3MmhWd0VkSDMzeFpnYTYtMlhCUnpGaWNld0FhV1M2eWt0b0xEVHRPQ2w0aGlwcGY3V3ljR0xROHVtRjdLZ0RtUTQxaTlmYnJUY2VVNzg2UmhFUW1UMngyQzA3VF9JcWk3SmNWQXFKeGc3YV82REh1cVloTFNWcnFEX0dPOUlXNGxNV2JqR0JhS0lheXN3Wm1IMTgxZHExdkk0VlZHUTdXYmY1aFJlVnR5dEtzbGY?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
-  "celebrando": 0,
+  "celebrando": 1,
   "molesta": 0,
   "triste": 2,
   "posando": 57
@@ -589,10 +589,10 @@
   {
    "id": "764db1e48be7",
    "title": "Keiko Fujimori anuncia que la Torre Trecca será inaugurada en 18 meses tras más de 50 años de abandono",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQWVrVFNwNFR4NldpSXFOV3NueDNnaFdDdWplbGVpVVVxaTd4a3prUEFfTGlLZV83SHdsUmYwSHU2RXVoQ0hydk9YaWZWVC05MF9uX0gyQlVIVE13UmRmTjF5S1A4VzY3NVpJSjlqTUhEem05dThOSVlhb3FKNEVMMjRMZ2tNSjBGbnBkRFZrbTUwbGpqNXFDeWEzbFhQTWNOeGFsYlpiT2RiR1RFWWJ5SXdya0dJVHhPMFVEWFNNWlVNR3lrYm9uelo5UUJoTkJPdXJjMzF5OWg3bmvSAfYBQVVfeXFMUHgzbVBUU0lnekZmZjR3QzAxSGJDN3dsS0w3ckYtX3hGVDg5ZHlmRlpSTkpoYTAyN05ncHdTUHZIY2MwLTBWOGRlX0Fpc0RoUElsZ0lBcDdxTXRDTDFTOGNyM0I1a1l2aWpOcUpZZHlyd2dMVjFiSUxxejVnLTVxcnNEX1RDeFYzc1JqTm81TFhvOVg1aTMySUFSVm51bWFUU1R6T1lNZVFTLXBhcnBlYm5kTmVzN0lOeUdLejVDLW9NVENzREdpQm4yM21jWE9Pcjljd05fc2dhMzhKc3gzdFhjMnV0eHJjSUFpcmJXcFRUYXhyUFdB?oc=5",
-   "date": "2026-11-03T16:27:00+00:00",
+   "excerpt": "La construcción comenzó en 1969 y atravesó distintas paralizaciones. Finalmente, el nuevo establecimiento recibirá pacientes derivados de las redes asistenciales Rebagliati, Almenara y Sabogal",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/03/keiko-fujimori-anuncia-que-la-torre-trecca-sera-inaugurada-en-18-meses-tras-mas-de-50-anos-de-abandono/",
+   "date": "2026-11-03T16:30:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -686,6 +686,17 @@
    "next": null
   },
   {
+   "id": "594cec508b76",
+   "title": "MEF ya no iría contra la Ley de gratificación y CTS para CAS ni contempla inconstitucionalidad",
+   "excerpt": "¿Se salva la gratificación y CTS para trabajadores CAS? El gobierno de Keiko Fujimori seguiría su implementación gradual",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/03/mef-ya-no-iria-contra-la-ley-de-gratificacion-y-cts-para-cas-ni-contempla-inconstitucionalidad/",
+   "date": "2026-11-03T14:50:53+00:00",
+   "state": "celebrando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f0cb9bdd8ea5",
    "title": "Keiko Fujimori destaca “mensaje de unidad y esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
    "excerpt": "La presidenta Keiko Fujimori resaltó la coordinación entre el Gobierno y el sector privado para destrabar la Torre Trecca de EsSalud, una obra que permaneció paralizada durante 16 años y…",
@@ -763,6 +774,17 @@
    "next": null
   },
   {
+   "id": "655cf3b8b284",
+   "title": "Keiko Fujimori anuncia traslado de internos peligrosos al penal de Challapalca",
+   "excerpt": "",
+   "source": "Revelación.pe",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZEJISU9Pd0FMVkF5M3pJcUw5eV9hVjlVb3pNVkMyV0hWZGZ3TzkzRERIdDhUcVNrWG1Cc3NLWFhWZnRweTc5SVN6YUQ1UHh1OWRoNndxa3dFNkUtcUJOdGxXSDBhQW1CSEN0ZjZBbFdKU1ZzR2FzMXE0UDdDWlJ5b25DcGZ4dDhqdS1mY2MtUE4yalRRRTRvZ2VMRlRpb1JVRE91bkZQNVFiRVhjQzU2Mnh3?oc=5",
+   "date": "2026-11-03T07:09:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "163019f12705",
    "title": "Keiko Fujimori reordena a los presos de todas las cárceles de Perú",
    "excerpt": "",
@@ -799,9 +821,9 @@
    "id": "24797d7c2747",
    "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
    "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-ordena-reclasificar-a-todos-los-presos-del-peru-y-ampliar-el-trabajo-en-carceles-habra-varios-cambios/",
-   "date": "2026-11-03T01:20:11+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMGlUdy1NY3lsMjBwT2psRjlGbUdfTXFWSDhKZDcxYlA0N000RmpXc0JzUDRIU0wwaUhMZmNHVHZueWJyUEtEajd5RUxlMmpOUkllV0toVzVOTFVPUWVsREVvekRPRmlqdVhubGRsVDJEbzVrM05pTndDTkotbFI5LVJfSW16b29yMzNISUtMZjBVTEJ2NzVrdkVpTGNSd1BnZHhBY2lXS2dFZ0hwR1FBWnFNNEJQX2kycFhpRnJMQ1VaLV8zMzg4Z01FbWNrWmhoSldXQl9ZY042cVBNYjJxS2dPb041dUMydzhVeDlR0gGIAkFVX3lxTE4zc0YtM3ZHYUxuMHpNR0Z1S182eENqQ3ZzNWhLMzFJT1hTREFWMkRvUU9IUU9ScTdnNzVxV3RaZFNnZURRYU1DYy1CWlppbk9jbDl6dG5LVjhlT24zVHJaR3g1TlZHZ1dhb3poME1rT1NKYi1OVF9wM3RpT3M3VFl0VXJ1NXA0c0pQTVhnZWo5RXBFV1Y3b2tMUnppamduNUJQUTk2cThCZ3ZGM2tnU0ItSTRsQXFsOE9QTUtlUDY5dVc2SVBNRm1WX3ZKbjJqRGEwYTJkaVMwcnVkRWpXS25vVnBDZWs4dTV2bnJLVG1iWG5UZXRZbWxXeF8wUDFHYVFQNFpGZFVXMg?oc=5",
+   "date": "2026-11-03T01:20:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -954,9 +976,9 @@
    "id": "3b7df9f66098",
    "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
    "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/01/keiko-fujimori-sobre-el-combate-a-la-criminalidad-ya-no-vamos-a-esperar-mas-vamos-a-hacer-uso-legitimo-de-la-fuerza/",
-   "date": "2026-11-02T21:08:08+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcDhVLUxPM1haVFF6UWdadnFTdGVxb1NZaDhLYWZyMVJvc2JnSWdwdXo0MDg1Q1Z4a3BwMEhnbGN4LU1jTkFDUzMxTGJ0MnRaYkhPSkZ5dmdYZVViMVI0ZVBtUmtkMlRpaGVldzZsUFpkMlg2d1paMENRcjY3ZjFwRWFQdlJObW4xN3ZxTURKdWpNMy1CbkVjVDdGcTgtajVrVWZBTWhiN1R3MGlOendRN1lDQmludG42ZHB6UklQWDVwNHRVWVA3ZktGdll0dENnSzhzM3hiLS1yaGhhdjdwNWotcVdOSkoyNVRYZdIBhwJBVV95cUxOM3VGYmNROGMzeFJNX3NGbFJfLTdDVjU1eWNHb18tOGVwNVNrZEYwb0l6eTJVOTNoZF9lblNSTW1sdWJFMHB6aFNLYmN2ZDFJdUM4QTJtckl1di1qQmF1U3lVdlQ0UHQ1Q2gwekJIbXdpRGRkZkpHeHE5QXU4d1VFb1FtTWZEcHJfMlU2bGZtV0dYb1NvNDZtS09TOWN1Y2I2RWNlX1QycnljWGxtbm9kVS1WRzZKUWlRQTNnLVlDUmdfS05FNk9VUGxoNUtOVzJ1emJzeUJtYmMtcEkwRWdoSlNzM2lwZUdraW95U1VGQlhGZDhUU2xkeEJOQS03MmN4Mnc3cjA3Yw?oc=5",
+   "date": "2026-11-02T21:08:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1135,17 +1157,11 @@
    "id": "18d798b04de8",
    "title": "Keiko Fujimori alerta por lluvias en el norte del Perú y advierte: “Vamos a enfrentar una condición de Fenómeno El Niño ‘extraordinario’”",
    "excerpt": "La presidenta encabezó una reunión de emergencia en el COEN tras registrarse el segundo pulso de lluvias intensas en Tumbes y Piura. Anticipó precipitaciones muy fuertes para el 7 y…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-alerta-por-lluvias-en-el-norte-del-peru-y-advierte-vamos-a-enfrentar-una-condicion-de-fenomeno-el-nino-extraordinario/",
-   "date": "2026-11-02T18:09:34+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTjY5NzA4WldKcEk4cTk5OV9MblhGQ1RWMEFIVmV4N2pIM0VBaHFKekRDQ0dIcnpiTkx4Q01GbUlxczRlbUs4UGNXY3FLN3owbGhXdm5taFdJal9FaTdoWTRVaXZpZHZhTEt2T1Y3cEpnS0dVa1JVVEV2ZWJjRkZVRnhHU0M0c3dLRjRvcXZxQnJEQkJ4czhRa2dSUm5MWk5QV25FYjd3YW1hYjZjMVNCRWhTOXRzVDFhMEtFU1dYNlBvanZ1LVgyYXRwNzdrODhsMTV2QlB1YWJNU0xVV0JUOWp0OVF6WDdxbzB3LVpnOXBhTVkyV3pGR2R2MnpqWFZWaXc40gGeAkFVX3lxTE5VSFFpODd6Q1V3MzN4ZDhtb1VlWlRNMVUycFFSOGMxVkVnZnpfUHhoSVh6XzJxWVdsV2paZlFRTGhFczZGOUNZakg3MFlyWmxweEdLc2dVdXBfNW4tTWxKUUpxT3lmdXVNMU9CUXA4SDZXQzlCS1hYU21iWGxsU3Bhd3Y2Rmo0czItRXRsVTI2SFFoc2ZFUU9tV3BjVHJPcTZDb2lfdzRvV1A4NGZNUkZ2d2prYUd0OUpmZHJLZ0M5T2t0YmNuc29FXzI3bFY1ZmdISnFKelJlSnVrQmoyVkNtNXdjaWZHeFdFWlNEa0J4bEFLNWhxeVFxNktpTzBCdUNPWVpkR2d6NEFtU3NTLUY2X1BhTkZPRVBUdkN2SFE?oc=5",
+   "date": "2026-11-02T18:09:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
+   "place": null,
    "next": null
   },
   {
@@ -1234,28 +1250,6 @@
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVJDcy1saUhBRFViTk5iOWstMWtCTFJjYWE5RWd1YnJEQ1RFby1tRlh5dGFzaFRWS0xLMnFEVENSdUgzdTdVaTlEalBEX2M0bGtBMHJEdGhBZVJjeE9FTG5nMC1LbWZqSGxrdWt6eDZ2dTZham9SaThGNmZQY0kya3dhenFYWWh0cS1HTlBtajJmTGxCZjN4UER3WnBkbjc2Sy11c1dBd2FOeHA3R2ZXTWpRdVd0eUludm8ySmFhYjljekdmYldaTnRKSHM4dw?oc=5",
    "date": "2026-11-02T15:02:24+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6de045390c31",
-   "title": "Keiko Fujimori: 47% peruanos considera que la situación mejorará",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRnBqeXY1dGZ6NTYxeGtuZlczX3hQT3BuOEpwUjl5YUJBQ3JxMmM1eEtCQUFmc3V3c1RyN2hPS09NZF8tQ3dsVEduV3dyeDNtRE9Jb3FSbTBtT0pXU3JjeU13aGNlUzJKS3J0XzVMdDFvNjNobUV0MzYzVVZPV19MS1dZd3ZldzNMYUNYX1pjaHJCd9IBlgFBVV95cUxNOHQ3Z0NKWFJXcXdqSkNJN040aDkxdTNpTEdHbEhSRGNPV01rMlVwX3NGaTA2UllVWGRkZEd1TGZlMHNFSXVtalZoSE5zQ0lneWRObU16U2NoVFhWdVBJRkhpT3IwM0k5TU01bjBtbmlQZG9vdUlJbFplSWcwYVBGcXl3V1g2Tm8wNkd3N3RfTTdkcUhCd2c?oc=5",
-   "date": "2026-11-02T14:47:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ba19b8ce8583",
-   "title": "EN VIVO Intensas lluvias se registran en el norte y Keiko y sus ministros visitan zonas afectadas",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3JFVGFudHBHU196R2xpVnpMX1QzWkhnU2d6Ym1ma3EyQjR1dmkxS3lMMkVocnp4V3E4T2h5S3R6dzFyRmlyVXdSaEx5MFQtczNxRDcyMWJlSzhkZ1R3NkpTVHpwXzNCU3dUaTFpdjJNRXZ2VkVZbFJPR2xZU3Nadmdqa0lrM2FIakt1RE4yTkI2b04wZ3VCaTdEd012VUtmQThzanJNS0t1SWVFeXlJcXpod21EYWxkYTRhRVRRMzZtVi1BQkUtZ09CWld1TlppMkE?oc=5",
-   "date": "2026-11-02T14:43:00+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
