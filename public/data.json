@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T01:37:47.220511+00:00",
+ "generated_at": "2026-11-03T02:00:11.649916+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -494,6 +494,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4b53ed203f21",
+   "title": "Presidenta Keiko Fujimori anuncia reordenamiento de internos a nivel nacional",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, sostuvo que su Gobierno realizará un reordenamiento de todos los reclusos a nivel nacional y que los más peligrosos serán trasladados al penal…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/presidenta-keiko-fujimori-anuncia-reordenamiento-de-internos-a-nivel-nacional-noticia/",
+   "date": "2026-11-03T01:44:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "24797d7c2747",
    "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
    "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
@@ -572,17 +583,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-sobre-el-modelo-de-nayib-bukele-hemos-tomado-varias-iniciativas-como-el-programa-cero-ocio-ultimas-noticia/",
    "date": "2026-11-02T22:19:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4b53ed203f21",
-   "title": "Presidenta Keiko Fujimori anuncia reordenamiento de internos a nivel nacional",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, sostuvo que su Gobierno realizará un reordenamiento de todos los reclusos a nivel nacional y que los más peligrosos serán trasladados al penal…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/presidenta-keiko-fujimori-anuncia-reordenamiento-de-internos-a-nivel-nacional-noticia/",
-   "date": "2026-11-02T22:15:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
