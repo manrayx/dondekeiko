@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T02:44:03.016064+00:00",
+ "generated_at": "2026-11-03T03:06:11.004908+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -131,15 +131,47 @@
  },
  "agenda": [
   {
-   "start": "2026-11-02T13:20:00-05:00",
-   "end": "2026-11-02T13:36:00-05:00",
-   "minutes": 16,
-   "subject": "Participa en presentación de resultados de operativos del Comando Unificado en Pataz.",
+   "start": "2026-11-02T15:18:00-05:00",
+   "end": "2026-11-02T16:05:00-05:00",
+   "minutes": 47,
+   "subject": "Sobrevuela las quebradas San Idelfonso y San Carlos para supervisar los trabajos de prevención y mitigación ante el fenómeno El Niño.",
+   "lugar": "Trujillo, región la Libertad",
+   "state": "posando",
+   "place": {
+    "name": "Trujillo",
+    "full": "Trujillo, región la Libertad",
+    "city": "La Libertad",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-02T14:10:00-05:00",
+   "end": "2026-11-02T14:50:00-05:00",
+   "minutes": 40,
+   "subject": "Inspeccionar el establecimiento penitenciario “El Milagro” y supervisa el traslado al penal de Challapalca de internos señalados como cabecillas de organizaciones criminales, tras una reyerta que dejó tres reclusos fallecidos.",
    "lugar": "Trujillo, región La Libertad",
    "state": "posando",
    "place": {
     "name": "Trujillo",
     "full": "Trujillo, región La Libertad",
+    "city": "La Libertad",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-02T13:20:00-05:00",
+   "end": "2026-11-02T13:36:00-05:00",
+   "minutes": 16,
+   "subject": "Participa en presentación de resultados de operativos del Comando Unificado en Pataz.",
+   "lugar": "Unidad de Servicios Especiales de la Policía Nacional, Trujillo, región La Libertad",
+   "state": "posando",
+   "place": {
+    "name": "Unidad de Servicios Especiales de la Policía Nacional",
+    "full": "Unidad de Servicios Especiales de la Policía Nacional, Trujillo, región La Libertad",
     "city": "La Libertad",
     "lat": -8.112,
     "lng": -79.029,
@@ -490,7 +522,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 1147,
+ "agenda_minutes_7d": 1234,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -543,7 +575,7 @@
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOckZhbW9KMkZ5OWNfLVhPMTlPVzM1d0NGTW52UFRoWWF5YzdzMVpFdzN1c1dOaEJheG0yNlJZcHkwQnl1eWlZVWdKVG05YkNzOV9xSW9fZFl6U0lQZUZxYzk1NDJJNkpNN2w1ejRBU0ZNTUdQSUVsd2RLWWRVT2doaTYzeGpvc003b2IzREd5MjN2QlMyV0h1WmNOUGRQZWdKR3RIWk8zenhZMVN1SmwyOXUxUmdaTnNBa2VsTlZaWTdqRURC?oc=5",
-   "date": "2026-11-02T23:34:00+00:00",
+   "date": "2026-11-03T00:07:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -685,6 +717,17 @@
     "abroad": false,
     "city": "Trujillo"
    },
+   "next": null
+  },
+  {
+   "id": "8c3c6151fa50",
+   "title": "Keiko Fujimori tras reunirse con Nayib Bukele: \"Los reos tendrán que trabajar para resarcir a la sociedad\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY2VScFB4c1huWk0tZF8yWWlQSFktM1dhMFdoLV9WSW1SN3Fac3BiSUVsOXFBT3F3eUtZdDB1WUJlVzk4eTNTUWpVNUc2ajN3Tmh3ekdmeUFBaml0ZWx6LXVGWkJ0VVE0b3J1T3RzWHlNYlJUQkxKMlRoVVctbFJocmlMd2VRbWpNSm5HZnVR?oc=5",
+   "date": "2026-11-02T19:39:22+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1221,20 +1264,6 @@
     "name": "España",
     "abroad": true
    }
-  },
-  {
-   "id": "4ff07ee0a7f0",
-   "title": "Keiko Fujimori cancela viaje a España por lluvias",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOem5lS1Z5N0lsWHlYUFJqYWlrM0tJcHE1Qm5EcmZRR2JHVGdPTDZtUTVWSGZfU3ZFMHpYUjFoMDNUX0dvZDdUWmd5U3laclZVTGFiZl9yQUVSMVdTS1JGN1AwZlo5QnRoMFFCM3RaY2xITTdJQm9DRTlLMmc1RGpCTjAyMGliaGJ5VFlpaGNtNWJlQW5jYnJvMDVpdkVlN0MzVjE1bldRTEnSAa4BQVVfeXFMTkRZbjRFcVhxOWowX1lFNmVWV01PMFNPci0zZjNPaHNTNzFUa3BYS21JbDZGQjFwWEJKZHlZSVBrc2xBWHl5R1RtQWJITmlqOTd6M051QjcyVnRPSUJza2FOOXE2aUx4N3drUGROSHBRS2NUckJrc0J6ZnhGM0RQUmk0NGhHd0hEeGFKX2pOMmpIU0Q3dDB1c1FoOWp3Y3NNdzdrUVJVM2VoSDFWaEJn?oc=5",
-   "date": "2026-11-01T18:05:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
@@ -1316,6 +1345,8 @@
   "congreso, peru": [
    -12.04814,
    -77.02636
-  ]
+  ],
+  "unidad de servicios especiales de la policia nacional, trujillo, region la libertad, peru": null,
+  "unidad de servicios especiales de la policia nacional, region la libertad, peru": null
  }
 }
