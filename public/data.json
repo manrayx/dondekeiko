@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T20:45:08.210859+00:00",
+ "generated_at": "2026-11-03T21:07:27.739123+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
-  "triste": 2,
-  "posando": 57
+  "triste": 1,
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -702,6 +702,17 @@
    "next": null
   },
   {
+   "id": "3d8f6da0de5f",
+   "title": "Presidenta Keiko Fujimori entrega cinco vehículos de emergencia a bomberos donados por Japón",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVWZkTHZBRnc4c2p2N2FvMk9nTHdMR3RjczhPd3BEbDZSSmhoR0t6ZVY2T1FvTm9mZTJJU0hLam5hbkRpT3FmTlBSX19BQmdJTzlHeld4UnBCTjJpR08zLVBsSldManZ6T0FYMFU2bTFkMEtXeVFEVEstLVNmdHQ5NXphUFFqbXJxM3VsOFFjU2xhUVNBNUdMTDdVZDM2RTh6dVJOdEJoXzJZX2xpSFBzWUpMMWVYeDR3XzgyNFpGeDVIWDdzd0dGMjlMd0lMQkc4UzdUUzVmb1hLS0k1ajZJZTItelBfd0t4MjV1NHhCWHU1dWFoM0NkNktCSWJGTFpEV2cxbkdCSXp4ODBvRm4zdmVRZVRwdVE?oc=5",
+   "date": "2026-11-03T16:12:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9e2875fe804c",
    "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
    "excerpt": "",
@@ -1250,17 +1261,6 @@
     "abroad": false,
     "city": "Tumbes"
    },
-   "next": null
-  },
-  {
-   "id": "a6d77724d265",
-   "title": "Zunini cuestiona al Gobierno de Fujimori por inacción ante el FEN e inseguridad: \"Presionó indebidamente al Congreso\"",
-   "excerpt": "Mientras el parlamentario de Juntos por el Perú, Ernesto Zunini, exigió acciones inmediatas en materia de seguridad y obras de prevención, el ministro de Desarrollo Agrario, Marco Vinelli, sostuvo que…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/02/zunini-cuestiona-al-gobierno-de-fujimori-por-inaccion-ante-el-fen-e-inseguridad-presiono-indebidamente-al-congreso-hnews-156906",
-   "date": "2026-11-02T15:46:05+00:00",
-   "state": "triste",
-   "place": null,
    "next": null
   }
  ],
