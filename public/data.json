@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T12:58:20.004506+00:00",
+ "generated_at": "2026-11-03T13:42:21.308010+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -510,6 +510,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7e3f5aa8260b",
+   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
+   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
+   "date": "2026-11-03T13:38:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3ee51377761c",
    "title": "Cien días de Keiko Fujimori",
    "excerpt": "Esta semana, la presidenta cumple cien días de gestión, hito que suele considerarse para realizar una primera evaluación del rumbo del gobierno. A propósito de la conformación del primer Consejo…",
@@ -549,17 +560,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/10/29/keiko-fujimori-elogia-el-modelo-bukele-y-afirma-que-peru-debilito-y-persiguio-a-las-ff-aa-y-la-pnp-hnews-2750157",
    "date": "2026-11-03T00:57:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7e3f5aa8260b",
-   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
-   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
-   "date": "2026-11-03T00:43:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
