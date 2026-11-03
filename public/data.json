@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T08:58:01.936594+00:00",
+ "generated_at": "2026-11-03T09:19:32.991455+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -571,6 +571,17 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUlqckRVaTNSYUxFTW1Ndi13QXdfNVl4T3l4dXlmWjJTLWtsVnVYMlFaZF9FbERQMlJNTWJRY0xSdVFObWNYajhNeHlxSnAxWHJrNTBDTUhtZWx6NjJnVWZZeVRjUi1uNGJZSVJ0aEhRNDlVd3pydmRETXlQNXIxWThjSUpNV2lFb2lKQ3BkelIzOXFtSXB4cUlEejdIb0s4aU80VXc3cHVqQ3UyWEMtWVJWZzZSSW9za2I2SkpRR2J3UlN3ZndnYlFqbzJxNUI2RGxR?oc=5",
    "date": "2026-11-02T23:01:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "de270b3b851e",
+   "title": "Presidenta Keiko Fujimori ordena traslado de 10 internos del penal El Milagro a Challapalca",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3Azbkg0OU9ZdC0yS2VHbVVyMlNLQUlXdy1XQjhrV3hTaVFHb0xIeFpMd0ppSlAtaDdTQ2pFZThOdl8wYUgyR1BhZXY0RVNXZ0xsYk9BMnJPa2dSaTBJWWozU1h4czRwS01ZM3QtcmE2b2tMbnAzNjlxMGN4MV9uYm5xVFEtREtxMmNWdlhraWtqeHpzSTNvUnlKdVE2cWZfWmVyUEkwQnhIcTNtNUtSY1VyNXBwNTl1TElEeDRTeEZIVW1BUnVNaDVwNA?oc=5",
+   "date": "2026-11-02T23:00:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1228,20 +1239,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/01/keiko-fujimori-cancela-su-viaje-a-espana-por-incremento-de-lluvias-por-el-fenomeno-el-nino-hnews-83199",
    "date": "2026-11-01T18:27:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "España",
-    "abroad": true
-   }
-  },
-  {
-   "id": "4506ef5a3178",
-   "title": "El Niño: Keiko Fujimori cancela viaje a España para atender emergencia en el norte",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcS1jWnhLZ3hPVDRjM3l2R3V2SDBDVnp0UmdCM2JIOVBvX282ZzVvMUJtTUdteFd6RzM0dkJhZDJOcElhZ1pJWHAxV0s4Yk56NXBQdjVuSHd1eXdESG9FVTNjdDdxNmRmV1h6S0t1ZUhzZW9rb2J0V0RLM0RrUVpvNnRYSnB4TmEwNlcydkhKRVVqM0RoTTE1QkZrTmpsbXdBemNZX1Q2X3lHVDA?oc=5",
-   "date": "2026-11-01T18:13:28+00:00",
    "state": "posando",
    "place": null,
    "next": {
