@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T14:24:18.144499+00:00",
+ "generated_at": "2026-11-04T14:46:33.176244+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-04T08:53:00-05:00",
+   "end": "2026-11-04T09:05:00-05:00",
+   "minutes": 12,
+   "subject": "Lidera ceremonia de entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh) para la construcción de dos establecimientos penitenciarios en Huacho.",
+   "lugar": "Ancón",
+   "state": "posando",
+   "place": {
+    "name": "Ancón",
+    "full": "Ancón",
+    "city": null,
+    "lat": -11.69678,
+    "lng": -77.11161,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-03T14:00:00-05:00",
    "end": "2026-11-03T14:54:00-05:00",
@@ -530,7 +546,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 1229,
+ "agenda_minutes_7d": 1241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -1284,6 +1300,10 @@
   "unidad de servicios especiales de la policia nacional, region la libertad, peru": null,
   "compania de bomberos voluntarios \"cosmopolita\" 11, san borja, peru": null,
   "colegio mayor secundario presidente del peru - coar lima, localidad de huampani, distrito de lurigancho-chosica, peru": null,
-  "colegio mayor secundario presidente del peru - coar lima, distrito de lurigancho-chosica, peru": null
+  "colegio mayor secundario presidente del peru - coar lima, distrito de lurigancho-chosica, peru": null,
+  "ancon, peru": [
+   -11.69678,
+   -77.11161
+  ]
  }
 }
