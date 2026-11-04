@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T22:23:12.216205+00:00",
+ "generated_at": "2026-11-04T22:45:12.692506+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-04T17:00:00-05:00",
+   "end": "2026-11-04T17:27:00-05:00",
+   "minutes": 27,
+   "subject": "Lidera la firma del Pacto contra la Anemia, que contempla la intervención articulada multisectorial del Gobierno central en alianza con gobiernos regionales, el sector privado, organismos internacionales, colegios profesionales, universidades y organizaciones de la sociedad civil.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-04T09:10:00-05:00",
    "end": "2026-11-04T09:40:00-05:00",
@@ -564,16 +580,27 @@
    }
   }
  ],
- "agenda_minutes_7d": 1279,
+ "agenda_minutes_7d": 1306,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
    "id": "e6917a327044",
    "title": "Presidenta Keiko Fujimori lidera firma del Pacto contra la Anemia",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ09Ec0dvVm1jRlBObUlsTU5lNk5NN2RUd25XWklZaXlfMXZCTW5oVVZwVnhxU1B5OV9IVDNNUEhHQkZJcVgxUzVZcThIQTZMMjM5WHdfY1Rid2pMZE11d1FJdy1qeTlMaEFSMG05djQtWXIwMnh4V1B5SlZCQTA0Yk52Wno5d3NqVUxpQ3pfU2IwRlpJZmdTandic2dlNFBjeDFWTkMyTDZ5X25Ubnc?oc=5",
-   "date": "2026-11-04T22:06:00+00:00",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWYxWk8zUmFLMnJiZGZ3LVQ5eXhOYUQ2QTBEcWRaUEstNU1KMXYxUUxrM25ZbzZteVVkWTRVTHZLaGtXRkVDLXUycFFiU2czeDBIS3EwcHhVbnpJSzliMkdZWnBKdjY3Um9MRnA4ckd3TzRURGxpb0RKUzdSWUQ1ME80amRfUHpTVkllOFhud2ZkY2dCZi1OVHd3dlpaV0ZvSGh1dkw3VFpGOHdQVnhTeUo5Sl8wdUlMTUVvWVltT3ZiQQ?oc=5",
+   "date": "2026-11-04T22:07:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "00fe1d932015",
+   "title": "Gobierno suscribirá Pacto contra la Anemia con participación de Keiko Fujimori",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajQxWXN5dFFkajFILVp1anhwX3J1V05XVTBYUjlpZHhYUXhmYU5HS2tjb1kwNk1YY2JyX1NFWTVrU2xUclpKUnhoeGFkSHU1dVplY3pWX3doODBGZEdITVhfZ3BMaXZkdjFvT0VqZ3FjejhBZEg2TWNXQXhoRFNoajRHamhObGNEN2JuM0QyMzZCRl9pekt5WEE1WU9VQVFUVS1faHI3UUtpZWFMSHJDNjZUUFgyZ2RHMTVNa9IB0AFBVV95cUxPSGMyY05Bd3pSOVZrSmc4WGhDd082RmtzM0prbGtJcS1WcXBuZ2xEd05PWmFORGlYRnIwTnRXZFhKb3NWeUxNd1kzb2Y0S1NDZmMzNnhvVlNGR0RKX3FENVRtRjF3MlN5ODdsT0tORVNKemdpMDV6WWlEcUt3eGQ0UXFiandRRnZTV0Z2VEhHeWE2SHZ3STN5SUxaSG1QOGRlaUN5TnB6ekNHMlBoeDdmQXRqclNxdElTSmRNa1dDb09ESHB0aURXYTdXNXhjekVQ?oc=5",
+   "date": "2026-11-04T22:05:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1218,17 +1245,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWR1SzR1c3pKY01kRE9aQU50YUpLN1lHT1ZpSkJBWnJjLTZKQ2xCUVFfTWJnTy1RaTRyYV9wa3JNRnhpZ3ptRnR0c0xLNWhkdGZLdzFQSGZhdmFJTzlPZi1xWDQxUWpVaXFZRzhYQ1MxZ2VZdnhpSXM1b0lFcDhMcXR1ZzBPVjdoU18yZXNRamloeVpWZEJXRlo3bXp3VTZyZDFaVVA1RFMwUmVpNjA0bjlLbkg4N3p3UUh4Y2UyVnk?oc=5",
    "date": "2026-11-03T17:35:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "763814265973",
-   "title": "Keiko Fujimori recibe donación de Japón para reforzar a los bomberos ante el impacto de El Niño",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT00yaVBPS0JVckw1aTVCZms1THRoS1d5S2lBbTNkak1ORTFmbXRwRkpDMHVmWDYwZjdKSU5BRjlQWXFRUTRDQW96TWpNc1FvZ3RfdXBqVU9USTBvUTFGN0dMcl9PVGZuS0VIWXBncXJ2Uk9ILVY3eHZWVGxoLUlWRndFMnlOeEF6?oc=5",
-   "date": "2026-11-03T16:55:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
