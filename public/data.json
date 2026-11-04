@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T04:22:40.351750+00:00",
+ "generated_at": "2026-11-04T05:05:24.799685+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -528,27 +528,22 @@
     "lng": -77.11941,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-27T08:20:00-05:00",
-   "end": "2026-10-27T08:55:00-05:00",
-   "minutes": 35,
-   "subject": "Lidera ceremonia de colocación de la primera piedra para el inicio de la construcción de la Institución Educativa N.° 1211 José María Arguedas Altamirano.",
-   "lugar": "Santa Anita",
-   "state": "posando",
-   "place": {
-    "name": "Santa Anita",
-    "full": "Santa Anita",
-    "city": null,
-    "lat": -12.04327,
-    "lng": -76.96195,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 1264,
+ "agenda_minutes_7d": 1229,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b74186e17941",
+   "title": "Presidenta Fujimori entrega 6,500 computadoras a colegios de alto rendimiento",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHhkbHp5R3ktSHY2ZnlkbEk3T3phTGJ1Mlppa3o4N0lkUkFXcGR3ZV9uUTFNOWRXS2F0WXdHaWVoYi01WEFOMzhPSkR1YUJ3eXNkSUJoZVgtemZwZTM5NkxxWnkyNzBjX3JpR3NNZk5GZ0o3WVBsbDY3aFp1eTlIQ1lTMjVLamZnYW1Ham01djJad0VlSm5KU2pPQzBpSWktQlBWU1VJT1hMa2lLaEY4ejMtUWtiM0FRaWxzYQ?oc=5",
+   "date": "2026-11-04T04:30:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "9e2875fe804c",
    "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
@@ -567,17 +562,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkFpR0t1c3dSSlE1WDNOR1lKVkZ3NHNITjRyX3RRY0czNXYwTFk5VEFWSG52OVByQndJVXVmdVBoNFJ0T05qRWs4YUVVdmJfTE1QeElra0hNa3NiTU9WQ09CaEhRb1dBTWNKanVvZTBVMkoyTmZPNnJzazJtMlRlZnM5b2RFYVV5WklJZkNfemFpLWlubDYxREZMRjJBZVFKSzdmdjZrNWZYbTlVSnU0UnVPQ3hFSzNlajFxQWJSNUFET3Zudzhr?oc=5",
    "date": "2026-11-04T03:37:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b74186e17941",
-   "title": "Presidenta Fujimori entrega 6,500 computadoras a colegios de alto rendimiento",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHhkbHp5R3ktSHY2ZnlkbEk3T3phTGJ1Mlppa3o4N0lkUkFXcGR3ZV9uUTFNOWRXS2F0WXdHaWVoYi01WEFOMzhPSkR1YUJ3eXNkSUJoZVgtemZwZTM5NkxxWnkyNzBjX3JpR3NNZk5GZ0o3WVBsbDY3aFp1eTlIQ1lTMjVLamZnYW1Ham01djJad0VlSm5KU2pPQzBpSWktQlBWU1VJT1hMa2lLaEY4ejMtUWtiM0FRaWxzYQ?oc=5",
-   "date": "2026-11-04T03:29:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -655,17 +639,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUF9kSE1hOUplc0xEVXpjdXpwS25CMHNGeWFvWjlIOGJxdjllcGZ0UGNMd0ZlMjV0MEVIZUI0bnNHeXBvcUEweDZzMi11TTFWLXptQmdlRm5tV0JYVnEwRms5Ri1yVGtYSG1PU2lsTk1OU0NVTVVIMFZHMm5ESUFxb29CZ0xXNFJHb0dIajZSVzhWcHFGdzJzX2VYQ0dOYnFkZlpGVU80NXRtbDIzcWotYTFOdWxXTmhkYVdNQWtNVXJSSlhrV3lUN3ZKeHZhX3BwdVRLcm5yY0t0SlZPS3N2cA?oc=5",
    "date": "2026-11-03T22:00:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "89f852718c3e",
-   "title": "Presidenta Fujimori participa en entrega de vehículos de emergencia para bomberos",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWhQLUFyUXVnS3M3ZXBMLWRUeGV3d3dYZmxJbFlUNnRsZ3lIa0ZuZG5PUjNuWmRSWHRXWXNkSGxXWjFvZFZpWGZQQlBKbUs5eGVra3BYdEZuNHFsRURZcGdJMlR4QXJBdkQ3NFNPcjBLdWpyV3A1aTNkYVVKWUxrUkdkTmxQa0VIYmVNSldEMTdTNW1TMUJJTzN6bnI3NmJBa3pIbWxhVjMyY2drQ2RyZm1qcHNQSUtqQUow?oc=5",
-   "date": "2026-11-03T21:39:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -919,6 +892,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
    "date": "2026-11-03T15:47:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "89f852718c3e",
+   "title": "Presidenta Fujimori participa en entrega de vehículos de emergencia para bomberos",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZWhQLUFyUXVnS3M3ZXBMLWRUeGV3d3dYZmxJbFlUNnRsZ3lIa0ZuZG5PUjNuWmRSWHRXWXNkSGxXWjFvZFZpWGZQQlBKbUs5eGVra3BYdEZuNHFsRURZcGdJMlR4QXJBdkQ3NFNPcjBLdWpyV3A1aTNkYVVKWUxrUkdkTmxQa0VIYmVNSldEMTdTNW1TMUJJTzN6bnI3NmJBa3pIbWxhVjMyY2drQ2RyZm1qcHNQSUtqQUow?oc=5",
+   "date": "2026-11-03T15:33:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
