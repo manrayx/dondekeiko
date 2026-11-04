@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T14:46:33.176244+00:00",
+ "generated_at": "2026-11-04T15:07:51.044775+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -549,6 +549,28 @@
  "agenda_minutes_7d": 1241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "328bb7e326c2",
+   "title": "Entregan terrenos para construcción de dos nuevos penales: “En pocos meses se inaugurarán”",
+   "excerpt": "La presidenta Keiko Fujimori anunció y saludó la entrega de terrenos al Ministerio de Justicia y Derechos Humanos (Minjus) para la construcción de dos nuevos establecimientos penitenciarios y planteó que…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-entrega-terrenos-al-minjus-para-construccion-de-dos-nuevos-penales-en-pocos-meses-se-inauguraran-noticia/",
+   "date": "2026-11-04T15:04:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "632ad92dfda7",
+   "title": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
+   "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
+   "date": "2026-11-04T14:50:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "6dfa0b6d0371",
    "title": "Presidenta Keiko Fujimori entrega predios para construcción de penales",
@@ -1191,28 +1213,6 @@
     "abroad": false,
     "city": "Trujillo"
    },
-   "next": null
-  },
-  {
-   "id": "f3c6a6bf7fca",
-   "title": "🔴🔵 Trujillo: Pdta. Keiko Fujimori sobrevoló las quebradas San Idelfonso y San Marcos",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUctWFUxMUthSnA0VDRpUWZhV19pM0RkcU9uRzg3NzVFY3FCYkJmTmQ0ZHZHWFFjWHRyekh5NjNDMHE0TGZXSl80M2VTUS1yWDhOVFZmX1RGWFdrdVpnc0xud0cyaml0OXljY1pXYnJvczlVMlBuaE5kek9CVzdCaTVveGxpeGtUMEpCZGJFVTJLU1ZMalJzaTdUUzZlY2VFR3pMbjgtQ0Y1Q2dwR3ZqNTBLbWhqanl2WFE?oc=5",
-   "date": "2026-11-03T12:47:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3ee51377761c",
-   "title": "Cien días de Keiko Fujimori",
-   "excerpt": "Esta semana, la presidenta cumple cien días de gestión, hito que suele considerarse para realizar una primera evaluación del rumbo del gobierno. A propósito de la conformación del primer Consejo…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-keiko-fujimori-por-martin-tanaka-noticia/",
-   "date": "2026-11-03T10:33:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
