@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T12:57:06.922912+00:00",
+ "generated_at": "2026-11-04T13:18:43.286976+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -534,6 +534,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0cd100412a91",
+   "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
+   "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
+   "date": "2026-11-04T13:16:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6ba91566256e",
+   "title": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori",
+   "excerpt": "Las cifras elevaron a 1.612 asesinatos en lo que va del año. Junio superó a octubre con 196 casos. Si bien hubo cambio de gobierno en julio con la promesa…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/04/con-182-homicidios-octubre-fue-el-mes-mas-violento-en-la-gestion-de-keiko-fujimori-inseguridad-hnews-342772",
+   "date": "2026-11-04T13:11:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "16f48893d810",
    "title": "La presidenta Keiko Fujimori cumple cien días al frente del gobierno [INFORME]",
    "excerpt": "",
@@ -699,6 +721,17 @@
    "next": null
   },
   {
+   "id": "075dcfa49529",
+   "title": "Keiko Fujimori lanza llamado ante El Niño: “Cuando trabajamos unidos se puede vencer cualquier cosa”",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2dEbHliNktDQXdueDVOeDRSUEg1TC1RQTVqcnFQZ0NhcHVnMGUwa3NHZ2VwQmVvVG9zSWNGN1JjTXVhU01VVmJyRHk0bGZ4ZEZ4SWFQTi1oVzhjRGRyZDh2MjFZR1dEOEZoa016MThaZENhZVhWRnBlaS1wanpHMG9SWFphVWVmSTVyUUg0NzJxTGlqU2FLdHdzbFlDTHFkT01NVjVtVXJvcG0td2p2YXppa2I0Nl9JREVNUjFta3JYSTM5UUFkSnFSUTNab3poVk5yMW94aS1BRElfS2hYZmxXaTFCNjc4SkV3U205Q0pqZ3Iz?oc=5",
+   "date": "2026-11-04T01:12:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "fb32f84f59b4",
    "title": "Municipalidad de Tacna pide a Keiko Fujimori detener el envío de más reos peligrosos al penal de Challapalca: ¿por qué?",
    "excerpt": "Tras el anuncio de una reclasificación de la población penitenciaria, la comuna de Tarata advirtió que la medida podría afectar la seguridad y el bienestar de las comunidades altoandinas cercanas…",
@@ -804,17 +837,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVUtMU1ETWdDQW9aWkZmUkR1QUpWa3JOVEJwdVBXajhTalNBVU5PZmYxR1pWQTN5a2w3ME9iTGhSOVdvSlRmTnRkZTZ1aGpreFVNSWpYaGppRlItUldmWThPR0V2Z1RpRFVnakp2U1h5M1cyUWxjc0FQVFhrZ0Y3Q1hCajlSZ2J1UU92UXdwYXMxVE1nU2R3TnJxUGQ4Q2JBNWYxVWg4WV9aRHFYZTlFZWdrWdIBxwFBVV95cUxQVXFYZWlKTHBSVHJNU3pvb0tQTzF6RkFiNExXeGFNUkFSeWxVTGx6SkVsMms3aWNMaEFSYTMyLTI1RzBvWS1XVjlxM3lIeU5lQllQejUzZjM2SXBIWmhpcU5CM21BS2RVUmZHWVNMT1BDZjRwX1ZxNTlNMGtyYVUxRzBsa05Dd0dOcHRCM1pWbHFXbEY4Ym9XcWFsRkFMeEhxcUZMd0ptT0NDdm9Dd2NDR0dzamNEa1RROWxCM09PVml4RHpZeTlV?oc=5",
    "date": "2026-11-03T20:56:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0cd100412a91",
-   "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
-   "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
-   "date": "2026-11-03T20:32:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1173,28 +1195,6 @@
    "source": "Diario Altavoz",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVjAxNGF1a2h2YTQzQ1l3OTRCNENSTi1zRDd3Vjhnd3gtNW5GUWM5QzM5OGdqZER2QTlMdWdqZ0REUWs1S3VmbmRmV3JYUWtqVDZ2Nl9nM3lWVWlWUmR0cGJCU1hrRnJrN1AwMVRsRHlXZVZQNnJ3WVA1R3BPNmRDeldaTGhXZzZwcHdaMlJPSzFnQnlZYTh0TEY0RWNrNkFNWUhPbEx2Z09wOElmR3V2T0ZycF9oOTVqUkU0LWFYdmcwUVVkZEZqUzVZaWtkdGFadFhQUjhLcTc2X0M0YWtZWnJn?oc=5",
    "date": "2026-11-03T01:43:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "567dd34b2faa",
-   "title": "Keiko anuncia reordenamiento de todos los reclusos a nivel nacional: “Los más peligrosos irán a Challapalca”",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWmIzZVhFMVdNSmFRUTIyS1RIMDZsdXJ0TVBUU2UwUTE2VVFnby1VTUg4RDR6N3FpSThKdGZFakZtLVMyR2x3Ry1qWmlhY2RyT21jMVN4aVFVYXJxWG1ZclVDMExwQ1F2SXRjNTZkZXg4OHg0SFFvdFh3ZWIyYWNrOHdELWtiVWl2ZFk3cUF1MkUzRmxndDd1NG9DVlg2UXJ2Y2FfVkhDSk13UllldjJ5aUxJYU1QU0tVWS1Jem1vTVl5OXZnU19EM1N6ZFdONUh4ZlRwcjRzRTBib080ckRZMTNULUFjczluNzF6WklPczAtRmFjZDFPd1Jwc9IBjwJBVV95cUxPME5MU0FrX1RRQ2tSTldJanhma3FHcFF1ZkdSTGl3U0tQMXZkd3Y2MkkwMnNNTEs4VWNxZTAtRGdhRFY5dXRQSkowbkg3S3dtaUVuOU9TTVloNVBIdFlZSThYMUtBeHlRemo5QWlNZi1la3JHV3VlVjV6cUw0UkFZRTl0MnNkZllOUDdJV3g1TUwzYnc5YURTOVFWRV9uTjFDbzZOcUI5QnV3STJHbl9PdWNrZnREc1VXbFA2bnBqakg4WUpOMnlxWWhzbWp5a3JyUzFEX1hSbFVxcXpTQndiSkMyWUdtLXcxTHdhUDdSNEtmOEFaSVROZ2J3U2hxNlB3dFVVWHhOdFRucU5rM21r?oc=5",
-   "date": "2026-11-03T01:19:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d485050ec5be",
-   "title": "Keiko Fujimori elogia el modelo Bukele y afirma que Perú “debilitó y persiguió” a las FF. AA. y la PNP",
-   "excerpt": "Durante su visita a El Salvador, la lideresa de Fuerza Popular defendió la política de seguridad de Nayib Bukele y responsabilizó a gobiernos posteriores por el debilitamiento de las instituciones…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/10/29/keiko-fujimori-elogia-el-modelo-bukele-y-afirma-que-peru-debilito-y-persiguio-a-las-ff-aa-y-la-pnp-hnews-2750157",
-   "date": "2026-11-03T00:57:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
