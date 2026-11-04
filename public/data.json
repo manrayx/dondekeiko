@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:18:05.003499+00:00",
+ "generated_at": "2026-11-04T21:39:29.740536+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -567,6 +567,17 @@
  "agenda_minutes_7d": 1279,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "44625da1a6f8",
+   "title": "Keiko Fujimori entregó terrenos para construir dos nuevos centros penitenciarios en Huacho",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHA5MzJycVF4Vjl5NVRRWEczWjNyb0Z3eEJwRVZIWjBUVE5WYjJaTWRtZ2hDYjA1bEdVbTctUXFJeFNVOUViclZFTjlwRkRmd2g0QmNMb2p6S1RJR0dLQktTY3RZMmhHeExvWE5VMjJLTUY0ZTc2UlhSZjNmSFpCWjg2d0NWYUlyb3hPNlNkbWpzZFEtUlZ0TURFbDBRa0xHYWl3VS1qZHpZNUgyTGw2emJzaEtHS0pKWGpjQUh2Q2QtYjdEMzFQQkRDX2NVQ1l3ZWVz?oc=5",
+   "date": "2026-11-04T21:11:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "aae6ec8f8bbc",
    "title": "Ministro Sheput sobre críticas por los primeros 100 días del Gobierno de Keiko Fujimori: “Tenemos una batahola en el Congreso de mala fe”",
@@ -1218,17 +1229,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0RMVlRmS2hpbXFXMVd5Ti1TekpRX3gwZFNjREJFQkdmbWh5RDBGV3VNWjdZaWltVDB5LVM1VG00Wk5ZRmxvSW9xTXRlYWU1THZ5ZmkxTXd3WG5fM3FSUkd6M2pFNzl0RHFyNnBUUjQxR3Rabl9ZVGlxbnJvcmxGeWNzMlAyWTBXd21tOWpIQlo4N2RRSWptaHBGWDR3YTQtR1p5Y0ZlQ2ZSZHZDdm9yREllTHk3cG5uTUdjQTM2cUVWVlFNcEJWSkRBZFFyczQ?oc=5",
    "date": "2026-11-03T16:53:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "75e7d72426f1",
-   "title": "“Pasará a ser un referente en Latinoamérica”: Keiko Fujimori dice que la Torre Trecca de EsSalud será inaugurada en 18 meses",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTDhsSlVlaVpYV2w1MUFiVWpSU0NBTXI0V2RsR1NhbmpoOFpYRHpCd2xLcU9NLUZ2OGZzd2xfVmhnQ0x0MFhYUlZ6Ul84ck1LdGMxYi1wb3Y1SFdGVWRpRVVzRk1CYU9sa2t3b3BGZUVpWGVLSzFvZ3h5cExrUWJfVWs4MlFpZTM4dG4yakNtM0NiMU14MTZQQWpCQ2xWbERQZi1hZmxVZjNFOXZDVkRCYXZRdi11a1Q2OUdLbm5HYmd4Vkc2cVItbnBpdHk1WDR1MzExbXBISmxyc1dGdS1FV0Z6NU83QTlobzd0NGYtTklscjhNZFVpY1VhY0w?oc=5",
-   "date": "2026-11-03T16:41:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
