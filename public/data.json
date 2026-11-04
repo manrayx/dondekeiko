@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T22:45:12.692506+00:00",
+ "generated_at": "2026-11-04T23:06:24.628538+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-04T21:02:04+00:00"
+  "date": "2026-11-04T23:02:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -584,6 +584,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "aae6ec8f8bbc",
+   "title": "Ministro Sheput sobre críticas por los primeros 100 días del Gobierno de Keiko Fujimori: “Tenemos una batahola en el Congreso de mala fe”",
+   "excerpt": "Ante las críticas de la oposición en el Congreso, que coincide en que es poco o nada lo que, avanzado el gobierno de Keiko Fujimori en sus 100 primeros días,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/ministro-de-trabajo-juan-sheput-sobre-criticas-de-la-oposicion-por-los-100-dias-tenemos-una-batahola-en-el-congreso-de-mala-fe-keiko-fujimori-noticia/",
+   "date": "2026-11-04T23:02:00+00:00",
+   "state": "triste",
+   "place": {
+    "name": "Congreso",
+    "city": null,
+    "lat": -12.04814,
+    "lng": -77.02636,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "e6917a327044",
    "title": "Presidenta Keiko Fujimori lidera firma del Pacto contra la Anemia",
    "excerpt": "",
@@ -614,23 +631,6 @@
    "date": "2026-11-04T21:11:22+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "aae6ec8f8bbc",
-   "title": "Ministro Sheput sobre críticas por los primeros 100 días del Gobierno de Keiko Fujimori: “Tenemos una batahola en el Congreso de mala fe”",
-   "excerpt": "Ante las críticas de la oposición en el Congreso, que coincide en que es poco o nada lo que, avanzado el gobierno de Keiko Fujimori en sus 100 primeros días,…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/ministro-de-trabajo-juan-sheput-sobre-criticas-de-la-oposicion-por-los-100-dias-tenemos-una-batahola-en-el-congreso-de-mala-fe-keiko-fujimori-noticia/",
-   "date": "2026-11-04T21:02:04+00:00",
-   "state": "triste",
-   "place": {
-    "name": "Congreso",
-    "city": null,
-    "lat": -12.04814,
-    "lng": -77.02636,
-    "abroad": false
-   },
    "next": null
   },
   {
@@ -849,6 +849,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
    "date": "2026-11-04T17:00:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "11dbe3f43012",
+   "title": "Análisis de los 100 días del gobierno de Keiko Fujimori | EEUU: Derrota electoral de Donald Trump",
+   "excerpt": "",
+   "source": "Epicentro TV",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1pieW5aV0txV1h0Mk1wSG9lTlJLVlFkb2NGaXlFRFI2UjduLXZFNThCc3NjcDkwUU5aQWlselB2Ujk0NEdycXhhTi04VEh4N3BYSVRZbDdGejA5MlhfNWhLUE1LWUdKcE5nQkNoZmN4cjN1czhqMXA3eFY2TUV6cmh1NlVvV192dXBIcmJydTVWUm02UVpxMS1ZdFpEMVUxVHNJTm0wRWdFSXBMOHdtLUx6Sk04TnM?oc=5",
+   "date": "2026-11-04T17:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1234,17 +1245,6 @@
    "source": "Energiminas",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0xUQWVobktoMW0zOXh1NEJ5YThvZTRFWS1tWGcweTJyRWF6T0t5NU5uVmhJNlNEaGh1WTZNSXdxNm1KVW4yYndrblMtb0RndENCcmZLM3ZhVGk4bi1XeTFMbks5VTZFaTBuWVpINXhhSVNmeDE3bHlMdXFIMDBuLTRRQmhucXlaM3JkQzFvZ1dBSGVSZEk5X3M5SlBMVkFB?oc=5",
    "date": "2026-11-03T18:31:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1a67c503937e",
-   "title": "Presidenta Keiko Fujimori participa en entrega de vehículos de emergencia para bomberos",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWR1SzR1c3pKY01kRE9aQU50YUpLN1lHT1ZpSkJBWnJjLTZKQ2xCUVFfTWJnTy1RaTRyYV9wa3JNRnhpZ3ptRnR0c0xLNWhkdGZLdzFQSGZhdmFJTzlPZi1xWDQxUWpVaXFZRzhYQ1MxZ2VZdnhpSXM1b0lFcDhMcXR1ZzBPVjdoU18yZXNRamloeVpWZEJXRlo3bXp3VTZyZDFaVVA1RFMwUmVpNjA0bjlLbkg4N3p3UUh4Y2UyVnk?oc=5",
-   "date": "2026-11-03T17:35:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
