@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T00:01:43.510545+00:00",
+ "generated_at": "2026-11-04T00:22:56.589622+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,23 +550,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c7f84f4b4b66",
+   "title": "Keiko Fujimori: “El próximo año será peor (por El Niño). El Perú unido va a enfrentar los terribles estragos”",
+   "excerpt": "La presidenta pidió acción conjunta frente a los efectos del fenómeno climático durante la presentación de una donación de cinco vehículos de emergencia para los bomberos",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/03/keiko-fujimori-el-proximo-ano-sera-peor-por-el-nino-el-peru-unido-va-a-enfrentar-los-terribles-estragos/",
+   "date": "2026-11-03T23:56:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "cabcebd7bc9f",
    "title": "Senador José Castillo defiende proyecto de ley que propone amnistía para Pedro Castillo: \"Es el derecho que le corresponde\"",
    "excerpt": "El senador afirmó que la amnistía a su hermano le corresponde como 'derecho' y criticó a la gestión de Keiko Fujimori por no abordar los problemas del país.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/03/senador-jose-castillo-defiende-proyecto-de-ley-que-propone-amnistia-para-pedro-castillo-es-el-derecho-que-le-corresponde-hnews-214086",
    "date": "2026-11-03T23:34:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c7f84f4b4b66",
-   "title": "Keiko Fujimori: “El próximo año será peor (por El Niño). El Perú unido va a enfrentar los terribles estragos”",
-   "excerpt": "La presidenta pidió acción conjunta frente a los efectos del fenómeno climático durante la presentación de una donación de cinco vehículos de emergencia para los bomberos",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/03/keiko-fujimori-el-proximo-ano-sera-peor-por-el-nino-el-peru-unido-va-a-enfrentar-los-terribles-estragos/",
-   "date": "2026-11-03T23:11:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
