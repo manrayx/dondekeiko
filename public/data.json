@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T22:01:07.113862+00:00",
+ "generated_at": "2026-11-04T22:23:12.216205+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -567,6 +567,17 @@
  "agenda_minutes_7d": 1279,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "e6917a327044",
+   "title": "Presidenta Keiko Fujimori lidera firma del Pacto contra la Anemia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ09Ec0dvVm1jRlBObUlsTU5lNk5NN2RUd25XWklZaXlfMXZCTW5oVVZwVnhxU1B5OV9IVDNNUEhHQkZJcVgxUzVZcThIQTZMMjM5WHdfY1Rid2pMZE11d1FJdy1qeTlMaEFSMG05djQtWXIwMnh4V1B5SlZCQTA0Yk52Wno5d3NqVUxpQ3pfU2IwRlpJZmdTandic2dlNFBjeDFWTkMyTDZ5X25Ubnc?oc=5",
+   "date": "2026-11-04T22:06:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "44625da1a6f8",
    "title": "Keiko Fujimori entregó terrenos para construir dos nuevos centros penitenciarios en Huacho",
@@ -1218,17 +1229,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT00yaVBPS0JVckw1aTVCZms1THRoS1d5S2lBbTNkak1ORTFmbXRwRkpDMHVmWDYwZjdKSU5BRjlQWXFRUTRDQW96TWpNc1FvZ3RfdXBqVU9USTBvUTFGN0dMcl9PVGZuS0VIWXBncXJ2Uk9ILVY3eHZWVGxoLUlWRndFMnlOeEF6?oc=5",
    "date": "2026-11-03T16:55:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0f625e9be559",
-   "title": "Ministros defienden viaje de Keiko Fujimori a El Salvador y explican alcances del modelo de seguridad (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX0RMVlRmS2hpbXFXMVd5Ti1TekpRX3gwZFNjREJFQkdmbWh5RDBGV3VNWjdZaWltVDB5LVM1VG00Wk5ZRmxvSW9xTXRlYWU1THZ5ZmkxTXd3WG5fM3FSUkd6M2pFNzl0RHFyNnBUUjQxR3Rabl9ZVGlxbnJvcmxGeWNzMlAyWTBXd21tOWpIQlo4N2RRSWptaHBGWDR3YTQtR1p5Y0ZlQ2ZSZHZDdm9yREllTHk3cG5uTUdjQTM2cUVWVlFNcEJWSkRBZFFyczQ?oc=5",
-   "date": "2026-11-03T16:53:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
