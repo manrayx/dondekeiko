@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T17:18:53.821050+00:00",
+ "generated_at": "2026-11-04T17:40:57.665333+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,8 +101,8 @@
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
-  "triste": 2,
-  "posando": 57
+  "triste": 1,
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -540,6 +540,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6ba91566256e",
+   "title": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori",
+   "excerpt": "Las cifras elevaron a 1.612 asesinatos en lo que va del año. Junio superó a octubre con 196 casos. Si bien hubo cambio de gobierno en julio con la promesa…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/04/con-182-homicidios-octubre-fue-el-mes-mas-violento-en-la-gestion-de-keiko-fujimori-inseguridad-hnews-342772",
+   "date": "2026-11-04T17:30:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0cd100412a91",
+   "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
+   "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
+   "date": "2026-11-04T17:28:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c37217a5b0df",
    "title": "Acercamiento a Trump y “fórmula Bukele” marcan primeros 100 días de Keiko Fujimori",
    "excerpt": "La presidenta de Perú, Keiko Fujimori, cumple este jueves cien días en el cargo, marcados por la militarización de la política de seguridad para tratar de frenar al crimen organizado,…",
@@ -557,6 +579,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-entrega-terrenos-al-minjus-para-construccion-de-dos-nuevos-penales-en-pocos-meses-se-inauguraran-noticia/",
    "date": "2026-11-04T17:06:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "20e0b815afa1",
+   "title": "Presidenta Keiko Fujimori entregó terrenos para construir dos nuevos centros penitenciarios en Huacho",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3RUb3g4Rm50TFBEN0NONG50WFI5OEFDbmRXVjhRcXdQZTQwVk5OdkhsQl9hTy05MkFFLVAwYUxBMDRLWnBvQmZoYllhRWFxWTVKd1JhUVBUaWdUb3J3SlVJeV9HQWVGeDhaN2tSQjJOQXhyaGJnWnJ0eWZoOWpreVpnTHNPWHpydGo2VG8xNllhQWNPdkRsT3FoVlNUdDd4R2c1LUU5SWhNZzJVNUoxWDVxSWlheFZWWTYzN1JKZUgzcUNQdF95bml0Q3VTTW44MWxB?oc=5",
+   "date": "2026-11-04T17:03:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -650,34 +683,12 @@
    "next": null
   },
   {
-   "id": "6ba91566256e",
-   "title": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori",
-   "excerpt": "Las cifras elevaron a 1.612 asesinatos en lo que va del año. Junio superó a octubre con 196 casos. Si bien hubo cambio de gobierno en julio con la promesa…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/04/con-182-homicidios-octubre-fue-el-mes-mas-violento-en-la-gestion-de-keiko-fujimori-inseguridad-hnews-342772",
-   "date": "2026-11-04T15:22:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "6dfa0b6d0371",
    "title": "Presidenta Keiko Fujimori entrega predios para construcción de penales",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0FWdWphV3p4aS1OakpueWtjYTBSQTFqY0ZXU0NlUURXLTBLVVUwb2s5ZWV0ODU4ODN4UE1IYmwwcGxHdkNCUm1Xa19oZmFpMlA0V2o5MWlILXV3a0lKemFfNzZQVlA5aWVhb20zVWhKUnA4S0dXU2pIeHhJU1puRjBmOVMzU0hZMHdEb2ZycHcweEttbjlzYW5qOG1LYXhqN2NmalhhLWljVTNCc0Y2NktlbTM?oc=5",
    "date": "2026-11-04T14:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0cd100412a91",
-   "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
-   "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
-   "date": "2026-11-04T13:16:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1185,17 +1196,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWlFPaEZvWDJYVVYwODlGLXlHa1pzcTFwck9EUUhnZlpLUGprY0VrMVY5dHZBdmlTTGd3S1FKcFAyQ1pEN0JaaXIyaXpqQVFYTG1pNWRCaUpaOU1GbUJNNG1yak4wSk55eml1aEFUV0ZobGo0dUdEaHdpYkN3TXc2U0ZsaEFaYzdfaDJDWDh2SXFrS1VfNVp1SU4wQm9Zc0g2a3hWWkNZeVJ0UzBKQW96eDZMMnBtRUdpTGJGT3dzY2NmVno5OWZqTzFhX0YzT29l?oc=5",
    "date": "2026-11-03T15:30:00+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9165bf621fed",
-   "title": "Ministro Juan Sheput cuestiona a diputados que dicen que el Gobierno no ha hecho nada: “Eso no es política, eso es mala fe”",
-   "excerpt": "El ministro de Trabajo cuestionó a los parlamentarios que sostienen que el gobierno de Keiko Fujimori no ha hecho nada, pese a que el Congreso otorgó un plazo de 90…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/ministro-juan-sheput-cuestiona-a-diputados-que-dicen-que-el-gobierno-no-ha-hecho-nada-eso-no-es-politica-eso-es-mala-fe-ultimas-noticia/",
-   "date": "2026-11-03T15:05:38+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
