@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T09:06:53.621217+00:00",
+ "generated_at": "2026-11-04T11:29:32.392935+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -534,12 +534,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "44996aac1c85",
+   "title": "Leonel Herrera califica de ‘propagandística’ la visita de Keiko Fujimori a El Salvador",
+   "excerpt": "",
+   "source": "Diario Co Latino",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd19aQzRtVkNCZGRoRlZNcVVhNWFGQ1JsbFJ4OUJ5U3kwWGhWVVItTWRlRWtVV3FaWlZhV1dfd3FvZnZwY0RNUTMtX24yMkhfVEY3dWxKbk51dmF2M0M0UU9nVXRBSlV5bnZqcEphbE9xdlp2NHlPdl9KYmVldDZpVGktMzFoRE9vRW0ycGk2LWJTQkdXemlPZVpiLVZVOV93VFJsNk1WVjlDaExtMUtmb05iS21mNUk?oc=5",
+   "date": "2026-11-04T11:15:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b74186e17941",
    "title": "Presidenta Fujimori entrega 6,500 computadoras a colegios de alto rendimiento",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHhkbHp5R3ktSHY2ZnlkbEk3T3phTGJ1Mlppa3o4N0lkUkFXcGR3ZV9uUTFNOWRXS2F0WXdHaWVoYi01WEFOMzhPSkR1YUJ3eXNkSUJoZVgtemZwZTM5NkxxWnkyNzBjX3JpR3NNZk5GZ0o3WVBsbDY3aFp1eTlIQ1lTMjVLamZnYW1Ham01djJad0VlSm5KU2pPQzBpSWktQlBWU1VJT1hMa2lLaEY4ejMtUWtiM0FRaWxzYQ?oc=5",
-   "date": "2026-11-04T07:25:34+00:00",
+   "date": "2026-11-04T10:30:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "78ab24162cb5",
+   "title": "President Keiko Fujimori announced that 500 schools to be built in Peru next year",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkFpR0t1c3dSSlE1WDNOR1lKVkZ3NHNITjRyX3RRY0czNXYwTFk5VEFWSG52OVByQndJVXVmdVBoNFJ0T05qRWs4YUVVdmJfTE1QeElra0hNa3NiTU9WQ09CaEhRb1dBTWNKanVvZTBVMkoyTmZPNnJzazJtMlRlZnM5b2RFYVV5WklJZkNfemFpLWlubDYxREZMRjJBZVFKSzdmdjZrNWZYbTlVSnU0UnVPQ3hFSzNlajFxQWJSNUFET3Zudzhr?oc=5",
+   "date": "2026-11-04T09:37:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -550,7 +572,7 @@
    "excerpt": "",
    "source": "La Linterna Azul",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQzN1ZEp2MGNvUEgzYTdMRXYzQlRqZ2tKekxpS0ZzNHh2QkRITV9ycWlwMzF1MWxiMkNMcVg5NEtkMTJZbVpRSWZSSENpd2lpR1BNOUN0YVJfdHktMmFTOTBfVHdEMFdFd192cS1uemlzOE9RNmhHbUU0Z1JJVGc3RkhBa1VYUmhIVXQwMjFZYWJXVjgwSWtVQkhnVEdiSTBXOEY4OE5aRjhTdFY3ZWRNQzhwZDY2R1E?oc=5",
-   "date": "2026-11-04T05:09:24+00:00",
+   "date": "2026-11-04T05:19:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -584,17 +606,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFpyN05tUWVoVV9zR2lHSGpXTGNmNXIyZDA0LTZFN29VZWdENDBYWTFmbEhRT3FfUVJDVDFSZ2Fwa3REZmVQdXFpUU82ZV9UQWdWelM5TE9QejVxMUpES1ZXa2ZQRTBGdEgtazdFakt4UGNZR1JDYVRvbE51bGp1Z2hESU5HSUtlaXplX2tSZ0RYQQ?oc=5",
    "date": "2026-11-04T04:05:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "78ab24162cb5",
-   "title": "President Keiko Fujimori announced that 500 schools to be built in Peru next year",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkFpR0t1c3dSSlE1WDNOR1lKVkZ3NHNITjRyX3RRY0czNXYwTFk5VEFWSG52OVByQndJVXVmdVBoNFJ0T05qRWs4YUVVdmJfTE1QeElra0hNa3NiTU9WQ09CaEhRb1dBTWNKanVvZTBVMkoyTmZPNnJzazJtMlRlZnM5b2RFYVV5WklJZkNfemFpLWlubDYxREZMRjJBZVFKSzdmdjZrNWZYbTlVSnU0UnVPQ3hFSzNlajFxQWJSNUFET3Zudzhr?oc=5",
-   "date": "2026-11-04T03:37:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1192,17 +1203,6 @@
     "abroad": false,
     "city": "Madre de Dios"
    },
-   "next": null
-  },
-  {
-   "id": "ed823cbf4880",
-   "title": "Keiko Fujimori sobre el modelo de Bukele: “Hemos tomado varias iniciativas, como el programa Cero Ocio”",
-   "excerpt": "La presidenta Keiko Fujimori se refirió al modelo penitenciario de su homólogo de El Salvador, Nayib Bukele, y dijo que se han tomado varias iniciativas en nuestro país, como el…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-sobre-el-modelo-de-nayib-bukele-hemos-tomado-varias-iniciativas-como-el-programa-cero-ocio-ultimas-noticia/",
-   "date": "2026-11-02T22:19:21+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
