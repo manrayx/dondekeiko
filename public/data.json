@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T23:39:50.438203+00:00",
+ "generated_at": "2026-11-04T00:01:43.510545+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -649,6 +649,17 @@
    "next": null
   },
   {
+   "id": "f94cb2ea6485",
+   "title": "Keiko Fujimori anuncia construcción de 500 colegios para el próximo año",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVUtMU1ETWdDQW9aWkZmUkR1QUpWa3JOVEJwdVBXajhTalNBVU5PZmYxR1pWQTN5a2w3ME9iTGhSOVdvSlRmTnRkZTZ1aGpreFVNSWpYaGppRlItUldmWThPR0V2Z1RpRFVnakp2U1h5M1cyUWxjc0FQVFhrZ0Y3Q1hCajlSZ2J1UU92UXdwYXMxVE1nU2R3TnJxUGQ4Q2JBNWYxVWg4WV9aRHFYZTlFZWdrWdIBxwFBVV95cUxQVXFYZWlKTHBSVHJNU3pvb0tQTzF6RkFiNExXeGFNUkFSeWxVTGx6SkVsMms3aWNMaEFSYTMyLTI1RzBvWS1XVjlxM3lIeU5lQllQejUzZjM2SXBIWmhpcU5CM21BS2RVUmZHWVNMT1BDZjRwX1ZxNTlNMGtyYVUxRzBsa05Dd0dOcHRCM1pWbHFXbEY4Ym9XcWFsRkFMeEhxcUZMd0ptT0NDdm9Dd2NDR0dzamNEa1RROWxCM09PVml4RHpZeTlV?oc=5",
+   "date": "2026-11-03T20:56:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0cd100412a91",
    "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
    "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
@@ -1220,23 +1231,6 @@
    "date": "2026-11-02T19:39:22+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "4d43ecdd1f4a",
-   "title": "Keiko Fujimori: reacciones tras encuesta sobre sus primeros 100 días de gestión",
-   "excerpt": "La evaluación de los primeros 100 días de gobierno de Keiko Fujimori genera posiciones divididas en el Congreso. Mientras desde el oficialismo destacan las acciones emprendidas por el Ejecutivo en…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-reacciones-de-diputados-tras-encuesta-sobre-sus-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-02T19:31:56+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Congreso",
-    "city": null,
-    "lat": -12.04814,
-    "lng": -77.02636,
-    "abroad": false
-   },
    "next": null
   }
  ],
