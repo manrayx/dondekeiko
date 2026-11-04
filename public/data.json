@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T11:29:32.392935+00:00",
+ "generated_at": "2026-11-04T11:51:45.538747+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Trujillo"
   },
-  "source": "Revista Caretas",
-  "date": "2026-11-02T23:51:22+00:00"
+  "source": "www.apnoticias.pe",
+  "date": "2026-11-03T12:50:02+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -1051,6 +1051,23 @@
    "next": null
   },
   {
+   "id": "fff5011572ca",
+   "title": "Presidenta Keiko Fujimori supervisa el penal El Milagro en Trujillo",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUjNqdFJQS3NudEROUHg0TTJpZmwzMktQdHNvaktQZWt0VXZoWFRZQjgtWk9nY0t1c3FTN2JZSklMNzZrYWR4eUpTX1ExTU5DYVVTZ1FzRVJ5NE4wV2FWWWk2LXVzZmlpYjJ1dUJnTmVUSlh1anZ4NFZKT2JHUGFOSGY0eWdVbllPOUtBdGwyQ0hlS0ZjQXR5bjZpdm9JRGRMMG94QjBjdHduUQ?oc=5",
+   "date": "2026-11-03T12:50:02+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Trujillo",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false,
+    "city": "Trujillo"
+   },
+   "next": null
+  },
+  {
    "id": "f3c6a6bf7fca",
    "title": "🔴🔵 Trujillo: Pdta. Keiko Fujimori sobrevoló las quebradas San Idelfonso y San Marcos",
    "excerpt": "",
@@ -1186,23 +1203,6 @@
    "date": "2026-11-02T22:51:55+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "33e475f0321a",
-   "title": "Keiko Fujimori llega a Madre de Dios para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2pnUnJ1c2NqLXJUSHRJa2pxVnZpNWxoLXE2VFdva2xOTlhuaUJVQVB1ZWd4RFRDcjhZb3dnWlUzSHVoLS1JTmJFTV9HUG5NaTJDSkp1S3l0UGQwUmNWc05EZl96NHBjSmk3STFBNzJGZzd5ZTlhV0hhVWItRUlEc21kSWZObmc5N0dLWnFQbWdMdU0xRTczZW9GSG4zWFdSTEhhSFZOdkZhQTU1a19uMjFB0gG3AUFVX3lxTE5xUmh3ek9MN3JYSk9kSnhBcFlfR3NYSnItREU0bUk1NW5DTXdNM2pqaWx1enFNMXd6d3k3bTN0Nk5Jb1VVcDZ0ekxjQ0JLQmhzMTBHUTBBUEc2XzV3ZkpfbVpjVUpybEtpZ25rSDJfaXdiOGdVanZtelo1ZkNnRDJmVjFaUE9waWEtVjlUeWwtY0JYaHQxaW5tcTVqaVV0dzJfZEh2NC05Q1M2SWx2R1lINll0VzFUTQ?oc=5",
-   "date": "2026-11-02T22:40:09+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Madre de Dios",
-    "lat": -12.594,
-    "lng": -69.189,
-    "abroad": false,
-    "city": "Madre de Dios"
-   },
    "next": null
   }
  ],
