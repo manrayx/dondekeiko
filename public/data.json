@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T07:39:11.252044+00:00",
+ "generated_at": "2026-11-04T09:06:53.621217+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -573,6 +573,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
    "date": "2026-11-04T04:14:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "146d1a5a4d3d",
+   "title": "Roque Benavides evaluó los primeros 100 días del gobierno de Keiko Fujimori y propuso reducir ministerios",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFpyN05tUWVoVV9zR2lHSGpXTGNmNXIyZDA0LTZFN29VZWdENDBYWTFmbEhRT3FfUVJDVDFSZ2Fwa3REZmVQdXFpUU82ZV9UQWdWelM5TE9QejVxMUpES1ZXa2ZQRTBGdEgtazdFakt4UGNZR1JDYVRvbE51bGp1Z2hESU5HSUtlaXplX2tSZ0RYQQ?oc=5",
+   "date": "2026-11-04T04:05:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1192,23 +1203,6 @@
    "date": "2026-11-02T22:19:21+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "500cd8e33049",
-   "title": "Keiko Fujimori: tiran huevo al vehículo presidencial tras su vista a penal en Trujillo",
-   "excerpt": "La mandataria acudió al penal El Milagro, donde familiares de internos protestaron para exigir justicia por la muerte de reos. La tensión marcó su salida del establecimiento penitenciario.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/02/keiko-fujimori-tiran-huevo-al-vehiculo-presidencial-tras-su-vista-a-penal-en-trujillo-hnews-37164",
-   "date": "2026-11-02T21:58:39+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Trujillo",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false,
-    "city": "Trujillo"
-   },
    "next": null
   }
  ],
