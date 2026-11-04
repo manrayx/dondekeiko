@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:49:20.830771+00:00",
+ "generated_at": "2026-11-04T02:10:47.582490+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -605,17 +605,6 @@
    "next": null
   },
   {
-   "id": "9e2875fe804c",
-   "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
-   "date": "2026-11-03T22:14:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "5c0772d4a52c",
    "title": "Presidenta Keiko Fujimori entregó 6500 laptops a estudiantes de los 25 Colegios de Alto Rendimiento del país",
    "excerpt": "",
@@ -699,6 +688,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
    "date": "2026-11-03T20:32:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "58387020c07a",
+   "title": "Keiko Fujimori confirma 500 colegios para 2027: internet satelital llegará a escuelas del Perú",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaERsNUFIQVE5TDl1ZGNIYjl5T083NHN6R1JXTzFHOGVkYXpjVkNUOFZFZTAxSVlJc3hac29GeEJRR29QZWZJRlZ5bFozaXFzSUJyem1maS1aUDR5azBUUmtGZVBwSkh2MTBfVW1Vd0VZOV9IZkJabmUwaHY4cUFnMTE4ZUZSOWNQdTNR?oc=5",
+   "date": "2026-11-03T20:27:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -842,6 +842,17 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVWZkTHZBRnc4c2p2N2FvMk9nTHdMR3RjczhPd3BEbDZSSmhoR0t6ZVY2T1FvTm9mZTJJU0hLam5hbkRpT3FmTlBSX19BQmdJTzlHeld4UnBCTjJpR08zLVBsSldManZ6T0FYMFU2bTFkMEtXeVFEVEstLVNmdHQ5NXphUFFqbXJxM3VsOFFjU2xhUVNBNUdMTDdVZDM2RTh6dVJOdEJoXzJZX2xpSFBzWUpMMWVYeDR3XzgyNFpGeDVIWDdzd0dGMjlMd0lMQkc4UzdUUzVmb1hLS0k1ajZJZTItelBfd0t4MjV1NHhCWHU1dWFoM0NkNktCSWJGTFpEV2cxbkdCSXp4ODBvRm4zdmVRZVRwdVE?oc=5",
    "date": "2026-11-03T16:12:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9e2875fe804c",
+   "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
+   "date": "2026-11-03T16:10:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1195,34 +1206,23 @@
    "next": null
   },
   {
+   "id": "c645b247f924",
+   "title": "Tiran huevazo a Keiko durante visita al penal El Milagro",
+   "excerpt": "",
+   "source": "Noticias Trujillo 60",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVUM5VXNsYWFOUG8tZjFFeUtxYVNtWW9wRHNEVlpfekpLbUJ0c19vN3hfQ083R3pOMmxNY1hhQmxQNVZvOTNDQl9MVVlfWXBPZzJ5Y0hEZVA4Nmc4WGg0bHhxeVR6eUNINmVjMm95d2k1WGN1aHp3S24xT0JaLXYwNkprX1p3QllMSEMzRW5QakVpVHF1UkI3TGhYSnpSOTZoWXlkOE9ZUGFjNE83VHFHUXliOHpjaGN5SFRKVDJmdFNCVnVHdzZRdy1YcjJPT2RUdXpfNVlnOEVvWjBPX1QtcUdyRWpSX0k?oc=5",
+   "date": "2026-11-02T21:32:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8323d45e45ef",
    "title": "Presidenta Keiko Fujimori destaca resultados de operativo contra la minería ilegal y el crimen organizado",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQkZBUFNQV0FROVpKNDBTUzFWRzFOZm0yeEVKNjRSNUk0S3pCUS1RVEJSaTQwMjAzTlp0S2tyc0FpUGdPY3pPb1JxRE12N24welVnUzE2VzR0MlFuUlMxdmtNWi12VmJpM25xOVhKcXZSNnF1Q1o2MEZVZ2hjdUZVNXE2WWJOckI5TXZXcklxWmhJTkJnOE5PeVpsbXIzcVlMX0Q0SlRuTjIteG1HSkh5bUpfRFJMRklEajZjbVVzZ2EwSzVWaFlaTXFBVnlNaXhXQnBfNUs2eGk?oc=5",
    "date": "2026-11-02T21:22:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3b7df9f66098",
-   "title": "Keiko Fujimori sobre el combate a la criminalidad: “Ya no vamos a esperar más, vamos a hacer uso legítimo de la fuerza”",
-   "excerpt": "La presidenta afirmó que su administración adoptará “todas las decisiones necesarias para restablecer el orden” y advirtió que ahora serán los delincuentes quienes “van a tener miedo”",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQcDhVLUxPM1haVFF6UWdadnFTdGVxb1NZaDhLYWZyMVJvc2JnSWdwdXo0MDg1Q1Z4a3BwMEhnbGN4LU1jTkFDUzMxTGJ0MnRaYkhPSkZ5dmdYZVViMVI0ZVBtUmtkMlRpaGVldzZsUFpkMlg2d1paMENRcjY3ZjFwRWFQdlJObW4xN3ZxTURKdWpNMy1CbkVjVDdGcTgtajVrVWZBTWhiN1R3MGlOendRN1lDQmludG42ZHB6UklQWDVwNHRVWVA3ZktGdll0dENnSzhzM3hiLS1yaGhhdjdwNWotcVdOSkoyNVRYZdIBhwJBVV95cUxOM3VGYmNROGMzeFJNX3NGbFJfLTdDVjU1eWNHb18tOGVwNVNrZEYwb0l6eTJVOTNoZF9lblNSTW1sdWJFMHB6aFNLYmN2ZDFJdUM4QTJtckl1di1qQmF1U3lVdlQ0UHQ1Q2gwekJIbXdpRGRkZkpHeHE5QXU4d1VFb1FtTWZEcHJfMlU2bGZtV0dYb1NvNDZtS09TOWN1Y2I2RWNlX1QycnljWGxtbm9kVS1WRzZKUWlRQTNnLVlDUmdfS05FNk9VUGxoNUtOVzJ1emJzeUJtYmMtcEkwRWdoSlNzM2lwZUdraW95U1VGQlhGZDhUU2xkeEJOQS03MmN4Mnc3cjA3Yw?oc=5",
-   "date": "2026-11-02T21:08:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0501d98b86eb",
-   "title": "Keiko Fujimori presentará balance de sus primeros 100 días de gestión este jueves, anuncia Luis Galarreta",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR1pXMW5PQmpLMVo5RlYzT284WGhNeHRkbjFDM0lXb3pWSGh4QldwaHNRZFZielNLRkpUaTRqMDh1OHJpb19YWnQ2VGU1TnF2aXdmam4zZkdFV0dMMUFPUmN6YVhONlpJdVZKMjZVTjNjSThaZlhCVXpZT0lCTTNBYW1zUEJqNkx6WFRMMEpsdDJ3NzlfbW8xU3NvajdqVzdDdllpY1RycXNJVzQ0aV85eWU4ckc4eWtsSmZtbDVQbU9keExOS2F0cTVUck9LZFdKVkRKbUJpTmpIMWtrNWRNdFFxaU54Y3RwTE5EbEJmYnJpVXRVb2NsdXljVXI0NnYta0o3OVVpOWhDY1NyOUdVMVdieEk?oc=5",
-   "date": "2026-11-02T20:31:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
