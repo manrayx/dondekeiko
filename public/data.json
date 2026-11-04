@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T02:32:57.586332+00:00",
+ "generated_at": "2026-11-04T02:55:05.629763+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,6 +550,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ba9e5445579f",
+   "title": "Ministro Sheput: “En la Sunafil hay una serie de petitorios de suspensión perfecta”",
+   "excerpt": "“La suspensión perfecta no es una decisión del Gobierno de la señora (Keiko) Fujimori, ni del Ministerio de Trabajo; es una ley que tiene como 30 años, y una empresa,…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/economia/management-empleo/ministro-de-trabajo-juan-sheput-en-la-sunafil-hay-una-serie-de-petitorios-de-suspension-perfecta-noticia/",
+   "date": "2026-11-04T02:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "24797d7c2747",
    "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
    "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
@@ -644,17 +655,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1BwNDVqTzdmeXBNVXhjUzJMeWhIN0ptOHlKMFEyZlFRVmhnTXdaUzhaNGFjNVdVNUlJb28tT2xXaC1WUk0yd0FWVWxvUnlScDVZbUk0VUhfRHpadHpQclhkb1A5ZXNPMjhLM0xWUDAyd1JHZ0VEMnRmSWk0ckNXczEwZnJTSFVxMXhJTW1hZWpqam5aSG5oSHFrMGpsa1RzbEtERW4tV1JyMHo1SUJyVG5IdXNnc3BEYWZUQktfR0M3VDV5OXNENWhyS2pENHM?oc=5",
    "date": "2026-11-03T21:20:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ba9e5445579f",
-   "title": "Ministro Sheput: “En la Sunafil hay una serie de petitorios de suspensión perfecta”",
-   "excerpt": "“La suspensión perfecta no es una decisión del Gobierno de la señora (Keiko) Fujimori, ni del Ministerio de Trabajo; es una ley que tiene como 30 años, y una empresa,…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/economia/management-empleo/ministro-de-trabajo-juan-sheput-en-la-sunafil-hay-una-serie-de-petitorios-de-suspension-perfecta-noticia/",
-   "date": "2026-11-03T21:12:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -852,6 +852,17 @@
    "excerpt": "",
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVWZkTHZBRnc4c2p2N2FvMk9nTHdMR3RjczhPd3BEbDZSSmhoR0t6ZVY2T1FvTm9mZTJJU0hLam5hbkRpT3FmTlBSX19BQmdJTzlHeld4UnBCTjJpR08zLVBsSldManZ6T0FYMFU2bTFkMEtXeVFEVEstLVNmdHQ5NXphUFFqbXJxM3VsOFFjU2xhUVNBNUdMTDdVZDM2RTh6dVJOdEJoXzJZX2xpSFBzWUpMMWVYeDR3XzgyNFpGeDVIWDdzd0dGMjlMd0lMQkc4UzdUUzVmb1hLS0k1ajZJZTItelBfd0t4MjV1NHhCWHU1dWFoM0NkNktCSWJGTFpEV2cxbkdCSXp4ODBvRm4zdmVRZVRwdVE?oc=5",
+   "date": "2026-11-03T16:12:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a29ce5ae180b",
+   "title": "Presidenta Fujimori: Torre Trecca estará lista en 18 meses y atenderá a 1.4 millones de asegurados",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTlhHMm1IdFFOUGc1X2xHZy1GX1JqelpYUzBZeEdMVTlpTnBZNFlOcU1tc2dmeXZ5cFR3d3VtcGh2SEVmeFRBZ2thQWxUT0N5ekhzR0lLWC1qeU9KMWVpRUxOQ2UzUkFoY1AzYnBQX0ZLOGQ4Y09sVVhESXFabkwxZzdxb28wdGxvQlVCNmE0X2o0RDl1eXJfMWw4WmNBQVlQcGxGOUh2NDdzcnFUZHpFSkJqQnltR1laS3M0ZkN2NVR0UElOUTVxMzRhZXJKekh4VWczakpxRQ?oc=5",
    "date": "2026-11-03T16:12:15+00:00",
    "state": "posando",
    "place": null,
@@ -1212,17 +1223,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0hsMkNkSW0yX19aT3c4YlBoc3M4LU1rMXEzY041c1BpMlpfWERhN0ZiM0ZZVllHUm1pQktvYWJyNFRkVGtKVlctU3RWb25IMnZOT2ZJMGExX01tOWJFSlZ5anNuR3dPbkp0MmNzdnZEUE9LMkt1NXRfZ1htcWZQQi1rM2Vwa1JvZEtsbGdCNzFyVnFMMVdOQXA1azJ2U3JMVG11QWh5NWs?oc=5",
    "date": "2026-11-02T21:43:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c645b247f924",
-   "title": "Tiran huevazo a Keiko durante visita al penal El Milagro",
-   "excerpt": "",
-   "source": "Noticias Trujillo 60",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVUM5VXNsYWFOUG8tZjFFeUtxYVNtWW9wRHNEVlpfekpLbUJ0c19vN3hfQ083R3pOMmxNY1hhQmxQNVZvOTNDQl9MVVlfWXBPZzJ5Y0hEZVA4Nmc4WGg0bHhxeVR6eUNINmVjMm95d2k1WGN1aHp3S24xT0JaLXYwNkprX1p3QllMSEMzRW5QakVpVHF1UkI3TGhYSnpSOTZoWXlkOE9ZUGFjNE83VHFHUXliOHpjaGN5SFRKVDJmdFNCVnVHdzZRdy1YcjJPT2RUdXpfNVlnOEVvWjBPX1QtcUdyRWpSX0k?oc=5",
-   "date": "2026-11-02T21:32:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
