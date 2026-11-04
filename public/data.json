@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T04:01:02.743109+00:00",
+ "generated_at": "2026-11-04T04:22:40.351750+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,6 +550,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9e2875fe804c",
+   "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
+   "date": "2026-11-04T04:14:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "78ab24162cb5",
    "title": "President Keiko Fujimori announced that 500 schools to be built in Peru next year",
    "excerpt": "",
@@ -897,17 +908,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTlhHMm1IdFFOUGc1X2xHZy1GX1JqelpYUzBZeEdMVTlpTnBZNFlOcU1tc2dmeXZ5cFR3d3VtcGh2SEVmeFRBZ2thQWxUT0N5ekhzR0lLWC1qeU9KMWVpRUxOQ2UzUkFoY1AzYnBQX0ZLOGQ4Y09sVVhESXFabkwxZzdxb28wdGxvQlVCNmE0X2o0RDl1eXJfMWw4WmNBQVlQcGxGOUh2NDdzcnFUZHpFSkJqQnltR1laS3M0ZkN2NVR0UElOUTVxMzRhZXJKekh4VWczakpxRQ?oc=5",
    "date": "2026-11-03T16:12:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9e2875fe804c",
-   "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
-   "date": "2026-11-03T16:10:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
