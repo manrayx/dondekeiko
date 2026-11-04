@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:51:05.805325+00:00",
+ "generated_at": "2026-11-04T16:13:12.002467+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -540,6 +540,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "fab79d8ef186",
+   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
+   "excerpt": "",
+   "source": "Pachamama Radio",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
+   "date": "2026-11-04T16:07:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "632ad92dfda7",
+   "title": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
+   "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
+   "date": "2026-11-04T16:06:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e7658ce7ebf2",
+   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
+   "date": "2026-11-04T16:04:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6223704d01a8",
    "title": "Ministro Sheput responde a críticas al Gobierno de Fujimori: Hablan por consignas y lemas",
    "excerpt": "“Son consignas políticas. Porque no veo que haya razonamiento. Yo he sido parlamentario y he reconocido lo bueno en otros gobiernos (...) Yo lo que veo es que hablan por…",
@@ -573,34 +606,12 @@
    "next": null
   },
   {
-   "id": "632ad92dfda7",
-   "title": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
-   "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
-   "date": "2026-11-04T14:50:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "6dfa0b6d0371",
    "title": "Presidenta Keiko Fujimori entrega predios para construcción de penales",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0FWdWphV3p4aS1OakpueWtjYTBSQTFqY0ZXU0NlUURXLTBLVVUwb2s5ZWV0ODU4ODN4UE1IYmwwcGxHdkNCUm1Xa19oZmFpMlA0V2o5MWlILXV3a0lKemFfNzZQVlA5aWVhb20zVWhKUnA4S0dXU2pIeHhJU1puRjBmOVMzU0hZMHdEb2ZycHcweEttbjlzYW5qOG1LYXhqN2NmalhhLWljVTNCc0Y2NktlbTM?oc=5",
    "date": "2026-11-04T14:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e7658ce7ebf2",
-   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
-   "date": "2026-11-04T14:03:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1184,17 +1195,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
    "date": "2026-11-03T13:38:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ac6a716f2be8",
-   "title": "Keiko Fujimori inicia construcción de Torre 'Trecca' de EsSalud: \"Este edificio pasará a ser un referente\"",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa2NtUzNMaE9ENnEtVjA5NXBqNmRtWG5pVWJEcnNnNkd3aHZCbklLQ25JbmRZanBELVF2Sl9fMEVRVW9MWmVKZGw4TzJJYWpORmNsUEZlRXYyTUNUTllPUHh4RlJZVWhnMnNYaEdhdUtCLUw3ZnM1eUV6aUtoTmVzYXREdmNKXzRpRmdEY19hNHlnOWVGdDZBc21rNF9kZUhBVDB6Y2RyamZ1d0RaR250bDU1cG1JTGgtY29xUTRJcTVJaVg3dTBnSjZVLW1CdzBk?oc=5",
-   "date": "2026-11-03T13:15:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
