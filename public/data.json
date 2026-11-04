@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:07:51.044775+00:00",
+ "generated_at": "2026-11-04T15:29:48.233205+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,6 +550,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6ba91566256e",
+   "title": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori",
+   "excerpt": "Las cifras elevaron a 1.612 asesinatos en lo que va del año. Junio superó a octubre con 196 casos. Si bien hubo cambio de gobierno en julio con la promesa…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/04/con-182-homicidios-octubre-fue-el-mes-mas-violento-en-la-gestion-de-keiko-fujimori-inseguridad-hnews-342772",
+   "date": "2026-11-04T15:22:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "328bb7e326c2",
    "title": "Entregan terrenos para construcción de dos nuevos penales: “En pocos meses se inaugurarán”",
    "excerpt": "La presidenta Keiko Fujimori anunció y saludó la entrega de terrenos al Ministerio de Justicia y Derechos Humanos (Minjus) para la construcción de dos nuevos establecimientos penitenciarios y planteó que…",
@@ -600,17 +611,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
    "date": "2026-11-04T13:16:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6ba91566256e",
-   "title": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori",
-   "excerpt": "Las cifras elevaron a 1.612 asesinatos en lo que va del año. Junio superó a octubre con 196 casos. Si bien hubo cambio de gobierno en julio con la promesa…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/04/con-182-homicidios-octubre-fue-el-mes-mas-violento-en-la-gestion-de-keiko-fujimori-inseguridad-hnews-342772",
-   "date": "2026-11-04T13:11:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
