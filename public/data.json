@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T00:22:56.589622+00:00",
+ "generated_at": "2026-11-04T00:44:15.956542+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,12 +550,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "fb32f84f59b4",
+   "title": "Municipalidad de Tacna pide a Keiko Fujimori detener el envío de más reos peligrosos al penal de Challapalca: ¿por qué?",
+   "excerpt": "Tras el anuncio de una reclasificación de la población penitenciaria, la comuna de Tarata advirtió que la medida podría afectar la seguridad y el bienestar de las comunidades altoandinas cercanas…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/04/municipalidad-de-tacna-pide-a-keiko-fujimori-detener-el-envio-de-mas-reos-peligrosos-al-penal-de-challapalca-por-que/",
+   "date": "2026-11-04T00:37:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e6fdaab2814c",
+   "title": "Presidenta Fujimori entrega 6500 computadoras a estudiantes de los Colegios de Alto Rendimiento",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1AtSXBsRmJsQ2s3WEtObE9udnE5SjN4bVVneW5iZmZBMEdSeGh3LVc1R1BWRWoydGhHLXFtdmRfem15VllDdVBNOE56SkRRaEU1eUlVcFU0WVNzdlVBM2FmS1FBOHB2WWtVSGNsOXJVcVJpenJwZm9tcTlJaHFXVnZSLU13V3U5Z0FMZHBmTUVEZU1RNE9vNkl1LWR0ZDZ1Vk03WEFZcUF2Qzd1Y09jaUowanpJbE1iQi1XWkpSWG1qTUVfREk0RmVzUHpDQkVyRS1Zc3lEcS0?oc=5",
+   "date": "2026-11-04T00:36:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c7f84f4b4b66",
    "title": "Keiko Fujimori: “El próximo año será peor (por El Niño). El Perú unido va a enfrentar los terribles estragos”",
    "excerpt": "La presidenta pidió acción conjunta frente a los efectos del fenómeno climático durante la presentación de una donación de cinco vehículos de emergencia para los bomberos",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/03/keiko-fujimori-el-proximo-ano-sera-peor-por-el-nino-el-peru-unido-va-a-enfrentar-los-terribles-estragos/",
-   "date": "2026-11-03T23:56:34+00:00",
+   "date": "2026-11-04T00:28:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1201,34 +1223,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQR1pXMW5PQmpLMVo5RlYzT284WGhNeHRkbjFDM0lXb3pWSGh4QldwaHNRZFZielNLRkpUaTRqMDh1OHJpb19YWnQ2VGU1TnF2aXdmam4zZkdFV0dMMUFPUmN6YVhONlpJdVZKMjZVTjNjSThaZlhCVXpZT0lCTTNBYW1zUEJqNkx6WFRMMEpsdDJ3NzlfbW8xU3NvajdqVzdDdllpY1RycXNJVzQ0aV85eWU4ckc4eWtsSmZtbDVQbU9keExOS2F0cTVUck9LZFdKVkRKbUJpTmpIMWtrNWRNdFFxaU54Y3RwTE5EbEJmYnJpVXRVb2NsdXljVXI0NnYta0o3OVVpOWhDY1NyOUdVMVdieEk?oc=5",
    "date": "2026-11-02T20:31:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e156b6ec5fda",
-   "title": "Keiko Fujimori llega a Trujillo tras captura de alias ‘Goku’ y otros 17 sospechosos en Pataz",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOamxnaWpmVTNjSnUzUjEta05hRzZjWFhpcDFlMHFHbGh5bDFuRldOUUJxeWtSd19wV0xZSmFyc2dmNVNWeGtZd182dklycjdHbmJXeVd3a1VOTktSQy1LdDhxa1huSnQ2WC10UFBNNFBjZWJFRk93dVIxX0twSEpqSzJOZlR2TlYzVERYcmRPcndYTXhoR3M2eHo0c0ZuY1hQR2RlZmF3VDNOZjM3V1UzZi14ZXd0WmFJd2pIWWxqaEFDT3FGZ0hsRHJsNXhUTWw4RXpEclRSSjJuMVlNVG1TUGRfckdPWUJrMENfSC1MQy13bU1uTXRVV0dsQUdTTVNqS2VJSUh3?oc=5",
-   "date": "2026-11-02T19:58:39+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Trujillo",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false,
-    "city": "Trujillo"
-   },
-   "next": null
-  },
-  {
-   "id": "8c3c6151fa50",
-   "title": "Keiko Fujimori tras reunirse con Nayib Bukele: \"Los reos tendrán que trabajar para resarcir a la sociedad\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY2VScFB4c1huWk0tZF8yWWlQSFktM1dhMFdoLV9WSW1SN3Fac3BiSUVsOXFBT3F3eUtZdDB1WUJlVzk4eTNTUWpVNUc2ajN3Tmh3ekdmeUFBaml0ZWx6LXVGWkJ0VVE0b3J1T3RzWHlNYlJUQkxKMlRoVVctbFJocmlMd2VRbWpNSm5HZnVR?oc=5",
-   "date": "2026-11-02T19:39:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
