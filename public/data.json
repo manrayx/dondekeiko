@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T21:39:29.740536+00:00",
+ "generated_at": "2026-11-04T22:01:07.113862+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -651,6 +651,17 @@
    "next": null
   },
   {
+   "id": "253acf89bfe6",
+   "title": "Keiko Fujimori: los pendientes y cuestionamientos de sus primeros 100 días de Gobierno",
+   "excerpt": "",
+   "source": "Norte Sostenible",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX01rRlg0ZG1ZRDdZMFhuQ2ZWMThyRS1BOElsM3ZVQVRYWkUtZm9HZ3ZjRUl1ejhsYnJuNFNGR0NWclltOHpkZU9kTUtaNy1aUU5CVU11WTZiN01ObnFONXJqNXA4cl9kdnVnb0IxcW5GdjRxM1hWZUlsNDVXaFExTFUxNUI?oc=5",
+   "date": "2026-11-04T19:09:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "73f48c9463b2",
    "title": "Gobierno de Keiko Fujimori logra el menor riesgo país de últimos 26 años, según Cámara de Comercio de Lima",
    "excerpt": "",
@@ -844,17 +855,6 @@
    "source": "Pachamama Radio",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
    "date": "2026-11-04T16:07:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "253acf89bfe6",
-   "title": "Keiko Fujimori: los pendientes y cuestionamientos de sus primeros 100 días de Gobierno",
-   "excerpt": "",
-   "source": "Norte Sostenible",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX01rRlg0ZG1ZRDdZMFhuQ2ZWMThyRS1BOElsM3ZVQVRYWkUtZm9HZ3ZjRUl1ejhsYnJuNFNGR0NWclltOHpkZU9kTUtaNy1aUU5CVU11WTZiN01ObnFONXJqNXA4cl9kdnVnb0IxcW5GdjRxM1hWZUlsNDVXaFExTFUxNUI?oc=5",
-   "date": "2026-11-04T15:45:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
