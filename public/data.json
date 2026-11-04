@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T14:03:03.973959+00:00",
+ "generated_at": "2026-11-04T14:24:18.144499+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -534,6 +534,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6dfa0b6d0371",
+   "title": "Presidenta Keiko Fujimori entrega predios para construcción de penales",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0FWdWphV3p4aS1OakpueWtjYTBSQTFqY0ZXU0NlUURXLTBLVVUwb2s5ZWV0ODU4ODN4UE1IYmwwcGxHdkNCUm1Xa19oZmFpMlA0V2o5MWlILXV3a0lKemFfNzZQVlA5aWVhb20zVWhKUnA4S0dXU2pIeHhJU1puRjBmOVMzU0hZMHdEb2ZycHcweEttbjlzYW5qOG1LYXhqN2NmalhhLWljVTNCc0Y2NktlbTM?oc=5",
+   "date": "2026-11-04T14:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e7658ce7ebf2",
+   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
+   "date": "2026-11-04T14:03:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0cd100412a91",
    "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
    "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
@@ -589,12 +611,12 @@
    "next": null
   },
   {
-   "id": "e7658ce7ebf2",
-   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
-   "date": "2026-11-04T12:23:20+00:00",
+   "id": "0d9362765e49",
+   "title": "Keiko Fujimori anuncia la construcción de 500 nuevos colegios para el 2027",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjlya0lhajZXTU4wWWp4dUlmNW02V0syQ0FmQWU1RXlrYl9ybHk4aEhQVnJhYnJic090dEpHcXM0SHNKODVNUDlCTUgxUWdIam0wZXlScDRiZk56V0FnOWFGMUlvWWg1TjhGUEhSbWpEUjQ4WWkyUEx0OTVaVjBqRVVWUzFwZHVYa0UtdENfXzF6R2xNZ3Qwb2dnMENYc0NoUUhDMg?oc=5",
+   "date": "2026-11-04T12:28:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -639,17 +661,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWxCR0d5a3ZBRV9WdmhRSjNtS0VrSjFvcG9uWU1VS25DSkYzMFhjejUtbmZIelc2d3hmZ2h3RG4yNEVKMFZBQkJfdDFneWNUZ0xQaGZQYmczR25ya0hONmJnNFdacjNDbFh1TndycVR3a09NbHJjOEh3bHFOeW5MWGUya0lyXy1UNW9hdm9pQ0N6ME5oejlVdWlZcW03cWhIVWtqdC16aFoyVnd4?oc=5",
    "date": "2026-11-04T11:03:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b74186e17941",
-   "title": "Presidenta Fujimori entrega 6,500 computadoras a colegios de alto rendimiento",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHhkbHp5R3ktSHY2ZnlkbEk3T3phTGJ1Mlppa3o4N0lkUkFXcGR3ZV9uUTFNOWRXS2F0WXdHaWVoYi01WEFOMzhPSkR1YUJ3eXNkSUJoZVgtemZwZTM5NkxxWnkyNzBjX3JpR3NNZk5GZ0o3WVBsbDY3aFp1eTlIQ1lTMjVLamZnYW1Ham01djJad0VlSm5KU2pPQzBpSWktQlBWU1VJT1hMa2lLaEY4ejMtUWtiM0FRaWxzYQ?oc=5",
-   "date": "2026-11-04T10:30:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -754,23 +765,34 @@
    "next": null
   },
   {
-   "id": "c7f84f4b4b66",
-   "title": "Keiko Fujimori: “El próximo año será peor (por El Niño). El Perú unido va a enfrentar los terribles estragos”",
-   "excerpt": "La presidenta pidió acción conjunta frente a los efectos del fenómeno climático durante la presentación de una donación de cinco vehículos de emergencia para los bomberos",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/03/keiko-fujimori-el-proximo-ano-sera-peor-por-el-nino-el-peru-unido-va-a-enfrentar-los-terribles-estragos/",
-   "date": "2026-11-04T00:28:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "cabcebd7bc9f",
    "title": "Senador José Castillo defiende proyecto de ley que propone amnistía para Pedro Castillo: \"Es el derecho que le corresponde\"",
    "excerpt": "El senador afirmó que la amnistía a su hermano le corresponde como 'derecho' y criticó a la gestión de Keiko Fujimori por no abordar los problemas del país.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/03/senador-jose-castillo-defiende-proyecto-de-ley-que-propone-amnistia-para-pedro-castillo-es-el-derecho-que-le-corresponde-hnews-214086",
    "date": "2026-11-03T23:34:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c7f84f4b4b66",
+   "title": "Keiko Fujimori: “El próximo año será peor (por El Niño). El Perú unido va a enfrentar los terribles estragos”",
+   "excerpt": "La presidenta pidió acción conjunta frente a los efectos del fenómeno climático durante la presentación de una donación de cinco vehículos de emergencia para los bomberos",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUxUeV9WVTJXUlJSVE8wemRlYzlJcmtLamNBRlF4MkY2VjBsYmJqTDNOdG5XTmNBMXU0aWNUTEJKdUFoeE9CeU5FN19UajhxV1N1cUdUMmNVVkViM3Mxald0WVpjd2V1aEV0YVhKOUExQVo2eHBldzlTTnpjQkdfSmhpR0F4bXh0bHo2V3dGTEtXRVFtNTg2ZlFwSkxUX3NfUWNfVWVCQnA4dC1laTZNZ3VZaGl3clpTOTctX280ZjdvamNHZGNmUlNDQl9MTEhuclQ0UUNYMUp2WFpi0gH3AUFVX3lxTE1HaW40TUJmWVZYOHRINUdvaE5HazlBTTVEXzdXQ2tyNllmUXNEQktLMV8yMHJRenNUeFpwSUI2YW5jX0NGX0N5OG1KbGdVV01hbzAyejN3YURQeVZpcGpCYUZOQl9ES3lqZWJ2dmx1MldTMG8wUHQwRFRYU2RxbTVkTE5PNHZFV2gtcWV2S1g4Y1FpbG5lVnhfOGJQRURpS3NSbEtaalZGLUxVaEw3bUFPaXctN0YyeUpaNUxZSlcya29LYTAyYjRfODBYaWhrTmVwR0xiZW9aMG1Gb05lT2RjQ1BpdHRLUk12eHRZeXZRaExpbmxlNU0?oc=5",
+   "date": "2026-11-03T23:11:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b74186e17941",
+   "title": "Presidenta Fujimori entrega 6,500 computadoras a colegios de alto rendimiento",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHhkbHp5R3ktSHY2ZnlkbEk3T3phTGJ1Mlppa3o4N0lkUkFXcGR3ZV9uUTFNOWRXS2F0WXdHaWVoYi01WEFOMzhPSkR1YUJ3eXNkSUJoZVgtemZwZTM5NkxxWnkyNzBjX3JpR3NNZk5GZ0o3WVBsbDY3aFp1eTlIQ1lTMjVLamZnYW1Ham01djJad0VlSm5KU2pPQzBpSWktQlBWU1VJT1hMa2lLaEY4ejMtUWtiM0FRaWxzYQ?oc=5",
+   "date": "2026-11-03T22:30:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1173,28 +1195,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/opinion/columnistas/cien-dias-de-keiko-fujimori-por-martin-tanaka-noticia/",
    "date": "2026-11-03T10:33:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "655cf3b8b284",
-   "title": "Keiko Fujimori anuncia traslado de internos peligrosos al penal de Challapalca",
-   "excerpt": "",
-   "source": "Revelación.pe",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZEJISU9Pd0FMVkF5M3pJcUw5eV9hVjlVb3pNVkMyV0hWZGZ3TzkzRERIdDhUcVNrWG1Cc3NLWFhWZnRweTc5SVN6YUQ1UHh1OWRoNndxa3dFNkUtcUJOdGxXSDBhQW1CSEN0ZjZBbFdKU1ZzR2FzMXE0UDdDWlJ5b25DcGZ4dDhqdS1mY2MtUE4yalRRRTRvZ2VMRlRpb1JVRE91bkZQNVFiRVhjQzU2Mnh3?oc=5",
-   "date": "2026-11-03T07:09:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4b53ed203f21",
-   "title": "Presidenta Keiko Fujimori anuncia reordenamiento de internos a nivel nacional",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, sostuvo que su Gobierno realizará un reordenamiento de todos los reclusos a nivel nacional y que los más peligrosos serán trasladados al penal…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/presidenta-keiko-fujimori-anuncia-reordenamiento-de-internos-a-nivel-nacional-noticia/",
-   "date": "2026-11-03T01:44:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
