@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T11:51:45.538747+00:00",
+ "generated_at": "2026-11-04T12:13:21.837938+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -534,6 +534,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e7658ce7ebf2",
+   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
+   "date": "2026-11-04T12:06:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1f2ec4020471",
+   "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
+   "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
+   "date": "2026-11-04T12:05:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4535e08206d6",
+   "title": "Los primeros 100 días de Keiko Fujimori: Un balance de su gestión, lo bueno y lo malo",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUpZQ0NNb2RMVnFjcDFNcEZrazhKaVZKdUZOajcxdFJmS0ZKc0h1U1ZSWHBscWo5MFNSWmtUN2Z2a0JjR0U4Y0NLSjcyX3ZhU2JQcG9QVmpoRmF2QTFYOFhqS3dpbkhUa3dmRmlyLVRqLWtEQXlEZ1NqcWEtdjhnR1ZNVEtKb0ZJTGQ5bTg2TVNfUnVXZ1dtR1JNdWlPM1V5Y3I1dmNkWDJQSkJYWHMxVGM1UU5TZFNtSUE0eV8yd096QnPSAdcBQVVfeXFMTVhSaTNRcTdOTHdaeVlQa21GYkduUGhvaXVoakpBV2oxbTlJakJrWW5VclpVcnB4dXd4LWtjMmpVTFBaZ1ZMckpjUVI1OEdraW9KNU5tbEJDNXFuNUdDRUxBMUJjV3U0M2NUa2xUck5YV0Z3bDdPcjcwYjg3Z2xRdU96b3EtUWRFczluRFhvTTBFZzhweDBqbTJsUjJHeXd1bmp0WHpzLU5KWkxNOWg0ckl3M2tONU5kd3dEYUMtWG5VdGdGM3dxdVBnSllRRVNYRWRXUzR3RFU?oc=5",
+   "date": "2026-11-04T12:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "44996aac1c85",
    "title": "Leonel Herrera califica de ‘propagandística’ la visita de Keiko Fujimori a El Salvador",
    "excerpt": "",
@@ -573,17 +606,6 @@
    "source": "La Linterna Azul",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQzN1ZEp2MGNvUEgzYTdMRXYzQlRqZ2tKekxpS0ZzNHh2QkRITV9ycWlwMzF1MWxiMkNMcVg5NEtkMTJZbVpRSWZSSENpd2lpR1BNOUN0YVJfdHktMmFTOTBfVHdEMFdFd192cS1uemlzOE9RNmhHbUU0Z1JJVGc3RkhBa1VYUmhIVXQwMjFZYWJXVjgwSWtVQkhnVEdiSTBXOEY4OE5aRjhTdFY3ZWRNQzhwZDY2R1E?oc=5",
    "date": "2026-11-04T05:19:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e7658ce7ebf2",
-   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
-   "date": "2026-11-04T05:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1179,28 +1201,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUlqckRVaTNSYUxFTW1Ndi13QXdfNVl4T3l4dXlmWjJTLWtsVnVYMlFaZF9FbERQMlJNTWJRY0xSdVFObWNYajhNeHlxSnAxWHJrNTBDTUhtZWx6NjJnVWZZeVRjUi1uNGJZSVJ0aEhRNDlVd3pydmRETXlQNXIxWThjSUpNV2lFb2lKQ3BkelIzOXFtSXB4cUlEejdIb0s4aU80VXc3cHVqQ3UyWEMtWVJWZzZSSW9za2I2SkpRR2J3UlN3ZndnYlFqbzJxNUI2RGxR?oc=5",
    "date": "2026-11-02T23:01:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "de270b3b851e",
-   "title": "Presidenta Keiko Fujimori ordena traslado de 10 internos del penal El Milagro a Challapalca",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT3Azbkg0OU9ZdC0yS2VHbVVyMlNLQUlXdy1XQjhrV3hTaVFHb0xIeFpMd0ppSlAtaDdTQ2pFZThOdl8wYUgyR1BhZXY0RVNXZ0xsYk9BMnJPa2dSaTBJWWozU1h4czRwS01ZM3QtcmE2b2tMbnAzNjlxMGN4MV9uYm5xVFEtREtxMmNWdlhraWtqeHpzSTNvUnlKdVE2cWZfWmVyUEkwQnhIcTNtNUtSY1VyNXBwNTl1TElEeDRTeEZIVW1BUnVNaDVwNA?oc=5",
-   "date": "2026-11-02T23:00:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ead7db7e908f",
-   "title": "Keiko Fujimori anuncia traslados a Challapalca tras reyerta en penal El Milagro",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQi1MUlR4ZUdmalFZTllJMFJGNklWa3JCRnFJbXloc0I0cVVGTVN4Q01RMVpHNDV3dExqUXIxU0MwMEJSbXpJbG9kTjhUZHl4VG1WMndUcFA0bEJsYW1hNkFNSVQ0MlNHWlB5T1RGd3ZLMkxLYzNiazFTTEtmS3c1VV9XdmFVSUQ5WGhJS3V1VmJsQldsd2c2MW84XzJjbVk1VXptNk93?oc=5",
-   "date": "2026-11-02T22:51:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
