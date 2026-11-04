@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T03:16:40.053887+00:00",
+ "generated_at": "2026-11-04T03:38:52.200173+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,12 +550,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "ba9e5445579f",
-   "title": "Ministro Sheput: “En la Sunafil hay una serie de petitorios de suspensión perfecta”",
-   "excerpt": "“La suspensión perfecta no es una decisión del Gobierno de la señora (Keiko) Fujimori, ni del Ministerio de Trabajo; es una ley que tiene como 30 años, y una empresa,…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/economia/management-empleo/ministro-de-trabajo-juan-sheput-en-la-sunafil-hay-una-serie-de-petitorios-de-suspension-perfecta-noticia/",
-   "date": "2026-11-04T02:30:00+00:00",
+   "id": "78ab24162cb5",
+   "title": "President Keiko Fujimori announced that 500 schools to be built in Peru next year",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkFpR0t1c3dSSlE1WDNOR1lKVkZ3NHNITjRyX3RRY0czNXYwTFk5VEFWSG52OVByQndJVXVmdVBoNFJ0T05qRWs4YUVVdmJfTE1QeElra0hNa3NiTU9WQ09CaEhRb1dBTWNKanVvZTBVMkoyTmZPNnJzazJtMlRlZnM5b2RFYVV5WklJZkNfemFpLWlubDYxREZMRjJBZVFKSzdmdjZrNWZYbTlVSnU0UnVPQ3hFSzNlajFxQWJSNUFET3Zudzhr?oc=5",
+   "date": "2026-11-04T03:37:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -566,7 +566,18 @@
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHhkbHp5R3ktSHY2ZnlkbEk3T3phTGJ1Mlppa3o4N0lkUkFXcGR3ZV9uUTFNOWRXS2F0WXdHaWVoYi01WEFOMzhPSkR1YUJ3eXNkSUJoZVgtemZwZTM5NkxxWnkyNzBjX3JpR3NNZk5GZ0o3WVBsbDY3aFp1eTlIQ1lTMjVLamZnYW1Ham01djJad0VlSm5KU2pPQzBpSWktQlBWU1VJT1hMa2lLaEY4ejMtUWtiM0FRaWxzYQ?oc=5",
-   "date": "2026-11-04T02:04:35+00:00",
+   "date": "2026-11-04T03:29:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ba9e5445579f",
+   "title": "Ministro Sheput: “En la Sunafil hay una serie de petitorios de suspensión perfecta”",
+   "excerpt": "“La suspensión perfecta no es una decisión del Gobierno de la señora (Keiko) Fujimori, ni del Ministerio de Trabajo; es una ley que tiene como 30 años, y una empresa,…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/economia/management-empleo/ministro-de-trabajo-juan-sheput-en-la-sunafil-hay-una-serie-de-petitorios-de-suspension-perfecta-noticia/",
+   "date": "2026-11-04T02:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1212,17 +1223,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVnVwY0ZPZ0VwOV9PemxmY0I3N3NjbzZvUXhiaVFzQ0dTQ19Ud2VpSWIyRHgwMlZxNGZqb0tsMS1DeTk1Q0gtZFgzOE82MUxhQnptR2dWTjE4TFFYdm5EVzhQaE9fSDlpTjI4M0QtS2NrV29aU05UZTQzMVEyQVFObWxfN0lFUm0xSmc2b0d3WjFWR2hnZ0Z1emhOZE1Pa210LVcwSURsbHpxaE9rMmVVNERGRE54WWZjcmR5X3Q1RnBWMHh5bmJpNndncHBqNFFvOFRYTW84amdQOHU0?oc=5",
    "date": "2026-11-02T21:49:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b89bb69ab329",
-   "title": "¿BUKELE LE PUSO UN FRENO A KEIKO EN EL SALVADOR? JULIANA OXENFORD ANALIZA SU VISITA | ARDE TROYA",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkxlZlVQajY1dElSUHlPRHNLZFl2Rk5IREVSbzlzWGJkZUgyTm5NT1J6MS1rRzhibFlsZF92U3I1WC02Vk9CNWhkWjg3R0FHRjlIT1JudjRoNmoxY3hBYWNaMkhveE5pY200WkktZzZVYk9uX2FJUzh3dEFBTWZQeWZaUVR3UkkyYlg0UlFxYnhJbldkY3VBS1I1UTBpcjJSVHlPV2w4Nnd3S3VRSzVmSlBHeVFzNWl3c1JyRFRmcFplY29udmtJX1h4MA?oc=5",
-   "date": "2026-11-02T21:47:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
