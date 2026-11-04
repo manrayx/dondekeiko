@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:29:48.233205+00:00",
+ "generated_at": "2026-11-04T15:51:05.805325+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,25 +94,15 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": {
-  "place": {
-   "name": "Trujillo",
-   "lat": -8.112,
-   "lng": -79.029,
-   "abroad": false,
-   "city": "Trujillo"
-  },
-  "source": "www.apnoticias.pe",
-  "date": "2026-11-03T12:50:02+00:00"
- },
+ "last_place": null,
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 2,
   "molesta": 0,
-  "triste": 1,
-  "posando": 57
+  "triste": 2,
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -549,6 +539,17 @@
  "agenda_minutes_7d": 1241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "6223704d01a8",
+   "title": "Ministro Sheput responde a críticas al Gobierno de Fujimori: Hablan por consignas y lemas",
+   "excerpt": "“Son consignas políticas. Porque no veo que haya razonamiento. Yo he sido parlamentario y he reconocido lo bueno en otros gobiernos (...) Yo lo que veo es que hablan por…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/ministro-sheput-responde-a-criticas-desde-el-congreso-al-gobierno-de-keiko-fujimori-hablan-por-consignas-y-lemas-noticia/",
+   "date": "2026-11-04T15:42:52+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
   {
    "id": "6ba91566256e",
    "title": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori",
@@ -1196,23 +1197,6 @@
    "date": "2026-11-03T13:15:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "fff5011572ca",
-   "title": "Presidenta Keiko Fujimori supervisa el penal El Milagro en Trujillo",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUjNqdFJQS3NudEROUHg0TTJpZmwzMktQdHNvaktQZWt0VXZoWFRZQjgtWk9nY0t1c3FTN2JZSklMNzZrYWR4eUpTX1ExTU5DYVVTZ1FzRVJ5NE4wV2FWWWk2LXVzZmlpYjJ1dUJnTmVUSlh1anZ4NFZKT2JHUGFOSGY0eWdVbllPOUtBdGwyQ0hlS0ZjQXR5bjZpdm9JRGRMMG94QjBjdHduUQ?oc=5",
-   "date": "2026-11-03T12:50:02+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Trujillo",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false,
-    "city": "Trujillo"
-   },
    "next": null
   }
  ],
