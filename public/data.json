@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T18:47:00.868985+00:00",
+ "generated_at": "2026-11-04T19:08:36.147669+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -132,7 +132,7 @@
    "start": "2026-11-04T08:45:00-05:00",
    "end": "2026-11-04T09:05:00-05:00",
    "minutes": 20,
-   "subject": "Lidera ceremonia de entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh) para la construcción de dos establecimientos penitenciarios en Huacho.",
+   "subject": "Lidera ceremonia de entrega de dos terrenos estatales, con una extensión aproximada de 2600 hectáreas, al Ministerio de Justicia y Derechos Humanos para la construcción de dos establecimientos penitenciarios en Huacho.",
    "lugar": "Distrito de Ancón",
    "state": "posando",
    "place": {
@@ -558,6 +558,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "73f48c9463b2",
+   "title": "Gobierno de Keiko Fujimori logra el menor riesgo país de últimos 26 años, según Cámara de Comercio de Lima",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa18ta09GN2ZpSjlGaEd5TG9peFN6UFo1Q3JFdmNjMndUUW1qNTJoN0NZU2ZXcEl3TWYtV1FTWmdzZE5xOWF0bVpKLUhnNHlVRXFHckQ3cXBGSTU5VDZjRVpwQ2NHR2JtVGYxLTlYR3BleUJJQTZaYW0zdXFMOUZ1ZDgyaW9mR05ZODVoWXJ1MVhZQTNKeHBRamdmNGNaQkV6Um1mM1Q2bDZINjFHRGxWMUtfa19oZjFOUTh6YzFWQVFCYUNDX0RzQTA5bjlVdw?oc=5",
+   "date": "2026-11-04T18:52:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "af9244c33e8c",
    "title": "Keiko Fujimori entregó 2.600 hectáreas para construir dos nuevos penales en Huacho",
    "excerpt": "El Minjusdh recibió los predios estatales transferidos por Vivienda durante un acto en Ancón I, donde las resoluciones fueron presentadas simbólicamente al INPE con participación de varios ministros del Ejecutivo",
@@ -692,6 +703,17 @@
   {
    "id": "632ad92dfda7",
    "title": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
+   "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
+   "date": "2026-11-04T17:00:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e7386f95dbc7",
+   "title": "Keiko Fujimori confirma construcción de dos “grandes penales”: “En pocos meses estaremos inaugurando”",
    "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
@@ -1191,28 +1213,6 @@
    "source": "inforegion.pe",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNloyeUxMRWFHVFhEUnZ4SXlYaVVqWU1RQk9PenNBdzZLQlJUSWxJRmZfZWxSVnlwLXlUeXY1SjNXQTVwaGVDSFlyZnY4c1VrNW4tSE04TnJnTDdBaXJhUlNSRGFJenh3R0F0SW10dFRDX1YzUVJPQ1V0c042MlBENHgzRzhndUV1ZEljTWFFanFxOGw2WTd0azdfa2VGenRQQjgyOE9Sa2k?oc=5",
    "date": "2026-11-03T16:24:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d88aaa42a385",
-   "title": "Keiko Fujimori, demasiado endeudada para gobernar: A 100 días de gobierno y contando",
-   "excerpt": "",
-   "source": "INFOREGION",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNloyeUxMRWFHVFhEUnZ4SXlYaVVqWU1RQk9PenNBdzZLQlJUSWxJRmZfZWxSVnlwLXlUeXY1SjNXQTVwaGVDSFlyZnY4c1VrNW4tSE04TnJnTDdBaXJhUlNSRGFJenh3R0F0SW10dFRDX1YzUVJPQ1V0c042MlBENHgzRzhndUV1ZEljTWFFanFxOGw2WTd0azdfa2VGenRQQjgyOE9Sa2k?oc=5",
-   "date": "2026-11-03T16:24:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "17807f4b4765",
-   "title": "Presidenta Fujimori: “Torre Trecca estará lista en 18 meses y atenderá a 1,400,000 asegurados”",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVN1a3dwMUxRbkhTMmRLLUVZMXpkcDctb3J2cFpuWHBLeThBcXRPQ2Y1VlRlX3kzaTA5N0JKOWpELWZGNnNiYmdrSXJBZVZGUkd0aG1NT0VJSUlibkh5ZHN1eUVja18tOTdqWDdSR3VRalZEdUtTaUI5QXJTWW1qc0hidUlYMkR1UUJqWGRUVEVRc2RnNzZEbGFyM1RtX1VhaWpKX21RQk56d2lscFNjdHhTUm50Y1ZYcFliNC1SMUJZZnM?oc=5",
-   "date": "2026-11-03T16:20:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
