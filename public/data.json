@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:30:37.343353+00:00",
+ "generated_at": "2026-11-04T19:51:51.877068+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,15 +94,25 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": null,
+ "last_place": {
+  "place": {
+   "name": "Congreso",
+   "city": null,
+   "lat": -12.04814,
+   "lng": -77.02636,
+   "abroad": false
+  },
+  "source": "El Comercio",
+  "date": "2026-11-04T19:35:42+00:00"
+ },
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
-  "triste": 1,
-  "posando": 58
+  "triste": 2,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -558,6 +568,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6223704d01a8",
+   "title": "Ministro Sheput responde a críticas al Gobierno de Fujimori: Hablan por consignas y lemas",
+   "excerpt": "“Son consignas políticas. Porque no veo que haya razonamiento. Yo he sido parlamentario y he reconocido lo bueno en otros gobiernos (...) Yo lo que veo es que hablan por…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/ministro-sheput-responde-a-criticas-desde-el-congreso-al-gobierno-de-keiko-fujimori-hablan-por-consignas-y-lemas-noticia/",
+   "date": "2026-11-04T19:44:00+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "aae6ec8f8bbc",
+   "title": "Ministro Sheput sobre críticas por los primeros 100 días del Gobierno de Keiko Fujimori: “Tenemos una batahola en el Congreso de mala fe”",
+   "excerpt": "Ante las críticas de la oposición en el Congreso, que coincide en que es poco o nada lo que, avanzado el gobierno de Keiko Fujimori en sus 100 primeros días,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/ministro-de-trabajo-juan-sheput-sobre-criticas-de-la-oposicion-por-los-100-dias-tenemos-una-batahola-en-el-congreso-de-mala-fe-keiko-fujimori-noticia/",
+   "date": "2026-11-04T19:35:42+00:00",
+   "state": "triste",
+   "place": {
+    "name": "Congreso",
+    "city": null,
+    "lat": -12.04814,
+    "lng": -77.02636,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "73f48c9463b2",
    "title": "Gobierno de Keiko Fujimori logra el menor riesgo país de últimos 26 años, según Cámara de Comercio de Lima",
    "excerpt": "",
@@ -774,17 +812,6 @@
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX01rRlg0ZG1ZRDdZMFhuQ2ZWMThyRS1BOElsM3ZVQVRYWkUtZm9HZ3ZjRUl1ejhsYnJuNFNGR0NWclltOHpkZU9kTUtaNy1aUU5CVU11WTZiN01ObnFONXJqNXA4cl9kdnVnb0IxcW5GdjRxM1hWZUlsNDVXaFExTFUxNUI?oc=5",
    "date": "2026-11-04T15:45:11+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6223704d01a8",
-   "title": "Ministro Sheput responde a críticas al Gobierno de Fujimori: Hablan por consignas y lemas",
-   "excerpt": "“Son consignas políticas. Porque no veo que haya razonamiento. Yo he sido parlamentario y he reconocido lo bueno en otros gobiernos (...) Yo lo que veo es que hablan por…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/ministro-sheput-responde-a-criticas-desde-el-congreso-al-gobierno-de-keiko-fujimori-hablan-por-consignas-y-lemas-noticia/",
-   "date": "2026-11-04T15:42:52+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   },
@@ -1042,6 +1069,17 @@
    "next": null
   },
   {
+   "id": "5568109da307",
+   "title": "Embajador de EE. UU. en Perú destaca visita de la presidenta Keiko Fujimori a El Salvador",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1BwNDVqTzdmeXBNVXhjUzJMeWhIN0ptOHlKMFEyZlFRVmhnTXdaUzhaNGFjNVdVNUlJb28tT2xXaC1WUk0yd0FWVWxvUnlScDVZbUk0VUhfRHpadHpQclhkb1A5ZXNPMjhLM0xWUDAyd1JHZ0VEMnRmSWk0ckNXczEwZnJTSFVxMXhJTW1hZWpqam5aSG5oSHFrMGpsa1RzbEtERW4tV1JyMHo1SUJyVG5IdXNnc3BEYWZUQktfR0M3VDV5OXNENWhyS2pENHM?oc=5",
+   "date": "2026-11-03T21:34:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1891069da766",
    "title": "Quinua invita a Keiko Fujimori a participar en aniversario de la Batalla de Ayacucho",
    "excerpt": "",
@@ -1059,17 +1097,6 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhoMjk3WDlZTFpRU3Y5bkt5bk8zUVpremVVQV83bGhURzJ5bDYzcWZUVm5yai1FMmdOdUp5UzgzX25YcjNGRzB0NDZScVVxOHhDSmRtcU1ZNkl1VFE3Zk1aVFoxVzFJQ0N2RHk4TFZJMTZNRTFwSEFxTlM0OG1RamxRbkY0N3pNTi0zSHI1VFlDR1IzSjd0QlJ2cUg4bS11ZnpsTGVXTklCdmhpREkwaEVtbTR4VGFBODlB?oc=5",
    "date": "2026-11-03T21:29:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5568109da307",
-   "title": "Embajador de EE. UU. en Perú destaca visita de la presidenta Keiko Fujimori a El Salvador",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1BwNDVqTzdmeXBNVXhjUzJMeWhIN0ptOHlKMFEyZlFRVmhnTXdaUzhaNGFjNVdVNUlJb28tT2xXaC1WUk0yd0FWVWxvUnlScDVZbUk0VUhfRHpadHpQclhkb1A5ZXNPMjhLM0xWUDAyd1JHZ0VEMnRmSWk0ckNXczEwZnJTSFVxMXhJTW1hZWpqam5aSG5oSHFrMGpsa1RzbEtERW4tV1JyMHo1SUJyVG5IdXNnc3BEYWZUQktfR0M3VDV5OXNENWhyS2pENHM?oc=5",
-   "date": "2026-11-03T21:20:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1202,17 +1229,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQWVrVFNwNFR4NldpSXFOV3NueDNnaFdDdWplbGVpVVVxaTd4a3prUEFfTGlLZV83SHdsUmYwSHU2RXVoQ0hydk9YaWZWVC05MF9uX0gyQlVIVE13UmRmTjF5S1A4VzY3NVpJSjlqTUhEem05dThOSVlhb3FKNEVMMjRMZ2tNSjBGbnBkRFZrbTUwbGpqNXFDeWEzbFhQTWNOeGFsYlpiT2RiR1RFWWJ5SXdya0dJVHhPMFVEWFNNWlVNR3lrYm9uelo5UUJoTkJPdXJjMzF5OWg3bmvSAfYBQVVfeXFMUHgzbVBUU0lnekZmZjR3QzAxSGJDN3dsS0w3ckYtX3hGVDg5ZHlmRlpSTkpoYTAyN05ncHdTUHZIY2MwLTBWOGRlX0Fpc0RoUElsZ0lBcDdxTXRDTDFTOGNyM0I1a1l2aWpOcUpZZHlyd2dMVjFiSUxxejVnLTVxcnNEX1RDeFYzc1JqTm81TFhvOVg1aTMySUFSVm51bWFUU1R6T1lNZVFTLXBhcnBlYm5kTmVzN0lOeUdLejVDLW9NVENzREdpQm4yM21jWE9Pcjljd05fc2dhMzhKc3gzdFhjMnV0eHJjSUFpcmJXcFRUYXhyUFdB?oc=5",
    "date": "2026-11-03T16:27:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "12324feb8b16",
-   "title": "Presidenta Fujimori en Torre Trecca: Estamos destrabando proyectos fundamentales para la población",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPODNDQUVvc194bW1va3VnN0p5NzBnVW9VTm9GbG5hR3pvQkpvMURoWWJfN3VLeFZ4aTl1d1lrMlVlU2FtdVZpWl9HMldDV3hzaGFGeXE2aHVsWjV6elNockJyN2hUdE53aTg4c0hNRXZWb1FKdjA3Q2JvUHNWWmdHbE1udHg4OXQ3WThtcExUX25XZkowaXY1UEVzUkV5eVVMOVBrUUZfYk9CN3JnUkdLZWRneUpnempmUGc2UzhILWlDQl9fLW1oQ3M4b1k1UQ?oc=5",
-   "date": "2026-11-03T16:26:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
