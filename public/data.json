@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T05:05:24.799685+00:00",
+ "generated_at": "2026-11-04T05:27:31.976710+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -534,6 +534,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "163019f12705",
+   "title": "Keiko Fujimori reordena a los presos de todas las cárceles de Perú",
+   "excerpt": "",
+   "source": "La Linterna Azul",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQzN1ZEp2MGNvUEgzYTdMRXYzQlRqZ2tKekxpS0ZzNHh2QkRITV9ycWlwMzF1MWxiMkNMcVg5NEtkMTJZbVpRSWZSSENpd2lpR1BNOUN0YVJfdHktMmFTOTBfVHdEMFdFd192cS1uemlzOE9RNmhHbUU0Z1JJVGc3RkhBa1VYUmhIVXQwMjFZYWJXVjgwSWtVQkhnVEdiSTBXOEY4OE5aRjhTdFY3ZWRNQzhwZDY2R1E?oc=5",
+   "date": "2026-11-04T05:09:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e7658ce7ebf2",
+   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
+   "date": "2026-11-04T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b74186e17941",
    "title": "Presidenta Fujimori entrega 6,500 computadoras a colegios de alto rendimiento",
    "excerpt": "",
@@ -1040,17 +1062,6 @@
    "next": null
   },
   {
-   "id": "163019f12705",
-   "title": "Keiko Fujimori reordena a los presos de todas las cárceles de Perú",
-   "excerpt": "",
-   "source": "PanAm Post",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFZPNGthdWY0N1IzcmdTemtqdFdQLW1lU1NtbG5haHhKQUZFRXF2TXVrQ050SkpzOEFmZW5iZmRGc3BrZ3hLSXh1QzJrZTlnS3pmeUxYaGF1VnBtVFFKSlkzZVNqTS0zMG5OdnNBenZ2TGhUS1h6TTlqUkE1WjctQkgzb1drbjVMd1ZJTC1OUGl1VjdTR09vMmNEVGV4NldURlVsRWR1NGhPTGI0bTkwUEVnT3c?oc=5",
-   "date": "2026-11-03T03:33:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "4b53ed203f21",
    "title": "Presidenta Keiko Fujimori anuncia reordenamiento de internos a nivel nacional",
    "excerpt": "La presidenta de la república, Keiko Fujimori, sostuvo que su Gobierno realizará un reordenamiento de todos los reclusos a nivel nacional y que los más peligrosos serán trasladados al penal…",
@@ -1198,17 +1209,6 @@
     "abroad": false,
     "city": "Trujillo"
    },
-   "next": null
-  },
-  {
-   "id": "5127498baa35",
-   "title": "Gobierno de Keiko plantea declarar en estado de emergencia a Tumbes, Lima, Callao y otras regiones \"por peligro inminente\" ante El Niño",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPektTZGd6Yk0yY0p4ZHJRdi1qRGVxeXJvQjJQdzdvbm1hNHppTDY4ZjhEUnk1c2hSbjdmWTBzSTRHV3VKS2Q3a2l3UERIWXFEZ3F2WTZBRzRIODltVmpIZVd5MVBWbXVtLTN6Z2g5MjZBS1I3aDdJamMtRzNLN3pIaC1oazJXSllBeEdkMVFqbllRY3BHekpCeU85ZjV1SGpyUVNqcWJGOFQ3UEF2RUdGZjIwNVBUMjFOMkFFMUxvY2lXMWJmaXpLVE5qX0dKV2ltV2JuaGdTTFgzU3NQUklBOFRxZmNNdGFvczEwd1AtZ25YMlZzWHVXVzVIZTN1UQ?oc=5",
-   "date": "2026-11-02T21:51:58+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
