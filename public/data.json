@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T23:06:24.628538+00:00",
+ "generated_at": "2026-11-04T23:28:27.260048+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Congreso",
-   "city": null,
-   "lat": -12.04814,
-   "lng": -77.02636,
-   "abroad": false
+   "name": "Arequipa",
+   "lat": -16.409,
+   "lng": -71.537,
+   "abroad": false,
+   "city": "Arequipa"
   },
-  "source": "El Comercio",
-  "date": "2026-11-04T23:02:00+00:00"
+  "source": "La República",
+  "date": "2026-11-04T23:26:39+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -583,6 +583,34 @@
  "agenda_minutes_7d": 1306,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "6821e600d248",
+   "title": "Sheput: Liderazgo de la presidenta Fujimori es lo que distingue a sus primeros 100 días",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckUyNHllOGQxck5wVnl5NE5oVGZfd0I3WnZQY3IxT1d3OUFsdTNPUW9vbFdqaWZjaDFOYzBvdGltTVlXdkY5aW1SS01zaHVsY1JvQlRSN3FRQWRRcTVYX2FCNVRnZG5kYS1MYVhpckd5d05EX2xKMEtEYy1RNmtOcUlWVG5XV0hpemNjS0dtbXVrUFJ5cjV5eUc2Q2tXb2l3dGRVZ1MwLXVFRF9GdUxSaUlYY01ZdzBaX0dHUFZpREhaaDJzRFE?oc=5",
+   "date": "2026-11-04T23:27:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0dace513e56d",
+   "title": "\"Son una tira de inútiles\", criticó Jaime Quito a los ministros designados por Keiko Fujimori en los 100 días de gobierno",
+   "excerpt": "Desde Arequipa, el senador indicó su posición a favor del cambio de ministros, al no presentar soluciones concretas para la población en más de tres meses.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/04/son-una-tira-de-inutiles-critico-jaime-quito-a-los-ministros-designados-por-keiko-fujimori-en-los-100-dias-de-gobierno-hnews-219960",
+   "date": "2026-11-04T23:26:39+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Arequipa",
+    "lat": -16.409,
+    "lng": -71.537,
+    "abroad": false,
+    "city": "Arequipa"
+   },
+   "next": null
+  },
   {
    "id": "aae6ec8f8bbc",
    "title": "Ministro Sheput sobre críticas por los primeros 100 días del Gobierno de Keiko Fujimori: “Tenemos una batahola en el Congreso de mala fe”",
@@ -1162,17 +1190,6 @@
    "next": null
   },
   {
-   "id": "5568109da307",
-   "title": "Embajador de EE. UU. en Perú destaca visita de la presidenta Keiko Fujimori a El Salvador",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1BwNDVqTzdmeXBNVXhjUzJMeWhIN0ptOHlKMFEyZlFRVmhnTXdaUzhaNGFjNVdVNUlJb28tT2xXaC1WUk0yd0FWVWxvUnlScDVZbUk0VUhfRHpadHpQclhkb1A5ZXNPMjhLM0xWUDAyd1JHZ0VEMnRmSWk0ckNXczEwZnJTSFVxMXhJTW1hZWpqam5aSG5oSHFrMGpsa1RzbEtERW4tV1JyMHo1SUJyVG5IdXNnc3BEYWZUQktfR0M3VDV5OXNENWhyS2pENHM?oc=5",
-   "date": "2026-11-03T21:34:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "1891069da766",
    "title": "Quinua invita a Keiko Fujimori a participar en aniversario de la Batalla de Ayacucho",
    "excerpt": "",
@@ -1190,6 +1207,17 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhoMjk3WDlZTFpRU3Y5bkt5bk8zUVpremVVQV83bGhURzJ5bDYzcWZUVm5yai1FMmdOdUp5UzgzX25YcjNGRzB0NDZScVVxOHhDSmRtcU1ZNkl1VFE3Zk1aVFoxVzFJQ0N2RHk4TFZJMTZNRTFwSEFxTlM0OG1RamxRbkY0N3pNTi0zSHI1VFlDR1IzSjd0QlJ2cUg4bS11ZnpsTGVXTklCdmhpREkwaEVtbTR4VGFBODlB?oc=5",
    "date": "2026-11-03T21:29:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5568109da307",
+   "title": "Embajador de EE. UU. en Perú destaca visita de la presidenta Keiko Fujimori a El Salvador",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1BwNDVqTzdmeXBNVXhjUzJMeWhIN0ptOHlKMFEyZlFRVmhnTXdaUzhaNGFjNVdVNUlJb28tT2xXaC1WUk0yd0FWVWxvUnlScDVZbUk0VUhfRHpadHpQclhkb1A5ZXNPMjhLM0xWUDAyd1JHZ0VEMnRmSWk0ckNXczEwZnJTSFVxMXhJTW1hZWpqam5aSG5oSHFrMGpsa1RzbEtERW4tV1JyMHo1SUJyVG5IdXNnc3BEYWZUQktfR0M3VDV5OXNENWhyS2pENHM?oc=5",
+   "date": "2026-11-03T21:20:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1223,28 +1251,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdVUtMU1ETWdDQW9aWkZmUkR1QUpWa3JOVEJwdVBXajhTalNBVU5PZmYxR1pWQTN5a2w3ME9iTGhSOVdvSlRmTnRkZTZ1aGpreFVNSWpYaGppRlItUldmWThPR0V2Z1RpRFVnakp2U1h5M1cyUWxjc0FQVFhrZ0Y3Q1hCajlSZ2J1UU92UXdwYXMxVE1nU2R3TnJxUGQ4Q2JBNWYxVWg4WV9aRHFYZTlFZWdrWdIBxwFBVV95cUxQVXFYZWlKTHBSVHJNU3pvb0tQTzF6RkFiNExXeGFNUkFSeWxVTGx6SkVsMms3aWNMaEFSYTMyLTI1RzBvWS1XVjlxM3lIeU5lQllQejUzZjM2SXBIWmhpcU5CM21BS2RVUmZHWVNMT1BDZjRwX1ZxNTlNMGtyYVUxRzBsa05Dd0dOcHRCM1pWbHFXbEY4Ym9XcWFsRkFMeEhxcUZMd0ptT0NDdm9Dd2NDR0dzamNEa1RROWxCM09PVml4RHpZeTlV?oc=5",
    "date": "2026-11-03T20:56:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "58387020c07a",
-   "title": "Keiko Fujimori confirma 500 colegios para 2027: internet satelital llegará a escuelas del Perú",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaERsNUFIQVE5TDl1ZGNIYjl5T083NHN6R1JXTzFHOGVkYXpjVkNUOFZFZTAxSVlJc3hac29GeEJRR29QZWZJRlZ5bFozaXFzSUJyem1maS1aUDR5azBUUmtGZVBwSkh2MTBfVW1Vd0VZOV9IZkJabmUwaHY4cUFnMTE4ZUZSOWNQdTNR?oc=5",
-   "date": "2026-11-03T20:27:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6305419f792a",
-   "title": "Presidenta Keiko Fujimori: «Torre Trecca estará lista en 18 meses»",
-   "excerpt": "",
-   "source": "Energiminas",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0xUQWVobktoMW0zOXh1NEJ5YThvZTRFWS1tWGcweTJyRWF6T0t5NU5uVmhJNlNEaGh1WTZNSXdxNm1KVW4yYndrblMtb0RndENCcmZLM3ZhVGk4bi1XeTFMbks5VTZFaTBuWVpINXhhSVNmeDE3bHlMdXFIMDBuLTRRQmhucXlaM3JkQzFvZ1dBSGVSZEk5X3M5SlBMVkFB?oc=5",
-   "date": "2026-11-03T18:31:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
