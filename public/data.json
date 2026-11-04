@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:06:29.594774+00:00",
+ "generated_at": "2026-11-04T01:49:20.830771+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,12 +550,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "fb32f84f59b4",
-   "title": "Municipalidad de Tacna pide a Keiko Fujimori detener el envío de más reos peligrosos al penal de Challapalca: ¿por qué?",
-   "excerpt": "Tras el anuncio de una reclasificación de la población penitenciaria, la comuna de Tarata advirtió que la medida podría afectar la seguridad y el bienestar de las comunidades altoandinas cercanas…",
+   "id": "24797d7c2747",
+   "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
+   "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
    "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/04/municipalidad-de-tacna-pide-a-keiko-fujimori-detener-el-envio-de-mas-reos-peligrosos-al-penal-de-challapalca-por-que/",
-   "date": "2026-11-04T00:47:13+00:00",
+   "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-ordena-reclasificar-a-todos-los-presos-del-peru-y-ampliar-el-trabajo-en-carceles-habra-varios-cambios/",
+   "date": "2026-11-04T01:34:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -565,8 +565,19 @@
    "title": "Presidenta Fujimori entrega 6500 computadoras a estudiantes de los Colegios de Alto Rendimiento",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb1AtSXBsRmJsQ2s3WEtObE9udnE5SjN4bVVneW5iZmZBMEdSeGh3LVc1R1BWRWoydGhHLXFtdmRfem15VllDdVBNOE56SkRRaEU1eUlVcFU0WVNzdlVBM2FmS1FBOHB2WWtVSGNsOXJVcVJpenJwZm9tcTlJaHFXVnZSLU13V3U5Z0FMZHBmTUVEZU1RNE9vNkl1LWR0ZDZ1Vk03WEFZcUF2Qzd1Y09jaUowanpJbE1iQi1XWkpSWG1qTUVfREk0RmVzUHpDQkVyRS1Zc3lEcS0?oc=5",
-   "date": "2026-11-04T00:36:25+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXZBQWRyRmJTbHVvWDNGa0drYXBFX3VOeE52eGREUnJpTHhzU25xSHZHd3FtZ2UtSG5xV1pRbW51MXZJRW1aMWwzTldjalZYMmVVSFc0YXZob3VKbEh3MVdSY2ExX3RkWkhvbXVDb2dSR3BLUVB0NHpNYWMzRHFUT1pPWWZ0ZlhYT2JlNGV6U2ZvSnU4LTd0bDhQdVhQbzlJcHBxeFh0N2lZY3FSMURCMUxTaG9hd2NRSWNidC1ia2dYV29LUjNCdlhvbzRGUnQ2S2pj?oc=5",
+   "date": "2026-11-04T01:13:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fb32f84f59b4",
+   "title": "Municipalidad de Tacna pide a Keiko Fujimori detener el envío de más reos peligrosos al penal de Challapalca: ¿por qué?",
+   "excerpt": "Tras el anuncio de una reclasificación de la población penitenciaria, la comuna de Tarata advirtió que la medida podría afectar la seguridad y el bienestar de las comunidades altoandinas cercanas…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/04/municipalidad-de-tacna-pide-a-keiko-fujimori-detener-el-envio-de-mas-reos-peligrosos-al-penal-de-challapalca-por-que/",
+   "date": "2026-11-04T00:47:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -688,17 +699,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
    "date": "2026-11-03T20:32:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "24797d7c2747",
-   "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
-   "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-ordena-reclasificar-a-todos-los-presos-del-peru-y-ampliar-el-trabajo-en-carceles-habra-varios-cambios/",
-   "date": "2026-11-03T19:32:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
