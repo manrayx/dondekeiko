@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T16:13:12.002467+00:00",
+ "generated_at": "2026-11-04T16:34:43.821784+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -99,10 +99,10 @@
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
-  "celebrando": 2,
+  "celebrando": 1,
   "molesta": 0,
   "triste": 2,
-  "posando": 56
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -540,6 +540,50 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "530eab691f6f",
+   "title": "Presidenta Keiko Fujimori entregó terrenos para construir dos penales en Huacho",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWVUSDRZWDNaemVZU3lVSU1Vbld2WWtyU1NKeDlaSlcxNWpHZlROX2JwNXM4X2Y4ODM0Rm00MWt4ajdCUG5aeG82MGd0eDhCQlJmY0xrVG5PbnVJYkttT1RwNjZnUTd6QllmNDhWOUMxa3pKWjAwMmhuTURKT0c3ZW1xbmxtbkNkZklicTUyWXlqYjBUckg5bjBZakswVkI2T184d29DN19pcDZqRXg1LUJOZGJmbUNPTmdKRTVybm8?oc=5",
+   "date": "2026-11-04T16:32:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bb85dfb45030",
+   "title": "Presidenta Keiko Fujimori entrega predios para construcción de dos penales en Huacho",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVhzdEhTVUl2ZmJsLUhPM2swYUotaUw5bmVTaDhpMGlwbjhkQ0hONEI0UTMzWDFzb1F4eEdSMHlGSnlIcTl0YmFYWElPSkRuMUV2MlA2UG5uRFFuOElsNHRyTjhCVGhENnRMTEpXVkdJaERwSUhaVzVHdG8xblhYRHhYSkZwM3dNTnFtcF80eTU0U0sxcnYyc19aNm5sdnpFVXY1RXRNSENXUW1iT3dHbmdYVnRFSi1sanlYZTctU0s?oc=5",
+   "date": "2026-11-04T16:32:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2bdcb6e61d3f",
+   "title": "Escuelas Bicentenario: Gobierno excluye del proyecto a 17 colegios en 12 regiones por “falta de presupuesto”",
+   "excerpt": "La administracióni de la presidenta Keiko Fujimori argumentó que, además de no contar con los fondos necesarios para la construcción, tampoco contaba con el tiempo debido a que este vencía…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/04/escuelas-bicentenario-gobierno-excluye-17-colegios-del-proyecto-por-falta-de-presupuesto/",
+   "date": "2026-11-04T16:31:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-11-04T16:24:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "fab79d8ef186",
    "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
    "excerpt": "",
@@ -722,6 +766,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkFpR0t1c3dSSlE1WDNOR1lKVkZ3NHNITjRyX3RRY0czNXYwTFk5VEFWSG52OVByQndJVXVmdVBoNFJ0T05qRWs4YUVVdmJfTE1QeElra0hNa3NiTU9WQ09CaEhRb1dBTWNKanVvZTBVMkoyTmZPNnJzazJtMlRlZnM5b2RFYVV5WklJZkNfemFpLWlubDYxREZMRjJBZVFKSzdmdjZrNWZYbTlVSnU0UnVPQ3hFSzNlajFxQWJSNUFET3Zudzhr?oc=5",
    "date": "2026-11-04T09:37:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2941c5ccb52b",
+   "title": "Los primeros meses de Keiko Fujimori: 100 días sin grandes avances y con expectativas pendientes",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUWdmT3hqSjZwTENwTjVaaVdJTmNJZi04SVBYRU54RVJ3LUVUWTNhZ3lFU3NkWkVBTktleS15bTYwelFoaWg1d01XWTNPZURzaEpHZ19zZTBPcWt1eGlpNXdjaU85WndHcVNCeFhHbkZGSk02YUNGQ0tlRjF1S0EtWWphWEt6M1liaDh5dDlDbDliclFRN3pOOVRONnVOOFRMNXBlcy1FdlRrZF9PT1BpamRLV0dBcE5sZ0xzR0hHdTk0bHotZE9GdjNRQ0xrQkwtbzVMLUFTOXFHMmgtbFAzSVRn?oc=5",
+   "date": "2026-11-04T06:32:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1140,61 +1195,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUphVG1Ublo5Rm5MWVdQQm1DMEZYLUd4U2o5R25aTXoyTkZidmp5Wm1WUHhzQk9VdGswYjdqbVV6UkZydF92MG42ajc0SzVGcV9QY1ljMDR2cDhiUXZoX2g5Tk1WUDA3aFVOY0lJcnhiR3k3SkY1RzQwZFdWem5pRnZSMk1BOVRqcDBxQzdETmNxWEJsakE3TXNfdVh3dDdndm02TTVVbVgxdC1XY0RzbUhJR3g5bWRYTFdaTGhsRTlBcG9FUlFv0gHbAUFVX3lxTE9qQmJ0NnB6NlZDcUExWEJjVlNfSkVpTVA5TEhRZzIxbDhHeDVrQjhRbzFrNjFIQ2NhU0NGZWlEc3ZTWmk4a01YcHQ3N0phRWNmMmNCY3FUaG5nMkNfbmlKS2ZuSUxCdmhDaUVubmdaMmJkVXFaUjBKanYtTWZNdWRoMlY4eTh1SWRzT0VNZTc3MTQ1SGc1dHpHRTdpUHA0dlUtd0s1cUdRZTl6VXYyWFlTRTlPWlVZMkExVm9Eb2dnOVJfVUxpLWo2aXZ5VkpQX2dIUFJHNEVlV081bw?oc=5",
    "date": "2026-11-03T15:04:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "594cec508b76",
-   "title": "MEF ya no iría contra la Ley de gratificación y CTS para CAS ni contempla inconstitucionalidad",
-   "excerpt": "¿Se salva la gratificación y CTS para trabajadores CAS? El gobierno de Keiko Fujimori seguiría su implementación gradual",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/03/mef-ya-no-iria-contra-la-ley-de-gratificacion-y-cts-para-cas-ni-contempla-inconstitucionalidad/",
-   "date": "2026-11-03T14:50:53+00:00",
-   "state": "celebrando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f0cb9bdd8ea5",
-   "title": "Keiko Fujimori destaca “mensaje de unidad y esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
-   "excerpt": "La presidenta Keiko Fujimori resaltó la coordinación entre el Gobierno y el sector privado para destrabar la Torre Trecca de EsSalud, una obra que permaneció paralizada durante 16 años y…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdTJOWVFqNndGaDVRNS16ZFFuSFRSSkl1YkdESW14dF84aUxQWkdEX2ZVTlowNlF5SkhPQWxFMW9HWHdBR2F4OElKMi03NG02QzFCNDZNSmJTM05BejQwa0RTbl9WSWREdDFWeWJ1NXpjeHQ5c09ZRzVTZjRDVDd5VVZpT3IzZXdramVFcUIzbFpyaFhrbzF3RjZaN3ZIcUIwSkRHb0NPY1JNSTNJaGgtOVRocTVrTUhZTUI2bW1IcmZIY2xiX1dQcHJ1MzRmTkwtck9zeU5jNGxHbUVNRllqR09xbWtHdmgwRkhfcXZsc1dfUTQ0RzF1aHQxQzh5V3VSMHZpUmQzVVVOZ9IBngJBVV95cUxNMXV6U1pPUUZwS2dhUm5BbVpOWTNTeHBtbXd3bFJsODdIb2xkblFqMFJ5NU1kZ2FWVW9Nal9fMWJnaDhPZlQwY1o4X0RUR1c1UG5wUllfRFpqUUJjSXoxbmw3U1Zxek1JYkZWeGh0MjN4U1drQ3RnWDBQTUpva3J4ajVLTzg3QnN3R0YxRkZIMlgyOFlPSll4ZGR0dzMxYkVsTjJEd1JsSlA1XzUtQXlZMmh6eTI4SUNMbmd0QkJJaUdCUVJQdEp6WnZmUzROaGRzSFl3bFBHVGdndmNvcjZZcDJxc1k2cHlzVHNmTFFwNjlBTE1DV0QyQ3NJWmdsY3ZfNHp2Y0QweTFHLXVkZGNJUEJpYk5KNm5tVzNsT2Fn?oc=5",
-   "date": "2026-11-03T14:37:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "23df404b0701",
-   "title": "MIGUEL SANTILLANA: GOBIERNO DE KEIKO FUJIMORI ENFRENTA CRISIS POLÍTICA, INSEGURIDAD Y RIESGOS POR EL FENÓMENO DE EL NIÑO",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFVPTjI3SE9RQkJHSGswaE5CNDFhd25ka2R1bkxQaWhlRjIxSnphT0VtUlJJYjV0VmNUVDRHWTV0anJUTks2UTFvMFE2YWZOMjNReXlNRVFMd0UzZTVSempZNEZKNnJfUWV1dG5UaGhvS0E1MzFmV1hvNEQ3dkhUT2gyZV90R0xxOTRMaHl5dVY4ZzczanpLZVpqeGlPbnVEcmZXOG1GcmV3NElyYi1wWVRib2pTeXd4OW9hMXNOUVFOTVNNWWVjZkpWVXlzVTBCZlZPSXp1ZHFaTFk?oc=5",
-   "date": "2026-11-03T14:05:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "570c7afb4713",
-   "title": "Presidenta Keiko Fujimori da inicio a las obras y modernización del proyecto Torre Trecca de EsSalud",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUDFCLVlKdjNuMklOdWl6LThwdjhNX1ZaX3c0d2lJTlA4azN3R2c0QmNEZHFGLXAxM21DaUZFWWp6VWRIaFJ0MVBFM2lKZFVVdmoxRWVMUkdiRXB1cGlfYVN4bElVLU8zZS04NjNzQWpfOFREVGNVTmxEV25rNThETy1hOGM1WmpNM2QxcklxTjJmYlBXQ21VbElQeXJ3RkFCYkl6c1RsdUljbEJkS25kdEtEZm1FYWwzbEtoUUtTN0Q5Q0ZJRWEyNlJSdzBsMGc4ZGRnN0hYa0kxUQ?oc=5",
-   "date": "2026-11-03T13:44:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7e3f5aa8260b",
-   "title": "Gobierno de Keiko Fujimori apunta a una reforma de la Policía: ¿Cuáles serán los ejes? ¿Y cuánto tiempo se ejecutará?",
-   "excerpt": "En los primeros 100 días de su administración, la presidenta Keiko Fujimori autorizó al Ministerio del Interior (Mininter) a elaborar un plan para reformar a la Policía Nacional, institución que…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-de-keiko-fujimori-apunta-a-una-reforma-de-la-policia-cuales-seran-los-ejes-y-cuanto-tiempo-se-ejecutara-noticia/",
-   "date": "2026-11-03T13:38:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
