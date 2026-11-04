@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T16:34:43.821784+00:00",
+ "generated_at": "2026-11-04T17:18:53.821050+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -540,6 +540,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c37217a5b0df",
+   "title": "Acercamiento a Trump y “fórmula Bukele” marcan primeros 100 días de Keiko Fujimori",
+   "excerpt": "La presidenta de Perú, Keiko Fujimori, cumple este jueves cien días en el cargo, marcados por la militarización de la política de seguridad para tratar de frenar al crimen organizado,…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/acercamiento-a-trump-y-formula-bukele-marcan-primeros-100-dias-de-keiko-fujimori-noticia/",
+   "date": "2026-11-04T17:13:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "328bb7e326c2",
+   "title": "Entregan terrenos para construcción de dos nuevos penales: “En pocos meses se inaugurarán”",
+   "excerpt": "La presidenta Keiko Fujimori anunció y saludó la entrega de terrenos al Ministerio de Justicia y Derechos Humanos (Minjus) para la construcción de dos nuevos establecimientos penitenciarios y planteó que…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-entrega-terrenos-al-minjus-para-construccion-de-dos-nuevos-penales-en-pocos-meses-se-inauguraran-noticia/",
+   "date": "2026-11-04T17:06:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "632ad92dfda7",
+   "title": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
+   "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
+   "date": "2026-11-04T17:00:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "530eab691f6f",
    "title": "Presidenta Keiko Fujimori entregó terrenos para construir dos penales en Huacho",
    "excerpt": "",
@@ -595,17 +628,6 @@
    "next": null
   },
   {
-   "id": "632ad92dfda7",
-   "title": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
-   "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
-   "date": "2026-11-04T16:06:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "e7658ce7ebf2",
    "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
    "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
@@ -634,17 +656,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/04/con-182-homicidios-octubre-fue-el-mes-mas-violento-en-la-gestion-de-keiko-fujimori-inseguridad-hnews-342772",
    "date": "2026-11-04T15:22:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "328bb7e326c2",
-   "title": "Entregan terrenos para construcción de dos nuevos penales: “En pocos meses se inaugurarán”",
-   "excerpt": "La presidenta Keiko Fujimori anunció y saludó la entrega de terrenos al Ministerio de Justicia y Derechos Humanos (Minjus) para la construcción de dos nuevos establecimientos penitenciarios y planteó que…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-entrega-terrenos-al-minjus-para-construccion-de-dos-nuevos-penales-en-pocos-meses-se-inauguraran-noticia/",
-   "date": "2026-11-04T15:04:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1185,17 +1196,6 @@
    "url": "https://elcomercio.pe/politica/gobierno/ministro-juan-sheput-cuestiona-a-diputados-que-dicen-que-el-gobierno-no-ha-hecho-nada-eso-no-es-politica-eso-es-mala-fe-ultimas-noticia/",
    "date": "2026-11-03T15:05:38+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3d1978b52951",
-   "title": "Keiko Fujimori inicia obras de Torre Trecca de EsSalud: inversión supera S/ 486 millones",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUphVG1Ublo5Rm5MWVdQQm1DMEZYLUd4U2o5R25aTXoyTkZidmp5Wm1WUHhzQk9VdGswYjdqbVV6UkZydF92MG42ajc0SzVGcV9QY1ljMDR2cDhiUXZoX2g5Tk1WUDA3aFVOY0lJcnhiR3k3SkY1RzQwZFdWem5pRnZSMk1BOVRqcDBxQzdETmNxWEJsakE3TXNfdVh3dDdndm02TTVVbVgxdC1XY0RzbUhJR3g5bWRYTFdaTGhsRTlBcG9FUlFv0gHbAUFVX3lxTE9qQmJ0NnB6NlZDcUExWEJjVlNfSkVpTVA5TEhRZzIxbDhHeDVrQjhRbzFrNjFIQ2NhU0NGZWlEc3ZTWmk4a01YcHQ3N0phRWNmMmNCY3FUaG5nMkNfbmlKS2ZuSUxCdmhDaUVubmdaMmJkVXFaUjBKanYtTWZNdWRoMlY4eTh1SWRzT0VNZTc3MTQ1SGc1dHpHRTdpUHA0dlUtd0s1cUdRZTl6VXYyWFlTRTlPWlVZMkExVm9Eb2dnOVJfVUxpLWo2aXZ5VkpQX2dIUFJHNEVlV081bw?oc=5",
-   "date": "2026-11-03T15:04:36+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
