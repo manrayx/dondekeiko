@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T12:35:31.607361+00:00",
+ "generated_at": "2026-11-04T12:57:06.922912+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -533,6 +533,28 @@
  "agenda_minutes_7d": 1229,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "16f48893d810",
+   "title": "La presidenta Keiko Fujimori cumple cien días al frente del gobierno [INFORME]",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOanFjcld1ZE5jeEl6OWFDcnRtd2tMT2xWQ1FpNVFmRjRJR2RQcVdhRTVRY2FVWGxFWkVIVGtTQmFtWFRBa2ZyTXJYUFBKd2VBdFk3NzZiZTFuMkk0Q050Y1pESjZOdmdvNzJsVUplSTZPeGxYaUsxQl9XMmtWdFBwckF4QjZGbXNVWGR4M25zVzFZNGQ4QXNPQ0JrSTBBRFpJVW9IX0NyNzVEeFNyVWctY0trUUlGT2xDbmtPRzFoelVBZ0k?oc=5",
+   "date": "2026-11-04T12:46:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "29dbc8ca0dd3",
+   "title": "¿Qué dejaron los cien días de gobierno de Keiko Fujimori para las regiones?",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0pFOWR4SlZhc1VpU0xQdHN2NzhyVmRfNm00THdtZEY4SjNSYm1kME1QVklUT2g0MVUxNnRtS1RWX2ZxRVB2VHdsZ05GV2ZueDNqU3dXUVNBVmItcEtuVWZVMGFHTkNuMFFJU1NsTXd5cDAzUVdYWk5uN25SeWlKNnZXZTVYQy1iQkVJZzM0LTNXZGJkSmp5Nzl4b2ZUSDEtLWc?oc=5",
+   "date": "2026-11-04T12:39:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "c6a5f5f5720e",
    "title": "MEF ya buscaría inconstitucionalidad de la Ley de gratificación y CTS para CAS",
@@ -1175,34 +1197,6 @@
    "date": "2026-11-03T00:57:22+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "0b2630bdeab1",
-   "title": "Presidenta Keiko Fujimori: “Se hará un reordenamiento de todos los internos a nivel nacional”",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOckZhbW9KMkZ5OWNfLVhPMTlPVzM1d0NGTW52UFRoWWF5YzdzMVpFdzN1c1dOaEJheG0yNlJZcHkwQnl1eWlZVWdKVG05YkNzOV9xSW9fZFl6U0lQZUZxYzk1NDJJNkpNN2w1ejRBU0ZNTUdQSUVsd2RLWWRVT2doaTYzeGpvc003b2IzREd5MjN2QlMyV0h1WmNOUGRQZWdKR3RIWk8zenhZMVN1SmwyOXUxUmdaTnNBa2VsTlZaWTdqRURC?oc=5",
-   "date": "2026-11-03T00:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "28e155efbb05",
-   "title": "Lanzan huevo a vehículo donde se trasladaba Keiko Fujimori en Trujillo",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWlFNHZ0SFBvdUx2dU9SSGs2WVNTX3Z3MGtvTFRWT1V5MzYzcDl6dkxLVncxQmotb3BneVlfVVIxa0tMTFRHcWhrS0kxQmdEQ0szdmhJRE52a1NCRmp5QVktR0VzWU9Fd3EtZTBfb1RRczI2YzJDNVpjdF9WSGlXYWtMM3J5d1JZNWhHVkN3UFVoS1pyUTNqaTJKc2tfMXgtc1JJVXhybFI?oc=5",
-   "date": "2026-11-02T23:51:22+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Trujillo",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false,
-    "city": "Trujillo"
-   },
    "next": null
   }
  ],
