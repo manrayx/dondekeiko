@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T19:51:51.877068+00:00",
+ "generated_at": "2026-11-04T20:35:32.422329+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -568,6 +568,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2902cb738a9f",
+   "title": "Presidenta Keiko Fujimori liderará firma del Pacto contra la Anemia",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3ExUm5nTEFCaHJCSTBIRi1uMEw2VDlaU2RqTnVGcHU5RzUtN2ducmxZZExLYTRyYWZGenRacVhETmRaTTR4dzQ3Z3RYaGk0U3h3RkstZWw5N19zS3FUMmNZemlMRXdTdTV3VHBKcnNFTzlJellDbjVqZTNqQV9DWHRTWnlaOEUyRGVTYUQ5ZFBOclBEcjN1Z3FCX25fLU5zZjc3bTlKOGotX0c3U0swSlVZVWVOTS0tWEpNNmVNTmc3cGl3?oc=5",
+   "date": "2026-11-04T20:27:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7f2430414b79",
+   "title": "Renzo Reggiardo sobre 100 días de Keiko Fujimori: “No puedo ser crítico porque está dando señales y los mayores esfuerzos”",
+   "excerpt": "El alcalde de Lima destacó las acciones del Ejecutivo en seguridad ciudadana y prevención de los efectos de El Niño, aunque evitó emitir una calificación sobre los resultados alcanzados en…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/04/renzo-reggiardo-sobre-100-dias-de-keiko-fujimori-no-puedo-ser-critico-porque-esta-dando-senales-y-los-mayores-esfuerzos/",
+   "date": "2026-11-04T20:25:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e7658ce7ebf2",
+   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
+   "date": "2026-11-04T20:21:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6223704d01a8",
    "title": "Ministro Sheput responde a críticas al Gobierno de Fujimori: Hablan por consignas y lemas",
    "excerpt": "“Son consignas políticas. Porque no veo que haya razonamiento. Yo he sido parlamentario y he reconocido lo bueno en otros gobiernos (...) Yo lo que veo es que hablan por…",
@@ -624,17 +657,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOUxBV1hwLXpTU1JUNWI3dFVKVFhYOGg5N3k5ZjNzSzBhNzlOQ0JwVk5VSmduVHI1LTdnTzZrcGVKa21DQS1lT1FWZnVabTZTYjE1SVY0TThVMU5EU0Rxd1ozN0pVLVRvYUJxRS1fSkFoSVdtT1VSYlJmYnl3RHFudDlubm1TSG5UXzNBaU9OUHlZRVUxUDIzM3pIOUpGQ3B6YS1YNzlQcGFabXFWbEQxa2RiMXc1bmtOWmk0?oc=5",
    "date": "2026-11-04T18:25:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e7658ce7ebf2",
-   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
-   "date": "2026-11-04T18:21:39+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1207,28 +1229,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdVQwQ1UydVJsMXRsdG1UaEhXQ2VXU1lwblRDLVozcnNqNTF5Y193Ti03bFhZbWlXeU5vWjlQMDQ1QzRnLVE5d0NCeEgwa25LaTNyVWpGWURqZ1lxclR3UFJzM1JianZzSHk4MV9xNk9xM2o5WGtXQzlDQlhBZzdkSU83V1dIenJTU1FzSm1ZUF80TFlkWi1iQVRWbVBsSTdRWHZTclB0OEpPdkMtVzhscUNuOG5Sd9IBuwFBVV95cUxQNHpkV0hQYnc2NE0tZ0owdnlENEZnckwyRk4taGJ0V3FVVjd0SUxMY05Ib0otaWxlbEJGWHVqTWhCWUVGazI3YlRkbllyamxTOTRRdmVDQk16N0lwa09rSXNVSlFVOEJXYV8tUU9qNEtCd2ZaRTFOY0EtU3R6SGdfNmJNYjd4a1F4ZHlGYmlOcU9HaWRDcDhrYXpGWkZGMVBBRG0zVnZXMDlSQnVXcHVJa3hrZVB0b1owT0dz?oc=5",
    "date": "2026-11-03T16:32:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "13bf761ea2fe",
-   "title": "De bastión a rechazo: trujillanos enfrentan a Keiko Fujimori por crisis de inseguridad y violencia en las cárceles (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaHFUWUxlZ0V4ajBWeUNDOE9ka010Skk4cFY0c0lZR0gwU0pLVFJlLURtb2R5bXJtRFFfajA4YlpJZFJLYTB2bGxjcHAyY1ZIR28ySTlMUWRFTnFwbkVtZzNiS0tnRENlWWhjMDh6Wmp1c2VfQ2NVT2twdzVTVmhNbFRDLUhqTS1BaklieGVscm81N194ZWxyRGxzQWtfOFlKVl9rQ0FGTm9wTnBIRGE0d28tdTFyRXpnZllsZnFjSkJxbEVsaHFxZUxSZzF4OE9UalFla1pNVG1QNnBJR3dF?oc=5",
-   "date": "2026-11-03T16:32:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "764db1e48be7",
-   "title": "Keiko Fujimori anuncia que la Torre Trecca será inaugurada en 18 meses tras más de 50 años de abandono",
-   "excerpt": "La construcción comenzó en 1969 y atravesó distintas paralizaciones. Finalmente, el nuevo establecimiento recibirá pacientes derivados de las redes asistenciales Rebagliati, Almenara y Sabogal",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQWVrVFNwNFR4NldpSXFOV3NueDNnaFdDdWplbGVpVVVxaTd4a3prUEFfTGlLZV83SHdsUmYwSHU2RXVoQ0hydk9YaWZWVC05MF9uX0gyQlVIVE13UmRmTjF5S1A4VzY3NVpJSjlqTUhEem05dThOSVlhb3FKNEVMMjRMZ2tNSjBGbnBkRFZrbTUwbGpqNXFDeWEzbFhQTWNOeGFsYlpiT2RiR1RFWWJ5SXdya0dJVHhPMFVEWFNNWlVNR3lrYm9uelo5UUJoTkJPdXJjMzF5OWg3bmvSAfYBQVVfeXFMUHgzbVBUU0lnekZmZjR3QzAxSGJDN3dsS0w3ckYtX3hGVDg5ZHlmRlpSTkpoYTAyN05ncHdTUHZIY2MwLTBWOGRlX0Fpc0RoUElsZ0lBcDdxTXRDTDFTOGNyM0I1a1l2aWpOcUpZZHlyd2dMVjFiSUxxejVnLTVxcnNEX1RDeFYzc1JqTm81TFhvOVg1aTMySUFSVm51bWFUU1R6T1lNZVFTLXBhcnBlYm5kTmVzN0lOeUdLejVDLW9NVENzREdpQm4yM21jWE9Pcjljd05fc2dhMzhKc3gzdFhjMnV0eHJjSUFpcmJXcFRUYXhyUFdB?oc=5",
-   "date": "2026-11-03T16:27:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
