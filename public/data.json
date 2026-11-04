@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T12:13:21.837938+00:00",
+ "generated_at": "2026-11-04T12:35:31.607361+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -109,10 +109,10 @@
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
-  "celebrando": 1,
+  "celebrando": 2,
   "molesta": 0,
   "triste": 1,
-  "posando": 58
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -534,12 +534,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c6a5f5f5720e",
+   "title": "MEF ya buscaría inconstitucionalidad de la Ley de gratificación y CTS para CAS",
+   "excerpt": "¿Se salva la gratificación y CTS para trabajadores CAS? El gobierno de Keiko Fujimori seguiría su implementación gradual",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/03/mef-ya-no-iria-contra-la-ley-de-gratificacion-y-cts-para-cas-ni-contempla-inconstitucionalidad/",
+   "date": "2026-11-04T12:35:00+00:00",
+   "state": "celebrando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e7658ce7ebf2",
    "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
    "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
-   "date": "2026-11-04T12:06:23+00:00",
+   "date": "2026-11-04T12:23:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1192,17 +1203,6 @@
     "abroad": false,
     "city": "Trujillo"
    },
-   "next": null
-  },
-  {
-   "id": "3f17682bee7e",
-   "title": "Presidenta Keiko Fujimori sobre operativo en Pataz: el objetivo es recuperar el orden y la paz",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcUlqckRVaTNSYUxFTW1Ndi13QXdfNVl4T3l4dXlmWjJTLWtsVnVYMlFaZF9FbERQMlJNTWJRY0xSdVFObWNYajhNeHlxSnAxWHJrNTBDTUhtZWx6NjJnVWZZeVRjUi1uNGJZSVJ0aEhRNDlVd3pydmRETXlQNXIxWThjSUpNV2lFb2lKQ3BkelIzOXFtSXB4cUlEejdIb0s4aU80VXc3cHVqQ3UyWEMtWVJWZzZSSW9za2I2SkpRR2J3UlN3ZndnYlFqbzJxNUI2RGxR?oc=5",
-   "date": "2026-11-02T23:01:32+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
