@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T18:03:03.068087+00:00",
+ "generated_at": "2026-11-04T18:25:11.270606+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -112,19 +112,37 @@
  },
  "agenda": [
   {
-   "start": "2026-11-04T08:53:00-05:00",
-   "end": "2026-11-04T09:05:00-05:00",
-   "minutes": 12,
-   "subject": "Lidera ceremonia de entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh) para la construcción de dos establecimientos penitenciarios en Huacho.",
-   "lugar": "Ancón",
+   "start": "2026-11-04T09:10:00-05:00",
+   "end": "2026-11-04T09:40:00-05:00",
+   "minutes": 30,
+   "subject": "Supervisa módulo de control de acceso al Establecimiento Penitenciario Ancón I.",
+   "lugar": "Distrito de Ancón",
    "state": "posando",
    "place": {
-    "name": "Ancón",
-    "full": "Ancón",
+    "name": "Distrito de Ancón",
+    "full": "Distrito de Ancón",
     "city": null,
-    "lat": -11.69678,
-    "lng": -77.11161,
-    "abroad": false
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
+   "start": "2026-11-04T08:45:00-05:00",
+   "end": "2026-11-04T09:05:00-05:00",
+   "minutes": 20,
+   "subject": "Lidera ceremonia de entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh) para la construcción de dos establecimientos penitenciarios en Huacho.",
+   "lugar": "Distrito de Ancón",
+   "state": "posando",
+   "place": {
+    "name": "Distrito de Ancón",
+    "full": "Distrito de Ancón",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
    }
   },
   {
@@ -536,9 +554,42 @@
    }
   }
  ],
- "agenda_minutes_7d": 1241,
+ "agenda_minutes_7d": 1279,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "e7658ce7ebf2",
+   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
+   "date": "2026-11-04T18:21:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "328bb7e326c2",
+   "title": "Entregan terrenos para construcción de dos nuevos penales: “En pocos meses se inaugurarán”",
+   "excerpt": "La presidenta Keiko Fujimori anunció y saludó la entrega de terrenos al Ministerio de Justicia y Derechos Humanos (Minjus) para la construcción de dos nuevos establecimientos penitenciarios y planteó que…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-entrega-terrenos-al-minjus-para-construccion-de-dos-nuevos-penales-en-pocos-meses-se-inauguraran-noticia/",
+   "date": "2026-11-04T18:20:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "04fc905ae075",
+   "title": "Presidenta Keiko Fujimori entrega terrenos para construir dos nuevos centros penitenciarios en Huacho",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTXl4OXFwWjVnblJkcmstQzZ2NmhoTE9ZMktucnh6TjRVVFJCRWJyLU5xdVJ6LWt5empXSlNodWdMOHdLWnZTOUJoemhja2tvRVYyNG5qQ2JqeklqTDNHa2pKZjJ6SVZrUUljRGswV3dNeldGV3ZEU0FzbzJzd2hkMzF0Q0RDMDRlM2xIZVNVWjcweDRqYnhHNEswSUxBUERtTmU2aHRma1M5bE51MFBJRnV5Ym5HamFIS1RLWGcwX0U1cTVTcGN5T2x2QnU0Nk1PbFVHMl8zUmRRRFhlakE?oc=5",
+   "date": "2026-11-04T18:15:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "32544c10bf1c",
    "title": "Los primeros 100 días de gestión educativa del gobierno de Keiko Fujimori [INFORME]",
@@ -557,6 +608,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSlNZV0Y0aFZRMDlDWlhiUm8tMmp0di1iaGRWMTZJdEVycnF4aDJ2QlRmZ1ZjZ3l0c1B1YWVTczdZeUZra2hTMDg2ZmNkdWNTYVJDTzRiVktFWXZMdzFCQ0daTnJrdTRNZEwwTktwUzVLcGlLZzdiQkVZYk1jdkNVX0hxNGZkZm9YcmgxT3FubUNIYkNzWkc4VFNrN3lPTlE4MjM4dmdZN3pUWExleGVaT1lPSXdjNlV0dFZtSkt3aUJRWkQyMk1VWWVyQXo3clhLbUpKM0hmbmJ5N3B2UnhSYl81WVc3X3JFNC1hcnVUVFJ6UnVZZWNJLWJjNWwxakk?oc=5",
    "date": "2026-11-04T17:44:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d441f71f73eb",
+   "title": "José Baella considera insuficientes medidas de Keiko Fujimori contra inseguridad ciudadana: esto dijo",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORW1xZ09FRW5DREh0MWN3WHFaMlY3YlVFcDVLTjQ5dWZCU2cyNVViM1JrWFNwbm5zZVN3ekdIaFFXdGNnMENqV3o3UkpXLS1tZjZENGZhNXNyX21Xalh0ZEtfWXljNzJJUTNELVY1SzQzMGF0MjRQbkhOQkd2cnJ4X0tmS29kb2JJTlQ5Wlc4NU50T1NoT2VHWGlyQ0hDaDV1dHZOSHpxdXROMEhhR05hWXFxQ1dKczV6WWxtMW9QYWctMlFOSG1aZFE2bDVteXZSbmg2UHVpaFNPSHNFZGVNbk83ejBaYnM2b2FLb0I2TVdFVUVRelNtajJPT05nMWMwMUpFX1g4d2dsbnU3WmhlMV9jRkF1MUJSM2tBdzBnWTE?oc=5",
+   "date": "2026-11-04T17:32:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -595,17 +657,6 @@
    "next": null
   },
   {
-   "id": "328bb7e326c2",
-   "title": "Entregan terrenos para construcción de dos nuevos penales: “En pocos meses se inaugurarán”",
-   "excerpt": "La presidenta Keiko Fujimori anunció y saludó la entrega de terrenos al Ministerio de Justicia y Derechos Humanos (Minjus) para la construcción de dos nuevos establecimientos penitenciarios y planteó que…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-entrega-terrenos-al-minjus-para-construccion-de-dos-nuevos-penales-en-pocos-meses-se-inauguraran-noticia/",
-   "date": "2026-11-04T17:06:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "20e0b815afa1",
    "title": "Presidenta Keiko Fujimori entregó terrenos para construir dos nuevos centros penitenciarios en Huacho",
    "excerpt": "",
@@ -631,9 +682,9 @@
    "id": "530eab691f6f",
    "title": "Presidenta Keiko Fujimori entregó terrenos para construir dos penales en Huacho",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWVUSDRZWDNaemVZU3lVSU1Vbld2WWtyU1NKeDlaSlcxNWpHZlROX2JwNXM4X2Y4ODM0Rm00MWt4ajdCUG5aeG82MGd0eDhCQlJmY0xrVG5PbnVJYkttT1RwNjZnUTd6QllmNDhWOUMxa3pKWjAwMmhuTURKT0c3ZW1xbmxtbkNkZklicTUyWXlqYjBUckg5bjBZakswVkI2T184d29DN19pcDZqRXg1LUJOZGJmbUNPTmdKRTVybm8?oc=5",
-   "date": "2026-11-04T16:32:51+00:00",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmlERU01Y3d4b2tRdmlodHBOY2p0UllWUDB3VGF2N0UxeDlDSUpUZWV1MnhxMUpMTEFTVEx4ZFBmX0t2c1o2RGtDbG14alRMVHh3YWVDUFZ3U09kN09CR1F3eG5JRTVoak5pb2psbXBHSV9aUGpLdG9MUkxYZGk4TnVqdjBNOHJCcWVJaUR0YmEzVjF3QmlnUmI1X1dwWW5Oa01valR4MmI3Yk1jZkZqVmNQbzhabWhUU0ctVEFLU0lnR0tWN1NiazBIaTF5V0dZNTN3?oc=5",
+   "date": "2026-11-04T16:36:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -678,17 +729,6 @@
    "source": "Pachamama Radio",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
    "date": "2026-11-04T16:07:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e7658ce7ebf2",
-   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
-   "date": "2026-11-04T16:04:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1176,28 +1216,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "a29ce5ae180b",
-   "title": "Presidenta Fujimori: Torre Trecca estará lista en 18 meses y atenderá a 1.4 millones de asegurados",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTlhHMm1IdFFOUGc1X2xHZy1GX1JqelpYUzBZeEdMVTlpTnBZNFlOcU1tc2dmeXZ5cFR3d3VtcGh2SEVmeFRBZ2thQWxUT0N5ekhzR0lLWC1qeU9KMWVpRUxOQ2UzUkFoY1AzYnBQX0ZLOGQ4Y09sVVhESXFabkwxZzdxb28wdGxvQlVCNmE0X2o0RDl1eXJfMWw4WmNBQVlQcGxGOUh2NDdzcnFUZHpFSkJqQnltR1laS3M0ZkN2NVR0UElOUTVxMzRhZXJKekh4VWczakpxRQ?oc=5",
-   "date": "2026-11-03T16:12:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "95e8fe8c5900",
-   "title": "Keiko Fujimori destaca “mensaje de unidad” y “esfuerzo conjunto” entre sector público y privado tras destrabe de Torre Trecca",
-   "excerpt": "La presidenta Keiko Fujimori resaltó la coordinación entre el Gobierno y el sector privado para destrabar la Torre Trecca de EsSalud, una obra que permaneció paralizada durante 16 años y…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-destaca-mensaje-de-unidad-y-esfuerzo-conjunto-entre-sector-publico-y-privado-tras-destrabe-de-torre-trecca-ultimas-noticia/",
-   "date": "2026-11-03T15:47:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1288,6 +1306,7 @@
   "ancon, peru": [
    -11.69678,
    -77.11161
-  ]
+  ],
+  "distrito de ancon, peru": null
  }
 }
