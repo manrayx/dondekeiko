@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T14:43:56.094053+00:00",
+ "generated_at": "2026-11-05T15:27:22.658108+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
-  "triste": 2,
-  "posando": 55
+  "triste": 3,
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -559,6 +559,17 @@
  "agenda_minutes_7d": 1306,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "4223312d4e00",
+   "title": "Vecinos de Villa El Salvador cuestionan a Keiko Fujimori tras inundaciones: \"¿Para qué vienen si no van a cumplir?\"",
+   "excerpt": "Vecinos de Villa El Salvador criticaron a la presidenta Keiko Fujimori por la falta de acciones para prevenir inundaciones ante el fenómeno El Niño. Este reclamo surge tras la promesa…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/05/vecina-de-villa-el-salvador-cuestiona-a-keiko-fujimori-tras-inundaciones-para-que-vienen-si-no-van-a-cumplir-hnews-475080",
+   "date": "2026-11-05T15:19:10+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
   {
    "id": "76a685daa9f5",
    "title": "Keiko Fujimori cumple 100 días de gobierno: ¿Qué medidas se concretaron y cuáles siguen pendientes?",
@@ -1225,17 +1236,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjlya0lhajZXTU4wWWp4dUlmNW02V0syQ0FmQWU1RXlrYl9ybHk4aEhQVnJhYnJic090dEpHcXM0SHNKODVNUDlCTUgxUWdIam0wZXlScDRiZk56V0FnOWFGMUlvWWg1TjhGUEhSbWpEUjQ4WWkyUEx0OTVaVjBqRVVWUzFwZHVYa0UtdENfXzF6R2xNZ3Qwb2dnMENYc0NoUUhDMg?oc=5",
    "date": "2026-11-04T12:28:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1f2ec4020471",
-   "title": "Primeros 100 días de Keiko Fujimori: 47% califica su gestión como regular, según encuesta de Datum",
-   "excerpt": "El 47% de los peruanos considera que la presidenta Keiko Fujimori ha realizado una gestión regular en sus primeros 100 días de gobierno, mientras que el 38% la califica como…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
-   "date": "2026-11-04T12:05:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
