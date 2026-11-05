@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T02:22:32.630934+00:00",
+ "generated_at": "2026-11-05T02:44:02.348456+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -584,6 +584,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d46a76206304",
+   "title": "Presidenta Keiko Fujimori cumple cien días al frente del gobierno: revisión de los primeros días de su gestión",
+   "excerpt": "",
+   "source": "Chimbote en Línea",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMkg1MjBXN0FTbGxpa0xsUjFGZjVFQ2g4aTN0cGp0bEN1ZDFBRHplaVlzMmR0TXV3amtxVjREd1JDR0MzdUFuTkktRW5qUUZPd3JPRjVNdkVodzc1aWVOMDFGTzBpSEFfWjB3bGFnWHFOUFJTbkxHR2t0Q2t0cnEtRWpjWjZMa2hpOVA1RU9ZM05teU91WlZ2bGlTU1BsZktQVDdxRUxreUNfMlFPS1RxdEJnU2d5RDU1ZGRRUHdMUHp5UGQ2TDkzU1cxNUUzRUtzaGt1T2QtMk9NZFNXNERvWktUZnpCeTlHU3JzSURqckVtMk1zRV90aFNjWll6UUFBeE1pczNn?oc=5",
+   "date": "2026-11-05T02:34:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fab6acf5c983",
+   "title": "Presidenta Keiko Fujimori: “Nuestro objetivo es reducir la anemia por lo menos a la mitad”",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFhvdEdicVVaSXA5YWVMSWFJMlZQLVhkbklLVGt5N0xjSzJuak5IbTh4SVE2UjdpV1RMRVIwTXMtM1hZczdqMWRZUXVoRnU0OTRELV9TdnhQSkFrbkxJUWpHQW52SjJmVEpYNkhhcGVFRERpZ3JzQXZiMmNFZ0VCWTVhSEl6U001SzRILVRzMWY5ek93b1A5TVpNcjFXMWo4ZnRIS1U3S3FsY0UtZDJEanZidmU0dTBJZE1XZkVpRG1pcEU?oc=5",
+   "date": "2026-11-05T02:20:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d4e8320e1406",
    "title": "Patricia Juárez sobre los primeros 100 días del gobierno de Keiko Fujimori: \"Ha generado una sensación de estabilidad\"",
    "excerpt": "",
@@ -681,6 +703,17 @@
     "lng": -77.02636,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "d5425fa77f45",
+   "title": "Presidenta Keiko Fujimori lidera la firma del Pacto contra la Anemia: \"Nuestro compromiso es reducirla a la mitad\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUl3aEVPbmVsbnlqRHFoX0VMTTlhUWtULTNCekFXLUVybVl0LUNDck5JeWF0Z1RxUzVNYndZZnlyX0VkQ3BDUGVjQVo0RUpiYzA4cEFZbWRtMnR1LTlHRkVJM0ZhWmFDcmMyTE5BY0oySUJudzNfQXE0a2M2MExRYWZ2OUN5RkNaMHI0SFBQdWpQOXZhS3lSa3NNTDRtWUI1VTVrbjBtS2E3WFdjejlrdHVZM0dsLU5XQi0wOHljYmF1bEJyYVhCTmtIb1FoTHFNZVE?oc=5",
+   "date": "2026-11-04T22:17:00+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1218,39 +1251,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUxUeV9WVTJXUlJSVE8wemRlYzlJcmtLamNBRlF4MkY2VjBsYmJqTDNOdG5XTmNBMXU0aWNUTEJKdUFoeE9CeU5FN19UajhxV1N1cUdUMmNVVkViM3Mxald0WVpjd2V1aEV0YVhKOUExQVo2eHBldzlTTnpjQkdfSmhpR0F4bXh0bHo2V3dGTEtXRVFtNTg2ZlFwSkxUX3NfUWNfVWVCQnA4dC1laTZNZ3VZaGl3clpTOTctX280ZjdvamNHZGNmUlNDQl9MTEhuclQ0UUNYMUp2WFpi0gH3AUFVX3lxTE1HaW40TUJmWVZYOHRINUdvaE5HazlBTTVEXzdXQ2tyNllmUXNEQktLMV8yMHJRenNUeFpwSUI2YW5jX0NGX0N5OG1KbGdVV01hbzAyejN3YURQeVZpcGpCYUZOQl9ES3lqZWJ2dmx1MldTMG8wUHQwRFRYU2RxbTVkTE5PNHZFV2gtcWV2S1g4Y1FpbG5lVnhfOGJQRURpS3NSbEtaalZGLUxVaEw3bUFPaXctN0YyeUpaNUxZSlcya29LYTAyYjRfODBYaWhrTmVwR0xiZW9aMG1Gb05lT2RjQ1BpdHRLUk12eHRZeXZRaExpbmxlNU0?oc=5",
    "date": "2026-11-03T23:11:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b74186e17941",
-   "title": "Presidenta Fujimori entrega 6,500 computadoras a colegios de alto rendimiento",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHhkbHp5R3ktSHY2ZnlkbEk3T3phTGJ1Mlppa3o4N0lkUkFXcGR3ZV9uUTFNOWRXS2F0WXdHaWVoYi01WEFOMzhPSkR1YUJ3eXNkSUJoZVgtemZwZTM5NkxxWnkyNzBjX3JpR3NNZk5GZ0o3WVBsbDY3aFp1eTlIQ1lTMjVLamZnYW1Ham01djJad0VlSm5KU2pPQzBpSWktQlBWU1VJT1hMa2lLaEY4ejMtUWtiM0FRaWxzYQ?oc=5",
-   "date": "2026-11-03T22:30:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5c0772d4a52c",
-   "title": "Presidenta Keiko Fujimori entregó 6500 laptops a estudiantes de los 25 Colegios de Alto Rendimiento del país",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUF9kSE1hOUplc0xEVXpjdXpwS25CMHNGeWFvWjlIOGJxdjllcGZ0UGNMd0ZlMjV0MEVIZUI0bnNHeXBvcUEweDZzMi11TTFWLXptQmdlRm5tV0JYVnEwRms5Ri1yVGtYSG1PU2lsTk1OU0NVTVVIMFZHMm5ESUFxb29CZ0xXNFJHb0dIajZSVzhWcHFGdzJzX2VYQ0dOYnFkZlpGVU80NXRtbDIzcWotYTFOdWxXTmhkYVdNQWtNVXJSSlhrV3lUN3ZKeHZhX3BwdVRLcm5yY0t0SlZPS3N2cA?oc=5",
-   "date": "2026-11-03T22:00:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1891069da766",
-   "title": "Quinua invita a Keiko Fujimori a participar en aniversario de la Batalla de Ayacucho",
-   "excerpt": "",
-   "source": "Jornada",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhoMjk3WDlZTFpRU3Y5bkt5bk8zUVpremVVQV83bGhURzJ5bDYzcWZUVm5yai1FMmdOdUp5UzgzX25YcjNGRzB0NDZScVVxOHhDSmRtcU1ZNkl1VFE3Zk1aVFoxVzFJQ0N2RHk4TFZJMTZNRTFwSEFxTlM0OG1RamxRbkY0N3pNTi0zSHI1VFlDR1IzSjd0QlJ2cUg4bS11ZnpsTGVXTklCdmhpREkwaEVtbTR4VGFBODlB?oc=5",
-   "date": "2026-11-03T21:29:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
