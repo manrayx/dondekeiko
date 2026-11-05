@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T02:44:02.348456+00:00",
+ "generated_at": "2026-11-05T03:05:28.754658+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -598,9 +598,9 @@
    "id": "fab6acf5c983",
    "title": "Presidenta Keiko Fujimori: “Nuestro objetivo es reducir la anemia por lo menos a la mitad”",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFhvdEdicVVaSXA5YWVMSWFJMlZQLVhkbklLVGt5N0xjSzJuak5IbTh4SVE2UjdpV1RMRVIwTXMtM1hZczdqMWRZUXVoRnU0OTRELV9TdnhQSkFrbkxJUWpHQW52SjJmVEpYNkhhcGVFRERpZ3JzQXZiMmNFZ0VCWTVhSEl6U001SzRILVRzMWY5ek93b1A5TVpNcjFXMWo4ZnRIS1U3S3FsY0UtZDJEanZidmU0dTBJZE1XZkVpRG1pcEU?oc=5",
-   "date": "2026-11-05T02:20:00+00:00",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV0l0NEZhcVZSYm8tSEFxQnJWc2Y5OUtDLS1scjZkUElJaGpDNHZRTzA3M0EyUTJuTnJ5NzItNi1NX0x2RWlLZUpOcHk0MnpYZWJDNkd6bVBFbFF5eTU0QW5meUFqclR4Q05URnFPZGlyX3ZHOG43OW9uVWxqV0tnLUlnYmJwd2xpUEVFc0hfcmZjeVJlaWk4VnR0WEFMQ3A3VU84bnJVRjhFUzBYcWFiazNjeURZWGhMMlE2cFRFSmxsc0xtV0E?oc=5",
+   "date": "2026-11-05T02:28:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -706,6 +706,17 @@
    "next": null
   },
   {
+   "id": "748bc7e71c44",
+   "title": "Keiko Fujimori cumple 100 días con obras regionales pendientes",
+   "excerpt": "",
+   "source": "inforegion.pe",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY0tBcFZackRVMHBfNzR5YWl5ZGRMTDc1eS1MTF9ZNTVlYXFITHNjQ3JYc19wdS1yZU5YS01PZ0Nnd3pzUzJDSVNLaGRiSGZZbTBQbnkwSWt4TE1iaUpVVXB0cVNOMC1yTk8wZDRKY1RmYTVyWVJKMVFCYVRSSVRnb0ExUzBhcDE1ZHRIWTdZQzRVam1EVjV4WXhGWUp2bkdqYnZwU1JwQW9ZLWVRbmlkSzdzRU5sTFVJZHZmbThaMW9Hdm9iN1ItTlV0WExxRmJQRkhXRnZiQzJVeGFXNFZfZTBUOFYyWDZBQ1NLX2lYSy15ZEZvc0QwcVlxYy1vVThu?oc=5",
+   "date": "2026-11-04T23:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d5425fa77f45",
    "title": "Presidenta Keiko Fujimori lidera la firma del Pacto contra la Anemia: \"Nuestro compromiso es reducirla a la mitad\"",
    "excerpt": "",
@@ -745,6 +756,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHA5MzJycVF4Vjl5NVRRWEczWjNyb0Z3eEJwRVZIWjBUVE5WYjJaTWRtZ2hDYjA1bEdVbTctUXFJeFNVOUViclZFTjlwRkRmd2g0QmNMb2p6S1RJR0dLQktTY3RZMmhHeExvWE5VMjJLTUY0ZTc2UlhSZjNmSFpCWjg2d0NWYUlyb3hPNlNkbWpzZFEtUlZ0TURFbDBRa0xHYWl3VS1qZHpZNUgyTGw2emJzaEtHS0pKWGpjQUh2Q2QtYjdEMzFQQkRDX2NVQ1l3ZWVz?oc=5",
    "date": "2026-11-04T21:11:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "11dbe3f43012",
+   "title": "Análisis de los 100 días del gobierno de Keiko Fujimori | EEUU: Derrota electoral de Donald Trump",
+   "excerpt": "",
+   "source": "Epicentro TV",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1pieW5aV0txV1h0Mk1wSG9lTlJLVlFkb2NGaXlFRFI2UjduLXZFNThCc3NjcDkwUU5aQWlselB2Ujk0NEdycXhhTi04VEh4N3BYSVRZbDdGejA5MlhfNWhLUE1LWUdKcE5nQkNoZmN4cjN1czhqMXA3eFY2TUV6cmh1NlVvV192dXBIcmJydTVWUm02UVpxMS1ZdFpEMVUxVHNJTm0wRWdFSXBMOHdtLUx6Sk04TnM?oc=5",
+   "date": "2026-11-04T20:50:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -965,17 +987,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
    "date": "2026-11-04T17:00:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "11dbe3f43012",
-   "title": "Análisis de los 100 días del gobierno de Keiko Fujimori | EEUU: Derrota electoral de Donald Trump",
-   "excerpt": "",
-   "source": "Epicentro TV",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1pieW5aV0txV1h0Mk1wSG9lTlJLVlFkb2NGaXlFRFI2UjduLXZFNThCc3NjcDkwUU5aQWlselB2Ujk0NEdycXhhTi04VEh4N3BYSVRZbDdGejA5MlhfNWhLUE1LWUdKcE5nQkNoZmN4cjN1czhqMXA3eFY2TUV6cmh1NlVvV192dXBIcmJydTVWUm02UVpxMS1ZdFpEMVUxVHNJTm0wRWdFSXBMOHdtLUx6Sk04TnM?oc=5",
-   "date": "2026-11-04T17:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1240,17 +1251,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/03/senador-jose-castillo-defiende-proyecto-de-ley-que-propone-amnistia-para-pedro-castillo-es-el-derecho-que-le-corresponde-hnews-214086",
    "date": "2026-11-03T23:34:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c7f84f4b4b66",
-   "title": "Keiko Fujimori: “El próximo año será peor (por El Niño). El Perú unido va a enfrentar los terribles estragos”",
-   "excerpt": "La presidenta pidió acción conjunta frente a los efectos del fenómeno climático durante la presentación de una donación de cinco vehículos de emergencia para los bomberos",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUxUeV9WVTJXUlJSVE8wemRlYzlJcmtLamNBRlF4MkY2VjBsYmJqTDNOdG5XTmNBMXU0aWNUTEJKdUFoeE9CeU5FN19UajhxV1N1cUdUMmNVVkViM3Mxald0WVpjd2V1aEV0YVhKOUExQVo2eHBldzlTTnpjQkdfSmhpR0F4bXh0bHo2V3dGTEtXRVFtNTg2ZlFwSkxUX3NfUWNfVWVCQnA4dC1laTZNZ3VZaGl3clpTOTctX280ZjdvamNHZGNmUlNDQl9MTEhuclQ0UUNYMUp2WFpi0gH3AUFVX3lxTE1HaW40TUJmWVZYOHRINUdvaE5HazlBTTVEXzdXQ2tyNllmUXNEQktLMV8yMHJRenNUeFpwSUI2YW5jX0NGX0N5OG1KbGdVV01hbzAyejN3YURQeVZpcGpCYUZOQl9ES3lqZWJ2dmx1MldTMG8wUHQwRFRYU2RxbTVkTE5PNHZFV2gtcWV2S1g4Y1FpbG5lVnhfOGJQRURpS3NSbEtaalZGLUxVaEw3bUFPaXctN0YyeUpaNUxZSlcya29LYTAyYjRfODBYaWhrTmVwR0xiZW9aMG1Gb05lT2RjQ1BpdHRLUk12eHRZeXZRaExpbmxlNU0?oc=5",
-   "date": "2026-11-03T23:11:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
