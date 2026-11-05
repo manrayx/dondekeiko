@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T10:44:42.352660+00:00",
+ "generated_at": "2026-11-05T11:06:39.746085+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
   "triste": 2,
-  "posando": 56
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -551,6 +551,50 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3aeea3425d7b",
+   "title": "Keiko Fujimori cumple 100 días de gobierno con dos frentes que marcan su agenda: la criminalidad y la amenaza de El Niño",
+   "excerpt": "El Ejecutivo ha priorizado el combate contra las organizaciones criminales, el endurecimiento de las medidas de seguridad y las obras de prevención ante posibles inundaciones y lluvias intensas en el…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-con-dos-frentes-que-marcan-su-agenda-la-criminalidad-y-la-amenaza-de-el-nino/",
+   "date": "2026-11-05T11:03:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "03e7131d5138",
+   "title": "Keiko Fujimori, Pedro Castillo y PPK: los 100 primeros días de los últimos presidentes electos",
+   "excerpt": "A 100 días de la gestión de Keiko Fujimori, un contraste con los inicios de Pedro Castillo y Pedro Pablo Kuczynski muestra prioridades, choques con el Congreso y diferencias en…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-pedro-castillo-y-ppk-los-100-primeros-dias-de-los-ultimos-presidentes-electos/",
+   "date": "2026-11-05T11:02:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6efccf92a0ef",
+   "title": "¿Qué hizo Keiko Fujimori en sus primeros 100 días de gobierno? Las cifras de su gestión presidencial",
+   "excerpt": "Desde el 28 de julio, el Gobierno impulsó medidas para enfrentar la inseguridad ciudadana, atender los efectos del Fenómeno El Niño y promover inversiones",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/que-hizo-keiko-fujimori-en-sus-primeros-100-dias-de-gobierno-las-cifras-de-su-gestion-presidencial/",
+   "date": "2026-11-05T11:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a2594e1bacbd",
+   "title": "Keiko Fujimori cumple 100 días de gobierno: entre el discurso del orden, las redes sociales y la percepción ciudadana",
+   "excerpt": "De una comunicación cercana en redes sociales a un discurso más enfocado en la autoridad y el orden, Keiko Fujimori ha modificado su estrategia desde su llegada a Palacio de…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-entre-el-discurso-del-orden-las-redes-sociales-y-la-percepcion-ciudadana/",
+   "date": "2026-11-05T11:00:01+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "fab6acf5c983",
    "title": "Presidenta Keiko Fujimori: “Nuestro objetivo es reducir la anemia por lo menos a la mitad”",
    "excerpt": "",
@@ -598,9 +642,9 @@
    "id": "d46a76206304",
    "title": "Presidenta Keiko Fujimori cumple cien días al frente del gobierno: revisión de los primeros días de su gestión",
    "excerpt": "",
-   "source": "Trujillo en Línea",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNUtpWklzNVYwSjlqcWJzd0dWTkZyOUNaaURQYTFiNktjRGoxVV94emtZcWdCS1pPUFo2WlNaVmpELVVMY3J1RUpNQlMydG91Q1Q1M29OWEVxY0pOYV9VREdyaFdtUmEzRFNseXJlQlhtSS04NDBQQm8zTDFlWWNfQTJlTWhzY2x2MVkwZGI2WDZybjBhTFJjeXZ2cTYyUXhsZVRSdk9xMHk0MWZYTHoxQzdHa0pKLXdSSGwzS1hHZ3o0dEhpa2xoTDZ5aGpXaGtKdkFPMHNDMXQ4ZVV2Tk1RcTVlUkNCUlVMUW9IdzN1bmIwNnJVeGNiSQ?oc=5",
-   "date": "2026-11-05T02:33:00+00:00",
+   "source": "Chimbote en Línea",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMkg1MjBXN0FTbGxpa0xsUjFGZjVFQ2g4aTN0cGp0bEN1ZDFBRHplaVlzMmR0TXV3amtxVjREd1JDR0MzdUFuTkktRW5qUUZPd3JPRjVNdkVodzc1aWVOMDFGTzBpSEFfWjB3bGFnWHFOUFJTbkxHR2t0Q2t0cnEtRWpjWjZMa2hpOVA1RU9ZM05teU91WlZ2bGlTU1BsZktQVDdxRUxreUNfMlFPS1RxdEJnU2d5RDU1ZGRRUHdMUHp5UGQ2TDkzU1cxNUUzRUtzaGt1T2QtMk9NZFNXNERvWktUZnpCeTlHU3JzSURqckVtMk1zRV90aFNjWll6UUFBeE1pczNn?oc=5",
+   "date": "2026-11-05T02:34:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1174,50 +1218,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFpyN05tUWVoVV9zR2lHSGpXTGNmNXIyZDA0LTZFN29VZWdENDBYWTFmbEhRT3FfUVJDVDFSZ2Fwa3REZmVQdXFpUU82ZV9UQWdWelM5TE9QejVxMUpES1ZXa2ZQRTBGdEgtazdFakt4UGNZR1JDYVRvbE51bGp1Z2hESU5HSUtlaXplX2tSZ0RYQQ?oc=5",
    "date": "2026-11-04T04:05:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ba9e5445579f",
-   "title": "Ministro Sheput: “En la Sunafil hay una serie de petitorios de suspensión perfecta”",
-   "excerpt": "“La suspensión perfecta no es una decisión del Gobierno de la señora (Keiko) Fujimori, ni del Ministerio de Trabajo; es una ley que tiene como 30 años, y una empresa,…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/economia/management-empleo/ministro-de-trabajo-juan-sheput-en-la-sunafil-hay-una-serie-de-petitorios-de-suspension-perfecta-noticia/",
-   "date": "2026-11-04T02:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "24797d7c2747",
-   "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
-   "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMGlUdy1NY3lsMjBwT2psRjlGbUdfTXFWSDhKZDcxYlA0N000RmpXc0JzUDRIU0wwaUhMZmNHVHZueWJyUEtEajd5RUxlMmpOUkllV0toVzVOTFVPUWVsREVvekRPRmlqdVhubGRsVDJEbzVrM05pTndDTkotbFI5LVJfSW16b29yMzNISUtMZjBVTEJ2NzVrdkVpTGNSd1BnZHhBY2lXS2dFZ0hwR1FBWnFNNEJQX2kycFhpRnJMQ1VaLV8zMzg4Z01FbWNrWmhoSldXQl9ZY042cVBNYjJxS2dPb041dUMydzhVeDlR0gGIAkFVX3lxTE4zc0YtM3ZHYUxuMHpNR0Z1S182eENqQ3ZzNWhLMzFJT1hTREFWMkRvUU9IUU9ScTdnNzVxV3RaZFNnZURRYU1DYy1CWlppbk9jbDl6dG5LVjhlT24zVHJaR3g1TlZHZ1dhb3poME1rT1NKYi1OVF9wM3RpT3M3VFl0VXJ1NXA0c0pQTVhnZWo5RXBFV1Y3b2tMUnppamduNUJQUTk2cThCZ3ZGM2tnU0ItSTRsQXFsOE9QTUtlUDY5dVc2SVBNRm1WX3ZKbjJqRGEwYTJkaVMwcnVkRWpXS25vVnBDZWs4dTV2bnJLVG1iWG5UZXRZbWxXeF8wUDFHYVFQNFpGZFVXMg?oc=5",
-   "date": "2026-11-04T01:34:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e6fdaab2814c",
-   "title": "Presidenta Fujimori entrega 6500 computadoras a estudiantes de los Colegios de Alto Rendimiento",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXZBQWRyRmJTbHVvWDNGa0drYXBFX3VOeE52eGREUnJpTHhzU25xSHZHd3FtZ2UtSG5xV1pRbW51MXZJRW1aMWwzTldjalZYMmVVSFc0YXZob3VKbEh3MVdSY2ExX3RkWkhvbXVDb2dSR3BLUVB0NHpNYWMzRHFUT1pPWWZ0ZlhYT2JlNGV6U2ZvSnU4LTd0bDhQdVhQbzlJcHBxeFh0N2lZY3FSMURCMUxTaG9hd2NRSWNidC1ia2dYV29LUjNCdlhvbzRGUnQ2S2pj?oc=5",
-   "date": "2026-11-04T01:13:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "075dcfa49529",
-   "title": "Keiko Fujimori lanza llamado ante El Niño: “Cuando trabajamos unidos se puede vencer cualquier cosa”",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ2dEbHliNktDQXdueDVOeDRSUEg1TC1RQTVqcnFQZ0NhcHVnMGUwa3NHZ2VwQmVvVG9zSWNGN1JjTXVhU01VVmJyRHk0bGZ4ZEZ4SWFQTi1oVzhjRGRyZDh2MjFZR1dEOEZoa016MThaZENhZVhWRnBlaS1wanpHMG9SWFphVWVmSTVyUUg0NzJxTGlqU2FLdHdzbFlDTHFkT01NVjVtVXJvcG0td2p2YXppa2I0Nl9JREVNUjFta3JYSTM5UUFkSnFSUTNab3poVk5yMW94aS1BRElfS2hYZmxXaTFCNjc4SkV3U205Q0pqZ3Iz?oc=5",
-   "date": "2026-11-04T01:12:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
