@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T06:22:18.976485+00:00",
+ "generated_at": "2026-11-05T07:49:58.545306+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -551,6 +551,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-11-05T07:35:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6821e600d248",
    "title": "Sheput: Liderazgo de la presidenta Fujimori es lo que distingue a sus primeros 100 días",
    "excerpt": "",
@@ -794,6 +805,17 @@
    "next": null
   },
   {
+   "id": "fab79d8ef186",
+   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
+   "excerpt": "",
+   "source": "::Radio Marañón::",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjEyV2tUN0V6RHVvZUlUYmMzbnotUjhzX1VZQU9ONUR2ZGwzLXpNUkpEaS1rbDFqSVlwZHpCTVBoSlJFWUswZ3R1NWlCZWtiVFVnekhMbldCYlRhaHpfQjJNYkdpc2ZMRnI1eW1nd2FzR092cFlIR3RFT1lsSXdoZDFXR2podGdnR1lVZV9FMTBCa0VBQnI5SHJERURVQUhacENwOGEtakM4NXVOc0x3Zml4Y3pnNEJlX0E?oc=5",
+   "date": "2026-11-04T19:13:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "253acf89bfe6",
    "title": "Keiko Fujimori: los pendientes y cuestionamientos de sus primeros 100 días de Gobierno",
    "excerpt": "",
@@ -833,6 +855,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOUxBV1hwLXpTU1JUNWI3dFVKVFhYOGg5N3k5ZjNzSzBhNzlOQ0JwVk5VSmduVHI1LTdnTzZrcGVKa21DQS1lT1FWZnVabTZTYjE1SVY0TThVMU5EU0Rxd1ozN0pVLVRvYUJxRS1fSkFoSVdtT1VSYlJmYnl3RHFudDlubm1TSG5UXzNBaU9OUHlZRVUxUDIzM3pIOUpGQ3B6YS1YNzlQcGFabXFWbEQxa2RiMXc1bmtOWmk0?oc=5",
    "date": "2026-11-04T18:25:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f50c2c43891a",
+   "title": "Renzo Reggiardo evalúa con expectativa los primeros 100 días del gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmU1dFNFTngtb2paTk5qaEd2ZFpTOWVadDRmSmhBcFlOdFl0VHV5SmctUEpTdzE5SVBiY3hTMVdjOXpkUmJoYzA0dFlKd0l4a1Mwc294dS1CM3VBUmstamdGVGE5cjFCaDZxMVRSTVlEUmt5MTFXdllGamdpR3hiZ2p6dUcxWGpFd0JPZVh4NUJVQkRWYkU3Z1MtLTR4RVR6X21sTVJxQnVFWnA5WXZtMEFmYw?oc=5",
+   "date": "2026-11-04T18:22:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -976,28 +1009,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/04/escuelas-bicentenario-gobierno-excluye-17-colegios-del-proyecto-por-falta-de-presupuesto/",
    "date": "2026-11-04T16:31:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ddb081b9a2fd",
-   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
-   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
-   "date": "2026-11-04T16:24:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fab79d8ef186",
-   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
-   "excerpt": "",
-   "source": "Pachamama Radio",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
-   "date": "2026-11-04T16:07:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1207,17 +1218,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/04/municipalidad-de-tacna-pide-a-keiko-fujimori-detener-el-envio-de-mas-reos-peligrosos-al-penal-de-challapalca-por-que/",
    "date": "2026-11-04T00:47:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cabcebd7bc9f",
-   "title": "Senador José Castillo defiende proyecto de ley que propone amnistía para Pedro Castillo: \"Es el derecho que le corresponde\"",
-   "excerpt": "El senador afirmó que la amnistía a su hermano le corresponde como 'derecho' y criticó a la gestión de Keiko Fujimori por no abordar los problemas del país.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/03/senador-jose-castillo-defiende-proyecto-de-ley-que-propone-amnistia-para-pedro-castillo-es-el-derecho-que-le-corresponde-hnews-214086",
-   "date": "2026-11-03T23:34:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
