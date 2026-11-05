@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T11:06:39.746085+00:00",
+ "generated_at": "2026-11-05T11:28:41.267626+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Arequipa",
-   "lat": -16.409,
-   "lng": -71.537,
+   "name": "Moquegua",
+   "lat": -17.194,
+   "lng": -70.935,
    "abroad": false,
-   "city": "Arequipa"
+   "city": "Moquegua"
   },
-  "source": "La República",
-  "date": "2026-11-04T23:26:39+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-05T11:06:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -551,6 +551,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "bac7cb657bc8",
+   "title": "Keiko Fujimori cumple 100 días de Gobierno: ¿cómo avanza la relación del Ejecutivo con las regiones?",
+   "excerpt": "Las demandas por infraestructura, servicios básicos y protección social siguen marcando la agenda descentralizada, mientras que la controversia por las tarifas eléctricas en Moquegua y las observaciones sobre la prevención…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-como-avanza-la-relacion-del-ejecutivo-con-las-regiones/",
+   "date": "2026-11-05T11:06:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Moquegua",
+    "lat": -17.194,
+    "lng": -70.935,
+    "abroad": false,
+    "city": "Moquegua"
+   },
+   "next": null
+  },
+  {
+   "id": "9839a8f97dba",
+   "title": "Visita del papa León XIV, ¿un bálsamo para Keiko Fujimori a pocos días de cumplir sus primeros 100 días en el poder?",
+   "excerpt": "Su nacionalidad peruana y los años que ejerció como obispo de Chiclayo fortalecen su identificación con la población, una conexión que antecede al actual Gobierno y no puede atribuirse a…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/visita-del-papa-leon-xiv-un-balsamo-para-keiko-fujimori-a-pocos-dias-de-cumplir-sus-primeros-100-dias-en-el-poder/",
+   "date": "2026-11-05T11:05:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3aeea3425d7b",
    "title": "Keiko Fujimori cumple 100 días de gobierno con dos frentes que marcan su agenda: la criminalidad y la amenaza de El Niño",
    "excerpt": "El Ejecutivo ha priorizado el combate contra las organizaciones criminales, el endurecimiento de las medidas de seguridad y las obras de prevención ante posibles inundaciones y lluvias intensas en el…",
@@ -642,9 +670,9 @@
    "id": "d46a76206304",
    "title": "Presidenta Keiko Fujimori cumple cien días al frente del gobierno: revisión de los primeros días de su gestión",
    "excerpt": "",
-   "source": "Chimbote en Línea",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMkg1MjBXN0FTbGxpa0xsUjFGZjVFQ2g4aTN0cGp0bEN1ZDFBRHplaVlzMmR0TXV3amtxVjREd1JDR0MzdUFuTkktRW5qUUZPd3JPRjVNdkVodzc1aWVOMDFGTzBpSEFfWjB3bGFnWHFOUFJTbkxHR2t0Q2t0cnEtRWpjWjZMa2hpOVA1RU9ZM05teU91WlZ2bGlTU1BsZktQVDdxRUxreUNfMlFPS1RxdEJnU2d5RDU1ZGRRUHdMUHp5UGQ2TDkzU1cxNUUzRUtzaGt1T2QtMk9NZFNXNERvWktUZnpCeTlHU3JzSURqckVtMk1zRV90aFNjWll6UUFBeE1pczNn?oc=5",
-   "date": "2026-11-05T02:34:00+00:00",
+   "source": "Trujillo en Línea",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNUtpWklzNVYwSjlqcWJzd0dWTkZyOUNaaURQYTFiNktjRGoxVV94emtZcWdCS1pPUFo2WlNaVmpELVVMY3J1RUpNQlMydG91Q1Q1M29OWEVxY0pOYV9VREdyaFdtUmEzRFNseXJlQlhtSS04NDBQQm8zTDFlWWNfQTJlTWhzY2x2MVkwZGI2WDZybjBhTFJjeXZ2cTYyUXhsZVRSdk9xMHk0MWZYTHoxQzdHa0pKLXdSSGwzS1hHZ3o0dEhpa2xoTDZ5aGpXaGtKdkFPMHNDMXQ4ZVV2Tk1RcTVlUkNCUlVMUW9IdzN1bmIwNnJVeGNiSQ?oc=5",
+   "date": "2026-11-05T02:33:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1196,28 +1224,6 @@
    "source": "La Linterna Azul",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQzN1ZEp2MGNvUEgzYTdMRXYzQlRqZ2tKekxpS0ZzNHh2QkRITV9ycWlwMzF1MWxiMkNMcVg5NEtkMTJZbVpRSWZSSENpd2lpR1BNOUN0YVJfdHktMmFTOTBfVHdEMFdFd192cS1uemlzOE9RNmhHbUU0Z1JJVGc3RkhBa1VYUmhIVXQwMjFZYWJXVjgwSWtVQkhnVEdiSTBXOEY4OE5aRjhTdFY3ZWRNQzhwZDY2R1E?oc=5",
    "date": "2026-11-04T05:19:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9e2875fe804c",
-   "title": "Presidenta Keiko Fujimori: El Perú enfrentará en unidad el fenómeno El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEwySFZDdndkZWtXTndudjMzSzUzVlY2VFNpR3ZNejhZQWlTLVNSM1ZJOFpFMkUzOFNPaFdrelY3b1l4SGJxZ01VMWcwZEhFd25fU1hLSDQyeGM4NUlFcGlyWmllUEg3TEJ1d0ctV184bzkzVTBfdnZBN05MZnJQTDNibEFPN3ViU2VucmdZdHBaajZMalk0aW93UmRFNzdPSGR6RlJHTDJTOVptVVE?oc=5",
-   "date": "2026-11-04T04:14:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "146d1a5a4d3d",
-   "title": "Roque Benavides evaluó los primeros 100 días del gobierno de Keiko Fujimori y propuso reducir ministerios",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUFpyN05tUWVoVV9zR2lHSGpXTGNmNXIyZDA0LTZFN29VZWdENDBYWTFmbEhRT3FfUVJDVDFSZ2Fwa3REZmVQdXFpUU82ZV9UQWdWelM5TE9QejVxMUpES1ZXa2ZQRTBGdEgtazdFakt4UGNZR1JDYVRvbE51bGp1Z2hESU5HSUtlaXplX2tSZ0RYQQ?oc=5",
-   "date": "2026-11-04T04:05:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
