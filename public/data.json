@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T11:50:51.011714+00:00",
+ "generated_at": "2026-11-05T12:33:48.630611+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -551,6 +551,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5dbd3a7e7c63",
+   "title": "Keiko Fujimori cumple 100 días de Gobierno con un promedio de 6 homicidios por día",
+   "excerpt": "CRIMINALIDAD Y DESCONCIERTO. Del 28 de julio al 4 de noviembre se han registrado 621 homicidios, lo que representa un promedio de seis asesinatos diarios. La cifra podría, incluso, ser…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-con-un-promedio-de-6-homicidios-por-dia-hnews-100445",
+   "date": "2026-11-05T12:32:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bac7cb657bc8",
    "title": "Keiko Fujimori cumple 100 días de Gobierno: ¿cómo avanza la relación del Ejecutivo con las regiones?",
    "excerpt": "Las demandas por infraestructura, servicios básicos y protección social siguen marcando la agenda descentralizada, mientras que la controversia por las tarifas eléctricas en Moquegua y las observaciones sobre la prevención…",
@@ -888,17 +899,6 @@
    "next": null
   },
   {
-   "id": "fab79d8ef186",
-   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
-   "excerpt": "",
-   "source": "::Radio Marañón::",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjEyV2tUN0V6RHVvZUlUYmMzbnotUjhzX1VZQU9ONUR2ZGwzLXpNUkpEaS1rbDFqSVlwZHpCTVBoSlJFWUswZ3R1NWlCZWtiVFVnekhMbldCYlRhaHpfQjJNYkdpc2ZMRnI1eW1nd2FzR092cFlIR3RFT1lsSXdoZDFXR2podGdnR1lVZV9FMTBCa0VBQnI5SHJERURVQUhacENwOGEtakM4NXVOc0x3Zml4Y3pnNEJlX0E?oc=5",
-   "date": "2026-11-04T19:13:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "253acf89bfe6",
    "title": "Keiko Fujimori: los pendientes y cuestionamientos de sus primeros 100 días de Gobierno",
    "excerpt": "",
@@ -1097,6 +1097,17 @@
    "next": null
   },
   {
+   "id": "fab79d8ef186",
+   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
+   "excerpt": "",
+   "source": "Pachamama Radio",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
+   "date": "2026-11-04T16:07:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6dfa0b6d0371",
    "title": "Presidenta Keiko Fujimori entrega predios para construcción de penales",
    "excerpt": "",
@@ -1213,17 +1224,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUWdmT3hqSjZwTENwTjVaaVdJTmNJZi04SVBYRU54RVJ3LUVUWTNhZ3lFU3NkWkVBTktleS15bTYwelFoaWg1d01XWTNPZURzaEpHZ19zZTBPcWt1eGlpNXdjaU85WndHcVNCeFhHbkZGSk02YUNGQ0tlRjF1S0EtWWphWEt6M1liaDh5dDlDbDliclFRN3pOOVRONnVOOFRMNXBlcy1FdlRrZF9PT1BpamRLV0dBcE5sZ0xzR0hHdTk0bHotZE9GdjNRQ0xrQkwtbzVMLUFTOXFHMmgtbFAzSVRn?oc=5",
    "date": "2026-11-04T06:32:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "163019f12705",
-   "title": "Keiko Fujimori reordena a los presos de todas las cárceles de Perú",
-   "excerpt": "",
-   "source": "La Linterna Azul",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQzN1ZEp2MGNvUEgzYTdMRXYzQlRqZ2tKekxpS0ZzNHh2QkRITV9ycWlwMzF1MWxiMkNMcVg5NEtkMTJZbVpRSWZSSENpd2lpR1BNOUN0YVJfdHktMmFTOTBfVHdEMFdFd192cS1uemlzOE9RNmhHbUU0Z1JJVGc3RkhBa1VYUmhIVXQwMjFZYWJXVjgwSWtVQkhnVEdiSTBXOEY4OE5aRjhTdFY3ZWRNQzhwZDY2R1E?oc=5",
-   "date": "2026-11-04T05:19:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
