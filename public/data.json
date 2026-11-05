@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T14:22:43.934006+00:00",
+ "generated_at": "2026-11-05T14:43:56.094053+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,7 +105,16 @@
   "source": "Infobae Perú",
   "date": "2026-11-05T11:06:00+00:00"
  },
- "next": null,
+ "next": {
+  "place": {
+   "name": "Madrid",
+   "abroad": true
+  },
+  "source": "Infobae Perú",
+  "date": "2026-11-05T14:22:21+00:00",
+  "title": "Keiko Fujimori oficializa cancelación de viaje a Madrid por emergencia de lluvias en el norte del Perú",
+  "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-oficializa-cancelacion-de-viaje-a-madrid-por-emergencia-de-lluvias-en-el-norte-del-peru/"
+ },
  "counts_7d": {
   "transmitiendo": 2,
   "entrevista": 0,
@@ -551,6 +560,31 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "76a685daa9f5",
+   "title": "Keiko Fujimori cumple 100 días de gobierno: ¿Qué medidas se concretaron y cuáles siguen pendientes?",
+   "excerpt": "La gestión de la presidenta cumple sus primeros 100 días con medidas ejecutadas en seguridad, prevención ante el fenómeno de El Niño y apoyo económico, pero también con promesas que…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-que-medidas-se-concretaron-y-cuales-siguen-pendientes/",
+   "date": "2026-11-05T14:37:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "73f37d1ff34f",
+   "title": "Keiko Fujimori oficializa cancelación de viaje a Madrid por emergencia de lluvias en el norte del Perú",
+   "excerpt": "La mandataria tenía previsto participar en la XXX Cumbre Iberoamericana de Madrid. Tras desistir de esa visita, el Gobierno modificó los periodos de encargatura de Luis Galarreta y Rafael Belaúnde.",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-oficializa-cancelacion-de-viaje-a-madrid-por-emergencia-de-lluvias-en-el-norte-del-peru/",
+   "date": "2026-11-05T14:22:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Madrid",
+    "abroad": true
+   }
+  },
+  {
    "id": "955fc0ff3651",
    "title": "Después de 100 días: Lo que se viene en el gobierno de Keiko Fujimori",
    "excerpt": "Con el presupuesto anual para el 2027 encima y la meta de crecimiento del PBI bajo revisión técnica, el Ejecutivo encara semanas determinantes en el Parlamento frente a la extorsión…",
@@ -678,17 +712,6 @@
    "next": null
   },
   {
-   "id": "fab6acf5c983",
-   "title": "Presidenta Keiko Fujimori: “Nuestro objetivo es reducir la anemia por lo menos a la mitad”",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFhvdEdicVVaSXA5YWVMSWFJMlZQLVhkbklLVGt5N0xjSzJuak5IbTh4SVE2UjdpV1RMRVIwTXMtM1hZczdqMWRZUXVoRnU0OTRELV9TdnhQSkFrbkxJUWpHQW52SjJmVEpYNkhhcGVFRERpZ3JzQXZiMmNFZ0VCWTVhSEl6U001SzRILVRzMWY5ek93b1A5TVpNcjFXMWo4ZnRIS1U3S3FsY0UtZDJEanZidmU0dTBJZE1XZkVpRG1pcEU?oc=5",
-   "date": "2026-11-05T08:22:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
@@ -728,6 +751,17 @@
    "source": "Chimbote en Línea",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMkg1MjBXN0FTbGxpa0xsUjFGZjVFQ2g4aTN0cGp0bEN1ZDFBRHplaVlzMmR0TXV3amtxVjREd1JDR0MzdUFuTkktRW5qUUZPd3JPRjVNdkVodzc1aWVOMDFGTzBpSEFfWjB3bGFnWHFOUFJTbkxHR2t0Q2t0cnEtRWpjWjZMa2hpOVA1RU9ZM05teU91WlZ2bGlTU1BsZktQVDdxRUxreUNfMlFPS1RxdEJnU2d5RDU1ZGRRUHdMUHp5UGQ2TDkzU1cxNUUzRUtzaGt1T2QtMk9NZFNXNERvWktUZnpCeTlHU3JzSURqckVtMk1zRV90aFNjWll6UUFBeE1pczNn?oc=5",
    "date": "2026-11-05T02:34:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fab6acf5c983",
+   "title": "Presidenta Keiko Fujimori: “Nuestro objetivo es reducir la anemia por lo menos a la mitad”",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFhvdEdicVVaSXA5YWVMSWFJMlZQLVhkbklLVGt5N0xjSzJuak5IbTh4SVE2UjdpV1RMRVIwTXMtM1hZczdqMWRZUXVoRnU0OTRELV9TdnhQSkFrbkxJUWpHQW52SjJmVEpYNkhhcGVFRERpZ3JzQXZiMmNFZ0VCWTVhSEl6U001SzRILVRzMWY5ek93b1A5TVpNcjFXMWo4ZnRIS1U3S3FsY0UtZDJEanZidmU0dTBJZE1XZkVpRG1pcEU?oc=5",
+   "date": "2026-11-05T02:20:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -917,17 +951,6 @@
    "url": "https://gestion.pe/peru/politica/ministro-sheput-responde-a-criticas-desde-el-congreso-al-gobierno-de-keiko-fujimori-hablan-por-consignas-y-lemas-noticia/",
    "date": "2026-11-04T19:44:00+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fab79d8ef186",
-   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
-   "excerpt": "",
-   "source": "::Radio Marañón::",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjEyV2tUN0V6RHVvZUlUYmMzbnotUjhzX1VZQU9ONUR2ZGwzLXpNUkpEaS1rbDFqSVlwZHpCTVBoSlJFWUswZ3R1NWlCZWtiVFVnekhMbldCYlRhaHpfQjJNYkdpc2ZMRnI1eW1nd2FzR092cFlIR3RFT1lsSXdoZDFXR2podGdnR1lVZV9FMTBCa0VBQnI5SHJERURVQUhacENwOGEtakM4NXVOc0x3Zml4Y3pnNEJlX0E?oc=5",
-   "date": "2026-11-04T19:13:53+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -1130,6 +1153,17 @@
    "next": null
   },
   {
+   "id": "fab79d8ef186",
+   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
+   "excerpt": "",
+   "source": "Pachamama Radio",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
+   "date": "2026-11-04T16:07:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6dfa0b6d0371",
    "title": "Presidenta Keiko Fujimori entrega predios para construcción de penales",
    "excerpt": "",
@@ -1202,28 +1236,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/primeros-100-dias-de-keiko-fujimori-47-califica-su-gestion-como-regular-noticia/",
    "date": "2026-11-04T12:05:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4535e08206d6",
-   "title": "Los primeros 100 días de Keiko Fujimori: Un balance de su gestión, lo bueno y lo malo",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQUpZQ0NNb2RMVnFjcDFNcEZrazhKaVZKdUZOajcxdFJmS0ZKc0h1U1ZSWHBscWo5MFNSWmtUN2Z2a0JjR0U4Y0NLSjcyX3ZhU2JQcG9QVmpoRmF2QTFYOFhqS3dpbkhUa3dmRmlyLVRqLWtEQXlEZ1NqcWEtdjhnR1ZNVEtKb0ZJTGQ5bTg2TVNfUnVXZ1dtR1JNdWlPM1V5Y3I1dmNkWDJQSkJYWHMxVGM1UU5TZFNtSUE0eV8yd096QnPSAdcBQVVfeXFMTVhSaTNRcTdOTHdaeVlQa21GYkduUGhvaXVoakpBV2oxbTlJakJrWW5VclpVcnB4dXd4LWtjMmpVTFBaZ1ZMckpjUVI1OEdraW9KNU5tbEJDNXFuNUdDRUxBMUJjV3U0M2NUa2xUck5YV0Z3bDdPcjcwYjg3Z2xRdU96b3EtUWRFczluRFhvTTBFZzhweDBqbTJsUjJHeXd1bmp0WHpzLU5KWkxNOWg0ckl3M2tONU5kd3dEYUMtWG5VdGdGM3dxdVBnSllRRVNYRWRXUzR3RFU?oc=5",
-   "date": "2026-11-04T12:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "44996aac1c85",
-   "title": "Leonel Herrera califica de ‘propagandística’ la visita de Keiko Fujimori a El Salvador",
-   "excerpt": "",
-   "source": "Diario Co Latino",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd19aQzRtVkNCZGRoRlZNcVVhNWFGQ1JsbFJ4OUJ5U3kwWGhWVVItTWRlRWtVV3FaWlZhV1dfd3FvZnZwY0RNUTMtX24yMkhfVEY3dWxKbk51dmF2M0M0UU9nVXRBSlV5bnZqcEphbE9xdlp2NHlPdl9KYmVldDZpVGktMzFoRE9vRW0ycGk2LWJTQkdXemlPZVpiLVZVOV93VFJsNk1WVjlDaExtMUtmb05iS21mNUk?oc=5",
-   "date": "2026-11-04T11:15:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
