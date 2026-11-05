@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T02:00:39.273409+00:00",
+ "generated_at": "2026-11-05T02:22:32.630934+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -583,6 +583,17 @@
  "agenda_minutes_7d": 1306,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "d4e8320e1406",
+   "title": "Patricia Juárez sobre los primeros 100 días del gobierno de Keiko Fujimori: \"Ha generado una sensación de estabilidad\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMWxTSnY2T0RFUjAwLUMxT1dqbEI1Mi1rWUZvVFFrRUhraWRIWlZZaFQ0WVhnVVU1LWRuM2Q4OVpNbFBnMS11RUx1SFJZakk3U2ZqQWNBWXpBamUzR2dBZWVMX09CTGl5WGJyY2hYejZYUVFvOHJBa0lQZzVTWVBXWDVMalF6WTd4aWVpUXVqN3lZNlJETlV1dlZ6ZjhjUy1mNGpkMDVkNlcwSEZrdk1EMVQyaHc5eUxEZ1k4c19aYWNGcFlVOVliVUJFZ2ZacWxGSDNkdmh6Tm5HeUxfMVNLSlM4OVA4bEhRNWpKSnVob1dZN2NmckdR?oc=5",
+   "date": "2026-11-05T02:08:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a4284b014086",
    "title": "Autoridades de Puno advierten que no hay condiciones para que Keiko Fujimori arribe a la región Puno",
@@ -1236,17 +1247,6 @@
   {
    "id": "1891069da766",
    "title": "Quinua invita a Keiko Fujimori a participar en aniversario de la Batalla de Ayacucho",
-   "excerpt": "",
-   "source": "Jornada",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhoMjk3WDlZTFpRU3Y5bkt5bk8zUVpremVVQV83bGhURzJ5bDYzcWZUVm5yai1FMmdOdUp5UzgzX25YcjNGRzB0NDZScVVxOHhDSmRtcU1ZNkl1VFE3Zk1aVFoxVzFJQ0N2RHk4TFZJMTZNRTFwSEFxTlM0OG1RamxRbkY0N3pNTi0zSHI1VFlDR1IzSjd0QlJ2cUg4bS11ZnpsTGVXTklCdmhpREkwaEVtbTR4VGFBODlB?oc=5",
-   "date": "2026-11-03T21:29:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "466051e71712",
-   "title": "Quinua busca asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
    "excerpt": "",
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhoMjk3WDlZTFpRU3Y5bkt5bk8zUVpremVVQV83bGhURzJ5bDYzcWZUVm5yai1FMmdOdUp5UzgzX25YcjNGRzB0NDZScVVxOHhDSmRtcU1ZNkl1VFE3Zk1aVFoxVzFJQ0N2RHk4TFZJMTZNRTFwSEFxTlM0OG1RamxRbkY0N3pNTi0zSHI1VFlDR1IzSjd0QlJ2cUg4bS11ZnpsTGVXTklCdmhpREkwaEVtbTR4VGFBODlB?oc=5",
