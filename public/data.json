@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T00:34:11.619264+00:00",
+ "generated_at": "2026-11-05T01:38:51.171285+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
   "triste": 2,
-  "posando": 57
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -584,6 +584,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "af12f130a030",
+   "title": "Presidenta Keiko Fujimori: nuestro objetivo es reducir la anemia a la mitad",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlpkcVlLa1puNTlpR1c1M29GOG1wa05qanppd1lKMEZlck1Gelk5aXdXU1hsc2tGNy1WRFNyZ01QbjdfcTNKMzRyZGJRNkdiekFZdjMtMllCSGhKZGU5UHdzbzgtcW04S3NtT3VwZHllbHFITkNLLTBwSHl6ay16YTlZazRVeko5RTJ5Yk9UWVNFczNUdEdpVlpiZlVObTJVU2lTYm5iZ3YwOGpRRkdSNjZBYVdtSmQxbWc?oc=5",
+   "date": "2026-11-05T01:21:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6821e600d248",
    "title": "Sheput: Liderazgo de la presidenta Fujimori es lo que distingue a sus primeros 100 días",
    "excerpt": "",
@@ -620,6 +631,17 @@
     "abroad": false,
     "city": "Arequipa"
    },
+   "next": null
+  },
+  {
+   "id": "e55592d04bb4",
+   "title": "100 PRIMEROS DÍAS DE KEIKO FUJIMORI: CONFERENCIA DE PRENSA EN VIVO | El Comercio",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1h6WUJ6ZWhhMUM5QlB5S0NvYkxTRnlWajYybjZ2M2hsYXNUa1V0QXlvNmdaM3cxQkFhaGRZVVE4dUxyXzMtY00wandwOWE2VkdFd2xVdUxtNkVwVV9lcmRBbGxiZkhXSEp4MkRrVWhkYkMyZTNjUUtrVi1TVVFrQXRWNTdEWV9KSjUtemx4Z3dKeXBBejZnbENxMmxxLVAwVGRMdUtnWEdOZ0p5Y2otMTc4Z013R3c?oc=5",
+   "date": "2026-11-04T23:26:06+00:00",
+   "state": "transmitiendo",
+   "place": null,
    "next": null
   },
   {
@@ -1229,28 +1251,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1BwNDVqTzdmeXBNVXhjUzJMeWhIN0ptOHlKMFEyZlFRVmhnTXdaUzhaNGFjNVdVNUlJb28tT2xXaC1WUk0yd0FWVWxvUnlScDVZbUk0VUhfRHpadHpQclhkb1A5ZXNPMjhLM0xWUDAyd1JHZ0VEMnRmSWk0ckNXczEwZnJTSFVxMXhJTW1hZWpqam5aSG5oSHFrMGpsa1RzbEtERW4tV1JyMHo1SUJyVG5IdXNnc3BEYWZUQktfR0M3VDV5OXNENWhyS2pENHM?oc=5",
    "date": "2026-11-03T21:20:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "10ec91fc0c9c",
-   "title": "Keiko Fujimori entrega 6,500 computadoras portátiles a alumnos de los COAR",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTmhNanlaQ05TNmhBemNVc1ltVjhjMmVDT1huRjVCUVpZTS10U3ZUWlR5NHJ2NHY5Qmp6cXJRWmhVU1FMVjdkY2pmSm1HZV94MmpNVGJzYVl3NldZUzRJZ1lZejVfOGVXVm5acjMzOFo1dHpKVVBEcmhZVkxFMUVZTVhZc2VzWW9lSE9TdFJneGVTamFjSjhSMHlidE1uYTMwbFB1UGU2ZWdSY1dvekdmZll6UjRpV3dwS3MyTmI3Wnc2SmNUdTZjMGtPeEU3UjNlQ0w5aVY5VVVrbWtWSUVDNVg0ZFBOWjA?oc=5",
-   "date": "2026-11-03T21:06:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "62c6d9f57da8",
-   "title": "Keiko Fujimori no acude a la Cumbre Iberoamericana por las lluvias torrenciales de 'El Niño' en Perú",
-   "excerpt": "",
-   "source": "ABC",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenQwbF95LUxjVGlvY3lOMmZLdHFsTjBjZkNkRW8xdXJZekJ6MnFmTklHSHhIS1RMNkRPWlJQckJkNkdnY0pCYzEzS0M2S09xQ0l0c2EycC1XeG9KRDFIbEZVUVJnN2V5Z0xuSWZfZ2xXVFdnQ3F5MTloVUZKcHlwUGFjSUtIaVVUdXpLaW9jOTUtYXNXYnBPN1Z5M2NMaVA3V1phWnU5M293enRsay1wRU5TTGh1MVhESHFiYzJB0gHDAUFVX3lxTE1jSWZCcHlaVnJJdU5iOXg2V0dJVHA5MFhFa092REdZWTB5anVVZExqdW9EZkhXN0s2a3l1Zlc5YjBPVHloOFBka3FRbVRJSUlHQW1XaWFyVnhGRkQzNkF2ZWVaS1dpeUk3VVlrbmNHbEt0Z1RDN3Aza1J1REdEUFpGaGstbmZVcjhKNmtEa3lNTGxiTF9VVkVJeVlCR2dCMXc0SkdIQTlEWTh0WDdIcXRQX2pLM3p2Z1VPa3pSeXlQN09Naw?oc=5",
-   "date": "2026-11-03T21:03:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
