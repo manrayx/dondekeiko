@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T14:00:38.731605+00:00",
+ "generated_at": "2026-11-05T14:22:43.934006+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -550,6 +550,17 @@
  "agenda_minutes_7d": 1306,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "955fc0ff3651",
+   "title": "Después de 100 días: Lo que se viene en el gobierno de Keiko Fujimori",
+   "excerpt": "Con el presupuesto anual para el 2027 encima y la meta de crecimiento del PBI bajo revisión técnica, el Ejecutivo encara semanas determinantes en el Parlamento frente a la extorsión…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/despues-de-100-dias-lo-que-se-viene-en-el-gobierno-de-keiko-fujimori/",
+   "date": "2026-11-05T14:03:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "e7658ce7ebf2",
    "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
@@ -1213,17 +1224,6 @@
    "source": "Diario Co Latino",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd19aQzRtVkNCZGRoRlZNcVVhNWFGQ1JsbFJ4OUJ5U3kwWGhWVVItTWRlRWtVV3FaWlZhV1dfd3FvZnZwY0RNUTMtX24yMkhfVEY3dWxKbk51dmF2M0M0UU9nVXRBSlV5bnZqcEphbE9xdlp2NHlPdl9KYmVldDZpVGktMzFoRE9vRW0ycGk2LWJTQkdXemlPZVpiLVZVOV93VFJsNk1WVjlDaExtMUtmb05iS21mNUk?oc=5",
    "date": "2026-11-04T11:15:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d192da2e0cf0",
-   "title": "Keiko Fujimori advierte que las lluvias van a empeorar y solo pide unión | Al Vuelo",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWxCR0d5a3ZBRV9WdmhRSjNtS0VrSjFvcG9uWU1VS25DSkYzMFhjejUtbmZIelc2d3hmZ2h3RG4yNEVKMFZBQkJfdDFneWNUZ0xQaGZQYmczR25ya0hONmJnNFdacjNDbFh1TndycVR3a09NbHJjOEh3bHFOeW5MWGUya0lyXy1UNW9hdm9pQ0N6ME5oejlVdWlZcW03cWhIVWtqdC16aFoyVnd4?oc=5",
-   "date": "2026-11-04T11:03:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
