@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T06:00:16.258356+00:00",
+ "generated_at": "2026-11-05T06:22:18.976485+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -551,6 +551,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6821e600d248",
+   "title": "Sheput: Liderazgo de la presidenta Fujimori es lo que distingue a sus primeros 100 días",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckUyNHllOGQxck5wVnl5NE5oVGZfd0I3WnZQY3IxT1d3OUFsdTNPUW9vbFdqaWZjaDFOYzBvdGltTVlXdkY5aW1SS01zaHVsY1JvQlRSN3FRQWRRcTVYX2FCNVRnZG5kYS1MYVhpckd5d05EX2xKMEtEYy1RNmtOcUlWVG5XV0hpemNjS0dtbXVrUFJ5cjV5eUc2Q2tXb2l3dGRVZ1MwLXVFRF9GdUxSaUlYY01ZdzBaX0dHUFZpREhaaDJzRFE?oc=5",
+   "date": "2026-11-05T06:02:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d46a76206304",
    "title": "Presidenta Keiko Fujimori cumple cien días al frente del gobierno: revisión de los primeros días de su gestión",
    "excerpt": "",
@@ -601,17 +612,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlpkcVlLa1puNTlpR1c1M29GOG1wa05qanppd1lKMEZlck1Gelk5aXdXU1hsc2tGNy1WRFNyZ01QbjdfcTNKMzRyZGJRNkdiekFZdjMtMllCSGhKZGU5UHdzbzgtcW04S3NtT3VwZHllbHFITkNLLTBwSHl6ay16YTlZazRVeko5RTJ5Yk9UWVNFczNUdEdpVlpiZlVObTJVU2lTYm5iZ3YwOGpRRkdSNjZBYVdtSmQxbWc?oc=5",
    "date": "2026-11-05T01:21:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6821e600d248",
-   "title": "Sheput: Liderazgo de la presidenta Fujimori es lo que distingue a sus primeros 100 días",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckUyNHllOGQxck5wVnl5NE5oVGZfd0I3WnZQY3IxT1d3OUFsdTNPUW9vbFdqaWZjaDFOYzBvdGltTVlXdkY5aW1SS01zaHVsY1JvQlRSN3FRQWRRcTVYX2FCNVRnZG5kYS1MYVhpckd5d05EX2xKMEtEYy1RNmtOcUlWVG5XV0hpemNjS0dtbXVrUFJ5cjV5eUc2Q2tXb2l3dGRVZ1MwLXVFRF9GdUxSaUlYY01ZdzBaX0dHUFZpREhaaDJzRFE?oc=5",
-   "date": "2026-11-05T00:02:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -790,17 +790,6 @@
    "url": "https://gestion.pe/peru/politica/ministro-sheput-responde-a-criticas-desde-el-congreso-al-gobierno-de-keiko-fujimori-hablan-por-consignas-y-lemas-noticia/",
    "date": "2026-11-04T19:44:00+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fab79d8ef186",
-   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
-   "excerpt": "",
-   "source": "::Radio Marañón::",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjEyV2tUN0V6RHVvZUlUYmMzbnotUjhzX1VZQU9ONUR2ZGwzLXpNUkpEaS1rbDFqSVlwZHpCTVBoSlJFWUswZ3R1NWlCZWtiVFVnekhMbldCYlRhaHpfQjJNYkdpc2ZMRnI1eW1nd2FzR092cFlIR3RFT1lsSXdoZDFXR2podGdnR1lVZV9FMTBCa0VBQnI5SHJERURVQUhacENwOGEtakM4NXVOc0x3Zml4Y3pnNEJlX0E?oc=5",
-   "date": "2026-11-04T19:13:53+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -998,6 +987,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-04T16:24:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fab79d8ef186",
+   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
+   "excerpt": "",
+   "source": "Pachamama Radio",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
+   "date": "2026-11-04T16:07:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
