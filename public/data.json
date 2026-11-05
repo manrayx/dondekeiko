@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T15:27:22.658108+00:00",
+ "generated_at": "2026-11-05T21:55:12.932050+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Moquegua",
-   "lat": -17.194,
-   "lng": -70.935,
-   "abroad": false,
-   "city": "Moquegua"
+   "name": "Congreso",
+   "city": null,
+   "lat": -12.04814,
+   "lng": -77.02636,
+   "abroad": false
   },
   "source": "Infobae Perú",
-  "date": "2026-11-05T11:06:00+00:00"
+  "date": "2026-11-05T18:04:11+00:00"
  },
  "next": {
   "place": {
@@ -119,9 +119,9 @@
   "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 1,
-  "molesta": 0,
-  "triste": 3,
-  "posando": 54
+  "molesta": 1,
+  "triste": 4,
+  "posando": 52
  },
  "total_7d": 60,
  "silence": {
@@ -565,9 +565,70 @@
    "excerpt": "Vecinos de Villa El Salvador criticaron a la presidenta Keiko Fujimori por la falta de acciones para prevenir inundaciones ante el fenómeno El Niño. Este reclamo surge tras la promesa…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/05/vecina-de-villa-el-salvador-cuestiona-a-keiko-fujimori-tras-inundaciones-para-que-vienen-si-no-van-a-cumplir-hnews-475080",
-   "date": "2026-11-05T15:19:10+00:00",
+   "date": "2026-11-05T21:33:26+00:00",
    "state": "triste",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "e28ea7a60a3c",
+   "title": "MEF ya no buscaría inconstitucionalidad de la Ley de gratificación y CTS para CAS",
+   "excerpt": "¿Se salva la gratificación y CTS para trabajadores CAS? El gobierno de Keiko Fujimori seguiría su implementación gradual",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/03/mef-ya-no-iria-contra-la-ley-de-gratificacion-y-cts-para-cas-ni-contempla-inconstitucionalidad/",
+   "date": "2026-11-05T21:29:12+00:00",
+   "state": "celebrando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "30aa7c6d0bd7",
+   "title": "Keiko Fujimori: Exministro Basombrío califica la inseguridad ciudadana como su peor fracaso",
+   "excerpt": "",
+   "source": "Convoca.pe",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaE56WnM5ZGs5cGVGZmNNeGo1WUpsbWZ1MWdwS0plNV9aNGlLWkllb2hneko5cGxIcmwxWDRSdHdjUzhsdGRqNkZXR25keXI5dVJ5U0c0Y0o2Yy0ydVE1MFpMLTNMRG9IcmVxRDlOelNYdktwdHVzcElsRHk4TVBTS1JvQThfS3A2U3NzUTRuUmtjZm94b0UyWnZfdU0xeW1KSVBUSkpLQ3FSTS1wOTdnbFVOZlVVUQ?oc=5",
+   "date": "2026-11-05T20:51:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "76155118ce5c",
+   "title": "Los planes de Keiko Fujimori en seguridad ciudadana y lo que se avanzó en sus primeros 100 días",
+   "excerpt": "La extorsión y los asesinatos siguen marcando la agenda de seguridad en Perú. En sus primeros 100 días, el Gobierno de Keiko Fujimori anunció medidas para combatir el crimen, pero…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/hay-una-gran-deuda-en-seguridad-ciudadana-los-planes-de-keiko-y-lo-que-se-hizo-en-los-100-primeros-dias/",
+   "date": "2026-11-05T18:57:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a4284b014086",
+   "title": "Autoridades de Puno advierten que no hay condiciones para que Keiko Fujimori arribe a la región",
+   "excerpt": "Diputados advierten que Keiko Fujimori tiene que pedir disculpas por apoyar a militares y policías que causaron la muerte de 18 personas.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/04/autoridades-de-puno-advierten-que-no-hay-condiciones-para-que-keiko-fujimori-arribe-a-la-region-puno-hnews-168940",
+   "date": "2026-11-05T18:04:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "59cfe48aa674",
+   "title": "Keiko Fujimori gana espacio en el Congreso, pero persiste la tensión política a 100 días de gobierno",
+   "excerpt": "Al cumplir más de tres meses de gestión, el oficialismo suma respaldos parlamentarios clave frente a un bloque opositor fragmentado que pierde fuerza política, según en análisis de Luis Benavente,…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-gana-espacio-en-el-congreso-pero-persiste-la-tension-politica-a-100-dias-de-gobierno/",
+   "date": "2026-11-05T18:04:11+00:00",
+   "state": "molesta",
+   "place": {
+    "name": "Congreso",
+    "city": null,
+    "lat": -12.04814,
+    "lng": -77.02636,
+    "abroad": false
+   },
    "next": null
   },
   {
@@ -629,17 +690,6 @@
    "next": null
   },
   {
-   "id": "a4284b014086",
-   "title": "Autoridades de Puno advierten que no hay condiciones para que Keiko Fujimori arribe a la región Puno",
-   "excerpt": "Diputados advierten que Keiko Fujimori tiene que pedir disculpas por apoyar a militares y policías que causaron la muerte de 18 personas.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/04/autoridades-de-puno-advierten-que-no-hay-condiciones-para-que-keiko-fujimori-arribe-a-la-region-puno-hnews-168940",
-   "date": "2026-11-05T12:48:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "5dbd3a7e7c63",
    "title": "Keiko Fujimori cumple 100 días de Gobierno con un promedio de 6 homicidios por día",
    "excerpt": "CRIMINALIDAD Y DESCONCIERTO. Del 28 de julio al 4 de noviembre se han registrado 621 homicidios, lo que representa un promedio de seis asesinatos diarios. La cifra podría, incluso, ser…",
@@ -651,28 +701,44 @@
    "next": null
   },
   {
+   "id": "83241650868e",
+   "title": "Enrique Castillo cuestiona falta de decisiones del gobierno de Keiko Fujimori en sus primeros 100 días",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnF4SjJXcGJRelZhRkUtTFJRRzJQNU5EY09nTUZjZ1o2R21yY201aXQzdWM3aUphSkE2MFM0MTZLX0tfZURJbFRLTG9YVUk1WWU4anlpV3VqVldSXzFzMU5PQVl2VnQtU0h5Y24xa092VG9vLVkweUMzcUc3TkstM05vc0hYWm04N1llejdCaE1yLVBXbGJZbDlkV0FJUmJUZDRQdDMxS3JVMFB4bHlEd0E0VG12ci1WamRDQmI4elhjRG1N?oc=5",
+   "date": "2026-11-05T12:32:25+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "62c448c65d0b",
+   "title": "Richard Arce califica de improvisada la gestión del gobierno de Keiko Fujimori durante sus primeros 100 días",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcC0yYVQzeUZmZ2ZyNWNWVUJBVGxQT2FCT2IyczhkbE92ZG1id1duQ3pmWDhSdXpyTFdlZUljdmU1MEZkMjk0c2NmZFp3OVNwWXFJOTQ2VFJyUFZuMFo5U25xTWdCNVVqQ2Ewd01aa25RMUVfcThOVGM0WGpHWE13YWxyN1RxQjhpTjdyVkF4a2dfVnZqb1dVLVIwUUZpYi1zcnlCVVlocW5LRXZ3ZHNtUGw5VnNfbFJmZGVuVi01Rkl6VTQ4UHlzeHpzZUU?oc=5",
+   "date": "2026-11-05T12:32:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bac7cb657bc8",
    "title": "Keiko Fujimori cumple 100 días de Gobierno: ¿cómo avanza la relación del Ejecutivo con las regiones?",
    "excerpt": "Las demandas por infraestructura, servicios básicos y protección social siguen marcando la agenda descentralizada, mientras que la controversia por las tarifas eléctricas en Moquegua y las observaciones sobre la prevención…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-como-avanza-la-relacion-del-ejecutivo-con-las-regiones/",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZGJKYzhMa2ZWSWl1UzdXUXFVMkF0dFAxdzctNldEUThxaF9CSjE5WmMwZnBCQXlvaVJlWmJvUjdNSmEzb25BRmFDXzVqSG1HUTlmTGx3RE9DVExfNkdVRWw3elBhUHpnWEh1eGtCZUU2b3Z3SXF4MnNVZlNNR3hYYU9neTJ6ZTBwWkxDbHpRa1lXQlJpTVhteVlYMXlFOVNlb0wxM3BPYTQxNUc4TXZtUGpENXhFcE1ZdXZVV19Dd2hSTnI0XzlDZlB0Y3JOd0dPNXBaa9IB7wFBVV95cUxNa3Y1Q3lOWnlJZWF5YUQ3TnhVUHl6RHlmV3FDY1ZXZTAyOGhld0gtdHJJcWphY3o4WXNRRmV1Z0lRSWM0clJVc2JwVC1FYnd6Qjhqd21zV0hQZF9JbnE4WlVYQTQ1cS1FeWNTQ1didVlkRjFTaEdvWV9OYWdkQlhqYzVSenhBMFhTb0ZiRmhmOTZpM1ZieGQ3ZVQwNWtKLWhHeE1PUEJlYV9Bc0lleFVsbUU0dWFNZnpnMjRoSjhGMjZhVmxwYTNwMnJOWmxyZHNnM0s5NVlxbm95bUNnTmRCbXM1Uk4weVUwcjl1b2RaWQ?oc=5",
    "date": "2026-11-05T11:06:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "Moquegua",
-    "lat": -17.194,
-    "lng": -70.935,
-    "abroad": false,
-    "city": "Moquegua"
-   },
+   "place": null,
    "next": null
   },
   {
    "id": "9839a8f97dba",
    "title": "Visita del papa León XIV, ¿un bálsamo para Keiko Fujimori a pocos días de cumplir sus primeros 100 días en el poder?",
    "excerpt": "Su nacionalidad peruana y los años que ejerció como obispo de Chiclayo fortalecen su identificación con la población, una conexión que antecede al actual Gobierno y no puede atribuirse a…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/visita-del-papa-leon-xiv-un-balsamo-para-keiko-fujimori-a-pocos-dias-de-cumplir-sus-primeros-100-dias-en-el-poder/",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcS1MM3VMMko5VmNQclFhbllUa1ZiWEhVOHFkSkQ2TEtQSzJrMGtMb1h4QUl5YUllem1UejNudGdBdmVWQTY4QzJlVUZKNVNEWDdub3FIdnhad0VkUC1kRHdTdmxQR01OQlNxWXZMSThHdXgtZk1PWl9MN1U2NnYxcFhTOHVKanQ0eHBuNVhRR0dsam01M3NOVUpQNHVGbGtMV3ZjcEhmcHBaQmVuMlgwR2FsTVgzY2dNQS1Ua2NDYU5hMlY3clVrbDBlQTlFeTNjbE9XaWd3ODJHS3BRcmdsTS04c0FaUWtpeEHSAYQCQVVfeXFMT1U2U2NiQ2c4aS1QWHJRMWQ5NENncnhCWHpWTUtYQy12RUZWbW5vUEdVMkZfWm1NQmpQTWswXzNLLWRZVE9sMENYLWs5SFNtcmQtNVAydFZMNFJyUW9SS1U2czFpbGFXcUdTNUtfd0lmYTZFNFVhdW92dEFQMWRiczZCNkI0Vy1BUlo2UUhHTHNyRWNnVVNlQVdtUlhMSER3U2hHVmJzRzZSWnBzQTZRZGZobnd1UU1nUFREM1NiMnVfcEZHbV9aZWZtbmNKYWU0bldJMHJUSHlESDVxUzJuaUdBbmU1YTNjV1dZMUVHaFdiODJhLUNzU0ZhNnhmSjdyZjc3Tjg?oc=5",
    "date": "2026-11-05T11:05:00+00:00",
    "state": "posando",
    "place": null,
@@ -682,8 +748,8 @@
    "id": "3aeea3425d7b",
    "title": "Keiko Fujimori cumple 100 días de gobierno con dos frentes que marcan su agenda: la criminalidad y la amenaza de El Niño",
    "excerpt": "El Ejecutivo ha priorizado el combate contra las organizaciones criminales, el endurecimiento de las medidas de seguridad y las obras de prevención ante posibles inundaciones y lluvias intensas en el…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-con-dos-frentes-que-marcan-su-agenda-la-criminalidad-y-la-amenaza-de-el-nino/",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLTNlY0NMR3UyLXp3SW03eVdjcUU3dWdiSGpZVjR1R1F5bEQ2V2ZSbVZ2Uzl6Z0hxSEpmVjdsRV9CUHNzQkd3c3NxNWxRaGVQaFk4SzhQQlFuc0ZBOXZtVnFFdnNGUHRsUFBoMi1tRDRadVVNeDhobTIySDRwc2g2Q1JCQTJfZUVxY1JZTnpmSFZTa2g4RlFYTUMwaEp0aVc5LUt0LWlLdlRZY0xnNTl3V0U3TDE1XzF2TkJNckJYS2ktT2ZJN3M1T2o4dnRMR0ZoME95QlZaaXFKUi1KcXlKMnFsRVN2Q2lUTFh0ZURsRFlRUdIBjAJBVV95cUxPU19mUHlhamc5YjJTMUI4ME1SaDlfSThpeFNWLVVRWmtxMW5XcGFmdjV6eDhQMWpja2RFNEFUNy14MjZnOWVtUUk4dTk5QnByZ2w2WDBzN3ZVSlNKLXZ4X1pxVjBXVkY0TE02Qk0zMWRseVBOcFQyWDNuNDFXUTREUXpkcHV5UzgxTjY4eE5UM05nd0lrQVVnZnN5LWZLMjFFcmk4bEVCeUdBZGVzLWIySTlRWG05OWZPejJ6YWpmZEdDM3VYVXZsTlpNaFh3UC1lR3ZBVGRIN0RDTHhTSml5SlR6MmJDejNLaWdta0F5X1d1YWdWZHlsREdLUkxMaW1BVFpSVUJvbmVCNUFJ?oc=5",
    "date": "2026-11-05T11:03:00+00:00",
    "state": "posando",
    "place": null,
@@ -704,8 +770,8 @@
    "id": "6efccf92a0ef",
    "title": "¿Qué hizo Keiko Fujimori en sus primeros 100 días de gobierno? Las cifras de su gestión presidencial",
    "excerpt": "Desde el 28 de julio, el Gobierno impulsó medidas para enfrentar la inseguridad ciudadana, atender los efectos del Fenómeno El Niño y promover inversiones",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/que-hizo-keiko-fujimori-en-sus-primeros-100-dias-de-gobierno-las-cifras-de-su-gestion-presidencial/",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUJSanp6MXhmbDNBVTdQblpWRGQtSFRZWTdWV1NXWXNFdFVuMk5sV2hRWGtfWGNWa0c3ZmRKZ1FPSUxzbXQ0UTBZZmlCSzk4UXB0NTlTVDlld0NrWVFaZVNXczFWTm1RanZtSF9oM05qZTFObzliRG1RZnhkV2R1c3VpRVE2X3JOVWllYkg2WjV4bG1wRW1BOElCRlRreHBDWWVock5CeXpqM3lRUExjRGFLU0FEZ3QxSGhBUVBWSFludkNUTnB1RW9vX253SWdzb05tamp30gHwAUFVX3lxTFB5NW9iWjJJQ05IN29LRkk0WXBSSUxKc3VjVkxYMmFrMXN4TU1ZUkZZaUc3YTFna2NSeHUxLXZRWTBUcW56SldTY0hzNE9ncGp0U2ozWGpneHpyT2xvZUlaZ3dzYWNTUW5hYzVMdE5PZGR3UWJPZ05uUHhBTGV0YTRSa19uNkphdEZyQ19BaHhreUJUYzFvSVM5Q3VELTJQTVV5Y3hDZ0w4bzN3WEd5cWN5XzdwQ1hFcUcyZmY3R2pTWVpRaWJPaFFJcW4zOTJyZWZURUdIdDhCS3MyR0RMS1paVzAxNF8ybVhzblRGaXdTdw?oc=5",
    "date": "2026-11-05T11:01:00+00:00",
    "state": "posando",
    "place": null,
@@ -715,9 +781,9 @@
    "id": "a2594e1bacbd",
    "title": "Keiko Fujimori cumple 100 días de gobierno: entre el discurso del orden, las redes sociales y la percepción ciudadana",
    "excerpt": "De una comunicación cercana en redes sociales a un discurso más enfocado en la autoridad y el orden, Keiko Fujimori ha modificado su estrategia desde su llegada a Palacio de…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-entre-el-discurso-del-orden-las-redes-sociales-y-la-percepcion-ciudadana/",
-   "date": "2026-11-05T11:00:01+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN2wzajBlQW5UOWtEQWp2SjQyNmdFb0ZXOEJieGtvSEFQQ2dlM3M5VEN1ZEx6V1ZVbUs4VkpkYnhLeWJSMGtJdzVWR0hVbHYtaTF2NDlOeXMteWFUZmNDbGZHWF9GcDBzLTZXbFpObkF4VVphcVVaTU9VZjd3TmltajkwVG5uZ2tINHRtUDN4akhVQVFFY1diVTlOVVdTYnZ2NDNGbXkyOVhXSWMzOF96aEtqRXo0VG9YaG1ETUkxcHdCbW9SV2hOLW81YzMyYjZWVTF3dUpYeFFKVjFzT21mTzVGcTllR3dXejBjeNIBhwJBVV95cUxPTWw5dW43Vy02YWljV2lfWWRtRXJLNnIxNDhrVFJma2c5Nk83TUJnTUVnR3FNLXBTTndpRmpGSnZTV2tQa0R3RU1UVHJPRjJCTUpiT1czcVcxdXowV0FCMU1CR20tZlZZQlgyaG1xUWhfNjZ6X3VPWXBIdDktWUFXMUdWVjRtQUlDTnFJLVpIdFZ5dHBFZVEyMXVveUM5MlNOM3N2ekw5N24wQnNfM3ZOVXRaV2dFZ1hMZU0wOFBMOEVOa0o3V3lZSG1VbzJ2OWJOTTdFX2UzYm12SF9ZUnF4SUFUb0R5UThqSFpDMkNSSUxaUHJrTHpmZkM2QzVzWXFLYkNUaWtBSQ?oc=5",
+   "date": "2026-11-05T11:00:00+00:00",
    "state": "transmitiendo",
    "place": null,
    "next": null
@@ -859,7 +925,7 @@
    "id": "748bc7e71c44",
    "title": "Keiko Fujimori cumple 100 días con obras regionales pendientes",
    "excerpt": "",
-   "source": "inforegion.pe",
+   "source": "INFOREGION",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY0tBcFZackRVMHBfNzR5YWl5ZGRMTDc1eS1MTF9ZNTVlYXFITHNjQ3JYc19wdS1yZU5YS01PZ0Nnd3pzUzJDSVNLaGRiSGZZbTBQbnkwSWt4TE1iaUpVVXB0cVNOMC1yTk8wZDRKY1RmYTVyWVJKMVFCYVRSSVRnb0ExUzBhcDE1ZHRIWTdZQzRVam1EVjV4WXhGWUp2bkdqYnZwU1JwQW9ZLWVRbmlkSzdzRU5sTFVJZHZmbThaMW9Hdm9iN1ItTlV0WExxRmJQRkhXRnZiQzJVeGFXNFZfZTBUOFYyWDZBQ1NLX2lYSy15ZEZvc0QwcVlxYy1vVThu?oc=5",
    "date": "2026-11-04T23:00:00+00:00",
    "state": "posando",
@@ -1170,72 +1236,6 @@
    "source": "Pachamama Radio",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
    "date": "2026-11-04T16:07:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6dfa0b6d0371",
-   "title": "Presidenta Keiko Fujimori entrega predios para construcción de penales",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0FWdWphV3p4aS1OakpueWtjYTBSQTFqY0ZXU0NlUURXLTBLVVUwb2s5ZWV0ODU4ODN4UE1IYmwwcGxHdkNCUm1Xa19oZmFpMlA0V2o5MWlILXV3a0lKemFfNzZQVlA5aWVhb20zVWhKUnA4S0dXU2pIeHhJU1puRjBmOVMzU0hZMHdEb2ZycHcweEttbjlzYW5qOG1LYXhqN2NmalhhLWljVTNCc0Y2NktlbTM?oc=5",
-   "date": "2026-11-04T14:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "721a9669d560",
-   "title": "Javier Torres sobre el gobierno de Keiko Fujimori: su incapacidad para gobernar es brutal, hay una improvisación total",
-   "excerpt": "",
-   "source": "Ideele Radio",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaVBlRURzMUtveVZBdF83OEtheEdTeWVvbjgwX0tORW1PNVB0Y18zTmNkVDNzeE5DdnJnajQzTGxraW9FMXZnb090eHNKQXdUMVBheHgxaFdZQWt5ZGtHVVI2cnpwMHN6ZkhnbHlpakZEajVNaU5QaVZPMHQxcXp4Ny1hWHVDZnpFUzV6NTVWY0wtQ3kzRjVRTHp4cVJWczZMNUN6YkZHSmxFZ2w4cmR1U0NQU1c3d21tNEppZ2tQaklNWnFZODNkdDVyMmhtUTg5QkM4dU85dTJncm90MzJRZTdXM2FFd1gydHc?oc=5",
-   "date": "2026-11-04T13:11:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "16f48893d810",
-   "title": "La presidenta Keiko Fujimori cumple cien días al frente del gobierno [INFORME]",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOanFjcld1ZE5jeEl6OWFDcnRtd2tMT2xWQ1FpNVFmRjRJR2RQcVdhRTVRY2FVWGxFWkVIVGtTQmFtWFRBa2ZyTXJYUFBKd2VBdFk3NzZiZTFuMkk0Q050Y1pESjZOdmdvNzJsVUplSTZPeGxYaUsxQl9XMmtWdFBwckF4QjZGbXNVWGR4M25zVzFZNGQ4QXNPQ0JrSTBBRFpJVW9IX0NyNzVEeFNyVWctY0trUUlGT2xDbmtPRzFoelVBZ0k?oc=5",
-   "date": "2026-11-04T12:46:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "29dbc8ca0dd3",
-   "title": "¿Qué dejaron los cien días de gobierno de Keiko Fujimori para las regiones?",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT0pFOWR4SlZhc1VpU0xQdHN2NzhyVmRfNm00THdtZEY4SjNSYm1kME1QVklUT2g0MVUxNnRtS1RWX2ZxRVB2VHdsZ05GV2ZueDNqU3dXUVNBVmItcEtuVWZVMGFHTkNuMFFJU1NsTXd5cDAzUVdYWk5uN25SeWlKNnZXZTVYQy1iQkVJZzM0LTNXZGJkSmp5Nzl4b2ZUSDEtLWc?oc=5",
-   "date": "2026-11-04T12:39:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c6a5f5f5720e",
-   "title": "MEF ya buscaría inconstitucionalidad de la Ley de gratificación y CTS para CAS",
-   "excerpt": "¿Se salva la gratificación y CTS para trabajadores CAS? El gobierno de Keiko Fujimori seguiría su implementación gradual",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/03/mef-ya-no-iria-contra-la-ley-de-gratificacion-y-cts-para-cas-ni-contempla-inconstitucionalidad/",
-   "date": "2026-11-04T12:35:00+00:00",
-   "state": "celebrando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0d9362765e49",
-   "title": "Keiko Fujimori anuncia la construcción de 500 nuevos colegios para el 2027",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjlya0lhajZXTU4wWWp4dUlmNW02V0syQ0FmQWU1RXlrYl9ybHk4aEhQVnJhYnJic090dEpHcXM0SHNKODVNUDlCTUgxUWdIam0wZXlScDRiZk56V0FnOWFGMUlvWWg1TjhGUEhSbWpEUjQ4WWkyUEx0OTVaVjBqRVVWUzFwZHVYa0UtdENfXzF6R2xNZ3Qwb2dnMENYc0NoUUhDMg?oc=5",
-   "date": "2026-11-04T12:28:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
