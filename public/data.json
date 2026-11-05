@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T01:38:51.171285+00:00",
+ "generated_at": "2026-11-05T02:00:39.273409+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -584,6 +584,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a4284b014086",
+   "title": "Autoridades de Puno advierten que no hay condiciones para que Keiko Fujimori arribe a la región Puno",
+   "excerpt": "Diputados advierten que Keiko Fujimori tiene que pedir disculpas por apoyar a militares y policías que causaron la muerte de 18 personas.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/04/autoridades-de-puno-advierten-que-no-hay-condiciones-para-que-keiko-fujimori-arribe-a-la-region-puno-hnews-168940",
+   "date": "2026-11-05T01:45:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "af12f130a030",
    "title": "Presidenta Keiko Fujimori: nuestro objetivo es reducir la anemia a la mitad",
    "excerpt": "",
@@ -1138,9 +1149,9 @@
    "id": "24797d7c2747",
    "title": "Keiko Fujimori ordena reclasificar a todos los presos del Perú y ampliar el trabajo en cárceles: “Habrá varios cambios”",
    "excerpt": "La presidenta encargó al ministro Ernesto Álvarez el reordenamiento de la población penitenciaria y anunció traslados de reclusos peligrosos a Challapalca, además de nuevos talleres laborales en las cárceles",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/02/keiko-fujimori-ordena-reclasificar-a-todos-los-presos-del-peru-y-ampliar-el-trabajo-en-carceles-habra-varios-cambios/",
-   "date": "2026-11-04T01:34:01+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMGlUdy1NY3lsMjBwT2psRjlGbUdfTXFWSDhKZDcxYlA0N000RmpXc0JzUDRIU0wwaUhMZmNHVHZueWJyUEtEajd5RUxlMmpOUkllV0toVzVOTFVPUWVsREVvekRPRmlqdVhubGRsVDJEbzVrM05pTndDTkotbFI5LVJfSW16b29yMzNISUtMZjBVTEJ2NzVrdkVpTGNSd1BnZHhBY2lXS2dFZ0hwR1FBWnFNNEJQX2kycFhpRnJMQ1VaLV8zMzg4Z01FbWNrWmhoSldXQl9ZY042cVBNYjJxS2dPb041dUMydzhVeDlR0gGIAkFVX3lxTE4zc0YtM3ZHYUxuMHpNR0Z1S182eENqQ3ZzNWhLMzFJT1hTREFWMkRvUU9IUU9ScTdnNzVxV3RaZFNnZURRYU1DYy1CWlppbk9jbDl6dG5LVjhlT24zVHJaR3g1TlZHZ1dhb3poME1rT1NKYi1OVF9wM3RpT3M3VFl0VXJ1NXA0c0pQTVhnZWo5RXBFV1Y3b2tMUnppamduNUJQUTk2cThCZ3ZGM2tnU0ItSTRsQXFsOE9QTUtlUDY5dVc2SVBNRm1WX3ZKbjJqRGEwYTJkaVMwcnVkRWpXS25vVnBDZWs4dTV2bnJLVG1iWG5UZXRZbWxXeF8wUDFHYVFQNFpGZFVXMg?oc=5",
+   "date": "2026-11-04T01:34:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1240,17 +1251,6 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWhoMjk3WDlZTFpRU3Y5bkt5bk8zUVpremVVQV83bGhURzJ5bDYzcWZUVm5yai1FMmdOdUp5UzgzX25YcjNGRzB0NDZScVVxOHhDSmRtcU1ZNkl1VFE3Zk1aVFoxVzFJQ0N2RHk4TFZJMTZNRTFwSEFxTlM0OG1RamxRbkY0N3pNTi0zSHI1VFlDR1IzSjd0QlJ2cUg4bS11ZnpsTGVXTklCdmhpREkwaEVtbTR4VGFBODlB?oc=5",
    "date": "2026-11-03T21:29:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5568109da307",
-   "title": "Embajador de EE. UU. en Perú destaca visita de la presidenta Keiko Fujimori a El Salvador",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ1BwNDVqTzdmeXBNVXhjUzJMeWhIN0ptOHlKMFEyZlFRVmhnTXdaUzhaNGFjNVdVNUlJb28tT2xXaC1WUk0yd0FWVWxvUnlScDVZbUk0VUhfRHpadHpQclhkb1A5ZXNPMjhLM0xWUDAyd1JHZ0VEMnRmSWk0ckNXczEwZnJTSFVxMXhJTW1hZWpqam5aSG5oSHFrMGpsa1RzbEtERW4tV1JyMHo1SUJyVG5IdXNnc3BEYWZUQktfR0M3VDV5OXNENWhyS2pENHM?oc=5",
-   "date": "2026-11-03T21:20:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
