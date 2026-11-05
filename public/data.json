@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T12:55:52.672675+00:00",
+ "generated_at": "2026-11-05T14:00:38.731605+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -551,6 +551,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e7658ce7ebf2",
+   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
+   "date": "2026-11-05T13:39:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d5b540de4b95",
+   "title": "Los 100 días de Keiko Fujimori en materia económica: entre medidas de corto plazo y la lucha con el Congreso por reformas",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZXRwQWdIMzVuSlNudG1td1hWN3loN1czbmw4MnZIRDE2YzU1d0RkcDlsbGEzRjF5aXhVX0t4azh2SUZwdEpiX0xCODNId3o2V2F0Yk1QU095Q1E5dUtNSjV2RDdLMnZIWVA0ajVPRHJ2dVYxM3FjQ0p6R1VCYWduSnlOdkFEaXBERjhHaGFNckpnME1HTWl0QU96cDVKWDRHWHFTRU5VMmZWamktdkljM3ZsVXRMeVZnT1FTeVFaN1BieVJjM3pLekZZbXplTEx0N2dybm9MdUROczg1WFU4cV95N05JTndQa0MyNHZxQ0kyMWhXanJoZmdMQkhrQQ?oc=5",
+   "date": "2026-11-05T13:19:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a4284b014086",
    "title": "Autoridades de Puno advierten que no hay condiciones para que Keiko Fujimori arribe a la región Puno",
    "excerpt": "Diputados advierten que Keiko Fujimori tiene que pedir disculpas por apoyar a militares y policías que causaron la muerte de 18 personas.",
@@ -877,17 +899,6 @@
    "next": null
   },
   {
-   "id": "e7658ce7ebf2",
-   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
-   "date": "2026-11-04T20:21:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "6223704d01a8",
    "title": "Ministro Sheput responde a críticas al Gobierno de Fujimori: Hablan por consignas y lemas",
    "excerpt": "“Son consignas políticas. Porque no veo que haya razonamiento. Yo he sido parlamentario y he reconocido lo bueno en otros gobiernos (...) Yo lo que veo es que hablan por…",
@@ -895,6 +906,17 @@
    "url": "https://gestion.pe/peru/politica/ministro-sheput-responde-a-criticas-desde-el-congreso-al-gobierno-de-keiko-fujimori-hablan-por-consignas-y-lemas-noticia/",
    "date": "2026-11-04T19:44:00+00:00",
    "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fab79d8ef186",
+   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
+   "excerpt": "",
+   "source": "::Radio Marañón::",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjEyV2tUN0V6RHVvZUlUYmMzbnotUjhzX1VZQU9ONUR2ZGwzLXpNUkpEaS1rbDFqSVlwZHpCTVBoSlJFWUswZ3R1NWlCZWtiVFVnekhMbldCYlRhaHpfQjJNYkdpc2ZMRnI1eW1nd2FzR092cFlIR3RFT1lsSXdoZDFXR2podGdnR1lVZV9FMTBCa0VBQnI5SHJERURVQUhacENwOGEtakM4NXVOc0x3Zml4Y3pnNEJlX0E?oc=5",
+   "date": "2026-11-04T19:13:53+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -1097,17 +1119,6 @@
    "next": null
   },
   {
-   "id": "fab79d8ef186",
-   "title": "Buscan asegurar presencia de Keiko Fujimori en la conmemoración de la Batalla de Ayacucho",
-   "excerpt": "",
-   "source": "Pachamama Radio",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXJEckxiTWtjUGJES1puemwtSVQ1blo0VHBDMWJidE5ZRkI0MmkwaEpxNld1ckR5N1JEb1NxcW9HcUpVYUdKTVg5bUtpaUQtekRwV1NIMlN1SFhjU0haT3VLX0hSOHdOQTNYblRLalpMYkRmLUVQNXIzTlZHTG9SS1ZXdHZkT1RNbTdrLVdBNkhieXhvenR4bGJ3N1M2dUdPUFIzWUctNVhtWDFlYlhLWEl6dV9BOXo0?oc=5",
-   "date": "2026-11-04T16:07:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "6dfa0b6d0371",
    "title": "Presidenta Keiko Fujimori entrega predios para construcción de penales",
    "excerpt": "",
@@ -1213,17 +1224,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeWxCR0d5a3ZBRV9WdmhRSjNtS0VrSjFvcG9uWU1VS25DSkYzMFhjejUtbmZIelc2d3hmZ2h3RG4yNEVKMFZBQkJfdDFneWNUZ0xQaGZQYmczR25ya0hONmJnNFdacjNDbFh1TndycVR3a09NbHJjOEh3bHFOeW5MWGUya0lyXy1UNW9hdm9pQ0N6ME5oejlVdWlZcW03cWhIVWtqdC16aFoyVnd4?oc=5",
    "date": "2026-11-04T11:03:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "78ab24162cb5",
-   "title": "President Keiko Fujimori announced that 500 schools to be built in Peru next year",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZkFpR0t1c3dSSlE1WDNOR1lKVkZ3NHNITjRyX3RRY0czNXYwTFk5VEFWSG52OVByQndJVXVmdVBoNFJ0T05qRWs4YUVVdmJfTE1QeElra0hNa3NiTU9WQ09CaEhRb1dBTWNKanVvZTBVMkoyTmZPNnJzazJtMlRlZnM5b2RFYVV5WklJZkNfemFpLWlubDYxREZMRjJBZVFKSzdmdjZrNWZYbTlVSnU0UnVPQ3hFSzNlajFxQWJSNUFET3Zudzhr?oc=5",
-   "date": "2026-11-04T09:37:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
