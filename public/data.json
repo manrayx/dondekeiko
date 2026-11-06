@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T13:48:34.563311+00:00",
+ "generated_at": "2026-11-06T14:10:42.206277+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,6 +493,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-06T14:06:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "624ec0b63057",
    "title": "Cien días del gobierno de Keiko Fujimori: balance del inicio del mandato de Fuerza Popular",
    "excerpt": "Analista Luis Benavente evalúa los primeros días de la presidenta. Señaló que la mandataria mostró actividad y prioridades definidas, pero advirtió que el tiempo político peruano se agota con rapidez",
@@ -543,17 +554,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNek9YUVR5NW03LTB3QWpRb3lhWjdKUGJyM0xYMG9BS3g0Qkp4bWxfcGZ5N3cyZVEyM3hXeXgwLTJsOEV6OUw0Rk5YVlhlbDJWUU1vczQ3dnlrZnNMdXBDdlZRbTFRcVhuSVZsUjNITmlHQ3FkeC1ZUGZvcDd1d05hYkpBTlozc2o0T0lvYnhPajFfQ1d1RF9kNUU5VXo0Q2RhMlk5VDdmYnVsOUI2bldjdTVvUkh3TmJtUUFYdE9WcTZUUDVvRjZnRy1MbGhSM0FIQ3ZkRWhqb2lKZXIwTk1mSnRoSW5UMDZXRHQ4MHFIRkxtTTVQWnZkU0lnTUlEN3loVWk3YVBGdndyZUFPRjVwcTRMcw?oc=5",
    "date": "2026-11-06T12:09:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-06T12:06:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
