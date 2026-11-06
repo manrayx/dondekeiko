@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T14:54:13.048844+00:00",
+ "generated_at": "2026-11-06T15:16:18.180072+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -122,8 +122,8 @@
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
-  "triste": 1,
-  "posando": 53
+  "triste": 2,
+  "posando": 52
  },
  "total_7d": 60,
  "silence": {
@@ -494,6 +494,28 @@
  "agenda_minutes_7d": 909,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "c8e26ac160a9",
+   "title": "Carlos Basombrío: “El gobierno no se atreve a nada” y cuestiona la gestión de Keiko Fujimori",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTBIaUpPdU56ZGdQSHZtcTVJTEVaZllaWWdhMExZNVYwUUVmc1NsVWJxeGk3VFU0SEVVSnRQalpTd0ktMXpGZGVwRlRHLWlULWdNd0MxTzBheV9YV0EzVnZYQkoxSWJjM2VFcXUwOTFDWTdhRkZPcXllU1RWbDlWTERvUFlKc1k2UVVIcnJzLVJjSWxUT0JSSG55d0oxTDNQc1lnNGlweTVqWG91eWUzVWU2QmV5QdIBuwFBVV95cUxQT3JSakVhQ2YzWU9jQTZGajBXU0tCeDdnWDBwb3lhOVZJLTN1bWZ6N2I2QWFRanNnSnZ3M0NWeXVHRl9MaksxODc0ZHBUY0V6QWlqTno5bUZ6ejZCWlh5WFFwQUUtdGp1N21ra3hfdnRlUGM1SzZ0d3RORzd5MDF3djlMYU01Z1N6UXgyVTY3NnFpU0gxcVNaU1NHZ2EtSlZ2NDVaR1ZhQWtVMnc3cXBIY21kc050VU1GbzFV?oc=5",
+   "date": "2026-11-06T15:00:59+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4c587015f7b2",
+   "title": "Elmer Cuba: \"Estoy satisfecho\" del trabajo del MEF en los primeros 100 días del Gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNM0J5SVBSTkp1YWNwbEJUY2lXQVlFVUtOVDFyYVZVWHVFbFYtdG1jNElYTnFwTFcyc2oxWWFSQnNIak9lcDBGdm1ReXZ3TDR1eWZnTUEwRlFZT0FVMlNEbHR2YzVlWTI2Xzd2WlVoUXdwczYyeFBsTmpLYm92WllOQ2ZuQ3VWYVNpTDVCc3FlYWlhVFV6dUNnSU9fMXdYMDhaRm8tazhqVUhTTXpCSGRqdVF4ZEZlZGtQTXVwbnh4MVVwNk5ncGZhTkRPanBhT3ZsTzdJZ1MtSmg0Y0VDZVQ1ODI4NHJfX2s?oc=5",
+   "date": "2026-11-06T14:53:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "965d4493e42d",
    "title": "Presidenta Keiko Fujimori llegó a Tumbes para supervisar acciones del Estado frente a lluvias",
@@ -1141,34 +1163,6 @@
    "date": "2026-11-05T18:37:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "a4284b014086",
-   "title": "Autoridades de Puno advierten que no hay condiciones para que Keiko Fujimori arribe a la región",
-   "excerpt": "Diputados advierten que Keiko Fujimori tiene que pedir disculpas por apoyar a militares y policías que causaron la muerte de 18 personas.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/04/autoridades-de-puno-advierten-que-no-hay-condiciones-para-que-keiko-fujimori-arribe-a-la-region-puno-hnews-168940",
-   "date": "2026-11-05T18:04:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "59cfe48aa674",
-   "title": "Keiko Fujimori gana espacio en el Congreso, pero persiste la tensión política a 100 días de gobierno",
-   "excerpt": "Al cumplir más de tres meses de gestión, el oficialismo suma respaldos parlamentarios clave frente a un bloque opositor fragmentado que pierde fuerza política, según en análisis de Luis Benavente,…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRkFDamE1dWo1bDZ5d1RkMGZsMzJ0R0gyX2ZRUk02OC1CcURqb1hOY1JCWW03eWdUdDM3UW5BYXNsZlQzOURWWFRoV3NGZDVkOVdFTURlZUtzWUdaRG9wMjdSbVFnb1poUGxNaWRjU2lrNnVYZ01IOUV1VVpyU2pVQnM0R2ExN05rXzM3Wmo5Q2dLdU55UU8wVzZUczgyNGN1R3hWcFlrMWlmaE9paEtJSmV6Ri1uckRid0stc0JJZTRSWlpqQTBpRVRFMTBtOTJmVmJKWFZRSdIB8gFBVV95cUxOMzZGSEJaMTB4dW1QbHRQcWpaRGxCeUYydVVmT3N4WnpwajRMS19OWUlMYmpqNFQ3ejBlMVB4aURzV0Z6YzNCbjFLS3ZvSGJGVFJOS1hLMkNhZU9lZkxCSVZtdzZxRHVkTE5la2FsMk0wcmE4UnRydWZobEFLaGdlWG5oaXgzM1NOdlNjMDRuQ1VWZW1CMlF2S1RwX0N6NjFYbXo4ZVFKWGtNZ3dHQTUyLWx6d0tHY2hDY0N3bXBIMlZGU2wzQ0RLUmRVcTBtWE1kWmpoVmZmblVnVERWazdMZXBQR29lWXpLSEFyUW5nMkhlZw?oc=5",
-   "date": "2026-11-05T18:04:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Congreso",
-    "city": null,
-    "lat": -12.04814,
-    "lng": -77.02636,
-    "abroad": false
-   },
    "next": null
   }
  ],
