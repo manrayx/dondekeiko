@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T22:16:45.847089+00:00",
+ "generated_at": "2026-11-06T02:15:17.197590+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,18 +110,18 @@
    "name": "Madrid",
    "abroad": true
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-05T14:22:21+00:00",
+  "source": "Infobae",
+  "date": "2026-11-05T14:22:00+00:00",
   "title": "Keiko Fujimori oficializa cancelación de viaje a Madrid por emergencia de lluvias en el norte del Perú",
-  "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-oficializa-cancelacion-de-viaje-a-madrid-por-emergencia-de-lluvias-en-el-norte-del-peru/"
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 1,
   "triste": 4,
-  "posando": 52
+  "posando": 51
  },
  "total_7d": 60,
  "silence": {
@@ -560,6 +560,83 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "02258b363194",
+   "title": "EN VIVO: Keiko Fujimori presenta esta noche balance de los primeros 100 días de gestión",
+   "excerpt": "En un mensaje a la Nación, la presidenta de la República, Keiko Fujimori, realiza un balance de los primeros 100 días de su gobierno, mientras los índices de criminalidad y…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
+   "date": "2026-11-06T02:08:53+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e63acb4bfa11",
+   "title": "Keiko Fujimori brinda un balance de su gestión tras primeros 100 días de gobierno",
+   "excerpt": "",
+   "source": "geniostv.pe",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3BFUW9fMXFRbjg1R3ZmUi1kVWpoZE8wZ0Q4VHJfNkJDNEtvOTFXREFzQ0NDclFfQ0tzeHZLbzhmcHVkN1ZkdkRDUDg4ZXR6aGRJRkVwbUxqQ0Z4Ymc0SEk1a3Nrak1tT2xDb3pYLV9rT2paNm9Qbzl4bUhUSFFtdV9KYmxQaURxbTRUdENzTWpZQURya0xrV2JGeU9mSVVUQlVJWm5FV05HT1ZPc1E?oc=5",
+   "date": "2026-11-06T01:59:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "85a7b6e9bfa5",
+   "title": "Keiko Fujimori presentará esta noche un balance por sus primeros 100 días de Gobierno",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTRFanhLLVJmb1QtTXZidi1GUFRSdGtBMjhsRnJ4UjRUNTJPQ1JrRzdrWFBWcVZILTZEb2Y1SEt4aEJ1THBQV2hiRGEyNDNXMXJTSF9ieTdKeFZOakdhbC1zU1l6eXduWHd5S2xGMXZkcnU2VUo0Z25ZZ1I0b0ZLOTQwbzJHbkVnZWFFbm9vNXhiX2pNSXU1Y2NJM1MyMWMyT3RQS0ZEZWlkclZHTXFjYUdYUG43cTY5RkFwSGdOM3JtOEw2VUlwcNIB3AFBVV95cUxPeWxmNXE3RzJmalkzMFFUekxIVWd2UXAyVlBtR0FnVVU4eU9GdzJaQzEyRUJUVHduVld4UW1tRU1LWHJEQzNaTU9ETUVsU1VTa3VVc2JqTUFFN3UzWjFQS25iYXQ1M0pPTDQ0aGI1cmVYdTkycVlsWlFYUGxua1FhSndjLTNrMUh5b09keWZRSkV4MmF4YkRZRUMyQ3pGMDRreTRFWUh6VlQzaGVTNkRCeG11VzQ0a0lZMDVVNkptaEtWN1ZEOXBEbE4tUHhLblcxcDlrYWlYNTB0UHlC?oc=5",
+   "date": "2026-11-06T01:33:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a4f9459a82a3",
+   "title": "Presidenta Keiko Fujimori brindará esta noche un balance de su gestión",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWFKMW1UNGdoR2xYd0dFVkdBTWRWR25SSTlJdlEyV3FFYW4xYjg1SVhhYU5hWEsxY1FmN0xPU0ppMFA4eE1TYlBBUkVjejNNYlVQX1N4ZFRNUVpJQnVadEhhNEpZcHZaRTk1T2xQQW1xUU9rMWxJUk8zR2FUQ2p0VEZOWjdmTEExbGZ5ZktwMDlZWkgyUU9CWmJfOW1jb3ZSVnhKdFBHd2JXRjh0WkJ3Z19NOGI?oc=5",
+   "date": "2026-11-06T01:23:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0bb852e98dbf",
+   "title": "Keiko Fujimori ofrecerá un mensaje a la Nación esta noche",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnRQVk9hakZ3M3BSdXJHWm9EMWdzelVIem96S0VmRjJfMVY0RXl4WURxcFRneEhQc29uWWF0cmVKRTZIZjJNc1BYNGQ0c2l5UnZ4YkJmNnVOTTJ5Mk03MC1DUmpNSTdULWtROUdTaHl5S3dqN0s2bVhvYnp5UXZkS0l6WTNPN1V5dWJRVFVnZGgxdEd0bWJZaw?oc=5",
+   "date": "2026-11-06T01:14:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "70315c939960",
+   "title": "Puno exige disculpas de Keiko Fujimori antes de una visita presidencial",
+   "excerpt": "",
+   "source": "Pachamama Radio",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWtSNkdheXc3VjJ3X2FyeUlob2tnX3g0NGRMdDF6ZzlLcExvY0hrTHZIWTdFZzdtWlNibnlZTXpTdnJqRGZfclgzQ0szZEF4NVlBZUZnc3ozWmZGeHN6S0R3WktBdnkwYWZrVW4yVnVKQlQ1YmNFVkx1bExVQnFiOEowb2FSd25ObHhWZUtrMXpGcGRuX01YSVlEWld2NVIt?oc=5",
+   "date": "2026-11-06T00:54:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ae544c660d10",
+   "title": "Keiko Fujimori: Exministro Basombrío califica la inseguridad ciudadana como el peor fracaso del fujimorismo",
+   "excerpt": "",
+   "source": "Convoca.pe",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjNxWUJSOFJsMW5YbEFFZFpHWmRGOWlrNnhKY1IxQ1NjcDdNTHBVLU9WWFN2UGF5UHBvcE1lSXBudFV6YWxQbzA1bGV6ZW5rUU0xa1djSG5jbjEzWE9VNHJHQkhrUUVQVkZWSU4wRldCcjd0eEdrMGR0eE9tcG5rZnRkWWtlczA3c0JiZ1d2bF9IaXltcDlMVXRGLV90T3dfMXBuWG9ERlMxbTRuOC1pVmxVRFZGZw?oc=5",
+   "date": "2026-11-05T23:01:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "15419ae9f02a",
    "title": "Carlos Mesía defiende los primeros 100 días de Keiko Fujimori: “El balance es positivo”",
    "excerpt": "",
@@ -646,9 +723,9 @@
    "id": "76a685daa9f5",
    "title": "Keiko Fujimori cumple 100 días de gobierno: ¿Qué medidas se concretaron y cuáles siguen pendientes?",
    "excerpt": "La gestión de la presidenta cumple sus primeros 100 días con medidas ejecutadas en seguridad, prevención ante el fenómeno de El Niño y apoyo económico, pero también con promesas que…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-que-medidas-se-concretaron-y-cuales-siguen-pendientes/",
-   "date": "2026-11-05T14:37:14+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc09qQVNGZUtZVE1XQnNUZEJSeVNYdHFZeVF2UDdoQVNiMnNER2dVUVJOcDFCUFFjLXN0NGdZTklWM1l0YUN5OG5SNVBsbFpaTll6Umh2YlRmMEtTcVpNc2JITGZaYmJMSkhxdi03UU1HQnFJOHpkT01PX2xpWGJyU29sUGxCbGd3OXVZLVZlMDlsRVk5RTg5Um1GQThXbFhUeUhCSG5CRVhsLV9OWE1sR3d4RVVoZ2F1ZS1WQTI1RjJLbDN4aldxV2M0VVNjdngzT04w0gHuAUFVX3lxTFBFYkxubTUyWGFhVmJKTXM5X1FScFBiRFQzWGRGb0ZDRTRMNDJ2RTBJU1luaE5JTkJBd1pqU3BFVDBlbUJZdUtENzhxZU1NX2ZhOXJMbzRsMFdQQ3dTVXNOOVZfZC0tbTFOMEZTdWFmY25vRUhmdHhrMFdJOEFTZ19YcHRtVnVOWGswNzM1R3ZEMHB4MHBEYnprdzZHU3IzZ0dXRnFmT290ekpsTVlEYlhqbkJBZllxSHZsVEZhQ19mekplZmhUUmhzM2g2ajFuMjN3bUF0WHpSUjl1OW1VbFA2dGhPRTZ4R21aTUhfUlE?oc=5",
+   "date": "2026-11-05T14:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -657,9 +734,9 @@
    "id": "73f37d1ff34f",
    "title": "Keiko Fujimori oficializa cancelación de viaje a Madrid por emergencia de lluvias en el norte del Perú",
    "excerpt": "La mandataria tenía previsto participar en la XXX Cumbre Iberoamericana de Madrid. Tras desistir de esa visita, el Gobierno modificó los periodos de encargatura de Luis Galarreta y Rafael Belaúnde.",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-oficializa-cancelacion-de-viaje-a-madrid-por-emergencia-de-lluvias-en-el-norte-del-peru/",
-   "date": "2026-11-05T14:22:21+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5",
+   "date": "2026-11-05T14:22:00+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -1159,83 +1236,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORW1xZ09FRW5DREh0MWN3WHFaMlY3YlVFcDVLTjQ5dWZCU2cyNVViM1JrWFNwbm5zZVN3ekdIaFFXdGNnMENqV3o3UkpXLS1tZjZENGZhNXNyX21Xalh0ZEtfWXljNzJJUTNELVY1SzQzMGF0MjRQbkhOQkd2cnJ4X0tmS29kb2JJTlQ5Wlc4NU50T1NoT2VHWGlyQ0hDaDV1dHZOSHpxdXROMEhhR05hWXFxQ1dKczV6WWxtMW9QYWctMlFOSG1aZFE2bDVteXZSbmg2UHVpaFNPSHNFZGVNbk83ejBaYnM2b2FLb0I2TVdFVUVRelNtajJPT05nMWMwMUpFX1g4d2dsbnU3WmhlMV9jRkF1MUJSM2tBdzBnWTE?oc=5",
    "date": "2026-11-04T17:32:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6ba91566256e",
-   "title": "Con 182 homicidios, octubre fue el mes más violento en la gestión de Keiko Fujimori",
-   "excerpt": "Las cifras elevaron a 1.612 asesinatos en lo que va del año. Junio superó a octubre con 196 casos. Si bien hubo cambio de gobierno en julio con la promesa…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/04/con-182-homicidios-octubre-fue-el-mes-mas-violento-en-la-gestion-de-keiko-fujimori-inseguridad-hnews-342772",
-   "date": "2026-11-04T17:30:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0cd100412a91",
-   "title": "Inician obras en la Torre Trecca de EsSalud: “estará lista en 18 meses”, dice Keiko Fujimori",
-   "excerpt": "El ministro de Trabajo y Promoción del Empleo, Juan Sheput, explicó que cuando se habla de 18 meses, se refiere a que “en términos coloquiales, se ha colocado la primera…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/inician-obras-y-modernizacion-del-proyecto-en-la-torre-trecca-de-essalud-estara-lista-en-18-meses-dice-keiko-fujimori-noticia/",
-   "date": "2026-11-04T17:28:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c37217a5b0df",
-   "title": "Acercamiento a Trump y “fórmula Bukele” marcan primeros 100 días de Keiko Fujimori",
-   "excerpt": "La presidenta de Perú, Keiko Fujimori, cumple este jueves cien días en el cargo, marcados por la militarización de la política de seguridad para tratar de frenar al crimen organizado,…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/acercamiento-a-trump-y-formula-bukele-marcan-primeros-100-dias-de-keiko-fujimori-noticia/",
-   "date": "2026-11-04T17:13:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "632ad92dfda7",
-   "title": "Keiko Fujimori confirma construcción de dos penales: “En pocos meses estaremos inaugurando”",
-   "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
-   "date": "2026-11-04T17:00:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e7386f95dbc7",
-   "title": "Keiko Fujimori confirma construcción de dos “grandes penales”: “En pocos meses estaremos inaugurando”",
-   "excerpt": "La presidenta Keiko Fujimori confirmó la construcción de dos nuevos penales en el país, tras la entrega de dos predios estatales al Ministerio de Justicia y Derechos Humanos (Minjusdh).",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-confirma-construccion-de-dos-penales-en-pocos-meses-estaremos-inaugurando-inpe-minjusdh-ultimas-noticia/",
-   "date": "2026-11-04T17:00:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bb85dfb45030",
-   "title": "Presidenta Keiko Fujimori entrega predios para construcción de dos penales en Huacho",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQVhzdEhTVUl2ZmJsLUhPM2swYUotaUw5bmVTaDhpMGlwbjhkQ0hONEI0UTMzWDFzb1F4eEdSMHlGSnlIcTl0YmFYWElPSkRuMUV2MlA2UG5uRFFuOElsNHRyTjhCVGhENnRMTEpXVkdJaERwSUhaVzVHdG8xblhYRHhYSkZwM3dNTnFtcF80eTU0U0sxcnYyc19aNm5sdnpFVXY1RXRNSENXUW1iT3dHbmdYVnRFSi1sanlYZTctU0s?oc=5",
-   "date": "2026-11-04T16:32:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2bdcb6e61d3f",
-   "title": "Escuelas Bicentenario: Gobierno excluye del proyecto a 17 colegios en 12 regiones por “falta de presupuesto”",
-   "excerpt": "La administracióni de la presidenta Keiko Fujimori argumentó que, además de no contar con los fondos necesarios para la construcción, tampoco contaba con el tiempo debido a que este vencía…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/04/escuelas-bicentenario-gobierno-excluye-17-colegios-del-proyecto-por-falta-de-presupuesto/",
-   "date": "2026-11-04T16:31:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
