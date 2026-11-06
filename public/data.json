@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T17:06:01.571498+00:00",
+ "generated_at": "2026-11-06T17:27:34.144031+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -559,6 +559,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5bd565318077",
+   "title": "Presidenta Fujimori: Hay un Gobierno que responde y acompaña",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
+   "date": "2026-11-06T17:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e25c67754b9e",
    "title": "Keiko Fujimori anuncia mejoras en índices de crímenes, pero cifra estaría alterada por subregistro del Sinadef",
    "excerpt": "Juan Carbajal, analista de datos, señaló que el Sistema Nacional de Defunciones no refleja una mejora real. Octubre se convierte en el mes más violento de Fujimori, con un promedio…",
@@ -623,6 +634,23 @@
    "date": "2026-11-06T15:34:13+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "1a42a79b2bdb",
+   "title": "Keiko Fujimori llegó a Tumbes para supervisar albergues ante las intensas lluvias",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZEZpTjhUaVAwVXpVTWtCeDZZY0JVVmhhME50bVVURjJIZ182YXpoa25SX3NNUHotWGtCTDhfaDU4YTBMb29FMmNoaW5xSjQxZ3F1SUhQVVdUeG1QbGFjWHQxZVVRNTladGJOaFktQl9ybDRGMjR1Rm5rTUNydnJYMlhjR1YzUjI4SG5pR2ZEeGtxWkF3UWpJNHVBOXBMTjFIQmdNcHZRM1RjbWpBeDN4V0hrZ1dSUG9nWVl1c1Zsa3HSAdQBQVVfeXFMTkpCM0tvVnlHMHlHVG5OVTRuUGZrX1dTU01SX3ZsUlFvaDN4X1hTd1YwZDN3dk9FS3V2TUlOR2FfNjl5QnRIVXlGSmlkbWZKbzBiZmp1XzdUb2RWaXJMcFU2UUNvTUxpYWVuS1RMS2VkZmVma1RGb3pJWnltTDBoSzVlc2pmNm4yaFhxdjROTDVRR1BkY2tZdWVFS3dESlVLbmJEd2t5ZkRyUFJSaHkyczBoeGxocllGOHJjS2dTV3NSdlp5SXhGQ2xpLUN0TkZVMHZVTVU?oc=5",
+   "date": "2026-11-06T15:15:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
    "next": null
   },
   {
@@ -1220,28 +1248,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnRQVk9hakZ3M3BSdXJHWm9EMWdzelVIem96S0VmRjJfMVY0RXl4WURxcFRneEhQc29uWWF0cmVKRTZIZjJNc1BYNGQ0c2l5UnZ4YkJmNnVOTTJ5Mk03MC1DUmpNSTdULWtROUdTaHl5S3dqN0s2bVhvYnp5UXZkS0l6WTNPN1V5dWJRVFVnZGgxdEd0bWJZaw?oc=5",
    "date": "2026-11-06T01:14:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "70315c939960",
-   "title": "Puno exige disculpas de Keiko Fujimori antes de una visita presidencial",
-   "excerpt": "",
-   "source": "Pachamama Radio",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWtSNkdheXc3VjJ3X2FyeUlob2tnX3g0NGRMdDF6ZzlLcExvY0hrTHZIWTdFZzdtWlNibnlZTXpTdnJqRGZfclgzQ0szZEF4NVlBZUZnc3ozWmZGeHN6S0R3WktBdnkwYWZrVW4yVnVKQlQ1YmNFVkx1bExVQnFiOEowb2FSd25ObHhWZUtrMXpGcGRuX01YSVlEWld2NVIt?oc=5",
-   "date": "2026-11-06T00:54:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ae544c660d10",
-   "title": "Keiko Fujimori: Exministro Basombrío califica la inseguridad ciudadana como el peor fracaso del fujimorismo",
-   "excerpt": "",
-   "source": "Convoca.pe",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjNxWUJSOFJsMW5YbEFFZFpHWmRGOWlrNnhKY1IxQ1NjcDdNTHBVLU9WWFN2UGF5UHBvcE1lSXBudFV6YWxQbzA1bGV6ZW5rUU0xa1djSG5jbjEzWE9VNHJHQkhrUUVQVkZWSU4wRldCcjd0eEdrMGR0eE9tcG5rZnRkWWtlczA3c0JiZ1d2bF9IaXltcDlMVXRGLV90T3dfMXBuWG9ERlMxbTRuOC1pVmxVRFZGZw?oc=5",
-   "date": "2026-11-05T23:01:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
