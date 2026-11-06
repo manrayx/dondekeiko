@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T12:42:35.951222+00:00",
+ "generated_at": "2026-11-06T13:04:24.583190+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
-  "triste": 2,
-  "posando": 52
+  "triste": 1,
+  "posando": 53
  },
  "total_7d": 60,
  "silence": {
@@ -492,6 +492,28 @@
  "agenda_minutes_7d": 909,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "05e1ba263ede",
+   "title": "Roberto Sánchez reacciona a balance de Keiko Fujimori, pero Alvina Ruiz lo frena: \"Que diga qué pasó con los yapes. Me debe 2 soles\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcW9XZ3VHQmtLLTBVdXJSX19SVXZ1QVJCY2NjVG81ekVua3hpcmVST1lkd05IX003UFFMUFNlOGxoODZEVjExS2ZyRU1TU05RNjVYd21ONWxHdHNQd2oxN1lhdUt6LThiWnZ4czRVWnM4YjkzNkhxWTAzTGc4M0lGS05HOEo5Z1RHU3k1OEdoc3Frb24xSkR4WU1KREpuR3c?oc=5",
+   "date": "2026-11-06T13:00:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a0b0dcd83480",
+   "title": "Keiko Fujimori: «En 100 días no se resuelven los problemas acumulados en años”",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRC11U2R5cXhWczcwQzdtYzJTN2NKN1BsWGYxekVtb1BRMEgxSTZGeGtNZHYyWHQyMXdfQUNraFZkalJNLXNrRGdRaWpyZ1ZhLWVrbTdTNjlpMTVra2J4cm9zcDktbUlpUEdlWHNVWmd0MlJzXzJoU0VGS0FkaThKZmdoSGhISkpKY1BLdE5SUkg3bnllcFlxcGFfc1BPWng1RTYycQ?oc=5",
+   "date": "2026-11-06T12:56:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "cc1896e5507f",
    "title": "Keiko Fujimori presenta balance de 100 días y anuncia S/ 18.000 millones para 2027",
@@ -1136,28 +1158,6 @@
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZXRwQWdIMzVuSlNudG1td1hWN3loN1czbmw4MnZIRDE2YzU1d0RkcDlsbGEzRjF5aXhVX0t4azh2SUZwdEpiX0xCODNId3o2V2F0Yk1QU095Q1E5dUtNSjV2RDdLMnZIWVA0ajVPRHJ2dVYxM3FjQ0p6R1VCYWduSnlOdkFEaXBERjhHaGFNckpnME1HTWl0QU96cDVKWDRHWHFTRU5VMmZWamktdkljM3ZsVXRMeVZnT1FTeVFaN1BieVJjM3pLekZZbXplTEx0N2dybm9MdUROczg1WFU4cV95N05JTndQa0MyNHZxQ0kyMWhXanJoZmdMQkhrQQ?oc=5",
    "date": "2026-11-05T13:19:49+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5dbd3a7e7c63",
-   "title": "Keiko Fujimori cumple 100 días de Gobierno con un promedio de 6 homicidios por día",
-   "excerpt": "CRIMINALIDAD Y DESCONCIERTO. Del 28 de julio al 4 de noviembre se han registrado 621 homicidios, lo que representa un promedio de seis asesinatos diarios. La cifra podría, incluso, ser…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/05/keiko-fujimori-cumple-100-dias-de-gobierno-con-un-promedio-de-6-homicidios-por-dia-hnews-100445",
-   "date": "2026-11-05T12:32:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "83241650868e",
-   "title": "Enrique Castillo cuestiona falta de decisiones del gobierno de Keiko Fujimori en sus primeros 100 días",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnF4SjJXcGJRelZhRkUtTFJRRzJQNU5EY09nTUZjZ1o2R21yY201aXQzdWM3aUphSkE2MFM0MTZLX0tfZURJbFRLTG9YVUk1WWU4anlpV3VqVldSXzFzMU5PQVl2VnQtU0h5Y24xa092VG9vLVkweUMzcUc3TkstM05vc0hYWm04N1llejdCaE1yLVBXbGJZbDlkV0FJUmJUZDRQdDMxS3JVMFB4bHlEd0E0VG12ci1WamRDQmI4elhjRG1N?oc=5",
-   "date": "2026-11-05T12:32:25+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
