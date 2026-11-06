@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T18:54:40.223660+00:00",
+ "generated_at": "2026-11-06T19:15:53.564590+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Tumbes"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-06T18:28:23+00:00"
+  "source": "RPP",
+  "date": "2026-11-06T18:59:48+00:00"
  },
  "next": {
   "place": {
@@ -559,6 +559,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "33fbf91e6911",
+   "title": "Keiko Fujimori en Tumbes: presidenta destacó trabajos de respuesta frente a afectaciones por lluvias",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDlROG92cnN4Um9qaGlSRUJkWVBiWm1hSFB3YnhXQkx6VVVDSXZwNW80b0JJd0k3UHYwNXM3aHgwb1ZrZUp3eGF3YXd1UlJ5Z2M3eUlOQ2R5cTJuWnVFeEsweTVtbXMxVllsMks1RjVzcWpjX3E3ZUZtMmNOYTVyQTVDNUZyR09PcFJYRjduVmlFNllzZXR6M18wWG5uVXJNdXFiQTZ5bTZaa1VUeTlKZGNPNWxrUVBGeGdLZjllZFlreDZRN1phdDlub05NODNPOEpTUTh4Vzc3Qkg0OGs3MXd3?oc=5",
+   "date": "2026-11-06T18:59:48+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "456efe0272a5",
    "title": "Fujimori tras sus primeros 100 días: “Me hubiese gustado obtener más facultades” del Congreso",
    "excerpt": "La presidenta Keiko Fujimori reconoció que le hubiera gustado obtener más facultades del Congreso durante los primeros 100 días de su gestión. La mandataria hizo esta evaluación durante una visita…",
@@ -731,6 +748,17 @@
    "next": null
   },
   {
+   "id": "05e1ba263ede",
+   "title": "Roberto Sánchez reacciona a balance de Keiko Fujimori, pero Alvina Ruiz lo frena: \"Que diga qué pasó con los yapes. Me debe 2 soles\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcW9XZ3VHQmtLLTBVdXJSX19SVXZ1QVJCY2NjVG81ekVua3hpcmVST1lkd05IX003UFFMUFNlOGxoODZEVjExS2ZyRU1TU05RNjVYd21ONWxHdHNQd2oxN1lhdUt6LThiWnZ4czRVWnM4YjkzNkhxWTAzTGc4M0lGS05HOEo5Z1RHU3k1OEdoc3Frb24xSkR4WU1KREpuR3c?oc=5",
+   "date": "2026-11-06T15:20:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1a42a79b2bdb",
    "title": "Keiko Fujimori llegó a Tumbes para supervisar albergues ante las intensas lluvias",
    "excerpt": "",
@@ -847,17 +875,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/06/cien-dias-del-gobierno-de-keiko-fujimori-balance-del-inicio-del-mandato-de-fuerza-popular/",
    "date": "2026-11-06T13:37:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "05e1ba263ede",
-   "title": "Roberto Sánchez reacciona a balance de Keiko Fujimori, pero Alvina Ruiz lo frena: \"Que diga qué pasó con los yapes. Me debe 2 soles\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcW9XZ3VHQmtLLTBVdXJSX19SVXZ1QVJCY2NjVG81ekVua3hpcmVST1lkd05IX003UFFMUFNlOGxoODZEVjExS2ZyRU1TU05RNjVYd21ONWxHdHNQd2oxN1lhdUt6LThiWnZ4czRVWnM4YjkzNkhxWTAzTGc4M0lGS05HOEo5Z1RHU3k1OEdoc3Frb24xSkR4WU1KREpuR3c?oc=5",
-   "date": "2026-11-06T13:00:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1243,17 +1260,6 @@
    "source": "https://geniostv.pe/",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3BFUW9fMXFRbjg1R3ZmUi1kVWpoZE8wZ0Q4VHJfNkJDNEtvOTFXREFzQ0NDclFfQ0tzeHZLbzhmcHVkN1ZkdkRDUDg4ZXR6aGRJRkVwbUxqQ0Z4Ymc0SEk1a3Nrak1tT2xDb3pYLV9rT2paNm9Qbzl4bUhUSFFtdV9KYmxQaURxbTRUdENzTWpZQURya0xrV2JGeU9mSVVUQlVJWm5FV05HT1ZPc1E?oc=5",
    "date": "2026-11-06T03:19:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "35d8169390fe",
-   "title": "Keiko Fujimori presentó balance de sus primeros 100 días con énfasis en seguridad y prevención ante El Niño",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTRFanhLLVJmb1QtTXZidi1GUFRSdGtBMjhsRnJ4UjRUNTJPQ1JrRzdrWFBWcVZILTZEb2Y1SEt4aEJ1THBQV2hiRGEyNDNXMXJTSF9ieTdKeFZOakdhbC1zU1l6eXduWHd5S2xGMXZkcnU2VUo0Z25ZZ1I0b0ZLOTQwbzJHbkVnZWFFbm9vNXhiX2pNSXU1Y2NJM1MyMWMyT3RQS0ZEZWlkclZHTXFjYUdYUG43cTY5RkFwSGdOM3JtOEw2VUlwcNIB3AFBVV95cUxPeWxmNXE3RzJmalkzMFFUekxIVWd2UXAyVlBtR0FnVVU4eU9GdzJaQzEyRUJUVHduVld4UW1tRU1LWHJEQzNaTU9ETUVsU1VTa3VVc2JqTUFFN3UzWjFQS25iYXQ1M0pPTDQ0aGI1cmVYdTkycVlsWlFYUGxua1FhSndjLTNrMUh5b09keWZRSkV4MmF4YkRZRUMyQ3pGMDRreTRFWUh6VlQzaGVTNkRCeG11VzQ0a0lZMDVVNkptaEtWN1ZEOXBEbE4tUHhLblcxcDlrYWlYNTB0UHlC?oc=5",
-   "date": "2026-11-06T03:11:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
