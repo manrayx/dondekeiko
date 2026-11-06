@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T04:24:22.559282+00:00",
+ "generated_at": "2026-11-06T04:45:29.373997+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -576,6 +576,61 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e51feb5410e5",
+   "title": "Los 100 días de Fujimori: Gobierno destaca recuperación de la confianza económica",
+   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/los-100-dias-de-fujimori-gobierno-destaca-recuperacion-de-la-confianza-economica-noticia/",
+   "date": "2026-11-06T04:45:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d5c70b67a2db",
+   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
+   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T04:31:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5500cedbe41f",
+   "title": "Keiko Fujimori presentó balance de sus 100 días de gobierno en Mensaje a la Nación: qué dijo sobre seguridad, El Niño y economía",
+   "excerpt": "La presidenta presentó los resultados de su administración en materia de seguridad ciudadana, prevención del fenómeno El Niño, economía y obras públicas. También reconoció las dificultades pendientes y ratificó las…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-100-dias-de-gobierno-cifras-anuncios-y-balance-de-su-gestion/",
+   "date": "2026-11-06T04:31:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a2e8d86df960",
+   "title": "Keiko Fujimori aseguró que crímenes diarios bajaron de 7.5 a 6.5 en sus primeros 100 días de gestión",
+   "excerpt": "La presidenta del Perú, Keiko Fujimori, habló sobre los resultados de su mandato en materia de lucha contra la inseguridad ciudadana durante el balance de sus primeros 100 días de…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-aseguro-que-crimenes-diarios-bajaron-de-75-a-65-en-sus-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T04:25:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "55daadaeb725",
+   "title": "Presidenta de la república Keiko Fujimori presenta balance de su gestión",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM1VnS1ZEWnhFNHY0ZWZRQ0lkUzg0XzdKeWdBSS1VZjhsT0JqSUo0TjBpRDNnWmt0ZVFqclg4RXNoam1MYV9HRkJnM3JySGNZQWRlQjJUZmhRMjlBUDQyMmV6bDczT0EwQUtGVS1QZVpQdE9rcG1Bd1pVR2ZqVFkwYmZ0UllMQlV5RER0RW5sbjJnTHo5ZWk1NHhRNzFrU3AxR2VsSG4yMFJTVlVuM2d3SG1uYWQ3TF9EWk9JTXVmczJaWF9y?oc=5",
+   "date": "2026-11-06T04:19:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bb75b48d0255",
    "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión",
    "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
@@ -656,9 +711,20 @@
    "id": "e9e324fa12fa",
    "title": "Keiko Fujimori dio Mensaje a la Nación por sus 100 días de gobierno: cifras, anuncios y balance de su gestión",
    "excerpt": "La presidenta presentó los resultados de su administración en materia de seguridad ciudadana, prevención del fenómeno El Niño, economía y obras públicas. También reconoció las dificultades pendientes y ratificó las…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-100-dias-de-gobierno-cifras-anuncios-y-balance-de-su-gestion/",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR3lFUkpCa2JFVVFja2xfRWpYYW14Uk9HWnAzMld1dkJUa3BvbmJXb0x3WXlFZ1pTOGZlM2hoMUpqX1FNUlJLOHFKQjdOTWp2M1ZPOXRBYUdTOExJMlJ6TWt4SVg5Ymo1YkVCZkt6MFhlTVZXekJsbGNtU0tFbGNyV1EtOTBQU256blkzQXAzRDEwTF9sYlNCRmlveGVrVEZvdEZkWW1PcV9vM3I0QzVNRUJlbFhGSzZRRWdpV1dqRkNIc01hRUxKUVVFeXBqS0FCVDFhSkdCZjhvRTNQaDFCeXZR0gH8AUFVX3lxTE9OaTN6RTNNcFNQSmdleS1vcC1yajFPZHJ4N0FQb19BeFlvZG9qSU02LWxnTllrZGlLZ2doZmZyVHVNQWlkcTdEcWktc1I1TDkyTXFJdDktQkJDbERZOEJtcURHQXAxR1hJdm96VU9EQjFPdGhrOElUQ2F4SFNmc2NxYmFwMF91bDlBQ1FtYlJjTm83eDZ5aHNhbXEydnRXUGh4NXdJcEhfaFl1d212U3ZjSFB3TUNyZlFxb0JFSDRzSUxYVDFOdzhXTmVkRWFOQVBVTFNXa09rM2pHZm9oTVF0Wndzc0Q0VDdPang4NnIwZHR3dUstNGh2SXMwQg?oc=5",
    "date": "2026-11-06T03:57:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "814aeb6488a5",
+   "title": "Keiko Fujimori: En 100 días no se resuelven los problemas acumulados durante años",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTRLZmZBOEpUME9BVjVwTGtWZlI4S3YxWHlicXQ4QkRueS1mNnJMTHZGYmJMOThBUUtFV0JlM21GQ051elFGUDZvaVVPd3FIOVRMRndjNTRDQlNPMHBwN0VtZVpuY3JnRG9iZFFyTWJFVi1fN2dKOG1XbWFxV0VlckwzM0Z6Y0c2ak43YjYxZDRUN29Tc3JaQzhRZEp3LWNDcVZ6cmZPNW1SSlM0NkRveWtjQXFEd9IBuwFBVV95cUxON21yWG5WSDY0Q1ZGSWhKS0NHVmJDYl9KaHU4VjluN1pXN1B4VUxBcHNuSGNWWjM5em1fV0E1Z3lTbjl2LV9rTGJqaUV1ZmhpRk45TnVVUTBMSTh3ZnpnTXdkYmIzYXR3WXY2MGJqTU81THRtRFF1NjEzV1UwNFZqenhMVFVrblM4eEJqZEJHRjVtLUVWTk1kRldhQVlRUmMzaFhOYWwwaUZMUy15ZUJfTTBUYlBNOG1pNm9V?oc=5",
+   "date": "2026-11-06T03:53:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1188,72 +1254,6 @@
     "lng": -77.02636,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "748bc7e71c44",
-   "title": "Keiko Fujimori cumple 100 días con obras regionales pendientes",
-   "excerpt": "",
-   "source": "INFOREGION",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY0tBcFZackRVMHBfNzR5YWl5ZGRMTDc1eS1MTF9ZNTVlYXFITHNjQ3JYc19wdS1yZU5YS01PZ0Nnd3pzUzJDSVNLaGRiSGZZbTBQbnkwSWt4TE1iaUpVVXB0cVNOMC1yTk8wZDRKY1RmYTVyWVJKMVFCYVRSSVRnb0ExUzBhcDE1ZHRIWTdZQzRVam1EVjV4WXhGWUp2bkdqYnZwU1JwQW9ZLWVRbmlkSzdzRU5sTFVJZHZmbThaMW9Hdm9iN1ItTlV0WExxRmJQRkhXRnZiQzJVeGFXNFZfZTBUOFYyWDZBQ1NLX2lYSy15ZEZvc0QwcVlxYy1vVThu?oc=5",
-   "date": "2026-11-04T23:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d5425fa77f45",
-   "title": "Presidenta Keiko Fujimori lidera la firma del Pacto contra la Anemia: \"Nuestro compromiso es reducirla a la mitad\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUl3aEVPbmVsbnlqRHFoX0VMTTlhUWtULTNCekFXLUVybVl0LUNDck5JeWF0Z1RxUzVNYndZZnlyX0VkQ3BDUGVjQVo0RUpiYzA4cEFZbWRtMnR1LTlHRkVJM0ZhWmFDcmMyTE5BY0oySUJudzNfQXE0a2M2MExRYWZ2OUN5RkNaMHI0SFBQdWpQOXZhS3lSa3NNTDRtWUI1VTVrbjBtS2E3WFdjejlrdHVZM0dsLU5XQi0wOHljYmF1bEJyYVhCTmtIb1FoTHFNZVE?oc=5",
-   "date": "2026-11-04T22:17:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e6917a327044",
-   "title": "Presidenta Keiko Fujimori lidera firma del Pacto contra la Anemia",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWYxWk8zUmFLMnJiZGZ3LVQ5eXhOYUQ2QTBEcWRaUEstNU1KMXYxUUxrM25ZbzZteVVkWTRVTHZLaGtXRkVDLXUycFFiU2czeDBIS3EwcHhVbnpJSzliMkdZWnBKdjY3Um9MRnA4ckd3TzRURGxpb0RKUzdSWUQ1ME80amRfUHpTVkllOFhud2ZkY2dCZi1OVHd3dlpaV0ZvSGh1dkw3VFpGOHdQVnhTeUo5Sl8wdUlMTUVvWVltT3ZiQQ?oc=5",
-   "date": "2026-11-04T22:07:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "00fe1d932015",
-   "title": "Gobierno suscribirá Pacto contra la Anemia con participación de Keiko Fujimori",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQajQxWXN5dFFkajFILVp1anhwX3J1V05XVTBYUjlpZHhYUXhmYU5HS2tjb1kwNk1YY2JyX1NFWTVrU2xUclpKUnhoeGFkSHU1dVplY3pWX3doODBGZEdITVhfZ3BMaXZkdjFvT0VqZ3FjejhBZEg2TWNXQXhoRFNoajRHamhObGNEN2JuM0QyMzZCRl9pekt5WEE1WU9VQVFUVS1faHI3UUtpZWFMSHJDNjZUUFgyZ2RHMTVNa9IB0AFBVV95cUxPSGMyY05Bd3pSOVZrSmc4WGhDd082RmtzM0prbGtJcS1WcXBuZ2xEd05PWmFORGlYRnIwTnRXZFhKb3NWeUxNd1kzb2Y0S1NDZmMzNnhvVlNGR0RKX3FENVRtRjF3MlN5ODdsT0tORVNKemdpMDV6WWlEcUt3eGQ0UXFiandRRnZTV0Z2VEhHeWE2SHZ3STN5SUxaSG1QOGRlaUN5TnB6ekNHMlBoeDdmQXRqclNxdElTSmRNa1dDb09ESHB0aURXYTdXNXhjekVQ?oc=5",
-   "date": "2026-11-04T22:05:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1ea132ca7daf",
-   "title": "Cero promesas cumplidas: Arequipa y el balance gris de los 100 días de Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWt0NEdrUHJQTjg2VU5PbTRsdVNaUDl0a3RoZUU3cFMzRHhnNVNBd2pMU3BRMXFxclNuNXNPNklkd09GQldxVWJNZGRVanZRUFRfNjZSS1dBX0ZhV3h4dkhjYXVsVkszUWtsbHlQSEplSThuY01JOHdfLVF6T3RsMkFVZmdzUDkwVW5tc1RtQUpiVEdZaWFwa0g1eDQ1Tlp4X3RBdzF0RHJaZmg4WGVJSg?oc=5",
-   "date": "2026-11-04T21:14:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "44625da1a6f8",
-   "title": "Keiko Fujimori entregó terrenos para construir dos nuevos centros penitenciarios en Huacho",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHA5MzJycVF4Vjl5NVRRWEczWjNyb0Z3eEJwRVZIWjBUVE5WYjJaTWRtZ2hDYjA1bEdVbTctUXFJeFNVOUViclZFTjlwRkRmd2g0QmNMb2p6S1RJR0dLQktTY3RZMmhHeExvWE5VMjJLTUY0ZTc2UlhSZjNmSFpCWjg2d0NWYUlyb3hPNlNkbWpzZFEtUlZ0TURFbDBRa0xHYWl3VS1qZHpZNUgyTGw2emJzaEtHS0pKWGpjQUh2Q2QtYjdEMzFQQkRDX2NVQ1l3ZWVz?oc=5",
-   "date": "2026-11-04T21:11:22+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
