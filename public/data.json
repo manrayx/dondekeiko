@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:15:53.564590+00:00",
+ "generated_at": "2026-11-06T19:37:55.053395+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,12 +118,12 @@
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 56
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -558,6 +558,28 @@
  "agenda_minutes_7d": 979,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "27604389253a",
+   "title": "Los hitos de los cien días de Keiko Fujimori, entre el orden prometido y las dudas sobre su rumbo",
+   "excerpt": "Según el investigador Paulo Vilca, el Ejecutivo conserva ventajas políticas frente a gobiernos anteriores, aunque no logra traducirlas en resultados que frenen la baja en las encuestas",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/los-hitos-de-los-cien-dias-de-keiko-fujimori-entre-el-orden-prometido-y-las-dudas-sobre-su-rumbo/",
+   "date": "2026-11-06T19:24:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "05071780dbe7",
+   "title": "Confianza empresarial sobre la economía cae a nivel pesimista por primera vez desde el inicio del gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDRDRUs3bVF0d1pXSG5nM0xJOW9mam9LZVQwcVV3d3VuM0lqYkFIWHJvcGk0a2tnRW5sY1pvOV9lbWZNS1RwODYyVFozWS1xX1dEMjBYYmFoNktfOFhXWU9POE9ycS05aDdEY0ZaVDRVUk4xbFBucXYzLS1ic2tOeWpDeDQxQVlWU3E3ems5bmNxQXpHT1JmZWNnNFJFWkdKaUVEcTJuN0lDNXY5YlN2RUgyQndfeGZLX1U2el80Z1NmbkVzOXpuRUxpV1AtTWQzVVJVSFdxV1Q4YzBqSU5LcUhVYnROdXRsQmRlYVhCYmFyRWE4ZWpzenBKT1REUFBabXg0?oc=5",
+   "date": "2026-11-06T19:15:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "33fbf91e6911",
    "title": "Keiko Fujimori en Tumbes: presidenta destacó trabajos de respuesta frente a afectaciones por lluvias",
@@ -1238,28 +1260,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
    "date": "2026-11-06T03:36:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "34e6268c105a",
-   "title": "Keiko Fujimori brinda balance de sus 100 días de gobierno | EN VIVO",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw0gHfAUFVX3lxTE51Uy1mV01qR1JlUW5CR0w2Mnl3VklyUHQ0TnE4YUs3dU5mNmxKUlpPbUFOckJjVFA4ZDM5al9TUlZPVS1wMUtmaTFhX25lQVdnckdhRG9nckhEYmhoVDRoNDBYRDVqTVRhNEpHdDUwUDF5U09mSUpfUVRxSFNQNkpuM0dfa2xUbFBGcUJHc0U2SzhUemVYemZfSTd3bmZBcldCYU16aEZzaGZ5cWQ1OTQ2a2tXdWliMjZiSjlWa1hvLTdvZUtDajYwWTd6T1pJVDV2SDVGejBBZ2d1S01WaDA?oc=5",
-   "date": "2026-11-06T03:22:46+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e63acb4bfa11",
-   "title": "Keiko Fujimori brinda un balance de su gestión tras primeros 100 días de gobierno",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3BFUW9fMXFRbjg1R3ZmUi1kVWpoZE8wZ0Q4VHJfNkJDNEtvOTFXREFzQ0NDclFfQ0tzeHZLbzhmcHVkN1ZkdkRDUDg4ZXR6aGRJRkVwbUxqQ0Z4Ymc0SEk1a3Nrak1tT2xDb3pYLV9rT2paNm9Qbzl4bUhUSFFtdV9KYmxQaURxbTRUdENzTWpZQURya0xrV2JGeU9mSVVUQlVJWm5FV05HT1ZPc1E?oc=5",
-   "date": "2026-11-06T03:19:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
