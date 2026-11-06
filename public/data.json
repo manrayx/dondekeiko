@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T18:11:15.544553+00:00",
+ "generated_at": "2026-11-06T18:32:53.759875+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Tumbes"
   },
-  "source": "Exitosa Noticias",
-  "date": "2026-11-06T16:19:10+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-06T18:28:23+00:00"
  },
  "next": {
   "place": {
@@ -118,12 +118,12 @@
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 4,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 54
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -558,6 +558,45 @@
  "agenda_minutes_7d": 979,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "4fbeb488356b",
+   "title": "Presidenta Keiko Fujimori llegó a Tumbes para inspeccionar albergue temporal y hospital de campaña",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSTFiMmNuV21raFFKaDRmS0h4X1FacFBJS1NFOEZaaWZUUnh6T3ppYlVzMGRwNjRwMnVBUzRMejV4SDQtVXZMcmt0OHh3cTBocDM3U1pmU083NUNzQzZvNXZXTWJvNXdYY2NHRjFkNFFoS2w3RjlrTmFUcVRCbjE5MTViTUUzNHFDZTdleVVkSXFUYzN1eGZnbXlqd3M5SHN0QkpKVm9wNUhhVnFKZUQ3NXBYRnE3b1Vuelk4Q3U3U0U3Mk10R2p6V19XeVNSaXBKcFdfQ3hmbw?oc=5",
+   "date": "2026-11-06T18:28:23+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
+   "id": "0c238c4441fb",
+   "title": "Keiko Fujimori tras balance de 100 días de gobierno: “Siempre se pueden hacer cosas con mayor rapidez”",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-tras-balance-de-100-dias-de-gobierno-siempre-se-pueden-hacer-cosas-con-mayor-rapidez-ultimas-noticia/",
+   "date": "2026-11-06T18:21:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4a548b56191b",
+   "title": "Presidenta Fujimori: Acá hay un Gobierno que responde y acompaña a la población",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVVRdUZrNUx5cnFoN0JSWkxFeWNacVdGQkRxbEdxQy0yTkx1T3UyS0FWbWxKVy0yNzhfVEhVRXN6eUFERmVKcWx1dFp5R0REdjdVeGtnMWpmVUszdDM5LXdTRnVxaHM3N3pJZ0R1V1JWUHFlZzFXZ0t1ZW1mYmI2Y014TzBSYWI2ZzVybGlXbTJ5U1VjNUtWaFVnNE9maVlqWGZCaGlkNDJMc1hTMGItd1dTYmE?oc=5",
+   "date": "2026-11-06T17:52:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "b9444e9c0abd",
    "title": "Banco paraguayo vinculado a escándalo político patrocinó encuentro de extrema derecha al que asistió Keiko Fujimori",
@@ -1216,39 +1255,6 @@
    "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
    "date": "2026-11-06T02:54:19+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4b79c4e28821",
-   "title": "EN VIVO: Keiko Fujimori brinda un balance de los primeros 100 días de gestión",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcElzQWh3SWxxeWY4STJYOEhpSjFydmt5cEVuUndaS1dZdHc1RHc1UXBkRzJ3ejRWcFRlWkFHOHMwbTRseVM0OXdsRWJqVS1nVUhJTUYyOEVzRjQ0cnVzclh6NnZJWndzbVlSb0lYWk15QjhLd1l0LWNjTlFEZ2htYjl1X3RrT2VLTHBqV2hhb251R3hXV3FaUlpKYzZZcDdWX3EtMWJVcmNIQ3VpYTRTOG53YVRMVXR6LWhJSGdNRzFqeHc2b1Y2LW5ONHY1QVdzTDFDNmdPN1RyakVQY1V1MmxFMjFTSFp1S2fSAf4BQVVfeXFMTVBZeXlLMjhzOUhpWVZ5NThJU2M1cnFpNDdjQXI2bkJHblVwazV0c2kwSk5Mak1ieVo3anh2MDBjSkdFMUJzVE9GalJTWDA3ZUdVRzZTNDBFWGRKLTZkTnNRejRRNHJvNlBOMFB6R1FIRFF3cnB5UmRRdGU3ZkpEcjlUc3o4LU90NVJCZHd4LVdLN2NLWWxaQ1BUbXpYODlISnRBVWxaUGVYSmJZX2dxTTA3bzVtcFR4V1I4eXpXTjVjYnNHbDdKQURVaVNSNzlFZ3o4cWRLV2Q1WjFCNHF5VTZTUmpQZW1naXpYM3NCRGwweFUwanM0ZGo0bVo3Qmc?oc=5",
-   "date": "2026-11-06T02:45:43+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "85a7b6e9bfa5",
-   "title": "Keiko Fujimori presentará esta noche un balance por sus primeros 100 días de Gobierno",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTRFanhLLVJmb1QtTXZidi1GUFRSdGtBMjhsRnJ4UjRUNTJPQ1JrRzdrWFBWcVZILTZEb2Y1SEt4aEJ1THBQV2hiRGEyNDNXMXJTSF9ieTdKeFZOakdhbC1zU1l6eXduWHd5S2xGMXZkcnU2VUo0Z25ZZ1I0b0ZLOTQwbzJHbkVnZWFFbm9vNXhiX2pNSXU1Y2NJM1MyMWMyT3RQS0ZEZWlkclZHTXFjYUdYUG43cTY5RkFwSGdOM3JtOEw2VUlwcNIB3AFBVV95cUxPeWxmNXE3RzJmalkzMFFUekxIVWd2UXAyVlBtR0FnVVU4eU9GdzJaQzEyRUJUVHduVld4UW1tRU1LWHJEQzNaTU9ETUVsU1VTa3VVc2JqTUFFN3UzWjFQS25iYXQ1M0pPTDQ0aGI1cmVYdTkycVlsWlFYUGxua1FhSndjLTNrMUh5b09keWZRSkV4MmF4YkRZRUMyQ3pGMDRreTRFWUh6VlQzaGVTNkRCeG11VzQ0a0lZMDVVNkptaEtWN1ZEOXBEbE4tUHhLblcxcDlrYWlYNTB0UHlC?oc=5",
-   "date": "2026-11-06T01:33:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a4f9459a82a3",
-   "title": "Presidenta Keiko Fujimori brindará esta noche un balance de su gestión",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWFKMW1UNGdoR2xYd0dFVkdBTWRWR25SSTlJdlEyV3FFYW4xYjg1SVhhYU5hWEsxY1FmN0xPU0ppMFA4eE1TYlBBUkVjejNNYlVQX1N4ZFRNUVpJQnVadEhhNEpZcHZaRTk1T2xQQW1xUU9rMWxJUk8zR2FUQ2p0VEZOWjdmTEExbGZ5ZktwMDlZWkgyUU9CWmJfOW1jb3ZSVnhKdFBHd2JXRjh0WkJ3Z19NOGI?oc=5",
-   "date": "2026-11-06T01:23:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
