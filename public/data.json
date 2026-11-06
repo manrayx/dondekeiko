@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T12:21:24.245931+00:00",
+ "generated_at": "2026-11-06T12:42:35.951222+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -492,6 +492,17 @@
  "agenda_minutes_7d": 909,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "cc1896e5507f",
+   "title": "Keiko Fujimori presenta balance de 100 días y anuncia S/ 18.000 millones para 2027",
+   "excerpt": "",
+   "source": "Rumbo Minero",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzBwbkdPSENnVW5vemtON2tDTGdCVm9GR2NQQlRMQnAwM0hNTTVHOC1KQVV3eFRJcVo4d3d5Zl8wVHktNE9pblNCbWxkQTNTcFVvMlZFcy0tQS1MNFdjc2lsZ1hab2x0NV9aazB4b21idDFLaVV5YThySDZXMjdKbFVnV2wza3lZY0NmblVmbVFQYXlUNGZCcTl4SWpYNzFNOTlpNkNka2lPUzBhVmMwbzlvX2tYN1N1Y0g1bmhRbXlkOUU4V3Q4UEZVSnQtQQ?oc=5",
+   "date": "2026-11-06T12:29:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "217a5dbcfe53",
    "title": "Keiko Fujimori: ¿qué dijo sobre obtención de facultades legislativas durante mensaje de primeros 100 días de gobierno?",
@@ -1147,17 +1158,6 @@
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWnF4SjJXcGJRelZhRkUtTFJRRzJQNU5EY09nTUZjZ1o2R21yY201aXQzdWM3aUphSkE2MFM0MTZLX0tfZURJbFRLTG9YVUk1WWU4anlpV3VqVldSXzFzMU5PQVl2VnQtU0h5Y24xa092VG9vLVkweUMzcUc3TkstM05vc0hYWm04N1llejdCaE1yLVBXbGJZbDlkV0FJUmJUZDRQdDMxS3JVMFB4bHlEd0E0VG12ci1WamRDQmI4elhjRG1N?oc=5",
    "date": "2026-11-05T12:32:25+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "62c448c65d0b",
-   "title": "Richard Arce califica de improvisada la gestión del gobierno de Keiko Fujimori durante sus primeros 100 días",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcC0yYVQzeUZmZ2ZyNWNWVUJBVGxQT2FCT2IyczhkbE92ZG1id1duQ3pmWDhSdXpyTFdlZUljdmU1MEZkMjk0c2NmZFp3OVNwWXFJOTQ2VFJyUFZuMFo5U25xTWdCNVVqQ2Ewd01aa25RMUVfcThOVGM0WGpHWE13YWxyN1RxQjhpTjdyVkF4a2dfVnZqb1dVLVIwUUZpYi1zcnlCVVlocW5LRXZ3ZHNtUGw5VnNfbFJmZGVuVi01Rkl6VTQ4UHlzeHpzZUU?oc=5",
-   "date": "2026-11-05T12:32:25+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
