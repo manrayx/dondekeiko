@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T15:37:49.676171+00:00",
+ "generated_at": "2026-11-06T15:59:43.313682+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Tumbes"
   },
-  "source": "RPP",
-  "date": "2026-11-06T14:30:01+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-06T15:40:17+00:00"
  },
  "next": {
   "place": {
@@ -118,12 +118,12 @@
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 5,
+  "transmitiendo": 4,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
   "triste": 2,
-  "posando": 52
+  "posando": 53
  },
  "total_7d": 60,
  "silence": {
@@ -132,6 +132,54 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-06T10:28:00-05:00",
+   "end": "2026-11-06T10:38:00-05:00",
+   "minutes": 10,
+   "subject": "Inspecciona zonas afectadas por lluvias.",
+   "lugar": "Asentamiento humano Ampliación El Canario, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
+   "state": "posando",
+   "place": {
+    "name": "Asentamiento humano Ampliación El Canario",
+    "full": "Asentamiento humano Ampliación El Canario, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
+    "city": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-06T10:05:00-05:00",
+   "end": "2026-11-06T10:20:00-05:00",
+   "minutes": 15,
+   "subject": "Supervisa albergue para damnificados instalado en la Institución Educativa N.° 098 \"El Gran Chilimasa\".",
+   "lugar": "Asentamiento humano Nuevo Aguas Verdes, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
+   "state": "posando",
+   "place": {
+    "name": "Asentamiento humano Nuevo Aguas Verdes",
+    "full": "Asentamiento humano Nuevo Aguas Verdes, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
+    "city": "Tumbes",
+    "lat": -3.48632,
+    "lng": -80.26423,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-06T09:30:00-05:00",
+   "end": "2026-11-06T09:50:00-05:00",
+   "minutes": 20,
+   "subject": "Inspecciona albergue temporal Villa Primera.",
+   "lugar": "Asentamiento humano Villa Primavera, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
+   "state": "posando",
+   "place": {
+    "name": "Asentamiento humano Villa Primavera",
+    "full": "Asentamiento humano Villa Primavera, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
+    "city": "Tumbes",
+    "lat": -3.48414,
+    "lng": -80.26422,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-05T22:06:00-05:00",
    "end": "2026-11-05T22:32:00-05:00",
@@ -491,9 +539,26 @@
    }
   }
  ],
- "agenda_minutes_7d": 909,
+ "agenda_minutes_7d": 954,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "201b595752dd",
+   "title": "Keiko Fujimori llegó a Tumbes para inspeccionar albergue temporal y hospital de campaña",
+   "excerpt": "En su viaje N° 28, la mandataria estará acompañada de los ministros de Salud, Luis Dyer y de Defensa, Rafael Belaunde, el jefe de Indeci, gobernadores regionales y autoridades locales.",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-llego-a-tumbes-para-inspeccionar-albergue-temporal-y-hospital-de-campana/",
+   "date": "2026-11-06T15:40:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
   {
    "id": "ea8605f5a868",
    "title": "Luis Galarreta: “Cuando veo los 100 primeros días de Castillo y Kuczynski y miras hacia atrás, nosotros hemos avanzado bastante bien”",
@@ -1158,17 +1223,6 @@
    "state": "celebrando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "481a8bc5768d",
-   "title": "🔴 EN VIVO | KEIKO FUJIMORI: Balance de los primeros 100 días | Correo",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2o5d01ibnNLZ1NVcmF5Nm5XSVNYc0x3QVhiUElRXzk5ZTU3NnZCYm42YjJBYjd4V1Q4bkVUNThvcFZRRDJKY1h4Ykw0UkdEZXBOOTdnS1poVFBBRndlTHRFRDNnS2lSMkJLblVhLTRpVjJEeHNvUWJvSHRXRFJVLUxpODdDbGNlMzJVM2wtVFJiTS05NWJBVnZUMFpsYS1YZnNV?oc=5",
-   "date": "2026-11-05T21:04:40+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1260,6 +1314,18 @@
    -11.69678,
    -77.11161
   ],
-  "distrito de ancon, peru": null
+  "distrito de ancon, peru": null,
+  "asentamiento humano ampliacion el canario, distrito de aguas verdes, provincia de zarumilla, region tumbes, peru": null,
+  "asentamiento humano ampliacion el canario, region tumbes, peru": null,
+  "asentamiento humano nuevo aguas verdes, distrito de aguas verdes, provincia de zarumilla, region tumbes, peru": null,
+  "asentamiento humano nuevo aguas verdes, region tumbes, peru": [
+   -3.48632,
+   -80.26423
+  ],
+  "asentamiento humano villa primavera, distrito de aguas verdes, provincia de zarumilla, region tumbes, peru": null,
+  "asentamiento humano villa primavera, region tumbes, peru": [
+   -3.48414,
+   -80.26422
+  ]
  }
 }
