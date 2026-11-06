@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T14:32:09.194887+00:00",
+ "generated_at": "2026-11-06T14:54:13.048844+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,24 +96,26 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Congreso",
-   "city": null,
-   "lat": -12.04814,
-   "lng": -77.02636,
-   "abroad": false
+   "name": "Tumbes",
+   "lat": -3.566,
+   "lng": -80.451,
+   "abroad": false,
+   "city": "Tumbes"
   },
-  "source": "Infobae",
-  "date": "2026-11-05T18:04:00+00:00"
+  "source": "RPP",
+  "date": "2026-11-06T14:30:01+00:00"
  },
  "next": {
   "place": {
-   "name": "Madrid",
-   "abroad": true
+   "name": "Tumbes",
+   "lat": -3.566,
+   "lng": -80.451,
+   "abroad": false
   },
-  "source": "Infobae",
-  "date": "2026-11-05T14:22:00+00:00",
-  "title": "Keiko Fujimori oficializa cancelación de viaje a Madrid por emergencia de lluvias en el norte del Perú",
-  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5"
+  "source": "Revista Caretas",
+  "date": "2026-11-06T14:09:51+00:00",
+  "title": "Keiko Fujimori viaja a Tumbes a supervisar albergues y hospital de campaña ante lluvias",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFp1WFVUcHdwZXVTSExkdE5zNUtwZ1Q5amd1NlRDQ0hvX0R5b0VacXpuYUVjWVlPQVp1S280a1lTRkdLUHQyLVR4UEF3Ump2TjExZTZJN0Fmby1PWkk0SE9VTkh4RjNMSGxWRXNBRDRFYkpIVTBBMDA3Zm9rSUtHS0FrVnZTUTFJSzhSa1hYM29rUGFNLWgtQW81amNVNzlkaW5sY1VMejA3QmlvZEg4bUJwV05rcEE?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 5,
@@ -493,6 +495,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "965d4493e42d",
+   "title": "Presidenta Keiko Fujimori llegó a Tumbes para supervisar acciones del Estado frente a lluvias",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZDBEOFNvTm9pTW1zZnRWSEY1dkFoWXVCNkI5N21zNVF5RWVCWm14dERXMm5PVlEzV0doWXFkTFJnN3Z6VnBqYlRPNTdyVjVhV0FfU0JVeVdvSEVIdkUyNzRwMWEydnV3Vi1aRHlOOFY0V05qZUZ0VnBxSHVGWEpwT0NxWVJVM0hmVTZORk1xcUFqLW5sRkhQeWxScUQza081MEZPRE9qSGRxbzZReVQzQkpSUkRIc19MdUhrOFY4TUJQaFpianhHSlpsVmRYRW5ZeW9JN0FCdEhsbW8?oc=5",
+   "date": "2026-11-06T14:30:01+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "c5d896d6315a",
    "title": "Keiko Fujimori se contradice: \"En 100 días no se resuelven los problemas acumulados en años”",
    "excerpt": "",
@@ -513,6 +532,22 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "e09808fbe166",
+   "title": "Keiko Fujimori viaja a Tumbes a supervisar albergues y hospital de campaña ante lluvias",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFp1WFVUcHdwZXVTSExkdE5zNUtwZ1Q5amd1NlRDQ0hvX0R5b0VacXpuYUVjWVlPQVp1S280a1lTRkdLUHQyLVR4UEF3Ump2TjExZTZJN0Fmby1PWkk0SE9VTkh4RjNMSGxWRXNBRDRFYkpIVTBBMDA3Zm9rSUtHS0FrVnZTUTFJSzhSa1hYM29rUGFNLWgtQW81amNVNzlkaW5sY1VMejA3QmlvZEg4bUJwV05rcEE?oc=5",
+   "date": "2026-11-06T14:09:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false
+   }
   },
   {
    "id": "624ec0b63057",
@@ -620,6 +655,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/balance-100-dias-de-gobierno-que-obras-de-infraestructura-se-reactivaron-noticia/",
    "date": "2026-11-06T11:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6224d6eeefba",
+   "title": "Keiko Fujimori cumplió 100 días en medio de reclamos de sus propios votantes por inacción ante el fenómeno del Niño | Al Vuelo",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcXNhSmFtQ3VsSUZEZk5yWFpQZ1hEUXk2NVl1aEdXOC1xUFAtZGYwUUtfMWdZa3p1dU5uNHZ1ak11aGw0em5xcnhuaExOa0lNVjhSamg3M1RLelBWVmlDN2pBUk9GX3hJeDlmMEpzTEsyaHh2aVYxSHU3RWJoYTBSVC1TRUFFOTVIaEoxMDR0UkoyTUhuUXFkRDdqUFJ6R1ZBbFQ0REM3QUlMNFl6Q0ZWdVh0b3g3ZEpIR01wblp3aDdyTW1NdF9rQUFTeDN2M3M5dFdVbndYd1o5aDNQdmlqajZyd1c5UQ?oc=5",
+   "date": "2026-11-06T11:14:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1124,42 +1170,6 @@
     "abroad": false
    },
    "next": null
-  },
-  {
-   "id": "fb17595f86b5",
-   "title": "Primeros 100 días del gobierno de Keiko Fujimori: Solo se cumplieron 6 de 68 promesas iniciales (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDRPS3pFNG1oUWE5cURMWlFYekJxcTdJQ0lMcWFneXNOUmhQd1pTeERpRGNFb3hRaW9WTTBOYnFiYVMxbG5JWmxXY0d2OExRZGc5Y3hSX0RBUElVOFh1S0hXdm1YUUctUENVQ3hpUldNbUtHYjViSHFSVGNseE9xTjdoVzRjd0g0MkZsdW5kQTVUa1d5RjUzd0VTNWlGVnY3Q2tZekxYRmF3Y1N0T0xSeWFwS2UtTUM5dkhLZ2JNTWNDSGtJS0E?oc=5",
-   "date": "2026-11-05T17:57:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "76a685daa9f5",
-   "title": "Keiko Fujimori cumple 100 días de gobierno: ¿Qué medidas se concretaron y cuáles siguen pendientes?",
-   "excerpt": "La gestión de la presidenta cumple sus primeros 100 días con medidas ejecutadas en seguridad, prevención ante el fenómeno de El Niño y apoyo económico, pero también con promesas que…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc09qQVNGZUtZVE1XQnNUZEJSeVNYdHFZeVF2UDdoQVNiMnNER2dVUVJOcDFCUFFjLXN0NGdZTklWM1l0YUN5OG5SNVBsbFpaTll6Umh2YlRmMEtTcVpNc2JITGZaYmJMSkhxdi03UU1HQnFJOHpkT01PX2xpWGJyU29sUGxCbGd3OXVZLVZlMDlsRVk5RTg5Um1GQThXbFhUeUhCSG5CRVhsLV9OWE1sR3d4RVVoZ2F1ZS1WQTI1RjJLbDN4aldxV2M0VVNjdngzT04w0gHuAUFVX3lxTFBFYkxubTUyWGFhVmJKTXM5X1FScFBiRFQzWGRGb0ZDRTRMNDJ2RTBJU1luaE5JTkJBd1pqU3BFVDBlbUJZdUtENzhxZU1NX2ZhOXJMbzRsMFdQQ3dTVXNOOVZfZC0tbTFOMEZTdWFmY25vRUhmdHhrMFdJOEFTZ19YcHRtVnVOWGswNzM1R3ZEMHB4MHBEYnprdzZHU3IzZ0dXRnFmT290ekpsTVlEYlhqbkJBZllxSHZsVEZhQ19mekplZmhUUmhzM2g2ajFuMjN3bUF0WHpSUjl1OW1VbFA2dGhPRTZ4R21aTUhfUlE?oc=5",
-   "date": "2026-11-05T14:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "73f37d1ff34f",
-   "title": "Keiko Fujimori oficializa cancelación de viaje a Madrid por emergencia de lluvias en el norte del Perú",
-   "excerpt": "La mandataria tenía previsto participar en la XXX Cumbre Iberoamericana de Madrid. Tras desistir de esa visita, el Gobierno modificó los periodos de encargatura de Luis Galarreta y Rafael Belaúnde.",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5",
-   "date": "2026-11-05T14:22:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Madrid",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
