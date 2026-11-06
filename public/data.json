@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T21:47:53.043704+00:00",
+ "generated_at": "2026-11-06T22:09:47.531906+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "RPP",
-  "date": "2026-11-06T20:30:28+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-06T21:53:10+00:00"
  },
  "next": {
   "place": {
@@ -591,6 +591,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "83c37fab282b",
+   "title": "Dengue en Perú: Keiko Fujimori pide a padres vacunar a sus hijos ante temporada de lluvias",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUFBYNlRqUFhLNUFfd3dnbnZRbTFtWnh0a056RU9zbkpDNE5FVmNPSUhIZ0Y0LWJTMU00MS0tNXdMLWI2YU1VMzRLRElGR2dWTHI0YmFfU1B5RGNNbXYwVEtNT2drSGlDSVZSQlZJRkpESThtUW05QUh2Z0o5RGEzMUdDTVNiYlc4R1RqUUZwcDZhQTFlSnBmWXlmOVBBMDR0bWxqQ0F1bW8yZEtlRnJpb3d3dWw0bThway14emhYOTlJU2JrQkV4UWhYOGlIekdnYndQLTRUSE94ZWxwR1BvaTdSV3dacmM?oc=5",
+   "date": "2026-11-06T21:54:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0a41f4525eac",
+   "title": "Presidenta Keiko Fujimori supervisa albergue temporal y hospital de campaña en Piura",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNVlHbkt0S1pSMnpyeGhtS1RsV2FCa2RFX3h0NWNvWWJtYUozM0VzM0Q0Sy1rRVowSnl4bDk1OTZaMlRKbGJSZTZOY04xNzNpRWJZMHpvdlcydEI2UV9JUjl1M2hFNFdfVG1nS3AyR0hwNGdwbTBYV0NGemNmb044STZ0RVNOYWtfc2kxUzR1QThKTThPZ2d0eTBIS1dxM25Tc3FhN1ZySVd6bVJyamVnUDFWWjBrV18zdW1MdUhWQU4?oc=5",
+   "date": "2026-11-06T21:53:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "e34953784c06",
    "title": "Gobierno destinará S/ 7 000 millones para destrabar proyectos, entre ellos cinco pendientes en Piura, anuncia Keiko Fujimori",
    "excerpt": "",
@@ -667,7 +695,7 @@
    "title": "Keiko Fujimori: “Siempre se pueden hacer mejores cosas, con mayor rapidez\"",
    "excerpt": "",
    "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmJ2U2ZPMzlQYUpMRWxXMjl2dTM3ckJuaGhVY25ub0FQQXlaNGFQclF1b3JJREJ4LTN2Mnk1ZUxOYWhSZFpudkpKS2ZodVBlOWJDbHJUUkZpMm9IOHZBaVkzekVDTGxkNFRDa2Z2dEF0cUtBbjJPVy1iUEgzXzBoZzZJTHFKVHEySHNVRW9tMTBpVnJkeHdxdXhZVktndGZVTEVobA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVFGMDFNYkNQdENHdEhmNVNGNTlsR0NpRDJ5dHVJaXFrTDFFMFI2eFVMOXdzVEdweXczVHNWUmc5QXlBTXRNMTctbW1tQ2RhMVJ3SndyYUdvTWVIVHEzN1FweG9LSEZqOHBFLTBoTDVBeVNQWHktQk11MWw4dlo1QmhkcmZ6WEprenlzaHRZU0pxeWU1NC11YTF4RmtSQms?oc=5",
    "date": "2026-11-06T19:29:21+00:00",
    "state": "posando",
    "place": null,
@@ -1276,28 +1304,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-100-dias-de-gobierno-cifras-anuncios-y-balance-de-su-gestion/",
    "date": "2026-11-06T04:42:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "63f03c114b86",
-   "title": "Keiko Fujimori: “En 100 días no se resuelven los problemas acumulados en años”",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMERpUGJsN25kMW9DU29nN0g2dE53SHdLamtxQmJkV1lYb2tDWF95dTJlZDFNeU5oUld3U1Q4TXdMaTZTeEJPcklfV3VYd1ZXOF9lQ0twMmVYZTBocG9qY2FLZWZFeTY4SDFNTHFGVHdvMTAwN1A4ZkphMkFtR085UTEyMGNxbzMyM3dTUlB4YlVhM3JOVFBfc3pRcGs4ZnVuaVBuUlI1VF9peWFBblhQX2JURTBwRWZn0gHMAUFVX3lxTFBtdE0wa3FIZURYZDNNMEhJOUhyTE5jMlphX19KZEhTWWhwU1BWcHJQT0JFS3VsRjRoRTR5Y1hkdmhCU1FXaHlYNHlfMzJBUGEySWFIQ1AtN0pYNFhRdVBBMTZEV3lTSV9FSDcwaXVYUXFYVjBETTZLMkp5b0E0U3VZWm9EenZzck1Hc1Bib01DNmtOVWRJNFM4dHI0UHdPbjJUV1MtWk5JNEVWZGRkc25aMEJYYWsyT011TjFGT3hKbWtOYzlqUkdFZDRlWQ?oc=5",
-   "date": "2026-11-06T04:30:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6a48de1c19e2",
-   "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión | PERU",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dLWWRFcXhFbWYyTXpGLTFLMXEzNnp4c0tkQUUzelB2LVVBZlJwOHNsMGp3WGhpV0hGNTFSblNtWUdPT2FyaS13VzBSZUcxWlBHa3dydWFKVmZ2YUkweHo2MjVkeEhadi10cWozam9paFdHWXRIenVqTDU0TXdIU0YxNXV3SzRWZmVteWdlS1JNZ3RoaVo3UTBEUmxLbmxFdGpFdXJTNzEwUVVoM0gzRHhkSjZxZkE?oc=5",
-   "date": "2026-11-06T04:25:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
