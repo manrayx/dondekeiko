@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T06:12:29.341524+00:00",
+ "generated_at": "2026-11-06T08:23:14.757776+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,6 +493,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c76464a3ad69",
+   "title": "Fenómeno El Niño: Keiko Fujimori reporta 77 puentes Bailey, 13 mil militares y 7 mil toneladas de ayuda",
+   "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta aseguró que el país cuenta con maquinaria, puentes y ayuda humanitaria para atender a las poblaciones que puedan…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/fenomeno-el-nino-keiko-fujimori-reporta-77-puentes-bailey-13-mil-militares-y-7-mil-toneladas-de-ayuda/",
+   "date": "2026-11-06T08:13:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a4f9459a82a3",
+   "title": "Presidenta Keiko Fujimori brindará esta noche un balance de su gestión",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWFKMW1UNGdoR2xYd0dFVkdBTWRWR25SSTlJdlEyV3FFYW4xYjg1SVhhYU5hWEsxY1FmN0xPU0ppMFA4eE1TYlBBUkVjejNNYlVQX1N4ZFRNUVpJQnVadEhhNEpZcHZaRTk1T2xQQW1xUU9rMWxJUk8zR2FUQ2p0VEZOWjdmTEExbGZ5ZktwMDlZWkgyUU9CWmJfOW1jb3ZSVnhKdFBHd2JXRjh0WkJ3Z19NOGI?oc=5",
+   "date": "2026-11-06T07:49:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5c04ca7a63fb",
+   "title": "Keiko Fujimori presentó balance de gestión: No hemos vencido al crimen aún",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUxGUmkza3hFSzZqcm9XWk1rSmJCVlpZY0NuSlFBNUo2OHRRbjBtek9EbGJHSUFzZmdSV2RhRGNuQXNEdGpveW9CNnp4bDNoMkdPS2hpYUwwYldKdVJUUlNDR1BKQkhRTjIxTnB4Ti1kR1dUMkE0YjNVck1fZXcwcVBBMWZ1cFFCNk5wT2lGYmVNal9CYXNTZA?oc=5",
+   "date": "2026-11-06T06:44:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d5c70b67a2db",
    "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
    "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
@@ -823,17 +856,6 @@
    "next": null
   },
   {
-   "id": "a4f9459a82a3",
-   "title": "Presidenta Keiko Fujimori brindará esta noche un balance de su gestión",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWFKMW1UNGdoR2xYd0dFVkdBTWRWR25SSTlJdlEyV3FFYW4xYjg1SVhhYU5hWEsxY1FmN0xPU0ppMFA4eE1TYlBBUkVjejNNYlVQX1N4ZFRNUVpJQnVadEhhNEpZcHZaRTk1T2xQQW1xUU9rMWxJUk8zR2FUQ2p0VEZOWjdmTEExbGZ5ZktwMDlZWkgyUU9CWmJfOW1jb3ZSVnhKdFBHd2JXRjh0WkJ3Z19NOGI?oc=5",
-   "date": "2026-11-06T01:23:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "02258b363194",
    "title": "EN VIVO: Keiko Fujimori presenta esta noche balance de los primeros 100 días de gestión",
    "excerpt": "En un mensaje a la Nación, la presidenta de la República, Keiko Fujimori, realiza un balance de los primeros 100 días de su gobierno, mientras los índices de criminalidad y…",
@@ -1136,28 +1158,6 @@
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN2wzajBlQW5UOWtEQWp2SjQyNmdFb0ZXOEJieGtvSEFQQ2dlM3M5VEN1ZEx6V1ZVbUs4VkpkYnhLeWJSMGtJdzVWR0hVbHYtaTF2NDlOeXMteWFUZmNDbGZHWF9GcDBzLTZXbFpObkF4VVphcVVaTU9VZjd3TmltajkwVG5uZ2tINHRtUDN4akhVQVFFY1diVTlOVVdTYnZ2NDNGbXkyOVhXSWMzOF96aEtqRXo0VG9YaG1ETUkxcHdCbW9SV2hOLW81YzMyYjZWVTF3dUpYeFFKVjFzT21mTzVGcTllR3dXejBjeNIBhwJBVV95cUxPTWw5dW43Vy02YWljV2lfWWRtRXJLNnIxNDhrVFJma2c5Nk83TUJnTUVnR3FNLXBTTndpRmpGSnZTV2tQa0R3RU1UVHJPRjJCTUpiT1czcVcxdXowV0FCMU1CR20tZlZZQlgyaG1xUWhfNjZ6X3VPWXBIdDktWUFXMUdWVjRtQUlDTnFJLVpIdFZ5dHBFZVEyMXVveUM5MlNOM3N2ekw5N24wQnNfM3ZOVXRaV2dFZ1hMZU0wOFBMOEVOa0o3V3lZSG1VbzJ2OWJOTTdFX2UzYm12SF9ZUnF4SUFUb0R5UThqSFpDMkNSSUxaUHJrTHpmZkM2QzVzWXFLYkNUaWtBSQ?oc=5",
    "date": "2026-11-05T11:00:00+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ddb081b9a2fd",
-   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
-   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
-   "date": "2026-11-05T07:35:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6821e600d248",
-   "title": "Sheput: Liderazgo de la presidenta Fujimori es lo que distingue a sus primeros 100 días",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckUyNHllOGQxck5wVnl5NE5oVGZfd0I3WnZQY3IxT1d3OUFsdTNPUW9vbFdqaWZjaDFOYzBvdGltTVlXdkY5aW1SS01zaHVsY1JvQlRSN3FRQWRRcTVYX2FCNVRnZG5kYS1MYVhpckd5d05EX2xKMEtEYy1RNmtOcUlWVG5XV0hpemNjS0dtbXVrUFJ5cjV5eUc2Q2tXb2l3dGRVZ1MwLXVFRF9GdUxSaUlYY01ZdzBaX0dHUFZpREhaaDJzRFE?oc=5",
-   "date": "2026-11-05T06:02:58+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
