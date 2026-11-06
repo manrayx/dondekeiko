@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T04:45:29.373997+00:00",
+ "generated_at": "2026-11-06T05:06:52.094946+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 6,
+  "transmitiendo": 5,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
-  "triste": 3,
-  "posando": 50
+  "triste": 2,
+  "posando": 52
  },
  "total_7d": 60,
  "silence": {
@@ -487,94 +487,44 @@
     "lng": -71.78126,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-29T18:39:00-05:00",
-   "end": "2026-10-29T19:37:00-05:00",
-   "minutes": 58,
-   "subject": "Declaración Conjunta con el presidente de El Salvador, Nayib Nukele, tras firma de acuerdos bilaterales en diversas materias. (Hora local)",
-   "lugar": "Casa Presidencial, San Salvador, El Salvador",
-   "state": "posando",
-   "place": {
-    "name": "Casa Presidencial",
-    "full": "Casa Presidencial, San Salvador, El Salvador",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-10-29T18:00:00-05:00",
-   "end": "2026-10-29T18:35:00-05:00",
-   "minutes": 35,
-   "subject": "Reunión con el presidente de El Salvador, Nayib Nukele. (Hora Local)",
-   "lugar": "Casa Presidencial, San Salvador, El Salvador",
-   "state": "posando",
-   "place": {
-    "name": "Casa Presidencial",
-    "full": "Casa Presidencial, San Salvador, El Salvador",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-10-29T13:00:00-05:00",
-   "end": "2026-10-29T14:30:00-05:00",
-   "minutes": 90,
-   "subject": "Supervisión de los trabajos de limpieza y descolmatación del río Tumbes, que registran un avance del 89%, equivalente a 1219 metros de cauce intervenidos.",
-   "lugar": "Sector La Inverna, distrito de Pampas de Hospital, región Tumbes",
-   "state": "posando",
-   "place": {
-    "name": "Sector La Inverna",
-    "full": "Sector La Inverna, distrito de Pampas de Hospital, región Tumbes",
-    "city": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-29T11:00:00-05:00",
-   "end": "2026-10-29T12:30:00-05:00",
-   "minutes": 90,
-   "subject": "Inspección de los trabajos de limpieza de vías de acceso para prevenir el aislamiento de localidades ante posibles deslizamientos.                                        Reunión con la autoridad municipal.",
-   "lugar": "Distrito de Casitas, región Tumbes",
-   "state": "posando",
-   "place": {
-    "name": "Distrito de Casitas",
-    "full": "Distrito de Casitas, región Tumbes",
-    "city": "Tumbes",
-    "lat": -4.09075,
-    "lng": -80.68848,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-29T09:30:00-05:00",
-   "end": "2026-10-29T12:00:00-05:00",
-   "minutes": 150,
-   "subject": "Visita y recorrido por el Centro de Confinamiento del Terrorismo (CECOT). (Hora local)",
-   "lugar": "Municipio de Tecoluca, departamento de San Vicente, El Salvador",
-   "state": "posando",
-   "place": {
-    "name": "Municipio de Tecoluca",
-    "full": "Municipio de Tecoluca, departamento de San Vicente, El Salvador",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
   }
  ],
- "agenda_minutes_7d": 1332,
+ "agenda_minutes_7d": 909,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-06T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "af468a598e5e",
+   "title": "Keiko Fujimori sobre facultades legislativas: \"Haremos buen uso de ellas, pero no bastan para atender todos los problemas\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV0dMT212TTFvdFR3aE9YeE9NVjNVTm1FSDdjUWcxVHY2Zl9ocFVnWXhrREEwbVViTGo2blpFeDlmTWNDSl96RV9xcF93RmFDWnlkNmNLT210V0g2UjdmOWN6Smc1TmdaTC1neUhWcGhISjUxSkgxMUNTdnZ0bkl1OGZBUFhMLUQyOThaZXdfbTRqU3FENTFpcGMtbnNrZ3ljWnlHRC0zWXhKekJ4MzcxZk5pekhBYkVudEk3cVJiTkp4SFhkMzNTTWVFRFVVTkdOU3pOQ29FdW5CS0tQZTFfNjNzNFVXeWFtci1XR3lqNjlpSl9US1FlTWxyWQ?oc=5",
+   "date": "2026-11-06T04:53:57+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d5c70b67a2db",
+   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
+   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T04:47:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "e51feb5410e5",
    "title": "Los 100 días de Fujimori: Gobierno destaca recuperación de la confianza económica",
@@ -587,23 +537,34 @@
    "next": null
   },
   {
-   "id": "d5c70b67a2db",
-   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
-   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T04:31:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "5500cedbe41f",
    "title": "Keiko Fujimori presentó balance de sus 100 días de gobierno en Mensaje a la Nación: qué dijo sobre seguridad, El Niño y economía",
    "excerpt": "La presidenta presentó los resultados de su administración en materia de seguridad ciudadana, prevención del fenómeno El Niño, economía y obras públicas. También reconoció las dificultades pendientes y ratificó las…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-100-dias-de-gobierno-cifras-anuncios-y-balance-de-su-gestion/",
-   "date": "2026-11-06T04:31:40+00:00",
+   "date": "2026-11-06T04:42:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "41a3b4c3f879",
+   "title": "Keiko Fujimori en mensaje por 100 días de su Gobierno: \"Tenemos avances que mostrar y también dificultades que superar\"",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX1ZENU94UC03QjZwU1l3VDV0MDdHbEVpWGF6THhfNXRTOGgyOTZsTFRBdGV1X2diRTdRYW9pakcyTVFhbHZqWkxIdzhwMFFYdU9VMFdXY3c2TDRqRzZTMTg2VGk5c2pPempnRlM3c3IzVjRla0ljLWRrSjctei1fanItbGlyTlhFcDZwQW5va19mVkI5eVZhanl5ekg2dW92WDRwSVBpZHJZVjltajVuYVFvbEFFeEhsZ3Nhc2REVEJuOUJwaVB4QThsb2JhZ1hVSXk3Q19qMHVLYUh6SUo4QW9KQW9fbHlMVEVsZw?oc=5",
+   "date": "2026-11-06T04:39:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6a48de1c19e2",
+   "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión | PERU",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dLWWRFcXhFbWYyTXpGLTFLMXEzNnp4c0tkQUUzelB2LVVBZlJwOHNsMGp3WGhpV0hGNTFSblNtWUdPT2FyaS13VzBSZUcxWlBHa3dydWFKVmZ2YUkweHo2MjVkeEhadi10cWozam9paFdHWXRIenVqTDU0TXdIU0YxNXV3SzRWZmVteWdlS1JNZ3RoaVo3UTBEUmxLbmxFdGpFdXJTNzEwUVVoM0gzRHhkSjZxZkE?oc=5",
+   "date": "2026-11-06T04:25:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -763,12 +724,12 @@
    "next": null
   },
   {
-   "id": "6a48de1c19e2",
-   "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión | PERU",
+   "id": "616eb0921a2f",
+   "title": "Keiko Fujimori brinda balance de sus primeros 100 días de gobierno | VIDEO",
    "excerpt": "",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dLWWRFcXhFbWYyTXpGLTFLMXEzNnp4c0tkQUUzelB2LVVBZlJwOHNsMGp3WGhpV0hGNTFSblNtWUdPT2FyaS13VzBSZUcxWlBHa3dydWFKVmZ2YUkweHo2MjVkeEhadi10cWozam9paFdHWXRIenVqTDU0TXdIU0YxNXV3SzRWZmVteWdlS1JNZ3RoaVo3UTBEUmxLbmxFdGpFdXJTNzEwUVVoM0gzRHhkSjZxZkE?oc=5",
-   "date": "2026-11-06T02:55:02+00:00",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjA2eVRHWWJtZzBvMEVUZndKLWU0cU00SFE0LVVuU0ZKWElveHh6cHZUX2MxbU5XZVZXWWtiREItMVpsbE50aVY0RWpRcmFPZXN3WmZwbnJaMkJvNEIwZmlKejRZZVhOOEthOXR5d3d3QmQ4d2Ffa3VVVXNTT2trSnU2emFwMDBPYVY3Qjl3RTVCakNUNnFiSzJzWTJzRGFySW52cnNMd0VFWWVNeHdSNUZQXzJ4Z1VRVXZwZ1R5WlFxNS1fN0NmdE95c9IB3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw?oc=5",
+   "date": "2026-11-06T03:28:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -842,6 +803,17 @@
   {
    "id": "0bb852e98dbf",
    "title": "Keiko Fujimori ofrecerá un mensaje a la Nación esta noche",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnRQVk9hakZ3M3BSdXJHWm9EMWdzelVIem96S0VmRjJfMVY0RXl4WURxcFRneEhQc29uWWF0cmVKRTZIZjJNc1BYNGQ0c2l5UnZ4YkJmNnVOTTJ5Mk03MC1DUmpNSTdULWtROUdTaHl5S3dqN0s2bVhvYnp5UXZkS0l6WTNPN1V5dWJRVFVnZGgxdEd0bWJZaw?oc=5",
+   "date": "2026-11-06T01:14:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4538d071acff",
+   "title": "Keiko Fujimori ofrece balance de sus primeros 100 días: \"Estamos trabajando por el Perú que todos anhelamos\"",
    "excerpt": "",
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnRQVk9hakZ3M3BSdXJHWm9EMWdzelVIem96S0VmRjJfMVY0RXl4WURxcFRneEhQc29uWWF0cmVKRTZIZjJNc1BYNGQ0c2l5UnZ4YkJmNnVOTTJ5Mk03MC1DUmpNSTdULWtROUdTaHl5S3dqN0s2bVhvYnp5UXZkS0l6WTNPN1V5dWJRVFVnZGgxdEd0bWJZaw?oc=5",
@@ -1187,73 +1159,6 @@
    "date": "2026-11-05T02:08:29+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "af12f130a030",
-   "title": "Presidenta Keiko Fujimori: nuestro objetivo es reducir la anemia a la mitad",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT09TNEpCZVIyX2RmdTM5TE14cnBxZzRHdnBQcTVRSTUtamdJRmgxUlpjcVU3aEFQNmZMQ1dYLXdlV01qNWZWRXlaM3RjNTk5eDlmMEtYc2VBMUYxNTRYMENqSmZiV0hCR3VVYVc4d0czeVBtRGZ4a3VMTlFJTVVzRVR1VDNqOHdHbHFLZmdaNzlyQVZjZUE2N0JVNnpVQktZdDJFa2lDS3hpU0tkZGNOU3EzWUo?oc=5",
-   "date": "2026-11-05T01:59:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c51d549cb135",
-   "title": "Presidenta Keiko Fujimori lideró la firma del Pacto contra la Anemia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjhuZ2VEaWplRGFrMzV4RGVUTk9NU1UzeExIa2t4aFlJM3hjOXJtRkxEQ3NQUmNIZzJiQUtPZ2tRSEdFbnBYejZWUHBQZHBhY014eTROM1hQQjY3OWo1OEpKMkdOWkJCdGREblBSc25GRHJ4dG1DblZFOFpEdUxEX3EtUllhM1drOGxFQV9TS19vRmlfdlYtREtnR0VROUpsaGczWHJYdFVybWc?oc=5",
-   "date": "2026-11-05T00:02:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0dace513e56d",
-   "title": "\"Son una tira de inútiles\", criticó Jaime Quito a los ministros designados por Keiko Fujimori en los 100 días de gobierno",
-   "excerpt": "Desde Arequipa, el senador indicó su posición a favor del cambio de ministros, al no presentar soluciones concretas para la población en más de tres meses.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/04/son-una-tira-de-inutiles-critico-jaime-quito-a-los-ministros-designados-por-keiko-fujimori-en-los-100-dias-de-gobierno-hnews-219960",
-   "date": "2026-11-04T23:26:39+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Arequipa",
-    "lat": -16.409,
-    "lng": -71.537,
-    "abroad": false,
-    "city": "Arequipa"
-   },
-   "next": null
-  },
-  {
-   "id": "e55592d04bb4",
-   "title": "100 PRIMEROS DÍAS DE KEIKO FUJIMORI: CONFERENCIA DE PRENSA EN VIVO | El Comercio",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ1h6WUJ6ZWhhMUM5QlB5S0NvYkxTRnlWajYybjZ2M2hsYXNUa1V0QXlvNmdaM3cxQkFhaGRZVVE4dUxyXzMtY00wandwOWE2VkdFd2xVdUxtNkVwVV9lcmRBbGxiZkhXSEp4MkRrVWhkYkMyZTNjUUtrVi1TVVFrQXRWNTdEWV9KSjUtemx4Z3dKeXBBejZnbENxMmxxLVAwVGRMdUtnWEdOZ0p5Y2otMTc4Z013R3c?oc=5",
-   "date": "2026-11-04T23:26:06+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "aae6ec8f8bbc",
-   "title": "Ministro Sheput sobre críticas por los primeros 100 días del Gobierno de Keiko Fujimori: “Tenemos una batahola en el Congreso de mala fe”",
-   "excerpt": "Ante las críticas de la oposición en el Congreso, que coincide en que es poco o nada lo que, avanzado el gobierno de Keiko Fujimori en sus 100 primeros días,…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/ministro-de-trabajo-juan-sheput-sobre-criticas-de-la-oposicion-por-los-100-dias-tenemos-una-batahola-en-el-congreso-de-mala-fe-keiko-fujimori-noticia/",
-   "date": "2026-11-04T23:02:00+00:00",
-   "state": "triste",
-   "place": {
-    "name": "Congreso",
-    "city": null,
-    "lat": -12.04814,
-    "lng": -77.02636,
-    "abroad": false
-   },
    "next": null
   }
  ],
