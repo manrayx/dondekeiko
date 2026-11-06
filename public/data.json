@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T05:28:55.820756+00:00",
+ "generated_at": "2026-11-06T05:50:26.015437+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,12 +493,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7f5c290b05b6",
+   "title": "Keiko Fujimori y su plan contra la delincuencia: dos megapenales, reforma policial, expulsiones y control penitenciario",
+   "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta detalló las acciones que impulsa su gestión, entre ellas la intervención de cinco establecimientos penitenciarios, la captura de…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-y-su-plan-contra-la-delincuencia-dos-megapenales-reforma-policial-expulsiones-y-control-penitenciario/",
+   "date": "2026-11-06T05:32:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e8d829565456",
    "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
    "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
    "date": "2026-11-06T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e7b1083965e8",
+   "title": "Keiko Fujimori hace balance de sus primeros cien días de gobierno: “Estamos en el camino correcto y los criminales también lo saben”",
+   "excerpt": "",
+   "source": "EL PAÍS",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNEpIdldMdGNad0RXaDdhWTZleFljY1dyMVNQSU9fNVhQWjRxWTFXREV6TkFXelhBWXpPUjh1RzVOZGVnR2NYYVBjV0lIUERrVmlLdmxWUmd0bWtIX3ZHVF9PLTFJdDdYNWpvcWZ6bUxROFRGMTRlR0w1aFRXc3lmZ1BscWxpdko3MXdEcTl2b0Y4ME1TZkpSMG1sSk9SNHY2eHZyUE5mZlB4TVV3WW5vYmFGYVZNN25FZGd6STM3dy1MY2QwdENYYWtSUVNtdFJhemJLekFKYXdaVFhBUmpYcnR6dWFiM0hGTHFWdnVKRnAyejlmc0V0cndQUHMxZ0JVa2fSAZYCQVVfeXFMTXN0QWZ4aTI0UVpzTU5SUFo5NXpKeVZHdzJkS2xUNWR2dEsteENaNW9PMk1lMm4zQWNQM19pUlFRaTV2TG04QkJGX3pycDl5amJUeW5Ibk1fVmRHSTlvZllMLVk1YVBhQnZTYzNrWXV4SDhaVEZ6TFJTYW9PNFhuWlZsQ3VDeGx4RElxb2lYTnhOM0xsV1VLRnQyekM5eXhqdm01alJNRXprWlVmTnFGU2l6elZHYWtPaDY3VU05UUQ3SGt5ekl6TnFIekpTcDEyMmZJSWRraXRWaXF5ekVTZVhKVVA5emhfcGhOdTlnSzlBSVNxWDlXcFFVOFB6X2tGVVhVclBodDFUZTRvOFRaZXJJOHF3dWc?oc=5",
+   "date": "2026-11-06T04:54:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -548,12 +570,12 @@
    "next": null
   },
   {
-   "id": "41a3b4c3f879",
-   "title": "Keiko Fujimori en mensaje por 100 días de su Gobierno: \"Tenemos avances que mostrar y también dificultades que superar\"",
+   "id": "63f03c114b86",
+   "title": "Keiko Fujimori: “En 100 días no se resuelven los problemas acumulados en años”",
    "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX1ZENU94UC03QjZwU1l3VDV0MDdHbEVpWGF6THhfNXRTOGgyOTZsTFRBdGV1X2diRTdRYW9pakcyTVFhbHZqWkxIdzhwMFFYdU9VMFdXY3c2TDRqRzZTMTg2VGk5c2pPempnRlM3c3IzVjRla0ljLWRrSjctei1fanItbGlyTlhFcDZwQW5va19mVkI5eVZhanl5ekg2dW92WDRwSVBpZHJZVjltajVuYVFvbEFFeEhsZ3Nhc2REVEJuOUJwaVB4QThsb2JhZ1hVSXk3Q19qMHVLYUh6SUo4QW9KQW9fbHlMVEVsZw?oc=5",
-   "date": "2026-11-06T04:39:27+00:00",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMERpUGJsN25kMW9DU29nN0g2dE53SHdLamtxQmJkV1lYb2tDWF95dTJlZDFNeU5oUld3U1Q4TXdMaTZTeEJPcklfV3VYd1ZXOF9lQ0twMmVYZTBocG9qY2FLZWZFeTY4SDFNTHFGVHdvMTAwN1A4ZkphMkFtR085UTEyMGNxbzMyM3dTUlB4YlVhM3JOVFBfc3pRcGs4ZnVuaVBuUlI1VF9peWFBblhQX2JURTBwRWZn0gHMAUFVX3lxTFBtdE0wa3FIZURYZDNNMEhJOUhyTE5jMlphX19KZEhTWWhwU1BWcHJQT0JFS3VsRjRoRTR5Y1hkdmhCU1FXaHlYNHlfMzJBUGEySWFIQ1AtN0pYNFhRdVBBMTZEV3lTSV9FSDcwaXVYUXFYVjBETTZLMkp5b0E0U3VZWm9EenZzck1Hc1Bib01DNmtOVWRJNFM4dHI0UHdPbjJUV1MtWk5JNEVWZGRkc25aMEJYYWsyT011TjFGT3hKbWtOYzlqUkdFZDRlWQ?oc=5",
+   "date": "2026-11-06T04:30:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -730,6 +752,28 @@
    "source": "Trome.com",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjA2eVRHWWJtZzBvMEVUZndKLWU0cU00SFE0LVVuU0ZKWElveHh6cHZUX2MxbU5XZVZXWWtiREItMVpsbE50aVY0RWpRcmFPZXN3WmZwbnJaMkJvNEIwZmlKejRZZVhOOEthOXR5d3d3QmQ4d2Ffa3VVVXNTT2trSnU2emFwMDBPYVY3Qjl3RTVCakNUNnFiSzJzWTJzRGFySW52cnNMd0VFWWVNeHdSNUZQXzJ4Z1VRVXZwZ1R5WlFxNS1fN0NmdE95c9IB3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw?oc=5",
    "date": "2026-11-06T03:28:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "35d8169390fe",
+   "title": "Keiko Fujimori presentó balance de sus primeros 100 días con énfasis en seguridad y prevención ante El Niño",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTRFanhLLVJmb1QtTXZidi1GUFRSdGtBMjhsRnJ4UjRUNTJPQ1JrRzdrWFBWcVZILTZEb2Y1SEt4aEJ1THBQV2hiRGEyNDNXMXJTSF9ieTdKeFZOakdhbC1zU1l6eXduWHd5S2xGMXZkcnU2VUo0Z25ZZ1I0b0ZLOTQwbzJHbkVnZWFFbm9vNXhiX2pNSXU1Y2NJM1MyMWMyT3RQS0ZEZWlkclZHTXFjYUdYUG43cTY5RkFwSGdOM3JtOEw2VUlwcNIB3AFBVV95cUxPeWxmNXE3RzJmalkzMFFUekxIVWd2UXAyVlBtR0FnVVU4eU9GdzJaQzEyRUJUVHduVld4UW1tRU1LWHJEQzNaTU9ETUVsU1VTa3VVc2JqTUFFN3UzWjFQS25iYXQ1M0pPTDQ0aGI1cmVYdTkycVlsWlFYUGxua1FhSndjLTNrMUh5b09keWZRSkV4MmF4YkRZRUMyQ3pGMDRreTRFWUh6VlQzaGVTNkRCeG11VzQ0a0lZMDVVNkptaEtWN1ZEOXBEbE4tUHhLblcxcDlrYWlYNTB0UHlC?oc=5",
+   "date": "2026-11-06T03:11:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "41a3b4c3f879",
+   "title": "Keiko Fujimori en mensaje por 100 días de su Gobierno: \"Tenemos avances que mostrar y también dificultades que superar\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGdLSHZJZkl5TjNFLVhMaGxzNERFTEdlVmtqWWxocnZ4ZVFuQVpOSG5KMktibllJRnp5T290bTdMb1lobXI3dXE2TGI4NjRnUzV2d0F3ZlBDZ0dvZ01sak9vZmNpaWV5REZqaFFUVmtxOXF3cFpiT00yM3hqM0dyMVRudDhXMVJPZ1dXLTdTcF9KcHl0S1JwWW1HNi1oUmNwRk5GcG1iMjUwdmZ0Rk43M2Z6M2NDbE9kb3B3?oc=5",
+   "date": "2026-11-06T03:04:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1113,50 +1157,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckUyNHllOGQxck5wVnl5NE5oVGZfd0I3WnZQY3IxT1d3OUFsdTNPUW9vbFdqaWZjaDFOYzBvdGltTVlXdkY5aW1SS01zaHVsY1JvQlRSN3FRQWRRcTVYX2FCNVRnZG5kYS1MYVhpckd5d05EX2xKMEtEYy1RNmtOcUlWVG5XV0hpemNjS0dtbXVrUFJ5cjV5eUc2Q2tXb2l3dGRVZ1MwLXVFRF9GdUxSaUlYY01ZdzBaX0dHUFZpREhaaDJzRFE?oc=5",
    "date": "2026-11-05T06:02:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d46a76206304",
-   "title": "Presidenta Keiko Fujimori cumple cien días al frente del gobierno: revisión de los primeros días de su gestión",
-   "excerpt": "",
-   "source": "Chimbote en Línea",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMkg1MjBXN0FTbGxpa0xsUjFGZjVFQ2g4aTN0cGp0bEN1ZDFBRHplaVlzMmR0TXV3amtxVjREd1JDR0MzdUFuTkktRW5qUUZPd3JPRjVNdkVodzc1aWVOMDFGTzBpSEFfWjB3bGFnWHFOUFJTbkxHR2t0Q2t0cnEtRWpjWjZMa2hpOVA1RU9ZM05teU91WlZ2bGlTU1BsZktQVDdxRUxreUNfMlFPS1RxdEJnU2d5RDU1ZGRRUHdMUHp5UGQ2TDkzU1cxNUUzRUtzaGt1T2QtMk9NZFNXNERvWktUZnpCeTlHU3JzSURqckVtMk1zRV90aFNjWll6UUFBeE1pczNn?oc=5",
-   "date": "2026-11-05T02:34:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fab6acf5c983",
-   "title": "Presidenta Keiko Fujimori: “Nuestro objetivo es reducir la anemia por lo menos a la mitad”",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFhvdEdicVVaSXA5YWVMSWFJMlZQLVhkbklLVGt5N0xjSzJuak5IbTh4SVE2UjdpV1RMRVIwTXMtM1hZczdqMWRZUXVoRnU0OTRELV9TdnhQSkFrbkxJUWpHQW52SjJmVEpYNkhhcGVFRERpZ3JzQXZiMmNFZ0VCWTVhSEl6U001SzRILVRzMWY5ek93b1A5TVpNcjFXMWo4ZnRIS1U3S3FsY0UtZDJEanZidmU0dTBJZE1XZkVpRG1pcEU?oc=5",
-   "date": "2026-11-05T02:20:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d4e8320e1406",
-   "title": "Patricia Juárez sobre los primeros 100 días del gobierno de Keiko Fujimori: \"Ha generado una sensación de estabilidad\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMWxTSnY2T0RFUjAwLUMxT1dqbEI1Mi1rWUZvVFFrRUhraWRIWlZZaFQ0WVhnVVU1LWRuM2Q4OVpNbFBnMS11RUx1SFJZakk3U2ZqQWNBWXpBamUzR2dBZWVMX09CTGl5WGJyY2hYejZYUVFvOHJBa0lQZzVTWVBXWDVMalF6WTd4aWVpUXVqN3lZNlJETlV1dlZ6ZjhjUy1mNGpkMDVkNlcwSEZrdk1EMVQyaHc5eUxEZ1k4c19aYWNGcFlVOVliVUJFZ2ZacWxGSDNkdmh6Tm5HeUxfMVNLSlM4OVA4bEhRNWpKSnVob1dZN2NmckdR?oc=5",
-   "date": "2026-11-05T02:08:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "af12f130a030",
-   "title": "Presidenta Keiko Fujimori: nuestro objetivo es reducir la anemia a la mitad",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT09TNEpCZVIyX2RmdTM5TE14cnBxZzRHdnBQcTVRSTUtamdJRmgxUlpjcVU3aEFQNmZMQ1dYLXdlV01qNWZWRXlaM3RjNTk5eDlmMEtYc2VBMUYxNTRYMENqSmZiV0hCR3VVYVc4d0czeVBtRGZ4a3VMTlFJTVVzRVR1VDNqOHdHbHFLZmdaNzlyQVZjZUE2N0JVNnpVQktZdDJFa2lDS3hpU0tkZGNOU3EzWUo?oc=5",
-   "date": "2026-11-05T01:59:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
