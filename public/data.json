@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T11:16:17.434268+00:00",
+ "generated_at": "2026-11-06T11:37:47.265549+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 4,
+  "transmitiendo": 5,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
   "triste": 2,
-  "posando": 53
+  "posando": 52
  },
  "total_7d": 60,
  "silence": {
@@ -493,6 +493,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a2e8d86df960",
+   "title": "Keiko Fujimori aseguró que crímenes diarios bajaron de 7.5 a 6.5 en sus primeros 100 días de gestión",
+   "excerpt": "La presidenta del Perú, Keiko Fujimori, habló sobre los resultados de su mandato en materia de lucha contra la inseguridad ciudadana durante el balance de sus primeros 100 días de…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-aseguro-que-crimenes-diarios-bajaron-de-75-a-65-en-sus-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T11:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5f257a0925ae",
+   "title": "Balance 100 días de Gobierno: ¿qué obras de infraestructura se reactivaron?",
+   "excerpt": "Esta noche, durante su mensaje por los primeros 100 días de gestión, la presidenta Keiko Fujimori informó sobre la reactivación de obras de infraestructura que permanecían paralizadas en distintas regiones…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/balance-100-dias-de-gobierno-que-obras-de-infraestructura-se-reactivaron-noticia/",
+   "date": "2026-11-06T11:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c76464a3ad69",
    "title": "Fenómeno El Niño: Keiko Fujimori reporta 77 puentes Bailey, 13 mil militares y 7 mil toneladas de ayuda",
    "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta aseguró que el país cuenta con maquinaria, puentes y ayuda humanitaria para atender a las poblaciones que puedan…",
@@ -658,17 +680,6 @@
    "next": null
   },
   {
-   "id": "a2e8d86df960",
-   "title": "Keiko Fujimori aseguró que crímenes diarios bajaron de 7.5 a 6.5 en sus primeros 100 días de gestión",
-   "excerpt": "La presidenta del Perú, Keiko Fujimori, habló sobre los resultados de su mandato en materia de lucha contra la inseguridad ciudadana durante el balance de sus primeros 100 días de…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-aseguro-que-crimenes-diarios-bajaron-de-75-a-65-en-sus-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T04:25:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "55daadaeb725",
    "title": "Presidenta de la república Keiko Fujimori presenta balance de su gestión",
    "excerpt": "",
@@ -686,17 +697,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
    "date": "2026-11-06T04:17:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5f257a0925ae",
-   "title": "Balance 100 días de Gobierno: ¿qué obras de infraestructura se reactivaron?",
-   "excerpt": "Esta noche, durante su mensaje por los primeros 100 días de gestión, la presidenta Keiko Fujimori informó sobre la reactivación de obras de infraestructura que permanecían paralizadas en distintas regiones…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/balance-100-dias-de-gobierno-que-obras-de-infraestructura-se-reactivaron-noticia/",
-   "date": "2026-11-06T04:12:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -955,6 +955,17 @@
    "next": null
   },
   {
+   "id": "481a8bc5768d",
+   "title": "🔴 EN VIVO | KEIKO FUJIMORI: Balance de los primeros 100 días | Correo",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2o5d01ibnNLZ1NVcmF5Nm5XSVNYc0x3QVhiUElRXzk5ZTU3NnZCYm42YjJBYjd4V1Q4bkVUNThvcFZRRDJKY1h4Ykw0UkdEZXBOOTdnS1poVFBBRndlTHRFRDNnS2lSMkJLblVhLTRpVjJEeHNvUWJvSHRXRFJVLUxpODdDbGNlMzJVM2wtVFJiTS05NWJBVnZUMFpsYS1YZnNV?oc=5",
+   "date": "2026-11-05T21:04:40+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "30aa7c6d0bd7",
    "title": "Keiko Fujimori: Exministro Basombrío califica la inseguridad ciudadana como su peor fracaso",
    "excerpt": "",
@@ -1146,17 +1157,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLTNlY0NMR3UyLXp3SW03eVdjcUU3dWdiSGpZVjR1R1F5bEQ2V2ZSbVZ2Uzl6Z0hxSEpmVjdsRV9CUHNzQkd3c3NxNWxRaGVQaFk4SzhQQlFuc0ZBOXZtVnFFdnNGUHRsUFBoMi1tRDRadVVNeDhobTIySDRwc2g2Q1JCQTJfZUVxY1JZTnpmSFZTa2g4RlFYTUMwaEp0aVc5LUt0LWlLdlRZY0xnNTl3V0U3TDE1XzF2TkJNckJYS2ktT2ZJN3M1T2o4dnRMR0ZoME95QlZaaXFKUi1KcXlKMnFsRVN2Q2lUTFh0ZURsRFlRUdIBjAJBVV95cUxPU19mUHlhamc5YjJTMUI4ME1SaDlfSThpeFNWLVVRWmtxMW5XcGFmdjV6eDhQMWpja2RFNEFUNy14MjZnOWVtUUk4dTk5QnByZ2w2WDBzN3ZVSlNKLXZ4X1pxVjBXVkY0TE02Qk0zMWRseVBOcFQyWDNuNDFXUTREUXpkcHV5UzgxTjY4eE5UM05nd0lrQVVnZnN5LWZLMjFFcmk4bEVCeUdBZGVzLWIySTlRWG05OWZPejJ6YWpmZEdDM3VYVXZsTlpNaFh3UC1lR3ZBVGRIN0RDTHhTSml5SlR6MmJDejNLaWdta0F5X1d1YWdWZHlsREdLUkxMaW1BVFpSVUJvbmVCNUFJ?oc=5",
    "date": "2026-11-05T11:03:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "03e7131d5138",
-   "title": "Keiko Fujimori, Pedro Castillo y PPK: los 100 primeros días de los últimos presidentes electos",
-   "excerpt": "A 100 días de la gestión de Keiko Fujimori, un contraste con los inicios de Pedro Castillo y Pedro Pablo Kuczynski muestra prioridades, choques con el Congreso y diferencias en…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-pedro-castillo-y-ppk-los-100-primeros-dias-de-los-ultimos-presidentes-electos/",
-   "date": "2026-11-05T11:02:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
