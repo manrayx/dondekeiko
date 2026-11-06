@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T05:50:26.015437+00:00",
+ "generated_at": "2026-11-06T06:12:29.341524+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,6 +493,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d5c70b67a2db",
+   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
+   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T06:07:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7f5c290b05b6",
    "title": "Keiko Fujimori y su plan contra la delincuencia: dos megapenales, reforma policial, expulsiones y control penitenciario",
    "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta detalló las acciones que impulsa su gestión, entre ellas la intervención de cinco establecimientos penitenciarios, la captura de…",
@@ -532,17 +543,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV0dMT212TTFvdFR3aE9YeE9NVjNVTm1FSDdjUWcxVHY2Zl9ocFVnWXhrREEwbVViTGo2blpFeDlmTWNDSl96RV9xcF93RmFDWnlkNmNLT210V0g2UjdmOWN6Smc1TmdaTC1neUhWcGhISjUxSkgxMUNTdnZ0bkl1OGZBUFhMLUQyOThaZXdfbTRqU3FENTFpcGMtbnNrZ3ljWnlHRC0zWXhKekJ4MzcxZk5pekhBYkVudEk3cVJiTkp4SFhkMzNTTWVFRFVVTkdOU3pOQ29FdW5CS0tQZTFfNjNzNFVXeWFtci1XR3lqNjlpSl9US1FlTWxyWQ?oc=5",
    "date": "2026-11-06T04:53:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d5c70b67a2db",
-   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
-   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T04:47:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
