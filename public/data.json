@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:36:37.163926+00:00",
+ "generated_at": "2026-11-06T23:58:37.815836+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -757,6 +757,23 @@
    "next": null
   },
   {
+   "id": "f398348f0a62",
+   "title": "\"Acá hay un Gobierno que está en la cancha”, afirma presidenta Fujimori al supervisar albergues y hospital de campaña en Tumbes",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN1lsRU55QjRaN0NxdUt4VklJWDd0M09lVXZjZjBxcDZJSDJnLXp1U3NHNjJrMURPd0Z4ZThjUlFxNXpPYmpLWmVFcFhYMmVoRzIwQkpfOVRDdFkyTU1YLXlldFNveGNKX3dVN0JtZ2lQRnNEbXByYmlxRU02Rk5jSDluX2hvSnFsUGtVMnh4Y1lVLTVZaUhBcjY3R3prZUJmMW1pODJFRFFfVTh0djU4VGxuc202SVl4NTFucEJNb3FSZXhTd21YZzR5QlZ2RTd3Q1A3NzNDZ2xqSmpGaXdYVVdvLWxkN2kyaWlsV05hSHd3RGdTd0hyamZpdHI?oc=5",
+   "date": "2026-11-06T19:27:07+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "27604389253a",
    "title": "Los hitos de los cien días de Keiko Fujimori, entre el orden prometido y las dudas sobre su rumbo",
    "excerpt": "Según el investigador Paulo Vilca, el Ejecutivo conserva ventajas políticas frente a gobiernos anteriores, aunque no logra traducirlas en resultados que frenen la baja en las encuestas",
@@ -1293,17 +1310,6 @@
    "source": "EL PAÍS",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNEpIdldMdGNad0RXaDdhWTZleFljY1dyMVNQSU9fNVhQWjRxWTFXREV6TkFXelhBWXpPUjh1RzVOZGVnR2NYYVBjV0lIUERrVmlLdmxWUmd0bWtIX3ZHVF9PLTFJdDdYNWpvcWZ6bUxROFRGMTRlR0w1aFRXc3lmZ1BscWxpdko3MXdEcTl2b0Y4ME1TZkpSMG1sSk9SNHY2eHZyUE5mZlB4TVV3WW5vYmFGYVZNN25FZGd6STM3dy1MY2QwdENYYWtSUVNtdFJhemJLekFKYXdaVFhBUmpYcnR6dWFiM0hGTHFWdnVKRnAyejlmc0V0cndQUHMxZ0JVa2fSAZYCQVVfeXFMTXN0QWZ4aTI0UVpzTU5SUFo5NXpKeVZHdzJkS2xUNWR2dEsteENaNW9PMk1lMm4zQWNQM19pUlFRaTV2TG04QkJGX3pycDl5amJUeW5Ibk1fVmRHSTlvZllMLVk1YVBhQnZTYzNrWXV4SDhaVEZ6TFJTYW9PNFhuWlZsQ3VDeGx4RElxb2lYTnhOM0xsV1VLRnQyekM5eXhqdm01alJNRXprWlVmTnFGU2l6elZHYWtPaDY3VU05UUQ3SGt5ekl6TnFIekpTcDEyMmZJSWRraXRWaXF5ekVTZVhKVVA5emhfcGhOdTlnSzlBSVNxWDlXcFFVOFB6X2tGVVhVclBodDFUZTRvOFRaZXJJOHF3dWc?oc=5",
    "date": "2026-11-06T04:54:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "af468a598e5e",
-   "title": "Keiko Fujimori sobre facultades legislativas: \"Haremos buen uso de ellas, pero no bastan para atender todos los problemas\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOV0dMT212TTFvdFR3aE9YeE9NVjNVTm1FSDdjUWcxVHY2Zl9ocFVnWXhrREEwbVViTGo2blpFeDlmTWNDSl96RV9xcF93RmFDWnlkNmNLT210V0g2UjdmOWN6Smc1TmdaTC1neUhWcGhISjUxSkgxMUNTdnZ0bkl1OGZBUFhMLUQyOThaZXdfbTRqU3FENTFpcGMtbnNrZ3ljWnlHRC0zWXhKekJ4MzcxZk5pekhBYkVudEk3cVJiTkp4SFhkMzNTTWVFRFVVTkdOU3pOQ29FdW5CS0tQZTFfNjNzNFVXeWFtci1XR3lqNjlpSl9US1FlTWxyWQ?oc=5",
-   "date": "2026-11-06T04:53:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
