@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:37:55.053395+00:00",
+ "generated_at": "2026-11-06T19:59:57.473340+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -133,15 +133,47 @@
  },
  "agenda": [
   {
+   "start": "2026-11-06T14:25:00-05:00",
+   "end": "2026-11-06T14:37:00-05:00",
+   "minutes": 12,
+   "subject": "Supervisa hospital de campaña instalado en el Centro de Educación Básica Especial (CEBE) Jesús Nazareno.",
+   "lugar": "Distrito Veintiséis de Octubre, región Piura",
+   "state": "posando",
+   "place": {
+    "name": "Distrito Veintiséis de Octubre",
+    "full": "Distrito Veintiséis de Octubre, región Piura",
+    "city": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-06T13:55:00-05:00",
+   "end": "2026-11-06T14:12:00-05:00",
+   "minutes": 17,
+   "subject": "Supervisa implementación de albergue en el Coliseo Municipal Los Algarrobos.",
+   "lugar": "Asentamiento humano Los Algarrobos, región Piura",
+   "state": "posando",
+   "place": {
+    "name": "Asentamiento humano Los Algarrobos",
+    "full": "Asentamiento humano Los Algarrobos, región Piura",
+    "city": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false
+   }
+  },
+  {
    "start": "2026-11-06T11:35:00-05:00",
    "end": "2026-11-06T12:00:00-05:00",
    "minutes": 25,
    "subject": "Supervisa hospital de campaña instalado en la Institución Educativa María Mafalda Lama.",
-   "lugar": "Distrito de Tumbes",
+   "lugar": "Distrito de Tumbes, región Tumbes",
    "state": "posando",
    "place": {
     "name": "Distrito de Tumbes",
-    "full": "Distrito de Tumbes",
+    "full": "Distrito de Tumbes, región Tumbes",
     "city": "Tumbes",
     "lat": -3.55565,
     "lng": -80.42554,
@@ -555,9 +587,53 @@
    }
   }
  ],
- "agenda_minutes_7d": 979,
+ "agenda_minutes_7d": 1008,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "991053ebba6c",
+   "title": "Los 100 días de Keiko Fujimori en materia económica",
+   "excerpt": "",
+   "source": "ESAN Graduate School of Business",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS251UFlibFlGTjV5Tm05LTc1djI0NVA5ZGxIWFVqUjAyUXcydlVOQVBEYmpRNzJRaTZ5eXFTTHhZaTB2Y0JqQmxCaXdqNHRZN3N5N0FHS2IzelRFcllxMFlSdURnakRlblBELTNrMUZ0UDJLSlEyZC1zRTNRVll4TzJJZkd4VzBpcko0YkpwQ2FfTmc?oc=5",
+   "date": "2026-11-06T19:49:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-06T19:44:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1e27bc53ed37",
+   "title": "Sector Trabajo impulsó más de 50 mil empleos temporales en los primeros 100 días del Gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "Rumbo Minero",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUtWX0t6aVY2aVdNc241OVJ1eHVnSnZIYnUtTE02bFhVX0hDQTBKYWFEbHU5ZnJqRUdwQ3haeTdSSmF2WnZELVdfbnFmQllwaUJqQWdEbWZwSHpmQnZKSmlqVWlfbk9ELUdpNi1udndEQ2NhLTRDY0xYeUNHbVNJaXpxVEtOY3BlXzdObGRIQWFJd1B5YmJsVmRVdm5EbDNvc0J4Ni10aHpZNlVEYkNEQXhCUmk?oc=5",
+   "date": "2026-11-06T19:38:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d5c70b67a2db",
+   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
+   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T19:37:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "27604389253a",
    "title": "Los hitos de los cien días de Keiko Fujimori, entre el orden prometido y las dudas sobre su rumbo",
@@ -653,7 +729,7 @@
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVVRdUZrNUx5cnFoN0JSWkxFeWNacVdGQkRxbEdxQy0yTkx1T3UyS0FWbWxKVy0yNzhfVEhVRXN6eUFERmVKcWx1dFp5R0REdjdVeGtnMWpmVUszdDM5LXdTRnVxaHM3N3pJZ0R1V1JWUHFlZzFXZ0t1ZW1mYmI2Y014TzBSYWI2ZzVybGlXbTJ5U1VjNUtWaFVnNE9maVlqWGZCaGlkNDJMc1hTMGItd1dTYmE?oc=5",
-   "date": "2026-11-06T17:52:00+00:00",
+   "date": "2026-11-06T18:19:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -670,17 +746,6 @@
    "next": null
   },
   {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-06T17:44:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "f352cd2e07ee",
    "title": "Hasta reportero de TV Perú le dijo «Dina» a Keiko Fujimori durante transmisión en vivo",
    "excerpt": "",
@@ -688,6 +753,28 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRi1pSHF3TWpUd0VEcWVoNU1HZmo5NjBrSDVLYUVucF9GVzZxY085ajFEWThqUHlXVEdwMjZBdFU2TE5Ud0ZYSno3R2VYWUl4TkViX0pmMlhLRmI4VmJ4UVpPV1dyaldqZnVNWTF6eEJBQnZPZjJWS1k2THp5Q2FUMGxxb0JyRVNodDNuZWZfSzdGeTlOYmFBWENmVmpKNlVfaGFpYWl0ZjhQTkl6bUZLbVlQS3cyanM?oc=5",
    "date": "2026-11-06T17:29:14+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c3d4724201a9",
+   "title": "Gestión de Keiko Fujimori es cuestionada por falta de respuesta ante emergencias climáticas (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEd6NlhRRk80YmdDcVVGRnZUNzRMQ2hqa0N5c2lMbmhXUGljQVk4N005b25NZnBGS2FMeFdPTGZSMWdSdDJfX3Eyck9tRXpocUZybUluOVkxMDBDdW1SbmxfQ0g4UVNFNUd5RUY2WDVKR3ZJbXgwSnRINmJIN3QtNWQ3NFVvaWNSUXo3QTR2b0ZXRWx4aEI3UEYzbmtLendCbGUtMlhYWVNQZkZpSC1wR3Y2QzNjT3hHYlEwSV81Ykd2QQ?oc=5",
+   "date": "2026-11-06T17:14:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a7a0687e0c15",
+   "title": "Sin prensa ni preguntas: Keiko Fujimori rindió cuentas de sus 100 días en un escueto mensaje grabado y culpa a gobiernos anteriores (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOell6Ylh6TXROMjhVQ2lHLWpDTDJUQ1U4WUJoX3o4SU1SNU1jbGg1X1ZfNmtCMndkRGdlNGhYTlFfLVE5LUFUYzFqYWxqNncydVNUUGVBODllUmZWT3R3WW5fYkowMDlYMm5sS3ROTkVUWVdfSnh6eU1raXo4RXJVT1Nzd1FMcUd2NDBTbFNhV1NBVWRRbFRDNGhDc240bXRqd0NVZVFnbTJydVc2aXRFaWNKdWVGTjhjTzRIMk1XUXI3em11YndXR29fZWJpZllaT2dRcjZFRHZmRU1XQ0ZEbFk2eGpzVGgwQ2pLeERXcTNFVzA4VUE?oc=5",
+   "date": "2026-11-06T17:08:43+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -739,6 +826,17 @@
     "abroad": false,
     "city": "Tumbes"
    },
+   "next": null
+  },
+  {
+   "id": "70315c939960",
+   "title": "Puno exige disculpas de Keiko Fujimori antes de una visita presidencial",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSk1Gdi1yWFlfb1huVnFXcEVmeDVSelJ4OVNlcTlnb1VPYmN0VXpRenRDaFlONURmY01ZN0Q5UzNkTmhBOUZqbEpQTzN0VnA4bm41SVlUX1ZmRmozbVpZNVpQU2JMcktIS01pUHdPYUd6dXo3bnVHTm9UT3N1aE9wMFZ1TDAzb3A4YU8xQk9zQnlaUGtMZV9FU3hkU0g5TWc?oc=5",
+   "date": "2026-11-06T16:06:16+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1023,17 +1121,6 @@
    "next": null
   },
   {
-   "id": "d5c70b67a2db",
-   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
-   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T11:00:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "5e3c7cd86c61",
    "title": "Presidenta Keiko Fujimori presenta balance de sus primeros 100 días de gobierno",
    "excerpt": "",
@@ -1208,61 +1295,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "a9e8d2738a07",
-   "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T03:59:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e9e324fa12fa",
-   "title": "Keiko Fujimori dio Mensaje a la Nación por sus 100 días de gobierno: cifras, anuncios y balance de su gestión",
-   "excerpt": "La presidenta presentó los resultados de su administración en materia de seguridad ciudadana, prevención del fenómeno El Niño, economía y obras públicas. También reconoció las dificultades pendientes y ratificó las…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR3lFUkpCa2JFVVFja2xfRWpYYW14Uk9HWnAzMld1dkJUa3BvbmJXb0x3WXlFZ1pTOGZlM2hoMUpqX1FNUlJLOHFKQjdOTWp2M1ZPOXRBYUdTOExJMlJ6TWt4SVg5Ymo1YkVCZkt6MFhlTVZXekJsbGNtU0tFbGNyV1EtOTBQU256blkzQXAzRDEwTF9sYlNCRmlveGVrVEZvdEZkWW1PcV9vM3I0QzVNRUJlbFhGSzZRRWdpV1dqRkNIc01hRUxKUVVFeXBqS0FCVDFhSkdCZjhvRTNQaDFCeXZR0gH8AUFVX3lxTE9OaTN6RTNNcFNQSmdleS1vcC1yajFPZHJ4N0FQb19BeFlvZG9qSU02LWxnTllrZGlLZ2doZmZyVHVNQWlkcTdEcWktc1I1TDkyTXFJdDktQkJDbERZOEJtcURHQXAxR1hJdm96VU9EQjFPdGhrOElUQ2F4SFNmc2NxYmFwMF91bDlBQ1FtYlJjTm83eDZ5aHNhbXEydnRXUGh4NXdJcEhfaFl1d212U3ZjSFB3TUNyZlFxb0JFSDRzSUxYVDFOdzhXTmVkRWFOQVBVTFNXa09rM2pHZm9oTVF0Wndzc0Q0VDdPang4NnIwZHR3dUstNGh2SXMwQg?oc=5",
-   "date": "2026-11-06T03:57:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "814aeb6488a5",
-   "title": "Keiko Fujimori: En 100 días no se resuelven los problemas acumulados durante años",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTRLZmZBOEpUME9BVjVwTGtWZlI4S3YxWHlicXQ4QkRueS1mNnJMTHZGYmJMOThBUUtFV0JlM21GQ051elFGUDZvaVVPd3FIOVRMRndjNTRDQlNPMHBwN0VtZVpuY3JnRG9iZFFyTWJFVi1fN2dKOG1XbWFxV0VlckwzM0Z6Y0c2ak43YjYxZDRUN29Tc3JaQzhRZEp3LWNDcVZ6cmZPNW1SSlM0NkRveWtjQXFEd9IBuwFBVV95cUxON21yWG5WSDY0Q1ZGSWhKS0NHVmJDYl9KaHU4VjluN1pXN1B4VUxBcHNuSGNWWjM5em1fV0E1Z3lTbjl2LV9rTGJqaUV1ZmhpRk45TnVVUTBMSTh3ZnpnTXdkYmIzYXR3WXY2MGJqTU81THRtRFF1NjEzV1UwNFZqenhMVFVrblM4eEJqZEJHRjVtLUVWTk1kRldhQVlRUmMzaFhOYWwwaUZMUy15ZUJfTTBUYlBNOG1pNm9V?oc=5",
-   "date": "2026-11-06T03:53:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c87268233428",
-   "title": "Keiko Fujimori dio Mensaje a la Nación por sus primeros 100 días de gobierno: balance de su gestión y principales desafíos",
-   "excerpt": "La mantaria peruana se dirige al país para dar cuenta de los avances de su gestión, iniciada el pasado 28 de julio. El mensaje se produce en medio de las…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-primeros-100-dias-de-gobierno-balance-de-su-gestion-y-principales-desafios/",
-   "date": "2026-11-06T03:37:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d20eb8558719",
-   "title": "Keiko Fujimori brinda un balance de los primeros 100 días de gestión",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
-   "date": "2026-11-06T03:36:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1368,6 +1400,12 @@
    -80.26422
   ],
   "distrito de tumbes, peru": [
+   -3.55565,
+   -80.42554
+  ],
+  "distrito veintiseis de octubre, region piura, peru": null,
+  "asentamiento humano los algarrobos, region piura, peru": null,
+  "distrito de tumbes, region tumbes, peru": [
    -3.55565,
    -80.42554
   ]
