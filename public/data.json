@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T16:21:59.009652+00:00",
+ "generated_at": "2026-11-06T16:43:34.536238+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Tumbes"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-06T15:40:17+00:00"
+  "source": "Exitosa Noticias",
+  "date": "2026-11-06T16:19:10+00:00"
  },
  "next": {
   "place": {
@@ -112,10 +112,10 @@
    "lng": -80.451,
    "abroad": false
   },
-  "source": "Exitosa Noticias",
-  "date": "2026-11-06T15:15:17+00:00",
+  "source": "www.apnoticias.pe",
+  "date": "2026-11-06T14:12:00+00:00",
   "title": "Keiko Fujimori viaja a Tumbes para inspeccionar hospital de campaña y albergue por fenómeno El Niño",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5"
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTllWcTQzekdfcUdqLVk2Tkpsd0N5VlQ4cnE3QjE1ZGZkQ2xzUXdxT1VBLWUyQ3NOUy1hQ0RFdThfQkE2dnQwTC1qWWY5ZEhBM0pFZ0RHYVMybG42N2VaQWpBa0FCZVc3U0w5ekxlWDJyZUd2SEx5dl9hbXZzaWIwQXp2Ulo2Y3RSQm5pR0Z0MXEtSGk2YXgya2ZHT1phUHBJMXU5OFUxTzZnejJBMHFsRXVCdTdBbjJVU2pNc1pJQzE2bzZBMlQwc0dwZEM1QQ?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 4,
@@ -543,6 +543,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-06T16:22:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a36ec34c9983",
+   "title": "Keiko Fujimori visita a familias afectadas por lluvias en Tumbes y anuncia reubicación de zonas de riesgo",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2g0WlhKY1VjcGctRkZqMUZpZnBfN0hOYzM3aTlyR1J6ZER4QV9qR1UtUTRtcUhMNUttdUJBN0FVbk1vdUNtLXZ4dUdwRHhNWGFnS1FCUDIxUElYckNucllYakFSZ2JXc1JHRGJxSlNOV3hoU3VsbmlTT29uQWFjMkV2ekFROEstcDYzSGJNMEtDdTR1YkpDTUd3SkQ4b0FaZ3hweUVfMGgxdTUzbGxveUU3anJwMXRmZWQ1TlpWeGtvY2w4U2ZXbXAwYVZUM3dMeFQ0MUpoYjlKUQ?oc=5",
+   "date": "2026-11-06T16:19:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "e25c67754b9e",
    "title": "Keiko Fujimori anuncia mejoras en índices de crímenes, pero cifra estaría alterada por subregistro del Sinadef",
    "excerpt": "Juan Carbajal, analista de datos, señaló que el Sistema Nacional de Defunciones no refleja una mejora real. Octubre se convierte en el mes más violento de Fujimori, con un promedio…",
@@ -582,17 +610,6 @@
    "next": null
   },
   {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-06T15:16:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "629d3383df69",
    "title": "Tumbes: presidenta Keiko Fujimori inspeccionó instalación de albergue en Zarumilla",
    "excerpt": "",
@@ -602,22 +619,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "3460ef496a8f",
-   "title": "Keiko Fujimori viaja a Tumbes para inspeccionar hospital de campaña y albergue por fenómeno El Niño",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5",
-   "date": "2026-11-06T15:15:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false
-   }
   },
   {
    "id": "c8e26ac160a9",
@@ -668,6 +669,22 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "3460ef496a8f",
+   "title": "Keiko Fujimori viaja a Tumbes para inspeccionar hospital de campaña y albergue por fenómeno El Niño",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTllWcTQzekdfcUdqLVk2Tkpsd0N5VlQ4cnE3QjE1ZGZkQ2xzUXdxT1VBLWUyQ3NOUy1hQ0RFdThfQkE2dnQwTC1qWWY5ZEhBM0pFZ0RHYVMybG42N2VaQWpBa0FCZVc3U0w5ekxlWDJyZUd2SEx5dl9hbXZzaWIwQXp2Ulo2Y3RSQm5pR0Z0MXEtSGk2YXgya2ZHT1phUHBJMXU5OFUxTzZnejJBMHFsRXVCdTdBbjJVU2pNc1pJQzE2bzZBMlQwc0dwZEM1QQ?oc=5",
+   "date": "2026-11-06T14:12:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false
+   }
   },
   {
    "id": "e09808fbe166",
@@ -961,23 +978,23 @@
    "next": null
   },
   {
-   "id": "55daadaeb725",
-   "title": "Presidenta de la república Keiko Fujimori presenta balance de su gestión",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM1VnS1ZEWnhFNHY0ZWZRQ0lkUzg0XzdKeWdBSS1VZjhsT0JqSUo0TjBpRDNnWmt0ZVFqclg4RXNoam1MYV9HRkJnM3JySGNZQWRlQjJUZmhRMjlBUDQyMmV6bDczT0EwQUtGVS1QZVpQdE9rcG1Bd1pVR2ZqVFkwYmZ0UllMQlV5RER0RW5sbjJnTHo5ZWk1NHhRNzFrU3AxR2VsSG4yMFJTVlVuM2d3SG1uYWQ3TF9EWk9JTXVmczJaWF9y?oc=5",
-   "date": "2026-11-06T04:19:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "bb75b48d0255",
    "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión",
    "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
    "date": "2026-11-06T04:17:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "55daadaeb725",
+   "title": "Presidenta de la república Keiko Fujimori presenta balance de su gestión",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUF0QUdXS2s4cGNNQmxxMGZPbThQZVNGdFphT3drT2NXekZ6ZWhOdnJZNGRUcHVEci1DYlNMMDI3cW0zYS1HU1NtdkY4czktV3pKczZUazlKZHd0YTFsSUZQMHRaNmMwTkZ0elV2T3RUcnRWYXo3TXZXaEYya3RUYnh4dlZyMzNzaFFWbTBQOHRjTnR0dEdUaGZzN01PRmhQZmItZVA5NW1ob3lPV2ZUWndBVQ?oc=5",
+   "date": "2026-11-06T04:13:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1209,17 +1226,6 @@
    "source": "Convoca.pe",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjNxWUJSOFJsMW5YbEFFZFpHWmRGOWlrNnhKY1IxQ1NjcDdNTHBVLU9WWFN2UGF5UHBvcE1lSXBudFV6YWxQbzA1bGV6ZW5rUU0xa1djSG5jbjEzWE9VNHJHQkhrUUVQVkZWSU4wRldCcjd0eEdrMGR0eE9tcG5rZnRkWWtlczA3c0JiZ1d2bF9IaXltcDlMVXRGLV90T3dfMXBuWG9ERlMxbTRuOC1pVmxVRFZGZw?oc=5",
    "date": "2026-11-05T23:01:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "15419ae9f02a",
-   "title": "Carlos Mesía defiende los primeros 100 días de Keiko Fujimori: “El balance es positivo”",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGpNSlJ4dnF2eENUV18xNWF2TmhzVTI5Z1IzNzk3VGs2MWNOd3A0UkJDNkVwQlBoYm1XUFlpOUdiYkQ4VEh4LU9CX2VtY3k4Z2w2WTlKLWlmUzBBczZJTkRxWERLVHZnd1RuS1hSbF8zS01XZDZ1VDhvMnpOUUZSXzlPZU9FcGtZTE5oUEw3dDdrclA2ZHRQSjdUbFBram1IRXNkSW91X1RtV1Jub2NNOFln0gG3AUFVX3lxTE0xYmg3SmZKbFlncHVUaWdlcXJ2ZHQ4cmdLQXAwaHVtR3VHckI0V2NGak1aekg2SC1yWTN4dlZtZDZoaUsxMlBCX1g4WDV1MFdlQ2tiemRTTndTRGtzblhoN2xNekZzc0xhSFhHRzhJV2REVExxa1JOdVE2ZktQNlNRZzNLWkdsQXVScnNySEpfVlRveGE1YVI4OE9NQ3dMakw5Y1Y2X0NyRF9tdUVweGl6RmVsaUtMSQ?oc=5",
-   "date": "2026-11-05T22:01:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
