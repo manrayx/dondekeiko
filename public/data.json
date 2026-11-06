@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T17:27:34.144031+00:00",
+ "generated_at": "2026-11-06T17:49:28.200494+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,12 +118,12 @@
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 4,
+  "transmitiendo": 5,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 54
+  "posando": 53
  },
  "total_7d": 60,
  "silence": {
@@ -559,6 +559,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b9444e9c0abd",
+   "title": "Banco paraguayo vinculado a escándalo político patrocinó encuentro de extrema derecha al que asistió Keiko Fujimori",
+   "excerpt": "Ueno Bank, la entidad financiera paraguaya vinculada al escándalo político que derivó en la renuncia de Santiago Peña a la presidencia, patrocinó la Gala de la Prosperidad Hispana, realizada en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/06/banco-paraguayo-vinculado-a-escandalo-politico-patrocino-encuentro-de-extrema-derecha-al-que-asistio-keiko-fujimori-hnews-340848",
+   "date": "2026-11-06T17:47:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-06T17:44:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f352cd2e07ee",
+   "title": "Hasta reportero de TV Perú le dijo «Dina» a Keiko Fujimori durante transmisión en vivo",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRi1pSHF3TWpUd0VEcWVoNU1HZmo5NjBrSDVLYUVucF9GVzZxY085ajFEWThqUHlXVEdwMjZBdFU2TE5Ud0ZYSno3R2VYWUl4TkViX0pmMlhLRmI4VmJ4UVpPV1dyaldqZnVNWTF6eEJBQnZPZjJWS1k2THp5Q2FUMGxxb0JyRVNodDNuZWZfSzdGeTlOYmFBWENmVmpKNlVfaGFpYWl0ZjhQTkl6bUZLbVlQS3cyanM?oc=5",
+   "date": "2026-11-06T17:29:14+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5bd565318077",
    "title": "Presidenta Fujimori: Hay un Gobierno que responde y acompaña",
    "excerpt": "",
@@ -576,17 +609,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/06/falta-de-homicidos-por-registrar-en-el-sinadef-altera-supuesta-mejora-en-indice-de-crimenes-anunciado-por-fujimori-hnews-121338",
    "date": "2026-11-06T16:52:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-06T16:22:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1227,28 +1249,6 @@
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcElzQWh3SWxxeWY4STJYOEhpSjFydmt5cEVuUndaS1dZdHc1RHc1UXBkRzJ3ejRWcFRlWkFHOHMwbTRseVM0OXdsRWJqVS1nVUhJTUYyOEVzRjQ0cnVzclh6NnZJWndzbVlSb0lYWk15QjhLd1l0LWNjTlFEZ2htYjl1X3RrT2VLTHBqV2hhb251R3hXV3FaUlpKYzZZcDdWX3EtMWJVcmNIQ3VpYTRTOG53YVRMVXR6LWhJSGdNRzFqeHc2b1Y2LW5ONHY1QVdzTDFDNmdPN1RyakVQY1V1MmxFMjFTSFp1S2fSAf4BQVVfeXFMTVBZeXlLMjhzOUhpWVZ5NThJU2M1cnFpNDdjQXI2bkJHblVwazV0c2kwSk5Mak1ieVo3anh2MDBjSkdFMUJzVE9GalJTWDA3ZUdVRzZTNDBFWGRKLTZkTnNRejRRNHJvNlBOMFB6R1FIRFF3cnB5UmRRdGU3ZkpEcjlUc3o4LU90NVJCZHd4LVdLN2NLWWxaQ1BUbXpYODlISnRBVWxaUGVYSmJZX2dxTTA3bzVtcFR4V1I4eXpXTjVjYnNHbDdKQURVaVNSNzlFZ3o4cWRLV2Q1WjFCNHF5VTZTUmpQZW1naXpYM3NCRGwweFUwanM0ZGo0bVo3Qmc?oc=5",
    "date": "2026-11-06T01:16:50+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0bb852e98dbf",
-   "title": "Keiko Fujimori ofrecerá un mensaje a la Nación esta noche",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnRQVk9hakZ3M3BSdXJHWm9EMWdzelVIem96S0VmRjJfMVY0RXl4WURxcFRneEhQc29uWWF0cmVKRTZIZjJNc1BYNGQ0c2l5UnZ4YkJmNnVOTTJ5Mk03MC1DUmpNSTdULWtROUdTaHl5S3dqN0s2bVhvYnp5UXZkS0l6WTNPN1V5dWJRVFVnZGgxdEd0bWJZaw?oc=5",
-   "date": "2026-11-06T01:14:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4538d071acff",
-   "title": "Keiko Fujimori ofrece balance de sus primeros 100 días: \"Estamos trabajando por el Perú que todos anhelamos\"",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnRQVk9hakZ3M3BSdXJHWm9EMWdzelVIem96S0VmRjJfMVY0RXl4WURxcFRneEhQc29uWWF0cmVKRTZIZjJNc1BYNGQ0c2l5UnZ4YkJmNnVOTTJ5Mk03MC1DUmpNSTdULWtROUdTaHl5S3dqN0s2bVhvYnp5UXZkS0l6WTNPN1V5dWJRVFVnZGgxdEd0bWJZaw?oc=5",
-   "date": "2026-11-06T01:14:35+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
