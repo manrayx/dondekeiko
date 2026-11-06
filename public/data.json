@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T22:31:53.190746+00:00",
+ "generated_at": "2026-11-06T22:53:23.122071+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -591,6 +591,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "456efe0272a5",
+   "title": "Fujimori tras sus primeros 100 días: “Me hubiese gustado obtener más facultades” del Congreso",
+   "excerpt": "La presidenta Keiko Fujimori reconoció que le hubiera gustado obtener más facultades del Congreso durante los primeros 100 días de su gestión. La mandataria hizo esta evaluación durante una visita…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-tras-sus-primeros-100-dias-me-hubiese-gustado-obtener-mas-facultades-del-congreso-noticia/",
+   "date": "2026-11-06T22:52:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8808a5b375ce",
+   "title": "Presidenta Keiko Fujimori invoca a padres de familia vacunar a sus hijos contra el dengue",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM3VJWUVhMUttNVJuVVNWZG05cXRlX1dKX01lX2tyMFpuNjhEUUZFaVFXVnBxMTVUSjBTaEhaNnBPNGIxVkdlYWk1NHl0MVQtMkpGc1Y0TjM3SnhMQVVsNW5kamVDT3BLR0Zfa3k4Skpsd1RSSC1ic0cwbzNfbm5iV2VtV09ENDNabmpzUlk2UkJ3TXM4dzZtVEg0MXh1Yi1JX2I5eHlwekJWM3RBZFN5X0IwNFV3ODUxb091ZUhnN1JzTUJtVzhCQkYyRGZjdllOb1BPUGFSM3M?oc=5",
+   "date": "2026-11-06T22:20:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "05071780dbe7",
    "title": "Confianza empresarial sobre la economía cae a nivel pesimista por primera vez desde el inicio del gobierno de Keiko Fujimori",
    "excerpt": "",
@@ -749,17 +771,6 @@
     "abroad": false,
     "city": "Tumbes"
    },
-   "next": null
-  },
-  {
-   "id": "456efe0272a5",
-   "title": "Fujimori tras sus primeros 100 días: “Me hubiese gustado obtener más facultades” del Congreso",
-   "excerpt": "La presidenta Keiko Fujimori reconoció que le hubiera gustado obtener más facultades del Congreso durante los primeros 100 días de su gestión. La mandataria hizo esta evaluación durante una visita…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-tras-sus-primeros-100-dias-me-hubiese-gustado-obtener-mas-facultades-del-congreso-noticia/",
-   "date": "2026-11-06T18:49:45+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -1293,17 +1304,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/los-100-dias-de-fujimori-gobierno-destaca-recuperacion-de-la-confianza-economica-noticia/",
    "date": "2026-11-06T04:45:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5500cedbe41f",
-   "title": "Keiko Fujimori presentó balance de sus 100 días de gobierno en Mensaje a la Nación: qué dijo sobre seguridad, El Niño y economía",
-   "excerpt": "La presidenta presentó los resultados de su administración en materia de seguridad ciudadana, prevención del fenómeno El Niño, economía y obras públicas. También reconoció las dificultades pendientes y ratificó las…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-100-dias-de-gobierno-cifras-anuncios-y-balance-de-su-gestion/",
-   "date": "2026-11-06T04:42:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
