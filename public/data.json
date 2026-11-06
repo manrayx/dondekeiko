@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T15:59:43.313682+00:00",
+ "generated_at": "2026-11-06T16:21:59.009652+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,10 +120,10 @@
  "counts_7d": {
   "transmitiendo": 4,
   "entrevista": 0,
-  "celebrando": 1,
+  "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 53
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -168,7 +168,7 @@
    "start": "2026-11-06T09:30:00-05:00",
    "end": "2026-11-06T09:50:00-05:00",
    "minutes": 20,
-   "subject": "Inspecciona albergue temporal Villa Primera.",
+   "subject": "Inspecciona  el albergue plataforma Villa Primavera.",
    "lugar": "Asentamiento humano Villa Primavera, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
    "state": "posando",
    "place": {
@@ -542,6 +542,17 @@
  "agenda_minutes_7d": 954,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "e25c67754b9e",
+   "title": "Keiko Fujimori anuncia mejoras en índices de crímenes, pero cifra estaría alterada por subregistro del Sinadef",
+   "excerpt": "Juan Carbajal, analista de datos, señaló que el Sistema Nacional de Defunciones no refleja una mejora real. Octubre se convierte en el mes más violento de Fujimori, con un promedio…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/06/falta-de-homicidos-por-registrar-en-el-sinadef-altera-supuesta-mejora-en-indice-de-crimenes-anunciado-por-fujimori-hnews-121338",
+   "date": "2026-11-06T16:04:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "201b595752dd",
    "title": "Keiko Fujimori llegó a Tumbes para inspeccionar albergue temporal y hospital de campaña",
@@ -1210,17 +1221,6 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGpNSlJ4dnF2eENUV18xNWF2TmhzVTI5Z1IzNzk3VGs2MWNOd3A0UkJDNkVwQlBoYm1XUFlpOUdiYkQ4VEh4LU9CX2VtY3k4Z2w2WTlKLWlmUzBBczZJTkRxWERLVHZnd1RuS1hSbF8zS01XZDZ1VDhvMnpOUUZSXzlPZU9FcGtZTE5oUEw3dDdrclA2ZHRQSjdUbFBram1IRXNkSW91X1RtV1Jub2NNOFln0gG3AUFVX3lxTE0xYmg3SmZKbFlncHVUaWdlcXJ2ZHQ4cmdLQXAwaHVtR3VHckI0V2NGak1aekg2SC1yWTN4dlZtZDZoaUsxMlBCX1g4WDV1MFdlQ2tiemRTTndTRGtzblhoN2xNekZzc0xhSFhHRzhJV2REVExxa1JOdVE2ZktQNlNRZzNLWkdsQXVScnNySEpfVlRveGE1YVI4OE9NQ3dMakw5Y1Y2X0NyRF9tdUVweGl6RmVsaUtMSQ?oc=5",
    "date": "2026-11-05T22:01:07+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e28ea7a60a3c",
-   "title": "MEF ya no buscaría inconstitucionalidad de la Ley de gratificación y CTS para CAS",
-   "excerpt": "¿Se salva la gratificación y CTS para trabajadores CAS? El gobierno de Keiko Fujimori seguiría su implementación gradual",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/03/mef-ya-no-iria-contra-la-ley-de-gratificacion-y-cts-para-cas-ni-contempla-inconstitucionalidad/",
-   "date": "2026-11-05T21:29:12+00:00",
-   "state": "celebrando",
    "place": null,
    "next": null
   }
