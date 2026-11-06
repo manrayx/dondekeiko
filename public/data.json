@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T09:27:49.500481+00:00",
+ "generated_at": "2026-11-06T10:32:43.891357+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -498,7 +498,18 @@
    "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta aseguró que el país cuenta con maquinaria, puentes y ayuda humanitaria para atender a las poblaciones que puedan…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/06/fenomeno-el-nino-keiko-fujimori-reporta-77-puentes-bailey-13-mil-militares-y-7-mil-toneladas-de-ayuda/",
-   "date": "2026-11-06T08:13:23+00:00",
+   "date": "2026-11-06T10:10:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7f5c290b05b6",
+   "title": "Keiko Fujimori y su plan contra la delincuencia: dos megapenales, reforma policial, expulsiones y control penitenciario",
+   "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta detalló las acciones que impulsa su gestión, entre ellas la intervención de cinco establecimientos penitenciarios, la captura de…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-y-su-plan-contra-la-delincuencia-dos-megapenales-reforma-policial-expulsiones-y-control-penitenciario/",
+   "date": "2026-11-06T10:10:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -543,17 +554,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
    "date": "2026-11-06T06:07:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7f5c290b05b6",
-   "title": "Keiko Fujimori y su plan contra la delincuencia: dos megapenales, reforma policial, expulsiones y control penitenciario",
-   "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta detalló las acciones que impulsa su gestión, entre ellas la intervención de cinco establecimientos penitenciarios, la captura de…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-y-su-plan-contra-la-delincuencia-dos-megapenales-reforma-policial-expulsiones-y-control-penitenciario/",
-   "date": "2026-11-06T05:32:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
