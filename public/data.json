@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T17:49:28.200494+00:00",
+ "generated_at": "2026-11-06T18:11:15.544553+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,12 +118,12 @@
   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 5,
+  "transmitiendo": 4,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 53
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -598,6 +598,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
    "date": "2026-11-06T17:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "acb8aecb6ab6",
+   "title": "Keiko Fujimori sobre su nivel de popularidad: \"Las encuestas siempre van a ser una foto del momento\"",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXE1ZnhKd2V6QkZUc3VKZEF2ZjhDS1FObGRocWVOMTRpTXR2Y0c2dXJBbmRkbkRMeGJXWTg1Q1Y2ZTlZb1lYVFdTcDVoSjJDRDBSc19mSVQ2RGNBZ1o2RDFwc0R2enJ1emRKOW1tUUNiTVhFcVJaa1lYVm9KUzlqQkswV0JYZ3FwOUVYcnktbTRxQ3NFTEFoenJxM1F4Y3pTdHEzM2V6VkNSelpZZU4xUUQ4dXE0NW1KWkUwSkZYM0o2OFpwQml1MXVpUQ?oc=5",
+   "date": "2026-11-06T17:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1238,17 +1249,6 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWFKMW1UNGdoR2xYd0dFVkdBTWRWR25SSTlJdlEyV3FFYW4xYjg1SVhhYU5hWEsxY1FmN0xPU0ppMFA4eE1TYlBBUkVjejNNYlVQX1N4ZFRNUVpJQnVadEhhNEpZcHZaRTk1T2xQQW1xUU9rMWxJUk8zR2FUQ2p0VEZOWjdmTEExbGZ5ZktwMDlZWkgyUU9CWmJfOW1jb3ZSVnhKdFBHd2JXRjh0WkJ3Z19NOGI?oc=5",
    "date": "2026-11-06T01:23:00+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "02258b363194",
-   "title": "EN VIVO: Keiko Fujimori presenta esta noche balance de los primeros 100 días de gestión",
-   "excerpt": "En un mensaje a la Nación, la presidenta de la República, Keiko Fujimori, realiza un balance de los primeros 100 días de su gobierno, mientras los índices de criminalidad y…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcElzQWh3SWxxeWY4STJYOEhpSjFydmt5cEVuUndaS1dZdHc1RHc1UXBkRzJ3ejRWcFRlWkFHOHMwbTRseVM0OXdsRWJqVS1nVUhJTUYyOEVzRjQ0cnVzclh6NnZJWndzbVlSb0lYWk15QjhLd1l0LWNjTlFEZ2htYjl1X3RrT2VLTHBqV2hhb251R3hXV3FaUlpKYzZZcDdWX3EtMWJVcmNIQ3VpYTRTOG53YVRMVXR6LWhJSGdNRzFqeHc2b1Y2LW5ONHY1QVdzTDFDNmdPN1RyakVQY1V1MmxFMjFTSFp1S2fSAf4BQVVfeXFMTVBZeXlLMjhzOUhpWVZ5NThJU2M1cnFpNDdjQXI2bkJHblVwazV0c2kwSk5Mak1ieVo3anh2MDBjSkdFMUJzVE9GalJTWDA3ZUdVRzZTNDBFWGRKLTZkTnNRejRRNHJvNlBOMFB6R1FIRFF3cnB5UmRRdGU3ZkpEcjlUc3o4LU90NVJCZHd4LVdLN2NLWWxaQ1BUbXpYODlISnRBVWxaUGVYSmJZX2dxTTA3bzVtcFR4V1I4eXpXTjVjYnNHbDdKQURVaVNSNzlFZ3o4cWRLV2Q1WjFCNHF5VTZTUmpQZW1naXpYM3NCRGwweFUwanM0ZGo0bVo3Qmc?oc=5",
-   "date": "2026-11-06T01:16:50+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
