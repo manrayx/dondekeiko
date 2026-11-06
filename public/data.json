@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T03:41:29.923195+00:00",
+ "generated_at": "2026-11-06T04:02:56.309405+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
-  "triste": 4,
-  "posando": 49
+  "triste": 3,
+  "posando": 50
  },
  "total_7d": 60,
  "silence": {
@@ -576,12 +576,56 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "58e9889edc4f",
+   "title": "Keiko Fujimori da balance de sus 100 primeros días sin mejoras sustanciales: “No hemos vencido al crimen aún”",
+   "excerpt": "La presidenta señaló que se registran 6.5 crímenes violentos diarios, reconociendo que todavía no se ha logrado controlar la situación. Además, Fujimori repasó las medidas adoptadas para prevenir el Fenómeno…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/05/keiko-fujimori-da-balance-de-sus-100-primeros-dias-sin-mejoras-sustanciales-no-hemos-vencido-al-crimen-aun-252195",
+   "date": "2026-11-06T04:01:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2ca70f37e1b6",
+   "title": "Keiko Fujimori balance 100 días de gobierno: logros, seguridad y El Niño",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGdLSHZJZkl5TjNFLVhMaGxzNERFTEdlVmtqWWxocnZ4ZVFuQVpOSG5KMktibllJRnp5T290bTdMb1lobXI3dXE2TGI4NjRnUzV2d0F3ZlBDZ0dvZ01sak9vZmNpaWV5REZqaFFUVmtxOXF3cFpiT00yM3hqM0dyMVRudDhXMVJPZ1dXLTdTcF9KcHl0S1JwWW1HNi1oUmNwRk5GcG1iMjUwdmZ0Rk43M2Z6M2NDbE9kb3B3?oc=5",
+   "date": "2026-11-06T03:59:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a9e8d2738a07",
    "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
    "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T03:41:38+00:00",
+   "date": "2026-11-06T03:59:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e9e324fa12fa",
+   "title": "Keiko Fujimori dio Mensaje a la Nación por sus 100 días de gobierno: cifras, anuncios y balance de su gestión",
+   "excerpt": "La presidenta presentó los resultados de su administración en materia de seguridad ciudadana, prevención del fenómeno El Niño, economía y obras públicas. También reconoció las dificultades pendientes y ratificó las…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-100-dias-de-gobierno-cifras-anuncios-y-balance-de-su-gestion/",
+   "date": "2026-11-06T03:57:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ce8e943fa88f",
+   "title": "Keiko Fujimori brinda un balance de los primeros 100 días de gestión: “Hemos demostrado que sabemos a dónde vamos”",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
+   "date": "2026-11-06T03:55:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -609,17 +653,6 @@
    "next": null
   },
   {
-   "id": "58e9889edc4f",
-   "title": "Keiko Fujimori da balance de sus 100 primeros días sin mejoras sustanciales: “No hemos vencido al crimen aún”",
-   "excerpt": "La presidenta señaló que se registran 6.5 crímenes violentos diarios, reconociendo que todavía no se ha logrado controlar la situación. Además, Fujimori repasó las medidas adoptadas para prevenir el Fenómeno…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/05/keiko-fujimori-da-balance-de-sus-100-primeros-dias-sin-mejoras-sustanciales-no-hemos-vencido-al-crimen-aun-252195",
-   "date": "2026-11-06T03:31:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "34e6268c105a",
    "title": "Keiko Fujimori brinda balance de sus 100 días de gobierno | EN VIVO",
    "excerpt": "",
@@ -631,13 +664,13 @@
    "next": null
   },
   {
-   "id": "4b79c4e28821",
-   "title": "EN VIVO: Keiko Fujimori brinda un balance de los primeros 100 días de gestión",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
-   "date": "2026-11-06T03:12:17+00:00",
-   "state": "transmitiendo",
+   "id": "6a48de1c19e2",
+   "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión | PERU",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dLWWRFcXhFbWYyTXpGLTFLMXEzNnp4c0tkQUUzelB2LVVBZlJwOHNsMGp3WGhpV0hGNTFSblNtWUdPT2FyaS13VzBSZUcxWlBHa3dydWFKVmZ2YUkweHo2MjVkeEhadi10cWozam9paFdHWXRIenVqTDU0TXdIU0YxNXV3SzRWZmVteWdlS1JNZ3RoaVo3UTBEUmxLbmxFdGpFdXJTNzEwUVVoM0gzRHhkSjZxZkE?oc=5",
+   "date": "2026-11-06T02:55:02+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -648,6 +681,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
    "date": "2026-11-06T02:54:19+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4b79c4e28821",
+   "title": "EN VIVO: Keiko Fujimori brinda un balance de los primeros 100 días de gestión",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcElzQWh3SWxxeWY4STJYOEhpSjFydmt5cEVuUndaS1dZdHc1RHc1UXBkRzJ3ejRWcFRlWkFHOHMwbTRseVM0OXdsRWJqVS1nVUhJTUYyOEVzRjQ0cnVzclh6NnZJWndzbVlSb0lYWk15QjhLd1l0LWNjTlFEZ2htYjl1X3RrT2VLTHBqV2hhb251R3hXV3FaUlpKYzZZcDdWX3EtMWJVcmNIQ3VpYTRTOG53YVRMVXR6LWhJSGdNRzFqeHc2b1Y2LW5ONHY1QVdzTDFDNmdPN1RyakVQY1V1MmxFMjFTSFp1S2fSAf4BQVVfeXFMTVBZeXlLMjhzOUhpWVZ5NThJU2M1cnFpNDdjQXI2bkJHblVwazV0c2kwSk5Mak1ieVo3anh2MDBjSkdFMUJzVE9GalJTWDA3ZUdVRzZTNDBFWGRKLTZkTnNRejRRNHJvNlBOMFB6R1FIRFF3cnB5UmRRdGU3ZkpEcjlUc3o4LU90NVJCZHd4LVdLN2NLWWxaQ1BUbXpYODlISnRBVWxaUGVYSmJZX2dxTTA3bzVtcFR4V1I4eXpXTjVjYnNHbDdKQURVaVNSNzlFZ3o4cWRLV2Q1WjFCNHF5VTZTUmpQZW1naXpYM3NCRGwweFUwanM0ZGo0bVo3Qmc?oc=5",
+   "date": "2026-11-06T02:45:43+00:00",
    "state": "transmitiendo",
    "place": null,
    "next": null
@@ -1208,50 +1252,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3ExUm5nTEFCaHJCSTBIRi1uMEw2VDlaU2RqTnVGcHU5RzUtN2ducmxZZExLYTRyYWZGenRacVhETmRaTTR4dzQ3Z3RYaGk0U3h3RkstZWw5N19zS3FUMmNZemlMRXdTdTV3VHBKcnNFTzlJellDbjVqZTNqQV9DWHRTWnlaOEUyRGVTYUQ5ZFBOclBEcjN1Z3FCX25fLU5zZjc3bTlKOGotX0c3U0swSlVZVWVOTS0tWEpNNmVNTmc3cGl3?oc=5",
    "date": "2026-11-04T20:27:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7f2430414b79",
-   "title": "Renzo Reggiardo sobre 100 días de Keiko Fujimori: “No puedo ser crítico porque está dando señales y los mayores esfuerzos”",
-   "excerpt": "El alcalde de Lima destacó las acciones del Ejecutivo en seguridad ciudadana y prevención de los efectos de El Niño, aunque evitó emitir una calificación sobre los resultados alcanzados en…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/04/renzo-reggiardo-sobre-100-dias-de-keiko-fujimori-no-puedo-ser-critico-porque-esta-dando-senales-y-los-mayores-esfuerzos/",
-   "date": "2026-11-04T20:25:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6223704d01a8",
-   "title": "Ministro Sheput responde a críticas al Gobierno de Fujimori: Hablan por consignas y lemas",
-   "excerpt": "“Son consignas políticas. Porque no veo que haya razonamiento. Yo he sido parlamentario y he reconocido lo bueno en otros gobiernos (...) Yo lo que veo es que hablan por…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/ministro-sheput-responde-a-criticas-desde-el-congreso-al-gobierno-de-keiko-fujimori-hablan-por-consignas-y-lemas-noticia/",
-   "date": "2026-11-04T19:44:00+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "253acf89bfe6",
-   "title": "Keiko Fujimori: los pendientes y cuestionamientos de sus primeros 100 días de Gobierno",
-   "excerpt": "",
-   "source": "Norte Sostenible",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX01rRlg0ZG1ZRDdZMFhuQ2ZWMThyRS1BOElsM3ZVQVRYWkUtZm9HZ3ZjRUl1ejhsYnJuNFNGR0NWclltOHpkZU9kTUtaNy1aUU5CVU11WTZiN01ObnFONXJqNXA4cl9kdnVnb0IxcW5GdjRxM1hWZUlsNDVXaFExTFUxNUI?oc=5",
-   "date": "2026-11-04T19:09:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "73f48c9463b2",
-   "title": "Gobierno de Keiko Fujimori logra el menor riesgo país de últimos 26 años, según Cámara de Comercio de Lima",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa18ta09GN2ZpSjlGaEd5TG9peFN6UFo1Q3JFdmNjMndUUW1qNTJoN0NZU2ZXcEl3TWYtV1FTWmdzZE5xOWF0bVpKLUhnNHlVRXFHckQ3cXBGSTU5VDZjRVpwQ2NHR2JtVGYxLTlYR3BleUJJQTZaYW0zdXFMOUZ1ZDgyaW9mR05ZODVoWXJ1MVhZQTNKeHBRamdmNGNaQkV6Um1mM1Q2bDZINjFHRGxWMUtfa19oZjFOUTh6YzFWQVFCYUNDX0RzQTA5bjlVdw?oc=5",
-   "date": "2026-11-04T18:52:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
