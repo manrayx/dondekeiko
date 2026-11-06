@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T19:59:57.473340+00:00",
+ "generated_at": "2026-11-06T20:21:15.117971+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -591,6 +591,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4268daa00943",
+   "title": "Keiko Fujimori anuncia reubicación de familias afectadas por las lluvias durante visita a Tumbes",
+   "excerpt": "",
+   "source": "larazon.pe",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDRCQmlPbHh1ZlRHZnM3Y1FVbDhFLWh3LWl2YncyckdmUGxGcHl0b2ExWGJJQzJNdHkzSHlFYVdiUmtsMnB3dUJXODhSRzMwSUF6U0RJSUlndDVlWk1uWk93Q1gzNEpMTmJjQ0xfaGl1a0VMdkt0enJhYjIxaC1POE5zWGtoZjIxaXJuRW5VX2hDdUtvUXFtS3ZoMTBRdG9JYmFaa3B1NWFKalU5elBBRm81YXhzTmc?oc=5",
+   "date": "2026-11-06T20:00:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "991053ebba6c",
    "title": "Los 100 días de Keiko Fujimori en materia económica",
    "excerpt": "",
@@ -657,6 +668,17 @@
    "next": null
   },
   {
+   "id": "bc1c1783bbb1",
+   "title": "Gobierno de Keiko Fujimori: Avances y retos del sector salud a 100 días de gestión",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVV3cWlTOVZIYTVTZzRiZjdIcUVXQ29MUl9VNDlteHlWVzZTSTdaQXBMbnB3azlfOWszX1RrN3h3cTRFUTVXeFhMenhlaUU1VUJLd3ZRdll2Y2h2dG40UlR3eVdSckJaZnEzV0pVVGRoMEE3R2xlVUZCNkdSV3FPTXlMczRjb3ZNbk9OMnVHb29VeVd3TWJBVzhLd0JBNnFscjEyRHRRTVRXY3RNbFEtVi1MQ2twbjk5WnFpaUlHUDZQc3ltNWdV?oc=5",
+   "date": "2026-11-06T19:04:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "33fbf91e6911",
    "title": "Keiko Fujimori en Tumbes: presidenta destacó trabajos de respuesta frente a afectaciones por lluvias",
    "excerpt": "",
@@ -680,17 +702,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-tras-sus-primeros-100-dias-me-hubiese-gustado-obtener-mas-facultades-del-congreso-noticia/",
    "date": "2026-11-06T18:49:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bc1c1783bbb1",
-   "title": "Gobierno de Keiko Fujimori: Avances y retos del sector salud a 100 días de gestión",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVV3cWlTOVZIYTVTZzRiZjdIcUVXQ29MUl9VNDlteHlWVzZTSTdaQXBMbnB3azlfOWszX1RrN3h3cTRFUTVXeFhMenhlaUU1VUJLd3ZRdll2Y2h2dG40UlR3eVdSckJaZnEzV0pVVGRoMEE3R2xlVUZCNkdSV3FPTXlMczRjb3ZNbk9OMnVHb29VeVd3TWJBVzhLd0JBNnFscjEyRHRRTVRXY3RNbFEtVi1MQ2twbjk5WnFpaUlHUDZQc3ltNWdV?oc=5",
-   "date": "2026-11-06T18:49:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1281,17 +1292,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/05/keiko-fujimori-da-balance-de-sus-100-primeros-dias-sin-mejoras-sustanciales-no-hemos-vencido-al-crimen-aun-252195",
    "date": "2026-11-06T04:01:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2ca70f37e1b6",
-   "title": "Keiko Fujimori balance 100 días de gobierno: logros, seguridad y El Niño",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGdLSHZJZkl5TjNFLVhMaGxzNERFTEdlVmtqWWxocnZ4ZVFuQVpOSG5KMktibllJRnp5T290bTdMb1lobXI3dXE2TGI4NjRnUzV2d0F3ZlBDZ0dvZ01sak9vZmNpaWV5REZqaFFUVmtxOXF3cFpiT00yM3hqM0dyMVRudDhXMVJPZ1dXLTdTcF9KcHl0S1JwWW1HNi1oUmNwRk5GcG1iMjUwdmZ0Rk43M2Z6M2NDbE9kb3B3?oc=5",
-   "date": "2026-11-06T03:59:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
