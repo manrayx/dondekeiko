@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T04:02:56.309405+00:00",
+ "generated_at": "2026-11-06T04:24:22.559282+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -576,6 +576,50 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "bb75b48d0255",
+   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión",
+   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T04:17:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5f257a0925ae",
+   "title": "Balance 100 días de Gobierno: ¿qué obras de infraestructura se reactivaron?",
+   "excerpt": "Esta noche, durante su mensaje por los primeros 100 días de gestión, la presidenta Keiko Fujimori informó sobre la reactivación de obras de infraestructura que permanecían paralizadas en distintas regiones…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/balance-100-dias-de-gobierno-que-obras-de-infraestructura-se-reactivaron-noticia/",
+   "date": "2026-11-06T04:12:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5e3c7cd86c61",
+   "title": "Presidenta Keiko Fujimori presenta balance de sus primeros 100 días de gobierno",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGpHYzgwaThtc0xkbmhLaWhyb2x1LW5pWlUxdXlEdGk4QWRSMEo4a0prV1RSN2NYVEZMS3FZMWlLSl9kX0tqMmxYX0QxcDJ4T09jNmhfM25NT3YtVlZqQkhnYU1uMXRGUXFiaDlLdkZpeTVNUEZOa3VsdU10STMzbGhCLWtfT2hjaEItNVFzZkJUWlgyVjhPQmF6bDZZblFYWUNiMUJxVFlHS2cweVkzWHFNZ1MwOExxR2VXRWhCMUc?oc=5",
+   "date": "2026-11-06T04:08:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ce8e943fa88f",
+   "title": "Keiko Fujimori brinda un balance de los primeros 100 días de gestión: “Hemos demostrado que sabemos a dónde vamos”",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
+   "date": "2026-11-06T04:02:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "58e9889edc4f",
    "title": "Keiko Fujimori da balance de sus 100 primeros días sin mejoras sustanciales: “No hemos vencido al crimen aún”",
    "excerpt": "La presidenta señaló que se registran 6.5 crímenes violentos diarios, reconociendo que todavía no se ha logrado controlar la situación. Además, Fujimori repasó las medidas adoptadas para prevenir el Fenómeno…",
@@ -615,17 +659,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-100-dias-de-gobierno-cifras-anuncios-y-balance-de-su-gestion/",
    "date": "2026-11-06T03:57:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ce8e943fa88f",
-   "title": "Keiko Fujimori brinda un balance de los primeros 100 días de gestión: “Hemos demostrado que sabemos a dónde vamos”",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
-   "date": "2026-11-06T03:55:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1219,39 +1252,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHA5MzJycVF4Vjl5NVRRWEczWjNyb0Z3eEJwRVZIWjBUVE5WYjJaTWRtZ2hDYjA1bEdVbTctUXFJeFNVOUViclZFTjlwRkRmd2g0QmNMb2p6S1RJR0dLQktTY3RZMmhHeExvWE5VMjJLTUY0ZTc2UlhSZjNmSFpCWjg2d0NWYUlyb3hPNlNkbWpzZFEtUlZ0TURFbDBRa0xHYWl3VS1qZHpZNUgyTGw2emJzaEtHS0pKWGpjQUh2Q2QtYjdEMzFQQkRDX2NVQ1l3ZWVz?oc=5",
    "date": "2026-11-04T21:11:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "11dbe3f43012",
-   "title": "Análisis de los 100 días del gobierno de Keiko Fujimori | EEUU: Derrota electoral de Donald Trump",
-   "excerpt": "",
-   "source": "Epicentro TV",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb1pieW5aV0txV1h0Mk1wSG9lTlJLVlFkb2NGaXlFRFI2UjduLXZFNThCc3NjcDkwUU5aQWlselB2Ujk0NEdycXhhTi04VEh4N3BYSVRZbDdGejA5MlhfNWhLUE1LWUdKcE5nQkNoZmN4cjN1czhqMXA3eFY2TUV6cmh1NlVvV192dXBIcmJydTVWUm02UVpxMS1ZdFpEMVUxVHNJTm0wRWdFSXBMOHdtLUx6Sk04TnM?oc=5",
-   "date": "2026-11-04T20:50:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "70d2349539ba",
-   "title": "Keiko Fujimori anuncia dos nuevos penales en Huacho y promete acelerar su construcción",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVDZfemNCaV8xRm1aVS00N3FaMXpZZ0lkVC01eVFGQWhNaU1QN1UzLUdjTkU2NW9LdFdTYVowVzA1SGh1cDkteWZpWjBoRVJPU0tnemJudzhjZTA2RkNZRkRSejNVaEV4SUI2R09qRUlrTEwxZHYyTFd4VWNyRFlmbEZGMzc2NEdYb0tfMHNZU0VXaWR2aWpERWxNcFFKNV9OSFZJbW1wR2FrY1FoeTJSX0pOUE55UQ?oc=5",
-   "date": "2026-11-04T20:42:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2902cb738a9f",
-   "title": "Presidenta Keiko Fujimori liderará firma del Pacto contra la Anemia",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3ExUm5nTEFCaHJCSTBIRi1uMEw2VDlaU2RqTnVGcHU5RzUtN2ducmxZZExLYTRyYWZGenRacVhETmRaTTR4dzQ3Z3RYaGk0U3h3RkstZWw5N19zS3FUMmNZemlMRXdTdTV3VHBKcnNFTzlJellDbjVqZTNqQV9DWHRTWnlaOEUyRGVTYUQ5ZFBOclBEcjN1Z3FCX25fLU5zZjc3bTlKOGotX0c3U0swSlVZVWVOTS0tWEpNNmVNTmc3cGl3?oc=5",
-   "date": "2026-11-04T20:27:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
