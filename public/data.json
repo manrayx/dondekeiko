@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T20:21:15.117971+00:00",
+ "generated_at": "2026-11-06T20:43:18.866972+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Tumbes",
-   "lat": -3.566,
-   "lng": -80.451,
+   "name": "Piura",
+   "lat": -5.194,
+   "lng": -80.632,
    "abroad": false,
-   "city": "Tumbes"
+   "city": "Piura"
   },
   "source": "RPP",
-  "date": "2026-11-06T18:59:48+00:00"
+  "date": "2026-11-06T20:30:28+00:00"
  },
  "next": {
   "place": {
@@ -591,6 +591,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e34953784c06",
+   "title": "Gobierno destinará S/ 7 000 millones para destrabar proyectos, entre ellos cinco pendientes en Piura, anuncia Keiko Fujimori",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSk5fWTB5QmpZNWpGc2Y5VVNsYmpKZURzVW9UOWJXRUE2M25jSkZkY2MtZzRMekR6dnl3M0p2b3hGcGd5LThuM2NyRFNIa25qbV91MEh2aXhYMkNoLTU4ZmxaVWs3NFNpR2daRUNyM3U2c096MlJ5cFdQeHYzQ1ZsdE16b3V4VExQak9KOGx4YXN0cHktVXlsYkZuMlpDZWIzQzg5Rzc1dzRZUHpLd2dYZ0ptTDNPRE84bThZOUpnZFRJb3VjOFFlSUh1eVJEWDhqMEVlX0M5elJ3UTZXakNIUEhFX3ZEUGdfRjRONlpuLVNpSnZnRWgtb1BwN3VTdDA?oc=5",
+   "date": "2026-11-06T20:30:28+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "4268daa00943",
    "title": "Keiko Fujimori anuncia reubicación de familias afectadas por las lluvias durante visita a Tumbes",
    "excerpt": "",
@@ -701,6 +718,17 @@
    "excerpt": "La presidenta Keiko Fujimori reconoció que le hubiera gustado obtener más facultades del Congreso durante los primeros 100 días de su gestión. La mandataria hizo esta evaluación durante una visita…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-tras-sus-primeros-100-dias-me-hubiese-gustado-obtener-mas-facultades-del-congreso-noticia/",
+   "date": "2026-11-06T18:49:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "757fb70b6157",
+   "title": "Keiko Fujimori tras sus primeros 100 días: “Me hubiese gustado obtener más facultades” del Congreso | PERU",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRXpWenA0eTRTZWpoR1FMZkxCN2FNQ2lOVGlDTEFDSGZQX0RuVjQ3TXVlZ3JFNjlEclZLTk1xQlhQR3ZUVkZaVC1yYUNVR2lUVFBleUFUWUhFQUR4cHlITWJUODYxUC1QQkxjMUN5UWoxaWltbElLWFg5N21aWW85dFY3YXRka1hkSC1CYzdfZ01HU3FacE56RjNnZDdXVDFVOW5iaFlTUUlpUWhxQmNtNGpLR3RzUFpiUEMtLUR6MnZaczdtVm5PVw?oc=5",
    "date": "2026-11-06T18:49:45+00:00",
    "state": "posando",
    "place": null,
@@ -1270,28 +1298,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUF0QUdXS2s4cGNNQmxxMGZPbThQZVNGdFphT3drT2NXekZ6ZWhOdnJZNGRUcHVEci1DYlNMMDI3cW0zYS1HU1NtdkY4czktV3pKczZUazlKZHd0YTFsSUZQMHRaNmMwTkZ0elV2T3RUcnRWYXo3TXZXaEYya3RUYnh4dlZyMzNzaFFWbTBQOHRjTnR0dEdUaGZzN01PRmhQZmItZVA5NW1ob3lPV2ZUWndBVQ?oc=5",
    "date": "2026-11-06T04:13:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ce8e943fa88f",
-   "title": "Keiko Fujimori brinda un balance de los primeros 100 días de gestión: “Hemos demostrado que sabemos a dónde vamos”",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
-   "date": "2026-11-06T04:02:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "58e9889edc4f",
-   "title": "Keiko Fujimori da balance de sus 100 primeros días sin mejoras sustanciales: “No hemos vencido al crimen aún”",
-   "excerpt": "La presidenta señaló que se registran 6.5 crímenes violentos diarios, reconociendo que todavía no se ha logrado controlar la situación. Además, Fujimori repasó las medidas adoptadas para prevenir el Fenómeno…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/05/keiko-fujimori-da-balance-de-sus-100-primeros-dias-sin-mejoras-sustanciales-no-hemos-vencido-al-crimen-aun-252195",
-   "date": "2026-11-06T04:01:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
