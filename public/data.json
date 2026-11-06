@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:36:51.663637+00:00",
+ "generated_at": "2026-11-06T02:58:06.654614+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "lng": -77.02636,
    "abroad": false
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-05T18:04:11+00:00"
+  "source": "Infobae",
+  "date": "2026-11-05T18:04:00+00:00"
  },
  "next": {
   "place": {
@@ -119,9 +119,9 @@
   "transmitiendo": 4,
   "entrevista": 0,
   "celebrando": 1,
-  "molesta": 1,
+  "molesta": 0,
   "triste": 4,
-  "posando": 50
+  "posando": 51
  },
  "total_7d": 60,
  "silence": {
@@ -565,8 +565,19 @@
    "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
-   "date": "2026-11-06T02:35:24+00:00",
+   "date": "2026-11-06T02:54:19+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a9e8d2738a07",
+   "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T02:54:13+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -574,9 +585,9 @@
    "id": "e63acb4bfa11",
    "title": "Keiko Fujimori brinda un balance de su gestión tras primeros 100 días de gobierno",
    "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3ktU3V5U3ZwN29yMHJmcldxN2tXX3dxNG1KRmlkb1NiXzNqYzNuWEY2aFN1ZnVraTdpMjhfdDVxU2MzdF9zck5RcFJJV2g3aGJkU2pLLW1Kcmw5MllBOFB4bWxJd29zdGxiZDFNck9OX2I2M01GcFFzRklZbEVqOW10WFdjYkswaGdWV2xfM3pybDJFYnpMeUY4M0V5N0sxRkZ5MmdiSWZESWdsYVo2LUVKYVBXbWJHOVdvUkJ3?oc=5",
-   "date": "2026-11-06T01:59:27+00:00",
+   "source": "geniostv.pe",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3BFUW9fMXFRbjg1R3ZmUi1kVWpoZE8wZ0Q4VHJfNkJDNEtvOTFXREFzQ0NDclFfQ0tzeHZLbzhmcHVkN1ZkdkRDUDg4ZXR6aGRJRkVwbUxqQ0Z4Ymc0SEk1a3Nrak1tT2xDb3pYLV9rT2paNm9Qbzl4bUhUSFFtdV9KYmxQaURxbTRUdENzTWpZQURya0xrV2JGeU9mSVVUQlVJWm5FV05HT1ZPc1E?oc=5",
+   "date": "2026-11-06T01:59:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -642,7 +653,7 @@
    "excerpt": "",
    "source": "Convoca.pe",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQjNxWUJSOFJsMW5YbEFFZFpHWmRGOWlrNnhKY1IxQ1NjcDdNTHBVLU9WWFN2UGF5UHBvcE1lSXBudFV6YWxQbzA1bGV6ZW5rUU0xa1djSG5jbjEzWE9VNHJHQkhrUUVQVkZWSU4wRldCcjd0eEdrMGR0eE9tcG5rZnRkWWtlczA3c0JiZ1d2bF9IaXltcDlMVXRGLV90T3dfMXBuWG9ERlMxbTRuOC1pVmxVRFZGZw?oc=5",
-   "date": "2026-11-05T23:01:56+00:00",
+   "date": "2026-11-05T23:01:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -717,10 +728,10 @@
    "id": "59cfe48aa674",
    "title": "Keiko Fujimori gana espacio en el Congreso, pero persiste la tensión política a 100 días de gobierno",
    "excerpt": "Al cumplir más de tres meses de gestión, el oficialismo suma respaldos parlamentarios clave frente a un bloque opositor fragmentado que pierde fuerza política, según en análisis de Luis Benavente,…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/keiko-fujimori-gana-espacio-en-el-congreso-pero-persiste-la-tension-politica-a-100-dias-de-gobierno/",
-   "date": "2026-11-05T18:04:11+00:00",
-   "state": "molesta",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRkFDamE1dWo1bDZ5d1RkMGZsMzJ0R0gyX2ZRUk02OC1CcURqb1hOY1JCWW03eWdUdDM3UW5BYXNsZlQzOURWWFRoV3NGZDVkOVdFTURlZUtzWUdaRG9wMjdSbVFnb1poUGxNaWRjU2lrNnVYZ01IOUV1VVpyU2pVQnM0R2ExN05rXzM3Wmo5Q2dLdU55UU8wVzZUczgyNGN1R3hWcFlrMWlmaE9paEtJSmV6Ri1uckRid0stc0JJZTRSWlpqQTBpRVRFMTBtOTJmVmJKWFZRSdIB8gFBVV95cUxOMzZGSEJaMTB4dW1QbHRQcWpaRGxCeUYydVVmT3N4WnpwajRMS19OWUlMYmpqNFQ3ejBlMVB4aURzV0Z6YzNCbjFLS3ZvSGJGVFJOS1hLMkNhZU9lZkxCSVZtdzZxRHVkTE5la2FsMk0wcmE4UnRydWZobEFLaGdlWG5oaXgzM1NOdlNjMDRuQ1VWZW1CMlF2S1RwX0N6NjFYbXo4ZVFKWGtNZ3dHQTUyLWx6d0tHY2hDY0N3bXBIMlZGU2wzQ0RLUmRVcTBtWE1kWmpoVmZmblVnVERWazdMZXBQR29lWXpLSEFyUW5nMkhlZw?oc=5",
+   "date": "2026-11-05T18:04:00+00:00",
+   "state": "posando",
    "place": {
     "name": "Congreso",
     "city": null,
@@ -1225,17 +1236,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFdHUUZDbWJvYVVWODZPNHptN3dFSzJMT1VUclJybVctUXdDaWcxUFA0TUtRX1F5SVRINDBLRGdCZzNKWW5Va2pKRzVnbWtDY29vbVVjV1E4N3ZqMmlUdlNfNW5HaEsySU55Z3l1dHRiZGo2allOcVNWS0tYVFJNWHk0R3hqbmxXTWlTU0toZEZTN1ExOW9RaEhJSzJqQlNjU0JsNVFVLXp4RXlSM2xyY1FCRVN5SkdKV05Yc3k0N2tXaFJJYVJrUW1B?oc=5",
    "date": "2026-11-04T17:54:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1c71e396ba61",
-   "title": "Keiko Fujimori: Observatorio de Cumplimiento dice que hay avances en solo seis de las 68 ofertas para los primeros 100 días",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSlNZV0Y0aFZRMDlDWlhiUm8tMmp0di1iaGRWMTZJdEVycnF4aDJ2QlRmZ1ZjZ3l0c1B1YWVTczdZeUZra2hTMDg2ZmNkdWNTYVJDTzRiVktFWXZMdzFCQ0daTnJrdTRNZEwwTktwUzVLcGlLZzdiQkVZYk1jdkNVX0hxNGZkZm9YcmgxT3FubUNIYkNzWkc4VFNrN3lPTlE4MjM4dmdZN3pUWExleGVaT1lPSXdjNlV0dFZtSkt3aUJRWkQyMk1VWWVyQXo3clhLbUpKM0hmbmJ5N3B2UnhSYl81WVc3X3JFNC1hcnVUVFJ6UnVZZWNJLWJjNWwxakk?oc=5",
-   "date": "2026-11-04T17:44:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
