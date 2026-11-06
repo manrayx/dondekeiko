@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T20:43:18.866972+00:00",
+ "generated_at": "2026-11-06T21:05:09.128849+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -663,6 +663,17 @@
    "next": null
   },
   {
+   "id": "456d3072b88d",
+   "title": "Keiko Fujimori: “Siempre se pueden hacer mejores cosas, con mayor rapidez\"",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVFGMDFNYkNQdENHdEhmNVNGNTlsR0NpRDJ5dHVJaXFrTDFFMFI2eFVMOXdzVEdweXczVHNWUmc5QXlBTXRNMTctbW1tQ2RhMVJ3SndyYUdvTWVIVHEzN1FweG9LSEZqOHBFLTBoTDVBeVNQWHktQk11MWw4dlo1QmhkcmZ6WEprenlzaHRZU0pxeWU1NC11YTF4RmtSQms?oc=5",
+   "date": "2026-11-06T19:29:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "27604389253a",
    "title": "Los hitos de los cien días de Keiko Fujimori, entre el orden prometido y las dudas sobre su rumbo",
    "excerpt": "Según el investigador Paulo Vilca, el Ejecutivo conserva ventajas políticas frente a gobiernos anteriores, aunque no logra traducirlas en resultados que frenen la baja en las encuestas",
@@ -1039,6 +1050,17 @@
    "next": null
   },
   {
+   "id": "c3a2845dac0f",
+   "title": "Keiko Fujimori afirma que la lucha contra la delincuencia empieza a dar resultados",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUlVxYzFhdk54Y2hpdlNMTkwyZVd6YVNCeFFKOGF5N3JENWxtbFZzSUVNOHQ4anJQMzJJN2l2blRENXdZaXBKMklTMVVUSTI2QWlwanN2Qm92MTBNUXctcmZnS05DdE5qU0lWVk9NTVBlSzd0VHJxd0Vzb2pWMDdNbWt1QUFvdTdHOHp1TWRLNzJjTnRPV1QyRmI5ZS1nVGVQNXc0UW5tUFUwVFV2UDFHNkpndUl5aGxmZHdVRWdPOEJuQdIB1gFBVV95cUxQX0FGRVR2cEJOelM0eTNMTXJEZjhxQkpqTWFwWEVCaW0wOVJNMW5VWTVNY0tKTy1ISlF3X0lDQVhuY0FTQzRpX1ZROXJxXy1zZ1JhWThnVE9HQ2hPNExlS1c1S19Ya0gzSGFPNzdMakNoNEdvM04zNkdsSVFTUVQxRm9oLXEtRUVkNEtBSHEyMW05WWhNZFVfM2J0ZnRmN0Zkb2hHQjdiYmhEUlNFVk0xRExTMU1KYzcwdGFsTFdZZHVvaFdnMmZ4SUhUenlkeFhxQWZ5cXNn?oc=5",
+   "date": "2026-11-06T13:15:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a0b0dcd83480",
    "title": "Keiko Fujimori: «En 100 días no se resuelven los problemas acumulados en años”",
    "excerpt": "",
@@ -1276,28 +1298,6 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN3dLWWRFcXhFbWYyTXpGLTFLMXEzNnp4c0tkQUUzelB2LVVBZlJwOHNsMGp3WGhpV0hGNTFSblNtWUdPT2FyaS13VzBSZUcxWlBHa3dydWFKVmZ2YUkweHo2MjVkeEhadi10cWozam9paFdHWXRIenVqTDU0TXdIU0YxNXV3SzRWZmVteWdlS1JNZ3RoaVo3UTBEUmxLbmxFdGpFdXJTNzEwUVVoM0gzRHhkSjZxZkE?oc=5",
    "date": "2026-11-06T04:25:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bb75b48d0255",
-   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión",
-   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T04:17:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "55daadaeb725",
-   "title": "Presidenta de la república Keiko Fujimori presenta balance de su gestión",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUF0QUdXS2s4cGNNQmxxMGZPbThQZVNGdFphT3drT2NXekZ6ZWhOdnJZNGRUcHVEci1DYlNMMDI3cW0zYS1HU1NtdkY4czktV3pKczZUazlKZHd0YTFsSUZQMHRaNmMwTkZ0elV2T3RUcnRWYXo3TXZXaEYya3RUYnh4dlZyMzNzaFFWbTBQOHRjTnR0dEdUaGZzN01PRmhQZmItZVA5NW1ob3lPV2ZUWndBVQ?oc=5",
-   "date": "2026-11-06T04:13:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
