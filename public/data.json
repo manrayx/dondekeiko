@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T22:53:23.122071+00:00",
+ "generated_at": "2026-11-06T23:15:23.154886+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -591,6 +591,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5bd565318077",
+   "title": "Presidenta Fujimori: Hay un gobierno que responde y acompaña",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
+   "date": "2026-11-06T23:13:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "456efe0272a5",
    "title": "Fujimori tras sus primeros 100 días: “Me hubiese gustado obtener más facultades” del Congreso",
    "excerpt": "La presidenta Keiko Fujimori reconoció que le hubiera gustado obtener más facultades del Congreso durante los primeros 100 días de su gestión. La mandataria hizo esta evaluación durante una visita…",
@@ -608,17 +619,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM3VJWUVhMUttNVJuVVNWZG05cXRlX1dKX01lX2tyMFpuNjhEUUZFaVFXVnBxMTVUSjBTaEhaNnBPNGIxVkdlYWk1NHl0MVQtMkpGc1Y0TjM3SnhMQVVsNW5kamVDT3BLR0Zfa3k4Skpsd1RSSC1ic0cwbzNfbm5iV2VtV09ENDNabmpzUlk2UkJ3TXM4dzZtVEg0MXh1Yi1JX2I5eHlwekJWM3RBZFN5X0IwNFV3ODUxb091ZUhnN1JzTUJtVzhCQkYyRGZjdllOb1BPUGFSM3M?oc=5",
    "date": "2026-11-06T22:20:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "05071780dbe7",
-   "title": "Confianza empresarial sobre la economía cae a nivel pesimista por primera vez desde el inicio del gobierno de Keiko Fujimori",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDRDRUs3bVF0d1pXSG5nM0xJOW9mam9LZVQwcVV3d3VuM0lqYkFIWHJvcGk0a2tnRW5sY1pvOV9lbWZNS1RwODYyVFozWS1xX1dEMjBYYmFoNktfOFhXWU9POE9ycS05aDdEY0ZaVDRVUk4xbFBucXYzLS1ic2tOeWpDeDQxQVlWU3E3ems5bmNxQXpHT1JmZWNnNFJFWkdKaUVEcTJuN0lDNXY5YlN2RUgyQndfeGZLX1U2el80Z1NmbkVzOXpuRUxpV1AtTWQzVVJVSFdxV1Q4YzBqSU5LcUhVYnROdXRsQmRlYVhCYmFyRWE4ZWpzenBKT1REUFBabXg0?oc=5",
-   "date": "2026-11-06T22:16:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -746,6 +746,17 @@
    "next": null
   },
   {
+   "id": "05071780dbe7",
+   "title": "Confianza empresarial sobre la economía cae a nivel pesimista por primera vez desde el inicio del gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDRDRUs3bVF0d1pXSG5nM0xJOW9mam9LZVQwcVV3d3VuM0lqYkFIWHJvcGk0a2tnRW5sY1pvOV9lbWZNS1RwODYyVFozWS1xX1dEMjBYYmFoNktfOFhXWU9POE9ycS05aDdEY0ZaVDRVUk4xbFBucXYzLS1ic2tOeWpDeDQxQVlWU3E3ems5bmNxQXpHT1JmZWNnNFJFWkdKaUVEcTJuN0lDNXY5YlN2RUgyQndfeGZLX1U2el80Z1NmbkVzOXpuRUxpV1AtTWQzVVJVSFdxV1Q4YzBqSU5LcUhVYnROdXRsQmRlYVhCYmFyRWE4ZWpzenBKT1REUFBabXg0?oc=5",
+   "date": "2026-11-06T19:15:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bc1c1783bbb1",
    "title": "Gobierno de Keiko Fujimori: Avances y retos del sector salud a 100 días de gestión",
    "excerpt": "",
@@ -868,17 +879,6 @@
    "next": null
   },
   {
-   "id": "5bd565318077",
-   "title": "Presidenta Fujimori: Hay un Gobierno que responde y acompaña",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
-   "date": "2026-11-06T17:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "acb8aecb6ab6",
    "title": "Keiko Fujimori sobre su nivel de popularidad: \"Las encuestas siempre van a ser una foto del momento\"",
    "excerpt": "",
@@ -898,23 +898,6 @@
    "date": "2026-11-06T16:52:39+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "a36ec34c9983",
-   "title": "Keiko Fujimori visita a familias afectadas por lluvias en Tumbes y anuncia reubicación de zonas de riesgo",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2g0WlhKY1VjcGctRkZqMUZpZnBfN0hOYzM3aTlyR1J6ZER4QV9qR1UtUTRtcUhMNUttdUJBN0FVbk1vdUNtLXZ4dUdwRHhNWGFnS1FCUDIxUElYckNucllYakFSZ2JXc1JHRGJxSlNOV3hoU3VsbmlTT29uQWFjMkV2ekFROEstcDYzSGJNMEtDdTR1YkpDTUd3SkQ4b0FaZ3hweUVfMGgxdTUzbGxveUU3anJwMXRmZWQ1TlpWeGtvY2w4U2ZXbXAwYVZUM3dMeFQ0MUpoYjlKUQ?oc=5",
-   "date": "2026-11-06T16:19:10+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
    "next": null
   },
   {
@@ -1059,6 +1042,23 @@
    "date": "2026-11-06T14:24:57+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "a36ec34c9983",
+   "title": "Keiko Fujimori visita a familias afectadas por lluvias en Tumbes y anuncia reubicación de zonas de riesgo",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSy1VQTZSOFhySEwtM2F0T0dDTjk2bDhveVIwakNxbFpUd2l1d3lsbWR1eUstbFBhclB3Uk1xdWQwcEZUU0hfcjFiYm1nS2loNUJySURNSmxWQnF0LVpJR2RndEtWUHZQZE1tck9CQTVfRUg5eDA2UGd1M3pmenhmaE9mZjFvUEcxZ2dyRkRLQ0QwbGUxaWFhYW9Hd1lCanhUQ2xNcWdFNEFJbUJvZ3V4SDN3VHZQY2pNcXVHRzRsbmpHNlZfVHI1d3llY3hSS3V3MlZrU1V3?oc=5",
+   "date": "2026-11-06T14:12:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
    "next": null
   },
   {
