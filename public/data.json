@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:58:06.654614+00:00",
+ "generated_at": "2026-11-06T03:19:32.542640+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 4,
+  "transmitiendo": 5,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
   "triste": 4,
-  "posando": 51
+  "posando": 50
  },
  "total_7d": 60,
  "silence": {
@@ -560,6 +560,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a9e8d2738a07",
+   "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
+   "date": "2026-11-06T03:15:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4b79c4e28821",
+   "title": "EN VIVO: Keiko Fujimori brinda un balance de los primeros 100 días de gestión",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
+   "date": "2026-11-06T03:12:17+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "314a8bf56c21",
    "title": "EN VIVO: Keiko Fujimori brinda esta noche un balance de los primeros 100 días de gestión",
    "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
@@ -567,17 +589,6 @@
    "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
    "date": "2026-11-06T02:54:19+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a9e8d2738a07",
-   "title": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T02:54:13+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -739,6 +750,17 @@
     "lng": -77.02636,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "fb17595f86b5",
+   "title": "Primeros 100 días del gobierno de Keiko Fujimori: Solo se cumplieron 6 de 68 promesas iniciales (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDRPS3pFNG1oUWE5cURMWlFYekJxcTdJQ0lMcWFneXNOUmhQd1pTeERpRGNFb3hRaW9WTTBOYnFiYVMxbG5JWmxXY0d2OExRZGc5Y3hSX0RBUElVOFh1S0hXdm1YUUctUENVQ3hpUldNbUtHYjViSHFSVGNseE9xTjdoVzRjd0g0MkZsdW5kQTVUa1d5RjUzd0VTNWlGVnY3Q2tZekxYRmF3Y1N0T0xSeWFwS2UtTUM5dkhLZ2JNTWNDSGtJS0E?oc=5",
+   "date": "2026-11-05T17:57:53+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -969,8 +991,8 @@
    "title": "Presidenta Keiko Fujimori: nuestro objetivo es reducir la anemia a la mitad",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT09TNEpCZVIyX2RmdTM5TE14cnBxZzRHdnBQcTVRSTUtamdJRmgxUlpjcVU3aEFQNmZMQ1dYLXdlV01qNWZWRXlaM3RjNTk5eDlmMEtYc2VBMUYxNTRYMENqSmZiV0hCR3VVYVc4d0czeVBtRGZ4a3VMTlFJTVVzRVR1VDNqOHdHbHFLZmdaNzlyQVZjZUE2N0JVNnpVQktZdDJFa2lDS3hpU0tkZGNOU3EzWUo?oc=5",
-   "date": "2026-11-05T01:59:23+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlpkcVlLa1puNTlpR1c1M29GOG1wa05qanppd1lKMEZlck1Gelk5aXdXU1hsc2tGNy1WRFNyZ01QbjdfcTNKMzRyZGJRNkdiekFZdjMtMllCSGhKZGU5UHdzbzgtcW04S3NtT3VwZHllbHFITkNLLTBwSHl6ay16YTlZazRVeko5RTJ5Yk9UWVNFczNUdEdpVlpiZlVObTJVU2lTYm5iZ3YwOGpRRkdSNjZBYVdtSmQxbWc?oc=5",
+   "date": "2026-11-05T01:21:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1214,28 +1236,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTXl4OXFwWjVnblJkcmstQzZ2NmhoTE9ZMktucnh6TjRVVFJCRWJyLU5xdVJ6LWt5empXSlNodWdMOHdLWnZTOUJoemhja2tvRVYyNG5qQ2JqeklqTDNHa2pKZjJ6SVZrUUljRGswV3dNeldGV3ZEU0FzbzJzd2hkMzF0Q0RDMDRlM2xIZVNVWjcweDRqYnhHNEswSUxBUERtTmU2aHRma1M5bE51MFBJRnV5Ym5HamFIS1RLWGcwX0U1cTVTcGN5T2x2QnU0Nk1PbFVHMl8zUmRRRFhlakE?oc=5",
    "date": "2026-11-04T18:15:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "20e0b815afa1",
-   "title": "Presidenta Keiko Fujimori entregó terrenos para construir dos nuevos centros penitenciarios en Huacho",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3RUb3g4Rm50TFBEN0NONG50WFI5OEFDbmRXVjhRcXdQZTQwVk5OdkhsQl9hTy05MkFFLVAwYUxBMDRLWnBvQmZoYllhRWFxWTVKd1JhUVBUaWdUb3J3SlVJeV9HQWVGeDhaN2tSQjJOQXhyaGJnWnJ0eWZoOWpreVpnTHNPWHpydGo2VG8xNllhQWNPdkRsT3FoVlNUdDd4R2c1LUU5SWhNZzJVNUoxWDVxSWlheFZWWTYzN1JKZUgzcUNQdF95bml0Q3VTTW44MWxB?oc=5",
-   "date": "2026-11-04T18:04:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32544c10bf1c",
-   "title": "Los primeros 100 días de gestión educativa del gobierno de Keiko Fujimori [INFORME]",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFdHUUZDbWJvYVVWODZPNHptN3dFSzJMT1VUclJybVctUXdDaWcxUFA0TUtRX1F5SVRINDBLRGdCZzNKWW5Va2pKRzVnbWtDY29vbVVjV1E4N3ZqMmlUdlNfNW5HaEsySU55Z3l1dHRiZGo2allOcVNWS0tYVFJNWHk0R3hqbmxXTWlTU0toZEZTN1ExOW9RaEhJSzJqQlNjU0JsNVFVLXp4RXlSM2xyY1FCRVN5SkdKV05Yc3k0N2tXaFJJYVJrUW1B?oc=5",
-   "date": "2026-11-04T17:54:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
