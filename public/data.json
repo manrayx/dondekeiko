@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T22:09:47.531906+00:00",
+ "generated_at": "2026-11-06T22:31:53.190746+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -591,6 +591,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "05071780dbe7",
+   "title": "Confianza empresarial sobre la economía cae a nivel pesimista por primera vez desde el inicio del gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDRDRUs3bVF0d1pXSG5nM0xJOW9mam9LZVQwcVV3d3VuM0lqYkFIWHJvcGk0a2tnRW5sY1pvOV9lbWZNS1RwODYyVFozWS1xX1dEMjBYYmFoNktfOFhXWU9POE9ycS05aDdEY0ZaVDRVUk4xbFBucXYzLS1ic2tOeWpDeDQxQVlWU3E3ems5bmNxQXpHT1JmZWNnNFJFWkdKaUVEcTJuN0lDNXY5YlN2RUgyQndfeGZLX1U2el80Z1NmbkVzOXpuRUxpV1AtTWQzVVJVSFdxV1Q4YzBqSU5LcUhVYnROdXRsQmRlYVhCYmFyRWE4ZWpzenBKT1REUFBabXg0?oc=5",
+   "date": "2026-11-06T22:16:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "83c37fab282b",
    "title": "Dengue en Perú: Keiko Fujimori pide a padres vacunar a sus hijos ante temporada de lluvias",
    "excerpt": "",
@@ -708,17 +719,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/06/los-hitos-de-los-cien-dias-de-keiko-fujimori-entre-el-orden-prometido-y-las-dudas-sobre-su-rumbo/",
    "date": "2026-11-06T19:24:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "05071780dbe7",
-   "title": "Confianza empresarial sobre la economía cae a nivel pesimista por primera vez desde el inicio del gobierno de Keiko Fujimori",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdDRDRUs3bVF0d1pXSG5nM0xJOW9mam9LZVQwcVV3d3VuM0lqYkFIWHJvcGk0a2tnRW5sY1pvOV9lbWZNS1RwODYyVFozWS1xX1dEMjBYYmFoNktfOFhXWU9POE9ycS05aDdEY0ZaVDRVUk4xbFBucXYzLS1ic2tOeWpDeDQxQVlWU3E3ems5bmNxQXpHT1JmZWNnNFJFWkdKaUVEcTJuN0lDNXY5YlN2RUgyQndfeGZLX1U2el80Z1NmbkVzOXpuRUxpV1AtTWQzVVJVSFdxV1Q4YzBqSU5LcUhVYnROdXRsQmRlYVhCYmFyRWE4ZWpzenBKT1REUFBabXg0?oc=5",
-   "date": "2026-11-06T19:15:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
