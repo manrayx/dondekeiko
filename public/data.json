@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T03:19:32.542640+00:00",
+ "generated_at": "2026-11-06T03:41:29.923195+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 5,
+  "transmitiendo": 6,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
   "triste": 4,
-  "posando": 50
+  "posando": 49
  },
  "total_7d": 60,
  "silence": {
@@ -130,6 +130,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-05T22:06:00-05:00",
+   "end": "2026-11-05T22:32:00-05:00",
+   "minutes": 26,
+   "subject": "Presenta balance de primeros 100 días de gestión.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-04T17:00:00-05:00",
    "end": "2026-11-04T17:27:00-05:00",
@@ -556,7 +572,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 1306,
+ "agenda_minutes_7d": 1332,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -565,8 +581,52 @@
    "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T03:15:25+00:00",
+   "date": "2026-11-06T03:41:38+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c87268233428",
+   "title": "Keiko Fujimori dio Mensaje a la Nación por sus primeros 100 días de gobierno: balance de su gestión y principales desafíos",
+   "excerpt": "La mantaria peruana se dirige al país para dar cuenta de los avances de su gestión, iniciada el pasado 28 de julio. El mensaje se produce en medio de las…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-dio-mensaje-a-la-nacion-por-sus-primeros-100-dias-de-gobierno-balance-de-su-gestion-y-principales-desafios/",
+   "date": "2026-11-06T03:37:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d20eb8558719",
+   "title": "Keiko Fujimori brinda un balance de los primeros 100 días de gestión",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
+   "date": "2026-11-06T03:36:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "58e9889edc4f",
+   "title": "Keiko Fujimori da balance de sus 100 primeros días sin mejoras sustanciales: “No hemos vencido al crimen aún”",
+   "excerpt": "La presidenta señaló que se registran 6.5 crímenes violentos diarios, reconociendo que todavía no se ha logrado controlar la situación. Además, Fujimori repasó las medidas adoptadas para prevenir el Fenómeno…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/05/keiko-fujimori-da-balance-de-sus-100-primeros-dias-sin-mejoras-sustanciales-no-hemos-vencido-al-crimen-aun-252195",
+   "date": "2026-11-06T03:31:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "34e6268c105a",
+   "title": "Keiko Fujimori brinda balance de sus 100 días de gobierno | EN VIVO",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjA2eVRHWWJtZzBvMEVUZndKLWU0cU00SFE0LVVuU0ZKWElveHh6cHZUX2MxbU5XZVZXWWtiREItMVpsbE50aVY0RWpRcmFPZXN3WmZwbnJaMkJvNEIwZmlKejRZZVhOOEthOXR5d3d3QmQ4d2Ffa3VVVXNTT2trSnU2emFwMDBPYVY3Qjl3RTVCakNUNnFiSzJzWTJzRGFySW52cnNMd0VFWWVNeHdSNUZQXzJ4Z1VRVXZwZ1R5WlFxNS1fN0NmdE95c9IB3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw?oc=5",
+   "date": "2026-11-06T03:28:12+00:00",
+   "state": "transmitiendo",
    "place": null,
    "next": null
   },
@@ -991,8 +1051,8 @@
    "title": "Presidenta Keiko Fujimori: nuestro objetivo es reducir la anemia a la mitad",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlpkcVlLa1puNTlpR1c1M29GOG1wa05qanppd1lKMEZlck1Gelk5aXdXU1hsc2tGNy1WRFNyZ01QbjdfcTNKMzRyZGJRNkdiekFZdjMtMllCSGhKZGU5UHdzbzgtcW04S3NtT3VwZHllbHFITkNLLTBwSHl6ay16YTlZazRVeko5RTJ5Yk9UWVNFczNUdEdpVlpiZlVObTJVU2lTYm5iZ3YwOGpRRkdSNjZBYVdtSmQxbWc?oc=5",
-   "date": "2026-11-05T01:21:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT09TNEpCZVIyX2RmdTM5TE14cnBxZzRHdnBQcTVRSTUtamdJRmgxUlpjcVU3aEFQNmZMQ1dYLXdlV01qNWZWRXlaM3RjNTk5eDlmMEtYc2VBMUYxNTRYMENqSmZiV0hCR3VVYVc4d0czeVBtRGZ4a3VMTlFJTVVzRVR1VDNqOHdHbHFLZmdaNzlyQVZjZUE2N0JVNnpVQktZdDJFa2lDS3hpU0tkZGNOU3EzWUo?oc=5",
+   "date": "2026-11-05T01:59:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1098,6 +1158,17 @@
    "next": null
   },
   {
+   "id": "1ea132ca7daf",
+   "title": "Cero promesas cumplidas: Arequipa y el balance gris de los 100 días de Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWt0NEdrUHJQTjg2VU5PbTRsdVNaUDl0a3RoZUU3cFMzRHhnNVNBd2pMU3BRMXFxclNuNXNPNklkd09GQldxVWJNZGRVanZRUFRfNjZSS1dBX0ZhV3h4dkhjYXVsVkszUWtsbHlQSEplSThuY01JOHdfLVF6T3RsMkFVZmdzUDkwVW5tc1RtQUpiVEdZaWFwa0g1eDQ1Tlp4X3RBdzF0RHJaZmg4WGVJSg?oc=5",
+   "date": "2026-11-04T21:14:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "44625da1a6f8",
    "title": "Keiko Fujimori entregó terrenos para construir dos nuevos centros penitenciarios en Huacho",
    "excerpt": "",
@@ -1181,61 +1252,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa18ta09GN2ZpSjlGaEd5TG9peFN6UFo1Q3JFdmNjMndUUW1qNTJoN0NZU2ZXcEl3TWYtV1FTWmdzZE5xOWF0bVpKLUhnNHlVRXFHckQ3cXBGSTU5VDZjRVpwQ2NHR2JtVGYxLTlYR3BleUJJQTZaYW0zdXFMOUZ1ZDgyaW9mR05ZODVoWXJ1MVhZQTNKeHBRamdmNGNaQkV6Um1mM1Q2bDZINjFHRGxWMUtfa19oZjFOUTh6YzFWQVFCYUNDX0RzQTA5bjlVdw?oc=5",
    "date": "2026-11-04T18:52:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "af9244c33e8c",
-   "title": "Keiko Fujimori entregó 2.600 hectáreas para construir dos nuevos penales en Huacho",
-   "excerpt": "El Minjusdh recibió los predios estatales transferidos por Vivienda durante un acto en Ancón I, donde las resoluciones fueron presentadas simbólicamente al INPE con participación de varios ministros del Ejecutivo",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/04/keiko-fujimori-entrego-2600-hectareas-para-construir-dos-nuevos-penales-en-huacho/",
-   "date": "2026-11-04T18:43:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "530eab691f6f",
-   "title": "Presidenta Keiko Fujimori entregó terrenos para construir dos penales en Huacho",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOUxBV1hwLXpTU1JUNWI3dFVKVFhYOGg5N3k5ZjNzSzBhNzlOQ0JwVk5VSmduVHI1LTdnTzZrcGVKa21DQS1lT1FWZnVabTZTYjE1SVY0TThVMU5EU0Rxd1ozN0pVLVRvYUJxRS1fSkFoSVdtT1VSYlJmYnl3RHFudDlubm1TSG5UXzNBaU9OUHlZRVUxUDIzM3pIOUpGQ3B6YS1YNzlQcGFabXFWbEQxa2RiMXc1bmtOWmk0?oc=5",
-   "date": "2026-11-04T18:25:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f50c2c43891a",
-   "title": "Renzo Reggiardo evalúa con expectativa los primeros 100 días del gobierno de Keiko Fujimori",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmU1dFNFTngtb2paTk5qaEd2ZFpTOWVadDRmSmhBcFlOdFl0VHV5SmctUEpTdzE5SVBiY3hTMVdjOXpkUmJoYzA0dFlKd0l4a1Mwc294dS1CM3VBUmstamdGVGE5cjFCaDZxMVRSTVlEUmt5MTFXdllGamdpR3hiZ2p6dUcxWGpFd0JPZVh4NUJVQkRWYkU3Z1MtLTR4RVR6X21sTVJxQnVFWnA5WXZtMEFmYw?oc=5",
-   "date": "2026-11-04T18:22:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "328bb7e326c2",
-   "title": "Entregan terrenos para construcción de dos nuevos penales: “En pocos meses se inaugurarán”",
-   "excerpt": "La presidenta Keiko Fujimori anunció y saludó la entrega de terrenos al Ministerio de Justicia y Derechos Humanos (Minjus) para la construcción de dos nuevos establecimientos penitenciarios y planteó que…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-entrega-terrenos-al-minjus-para-construccion-de-dos-nuevos-penales-en-pocos-meses-se-inauguraran-noticia/",
-   "date": "2026-11-04T18:20:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "04fc905ae075",
-   "title": "Presidenta Keiko Fujimori entrega terrenos para construir dos nuevos centros penitenciarios en Huacho",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTXl4OXFwWjVnblJkcmstQzZ2NmhoTE9ZMktucnh6TjRVVFJCRWJyLU5xdVJ6LWt5empXSlNodWdMOHdLWnZTOUJoemhja2tvRVYyNG5qQ2JqeklqTDNHa2pKZjJ6SVZrUUljRGswV3dNeldGV3ZEU0FzbzJzd2hkMzF0Q0RDMDRlM2xIZVNVWjcweDRqYnhHNEswSUxBUERtTmU2aHRma1M5bE51MFBJRnV5Ym5HamFIS1RLWGcwX0U1cTVTcGN5T2x2QnU0Nk1PbFVHMl8zUmRRRFhlakE?oc=5",
-   "date": "2026-11-04T18:15:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
