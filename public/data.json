@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T14:10:42.206277+00:00",
+ "generated_at": "2026-11-06T14:32:09.194887+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,12 +493,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c5d896d6315a",
+   "title": "Keiko Fujimori se contradice: \"En 100 días no se resuelven los problemas acumulados en años”",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRC11U2R5cXhWczcwQzdtYzJTN2NKN1BsWGYxekVtb1BRMEgxSTZGeGtNZHYyWHQyMXdfQUNraFZkalJNLXNrRGdRaWpyZ1ZhLWVrbTdTNjlpMTVra2J4cm9zcDktbUlpUEdlWHNVWmd0MlJzXzJoU0VGS0FkaThKZmdoSGhISkpKY1BLdE5SUkg3bnllcFlxcGFfc1BPWng1RTYycQ?oc=5",
+   "date": "2026-11-06T14:24:57+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e8d829565456",
    "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
    "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-06T14:06:00+00:00",
+   "date": "2026-11-06T14:10:46+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1149,17 +1160,6 @@
     "name": "Madrid",
     "abroad": true
    }
-  },
-  {
-   "id": "955fc0ff3651",
-   "title": "Después de 100 días: Lo que se viene en el gobierno de Keiko Fujimori",
-   "excerpt": "Con el presupuesto anual para el 2027 encima y la meta de crecimiento del PBI bajo revisión técnica, el Ejecutivo encara semanas determinantes en el Parlamento frente a la extorsión…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/05/despues-de-100-dias-lo-que-se-viene-en-el-gobierno-de-keiko-fujimori/",
-   "date": "2026-11-05T14:03:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
