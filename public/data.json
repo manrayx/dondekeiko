@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T11:37:47.265549+00:00",
+ "generated_at": "2026-11-06T11:59:15.726444+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,6 +493,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4223312d4e00",
+   "title": "Vecinos de Villa El Salvador cuestionan a Keiko Fujimori tras inundaciones: \"¿Para qué vienen si no van a cumplir?\"",
+   "excerpt": "Vecinos de Villa El Salvador criticaron a la presidenta Keiko Fujimori por la falta de acciones para prevenir inundaciones ante el fenómeno El Niño. Este reclamo surge tras la promesa…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/05/vecina-de-villa-el-salvador-cuestiona-a-keiko-fujimori-tras-inundaciones-para-que-vienen-si-no-van-a-cumplir-hnews-475080",
+   "date": "2026-11-06T11:51:59+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "668424b2b391",
+   "title": "Keiko Fujimori fijó cinco años de metas para la educación: ¿qué propone el Reglamento de Disciplina Escolar anunciado por la presidenta?",
+   "excerpt": "El Plan Nacional busca ordenar las políticas públicas del sector mediante cambios en las aulas, asistencia a estudiantes y soluciones temporales para centros afectados por sismos",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-fijo-cinco-anos-de-metas-para-la-educacion-que-propone-el-reglamento-de-disciplina-escolar-anunciado-por-la-presidenta/",
+   "date": "2026-11-06T11:34:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0823dbb5f18a",
+   "title": "100 primeros días del gobierno de Keiko Fujimori: ¿Qué dijo la presidenta sobre la economía, el empleo y las inversiones en su mensaje a la Nación?",
+   "excerpt": "Keiko Fujimori señaló que las certificaciones ambientales aprobadas permitirían viabilizar proyectos por más de USD 10 mil millones, en medio de las medidas para enfrentar el fenómeno El Niño",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/100-primeros-dias-del-gobierno-de-keiko-fujimori-que-dijo-la-presidenta-sobre-la-economia-el-empleo-y-las-inversiones-en-su-mensaje-a-la-nacion/",
+   "date": "2026-11-06T11:34:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a2e8d86df960",
    "title": "Keiko Fujimori aseguró que crímenes diarios bajaron de 7.5 a 6.5 en sus primeros 100 días de gestión",
    "excerpt": "La presidenta del Perú, Keiko Fujimori, habló sobre los resultados de su mandato en materia de lucha contra la inseguridad ciudadana durante el balance de sus primeros 100 días de…",
@@ -933,17 +966,6 @@
    "next": null
   },
   {
-   "id": "4223312d4e00",
-   "title": "Vecinos de Villa El Salvador cuestionan a Keiko Fujimori tras inundaciones: \"¿Para qué vienen si no van a cumplir?\"",
-   "excerpt": "Vecinos de Villa El Salvador criticaron a la presidenta Keiko Fujimori por la falta de acciones para prevenir inundaciones ante el fenómeno El Niño. Este reclamo surge tras la promesa…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/05/vecina-de-villa-el-salvador-cuestiona-a-keiko-fujimori-tras-inundaciones-para-que-vienen-si-no-van-a-cumplir-hnews-475080",
-   "date": "2026-11-05T21:33:26+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "e28ea7a60a3c",
    "title": "MEF ya no buscaría inconstitucionalidad de la Ley de gratificación y CTS para CAS",
    "excerpt": "¿Se salva la gratificación y CTS para trabajadores CAS? El gobierno de Keiko Fujimori seguiría su implementación gradual",
@@ -1135,28 +1157,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZGJKYzhMa2ZWSWl1UzdXUXFVMkF0dFAxdzctNldEUThxaF9CSjE5WmMwZnBCQXlvaVJlWmJvUjdNSmEzb25BRmFDXzVqSG1HUTlmTGx3RE9DVExfNkdVRWw3elBhUHpnWEh1eGtCZUU2b3Z3SXF4MnNVZlNNR3hYYU9neTJ6ZTBwWkxDbHpRa1lXQlJpTVhteVlYMXlFOVNlb0wxM3BPYTQxNUc4TXZtUGpENXhFcE1ZdXZVV19Dd2hSTnI0XzlDZlB0Y3JOd0dPNXBaa9IB7wFBVV95cUxNa3Y1Q3lOWnlJZWF5YUQ3TnhVUHl6RHlmV3FDY1ZXZTAyOGhld0gtdHJJcWphY3o4WXNRRmV1Z0lRSWM0clJVc2JwVC1FYnd6Qjhqd21zV0hQZF9JbnE4WlVYQTQ1cS1FeWNTQ1didVlkRjFTaEdvWV9OYWdkQlhqYzVSenhBMFhTb0ZiRmhmOTZpM1ZieGQ3ZVQwNWtKLWhHeE1PUEJlYV9Bc0lleFVsbUU0dWFNZnpnMjRoSjhGMjZhVmxwYTNwMnJOWmxyZHNnM0s5NVlxbm95bUNnTmRCbXM1Uk4weVUwcjl1b2RaWQ?oc=5",
    "date": "2026-11-05T11:06:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9839a8f97dba",
-   "title": "Visita del papa León XIV, ¿un bálsamo para Keiko Fujimori a pocos días de cumplir sus primeros 100 días en el poder?",
-   "excerpt": "Su nacionalidad peruana y los años que ejerció como obispo de Chiclayo fortalecen su identificación con la población, una conexión que antecede al actual Gobierno y no puede atribuirse a…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcS1MM3VMMko5VmNQclFhbllUa1ZiWEhVOHFkSkQ2TEtQSzJrMGtMb1h4QUl5YUllem1UejNudGdBdmVWQTY4QzJlVUZKNVNEWDdub3FIdnhad0VkUC1kRHdTdmxQR01OQlNxWXZMSThHdXgtZk1PWl9MN1U2NnYxcFhTOHVKanQ0eHBuNVhRR0dsam01M3NOVUpQNHVGbGtMV3ZjcEhmcHBaQmVuMlgwR2FsTVgzY2dNQS1Ua2NDYU5hMlY3clVrbDBlQTlFeTNjbE9XaWd3ODJHS3BRcmdsTS04c0FaUWtpeEHSAYQCQVVfeXFMT1U2U2NiQ2c4aS1QWHJRMWQ5NENncnhCWHpWTUtYQy12RUZWbW5vUEdVMkZfWm1NQmpQTWswXzNLLWRZVE9sMENYLWs5SFNtcmQtNVAydFZMNFJyUW9SS1U2czFpbGFXcUdTNUtfd0lmYTZFNFVhdW92dEFQMWRiczZCNkI0Vy1BUlo2UUhHTHNyRWNnVVNlQVdtUlhMSER3U2hHVmJzRzZSWnBzQTZRZGZobnd1UU1nUFREM1NiMnVfcEZHbV9aZWZtbmNKYWU0bldJMHJUSHlESDVxUzJuaUdBbmU1YTNjV1dZMUVHaFdiODJhLUNzU0ZhNnhmSjdyZjc3Tjg?oc=5",
-   "date": "2026-11-05T11:05:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3aeea3425d7b",
-   "title": "Keiko Fujimori cumple 100 días de gobierno con dos frentes que marcan su agenda: la criminalidad y la amenaza de El Niño",
-   "excerpt": "El Ejecutivo ha priorizado el combate contra las organizaciones criminales, el endurecimiento de las medidas de seguridad y las obras de prevención ante posibles inundaciones y lluvias intensas en el…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLTNlY0NMR3UyLXp3SW03eVdjcUU3dWdiSGpZVjR1R1F5bEQ2V2ZSbVZ2Uzl6Z0hxSEpmVjdsRV9CUHNzQkd3c3NxNWxRaGVQaFk4SzhQQlFuc0ZBOXZtVnFFdnNGUHRsUFBoMi1tRDRadVVNeDhobTIySDRwc2g2Q1JCQTJfZUVxY1JZTnpmSFZTa2g4RlFYTUMwaEp0aVc5LUt0LWlLdlRZY0xnNTl3V0U3TDE1XzF2TkJNckJYS2ktT2ZJN3M1T2o4dnRMR0ZoME95QlZaaXFKUi1KcXlKMnFsRVN2Q2lUTFh0ZURsRFlRUdIBjAJBVV95cUxPU19mUHlhamc5YjJTMUI4ME1SaDlfSThpeFNWLVVRWmtxMW5XcGFmdjV6eDhQMWpja2RFNEFUNy14MjZnOWVtUUk4dTk5QnByZ2w2WDBzN3ZVSlNKLXZ4X1pxVjBXVkY0TE02Qk0zMWRseVBOcFQyWDNuNDFXUTREUXpkcHV5UzgxTjY4eE5UM05nd0lrQVVnZnN5LWZLMjFFcmk4bEVCeUdBZGVzLWIySTlRWG05OWZPejJ6YWpmZEdDM3VYVXZsTlpNaFh3UC1lR3ZBVGRIN0RDTHhTSml5SlR6MmJDejNLaWdta0F5X1d1YWdWZHlsREdLUkxMaW1BVFpSVUJvbmVCNUFJ?oc=5",
-   "date": "2026-11-05T11:03:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
