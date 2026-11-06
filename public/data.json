@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T02:15:17.197590+00:00",
+ "generated_at": "2026-11-06T02:36:51.663637+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 4,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 1,
   "triste": 4,
-  "posando": 51
+  "posando": 50
  },
  "total_7d": 60,
  "silence": {
@@ -560,12 +560,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "02258b363194",
-   "title": "EN VIVO: Keiko Fujimori presenta esta noche balance de los primeros 100 días de gestión",
-   "excerpt": "En un mensaje a la Nación, la presidenta de la República, Keiko Fujimori, realiza un balance de los primeros 100 días de su gobierno, mientras los índices de criminalidad y…",
+   "id": "314a8bf56c21",
+   "title": "EN VIVO: Keiko Fujimori brinda esta noche un balance de los primeros 100 días de gestión",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, presenta esta noche un balance de los primeros 100 días de su gobierno, período marcado por el pedido de facultades al Congreso, las…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/en-vivo-hoy-keiko-fujimori-presenta-balance-de-los-primeros-100-dias-de-gestion-como-presidenta-del-peru-apuesplan-noticia/",
-   "date": "2026-11-06T02:08:53+00:00",
+   "date": "2026-11-06T02:35:24+00:00",
    "state": "transmitiendo",
    "place": null,
    "next": null
@@ -574,9 +574,9 @@
    "id": "e63acb4bfa11",
    "title": "Keiko Fujimori brinda un balance de su gestión tras primeros 100 días de gobierno",
    "excerpt": "",
-   "source": "geniostv.pe",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3BFUW9fMXFRbjg1R3ZmUi1kVWpoZE8wZ0Q4VHJfNkJDNEtvOTFXREFzQ0NDclFfQ0tzeHZLbzhmcHVkN1ZkdkRDUDg4ZXR6aGRJRkVwbUxqQ0Z4Ymc0SEk1a3Nrak1tT2xDb3pYLV9rT2paNm9Qbzl4bUhUSFFtdV9KYmxQaURxbTRUdENzTWpZQURya0xrV2JGeU9mSVVUQlVJWm5FV05HT1ZPc1E?oc=5",
-   "date": "2026-11-06T01:59:42+00:00",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3ktU3V5U3ZwN29yMHJmcldxN2tXX3dxNG1KRmlkb1NiXzNqYzNuWEY2aFN1ZnVraTdpMjhfdDVxU2MzdF9zck5RcFJJV2g3aGJkU2pLLW1Kcmw5MllBOFB4bWxJd29zdGxiZDFNck9OX2I2M01GcFFzRklZbEVqOW10WFdjYkswaGdWV2xfM3pybDJFYnpMeUY4M0V5N0sxRkZ5MmdiSWZESWdsYVo2LUVKYVBXbWJHOVdvUkJ3?oc=5",
+   "date": "2026-11-06T01:59:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -600,6 +600,17 @@
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWFKMW1UNGdoR2xYd0dFVkdBTWRWR25SSTlJdlEyV3FFYW4xYjg1SVhhYU5hWEsxY1FmN0xPU0ppMFA4eE1TYlBBUkVjejNNYlVQX1N4ZFRNUVpJQnVadEhhNEpZcHZaRTk1T2xQQW1xUU9rMWxJUk8zR2FUQ2p0VEZOWjdmTEExbGZ5ZktwMDlZWkgyUU9CWmJfOW1jb3ZSVnhKdFBHd2JXRjh0WkJ3Z19NOGI?oc=5",
    "date": "2026-11-06T01:23:00+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "02258b363194",
+   "title": "EN VIVO: Keiko Fujimori presenta esta noche balance de los primeros 100 días de gestión",
+   "excerpt": "En un mensaje a la Nación, la presidenta de la República, Keiko Fujimori, realiza un balance de los primeros 100 días de su gobierno, mientras los índices de criminalidad y…",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcElzQWh3SWxxeWY4STJYOEhpSjFydmt5cEVuUndaS1dZdHc1RHc1UXBkRzJ3ejRWcFRlWkFHOHMwbTRseVM0OXdsRWJqVS1nVUhJTUYyOEVzRjQ0cnVzclh6NnZJWndzbVlSb0lYWk15QjhLd1l0LWNjTlFEZ2htYjl1X3RrT2VLTHBqV2hhb251R3hXV3FaUlpKYzZZcDdWX3EtMWJVcmNIQ3VpYTRTOG53YVRMVXR6LWhJSGdNRzFqeHc2b1Y2LW5ONHY1QVdzTDFDNmdPN1RyakVQY1V1MmxFMjFTSFp1S2fSAf4BQVVfeXFMTVBZeXlLMjhzOUhpWVZ5NThJU2M1cnFpNDdjQXI2bkJHblVwazV0c2kwSk5Mak1ieVo3anh2MDBjSkdFMUJzVE9GalJTWDA3ZUdVRzZTNDBFWGRKLTZkTnNRejRRNHJvNlBOMFB6R1FIRFF3cnB5UmRRdGU3ZkpEcjlUc3o4LU90NVJCZHd4LVdLN2NLWWxaQ1BUbXpYODlISnRBVWxaUGVYSmJZX2dxTTA3bzVtcFR4V1I4eXpXTjVjYnNHbDdKQURVaVNSNzlFZ3o4cWRLV2Q1WjFCNHF5VTZTUmpQZW1naXpYM3NCRGwweFUwanM0ZGo0bVo3Qmc?oc=5",
+   "date": "2026-11-06T01:16:50+00:00",
+   "state": "transmitiendo",
    "place": null,
    "next": null
   },
@@ -947,8 +958,8 @@
    "title": "Presidenta Keiko Fujimori: nuestro objetivo es reducir la anemia a la mitad",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlpkcVlLa1puNTlpR1c1M29GOG1wa05qanppd1lKMEZlck1Gelk5aXdXU1hsc2tGNy1WRFNyZ01QbjdfcTNKMzRyZGJRNkdiekFZdjMtMllCSGhKZGU5UHdzbzgtcW04S3NtT3VwZHllbHFITkNLLTBwSHl6ay16YTlZazRVeko5RTJ5Yk9UWVNFczNUdEdpVlpiZlVObTJVU2lTYm5iZ3YwOGpRRkdSNjZBYVdtSmQxbWc?oc=5",
-   "date": "2026-11-05T01:21:01+00:00",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT09TNEpCZVIyX2RmdTM5TE14cnBxZzRHdnBQcTVRSTUtamdJRmgxUlpjcVU3aEFQNmZMQ1dYLXdlV01qNWZWRXlaM3RjNTk5eDlmMEtYc2VBMUYxNTRYMENqSmZiV0hCR3VVYVc4d0czeVBtRGZ4a3VMTlFJTVVzRVR1VDNqOHdHbHFLZmdaNzlyQVZjZUE2N0JVNnpVQktZdDJFa2lDS3hpU0tkZGNOU3EzWUo?oc=5",
+   "date": "2026-11-05T01:59:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1225,17 +1236,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSlNZV0Y0aFZRMDlDWlhiUm8tMmp0di1iaGRWMTZJdEVycnF4aDJ2QlRmZ1ZjZ3l0c1B1YWVTczdZeUZra2hTMDg2ZmNkdWNTYVJDTzRiVktFWXZMdzFCQ0daTnJrdTRNZEwwTktwUzVLcGlLZzdiQkVZYk1jdkNVX0hxNGZkZm9YcmgxT3FubUNIYkNzWkc4VFNrN3lPTlE4MjM4dmdZN3pUWExleGVaT1lPSXdjNlV0dFZtSkt3aUJRWkQyMk1VWWVyQXo3clhLbUpKM0hmbmJ5N3B2UnhSYl81WVc3X3JFNC1hcnVUVFJ6UnVZZWNJLWJjNWwxakk?oc=5",
    "date": "2026-11-04T17:44:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d441f71f73eb",
-   "title": "José Baella considera insuficientes medidas de Keiko Fujimori contra inseguridad ciudadana: esto dijo",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORW1xZ09FRW5DREh0MWN3WHFaMlY3YlVFcDVLTjQ5dWZCU2cyNVViM1JrWFNwbm5zZVN3ekdIaFFXdGNnMENqV3o3UkpXLS1tZjZENGZhNXNyX21Xalh0ZEtfWXljNzJJUTNELVY1SzQzMGF0MjRQbkhOQkd2cnJ4X0tmS29kb2JJTlQ5Wlc4NU50T1NoT2VHWGlyQ0hDaDV1dHZOSHpxdXROMEhhR05hWXFxQ1dKczV6WWxtMW9QYWctMlFOSG1aZFE2bDVteXZSbmg2UHVpaFNPSHNFZGVNbk83ejBaYnM2b2FLb0I2TVdFVUVRelNtajJPT05nMWMwMUpFX1g4d2dsbnU3WmhlMV9jRkF1MUJSM2tBdzBnWTE?oc=5",
-   "date": "2026-11-04T17:32:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
