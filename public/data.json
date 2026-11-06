@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T08:23:14.757776+00:00",
+ "generated_at": "2026-11-06T08:44:29.446256+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS0M2UUE5eVB5VWx1a0Nrc2NGZnpZaVA4REpfNzY3RDk1cDIzdDlXc1VfTUsxZE9tdW0xSkp0MlJ3dmtaOXV6elV0VFBjVHpZRTNnWUswNjdQVzhUWktlYVJxSVJKRnFsVjRYVnJ0bFpac2tSME5yQVBpNnBnTVJZZVNHSkxkOFVSdmFqblhoQzBnanFUR2dhX1FtcG0wUXlCc0pUQUZzNGRZSm9WSmtNWHZTQk1xMHJ0eXJoMnA4eTBBTmVVc3JqTjBQbTV6Z3pKSGpaeDRXMGhTLW_SAfYBQVVfeXFMTkRicjZ5SG5oN3F2OXhBQVJZTFo5Mi1iSFlOUnRLUklCRmc5TFZXa3VkZVRQbW8tS09VYUE5c05DUHBsQV9iaEVYUVg4OFplTUZFSHhfWWpOc0tBaEc0N3ExUFNJYmZNN2tRcHpkcUtiMERfZXQwbFItamRLVFYzSVlHNEFDQkhBSUk0azRKeWtnWGw3R2ZwMmQ5NXNUT3ptTmNPandzdnBNa2xEOWdoSXR5eU80Q05fYTgzSG1mX1NUT3h3a1lCUldTeGE0XzlWRGdGcUs1NEo1X0J1UzJuSlk2aWY2WnczRllvNVBWck1XaV8xREhR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 5,
+  "transmitiendo": 4,
   "entrevista": 0,
   "celebrando": 1,
   "molesta": 0,
   "triste": 2,
-  "posando": 52
+  "posando": 53
  },
  "total_7d": 60,
  "silence": {
@@ -559,6 +559,17 @@
    "next": null
   },
   {
+   "id": "6a4e3d9949ed",
+   "title": "Keiko Fujimori defiende sus primeros cien días de gobierno en Perú pese al aumento del rechazo",
+   "excerpt": "",
+   "source": "Prensa Libre",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRjhTXzE4blNyZlFUcTQ4SHRrTHNhNndGd2pDbFQ3SEdraTRLM1V4bTN6UDlxWUg3Q3plRU9VZWFpalppS3pteW5RbTltcHRzel9KTE1OSF9OSW9Jb0FrX1A2Z2xYdmI0bVJXdjVaUjJ3MmEzeVloMFd0UzZRUG9wa2RqZy01dUV0MUNacXJmQ2R5VmY2cHppTGxpdnpOWkJ0b0xXVl9qRFlFMFo2VVRBdFpVZjZ1SGF1M3c3NFFTMzhBRUZ6WHdheW50d2lRam5TSktNVVBhN0NjNWc?oc=5",
+   "date": "2026-11-06T04:58:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e7b1083965e8",
    "title": "Keiko Fujimori hace balance de sus primeros cien días de gobierno: “Estamos en el camino correcto y los criminales también lo saben”",
    "excerpt": "",
@@ -735,6 +746,17 @@
    "next": null
   },
   {
+   "id": "616eb0921a2f",
+   "title": "Keiko Fujimori brinda balance de sus primeros 100 días de gobierno | VIDEO",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjA2eVRHWWJtZzBvMEVUZndKLWU0cU00SFE0LVVuU0ZKWElveHh6cHZUX2MxbU5XZVZXWWtiREItMVpsbE50aVY0RWpRcmFPZXN3WmZwbnJaMkJvNEIwZmlKejRZZVhOOEthOXR5d3d3QmQ4d2Ffa3VVVXNTT2trSnU2emFwMDBPYVY3Qjl3RTVCakNUNnFiSzJzWTJzRGFySW52cnNMd0VFWWVNeHdSNUZQXzJ4Z1VRVXZwZ1R5WlFxNS1fN0NmdE95c9IB3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw?oc=5",
+   "date": "2026-11-06T03:55:57+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "814aeb6488a5",
    "title": "Keiko Fujimori: En 100 días no se resuelven los problemas acumulados durante años",
    "excerpt": "",
@@ -779,12 +801,12 @@
    "next": null
   },
   {
-   "id": "616eb0921a2f",
-   "title": "Keiko Fujimori brinda balance de sus primeros 100 días de gobierno | VIDEO",
+   "id": "e63acb4bfa11",
+   "title": "Keiko Fujimori brinda un balance de su gestión tras primeros 100 días de gobierno",
    "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjA2eVRHWWJtZzBvMEVUZndKLWU0cU00SFE0LVVuU0ZKWElveHh6cHZUX2MxbU5XZVZXWWtiREItMVpsbE50aVY0RWpRcmFPZXN3WmZwbnJaMkJvNEIwZmlKejRZZVhOOEthOXR5d3d3QmQ4d2Ffa3VVVXNTT2trSnU2emFwMDBPYVY3Qjl3RTVCakNUNnFiSzJzWTJzRGFySW52cnNMd0VFWWVNeHdSNUZQXzJ4Z1VRVXZwZ1R5WlFxNS1fN0NmdE95c9IB3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw?oc=5",
-   "date": "2026-11-06T03:28:12+00:00",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3BFUW9fMXFRbjg1R3ZmUi1kVWpoZE8wZ0Q4VHJfNkJDNEtvOTFXREFzQ0NDclFfQ0tzeHZLbzhmcHVkN1ZkdkRDUDg4ZXR6aGRJRkVwbUxqQ0Z4Ymc0SEk1a3Nrak1tT2xDb3pYLV9rT2paNm9Qbzl4bUhUSFFtdV9KYmxQaURxbTRUdENzTWpZQURya0xrV2JGeU9mSVVUQlVJWm5FV05HT1ZPc1E?oc=5",
+   "date": "2026-11-06T03:19:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -830,17 +852,6 @@
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcElzQWh3SWxxeWY4STJYOEhpSjFydmt5cEVuUndaS1dZdHc1RHc1UXBkRzJ3ejRWcFRlWkFHOHMwbTRseVM0OXdsRWJqVS1nVUhJTUYyOEVzRjQ0cnVzclh6NnZJWndzbVlSb0lYWk15QjhLd1l0LWNjTlFEZ2htYjl1X3RrT2VLTHBqV2hhb251R3hXV3FaUlpKYzZZcDdWX3EtMWJVcmNIQ3VpYTRTOG53YVRMVXR6LWhJSGdNRzFqeHc2b1Y2LW5ONHY1QVdzTDFDNmdPN1RyakVQY1V1MmxFMjFTSFp1S2fSAf4BQVVfeXFMTVBZeXlLMjhzOUhpWVZ5NThJU2M1cnFpNDdjQXI2bkJHblVwazV0c2kwSk5Mak1ieVo3anh2MDBjSkdFMUJzVE9GalJTWDA3ZUdVRzZTNDBFWGRKLTZkTnNRejRRNHJvNlBOMFB6R1FIRFF3cnB5UmRRdGU3ZkpEcjlUc3o4LU90NVJCZHd4LVdLN2NLWWxaQ1BUbXpYODlISnRBVWxaUGVYSmJZX2dxTTA3bzVtcFR4V1I4eXpXTjVjYnNHbDdKQURVaVNSNzlFZ3o4cWRLV2Q1WjFCNHF5VTZTUmpQZW1naXpYM3NCRGwweFUwanM0ZGo0bVo3Qmc?oc=5",
    "date": "2026-11-06T02:45:43+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e63acb4bfa11",
-   "title": "Keiko Fujimori brinda un balance de su gestión tras primeros 100 días de gobierno",
-   "excerpt": "",
-   "source": "geniostv.pe",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN3BFUW9fMXFRbjg1R3ZmUi1kVWpoZE8wZ0Q4VHJfNkJDNEtvOTFXREFzQ0NDclFfQ0tzeHZLbzhmcHVkN1ZkdkRDUDg4ZXR6aGRJRkVwbUxqQ0Z4Ymc0SEk1a3Nrak1tT2xDb3pYLV9rT2paNm9Qbzl4bUhUSFFtdV9KYmxQaURxbTRUdENzTWpZQURya0xrV2JGeU9mSVVUQlVJWm5FV05HT1ZPc1E?oc=5",
-   "date": "2026-11-06T01:59:42+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -1147,17 +1158,6 @@
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNUJSanp6MXhmbDNBVTdQblpWRGQtSFRZWTdWV1NXWXNFdFVuMk5sV2hRWGtfWGNWa0c3ZmRKZ1FPSUxzbXQ0UTBZZmlCSzk4UXB0NTlTVDlld0NrWVFaZVNXczFWTm1RanZtSF9oM05qZTFObzliRG1RZnhkV2R1c3VpRVE2X3JOVWllYkg2WjV4bG1wRW1BOElCRlRreHBDWWVock5CeXpqM3lRUExjRGFLU0FEZ3QxSGhBUVBWSFludkNUTnB1RW9vX253SWdzb05tamp30gHwAUFVX3lxTFB5NW9iWjJJQ05IN29LRkk0WXBSSUxKc3VjVkxYMmFrMXN4TU1ZUkZZaUc3YTFna2NSeHUxLXZRWTBUcW56SldTY0hzNE9ncGp0U2ozWGpneHpyT2xvZUlaZ3dzYWNTUW5hYzVMdE5PZGR3UWJPZ05uUHhBTGV0YTRSa19uNkphdEZyQ19BaHhreUJUYzFvSVM5Q3VELTJQTVV5Y3hDZ0w4bzN3WEd5cWN5XzdwQ1hFcUcyZmY3R2pTWVpRaWJPaFFJcW4zOTJyZWZURUdIdDhCS3MyR0RMS1paVzAxNF8ybVhzblRGaXdTdw?oc=5",
    "date": "2026-11-05T11:01:00+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a2594e1bacbd",
-   "title": "Keiko Fujimori cumple 100 días de gobierno: entre el discurso del orden, las redes sociales y la percepción ciudadana",
-   "excerpt": "De una comunicación cercana en redes sociales a un discurso más enfocado en la autoridad y el orden, Keiko Fujimori ha modificado su estrategia desde su llegada a Palacio de…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN2wzajBlQW5UOWtEQWp2SjQyNmdFb0ZXOEJieGtvSEFQQ2dlM3M5VEN1ZEx6V1ZVbUs4VkpkYnhLeWJSMGtJdzVWR0hVbHYtaTF2NDlOeXMteWFUZmNDbGZHWF9GcDBzLTZXbFpObkF4VVphcVVaTU9VZjd3TmltajkwVG5uZ2tINHRtUDN4akhVQVFFY1diVTlOVVdTYnZ2NDNGbXkyOVhXSWMzOF96aEtqRXo0VG9YaG1ETUkxcHdCbW9SV2hOLW81YzMyYjZWVTF3dUpYeFFKVjFzT21mTzVGcTllR3dXejBjeNIBhwJBVV95cUxPTWw5dW43Vy02YWljV2lfWWRtRXJLNnIxNDhrVFJma2c5Nk83TUJnTUVnR3FNLXBTTndpRmpGSnZTV2tQa0R3RU1UVHJPRjJCTUpiT1czcVcxdXowV0FCMU1CR20tZlZZQlgyaG1xUWhfNjZ6X3VPWXBIdDktWUFXMUdWVjRtQUlDTnFJLVpIdFZ5dHBFZVEyMXVveUM5MlNOM3N2ekw5N24wQnNfM3ZOVXRaV2dFZ1hMZU0wOFBMOEVOa0o3V3lZSG1VbzJ2OWJOTTdFX2UzYm12SF9ZUnF4SUFUb0R5UThqSFpDMkNSSUxaUHJrTHpmZkM2QzVzWXFLYkNUaWtBSQ?oc=5",
-   "date": "2026-11-05T11:00:00+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
