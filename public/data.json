@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T13:26:27.661264+00:00",
+ "generated_at": "2026-11-06T13:48:34.563311+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -493,6 +493,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "624ec0b63057",
+   "title": "Cien días del gobierno de Keiko Fujimori: balance del inicio del mandato de Fuerza Popular",
+   "excerpt": "Analista Luis Benavente evalúa los primeros días de la presidenta. Señaló que la mandataria mostró actividad y prioridades definidas, pero advirtió que el tiempo político peruano se agota con rapidez",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/06/cien-dias-del-gobierno-de-keiko-fujimori-balance-del-inicio-del-mandato-de-fuerza-popular/",
+   "date": "2026-11-06T13:37:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "05e1ba263ede",
    "title": "Roberto Sánchez reacciona a balance de Keiko Fujimori, pero Alvina Ruiz lo frena: \"Que diga qué pasó con los yapes. Me debe 2 soles\"",
    "excerpt": "",
@@ -642,17 +653,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGpHYzgwaThtc0xkbmhLaWhyb2x1LW5pWlUxdXlEdGk4QWRSMEo4a0prV1RSN2NYVEZMS3FZMWlLSl9kX0tqMmxYX0QxcDJ4T09jNmhfM25NT3YtVlZqQkhnYU1uMXRGUXFiaDlLdkZpeTVNUEZOa3VsdU10STMzbGhCLWtfT2hjaEItNVFzZkJUWlgyVjhPQmF6bDZZblFYWUNiMUJxVFlHS2cweVkzWHFNZ1MwOExxR2VXRWhCMUc?oc=5",
    "date": "2026-11-06T08:33:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a4f9459a82a3",
-   "title": "Presidenta Keiko Fujimori brindará esta noche un balance de su gestión",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWFKMW1UNGdoR2xYd0dFVkdBTWRWR25SSTlJdlEyV3FFYW4xYjg1SVhhYU5hWEsxY1FmN0xPU0ppMFA4eE1TYlBBUkVjejNNYlVQX1N4ZFRNUVpJQnVadEhhNEpZcHZaRTk1T2xQQW1xUU9rMWxJUk8zR2FUQ2p0VEZOWjdmTEExbGZ5ZktwMDlZWkgyUU9CWmJfOW1jb3ZSVnhKdFBHd2JXRjh0WkJ3Z19NOGI?oc=5",
-   "date": "2026-11-06T07:49:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -882,8 +882,8 @@
    "title": "Keiko Fujimori brinda balance de sus 100 días de gobierno | EN VIVO",
    "excerpt": "",
    "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjA2eVRHWWJtZzBvMEVUZndKLWU0cU00SFE0LVVuU0ZKWElveHh6cHZUX2MxbU5XZVZXWWtiREItMVpsbE50aVY0RWpRcmFPZXN3WmZwbnJaMkJvNEIwZmlKejRZZVhOOEthOXR5d3d3QmQ4d2Ffa3VVVXNTT2trSnU2emFwMDBPYVY3Qjl3RTVCakNUNnFiSzJzWTJzRGFySW52cnNMd0VFWWVNeHdSNUZQXzJ4Z1VRVXZwZ1R5WlFxNS1fN0NmdE95c9IB3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw?oc=5",
-   "date": "2026-11-06T03:28:12+00:00",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw0gHfAUFVX3lxTE51Uy1mV01qR1JlUW5CR0w2Mnl3VklyUHQ0TnE4YUs3dU5mNmxKUlpPbUFOckJjVFA4ZDM5al9TUlZPVS1wMUtmaTFhX25lQVdnckdhRG9nckhEYmhoVDRoNDBYRDVqTVRhNEpHdDUwUDF5U09mSUpfUVRxSFNQNkpuM0dfa2xUbFBGcUJHc0U2SzhUemVYemZfSTd3bmZBcldCYU16aEZzaGZ5cWQ1OTQ2a2tXdWliMjZiSjlWa1hvLTdvZUtDajYwWTd6T1pJVDV2SDVGejBBZ2d1S01WaDA?oc=5",
+   "date": "2026-11-06T03:22:46+00:00",
    "state": "transmitiendo",
    "place": null,
    "next": null
@@ -950,6 +950,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUTRFanhLLVJmb1QtTXZidi1GUFRSdGtBMjhsRnJ4UjRUNTJPQ1JrRzdrWFBWcVZILTZEb2Y1SEt4aEJ1THBQV2hiRGEyNDNXMXJTSF9ieTdKeFZOakdhbC1zU1l6eXduWHd5S2xGMXZkcnU2VUo0Z25ZZ1I0b0ZLOTQwbzJHbkVnZWFFbm9vNXhiX2pNSXU1Y2NJM1MyMWMyT3RQS0ZEZWlkclZHTXFjYUdYUG43cTY5RkFwSGdOM3JtOEw2VUlwcNIB3AFBVV95cUxPeWxmNXE3RzJmalkzMFFUekxIVWd2UXAyVlBtR0FnVVU4eU9GdzJaQzEyRUJUVHduVld4UW1tRU1LWHJEQzNaTU9ETUVsU1VTa3VVc2JqTUFFN3UzWjFQS25iYXQ1M0pPTDQ0aGI1cmVYdTkycVlsWlFYUGxua1FhSndjLTNrMUh5b09keWZRSkV4MmF4YkRZRUMyQ3pGMDRreTRFWUh6VlQzaGVTNkRCeG11VzQ0a0lZMDVVNkptaEtWN1ZEOXBEbE4tUHhLblcxcDlrYWlYNTB0UHlC?oc=5",
    "date": "2026-11-06T01:33:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a4f9459a82a3",
+   "title": "Presidenta Keiko Fujimori brindará esta noche un balance de su gestión",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYWFKMW1UNGdoR2xYd0dFVkdBTWRWR25SSTlJdlEyV3FFYW4xYjg1SVhhYU5hWEsxY1FmN0xPU0ppMFA4eE1TYlBBUkVjejNNYlVQX1N4ZFRNUVpJQnVadEhhNEpZcHZaRTk1T2xQQW1xUU9rMWxJUk8zR2FUQ2p0VEZOWjdmTEExbGZ5ZktwMDlZWkgyUU9CWmJfOW1jb3ZSVnhKdFBHd2JXRjh0WkJ3Z19NOGI?oc=5",
+   "date": "2026-11-06T01:23:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1146,17 +1157,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/05/despues-de-100-dias-lo-que-se-viene-en-el-gobierno-de-keiko-fujimori/",
    "date": "2026-11-05T14:03:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e7658ce7ebf2",
-   "title": "Los 100 días de Keiko Fujimori en el poder: los aciertos y errores del gobierno de Fuerza Popular",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, cumple este miércoles 100 días en el poder, que han estado marcados por la pugna con el Congreso bicameral por la solicitud de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/los-100-dias-de-keiko-fujimori-en-el-poder-los-aciertos-y-errores-del-gobierno-de-fuerza-popular-apuesplan-noticia/",
-   "date": "2026-11-05T13:39:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
