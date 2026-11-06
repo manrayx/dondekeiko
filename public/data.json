@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T15:16:18.180072+00:00",
+ "generated_at": "2026-11-06T15:37:49.676171+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -112,10 +112,10 @@
    "lng": -80.451,
    "abroad": false
   },
-  "source": "Revista Caretas",
-  "date": "2026-11-06T14:09:51+00:00",
-  "title": "Keiko Fujimori viaja a Tumbes a supervisar albergues y hospital de campaña ante lluvias",
-  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFp1WFVUcHdwZXVTSExkdE5zNUtwZ1Q5amd1NlRDQ0hvX0R5b0VacXpuYUVjWVlPQVp1S280a1lTRkdLUHQyLVR4UEF3Ump2TjExZTZJN0Fmby1PWkk0SE9VTkh4RjNMSGxWRXNBRDRFYkpIVTBBMDA3Zm9rSUtHS0FrVnZTUTFJSzhSa1hYM29rUGFNLWgtQW81amNVNzlkaW5sY1VMejA3QmlvZEg4bUJwV05rcEE?oc=5"
+  "source": "Exitosa Noticias",
+  "date": "2026-11-06T15:15:17+00:00",
+  "title": "Keiko Fujimori viaja a Tumbes para inspeccionar hospital de campaña y albergue por fenómeno El Niño",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 5,
@@ -495,6 +495,55 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ea8605f5a868",
+   "title": "Luis Galarreta: “Cuando veo los 100 primeros días de Castillo y Kuczynski y miras hacia atrás, nosotros hemos avanzado bastante bien”",
+   "excerpt": "El presidente del Consejo de Ministros, Luis Galarreta, defendió los avances del gobierno de Keiko Fujimori en sus primeros 100 días de gestión. Esto luego que la mandataria diera un…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/actualidad/luis-galarreta-cuando-veo-los-100-primeros-dias-de-castillo-y-kuczynski-y-miras-hacia-atras-nosotros-hemos-avanzado-bastante-bien-ultimas-noticia/",
+   "date": "2026-11-06T15:34:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-06T15:16:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "629d3383df69",
+   "title": "Tumbes: presidenta Keiko Fujimori inspeccionó instalación de albergue en Zarumilla",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSnZhNUlqcmdQVDNGZzBnQXZuNURKRjlESnEzaUhhZklxRDB2bzhfY0FLaVFRNnB4cF9vNE9RcERxZjNHVU16SnRYN2lJZXB6T21wdkhqUUptcndGZkpHOE9rOVZnQnZRQ0dCU1hRQXNwdFBVeExDNVlOWExmcG55OV94MEZEZlBteWJPNGNLczFsNmk2SzQzTjhnYTJNNjhvbnVUVko0SG0tbnMxbFJKNmVxOF9ON0hfanRtZ2IyQ1FsaW1sVlg3dEJRNXBGZGF6MkJFWFlkbXlpZw?oc=5",
+   "date": "2026-11-06T15:15:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3460ef496a8f",
+   "title": "Keiko Fujimori viaja a Tumbes para inspeccionar hospital de campaña y albergue por fenómeno El Niño",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5",
+   "date": "2026-11-06T15:15:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false
+   }
+  },
+  {
    "id": "c8e26ac160a9",
    "title": "Carlos Basombrío: “El gobierno no se atreve a nada” y cuestiona la gestión de Keiko Fujimori",
    "excerpt": "",
@@ -540,17 +589,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRC11U2R5cXhWczcwQzdtYzJTN2NKN1BsWGYxekVtb1BRMEgxSTZGeGtNZHYyWHQyMXdfQUNraFZkalJNLXNrRGdRaWpyZ1ZhLWVrbTdTNjlpMTVra2J4cm9zcDktbUlpUEdlWHNVWmd0MlJzXzJoU0VGS0FkaThKZmdoSGhISkpKY1BLdE5SUkg3bnllcFlxcGFfc1BPWng1RTYycQ?oc=5",
    "date": "2026-11-06T14:24:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-06T14:10:46+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1129,39 +1167,6 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2o5d01ibnNLZ1NVcmF5Nm5XSVNYc0x3QVhiUElRXzk5ZTU3NnZCYm42YjJBYjd4V1Q4bkVUNThvcFZRRDJKY1h4Ykw0UkdEZXBOOTdnS1poVFBBRndlTHRFRDNnS2lSMkJLblVhLTRpVjJEeHNvUWJvSHRXRFJVLUxpODdDbGNlMzJVM2wtVFJiTS05NWJBVnZUMFpsYS1YZnNV?oc=5",
    "date": "2026-11-05T21:04:40+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "30aa7c6d0bd7",
-   "title": "Keiko Fujimori: Exministro Basombrío califica la inseguridad ciudadana como su peor fracaso",
-   "excerpt": "",
-   "source": "Convoca.pe",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaE56WnM5ZGs5cGVGZmNNeGo1WUpsbWZ1MWdwS0plNV9aNGlLWkllb2hneko5cGxIcmwxWDRSdHdjUzhsdGRqNkZXR25keXI5dVJ5U0c0Y0o2Yy0ydVE1MFpMLTNMRG9IcmVxRDlOelNYdktwdHVzcElsRHk4TVBTS1JvQThfS3A2U3NzUTRuUmtjZm94b0UyWnZfdU0xeW1KSVBUSkpLQ3FSTS1wOTdnbFVOZlVVUQ?oc=5",
-   "date": "2026-11-05T20:51:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2235a52894e6",
-   "title": "Eduardo González sobre los primeros 100 días de Keiko Fujimori: “No se nota la existencia de la señora”",
-   "excerpt": "",
-   "source": "Ideele Radio",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVk9zSzlHNHIwTG80VzN2bF9tN1JzMUlEY05MbkRIQVJydTFaekpoa1V4MkFjUnE1by1iTG5PLU1ITTIweWdUN3E2QzFqSFktazhQeEM4cFpGc2dUWThUZjVFRlpTT1NqYzl3YzlYOEdINVo2THU5M3laYTdiNHgzcEtSZjU1S05SRGUzWUpJbWY4NG5KNnNNZUljc3VNWnZvbmhmZmNLNEpkNGVTX2tuV2xVR2NmbU5WbHBaTHNPb2xnUmZOa09kb0R5eW5vYVJNSjd5bg?oc=5",
-   "date": "2026-11-05T20:12:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "76155118ce5c",
-   "title": "Los planes de Keiko Fujimori en seguridad ciudadana y lo que se avanzó en sus primeros 100 días",
-   "excerpt": "La extorsión y los asesinatos siguen marcando la agenda de seguridad en Perú. En sus primeros 100 días, el Gobierno de Keiko Fujimori anunció medidas para combatir el crimen, pero…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS2dxbG54WHVHcjc1QlJRLVBEc01UTFI1ZHpJcnAwd1FzLUhqbHk1cnMyb2xfYjhobEt6eDk5OW9heEExMHV2dU9KVzh2dDdzZnNQRk1pLWNOTjZvbXlZTkxmNmFiXzYtV2JNWjdPQVNQWkNHcUFyRkJDQ2gzdnJkYkpZTlpkNE1lRXQwekVETHlkYWhFNXc5V0RZQlBQTHlGVjZveUl4STF2WlhzVzRIV1BnS3NPQWxvREgxMlRLenRNeHRBNGtSdHpYeVcwcEcxcEpIUmpqWjVoVkxy0gH3AUFVX3lxTE5ZVG9WYkpVOEY0bHdaVFpvc2hNa2ExVldvWDhrbml3NVRidTFlVXdlQnF2aUtJYWhxdTZVS0R2S2lMT3hFbldqWlZJUllJT0Y1OWNkLXViNHV2LW5zeFRET3AtV0lkNWt6a1ltWS1MM2doczNJTUEtdHhBVVVOYzVtR0VMQXFTSGlUZWhnSG5aOVQ1Y0tCY1VxempBTEZRTEdEOEJPQzNFTVptT3B2cERRQXRUdXlvMTJXOHNMdUd1RDUxUU4xSS1Ka2oyQjRHZmlpSDZ5SDUzbjg3UDRzdUFSdUtETXd2UlhNU2ZIMk1FTXVuSHNUTm8?oc=5",
-   "date": "2026-11-05T18:37:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
