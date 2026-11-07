@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T04:40:45.490165+00:00",
+ "generated_at": "2026-11-07T05:02:42.500110+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,9 +121,9 @@
   "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
-  "molesta": 0,
+  "molesta": 1,
   "triste": 2,
-  "posando": 57
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -471,125 +471,22 @@
     "lng": -77.11941,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-10-30T22:21:00-05:00",
-   "end": "2026-10-30T22:21:00-05:00",
-   "minutes": 0,
-   "subject": "Partida de retorno tras cumplir Visita Oficial en El Salvador. (Hora local)",
-   "lugar": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
-   "state": "posando",
-   "place": {
-    "name": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
-    "full": "Aeropuerto Internacional de El Salvador San Óscar Arnulfo Romero y Galdámez",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-10-30T14:25:00-05:00",
-   "end": "2026-10-30T16:18:00-05:00",
-   "minutes": 113,
-   "subject": "Visita y recorrido en el Hospital Nacional Especializado Rosales. (Hora local)",
-   "lugar": "San Salvador, El Salvador",
-   "state": "posando",
-   "place": {
-    "name": "San Salvador",
-    "full": "San Salvador, El Salvador",
-    "city": null,
-    "lat": -13.49121,
-    "lng": -71.78126,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-30T11:55:00-05:00",
-   "end": "2026-10-30T12:25:00-05:00",
-   "minutes": 30,
-   "subject": "Reunión de trabajo con representantes del UNICEF ((Fondo de las Naciones Unidas para la Infancia), con participación de la ministra de Desarrollo e Inclusión Social, Maritza Canales Martínez, y la secretaria general de la PCM, Katushka Tapia Solari.",
-   "lugar": "Sala Javier Pérez de Cuellar – Presidencia del Consejo de Ministros",
-   "state": "posando",
-   "place": {
-    "name": "Sala Javier Pérez de Cuellar – Presidencia del Consejo de Ministros",
-    "full": "Sala Javier Pérez de Cuellar – Presidencia del Consejo de Ministros",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-10-30T11:24:00-05:00",
-   "end": "2026-10-30T13:00:00-05:00",
-   "minutes": 96,
-   "subject": "Visita y recorrido de las instalaciones de la plataforma de telemedicina “Doctor SV”. (Hora local)",
-   "lugar": "San Salvador, El Salvador",
-   "state": "posando",
-   "place": {
-    "name": "San Salvador",
-    "full": "San Salvador, El Salvador",
-    "city": null,
-    "lat": -13.49121,
-    "lng": -71.78126,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-30T09:48:00-05:00",
-   "end": "2026-10-30T11:14:00-05:00",
-   "minutes": 86,
-   "subject": "Visita y recorrido en el colegio emblemático Marcelino García Flamenco. (Hora local)",
-   "lugar": "Municipio de Santa Tecla, departamento de La Libertad, El Salvador",
-   "state": "posando",
-   "place": {
-    "name": "Municipio de Santa Tecla",
-    "full": "Municipio de Santa Tecla, departamento de La Libertad, El Salvador",
-    "city": "La Libertad",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-30T09:45:00-05:00",
-   "end": "2026-10-30T10:00:00-05:00",
-   "minutes": 15,
-   "subject": "Supervisión del inicio de operaciones del segundo módulo de control de acceso al penal Ancón I.",
-   "lugar": "Establecimiento Penitenciario Ancón I, Lima",
-   "state": "posando",
-   "place": {
-    "name": "Establecimiento Penitenciario Ancón I",
-    "full": "Establecimiento Penitenciario Ancón I, Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-30T08:00:00-05:00",
-   "end": "2026-10-30T09:24:00-05:00",
-   "minutes": 84,
-   "subject": "Participa en la ceremonia de inauguración del Encuentro Empresarial entre El Salvador – Perú. (Hora local)",
-   "lugar": "San Salvador, El Salvador",
-   "state": "posando",
-   "place": {
-    "name": "San Salvador",
-    "full": "San Salvador, El Salvador",
-    "city": null,
-    "lat": -13.49121,
-    "lng": -71.78126,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 1008,
+ "agenda_minutes_7d": 584,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "2725acc1ca92",
+   "title": "Keiko Fujimori pierde aprobación en 100 días por expectativas incumplidas",
+   "excerpt": "",
+   "source": "Pachamama Radio",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEtscGJHQmFMRDJ0dTFFbEJydjVkeDV4Vm5YSzVkWTE1VlI5YTVTdlFDYms2S0dMdmNTbnJuZVVST3BmVXhuOVBwTmV6eW1IZHo4X1pQMTVlcGpycVR3bmpUdlJVRE1CcEU5OFhFRjJKWFNVeThaZTl3SzJkV2tsYklHNWRZUEFVbXRPZVlpc09sdlViQUdybXhTQWZQdEY1Y3c0?oc=5",
+   "date": "2026-11-07T04:25:56+00:00",
+   "state": "molesta",
+   "place": null,
+   "next": null
+  },
   {
    "id": "c875d995eb3e",
    "title": "Presidenta Fujimori lleva ayuda humanitaria a afectados por El Niño en Tumbes",
@@ -1305,17 +1202,6 @@
    "source": "Trome.com",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjA2eVRHWWJtZzBvMEVUZndKLWU0cU00SFE0LVVuU0ZKWElveHh6cHZUX2MxbU5XZVZXWWtiREItMVpsbE50aVY0RWpRcmFPZXN3WmZwbnJaMkJvNEIwZmlKejRZZVhOOEthOXR5d3d3QmQ4d2Ffa3VVVXNTT2trSnU2emFwMDBPYVY3Qjl3RTVCakNUNnFiSzJzWTJzRGFySW52cnNMd0VFWWVNeHdSNUZQXzJ4Z1VRVXZwZ1R5WlFxNS1fN0NmdE95c9IB3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw?oc=5",
    "date": "2026-11-06T07:45:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8aa6caf0efb8",
-   "title": "Presidenta Fujimori defiende sus primeros 100 días de gobierno",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeDdQRTI4aTE1bkdXTm9KczQ3RzlGTnRYaUNpaWx2UnNqZld6TGxBTjdkM3pVamFPMVJZREFwM3hEWmljX0xuLTJvRlVtUDRNa2MwWXVmTTZvd0JTQXZTVGNYSjZmM1ZNWHcwMUdSY3JVSEEzRjFIenBvUHdqOWdTMDg0Ni1EbkszUzJsZGZnTHFpTzBq?oc=5",
-   "date": "2026-11-06T06:46:40+00:00",
    "state": "posando",
    "place": null,
    "next": null
