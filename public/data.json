@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T14:03:37.497340+00:00",
+ "generated_at": "2026-11-07T14:46:42.401703+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -477,6 +477,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-07T14:42:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d246d9aee166",
    "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
    "excerpt": "",
@@ -494,17 +505,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-07T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5bd565318077",
-   "title": "Presidenta Fujimori: Hay un gobierno que responde y acompaña",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
-   "date": "2026-11-07T05:13:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -549,17 +549,6 @@
    "next": null
   },
   {
-   "id": "8808a5b375ce",
-   "title": "Presidenta Keiko Fujimori invoca a padres de familia vacunar a sus hijos contra el dengue",
-   "excerpt": "",
-   "source": "Chimbote en Línea",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSTdTZTJlcFktYnRJdDdrRjZ5MElTcDhUblhPVkRFTEdLbFpFZGlVQWVyZFhPRHpxMTNWU1RZRFFoTUJkVzhGTkUtV05NRlRON3VBcHAwOFdlbGl5OWhXVGVVY2RlWlhaMWp3VDNfdUpSWXZrWXBsVkJab04tYTNsa01oRkJxZ0NadXZTRmEya1hUbzhwWWRMdmpZbVVFejlCVTdJOHpoM2d6UWlxMjhlZ1VIZEtxWWRFejJUZlQySWVhaDE5NnJsa0EwZ1I0aHpZZjNnQ0RxOS10aW0zdHB5M2RBaWw3YVRPRXJj?oc=5",
-   "date": "2026-11-07T02:58:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "82e09893f88c",
    "title": "Presidenta Keiko Fujimori invoca a padres de familia a vacunar a sus hijos contra el dengue",
    "excerpt": "",
@@ -588,6 +577,17 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRXpWenA0eTRTZWpoR1FMZkxCN2FNQ2lOVGlDTEFDSGZQX0RuVjQ3TXVlZ3JFNjlEclZLTk1xQlhQR3ZUVkZaVC1yYUNVR2lUVFBleUFUWUhFQUR4cHlITWJUODYxUC1QQkxjMUN5UWoxaWltbElLWFg5N21aWW85dFY3YXRka1hkSC1CYzdfZ01HU3FacE56RjNnZDdXVDFVOW5iaFlTUUlpUWhxQmNtNGpLR3RzUFpiUEMtLUR6MnZaczdtVm5PVw?oc=5",
    "date": "2026-11-06T22:52:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8808a5b375ce",
+   "title": "Presidenta Keiko Fujimori invoca a padres de familia vacunar a sus hijos contra el dengue",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWZaeEQyMDZyb1RHQzJiQ0k4TWswNnk3VmM3a0ZTTVZ4eXdkaTc5clRpNzJPcDVOanlWZzhwUVBCeHJFay03ZUlCTjc5LThOVl9hU3NJcEZhQ0VVNjV5X2tuZF9SazBHeWZPblJvMFFtY0hESy1SVGhkdFFDdXlTcjhBWkRrY0VMc2hBdnhCMnAxeXFET1FMNW1mWG5wR3ozc25rRGdack1kUk9ZdEZIc2Y5a3h2TFNtcm5jcWVOM01JSzZRaUVTWmJR?oc=5",
+   "date": "2026-11-06T22:18:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -677,17 +677,6 @@
    "source": "ESAN Graduate School of Business",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS251UFlibFlGTjV5Tm05LTc1djI0NVA5ZGxIWFVqUjAyUXcydlVOQVBEYmpRNzJRaTZ5eXFTTHhZaTB2Y0JqQmxCaXdqNHRZN3N5N0FHS2IzelRFcllxMFlSdURnakRlblBELTNrMUZ0UDJLSlEyZC1zRTNRVll4TzJJZkd4VzBpcko0YkpwQ2FfTmc?oc=5",
    "date": "2026-11-06T19:49:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-06T19:44:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -899,6 +888,17 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOell6Ylh6TXROMjhVQ2lHLWpDTDJUQ1U4WUJoX3o4SU1SNU1jbGg1X1ZfNmtCMndkRGdlNGhYTlFfLVE5LUFUYzFqYWxqNncydVNUUGVBODllUmZWT3R3WW5fYkowMDlYMm5sS3ROTkVUWVdfSnh6eU1raXo4RXJVT1Nzd1FMcUd2NDBTbFNhV1NBVWRRbFRDNGhDc240bXRqd0NVZVFnbTJydVc2aXRFaWNKdWVGTjhjTzRIMk1XUXI3em11YndXR29fZWJpZllaT2dRcjZFRHZmRU1XQ0ZEbFk2eGpzVGgwQ2pLeERXcTNFVzA4VUE?oc=5",
    "date": "2026-11-06T17:08:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5bd565318077",
+   "title": "Presidenta Fujimori: Hay un gobierno que responde y acompaña",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
+   "date": "2026-11-06T17:07:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
