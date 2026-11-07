@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T01:48:21.259008+00:00",
+ "generated_at": "2026-11-07T02:10:09.711263+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -694,7 +694,7 @@
    "id": "4268daa00943",
    "title": "Keiko Fujimori anuncia reubicación de familias afectadas por las lluvias durante visita a Tumbes",
    "excerpt": "",
-   "source": "larazon.pe",
+   "source": "La Razón",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDRCQmlPbHh1ZlRHZnM3Y1FVbDhFLWh3LWl2YncyckdmUGxGcHl0b2ExWGJJQzJNdHkzSHlFYVdiUmtsMnB3dUJXODhSRzMwSUF6U0RJSUlndDVlWk1uWk93Q1gzNEpMTmJjQ0xfaGl1a0VMdkt0enJhYjIxaC1POE5zWGtoZjIxaXJuRW5VX2hDdUtvUXFtS3ZoMTBRdG9JYmFaa3B1NWFKalU5elBBRm81YXhzTmc?oc=5",
    "date": "2026-11-06T20:00:29+00:00",
    "state": "posando",
@@ -929,6 +929,23 @@
    "next": null
   },
   {
+   "id": "a36ec34c9983",
+   "title": "Keiko Fujimori visita a familias afectadas por lluvias en Tumbes y anuncia reubicación de zonas de riesgo",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2g0WlhKY1VjcGctRkZqMUZpZnBfN0hOYzM3aTlyR1J6ZER4QV9qR1UtUTRtcUhMNUttdUJBN0FVbk1vdUNtLXZ4dUdwRHhNWGFnS1FCUDIxUElYckNucllYakFSZ2JXc1JHRGJxSlNOV3hoU3VsbmlTT29uQWFjMkV2ekFROEstcDYzSGJNMEtDdTR1YkpDTUd3SkQ4b0FaZ3hweUVfMGgxdTUzbGxveUU3anJwMXRmZWQ1TlpWeGtvY2w4U2ZXbXAwYVZUM3dMeFQ0MUpoYjlKUQ?oc=5",
+   "date": "2026-11-06T16:19:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "70315c939960",
    "title": "Puno exige disculpas de Keiko Fujimori antes de una visita presidencial",
    "excerpt": "",
@@ -1070,23 +1087,6 @@
    "date": "2026-11-06T14:24:57+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "a36ec34c9983",
-   "title": "Keiko Fujimori visita a familias afectadas por lluvias en Tumbes y anuncia reubicación de zonas de riesgo",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSy1VQTZSOFhySEwtM2F0T0dDTjk2bDhveVIwakNxbFpUd2l1d3lsbWR1eUstbFBhclB3Uk1xdWQwcEZUU0hfcjFiYm1nS2loNUJySURNSmxWQnF0LVpJR2RndEtWUHZQZE1tck9CQTVfRUg5eDA2UGd1M3pmenhmaE9mZjFvUEcxZ2dyRkRLQ0QwbGUxaWFhYW9Hd1lCanhUQ2xNcWdFNEFJbUJvZ3V4SDN3VHZQY2pNcXVHRzRsbmpHNlZfVHI1d3llY3hSS3V3MlZrU1V3?oc=5",
-   "date": "2026-11-06T14:12:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
    "next": null
   },
   {
@@ -1249,17 +1249,6 @@
    "next": null
   },
   {
-   "id": "7f5c290b05b6",
-   "title": "Keiko Fujimori y su plan contra la delincuencia: dos megapenales, reforma policial, expulsiones y control penitenciario",
-   "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta detalló las acciones que impulsa su gestión, entre ellas la intervención de cinco establecimientos penitenciarios, la captura de…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/06/keiko-fujimori-y-su-plan-contra-la-delincuencia-dos-megapenales-reforma-policial-expulsiones-y-control-penitenciario/",
-   "date": "2026-11-06T11:07:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "5e3c7cd86c61",
    "title": "Presidenta Keiko Fujimori presenta balance de sus primeros 100 días de gobierno",
    "excerpt": "",
@@ -1299,6 +1288,17 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUxGUmkza3hFSzZqcm9XWk1rSmJCVlpZY0NuSlFBNUo2OHRRbjBtek9EbGJHSUFzZmdSV2RhRGNuQXNEdGpveW9CNnp4bDNoMkdPS2hpYUwwYldKdVJUUlNDR1BKQkhRTjIxTnB4Ti1kR1dUMkE0YjNVck1fZXcwcVBBMWZ1cFFCNk5wT2lGYmVNal9CYXNTZA?oc=5",
    "date": "2026-11-06T06:44:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7f5c290b05b6",
+   "title": "Keiko Fujimori y su plan contra la delincuencia: dos megapenales, reforma policial, expulsiones y control penitenciario",
+   "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta detalló las acciones que impulsa su gestión, entre ellas la intervención de cinco establecimientos penitenciarios, la captura de…",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmZZVlUzUVZGeTJZSVJtQUJ4bUxIYmZacnNySzcza3MxcVRsME5aSlprcW1yUWJ6cDAyRTI0YXZVNEFNcDBoVjRyaXp0bGxVZHpQLURNTTlMLW9DU3psOHlTYWFUNTFpcTJMTHRLZ2IzTW4wNVZ4NzBjR3llV29aMjgxWjVCWEZVSEoxYVhkckc2TEhzWWR3dFhvV2JiYVJjZWxHWFVXaHczZDlfdVdtZkpCWE1xZW9oaHJnN2hiN0JXaDZkUnh4VzhXUmlHOVNzbDY0NkxkN0Y0WHRITDh4Q093cVlkZTFNWkxVNWF30gGIAkFVX3lxTFBKR2NydjA2ZF9NUTFxNEtGZ1NmQmVGUDI2WktILUE0Y2lTQmNrUjByUlZaUlEtTFpjUWJjUG5pYUZhM0FseklmVWV3NS1hNDFuSjJaZ0REbWJQS2diVHprOElKSUxSdE1hb1BUaEJuSTN2WGpiSG5Xal9tVEhiRzhJVnhTRFdvYUg4WVdGT3FRZGhGcjFJblRtMkEwWk5wbF9IUklzd29peE13ZGxrOGVEMXhSc2UtQl9PRS1BRGZ6Yl85SklHTzdoODZmVkN5RnBRWkY0cThLZHM0Z0M0c0N2LUtFOVJkMmFfUi1HM3QxMTZaX3MxZGVwMjRCaXlIUE1ldnNKZnA1dA?oc=5",
+   "date": "2026-11-06T05:32:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
