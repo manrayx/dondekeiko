@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T02:31:26.184139+00:00",
+ "generated_at": "2026-11-07T02:52:53.207938+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -663,6 +663,23 @@
    "next": null
   },
   {
+   "id": "c875d995eb3e",
+   "title": "Presidenta Fujimori lleva ayuda humanitaria a afectados por El Niño en Tumbes",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0k0SWx4WXp3V1ZyUUw4cUVmQTRnS01vbW52ZUdqa2ZQaGR2QW4wZ0t5ZFNoNUVVSk5YR1dCZHBaQURMUG4za2dsbmcwU25oR21wSHI0azVEZUQzYnlPNExKNGRwRjBEb05tQ2pBYnBKTmZQcVB3bENvZmtZdFFQWWR6Qkd3YV93UFR6c3lJcjU4X2NfaFkyYmdYbzk1WjItMHV2UWF0YkhjNkxRaTVpUlM4OWZvYXVTVWc?oc=5",
+   "date": "2026-11-06T21:14:38+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "828ead5d8711",
    "title": "El Perú tiene 35% de anemia. Keiko Fujimori planea bajar la cifra a la mitad.",
    "excerpt": "",
@@ -929,6 +946,23 @@
    "next": null
   },
   {
+   "id": "a36ec34c9983",
+   "title": "Keiko Fujimori visita a familias afectadas por lluvias en Tumbes y anuncia reubicación de zonas de riesgo",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2g0WlhKY1VjcGctRkZqMUZpZnBfN0hOYzM3aTlyR1J6ZER4QV9qR1UtUTRtcUhMNUttdUJBN0FVbk1vdUNtLXZ4dUdwRHhNWGFnS1FCUDIxUElYckNucllYakFSZ2JXc1JHRGJxSlNOV3hoU3VsbmlTT29uQWFjMkV2ekFROEstcDYzSGJNMEtDdTR1YkpDTUd3SkQ4b0FaZ3hweUVfMGgxdTUzbGxveUU3anJwMXRmZWQ1TlpWeGtvY2w4U2ZXbXAwYVZUM3dMeFQ0MUpoYjlKUQ?oc=5",
+   "date": "2026-11-06T16:19:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "70315c939960",
    "title": "Puno exige disculpas de Keiko Fujimori antes de una visita presidencial",
    "excerpt": "",
@@ -1070,23 +1104,6 @@
    "date": "2026-11-06T14:24:57+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "a36ec34c9983",
-   "title": "Keiko Fujimori visita a familias afectadas por lluvias en Tumbes y anuncia reubicación de zonas de riesgo",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSy1VQTZSOFhySEwtM2F0T0dDTjk2bDhveVIwakNxbFpUd2l1d3lsbWR1eUstbFBhclB3Uk1xdWQwcEZUU0hfcjFiYm1nS2loNUJySURNSmxWQnF0LVpJR2RndEtWUHZQZE1tck9CQTVfRUg5eDA2UGd1M3pmenhmaE9mZjFvUEcxZ2dyRkRLQ0QwbGUxaWFhYW9Hd1lCanhUQ2xNcWdFNEFJbUJvZ3V4SDN3VHZQY2pNcXVHRzRsbmpHNlZfVHI1d3llY3hSS3V3MlZrU1V3?oc=5",
-   "date": "2026-11-06T14:12:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
    "next": null
   },
   {
@@ -1241,9 +1258,9 @@
    "id": "c76464a3ad69",
    "title": "Fenómeno El Niño: Keiko Fujimori reporta 77 puentes Bailey, 13 mil militares y 7 mil toneladas de ayuda",
    "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta aseguró que el país cuenta con maquinaria, puentes y ayuda humanitaria para atender a las poblaciones que puedan…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/06/fenomeno-el-nino-keiko-fujimori-reporta-77-puentes-bailey-13-mil-militares-y-7-mil-toneladas-de-ayuda/",
-   "date": "2026-11-06T11:07:26+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDRWd3FGZmxlTWI2bndWR21rcWk2ekRJOWtfazQ3clN2VWR0c3RHVl95czZOUEY1SE9Dd0c5djRIa095WW85UHpGbXVYeFYyc1ZOYXdCQTNXN0pJV3d2MUV0YVZCWkhsQ1pmX3ozM2RCeTE2amhSd1NIZXNhSTYwRUlDaWo3U1Z3dlRydlNwaEYtX0E0R2MyVG55MmpJVmpCemlrdVdkd0FqdE0wZUw0cXBXdWNpd1BNakRkM3hhblVfY3YyQUNCVWpVd21MaHhDRmwxejZob0dyd9IB9AFBVV95cUxPVy1WeHJVa2JqN1FmY0ZnWTFjd0hud3pxNkZESlhicng0OThNNEVGS2NQNGpMOU12XzdRWDU3Q1RENl94c0tmNWpCR09mUG1GNUdENjJLR1lFbWRDUkZHRGI1WkVCQnA4SkFvZEx1X3lhcWFoT3JIRk5jMDZsdE1VV3V3RzJpdWx2SnUteGY5NlZIRWEwc1B0VnpQd1c4c1A1M2N0U1AxeGNMVGh1dTRqR05hdVhFWFZTWm5aMzVwQW5MOWp4dUtwV0pfM3JNUmN2bmo0cEt3ZTRXM2FjbnY2SDJkbk9TWlVBSWpzYzRYWmdHTGtu?oc=5",
+   "date": "2026-11-06T11:07:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1299,17 +1316,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmZZVlUzUVZGeTJZSVJtQUJ4bUxIYmZacnNySzcza3MxcVRsME5aSlprcW1yUWJ6cDAyRTI0YXZVNEFNcDBoVjRyaXp0bGxVZHpQLURNTTlMLW9DU3psOHlTYWFUNTFpcTJMTHRLZ2IzTW4wNVZ4NzBjR3llV29aMjgxWjVCWEZVSEoxYVhkckc2TEhzWWR3dFhvV2JiYVJjZWxHWFVXaHczZDlfdVdtZkpCWE1xZW9oaHJnN2hiN0JXaDZkUnh4VzhXUmlHOVNzbDY0NkxkN0Y0WHRITDh4Q093cVlkZTFNWkxVNWF30gGIAkFVX3lxTFBKR2NydjA2ZF9NUTFxNEtGZ1NmQmVGUDI2WktILUE0Y2lTQmNrUjByUlZaUlEtTFpjUWJjUG5pYUZhM0FseklmVWV3NS1hNDFuSjJaZ0REbWJQS2diVHprOElKSUxSdE1hb1BUaEJuSTN2WGpiSG5Xal9tVEhiRzhJVnhTRFdvYUg4WVdGT3FRZGhGcjFJblRtMkEwWk5wbF9IUklzd29peE13ZGxrOGVEMXhSc2UtQl9PRS1BRGZ6Yl85SklHTzdoODZmVkN5RnBRWkY0cThLZHM0Z0M0c0N2LUtFOVJkMmFfUi1HM3QxMTZaX3MxZGVwMjRCaXlIUE1ldnNKZnA1dA?oc=5",
    "date": "2026-11-06T05:32:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6a4e3d9949ed",
-   "title": "Keiko Fujimori defiende sus primeros cien días de gobierno en Perú pese al aumento del rechazo",
-   "excerpt": "",
-   "source": "Prensa Libre",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRjhTXzE4blNyZlFUcTQ4SHRrTHNhNndGd2pDbFQ3SEdraTRLM1V4bTN6UDlxWUg3Q3plRU9VZWFpalppS3pteW5RbTltcHRzel9KTE1OSF9OSW9Jb0FrX1A2Z2xYdmI0bVJXdjVaUjJ3MmEzeVloMFd0UzZRUG9wa2RqZy01dUV0MUNacXJmQ2R5VmY2cHppTGxpdnpOWkJ0b0xXVl9qRFlFMFo2VVRBdFpVZjZ1SGF1M3c3NFFTMzhBRUZ6WHdheW50d2lRam5TSktNVVBhN0NjNWc?oc=5",
-   "date": "2026-11-06T04:58:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
