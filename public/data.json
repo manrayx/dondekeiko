@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T17:19:01.567337+00:00",
+ "generated_at": "2026-11-07T17:40:12.577383+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -132,6 +132,23 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-07T08:58:00-05:00",
+   "end": "2026-11-07T09:52:00-05:00",
+   "minutes": 54,
+   "subject": "Suscribe decreto supremo que aprueba prueba nuevas reglas de disciplina escolar:",
+   "lugar": "Institución Educativa Emblemática Alfonso Ugarte, San Isidro",
+   "state": "posando",
+   "place": {
+    "name": "Institución Educativa Emblemática Alfonso Ugarte",
+    "full": "Institución Educativa Emblemática Alfonso Ugarte, San Isidro",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
   {
    "start": "2026-11-06T14:25:00-05:00",
    "end": "2026-11-06T14:37:00-05:00",
@@ -473,9 +490,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 584,
+ "agenda_minutes_7d": 638,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "aa8923dfe764",
+   "title": "Volverá la expulsión en colegios y la nota de conducta: Keiko Fujimori firmó decreto",
+   "excerpt": "La presidenta, Keiko Fujimori, suscribió el decreto supremo que aprueba los nuevos lineamientos para la gestión de la disciplina escolar en los colegios públicos y privados del país.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/volvera-la-expulsion-en-colegios-y-la-nota-de-conducta-keiko-fujimori-firmo-decreto-noticia/",
+   "date": "2026-11-07T17:38:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ccb48e1a4893",
+   "title": "Presidenta Keiko Fujimori desea éxito al nuevo mandatario de Paraguay",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
+   "date": "2026-11-07T17:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a4a80ea3f39c",
    "title": "Farid Kahhat sobre estrategia de Keiko Fujimori: \"No hay nada aquí equivalente a El Salvador\"",
@@ -1081,6 +1120,17 @@
    "next": null
   },
   {
+   "id": "d4e1f9f818a6",
+   "title": "MENSAJE COMPLETO de KEIKO FUJIMORI sobre balance de 100 días de su gobierno | El Comercio",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVzlHaEg0NkY5Y29wSGYyOTl6bTNOUzVWQUxaZlF0QkNmc00wdk5RQVJoMVFTTjU0OFZ4dll2TU4zYjY5VGtEaE5yREVMY0FYTTlZaGFVYjN3Z09scXl4Mi1aMk1jT3AxOURCY3FTakVGLWJJeUFNcWtBOTdtYktOTHdLbGt6S0RfblNsZlB1Y0dWVmNGSVJkT0FHWlNGR0hRRFNQbTdBRmk2cS0wQ0dRSml4b01iS1dyQU5JRmFpa1B0dThU?oc=5",
+   "date": "2026-11-06T15:24:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "05e1ba263ede",
    "title": "Roberto Sánchez reacciona a balance de Keiko Fujimori, pero Alvina Ruiz lo frena: \"Que diga qué pasó con los yapes. Me debe 2 soles\"",
    "excerpt": "",
@@ -1172,44 +1222,6 @@
     "abroad": false,
     "city": "Tumbes"
    },
-   "next": null
-  },
-  {
-   "id": "c5d896d6315a",
-   "title": "Keiko Fujimori se contradice: \"En 100 días no se resuelven los problemas acumulados en años”",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRC11U2R5cXhWczcwQzdtYzJTN2NKN1BsWGYxekVtb1BRMEgxSTZGeGtNZHYyWHQyMXdfQUNraFZkalJNLXNrRGdRaWpyZ1ZhLWVrbTdTNjlpMTVra2J4cm9zcDktbUlpUEdlWHNVWmd0MlJzXzJoU0VGS0FkaThKZmdoSGhISkpKY1BLdE5SUkg3bnllcFlxcGFfc1BPWng1RTYycQ?oc=5",
-   "date": "2026-11-06T14:24:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e09808fbe166",
-   "title": "Keiko Fujimori viaja a Tumbes a supervisar albergues y hospital de campaña ante lluvias",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFp1WFVUcHdwZXVTSExkdE5zNUtwZ1Q5amd1NlRDQ0hvX0R5b0VacXpuYUVjWVlPQVp1S280a1lTRkdLUHQyLVR4UEF3Ump2TjExZTZJN0Fmby1PWkk0SE9VTkh4RjNMSGxWRXNBRDRFYkpIVTBBMDA3Zm9rSUtHS0FrVnZTUTFJSzhSa1hYM29rUGFNLWgtQW81amNVNzlkaW5sY1VMejA3QmlvZEg4bUJwV05rcEE?oc=5",
-   "date": "2026-11-06T14:09:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false
-   }
-  },
-  {
-   "id": "624ec0b63057",
-   "title": "Cien días del gobierno de Keiko Fujimori: balance del inicio del mandato de Fuerza Popular",
-   "excerpt": "Analista Luis Benavente evalúa los primeros días de la presidenta. Señaló que la mandataria mostró actividad y prioridades definidas, pero advirtió que el tiempo político peruano se agota con rapidez",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjE0WVRhYUxJM3gzcjhPSlhzUlc3alJpS2F3QnBINGdMa2NNWTdxeEhoWkU3LW1RdTlIaGtfNm5EVHlCQTVVYmhrX1lIUUd4UG9peWI2MXkxMTAzeVBrU3FMaDd6YVhPQi1BakY4YWI5bE11T3J3T1VFdFQtV2xDcERPWHVqZGdsdEdUWlpqanBaaktRbGNiZzlzOGJ6QXdjVUsxR3FFeG54REIzYTB3blhZbTBmWnN0cUltcUoyT0Nud0Z2NjBPanFR0gHkAUFVX3lxTFBqaGVzNWFseGpHMlZnLXN3SmpMUFIxazgzMThxTDU3dFZIOVRfUWdfVGtrSzlqMkExU3I3ZWFUY0MtMFJFZlFMQVRWXzJWZmdKUk9HZ0pEYnhiMWN4X1hZb2VpNnVlTlViSzZ5NlI4ZzAwVUszTEJfNF90c2ZzOGY1Q0laVjZJWVllb1hEc3FfY1BFS2ktNHFuU29PS3k0aHpLcHRYWUYzSmQ3c3k2YnpDTktFa0F4SEdJNGpGVUFEQ21tRUR5RVVfbFdaQnhTZTgxNEdJcjRhcmJkYTEyLTE3eFpLag?oc=5",
-   "date": "2026-11-06T13:37:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
@@ -1324,6 +1336,7 @@
   "distrito de tumbes, region tumbes, peru": [
    -3.55565,
    -80.42554
-  ]
+  ],
+  "institucion educativa emblematica alfonso ugarte, san isidro, peru": null
  }
 }
