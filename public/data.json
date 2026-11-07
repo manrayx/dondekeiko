@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T03:14:27.105535+00:00",
+ "generated_at": "2026-11-07T03:35:59.898404+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Piura",
-   "lat": -5.194,
-   "lng": -80.632,
+   "name": "Tumbes",
+   "lat": -3.566,
+   "lng": -80.451,
    "abroad": false,
-   "city": "Piura"
+   "city": "Tumbes"
   },
   "source": "Agencia Andina",
-  "date": "2026-11-06T21:53:10+00:00"
+  "date": "2026-11-07T03:14:38+00:00"
  },
  "next": {
   "place": {
@@ -591,6 +591,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c875d995eb3e",
+   "title": "Presidenta Fujimori lleva ayuda humanitaria a afectados por El Niño en Tumbes",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0k0SWx4WXp3V1ZyUUw4cUVmQTRnS01vbW52ZUdqa2ZQaGR2QW4wZ0t5ZFNoNUVVSk5YR1dCZHBaQURMUG4za2dsbmcwU25oR21wSHI0azVEZUQzYnlPNExKNGRwRjBEb05tQ2pBYnBKTmZQcVB3bENvZmtZdFFQWWR6Qkd3YV93UFR6c3lJcjU4X2NfaFkyYmdYbzk1WjItMHV2UWF0YkhjNkxRaTVpUlM4OWZvYXVTVWc?oc=5",
+   "date": "2026-11-07T03:14:38+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "5bd565318077",
    "title": "Presidenta Fujimori: Hay un gobierno que responde y acompaña",
    "excerpt": "",
@@ -659,23 +676,6 @@
     "lng": -80.632,
     "abroad": false,
     "city": "Piura"
-   },
-   "next": null
-  },
-  {
-   "id": "c875d995eb3e",
-   "title": "Presidenta Fujimori lleva ayuda humanitaria a afectados por El Niño en Tumbes",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0k0SWx4WXp3V1ZyUUw4cUVmQTRnS01vbW52ZUdqa2ZQaGR2QW4wZ0t5ZFNoNUVVSk5YR1dCZHBaQURMUG4za2dsbmcwU25oR21wSHI0azVEZUQzYnlPNExKNGRwRjBEb05tQ2pBYnBKTmZQcVB3bENvZmtZdFFQWWR6Qkd3YV93UFR6c3lJcjU4X2NfaFkyYmdYbzk1WjItMHV2UWF0YkhjNkxRaTVpUlM4OWZvYXVTVWc?oc=5",
-   "date": "2026-11-06T21:14:38+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
    },
    "next": null
   },
