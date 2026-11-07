@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T22:43:10.292204+00:00",
+ "generated_at": "2026-11-07T23:47:26.620300+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -481,11 +481,22 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ccb48e1a4893",
+   "title": "Presidenta Keiko Fujimori desea éxito al nuevo mandatario de Paraguay",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
+   "date": "2026-11-07T23:32:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e349317201dc",
    "title": "Keiko Fujimori firma decreto supremo que establece nuevos lineamientos de disciplina escolar - Televisión Tarapoto",
    "excerpt": "",
    "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcEo4N0RERnBaNHRKVVNUejZUbTBFcFBlekE3VlBPQzhINFVHbEh3MmowNlk4M1padmlscFdmMmI1WWVVeHZ2eXdvbDZNdE5ZcVJ0QzJFNmFLa2tyOUhkQ2w3aG9QM0FYalRHaHRsaWxlRXh0SmwyQzM5VENmTmlvaG1lMVV5aDNFbm9kMjQ1WmI4Y0FraXJSNG5KTTZmTW1rczJwemYwb1dtdFNBSnR5U1A1bUpGMXVIUUdhM1d4UjloSDhXLWlvOUpfWUtkNTU5Y0U5SzE1NA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTTZOVE1kc0ZqWldLdkhibE1MbktyVkphSmtRdUNlSlJrT1lLeDhtM2tvZlVsUjE1VjU3R0MzRzJpaTAya3RfMWZOaURWUXhCNzNtU2RXQXhfMWJhSUVZTzVpeE9hcGZYS2RWSG9sZDlLemxCeXlpYy00d2xwVzJmcFlqRjA4aUoxb1F1MHAwUThBOUxNNlVjZ1F5MTJJMExvT2xOLTFreVFvaWROTU04bW9EdWhpbzhib1NNcWR0R0kteUdrZ0JEMTMxQW1nMDFvUVBaQmNTdHc5NGdUck1JS0o5S3A?oc=5",
    "date": "2026-11-07T22:23:32+00:00",
    "state": "posando",
    "place": null,
@@ -616,17 +627,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/volvera-la-expulsion-en-colegios-y-la-nota-de-conducta-keiko-fujimori-firmo-decreto-noticia/",
    "date": "2026-11-07T17:38:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ccb48e1a4893",
-   "title": "Presidenta Keiko Fujimori desea éxito al nuevo mandatario de Paraguay",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
-   "date": "2026-11-07T17:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
