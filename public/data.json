@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T05:02:42.500110+00:00",
+ "generated_at": "2026-11-07T05:24:45.376860+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -477,6 +477,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5bd565318077",
+   "title": "Presidenta Fujimori: Hay un gobierno que responde y acompaña",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
+   "date": "2026-11-07T05:13:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2725acc1ca92",
    "title": "Keiko Fujimori pierde aprobación en 100 días por expectativas incumplidas",
    "excerpt": "",
@@ -484,6 +495,17 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEtscGJHQmFMRDJ0dTFFbEJydjVkeDV4Vm5YSzVkWTE1VlI5YTVTdlFDYms2S0dMdmNTbnJuZVVST3BmVXhuOVBwTmV6eW1IZHo4X1pQMTVlcGpycVR3bmpUdlJVRE1CcEU5OFhFRjJKWFNVeThaZTl3SzJkV2tsYklHNWRZUEFVbXRPZVlpc09sdlViQUdybXhTQWZQdEY1Y3c0?oc=5",
    "date": "2026-11-07T04:25:56+00:00",
    "state": "molesta",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8808a5b375ce",
+   "title": "Presidenta Keiko Fujimori invoca a padres de familia vacunar a sus hijos contra el dengue",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWZaeEQyMDZyb1RHQzJiQ0k4TWswNnk3VmM3a0ZTTVZ4eXdkaTc5clRpNzJPcDVOanlWZzhwUVBCeHJFay03ZUlCTjc5LThOVl9hU3NJcEZhQ0VVNjV5X2tuZF9SazBHeWZPblJvMFFtY0hESy1SVGhkdFFDdXlTcjhBWkRrY0VMc2hBdnhCMnAxeXFET1FMNW1mWG5wR3ozc25rRGdack1kUk9ZdEZIc2Y5a3h2TFNtcm5jcWVOM01JSzZRaUVTWmJR?oc=5",
+   "date": "2026-11-07T04:19:19+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -505,12 +527,12 @@
    "next": null
   },
   {
-   "id": "5bd565318077",
-   "title": "Presidenta Fujimori: Hay un gobierno que responde y acompaña",
+   "id": "82e09893f88c",
+   "title": "Presidenta Keiko Fujimori invoca a padres de familia a vacunar a sus hijos contra el dengue",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
-   "date": "2026-11-06T23:13:07+00:00",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM3J2QXpJSjdOenJoeHV1M1lja2oxVzJoOUc0czJXWG55SnVIMGZFeWozRVZRT2UwSEM0Z2tCeEZZVG5DVWVZNTF5Z1c5ek94ZEdoLTE5QXZ3Si0yb2NpMG9PaV93LTU1R0haRGtlNXFCQi1CSFZVa19jdTlnNy1uQWFqdG9zOTNSZG9LYUtneW9BNk1SdURHSFhWeVh0TlhQbk5FOHZBQlNSZjZpM3FkR3NMTjAzeVFuSG1KaDJUSWlSOUN1SVZITnBoSUM3S25H?oc=5",
+   "date": "2026-11-06T23:26:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -533,17 +555,6 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRXpWenA0eTRTZWpoR1FMZkxCN2FNQ2lOVGlDTEFDSGZQX0RuVjQ3TXVlZ3JFNjlEclZLTk1xQlhQR3ZUVkZaVC1yYUNVR2lUVFBleUFUWUhFQUR4cHlITWJUODYxUC1QQkxjMUN5UWoxaWltbElLWFg5N21aWW85dFY3YXRka1hkSC1CYzdfZ01HU3FacE56RjNnZDdXVDFVOW5iaFlTUUlpUWhxQmNtNGpLR3RzUFpiUEMtLUR6MnZaczdtVm5PVw?oc=5",
    "date": "2026-11-06T22:52:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8808a5b375ce",
-   "title": "Presidenta Keiko Fujimori invoca a padres de familia vacunar a sus hijos contra el dengue",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM3VJWUVhMUttNVJuVVNWZG05cXRlX1dKX01lX2tyMFpuNjhEUUZFaVFXVnBxMTVUSjBTaEhaNnBPNGIxVkdlYWk1NHl0MVQtMkpGc1Y0TjM3SnhMQVVsNW5kamVDT3BLR0Zfa3k4Skpsd1RSSC1ic0cwbzNfbm5iV2VtV09ENDNabmpzUlk2UkJ3TXM4dzZtVEg0MXh1Yi1JX2I5eHlwekJWM3RBZFN5X0IwNFV3ODUxb091ZUhnN1JzTUJtVzhCQkYyRGZjdllOb1BPUGFSM3M?oc=5",
-   "date": "2026-11-06T22:20:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1191,17 +1202,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGpHYzgwaThtc0xkbmhLaWhyb2x1LW5pWlUxdXlEdGk4QWRSMEo4a0prV1RSN2NYVEZMS3FZMWlLSl9kX0tqMmxYX0QxcDJ4T09jNmhfM25NT3YtVlZqQkhnYU1uMXRGUXFiaDlLdkZpeTVNUEZOa3VsdU10STMzbGhCLWtfT2hjaEItNVFzZkJUWlgyVjhPQmF6bDZZblFYWUNiMUJxVFlHS2cweVkzWHFNZ1MwOExxR2VXRWhCMUc?oc=5",
    "date": "2026-11-06T08:33:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "616eb0921a2f",
-   "title": "Keiko Fujimori brinda balance de sus primeros 100 días de gobierno | VIDEO",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjA2eVRHWWJtZzBvMEVUZndKLWU0cU00SFE0LVVuU0ZKWElveHh6cHZUX2MxbU5XZVZXWWtiREItMVpsbE50aVY0RWpRcmFPZXN3WmZwbnJaMkJvNEIwZmlKejRZZVhOOEthOXR5d3d3QmQ4d2Ffa3VVVXNTT2trSnU2emFwMDBPYVY3Qjl3RTVCakNUNnFiSzJzWTJzRGFySW52cnNMd0VFWWVNeHdSNUZQXzJ4Z1VRVXZwZ1R5WlFxNS1fN0NmdE95c9IB3wFBVV95cUxOdVMtZldNakdSZVFuQkdMNjJ5d1ZJclB0NE5xOGFLN3VOZjZsSlJaT21BTnJCY1RQOGQzOWpfU1JWT1UtcDFLZmkxYV9uZUFXZ3JHYURvZ3JIRGJoaFQ0aDQwWEQ1ak1UYTRKR3Q1MFAxeVNPZklKX1FUcUhTUDZKbjNHX2tsVGxQRnFCR3NFNks4VHplWHpmX0k3d25mQXJXQmFNemhGc2hmeXFkNTk0NmtrV3VpYjI2Yko5VmtYby03b2VLQ2o2MFk3ek9aSVQ1dkg1RnowQWdndUtNVmgw?oc=5",
-   "date": "2026-11-06T07:45:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
