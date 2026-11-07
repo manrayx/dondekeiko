@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T19:29:00.382082+00:00",
+ "generated_at": "2026-11-07T19:50:32.285330+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -483,6 +483,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "fa784b68da88",
+   "title": "Paulina Núñez acuerda avanzar en convenio parlamentario con Perú y aborda tratado de extradición con Keiko Fujimori",
+   "excerpt": "",
+   "source": "La Tercera",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObGtwRGtaeDJQMGx5WTZ3aFZSbkpMSzNia244T05LeVZuOER3S3Y4NVJpbGtrSmttTDg5dTNJOERMblJVeTFET2FEcTZLQVUwbnNxYlVHN2RxNndIcEpwMEZULUs4WWFiYWEzU1NRbHlXQVVMMUt2RTZiTUYwYjU2UGtkeElMNXE2UFNGM2tPNGVKeXFQSWRtbXdjZ05OTjF1bW9jc2NuWDU1dVFkT0JOb1NYVWRBclJqamxCQ2c0R1FuLUN0aWQtUlF0NV9iYkV6WUZFQnk0V0E2cmV1WnhQVzk4NEs1cEdTMnEycWkxeDLSAZICQVVfeXFMTjItMnF2QW4ybTBqRzRHOUNRcW90MFlvQmt4eXdScnV3YXRMallfSTNmSkl4YnM5UVlOTUt6eWdfUEdmOGcxdU9pelhiX0pRTzI0RzJZYmhWcnZNRi1mTnVLc3JqekdXS0FfZ2pDV1lCX0ZSR1Jpb1JBcDBrOHprM21XNFRGZzAtRkVPYUNWa3dPbjV1MDBYb01ZcWxocm5VT2VEQi0xMU03Ym5KUThKb0tYTHl3ODdkSndoYS1qb05SSU1iVG02NmtOa0FvM05KRWh4bzZUTmo1VHE0cWZRYmlZakRnM09UOFY2ZFc1Vk94aXpGa2ZzMC1QTnRaUVdzdnBpc1FUWmJlbTdVUUtEM2xJZw?oc=5",
+   "date": "2026-11-07T19:24:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c55ecdfeda6d",
    "title": "Keiko Fujimori expresa respaldo a Pedro Alliana tras asumir la presidencia de Paraguay",
    "excerpt": "",
@@ -599,6 +610,17 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjl0MVNPSUdub29iQTRCWUljbmZtWkRDLWljV2ZRTzhxTTJVVVd4YUs2UnNCTkxEZWpfb1Q5UE9WTWdUYVRBQ2Z3LTEwc0ZkZHB4YlZBZ2hsbmo0Z2hsWEgtbVR3WHVxQWNMdVAyTGk3SlhTVW1WeE5pWGZkMkhDN2YtT0FqbkhLN2ZEQmwxSkk1UFV6RVpPLTZpWUlJUjF1M09KeFdLRkN2T1A3MXN1MEI1Z3ZuYS1hS2hyNGQtaXhJZw?oc=5",
    "date": "2026-11-07T16:46:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a05969203323",
+   "title": "Presidenta Keiko Fujimori anuncia el retorno de la nota vigesimal en todos los colegios del país: \"Será mucho más práctico, didáctico y directo\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXFfdUtzaXIyQ1ozZ0JtTDFVTHN0RFgyUG84OFctTmN1Q1ZodkIzQ3ZETmh2SHV4TjZxRkhQZUY1blpfNHR1RDFJajRvazIxNFhTcm52WEZDWFJPNkR1azl4QUk2ejlmY09fZmRhTGpqYTJXaVJTdEZyLWJxZ3JjZ1JYN3ZheDZJVTV3NExvaTA3ZzNiWVlHZ0JKNVJQSVpVa3NrSzBBV3I3VDV2Q0xKbjJPNW9CVW9wQzNoZFU0cS11TlZ5ZFlyN2prVTI0QUR1OGpqdzVNZEg5MHFwODRXbkVnNGJETnI2Yno0dzRSemc5eFJUcW8zVGlMNVQ?oc=5",
+   "date": "2026-11-07T16:41:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1164,34 +1186,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSk1Gdi1yWFlfb1huVnFXcEVmeDVSelJ4OVNlcTlnb1VPYmN0VXpRenRDaFlONURmY01ZN0Q5UzNkTmhBOUZqbEpQTzN0VnA4bm41SVlUX1ZmRmozbVpZNVpQU2JMcktIS01pUHdPYUd6dXo3bnVHTm9UT3N1aE9wMFZ1TDAzb3A4YU8xQk9zQnlaUGtMZV9FU3hkU0g5TWc?oc=5",
    "date": "2026-11-06T16:06:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "201b595752dd",
-   "title": "Keiko Fujimori llegó a Tumbes para inspeccionar albergue temporal y hospital de campaña",
-   "excerpt": "En su viaje N° 28, la mandataria estará acompañada de los ministros de Salud, Luis Dyer y de Defensa, Rafael Belaunde, el jefe de Indeci, gobernadores regionales y autoridades locales.",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX1RaWkxtSENteEkyWUN0Mzg2Z09RVFdPRXpyeS13ZlY2Q2oydDBfa3JfVE1CLWxibDdkNW00cE1yWFd0RTZkaV9QaENvaVFydWZMUE5CbzNEcjFremtEcnQ0dGRoMmwtVThoVVdmekZ0QkJCNEU0SU1yYTdDUFZDdGtBRnRtN29mM0ItdDNITEhmT08wUzNIT3ZXRXlDb1FxNHE0dG82akw3Mm9xbDF4ZmNTT0h1eGZBUEdYV2U3RGdzMmFKVkdN0gHiAUFVX3lxTFA5bm81bG1NbE9GUFFBRnd4VzNHTk5DWFZxN2FzbzQ3QWNjUl8yeGhxWWhiRzNhQXVac1pmc1hmQnlteGVzVy1GREZrdHdhbl8wbVRPOUhFSjEzMWloa2N6YVprNEdxSEtwQWcyeTZvcjhXcG0xTjdXeEZLbkZ6ZUp2MlgxRml2MWl1eFpac0hKc3dVVmR0a1ZZRTJJYnhZNDZjTDFJR25oR0szdWR0Y1BlTGo1Y3dJekdOZWxDZS0wcXE5Wlp4YklVUjlwRHp5UV9GdmRjN2VxaW02YmJ1cjgtQ0E?oc=5",
-   "date": "2026-11-06T15:40:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
-   "next": null
-  },
-  {
-   "id": "ea8605f5a868",
-   "title": "Luis Galarreta: “Cuando veo los 100 primeros días de Castillo y Kuczynski y miras hacia atrás, nosotros hemos avanzado bastante bien”",
-   "excerpt": "El presidente del Consejo de Ministros, Luis Galarreta, defendió los avances del gobierno de Keiko Fujimori en sus primeros 100 días de gestión. Esto luego que la mandataria diera un…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/actualidad/luis-galarreta-cuando-veo-los-100-primeros-dias-de-castillo-y-kuczynski-y-miras-hacia-atras-nosotros-hemos-avanzado-bastante-bien-ultimas-noticia/",
-   "date": "2026-11-06T15:34:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
