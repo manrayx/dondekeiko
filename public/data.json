@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T18:01:41.411892+00:00",
+ "generated_at": "2026-11-07T18:22:54.844660+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,18 +105,7 @@
   "source": "Agencia Andina",
   "date": "2026-11-07T03:14:38+00:00"
  },
- "next": {
-  "place": {
-   "name": "Tumbes",
-   "lat": -3.566,
-   "lng": -80.451,
-   "abroad": false
-  },
-  "source": "Exitosa Noticias",
-  "date": "2026-11-06T15:15:17+00:00",
-  "title": "Keiko Fujimori viaja a Tumbes para inspeccionar hospital de campaña y albergue por fenómeno El Niño",
-  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5"
- },
+ "next": null,
  "counts_7d": {
   "transmitiendo": 1,
   "entrevista": 0,
@@ -494,23 +483,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6adf255939a9",
+   "title": "Keiko Fujimori firmó nuevos lineamientos de disciplina escolar en colegio donde estudió su padre Alberto Fujimori",
+   "excerpt": "La presidenta acudió a la institución educativa Alfonso Ugarte, donde estudió su padre, para suscribir la norma que busca reforzar la disciplina y el respeto en las aulas",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/07/keiko-fujimori-firmo-nuevos-lineamientos-de-disciplina-escolar-en-colegio-donde-estudio-su-padre-alberto-fujimori/",
+   "date": "2026-11-07T18:20:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b564e3e231a1",
+   "title": "PRESIDENTA KEIKO FUJIMORI MUESTRA AVANCES POSITIVOS EN LUCHA CONTRA EL CRIMEN ORGANIZADO Y MEDIDAS PARA ENFRENTAR A EL NIÑO EN SUS PRIMEROS 100 DÍAS DE GOBIERNO",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWXp6dXJrTUhXWF9mVTFycnMzUXFpWVJ4ZVJpN250aUZ2NG51RUlxRXhJMUxzb1NaQkNqcm9UM1paMFJEdHFfYm9FWGhXYmlDdjBtOVlwanNyZHR6R01tOGNrWkk3ODBuUHhRNEV2SlJCbTlWd0stbjJkNmhPMFFwNkZXdU5IVk5VT2xobmtwVjlkWERtdFJicFJtZHZVbVhlZ25UZUptVXBXTTdDUDVsR1psVUJfVTNhUnJsM1RBRXRISWxXSFVyOGdqVThVY0JpaGlXbUVxcXNVdl93Ul9PcTZXRmtvUHk1cE9kZ1RUV0g1bjRqMzdLQjAyRERGQVRWR28xTFZUZ2ZCdlVTZDYtejF3SQ?oc=5",
+   "date": "2026-11-07T18:18:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a439dc080d41",
+   "title": "Tras la caída de Santiago Peña, Keiko Fujimori saluda la asunción de Pedro Alliana en Paraguay",
+   "excerpt": "La mandataria peruana expresó sus deseos de éxito al nuevo jefe de Estado paraguayo, que asume luego de que Peña fuera destituido por el caso Ueno Bank",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/07/tras-la-caida-de-santiago-pena-keiko-fujimori-saluda-la-asuncion-de-pedro-alliana-en-paraguay/",
+   "date": "2026-11-07T18:04:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9cf6295d82c3",
    "title": "Keiko Fujimori saluda a Pedro Alliana como nuevo presidente de Paraguay tras destitución de Santiago Peña",
    "excerpt": "La presidenta de la República, Keiko Fujimori, envió un mensaje de saludo a Pedro Alliana por su asunción al cargo de presidente de Paraguay. La dirigente de Fuerza Popular difundió…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-a-pedro-alliana-como-nuevo-presidente-de-paraguay-tras-destitucion-de-santiago-pena-ultimas-noticia/",
    "date": "2026-11-07T17:52:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6adf255939a9",
-   "title": "Keiko Fujimori firmó nuevos lineamientos de disciplina escolar en colegio donde estudió su padre Alberto Fujimori",
-   "excerpt": "La presidenta acudió a la institución educativa Alfonso Ugarte, donde estudió su padre, para suscribir la norma que busca reforzar la disciplina y el respeto en las aulas",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/07/keiko-fujimori-firmo-nuevos-lineamientos-de-disciplina-escolar-en-colegio-donde-estudio-su-padre-alberto-fujimori/",
-   "date": "2026-11-07T17:43:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -533,6 +544,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
    "date": "2026-11-07T17:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "21c4ceca5798",
+   "title": "Presidenta Fujimori sobre nuevas reglas de disciplina escolar: “Que el orden regrese a las aulas es fundamental”",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSHBiZnQ2QzF4NkdybFN1eWJXcWNuZXh3UW4xSzl2UzNGcE5CdTJQMllCNkRfb0VzT1BVX3RhM29pdFk1Y1RNR081ZUI0elVhZkpUcU5hb1E4dml2d1QxVWRSd1dkS210c1J6cHJWRjlkS21RT0sxcC1xcDRXc0VOX01PX0xwYnlvbEI3a1RSZTdoZElhS0UzQ2VUV0daMERQekl0bWc1ZjVjU2g3alFjUEdxbEdpV2ZrSFo2S1NxQkxKYUtBX2o0UjZJQjVHdEdTS3hrdEF2RVlEbVNCTTNlcEdXOWlHVU9B?oc=5",
+   "date": "2026-11-07T17:26:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1173,50 +1195,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "1a42a79b2bdb",
-   "title": "Keiko Fujimori llegó a Tumbes para supervisar albergues ante las intensas lluvias",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZEZpTjhUaVAwVXpVTWtCeDZZY0JVVmhhME50bVVURjJIZ182YXpoa25SX3NNUHotWGtCTDhfaDU4YTBMb29FMmNoaW5xSjQxZ3F1SUhQVVdUeG1QbGFjWHQxZVVRNTladGJOaFktQl9ybDRGMjR1Rm5rTUNydnJYMlhjR1YzUjI4SG5pR2ZEeGtxWkF3UWpJNHVBOXBMTjFIQmdNcHZRM1RjbWpBeDN4V0hrZ1dSUG9nWVl1c1Zsa3HSAdQBQVVfeXFMTkpCM0tvVnlHMHlHVG5OVTRuUGZrX1dTU01SX3ZsUlFvaDN4X1hTd1YwZDN3dk9FS3V2TUlOR2FfNjl5QnRIVXlGSmlkbWZKbzBiZmp1XzdUb2RWaXJMcFU2UUNvTUxpYWVuS1RMS2VkZmVma1RGb3pJWnltTDBoSzVlc2pmNm4yaFhxdjROTDVRR1BkY2tZdWVFS3dESlVLbmJEd2t5ZkRyUFJSaHkyczBoeGxocllGOHJjS2dTV3NSdlp5SXhGQ2xpLUN0TkZVMHZVTVU?oc=5",
-   "date": "2026-11-06T15:15:59+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
-   "next": null
-  },
-  {
-   "id": "629d3383df69",
-   "title": "Tumbes: presidenta Keiko Fujimori inspeccionó instalación de albergue en Zarumilla",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSnZhNUlqcmdQVDNGZzBnQXZuNURKRjlESnEzaUhhZklxRDB2bzhfY0FLaVFRNnB4cF9vNE9RcERxZjNHVU16SnRYN2lJZXB6T21wdkhqUUptcndGZkpHOE9rOVZnQnZRQ0dCU1hRQXNwdFBVeExDNVlOWExmcG55OV94MEZEZlBteWJPNGNLczFsNmk2SzQzTjhnYTJNNjhvbnVUVko0SG0tbnMxbFJKNmVxOF9ON0hfanRtZ2IyQ1FsaW1sVlg3dEJRNXBGZGF6MkJFWFlkbXlpZw?oc=5",
-   "date": "2026-11-06T15:15:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3460ef496a8f",
-   "title": "Keiko Fujimori viaja a Tumbes para inspeccionar hospital de campaña y albergue por fenómeno El Niño",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcWh3bWtGY0ZOMmNBcEtHSkwydnFvRlZ3bjdGZkdfSHhudFpVNlNYWHR5TnFUWTkyRlRaRFcxNXdoTEE3Q0ZSbGJKai1UZHBiWWRFeWF2aG9TUzdqenpHdHBEcGQ1bTk5cWl6R3FKZmVPSWNXNE9kcnowNlFSRUtDS1NOYkRMZzVzak1fMzU5bUR6NEtBai1XQ2lLTGNyS1Mxd1BhTFkyeDdjZVlJekNKbF91YndkUlFfaGw2Qmh3VkNDcVlMTGQyS2hn?oc=5",
-   "date": "2026-11-06T15:15:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false
-   }
   }
  ],
  "geocache": {
