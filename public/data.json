@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T07:34:15.974030+00:00",
+ "generated_at": "2026-11-07T08:17:13.021960+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -477,6 +477,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-11-07T08:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5bd565318077",
    "title": "Presidenta Fujimori: Hay un gobierno que responde y acompaña",
    "excerpt": "",
@@ -805,6 +816,17 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVVRdUZrNUx5cnFoN0JSWkxFeWNacVdGQkRxbEdxQy0yTkx1T3UyS0FWbWxKVy0yNzhfVEhVRXN6eUFERmVKcWx1dFp5R0REdjdVeGtnMWpmVUszdDM5LXdTRnVxaHM3N3pJZ0R1V1JWUHFlZzFXZ0t1ZW1mYmI2Y014TzBSYWI2ZzVybGlXbTJ5U1VjNUtWaFVnNE9maVlqWGZCaGlkNDJMc1hTMGItd1dTYmE?oc=5",
    "date": "2026-11-06T18:19:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1af2ce8d3c3c",
+   "title": "Keiko Fujimori sobre sus primeros 100 días de Gobierno: “Siempre se pueden hacer mejores cosas con mayor rapidez”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV2hYNGhTUFZJYWU3d3FvUFN0OVQ3bmlKSGN1Y1hEaFdDZ3d2NC1MZGM1TGhMYXlvN3IwVUU3MmRtU0hSSXh3MHgwZEZmM2U5ZnQ0NGgzenN3SG9PXzJmNS1QTjVMeF9zc3BQcUJxdG5sTjVwSFJHY29qYWEwUlAydVZmc2JvQ1VQdkxPbk15c2JaTXFHc3hZeGdVY3VPYVBDM2tSNmRMVDVodGgwWFhfZmozT2RVZ2xnZmJzVVZkSnJTVmF3dk5MUmtHQVdMR05OQ3BoTVRCVQ?oc=5",
+   "date": "2026-11-06T17:53:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1180,28 +1202,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcXNhSmFtQ3VsSUZEZk5yWFpQZ1hEUXk2NVl1aEdXOC1xUFAtZGYwUUtfMWdZa3p1dU5uNHZ1ak11aGw0em5xcnhuaExOa0lNVjhSamg3M1RLelBWVmlDN2pBUk9GX3hJeDlmMEpzTEsyaHh2aVYxSHU3RWJoYTBSVC1TRUFFOTVIaEoxMDR0UkoyTUhuUXFkRDdqUFJ6R1ZBbFQ0REM3QUlMNFl6Q0ZWdVh0b3g3ZEpIR01wblp3aDdyTW1NdF9rQUFTeDN2M3M5dFdVbndYd1o5aDNQdmlqajZyd1c5UQ?oc=5",
    "date": "2026-11-06T11:14:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c76464a3ad69",
-   "title": "Fenómeno El Niño: Keiko Fujimori reporta 77 puentes Bailey, 13 mil militares y 7 mil toneladas de ayuda",
-   "excerpt": "Durante su balance por los primeros 100 días de gobierno, la presidenta aseguró que el país cuenta con maquinaria, puentes y ayuda humanitaria para atender a las poblaciones que puedan…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMDRWd3FGZmxlTWI2bndWR21rcWk2ekRJOWtfazQ3clN2VWR0c3RHVl95czZOUEY1SE9Dd0c5djRIa095WW85UHpGbXVYeFYyc1ZOYXdCQTNXN0pJV3d2MUV0YVZCWkhsQ1pmX3ozM2RCeTE2amhSd1NIZXNhSTYwRUlDaWo3U1Z3dlRydlNwaEYtX0E0R2MyVG55MmpJVmpCemlrdVdkd0FqdE0wZUw0cXBXdWNpd1BNakRkM3hhblVfY3YyQUNCVWpVd21MaHhDRmwxejZob0dyd9IB9AFBVV95cUxPVy1WeHJVa2JqN1FmY0ZnWTFjd0hud3pxNkZESlhicng0OThNNEVGS2NQNGpMOU12XzdRWDU3Q1RENl94c0tmNWpCR09mUG1GNUdENjJLR1lFbWRDUkZHRGI1WkVCQnA4SkFvZEx1X3lhcWFoT3JIRk5jMDZsdE1VV3V3RzJpdWx2SnUteGY5NlZIRWEwc1B0VnpQd1c4c1A1M2N0U1AxeGNMVGh1dTRqR05hdVhFWFZTWm5aMzVwQW5MOWp4dUtwV0pfM3JNUmN2bmo0cEt3ZTRXM2FjbnY2SDJkbk9TWlVBSWpzYzRYWmdHTGtu?oc=5",
-   "date": "2026-11-06T11:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "58e95e313085",
-   "title": "Keiko Fujimori presentó resultados y cifras como balance de los primeros 100 días de su gestión",
-   "excerpt": "",
-   "source": "Agenda País",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LdjRkRUlSQkY2QmFQWWN0bVpRMmZsNlJudkE0RWcwX0Z0d1p6ek5uNTl0Q2ZtWEFpRzZhV0owX1hfUzN0dVZLQk9kbXBwTFpMQVlmeGEyeFFXd2pES1lOelNuOWg3UGhmY1NyRkI1VUs?oc=5",
-   "date": "2026-11-06T08:59:48+00:00",
    "state": "posando",
    "place": null,
    "next": null
