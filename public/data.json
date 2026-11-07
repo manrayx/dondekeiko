@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T09:43:51.663373+00:00",
+ "generated_at": "2026-11-07T11:31:21.057134+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -476,6 +476,17 @@
  "agenda_minutes_7d": 584,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "d246d9aee166",
+   "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYldXQWgwT1RCdlZ1SzRxbVdPWjhYRVhBOHgwdVoyamNicGg4Y3AzenZRTG9vdzZ5WEpCdDd0dC02Q2tjNWlfczFpcFMwTVdSRnpMWC1ibHQ5VlRObVpxVEZaRDJWSTlQbE5pLVFLclBhS3ZpaVZjZEQ1X19EOWYwSzFhU3JGNktBQkZXdmt4Y2NxWUczUkVyNTY0YU5LNEk1NkE4NDkyV3dEZzZvLUpnUUIxMjd4VzBJdjdnWmRQMERuUEl6dmxYVEVOTFdzMXNFREYwVEZORFdoa0dTVnhOMTNTV1NSdzZKUlHSAf4BQVVfeXFMTXdWaUo0YjlxZU9jaWhmcTAtOFRxV2Q4V01NM1M5OU0yLTk4dko2VmR2d3RKbC1ob2hjQkFxYlpyNjJYRkE4TjNxUG1RLTRxQ0pGTGtfdDIzWHhuT3ppSHVsUXlLODZrUnlaeHh1aTQ5bEd6LTZJbk85ZG8zZUJFM3lOMmNLMmU0NGFFVlNsdmQybk9BSXduOUZCaHVDbjVnclNIeHFYSHNTZ2NtNjNnSVhqMm95Rk9TVVNpUlEzT2ZrWHY1dkFXZFhWM2tYRjFvb0dHY0E4ZHk2SE8zakJUR1ZjOHIxNmYwTnFxRXc1ZVo3R2xsN0MtMHVndkt5dVE?oc=5",
+   "date": "2026-11-07T11:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
@@ -1197,17 +1208,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-aseguro-que-crimenes-diarios-bajaron-de-75-a-65-en-sus-primeros-100-dias-de-gestion-noticia/",
    "date": "2026-11-06T11:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5f257a0925ae",
-   "title": "Balance 100 días de Gobierno: ¿qué obras de infraestructura se reactivaron?",
-   "excerpt": "Esta noche, durante su mensaje por los primeros 100 días de gestión, la presidenta Keiko Fujimori informó sobre la reactivación de obras de infraestructura que permanecían paralizadas en distintas regiones…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/balance-100-dias-de-gobierno-que-obras-de-infraestructura-se-reactivaron-noticia/",
-   "date": "2026-11-06T11:15:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
