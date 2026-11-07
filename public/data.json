@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T08:17:13.021960+00:00",
+ "generated_at": "2026-11-07T09:22:28.203851+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -510,17 +510,6 @@
    "next": null
   },
   {
-   "id": "8808a5b375ce",
-   "title": "Presidenta Keiko Fujimori invoca a padres de familia vacunar a sus hijos contra el dengue",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWZaeEQyMDZyb1RHQzJiQ0k4TWswNnk3VmM3a0ZTTVZ4eXdkaTc5clRpNzJPcDVOanlWZzhwUVBCeHJFay03ZUlCTjc5LThOVl9hU3NJcEZhQ0VVNjV5X2tuZF9SazBHeWZPblJvMFFtY0hESy1SVGhkdFFDdXlTcjhBWkRrY0VMc2hBdnhCMnAxeXFET1FMNW1mWG5wR3ozc25rRGdack1kUk9ZdEZIc2Y5a3h2TFNtcm5jcWVOM01JSzZRaUVTWmJR?oc=5",
-   "date": "2026-11-07T04:19:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "6dfb3360f8b1",
    "title": "Dengue en Perú: Keiko Fujimori invoca a padres a vacunar a sus hijos de 10 a 20 años",
    "excerpt": "",
@@ -546,6 +535,17 @@
     "abroad": false,
     "city": "Tumbes"
    },
+   "next": null
+  },
+  {
+   "id": "8808a5b375ce",
+   "title": "Presidenta Keiko Fujimori invoca a padres de familia vacunar a sus hijos contra el dengue",
+   "excerpt": "",
+   "source": "Chimbote en Línea",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSTdTZTJlcFktYnRJdDdrRjZ5MElTcDhUblhPVkRFTEdLbFpFZGlVQWVyZFhPRHpxMTNWU1RZRFFoTUJkVzhGTkUtV05NRlRON3VBcHAwOFdlbGl5OWhXVGVVY2RlWlhaMWp3VDNfdUpSWXZrWXBsVkJab04tYTNsa01oRkJxZ0NadXZTRmEya1hUbzhwWWRMdmpZbVVFejlCVTdJOHpoM2d6UWlxMjhlZ1VIZEtxWWRFejJUZlQySWVhaDE5NnJsa0EwZ1I0aHpZZjNnQ0RxOS10aW0zdHB5M2RBaWw3YVRPRXJj?oc=5",
+   "date": "2026-11-07T02:58:00+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
