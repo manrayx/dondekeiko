@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T16:35:13.888419+00:00",
+ "generated_at": "2026-11-07T16:57:04.905645+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -476,6 +476,17 @@
  "agenda_minutes_7d": 584,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a4a80ea3f39c",
+   "title": "Farid Kahhat sobre estrategia de Keiko Fujimori: \"No hay nada aquí equivalente a El Salvador\"",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV01TeFF5U2l5ZU9kcXpzYnA4ampLTVZBZ3ZwVUtMbDNiM2locUdZTmh2YVBYOW51SVJyc2ZhWF8yeXAteWpqRDNwZW1lS1NMVnhBVXlwMVF5YUkzSFJ1UlpPQnlmSTdIeG5UM1ZPai1WbHdaQk9ZRGkyMXMtVmJaNEFXTGMyazBtLWpyVXVCRDVsWHlwc1VSdVBzVVFFTDV5QUtpdC1KMHpYTTU0dFBQQ2xLdmFjQVhN?oc=5",
+   "date": "2026-11-07T16:51:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "7bacb9f9a06e",
    "title": "Un libro al mes y una hora diaria de lectura: las medidas que se aplicarán en los colegios según las nuevas reglas de disciplina escolar del Gobierno de Keiko Fujimori",
@@ -1197,17 +1208,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRC11U2R5cXhWczcwQzdtYzJTN2NKN1BsWGYxekVtb1BRMEgxSTZGeGtNZHYyWHQyMXdfQUNraFZkalJNLXNrRGdRaWpyZ1ZhLWVrbTdTNjlpMTVra2J4cm9zcDktbUlpUEdlWHNVWmd0MlJzXzJoU0VGS0FkaThKZmdoSGhISkpKY1BLdE5SUkg3bnllcFlxcGFfc1BPWng1RTYycQ?oc=5",
    "date": "2026-11-06T12:56:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cc1896e5507f",
-   "title": "Keiko Fujimori presenta balance de 100 días y anuncia S/ 18.000 millones para 2027",
-   "excerpt": "",
-   "source": "Rumbo Minero",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzBwbkdPSENnVW5vemtON2tDTGdCVm9GR2NQQlRMQnAwM0hNTTVHOC1KQVV3eFRJcVo4d3d5Zl8wVHktNE9pblNCbWxkQTNTcFVvMlZFcy0tQS1MNFdjc2lsZ1hab2x0NV9aazB4b21idDFLaVV5YThySDZXMjdKbFVnV2wza3lZY0NmblVmbVFQYXlUNGZCcTl4SWpYNzFNOTlpNkNka2lPUzBhVmMwbzlvX2tYN1N1Y0g1bmhRbXlkOUU4V3Q4UEZVSnQtQQ?oc=5",
-   "date": "2026-11-06T12:29:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
