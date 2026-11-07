@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T14:46:42.401703+00:00",
+ "generated_at": "2026-11-07T15:08:36.503337+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -476,6 +476,17 @@
  "agenda_minutes_7d": 584,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "aa9b86243af0",
+   "title": "Presidenta Keiko Fujimori suscribe Decreto Supremo que aprueba las nuevas reglas de disciplina escolar",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcFVYc0puWUc2RTNRS3pYMGp0NkluNHoxdUQ0ZnQxVFRCcjRCWTQxMGhXZmNES1oxUUJEcHNuZWhNM0t5N21ZRkUwNU96ZU5qUGs1X1BQQ3EzaXQ5M3JPZFdfUlBoSzZ5b2c2X2pYNHcxck9OQ2x5a3F4aTVUWDhIdVFGcmFhYTBra09td0tnY3dDby1rMHdaNFp0cTk3VE1lV0JraFdaVUt3NE1JbUNwRVJtMzZxR2V0Sms5UC1QUi00ZW8waTFvUUc3R1QzcTNJNHI1alZRTQ?oc=5",
+   "date": "2026-11-07T15:02:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "e8d829565456",
    "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
@@ -1197,17 +1208,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdjdoM2dDa19QVlZDc3luMnJrMU0tTWt6WlBvazBqYW9oRHNES0trRXR2Qk43TDlPNGhVUXNXU1YyYXNreHMtQ25wa25wbV9TNmpyTnNMQV85enF5TEdHMUVFWUd1ZzhIbmxLcFI4VWZ6OXZ6MDUzR3F2RWtmQUhsaGJmRk5UdktuTFFYZ0Q5d1lNVENOVkpESlRwcDZSUGd4cTNEZW9GeFQzeS0xZldTTnlHTkw0SUVnQmpGMzJXUXN1eWxzbHV4azRjckI5NUlFTUh0TjRRZWFOVWt5aHV5SklPelFsMy1FVFc1Wmp5NUNFczd2aUY0RVBmX2licGNGVktfbUpXQVZ3d2tGY3FTTm5R0gGsAkFVX3lxTE9vb3Z0ZDVkaEkxdHI2U0luelRlT2pKX0tBLUlhblN4Rkp1bWtHM2JncC0yRjNhVWYzejRZank0cXp4YWRkcmVZeTFDU3lMM0phVmFsM1AwZURyWmF2MkU0akl4OGxYTnBRd0hGZVFFR2h6NlJfMzMxNFM5N0xVRVZVdHZEZHNMWExTVEktVFl4TzdyOXJGTVJtX0RHSEdkdEFzejltbFpSMHRka2x1ZV9tRnptMHB4WkNNMExpMzNBZUV4RXJPWG9Gb1B1TzA3anVDaS1GZi15aGVzN1c5clFmdkhEV3dQQ3AtUERJWVVvYkhqSi1uMXJ5TVFjMDNheGVmeEY0T25PVmpOZTRXaHZmdGZRbEtHcjRXUWdGak1TU2lUY0daZUlVd3VKSA?oc=5",
    "date": "2026-11-06T11:34:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a2e8d86df960",
-   "title": "Keiko Fujimori aseguró que crímenes diarios bajaron de 7.5 a 6.5 en sus primeros 100 días de gestión",
-   "excerpt": "La presidenta del Perú, Keiko Fujimori, habló sobre los resultados de su mandato en materia de lucha contra la inseguridad ciudadana durante el balance de sus primeros 100 días de…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-aseguro-que-crimenes-diarios-bajaron-de-75-a-65-en-sus-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T11:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
