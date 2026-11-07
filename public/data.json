@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T01:26:20.076980+00:00",
+ "generated_at": "2026-11-07T01:48:21.259008+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -910,8 +910,8 @@
    "id": "acb8aecb6ab6",
    "title": "Keiko Fujimori sobre su nivel de popularidad: \"Las encuestas siempre van a ser una foto del momento\"",
    "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTXE1ZnhKd2V6QkZUc3VKZEF2ZjhDS1FObGRocWVOMTRpTXR2Y0c2dXJBbmRkbkRMeGJXWTg1Q1Y2ZTlZb1lYVFdTcDVoSjJDRDBSc19mSVQ2RGNBZ1o2RDFwc0R2enJ1emRKOW1tUUNiTVhFcVJaa1lYVm9KUzlqQkswV0JYZ3FwOUVYcnktbTRxQ3NFTEFoenJxM1F4Y3pTdHEzM2V6VkNSelpZZU4xUUQ4dXE0NW1KWkUwSkZYM0o2OFpwQml1MXVpUQ?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3NRU3dCY2hCNkpyWm94by1DTzEyWEl5eUFjS255TlIwQ2N6VlBXVExVWlI0Zll0Rk9FMTBsaVJhTVpULXVyS3RoUXlSN3J3QmIwS2wxWmZQUlJidUNfRXozNThhNzdpZENycERKb1lXVHctMURhN2lqbnVKMllhR3RWZjRGelNiVGw3ZkJ6dW1Oc285R2hlaHpaZG1yaktJamhQQjRydmFNYTgzNE9idDN1S21oejFDXzdhUkc1X0NKMk1qVjBINms5VHV3WmpJWFE?oc=5",
    "date": "2026-11-06T17:00:00+00:00",
    "state": "posando",
    "place": null,
@@ -1150,6 +1150,17 @@
    "next": null
   },
   {
+   "id": "5301db6193ff",
+   "title": "Keiko Fujimori ofreció balance: \"Estamos en el camino correcto y los criminales también lo saben\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGtONlc5NnVfNWxCRTVzOFM5R0FEaVFNREQ3SUtCYlNNU3B6OHRvU0F3QlAwNUJMNnBNVjMtWHpTTE96Zm43cWZET2hMZHQySzFpbkJGa3k4dXVXeDZ1NXozTGIzRGFLZDRDa3F1RjFuZXFMbGFTZW1OV2xPUG9HVjNTNHZmRUEyVlpadFl5SXFNNlV0RDItRXpPX3YxUQ?oc=5",
+   "date": "2026-11-06T12:21:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "217a5dbcfe53",
    "title": "Keiko Fujimori: ¿qué dijo sobre obtención de facultades legislativas durante mensaje de primeros 100 días de gobierno?",
    "excerpt": "",
@@ -1299,17 +1310,6 @@
    "source": "Prensa Libre",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRjhTXzE4blNyZlFUcTQ4SHRrTHNhNndGd2pDbFQ3SEdraTRLM1V4bTN6UDlxWUg3Q3plRU9VZWFpalppS3pteW5RbTltcHRzel9KTE1OSF9OSW9Jb0FrX1A2Z2xYdmI0bVJXdjVaUjJ3MmEzeVloMFd0UzZRUG9wa2RqZy01dUV0MUNacXJmQ2R5VmY2cHppTGxpdnpOWkJ0b0xXVl9qRFlFMFo2VVRBdFpVZjZ1SGF1M3c3NFFTMzhBRUZ6WHdheW50d2lRam5TSktNVVBhN0NjNWc?oc=5",
    "date": "2026-11-06T04:58:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e7b1083965e8",
-   "title": "Keiko Fujimori hace balance de sus primeros cien días de gobierno: “Estamos en el camino correcto y los criminales también lo saben”",
-   "excerpt": "",
-   "source": "EL PAÍS",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNEpIdldMdGNad0RXaDdhWTZleFljY1dyMVNQSU9fNVhQWjRxWTFXREV6TkFXelhBWXpPUjh1RzVOZGVnR2NYYVBjV0lIUERrVmlLdmxWUmd0bWtIX3ZHVF9PLTFJdDdYNWpvcWZ6bUxROFRGMTRlR0w1aFRXc3lmZ1BscWxpdko3MXdEcTl2b0Y4ME1TZkpSMG1sSk9SNHY2eHZyUE5mZlB4TVV3WW5vYmFGYVZNN25FZGd6STM3dy1MY2QwdENYYWtSUVNtdFJhemJLekFKYXdaVFhBUmpYcnR6dWFiM0hGTHFWdnVKRnAyejlmc0V0cndQUHMxZ0JVa2fSAZYCQVVfeXFMTXN0QWZ4aTI0UVpzTU5SUFo5NXpKeVZHdzJkS2xUNWR2dEsteENaNW9PMk1lMm4zQWNQM19pUlFRaTV2TG04QkJGX3pycDl5amJUeW5Ibk1fVmRHSTlvZllMLVk1YVBhQnZTYzNrWXV4SDhaVEZ6TFJTYW9PNFhuWlZsQ3VDeGx4RElxb2lYTnhOM0xsV1VLRnQyekM5eXhqdm01alJNRXprWlVmTnFGU2l6elZHYWtPaDY3VU05UUQ3SGt5ekl6TnFIekpTcDEyMmZJSWRraXRWaXF5ekVTZVhKVVA5emhfcGhOdTlnSzlBSVNxWDlXcFFVOFB6X2tGVVhVclBodDFUZTRvOFRaZXJJOHF3dWc?oc=5",
-   "date": "2026-11-06T04:54:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
