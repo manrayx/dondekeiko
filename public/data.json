@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:16:56.532590+00:00",
+ "generated_at": "2026-11-07T22:00:01.453056+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Tumbes",
-   "lat": -3.566,
-   "lng": -80.451,
-   "abroad": false,
-   "city": "Tumbes"
+   "name": "Palacio de Gobierno",
+   "city": "Chile",
+   "abroad": true
   },
   "source": "Agencia Andina",
-  "date": "2026-11-07T03:14:38+00:00"
+  "date": "2026-11-07T21:52:56+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -483,6 +481,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0beda88ad796",
+   "title": "Presidenta Keiko Fujimori recibió a la presidenta del Senado de Chile en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzZ5WmM3WFVXczZod2xhcnVHbnNmTGRrdW1RUTBKWTRhcGJVdV9xQi03WjJpZlRULWFrSUpXT2p6QWlEMGVMLTBlREgxWmhCQ1NZa2lUMUlyZW1IOEhyRjVjdmpNWjBERFV4SGpjWWNHNS0xY3VYZGhLTEdSSEt5Mkg4cURodk1DYkRWRkdxVl81dlo4blpEMmcyTkY2THFmZEY2blN6cDE4cmFHYzkzTERfNmR6cEx4aXE2LXM2NVNLTE0?oc=5",
+   "date": "2026-11-07T21:52:56+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "Chile",
+    "abroad": true
+   },
+   "next": null
+  },
+  {
    "id": "e8d829565456",
    "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
    "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
@@ -681,6 +694,17 @@
    "next": null
   },
   {
+   "id": "53bae998d1e1",
+   "title": "Keiko Fujimori oficializa nuevas reglas para los colegios: vuelve la nota de 0 a 20 y restringen celulares",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUU04N2EyQTNUSTNlYk5qQXJzRGJIb3ZQWWRSMjQ1MWZ0bDlodXlodmMwQ0pWYjZDc3duT3BSRjhfXzJHYnJTSkVVcjNyMFRWNTR5UkNjVmhaS1l1eGRVUjZpTmZHNVl1Qi1ydjlmbEpfZVhYS2tmZk80QjZFM3Z3Mld6YXBZOVZsR052MjJQVnBWSmRuaS1VWHI4dkhsck01Vm5GSTNOcHpRblA3V0dQdHNzM0UzMHZmdVZkXzgxRTdHNC1RQWQyU0tvNEoxNy04OG9KeFVKZlQwd3c4YTNIb9IB9AFBVV95cUxNajRXeUxTZTR0bkh3N0U5cFI2VDJrTkdlQm5oeDhfR1cydWNpY0VHTG1hOXFTY3N5OE1RM1lIT3hZMjJmelAtQS1nVmV4TGtSQ2JBRUtEUVpsenhROEI4RGh0ZVM4UDJWX0F5YmRUejcxLVFaZzc2YVZ0WkRfYUs4UENjWFZtdFAtZTZ3MGZER0EydE9QeDFseWplUzBTa095OWJSS2xsTlJRd3ZlRF9ScjloVFFRN1RyUmJDR2FlVEkyRVNLY0djNENHbVpKVFZMQk1hS192Y1NaYkJ5VDlrQVVUbUNaeWxEa3JuNG1WVWtrTGJL?oc=5",
+   "date": "2026-11-07T15:36:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0905b116cd33",
    "title": "Keiko Fujimori promulga decreto supremo con nuevas reglas de disciplina escolar en colegios del Perú",
    "excerpt": "",
@@ -692,23 +716,23 @@
    "next": null
   },
   {
-   "id": "9bd241ebb46c",
-   "title": "PRESIDENTA KEIKO FUJIMORI: ES FUNDAMENTAL QUE EL ORDEN REGRESE A LAS AULAS",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHcta0RIam9ta0F1Vmd4V1BRZnd5WVcydU1EdEpTR0FnRVBFNlNkM3hRN0c4Ykc0Ykp3SlFSX1ZIU05aX1Uya0FIMWFhUTdMWEU5blRlZFhzMTRONFhIUmI2S3hQWHBsX3JWWmFWNHEycm93YkNPWWxZOV9VUFFOanVqVWVrc3RnaWZweVAxdkpCTWtGdWQ4S0txTzRkZzg?oc=5",
-   "date": "2026-11-07T15:10:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "aa9b86243af0",
    "title": "Presidenta Keiko Fujimori suscribe Decreto Supremo que aprueba las nuevas reglas de disciplina escolar",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcFVYc0puWUc2RTNRS3pYMGp0NkluNHoxdUQ0ZnQxVFRCcjRCWTQxMGhXZmNES1oxUUJEcHNuZWhNM0t5N21ZRkUwNU96ZU5qUGs1X1BQQ3EzaXQ5M3JPZFdfUlBoSzZ5b2c2X2pYNHcxck9OQ2x5a3F4aTVUWDhIdVFGcmFhYTBra09td0tnY3dDby1rMHdaNFp0cTk3VE1lV0JraFdaVUt3NE1JbUNwRVJtMzZxR2V0Sms5UC1QUi00ZW8waTFvUUc3R1QzcTNJNHI1alZRTQ?oc=5",
    "date": "2026-11-07T15:02:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9bd241ebb46c",
+   "title": "Presidenta Keiko Fujimori: es fundamental que el orden regrese a las aulas",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1BNGNWbW9DYmNYN2NWMUlzbld1LTN4U0pmbVR2UUFielNRa1k1VFAwNXFNYlN3S2REWVdEQnB6RjN3cjdvYlVjdUNfU0dEd2Q1aW1uR1ZtcHVMWnIxTVg4VndJdFdRcU1MSV9hVzBESnlZNmRkNkFfNE0zM2ludlFmVTlFV1A4RXlVVGlHYm9QcF9USk5NUEJORl9wMFJmSzY1ZXVzNmlndVFXV0FBeDlESFZtUUVJTkdsX1BwTFk?oc=5",
+   "date": "2026-11-07T14:51:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1158,34 +1182,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/06/falta-de-homicidos-por-registrar-en-el-sinadef-altera-supuesta-mejora-en-indice-de-crimenes-anunciado-por-fujimori-hnews-121338",
    "date": "2026-11-06T16:52:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a36ec34c9983",
-   "title": "Keiko Fujimori visita a familias afectadas por lluvias en Tumbes y anuncia reubicación de zonas de riesgo",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2g0WlhKY1VjcGctRkZqMUZpZnBfN0hOYzM3aTlyR1J6ZER4QV9qR1UtUTRtcUhMNUttdUJBN0FVbk1vdUNtLXZ4dUdwRHhNWGFnS1FCUDIxUElYckNucllYakFSZ2JXc1JHRGJxSlNOV3hoU3VsbmlTT29uQWFjMkV2ekFROEstcDYzSGJNMEtDdTR1YkpDTUd3SkQ4b0FaZ3hweUVfMGgxdTUzbGxveUU3anJwMXRmZWQ1TlpWeGtvY2w4U2ZXbXAwYVZUM3dMeFQ0MUpoYjlKUQ?oc=5",
-   "date": "2026-11-06T16:19:10+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
-   "next": null
-  },
-  {
-   "id": "70315c939960",
-   "title": "Puno exige disculpas de Keiko Fujimori antes de una visita presidencial",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSk1Gdi1yWFlfb1huVnFXcEVmeDVSelJ4OVNlcTlnb1VPYmN0VXpRenRDaFlONURmY01ZN0Q5UzNkTmhBOUZqbEpQTzN0VnA4bm41SVlUX1ZmRmozbVpZNVpQU2JMcktIS01pUHdPYUd6dXo3bnVHTm9UT3N1aE9wMFZ1TDAzb3A4YU8xQk9zQnlaUGtMZV9FU3hkU0g5TWc?oc=5",
-   "date": "2026-11-06T16:06:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
