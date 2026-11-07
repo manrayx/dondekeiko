@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T09:22:28.203851+00:00",
+ "generated_at": "2026-11-07T09:43:51.663373+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -843,6 +843,23 @@
    "next": null
   },
   {
+   "id": "a88774fa953f",
+   "title": "Presidenta Fujimori lleva ayuda humanitaria a familias afectadas por El Niño en Tumbes",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVFhwd25WaTd4RjlKOUNOU0JlTEM0Unl1b3Z5M1hNX0xLcTE3Uk5KUWM4Q1A5aXNtT2Y1N3RuN1dLX1NMN3IxT3p0aHhidmNpanpYdG5jZFdkSW5SU05DWjVDc1Bid1pWeDQ5N0NQLTJ0QlZTOXA3YXEyRXBYQUFPb3QyUWZBYnQwNDVCdjUzUWNKcmgzQ3VnR2ZJU0xsZEVYbU4yUm53cGltX01aN2ZHOXgzTEJlbnVCRmdpR1htRQ?oc=5",
+   "date": "2026-11-06T17:40:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false,
+    "city": "Tumbes"
+   },
+   "next": null
+  },
+  {
    "id": "f352cd2e07ee",
    "title": "Hasta reportero de TV Perú le dijo «Dina» a Keiko Fujimori durante transmisión en vivo",
    "excerpt": "",
@@ -1191,17 +1208,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/balance-100-dias-de-gobierno-que-obras-de-infraestructura-se-reactivaron-noticia/",
    "date": "2026-11-06T11:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6224d6eeefba",
-   "title": "Keiko Fujimori cumplió 100 días en medio de reclamos de sus propios votantes por inacción ante el fenómeno del Niño | Al Vuelo",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcXNhSmFtQ3VsSUZEZk5yWFpQZ1hEUXk2NVl1aEdXOC1xUFAtZGYwUUtfMWdZa3p1dU5uNHZ1ak11aGw0em5xcnhuaExOa0lNVjhSamg3M1RLelBWVmlDN2pBUk9GX3hJeDlmMEpzTEsyaHh2aVYxSHU3RWJoYTBSVC1TRUFFOTVIaEoxMDR0UkoyTUhuUXFkRDdqUFJ6R1ZBbFQ0REM3QUlMNFl6Q0ZWdVh0b3g3ZEpIR01wblp3aDdyTW1NdF9rQUFTeDN2M3M5dFdVbndYd1o5aDNQdmlqajZyd1c5UQ?oc=5",
-   "date": "2026-11-06T11:14:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
