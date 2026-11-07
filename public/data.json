@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T16:57:04.905645+00:00",
+ "generated_at": "2026-11-07T17:19:01.567337+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -488,6 +488,17 @@
    "next": null
   },
   {
+   "id": "e5a4f3f8c8d6",
+   "title": "¡Vuelven las notas de 0 a 20! Keiko Fujimori restringe celulares y cambia las reglas en los colegios",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjl0MVNPSUdub29iQTRCWUljbmZtWkRDLWljV2ZRTzhxTTJVVVd4YUs2UnNCTkxEZWpfb1Q5UE9WTWdUYVRBQ2Z3LTEwc0ZkZHB4YlZBZ2hsbmo0Z2hsWEgtbVR3WHVxQWNMdVAyTGk3SlhTVW1WeE5pWGZkMkhDN2YtT0FqbkhLN2ZEQmwxSkk1UFV6RVpPLTZpWUlJUjF1M09KeFdLRkN2T1A3MXN1MEI1Z3ZuYS1hS2hyNGQtaXhJZw?oc=5",
+   "date": "2026-11-07T16:46:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7bacb9f9a06e",
    "title": "Un libro al mes y una hora diaria de lectura: las medidas que se aplicarán en los colegios según las nuevas reglas de disciplina escolar del Gobierno de Keiko Fujimori",
    "excerpt": "El ministro de Educación, José Antonio Chang, detalló los alcances del nuevo reglamento que contempla sanciones por faltas leves, graves y muy graves, restricciones al uso de celulares y el…",
@@ -527,6 +538,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/07/keiko-fujimori-firma-nuevas-reglas-de-disciplina-escolar-que-faltas-pueden-provocar-la-expulsion-de-un-alumno/",
    "date": "2026-11-07T15:49:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0905b116cd33",
+   "title": "Keiko Fujimori promulga decreto supremo con nuevas reglas de disciplina escolar en colegios del Perú",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlpzVEFBR0V6N0w3VUZwTDBhRVhWbVlWV1JsTTY3Ym80Rld3UnNrcnhNY19FOWdteHZNbURRVTNrNktQd3dOMzlGT3lUV0UzQ24wVXVPMzBWYXRRLW4wc2trVWUzOGJaRGJOd2ttcm1tbzZzTGtYMllIR1Z4QWVFSHhyUjhMRGtJQ3M5SVZiWWVabnZsQjRoMVlnUU1zdVY2Y1J6YmVsRGZoeWRRYWs2NkdEUGdYa1BLa0QybGkwTUs?oc=5",
+   "date": "2026-11-07T15:29:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1186,28 +1208,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVjE0WVRhYUxJM3gzcjhPSlhzUlc3alJpS2F3QnBINGdMa2NNWTdxeEhoWkU3LW1RdTlIaGtfNm5EVHlCQTVVYmhrX1lIUUd4UG9peWI2MXkxMTAzeVBrU3FMaDd6YVhPQi1BakY4YWI5bE11T3J3T1VFdFQtV2xDcERPWHVqZGdsdEdUWlpqanBaaktRbGNiZzlzOGJ6QXdjVUsxR3FFeG54REIzYTB3blhZbTBmWnN0cUltcUoyT0Nud0Z2NjBPanFR0gHkAUFVX3lxTFBqaGVzNWFseGpHMlZnLXN3SmpMUFIxazgzMThxTDU3dFZIOVRfUWdfVGtrSzlqMkExU3I3ZWFUY0MtMFJFZlFMQVRWXzJWZmdKUk9HZ0pEYnhiMWN4X1hZb2VpNnVlTlViSzZ5NlI4ZzAwVUszTEJfNF90c2ZzOGY1Q0laVjZJWVllb1hEc3FfY1BFS2ktNHFuU29PS3k0aHpLcHRYWUYzSmQ3c3k2YnpDTktFa0F4SEdJNGpGVUFEQ21tRUR5RVVfbFdaQnhTZTgxNEdJcjRhcmJkYTEyLTE3eFpLag?oc=5",
    "date": "2026-11-06T13:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c3a2845dac0f",
-   "title": "Keiko Fujimori afirma que la lucha contra la delincuencia empieza a dar resultados",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUlVxYzFhdk54Y2hpdlNMTkwyZVd6YVNCeFFKOGF5N3JENWxtbFZzSUVNOHQ4anJQMzJJN2l2blRENXdZaXBKMklTMVVUSTI2QWlwanN2Qm92MTBNUXctcmZnS05DdE5qU0lWVk9NTVBlSzd0VHJxd0Vzb2pWMDdNbWt1QUFvdTdHOHp1TWRLNzJjTnRPV1QyRmI5ZS1nVGVQNXc0UW5tUFUwVFV2UDFHNkpndUl5aGxmZHdVRWdPOEJuQdIB1gFBVV95cUxQX0FGRVR2cEJOelM0eTNMTXJEZjhxQkpqTWFwWEVCaW0wOVJNMW5VWTVNY0tKTy1ISlF3X0lDQVhuY0FTQzRpX1ZROXJxXy1zZ1JhWThnVE9HQ2hPNExlS1c1S19Ya0gzSGFPNzdMakNoNEdvM04zNkdsSVFTUVQxRm9oLXEtRUVkNEtBSHEyMW05WWhNZFVfM2J0ZnRmN0Zkb2hHQjdiYmhEUlNFVk0xRExTMU1KYzcwdGFsTFdZZHVvaFdnMmZ4SUhUenlkeFhxQWZ5cXNn?oc=5",
-   "date": "2026-11-06T13:15:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a0b0dcd83480",
-   "title": "Keiko Fujimori: «En 100 días no se resuelven los problemas acumulados en años”",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRC11U2R5cXhWczcwQzdtYzJTN2NKN1BsWGYxekVtb1BRMEgxSTZGeGtNZHYyWHQyMXdfQUNraFZkalJNLXNrRGdRaWpyZ1ZhLWVrbTdTNjlpMTVra2J4cm9zcDktbUlpUEdlWHNVWmd0MlJzXzJoU0VGS0FkaThKZmdoSGhISkpKY1BLdE5SUkg3bnllcFlxcGFfc1BPWng1RTYycQ?oc=5",
-   "date": "2026-11-06T12:56:39+00:00",
    "state": "posando",
    "place": null,
    "next": null
