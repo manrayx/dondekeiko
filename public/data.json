@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T16:13:43.016435+00:00",
+ "generated_at": "2026-11-07T16:35:13.888419+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -476,6 +476,17 @@
  "agenda_minutes_7d": 584,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "7bacb9f9a06e",
+   "title": "Un libro al mes y una hora diaria de lectura: las medidas que se aplicarán en los colegios según las nuevas reglas de disciplina escolar del Gobierno de Keiko Fujimori",
+   "excerpt": "El ministro de Educación, José Antonio Chang, detalló los alcances del nuevo reglamento que contempla sanciones por faltas leves, graves y muy graves, restricciones al uso de celulares y el…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/07/un-libro-al-mes-y-una-hora-diaria-de-lectura-las-medidas-que-se-aplicaran-en-los-colegios-segun-las-nuevas-reglas-de-disciplina-escolar/",
+   "date": "2026-11-07T16:26:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "e28b975b4b2c",
    "title": "Nuevas reglas de disciplina escolar en Perú: volverán las notas de cero a 20, sanciones y regulación de celulares, según decreto firmado por Keiko Fujimori",
@@ -1197,17 +1208,6 @@
    "source": "Rumbo Minero",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzBwbkdPSENnVW5vemtON2tDTGdCVm9GR2NQQlRMQnAwM0hNTTVHOC1KQVV3eFRJcVo4d3d5Zl8wVHktNE9pblNCbWxkQTNTcFVvMlZFcy0tQS1MNFdjc2lsZ1hab2x0NV9aazB4b21idDFLaVV5YThySDZXMjdKbFVnV2wza3lZY0NmblVmbVFQYXlUNGZCcTl4SWpYNzFNOTlpNkNka2lPUzBhVmMwbzlvX2tYN1N1Y0g1bmhRbXlkOUU4V3Q4UEZVSnQtQQ?oc=5",
    "date": "2026-11-06T12:29:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5301db6193ff",
-   "title": "Keiko Fujimori ofreció balance: \"Estamos en el camino correcto y los criminales también lo saben\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGtONlc5NnVfNWxCRTVzOFM5R0FEaVFNREQ3SUtCYlNNU3B6OHRvU0F3QlAwNUJMNnBNVjMtWHpTTE96Zm43cWZET2hMZHQySzFpbkJGa3k4dXVXeDZ1NXozTGIzRGFLZDRDa3F1RjFuZXFMbGFTZW1OV2xPUG9HVjNTNHZmRUEyVlpadFl5SXFNNlV0RDItRXpPX3YxUQ?oc=5",
-   "date": "2026-11-06T12:21:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
