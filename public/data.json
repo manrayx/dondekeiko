@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T15:51:44.276896+00:00",
+ "generated_at": "2026-11-07T16:13:43.016435+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -122,8 +122,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 1,
-  "triste": 2,
-  "posando": 56
+  "triste": 1,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -476,6 +476,28 @@
  "agenda_minutes_7d": 584,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "e28b975b4b2c",
+   "title": "Nuevas reglas de disciplina escolar en Perú: volverán las notas de cero a 20, sanciones y regulación de celulares, según decreto firmado por Keiko Fujimori",
+   "excerpt": "La presidenta anunció nuevas reglas sobre disciplina, uso de celulares y sanciones en los colegios, además de un plan lector, construcción de escuelas e Internet satelital",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/07/nuevas-reglas-de-disciplina-escolar-en-peru-volveran-las-notas-de-cero-a-20-sanciones-y-regulacion-de-celulares-segun-decreto-firmado-por-keiko-fujimori/",
+   "date": "2026-11-07T16:06:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b2314026fbdd",
+   "title": "Keiko Fujimori suscribió Decreto Supremo que aprueba nuevos lineamientos de disciplina escolar",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNnNaUFNqOExoT1U1VVZkcV91SjI0d3ljc1dfa0pmTjVrUVFoSzB4MDVHWTVUQVdISXdRSXd0YlFCbWQzeEQ3aDZPVTdnaFB3dTNwRlp2eS1yVmVOazVpcWViOWRPTXVWbkFzMXpLTmJfdzFnVzlxVE5ZNUdoNVhYSkhZTGlEVnZYelpVM2xKUXFQVjVzNkRaYlNsQ0RPbUVWY09VdmZLVHBtV21HWVlJczZsSGl0Qjl5bkNKZjVZTXdveTdwUUVXUEVMbW9kTlNUZGdoNDBHSDdCQ2c?oc=5",
+   "date": "2026-11-07T15:55:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "b0ec132de77a",
    "title": "Keiko Fujimori firma nuevas reglas de disciplina escolar: ¿Qué faltas pueden provocar la expulsión de un alumno?",
@@ -1187,28 +1209,6 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGtONlc5NnVfNWxCRTVzOFM5R0FEaVFNREQ3SUtCYlNNU3B6OHRvU0F3QlAwNUJMNnBNVjMtWHpTTE96Zm43cWZET2hMZHQySzFpbkJGa3k4dXVXeDZ1NXozTGIzRGFLZDRDa3F1RjFuZXFMbGFTZW1OV2xPUG9HVjNTNHZmRUEyVlpadFl5SXFNNlV0RDItRXpPX3YxUQ?oc=5",
    "date": "2026-11-06T12:21:21+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "217a5dbcfe53",
-   "title": "Keiko Fujimori: ¿qué dijo sobre obtención de facultades legislativas durante mensaje de primeros 100 días de gobierno?",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNek9YUVR5NW03LTB3QWpRb3lhWjdKUGJyM0xYMG9BS3g0Qkp4bWxfcGZ5N3cyZVEyM3hXeXgwLTJsOEV6OUw0Rk5YVlhlbDJWUU1vczQ3dnlrZnNMdXBDdlZRbTFRcVhuSVZsUjNITmlHQ3FkeC1ZUGZvcDd1d05hYkpBTlozc2o0T0lvYnhPajFfQ1d1RF9kNUU5VXo0Q2RhMlk5VDdmYnVsOUI2bldjdTVvUkh3TmJtUUFYdE9WcTZUUDVvRjZnRy1MbGhSM0FIQ3ZkRWhqb2lKZXIwTk1mSnRoSW5UMDZXRHQ4MHFIRkxtTTVQWnZkU0lnTUlEN3loVWk3YVBGdndyZUFPRjVwcTRMcw?oc=5",
-   "date": "2026-11-06T12:09:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4223312d4e00",
-   "title": "Vecinos de Villa El Salvador cuestionan a Keiko Fujimori tras inundaciones: \"¿Para qué vienen si no van a cumplir?\"",
-   "excerpt": "Vecinos de Villa El Salvador criticaron a la presidenta Keiko Fujimori por la falta de acciones para prevenir inundaciones ante el fenómeno El Niño. Este reclamo surge tras la promesa…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/05/vecina-de-villa-el-salvador-cuestiona-a-keiko-fujimori-tras-inundaciones-para-que-vienen-si-no-van-a-cumplir-hnews-475080",
-   "date": "2026-11-06T11:51:59+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
