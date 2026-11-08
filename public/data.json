@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T12:04:59.470103+00:00",
+ "generated_at": "2026-11-08T12:26:25.386389+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -416,6 +416,17 @@
  "agenda_minutes_7d": 502,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "73aa92ca45c3",
+   "title": "Senadora Paulina Núñez junto a Keiko Fujimori abordan tratado de extradición y seguridad fronteriza",
+   "excerpt": "",
+   "source": "Puranoticia.cl",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZU5xTzVKUXZ4VmprbDNsZ2xCUmdLRXlKVlNLRWRMWHltcUl2OVZHd2pGa3RoVGkzLVd0aGprWDhBWHg2WjNpMFB4eWRFd1JqTGlxdURhblNHSllScmtoU01QcUlwdnJDcU55NDRYeTUyb1ZRRkFKbWN2aVhNS2JYcm1jY0diTmVHNGdRS2E3QmRtM0J6MVRXOEF5aTd1cmc2TkE?oc=5",
+   "date": "2026-11-08T12:11:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "93e3b3d1b303",
    "title": "Trece detenidos en una operación errónea contra la minería ilegal",
@@ -1107,17 +1118,6 @@
     "abroad": false,
     "city": "Tumbes"
    },
-   "next": null
-  },
-  {
-   "id": "27604389253a",
-   "title": "Los hitos de los cien días de Keiko Fujimori, entre el orden prometido y las dudas sobre su rumbo",
-   "excerpt": "Según el investigador Paulo Vilca, el Ejecutivo conserva ventajas políticas frente a gobiernos anteriores, aunque no logra traducirlas en resultados que frenen la baja en las encuestas",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRFA1cktpOTk1amlDQ0lmRS1iZ24zYjl2Q0lIRGlMVkdqRUIwZVlaQmFrMzJvWTgzRXZvSDBnMzhTb3BvbWk1cEltV1JKTXM3b05XVXk3MGJjV0RRLTc5cXE1Q3ctcEJXY2J2VFo1Wjd4aTFyY0JTZ3h3VVBvdUdCaXhIVmdGN0JGdUljbWRVZ3BpcGJCWUJpX0ZZZFZZV0F5bGRiSjh5U2Y0c0szMGdRNUw2LVpoUTJZS0U3RmJ5elAxaVY0RlFQMFdLU0lkbTFNNXVr0gHuAUFVX3lxTFBna29vMWpYb3doZ3BmT0JkSjg5WTZob0RrTWVYeGRsTEo5Z1VMcjF5UHZpNDhFQ0pFTzNTNGpDbnZLV0RseEQxU1dJMjcyNk5aeUhDd1hxWmFzaFZmT0d2QU00WG1fU0ZMMF9UNWZBVFRvX3VYaWxDamE3ZjYtZ21sUzlLRTFjUmJtdXVxQTlKaWUzd0dZR1Q1bUVPbGFuVHRDdEVBM3lfbThKcnF1RHAwQ1hIZWhEeVZMSFNmMnRDOXJzUHpYdWZHcjJsMnB1YlI1elJocEhqcmcxcDBiY1ozYnpOWDBKOTI0blMzQ2c?oc=5",
-   "date": "2026-11-06T19:24:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
