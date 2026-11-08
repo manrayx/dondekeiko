@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T14:14:59.148184+00:00",
+ "generated_at": "2026-11-08T14:36:50.388140+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,12 +419,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-08T12:14:47+00:00",
+   "id": "716122fe91df",
+   "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
+   "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
+   "date": "2026-11-08T14:26:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -458,17 +458,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
    "date": "2026-11-08T11:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ccb48e1a4893",
-   "title": "Presidenta Keiko Fujimori desea éxito al nuevo mandatario de Paraguay",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
-   "date": "2026-11-08T08:24:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -747,6 +736,17 @@
    "next": null
   },
   {
+   "id": "ccb48e1a4893",
+   "title": "Presidenta Keiko Fujimori desea éxito al nuevo mandatario de Paraguay",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
+   "date": "2026-11-07T17:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "21c4ceca5798",
    "title": "Presidenta Fujimori sobre nuevas reglas de disciplina escolar: “Que el orden regrese a las aulas es fundamental”",
    "excerpt": "",
@@ -874,6 +874,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcFVYc0puWUc2RTNRS3pYMGp0NkluNHoxdUQ0ZnQxVFRCcjRCWTQxMGhXZmNES1oxUUJEcHNuZWhNM0t5N21ZRkUwNU96ZU5qUGs1X1BQQ3EzaXQ5M3JPZFdfUlBoSzZ5b2c2X2pYNHcxck9OQ2x5a3F4aTVUWDhIdVFGcmFhYTBra09td0tnY3dDby1rMHdaNFp0cTk3VE1lV0JraFdaVUt3NE1JbUNwRVJtMzZxR2V0Sms5UC1QUi00ZW8waTFvUUc3R1QzcTNJNHI1alZRTQ?oc=5",
    "date": "2026-11-07T15:02:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-07T11:35:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1103,23 +1114,6 @@
    "date": "2026-11-06T19:29:21+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "f398348f0a62",
-   "title": "\"Acá hay un Gobierno que está en la cancha”, afirma presidenta Fujimori al supervisar albergues y hospital de campaña en Tumbes",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNN1lsRU55QjRaN0NxdUt4VklJWDd0M09lVXZjZjBxcDZJSDJnLXp1U3NHNjJrMURPd0Z4ZThjUlFxNXpPYmpLWmVFcFhYMmVoRzIwQkpfOVRDdFkyTU1YLXlldFNveGNKX3dVN0JtZ2lQRnNEbXByYmlxRU02Rk5jSDluX2hvSnFsUGtVMnh4Y1lVLTVZaUhBcjY3R3prZUJmMW1pODJFRFFfVTh0djU4VGxuc202SVl4NTFucEJNb3FSZXhTd21YZzR5QlZ2RTd3Q1A3NzNDZ2xqSmpGaXdYVVdvLWxkN2kyaWlsV05hSHd3RGdTd0hyamZpdHI?oc=5",
-   "date": "2026-11-06T19:27:07+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
    "next": null
   }
  ],
