@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T20:42:56.178496+00:00",
+ "generated_at": "2026-11-08T21:04:18.732061+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "716122fe91df",
+   "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
+   "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
+   "date": "2026-11-08T20:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e8d829565456",
    "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
    "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
@@ -436,17 +447,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
    "date": "2026-11-08T16:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "716122fe91df",
-   "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
-   "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
-   "date": "2026-11-08T16:38:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
