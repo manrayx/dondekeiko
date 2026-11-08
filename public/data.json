@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T21:47:14.201158+00:00",
+ "generated_at": "2026-11-08T22:30:42.264757+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -418,6 +418,17 @@
  "agenda_minutes_7d": 502,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "32434c0181f7",
+   "title": "Gobierno designa a Miguel Rodríguez Mackay como embajador del Perú en Marruecos",
+   "excerpt": "El Gobierno de Keiko Fujimori designó al internacionalista Miguel Ángel Rodríguez Mackay como nuevo embajador del Perú en el Reino de Marruecos.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/gobierno-designa-a-miguel-rodriguez-mackay-como-embajador-del-peru-en-marruecos-noticia/",
+   "date": "2026-11-08T22:10:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "9d5552817003",
    "title": "Keiko, los próximos 100 días, una crónica de Fernando Vivas sobre la presidenta Fujimori",
@@ -1101,23 +1112,6 @@
    "date": "2026-11-06T20:55:32+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "e34953784c06",
-   "title": "Gobierno destinará S/ 7 000 millones para destrabar proyectos, entre ellos cinco pendientes en Piura, anuncia Keiko Fujimori",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSk5fWTB5QmpZNWpGc2Y5VVNsYmpKZURzVW9UOWJXRUE2M25jSkZkY2MtZzRMekR6dnl3M0p2b3hGcGd5LThuM2NyRFNIa25qbV91MEh2aXhYMkNoLTU4ZmxaVWs3NFNpR2daRUNyM3U2c096MlJ5cFdQeHYzQ1ZsdE16b3V4VExQak9KOGx4YXN0cHktVXlsYkZuMlpDZWIzQzg5Rzc1dzRZUHpLd2dYZ0ptTDNPRE84bThZOUpnZFRJb3VjOFFlSUh1eVJEWDhqMEVlX0M5elJ3UTZXakNIUEhFX3ZEUGdfRjRONlpuLVNpSnZnRWgtb1BwN3VTdDA?oc=5",
-   "date": "2026-11-06T20:30:28+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
    "next": null
   }
  ],
