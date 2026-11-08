@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T09:33:21.723338+00:00",
+ "generated_at": "2026-11-08T09:54:31.542306+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -97,13 +97,11 @@
  "last_place": {
   "place": {
    "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "city": "Chile",
+   "abroad": true
   },
   "source": "Agencia Andina",
-  "date": "2026-11-08T07:33:17+00:00"
+  "date": "2026-11-08T09:47:34+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -419,6 +417,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "707573fa93cb",
+   "title": "Presidenta Fujimori recibió a la titular del Senado de Chile en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVlaeGloWFQ4MXM0UGx3dHVuQVNTczBJY0NKMkx0ZlR0bHJfUjVseHlBcnI3aXpLbExzTDUxWi1ZcTRfcU9uMlU3NWN2Qi1BRHRHTjVhdzZQR1ZjeDliZEw5bmdBMnRValhjdnNiT3R3SHJTUWp0ejN4RnNQOUNZZTc2Y3JOc3R1M0pJTF9TUUgwcGY4RTZLVUtyRzJZVmJVWU1TMGRFcTF5M1Bvd0w0Z1RlLWxUOXFwdHc?oc=5",
+   "date": "2026-11-08T09:47:34+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "Chile",
+    "abroad": true
+   },
+   "next": null
+  },
+  {
    "id": "ccb48e1a4893",
    "title": "Presidenta Keiko Fujimori desea éxito al nuevo mandatario de Paraguay",
    "excerpt": "",
@@ -454,21 +467,6 @@
     "lat": -12.04491,
     "lng": -77.0298,
     "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "707573fa93cb",
-   "title": "Presidenta Fujimori recibió a la titular del Senado de Chile en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVlaeGloWFQ4MXM0UGx3dHVuQVNTczBJY0NKMkx0ZlR0bHJfUjVseHlBcnI3aXpLbExzTDUxWi1ZcTRfcU9uMlU3NWN2Qi1BRHRHTjVhdzZQR1ZjeDliZEw5bmdBMnRValhjdnNiT3R3SHJTUWp0ejN4RnNQOUNZZTc2Y3JOc3R1M0pJTF9TUUgwcGY4RTZLVUtyRzJZVmJVWU1TMGRFcTF5M1Bvd0w0Z1RlLWxUOXFwdHc?oc=5",
-   "date": "2026-11-08T03:47:34+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "Chile",
-    "abroad": true
    },
    "next": null
   },
@@ -610,6 +608,17 @@
    "source": "Resumen Latinoamericano -",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWJNVTJ1UmNJTDI0bE81c29EUGpJMWp6ZnNBY3k5NTJPRG95eWc5ci1WWmZXaWxEVVBMcU1MZFJZT2t1cXAyMkJlLUs4QUotZjdQbDBfNzNIY0ZvM0V0dEhLSC0yc0tkaFBCdDNfQWRGNVRuRnBnS3ZWOVJpRHJ3cFBxYURSSTRUajJRUTZBZTRYb2p2TGYtb1E1MUZHZklLYXVWUl9YOU10LXJXS1FpQWRJcGFDZzRtc0ZwNjVubHV1V2dNRExJ?oc=5",
    "date": "2026-11-07T19:18:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "32c211726929",
+   "title": "Presidenta Fujimori desea éxito al nuevo mandatario de Paraguay, Pedro Alliana",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRF9yRmI5YUlWYXdST19IUHdhS1ZtdVg5Q3pBdVEzd0tDUnpLUzAxRnBwZHN5SWx3YURYMXNVQVcxdmJTdkcwRWhnSEV5TmRDUS1LYWtEcXFKcWdNbzRHVUpyV2Fjemg1Tjd4WnNqeGVNNTM1cFRlWkc2MUtyWWVoSFpEV2d4akx2UU1oLWcwUnR6M0tfQ0x1XzlQRk5OM0hqSTdRblo3dEVOTG5Mc0l5b3dBaw?oc=5",
+   "date": "2026-11-07T19:03:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1107,23 +1116,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDlROG92cnN4Um9qaGlSRUJkWVBiWm1hSFB3YnhXQkx6VVVDSXZwNW80b0JJd0k3UHYwNXM3aHgwb1ZrZUp3eGF3YXd1UlJ5Z2M3eUlOQ2R5cTJuWnVFeEsweTVtbXMxVllsMks1RjVzcWpjX3E3ZUZtMmNOYTVyQTVDNUZyR09PcFJYRjduVmlFNllzZXR6M18wWG5uVXJNdXFiQTZ5bTZaa1VUeTlKZGNPNWxrUVBGeGdLZjllZFlreDZRN1phdDlub05NODNPOEpTUTh4Vzc3Qkg0OGs3MXd3?oc=5",
    "date": "2026-11-06T18:59:48+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
-   "next": null
-  },
-  {
-   "id": "4fbeb488356b",
-   "title": "Presidenta Keiko Fujimori llegó a Tumbes para inspeccionar albergue temporal y hospital de campaña",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSTFiMmNuV21raFFKaDRmS0h4X1FacFBJS1NFOEZaaWZUUnh6T3ppYlVzMGRwNjRwMnVBUzRMejV4SDQtVXZMcmt0OHh3cTBocDM3U1pmU083NUNzQzZvNXZXTWJvNXdYY2NHRjFkNFFoS2w3RjlrTmFUcVRCbjE5MTViTUUzNHFDZTdleVVkSXFUYzN1eGZnbXlqd3M5SHN0QkpKVm9wNUhhVnFKZUQ3NXBYRnE3b1Vuelk4Q3U3U0U3Mk10R2p6V19XeVNSaXBKcFdfQ3hmbw?oc=5",
-   "date": "2026-11-06T18:28:23+00:00",
    "state": "posando",
    "place": {
     "name": "Tumbes",
