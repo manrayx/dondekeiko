@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T17:29:06.988857+00:00",
+ "generated_at": "2026-11-08T17:50:54.851374+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-08T17:35:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9d5552817003",
    "title": "Keiko, los próximos 100 días, una crónica de Fernando Vivas sobre la presidenta Fujimori",
    "excerpt": "",
@@ -458,17 +469,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/08/gobierno-de-keiko-fujimori-nombra-a-exministro-de-pedro-castillo-como-embajador-de-peru-en-marruecos-hnews-799768",
    "date": "2026-11-08T16:09:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-08T12:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -582,17 +582,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-08T01:10:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -739,9 +728,9 @@
    "id": "a439dc080d41",
    "title": "Tras la caída de Santiago Peña, Keiko Fujimori saluda la asunción de Pedro Alliana en Paraguay",
    "excerpt": "La mandataria peruana expresó sus deseos de éxito al nuevo jefe de Estado paraguayo, que asume luego de que Peña fuera destituido por el caso Ueno Bank",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/07/tras-la-caida-de-santiago-pena-keiko-fujimori-saluda-la-asuncion-de-pedro-alliana-en-paraguay/",
-   "date": "2026-11-07T18:04:40+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWEl3MWNUWkxlSzdWbzQxS25xWGxBMmtIYzNlQnl4MTRLRXpmOVRDLUJGeWJONWJsLUxNeGk3eGxUVjY2TFV1RnhrXzNPN3VXTHRGVDE2R3piNlZOUll2WWo0S2piUS1uSTFHVDJ2dTV0bWh2WFkyTHR5dnpzdmppckhoT1BPTjVaYlhuVDM0SHZ5cUdQQmdvekhQdmgzeWl4czNtYUdlTjFYdS1NYno4Z1kwN3BUQjYxSnA2M2t3UWlZaUgyYXdla0pRby1zLXPSAeoBQVVfeXFMT0dpSGNxREtKV2JYQmo0RmpBQ2NnR0U5dWFER0hIQ0xWRTZjbG41VjRXaGxmbWhWeEIxcmxZdTExTWlkMkRYRWtkeUk2MGFwdW9nNVlzOWw3bU1HVnZ1ZzNEYnRXXzI4b1gtbkk2UV9RUGFJa3B1MWxBOEhEb2ZWeFFvVVlob3dsOUh1MjV6NnRnYW5KLWE5bjZiNGJXaGIwN1owaHBad0RWQndiekxDdnJUTjBGQVVNalI4OVpSckg2T0VqcFRSaGFzUUJjNmdMUE5rcmpJVDY5OFJjV245dk8wNVAxSTFKdDR3?oc=5",
+   "date": "2026-11-07T18:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -907,6 +896,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcFVYc0puWUc2RTNRS3pYMGp0NkluNHoxdUQ0ZnQxVFRCcjRCWTQxMGhXZmNES1oxUUJEcHNuZWhNM0t5N21ZRkUwNU96ZU5qUGs1X1BQQ3EzaXQ5M3JPZFdfUlBoSzZ5b2c2X2pYNHcxck9OQ2x5a3F4aTVUWDhIdVFGcmFhYTBra09td0tnY3dDby1rMHdaNFp0cTk3VE1lV0JraFdaVUt3NE1JbUNwRVJtMzZxR2V0Sms5UC1QUi00ZW8waTFvUUc3R1QzcTNJNHI1alZRTQ?oc=5",
    "date": "2026-11-07T15:02:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-07T11:35:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
