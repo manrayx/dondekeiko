@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T16:24:05.442554+00:00",
+ "generated_at": "2026-11-08T16:46:02.782261+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,23 +419,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "716122fe91df",
+   "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
+   "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
+   "date": "2026-11-08T16:38:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "91bfc0ff96bd",
+   "title": "Miguel Ángel Rodríguez Mackay, excanciller de Pedro Castillo, es nombrado embajador del Perú en Marruecos",
+   "excerpt": "El Gobierno de la presidenta Keiko Fujimori nombró a Miguel Ángel Rodríguez Mackay como nuevo embajador extraordinario y plenipotenciario del Perú en el Reino de Marruecos. La designación fue oficializada…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/internacional/miguel-angel-rodriguez-mackay-excanciller-de-pedro-castillo-es-nombrado-embajador-del-peru-en-marruecos-ultimas-noticia/",
+   "date": "2026-11-08T16:23:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5db4ddefb74e",
    "title": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos",
    "excerpt": "La presidenta Keiko Fujimori y el ministro de Energía y Minas, Guillermo Shinno, nombraron a Miguel Rodríguez Mackay como embajador extraordinario y plenipotenciario de Perú en Marruecos.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/08/gobierno-de-keiko-fujimori-nombra-a-exministro-de-pedro-castillo-como-embajador-de-peru-en-marruecos-hnews-799768",
    "date": "2026-11-08T16:09:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "716122fe91df",
-   "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
-   "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
-   "date": "2026-11-08T15:45:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1101,17 +1112,6 @@
    "source": "Rumbo Minero",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUtWX0t6aVY2aVdNc241OVJ1eHVnSnZIYnUtTE02bFhVX0hDQTBKYWFEbHU5ZnJqRUdwQ3haeTdSSmF2WnZELVdfbnFmQllwaUJqQWdEbWZwSHpmQnZKSmlqVWlfbk9ELUdpNi1udndEQ2NhLTRDY0xYeUNHbVNJaXpxVEtOY3BlXzdObGRIQWFJd1B5YmJsVmRVdm5EbDNvc0J4Ni10aHpZNlVEYkNEQXhCUmk?oc=5",
    "date": "2026-11-06T19:38:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d5c70b67a2db",
-   "title": "Keiko Fujimori brindó balance de los primeros 100 días de gestión ¿Qué dijo?",
-   "excerpt": "Keiko Fujimori brinda ahora un balance de los primeros 100 días de gestión",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
-   "date": "2026-11-06T19:37:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
