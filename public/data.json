@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T04:51:25.682750+00:00",
+ "generated_at": "2026-11-08T05:12:53.429220+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -411,73 +411,9 @@
     "abroad": false,
     "approx": true
    }
-  },
-  {
-   "start": "2026-10-31T18:26:00-05:00",
-   "end": "2026-10-31T19:00:00-05:00",
-   "minutes": 34,
-   "subject": "Reunión de trabajo con el Representante Permanente del Perú ante los organismos internacionales con sede en Ginebra, Suiza, José Recoba Martínez",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-31T17:03:00-05:00",
-   "end": "2026-10-31T18:23:00-05:00",
-   "minutes": 80,
-   "subject": "Reunión de trabajo con el Representante Permanente del Perú ante la Organización de los Estados Americanos (OEA), Aurelio Pastor Valdivieso.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-31T16:38:00-05:00",
-   "end": "2026-10-31T17:00:00-05:00",
-   "minutes": 22,
-   "subject": "Reunión de trabajo con el embajador del Perú en Colombia, Ricardo Ghibellini Harten.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-10-31T03:25:00-05:00",
-   "end": "2026-10-31T03:25:00-05:00",
-   "minutes": 0,
-   "subject": "Llegada tras cumplir Visita Oficial en El Salvador.",
-   "lugar": "Aeropuerto Internacional Jorge Chávez, Callao",
-   "state": "posando",
-   "place": {
-    "name": "Aeropuerto Internacional Jorge Chávez",
-    "full": "Aeropuerto Internacional Jorge Chávez, Callao",
-    "city": "Callao",
-    "lat": -12.01943,
-    "lng": -77.11941,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 638,
+ "agenda_minutes_7d": 502,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -569,6 +505,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
    "date": "2026-11-08T01:10:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8605fcee7bc4",
+   "title": "Perú. Keiko Fujimori: 100 días de anuncios, pero todavía sin resultados que convenzan",
+   "excerpt": "",
+   "source": "Resumen Latinoamericano -",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWhNVVZqRFpFbm0wS0M1TEhKTnd4emlNbjJqWVJkVDRVOGFaQXFWVC1QWE9fWGFoSDgteTU1YU5PU0d2cHhoZXZmZkVnSzNTRm9OX1VSaFA3aTY1VE50VnlsamhTVjhvaVlZU1ZyOWJpRUdNRTZCWU8ySnNBWDVfajlFMTNNX19YUlN3S0lFcVlZcjdJTDltWk5OdEcxUTlycW5jbm5oUXEyakM1WmQ5cHpjSjZPelAwQmpwelBBdlE3Zk1zaGlZTGpsbXZEQQ?oc=5",
+   "date": "2026-11-08T00:17:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1181,17 +1128,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLVVRdUZrNUx5cnFoN0JSWkxFeWNacVdGQkRxbEdxQy0yTkx1T3UyS0FWbWxKVy0yNzhfVEhVRXN6eUFERmVKcWx1dFp5R0REdjdVeGtnMWpmVUszdDM5LXdTRnVxaHM3N3pJZ0R1V1JWUHFlZzFXZ0t1ZW1mYmI2Y014TzBSYWI2ZzVybGlXbTJ5U1VjNUtWaFVnNE9maVlqWGZCaGlkNDJMc1hTMGItd1dTYmE?oc=5",
    "date": "2026-11-06T18:19:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b9444e9c0abd",
-   "title": "Banco paraguayo vinculado a escándalo político patrocinó encuentro de extrema derecha al que asistió Keiko Fujimori",
-   "excerpt": "Ueno Bank, la entidad financiera paraguaya vinculada al escándalo político que derivó en la renuncia de Santiago Peña a la presidencia, patrocinó la Gala de la Prosperidad Hispana, realizada en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/06/banco-paraguayo-vinculado-a-escandalo-politico-patrocino-encuentro-de-extrema-derecha-al-que-asistio-keiko-fujimori-hnews-340848",
-   "date": "2026-11-06T17:47:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
