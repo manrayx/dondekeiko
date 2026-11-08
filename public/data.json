@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T10:59:15.778687+00:00",
+ "generated_at": "2026-11-08T11:21:08.656524+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -417,6 +417,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9d5552817003",
+   "title": "Keiko, los próximos 100 días, una crónica de Fernando Vivas sobre la presidenta Fujimori",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
+   "date": "2026-11-08T11:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "707573fa93cb",
    "title": "Presidenta Fujimori recibió a la titular del Senado de Chile en Palacio de Gobierno",
    "excerpt": "",
@@ -438,6 +449,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
    "date": "2026-11-08T08:24:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2401e0c266d9",
+   "title": "Peru: President Keiko Fujimori wishes Paraguay's new Head of State success | News | ANDINA - Peru News Agency",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1FBUWM4eDA2ZjdBRE1ZNU1mU1RIbG90ZS1haDN4Mk1qN1l3MklmME1EOU1RUUNJdkNCYkhrbEtxdHRvRy1ldElvcFNjbU4yRXNEZkhIUllDbTk4QXFSelljTlJBRFhDV1ZNMFUwV0JOTFdVWG9sdlNidWR5bWsxNXlSVmluelhXN1JTbVlQUllhZHhucVdiN3lnUWpmZWxDa2tMSHFvdTFsdEVsWjZJMmxTbDhOUTdqNXc?oc=5",
+   "date": "2026-11-08T08:10:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -547,7 +569,7 @@
    "title": "Keiko Fujimori firma decreto supremo que establece nuevos lineamientos de disciplina escolar - Televisión Tarapoto",
    "excerpt": "",
    "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcEo4N0RERnBaNHRKVVNUejZUbTBFcFBlekE3VlBPQzhINFVHbEh3MmowNlk4M1padmlscFdmMmI1WWVVeHZ2eXdvbDZNdE5ZcVJ0QzJFNmFLa2tyOUhkQ2w3aG9QM0FYalRHaHRsaWxlRXh0SmwyQzM5VENmTmlvaG1lMVV5aDNFbm9kMjQ1WmI4Y0FraXJSNG5KTTZmTW1rczJwemYwb1dtdFNBSnR5U1A1bUpGMXVIUUdhM1d4UjloSDhXLWlvOUpfWUtkNTU5Y0U5SzE1NA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTTZOVE1kc0ZqWldLdkhibE1MbktyVkphSmtRdUNlSlJrT1lLeDhtM2tvZlVsUjE1VjU3R0MzRzJpaTAya3RfMWZOaURWUXhCNzNtU2RXQXhfMWJhSUVZTzVpeE9hcGZYS2RWSG9sZDlLemxCeXlpYy00d2xwVzJmcFlqRjA4aUoxb1F1MHAwUThBOUxNNlVjZ1F5MTJJMExvT2xOLTFreVFvaWROTU04bW9EdWhpbzhib1NNcWR0R0kteUdrZ0JEMTMxQW1nMDFvUVBaQmNTdHc5NGdUck1JS0o5S3A?oc=5",
    "date": "2026-11-07T22:23:32+00:00",
    "state": "posando",
    "place": null,
@@ -789,23 +811,23 @@
    "next": null
   },
   {
+   "id": "0905b116cd33",
+   "title": "Keiko Fujimori promulga decreto supremo con nuevas reglas de disciplina escolar en colegios del Perú",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlpzVEFBR0V6N0w3VUZwTDBhRVhWbVlWV1JsTTY3Ym80Rld3UnNrcnhNY19FOWdteHZNbURRVTNrNktQd3dOMzlGT3lUV0UzQ24wVXVPMzBWYXRRLW4wc2trVWUzOGJaRGJOd2ttcm1tbzZzTGtYMllIR1Z4QWVFSHhyUjhMRGtJQ3M5SVZiWWVabnZsQjRoMVlnUU1zdVY2Y1J6YmVsRGZoeWRRYWs2NkdEUGdYa1BLa0QybGkwTUs?oc=5",
+   "date": "2026-11-07T15:29:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9bd241ebb46c",
    "title": "PRESIDENTA KEIKO FUJIMORI: ES FUNDAMENTAL QUE EL ORDEN REGRESE A LAS AULAS",
    "excerpt": "",
    "source": "RCR Peru",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHcta0RIam9ta0F1Vmd4V1BRZnd5WVcydU1EdEpTR0FnRVBFNlNkM3hRN0c4Ykc0Ykp3SlFSX1ZIU05aX1Uya0FIMWFhUTdMWEU5blRlZFhzMTRONFhIUmI2S3hQWHBsX3JWWmFWNHEycm93YkNPWWxZOV9VUFFOanVqVWVrc3RnaWZweVAxdkpCTWtGdWQ4S0txTzRkZzg?oc=5",
    "date": "2026-11-07T15:10:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0905b116cd33",
-   "title": "Keiko Fujimori promulga decreto supremo con nuevas reglas de disciplina escolar en colegios del Perú",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlpzVEFBR0V6N0w3VUZwTDBhRVhWbVlWV1JsTTY3Ym80Rld3UnNrcnhNY19FOWdteHZNbURRVTNrNktQd3dOMzlGT3lUV0UzQ24wVXVPMzBWYXRRLW4wc2trVWUzOGJaRGJOd2ttcm1tbzZzTGtYMllIR1Z4QWVFSHhyUjhMRGtJQ3M5SVZiWWVabnZsQjRoMVlnUU1zdVY2Y1J6YmVsRGZoeWRRYWs2NkdEUGdYa1BLa0QybGkwTUs?oc=5",
-   "date": "2026-11-07T15:07:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1096,34 +1118,6 @@
    "date": "2026-11-06T19:15:51+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "bc1c1783bbb1",
-   "title": "Gobierno de Keiko Fujimori: Avances y retos del sector salud a 100 días de gestión",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaVV3cWlTOVZIYTVTZzRiZjdIcUVXQ29MUl9VNDlteHlWVzZTSTdaQXBMbnB3azlfOWszX1RrN3h3cTRFUTVXeFhMenhlaUU1VUJLd3ZRdll2Y2h2dG40UlR3eVdSckJaZnEzV0pVVGRoMEE3R2xlVUZCNkdSV3FPTXlMczRjb3ZNbk9OMnVHb29VeVd3TWJBVzhLd0JBNnFscjEyRHRRTVRXY3RNbFEtVi1MQ2twbjk5WnFpaUlHUDZQc3ltNWdV?oc=5",
-   "date": "2026-11-06T19:04:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "33fbf91e6911",
-   "title": "Keiko Fujimori en Tumbes: presidenta destacó trabajos de respuesta frente a afectaciones por lluvias",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMDlROG92cnN4Um9qaGlSRUJkWVBiWm1hSFB3YnhXQkx6VVVDSXZwNW80b0JJd0k3UHYwNXM3aHgwb1ZrZUp3eGF3YXd1UlJ5Z2M3eUlOQ2R5cTJuWnVFeEsweTVtbXMxVllsMks1RjVzcWpjX3E3ZUZtMmNOYTVyQTVDNUZyR09PcFJYRjduVmlFNllzZXR6M18wWG5uVXJNdXFiQTZ5bTZaa1VUeTlKZGNPNWxrUVBGeGdLZjllZFlreDZRN1phdDlub05NODNPOEpTUTh4Vzc3Qkg0OGs3MXd3?oc=5",
-   "date": "2026-11-06T18:59:48+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
    "next": null
   }
  ],
