@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T21:04:18.732061+00:00",
+ "generated_at": "2026-11-08T21:25:40.120905+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -474,6 +474,17 @@
    "next": null
   },
   {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "73aa92ca45c3",
    "title": "Senadora Paulina Núñez junto a Keiko Fujimori abordan tratado de extradición y seguridad fronteriza",
    "excerpt": "",
@@ -592,6 +603,21 @@
     "lat": -12.04491,
     "lng": -77.0298,
     "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "e80983c9dccb",
+   "title": "Keiko Fujimori se reunió en Palacio de Gobierno con la presidenta del Senado de Chile",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0EyM01pZUNnTVptTDY0WkdjY3JlTWhaUnhqNFllb1VQTkhENkhudS1wMlc2T3NTUHJod2RzR0YwMlNRUFY1ZkNBZjhUWlh6TEs1dkVnUDBTN3pHVFhSTTVESWRodm5lb1Z3b0JGeldtMkowTFpwUi1KX2NlX0tuRXJqV0VZbFpYeURwbEQ4a0VIWjY1SWNKNmhTS2ZkVUJpa1dRdlNkVF9KVHZONUdn?oc=5",
+   "date": "2026-11-08T01:21:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "Chile",
+    "abroad": true
    },
    "next": null
   },
@@ -923,17 +949,6 @@
    "next": null
   },
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-07T11:35:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d246d9aee166",
    "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
    "excerpt": "",
@@ -1103,17 +1118,6 @@
     "abroad": false,
     "city": "Piura"
    },
-   "next": null
-  },
-  {
-   "id": "4268daa00943",
-   "title": "Keiko Fujimori anuncia reubicación de familias afectadas por las lluvias durante visita a Tumbes",
-   "excerpt": "",
-   "source": "La Razón",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDRCQmlPbHh1ZlRHZnM3Y1FVbDhFLWh3LWl2YncyckdmUGxGcHl0b2ExWGJJQzJNdHkzSHlFYVdiUmtsMnB3dUJXODhSRzMwSUF6U0RJSUlndDVlWk1uWk93Q1gzNEpMTmJjQ0xfaGl1a0VMdkt0enJhYjIxaC1POE5zWGtoZjIxaXJuRW5VX2hDdUtvUXFtS3ZoMTBRdG9JYmFaa3B1NWFKalU5elBBRm81YXhzTmc?oc=5",
-   "date": "2026-11-06T20:00:29+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
