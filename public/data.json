@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T15:19:45.453833+00:00",
+ "generated_at": "2026-11-08T16:02:46.980045+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,12 +419,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "9d5552817003",
-   "title": "Keiko, los próximos 100 días, una crónica de Fernando Vivas sobre la presidenta Fujimori",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
-   "date": "2026-11-08T15:07:59+00:00",
+   "id": "5db4ddefb74e",
+   "title": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos",
+   "excerpt": "La presidenta Keiko Fujimori y el ministro de Energía y Minas, Guillermo Shinno, nombraron a Miguel Rodríguez Mackay como embajador extraordinario y plenipotenciario de Perú en Marruecos.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/08/gobierno-de-keiko-fujimori-nombra-a-exministro-de-pedro-castillo-como-embajador-de-peru-en-marruecos-hnews-799768",
+   "date": "2026-11-08T16:00:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -435,7 +435,18 @@
    "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
-   "date": "2026-11-08T14:26:29+00:00",
+   "date": "2026-11-08T15:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9d5552817003",
+   "title": "Keiko, los próximos 100 días, una crónica de Fernando Vivas sobre la presidenta Fujimori",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
+   "date": "2026-11-08T15:07:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -578,7 +589,7 @@
    "title": "Keiko Fujimori firma decreto supremo que establece nuevos lineamientos de disciplina escolar - Televisión Tarapoto",
    "excerpt": "",
    "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTTZOVE1kc0ZqWldLdkhibE1MbktyVkphSmtRdUNlSlJrT1lLeDhtM2tvZlVsUjE1VjU3R0MzRzJpaTAya3RfMWZOaURWUXhCNzNtU2RXQXhfMWJhSUVZTzVpeE9hcGZYS2RWSG9sZDlLemxCeXlpYy00d2xwVzJmcFlqRjA4aUoxb1F1MHAwUThBOUxNNlVjZ1F5MTJJMExvT2xOLTFreVFvaWROTU04bW9EdWhpbzhib1NNcWR0R0kteUdrZ0JEMTMxQW1nMDFvUVBaQmNTdHc5NGdUck1JS0o5S3A?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcEo4N0RERnBaNHRKVVNUejZUbTBFcFBlekE3VlBPQzhINFVHbEh3MmowNlk4M1padmlscFdmMmI1WWVVeHZ2eXdvbDZNdE5ZcVJ0QzJFNmFLa2tyOUhkQ2w3aG9QM0FYalRHaHRsaWxlRXh0SmwyQzM5VENmTmlvaG1lMVV5aDNFbm9kMjQ1WmI4Y0FraXJSNG5KTTZmTW1rczJwemYwb1dtdFNBSnR5U1A1bUpGMXVIUUdhM1d4UjloSDhXLWlvOUpfWUtkNTU5Y0U5SzE1NA?oc=5",
    "date": "2026-11-07T22:23:32+00:00",
    "state": "posando",
    "place": null,
@@ -1101,17 +1112,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-brinda-ahora-un-balance-de-los-primeros-100-dias-de-gestion-noticia/",
    "date": "2026-11-06T19:37:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "456d3072b88d",
-   "title": "Keiko Fujimori: “Siempre se pueden hacer mejores cosas, con mayor rapidez\"",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVFGMDFNYkNQdENHdEhmNVNGNTlsR0NpRDJ5dHVJaXFrTDFFMFI2eFVMOXdzVEdweXczVHNWUmc5QXlBTXRNMTctbW1tQ2RhMVJ3SndyYUdvTWVIVHEzN1FweG9LSEZqOHBFLTBoTDVBeVNQWHktQk11MWw4dlo1QmhkcmZ6WEprenlzaHRZU0pxeWU1NC11YTF4RmtSQms?oc=5",
-   "date": "2026-11-06T19:29:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
