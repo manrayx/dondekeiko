@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T01:14:22.009691+00:00",
+ "generated_at": "2026-11-08T01:57:55.255683+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -97,11 +97,13 @@
  "last_place": {
   "place": {
    "name": "Palacio de Gobierno",
-   "city": "Chile",
-   "abroad": true
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-07T21:52:56+00:00"
+  "source": "TVPerú",
+  "date": "2026-11-08T01:53:01+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -481,6 +483,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ed26d5629a49",
+   "title": "Presidenta Fujimori lidera sesión del Consejo de Ministros en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQXg2d3d0OEZ1UDI3TFg3a0RMLW5BeDZVaXpfaHhmazFUVU90TVFuRTEybVgtWXUtdWZvbE5iMThneVFTYzBEOW5WVHoxd2tKR3c1SjhzdWQyaU1pcm90dlFKTDduS3AwYWZwSzIxRjZpeHFSVmRtSU1NRTIzOHFHdC1hZnZKQVlGdm82RW1nWnZmOFZzY0VWTnc5NHMyUDU5YTZvOXg4RE9RV0RKcGxfZ2lFRzQyRnRqc3hRRTlYNnNubmdfN1E?oc=5",
+   "date": "2026-11-08T01:53:01+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "0402982eeb87",
+   "title": "Keiko Fujimori y presidenta del Senado chileno abordaron agenda de cooperación bilateral",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXpYMDlkN3FQaE5UU3hvdV9PQUNwMWh2WlhVOXB1UVVPcmMxQU5GTHJPZ05VbGw3dFZoQjdXNDF2Q3VBWEtvaVNYVlpFSnFtOHVhdVBVTHRYb08tZDhqN1Brc1NjSzk1S2FVQ3VObmxHVkxvYmFLclBDUXlEbWRIc0NRRHBFNzc3cHkwZ0oyY01BNmJQNEYtWEkxVFFNanFYU2tmYTNFc2drdW5oVm1SZjVGSDlsRkIwb3FmNllLNDJXazBHaXfSAdoBQVVfeXFMTXdqYkR3OU5YQklzWlhRMkV3WDMzVVY1WFNzQnl0ZEVOT09OVjhNci1BQ3pwNEhiZTR0MUpIQWlqNlJrMEQtdFZqQ3NQT1hFWTFMekgyYkdhRjJObnctSTh0YzVYYWxyejFFXzRLa3lyM0Mxb1hNcGh0eGU2S1pERVY0b1pXUDBuaUUyeVA2cmNqaF9uWUJKeUQ0cklwMUYzUldxX3piRTlVelo1UmhFZy1sckxzb20zYWJYajctTFdxYmNnUFBXdEp6U2FaY1VvS1Z0Sk5tbkVTa0E?oc=5",
+   "date": "2026-11-08T01:34:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e8d829565456",
    "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
    "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
@@ -507,7 +537,7 @@
    "title": "Keiko Fujimori firma decreto supremo que establece nuevos lineamientos de disciplina escolar - Televisión Tarapoto",
    "excerpt": "",
    "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTTZOVE1kc0ZqWldLdkhibE1MbktyVkphSmtRdUNlSlJrT1lLeDhtM2tvZlVsUjE1VjU3R0MzRzJpaTAya3RfMWZOaURWUXhCNzNtU2RXQXhfMWJhSUVZTzVpeE9hcGZYS2RWSG9sZDlLemxCeXlpYy00d2xwVzJmcFlqRjA4aUoxb1F1MHAwUThBOUxNNlVjZ1F5MTJJMExvT2xOLTFreVFvaWROTU04bW9EdWhpbzhib1NNcWR0R0kteUdrZ0JEMTMxQW1nMDFvUVBaQmNTdHc5NGdUck1JS0o5S3A?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcEo4N0RERnBaNHRKVVNUejZUbTBFcFBlekE3VlBPQzhINFVHbEh3MmowNlk4M1padmlscFdmMmI1WWVVeHZ2eXdvbDZNdE5ZcVJ0QzJFNmFLa2tyOUhkQ2w3aG9QM0FYalRHaHRsaWxlRXh0SmwyQzM5VENmTmlvaG1lMVV5aDNFbm9kMjQ1WmI4Y0FraXJSNG5KTTZmTW1rczJwemYwb1dtdFNBSnR5U1A1bUpGMXVIUUdhM1d4UjloSDhXLWlvOUpfWUtkNTU5Y0U5SzE1NA?oc=5",
    "date": "2026-11-07T22:23:32+00:00",
    "state": "posando",
    "place": null,
@@ -1165,28 +1195,6 @@
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRi1pSHF3TWpUd0VEcWVoNU1HZmo5NjBrSDVLYUVucF9GVzZxY085ajFEWThqUHlXVEdwMjZBdFU2TE5Ud0ZYSno3R2VYWUl4TkViX0pmMlhLRmI4VmJ4UVpPV1dyaldqZnVNWTF6eEJBQnZPZjJWS1k2THp5Q2FUMGxxb0JyRVNodDNuZWZfSzdGeTlOYmFBWENmVmpKNlVfaGFpYWl0ZjhQTkl6bUZLbVlQS3cyanM?oc=5",
    "date": "2026-11-06T17:30:48+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c3d4724201a9",
-   "title": "Gestión de Keiko Fujimori es cuestionada por falta de respuesta ante emergencias climáticas (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEd6NlhRRk80YmdDcVVGRnZUNzRMQ2hqa0N5c2lMbmhXUGljQVk4N005b25NZnBGS2FMeFdPTGZSMWdSdDJfX3Eyck9tRXpocUZybUluOVkxMDBDdW1SbmxfQ0g4UVNFNUd5RUY2WDVKR3ZJbXgwSnRINmJIN3QtNWQ3NFVvaWNSUXo3QTR2b0ZXRWx4aEI3UEYzbmtLendCbGUtMlhYWVNQZkZpSC1wR3Y2QzNjT3hHYlEwSV81Ykd2QQ?oc=5",
-   "date": "2026-11-06T17:14:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a7a0687e0c15",
-   "title": "Sin prensa ni preguntas: Keiko Fujimori rindió cuentas de sus 100 días en un escueto mensaje grabado y culpa a gobiernos anteriores (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOell6Ylh6TXROMjhVQ2lHLWpDTDJUQ1U4WUJoX3o4SU1SNU1jbGg1X1ZfNmtCMndkRGdlNGhYTlFfLVE5LUFUYzFqYWxqNncydVNUUGVBODllUmZWT3R3WW5fYkowMDlYMm5sS3ROTkVUWVdfSnh6eU1raXo4RXJVT1Nzd1FMcUd2NDBTbFNhV1NBVWRRbFRDNGhDc240bXRqd0NVZVFnbTJydVc2aXRFaWNKdWVGTjhjTzRIMk1XUXI3em11YndXR29fZWJpZllaT2dRcjZFRHZmRU1XQ0ZEbFk2eGpzVGgwQ2pLeERXcTNFVzA4VUE?oc=5",
-   "date": "2026-11-06T17:08:43+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
