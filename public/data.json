@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T03:46:35.098841+00:00",
+ "generated_at": "2026-11-08T04:08:05.440988+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -97,13 +97,11 @@
  "last_place": {
   "place": {
    "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "city": "Chile",
+   "abroad": true
   },
-  "source": "TVPerú",
-  "date": "2026-11-08T01:53:01+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-08T03:47:34+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -483,6 +481,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "707573fa93cb",
+   "title": "Presidenta Fujimori recibió a la titular del Senado de Chile en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVlaeGloWFQ4MXM0UGx3dHVuQVNTczBJY0NKMkx0ZlR0bHJfUjVseHlBcnI3aXpLbExzTDUxWi1ZcTRfcU9uMlU3NWN2Qi1BRHRHTjVhdzZQR1ZjeDliZEw5bmdBMnRValhjdnNiT3R3SHJTUWp0ejN4RnNQOUNZZTc2Y3JOc3R1M0pJTF9TUUgwcGY4RTZLVUtyRzJZVmJVWU1TMGRFcTF5M1Bvd0w0Z1RlLWxUOXFwdHc?oc=5",
+   "date": "2026-11-08T03:47:34+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "Chile",
+    "abroad": true
+   },
+   "next": null
+  },
+  {
    "id": "1a8b71cc72aa",
    "title": "Audio de operador Cerimedo confirma relación con campaña de Keiko Fujimori",
    "excerpt": "En contacto. La prensa boliviana difundió una grabación en la que el operador argentino revela al presidente Rodrigo Paz que vendió un sistema paralelo de conteo de votos y que…",
@@ -589,21 +602,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzZ5WmM3WFVXczZod2xhcnVHbnNmTGRrdW1RUTBKWTRhcGJVdV9xQi03WjJpZlRULWFrSUpXT2p6QWlEMGVMLTBlREgxWmhCQ1NZa2lUMUlyZW1IOEhyRjVjdmpNWjBERFV4SGpjWWNHNS0xY3VYZGhLTEdSSEt5Mkg4cURodk1DYkRWRkdxVl81dlo4blpEMmcyTkY2THFmZEY2blN6cDE4cmFHYzkzTERfNmR6cEx4aXE2LXM2NVNLTE0?oc=5",
    "date": "2026-11-07T21:52:56+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "Chile",
-    "abroad": true
-   },
-   "next": null
-  },
-  {
-   "id": "707573fa93cb",
-   "title": "Presidenta Fujimori recibió a la titular del Senado de Chile en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVlaeGloWFQ4MXM0UGx3dHVuQVNTczBJY0NKMkx0ZlR0bHJfUjVseHlBcnI3aXpLbExzTDUxWi1ZcTRfcU9uMlU3NWN2Qi1BRHRHTjVhdzZQR1ZjeDliZEw5bmdBMnRValhjdnNiT3R3SHJTUWp0ejN4RnNQOUNZZTc2Y3JOc3R1M0pJTF9TUUgwcGY4RTZLVUtyRzJZVmJVWU1TMGRFcTF5M1Bvd0w0Z1RlLWxUOXFwdHc?oc=5",
-   "date": "2026-11-07T21:45:00+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
