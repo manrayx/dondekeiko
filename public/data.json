@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T03:24:37.651482+00:00",
+ "generated_at": "2026-11-08T03:46:35.098841+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 1,
   "triste": 0,
-  "posando": 58
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -483,6 +483,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1a8b71cc72aa",
+   "title": "Audio de operador Cerimedo confirma relación con campaña de Keiko Fujimori",
+   "excerpt": "En contacto. La prensa boliviana difundió una grabación en la que el operador argentino revela al presidente Rodrigo Paz que vendió un sistema paralelo de conteo de votos y que…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/07/audio-de-operador-fernando-cerimedo-confirma-relacion-con-campana-de-keiko-fujimori-rodrigo-paz-hnews-180950",
+   "date": "2026-11-08T03:35:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8a4cb00eb70e",
+   "title": "Perú y Chile estrechan vínculos institucionales tras encuentro de Keiko Fujimori con titular del Senado chileno",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTBoVzRfWkxSbTdHRmRmck1Ma2xoT1hhcHF1NUVrT3ZJS0NBTUdweVp2NkJvaVZWdEhkdzBmcThRVGRJWFhRZ1BoYm01MkxqZGhrNnRQVGQ3WUd4Mnh3ZDBuZk85TmlXMU11Mk85X0JUY0RabDZOY0d5UXFxNURwM0YxSHMzNk5LOWE1SGpNblhzNlVDWGVGV1J4R2FIV1ZIWklNR3NjUEZaOUtmYXB0cHh4RFdkUQ?oc=5",
+   "date": "2026-11-08T03:02:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ed26d5629a49",
    "title": "Presidenta Fujimori lidera sesión del Consejo de Ministros en Palacio de Gobierno",
    "excerpt": "",
@@ -508,6 +530,23 @@
    "date": "2026-11-08T01:34:19+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "0c7fc9091e37",
+   "title": "Presidenta Fujimori lideró sesión del Consejo de Ministros en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVG81djRMV2pNSi1oVXpmNmgyMmxUdkpmZmJlRFRsNWU2MWFMY3VPMjJ0Q0IwclE2Q3Y3OGlVNU9tRDF2R29zcU00RERlcnlNZHhZUXhQYlR4MmJkQUE4R2xXOU9naWk2U2gzUkpJVGxFYjBMbFl1ZDRBaE5WMnd6ZHRwblpBbm15QW5ZdE0yMThFQ0JhOFlPUU5WLS1Mb25nVUVUWHdHQWhVYW9TcndiS0JmZWQwaFp4cmxF?oc=5",
+   "date": "2026-11-08T01:27:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
    "next": null
   },
   {
@@ -1156,45 +1195,6 @@
    "url": "https://larepublica.pe/politica/2026/11/06/banco-paraguayo-vinculado-a-escandalo-politico-patrocino-encuentro-de-extrema-derecha-al-que-asistio-keiko-fujimori-hnews-340848",
    "date": "2026-11-06T17:47:20+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1af2ce8d3c3c",
-   "title": "Keiko Fujimori sobre sus primeros 100 días de Gobierno: “Siempre se pueden hacer mejores cosas con mayor rapidez”",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTHhWTnNDMkdudlFreGRlSEJBODNiUEEzcWM3THZJVjBlamtWakp2TUNxZkc4WEx3eU00NHVQV21CeFlhSVliRld5OVpGN1NsY0NGb0luRXJDekV5RmcwTmR3cWRmMkJuUVgxTlRoektMUVdOQ3c3aTdXZlg4cXVmbUV0ZTNVSUdOT3RjaEFIQTZrdDZrdV9uWjNWVTM5N25RN1VIQXVmbVdOTWN4c21EUEh2bVZ4S3FScDhIbllYcjJpUFdrWTBBd2RJZnJDX2NLek5panpTR2VUNjQ0LURISXh4WjA0dXhqUmJza2lMS0tsQdIB9wFBVV95cUxOZjR0VHZSR3JGaHZVbk9qTzJ0aFNCcDhwbktjUWY0aFRMdmVpR3BxZGIwTnpBb2RrNnBZSjdCUnRnSnVNUGR5NFNQNzI2X0hSSkhCQ1V4TE8tajN4UkxTbWR4WVdiSGU4M1RHOGM0bUd5NWE2OGVHVm1iVkgxUkdtSGg2RVVPeDlPbzVvSnhGZnllbHFCTWk5cHpIUUVTRkxkYnFUT3BIV2tBeUJkb3lLc2lQWEpDUVdjb0pyaVAwRjVhWDhJWUNoRE5CTVVMM1pWb3czWHB5Mk5TNGhUb0FpeXBxSzk1NjF6QVQ2SkhGcGF6RlNVQklJ?oc=5",
-   "date": "2026-11-06T17:41:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a88774fa953f",
-   "title": "Presidenta Fujimori lleva ayuda humanitaria a familias afectadas por El Niño en Tumbes",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVFhwd25WaTd4RjlKOUNOU0JlTEM0Unl1b3Z5M1hNX0xLcTE3Uk5KUWM4Q1A5aXNtT2Y1N3RuN1dLX1NMN3IxT3p0aHhidmNpanpYdG5jZFdkSW5SU05DWjVDc1Bid1pWeDQ5N0NQLTJ0QlZTOXA3YXEyRXBYQUFPb3QyUWZBYnQwNDVCdjUzUWNKcmgzQ3VnR2ZJU0xsZEVYbU4yUm53cGltX01aN2ZHOXgzTEJlbnVCRmdpR1htRQ?oc=5",
-   "date": "2026-11-06T17:40:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
-   "next": null
-  },
-  {
-   "id": "f352cd2e07ee",
-   "title": "Hasta reportero de TV Perú le dijo «Dina» a Keiko Fujimori durante transmisión en vivo",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRi1pSHF3TWpUd0VEcWVoNU1HZmo5NjBrSDVLYUVucF9GVzZxY085ajFEWThqUHlXVEdwMjZBdFU2TE5Ud0ZYSno3R2VYWUl4TkViX0pmMlhLRmI4VmJ4UVpPV1dyaldqZnVNWTF6eEJBQnZPZjJWS1k2THp5Q2FUMGxxb0JyRVNodDNuZWZfSzdGeTlOYmFBWENmVmpKNlVfaGFpYWl0ZjhQTkl6bUZLbVlQS3cyanM?oc=5",
-   "date": "2026-11-06T17:30:48+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
