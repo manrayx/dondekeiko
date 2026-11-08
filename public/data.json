@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T23:47:26.620300+00:00",
+ "generated_at": "2026-11-08T01:14:22.009691+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -481,6 +481,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e8d829565456",
+   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
+   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
+   "date": "2026-11-08T01:10:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ccb48e1a4893",
    "title": "Presidenta Keiko Fujimori desea éxito al nuevo mandatario de Paraguay",
    "excerpt": "",
@@ -533,17 +544,6 @@
    "next": null
   },
   {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-07T20:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "fa784b68da88",
    "title": "Paulina Núñez acuerda avanzar en convenio parlamentario con Perú y aborda tratado de extradición con Keiko Fujimori",
    "excerpt": "",
@@ -561,6 +561,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMG5kRVNvOU9PTjltaEZiWHV1QldKM21VY0RnVW1hRzZraFA0WEJPcU41TkJDV3U4a2tMVlZaSXFwYm5pdnBnOThZVWk0Q2dVc05xMFZacEFYRlA2b2JsOEMtRFlwS21melp2T3NLeklQSGc0Rmt1amNsa1JzR3pnRDF1a25SU2NwZzU1WHpzbzZJRFo5NzBaNFV3QXR4Q3lqSFUtejZpaVpoblRNd3dwX05iR3FadEFtTmh5Ql92c2NnU1hDOUFv0gHbAUFVX3lxTE1PU0xjV05vMW8tZmU4WWoyd3JQN0JxWUowUUJxb3ZrbGNJRkxqSVhKMDg2QUlYSFIxaFRiNm9pdGN2cGVCNVZQMFBsVzJFMUlGMU1mYzFaTElMZXF6UGk4ZGNLNDZzNzN5SmtDQmJINXJ5WDg0TlozWkZDMWFrUHF0OEVzR0pSYk9qSXBmamRsU2tmZ0ZhWVFVNHc0WXFlM0pDekk4WmpXQ0ZFbFg1blF1eks0YTg2ZThUVHd6WW1kQkdLZVp4azBrbUwxYWdwdXdxelZDS0VtNXpaYw?oc=5",
    "date": "2026-11-07T19:20:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fc160185dc36",
+   "title": "Perú. Cien días de Keiko Fujimori: entre la incapacidad y la sombra autoritaria",
+   "excerpt": "",
+   "source": "Resumen Latinoamericano -",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWJNVTJ1UmNJTDI0bE81c29EUGpJMWp6ZnNBY3k5NTJPRG95eWc5ci1WWmZXaWxEVVBMcU1MZFJZT2t1cXAyMkJlLUs4QUotZjdQbDBfNzNIY0ZvM0V0dEhLSC0yc0tkaFBCdDNfQWRGNVRuRnBnS3ZWOVJpRHJ3cFBxYURSSTRUajJRUTZBZTRYb2p2TGYtb1E1MUZHZklLYXVWUl9YOU10LXJXS1FpQWRJcGFDZzRtc0ZwNjVubHV1V2dNRExJ?oc=5",
+   "date": "2026-11-07T19:18:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1175,17 +1186,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOell6Ylh6TXROMjhVQ2lHLWpDTDJUQ1U4WUJoX3o4SU1SNU1jbGg1X1ZfNmtCMndkRGdlNGhYTlFfLVE5LUFUYzFqYWxqNncydVNUUGVBODllUmZWT3R3WW5fYkowMDlYMm5sS3ROTkVUWVdfSnh6eU1raXo4RXJVT1Nzd1FMcUd2NDBTbFNhV1NBVWRRbFRDNGhDc240bXRqd0NVZVFnbTJydVc2aXRFaWNKdWVGTjhjTzRIMk1XUXI3em11YndXR29fZWJpZllaT2dRcjZFRHZmRU1XQ0ZEbFk2eGpzVGgwQ2pLeERXcTNFVzA4VUE?oc=5",
    "date": "2026-11-06T17:08:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5bd565318077",
-   "title": "Presidenta Fujimori: Hay un gobierno que responde y acompaña",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2xYNFktclA1T2dGYV8waXVyaWVMZVhPTVVVZTRfbF9lRjdsc1ZaR05Ha3BJSjZBWDc5aF9qOHBraUl3MldJVE1MckVzbV9Ebjl4SGJZQS14akVWd256RlFCTlRjcHpPb2FGRDZEZEJkdGd4TlN0NkdjenBFamtfNkFiemR4QTFzYXZSU21NNkQ5SktaT1BRTnd1eFhGYlFHZnRYbg?oc=5",
-   "date": "2026-11-06T17:07:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
