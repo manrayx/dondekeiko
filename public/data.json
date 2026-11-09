@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T17:33:35.252995+00:00",
+ "generated_at": "2026-11-09T17:54:44.249211+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -436,6 +436,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4a1d14fb47b7",
+   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
+   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
+   "date": "2026-11-09T17:43:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "08bc504315bc",
+   "title": "Keiko Fujimori pide viajar a China y Japón durante visita del papa León XIV",
+   "excerpt": "",
+   "source": "Noticias Trujillo 60",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHpXdFNYUWNOZjhvdHRZR2stQ0lLRmM1YVVUVDBid0N1bjJUd1AzNG5zMEZuSkJ0U2RvV19xbUdJU2xCVVZtVTdBVWZRVV9aSXBFQm85WTJmbGc3TWNoSUxiZHlHOV9YalJFLXFUYk1qYS1ZMG9aRGZfbGlwSFZ3eGtvSTlRbnE3U0cxdlZrU29QanB1X2c?oc=5",
+   "date": "2026-11-09T17:40:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2a10e2b00742",
    "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
    "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 15 al 21 de noviembre.",
@@ -458,23 +480,23 @@
    "next": null
   },
   {
+   "id": "c5d55bbc1bb5",
+   "title": "Keiko Fujimori pide permiso al Senado para viajar a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNWVxM0xLM2l2Tm1TTlNQQk5Td2pBdzBSVHVwZjRzUF9OREdIaUJEbHNzNXJtWDI5elBPUmZkSVFLUDJfdjctcndIdnhneUdvX3l0WVRLTV9yc1VGREduUzNYQTBFN01yQVNDQURtRFhuMkJUT3M4UUdCMkpzcjZKemk0bGlBZF8yZ3dLMkl1NUtwSWdyVXc?oc=5",
+   "date": "2026-11-09T17:03:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "67817d4e1585",
    "title": "Keiko Fujimori destaca cifras históricas en exportación nacional",
    "excerpt": "",
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVjl0T2FoNi1obkVTX1JpTUxURVowdmplNE5fcmtubjNKV19ESjV5WFFmSXFxQ0RjRmtZazlnZlNuX2k0aWc4ejdsSDE4RkYxSElyMERqMFBTSThvS2QyeGFRbXA3VXBuNFp6UUpCWnFmTDBrRVRlWTFxZ01CMjk0Q0F2eEdkQUN2QmNMZks0S2JING1Lc2h0V3huemNZSnhuS3VianhzWmw3bzE0cURMSzRpSFZseTFzR05UQlZ5UEowMU0yRHNNSzRFT2R5bjdkU2c?oc=5",
    "date": "2026-11-09T16:04:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4a1d14fb47b7",
-   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
-   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
-   "date": "2026-11-09T15:43:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -800,17 +822,6 @@
    "next": null
   },
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-08T12:14:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "73aa92ca45c3",
    "title": "Senadora Paulina Núñez junto a Keiko Fujimori abordan tratado de extradición y seguridad fronteriza",
    "excerpt": "",
@@ -861,6 +872,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/08/rosa-bartra-el-modelo-de-el-salvador-era-inviable-a-primera-vista-hnews-756192",
    "date": "2026-11-08T08:06:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T08:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1105,28 +1127,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWEl3MWNUWkxlSzdWbzQxS25xWGxBMmtIYzNlQnl4MTRLRXpmOVRDLUJGeWJONWJsLUxNeGk3eGxUVjY2TFV1RnhrXzNPN3VXTHRGVDE2R3piNlZOUll2WWo0S2piUS1uSTFHVDJ2dTV0bWh2WFkyTHR5dnpzdmppckhoT1BPTjVaYlhuVDM0SHZ5cUdQQmdvekhQdmgzeWl4czNtYUdlTjFYdS1NYno4Z1kwN3BUQjYxSnA2M2t3UWlZaUgyYXdla0pRby1zLXPSAeoBQVVfeXFMT0dpSGNxREtKV2JYQmo0RmpBQ2NnR0U5dWFER0hIQ0xWRTZjbG41VjRXaGxmbWhWeEIxcmxZdTExTWlkMkRYRWtkeUk2MGFwdW9nNVlzOWw3bU1HVnZ1ZzNEYnRXXzI4b1gtbkk2UV9RUGFJa3B1MWxBOEhEb2ZWeFFvVVlob3dsOUh1MjV6NnRnYW5KLWE5bjZiNGJXaGIwN1owaHBad0RWQndiekxDdnJUTjBGQVVNalI4OVpSckg2T0VqcFRSaGFzUUJjNmdMUE5rcmpJVDY5OFJjV245dk8wNVAxSTFKdDR3?oc=5",
    "date": "2026-11-07T18:04:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bb0497441c11",
-   "title": "Presidenta Fujimori saluda a Pedro Alliana tras asumir la Presidencia de Paraguay",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1Q5VzYwYXpqamZEOGZFQkVhdjJyMTE3cEhxWmVfeTZBYno3bVJBM0dlMjA4UktPT25uSlh5Y3AzSDFYNk1vaUF5dGhaTXhTRHZvSEVnaUd6Q21uQTU0WGxCYUp6OFUySklEZ1AyZDZBNk1XalBtaS1WOTJyR0V1MjFSVG1aVE54TlB6QnFKNTBIdHRQM2NLbnBUeXBJQVFvVmRVbE9vaW9wX1g0Z21mZTVlR1hqekJEMEt1RERRSWNaeDA?oc=5",
-   "date": "2026-11-07T18:01:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9cf6295d82c3",
-   "title": "Keiko Fujimori saluda a Pedro Alliana como nuevo presidente de Paraguay tras destitución de Santiago Peña",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, envió un mensaje de saludo a Pedro Alliana por su asunción al cargo de presidente de Paraguay. La dirigente de Fuerza Popular difundió…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-a-pedro-alliana-como-nuevo-presidente-de-paraguay-tras-destitucion-de-santiago-pena-ultimas-noticia/",
-   "date": "2026-11-07T17:52:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
