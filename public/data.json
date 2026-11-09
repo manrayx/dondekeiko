@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T15:02:20.554629+00:00",
+ "generated_at": "2026-11-09T15:45:49.548548+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,6 +121,23 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-09T09:55:00-05:00",
+   "end": "2026-11-09T10:22:00-05:00",
+   "minutes": 27,
+   "subject": "Participa en la ceremonia conmemorativa por el Día del Exportador 2026.",
+   "lugar": "Auditorio de Promperú, San Isidro",
+   "state": "posando",
+   "place": {
+    "name": "Auditorio de Promperú",
+    "full": "Auditorio de Promperú, San Isidro",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
   {
    "start": "2026-11-07T08:58:00-05:00",
    "end": "2026-11-07T09:52:00-05:00",
@@ -415,9 +432,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 502,
+ "agenda_minutes_7d": 529,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "4c731a78c915",
+   "title": "Gobierno publica decreto legislativo sobre delitos violentos e informáticos",
+   "excerpt": "Al amparo de las facultades delegadas por el Congreso, el Gobierno de Keiko Fujimori publicó el Decreto Legislativo 1744 que busca fortalecer la lucha contra los delitos informáticos.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-publica-nuevo-decreto-legislativo-sobre-delitos-violentos-e-informaticos-apuesplan-noticia/",
+   "date": "2026-11-09T15:32:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "12be0849f74d",
+   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
+   "date": "2026-11-09T15:25:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "4a1d14fb47b7",
    "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
@@ -425,17 +464,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
    "date": "2026-11-09T14:52:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4c731a78c915",
-   "title": "Gobierno publica decreto legislativo sobre delitos violentos e informáticos",
-   "excerpt": "Al amparo de las facultades delegadas por el Congreso, el Gobierno de Keiko Fujimori publicó el Decreto Legislativo 1744 que busca fortalecer la lucha contra los delitos informáticos.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-publica-nuevo-decreto-legislativo-sobre-delitos-violentos-e-informaticos-apuesplan-noticia/",
-   "date": "2026-11-09T14:52:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1016,6 +1044,17 @@
    "next": null
   },
   {
+   "id": "e0596722d410",
+   "title": "Keiko Fujimori firmó decreto que establece nuevas reglas de disciplina escolar: “El orden debe regresar a las aulas”",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMHJBRzM4cUc3OWxIOTNpNUxOQkJiR0pLeUhzYW91THVJU01PdjNZYkJWbWoyZXNsMTZVTFUzT1VUelJDMVVyLW52cU50QXJkTzZaVk9BNGprclREUHA2MGZDUGs2RU1CenVTNGxZSHBvRVlBZmIxODNQcTBPWmRYcDBYUko4ZTFlclNxUmtYbVFlU2pPVDhFYWFxYXRFajE5UUEwemVtNlhlS0lkalVKYWxXVkhjdFczRm5zVEZoaVBhT21fTEdsOERMX0VnQjZIazJRV1FnLW5VNDE3Qmg0Mm1XUnBydWZneGRLdV8ySmdWTmNUcWFxZXhqTVRfUXdvb2ZIZ2RZZmxwbjE2bDlPcS13LXlNQ3FfSWdqUW04NDc3Zw?oc=5",
+   "date": "2026-11-07T18:14:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a439dc080d41",
    "title": "Tras la caída de Santiago Peña, Keiko Fujimori saluda la asunción de Pedro Alliana en Paraguay",
    "excerpt": "La mandataria peruana expresó sus deseos de éxito al nuevo jefe de Estado paraguayo, que asume luego de que Peña fuera destituido por el caso Ueno Bank",
@@ -1088,28 +1127,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSHBiZnQ2QzF4NkdybFN1eWJXcWNuZXh3UW4xSzl2UzNGcE5CdTJQMllCNkRfb0VzT1BVX3RhM29pdFk1Y1RNR081ZUI0elVhZkpUcU5hb1E4dml2d1QxVWRSd1dkS210c1J6cHJWRjlkS21RT0sxcC1xcDRXc0VOX01PX0xwYnlvbEI3a1RSZTdoZElhS0UzQ2VUV0daMERQekl0bWc1ZjVjU2g3alFjUEdxbEdpV2ZrSFo2S1NxQkxKYUtBX2o0UjZJQjVHdEdTS3hrdEF2RVlEbVNCTTNlcEdXOWlHVU9B?oc=5",
    "date": "2026-11-07T17:27:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f16be1fa8c3",
-   "title": "Presidenta Fujimori suscribe decreto que aprueba las nuevas reglas de disciplina escolar",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmNEOHpyUXNGdmk1QmY3WW9vZlYySEJTZXRzTHN4eWRUUFZqRzZyeHZyRDNpbzAtVFh0dUZWVUJQSW5QeW1PMTlncU1wcTZsT25jUDk0cVdGSTJvUmxMWW5wcS11d1VnUTFGbHRhWjB5eXBPUW91RDBoUEQ5bEFOOE1va3N0a2hneFRYeFdtRTJiYkN6eFgzVUNlNG5JTUh4Ym1iVk9JWi1QN1lsUlFLWDdOUlhRUFFzenZUajZmNzJaUQ?oc=5",
-   "date": "2026-11-07T17:20:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a4a80ea3f39c",
-   "title": "Farid Kahhat sobre estrategia de Keiko Fujimori: \"No hay nada aquí equivalente a El Salvador\"",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV01TeFF5U2l5ZU9kcXpzYnA4ampLTVZBZ3ZwVUtMbDNiM2locUdZTmh2YVBYOW51SVJyc2ZhWF8yeXAteWpqRDNwZW1lS1NMVnhBVXlwMVF5YUkzSFJ1UlpPQnlmSTdIeG5UM1ZPai1WbHdaQk9ZRGkyMXMtVmJaNEFXTGMyazBtLWpyVXVCRDVsWHlwc1VSdVBzVVFFTDV5QUtpdC1KMHpYTTU0dFBQQ2xLdmFjQVhN?oc=5",
-   "date": "2026-11-07T16:51:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1227,6 +1244,7 @@
    -3.55565,
    -80.42554
   ],
-  "institucion educativa emblematica alfonso ugarte, san isidro, peru": null
+  "institucion educativa emblematica alfonso ugarte, san isidro, peru": null,
+  "auditorio de promperu, san isidro, peru": null
  }
 }
