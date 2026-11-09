@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:26:02.481420+00:00",
+ "generated_at": "2026-11-09T11:47:58.476972+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4a1d14fb47b7",
+   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
+   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
+   "date": "2026-11-09T11:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
@@ -634,6 +645,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/07/trece-detenidos-en-una-operacion-erronea-contra-la-mineria-ilegal-218064",
    "date": "2026-11-08T11:50:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b3424ade1249",
+   "title": "Fenómeno El Niño: Keiko Fujimori anuncia acciones de comisión especial durante su visita a Lambayeque",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTlBMR3pvRExNLTFqWWxtSThOelJiQ0otWHp6d1VscVY0djZDRzRINWhuWld1VWs0UXZoTXRMUjljTXNJci1kd19xV1YtU05sQ0pNdWJJcjJRMWd3ckNtZ1hLMzBSR3R5Mzc4QjVIaVhvc1d4RzJhMXJOZ3pDMlZqOXVYUDBaUE1WTGtucGRrbFQ5SG1NdEJkNEJkUU55SzA0YnRFeGRvclFKOXlteDJ1YW9BOXBXcFNEOFN0aEstaGJwQlpOaWN2Nm41bk5rLXFfMGh2UnEtazRfck1PVnFsY0hqSTQ3OG0tSDFF0gH_AUFVX3lxTE83TGJSMUZKcHY5X0Y3eDRON1RGNmJDRUQ2U29iMkNaelMwbkJTY1dLdjlaVlViYjlHRi1lX0Zlc3Q2VXVhSG5jNGFCbk9CU3VHSXZadHcxdm5aY1hOUTd5MlNfcjZ5TkY5NjJ2anljay1lNGFzOVJTaV93Ty1GSmh5eGxiX1ZqeUMyWFFSeER6WFFuQmYyZ3Nvdmtxc3ZkYkttRDN6OEVpbGZyZ2ZKdktoOXRHbU5taWpTOThwYXpXTHhHM1l2aktkN3VaQWZ5dllpcGd3NkJHS0NybmZMQWljOXh1d2hqaFMtaVpuSWdMLVJGOEZ3MG42S2Y0RGFRVQ?oc=5",
+   "date": "2026-11-08T11:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1076,28 +1098,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcFVYc0puWUc2RTNRS3pYMGp0NkluNHoxdUQ0ZnQxVFRCcjRCWTQxMGhXZmNES1oxUUJEcHNuZWhNM0t5N21ZRkUwNU96ZU5qUGs1X1BQQ3EzaXQ5M3JPZFdfUlBoSzZ5b2c2X2pYNHcxck9OQ2x5a3F4aTVUWDhIdVFGcmFhYTBra09td0tnY3dDby1rMHdaNFp0cTk3VE1lV0JraFdaVUt3NE1JbUNwRVJtMzZxR2V0Sms5UC1QUi00ZW8waTFvUUc3R1QzcTNJNHI1alZRTQ?oc=5",
    "date": "2026-11-07T15:02:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9bd241ebb46c",
-   "title": "Presidenta Keiko Fujimori: es fundamental que el orden regrese a las aulas",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1BNGNWbW9DYmNYN2NWMUlzbld1LTN4U0pmbVR2UUFielNRa1k1VFAwNXFNYlN3S2REWVdEQnB6RjN3cjdvYlVjdUNfU0dEd2Q1aW1uR1ZtcHVMWnIxTVg4VndJdFdRcU1MSV9hVzBESnlZNmRkNkFfNE0zM2ludlFmVTlFV1A4RXlVVGlHYm9QcF9USk5NUEJORl9wMFJmSzY1ZXVzNmlndVFXV0FBeDlESFZtUUVJTkdsX1BwTFk?oc=5",
-   "date": "2026-11-07T14:51:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "29e23e1b4622",
-   "title": "Gonzales Posada: Viaje de Keiko Fujimori a El...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk14czlIN1J5Zi1LWEV5bm54NjgzdFplb0x5d3BHV0NGM1BqMkc4X0JSODFwUkdlZXFvOVBLV05vZFEtVmptUGZBZURlaEF5OHkyX3N0MGIxclpKQ3FoQkRfdUxfM1BvclItM3Rrd2toaFdSUmFEQkx5aEpDVkY0a0lqcHhMX1RMRHRUU0oxYUJ0OFZvaHFwVXYwRHNDdU1CbVBsMTVfcjB1WEdidGc3c1JGMHd5ZVZHNGpRSnZKVWfSAcYBQVVfeXFMTlpFN2FidmJWaURHQ2VJcGdMcUd0bXFKMG9SM3dSVm40MzNCaFNWanRSaTFkbUlnZ2dpMll1dzN0SmxoVHVBMDJJWVFqYzFCNnFjYVFMakpyRXZyWlBIOE5lMFNFSi11SFRPWEZMTUhXVllwWVdqMjZFbXA5OS11MWRIZ1lDM21BWU50cUdfTHNhTWlYOWFhY01UUzVCemNtNktRWFdtVDUybnZsX0x6NDVCWG9KS0FnVnpxcFJUd0ZCZWJLOExn?oc=5",
-   "date": "2026-11-07T06:24:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
