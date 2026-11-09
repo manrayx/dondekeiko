@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T04:58:34.514396+00:00",
+ "generated_at": "2026-11-09T05:19:52.855860+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,9 +110,9 @@
   "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
-  "molesta": 1,
+  "molesta": 0,
   "triste": 0,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7967f8c8fb02",
+   "title": "Presidenta Keiko Fujimori participará en ceremonia por el Día del Exportador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS12X2tEa2hnQnJRZGJTNHlKb1pWSUptLUkxbWNmNUl2Nnh6aUptQWtXRTk1Zk83SEhxV18wdE1lY0g0TVZ3SjlJQWRiOVptZlZzazRBRmJnVGNwN09VbXJvZ25IZktEVkpRUXFVMTl4RjY0T0RSV2RqSW1WdzkwYktfQXI5cVVJUDNmcmw1UE5Sdkh6ZU9KSmlzQnhPWW5aQWdxQmxuUkFLeUMyR3UxdUpFN2JxcHI2?oc=5",
+   "date": "2026-11-09T05:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "251bb804c9ea",
    "title": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”",
    "excerpt": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”. La presidenta ratificó que uno de los principales legados de su gestión será mejorar la educación del país.",
@@ -579,6 +590,17 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM01ZR1JpVVJpNXd0Q3VDRnVHT1R1QmJnS1NQR1dHSnlZeF9XSGx0cFBTUXUzLXJsbTF0V1NJNkJGTnBkX3FTSUNRY0MyYk9BczIxNUxTNEEyTm0tamlDZXJaTkNpSnhYVGpPUHBZYnk0akZpRXhIWFlJd1gwek5pdjFqSTRJNkIxVHB0RlNOQ3RpSnZ4Z3FqSWJpMmFoY1ZnaTBLSk9WMFZMcnlPaVVFXzlkcG9pQUNma0NV?oc=5",
    "date": "2026-11-08T14:13:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1031,7 +1053,7 @@
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlpzVEFBR0V6N0w3VUZwTDBhRVhWbVlWV1JsTTY3Ym80Rld3UnNrcnhNY19FOWdteHZNbURRVTNrNktQd3dOMzlGT3lUV0UzQ24wVXVPMzBWYXRRLW4wc2trVWUzOGJaRGJOd2ttcm1tbzZzTGtYMllIR1Z4QWVFSHhyUjhMRGtJQ3M5SVZiWWVabnZsQjRoMVlnUU1zdVY2Y1J6YmVsRGZoeWRRYWs2NkdEUGdYa1BLa0QybGkwTUs?oc=5",
-   "date": "2026-11-07T15:07:11+00:00",
+   "date": "2026-11-07T15:29:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1059,17 +1081,6 @@
    "next": null
   },
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-07T11:35:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
@@ -1088,17 +1099,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk14czlIN1J5Zi1LWEV5bm54NjgzdFplb0x5d3BHV0NGM1BqMkc4X0JSODFwUkdlZXFvOVBLV05vZFEtVmptUGZBZURlaEF5OHkyX3N0MGIxclpKQ3FoQkRfdUxfM1BvclItM3Rrd2toaFdSUmFEQkx5aEpDVkY0a0lqcHhMX1RMRHRUU0oxYUJ0OFZvaHFwVXYwRHNDdU1CbVBsMTVfcjB1WEdidGc3c1JGMHd5ZVZHNGpRSnZKVWfSAcYBQVVfeXFMTlpFN2FidmJWaURHQ2VJcGdMcUd0bXFKMG9SM3dSVm40MzNCaFNWanRSaTFkbUlnZ2dpMll1dzN0SmxoVHVBMDJJWVFqYzFCNnFjYVFMakpyRXZyWlBIOE5lMFNFSi11SFRPWEZMTUhXVllwWVdqMjZFbXA5OS11MWRIZ1lDM21BWU50cUdfTHNhTWlYOWFhY01UUzVCemNtNktRWFdtVDUybnZsX0x6NDVCWG9KS0FnVnpxcFJUd0ZCZWJLOExn?oc=5",
    "date": "2026-11-07T06:24:02+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2725acc1ca92",
-   "title": "Keiko Fujimori pierde aprobación en 100 días por expectativas incumplidas",
-   "excerpt": "",
-   "source": "Pachamama Radio",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEtscGJHQmFMRDJ0dTFFbEJydjVkeDV4Vm5YSzVkWTE1VlI5YTVTdlFDYms2S0dMdmNTbnJuZVVST3BmVXhuOVBwTmV6eW1IZHo4X1pQMTVlcGpycVR3bmpUdlJVRE1CcEU5OFhFRjJKWFNVeThaZTl3SzJkV2tsYklHNWRZUEFVbXRPZVlpc09sdlViQUdybXhTQWZQdEY1Y3c0?oc=5",
-   "date": "2026-11-07T04:25:56+00:00",
-   "state": "molesta",
    "place": null,
    "next": null
   }
