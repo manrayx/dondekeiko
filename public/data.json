@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T01:02:24.801705+00:00",
+ "generated_at": "2026-11-09T01:23:30.663000+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 1,
   "triste": 0,
-  "posando": 58
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -448,6 +448,17 @@
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-las-cifras-muestran-que-estamos-yendo-en-el-camino-indicado-seguridad-ciudadana-ultimas-noticia/",
    "date": "2026-11-09T00:40:23+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e11c61e9e337",
+   "title": "Keiko Fujimori regresa a los EN VIVO y expresa su emoción por la llegada del papa León XIV al Perú",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVE1WcTd4THBqV1dKZ0ZJV2RWbU5KaE93cTdWejZtOEc4ekhCNVdKUUluWEdfTzN5N2cwRFZwalNTRWtaY09paS1tUUlIWWFKUXM0U2FHdHhOUnV5T01ZaEhaVWV4UHBVVzhmcm0xaVRTdTRuZ3NJRTlfR0hCbThHOXc0SDBkWHpJTWJRem11WTNTQWNxdFNzaVg2OGpxR0tlRnA1dXN3T1VBNmVMdjlIeTlNcTJlZnN6Vklkcm1iWjJlQQ?oc=5",
+   "date": "2026-11-09T00:09:48+00:00",
+   "state": "transmitiendo",
    "place": null,
    "next": null
   },
@@ -1093,17 +1104,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM3J2QXpJSjdOenJoeHV1M1lja2oxVzJoOUc0czJXWG55SnVIMGZFeWozRVZRT2UwSEM0Z2tCeEZZVG5DVWVZNTF5Z1c5ek94ZEdoLTE5QXZ3Si0yb2NpMG9PaV93LTU1R0haRGtlNXFCQi1CSFZVa19jdTlnNy1uQWFqdG9zOTNSZG9LYUtneW9BNk1SdURHSFhWeVh0TlhQbk5FOHZBQlNSZjZpM3FkR3NMTjAzeVFuSG1KaDJUSWlSOUN1SVZITnBoSUM3S25H?oc=5",
    "date": "2026-11-06T23:38:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "456efe0272a5",
-   "title": "Fujimori tras sus primeros 100 días: “Me hubiese gustado obtener más facultades” del Congreso",
-   "excerpt": "La presidenta Keiko Fujimori reconoció que le hubiera gustado obtener más facultades del Congreso durante los primeros 100 días de su gestión. La mandataria hizo esta evaluación durante una visita…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-tras-sus-primeros-100-dias-me-hubiese-gustado-obtener-mas-facultades-del-congreso-noticia/",
-   "date": "2026-11-06T22:52:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
