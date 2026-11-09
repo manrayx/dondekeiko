@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T03:54:08.438478+00:00",
+ "generated_at": "2026-11-09T04:15:48.739725+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,12 +419,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "251bb804c9ea",
+   "title": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”",
+   "excerpt": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”. La presidenta ratificó que uno de los principales legados de su gestión será mejorar la educación del país.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-las-cifras-muestran-que-estamos-yendo-en-el-camino-indicado-noticia/",
+   "date": "2026-11-09T04:01:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e3401355de4f",
    "title": "Keiko Fujimori dice que «las cifras muestran que estamos yendo en el camino indicado»",
    "excerpt": "",
    "source": "Diario Altavoz",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkRjODBjTU11M21BcFBQc2VjRG5PWXczeGNKcHprZFdicGFZYzh6eHRIT3FHU1FiUXQ4TjZvbXV1M3ZUa0l3WTBkbU8wRUhQdlpsZzZMWGJXeGt2eWJsMXByYjdYaUVyaDIyT1FnZU1JckhLcmNtZzZKUW5TYmRnTWhfMUtxejFGUDN5bl9wblBCTXhHN2NZM0dFcWpGYl9HZ3Y4ZUtLVzRLbkFmcjA1S3h3?oc=5",
    "date": "2026-11-09T02:35:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4c82493fbb24",
+   "title": "Luces y sombras de los 100 días de Keiko...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFdOMkM0dGY0Nm41bWVnaW1YeHhoVkYzVExnMzdxRk5DZjdVQ2xBaWtKLXczZlhBRnpqZ3U0S3ZYbFlZUkxxLTY0RlBUVXc5NnZoejlIRUtsdzJISWp2aEFaSUZ2SVlVekQwRFROWnJPMVRCU1BseGNvQjFaTEdadTVMY2o0RFh3d200d0NmMzY5dk5pQWMwUW4wMFg3dFZPZXg3MjhJOHBnZzJBX0FrSzlVZHNKdzZZeTNjb2R1UGJOZjlaUndRVXp1T0jSAdIBQVVfeXFMUEdZSm9GYWdabFgyYVZTbWctcUVUVjV3OEpiMy04MEpSUG1yWHdYeXMxTmZvZ2JwZ0JYcjNtZ2JaaG1RQ282anZOeTBTNlBWUVNqQmhESHlwWEpjUlVYQ0c3N1A0Y3N4OVIwMHppcDhyY1J3YVhqUkY2ajk3Z0dWVkFSbUhGcVpkYi1qaVVUTzliN1VsbTNuUS1zZlRWZzNhR2FQZ05kejlUOWcweDRPTEJ1NXg2Tks2WlFMdHZCbXJjbm14Q0EzQlpZM2VrcGNnRGJR?oc=5",
+   "date": "2026-11-09T02:25:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -470,17 +492,6 @@
    "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-retoma-transmisiones-en-vivo-y-promete-inversion-de-mas-de-s500-millones-en-compras-de-kits-escolares-a-mypes/",
    "date": "2026-11-09T00:42:38+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "251bb804c9ea",
-   "title": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”",
-   "excerpt": "La presidenta Keiko Fujimori aseguró que las cifras en materia de seguridad ciudadana muestran que su gestión -que ya cumplió 100 días- está yendo “en el camino indicado” y para…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-las-cifras-muestran-que-estamos-yendo-en-el-camino-indicado-seguridad-ciudadana-ultimas-noticia/",
-   "date": "2026-11-09T00:40:23+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -568,6 +579,17 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM01ZR1JpVVJpNXd0Q3VDRnVHT1R1QmJnS1NQR1dHSnlZeF9XSGx0cFBTUXUzLXJsbTF0V1NJNkJGTnBkX3FTSUNRY0MyYk9BczIxNUxTNEEyTm0tamlDZXJaTkNpSnhYVGpPUHBZYnk0akZpRXhIWFlJd1gwek5pdjFqSTRJNkIxVHB0RlNOQ3RpSnZ4Z3FqSWJpMmFoY1ZnaTBLSk9WMFZMcnlPaVVFXzlkcG9pQUNma0NV?oc=5",
    "date": "2026-11-08T14:13:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1015,6 +1037,17 @@
    "next": null
   },
   {
+   "id": "9bd241ebb46c",
+   "title": "PRESIDENTA KEIKO FUJIMORI: ES FUNDAMENTAL QUE EL ORDEN REGRESE A LAS AULAS",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHcta0RIam9ta0F1Vmd4V1BRZnd5WVcydU1EdEpTR0FnRVBFNlNkM3hRN0c4Ykc0Ykp3SlFSX1ZIU05aX1Uya0FIMWFhUTdMWEU5blRlZFhzMTRONFhIUmI2S3hQWHBsX3JWWmFWNHEycm93YkNPWWxZOV9VUFFOanVqVWVrc3RnaWZweVAxdkpCTWtGdWQ4S0txTzRkZzg?oc=5",
+   "date": "2026-11-07T15:10:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0905b116cd33",
    "title": "Keiko Fujimori promulga decreto supremo con nuevas reglas de disciplina escolar en colegios del Perú",
    "excerpt": "",
@@ -1032,28 +1065,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcFVYc0puWUc2RTNRS3pYMGp0NkluNHoxdUQ0ZnQxVFRCcjRCWTQxMGhXZmNES1oxUUJEcHNuZWhNM0t5N21ZRkUwNU96ZU5qUGs1X1BQQ3EzaXQ5M3JPZFdfUlBoSzZ5b2c2X2pYNHcxck9OQ2x5a3F4aTVUWDhIdVFGcmFhYTBra09td0tnY3dDby1rMHdaNFp0cTk3VE1lV0JraFdaVUt3NE1JbUNwRVJtMzZxR2V0Sms5UC1QUi00ZW8waTFvUUc3R1QzcTNJNHI1alZRTQ?oc=5",
    "date": "2026-11-07T15:02:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9bd241ebb46c",
-   "title": "Presidenta Keiko Fujimori: es fundamental que el orden regrese a las aulas",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1BNGNWbW9DYmNYN2NWMUlzbld1LTN4U0pmbVR2UUFielNRa1k1VFAwNXFNYlN3S2REWVdEQnB6RjN3cjdvYlVjdUNfU0dEd2Q1aW1uR1ZtcHVMWnIxTVg4VndJdFdRcU1MSV9hVzBESnlZNmRkNkFfNE0zM2ludlFmVTlFV1A4RXlVVGlHYm9QcF9USk5NUEJORl9wMFJmSzY1ZXVzNmlndVFXV0FBeDlESFZtUUVJTkdsX1BwTFk?oc=5",
-   "date": "2026-11-07T14:51:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-07T11:35:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1088,17 +1099,6 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWEtscGJHQmFMRDJ0dTFFbEJydjVkeDV4Vm5YSzVkWTE1VlI5YTVTdlFDYms2S0dMdmNTbnJuZVVST3BmVXhuOVBwTmV6eW1IZHo4X1pQMTVlcGpycVR3bmpUdlJVRE1CcEU5OFhFRjJKWFNVeThaZTl3SzJkV2tsYklHNWRZUEFVbXRPZVlpc09sdlViQUdybXhTQWZQdEY1Y3c0?oc=5",
    "date": "2026-11-07T04:25:56+00:00",
    "state": "molesta",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6dfb3360f8b1",
-   "title": "Dengue en Perú: Keiko Fujimori invoca a padres a vacunar a sus hijos de 10 a 20 años",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeUpqNzFQUnhxazFabWl3a2ZxX1k4bWpqQWJhMkZ0VmtmZmlNdXktUFBsVDRtRzdZdlpKelNEY2JscW13RFRydVVKSnJhcERzdGJ2ZkRCMHVPRmdvLTZCbnZ0a3pFRThOODdyYW9OeGtvV0ZmOE1YY3NpZDZXYUE3YVJ4b1NGTDhzbUxwelpLemFHdlhtcW1od0lXR1FiQzAxY3lGdlZ3UHZ5SnlWcjV5NEhQZ3QxdDFRZ3dKSTRJb29URFV1a0FMWEptNzZXbF9pWVdjTnVmSVBrd9IB7gFBVV95cUxOLXhBbk1QMkJFR3ExaGw5cnZ5MzZOTlpMRmw5bXZpb215amhsYzVIOUZ2SUU3Tk02RHBZbEMtZGxPbkdmY0lXTTFPajF4VE5jbURwSFZEMjRpUWNoSXlDTFI5ZHdZcFhxYmNzMFVGVUU4LXlTd0d2bVc2X1hmUUpnbXNYZ3QxbE0tSzVxbGh1ejhrY0dvU19MNm9pbU8zeEdkY0RucTVaNldHQnJkZFdqZVBzTzljbzNzcTJLVGRBWGJ6Wml6WUd5czMwMEVzb2I0aEFHakppdEZRTU04TlJVX2xJTVc5UWlfOTBqU1Vn?oc=5",
-   "date": "2026-11-07T04:01:09+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
