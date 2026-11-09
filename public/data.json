@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T15:45:49.548548+00:00",
+ "generated_at": "2026-11-09T16:07:08.031621+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -436,6 +436,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4a1d14fb47b7",
+   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
+   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
+   "date": "2026-11-09T15:43:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4c731a78c915",
    "title": "Gobierno publica decreto legislativo sobre delitos violentos e informáticos",
    "excerpt": "Al amparo de las facultades delegadas por el Congreso, el Gobierno de Keiko Fujimori publicó el Decreto Legislativo 1744 que busca fortalecer la lucha contra los delitos informáticos.",
@@ -458,12 +469,12 @@
    "next": null
   },
   {
-   "id": "4a1d14fb47b7",
-   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
-   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
-   "date": "2026-11-09T14:52:26+00:00",
+   "id": "978fcb23dc13",
+   "title": "GOBIERNO DE KEIKO FUJIMORI “ES INCAPAZ, INEFICIENTE E INÚTIL” TRAS SUS PRIMEROS 100 DÍAS, SOSTIENE ANALISTA RUDECINDO VEGA",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYi0tRF82R2ZMNWVvQ2tmb1JPdVFIcl9XX2RnV1pUSTc0ejR2YTQzLWFSOTZ3WmhfWmNYd2hCQWtZUFpGQzYzcWtHY0VBWFViUXNxbGJwRUhGTFIxSXB4U1RlNm5ReS1sRWdUdmdaa3dzc0dWX3Z5WE9HUk9WNXBFUmFvNExvSE05RUpfcDBjUlRXeC1fOE5NOC1Xd1pRTy16UzdtU3FPMVdMSVd1aUJkZVRIelJEaFA2WmVQYnBtclc2UG0zX3o3SGRoMU51Z0JoeUYxNXdkZDBxVDA?oc=5",
+   "date": "2026-11-09T14:47:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1116,17 +1127,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
    "date": "2026-11-07T17:29:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "21c4ceca5798",
-   "title": "Presidenta Fujimori sobre nuevas reglas de disciplina escolar: “Que el orden regrese a las aulas es fundamental”",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSHBiZnQ2QzF4NkdybFN1eWJXcWNuZXh3UW4xSzl2UzNGcE5CdTJQMllCNkRfb0VzT1BVX3RhM29pdFk1Y1RNR081ZUI0elVhZkpUcU5hb1E4dml2d1QxVWRSd1dkS210c1J6cHJWRjlkS21RT0sxcC1xcDRXc0VOX01PX0xwYnlvbEI3a1RSZTdoZElhS0UzQ2VUV0daMERQekl0bWc1ZjVjU2g3alFjUEdxbEdpV2ZrSFo2S1NxQkxKYUtBX2o0UjZJQjVHdEdTS3hrdEF2RVlEbVNCTTNlcEdXOWlHVU9B?oc=5",
-   "date": "2026-11-07T17:27:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
