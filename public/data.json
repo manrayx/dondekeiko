@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T23:14:19.525841+00:00",
+ "generated_at": "2026-11-09T00:18:47.927644+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -1043,6 +1043,17 @@
    "next": null
   },
   {
+   "id": "e829cf5d7a5a",
+   "title": "Diputado Zunini acusa a Keiko Fujimori de gobernar en piloto automático tras balance de sus 100 días",
+   "excerpt": "",
+   "source": "Pachamama Radio",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUJwRWVteTdNTEFCSEl4ZlZIQXM4RmNqTWEtZU9QUFRlejJMdGxOZzBRUHFjOENqVXljQnlYOU1rTjFsYl9NTUxHV2dZM1lTWkthUzNybnJsNmwzcnpaeDVXV1pXeU90QllrYnZiamNQeFJfUURQamJ0Q2dqTHdxM3E4ZWJHVUZOV3dzRmdSaHRjMnJVTHpOS0hFSmpnaFpfVXhaWkdiOURoWXJRcC14bkdyVFVKU3kxWDI5Y05vQUJkMmo0dmVj?oc=5",
+   "date": "2026-11-07T00:46:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "82e09893f88c",
    "title": "Presidenta Keiko Fujimori invoca a padres de familia a vacunar a sus hijos contra el dengue",
    "excerpt": "",
@@ -1095,23 +1106,6 @@
    "date": "2026-11-06T21:54:07+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "0a41f4525eac",
-   "title": "Presidenta Keiko Fujimori supervisa albergue temporal y hospital de campaña en Piura",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNVlHbkt0S1pSMnpyeGhtS1RsV2FCa2RFX3h0NWNvWWJtYUozM0VzM0Q0Sy1rRVowSnl4bDk1OTZaMlRKbGJSZTZOY04xNzNpRWJZMHpvdlcydEI2UV9JUjl1M2hFNFdfVG1nS3AyR0hwNGdwbTBYV0NGemNmb044STZ0RVNOYWtfc2kxUzR1QThKTThPZ2d0eTBIS1dxM25Tc3FhN1ZySVd6bVJyamVnUDFWWjBrV18zdW1MdUhWQU4?oc=5",
-   "date": "2026-11-06T21:53:10+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
    "next": null
   }
  ],
