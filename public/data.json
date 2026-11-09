@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T17:54:44.249211+00:00",
+ "generated_at": "2026-11-09T18:17:15.969904+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -436,6 +436,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a2c44f259499",
+   "title": "Presidenta Keiko Fujimori: Perú está alcanzando cifras históricas en exportación",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd182M1BiMWxDdzNiaDUzei1aOFh2ZURxMXBHRGJqYk1ZTUhsSjBzWWQzQ1F2TmwxSlRVakFpb3Q5SU5GMnVHX3VrVkdDRHVUNG1yclljbHlQTU9wU0FzaUFXUHNxaFNkQ2dkTDN3b0NLNzFsU0prZjJQUG9zQWlPTXluVU5tcFIwZ3pVNHFzUWZVVXlkZnpicGQwSDFZTUNpX0ZFaUVFY1ZVOVA0TURpRE0wOFFDTVRjXzl3?oc=5",
+   "date": "2026-11-09T18:03:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f637bb073ad5",
+   "title": "Keiko Fujimori pide autorización al Senado para viajar a China y Japón",
+   "excerpt": "",
+   "source": "Latina Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPVWp6VVJEMHNSZjVQcEYzTXZuYVdQTjltRFk4SkFWTnZaRno2SEdwOGdvZG52YlJ0WjNMdDljUFp3bUt1QTFUazhkaGR4RnBNUXk1bkhqRi1YYk9reDIwaU5BenVJeE9FRzdVMmdxdnlIRzZ6SEVfUGkwS1h5ZEZMeDVzRVJEbDlaOVAtSVRmaEszaWpsOENfWFR5TmhPNTFkZTIwTDh6aElpWWJnY25KamVQTzRHSmpKaW9XbGpHTGs2ekd3dWJ6ZGtmd3VDWlpZYnQ3RmFaMFllOUdXSjZOU04wVTdSQUN2RUpMeFpXUjN3QjZWRXJn?oc=5",
+   "date": "2026-11-09T17:45:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4a1d14fb47b7",
    "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
    "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
@@ -502,23 +524,23 @@
    "next": null
   },
   {
+   "id": "12be0849f74d",
+   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmpwRGwzTEJYTld5VnJQX0QyMUppd2hlNlVYeEhPempyNDBPNGxwdFVRQU9yek1ZN3hLRVpENUh2WHRqLVYyZ3JvdEgxZmk0T05OOW5DdkpVTlQ3S3B3N1lTTVNxUzhMVkJhNVJMc0dXajQwOVVrV2VhSDcyejhWMmVTZXVCVkY4eGYyWmg5eTRNTVNUSERPckgyOGlaN2RUN3hJNzlFcHNGZEFVaVJVYnRfQjVLYmx0cVZkWFVqWG9hN01yanlUWlgteUVtTkdINV8w?oc=5",
+   "date": "2026-11-09T15:34:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4c731a78c915",
    "title": "Gobierno publica decreto legislativo sobre delitos violentos e informáticos",
    "excerpt": "Al amparo de las facultades delegadas por el Congreso, el Gobierno de Keiko Fujimori publicó el Decreto Legislativo 1744 que busca fortalecer la lucha contra los delitos informáticos.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-publica-nuevo-decreto-legislativo-sobre-delitos-violentos-e-informaticos-apuesplan-noticia/",
    "date": "2026-11-09T15:32:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "12be0849f74d",
-   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
-   "date": "2026-11-09T15:25:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -748,9 +770,9 @@
    "id": "0b93e582ff64",
    "title": "Keiko Fujimori retoma transmisiones en vivo y promete inversión de más de S/500 millones en compras de kits escolares a mypes",
    "excerpt": "La presidenta señaló que la iniciativa contempla la confección de más de 1,2 millones de artículos escolares y prendas deportivas, mediante la participación de pequeños empresarios en su producción",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-retoma-transmisiones-en-vivo-y-promete-inversion-de-mas-de-s500-millones-en-compras-de-kits-escolares-a-mypes/",
-   "date": "2026-11-09T00:42:38+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeWdCTG96QjNXQzJWaGNUNURtWnFXRUxnYUlSbWVXT012V0FENUN3ak5FeFZrTGw5d1hUZFNfVmtqMG5BTF9MQ0NJc2dTS1IyUWxXdnJwaUpfZ0JWOV9fN2dSZ1pkOHQwenY4MGNEOVJIdGlFV2ZVZHh4TXhHMWMzRnVJRzRGUll6dkdUX2VVdnJ1TkQ0LU54elF0VVppMlJGTmRFbmpObWVJUERpR0xTS2I1WnNDa1NveFV0RnJKbko2bkFtZGRQX3pkeWRuMjBKNlRENHBtSUd1SnV0dmFPZlF5cUEzaVFkcnBzbHpoUlRieC1teUNSeNIBkwJBVV95cUxOVndrYnZaLXhOWmUtVktISUpjeEpacXN0SlRXenltMkhEem53TUdkMXpLMUlxbU13RVRDNko2M3NiazJXQkh2dTVDZUVIWUp2OGNMVHQyVmdlM0FNaHp2OHlUVXNTZ3Vua2hvRERBdnY5TEJmYmFMVkVVblJXMUFHdm1pME1ycGxsdWF2b0UxQTF0YTNJdHJBbFRQaUxsM3ljcXp0UTZPZFJaVUg0U3NVYkdqNTF6a3dPY3F5Yno1aEItSlF4SVlUcklrczFXQnM3R0ptdnE3bGR2cnJWeDgwUEJWbjljcW84X05kMGExMGdKT2tkRm9zVDg4enowMFRMQ2hfd0N5YkhVbVlqTU5DUmdIUQ?oc=5",
+   "date": "2026-11-09T00:42:00+00:00",
    "state": "transmitiendo",
    "place": null,
    "next": null
@@ -822,6 +844,17 @@
    "next": null
   },
   {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "73aa92ca45c3",
    "title": "Senadora Paulina Núñez junto a Keiko Fujimori abordan tratado de extradición y seguridad fronteriza",
    "excerpt": "",
@@ -877,11 +910,11 @@
    "next": null
   },
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "id": "ae2b383f01bf",
+   "title": "Presidenta Keiko Fujimori presentó comisión de gestión de riesgos del Fenómeno de El Niño",
    "excerpt": "",
    "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUlWa2QwcWVpQV9sZ1hVT2U5WmY4T1JCZy1mQmFycXY5dUg1UGxYMUlEV1IxWjVLSE4tMG1objV0aGVhUE9mcy14VmRwbmJJbVNybUlHUGF6Tzloc0hmcm9rQlNudWxrQUpKazN4NTdoMkxDb0MwVjBNOWpOUmlqZDhSSGVFUU1nWXd6ZVZkYkg5UkxKN2oyb3JOdWRzMHExdjMwV2RscjBUbFFoVFFmWXNoVThNSmhlYWJ0SVlCOU5zX2YxLVE?oc=5",
    "date": "2026-11-08T08:00:00+00:00",
    "state": "posando",
    "place": null,
@@ -1094,39 +1127,6 @@
    "source": "RCR Peru",
    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWXp6dXJrTUhXWF9mVTFycnMzUXFpWVJ4ZVJpN250aUZ2NG51RUlxRXhJMUxzb1NaQkNqcm9UM1paMFJEdHFfYm9FWGhXYmlDdjBtOVlwanNyZHR6R01tOGNrWkk3ODBuUHhRNEV2SlJCbTlWd0stbjJkNmhPMFFwNkZXdU5IVk5VT2xobmtwVjlkWERtdFJicFJtZHZVbVhlZ25UZUptVXBXTTdDUDVsR1psVUJfVTNhUnJsM1RBRXRISWxXSFVyOGdqVThVY0JpaGlXbUVxcXNVdl93Ul9PcTZXRmtvUHk1cE9kZ1RUV0g1bjRqMzdLQjAyRERGQVRWR28xTFZUZ2ZCdlVTZDYtejF3SQ?oc=5",
    "date": "2026-11-07T18:18:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "afabc2699893",
-   "title": "Keiko Fujimori expresa sus deseos de éxito a Pedro Alliana, nuevo presidente de Paraguay",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHFubF9FcDRpU3o1Q2tFd0pKZ1RyNzI2M0tFZnRRSTRZdDhWVXVDWjNvUUJ6N1NfM0ZiR09lYVdVTFRLb05LcFJpZlktTUg3eWZueHA0U1pTM3lqdnFORl9xWmgwbGZrMldwT2lYLU1MUXBaVjZZQWJadFpsNTZIWTBheW5OZ25zaktVUENYNVRERFoyaWtWNU5qSm5Hdk5LdmY4bkM5RzIydTlGVXluZUJfd3h5cnM?oc=5",
-   "date": "2026-11-07T18:14:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e0596722d410",
-   "title": "Keiko Fujimori firmó decreto que establece nuevas reglas de disciplina escolar: “El orden debe regresar a las aulas”",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMHJBRzM4cUc3OWxIOTNpNUxOQkJiR0pLeUhzYW91THVJU01PdjNZYkJWbWoyZXNsMTZVTFUzT1VUelJDMVVyLW52cU50QXJkTzZaVk9BNGprclREUHA2MGZDUGs2RU1CenVTNGxZSHBvRVlBZmIxODNQcTBPWmRYcDBYUko4ZTFlclNxUmtYbVFlU2pPVDhFYWFxYXRFajE5UUEwemVtNlhlS0lkalVKYWxXVkhjdFczRm5zVEZoaVBhT21fTEdsOERMX0VnQjZIazJRV1FnLW5VNDE3Qmg0Mm1XUnBydWZneGRLdV8ySmdWTmNUcWFxZXhqTVRfUXdvb2ZIZ2RZZmxwbjE2bDlPcS13LXlNQ3FfSWdqUW04NDc3Zw?oc=5",
-   "date": "2026-11-07T18:14:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a439dc080d41",
-   "title": "Tras la caída de Santiago Peña, Keiko Fujimori saluda la asunción de Pedro Alliana en Paraguay",
-   "excerpt": "La mandataria peruana expresó sus deseos de éxito al nuevo jefe de Estado paraguayo, que asume luego de que Peña fuera destituido por el caso Ueno Bank",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWEl3MWNUWkxlSzdWbzQxS25xWGxBMmtIYzNlQnl4MTRLRXpmOVRDLUJGeWJONWJsLUxNeGk3eGxUVjY2TFV1RnhrXzNPN3VXTHRGVDE2R3piNlZOUll2WWo0S2piUS1uSTFHVDJ2dTV0bWh2WFkyTHR5dnpzdmppckhoT1BPTjVaYlhuVDM0SHZ5cUdQQmdvekhQdmgzeWl4czNtYUdlTjFYdS1NYno4Z1kwN3BUQjYxSnA2M2t3UWlZaUgyYXdla0pRby1zLXPSAeoBQVVfeXFMT0dpSGNxREtKV2JYQmo0RmpBQ2NnR0U5dWFER0hIQ0xWRTZjbG41VjRXaGxmbWhWeEIxcmxZdTExTWlkMkRYRWtkeUk2MGFwdW9nNVlzOWw3bU1HVnZ1ZzNEYnRXXzI4b1gtbkk2UV9RUGFJa3B1MWxBOEhEb2ZWeFFvVVlob3dsOUh1MjV6NnRnYW5KLWE5bjZiNGJXaGIwN1owaHBad0RWQndiekxDdnJUTjBGQVVNalI4OVpSckg2T0VqcFRSaGFzUUJjNmdMUE5rcmpJVDY5OFJjV245dk8wNVAxSTFKdDR3?oc=5",
-   "date": "2026-11-07T18:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
