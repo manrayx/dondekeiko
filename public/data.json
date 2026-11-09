@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T16:50:16.405335+00:00",
+ "generated_at": "2026-11-09T17:12:09.436023+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 58
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -436,6 +436,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2a10e2b00742",
+   "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
+   "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 18 al 20 de noviembre.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-japon-y-china-en-plena-emergencia-por-el-fenomeno-el-nino-hnews-351549",
+   "date": "2026-11-09T17:08:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "99c94435ce54",
+   "title": "Keiko Fujimori asegura que su Gobierno rendirá cuentas, pese a críticas por sus primeros 100 días",
+   "excerpt": "La mandataria retomó sus transmisiones en vivo y defendió los resultados de su gestión, cuatro días después de reconocer que su Gobierno aún no ha logrado vencer a la criminalidad…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-asegura-que-su-gobierno-rendira-cuentas-pese-a-criticas-por-sus-primeros-100-dias-hnews-548298",
+   "date": "2026-11-09T17:04:22+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "67817d4e1585",
    "title": "Keiko Fujimori destaca cifras históricas en exportación nacional",
    "excerpt": "",
@@ -602,23 +624,23 @@
    "next": null
   },
   {
-   "id": "7967f8c8fb02",
-   "title": "Presidenta Keiko Fujimori participará en ceremonia por el Día del Exportador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS12X2tEa2hnQnJRZGJTNHlKb1pWSUptLUkxbWNmNUl2Nnh6aUptQWtXRTk1Zk83SEhxV18wdE1lY0g0TVZ3SjlJQWRiOVptZlZzazRBRmJnVGNwN09VbXJvZ25IZktEVkpRUXFVMTl4RjY0T0RSV2RqSW1WdzkwYktfQXI5cVVJUDNmcmw1UE5Sdkh6ZU9KSmlzQnhPWW5aQWdxQmxuUkFLeUMyR3UxdUpFN2JxcHI2?oc=5",
-   "date": "2026-11-09T11:04:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-09T06:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7967f8c8fb02",
+   "title": "Presidenta Keiko Fujimori participará en ceremonia por el Día del Exportador",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPejl3Yy1VeFg0cGVVZXgxQ0pETXJrREZSU1NnYUhDM0R4bWdhMmZraVRkWjRxVjYxSkloTFlidlUzUGJpM083V1kxTnp3WVQyaFVlVVcwRTAyX1BtZ2JTZ1lBbEpHVjdpNjl0d0VSbFBwalFXYjRndWVJTzYxQ21XSk9pNkQybnhEWnZjdkt0SzAxanQ1c20tRnFUTUhlNndjcEpkcDlEMTNhc0dxcFZFVGhEeEZ4bFJHTDY4aXdmUkp3VTd2WjJF?oc=5",
+   "date": "2026-11-09T05:03:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1105,28 +1127,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-a-pedro-alliana-como-nuevo-presidente-de-paraguay-tras-destitucion-de-santiago-pena-ultimas-noticia/",
    "date": "2026-11-07T17:52:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6adf255939a9",
-   "title": "Keiko Fujimori firmó nuevos lineamientos de disciplina escolar en colegio donde estudió su padre Alberto Fujimori",
-   "excerpt": "La presidenta acudió a la institución educativa Alfonso Ugarte, donde estudió su padre, para suscribir la norma que busca reforzar la disciplina y el respeto en las aulas",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOHFCbnk4WWFycTRENVB4djFwSGR3QkFwaWR3UGRDZXc5cmZCTm1mSENfamJFVEVQQ3V1Z3d4WnpjdGhLMjJCMXJhbHV4V2RQV1FJOEhGbF81aXVQcVhYTW8xeDBLT2taU2NCRjE0VzVSSGhubE1uUlU1ckhYVmZ6REVyUm5uNnVPdlh3SllVYzNJTXNWcjRicXhCeDY2OUhjLWFhdlZIeDVsclY4OS1najZfbEZlWmRoX0c2bXBGRmx5SFlTVy1FSllqRjAwbjNFUUQwZ2k0X3V2MnQ1VGtUdVZmOXRvUDhmSEHSAYQCQVVfeXFMT2VUTS0xWlQ3ZGJsd19hdlNBNWhpekpjNnBwYjlFTS12czB6T2pwSVlTbVhETXBaQ3VXazYwYjN3VENDS0w0QUpvUm5RMG5XYVdQUE84SklaMW55NjlzOTBwNjA1X2pIZGgtREJqYkNCS3dCWER4VVRTMUp2ZXpxQUM2RUtXYm9BWEF3MHREa2NzRHRrR3JEbXg4ckZIZVJNVFQwMmZBMzJIZVhRMWxsVWJxVXJ0Q3ZBZ0pvM01EV2lFSVowbGQ4ZUItbm5vb1RTRVhDOG05Y2xnMUptRVFCS0lsMlh4aWdlbzhxQ2RHRVNfYXJqdkdWUHZ5Y0FEMEsyYVFFVVM?oc=5",
-   "date": "2026-11-07T17:43:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "aa8923dfe764",
-   "title": "Volverá la expulsión en colegios y la nota de conducta: Keiko Fujimori firmó decreto",
-   "excerpt": "La presidenta, Keiko Fujimori, suscribió el decreto supremo que aprueba los nuevos lineamientos para la gestión de la disciplina escolar en los colegios públicos y privados del país.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/volvera-la-expulsion-en-colegios-y-la-nota-de-conducta-keiko-fujimori-firmo-decreto-noticia/",
-   "date": "2026-11-07T17:38:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
