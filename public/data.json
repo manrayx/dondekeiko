@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T11:04:03.895451+00:00",
+ "generated_at": "2026-11-09T11:26:02.481420+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -433,9 +433,9 @@
    "id": "7967f8c8fb02",
    "title": "Presidenta Keiko Fujimori participará en ceremonia por el Día del Exportador",
    "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPejl3Yy1VeFg0cGVVZXgxQ0pETXJrREZSU1NnYUhDM0R4bWdhMmZraVRkWjRxVjYxSkloTFlidlUzUGJpM083V1kxTnp3WVQyaFVlVVcwRTAyX1BtZ2JTZ1lBbEpHVjdpNjl0d0VSbFBwalFXYjRndWVJTzYxQ21XSk9pNkQybnhEWnZjdkt0SzAxanQ1c20tRnFUTUhlNndjcEpkcDlEMTNhc0dxcFZFVGhEeEZ4bFJHTDY4aXdmUkp3VTd2WjJF?oc=5",
-   "date": "2026-11-09T05:03:15+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS12X2tEa2hnQnJRZGJTNHlKb1pWSUptLUkxbWNmNUl2Nnh6aUptQWtXRTk1Zk83SEhxV18wdE1lY0g0TVZ3SjlJQWRiOVptZlZzazRBRmJnVGNwN09VbXJvZ25IZktEVkpRUXFVMTl4RjY0T0RSV2RqSW1WdzkwYktfQXI5cVVJUDNmcmw1UE5Sdkh6ZU9KSmlzQnhPWW5aQWdxQmxuUkFLeUMyR3UxdUpFN2JxcHI2?oc=5",
+   "date": "2026-11-09T05:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -601,6 +601,17 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM01ZR1JpVVJpNXd0Q3VDRnVHT1R1QmJnS1NQR1dHSnlZeF9XSGx0cFBTUXUzLXJsbTF0V1NJNkJGTnBkX3FTSUNRY0MyYk9BczIxNUxTNEEyTm0tamlDZXJaTkNpSnhYVGpPUHBZYnk0akZpRXhIWFlJd1gwek5pdjFqSTRJNkIxVHB0RlNOQ3RpSnZ4Z3FqSWJpMmFoY1ZnaTBLSk9WMFZMcnlPaVVFXzlkcG9pQUNma0NV?oc=5",
    "date": "2026-11-08T14:13:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1053,7 +1064,7 @@
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlpzVEFBR0V6N0w3VUZwTDBhRVhWbVlWV1JsTTY3Ym80Rld3UnNrcnhNY19FOWdteHZNbURRVTNrNktQd3dOMzlGT3lUV0UzQ24wVXVPMzBWYXRRLW4wc2trVWUzOGJaRGJOd2ttcm1tbzZzTGtYMllIR1Z4QWVFSHhyUjhMRGtJQ3M5SVZiWWVabnZsQjRoMVlnUU1zdVY2Y1J6YmVsRGZoeWRRYWs2NkdEUGdYa1BLa0QybGkwTUs?oc=5",
-   "date": "2026-11-07T15:07:11+00:00",
+   "date": "2026-11-07T15:29:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1076,17 +1087,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1BNGNWbW9DYmNYN2NWMUlzbld1LTN4U0pmbVR2UUFielNRa1k1VFAwNXFNYlN3S2REWVdEQnB6RjN3cjdvYlVjdUNfU0dEd2Q1aW1uR1ZtcHVMWnIxTVg4VndJdFdRcU1MSV9hVzBESnlZNmRkNkFfNE0zM2ludlFmVTlFV1A4RXlVVGlHYm9QcF9USk5NUEJORl9wMFJmSzY1ZXVzNmlndVFXV0FBeDlESFZtUUVJTkdsX1BwTFk?oc=5",
    "date": "2026-11-07T14:51:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-07T11:35:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
