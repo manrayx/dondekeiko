@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T23:31:46.531585+00:00",
+ "generated_at": "2026-11-09T23:53:45.177517+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,7 +105,16 @@
   "source": "Infobae Perú",
   "date": "2026-11-09T22:06:31+00:00"
  },
- "next": null,
+ "next": {
+  "place": {
+   "name": "China",
+   "abroad": true
+  },
+  "source": "La República",
+  "date": "2026-11-09T23:32:50+00:00",
+  "title": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón",
+  "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-no-estara-en-ultima-misa-del-papa-leon-xiv-ni-en-su-despedida-si-se-aprueba-su-viaje-hnews-890334"
+ },
  "counts_7d": {
   "transmitiendo": 3,
   "entrevista": 0,
@@ -451,6 +460,42 @@
  "agenda_minutes_7d": 554,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "30617fe4f1ec",
+   "title": "KEIKO FUJIMORI NO ATERRIZA EN ACCIONES NI METAS LAS IDEAS DE SU PLAN DE GOBIERNO TRAS SUS PRIMEROS 100 DÍAS, ADVIERTE ANALISTA JOSÉ SALAZAR",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTG5uRkVPVXc1NTFrWmlKbnRYRTNrRmUxUnItMzM4QkFPeXZmenJTblZKdkE3SWNJYmJQcjk3SmNhaXBXV25KU003cnFiUk9RaU5oem1zU3FOQVpUUUR2MnE3WENKUFpNQ29SQlpBUWRrRDh1SXh1QnNJOXA1MFpHOEdWWHJQNW5sQUEyNUk2cnVpUFIzdXFjOFpEZ0hPMi1WMkxOeHluWEhVYlFHYUFXMjJVQjRpZkk2YlFOSFVwS3hNTlc4Q1d1eG1ob0UtU2ZtVlFqLTE2WGdIcHNObVpoalVfZUE4QzB4dEZTRi1DZWFVY0hXY1E?oc=5",
+   "date": "2026-11-09T23:40:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8ab41452313c",
+   "title": "El Niño: presidenta Fujimori supervisó despliegue de buques de la Marina de Guerra al norte",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWt1R29yT1NmSTdzTnRLNlh1RDlfd3BWLTZyVjFmQjVKUzBWNnZPOHphMXRFZnRfSkZ3T2VLck41SXBqeDFTT2JlS1ZtdnVWaF9ITkowYUpmOTg2elp0UlotVWRZdXRVTkoycXpydUhhUmtUdmpxcFc4bHR3a0EtNE02VW9ZNkFPUjZpUE45OEY3SUNYRXh1bnFhM1F4ZVlxTkhWaERHdEN2azBUUUs3blBxT3JFU01YRmlwWlIzSUFoTzZfcjZLeFFBQ1UtMHc?oc=5",
+   "date": "2026-11-09T23:36:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "50257091e45a",
+   "title": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón",
+   "excerpt": "La mandataria solicitó autorización al Senado para salir del Perú del 15 al 21 de noviembre. Su itinerario contempla participar en la cumbre de APEC, en Shenzhen, y sostener una…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-no-estara-en-ultima-misa-del-papa-leon-xiv-ni-en-su-despedida-si-se-aprueba-su-viaje-hnews-890334",
+   "date": "2026-11-09T23:32:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "c76930dfea31",
    "title": "Keiko Fujimori solicita al Congreso permiso para viajar a China y Japón por foro APEC",
@@ -1086,45 +1131,12 @@
    "next": null
   },
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-08T12:14:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "73aa92ca45c3",
    "title": "Senadora Paulina Núñez junto a Keiko Fujimori abordan tratado de extradición y seguridad fronteriza",
    "excerpt": "",
    "source": "Puranoticia.cl",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZU5xTzVKUXZ4VmprbDNsZ2xCUmdLRXlKVlNLRWRMWHltcUl2OVZHd2pGa3RoVGkzLVd0aGprWDhBWHg2WjNpMFB4eWRFd1JqTGlxdURhblNHSllScmtoU01QcUlwdnJDcU55NDRYeTUyb1ZRRkFKbWN2aVhNS2JYcm1jY0diTmVHNGdRS2E3QmRtM0J6MVRXOEF5aTd1cmc2TkE?oc=5",
    "date": "2026-11-08T12:11:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "93e3b3d1b303",
-   "title": "Trece detenidos en una operación errónea contra la minería ilegal",
-   "excerpt": "Por la culata. El gobierno los presentó como integrantes de la organización criminal Los Guardianes de La Pampa. Incluso la presidenta Keiko Fujimori felicitó al Comando Unificado y a la…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/07/trece-detenidos-en-una-operacion-erronea-contra-la-mineria-ilegal-218064",
-   "date": "2026-11-08T11:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b3424ade1249",
-   "title": "Fenómeno El Niño: Keiko Fujimori anuncia acciones de comisión especial durante su visita a Lambayeque",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTlBMR3pvRExNLTFqWWxtSThOelJiQ0otWHp6d1VscVY0djZDRzRINWhuWld1VWs0UXZoTXRMUjljTXNJci1kd19xV1YtU05sQ0pNdWJJcjJRMWd3ckNtZ1hLMzBSR3R5Mzc4QjVIaVhvc1d4RzJhMXJOZ3pDMlZqOXVYUDBaUE1WTGtucGRrbFQ5SG1NdEJkNEJkUU55SzA0YnRFeGRvclFKOXlteDJ1YW9BOXBXcFNEOFN0aEstaGJwQlpOaWN2Nm41bk5rLXFfMGh2UnEtazRfck1PVnFsY0hqSTQ3OG0tSDFF0gH_AUFVX3lxTE83TGJSMUZKcHY5X0Y3eDRON1RGNmJDRUQ2U29iMkNaelMwbkJTY1dLdjlaVlViYjlHRi1lX0Zlc3Q2VXVhSG5jNGFCbk9CU3VHSXZadHcxdm5aY1hOUTd5MlNfcjZ5TkY5NjJ2anljay1lNGFzOVJTaV93Ty1GSmh5eGxiX1ZqeUMyWFFSeER6WFFuQmYyZ3Nvdmtxc3ZkYkttRDN6OEVpbGZyZ2ZKdktoOXRHbU5taWpTOThwYXpXTHhHM1l2aktkN3VaQWZ5dllpcGd3NkJHS0NybmZMQWljOXh1d2hqaFMtaVpuSWdMLVJGOEZ3MG42S2Y0RGFRVQ?oc=5",
-   "date": "2026-11-08T11:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
