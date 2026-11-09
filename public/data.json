@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T21:00:37.582788+00:00",
+ "generated_at": "2026-11-09T21:22:09.063202+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -452,6 +452,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "26e0b31d1422",
+   "title": "Presidenta Fujimori solicita permiso al Congreso para viajar a China y Japón",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVJ1cGJwOFQwSlZvN0hKWG9LYzJQWldhRUxuUzlvRlFqSGNfR3BTNjJVcGhrR0JwT1AyM0VMM1pBbUljcFF3U2dPU1pTemcyS0prdURyV2pUd2s4N1pJV2ZsQlFoeENjblpndTZDSGRyazJhZVlTT1VuU0xNdzFJU2dtY1lBZTZSeks1RWFhejRYZVhsTEhsYW5jUkk1VHNBQ09MN1NUaTFiX1g0ckVXc1RB?oc=5",
+   "date": "2026-11-09T20:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2a10e2b00742",
    "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
    "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 15 al 21 de noviembre para asistir a la cumbre…",
@@ -479,7 +490,7 @@
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95cTk1U2RVU3hqUU04Q2FCMXNfV0Vham1wTmJLLTZKajNvMUd4eXhRX1Z0N05qeDNFQzhOamJvZ1Yzam13WlphSWFCUUFpODJDc19GNjJuTjdrQUxDUndDNlBYdXNLdDBaRmpzbVgtNng5TThwWmhfWEVn?oc=5",
-   "date": "2026-11-09T19:50:50+00:00",
+   "date": "2026-11-09T19:51:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -667,6 +678,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-publica-nuevo-decreto-legislativo-sobre-delitos-violentos-e-informaticos-apuesplan-noticia/",
    "date": "2026-11-09T15:32:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a6b5bb015ee3",
+   "title": "Por qué se archivó en Perú el caso de las esterilizaciones forzadas de 4.000 mujeres durante el gobierno de Alberto Fujimori y cómo quedan las víctimas",
+   "excerpt": "",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcUZxRVlVQmxIa2dSd0hneUptQWNuYUNLUW44TmdPS2FOVWgxWFgwUVNlbVVNUUNBZXY1dGwtRFNMWm02UDRXTDNMRDZ4OTc3SGxzNEdKX2JsQnQw0gFiQVVfeXFMUHlzaEU0U09UUXdSbUM5aVU4UGNzT0hKUmxPdG9pd1hQQy1tTkJuWmRZRXFaSXhtRkFNakNILXdiM0RhYWtIYkpZeHdETW9ucjZpSXF3MVY5T1dxV2lhQ0duaGc?oc=5",
+   "date": "2026-11-09T15:06:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1097,34 +1119,6 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejJIeTUtTVBPLWdaT19pdEh5ZFZSc0hUZU03TG1JUTlHcHlNQ2syOWhrRlZCaWU0ZWhSYkhpS1VVUnlBdzRqTWdDNVBwVkdVQU5oWkVjM1NpQ3FZdnBwWnFHTU9xZjRzd00xWFdaZjFyNmlLcG96RkkyNXhVM3ZvZUNQaU91NE51b2d5OFozNFBDV2hBVGJyTFZyY0R1YkpkSTl3MWVka1dINmlVZWVZeDVCUzFJUzJPaUJKUmw0a2E?oc=5",
    "date": "2026-11-08T01:53:01+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "0402982eeb87",
-   "title": "Keiko Fujimori y presidenta del Senado chileno abordaron agenda de cooperación bilateral",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZXpYMDlkN3FQaE5UU3hvdV9PQUNwMWh2WlhVOXB1UVVPcmMxQU5GTHJPZ05VbGw3dFZoQjdXNDF2Q3VBWEtvaVNYVlpFSnFtOHVhdVBVTHRYb08tZDhqN1Brc1NjSzk1S2FVQ3VObmxHVkxvYmFLclBDUXlEbWRIc0NRRHBFNzc3cHkwZ0oyY01BNmJQNEYtWEkxVFFNanFYU2tmYTNFc2drdW5oVm1SZjVGSDlsRkIwb3FmNllLNDJXazBHaXfSAdoBQVVfeXFMTXdqYkR3OU5YQklzWlhRMkV3WDMzVVY1WFNzQnl0ZEVOT09OVjhNci1BQ3pwNEhiZTR0MUpIQWlqNlJrMEQtdFZqQ3NQT1hFWTFMekgyYkdhRjJObnctSTh0YzVYYWxyejFFXzRLa3lyM0Mxb1hNcGh0eGU2S1pERVY0b1pXUDBuaUUyeVA2cmNqaF9uWUJKeUQ0cklwMUYzUldxX3piRTlVelo1UmhFZy1sckxzb20zYWJYajctTFdxYmNnUFBXdEp6U2FaY1VvS1Z0Sk5tbkVTa0E?oc=5",
-   "date": "2026-11-08T01:34:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0c7fc9091e37",
-   "title": "Presidenta Fujimori lideró sesión del Consejo de Ministros en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVG81djRMV2pNSi1oVXpmNmgyMmxUdkpmZmJlRFRsNWU2MWFMY3VPMjJ0Q0IwclE2Q3Y3OGlVNU9tRDF2R29zcU00RERlcnlNZHhZUXhQYlR4MmJkQUE4R2xXOU9naWk2U2gzUkpJVGxFYjBMbFl1ZDRBaE5WMnd6ZHRwblpBbm15QW5ZdE0yMThFQ0JhOFlPUU5WLS1Mb25nVUVUWHdHQWhVYW9TcndiS0JmZWQwaFp4cmxF?oc=5",
-   "date": "2026-11-08T01:27:00+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
