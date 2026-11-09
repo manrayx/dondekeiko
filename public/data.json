@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T18:17:15.969904+00:00",
+ "generated_at": "2026-11-09T20:38:52.858246+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -121,6 +121,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-09T14:00:00-05:00",
+   "end": "2026-11-09T14:25:00-05:00",
+   "minutes": 25,
+   "subject": "Lidera inicio del despliegue de los buques de la Marina de Guerra del Perú, como parte de la respuesta del Gobierno frente al fenómeno El Niño.",
+   "lugar": "Base Naval del Callao",
+   "state": "posando",
+   "place": {
+    "name": "Base Naval del Callao",
+    "full": "Base Naval del Callao",
+    "city": "Callao",
+    "lat": -12.03303,
+    "lng": -77.13791,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-09T09:55:00-05:00",
    "end": "2026-11-09T10:22:00-05:00",
@@ -432,9 +448,141 @@
    }
   }
  ],
- "agenda_minutes_7d": 529,
+ "agenda_minutes_7d": 554,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "2a10e2b00742",
+   "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
+   "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 15 al 21 de noviembre para asistir a la cumbre…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-japon-y-china-en-plena-emergencia-por-el-fenomeno-el-nino-hnews-351549",
+   "date": "2026-11-09T20:06:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a364e61fd498",
+   "title": "Keiko Fujimori solicita un nuevo viaje al Congreso a China y Japón, ¿por qué razones?",
+   "excerpt": "Keiko Fujimori solicita un nuevo viaje a la Cámara del Senado del Congreso, para visitar China y Japón del 15 al 21 de noviembre de este año.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-solicita-un-nuevo-viaje-a-camara-de-senadores-del-congreso-para-este-mes-china-y-japon-por-que-razones-noticia/",
+   "date": "2026-11-09T20:05:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c7d6681f4fe0",
+   "title": "Keiko Fujimori pide permiso al Congreso para viajar a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95cTk1U2RVU3hqUU04Q2FCMXNfV0Vham1wTmJLLTZKajNvMUd4eXhRX1Z0N05qeDNFQzhOamJvZ1Yzam13WlphSWFCUUFpODJDc19GNjJuTjdrQUxDUndDNlBYdXNLdDBaRmpzbVgtNng5TThwWmhfWEVn?oc=5",
+   "date": "2026-11-09T19:50:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9e8eaecd3bea",
+   "title": "Rosa Bartra: “El modelo de El Salvador era inviable a primera vista”",
+   "excerpt": "Ayer entusiasta parlamentaria de Fuerza Popular y hoy inesperada crítica del mandato de Keiko Fujimori, Rosa Bartra da su visión sobre los 100 primeros días del gobierno, la comentada gira…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/08/rosa-bartra-el-modelo-de-el-salvador-era-inviable-a-primera-vista-hnews-756192",
+   "date": "2026-11-09T19:46:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f0480f372290",
+   "title": "Presidenta Keiko Fujimori solicita autorización para viajar a China y Japón",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzBKRmRfQ05GOXRGR1BfckN5S0syY0tleFNySmR3SUVYQ1BsT3ZSLUhLTi1BRzYwYVk4dndqcldtY2NVanBnYUs5aVZhZm56eUxuMDF1RTF0aG1LV1RWQXg2QWtlVnFGOElzS2tubG12WUdiQldwWi1McVFjUDZMeUdWTFNzVzV1YnREQWpVYUt6TUFTUm1SaGZZU2lTbVB4VmV0NnlldDRaRjY3VGt4ZWxJT0FVeThuSS1v?oc=5",
+   "date": "2026-11-09T19:39:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "32f65a0917c9",
+   "title": "President Keiko Fujimori to attend ceremony for Peruvian Exporter’s Day",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORzdONTVzbmtzbTRiWkxqZGY0WlhYN3hQR3hXREVCOTktMEFLcnBuMmJfS2FQRU43d3o3NmV1Y2pJUGQ2eDNOcjBaWlNiXzBpTFVYV0Fha2otRkxHeUUyNi1GS3QzQzdFTkFqZklKZUpQVzRzT3FPaFFta1dxRmZycmJ3YXR4Zi00ay1rSUxtVWRoQXpPWXhSN2ZiQlJhZlhWaF9fWGt6SlhTRUo0N1dxN21qek5BTGZt?oc=5",
+   "date": "2026-11-09T19:20:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4a1d14fb47b7",
+   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
+   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
+   "date": "2026-11-09T19:19:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0f00b0753f6a",
+   "title": "Keiko Fujimori solicita permiso al Senado para viajar a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFhial9aRWJaOURjel9LbEpBZlFpcU5HWDlTNFJGcmtQb3pQazlNRlVKa1pfcDVyZFQzMWNQUTdqQXplbkRCTEViQVdtS1Y0cXhJdElSVS1RUFo0YXBMWGJrb0hDTjlRZVpGbXltUlNnclhPMXNIdVYxRGEweFk2cS1NcVJjbjdoeFRnV1NtMmROWUlXcmQzc3JHVEo5bEE1LWpFR3JjWFY1X25UZy0tLQ?oc=5",
+   "date": "2026-11-09T19:04:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ab82886cb8cf",
+   "title": "Keiko Fujimori solicita permiso al Senado para viajar a China, a Cumbre de APEC, y realizar visita a Japón",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, solicitó al Senado autorización para salir temporalmente del territorio nacional del 15 al 21 de noviembre de 2026, con el propósito de participar…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-china-a-cumbre-de-apec-y-realizar-visita-a-japon-utlimas-noticia/",
+   "date": "2026-11-09T19:03:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9d88fcc949da",
+   "title": "Presidenta Keiko Fujimori solicita permiso al Congreso para viajar a China y Japón esta semana",
+   "excerpt": "La mandataria tiene previsto salir del país el domingo15 de noviembre y participará de una serie de actividades en el marco de la Reunión de Líderes Económicos de APEC",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/09/presidenta-keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-china-y-japon-esta-semana/",
+   "date": "2026-11-09T18:37:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e551a19b50a5",
+   "title": "Keiko Fujimori solicita al Senado autorización para viajar a China y Japón del 15 al 21 de noviembre en medio de emergencia por el Mega Niño",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUkR5YVR6eVROeTU2Z0huRm94TkJ0R3Z4RDRYRmtBSy04NHhWd01peUpwdmRVYkNxSVZZVzZpLUgweFdiUVgwX2xuTER2eXFiYklXUW5UTms0U3FKdDVLWHdlOUdzbVBWT2N5WGhsdEhybGxKSVk1UTBtYlNZNTlvcDBydmpyaTZ3SHpzQVdpSllxWlV2SzBSdm9lT2tTT3p1dHlvNzc3aFVCa3dMMUpCbjVFVEQ5Mi1pVTZuNkpLVWY2N3phWUV0RURnODhZNTUxSFlGMFVoZEdrSGZ1eGozLThmdC1qZVQ1TG5mb2dMd0RSSWw1WlJma2tMeWdCZw?oc=5",
+   "date": "2026-11-09T18:26:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "00904831f332",
+   "title": "Presidenta Keiko Fujimori: Perú está alcanzando cifras históricas de exportación",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnlDSnh4c2VZRE9DS0NBRzFTOUlfUVNndVAyQ0F1UEhxRVhpRkR3d21EamlDb1Q1X2VVazRlLUFYSG1PcFQ0ZmVESEhrTTZ0ZURoVDg1eDVDemN3ZGJLOEhZSE9ueFl3b1dLeXFONnVFamVYQ3llX0NSakMyRmF0M0pjYmtmR0ZYd0FBdEpqazlqRlZPaTI2dFp0Rk40Wllpc1FGYVVBRVluMVN2R0hTRGxHenM1ZlNEOEtrYmREQ18?oc=5",
+   "date": "2026-11-09T18:19:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a2c44f259499",
    "title": "Presidenta Keiko Fujimori: Perú está alcanzando cifras históricas en exportación",
@@ -458,34 +606,12 @@
    "next": null
   },
   {
-   "id": "4a1d14fb47b7",
-   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
-   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
-   "date": "2026-11-09T17:43:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "08bc504315bc",
    "title": "Keiko Fujimori pide viajar a China y Japón durante visita del papa León XIV",
    "excerpt": "",
    "source": "Noticias Trujillo 60",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHpXdFNYUWNOZjhvdHRZR2stQ0lLRmM1YVVUVDBid0N1bjJUd1AzNG5zMEZuSkJ0U2RvV19xbUdJU2xCVVZtVTdBVWZRVV9aSXBFQm85WTJmbGc3TWNoSUxiZHlHOV9YalJFLXFUYk1qYS1ZMG9aRGZfbGlwSFZ3eGtvSTlRbnE3U0cxdlZrU29QanB1X2c?oc=5",
    "date": "2026-11-09T17:40:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2a10e2b00742",
-   "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
-   "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 15 al 21 de noviembre.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-japon-y-china-en-plena-emergencia-por-el-fenomeno-el-nino-hnews-351549",
-   "date": "2026-11-09T17:30:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -759,9 +885,9 @@
    "id": "cc1dad72f23b",
    "title": "Keiko Fujimori a tres días de la llegada del papa León XIV: “Perú está muy ilusionado de este regalo maravilloso”",
    "excerpt": "La mandataria destacó el entusiasmo de los fieles peruanos ante el regreso del pontífice, quien ejerció como obispo de Chiclayo antes de su elección",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-a-tres-dias-de-la-llegada-del-papa-leon-xiv-peru-esta-muy-ilusionado-de-este-regalo-maravilloso/",
-   "date": "2026-11-09T00:57:08+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZGEtdzJyMkg4V3ZnR1V2OVpDMUpmM0xySm1EOGRYX0VFM1dhU0RxY0JIdVFnVFk2RFVqYlJLaHk5WWRIUVNhWGdCQ3ZqZzdiVEVZcVhqdFh1VWhCUEk4amxSWk9fVl91a3Q0QklSTWpOdlowZlZva2RibEFCcnByZlk5Q3ZGUU93VVJpV1dMckY1c3g1RU5fVTdDOUtYUWppWUN6TmpILVp1OEZlcjlhSzZLek1HQURxUkdRUUJoNlh1Q0xKajZLa2g0SHctaS0yTDZXRW9BRVN2TTU4S0Q4LU13NGF2TDF3MnM3SGRXdDB0cS1KNHhMT3NPdUdnRE9B0gGAAkFVX3lxTE1kYS13MnIySDhXdmdHVXY5WkMxSmYzTHJKbUQ4ZFhfRUUzV2FTRHFjQkh1UWdUWTZEVWpiUktoeTlZZEhRU2FYZ0JDdmpnN2JURVlxWGp0WHVVaEJQSThqbFJaT19WX3VrdDRCSVJNak52WjBmVm9rZGJsQUJycHJmWTlDdkZRT3dVUmlXV0xyRjVzeDVFTl9VN0M5S1hRamlZQ3pOakgtWnU4RmVyOWFLNkt6TUdBRHFSR1FRQmg2WHVDTEpqNktraDRIdy1pLTJMNldFb0FFU3ZNNThLRDgtTXc0YXZMMXcyczdIZFd0MHRxLUo0eExPc091R2dET0E?oc=5",
+   "date": "2026-11-09T00:50:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -844,6 +970,17 @@
    "next": null
   },
   {
+   "id": "a039801ac771",
+   "title": "Keiko Fujimori descarta salida del río Piura por Sechura y prioriza aliviadero de Chutuque ante El Niño",
+   "excerpt": "",
+   "source": "Norte Sostenible",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHlVMWFzZ2s2TGw4eDJ4dVY0U1NFR3lTQk1zZ3VuRUJoTGZJX1ZibFNpak44WjBfYUx5QTZXaU14OHJUSk9JTmdwTXVKaUdseDlxMHNqdVFiaTc1YUlhdXp4M3ZVR2dZWWdaa1pvVDBLRzFrLWxtQVNFVXBDWlhXdG1ISkhOdUtGVFNTZ3VnSWZIbFdUS0dyS1RZelN1RERiSFlfSm91eVotYWJvb0w4YzVreWNnb0w5LTdGdVd0cXp1SU9DVGhBZ2xMa2k?oc=5",
+   "date": "2026-11-08T13:45:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b565c655e76a",
    "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
    "excerpt": "",
@@ -894,17 +1031,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1FBUWM4eDA2ZjdBRE1ZNU1mU1RIbG90ZS1haDN4Mk1qN1l3MklmME1EOU1RUUNJdkNCYkhrbEtxdHRvRy1ldElvcFNjbU4yRXNEZkhIUllDbTk4QXFSelljTlJBRFhDV1ZNMFUwV0JOTFdVWG9sdlNidWR5bWsxNXlSVmluelhXN1JTbVlQUllhZHhucVdiN3lnUWpmZWxDa2tMSHFvdTFsdEVsWjZJMmxTbDhOUTdqNXc?oc=5",
    "date": "2026-11-08T08:10:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9e8eaecd3bea",
-   "title": "Rosa Bartra: “El modelo de El Salvador era inviable a primera vista”",
-   "excerpt": "Ayer entusiasta parlamentaria de Fuerza Popular y hoy inesperada crítica del mandato de Keiko Fujimori, Rosa Bartra da su visión sobre los 100 primeros días del gobierno, la comentada gira…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/08/rosa-bartra-el-modelo-de-el-salvador-era-inviable-a-primera-vista-hnews-756192",
-   "date": "2026-11-08T08:06:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1011,124 +1137,6 @@
     "city": "Chile",
     "abroad": true
    },
-   "next": null
-  },
-  {
-   "id": "8605fcee7bc4",
-   "title": "Perú. Keiko Fujimori: 100 días de anuncios, pero todavía sin resultados que convenzan",
-   "excerpt": "",
-   "source": "Resumen Latinoamericano -",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWhNVVZqRFpFbm0wS0M1TEhKTnd4emlNbjJqWVJkVDRVOGFaQXFWVC1QWE9fWGFoSDgteTU1YU5PU0d2cHhoZXZmZkVnSzNTRm9OX1VSaFA3aTY1VE50VnlsamhTVjhvaVlZU1ZyOWJpRUdNRTZCWU8ySnNBWDVfajlFMTNNX19YUlN3S0lFcVlZcjdJTDltWk5OdEcxUTlycW5jbm5oUXEyakM1WmQ5cHpjSjZPelAwQmpwelBBdlE3Zk1zaGlZTGpsbXZEQQ?oc=5",
-   "date": "2026-11-08T00:17:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e349317201dc",
-   "title": "Keiko Fujimori firma decreto supremo que establece nuevos lineamientos de disciplina escolar - Televisión Tarapoto",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTTZOVE1kc0ZqWldLdkhibE1MbktyVkphSmtRdUNlSlJrT1lLeDhtM2tvZlVsUjE1VjU3R0MzRzJpaTAya3RfMWZOaURWUXhCNzNtU2RXQXhfMWJhSUVZTzVpeE9hcGZYS2RWSG9sZDlLemxCeXlpYy00d2xwVzJmcFlqRjA4aUoxb1F1MHAwUThBOUxNNlVjZ1F5MTJJMExvT2xOLTFreVFvaWROTU04bW9EdWhpbzhib1NNcWR0R0kteUdrZ0JEMTMxQW1nMDFvUVBaQmNTdHc5NGdUck1JS0o5S3A?oc=5",
-   "date": "2026-11-07T22:23:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0beda88ad796",
-   "title": "Presidenta Keiko Fujimori recibió a la presidenta del Senado de Chile en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVzZ5WmM3WFVXczZod2xhcnVHbnNmTGRrdW1RUTBKWTRhcGJVdV9xQi03WjJpZlRULWFrSUpXT2p6QWlEMGVMLTBlREgxWmhCQ1NZa2lUMUlyZW1IOEhyRjVjdmpNWjBERFV4SGpjWWNHNS0xY3VYZGhLTEdSSEt5Mkg4cURodk1DYkRWRkdxVl81dlo4blpEMmcyTkY2THFmZEY2blN6cDE4cmFHYzkzTERfNmR6cEx4aXE2LXM2NVNLTE0?oc=5",
-   "date": "2026-11-07T21:52:56+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "Chile",
-    "abroad": true
-   },
-   "next": null
-  },
-  {
-   "id": "707573fa93cb",
-   "title": "Presidenta Fujimori recibió a la titular del Senado de Chile en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVlaeGloWFQ4MXM0UGx3dHVuQVNTczBJY0NKMkx0ZlR0bHJfUjVseHlBcnI3aXpLbExzTDUxWi1ZcTRfcU9uMlU3NWN2Qi1BRHRHTjVhdzZQR1ZjeDliZEw5bmdBMnRValhjdnNiT3R3SHJTUWp0ejN4RnNQOUNZZTc2Y3JOc3R1M0pJTF9TUUgwcGY4RTZLVUtyRzJZVmJVWU1TMGRFcTF5M1Bvd0w0Z1RlLWxUOXFwdHc?oc=5",
-   "date": "2026-11-07T21:45:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "Chile",
-    "abroad": true
-   },
-   "next": null
-  },
-  {
-   "id": "eb9f08b5381d",
-   "title": "Perú. ¿Qué dejaron los cien días de gobierno de Keiko Fujimori para las regiones?",
-   "excerpt": "",
-   "source": "Resumen Latinoamericano -",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbnJ0Q3ZzV1dSYnVfVXh6RUxsSnBlWGVEQWFQY3A0SThlNHQydWF2Rlh3MWVOZ2pTX3JKbkVRaG1wYVZSTzhUd3B0VFN5cUQ5VnR4S2MyR3lIVVJRSVZzXzdLZmI1UHRWNzJUVWlXcEtLa04wM2dsVGNWUVkwWEpLaFRoc2szbzJVVTFKYzh3Ull2UlZfUm13OFpCTm5QeFNzSWZoMzNndnRnUktzYzVncTlMQkpjUkphNHh5bGM3TFpCWVM3cGRUSQ?oc=5",
-   "date": "2026-11-07T19:28:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fa784b68da88",
-   "title": "Paulina Núñez acuerda avanzar en convenio parlamentario con Perú y aborda tratado de extradición con Keiko Fujimori",
-   "excerpt": "",
-   "source": "La Tercera",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObGtwRGtaeDJQMGx5WTZ3aFZSbkpMSzNia244T05LeVZuOER3S3Y4NVJpbGtrSmttTDg5dTNJOERMblJVeTFET2FEcTZLQVUwbnNxYlVHN2RxNndIcEpwMEZULUs4WWFiYWEzU1NRbHlXQVVMMUt2RTZiTUYwYjU2UGtkeElMNXE2UFNGM2tPNGVKeXFQSWRtbXdjZ05OTjF1bW9jc2NuWDU1dVFkT0JOb1NYVWRBclJqamxCQ2c0R1FuLUN0aWQtUlF0NV9iYkV6WUZFQnk0V0E2cmV1WnhQVzk4NEs1cEdTMnEycWkxeDLSAZICQVVfeXFMTjItMnF2QW4ybTBqRzRHOUNRcW90MFlvQmt4eXdScnV3YXRMallfSTNmSkl4YnM5UVlOTUt6eWdfUEdmOGcxdU9pelhiX0pRTzI0RzJZYmhWcnZNRi1mTnVLc3JqekdXS0FfZ2pDV1lCX0ZSR1Jpb1JBcDBrOHprM21XNFRGZzAtRkVPYUNWa3dPbjV1MDBYb01ZcWxocm5VT2VEQi0xMU03Ym5KUThKb0tYTHl3ODdkSndoYS1qb05SSU1iVG02NmtOa0FvM05KRWh4bzZUTmo1VHE0cWZRYmlZakRnM09UOFY2ZFc1Vk94aXpGa2ZzMC1QTnRaUVdzdnBpc1FUWmJlbTdVUUtEM2xJZw?oc=5",
-   "date": "2026-11-07T19:24:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c55ecdfeda6d",
-   "title": "Keiko Fujimori expresa respaldo a Pedro Alliana tras asumir la presidencia de Paraguay",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMG5kRVNvOU9PTjltaEZiWHV1QldKM21VY0RnVW1hRzZraFA0WEJPcU41TkJDV3U4a2tMVlZaSXFwYm5pdnBnOThZVWk0Q2dVc05xMFZacEFYRlA2b2JsOEMtRFlwS21melp2T3NLeklQSGc0Rmt1amNsa1JzR3pnRDF1a25SU2NwZzU1WHpzbzZJRFo5NzBaNFV3QXR4Q3lqSFUtejZpaVpoblRNd3dwX05iR3FadEFtTmh5Ql92c2NnU1hDOUFv0gHbAUFVX3lxTE1PU0xjV05vMW8tZmU4WWoyd3JQN0JxWUowUUJxb3ZrbGNJRkxqSVhKMDg2QUlYSFIxaFRiNm9pdGN2cGVCNVZQMFBsVzJFMUlGMU1mYzFaTElMZXF6UGk4ZGNLNDZzNzN5SmtDQmJINXJ5WDg0TlozWkZDMWFrUHF0OEVzR0pSYk9qSXBmamRsU2tmZ0ZhWVFVNHc0WXFlM0pDekk4WmpXQ0ZFbFg1blF1eks0YTg2ZThUVHd6WW1kQkdLZVp4azBrbUwxYWdwdXdxelZDS0VtNXpaYw?oc=5",
-   "date": "2026-11-07T19:20:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fc160185dc36",
-   "title": "Perú. Cien días de Keiko Fujimori: entre la incapacidad y la sombra autoritaria",
-   "excerpt": "",
-   "source": "Resumen Latinoamericano -",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTWJNVTJ1UmNJTDI0bE81c29EUGpJMWp6ZnNBY3k5NTJPRG95eWc5ci1WWmZXaWxEVVBMcU1MZFJZT2t1cXAyMkJlLUs4QUotZjdQbDBfNzNIY0ZvM0V0dEhLSC0yc0tkaFBCdDNfQWRGNVRuRnBnS3ZWOVJpRHJ3cFBxYURSSTRUajJRUTZBZTRYb2p2TGYtb1E1MUZHZklLYXVWUl9YOU10LXJXS1FpQWRJcGFDZzRtc0ZwNjVubHV1V2dNRExJ?oc=5",
-   "date": "2026-11-07T19:18:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32c211726929",
-   "title": "Presidenta Fujimori desea éxito al nuevo mandatario de Paraguay, Pedro Alliana",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRF9yRmI5YUlWYXdST19IUHdhS1ZtdVg5Q3pBdVEzd0tDUnpLUzAxRnBwZHN5SWx3YURYMXNVQVcxdmJTdkcwRWhnSEV5TmRDUS1LYWtEcXFKcWdNbzRHVUpyV2Fjemg1Tjd4WnNqeGVNNTM1cFRlWkc2MUtyWWVoSFpEV2d4akx2UU1oLWcwUnR6M0tfQ0x1XzlQRk5OM0hqSTdRblo3dEVOTG5Mc0l5b3dBaw?oc=5",
-   "date": "2026-11-07T19:03:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b564e3e231a1",
-   "title": "PRESIDENTA KEIKO FUJIMORI MUESTRA AVANCES POSITIVOS EN LUCHA CONTRA EL CRIMEN ORGANIZADO Y MEDIDAS PARA ENFRENTAR A EL NIÑO EN SUS PRIMEROS 100 DÍAS DE GOBIERNO",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWXp6dXJrTUhXWF9mVTFycnMzUXFpWVJ4ZVJpN250aUZ2NG51RUlxRXhJMUxzb1NaQkNqcm9UM1paMFJEdHFfYm9FWGhXYmlDdjBtOVlwanNyZHR6R01tOGNrWkk3ODBuUHhRNEV2SlJCbTlWd0stbjJkNmhPMFFwNkZXdU5IVk5VT2xobmtwVjlkWERtdFJicFJtZHZVbVhlZ25UZUptVXBXTTdDUDVsR1psVUJfVTNhUnJsM1RBRXRISWxXSFVyOGdqVThVY0JpaGlXbUVxcXNVdl93Ul9PcTZXRmtvUHk1cE9kZ1RUV0g1bjRqMzdLQjAyRERGQVRWR28xTFZUZ2ZCdlVTZDYtejF3SQ?oc=5",
-   "date": "2026-11-07T18:18:24+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
@@ -1245,6 +1253,10 @@
    -80.42554
   ],
   "institucion educativa emblematica alfonso ugarte, san isidro, peru": null,
-  "auditorio de promperu, san isidro, peru": null
+  "auditorio de promperu, san isidro, peru": null,
+  "base naval del callao, peru": [
+   -12.03303,
+   -77.13791
+  ]
  }
 }
