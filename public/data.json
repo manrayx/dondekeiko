@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T13:14:06.674363+00:00",
+ "generated_at": "2026-11-09T13:36:02.950977+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "Infobae Perú",
-  "date": "2026-11-09T12:52:22+00:00"
+  "date": "2026-11-09T13:13:37+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -419,6 +419,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5db4ddefb74e",
+   "title": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos",
+   "excerpt": "La presidenta Keiko Fujimori y el ministro de Energía y Minas, Guillermo Shinno, nombraron a Miguel Rodríguez Mackay como embajador extraordinario y plenipotenciario de Perú en Marruecos.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/08/gobierno-de-keiko-fujimori-nombra-a-exministro-de-pedro-castillo-como-embajador-de-peru-en-marruecos-hnews-799768",
+   "date": "2026-11-09T13:17:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "079a8b9b6561",
+   "title": "Estación La Cultura del Metro cerrará este miércoles 11 de noviembre por actividad del papa León XIV",
+   "excerpt": "Inmediatamente después de su llegada al Perú, el sumo pontífice participará de una ceremonia de bienvenida, además de un encuentro con la presidenta Keiko Fujimori en Palacio de Gobierno",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/09/estacion-la-cultura-del-metro-cerrara-este-miercoles-por-actividad-del-papa-leon-xiv/",
+   "date": "2026-11-09T13:13:37+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "50e5cdcb2901",
+   "title": "Keiko Fujimori anuncia inversión de más de S/500 millones para fabricar 1,2 millones de kits escolares",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDFidHlBd29QQlpWR0ZWTndSd1p1Qk1wZndqaGhBSlcydHMzaVB1WFFXTzM4U0t2UW9RTkpCQ0FPQTZlQ0dtWVlUeE1zZjROeUppOE1BSTZCMWxwNGV0M2R4YlZwTm1kZmhBQ0RwTnVzeUJwa3d4b3RfR0tiRzBMbDlBcFIzNFNRdFJWVmNWSkp0T2Fmck1OUE1ubEhiVzFob1hVRE9qWXJiZVdmbG14VDFlczZzRk94QlkyWS1HbnRGSzV2RWMtekVB?oc=5",
+   "date": "2026-11-09T13:00:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9881bd6a2bb8",
    "title": "Estación La Cultura del Metro cerrará este miércoles por actividad del papa León XIV",
    "excerpt": "Inmediatamente después de su llegada al Perú, el sumo pontífice participará de una ceremonia de bienvenida, además de un encuentro con la presidenta Keiko Fujimori en Palacio de Gobierno",
@@ -640,17 +679,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/internacional/miguel-angel-rodriguez-mackay-excanciller-de-pedro-castillo-es-nombrado-embajador-del-peru-en-marruecos-ultimas-noticia/",
    "date": "2026-11-08T16:23:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5db4ddefb74e",
-   "title": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos",
-   "excerpt": "La presidenta Keiko Fujimori y el ministro de Energía y Minas, Guillermo Shinno, nombraron a Miguel Rodríguez Mackay como embajador extraordinario y plenipotenciario de Perú en Marruecos.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/08/gobierno-de-keiko-fujimori-nombra-a-exministro-de-pedro-castillo-como-embajador-de-peru-en-marruecos-hnews-799768",
-   "date": "2026-11-08T16:09:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1082,28 +1110,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYldXQWgwT1RCdlZ1SzRxbVdPWjhYRVhBOHgwdVoyamNicGg4Y3AzenZRTG9vdzZ5WEpCdDd0dC02Q2tjNWlfczFpcFMwTVdSRnpMWC1ibHQ5VlRObVpxVEZaRDJWSTlQbE5pLVFLclBhS3ZpaVZjZEQ1X19EOWYwSzFhU3JGNktBQkZXdmt4Y2NxWUczUkVyNTY0YU5LNEk1NkE4NDkyV3dEZzZvLUpnUUIxMjd4VzBJdjdnWmRQMERuUEl6dmxYVEVOTFdzMXNFREYwVEZORFdoa0dTVnhOMTNTV1NSdzZKUlHSAf4BQVVfeXFMTXdWaUo0YjlxZU9jaWhmcTAtOFRxV2Q4V01NM1M5OU0yLTk4dko2VmR2d3RKbC1ob2hjQkFxYlpyNjJYRkE4TjNxUG1RLTRxQ0pGTGtfdDIzWHhuT3ppSHVsUXlLODZrUnlaeHh1aTQ5bEd6LTZJbk85ZG8zZUJFM3lOMmNLMmU0NGFFVlNsdmQybk9BSXduOUZCaHVDbjVnclNIeHFYSHNTZ2NtNjNnSVhqMm95Rk9TVVNpUlEzT2ZrWHY1dkFXZFhWM2tYRjFvb0dHY0E4ZHk2SE8zakJUR1ZjOHIxNmYwTnFxRXc1ZVo3R2xsN0MtMHVndkt5dVE?oc=5",
    "date": "2026-11-07T16:32:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7bacb9f9a06e",
-   "title": "Un libro al mes y una hora diaria de lectura: las medidas que se aplicarán en los colegios según las nuevas reglas de disciplina escolar del Gobierno de Keiko Fujimori",
-   "excerpt": "El ministro de Educación, José Antonio Chang, detalló los alcances del nuevo reglamento que contempla sanciones por faltas leves, graves y muy graves, restricciones al uso de celulares y el…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/07/un-libro-al-mes-y-una-hora-diaria-de-lectura-las-medidas-que-se-aplicaran-en-los-colegios-segun-las-nuevas-reglas-de-disciplina-escolar/",
-   "date": "2026-11-07T16:26:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e28b975b4b2c",
-   "title": "Nuevas reglas de disciplina escolar en Perú: volverán las notas de cero a 20, sanciones y regulación de celulares, según decreto firmado por Keiko Fujimori",
-   "excerpt": "La presidenta anunció nuevas reglas sobre disciplina, uso de celulares y sanciones en los colegios, además de un plan lector, construcción de escuelas e Internet satelital",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQajFsVUdRSHQxNlZFMkd1OXN5czJYVHdxeHdzOUk3ZmtRakZTbHUwSUNmSVVucWxQS0FLcFZIUDFGOE51RXhqRHgyMl9CNE5KN3F4VVBQRmpHWVI5Nk01QjRTb1Vab0VDWXN4dmppaTAyd1hiLUpvemtLdWVraUtVQ1NVRmxfTk5KakNZaE1ZR1lzTDJtdmdKdlZ3ZkE0Wlc5VTZYNlJ3bUlSS3U1cUdiNW1lSUNQVlF5V3dNTWlwaUoyUmFnYkNvWlY4X2pUcGtiMmdjN2VhYWNtdW9JZy1zenR2cmhfb1FPbUZBZWwwNGJMNmljazNFSnU1V3RWVHplRkxzN2hON3d2bEh5bGNsaE40RVRFeFQ4UThIQnF30gG4AkFVX3lxTFBaSWk0aGdUbDV2amJScF94aWQ0Rkx5SW9oTlYtcHNLbmxPMjlDN0VwTXVCSDdNclF1VFAwRkdRRG1jWXphNjFiTWR6UlVEYlN3TzJfcHdoblBlMGNNbERIYUhJNGgwNWFyajkxc0JvZ0xJaUFWOGVfeUhsN3VSVEFxR29WYjdCS2VSdHNsendVNW9CQy1pbDdxcnY2T1Y5blh2VVdQdEVaSVNIWFpCNDdhNlR1VmFybWZsSFZsWllTcVg1SUdocmJvY2RGUk4zOVNnOElRWVNWZm1BYUpZRVI1OTlzbzJ3RTFET21CUWpLc2tmalE5NEpHMlNoNHY3THFRSXJGUi1TNzBUa1Q5RWs3Y1FsdzhmaWIzbEpRbkZFWm9VNW5DZXRFdUlmaTNxSEpNU3gxOTBKag?oc=5",
-   "date": "2026-11-07T16:06:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
