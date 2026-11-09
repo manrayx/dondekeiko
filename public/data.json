@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T00:18:47.927644+00:00",
+ "generated_at": "2026-11-09T00:40:39.145826+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 1,
   "triste": 0,
-  "posando": 59
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0b93e582ff64",
+   "title": "Keiko Fujimori retoma transmisiones en vivo y promete inversión de más de S/500 millones en compras de kits escolares a mypes",
+   "excerpt": "La presidenta señaló que la iniciativa contempla la confección de más de 1,2 millones de artículos escolares y prendas deportivas, mediante la participación de pequeños empresarios en su producción",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-retoma-transmisiones-en-vivo-y-promete-inversion-de-mas-de-s500-millones-en-compras-de-kits-escolares-a-mypes/",
+   "date": "2026-11-09T00:35:26+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e8d829565456",
    "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
    "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
@@ -491,6 +502,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/08/gobierno-de-keiko-fujimori-nombra-a-exministro-de-pedro-castillo-como-embajador-de-peru-en-marruecos-hnews-799768",
    "date": "2026-11-08T16:09:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -960,17 +982,6 @@
    "next": null
   },
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-07T11:35:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d246d9aee166",
    "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
    "excerpt": "",
@@ -1093,17 +1104,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWZaeEQyMDZyb1RHQzJiQ0k4TWswNnk3VmM3a0ZTTVZ4eXdkaTc5clRpNzJPcDVOanlWZzhwUVBCeHJFay03ZUlCTjc5LThOVl9hU3NJcEZhQ0VVNjV5X2tuZF9SazBHeWZPblJvMFFtY0hESy1SVGhkdFFDdXlTcjhBWkRrY0VMc2hBdnhCMnAxeXFET1FMNW1mWG5wR3ozc25rRGdack1kUk9ZdEZIc2Y5a3h2TFNtcm5jcWVOM01JSzZRaUVTWmJR?oc=5",
    "date": "2026-11-06T22:18:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "83c37fab282b",
-   "title": "Dengue en Perú: Keiko Fujimori pide a padres vacunar a sus hijos ante temporada de lluvias",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUFBYNlRqUFhLNUFfd3dnbnZRbTFtWnh0a056RU9zbkpDNE5FVmNPSUhIZ0Y0LWJTMU00MS0tNXdMLWI2YU1VMzRLRElGR2dWTHI0YmFfU1B5RGNNbXYwVEtNT2drSGlDSVZSQlZJRkpESThtUW05QUh2Z0o5RGEzMUdDTVNiYlc4R1RqUUZwcDZhQTFlSnBmWXlmOVBBMDR0bWxqQ0F1bW8yZEtlRnJpb3d3dWw0bThway14emhYOTlJU2JrQkV4UWhYOGlIekdnYndQLTRUSE94ZWxwR1BvaTdSV3dacmM?oc=5",
-   "date": "2026-11-06T21:54:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
