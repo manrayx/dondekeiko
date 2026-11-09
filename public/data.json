@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T12:31:19.319421+00:00",
+ "generated_at": "2026-11-09T12:52:57.662278+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "159fcafd1347",
+   "title": "Juan Sheput califica los 100 días de Keiko Fujimori como “los mejores de este siglo”",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV21aYzhIem1YSHlPNVdQWnZsc1JYQ01jamVGWE52NUkwWEM3eko1UGNmdU13M01QZUtYT3JTOEpHTHM5WlhzWF9weHBoUXlmRUlNSEUyV2Rna0F1TFVud1d0LUY1SEVKUXJQQlNQdjBLWmFSUmpaMGoxcWtmMG1WYzJiQkxuVnVGaW5fbWMzeXE0ZmZJVGR5T2NrMG9aWTZvT3dzSEpNWWRVQWlabC13?oc=5",
+   "date": "2026-11-09T12:37:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "716122fe91df",
+   "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
+   "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
+   "date": "2026-11-09T12:30:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9d5552817003",
+   "title": "Keiko, los próximos 100 días, una crónica de Fernando Vivas sobre la presidenta Fujimori",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
+   "date": "2026-11-09T12:30:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4a1d14fb47b7",
    "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
    "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
@@ -463,6 +496,28 @@
    "next": null
   },
   {
+   "id": "dfd2b47b9bf0",
+   "title": "Encuesta de CIT: Keiko Fujimori registra 32% de...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1EzeFhEajNJbnJRR0VaQlFBN3ZUYUJQbEZ5UWN0MWRsaGNZQnNaNjl1NlZZc1ROR2Y4REhIOW1id053MGh0ZlhiNloyNW01ejNFaEY2ajJHbHB3TDZsUE5XMktzT3JrWUtiVS0zdWVKdVh6SGtlZGxxNDNvM2dPU242ejZjUEx2RERtU1Vkb09YU0JTSkItNWw0aUFIdkdlMXV6clJBWHF3dmF3Qzk5YjFtZ3hTQjNTd3MxOTNiWWd2ZFRf0gHKAUFVX3lxTE1lOUM3dGJkSWxZN21lMHpYQmJDSm9rTWVnMVJyOU9mbEdSczBrZzJNR1dhSVJ4XzlYZnppRDVRS0hRaGlwa3NIckpaVmJ6MER1N1dWOUZVTlpSOUw2YVJLcUQ5T1ZoTGZqaVBmS3EtcWxEYmZwMjdnYUxMa1pITG13WlcwQ0ZJRThsUHZXTDQ2UGY4M2YxVmx6djB6NmdXX29td2l5U1ZYRmd5M1VqS2c2TXc3RU5IUUZSU3otbmJkYUpyWDlWdW9SRUE?oc=5",
+   "date": "2026-11-09T03:32:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e044ca133955",
+   "title": "Keiko Fujimori asegura que su gobierno rendirá cuentas: \"Estamos yendo en el camino correcto\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaG5YRzhsSWFWc0xCTlgtdHFSb1c5OWtoVkd5QTNxSkdFSGk0MTF1ZlJrbDJ1MXlmdUkwYU9tNDBQNldhQldVNUFEeWdrQXBHRnR4cmtNNW1WZWtEbzE3b2J3U1dmbmRnNjlWZUFRZlNuVDBYREZkUzZ2VkJBQl9kaklTcjZlUUhtaC16WGJRcVNFanc5V2VKNkJKemxlZ1dYNzRoZUtJNVEzT2JuRlNIa081SWd3X1RiZWZyanJhSFR1Z21ZTmlZ?oc=5",
+   "date": "2026-11-09T03:05:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e3401355de4f",
    "title": "Keiko Fujimori dice que «las cifras muestran que estamos yendo en el camino indicado»",
    "excerpt": "",
@@ -491,17 +546,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/gobierno-designa-a-miguel-rodriguez-mackay-como-embajador-del-peru-en-marruecos-noticia/",
    "date": "2026-11-09T02:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e044ca133955",
-   "title": "Keiko Fujimori asegura que su gobierno rendirá cuentas: \"Estamos yendo en el camino correcto\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaG5YRzhsSWFWc0xCTlgtdHFSb1c5OWtoVkd5QTNxSkdFSGk0MTF1ZlJrbDJ1MXlmdUkwYU9tNDBQNldhQldVNUFEeWdrQXBHRnR4cmtNNW1WZWtEbzE3b2J3U1dmbmRnNjlWZUFRZlNuVDBYREZkUzZ2VkJBQl9kaklTcjZlUUhtaC16WGJRcVNFanc5V2VKNkJKemxlZ1dYNzRoZUtJNVEzT2JuRlNIa081SWd3X1RiZWZyanJhSFR1Z21ZTmlZ?oc=5",
-   "date": "2026-11-09T01:47:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -551,34 +595,12 @@
    "next": null
   },
   {
-   "id": "9d5552817003",
-   "title": "Keiko, los próximos 100 días, una crónica de Fernando Vivas sobre la presidenta Fujimori",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
-   "date": "2026-11-08T21:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "8f9e4159f0ee",
    "title": "Keiko Fujimori desea éxitos a Pedro Alliana como nuevo presidente de Paraguay",
    "excerpt": "",
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1Y1WTNTY2VrM19TRDI1MjZrZ0g5RU1pYWlKQkx0aEM1OGN2eXlIU1VPOUpWZUpGYW5ycmw1d0Q0eG83NFFRZTVyTTJJVXBkbHM0TUhlUnp4NGp3WnVNTEQyenFlTnZ1V3hGZzlraTdDTjZScHpkSHVpSUF5ZDJfUzhZNmlGbTZydnJxVGJWZ29NaC1pal8tNmlQV1plOTJvUlZmVlU5TmRiSkYzMW1qREJUME1jdjFtTkRv0gHPAUFVX3lxTE5NZlViWnU5ZnRWWExPRnRVVllITjFNTnM0a0syM2dvNmo4bkxNV0FhRXl4VDFIbTNwS2hCR1UzSHZGOE1vVWswYzBHY1VZWmdnOHEtVm10VFRqYl9PMWRibmM1OWdzTmhNczBFcjluR1hkWEg0S19sb0hPWUNzenRTZ2Y4azJ2d1I2RXJvdlJUQmNFYy1nYVZOaXJWMGcxblFtRnJYZ2o3WlM2V1ZOUkh1OEFZbmJ2T2hneHBqOHRIRGYwb1prdXI3ckRYVTkxOA?oc=5",
    "date": "2026-11-08T21:26:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "716122fe91df",
-   "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
-   "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
-   "date": "2026-11-08T20:45:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -938,6 +960,17 @@
    "next": null
   },
   {
+   "id": "bb0497441c11",
+   "title": "Presidenta Fujimori saluda a Pedro Alliana tras asumir la Presidencia de Paraguay",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1Q5VzYwYXpqamZEOGZFQkVhdjJyMTE3cEhxWmVfeTZBYno3bVJBM0dlMjA4UktPT25uSlh5Y3AzSDFYNk1vaUF5dGhaTXhTRHZvSEVnaUd6Q21uQTU0WGxCYUp6OFUySklEZ1AyZDZBNk1XalBtaS1WOTJyR0V1MjFSVG1aVE54TlB6QnFKNTBIdHRQM2NLbnBUeXBJQVFvVmRVbE9vaW9wX1g0Z21mZTVlR1hqekJEMEt1RERRSWNaeDA?oc=5",
+   "date": "2026-11-07T18:01:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9cf6295d82c3",
    "title": "Keiko Fujimori saluda a Pedro Alliana como nuevo presidente de Paraguay tras destitución de Santiago Peña",
    "excerpt": "La presidenta de la República, Keiko Fujimori, envió un mensaje de saludo a Pedro Alliana por su asunción al cargo de presidente de Paraguay. La dirigente de Fuerza Popular difundió…",
@@ -1065,39 +1098,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNnNaUFNqOExoT1U1VVZkcV91SjI0d3ljc1dfa0pmTjVrUVFoSzB4MDVHWTVUQVdISXdRSXd0YlFCbWQzeEQ3aDZPVTdnaFB3dTNwRlp2eS1yVmVOazVpcWViOWRPTXVWbkFzMXpLTmJfdzFnVzlxVE5ZNUdoNVhYSkhZTGlEVnZYelpVM2xKUXFQVjVzNkRaYlNsQ0RPbUVWY09VdmZLVHBtV21HWVlJczZsSGl0Qjl5bkNKZjVZTXdveTdwUUVXUEVMbW9kTlNUZGdoNDBHSDdCQ2c?oc=5",
    "date": "2026-11-07T15:55:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b0ec132de77a",
-   "title": "Keiko Fujimori firma nuevas reglas de disciplina escolar: ¿Qué faltas pueden provocar la expulsión de un alumno?",
-   "excerpt": "El uso de celulares y otros dispositivos tecnológicos para actividades ajenas al aprendizaje, sin autorización, será considerado una falta grave",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVXl0aWlHczd4cE0ycTljb3NCNnJ6cUJDWHBRZkptTndjeUQ2aHpaaUY5bVFobkNvbGl5SXE1LXRkaDREUnk3cWJRdTVWLU5hSUZFbkxJWlZkWS1Vd21QV0xQYVJULWRZeG8zVENlTXRJSDJZN1dsMzBZaS1MdllhLVBvQWFYeDJ0ei1XZjhzNnFnLWdIcGR1NmFDdUNreFlTMlFTQjVLQ1B6VVJkNlFMbG14VlVMYy12S1pDZkNHX0xBXzVkeUxQdVBTTWZRRzlTZGdKTkpqekVDc0xsdGFmVzdoLXDSAf8BQVVfeXFMTzhORWFxZF9mXzlHTUJVV05zakt3bzgxM29TaXNJZUZ2RDN1Yjg2WkZ5ZGx1b1MyanZmVTF3azhET3Vod3laSG1EVXpkS3hEYTBvN3Z4bmNNVGUxbUpZVzB1bi1YbmNjU0xpQVh0Y05ONkdkWEx2NjlyaTZ3SnRaVUlHcFk3eHhBcFl5dFhZdExjWWg0TzFBajJ3YWNNUUpYOFlXZUI1blZOX3VjTWt1UGhwYU1ZSnBaY3hOWU04V2otbGlELW9wS055UGdHWXBOTXNZdDhlckNreDdtV3lMOVQwTWhXa3JGYWxKZmlsSTMyNmFQMmtQdVBPZVNaNDdR?oc=5",
-   "date": "2026-11-07T15:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "53bae998d1e1",
-   "title": "Keiko Fujimori oficializa nuevas reglas para los colegios: vuelve la nota de 0 a 20 y restringen celulares",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUU04N2EyQTNUSTNlYk5qQXJzRGJIb3ZQWWRSMjQ1MWZ0bDlodXlodmMwQ0pWYjZDc3duT3BSRjhfXzJHYnJTSkVVcjNyMFRWNTR5UkNjVmhaS1l1eGRVUjZpTmZHNVl1Qi1ydjlmbEpfZVhYS2tmZk80QjZFM3Z3Mld6YXBZOVZsR052MjJQVnBWSmRuaS1VWHI4dkhsck01Vm5GSTNOcHpRblA3V0dQdHNzM0UzMHZmdVZkXzgxRTdHNC1RQWQyU0tvNEoxNy04OG9KeFVKZlQwd3c4YTNIb9IB9AFBVV95cUxNajRXeUxTZTR0bkh3N0U5cFI2VDJrTkdlQm5oeDhfR1cydWNpY0VHTG1hOXFTY3N5OE1RM1lIT3hZMjJmelAtQS1nVmV4TGtSQ2JBRUtEUVpsenhROEI4RGh0ZVM4UDJWX0F5YmRUejcxLVFaZzc2YVZ0WkRfYUs4UENjWFZtdFAtZTZ3MGZER0EydE9QeDFseWplUzBTa095OWJSS2xsTlJRd3ZlRF9ScjloVFFRN1RyUmJDR2FlVEkyRVNLY0djNENHbVpKVFZMQk1hS192Y1NaYkJ5VDlrQVVUbUNaeWxEa3JuNG1WVWtrTGJL?oc=5",
-   "date": "2026-11-07T15:36:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0905b116cd33",
-   "title": "Keiko Fujimori promulga decreto supremo con nuevas reglas de disciplina escolar en colegios del Perú",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlpzVEFBR0V6N0w3VUZwTDBhRVhWbVlWV1JsTTY3Ym80Rld3UnNrcnhNY19FOWdteHZNbURRVTNrNktQd3dOMzlGT3lUV0UzQ24wVXVPMzBWYXRRLW4wc2trVWUzOGJaRGJOd2ttcm1tbzZzTGtYMllIR1Z4QWVFSHhyUjhMRGtJQ3M5SVZiWWVabnZsQjRoMVlnUU1zdVY2Y1J6YmVsRGZoeWRRYWs2NkdEUGdYa1BLa0QybGkwTUs?oc=5",
-   "date": "2026-11-07T15:29:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
