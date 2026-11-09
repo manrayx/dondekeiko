@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T22:27:13.879265+00:00",
+ "generated_at": "2026-11-09T22:48:25.192829+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -451,6 +451,28 @@
  "agenda_minutes_7d": 554,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "cbe9cd2c0065",
+   "title": "Keiko Fujimori moviliza buque y más de 230 marinos a Piura por El Niño: “Lo vamos a enfrentar por tierra, mar y cielo”",
+   "excerpt": "El operativo contempla atención médica, rescates en zonas inundadas y asistencia a las familias que podrían resultar afectadas por las lluvias",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-moviliza-buque-y-mas-de-230-marinos-a-piura-por-el-nino-lo-vamos-a-enfrentar-por-tierra-mar-y-cielo/",
+   "date": "2026-11-09T22:44:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ade8548d4cd1",
+   "title": "Keiko Fujimori pide autorización al Senado para viajar a China y Japón: ¿cuál es el motivo de su visita?",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWHZaQjFQYVBCbG5aRzVoY05ySXcwM0tsM0dmQlQwNHRxeXg2a2d3ZU1ZSG5kd3BPQ1NTWjRIM0NKUEkxX0o0TTRVdFNrbEZMZl9OcFFEOHZwRWY5WDNhTkJhN19BdkhrdVE1aUJtNC1NZkV2OHpCY2h6RkZ5d0tEV1NucW1BeXZ3SnQwWllsd2NRU245NnJyemxGcUdCVEZKdnNLYU9paVR5c0FsZlNUS3JPWGhIYkxycFlRWXF0TFY5SXlzVGRQNGxldGZCS08tVHRMYTd2ckhROFlBSXBhaWVwUG1TSWxLY0pRT3UyQVFJNUU?oc=5",
+   "date": "2026-11-09T22:42:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "9227dbc99ca3",
    "title": "Perú suscribirá TLC con Tailandia en los próximos días, dice Keiko Fujimori",
@@ -1053,6 +1075,17 @@
    "next": null
   },
   {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "73aa92ca45c3",
    "title": "Senadora Paulina Núñez junto a Keiko Fujimori abordan tratado de extradición y seguridad fronteriza",
    "excerpt": "",
@@ -1092,39 +1125,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM1FBUWM4eDA2ZjdBRE1ZNU1mU1RIbG90ZS1haDN4Mk1qN1l3MklmME1EOU1RUUNJdkNCYkhrbEtxdHRvRy1ldElvcFNjbU4yRXNEZkhIUllDbTk4QXFSelljTlJBRFhDV1ZNMFUwV0JOTFdVWG9sdlNidWR5bWsxNXlSVmluelhXN1JTbVlQUllhZHhucVdiN3lnUWpmZWxDa2tMSHFvdTFsdEVsWjZJMmxTbDhOUTdqNXc?oc=5",
    "date": "2026-11-08T08:10:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-08T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ae2b383f01bf",
-   "title": "Presidenta Keiko Fujimori presentó comisión de gestión de riesgos del Fenómeno de El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMUlWa2QwcWVpQV9sZ1hVT2U5WmY4T1JCZy1mQmFycXY5dUg1UGxYMUlEV1IxWjVLSE4tMG1objV0aGVhUE9mcy14VmRwbmJJbVNybUlHUGF6Tzloc0hmcm9rQlNudWxrQUpKazN4NTdoMkxDb0MwVjBNOWpOUmlqZDhSSGVFUU1nWXd6ZVZkYkg5UkxKN2oyb3JOdWRzMHExdjMwV2RscjBUbFFoVFFmWXNoVThNSmhlYWJ0SVlCOU5zX2YxLVE?oc=5",
-   "date": "2026-11-08T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1a8b71cc72aa",
-   "title": "Audio de operador Cerimedo confirma relación con campaña de Keiko Fujimori",
-   "excerpt": "En contacto. La prensa boliviana difundió una grabación en la que el operador argentino revela al presidente Rodrigo Paz que vendió un sistema paralelo de conteo de votos y que…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/07/audio-de-operador-fernando-cerimedo-confirma-relacion-con-campana-de-keiko-fujimori-rodrigo-paz-hnews-180950",
-   "date": "2026-11-08T03:35:48+00:00",
    "state": "posando",
    "place": null,
    "next": null
