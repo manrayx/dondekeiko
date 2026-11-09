@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T01:44:55.024437+00:00",
+ "generated_at": "2026-11-09T02:06:32.727229+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "32434c0181f7",
+   "title": "Gobierno designa a Miguel Rodríguez Mackay como embajador del Perú en Marruecos",
+   "excerpt": "El Gobierno de Keiko Fujimori designó al internacionalista Miguel Ángel Rodríguez Mackay como nuevo embajador del Perú en el Reino de Marruecos.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/gobierno-designa-a-miguel-rodriguez-mackay-como-embajador-del-peru-en-marruecos-noticia/",
+   "date": "2026-11-09T02:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "cc1dad72f23b",
    "title": "Keiko Fujimori a tres días de la llegada del papa León XIV: “Perú está muy ilusionado de este regalo maravilloso”",
    "excerpt": "La mandataria destacó el entusiasmo de los fieles peruanos ante el regreso del pontífice, quien ejerció como obispo de Chiclayo antes de su elección",
@@ -469,17 +480,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
    "date": "2026-11-08T22:35:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32434c0181f7",
-   "title": "Gobierno designa a Miguel Rodríguez Mackay como embajador del Perú en Marruecos",
-   "excerpt": "El Gobierno de Keiko Fujimori designó al internacionalista Miguel Ángel Rodríguez Mackay como nuevo embajador del Perú en el Reino de Marruecos.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/gobierno-designa-a-miguel-rodriguez-mackay-como-embajador-del-peru-en-marruecos-noticia/",
-   "date": "2026-11-08T22:10:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
