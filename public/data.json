@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T00:40:39.145826+00:00",
+ "generated_at": "2026-11-09T01:02:24.801705+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,13 +419,35 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "cc1dad72f23b",
+   "title": "Keiko Fujimori a tres días de la llegada del papa León XIV: “Perú está muy ilusionado de este regalo maravilloso”",
+   "excerpt": "La mandataria destacó el entusiasmo de los fieles peruanos ante el regreso del pontífice, quien ejerció como obispo de Chiclayo antes de su elección",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-a-tres-dias-de-la-llegada-del-papa-leon-xiv-peru-esta-muy-ilusionado-de-este-regalo-maravilloso/",
+   "date": "2026-11-09T00:57:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0b93e582ff64",
    "title": "Keiko Fujimori retoma transmisiones en vivo y promete inversión de más de S/500 millones en compras de kits escolares a mypes",
    "excerpt": "La presidenta señaló que la iniciativa contempla la confección de más de 1,2 millones de artículos escolares y prendas deportivas, mediante la participación de pequeños empresarios en su producción",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-retoma-transmisiones-en-vivo-y-promete-inversion-de-mas-de-s500-millones-en-compras-de-kits-escolares-a-mypes/",
-   "date": "2026-11-09T00:35:26+00:00",
+   "date": "2026-11-09T00:42:38+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "251bb804c9ea",
+   "title": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”",
+   "excerpt": "La presidenta Keiko Fujimori aseguró que las cifras en materia de seguridad ciudadana muestran que su gestión -que ya cumplió 100 días- está yendo “en el camino indicado” y para…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-las-cifras-muestran-que-estamos-yendo-en-el-camino-indicado-seguridad-ciudadana-ultimas-noticia/",
+   "date": "2026-11-09T00:40:23+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -502,17 +524,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/08/gobierno-de-keiko-fujimori-nombra-a-exministro-de-pedro-castillo-como-embajador-de-peru-en-marruecos-hnews-799768",
    "date": "2026-11-08T16:09:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-08T12:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -982,6 +993,17 @@
    "next": null
   },
   {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-07T11:35:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d246d9aee166",
    "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
    "excerpt": "",
@@ -1082,28 +1104,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-tras-sus-primeros-100-dias-me-hubiese-gustado-obtener-mas-facultades-del-congreso-noticia/",
    "date": "2026-11-06T22:52:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "757fb70b6157",
-   "title": "Keiko Fujimori tras sus primeros 100 días: “Me hubiese gustado obtener más facultades” del Congreso | PERU",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRXpWenA0eTRTZWpoR1FMZkxCN2FNQ2lOVGlDTEFDSGZQX0RuVjQ3TXVlZ3JFNjlEclZLTk1xQlhQR3ZUVkZaVC1yYUNVR2lUVFBleUFUWUhFQUR4cHlITWJUODYxUC1QQkxjMUN5UWoxaWltbElLWFg5N21aWW85dFY3YXRka1hkSC1CYzdfZ01HU3FacE56RjNnZDdXVDFVOW5iaFlTUUlpUWhxQmNtNGpLR3RzUFpiUEMtLUR6MnZaczdtVm5PVw?oc=5",
-   "date": "2026-11-06T22:52:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8808a5b375ce",
-   "title": "Presidenta Keiko Fujimori invoca a padres de familia vacunar a sus hijos contra el dengue",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWZaeEQyMDZyb1RHQzJiQ0k4TWswNnk3VmM3a0ZTTVZ4eXdkaTc5clRpNzJPcDVOanlWZzhwUVBCeHJFay03ZUlCTjc5LThOVl9hU3NJcEZhQ0VVNjV5X2tuZF9SazBHeWZPblJvMFFtY0hESy1SVGhkdFFDdXlTcjhBWkRrY0VMc2hBdnhCMnAxeXFET1FMNW1mWG5wR3ozc25rRGdack1kUk9ZdEZIc2Y5a3h2TFNtcm5jcWVOM01JSzZRaUVTWmJR?oc=5",
-   "date": "2026-11-06T22:18:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
