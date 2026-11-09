@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T12:09:52.639886+00:00",
+ "generated_at": "2026-11-09T12:31:19.319421+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,23 +419,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4a1d14fb47b7",
+   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
+   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
+   "date": "2026-11-09T12:26:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "251bb804c9ea",
    "title": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”",
    "excerpt": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”. La presidenta ratificó que uno de los principales legados de su gestión será mejorar la educación del país.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-las-cifras-muestran-que-estamos-yendo-en-el-camino-indicado-noticia/",
    "date": "2026-11-09T12:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4a1d14fb47b7",
-   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
-   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
-   "date": "2026-11-09T11:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -562,6 +562,17 @@
    "next": null
   },
   {
+   "id": "8f9e4159f0ee",
+   "title": "Keiko Fujimori desea éxitos a Pedro Alliana como nuevo presidente de Paraguay",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1Y1WTNTY2VrM19TRDI1MjZrZ0g5RU1pYWlKQkx0aEM1OGN2eXlIU1VPOUpWZUpGYW5ycmw1d0Q0eG83NFFRZTVyTTJJVXBkbHM0TUhlUnp4NGp3WnVNTEQyenFlTnZ1V3hGZzlraTdDTjZScHpkSHVpSUF5ZDJfUzhZNmlGbTZydnJxVGJWZ29NaC1pal8tNmlQV1plOTJvUlZmVlU5TmRiSkYzMW1qREJUME1jdjFtTkRv0gHPAUFVX3lxTE5NZlViWnU5ZnRWWExPRnRVVllITjFNTnM0a0syM2dvNmo4bkxNV0FhRXl4VDFIbTNwS2hCR1UzSHZGOE1vVWswYzBHY1VZWmdnOHEtVm10VFRqYl9PMWRibmM1OWdzTmhNczBFcjluR1hkWEg0S19sb0hPWUNzenRTZ2Y4azJ2d1I2RXJvdlJUQmNFYy1nYVZOaXJWMGcxblFtRnJYZ2o3WlM2V1ZOUkh1OEFZbmJ2T2hneHBqOHRIRGYwb1prdXI3ckRYVTkxOA?oc=5",
+   "date": "2026-11-08T21:26:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "716122fe91df",
    "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
    "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
@@ -612,6 +623,17 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM01ZR1JpVVJpNXd0Q3VDRnVHT1R1QmJnS1NQR1dHSnlZeF9XSGx0cFBTUXUzLXJsbTF0V1NJNkJGTnBkX3FTSUNRY0MyYk9BczIxNUxTNEEyTm0tamlDZXJaTkNpSnhYVGpPUHBZYnk0akZpRXhIWFlJd1gwek5pdjFqSTRJNkIxVHB0RlNOQ3RpSnZ4Z3FqSWJpMmFoY1ZnaTBLSk9WMFZMcnlPaVVFXzlkcG9pQUNma0NV?oc=5",
    "date": "2026-11-08T14:13:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1076,28 +1098,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlpzVEFBR0V6N0w3VUZwTDBhRVhWbVlWV1JsTTY3Ym80Rld3UnNrcnhNY19FOWdteHZNbURRVTNrNktQd3dOMzlGT3lUV0UzQ24wVXVPMzBWYXRRLW4wc2trVWUzOGJaRGJOd2ttcm1tbzZzTGtYMllIR1Z4QWVFSHhyUjhMRGtJQ3M5SVZiWWVabnZsQjRoMVlnUU1zdVY2Y1J6YmVsRGZoeWRRYWs2NkdEUGdYa1BLa0QybGkwTUs?oc=5",
    "date": "2026-11-07T15:29:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "aa9b86243af0",
-   "title": "Presidenta Keiko Fujimori suscribe Decreto Supremo que aprueba las nuevas reglas de disciplina escolar",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcFVYc0puWUc2RTNRS3pYMGp0NkluNHoxdUQ0ZnQxVFRCcjRCWTQxMGhXZmNES1oxUUJEcHNuZWhNM0t5N21ZRkUwNU96ZU5qUGs1X1BQQ3EzaXQ5M3JPZFdfUlBoSzZ5b2c2X2pYNHcxck9OQ2x5a3F4aTVUWDhIdVFGcmFhYTBra09td0tnY3dDby1rMHdaNFp0cTk3VE1lV0JraFdaVUt3NE1JbUNwRVJtMzZxR2V0Sms5UC1QUi00ZW8waTFvUUc3R1QzcTNJNHI1alZRTQ?oc=5",
-   "date": "2026-11-07T15:02:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9bd241ebb46c",
-   "title": "Presidenta Keiko Fujimori: es fundamental que el orden regrese a las aulas",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1BNGNWbW9DYmNYN2NWMUlzbld1LTN4U0pmbVR2UUFielNRa1k1VFAwNXFNYlN3S2REWVdEQnB6RjN3cjdvYlVjdUNfU0dEd2Q1aW1uR1ZtcHVMWnIxTVg4VndJdFdRcU1MSV9hVzBESnlZNmRkNkFfNE0zM2ludlFmVTlFV1A4RXlVVGlHYm9QcF9USk5NUEJORl9wMFJmSzY1ZXVzNmlndVFXV0FBeDlESFZtUUVJTkdsX1BwTFk?oc=5",
-   "date": "2026-11-07T14:51:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
