@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T16:07:08.031621+00:00",
+ "generated_at": "2026-11-09T16:50:16.405335+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -436,6 +436,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "67817d4e1585",
+   "title": "Keiko Fujimori destaca cifras históricas en exportación nacional",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVjl0T2FoNi1obkVTX1JpTUxURVowdmplNE5fcmtubjNKV19ESjV5WFFmSXFxQ0RjRmtZazlnZlNuX2k0aWc4ejdsSDE4RkYxSElyMERqMFBTSThvS2QyeGFRbXA3VXBuNFp6UUpCWnFmTDBrRVRlWTFxZ01CMjk0Q0F2eEdkQUN2QmNMZks0S2JING1Lc2h0V3huemNZSnhuS3VianhzWmw3bzE0cURMSzRpSFZseTFzR05UQlZ5UEowMU0yRHNNSzRFT2R5bjdkU2c?oc=5",
+   "date": "2026-11-09T16:04:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4a1d14fb47b7",
    "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
    "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
@@ -591,23 +602,23 @@
    "next": null
   },
   {
+   "id": "7967f8c8fb02",
+   "title": "Presidenta Keiko Fujimori participará en ceremonia por el Día del Exportador",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS12X2tEa2hnQnJRZGJTNHlKb1pWSUptLUkxbWNmNUl2Nnh6aUptQWtXRTk1Zk83SEhxV18wdE1lY0g0TVZ3SjlJQWRiOVptZlZzazRBRmJnVGNwN09VbXJvZ25IZktEVkpRUXFVMTl4RjY0T0RSV2RqSW1WdzkwYktfQXI5cVVJUDNmcmw1UE5Sdkh6ZU9KSmlzQnhPWW5aQWdxQmxuUkFLeUMyR3UxdUpFN2JxcHI2?oc=5",
+   "date": "2026-11-09T11:04:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-09T06:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7967f8c8fb02",
-   "title": "Presidenta Keiko Fujimori participará en ceremonia por el Día del Exportador",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYS12X2tEa2hnQnJRZGJTNHlKb1pWSUptLUkxbWNmNUl2Nnh6aUptQWtXRTk1Zk83SEhxV18wdE1lY0g0TVZ3SjlJQWRiOVptZlZzazRBRmJnVGNwN09VbXJvZ25IZktEVkpRUXFVMTl4RjY0T0RSV2RqSW1WdzkwYktfQXI5cVVJUDNmcmw1UE5Sdkh6ZU9KSmlzQnhPWW5aQWdxQmxuUkFLeUMyR3UxdUpFN2JxcHI2?oc=5",
-   "date": "2026-11-09T05:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1116,17 +1127,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/volvera-la-expulsion-en-colegios-y-la-nota-de-conducta-keiko-fujimori-firmo-decreto-noticia/",
    "date": "2026-11-07T17:38:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ccb48e1a4893",
-   "title": "Presidenta Keiko Fujimori desea éxito al nuevo mandatario de Paraguay",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXg1VlE4TmZWZEU5dDZUY0VhbDBsY2p2SVlCSzJreUREWERjTG12a1V0NVpZcVVDZHBFR1dydzNWTUxRUDU4WVJrWTJLVVhrYjFnbU5JcVhOYTN1LVF0TkU0aU5TU2pqY0dQdDkxMkdNT3A0dDF1Z0NKN3hnZkdlM2FQa2tXakY3WFluOHJ5SHo2T0stLWs4dDQtc091Z21raW1UV2FncGNBaUNmN1psY3dGZw?oc=5",
-   "date": "2026-11-07T17:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
