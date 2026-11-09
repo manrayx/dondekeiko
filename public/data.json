@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T03:10:49.475050+00:00",
+ "generated_at": "2026-11-09T03:32:43.540962+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e3401355de4f",
+   "title": "Keiko Fujimori dice que «las cifras muestran que estamos yendo en el camino indicado»",
+   "excerpt": "",
+   "source": "Diario Altavoz",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkRjODBjTU11M21BcFBQc2VjRG5PWXczeGNKcHprZFdicGFZYzh6eHRIT3FHU1FiUXQ4TjZvbXV1M3ZUa0l3WTBkbU8wRUhQdlpsZzZMWGJXeGt2eWJsMXByYjdYaUVyaDIyT1FnZU1JckhLcmNtZzZKUW5TYmRnTWhfMUtxejFGUDN5bl9wblBCTXhHN2NZM0dFcWpGYl9HZ3Y4ZUtLVzRLbkFmcjA1S3h3?oc=5",
+   "date": "2026-11-09T02:35:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "32434c0181f7",
    "title": "Gobierno designa a Miguel Rodríguez Mackay como embajador del Perú en Marruecos",
    "excerpt": "El Gobierno de Keiko Fujimori designó al internacionalista Miguel Ángel Rodríguez Mackay como nuevo embajador del Perú en el Reino de Marruecos.",
@@ -557,6 +568,17 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM01ZR1JpVVJpNXd0Q3VDRnVHT1R1QmJnS1NQR1dHSnlZeF9XSGx0cFBTUXUzLXJsbTF0V1NJNkJGTnBkX3FTSUNRY0MyYk9BczIxNUxTNEEyTm0tamlDZXJaTkNpSnhYVGpPUHBZYnk0akZpRXhIWFlJd1gwek5pdjFqSTRJNkIxVHB0RlNOQ3RpSnZ4Z3FqSWJpMmFoY1ZnaTBLSk9WMFZMcnlPaVVFXzlkcG9pQUNma0NV?oc=5",
    "date": "2026-11-08T14:13:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T12:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -938,6 +960,17 @@
    "next": null
   },
   {
+   "id": "d246d9aee166",
+   "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYldXQWgwT1RCdlZ1SzRxbVdPWjhYRVhBOHgwdVoyamNicGg4Y3AzenZRTG9vdzZ5WEpCdDd0dC02Q2tjNWlfczFpcFMwTVdSRnpMWC1ibHQ5VlRObVpxVEZaRDJWSTlQbE5pLVFLclBhS3ZpaVZjZEQ1X19EOWYwSzFhU3JGNktBQkZXdmt4Y2NxWUczUkVyNTY0YU5LNEk1NkE4NDkyV3dEZzZvLUpnUUIxMjd4VzBJdjdnWmRQMERuUEl6dmxYVEVOTFdzMXNFREYwVEZORFdoa0dTVnhOMTNTV1NSdzZKUlHSAf4BQVVfeXFMTXdWaUo0YjlxZU9jaWhmcTAtOFRxV2Q4V01NM1M5OU0yLTk4dko2VmR2d3RKbC1ob2hjQkFxYlpyNjJYRkE4TjNxUG1RLTRxQ0pGTGtfdDIzWHhuT3ppSHVsUXlLODZrUnlaeHh1aTQ5bEd6LTZJbk85ZG8zZUJFM3lOMmNLMmU0NGFFVlNsdmQybk9BSXduOUZCaHVDbjVnclNIeHFYSHNTZ2NtNjNnSVhqMm95Rk9TVVNpUlEzT2ZrWHY1dkFXZFhWM2tYRjFvb0dHY0E4ZHk2SE8zakJUR1ZjOHIxNmYwTnFxRXc1ZVo3R2xsN0MtMHVndkt5dVE?oc=5",
+   "date": "2026-11-07T16:32:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7bacb9f9a06e",
    "title": "Un libro al mes y una hora diaria de lectura: las medidas que se aplicarán en los colegios según las nuevas reglas de disciplina escolar del Gobierno de Keiko Fujimori",
    "excerpt": "El ministro de Educación, José Antonio Chang, detalló los alcances del nuevo reglamento que contempla sanciones por faltas leves, graves y muy graves, restricciones al uso de celulares y el…",
@@ -993,17 +1026,6 @@
    "next": null
   },
   {
-   "id": "9bd241ebb46c",
-   "title": "PRESIDENTA KEIKO FUJIMORI: ES FUNDAMENTAL QUE EL ORDEN REGRESE A LAS AULAS",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHcta0RIam9ta0F1Vmd4V1BRZnd5WVcydU1EdEpTR0FnRVBFNlNkM3hRN0c4Ykc0Ykp3SlFSX1ZIU05aX1Uya0FIMWFhUTdMWEU5blRlZFhzMTRONFhIUmI2S3hQWHBsX3JWWmFWNHEycm93YkNPWWxZOV9VUFFOanVqVWVrc3RnaWZweVAxdkpCTWtGdWQ4S0txTzRkZzg?oc=5",
-   "date": "2026-11-07T15:10:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "0905b116cd33",
    "title": "Keiko Fujimori promulga decreto supremo con nuevas reglas de disciplina escolar en colegios del Perú",
    "excerpt": "",
@@ -1026,23 +1048,12 @@
    "next": null
   },
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "id": "9bd241ebb46c",
+   "title": "Presidenta Keiko Fujimori: es fundamental que el orden regrese a las aulas",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-07T11:35:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d246d9aee166",
-   "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYldXQWgwT1RCdlZ1SzRxbVdPWjhYRVhBOHgwdVoyamNicGg4Y3AzenZRTG9vdzZ5WEpCdDd0dC02Q2tjNWlfczFpcFMwTVdSRnpMWC1ibHQ5VlRObVpxVEZaRDJWSTlQbE5pLVFLclBhS3ZpaVZjZEQ1X19EOWYwSzFhU3JGNktBQkZXdmt4Y2NxWUczUkVyNTY0YU5LNEk1NkE4NDkyV3dEZzZvLUpnUUIxMjd4VzBJdjdnWmRQMERuUEl6dmxYVEVOTFdzMXNFREYwVEZORFdoa0dTVnhOMTNTV1NSdzZKUlHSAf4BQVVfeXFMTXdWaUo0YjlxZU9jaWhmcTAtOFRxV2Q4V01NM1M5OU0yLTk4dko2VmR2d3RKbC1ob2hjQkFxYlpyNjJYRkE4TjNxUG1RLTRxQ0pGTGtfdDIzWHhuT3ppSHVsUXlLODZrUnlaeHh1aTQ5bEd6LTZJbk85ZG8zZUJFM3lOMmNLMmU0NGFFVlNsdmQybk9BSXduOUZCaHVDbjVnclNIeHFYSHNTZ2NtNjNnSVhqMm95Rk9TVVNpUlEzT2ZrWHY1dkFXZFhWM2tYRjFvb0dHY0E4ZHk2SE8zakJUR1ZjOHIxNmYwTnFxRXc1ZVo3R2xsN0MtMHVndkt5dVE?oc=5",
-   "date": "2026-11-07T11:01:00+00:00",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE1BNGNWbW9DYmNYN2NWMUlzbld1LTN4U0pmbVR2UUFielNRa1k1VFAwNXFNYlN3S2REWVdEQnB6RjN3cjdvYlVjdUNfU0dEd2Q1aW1uR1ZtcHVMWnIxTVg4VndJdFdRcU1MSV9hVzBESnlZNmRkNkFfNE0zM2ludlFmVTlFV1A4RXlVVGlHYm9QcF9USk5NUEJORl9wMFJmSzY1ZXVzNmlndVFXV0FBeDlESFZtUUVJTkdsX1BwTFk?oc=5",
+   "date": "2026-11-07T14:51:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1089,23 +1100,6 @@
    "date": "2026-11-07T04:01:09+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c875d995eb3e",
-   "title": "Presidenta Fujimori lleva ayuda humanitaria a afectados por El Niño en Tumbes",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0k0SWx4WXp3V1ZyUUw4cUVmQTRnS01vbW52ZUdqa2ZQaGR2QW4wZ0t5ZFNoNUVVSk5YR1dCZHBaQURMUG4za2dsbmcwU25oR21wSHI0azVEZUQzYnlPNExKNGRwRjBEb05tQ2pBYnBKTmZQcVB3bENvZmtZdFFQWWR6Qkd3YV93UFR6c3lJcjU4X2NfaFkyYmdYbzk1WjItMHV2UWF0YkhjNkxRaTVpUlM4OWZvYXVTVWc?oc=5",
-   "date": "2026-11-07T03:14:38+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false,
-    "city": "Tumbes"
-   },
    "next": null
   }
  ],
