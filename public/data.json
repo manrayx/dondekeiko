@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T02:27:40.318201+00:00",
+ "generated_at": "2026-11-09T02:49:38.888294+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -425,6 +425,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/gobierno-designa-a-miguel-rodriguez-mackay-como-embajador-del-peru-en-marruecos-noticia/",
    "date": "2026-11-09T02:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e044ca133955",
+   "title": "Keiko Fujimori asegura que su gobierno rendirá cuentas: \"Estamos yendo en el camino correcto\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaG5YRzhsSWFWc0xCTlgtdHFSb1c5OWtoVkd5QTNxSkdFSGk0MTF1ZlJrbDJ1MXlmdUkwYU9tNDBQNldhQldVNUFEeWdrQXBHRnR4cmtNNW1WZWtEbzE3b2J3U1dmbmRnNjlWZUFRZlNuVDBYREZkUzZ2VkJBQl9kaklTcjZlUUhtaC16WGJRcVNFanc5V2VKNkJKemxlZ1dYNzRoZUtJNVEzT2JuRlNIa081SWd3X1RiZWZyanJhSFR1Z21ZTmlZ?oc=5",
+   "date": "2026-11-09T01:47:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1095,17 +1106,6 @@
     "abroad": false,
     "city": "Tumbes"
    },
-   "next": null
-  },
-  {
-   "id": "e829cf5d7a5a",
-   "title": "Diputado Zunini acusa a Keiko Fujimori de gobernar en piloto automático tras balance de sus 100 días",
-   "excerpt": "",
-   "source": "Pachamama Radio",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUJwRWVteTdNTEFCSEl4ZlZIQXM4RmNqTWEtZU9QUFRlejJMdGxOZzBRUHFjOENqVXljQnlYOU1rTjFsYl9NTUxHV2dZM1lTWkthUzNybnJsNmwzcnpaeDVXV1pXeU90QllrYnZiamNQeFJfUURQamJ0Q2dqTHdxM3E4ZWJHVUZOV3dzRmdSaHRjMnJVTHpOS0hFSmpnaFpfVXhaWkdiOURoWXJRcC14bkdyVFVKU3kxWDI5Y05vQUJkMmo0dmVj?oc=5",
-   "date": "2026-11-07T00:46:13+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
