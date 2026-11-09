@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T20:38:52.858246+00:00",
+ "generated_at": "2026-11-09T21:00:37.582788+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -672,6 +672,17 @@
    "next": null
   },
   {
+   "id": "8e5ab391a1b8",
+   "title": "Keiko respalda a Pedro Alliana",
+   "excerpt": "",
+   "source": "El Men",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhdFJKY211ZWJvOGlxZ0FOZHFLVG1Fc3JSUExxMzJoTUNXQWRvTWtYaHhvcDVaZE9DVmtINDlDSlZsS2NKNHNCX0xxUldHTHZEaEEzTWEtNEVlYUto?oc=5",
+   "date": "2026-11-09T14:55:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "978fcb23dc13",
    "title": "GOBIERNO DE KEIKO FUJIMORI “ES INCAPAZ, INEFICIENTE E INÚTIL” TRAS SUS PRIMEROS 100 DÍAS, SOSTIENE ANALISTA RUDECINDO VEGA",
    "excerpt": "",
@@ -1121,21 +1132,6 @@
     "lat": -12.04491,
     "lng": -77.0298,
     "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "e80983c9dccb",
-   "title": "Keiko Fujimori se reunió en Palacio de Gobierno con la presidenta del Senado de Chile",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0EyM01pZUNnTVptTDY0WkdjY3JlTWhaUnhqNFllb1VQTkhENkhudS1wMlc2T3NTUHJod2RzR0YwMlNRUFY1ZkNBZjhUWlh6TEs1dkVnUDBTN3pHVFhSTTVESWRodm5lb1Z3b0JGeldtMkowTFpwUi1KX2NlX0tuRXJqV0VZbFpYeURwbEQ4a0VIWjY1SWNKNmhTS2ZkVUJpa1dRdlNkVF9KVHZONUdn?oc=5",
-   "date": "2026-11-08T01:21:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "Chile",
-    "abroad": true
    },
    "next": null
   }
