@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T21:43:45.010789+00:00",
+ "generated_at": "2026-11-09T22:27:13.879265+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Chiclayo",
+   "lat": -6.771,
+   "lng": -79.841,
+   "abroad": false,
+   "city": "Chiclayo"
   },
   "source": "Infobae Perú",
-  "date": "2026-11-09T13:13:37+00:00"
+  "date": "2026-11-09T22:06:31+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -451,6 +451,34 @@
  "agenda_minutes_7d": 554,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "9227dbc99ca3",
+   "title": "Perú suscribirá TLC con Tailandia en los próximos días, dice Keiko Fujimori",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/tlc-noticia/",
+   "date": "2026-11-09T22:20:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fd885bfff69d",
+   "title": "Diethell Columbus justifica viaje de Keiko Fujimori a China antes de la partida del papa León XIV: \"Es por la APEC\"",
+   "excerpt": "El sumo pontífice iniciará su recorrido por el país el 11 de noviembre, con paradas en Chiclayo, Cajamarca, Cusco y Pucallpa antes de su regreso a Roma",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/09/diethell-columbus-justifica-viaje-de-keiko-fujimori-a-china-antes-de-la-partida-del-papa-leon-xiv-es-por-la-apec/",
+   "date": "2026-11-09T22:06:31+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Chiclayo",
+    "lat": -6.771,
+    "lng": -79.841,
+    "abroad": false,
+    "city": "Chiclayo"
+   },
+   "next": null
+  },
   {
    "id": "a364e61fd498",
    "title": "Keiko Fujimori solicita un nuevo viaje al Congreso a China y Japón, ¿por qué razones?",
@@ -1025,17 +1053,6 @@
    "next": null
   },
   {
-   "id": "b565c655e76a",
-   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
-   "date": "2026-11-08T12:14:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "73aa92ca45c3",
    "title": "Senadora Paulina Núñez junto a Keiko Fujimori abordan tratado de extradición y seguridad fronteriza",
    "excerpt": "",
@@ -1080,6 +1097,17 @@
    "next": null
   },
   {
+   "id": "b565c655e76a",
+   "title": "Presidenta Keiko Fujimori supervisa primer envío de 12 toneladas de ayuda a Colombia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDl4azdMZWN2d1U0a2U2MEtBdklURlJFdHlTcTA3c1cteVg0NHRpcUhQbDVWNFFLWWRvX09DSzRnczJlek85TjZWbzVlSE9Qc1oyRGRuY2o4SGVqaUNqZ2dPbExNbktLelhoYmxzQlJPTmRuVmlBZllGU3NfY2J5ZU1JTmd2eUNLZWRHUllKbVFMZUlEbUVPMm52bGpYMnh5Umk1SC15eFlUR3Z3SHEwNlBCSVkwbUNRbjVLNnA2NmdVT2M?oc=5",
+   "date": "2026-11-08T08:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ae2b383f01bf",
    "title": "Presidenta Keiko Fujimori presentó comisión de gestión de riesgos del Fenómeno de El Niño",
    "excerpt": "",
@@ -1097,28 +1125,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/07/audio-de-operador-fernando-cerimedo-confirma-relacion-con-campana-de-keiko-fujimori-rodrigo-paz-hnews-180950",
    "date": "2026-11-08T03:35:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8a4cb00eb70e",
-   "title": "Perú y Chile estrechan vínculos institucionales tras encuentro de Keiko Fujimori con titular del Senado chileno",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTBoVzRfWkxSbTdHRmRmck1Ma2xoT1hhcHF1NUVrT3ZJS0NBTUdweVp2NkJvaVZWdEhkdzBmcThRVGRJWFhRZ1BoYm01MkxqZGhrNnRQVGQ3WUd4Mnh3ZDBuZk85TmlXMU11Mk85X0JUY0RabDZOY0d5UXFxNURwM0YxSHMzNk5LOWE1SGpNblhzNlVDWGVGV1J4R2FIV1ZIWklNR3NjUEZaOUtmYXB0cHh4RFdkUQ?oc=5",
-   "date": "2026-11-08T03:02:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d8352b5282e2",
-   "title": "Presidenta Fujimori: “Este gobierno camina, viaja, responde y traerá resultados concretos\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDRMbUxCNEc0Q3NzZ1JfVjFob2JkTTdOQ0FrMHlNOUNfX1l3ZHdOS1pTZE5sekhuT09WZnhyZExWQmdiNzd4Um1zOW9uWGVfU1NocGsxRm5FRGhFTjl4TEJ4cV9LZmZUSE5NeXo1YjJaNkJZTHBzcWtPNFc3enloT25qMkdWR3lkOUZGVmNEdjNLYmFpNDFSRGxwb2pvSWFDTllSYW1yOC11TFZuWklkb1Rpb1pKWXJidmJjYXlZZDg4N2p4dVZOVFo4RFE?oc=5",
-   "date": "2026-11-08T02:21:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
