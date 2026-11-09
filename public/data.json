@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T21:22:09.063202+00:00",
+ "generated_at": "2026-11-09T21:43:45.010789+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -452,6 +452,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a364e61fd498",
+   "title": "Keiko Fujimori solicita un nuevo viaje al Congreso a China y Japón, ¿por qué razones?",
+   "excerpt": "Keiko Fujimori solicita un nuevo viaje a la Cámara del Senado del Congreso, para visitar China y Japón del 15 al 21 de noviembre de este año.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-solicita-un-nuevo-viaje-a-camara-de-senadores-del-congreso-para-este-mes-china-y-japon-por-que-razones-noticia/",
+   "date": "2026-11-09T21:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "12be0849f74d",
+   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
+   "date": "2026-11-09T21:30:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4a1d14fb47b7",
+   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
+   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
+   "date": "2026-11-09T21:19:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "26e0b31d1422",
    "title": "Presidenta Fujimori solicita permiso al Congreso para viajar a China y Japón",
    "excerpt": "",
@@ -469,17 +502,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-japon-y-china-en-plena-emergencia-por-el-fenomeno-el-nino-hnews-351549",
    "date": "2026-11-09T20:06:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a364e61fd498",
-   "title": "Keiko Fujimori solicita un nuevo viaje al Congreso a China y Japón, ¿por qué razones?",
-   "excerpt": "Keiko Fujimori solicita un nuevo viaje a la Cámara del Senado del Congreso, para visitar China y Japón del 15 al 21 de noviembre de este año.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-solicita-un-nuevo-viaje-a-camara-de-senadores-del-congreso-para-este-mes-china-y-japon-por-que-razones-noticia/",
-   "date": "2026-11-09T20:05:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -524,17 +546,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORzdONTVzbmtzbTRiWkxqZGY0WlhYN3hQR3hXREVCOTktMEFLcnBuMmJfS2FQRU43d3o3NmV1Y2pJUGQ2eDNOcjBaWlNiXzBpTFVYV0Fha2otRkxHeUUyNi1GS3QzQzdFTkFqZklKZUpQVzRzT3FPaFFta1dxRmZycmJ3YXR4Zi00ay1rSUxtVWRoQXpPWXhSN2ZiQlJhZlhWaF9fWGt6SlhTRUo0N1dxN21qek5BTGZt?oc=5",
    "date": "2026-11-09T19:20:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4a1d14fb47b7",
-   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
-   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
-   "date": "2026-11-09T19:19:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -661,17 +672,6 @@
    "next": null
   },
   {
-   "id": "12be0849f74d",
-   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmpwRGwzTEJYTld5VnJQX0QyMUppd2hlNlVYeEhPempyNDBPNGxwdFVRQU9yek1ZN3hLRVpENUh2WHRqLVYyZ3JvdEgxZmk0T05OOW5DdkpVTlQ3S3B3N1lTTVNxUzhMVkJhNVJMc0dXajQwOVVrV2VhSDcyejhWMmVTZXVCVkY4eGYyWmg5eTRNTVNUSERPckgyOGlaN2RUN3hJNzlFcHNGZEFVaVJVYnRfQjVLYmx0cVZkWFVqWG9hN01yanlUWlgteUVtTkdINV8w?oc=5",
-   "date": "2026-11-09T15:34:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "4c731a78c915",
    "title": "Gobierno publica decreto legislativo sobre delitos violentos e informáticos",
    "excerpt": "Al amparo de las facultades delegadas por el Congreso, el Gobierno de Keiko Fujimori publicó el Decreto Legislativo 1744 que busca fortalecer la lucha contra los delitos informáticos.",
@@ -780,6 +780,17 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "40d1bd6e62d1",
+   "title": "Luis Galarreta defiende gestión de Keiko Fujimori y afirma que cumplirá sus promesas: \"Se ha hecho más que otro gobierno\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2MwNDg4SEtlTmlyQ2xPN0dkWUNNS2d4cmk4UTZLbmRQR1V6anBVZ3NWMnI3N3ZwclZidmptX2hZcmVNR2p5RHpMOEoyZFZwUkhBR3lzdjlkbmFISGphZWxJOWlWUmJ1MnlhNzdzQnJQcEZXVndpYmNyY3k0NDR2TW1n?oc=5",
+   "date": "2026-11-09T12:41:23+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1110,23 +1121,6 @@
    "date": "2026-11-08T02:21:21+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "ed26d5629a49",
-   "title": "Presidenta Fujimori lidera sesión del Consejo de Ministros en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejJIeTUtTVBPLWdaT19pdEh5ZFZSc0hUZU03TG1JUTlHcHlNQ2syOWhrRlZCaWU0ZWhSYkhpS1VVUnlBdzRqTWdDNVBwVkdVQU5oWkVjM1NpQ3FZdnBwWnFHTU9xZjRzd00xWFdaZjFyNmlLcG96RkkyNXhVM3ZvZUNQaU91NE51b2d5OFozNFBDV2hBVGJyTFZyY0R1YkpkSTl3MWVka1dINmlVZWVZeDVCUzFJUzJPaUJKUmw0a2E?oc=5",
-   "date": "2026-11-08T01:53:01+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
