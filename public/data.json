@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T13:36:02.950977+00:00",
+ "generated_at": "2026-11-09T14:40:21.561791+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4a1d14fb47b7",
+   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
+   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
+   "date": "2026-11-09T14:26:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5db4ddefb74e",
    "title": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos",
    "excerpt": "La presidenta Keiko Fujimori y el ministro de Energía y Minas, Guillermo Shinno, nombraron a Miguel Rodríguez Mackay como embajador extraordinario y plenipotenciario de Perú en Marruecos.",
@@ -508,17 +519,6 @@
    "next": null
   },
   {
-   "id": "4a1d14fb47b7",
-   "title": "Keiko Fujimori: ¿Cuáles son las medidas urgentes que se necesitan después de los primeros 100 días? | ANÁLISIS",
-   "excerpt": "Felipe James (SNI), Miguel Jaramillo (GRADE), y los especialistas Iván Arenas y Nicolás Zevallos analizan el panorama del gobierno en los meses que se avecinan en medio del panorama complejo…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-cuales-son-las-medidas-urgentes-que-se-necesitan-despues-de-los-primeros-100-dias-analisis-apuesplan-noticia/",
-   "date": "2026-11-09T12:26:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "251bb804c9ea",
    "title": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”",
    "excerpt": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”. La presidenta ratificó que uno de los principales legados de su gestión será mejorar la educación del país.",
@@ -558,6 +558,17 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1EzeFhEajNJbnJRR0VaQlFBN3ZUYUJQbEZ5UWN0MWRsaGNZQnNaNjl1NlZZc1ROR2Y4REhIOW1id053MGh0ZlhiNloyNW01ejNFaEY2ajJHbHB3TDZsUE5XMktzT3JrWUtiVS0zdWVKdVh6SGtlZGxxNDNvM2dPU242ejZjUEx2RERtU1Vkb09YU0JTSkItNWw0aUFIdkdlMXV6clJBWHF3dmF3Qzk5YjFtZ3hTQjNTd3MxOTNiWWd2ZFRf0gHKAUFVX3lxTE1lOUM3dGJkSWxZN21lMHpYQmJDSm9rTWVnMVJyOU9mbEdSczBrZzJNR1dhSVJ4XzlYZnppRDVRS0hRaGlwa3NIckpaVmJ6MER1N1dWOUZVTlpSOUw2YVJLcUQ5T1ZoTGZqaVBmS3EtcWxEYmZwMjdnYUxMa1pITG13WlcwQ0ZJRThsUHZXTDQ2UGY4M2YxVmx6djB6NmdXX29td2l5U1ZYRmd5M1VqS2c2TXc3RU5IUUZSU3otbmJkYUpyWDlWdW9SRUE?oc=5",
    "date": "2026-11-09T03:32:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7567216fb4a7",
+   "title": "Sheput sobre gobierno de Keiko Fujimori: “Los mejores primeros 100 días de este siglo”",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGV1eWhWYVJHU211Z1g4UWZHMkNTcXM3YWVKS2p3WVNhbUtrdk1ieHBaYXMybWtFc1ppTnNjVmtPQzM1Q0tXcExWREwxdF9wNlk2bHpoZ2EzeE4yWk5yYm1LTWhIMDJPdnVRQnk2TzZOMVpPYUhrWFZvZ3Q1dnVpdFNZSzc5cDkxSG16ZkVSMllmdVVsQ29yTjNic1lXN0FmaHVYcnV0YlNXYUhqYlFVWGE0Z21Tenl5azZtWTNtTzBGTDDSAdcBQVVfeXFMTWJWTS1nek9TNGF0QXl4cFJTQjJNaTFoRW5hMzhiQTJMTGlSa2dYcDl2NGZMY2lJRld2NTJkSFJZcEtLVHVTUXl4dFp6LUI2REpLRUxIVWkwOFU5ek5TQ1dqa2dEbTRqc2UwaE5IY3NQWHJ2WElTVEE4VGE2aFNCSGM5QTRhSVByTDItamFrVGxPV0ZOTEk5OTFJQXNkWWFVR25EbjVvUlR2TmxUWjFQdlpjMUdfQ3FpbkdZcjBDWl84RlRTenlLVlpTdkxDZUM1MDlpNmNTMkE?oc=5",
+   "date": "2026-11-09T03:29:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -961,17 +972,6 @@
    "next": null
   },
   {
-   "id": "6adf255939a9",
-   "title": "Keiko Fujimori firmó nuevos lineamientos de disciplina escolar en colegio donde estudió su padre Alberto Fujimori",
-   "excerpt": "La presidenta acudió a la institución educativa Alfonso Ugarte, donde estudió su padre, para suscribir la norma que busca reforzar la disciplina y el respeto en las aulas",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/07/keiko-fujimori-firmo-nuevos-lineamientos-de-disciplina-escolar-en-colegio-donde-estudio-su-padre-alberto-fujimori/",
-   "date": "2026-11-07T18:20:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "b564e3e231a1",
    "title": "PRESIDENTA KEIKO FUJIMORI MUESTRA AVANCES POSITIVOS EN LUCHA CONTRA EL CRIMEN ORGANIZADO Y MEDIDAS PARA ENFRENTAR A EL NIÑO EN SUS PRIMEROS 100 DÍAS DE GOBIERNO",
    "excerpt": "",
@@ -1022,6 +1022,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-saluda-a-pedro-alliana-como-nuevo-presidente-de-paraguay-tras-destitucion-de-santiago-pena-ultimas-noticia/",
    "date": "2026-11-07T17:52:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6adf255939a9",
+   "title": "Keiko Fujimori firmó nuevos lineamientos de disciplina escolar en colegio donde estudió su padre Alberto Fujimori",
+   "excerpt": "La presidenta acudió a la institución educativa Alfonso Ugarte, donde estudió su padre, para suscribir la norma que busca reforzar la disciplina y el respeto en las aulas",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOHFCbnk4WWFycTRENVB4djFwSGR3QkFwaWR3UGRDZXc5cmZCTm1mSENfamJFVEVQQ3V1Z3d4WnpjdGhLMjJCMXJhbHV4V2RQV1FJOEhGbF81aXVQcVhYTW8xeDBLT2taU2NCRjE0VzVSSGhubE1uUlU1ckhYVmZ6REVyUm5uNnVPdlh3SllVYzNJTXNWcjRicXhCeDY2OUhjLWFhdlZIeDVsclY4OS1najZfbEZlWmRoX0c2bXBGRmx5SFlTVy1FSllqRjAwbjNFUUQwZ2k0X3V2MnQ1VGtUdVZmOXRvUDhmSEHSAYQCQVVfeXFMT2VUTS0xWlQ3ZGJsd19hdlNBNWhpekpjNnBwYjlFTS12czB6T2pwSVlTbVhETXBaQ3VXazYwYjN3VENDS0w0QUpvUm5RMG5XYVdQUE84SklaMW55NjlzOTBwNjA1X2pIZGgtREJqYkNCS3dCWER4VVRTMUp2ZXpxQUM2RUtXYm9BWEF3MHREa2NzRHRrR3JEbXg4ckZIZVJNVFQwMmZBMzJIZVhRMWxsVWJxVXJ0Q3ZBZ0pvM01EV2lFSVowbGQ4ZUItbm5vb1RTRVhDOG05Y2xnMUptRVFCS0lsMlh4aWdlbzhxQ2RHRVNfYXJqdkdWUHZ5Y0FEMEsyYVFFVVM?oc=5",
+   "date": "2026-11-07T17:43:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1099,17 +1110,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcXFfdUtzaXIyQ1ozZ0JtTDFVTHN0RFgyUG84OFctTmN1Q1ZodkIzQ3ZETmh2SHV4TjZxRkhQZUY1blpfNHR1RDFJajRvazIxNFhTcm52WEZDWFJPNkR1azl4QUk2ejlmY09fZmRhTGpqYTJXaVJTdEZyLWJxZ3JjZ1JYN3ZheDZJVTV3NExvaTA3ZzNiWVlHZ0JKNVJQSVpVa3NrSzBBV3I3VDV2Q0xKbjJPNW9CVW9wQzNoZFU0cS11TlZ5ZFlyN2prVTI0QUR1OGpqdzVNZEg5MHFwODRXbkVnNGJETnI2Yno0dzRSemc5eFJUcW8zVGlMNVQ?oc=5",
    "date": "2026-11-07T16:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d246d9aee166",
-   "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYldXQWgwT1RCdlZ1SzRxbVdPWjhYRVhBOHgwdVoyamNicGg4Y3AzenZRTG9vdzZ5WEpCdDd0dC02Q2tjNWlfczFpcFMwTVdSRnpMWC1ibHQ5VlRObVpxVEZaRDJWSTlQbE5pLVFLclBhS3ZpaVZjZEQ1X19EOWYwSzFhU3JGNktBQkZXdmt4Y2NxWUczUkVyNTY0YU5LNEk1NkE4NDkyV3dEZzZvLUpnUUIxMjd4VzBJdjdnWmRQMERuUEl6dmxYVEVOTFdzMXNFREYwVEZORFdoa0dTVnhOMTNTV1NSdzZKUlHSAf4BQVVfeXFMTXdWaUo0YjlxZU9jaWhmcTAtOFRxV2Q4V01NM1M5OU0yLTk4dko2VmR2d3RKbC1ob2hjQkFxYlpyNjJYRkE4TjNxUG1RLTRxQ0pGTGtfdDIzWHhuT3ppSHVsUXlLODZrUnlaeHh1aTQ5bEd6LTZJbk85ZG8zZUJFM3lOMmNLMmU0NGFFVlNsdmQybk9BSXduOUZCaHVDbjVnclNIeHFYSHNTZ2NtNjNnSVhqMm95Rk9TVVNpUlEzT2ZrWHY1dkFXZFhWM2tYRjFvb0dHY0E4ZHk2SE8zakJUR1ZjOHIxNmYwTnFxRXc1ZVo3R2xsN0MtMHVndkt5dVE?oc=5",
-   "date": "2026-11-07T16:32:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
