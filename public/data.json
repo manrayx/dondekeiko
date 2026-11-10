@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T12:50:44.420319+00:00",
+ "generated_at": "2026-11-10T13:34:12.477125+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -407,12 +407,12 @@
    "next": null
   },
   {
-   "id": "12be0849f74d",
-   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
+   "id": "29e23e1b4622",
+   "title": "Gonzales Posada: Viaje de Keiko Fujimori a El...",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
-   "date": "2026-11-10T11:00:39+00:00",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk14czlIN1J5Zi1LWEV5bm54NjgzdFplb0x5d3BHV0NGM1BqMkc4X0JSODFwUkdlZXFvOVBLV05vZFEtVmptUGZBZURlaEF5OHkyX3N0MGIxclpKQ3FoQkRfdUxfM1BvclItM3Rrd2toaFdSUmFEQkx5aEpDVkY0a0lqcHhMX1RMRHRUU0oxYUJ0OFZvaHFwVXYwRHNDdU1CbVBsMTVfcjB1WEdidGc3c1JGMHd5ZVZHNGpRSnZKVWfSAcYBQVVfeXFMTlpFN2FidmJWaURHQ2VJcGdMcUd0bXFKMG9SM3dSVm40MzNCaFNWanRSaTFkbUlnZ2dpMll1dzN0SmxoVHVBMDJJWVFqYzFCNnFjYVFMakpyRXZyWlBIOE5lMFNFSi11SFRPWEZMTUhXVllwWVdqMjZFbXA5OS11MWRIZ1lDM21BWU50cUdfTHNhTWlYOWFhY01UUzVCemNtNktRWFdtVDUybnZsX0x6NDVCWG9KS0FnVnpxcFJUd0ZCZWJLOExn?oc=5",
+   "date": "2026-11-10T11:57:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -790,6 +790,17 @@
    "next": null
   },
   {
+   "id": "12be0849f74d",
+   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
+   "date": "2026-11-09T15:25:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a6b5bb015ee3",
    "title": "Por qué se archivó en Perú el caso de las esterilizaciones forzadas de 4.000 mujeres durante el gobierno de Alberto Fujimori y cómo quedan las víctimas",
    "excerpt": "",
@@ -1061,17 +1072,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
    "date": "2026-11-08T22:35:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f9e4159f0ee",
-   "title": "Keiko Fujimori desea éxitos a Pedro Alliana como nuevo presidente de Paraguay",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1Y1WTNTY2VrM19TRDI1MjZrZ0g5RU1pYWlKQkx0aEM1OGN2eXlIU1VPOUpWZUpGYW5ycmw1d0Q0eG83NFFRZTVyTTJJVXBkbHM0TUhlUnp4NGp3WnVNTEQyenFlTnZ1V3hGZzlraTdDTjZScHpkSHVpSUF5ZDJfUzhZNmlGbTZydnJxVGJWZ29NaC1pal8tNmlQV1plOTJvUlZmVlU5TmRiSkYzMW1qREJUME1jdjFtTkRv0gHPAUFVX3lxTE5NZlViWnU5ZnRWWExPRnRVVllITjFNTnM0a0syM2dvNmo4bkxNV0FhRXl4VDFIbTNwS2hCR1UzSHZGOE1vVWswYzBHY1VZWmdnOHEtVm10VFRqYl9PMWRibmM1OWdzTmhNczBFcjluR1hkWEg0S19sb0hPWUNzenRTZ2Y4azJ2d1I2RXJvdlJUQmNFYy1nYVZOaXJWMGcxblFtRnJYZ2o3WlM2V1ZOUkh1OEFZbmJ2T2hneHBqOHRIRGYwb1prdXI3ckRYVTkxOA?oc=5",
-   "date": "2026-11-08T21:26:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
