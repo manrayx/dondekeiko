@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:56:37.194957+00:00",
+ "generated_at": "2026-11-10T23:17:52.881571+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "abroad": true
   },
   "source": "Gestión",
-  "date": "2026-11-10T19:42:25+00:00",
+  "date": "2026-11-10T23:00:00+00:00",
   "title": "Senado debatirá autorización para que Keiko Fujimori viaje a China y Japón la próxima semana",
   "url": "https://gestion.pe/peru/politica/senado-debatira-autorizacion-para-que-keiko-fujimori-viaje-a-china-y-japon-la-proxima-semana-noticia/"
  },
@@ -386,6 +386,20 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2dd59ffa03b3",
+   "title": "Senado debatirá autorización para que Keiko Fujimori viaje a China y Japón la próxima semana",
+   "excerpt": "El Pleno del Senado debatirá este miércoles 11 de noviembre el proyecto de resolución legislativa que autoriza a la presidenta de la República, Keiko Fujimori, a salir del territorio nacional…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/senado-debatira-autorizacion-para-que-keiko-fujimori-viaje-a-china-y-japon-la-proxima-semana-noticia/",
+   "date": "2026-11-10T23:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "93e3b3d1b303",
    "title": "Trece detenidos en una operación errónea contra la minería ilegal",
    "excerpt": "Por la culata. El gobierno los presentó como integrantes de la organización criminal Los Guardianes de La Pampa. Incluso la presidenta Keiko Fujimori felicitó al Comando Unificado y a la…",
@@ -417,20 +431,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "2dd59ffa03b3",
-   "title": "Senado debatirá autorización para que Keiko Fujimori viaje a China y Japón la próxima semana",
-   "excerpt": "El Pleno del Senado debatirá este miércoles 11 de noviembre el proyecto de resolución legislativa que autoriza a la presidenta de la República, Keiko Fujimori, a salir del territorio nacional…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/senado-debatira-autorizacion-para-que-keiko-fujimori-viaje-a-china-y-japon-la-proxima-semana-noticia/",
-   "date": "2026-11-10T19:42:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   },
   {
    "id": "1aa1ed0ad1c7",
