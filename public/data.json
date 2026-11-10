@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T14:17:06.673020+00:00",
+ "generated_at": "2026-11-10T14:38:19.727518+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Chiclayo",
-   "lat": -6.771,
-   "lng": -79.841,
-   "abroad": false,
-   "city": "Chiclayo"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
   "source": "Infobae Perú",
-  "date": "2026-11-09T22:06:31+00:00"
+  "date": "2026-11-09T13:13:37+00:00"
  },
  "next": {
   "place": {
@@ -589,17 +589,11 @@
    "id": "fd885bfff69d",
    "title": "Diethell Columbus justifica viaje de Keiko Fujimori a China antes de la partida del papa León XIV: \"Es por la APEC\"",
    "excerpt": "El sumo pontífice iniciará su recorrido por el país el 11 de noviembre, con paradas en Chiclayo, Cajamarca, Cusco y Pucallpa antes de su regreso a Roma",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/09/diethell-columbus-justifica-viaje-de-keiko-fujimori-a-china-antes-de-la-partida-del-papa-leon-xiv-es-por-la-apec/",
-   "date": "2026-11-09T22:06:31+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZDYzaERUa1dQU1FkS2FvTllmaFhMRHE2UDhFd0J6UGo2QlNranhZZUZNVTV6bWhMUkxaZklGZGtyQUtFemotM0JlMjlPdnBhR0JjVFF4OUxHYk1MZS03SExTeHVGa01JRE1vaUQzbU91enVYN05iR0NfNmh6UGpqUVpxcWlxZXdKdW9fQXN5Z01vdEg1QUhHMUlyNlZXR1RRUm45OWN6aEhqUlYtb1RZNTFmZ3lkM1BEbDBaYVNRZ0tmcERqZ3M2ODd5cFVpZnVYWHZlWWh2eG4zTkFRajJYdXhySG5IUFJk0gGDAkFVX3lxTFAwcHFTTjV4TDJTci1qamF3U2NrS25uVjV4T0dhenRhdkF2ZUFXajJTUjhwOVJ1TlJoQjZBLXhTVFh6NE5CMlpZeWFhZmFSanpTVFVqSnFudFdNVnNsV1VNMW5uRGZJUUsxeXFGcjZLdFBzV19saGo4dGVzWWJTc1RXQ0tLbHRJMVFWck5TU1k1YWpUTERsYnFUVXJuemlGT2E1ZmYwbjdhTXpFc082eWR4LWZ6YVEtUHppUExIcW5Cbkh0U3Fic0NRWEZ1LWNRNDdEWEQydkx1WmJ1SFNDS3IwazJDU21fOUI3MHBPVGhkVUVkVGJmWTVySC1rVVFyMVNCM3M?oc=5",
+   "date": "2026-11-09T22:05:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "Chiclayo",
-    "lat": -6.771,
-    "lng": -79.841,
-    "abroad": false,
-    "city": "Chiclayo"
-   },
+   "place": null,
    "next": null
   },
   {
