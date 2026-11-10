@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:20:15.207643+00:00",
+ "generated_at": "2026-11-10T01:42:02.088431+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -461,6 +461,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "32f65a0917c9",
+   "title": "President Keiko Fujimori to attend ceremony for Peruvian Exporter’s Day",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORzdONTVzbmtzbTRiWkxqZGY0WlhYN3hQR3hXREVCOTktMEFLcnBuMmJfS2FQRU43d3o3NmV1Y2pJUGQ2eDNOcjBaWlNiXzBpTFVYV0Fha2otRkxHeUUyNi1GS3QzQzdFTkFqZklKZUpQVzRzT3FPaFFta1dxRmZycmJ3YXR4Zi00ay1rSUxtVWRoQXpPWXhSN2ZiQlJhZlhWaF9fWGt6SlhTRUo0N1dxN21qek5BTGZt?oc=5",
+   "date": "2026-11-10T01:20:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "08f83905d01c",
    "title": "Keiko Fujimori solicita autorización al Senado...",
    "excerpt": "",
@@ -651,18 +662,7 @@
    "excerpt": "",
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzBKRmRfQ05GOXRGR1BfckN5S0syY0tleFNySmR3SUVYQ1BsT3ZSLUhLTi1BRzYwYVk4dndqcldtY2NVanBnYUs5aVZhZm56eUxuMDF1RTF0aG1LV1RWQXg2QWtlVnFGOElzS2tubG12WUdiQldwWi1McVFjUDZMeUdWTFNzVzV1YnREQWpVYUt6TUFTUm1SaGZZU2lTbVB4VmV0NnlldDRaRjY3VGt4ZWxJT0FVeThuSS1v?oc=5",
-   "date": "2026-11-09T19:39:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32f65a0917c9",
-   "title": "President Keiko Fujimori to attend ceremony for Peruvian Exporter’s Day",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORzdONTVzbmtzbTRiWkxqZGY0WlhYN3hQR3hXREVCOTktMEFLcnBuMmJfS2FQRU43d3o3NmV1Y2pJUGQ2eDNOcjBaWlNiXzBpTFVYV0Fha2otRkxHeUUyNi1GS3QzQzdFTkFqZklKZUpQVzRzT3FPaFFta1dxRmZycmJ3YXR4Zi00ay1rSUxtVWRoQXpPWXhSN2ZiQlJhZlhWaF9fWGt6SlhTRUo0N1dxN21qek5BTGZt?oc=5",
-   "date": "2026-11-09T19:20:06+00:00",
+   "date": "2026-11-09T19:39:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
