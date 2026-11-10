@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T00:58:09.919764+00:00",
+ "generated_at": "2026-11-10T01:20:15.207643+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -460,6 +460,17 @@
  "agenda_minutes_7d": 554,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "08f83905d01c",
+   "title": "Keiko Fujimori solicita autorización al Senado...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUhkYmtyX0xVcHpiaFNaUlprbjVKTnp2V3ZnVHJUbG5tT003MnN6NFg3OXFjLUtXTTliUkhzeFotaGFLNVFuTDFHS2dfcVNaT1N1N1hoMm9XZlIzanFONHRkdnJ1b1RMNDFReE10RmdwcGc2TlU4S3dLaXR6ZTEtNkpnbk1meEo4bl9RbThTVlQ3LXU1cXFOSzJydzFWcUpkMUxiTmQ1LUZVdDFvdUVabTNScXZNS3dUeUHSAb8BQVVfeXFMTkJ1b2RHd0pwUUJ5ZGk2UEZwc2dBci02VjYxQnR5d0tHVVVGTkIya1dZTGoyWUVNdkEydHE5bkdjWmdHamZtRGlwN2VnUU04cE5KWlBFSGU4WlBXYkxlQzRtVHFjMnZaMW5IV2xqWTZEQ0FRSEw2clBabjhSQ09tSE1SSHY0aVNtcWNvNWtmRkVCMV9QajJmZ1JKajdYV1B1VC11M2lBV24tUjN3QWlxSlY5bU5FeXJUVjRKd0RFTnM?oc=5",
+   "date": "2026-11-10T01:04:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "50257091e45a",
    "title": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón",
@@ -1126,17 +1137,6 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM01ZR1JpVVJpNXd0Q3VDRnVHT1R1QmJnS1NQR1dHSnlZeF9XSGx0cFBTUXUzLXJsbTF0V1NJNkJGTnBkX3FTSUNRY0MyYk9BczIxNUxTNEEyTm0tamlDZXJaTkNpSnhYVGpPUHBZYnk0akZpRXhIWFlJd1gwek5pdjFqSTRJNkIxVHB0RlNOQ3RpSnZ4Z3FqSWJpMmFoY1ZnaTBLSk9WMFZMcnlPaVVFXzlkcG9pQUNma0NV?oc=5",
    "date": "2026-11-08T14:13:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a039801ac771",
-   "title": "Keiko Fujimori descarta salida del río Piura por Sechura y prioriza aliviadero de Chutuque ante El Niño",
-   "excerpt": "",
-   "source": "Norte Sostenible",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHlVMWFzZ2s2TGw4eDJ4dVY0U1NFR3lTQk1zZ3VuRUJoTGZJX1ZibFNpak44WjBfYUx5QTZXaU14OHJUSk9JTmdwTXVKaUdseDlxMHNqdVFiaTc1YUlhdXp4M3ZVR2dZWWdaa1pvVDBLRzFrLWxtQVNFVXBDWlhXdG1ISkhOdUtGVFNTZ3VnSWZIbFdUS0dyS1RZelN1RERiSFlfSm91eVotYWJvb0w4YzVreWNnb0w5LTdGdVd0cXp1SU9DVGhBZ2xMa2k?oc=5",
-   "date": "2026-11-08T13:45:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
