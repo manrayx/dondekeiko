@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T15:00:22.846684+00:00",
+ "generated_at": "2026-11-10T15:22:19.541759+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,11 +116,11 @@
   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-no-estara-en-ultima-misa-del-papa-leon-xiv-ni-en-su-despedida-si-se-aprueba-su-viaje-hnews-890334"
  },
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 0,
+  "triste": 1,
   "posando": 58
  },
  "total_7d": 60,
@@ -395,6 +395,50 @@
  "agenda_minutes_7d": 423,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "817fe4a6237c",
+   "title": "VERGÜENZA: Keiko se irá del país mientras León XIV visita el Perú",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVpXazhlQWxqa2l0RnJtZ2ZYMmZpaGJWZWNib0NFZk5YajZ1bW9CQlVVRFJhVzdJcGoyTFJBM296QWtWMGhMMVhJUUFuc1JBVnJndS03dExwbExiWVJlSEN0aEhMZUx6ZWhDZWVTVDByR1k4SmlOb1dFUHFBVWVpZENLclB2dGFnWm5HOGQ4aktOT2x5b1Zz?oc=5",
+   "date": "2026-11-10T15:16:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b91ecb3c209d",
+   "title": "Viaje de Keiko Fujimori a China y Japón: premier Luis Galarreta responde a críticas por coincidencia con visita del papa León XIV",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZjJ4TEhWZGtHRG5kb1RxbUozZS16TTFFMGJZQTdsRlhIQjdlck02eUJzTll0Z2xBLXZNaWliLVltdS1reUVXenRtUGJYc1FER0ZnSGNyNDZ6YkJVSXl1X0tIaUFkaE80OHRSSy1CeEhOTHFzUV9rVzJaYlU3a3p6OGJycExBVlduTXlmaVdhZENPTWpxTVZ5X1FyZEMySUp0VkJQeHp5aWZzUGt6QmpGRDRGM1VVQUpYMkdMald3NklzeVFZZFBSaFZfcGxJWTVfLVVGNE5HMGU4bm42UnRXREVqNjhDcmR4SmpzSHZBbmZMYkJrOTZYbi04aHAxMkVCTTlZZGtXVHJHTmNsZXo3a1JSdXdxUVhsZ2c?oc=5",
+   "date": "2026-11-10T15:13:49+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b0e41b374c09",
+   "title": "Luis Galarreta sobre ausencia de Keiko Fujimori en despedida del papa: “El viaje a APEC es fundamental”",
+   "excerpt": "El presidente del Consejo de Ministros, Luis Galarreta, explicó que la presidenta Keiko Fujimori no estará presente en la despedida del papa durante su visita al Perú debido a su…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-sobre-ausencia-de-keiko-fujimori-en-despedida-del-papa-el-viaje-a-apec-es-fundamental-ultimas-apuesplan-noticia/",
+   "date": "2026-11-10T15:07:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2c43459d9adf",
+   "title": "Galarreta defiende viaje de Keiko Fujimori a China y Japón y descarta desaire al papa León XIV",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejk3ZVFrM1RHQzd3RjZxbDRBeUVmMWxjT0xBWFNnMGc2d2hZVFo4RVZlVzBCY2l5cTV0QTRvTXBBUm4ydXhaR1pEZEdXNzcxamg0cFF4TnJmdXRNWjJkLVpETi1UaklnRy1uaUt1UG43T2N2eC1SZzJfNlhMNHNaWU9EdlcyRURaN0g5VldxYTJUWlVoQ0pMRUVCWWhLSjdjN3ZfczdVYUZQQmZNRmVRcVZNN0ZKTXY3S2w5TQ?oc=5",
+   "date": "2026-11-10T14:07:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "fa04b7949669",
    "title": "Perú y Tailandia firmarán un TLC antes del cierre del 2026: los inesperados productos que podrían intercambiar",
@@ -711,7 +755,7 @@
    "title": "Presidenta Keiko Fujimori: Perú está alcanzando cifras históricas de exportación",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEt4X3lGMmVUcW41QmN5bmxxV0NXMW4tSkxKakFLTGkzdmpCbVNxLVpyRzhyV3pqbUhDVTVRX0RaZHNQRktUNktxVnRTMEFSeVhIV2dxbFF6TjBpVFhTRUZpc3RQN1FCbjJvbHpmeG5NTU43QmlCNU5DUHBUaEtpVDE2ZUZ6MnBXVlRzenJYbVBFb2xxeWZHWTJGTG9SOU94OGl1RWt1QVFULUtPdUZuVERMemp6UkpBa0s0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnlDSnh4c2VZRE9DS0NBRzFTOUlfUVNndVAyQ0F1UEhxRVhpRkR3d21EamlDb1Q1X2VVazRlLUFYSG1PcFQ0ZmVESEhrTTZ0ZURoVDg1eDVDemN3ZGJLOEhZSE9ueFl3b1dLeXFONnVFamVYQ3llX0NSakMyRmF0M0pjYmtmR0ZYd0FBdEpqazlqRlZPaTI2dFp0Rk40Wllpc1FGYVVBRVluMVN2R0hTRGxHenM1ZlNEOEtrYmREQ18?oc=5",
    "date": "2026-11-09T18:19:01+00:00",
    "state": "posando",
    "place": null,
@@ -1023,50 +1067,6 @@
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFdOMkM0dGY0Nm41bWVnaW1YeHhoVkYzVExnMzdxRk5DZjdVQ2xBaWtKLXczZlhBRnpqZ3U0S3ZYbFlZUkxxLTY0RlBUVXc5NnZoejlIRUtsdzJISWp2aEFaSUZ2SVlVekQwRFROWnJPMVRCU1BseGNvQjFaTEdadTVMY2o0RFh3d200d0NmMzY5dk5pQWMwUW4wMFg3dFZPZXg3MjhJOHBnZzJBX0FrSzlVZHNKdzZZeTNjb2R1UGJOZjlaUndRVXp1T0jSAdIBQVVfeXFMUEdZSm9GYWdabFgyYVZTbWctcUVUVjV3OEpiMy04MEpSUG1yWHdYeXMxTmZvZ2JwZ0JYcjNtZ2JaaG1RQ282anZOeTBTNlBWUVNqQmhESHlwWEpjUlVYQ0c3N1A0Y3N4OVIwMHppcDhyY1J3YVhqUkY2ajk3Z0dWVkFSbUhGcVpkYi1qaVVUTzliN1VsbTNuUS1zZlRWZzNhR2FQZ05kejlUOWcweDRPTEJ1NXg2Tks2WlFMdHZCbXJjbm14Q0EzQlpZM2VrcGNnRGJR?oc=5",
    "date": "2026-11-09T02:25:56+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32434c0181f7",
-   "title": "Gobierno designa a Miguel Rodríguez Mackay como embajador del Perú en Marruecos",
-   "excerpt": "El Gobierno de Keiko Fujimori designó al internacionalista Miguel Ángel Rodríguez Mackay como nuevo embajador del Perú en el Reino de Marruecos.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/gobierno-designa-a-miguel-rodriguez-mackay-como-embajador-del-peru-en-marruecos-noticia/",
-   "date": "2026-11-09T02:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e044ca133955",
-   "title": "Keiko Fujimori asegura que su gobierno rendirá cuentas: \"Estamos yendo en el camino correcto\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaG5YRzhsSWFWc0xCTlgtdHFSb1c5OWtoVkd5QTNxSkdFSGk0MTF1ZlJrbDJ1MXlmdUkwYU9tNDBQNldhQldVNUFEeWdrQXBHRnR4cmtNNW1WZWtEbzE3b2J3U1dmbmRnNjlWZUFRZlNuVDBYREZkUzZ2VkJBQl9kaklTcjZlUUhtaC16WGJRcVNFanc5V2VKNkJKemxlZ1dYNzRoZUtJNVEzT2JuRlNIa081SWd3X1RiZWZyanJhSFR1Z21ZTmlZ?oc=5",
-   "date": "2026-11-09T01:47:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cc1dad72f23b",
-   "title": "Keiko Fujimori a tres días de la llegada del papa León XIV: “Perú está muy ilusionado de este regalo maravilloso”",
-   "excerpt": "La mandataria destacó el entusiasmo de los fieles peruanos ante el regreso del pontífice, quien ejerció como obispo de Chiclayo antes de su elección",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNZGEtdzJyMkg4V3ZnR1V2OVpDMUpmM0xySm1EOGRYX0VFM1dhU0RxY0JIdVFnVFk2RFVqYlJLaHk5WWRIUVNhWGdCQ3ZqZzdiVEVZcVhqdFh1VWhCUEk4amxSWk9fVl91a3Q0QklSTWpOdlowZlZva2RibEFCcnByZlk5Q3ZGUU93VVJpV1dMckY1c3g1RU5fVTdDOUtYUWppWUN6TmpILVp1OEZlcjlhSzZLek1HQURxUkdRUUJoNlh1Q0xKajZLa2g0SHctaS0yTDZXRW9BRVN2TTU4S0Q4LU13NGF2TDF3MnM3SGRXdDB0cS1KNHhMT3NPdUdnRE9B0gGAAkFVX3lxTE1kYS13MnIySDhXdmdHVXY5WkMxSmYzTHJKbUQ4ZFhfRUUzV2FTRHFjQkh1UWdUWTZEVWpiUktoeTlZZEhRU2FYZ0JDdmpnN2JURVlxWGp0WHVVaEJQSThqbFJaT19WX3VrdDRCSVJNak52WjBmVm9rZGJsQUJycHJmWTlDdkZRT3dVUmlXV0xyRjVzeDVFTl9VN0M5S1hRamlZQ3pOakgtWnU4RmVyOWFLNkt6TUdBRHFSR1FRQmg2WHVDTEpqNktraDRIdy1pLTJMNldFb0FFU3ZNNThLRDgtTXc0YXZMMXcyczdIZFd0MHRxLUo0eExPc091R2dET0E?oc=5",
-   "date": "2026-11-09T00:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0b93e582ff64",
-   "title": "Keiko Fujimori retoma transmisiones en vivo y promete inversión de más de S/500 millones en compras de kits escolares a mypes",
-   "excerpt": "La presidenta señaló que la iniciativa contempla la confección de más de 1,2 millones de artículos escolares y prendas deportivas, mediante la participación de pequeños empresarios en su producción",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeWdCTG96QjNXQzJWaGNUNURtWnFXRUxnYUlSbWVXT012V0FENUN3ak5FeFZrTGw5d1hUZFNfVmtqMG5BTF9MQ0NJc2dTS1IyUWxXdnJwaUpfZ0JWOV9fN2dSZ1pkOHQwenY4MGNEOVJIdGlFV2ZVZHh4TXhHMWMzRnVJRzRGUll6dkdUX2VVdnJ1TkQ0LU54elF0VVppMlJGTmRFbmpObWVJUERpR0xTS2I1WnNDa1NveFV0RnJKbko2bkFtZGRQX3pkeWRuMjBKNlRENHBtSUd1SnV0dmFPZlF5cUEzaVFkcnBzbHpoUlRieC1teUNSeNIBkwJBVV95cUxOVndrYnZaLXhOWmUtVktISUpjeEpacXN0SlRXenltMkhEem53TUdkMXpLMUlxbU13RVRDNko2M3NiazJXQkh2dTVDZUVIWUp2OGNMVHQyVmdlM0FNaHp2OHlUVXNTZ3Vua2hvRERBdnY5TEJmYmFMVkVVblJXMUFHdm1pME1ycGxsdWF2b0UxQTF0YTNJdHJBbFRQaUxsM3ljcXp0UTZPZFJaVUg0U3NVYkdqNTF6a3dPY3F5Yno1aEItSlF4SVlUcklrczFXQnM3R0ptdnE3bGR2cnJWeDgwUEJWbjljcW84X05kMGExMGdKT2tkRm9zVDg4enowMFRMQ2hfd0N5YkhVbVlqTU5DUmdIUQ?oc=5",
-   "date": "2026-11-09T00:42:00+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
