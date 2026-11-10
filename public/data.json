@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T23:17:52.881571+00:00",
+ "generated_at": "2026-11-10T23:39:54.996507+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -386,6 +386,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1470bb6c3ac1",
+   "title": "Keiko Fujimori sobre viaje durante visita de León XIV: Jamás se me ocurriría desairarlo",
+   "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
+   "date": "2026-11-10T23:37:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2dd59ffa03b3",
    "title": "Senado debatirá autorización para que Keiko Fujimori viaje a China y Japón la próxima semana",
    "excerpt": "El Pleno del Senado debatirá este miércoles 11 de noviembre el proyecto de resolución legislativa que autoriza a la presidenta de la República, Keiko Fujimori, a salir del territorio nacional…",
@@ -415,7 +426,7 @@
    "title": "Luis Galarreta descarta desaire de Keiko Fujimori por viaje durante visita de León XIV",
    "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
    "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2Vzb01mblF2dVM3aFo0WmxYM1lJcGJNS2l3Nl9Ocll5eWs1a0ppYlhfVGdKSkdjeWRZXzlpdW5HYVEyNFBJTldLR3AyTmUyNENHOE9fTEtmTXNsd2IzRk1ZRk9ZUk5lZFRVdHFmR3p3MlJ1aS1WNkJReEktSUhTMzNMMm4wbUw2MlBFQ1RwVldnb2hMV2Fmc25hMnkwM292UlFSdTNLOU03UTE4NVJSQjliSjlRazJkTF9mcHJ3S0piUkU5YVM1b3g5Nm56X2paTU42cy1PUnh0Zw?oc=5",
    "date": "2026-11-10T21:04:02+00:00",
    "state": "posando",
    "place": null,
@@ -1051,17 +1062,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-publica-nuevo-decreto-legislativo-sobre-delitos-violentos-e-informaticos-apuesplan-noticia/",
    "date": "2026-11-09T15:32:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "12be0849f74d",
-   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
-   "date": "2026-11-09T15:25:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
