@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T18:58:37.278780+00:00",
+ "generated_at": "2026-11-10T19:19:51.544718+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,26 +94,16 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": {
-  "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
-  },
-  "source": "Infobae Perú",
-  "date": "2026-11-09T13:13:37+00:00"
- },
+ "last_place": null,
  "next": {
   "place": {
    "name": "China",
    "abroad": true
   },
-  "source": "Trome.com",
-  "date": "2026-11-10T18:46:44+00:00",
-  "title": "¡Se va sin despedirse del papa! Keiko Fujimori viajará a China y Japón por APEC y se perdería último día de León XIV en Perú",
-  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeUJ2cnBVUkszYjAxWTAxYi1kNy1iVXBNamw4ZVJJWW9BMl9HbVIzWWdYS2R6b0RnaXRQVkJYcjNhWjBIbktEbEVEbTlWRTVieVpEb2p6ek9jWVhPRGRQY0FCeEYybEtTdlN6Zi1xeUJWOVZFN3FpU3BCUWZvY2Z5ajgxMnhWcks0R3duQmZuQkthQzJCdE1meFA2d2docFlIVF9wWERIWnY5dzgwc0RJU2NQVE1ETjJNV1ZsWXpJOFc3Wm5YZlFNbE9aZUJPaDBKSWx5QnB3N1N0U1JTc212bS13YjhId1NK0gH8AUFVX3lxTE9hVWtTelRlQ2FrM3RXRWpqZURMTnhyN3lLM0dRME1KVFN4amRCYjRXY0xRNGtjN2tjclpsblpDbm1GbUI2ZzIwbnhuaGl5Y1I0V2tQRGtFTXF6aFhsMlJodGlYVXJWU2ZIOElKcktsbzRhdjBacDVtaUY5UldybkhGcjg3TTMyWXdLZ2VHRVpmazBFZ2hDS3FZRlBDRHVaNUVQUTNvaTlvWWFIYUY0UmhaNXNCUThBemxULURTbFB3dXcyZk1UMmk5elhFZ0pmaGU4MzFJVnZ0VWdOX0w5Yk1STUY3aU9rZHlka2V6RUpPZ0NPbFJybG42NnNmMA?oc=5"
+  "source": "AP Noticias",
+  "date": "2026-11-10T19:12:14+00:00",
+  "title": "Senado decidirá este miércoles 11 de noviembre si Keiko Fujimori viaja a China y Japón para reuniones oficiales",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFhRVE44dDRLXzJRMThBZW05cDBYNHRockZqdTZnM1ppTHlzTldVM1dLRG14WWM2SXE5elVNelMtdjA3ak00aFd0d0dydHEtQTcwemx6d3p0TWFuLXB1d0tibDUtX1VaZGhTTjRWN3BWcWFFQmcycHFNY1ZYcHBoclFDSjhTWlJ4dE82aUVfSjl6c09EVTRobW93NFMxLUtyWEJRRkl3TU9EWHJWMEt0QkloU2Y0R3ZWLUFlRXhjQ25DU0JyZGdGdXRRYm9rTEc1em03ZHVoVy1vSmFpWmc?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -395,6 +385,31 @@
  "agenda_minutes_7d": 423,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "801388c01673",
+   "title": "Luis Galarreta descarta desaire de Keiko Fujimori por viaje durante visita de León XIV",
+   "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
+   "date": "2026-11-10T19:12:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b1882c7326ee",
+   "title": "Senado decidirá este miércoles 11 de noviembre si Keiko Fujimori viaja a China y Japón para reuniones oficiales",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFhRVE44dDRLXzJRMThBZW05cDBYNHRockZqdTZnM1ppTHlzTldVM1dLRG14WWM2SXE5elVNelMtdjA3ak00aFd0d0dydHEtQTcwemx6d3p0TWFuLXB1d0tibDUtX1VaZGhTTjRWN3BWcWFFQmcycHFNY1ZYcHBoclFDSjhTWlJ4dE82aUVfSjl6c09EVTRobW93NFMxLUtyWEJRRkl3TU9EWHJWMEt0QkloU2Y0R3ZWLUFlRXhjQ25DU0JyZGdGdXRRYm9rTEc1em03ZHVoVy1vSmFpWmc?oc=5",
+   "date": "2026-11-10T19:12:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "1aa1ed0ad1c7",
    "title": "¡Se va sin despedirse del papa! Keiko Fujimori viajará a China y Japón por APEC y se perdería último día de León XIV en Perú",
@@ -1046,34 +1061,6 @@
    "date": "2026-11-09T14:43:02+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "5db4ddefb74e",
-   "title": "Gobierno de Keiko Fujimori nombra a exministro de Pedro Castillo como embajador de Perú en Marruecos",
-   "excerpt": "La presidenta Keiko Fujimori y el ministro de Energía y Minas, Guillermo Shinno, nombraron a Miguel Rodríguez Mackay como embajador extraordinario y plenipotenciario de Perú en Marruecos.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/08/gobierno-de-keiko-fujimori-nombra-a-exministro-de-pedro-castillo-como-embajador-de-peru-en-marruecos-hnews-799768",
-   "date": "2026-11-09T13:17:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "079a8b9b6561",
-   "title": "Estación La Cultura del Metro cerrará este miércoles 11 de noviembre por actividad del papa León XIV",
-   "excerpt": "Inmediatamente después de su llegada al Perú, el sumo pontífice participará de una ceremonia de bienvenida, además de un encuentro con la presidenta Keiko Fujimori en Palacio de Gobierno",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/09/estacion-la-cultura-del-metro-cerrara-este-miercoles-por-actividad-del-papa-leon-xiv/",
-   "date": "2026-11-09T13:13:37+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
