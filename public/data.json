@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T00:15:12.459622+00:00",
+ "generated_at": "2026-11-10T00:36:47.859539+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,7 +111,7 @@
    "abroad": true
   },
   "source": "La República",
-  "date": "2026-11-09T23:32:50+00:00",
+  "date": "2026-11-10T00:31:38+00:00",
   "title": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón",
   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-no-estara-en-ultima-misa-del-papa-leon-xiv-ni-en-su-despedida-si-se-aprueba-su-viaje-hnews-890334"
  },
@@ -461,6 +461,20 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "50257091e45a",
+   "title": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón",
+   "excerpt": "La mandataria solicitó autorización al Senado para salir del Perú del 15 al 21 de noviembre. Su itinerario contempla participar en la cumbre de APEC, en Shenzhen, y sostener una…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-no-estara-en-ultima-misa-del-papa-leon-xiv-ni-en-su-despedida-si-se-aprueba-su-viaje-hnews-890334",
+   "date": "2026-11-10T00:31:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "d246d9aee166",
    "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
    "excerpt": "",
@@ -492,20 +506,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "50257091e45a",
-   "title": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón",
-   "excerpt": "La mandataria solicitó autorización al Senado para salir del Perú del 15 al 21 de noviembre. Su itinerario contempla participar en la cumbre de APEC, en Shenzhen, y sostener una…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-no-estara-en-ultima-misa-del-papa-leon-xiv-ni-en-su-despedida-si-se-aprueba-su-viaje-hnews-890334",
-   "date": "2026-11-09T23:32:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   },
   {
    "id": "c76930dfea31",
