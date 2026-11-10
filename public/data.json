@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:55:38.952835+00:00",
+ "generated_at": "2026-11-10T14:17:06.673020+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-no-estara-en-ultima-misa-del-papa-leon-xiv-ni-en-su-despedida-si-se-aprueba-su-viaje-hnews-890334"
  },
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -395,6 +395,17 @@
  "agenda_minutes_7d": 423,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "fa04b7949669",
+   "title": "Perú y Tailandia firmarán un TLC antes del cierre del 2026: los inesperados productos que podrían intercambiar",
+   "excerpt": "La presidenta Keiko Fujimori anunció la firma de un tratado de libre comercio con Tailandia tras alcanzar un intercambio bilateral de USD 739 millones en 2025",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/10/peru-y-tailandia-suscribiran-un-tlc-antes-del-cierre-del-2026-los-productos-que-podrian-comerciar/",
+   "date": "2026-11-10T13:57:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "5e11f02a5303",
    "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV: “Ella lamenta no estar hasta el final”",
@@ -1061,17 +1072,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeWdCTG96QjNXQzJWaGNUNURtWnFXRUxnYUlSbWVXT012V0FENUN3ak5FeFZrTGw5d1hUZFNfVmtqMG5BTF9MQ0NJc2dTS1IyUWxXdnJwaUpfZ0JWOV9fN2dSZ1pkOHQwenY4MGNEOVJIdGlFV2ZVZHh4TXhHMWMzRnVJRzRGUll6dkdUX2VVdnJ1TkQ0LU54elF0VVppMlJGTmRFbmpObWVJUERpR0xTS2I1WnNDa1NveFV0RnJKbko2bkFtZGRQX3pkeWRuMjBKNlRENHBtSUd1SnV0dmFPZlF5cUEzaVFkcnBzbHpoUlRieC1teUNSeNIBkwJBVV95cUxOVndrYnZaLXhOWmUtVktISUpjeEpacXN0SlRXenltMkhEem53TUdkMXpLMUlxbU13RVRDNko2M3NiazJXQkh2dTVDZUVIWUp2OGNMVHQyVmdlM0FNaHp2OHlUVXNTZ3Vua2hvRERBdnY5TEJmYmFMVkVVblJXMUFHdm1pME1ycGxsdWF2b0UxQTF0YTNJdHJBbFRQaUxsM3ljcXp0UTZPZFJaVUg0U3NVYkdqNTF6a3dPY3F5Yno1aEItSlF4SVlUcklrczFXQnM3R0ptdnE3bGR2cnJWeDgwUEJWbjljcW84X05kMGExMGdKT2tkRm9zVDg4enowMFRMQ2hfd0N5YkhVbVlqTU5DUmdIUQ?oc=5",
    "date": "2026-11-09T00:42:00+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e11c61e9e337",
-   "title": "Keiko Fujimori regresa a los EN VIVO y expresa su emoción por la llegada del papa León XIV al Perú",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVE1WcTd4THBqV1dKZ0ZJV2RWbU5KaE93cTdWejZtOEc4ekhCNVdKUUluWEdfTzN5N2cwRFZwalNTRWtaY09paS1tUUlIWWFKUXM0U2FHdHhOUnV5T01ZaEhaVWV4UHBVVzhmcm0xaVRTdTRuZ3NJRTlfR0hCbThHOXc0SDBkWHpJTWJRem11WTNTQWNxdFNzaVg2OGpxR0tlRnA1dXN3T1VBNmVMdjlIeTlNcTJlZnN6Vklkcm1iWjJlQQ?oc=5",
-   "date": "2026-11-09T00:09:48+00:00",
    "state": "transmitiendo",
    "place": null,
    "next": null
