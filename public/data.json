@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:53:54.703887+00:00",
+ "generated_at": "2026-11-10T18:15:20.158044+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-10T17:48:58+00:00",
-  "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón",
-  "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/"
+  "source": "Perfil",
+  "date": "2026-11-10T18:07:43+00:00",
+  "title": "Keiko Fujimori viajará a China en medio de la visita de León XIV a Perú y la comparan con Milei",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOG9IaGNOVnJPTHFDaU1YcVl3aUpnZTNMUzd3SVlDV2hWdzhWNk9hUGQyVUs4NXJIelJhYnNIWnY1ellObFBGaGtuYm0wbHFRd3JBMDVjakhPcW1WVl9QRllXSllIQnhMaFpMQk5ldEZqVjlEOWNaY1lPVHEzaHJwWWRuMHJkR3hUX3NtZzVybGFrVk1fb0swSDZIQzJPTjBWaGRsZjFVSzZtVlh0Vnd5NHRHZXFRQzUtZU1KQlVscEtYMTl6MDJENWh2THR2dUVrSVJsajc0eFI4eUxIMkE?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -396,18 +396,57 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "bd2213736cf7",
-   "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón",
-   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
-   "date": "2026-11-10T17:48:58+00:00",
+   "id": "feffb3efc340",
+   "title": "Keiko Fujimori viajará a China en medio de la visita de León XIV a Perú y la comparan con Milei",
+   "excerpt": "",
+   "source": "Perfil",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOG9IaGNOVnJPTHFDaU1YcVl3aUpnZTNMUzd3SVlDV2hWdzhWNk9hUGQyVUs4NXJIelJhYnNIWnY1ellObFBGaGtuYm0wbHFRd3JBMDVjakhPcW1WVl9QRllXSllIQnhMaFpMQk5ldEZqVjlEOWNaY1lPVHEzaHJwWWRuMHJkR3hUX3NtZzVybGFrVk1fb0swSDZIQzJPTjBWaGRsZjFVSzZtVlh0Vnd5NHRHZXFRQzUtZU1KQlVscEtYMTl6MDJENWh2THR2dUVrSVJsajc0eFI4eUxIMkE?oc=5",
+   "date": "2026-11-10T18:07:43+00:00",
    "state": "posando",
    "place": null,
    "next": {
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "252081be57b5",
+   "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-10T18:01:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "bd2213736cf7",
+   "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón",
+   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbGx2MlBacXpRU0F3a0dxTVctZlB6RnNJREtFNzhVdDBkZGRiXzVUa2l0V0d1RS1KZlpCak5lc2lfeThVNHVOek13dHQ5bEstM2ZHZ0g4UGM2ckc3ZFhhZGFSZkpDVG9ZSUcwWjNsTzlNQUxFTkZlMVlBQ2ktZUdrZWdtMElianRaTGlpOVVFbmRpMW9qSjdGUmQzQl9kMTRndFhzNkQxOE9kZXczazgwRmEtZU1qdG9XX2VGWTY4b184VnNDUmtKOUFuR29RRHZ3ZVZ5aHhQWG5CM2ROVDdLZmZsNHBZY1kzTnA0UFMxVHFmVDZGRkc3Xy1XZWZJMlhGTmlSbGNZWmVyLVFkVXl5cTBMbmlHWmYwanpKMVNBR0JHbXQycjRScC1IdloxUDDSAcMCQVVfeXFMUElqRUlwQVNkZFl0U1J6U3RoNzJuTWpQd1lIZm5meVpKZ0hUZTI4Q0JtTTNkUERkc1hTZTU0ektxTmJCc2Q4Qk1xUERpLTRLWHVoX0xTZUF3SFRwX210RUhHcmV5NVNoaGd1ZDA1ZkJtLVFlZHNZbkdUWlhkOU00NEItbG9JeklpZEtKR0M4RnF4SHVyNC1EZTVIZG5BOGs1Z2tNS1hzQ0xYaEwtM1BnRXcydjB3LXlaSVhuQ3lfeHF3YWJGSDJ4Q2xvaXd0MDRnUS1BMmE0OFhvcTVsUE5LN0FuWHdaZVJkNEdraUxWeWlWRVhDWGYwcjVUQW1wNFE4R2NPS18yTmhvb1BNd2Z6WWxxa1Q0cy1vbTgweS0wLTZCTGJWdFdyN29LYW5yS0JBUndfS1NDUXZWUWxwRUhLd0w5aWc?oc=5",
+   "date": "2026-11-10T17:39:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "8763a49b68a6",
+   "title": "Premier Galarreta defiende viaje de Keiko Fujimori a China y Japón por prevención ante El Niño",
+   "excerpt": "",
+   "source": "La Decana Radio Juliaca",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXhiR3FDRjE3VXB6VFU1RzNtM2lpUE82NnlfcE15ZTNMQmRYTFJUcUF2eWxZa2pNZW5YZkQ2UGNUNHR1d1VMRW42eE9UTHRhOVU5OUt6MzNwMlJjbklDZnN3LTBTUmI5TWNVWFd6MnNyOEtpbDBYajNqYWRvWW10elRJV3ktUWRjLWc5czhpQ2xtcFl4aHpMWUU4TUlVNlRKYTAyZ2lXVTlic09vQmFNODhtZ2tIV1N1YjlldFVrUDl0MVhNaFk2LTN4V1Y0enh0bWc?oc=5",
+   "date": "2026-11-10T16:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "5e11f02a5303",
@@ -1038,39 +1077,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "40d1bd6e62d1",
-   "title": "Luis Galarreta defiende gestión de Keiko Fujimori y afirma que cumplirá sus promesas: \"Se ha hecho más que otro gobierno\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd2MwNDg4SEtlTmlyQ2xPN0dkWUNNS2d4cmk4UTZLbmRQR1V6anBVZ3NWMnI3N3ZwclZidmptX2hZcmVNR2p5RHpMOEoyZFZwUkhBR3lzdjlkbmFISGphZWxJOWlWUmJ1MnlhNzdzQnJQcEZXVndpYmNyY3k0NDR2TW1n?oc=5",
-   "date": "2026-11-09T12:41:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "159fcafd1347",
-   "title": "Juan Sheput califica los 100 días de Keiko Fujimori como “los mejores de este siglo”",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV21aYzhIem1YSHlPNVdQWnZsc1JYQ01jamVGWE52NUkwWEM3eko1UGNmdU13M01QZUtYT3JTOEpHTHM5WlhzWF9weHBoUXlmRUlNSEUyV2Rna0F1TFVud1d0LUY1SEVKUXJQQlNQdjBLWmFSUmpaMGoxcWtmMG1WYzJiQkxuVnVGaW5fbWMzeXE0ZmZJVGR5T2NrMG9aWTZvT3dzSEpNWWRVQWlabC13?oc=5",
-   "date": "2026-11-09T12:37:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "716122fe91df",
-   "title": "Gobierno publica primer decreto legislativo y autoriza a las FF.AA. a reforzar control perimétrico de los penales",
-   "excerpt": "A dos semanas de haber recibido facultades para legislar de parte del Congreso (y tras una fe de erratas), el gobierno de Keiko Fujimori publicó este domingo el primer decreto…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
-   "date": "2026-11-09T12:30:35+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
