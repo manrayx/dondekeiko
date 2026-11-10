@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T13:34:12.477125+00:00",
+ "generated_at": "2026-11-10T13:55:38.952835+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -396,6 +396,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5e11f02a5303",
+   "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV: “Ella lamenta no estar hasta el final”",
+   "excerpt": "El primer ministro confirmó que la presidenta no llegará a la jornada final de la visita papal y respaldó el viaje a la cumbre de APEC y a Japón como…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/10/luis-galarreta-niega-desplante-de-keiko-fujimori-al-papa-leon-xiv-ella-lamenta-no-estar-hasta-el-final/",
+   "date": "2026-11-10T13:53:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2a10e2b00742",
    "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
    "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 15 al 21 de noviembre para asistir a la cumbre…",
@@ -515,17 +526,6 @@
    "source": "RCR Peru",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTG5uRkVPVXc1NTFrWmlKbnRYRTNrRmUxUnItMzM4QkFPeXZmenJTblZKdkE3SWNJYmJQcjk3SmNhaXBXV25KU003cnFiUk9RaU5oem1zU3FOQVpUUUR2MnE3WENKUFpNQ29SQlpBUWRrRDh1SXh1QnNJOXA1MFpHOEdWWHJQNW5sQUEyNUk2cnVpUFIzdXFjOFpEZ0hPMi1WMkxOeHluWEhVYlFHYUFXMjJVQjRpZkk2YlFOSFVwS3hNTlc4Q1d1eG1ob0UtU2ZtVlFqLTE2WGdIcHNObVpoalVfZUE4QzB4dEZTRi1DZWFVY0hXY1E?oc=5",
    "date": "2026-11-09T23:40:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "26e0b31d1422",
-   "title": "Presidenta Fujimori solicita permiso al Congreso para viajar a China y Japón",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVJ1cGJwOFQwSlZvN0hKWG9LYzJQWldhRUxuUzlvRlFqSGNfR3BTNjJVcGhrR0JwT1AyM0VMM1pBbUljcFF3U2dPU1pTemcyS0prdURyV2pUd2s4N1pJV2ZsQlFoeENjblpndTZDSGRyazJhZVlTT1VuU0xNdzFJU2dtY1lBZTZSeks1RWFhejRYZVhsTEhsYW5jUkk1VHNBQ09MN1NUaTFiX1g0ckVXc1RB?oc=5",
-   "date": "2026-11-09T23:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -664,6 +664,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-china-a-cumbre-de-apec-y-realizar-visita-a-japon-utlimas-noticia/",
    "date": "2026-11-09T19:03:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "26e0b31d1422",
+   "title": "Presidenta Fujimori solicita permiso al Congreso para viajar a China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVRfWExxQzZqM0RoX2N3TzQ0QkhMNVdIVHA3TzU2ZW1seTIzRjFvS3FHNW5wNGZXLVlqdk92RFJLYlRxY0F4VXg0OVFldXd2V3NMR2l1TGg4dzdtTnRza19lWWZZRXVDUDZHUFV6dXBQMFhYa3I2MzBLeWlxdXlqbGRaT1lkZWx1UElIcXF6NUhVSFlsc0w4TjJvRzFZWko5YVVFNGpidVp1eHU5MHRWRGhfVFZFRGx3Nm5RUjBLeHI?oc=5",
+   "date": "2026-11-09T18:46:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1062,17 +1073,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVE1WcTd4THBqV1dKZ0ZJV2RWbU5KaE93cTdWejZtOEc4ekhCNVdKUUluWEdfTzN5N2cwRFZwalNTRWtaY09paS1tUUlIWWFKUXM0U2FHdHhOUnV5T01ZaEhaVWV4UHBVVzhmcm0xaVRTdTRuZ3NJRTlfR0hCbThHOXc0SDBkWHpJTWJRem11WTNTQWNxdFNzaVg2OGpxR0tlRnA1dXN3T1VBNmVMdjlIeTlNcTJlZnN6Vklkcm1iWjJlQQ?oc=5",
    "date": "2026-11-09T00:09:48+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e8d829565456",
-   "title": "Keiko Fujimori da balance de los primeros 100 días de gobierno: ¿Qué resultados exhibe?",
-   "excerpt": "La presidenta Keiko Fujimori presentó el pasado jueves 5 un balance de sus primeros 100 días de gobierno, en el que aseguró haber cumplido cuatro objetivos trazados.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-da-balance-de-los-primeros-100-dias-de-gobierno-que-resultados-exhibe-apuesplan-noticia/",
-   "date": "2026-11-08T22:35:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
