@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:12:27.420120+00:00",
+ "generated_at": "2026-11-10T22:34:28.749223+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -386,12 +386,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "93e3b3d1b303",
+   "title": "Trece detenidos en una operación errónea contra la minería ilegal",
+   "excerpt": "Por la culata. El gobierno los presentó como integrantes de la organización criminal Los Guardianes de La Pampa. Incluso la presidenta Keiko Fujimori felicitó al Comando Unificado y a la…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/07/trece-detenidos-en-una-operacion-erronea-contra-la-mineria-ilegal-218064",
+   "date": "2026-11-10T22:21:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "801388c01673",
    "title": "Luis Galarreta descarta desaire de Keiko Fujimori por viaje durante visita de León XIV",
    "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
    "date": "2026-11-10T21:04:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b00ea097d8fb",
+   "title": "¿Desplante al papa? Keiko Fujimori viajaría a China antes de la despedida del León XIV",
+   "excerpt": "",
+   "source": "Evidencia.pe",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fVkJNcnBpZGh1aHpqV2JVWlRCd3lqaWJJaUVPWGtSZ0hJMy03RGpuUUNoQTJKWFc4RU9xb1l4UUtDbzFxNTBYTnM2eEgyYWtueC0yMkhOVHRwcnF0YWstSDZNbVJOZEhoNmdPaHM5VVRiSHdPRHcxcjROUWw?oc=5",
+   "date": "2026-11-10T20:38:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -487,6 +509,17 @@
    "source": "La Decana Radio Juliaca",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXhiR3FDRjE3VXB6VFU1RzNtM2lpUE82NnlfcE15ZTNMQmRYTFJUcUF2eWxZa2pNZW5YZkQ2UGNUNHR1d1VMRW42eE9UTHRhOVU5OUt6MzNwMlJjbklDZnN3LTBTUmI5TWNVWFd6MnNyOEtpbDBYajNqYWRvWW10elRJV3ktUWRjLWc5czhpQ2xtcFl4aHpMWUU4TUlVNlRKYTAyZ2lXVTlic09vQmFNODhtZ2tIV1N1YjlldFVrUDl0MVhNaFk2LTN4V1Y0enh0bWc?oc=5",
    "date": "2026-11-10T16:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1fc25ea535bb",
+   "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV",
+   "excerpt": "",
+   "source": "DIARIO VIRAL",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVpsdFlqSk5NMkN4c2lOczBvZFd2T1FXWEpDYjZZcDNpSHQ5UF9PTVplVGxGOUNFX3BQQnk5WTZCMllCWTdqblUzcVo3VmdFQXZXYzZMcFJ5TTZ0YlRlQ0ZZV2RmS3VMV2gwa0ZOVzI1eEFBb1NlY1RiNjRNVFY1a0MzRG5xdEpwTnh0VzF5b2NrZVY2OEl5cXpPcGNNZDRNekpEcQ?oc=5",
+   "date": "2026-11-10T16:31:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1029,39 +1062,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
    "date": "2026-11-09T15:25:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a6b5bb015ee3",
-   "title": "Por qué se archivó en Perú el caso de las esterilizaciones forzadas de 4.000 mujeres durante el gobierno de Alberto Fujimori y cómo quedan las víctimas",
-   "excerpt": "",
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmcUZxRVlVQmxIa2dSd0hneUptQWNuYUNLUW44TmdPS2FOVWgxWFgwUVNlbVVNUUNBZXY1dGwtRFNMWm02UDRXTDNMRDZ4OTc3SGxzNEdKX2JsQnQw0gFiQVVfeXFMUHlzaEU0U09UUXdSbUM5aVU4UGNzT0hKUmxPdG9pd1hQQy1tTkJuWmRZRXFaSXhtRkFNakNILXdiM0RhYWtIYkpZeHdETW9ucjZpSXF3MVY5T1dxV2lhQ0duaGc?oc=5",
-   "date": "2026-11-09T15:06:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8e5ab391a1b8",
-   "title": "Keiko respalda a Pedro Alliana",
-   "excerpt": "",
-   "source": "El Men",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhdFJKY211ZWJvOGlxZ0FOZHFLVG1Fc3JSUExxMzJoTUNXQWRvTWtYaHhvcDVaZE9DVmtINDlDSlZsS2NKNHNCX0xxUldHTHZEaEEzTWEtNEVlYUto?oc=5",
-   "date": "2026-11-09T14:55:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "978fcb23dc13",
-   "title": "GOBIERNO DE KEIKO FUJIMORI “ES INCAPAZ, INEFICIENTE E INÚTIL” TRAS SUS PRIMEROS 100 DÍAS, SOSTIENE ANALISTA RUDECINDO VEGA",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYi0tRF82R2ZMNWVvQ2tmb1JPdVFIcl9XX2RnV1pUSTc0ejR2YTQzLWFSOTZ3WmhfWmNYd2hCQWtZUFpGQzYzcWtHY0VBWFViUXNxbGJwRUhGTFIxSXB4U1RlNm5ReS1sRWdUdmdaa3dzc0dWX3Z5WE9HUk9WNXBFUmFvNExvSE05RUpfcDBjUlRXeC1fOE5NOC1Xd1pRTy16UzdtU3FPMVdMSVd1aUJkZVRIelJEaFA2WmVQYnBtclc2UG0zX3o3SGRoMU51Z0JoeUYxNXdkZDBxVDA?oc=5",
-   "date": "2026-11-09T14:47:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
