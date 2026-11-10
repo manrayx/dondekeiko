@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T00:36:47.859539+00:00",
+ "generated_at": "2026-11-10T00:58:09.919764+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -486,23 +486,23 @@
    "next": null
   },
   {
+   "id": "8ab41452313c",
+   "title": "El Niño: presidenta Fujimori supervisó despliegue de buques de la Marina de Guerra al norte",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWt1R29yT1NmSTdzTnRLNlh1RDlfd3BWLTZyVjFmQjVKUzBWNnZPOHphMXRFZnRfSkZ3T2VLck41SXBqeDFTT2JlS1ZtdnVWaF9ITkowYUpmOTg2elp0UlotVWRZdXRVTkoycXpydUhhUmtUdmpxcFc4bHR3a0EtNE02VW9ZNkFPUjZpUE45OEY3SUNYRXh1bnFhM1F4ZVlxTkhWaERHdEN2azBUUUs3blBxT3JFU01YRmlwWlIzSUFoTzZfcjZLeFFBQ1UtMHc?oc=5",
+   "date": "2026-11-09T23:48:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "30617fe4f1ec",
    "title": "KEIKO FUJIMORI NO ATERRIZA EN ACCIONES NI METAS LAS IDEAS DE SU PLAN DE GOBIERNO TRAS SUS PRIMEROS 100 DÍAS, ADVIERTE ANALISTA JOSÉ SALAZAR",
    "excerpt": "",
    "source": "RCR Peru",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTG5uRkVPVXc1NTFrWmlKbnRYRTNrRmUxUnItMzM4QkFPeXZmenJTblZKdkE3SWNJYmJQcjk3SmNhaXBXV25KU003cnFiUk9RaU5oem1zU3FOQVpUUUR2MnE3WENKUFpNQ29SQlpBUWRrRDh1SXh1QnNJOXA1MFpHOEdWWHJQNW5sQUEyNUk2cnVpUFIzdXFjOFpEZ0hPMi1WMkxOeHluWEhVYlFHYUFXMjJVQjRpZkk2YlFOSFVwS3hNTlc4Q1d1eG1ob0UtU2ZtVlFqLTE2WGdIcHNObVpoalVfZUE4QzB4dEZTRi1DZWFVY0hXY1E?oc=5",
    "date": "2026-11-09T23:40:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8ab41452313c",
-   "title": "El Niño: presidenta Fujimori supervisó despliegue de buques de la Marina de Guerra al norte",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWt1R29yT1NmSTdzTnRLNlh1RDlfd3BWLTZyVjFmQjVKUzBWNnZPOHphMXRFZnRfSkZ3T2VLck41SXBqeDFTT2JlS1ZtdnVWaF9ITkowYUpmOTg2elp0UlotVWRZdXRVTkoycXpydUhhUmtUdmpxcFc4bHR3a0EtNE02VW9ZNkFPUjZpUE45OEY3SUNYRXh1bnFhM1F4ZVlxTkhWaERHdEN2azBUUUs3blBxT3JFU01YRmlwWlIzSUFoTzZfcjZLeFFBQ1UtMHc?oc=5",
-   "date": "2026-11-09T23:36:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -602,17 +602,6 @@
    "next": null
   },
   {
-   "id": "26e0b31d1422",
-   "title": "Presidenta Fujimori solicita permiso al Congreso para viajar a China y Japón",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVJ1cGJwOFQwSlZvN0hKWG9LYzJQWldhRUxuUzlvRlFqSGNfR3BTNjJVcGhrR0JwT1AyM0VMM1pBbUljcFF3U2dPU1pTemcyS0prdURyV2pUd2s4N1pJV2ZsQlFoeENjblpndTZDSGRyazJhZVlTT1VuU0xNdzFJU2dtY1lBZTZSeks1RWFhejRYZVhsTEhsYW5jUkk1VHNBQ09MN1NUaTFiX1g0ckVXc1RB?oc=5",
-   "date": "2026-11-09T20:45:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "2a10e2b00742",
    "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
    "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 15 al 21 de noviembre para asistir a la cumbre…",
@@ -685,6 +674,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-china-a-cumbre-de-apec-y-realizar-visita-a-japon-utlimas-noticia/",
    "date": "2026-11-09T19:03:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "26e0b31d1422",
+   "title": "Presidenta Fujimori solicita permiso al Congreso para viajar a China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVRfWExxQzZqM0RoX2N3TzQ0QkhMNVdIVHA3TzU2ZW1seTIzRjFvS3FHNW5wNGZXLVlqdk92RFJLYlRxY0F4VXg0OVFldXd2V3NMR2l1TGg4dzdtTnRza19lWWZZRXVDUDZHUFV6dXBQMFhYa3I2MzBLeWlxdXlqbGRaT1lkZWx1UElIcXF6NUhVSFlsc0w4TjJvRzFZWko5YVVFNGpidVp1eHU5MHRWRGhfVFZFRGx3Nm5RUjBLeHI?oc=5",
+   "date": "2026-11-09T18:46:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
