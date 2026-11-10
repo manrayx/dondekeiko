@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T01:42:02.088431+00:00",
+ "generated_at": "2026-11-10T02:24:44.906154+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -461,6 +461,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9227dbc99ca3",
+   "title": "Perú suscribirá TLC con Tailandia en los próximos días, dice Keiko Fujimori",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/tlc-noticia/",
+   "date": "2026-11-10T02:20:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "32f65a0917c9",
    "title": "President Keiko Fujimori to attend ceremony for Peruvian Exporter’s Day",
    "excerpt": "",
@@ -558,17 +569,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWHZaQjFQYVBCbG5aRzVoY05ySXcwM0tsM0dmQlQwNHRxeXg2a2d3ZU1ZSG5kd3BPQ1NTWjRIM0NKUEkxX0o0TTRVdFNrbEZMZl9OcFFEOHZwRWY5WDNhTkJhN19BdkhrdVE1aUJtNC1NZkV2OHpCY2h6RkZ5d0tEV1NucW1BeXZ3SnQwWllsd2NRU245NnJyemxGcUdCVEZKdnNLYU9paVR5c0FsZlNUS3JPWGhIYkxycFlRWXF0TFY5SXlzVGRQNGxldGZCS08tVHRMYTd2ckhROFlBSXBhaWVwUG1TSWxLY0pRT3UyQVFJNUU?oc=5",
    "date": "2026-11-09T22:44:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9227dbc99ca3",
-   "title": "Perú suscribirá TLC con Tailandia en los próximos días, dice Keiko Fujimori",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/tlc-noticia/",
-   "date": "2026-11-09T22:20:40+00:00",
    "state": "posando",
    "place": null,
    "next": null
