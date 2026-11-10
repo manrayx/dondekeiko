@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:31:53.466399+00:00",
+ "generated_at": "2026-11-10T17:53:54.703887+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,9 +111,9 @@
    "abroad": true
   },
   "source": "El Comercio",
-  "date": "2026-11-10T17:28:24+00:00",
+  "date": "2026-11-10T17:48:58+00:00",
   "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón",
-  "url": "https://elcomercio.pe/politica/congreso/senado-debate-permiso-de-keiko-fujimori-para-viajar-a-china-y-japon-ultimas-noticia/"
+  "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -400,8 +400,8 @@
    "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón",
    "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
    "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/congreso/senado-debate-permiso-de-keiko-fujimori-para-viajar-a-china-y-japon-ultimas-noticia/",
-   "date": "2026-11-10T17:28:24+00:00",
+   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-10T17:48:58+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -520,6 +520,17 @@
    "next": null
   },
   {
+   "id": "bca6137a74a0",
+   "title": "Galarreta defiende viaje de Keiko Fujimori a China y Japón y descarta que sea un desaire al papa",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0RPQmEyS3JTM20yem5hcF94TWRVV2N3aVBEaFBDQW1wT2ZtUTFOMi1Cd2hNaERXbDVZMU5zbEl4anFxWGpVeFZnMklJUjhWNUtfR0ZJWlYxRE5mZFNuNVlkbVhFVVgycldFZDFPQUFnNDdtWGp0M0lySDNDQ3NLTEJaeHNuSndyZGtydWQxSG1BSC1PNG9GVmtZRmUxTmtSTk14ZWNWOW1EN3dETEpIRFd6ZXR2bGFkZkF5YktWNEE1UUk?oc=5",
+   "date": "2026-11-10T13:37:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2a10e2b00742",
    "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
    "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 15 al 21 de noviembre para asistir a la cumbre…",
@@ -591,7 +602,7 @@
    "excerpt": "",
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUhkYmtyX0xVcHpiaFNaUlprbjVKTnp2V3ZnVHJUbG5tT003MnN6NFg3OXFjLUtXTTliUkhzeFotaGFLNVFuTDFHS2dfcVNaT1N1N1hoMm9XZlIzanFONHRkdnJ1b1RMNDFReE10RmdwcGc2TlU4S3dLaXR6ZTEtNkpnbk1meEo4bl9RbThTVlQ3LXU1cXFOSzJydzFWcUpkMUxiTmQ1LUZVdDFvdUVabTNScXZNS3dUeUHSAb8BQVVfeXFMTkJ1b2RHd0pwUUJ5ZGk2UEZwc2dBci02VjYxQnR5d0tHVVVGTkIya1dZTGoyWUVNdkEydHE5bkdjWmdHamZtRGlwN2VnUU04cE5KWlBFSGU4WlBXYkxlQzRtVHFjMnZaMW5IV2xqWTZEQ0FRSEw2clBabjhSQ09tSE1SSHY0aVNtcWNvNWtmRkVCMV9QajJmZ1JKajdYV1B1VC11M2lBV24tUjN3QWlxSlY5bU5FeXJUVjRKd0RFTnM?oc=5",
-   "date": "2026-11-10T01:04:46+00:00",
+   "date": "2026-11-10T01:10:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1058,17 +1069,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-publica-primer-decreto-legislativo-y-autoriza-a-las-ffaa-a-reforzar-control-perimetrico-de-los-penales-noticia/",
    "date": "2026-11-09T12:30:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9d5552817003",
-   "title": "Keiko, los próximos 100 días, una crónica de Fernando Vivas sobre la presidenta Fujimori",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
-   "date": "2026-11-09T12:30:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
