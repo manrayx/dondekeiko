@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T23:53:45.177517+00:00",
+ "generated_at": "2026-11-10T00:15:12.459622+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -461,6 +461,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d246d9aee166",
+   "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYldXQWgwT1RCdlZ1SzRxbVdPWjhYRVhBOHgwdVoyamNicGg4Y3AzenZRTG9vdzZ5WEpCdDd0dC02Q2tjNWlfczFpcFMwTVdSRnpMWC1ibHQ5VlRObVpxVEZaRDJWSTlQbE5pLVFLclBhS3ZpaVZjZEQ1X19EOWYwSzFhU3JGNktBQkZXdmt4Y2NxWUczUkVyNTY0YU5LNEk1NkE4NDkyV3dEZzZvLUpnUUIxMjd4VzBJdjdnWmRQMERuUEl6dmxYVEVOTFdzMXNFREYwVEZORFdoa0dTVnhOMTNTV1NSdzZKUlHSAf4BQVVfeXFMTXdWaUo0YjlxZU9jaWhmcTAtOFRxV2Q4V01NM1M5OU0yLTk4dko2VmR2d3RKbC1ob2hjQkFxYlpyNjJYRkE4TjNxUG1RLTRxQ0pGTGtfdDIzWHhuT3ppSHVsUXlLODZrUnlaeHh1aTQ5bEd6LTZJbk85ZG8zZUJFM3lOMmNLMmU0NGFFVlNsdmQybk9BSXduOUZCaHVDbjVnclNIeHFYSHNTZ2NtNjNnSVhqMm95Rk9TVVNpUlEzT2ZrWHY1dkFXZFhWM2tYRjFvb0dHY0E4ZHk2SE8zakJUR1ZjOHIxNmYwTnFxRXc1ZVo3R2xsN0MtMHVndkt5dVE?oc=5",
+   "date": "2026-11-09T23:57:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "30617fe4f1ec",
    "title": "KEIKO FUJIMORI NO ATERRIZA EN ACCIONES NI METAS LAS IDEAS DE SU PLAN DE GOBIERNO TRAS SUS PRIMEROS 100 DÍAS, ADVIERTE ANALISTA JOSÉ SALAZAR",
    "excerpt": "",
@@ -502,7 +513,7 @@
    "excerpt": "",
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORmtyZUl5NUxRTzgtR2wxd2lyZFhaakpCNUp6SU5lb2xBRDBGOGNKRjNLQVU2M0JWbVowZkw1WHZXVXFORi00UlFJS1R3Y1JrR2dYZXdlaUlmY0pnenZjQlRKYWhOcm1yNFBJdU8tNXNOaFdBRmZYdkt6VVMxN1ljNzJjXy1zbktidTY4T2Vqbjg4VzlxQ3VGR3BmMzhON3pFVl9EYmVNLVltOU9FZkFYbHNwVFdaODJa?oc=5",
-   "date": "2026-11-09T23:24:26+00:00",
+   "date": "2026-11-09T23:24:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1126,17 +1137,6 @@
    "source": "Norte Sostenible",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeHlVMWFzZ2s2TGw4eDJ4dVY0U1NFR3lTQk1zZ3VuRUJoTGZJX1ZibFNpak44WjBfYUx5QTZXaU14OHJUSk9JTmdwTXVKaUdseDlxMHNqdVFiaTc1YUlhdXp4M3ZVR2dZWWdaa1pvVDBLRzFrLWxtQVNFVXBDWlhXdG1ISkhOdUtGVFNTZ3VnSWZIbFdUS0dyS1RZelN1RERiSFlfSm91eVotYWJvb0w4YzVreWNnb0w5LTdGdVd0cXp1SU9DVGhBZ2xMa2k?oc=5",
    "date": "2026-11-08T13:45:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "73aa92ca45c3",
-   "title": "Senadora Paulina Núñez junto a Keiko Fujimori abordan tratado de extradición y seguridad fronteriza",
-   "excerpt": "",
-   "source": "Puranoticia.cl",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZU5xTzVKUXZ4VmprbDNsZ2xCUmdLRXlKVlNLRWRMWHltcUl2OVZHd2pGa3RoVGkzLVd0aGprWDhBWHg2WjNpMFB4eWRFd1JqTGlxdURhblNHSllScmtoU01QcUlwdnJDcU55NDRYeTUyb1ZRRkFKbWN2aVhNS2JYcm1jY0diTmVHNGdRS2E3QmRtM0J6MVRXOEF5aTd1cmc2TkE?oc=5",
-   "date": "2026-11-08T12:11:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
