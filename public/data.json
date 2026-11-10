@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T15:43:38.362527+00:00",
+ "generated_at": "2026-11-10T16:05:27.665667+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -407,12 +407,23 @@
    "next": null
   },
   {
+   "id": "c1a408f85091",
+   "title": "Keiko Fujimori viajaría a Asia durante despedida...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcURiZ2hsNDRzTGZKRXkycDZUcmRLNlg5d05IWk9wZUIwLU1Ub3RwMEdFRDB1b0drSFFDQ1FuVzVrOVNkTE1JajRBdEs1QjRpbUpwbUlnbFFMLXdhbmlzbFFXMTRwLTJJYzFSYUNPYWswUm9NQTJ2VnJOY3RScnBJdG9DVTlwSU1JeEVpenpkZURDOFcyMVNvZjNHWkJEWWpueUxaZnp3THUwT1B6NFRRSTU0R3MwQnozR1NHd2RWOUwyc24x0gHEAUFVX3lxTE56ZXd5NTdDeG9ScFBhY3Q1YzhOQXVPWXlLa0JUUVd2OFNpWHdPSHVSMG9qLXlaNXFQNm5pV0FRMzJ3VGczZUwwbGNxdHpvR2NsOHVjYm5nX2pCU0ZYMzAtQkkyV21qODViRkgwZGVub0hERlp0MjlXQkhhZjIwdzJDWDJOSUZEbE0tUnlwT2VES0JMdGw4SXk3Z3dBdmdsNzVGalF5bkJwWl83dERzRFlWblYwLUY0VnNaVXFRV1JMaWFlMng?oc=5",
+   "date": "2026-11-10T15:37:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "808b303ca24e",
    "title": "Keiko Fujimori solicitará permiso al Senado para viajar a Asia durante visita del papa León XIV (VIDEO)",
    "excerpt": "",
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVVScll4NzlwVlI3U0hVOVp0eWQ3cHRqQ25YbU9MbjZrLUtRV2RVWkZaTXpDbjJ4MDBVNVlUYWhfQXJtVl83UEhkSWxHdE9VSWRZV2JyNkNLRzg1TG5GRENlSUhkWG5BT2kzeXNHbDQ0TjJaX0Z1UVBPWmFkSU52c3RvSFFzYTV0QXplTlRHWUJPS0dJX1hQcHM5c29Fem9PRldBdmpLcGNUMjRjbk5wNVhiWkZjTFM3WjFHNU4tanRnaXZRYVM0?oc=5",
-   "date": "2026-11-10T15:35:23+00:00",
+   "date": "2026-11-10T15:36:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -861,6 +872,17 @@
    "next": null
   },
   {
+   "id": "e6dccd825b97",
+   "title": "Día del Exportador 2026: Presidenta Fujimori destaca el papel clave de los exportadores peruanos",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3JTVVktaldycHVvM1hoRkRGVFpMM0NsMXZkZVJubWdkTElWVjRYWjZTRFAyNllMRnpJU0I2elNfYjI3YUJhdjA4cjFWNXVUaDlQdk5Gb05zcm5yazIyM3RjMllSc1BxSHFCV2pUcGtxSUt6Yjc0M2xUOE5RNUpLXzBKV1o4eUlfcmRacjVxSXN4MlFPT3V6Q1hPMDZpRDdNNlBMWGxtNzZ1ZE5Yc0sweHRiV2ZnU3QtMXZSMVZmb1BwaGZVc0V2U09BUQ?oc=5",
+   "date": "2026-11-09T15:56:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "62a0a668c26d",
    "title": "Perú.- Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
    "excerpt": "",
@@ -1044,28 +1066,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-las-cifras-muestran-que-estamos-yendo-en-el-camino-indicado-noticia/",
    "date": "2026-11-09T12:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7967f8c8fb02",
-   "title": "Presidenta Keiko Fujimori participará en ceremonia por el Día del Exportador",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPejl3Yy1VeFg0cGVVZXgxQ0pETXJrREZSU1NnYUhDM0R4bWdhMmZraVRkWjRxVjYxSkloTFlidlUzUGJpM083V1kxTnp3WVQyaFVlVVcwRTAyX1BtZ2JTZ1lBbEpHVjdpNjl0d0VSbFBwalFXYjRndWVJTzYxQ21XSk9pNkQybnhEWnZjdkt0SzAxanQ1c20tRnFUTUhlNndjcEpkcDlEMTNhc0dxcFZFVGhEeEZ4bFJHTDY4aXdmUkp3VTd2WjJF?oc=5",
-   "date": "2026-11-09T05:03:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dfd2b47b9bf0",
-   "title": "Encuesta de CIT: Keiko Fujimori registra 32% de...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1EzeFhEajNJbnJRR0VaQlFBN3ZUYUJQbEZ5UWN0MWRsaGNZQnNaNjl1NlZZc1ROR2Y4REhIOW1id053MGh0ZlhiNloyNW01ejNFaEY2ajJHbHB3TDZsUE5XMktzT3JrWUtiVS0zdWVKdVh6SGtlZGxxNDNvM2dPU242ejZjUEx2RERtU1Vkb09YU0JTSkItNWw0aUFIdkdlMXV6clJBWHF3dmF3Qzk5YjFtZ3hTQjNTd3MxOTNiWWd2ZFRf0gHKAUFVX3lxTE1lOUM3dGJkSWxZN21lMHpYQmJDSm9rTWVnMVJyOU9mbEdSczBrZzJNR1dhSVJ4XzlYZnppRDVRS0hRaGlwa3NIckpaVmJ6MER1N1dWOUZVTlpSOUw2YVJLcUQ5T1ZoTGZqaVBmS3EtcWxEYmZwMjdnYUxMa1pITG13WlcwQ0ZJRThsUHZXTDQ2UGY4M2YxVmx6djB6NmdXX29td2l5U1ZYRmd5M1VqS2c2TXc3RU5IUUZSU3otbmJkYUpyWDlWdW9SRUE?oc=5",
-   "date": "2026-11-09T03:32:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
