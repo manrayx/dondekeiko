@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T07:46:42.623664+00:00",
+ "generated_at": "2026-11-10T08:08:16.762636+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -396,12 +396,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "12be0849f74d",
-   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
-   "date": "2026-11-10T07:30:11+00:00",
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-11-10T08:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -757,6 +757,17 @@
    "next": null
   },
   {
+   "id": "12be0849f74d",
+   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
+   "date": "2026-11-09T15:25:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a6b5bb015ee3",
    "title": "Por qué se archivó en Perú el caso de las esterilizaciones forzadas de 4.000 mujeres durante el gobierno de Alberto Fujimori y cómo quedan las víctimas",
    "excerpt": "",
@@ -907,17 +918,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-las-cifras-muestran-que-estamos-yendo-en-el-camino-indicado-noticia/",
    "date": "2026-11-09T12:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ddb081b9a2fd",
-   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
-   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
-   "date": "2026-11-09T06:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
