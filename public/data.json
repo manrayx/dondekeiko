@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T18:15:20.158044+00:00",
+ "generated_at": "2026-11-10T18:58:37.278780+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "Perfil",
-  "date": "2026-11-10T18:07:43+00:00",
-  "title": "Keiko Fujimori viajará a China en medio de la visita de León XIV a Perú y la comparan con Milei",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOG9IaGNOVnJPTHFDaU1YcVl3aUpnZTNMUzd3SVlDV2hWdzhWNk9hUGQyVUs4NXJIelJhYnNIWnY1ellObFBGaGtuYm0wbHFRd3JBMDVjakhPcW1WVl9QRllXSllIQnhMaFpMQk5ldEZqVjlEOWNaY1lPVHEzaHJwWWRuMHJkR3hUX3NtZzVybGFrVk1fb0swSDZIQzJPTjBWaGRsZjFVSzZtVlh0Vnd5NHRHZXFRQzUtZU1KQlVscEtYMTl6MDJENWh2THR2dUVrSVJsajc0eFI4eUxIMkE?oc=5"
+  "source": "Trome.com",
+  "date": "2026-11-10T18:46:44+00:00",
+  "title": "¡Se va sin despedirse del papa! Keiko Fujimori viajará a China y Japón por APEC y se perdería último día de León XIV en Perú",
+  "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeUJ2cnBVUkszYjAxWTAxYi1kNy1iVXBNamw4ZVJJWW9BMl9HbVIzWWdYS2R6b0RnaXRQVkJYcjNhWjBIbktEbEVEbTlWRTVieVpEb2p6ek9jWVhPRGRQY0FCeEYybEtTdlN6Zi1xeUJWOVZFN3FpU3BCUWZvY2Z5ajgxMnhWcks0R3duQmZuQkthQzJCdE1meFA2d2docFlIVF9wWERIWnY5dzgwc0RJU2NQVE1ETjJNV1ZsWXpJOFc3Wm5YZlFNbE9aZUJPaDBKSWx5QnB3N1N0U1JTc212bS13YjhId1NK0gH8AUFVX3lxTE9hVWtTelRlQ2FrM3RXRWpqZURMTnhyN3lLM0dRME1KVFN4amRCYjRXY0xRNGtjN2tjclpsblpDbm1GbUI2ZzIwbnhuaGl5Y1I0V2tQRGtFTXF6aFhsMlJodGlYVXJWU2ZIOElKcktsbzRhdjBacDVtaUY5UldybkhGcjg3TTMyWXdLZ2VHRVpmazBFZ2hDS3FZRlBDRHVaNUVQUTNvaTlvWWFIYUY0UmhaNXNCUThBemxULURTbFB3dXcyZk1UMmk5elhFZ0pmaGU4MzFJVnZ0VWdOX0w5Yk1STUY3aU9rZHlka2V6RUpPZ0NPbFJybG42NnNmMA?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -395,6 +395,20 @@
  "agenda_minutes_7d": 423,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "1aa1ed0ad1c7",
+   "title": "¡Se va sin despedirse del papa! Keiko Fujimori viajará a China y Japón por APEC y se perdería último día de León XIV en Perú",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeUJ2cnBVUkszYjAxWTAxYi1kNy1iVXBNamw4ZVJJWW9BMl9HbVIzWWdYS2R6b0RnaXRQVkJYcjNhWjBIbktEbEVEbTlWRTVieVpEb2p6ek9jWVhPRGRQY0FCeEYybEtTdlN6Zi1xeUJWOVZFN3FpU3BCUWZvY2Z5ajgxMnhWcks0R3duQmZuQkthQzJCdE1meFA2d2docFlIVF9wWERIWnY5dzgwc0RJU2NQVE1ETjJNV1ZsWXpJOFc3Wm5YZlFNbE9aZUJPaDBKSWx5QnB3N1N0U1JTc212bS13YjhId1NK0gH8AUFVX3lxTE9hVWtTelRlQ2FrM3RXRWpqZURMTnhyN3lLM0dRME1KVFN4amRCYjRXY0xRNGtjN2tjclpsblpDbm1GbUI2ZzIwbnhuaGl5Y1I0V2tQRGtFTXF6aFhsMlJodGlYVXJWU2ZIOElKcktsbzRhdjBacDVtaUY5UldybkhGcjg3TTMyWXdLZ2VHRVpmazBFZ2hDS3FZRlBDRHVaNUVQUTNvaTlvWWFIYUY0UmhaNXNCUThBemxULURTbFB3dXcyZk1UMmk5elhFZ0pmaGU4MzFJVnZ0VWdOX0w5Yk1STUY3aU9rZHlka2V6RUpPZ0NPbFJybG42NnNmMA?oc=5",
+   "date": "2026-11-10T18:46:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "feffb3efc340",
    "title": "Keiko Fujimori viajará a China en medio de la visita de León XIV a Perú y la comparan con Milei",
@@ -694,17 +708,6 @@
    "next": null
   },
   {
-   "id": "26e0b31d1422",
-   "title": "Presidenta Fujimori solicita permiso al Congreso para viajar a China y Japón",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZVJ1cGJwOFQwSlZvN0hKWG9LYzJQWldhRUxuUzlvRlFqSGNfR3BTNjJVcGhrR0JwT1AyM0VMM1pBbUljcFF3U2dPU1pTemcyS0prdURyV2pUd2s4N1pJV2ZsQlFoeENjblpndTZDSGRyazJhZVlTT1VuU0xNdzFJU2dtY1lBZTZSeks1RWFhejRYZVhsTEhsYW5jUkk1VHNBQ09MN1NUaTFiX1g0ckVXc1RB?oc=5",
-   "date": "2026-11-09T23:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c76930dfea31",
    "title": "Keiko Fujimori solicita al Congreso permiso para viajar a China y Japón por foro APEC",
    "excerpt": "",
@@ -837,6 +840,17 @@
    "next": null
   },
   {
+   "id": "26e0b31d1422",
+   "title": "Presidenta Fujimori solicita permiso al Congreso para viajar a China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVRfWExxQzZqM0RoX2N3TzQ0QkhMNVdIVHA3TzU2ZW1seTIzRjFvS3FHNW5wNGZXLVlqdk92RFJLYlRxY0F4VXg0OVFldXd2V3NMR2l1TGg4dzdtTnRza19lWWZZRXVDUDZHUFV6dXBQMFhYa3I2MzBLeWlxdXlqbGRaT1lkZWx1UElIcXF6NUhVSFlsc0w4TjJvRzFZWko5YVVFNGpidVp1eHU5MHRWRGhfVFZFRGx3Nm5RUjBLeHI?oc=5",
+   "date": "2026-11-09T18:46:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9d88fcc949da",
    "title": "Presidenta Keiko Fujimori solicita permiso al Congreso para viajar a China y Japón esta semana",
    "excerpt": "La mandataria tiene previsto salir del país el domingo15 de noviembre y participará de una serie de actividades en el marco de la Reunión de Líderes Económicos de APEC",
@@ -865,6 +879,17 @@
    "source": "TVPerú",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEt4X3lGMmVUcW41QmN5bmxxV0NXMW4tSkxKakFLTGkzdmpCbVNxLVpyRzhyV3pqbUhDVTVRX0RaZHNQRktUNktxVnRTMEFSeVhIV2dxbFF6TjBpVFhTRUZpc3RQN1FCbjJvbHpmeG5NTU43QmlCNU5DUHBUaEtpVDE2ZUZ6MnBXVlRzenJYbVBFb2xxeWZHWTJGTG9SOU94OGl1RWt1QVFULUtPdUZuVERMemp6UkpBa0s0?oc=5",
    "date": "2026-11-09T18:19:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "33d3d57fac64",
+   "title": "Keiko Fujimori quiere viajar a Japón y China en plena emergencia por El Niño: pide autorización al Senado",
+   "excerpt": "",
+   "source": "Diario Altavoz",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ2cyLVVTM05YcWZxaUJVMUp3bElUU0lKa1JmYS00WGlYQ0dMcmNnMWhqYU9hNE8zMERhblBlVFhiTkdNVmtDV1Q5NzFIUlh2TFhhRzUwUWdUOVJzNkI3a1laYjd4Y3Z4NFpFZGtsQnNxNmo2dlFqLURYTHAtQWxFbFlJU1JpWTJBSlk3RDB3eGtZb291elN6eHlHUm9LWUhrR2N6YjhwQTRPd3JQTUdxMkNXLUxaaUtmTmRicEFwVmVmc1VOMzloWDVmcE5Xdw?oc=5",
+   "date": "2026-11-09T18:12:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1041,34 +1066,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/09/estacion-la-cultura-del-metro-cerrara-este-miercoles-por-actividad-del-papa-leon-xiv/",
    "date": "2026-11-09T13:13:37+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "50e5cdcb2901",
-   "title": "Keiko Fujimori anuncia inversión de más de S/500 millones para fabricar 1,2 millones de kits escolares",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDFidHlBd29QQlpWR0ZWTndSd1p1Qk1wZndqaGhBSlcydHMzaVB1WFFXTzM4U0t2UW9RTkpCQ0FPQTZlQ0dtWVlUeE1zZjROeUppOE1BSTZCMWxwNGV0M2R4YlZwTm1kZmhBQ0RwTnVzeUJwa3d4b3RfR0tiRzBMbDlBcFIzNFNRdFJWVmNWSkp0T2Fmck1OUE1ubEhiVzFob1hVRE9qWXJiZVdmbG14VDFlczZzRk94QlkyWS1HbnRGSzV2RWMtekVB?oc=5",
-   "date": "2026-11-09T13:00:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9881bd6a2bb8",
-   "title": "Estación La Cultura del Metro cerrará este miércoles por actividad del papa León XIV",
-   "excerpt": "Inmediatamente después de su llegada al Perú, el sumo pontífice participará de una ceremonia de bienvenida, además de un encuentro con la presidenta Keiko Fujimori en Palacio de Gobierno",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/09/estacion-la-cultura-del-metro-cerrara-este-miercoles-por-actividad-del-papa-leon-xiv/",
-   "date": "2026-11-09T12:52:22+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
