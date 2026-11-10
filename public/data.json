@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:24:51.116129+00:00",
+ "generated_at": "2026-11-10T21:07:30.782411+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -386,6 +386,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "801388c01673",
+   "title": "Luis Galarreta descarta desaire de Keiko Fujimori por viaje durante visita de León XIV",
+   "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
+   "date": "2026-11-10T21:04:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2dd59ffa03b3",
    "title": "Senado debatirá autorización para que Keiko Fujimori viaje a China y Japón la próxima semana",
    "excerpt": "El Pleno del Senado debatirá este miércoles 11 de noviembre el proyecto de resolución legislativa que autoriza a la presidenta de la República, Keiko Fujimori, a salir del territorio nacional…",
@@ -398,17 +409,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "801388c01673",
-   "title": "Luis Galarreta descarta desaire de Keiko Fujimori por viaje durante visita de León XIV",
-   "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
-   "date": "2026-11-10T19:12:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "1aa1ed0ad1c7",
