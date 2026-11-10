@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T08:08:16.762636+00:00",
+ "generated_at": "2026-11-10T11:02:15.771301+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -407,6 +407,17 @@
    "next": null
   },
   {
+   "id": "e3cbe63d90d0",
+   "title": "Keiko Fujimori llega a 100 días de gestión con 55% de desaprobación, según encuesta de CIT",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFZocGtROWRXN29qbWlLVkJramZRRzBBMF9VSkwwMDlFc3BvVF8wRmY3Nm80bFVoX2NRcjJ0UE9xdDBHeHZmc2hJTHpFb3FYUkFCUnNUY1FtR1htXzRDV3pQOTI5MDJtX1B0NWxMRThBX2RYNEMwSEFfUzhwUE5QUDdOVk5XdG1ETHpTb21CWFNUV3NFcGczU0tINjFIVndLdHNhSjV6U2N4N1dfOVJFOGdtcWdoNS1zNndSVDR3eVNkeFNNYi1TZ1JwNWZ5eG9DYnFObmhwSUc?oc=5",
+   "date": "2026-11-10T06:44:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9227dbc99ca3",
    "title": "Perú suscribirá TLC con Tailandia en los próximos días, dice Keiko Fujimori",
    "excerpt": "",
@@ -746,6 +757,17 @@
    "next": null
   },
   {
+   "id": "62a0a668c26d",
+   "title": "Perú.- Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmpwRGwzTEJYTld5VnJQX0QyMUppd2hlNlVYeEhPempyNDBPNGxwdFVRQU9yek1ZN3hLRVpENUh2WHRqLVYyZ3JvdEgxZmk0T05OOW5DdkpVTlQ3S3B3N1lTTVNxUzhMVkJhNVJMc0dXajQwOVVrV2VhSDcyejhWMmVTZXVCVkY4eGYyWmg5eTRNTVNUSERPckgyOGlaN2RUN3hJNzlFcHNGZEFVaVJVYnRfQjVLYmx0cVZkWFVqWG9hN01yanlUWlgteUVtTkdINV8w?oc=5",
+   "date": "2026-11-09T15:34:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4c731a78c915",
    "title": "Gobierno publica decreto legislativo sobre delitos violentos e informáticos",
    "excerpt": "Al amparo de las facultades delegadas por el Congreso, el Gobierno de Keiko Fujimori publicó el Decreto Legislativo 1744 que busca fortalecer la lucha contra los delitos informáticos.",
@@ -1050,28 +1072,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1Y1WTNTY2VrM19TRDI1MjZrZ0g5RU1pYWlKQkx0aEM1OGN2eXlIU1VPOUpWZUpGYW5ycmw1d0Q0eG83NFFRZTVyTTJJVXBkbHM0TUhlUnp4NGp3WnVNTEQyenFlTnZ1V3hGZzlraTdDTjZScHpkSHVpSUF5ZDJfUzhZNmlGbTZydnJxVGJWZ29NaC1pal8tNmlQV1plOTJvUlZmVlU5TmRiSkYzMW1qREJUME1jdjFtTkRv0gHPAUFVX3lxTE5NZlViWnU5ZnRWWExPRnRVVllITjFNTnM0a0syM2dvNmo4bkxNV0FhRXl4VDFIbTNwS2hCR1UzSHZGOE1vVWswYzBHY1VZWmdnOHEtVm10VFRqYl9PMWRibmM1OWdzTmhNczBFcjluR1hkWEg0S19sb0hPWUNzenRTZ2Y4azJ2d1I2RXJvdlJUQmNFYy1nYVZOaXJWMGcxblFtRnJYZ2o3WlM2V1ZOUkh1OEFZbmJ2T2hneHBqOHRIRGYwb1prdXI3ckRYVTkxOA?oc=5",
    "date": "2026-11-08T21:26:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6310c7541a84",
-   "title": "Fujimori y la presidenta del Senado de Chile acordaron cooperar en seguridad y desastres, incluido El Niño",
-   "excerpt": "",
-   "source": "Tu Diario Huánuco",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObU9YMno5ejdlTnQybjJtcDdUdWR5a1U1N0JrS3pRdHRqbmNJZDVScGJUemRpWHFjbXZKQVY5d2E1UWZyN1FueEJ1TDcxUWtRTTVQQkQ1S25FYXlRaGtGaWpiOXEzd01XSU05aGlIVHgyNU1zMUM4Y0RKdWUwUnQ5NktZNE9aUDYtQVNxM1FTVlRxSjV1TnQ3aTdfeTk5VVNTWXdCMHVqLXhQWXJWT0E?oc=5",
-   "date": "2026-11-08T17:56:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d0bb62d3520b",
-   "title": "Zunini dice que el gobierno de Keiko Fujimori trabaja en “piloto automático”",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZENmY2dfV1BSNlRyU09oYzhOakxLejFlVkpfN0cteXZ1bmVuV1lraUJ1THdBMGpyMmt3eWVnTndtckNEN1R2VV81VkQ0bks5TlEtMjlzQjluSnYzbVB3QWd3c0l1M29wc3J2aU9fdjU2ZnBaLVBVQzY0ZzllQ1hBT283V2hqODFWS2lTN0VkX3hrSWMyVVJTSkx0bTdyYXY5UUdJ?oc=5",
-   "date": "2026-11-08T17:52:39+00:00",
    "state": "posando",
    "place": null,
    "next": null
