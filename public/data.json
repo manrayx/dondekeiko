@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T15:22:19.541759+00:00",
+ "generated_at": "2026-11-10T15:43:38.362527+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -396,12 +396,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5e11f02a5303",
+   "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV: “Ella lamenta no estar hasta el final”",
+   "excerpt": "El primer ministro confirmó que la presidenta no llegará a la jornada final de la visita papal y respaldó el viaje a la cumbre de APEC y a Japón como…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/10/luis-galarreta-niega-desplante-de-keiko-fujimori-al-papa-leon-xiv-ella-lamenta-no-estar-hasta-el-final/",
+   "date": "2026-11-10T15:41:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "808b303ca24e",
+   "title": "Keiko Fujimori solicitará permiso al Senado para viajar a Asia durante visita del papa León XIV (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVVScll4NzlwVlI3U0hVOVp0eWQ3cHRqQ25YbU9MbjZrLUtRV2RVWkZaTXpDbjJ4MDBVNVlUYWhfQXJtVl83UEhkSWxHdE9VSWRZV2JyNkNLRzg1TG5GRENlSUhkWG5BT2kzeXNHbDQ0TjJaX0Z1UVBPWmFkSU52c3RvSFFzYTV0QXplTlRHWUJPS0dJX1hQcHM5c29Fem9PRldBdmpLcGNUMjRjbk5wNVhiWkZjTFM3WjFHNU4tanRnaXZRYVM0?oc=5",
+   "date": "2026-11-10T15:35:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6a412ad8734f",
+   "title": "Luis Galarreta negó que el viaje de Keiko Fujimori sea un desaire a la visita del papa León XIV",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQW9MajhsWnhGZzZHWVBjRVhiZnM5VW4zYi1fak8ydjBuaENweVgyYVQyX2txc3J5XzBzazhvOXFBV19YbVNNME5GT2tHcG9JbXYtdWVqX2JWTUNpRWRPLXdKQjhQeWowWjVwSEtvYldCc01qQnJTSkdGQWJGbWNwSGlOTms3RDUxWVQ5WFl6eVdoeTMzZVNmQ1UwRW1vQUpYWWVRdFQzYlBzdUJnODNWNGJORlF4eUxCajRaakJENEpFbHczOEwyM2gwT01XSnlKQzRn0gHnAUFVX3lxTE5UWlYxZ3o4bmFVdk56aWZFcVM4WE01SzlkZ18ybTJ1WFZsQU4wNFhKckp6TVFmMmlCdk5YMzBjOTZDYUM2dDFuVktQcWpPekZhY0preVpIcXkyeTlMYWd6d04wUGN3V3BqR2hYOVpjby0zS0RIRzloQWg2SEluYjRGWXpUOHdfMEh5UHJfRVMyOTByUDhRS1dUbG8zc3FFM2lCazlCWmxZMXQteFBDdzY4aGFyMThIY21uTFVQME0xaDJmcVF4REVFaGhRTDBnLURNU2RseG4ySWhOT2I3WXFtMXdQWV9wRQ?oc=5",
+   "date": "2026-11-10T15:23:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "817fe4a6237c",
    "title": "VERGÜENZA: Keiko se irá del país mientras León XIV visita el Perú",
    "excerpt": "",
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVpXazhlQWxqa2l0RnJtZ2ZYMmZpaGJWZWNib0NFZk5YajZ1bW9CQlVVRFJhVzdJcGoyTFJBM296QWtWMGhMMVhJUUFuc1JBVnJndS03dExwbExiWVJlSEN0aEhMZUx6ZWhDZWVTVDByR1k4SmlOb1dFUHFBVWVpZENLclB2dGFnWm5HOGQ4aktOT2x5b1Zz?oc=5",
-   "date": "2026-11-10T15:16:13+00:00",
+   "date": "2026-11-10T15:16:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -412,7 +445,7 @@
    "excerpt": "",
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZjJ4TEhWZGtHRG5kb1RxbUozZS16TTFFMGJZQTdsRlhIQjdlck02eUJzTll0Z2xBLXZNaWliLVltdS1reUVXenRtUGJYc1FER0ZnSGNyNDZ6YkJVSXl1X0tIaUFkaE80OHRSSy1CeEhOTHFzUV9rVzJaYlU3a3p6OGJycExBVlduTXlmaVdhZENPTWpxTVZ5X1FyZEMySUp0VkJQeHp5aWZzUGt6QmpGRDRGM1VVQUpYMkdMald3NklzeVFZZFBSaFZfcGxJWTVfLVVGNE5HMGU4bm42UnRXREVqNjhDcmR4SmpzSHZBbmZMYkJrOTZYbi04aHAxMkVCTTlZZGtXVHJHTmNsZXo3a1JSdXdxUVhsZ2c?oc=5",
-   "date": "2026-11-10T15:13:49+00:00",
+   "date": "2026-11-10T15:14:01+00:00",
    "state": "triste",
    "place": null,
    "next": null
@@ -424,6 +457,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-sobre-ausencia-de-keiko-fujimori-en-despedida-del-papa-el-viaje-a-apec-es-fundamental-ultimas-apuesplan-noticia/",
    "date": "2026-11-10T15:07:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f8f65b5a095b",
+   "title": "Luis Galarreta defiende viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVXRqUlRDNUhCUmU2bHI5SmVmWDZlMUFlLUVLSmFzRGdmelRBMmppbFI4SnlYMHg1cC15TlR4ZWt6UHhVSEZheU54RFNYa2NVb05fb2t6c3FocElrX3BLQjhoVnVKdjdZXzFLVmp2WFRHalQzdS1wOXBidGQtUVNiM2lGMlNCWDlNaHVVbHJIZnlyZXFob2plLTRIbFZnRHZyWjhoeGxBWUcxWkZQQlA4WVZYWlVwOTNoRlJuZXZhWlJzSkRMMUJqSEQ1bzl4NW9HS3ZiNkZhM0lHQ05sX2lyY2hFQdIB4wFBVV95cUxQVXRqUlRDNUhCUmU2bHI5SmVmWDZlMUFlLUVLSmFzRGdmelRBMmppbFI4SnlYMHg1cC15TlR4ZWt6UHhVSEZheU54RFNYa2NVb05fb2t6c3FocElrX3BLQjhoVnVKdjdZXzFLVmp2WFRHalQzdS1wOXBidGQtUVNiM2lGMlNCWDlNaHVVbHJIZnlyZXFob2plLTRIbFZnRHZyWjhoeGxBWUcxWkZQQlA4WVZYWlVwOTNoRlJuZXZhWlJzSkRMMUJqSEQ1bzl4NW9HS3ZiNkZhM0lHQ05sX2lyY2hFQQ?oc=5",
+   "date": "2026-11-10T14:12:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -446,17 +490,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/10/peru-y-tailandia-suscribiran-un-tlc-antes-del-cierre-del-2026-los-productos-que-podrian-comerciar/",
    "date": "2026-11-10T13:57:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5e11f02a5303",
-   "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV: “Ella lamenta no estar hasta el final”",
-   "excerpt": "El primer ministro confirmó que la presidenta no llegará a la jornada final de la visita papal y respaldó el viaje a la cumbre de APEC y a Japón como…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/10/luis-galarreta-niega-desplante-de-keiko-fujimori-al-papa-leon-xiv-ella-lamenta-no-estar-hasta-el-final/",
-   "date": "2026-11-10T13:53:08+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -755,7 +788,7 @@
    "title": "Presidenta Keiko Fujimori: Perú está alcanzando cifras históricas de exportación",
    "excerpt": "",
    "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYnlDSnh4c2VZRE9DS0NBRzFTOUlfUVNndVAyQ0F1UEhxRVhpRkR3d21EamlDb1Q1X2VVazRlLUFYSG1PcFQ0ZmVESEhrTTZ0ZURoVDg1eDVDemN3ZGJLOEhZSE9ueFl3b1dLeXFONnVFamVYQ3llX0NSakMyRmF0M0pjYmtmR0ZYd0FBdEpqazlqRlZPaTI2dFp0Rk40Wllpc1FGYVVBRVluMVN2R0hTRGxHenM1ZlNEOEtrYmREQ18?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEt4X3lGMmVUcW41QmN5bmxxV0NXMW4tSkxKakFLTGkzdmpCbVNxLVpyRzhyV3pqbUhDVTVRX0RaZHNQRktUNktxVnRTMEFSeVhIV2dxbFF6TjBpVFhTRUZpc3RQN1FCbjJvbHpmeG5NTU43QmlCNU5DUHBUaEtpVDE2ZUZ6MnBXVlRzenJYbVBFb2xxeWZHWTJGTG9SOU94OGl1RWt1QVFULUtPdUZuVERMemp6UkpBa0s0?oc=5",
    "date": "2026-11-09T18:19:01+00:00",
    "state": "posando",
    "place": null,
@@ -1033,39 +1066,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1EzeFhEajNJbnJRR0VaQlFBN3ZUYUJQbEZ5UWN0MWRsaGNZQnNaNjl1NlZZc1ROR2Y4REhIOW1id053MGh0ZlhiNloyNW01ejNFaEY2ajJHbHB3TDZsUE5XMktzT3JrWUtiVS0zdWVKdVh6SGtlZGxxNDNvM2dPU242ejZjUEx2RERtU1Vkb09YU0JTSkItNWw0aUFIdkdlMXV6clJBWHF3dmF3Qzk5YjFtZ3hTQjNTd3MxOTNiWWd2ZFRf0gHKAUFVX3lxTE1lOUM3dGJkSWxZN21lMHpYQmJDSm9rTWVnMVJyOU9mbEdSczBrZzJNR1dhSVJ4XzlYZnppRDVRS0hRaGlwa3NIckpaVmJ6MER1N1dWOUZVTlpSOUw2YVJLcUQ5T1ZoTGZqaVBmS3EtcWxEYmZwMjdnYUxMa1pITG13WlcwQ0ZJRThsUHZXTDQ2UGY4M2YxVmx6djB6NmdXX29td2l5U1ZYRmd5M1VqS2c2TXc3RU5IUUZSU3otbmJkYUpyWDlWdW9SRUE?oc=5",
    "date": "2026-11-09T03:32:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7567216fb4a7",
-   "title": "Sheput sobre gobierno de Keiko Fujimori: “Los mejores primeros 100 días de este siglo”",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMGV1eWhWYVJHU211Z1g4UWZHMkNTcXM3YWVKS2p3WVNhbUtrdk1ieHBaYXMybWtFc1ppTnNjVmtPQzM1Q0tXcExWREwxdF9wNlk2bHpoZ2EzeE4yWk5yYm1LTWhIMDJPdnVRQnk2TzZOMVpPYUhrWFZvZ3Q1dnVpdFNZSzc5cDkxSG16ZkVSMllmdVVsQ29yTjNic1lXN0FmaHVYcnV0YlNXYUhqYlFVWGE0Z21Tenl5azZtWTNtTzBGTDDSAdcBQVVfeXFMTWJWTS1nek9TNGF0QXl4cFJTQjJNaTFoRW5hMzhiQTJMTGlSa2dYcDl2NGZMY2lJRld2NTJkSFJZcEtLVHVTUXl4dFp6LUI2REpLRUxIVWkwOFU5ek5TQ1dqa2dEbTRqc2UwaE5IY3NQWHJ2WElTVEE4VGE2aFNCSGM5QTRhSVByTDItamFrVGxPV0ZOTEk5OTFJQXNkWWFVR25EbjVvUlR2TmxUWjFQdlpjMUdfQ3FpbkdZcjBDWl84RlRTenlLVlpTdkxDZUM1MDlpNmNTMkE?oc=5",
-   "date": "2026-11-09T03:29:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e3401355de4f",
-   "title": "Keiko Fujimori dice que «las cifras muestran que estamos yendo en el camino indicado»",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkRjODBjTU11M21BcFBQc2VjRG5PWXczeGNKcHprZFdicGFZYzh6eHRIT3FHU1FiUXQ4TjZvbXV1M3ZUa0l3WTBkbU8wRUhQdlpsZzZMWGJXeGt2eWJsMXByYjdYaUVyaDIyT1FnZU1JckhLcmNtZzZKUW5TYmRnTWhfMUtxejFGUDN5bl9wblBCTXhHN2NZM0dFcWpGYl9HZ3Y4ZUtLVzRLbkFmcjA1S3h3?oc=5",
-   "date": "2026-11-09T02:35:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4c82493fbb24",
-   "title": "Luces y sombras de los 100 días de Keiko...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFdOMkM0dGY0Nm41bWVnaW1YeHhoVkYzVExnMzdxRk5DZjdVQ2xBaWtKLXczZlhBRnpqZ3U0S3ZYbFlZUkxxLTY0RlBUVXc5NnZoejlIRUtsdzJISWp2aEFaSUZ2SVlVekQwRFROWnJPMVRCU1BseGNvQjFaTEdadTVMY2o0RFh3d200d0NmMzY5dk5pQWMwUW4wMFg3dFZPZXg3MjhJOHBnZzJBX0FrSzlVZHNKdzZZeTNjb2R1UGJOZjlaUndRVXp1T0jSAdIBQVVfeXFMUEdZSm9GYWdabFgyYVZTbWctcUVUVjV3OEpiMy04MEpSUG1yWHdYeXMxTmZvZ2JwZ0JYcjNtZ2JaaG1RQ282anZOeTBTNlBWUVNqQmhESHlwWEpjUlVYQ0c3N1A0Y3N4OVIwMHppcDhyY1J3YVhqUkY2ajk3Z0dWVkFSbUhGcVpkYi1qaVVUTzliN1VsbTNuUS1zZlRWZzNhR2FQZ05kejlUOWcweDRPTEJ1NXg2Tks2WlFMdHZCbXJjbm14Q0EzQlpZM2VrcGNnRGJR?oc=5",
-   "date": "2026-11-09T02:25:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
