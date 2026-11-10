@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T04:55:26.919569+00:00",
+ "generated_at": "2026-11-10T05:17:09.633208+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -390,74 +390,9 @@
     "lng": -77.0464,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-11-02T15:18:00-05:00",
-   "end": "2026-11-02T16:05:00-05:00",
-   "minutes": 47,
-   "subject": "Sobrevuela las quebradas San Idelfonso y San Carlos para supervisar los trabajos de prevención y mitigación ante el fenómeno El Niño.",
-   "lugar": "Trujillo, región la Libertad",
-   "state": "posando",
-   "place": {
-    "name": "Trujillo",
-    "full": "Trujillo, región la Libertad",
-    "city": "La Libertad",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-02T14:10:00-05:00",
-   "end": "2026-11-02T14:50:00-05:00",
-   "minutes": 40,
-   "subject": "Inspeccionar el establecimiento penitenciario “El Milagro” y supervisa el traslado al penal de Challapalca de internos señalados como cabecillas de organizaciones criminales, tras una reyerta que dejó tres reclusos fallecidos.",
-   "lugar": "Trujillo, región La Libertad",
-   "state": "posando",
-   "place": {
-    "name": "Trujillo",
-    "full": "Trujillo, región La Libertad",
-    "city": "La Libertad",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-02T13:20:00-05:00",
-   "end": "2026-11-02T13:36:00-05:00",
-   "minutes": 16,
-   "subject": "Participa en presentación de resultados de operativos del Comando Unificado en Pataz.",
-   "lugar": "Unidad de Servicios Especiales de la Policía Nacional, Trujillo, región La Libertad",
-   "state": "posando",
-   "place": {
-    "name": "Unidad de Servicios Especiales de la Policía Nacional",
-    "full": "Unidad de Servicios Especiales de la Policía Nacional, Trujillo, región La Libertad",
-    "city": "La Libertad",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-02T09:28:00-05:00",
-   "end": "2026-11-02T09:56:00-05:00",
-   "minutes": 28,
-   "subject": "Lidera reporte oficial sobre la situación que atraviesan las regiones de Tumbes y Ucayali, afectadas por las intensas lluvias, así como las medidas que viene adoptando el Ejecutivo para atender las emergencias y proteger a las familias que viven en las zonas más vulnerables.",
-   "lugar": "Centro de Operaciones de Emergencia Nacional (COEN), Chorrillos",
-   "state": "posando",
-   "place": {
-    "name": "Centro de Operaciones de Emergencia Nacional (COEN)",
-    "full": "Centro de Operaciones de Emergencia Nacional (COEN), Chorrillos",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
   }
  ],
- "agenda_minutes_7d": 554,
+ "agenda_minutes_7d": 423,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
