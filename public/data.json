@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T04:34:14.658466+00:00",
+ "generated_at": "2026-11-10T04:55:26.919569+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -461,17 +461,6 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "12be0849f74d",
-   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
-   "date": "2026-11-10T03:30:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "9227dbc99ca3",
    "title": "Perú suscribirá TLC con Tailandia en los próximos días, dice Keiko Fujimori",
    "excerpt": "",
@@ -580,6 +569,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-moviliza-buque-y-mas-de-230-marinos-a-piura-por-el-nino-lo-vamos-a-enfrentar-por-tierra-mar-y-cielo/",
    "date": "2026-11-09T22:57:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0ff4a5bce934",
+   "title": "Keiko Fujimori solicita permiso al Senado para viajar a China y Japón",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU1dlTXhqTVdlSHAzOEdwdUcyRlQyTlFjVDR2UGtxYl9LVWlfa3oxczMzX3Fhb3dmUGp6eW1zOWJYX0ZqQ25pbW1lS25pZUVwYjRWYlhTVGpsNXdkeV9MYlg4WVdFX0c2ZUllSUVnNG1kYlRXbUxiWTdodmtKSVlNMU9aVWdsb1c2UTFhVlN1MXpyNVVKbS00LTdDNk51d18zZFlwbVBqTWZBMTdUUHlkNNIBxAFBVV95cUxNeUk2ODRLZEFNZkl6WElhY0F2U3Z3VklkZlVJNjlxbkp1Sk5JNXFvSFp2QUxVenh1cVlUc2dVMkVldnBoX3BEYXFFSF9RLThTNXlHbGFUYzN2eUZiSlVaVWJWbnRnNmxmdWJtZGYyS2J2LWRKR0ltVUNvd0VkRUZsMzNGdzY4bnRjdi13Nzh2UmpreFVyRWE4X1dTTGRpWUJDeWljeVRFd1hfRU9aU3RfMjJoQV9qZk80Ul9KejFPM1dVVnJX?oc=5",
+   "date": "2026-11-09T22:54:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -806,6 +806,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno-publica-nuevo-decreto-legislativo-sobre-delitos-violentos-e-informaticos-apuesplan-noticia/",
    "date": "2026-11-09T15:32:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "12be0849f74d",
+   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3FyWUFOczhIR0tFYjdPUmE4aUdocmVnVzJyaU9GZ0pXY21VdzlhUzNZeFdzejJCUVRvRUxNZDByMmpka2UxU1UySTFtRmpTeUgzRDNHYVZBeUIzNjN4cmI0UzhhNVVwaGRzSmN1UWdkOE93T3FsWTEyOWVTQ1lTc05ET3ZjcURITm5xTm5xbE43SnA2dzdubVdHTXZkOW1uV1VJQ1NkR0ljSTBIU2d2Ml9zS0xKZHpOb1BocGpieDg?oc=5",
+   "date": "2026-11-09T15:25:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1126,17 +1137,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZENmY2dfV1BSNlRyU09oYzhOakxLejFlVkpfN0cteXZ1bmVuV1lraUJ1THdBMGpyMmt3eWVnTndtckNEN1R2VV81VkQ0bks5TlEtMjlzQjluSnYzbVB3QWd3c0l1M29wc3J2aU9fdjU2ZnBaLVBVQzY0ZzllQ1hBT283V2hqODFWS2lTN0VkX3hrSWMyVVJTSkx0bTdyYXY5UUdJ?oc=5",
    "date": "2026-11-08T17:52:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a44294e974bf",
-   "title": "Keiko Fujimori anuncia garantías para visita del papa León XIV al Perú en noviembre",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQld6U2xJM01TOWtyc2ZuZkJyMEN5Z1FvS3ZYYUxIU0hVSVhFOXYzT2ZoVWRZam83Ri1HYjJiX19rdHZseXVwUEpZcUpPeVRIS3hRTzFUdW9TcFJXbTZHV29EZ3FkSHdZM2c3dE5KLXZQOE5wRVl3RjVTcDUwaW44SExXb0d2RDR1NGJDYVJpVDhjMnEzVlE1WU1nT2toREhVMTRGSDhWZzFfSkFGMkdRNkpzMnBuQVRFd19FZDVjUkllYkXSAdcBQVVfeXFMTWZCTVJla212MXVVakFpMW5jNUJQa2hoTWJQVEhOa01JZEx2ZDg2ZmFDaHRLMVRadTNtcWN6STFqN1I4RFI4QWJLemppWnpPQ1BqNl9oQ0xhRXVSNHNqMzQwQXNmUDlBcHg0Q1E4Sm8zZFRWUGQzaU1BOVNkcVkwSzY5eWYyTGNzNTE4ZlZuU2U0MmRiejVvUlJXNzhVUkE2U3g4N1haSm9WZkpMNmVBdDdXR3B5dXFWR3JxQkRqSlBXeEFpS284OTZXbjVZM0tGdXhrQ0JrVlU?oc=5",
-   "date": "2026-11-08T17:32:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
