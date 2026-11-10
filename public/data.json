@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:10:22.446787+00:00",
+ "generated_at": "2026-11-10T17:31:53.466399+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "La República",
-  "date": "2026-11-10T00:31:38+00:00",
-  "title": "Fujimori faltará a última misa del papa León XIV y a su despedida, si se aprueba su viaje a China y Japón",
-  "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-no-estara-en-ultima-misa-del-papa-leon-xiv-ni-en-su-despedida-si-se-aprueba-su-viaje-hnews-890334"
+  "source": "El Comercio",
+  "date": "2026-11-10T17:28:24+00:00",
+  "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón",
+  "url": "https://elcomercio.pe/politica/congreso/senado-debate-permiso-de-keiko-fujimori-para-viajar-a-china-y-japon-ultimas-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -395,6 +395,20 @@
  "agenda_minutes_7d": 423,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "bd2213736cf7",
+   "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón",
+   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/congreso/senado-debate-permiso-de-keiko-fujimori-para-viajar-a-china-y-japon-ultimas-noticia/",
+   "date": "2026-11-10T17:28:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "5e11f02a5303",
    "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV: “Ella lamenta no estar hasta el final”",
@@ -1055,17 +1069,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-los-proximos-100-dias-una-cronica-de-fernando-vivas-noticia/",
    "date": "2026-11-09T12:30:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "251bb804c9ea",
-   "title": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”",
-   "excerpt": "Keiko Fujimori: “Las cifras muestran que estamos yendo en el camino indicado”. La presidenta ratificó que uno de los principales legados de su gestión será mejorar la educación del país.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-las-cifras-muestran-que-estamos-yendo-en-el-camino-indicado-noticia/",
-   "date": "2026-11-09T12:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
