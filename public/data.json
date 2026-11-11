@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T19:39:32.626940+00:00",
+ "generated_at": "2026-11-11T20:01:05.204775+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -362,6 +362,17 @@
  "agenda_minutes_7d": 323,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "292ccbd97ca9",
+   "title": "Polémica en Perú: la presidenta Keiko Fujimori se irá de gira por China y Japón en plena visita del papa León XIV",
+   "excerpt": "",
+   "source": "TN",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGE4eTI2dEZ2RU5NZHhaeTJSYTR1aWpQc1VhSW84M21FQ1FXYmFyWFhHY0xSMWhsU0NXM0Z2bm5qOGdUaWd1SEhqb2tja05jWS1ydVJnNVl0QnBqZ3NMOWZ5bXNBUmUwVW9OTVRwVzYwX1RtLXl6dHRnX2p2M1loYmRlY1lHNDlGaDhETWVobjJFYWg5M0t2UkFBb0RiNFFRN1VGWWItbC0zcEI1UWNsdDBBUlVyVjNFWE50eFR4S0VvcnAtWmctNkxNUHJHX2RiU0VzcWhVd1BJYjExSmVzcVhJeDNpcFlHSTZTa9IBgAJBVV95cUxPMFdSNjJtX2tvaTI5enViLUlzZlhvMHYwZ0JaZWRUbUxXRmNXRXNSdDNPV1dQMVpmQUFfRkFZd3FCc1dPc2VZVUV4cTBuOVYxUFFocWlIbnBaNG5XTWhnT2xSbE0yTWgwaXM5NXdyRjJlTk1IX2JYUENHak9fb0N5aWxyWnpZdlZBXzRLT245SDZvcTBQSnJNTVdvdm12Wm9xZHhVNV9qeU9EWk9yTlgta29TNHlwNDA5a2FobExLZFVlcWtNdXZYU1p4NUN3S3h0ZmhuUUJMazQtZEpldEgwd2dOZWFEeE1pRFR1V0Y0NnVwMktZM1FXT2w1WTB3RGhR?oc=5",
+   "date": "2026-11-11T19:54:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "3f1092932a3f",
    "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
@@ -812,6 +823,23 @@
    "next": null
   },
   {
+   "id": "9fb2dd412c65",
+   "title": "Presidenta Keiko Fujimori anuncia convenio para reconstrucción de viviendas afectadas por sismo en Junín",
+   "excerpt": "",
+   "source": "Tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzZ1d2RkWVNHQlR4TjZ1NXg5NGN4RnZJYTlMc2JXelpXeTBTREVoRGloZW1uU0dmZVFFUUIyR0Z3Wm1JLU1wcGk3bUswaTJsRWlCWGlZUk1ybTR5eVR0aVdvREtHUWl4UXRYY1VlNmZKdUYyNUUxaFZ6NUFyYXBjcG1EbFoyMnk2dGstYi1lNkVVR0F6T0lXcmtCUVpPR3BJMHpZeFVrUi1uYjl5ZjhuZWhTRXJZWUtFanNv?oc=5",
+   "date": "2026-11-11T13:24:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Junín",
+    "lat": -12.065,
+    "lng": -75.205,
+    "abroad": false,
+    "city": "Junín"
+   },
+   "next": null
+  },
+  {
    "id": "5c04ddb05a44",
    "title": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\"",
    "excerpt": "Expertos en materia política e internacional indicaron que la APEC empieza el 18 de noviembre, por lo que no había necesidad de que la jefa de Estado viaje el 15.…",
@@ -1063,31 +1091,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS09WZHcwcndxQzNFYV9US0ZvOHN0WmtNSHNPd2JITHg5X0xadXpwdDJQYk5mTEx1NktvZzBJWmxrT0NXMjFCM2RqYU0yOEdybDhCVEJaMnhlYWVvMVZZSEwyTHNvd19VUmJ1a0NEOEFXYU1ZR3Nha2hsNDJ5Ym1Od25ydUZxWWRwalF5bjFibklwckZVamhCYi1vb0I2TVlWVmdWRGpKRTAzZ3dxelNzcjRhSzFZZmp1N0pFSld4UUM5cWltT0h2TGhjQ0hMdE9vN01B?oc=5",
    "date": "2026-11-11T01:34:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f9c77bd98d3",
-   "title": "Keiko Fujimori responde por viaje a China durante visita del Papa León XIV",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLV9SRUQ5enNMQTlHS0tSWjZzX1Y2dDFENzB2ZVZTbnp2eFhkdGtXUmpkWDgxS2l2YkoxZ3VtdmFLajFWOWtyUXp5NHBrYllkOFgxWU1yUUhnOVNscFJWb2wxbDA3NUlCR1lUOEhoTzdRS1lLZlpWZnRfYnBRczI1dS13Nkh4TUs2U0dpYWV4aW9ZX1FnRmF4Qzh3T0VkcmFQU0FTRlkyQlo5SkxsSWdNbXlXM1hFZVJwb0xXN0pkTGI?oc=5",
-   "date": "2026-11-11T01:32:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "d5e248e56002",
-   "title": "Presidenta Keiko Fujimori pide no politizar la llegada del papa León XIV",
-   "excerpt": "",
-   "source": "Tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHFrV19RQlViQlVGMUVBV2k3VEIxOW5BeWpKMDJjUHh0Y0R1bEVjbUZ4VzdEd1hocnlYdXYxT3ZnYWg0UmE0TmdPalIwcnVMeFh0c0FVc0F2RkVVSUw1UExiN2NQU3kwemtaaWxKVTBBSWNKdmJDQ3pQdVE0blVTbmI3LVFSRHRnTmtCajQyOEpzV0lRU3NfeWo1TmdFWTh2RmRuel83and4NXZUUTE0QUJJZkpsR2M?oc=5",
-   "date": "2026-11-11T01:21:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
