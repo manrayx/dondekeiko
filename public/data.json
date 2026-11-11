@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T22:58:26.701873+00:00",
+ "generated_at": "2026-11-11T23:20:26.867502+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-11T22:50:13+00:00"
+  "date": "2026-11-11T23:03:14+00:00"
  },
  "next": {
   "place": {
@@ -363,23 +363,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "86b1fe587b72",
-   "title": "Keiko Fujimori recibió al papa León XIV en su regreso al Perú",
-   "excerpt": "El sumo pontífice volvió al Perú después de un año y medio de haber sido elegido como el sucesor del papa Francisco. La presidenta Keiko Fujimori encabezará la ceremonia oficial…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-recibe-en-el-aeropuerto-al-papa-leon-xiv-en-su-regreso-al-peru-hnews-513458",
-   "date": "2026-11-11T22:59:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "5418dd45c080",
    "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen esta tarde en Palacio de Gobierno",
    "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-11T22:50:13+00:00",
+   "date": "2026-11-11T23:03:14+00:00",
    "state": "transmitiendo",
    "place": {
     "name": "Palacio de Gobierno",
@@ -388,6 +377,28 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "3f1092932a3f",
+   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
+   "excerpt": "El pleno del Senado aprobó, con 44 votos a favor, uno en contra y cinco abstenciones, la autorización solicitada por el Ejecutivo para que la presidenta Keiko Fujimori viaje a…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/senado-aprueba-viaje-de-presidenta-keiko-fujimori-a-foro-apec-noticia/",
+   "date": "2026-11-11T23:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "86b1fe587b72",
+   "title": "Keiko Fujimori recibió al papa León XIV en su regreso al Perú",
+   "excerpt": "El sumo pontífice volvió al Perú después de un año y medio de haber sido elegido como el sucesor del papa Francisco. La presidenta Keiko Fujimori encabezará la ceremonia oficial…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-recibe-en-el-aeropuerto-al-papa-leon-xiv-en-su-regreso-al-peru-hnews-513458",
+   "date": "2026-11-11T22:59:05+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -597,17 +608,6 @@
    "source": "LP | Pasión por el Derecho",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjdCVC1uYlVpelR3dUZDZWs1NWFRTU52d0JkMGNFWmF5MXRaRmU2Q2FLTHUxOU9IR2pyQnhzc3JGXzlheW9JSV9TWU9MblF0WjBiMnNhc3RaWG9ITVVpa3piUXp4NkpjZU16T1VRMThtVFIxNUFSRlFSQTVCSzJ6UGJxWVI3V3V5YjNXcFVB?oc=5",
    "date": "2026-11-11T20:46:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3f1092932a3f",
-   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
-   "excerpt": "El pleno del Senado aprobó, con 44 votos a favor, uno en contra y cinco abstenciones, la autorización solicitada por el Ejecutivo para que la presidenta Keiko Fujimori viaje a…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/senado-aprueba-viaje-de-presidenta-keiko-fujimori-a-foro-apec-noticia/",
-   "date": "2026-11-11T20:39:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
