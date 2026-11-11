@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T01:50:21.113898+00:00",
+ "generated_at": "2026-11-11T02:12:05.301105+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -402,6 +402,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1470bb6c3ac1",
+   "title": "Keiko Fujimori sobre viaje durante visita de León XIV: Jamás se me ocurriría desairarlo",
+   "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
+   "date": "2026-11-11T02:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "03ff17ff756b",
    "title": "Keiko Fujimori se ausentará de la despedida del papa León XIV por reunión bilateral con Xi Jinping el 17 de noviembre",
    "excerpt": "",
@@ -441,7 +452,7 @@
    "id": "8f9c77bd98d3",
    "title": "Keiko Fujimori responde por viaje a China durante visita del Papa León XIV",
    "excerpt": "",
-   "source": "RPP",
+   "source": "RPP Noticias",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLV9SRUQ5enNMQTlHS0tSWjZzX1Y2dDFENzB2ZVZTbnp2eFhkdGtXUmpkWDgxS2l2YkoxZ3VtdmFLajFWOWtyUXp5NHBrYllkOFgxWU1yUUhnOVNscFJWb2wxbDA3NUlCR1lUOEhoTzdRS1lLZlpWZnRfYnBRczI1dS13Nkh4TUs2U0dpYWV4aW9ZX1FnRmF4Qzh3T0VkcmFQU0FTRlkyQlo5SkxsSWdNbXlXM1hFZVJwb0xXN0pkTGI?oc=5",
    "date": "2026-11-11T01:32:28+00:00",
    "state": "posando",
@@ -560,7 +571,7 @@
    "id": "64dbd6f2dcc8",
    "title": "\"Jamás se me ocurriría desairar a nuestro papa León XIV\": Keiko Fujimori sobre su viaje a Asia | VIDEO",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1hrelJOWk5Wdm55QWp0RlpmWXhmOW56dmpCamd2V1Q4dHI0N29OQUp6VlBzWnJQTDNNNW5sekxyRFlWWXdZdUJRSXlxWTNtcVp3VmZRbFFhbUJVTTkyS0VsQXI0ZEp3QjZSaHJvNTNhWktiY19LaHQzRkhNWEF1X0I4UnY0SmpPODBudndpdFRmMXhHWWl3azhQSjF6ZHlpNHY3blllT0pNdjdkN3hhTlR3YzlodDlWMk1SLWlR?oc=5",
    "date": "2026-11-11T00:14:59+00:00",
    "state": "posando",
@@ -615,17 +626,6 @@
    "next": null
   },
   {
-   "id": "1470bb6c3ac1",
-   "title": "Keiko Fujimori sobre viaje durante visita de León XIV: Jamás se me ocurriría desairarlo",
-   "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
-   "date": "2026-11-10T23:40:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "08abfea7965e",
    "title": "Keiko Fujimori se ausentaría de la despedida del papa León XIV por viaje a China: \"No es un desaire\"",
    "excerpt": "",
@@ -657,7 +657,7 @@
    "id": "41d529da6518",
    "title": "Ministro Vinelli niega que viaje de Keiko Fujimori a China sea un desplante a la visita del papa",
    "excerpt": "",
-   "source": "RPP",
+   "source": "RPP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMGRKMVpLMTJ4bWFpQjZsU2JHNDlFdWNoZE9uV3BLUlBpWXVIX0p3d3A4eTY4QjRuSVdzajR1OU5aNlZyMVczRUs2NTRLZXlock9FdEpjRkNSMjdod19OWHJ4YktLODRjRlJUOTZHcExmZEdkTUVaM3k3TkRQTkYwcHZ2Nzc3STRhUFJyaVZELWZKQ0d2ajVlMWR2MVlEU3JuV2ZRQ3c1em9PMHE2ZHAwWGVaN0tSSHE0VlBZY1hkcDRXYmJPQkU1TVhpY2xUMVEwWHl6aEtxbVRmcmp5VlBmaVhDNGQ1LWs?oc=5",
    "date": "2026-11-10T23:23:38+00:00",
    "state": "posando",
