@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T14:57:12.890458+00:00",
+ "generated_at": "2026-11-11T15:18:51.864429+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "Trome.com",
-  "date": "2026-11-11T14:39:46+00:00",
-  "title": "Keiko Fujimori defiende viaje a China durante visita del papa: “Jamás se me ocurriría desairar”",
-  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1NRRG1vaVNSZXVMTUlxUlQxODhKdGNrNXB1cl9VRlJyMXF2SW1tT05WbnRkZVRZV1Z2VzFGbk55YVcxNzdwZzRaSWNRaWxQeS1LT2Z1Y0JOeW1JUE5nazNjUVd3R25ISk5sVDJ6WDZxSG1uM3JrVXNVT3R5UnNzYWJ0eEx0ZllnTF9wNV9Bb3dyWnlsTTJDNTFuYS0zZkZZZjR1ZkRNZzRNWlRj0gHAAUFVX3lxTFBaQjF3dHlfd2hacm1mbUdtT0pBZnFPT3VCQl9pOC1Wa1BzY1lZemd1MEpTblh1Uzg4bE50Vkk0RG9HelBIYnl5eVpYSXhhR2YyZUZvbndOSWpKV1BlbG5jeUpfeGRoNy1QVnFqcFlSU1NfT3A4OEdZSlNPSEtVcXllSVB1TGFKTDZUd21HejltdVlRN0NkNk85VWZkTy11VlBKSHdsXzBKWm1id2NtOGY1bHlxQWZJNUtFbVFQMXVieQ?oc=5"
+  "source": "Religión Digital",
+  "date": "2026-11-11T14:47:39+00:00",
+  "title": "Keiko Fujimori, criticada por su viaje a China: \"Jamás se me ocurriría desairar al Papa\"",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDdWaUhxSFIxekdLRVEtZEpjZmV6T3BiVjJZczQyam5tZ1p3M0xmMjVfaW9jd2xJWkNMdE9ySjdBUWdIOGZlLV9pUmJvT0k0aHNNZnpvM3FDellkN2kxWEhkRnpMTXkta3A4MEwzdUlqZjB5dnkwU1NnZnU4VlA4WS1XbWRzM0RCUFHSAY8BQVVfeXFMTi13bkpCVFFRUFpTSldLa1Vld1hnUEstY1FZRG03SDFaOEY0NXpXOXoyalJGcTRsNkU1aVhoNi1INld1M0lnTk5Pd1RaenNNb1FtdEt5a0RnUnVOWVZSN3JTVDhNMUF3Vm5vRFEtbnFtOE5yVEQ1ODNzN2oyNHVpNndvRkhkaF9rNU5kc19LVms?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -363,6 +363,20 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "da5201465120",
+   "title": "Keiko Fujimori, criticada por su viaje a China: \"Jamás se me ocurriría desairar al Papa\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDdWaUhxSFIxekdLRVEtZEpjZmV6T3BiVjJZczQyam5tZ1p3M0xmMjVfaW9jd2xJWkNMdE9ySjdBUWdIOGZlLV9pUmJvT0k0aHNNZnpvM3FDellkN2kxWEhkRnpMTXkta3A4MEwzdUlqZjB5dnkwU1NnZnU4VlA4WS1XbWRzM0RCUFHSAY8BQVVfeXFMTi13bkpCVFFRUFpTSldLa1Vld1hnUEstY1FZRG03SDFaOEY0NXpXOXoyalJGcTRsNkU1aVhoNi1INld1M0lnTk5Pd1RaenNNb1FtdEt5a0RnUnVOWVZSN3JTVDhNMUF3Vm5vRFEtbnFtOE5yVEQ1ODNzN2oyNHVpNndvRkhkaF9rNU5kc19LVms?oc=5",
+   "date": "2026-11-11T14:47:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "4bd2d121a88d",
    "title": "Keiko Fujimori defiende viaje a China durante visita del papa: “Jamás se me ocurriría desairar”",
    "excerpt": "",
@@ -517,6 +531,17 @@
    "next": null
   },
   {
+   "id": "3e244b35f467",
+   "title": "Fuerza Popular defiende viaje de Keiko Fujimori a APEC: senadores a favor de que asista a foro internacional",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSXVXc2pmNVdoT3hmYjQ5aXl5RUd1aGxOaW9oLXZVVjhwcXZJSi1oQkItbUJHb2FUUGhxRzFpczJmTXJBTDUxZTZWWFdTcGUtdWlPSjJFLVNqTFFudGd0ejVKRVNmNjl6b3JXVTF0WEdFZXlieFBMbmxBYlFfYTRmQ1UtMUJDN0pmQ3ZWWXZFdTdDb3BGS1JoVXAyWVdLVG1fTUF2YUVpQUtZTnZZWV9vTE9icGwwdGhWcmhPX2hlUjRUbFQ0Q3VXYXNxWm9fOE52ODRpSEs4TnVXdFM4YkU3S1YxWWVreFBYZmUzS1FQR2xGUQ?oc=5",
+   "date": "2026-11-11T11:31:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "49fd61287357",
    "title": "El papa León XIV llega este miércoles a Perú para una visita oficial de seis días; se reunirá con la presidenta Keiko Fujimori y la sociedad civil",
    "excerpt": "",
@@ -628,7 +653,7 @@
    "id": "99c0cf24c835",
    "title": "Keiko Fujimori pide no politizar llegada de León XIV al Perú: “Jamás se me ocurriría desairar a nuestro papa\"",
    "excerpt": "",
-   "source": "Diario Expreso",
+   "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQ01lQlNUak9SeGZLU20xWEFVSVd2N2lVeWIyRG5Ib1RuSG1pNnhQNjZUR3JFa0pTV1RGUUlyT3c5TU4tZVBxZHlaXzNDb1NjYXU0RTBwanRLNy1hVFFtOW9nTFVZZ0tJd2RsNnktbHFqU2p2amRsSmF5bzFKWmZxRDVEdXIxbHgyNFdjc1NkajYtdkZHQkdIZkNxWDBwZnFvZUZ3UGtQaFZHWTFiYjZUU1lLMUM0Slh1aWJHUVZ4WW45YlIyajFhd3Q0aC1OUC0wQjNZOF9STlBYTjgzWTJMNTdzcHQtWjR3N1lNd3hRMWRpc3dhaXp6Z3U2OVF2ejR4TUNPbzJB?oc=5",
    "date": "2026-11-11T02:15:08+00:00",
    "state": "posando",
@@ -1069,28 +1094,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZExNLTR2dGFlYk4xdlhoQ1drUU1ONm44Vk9rVUhVVXpQbk43T2FndnNMOVlOTVRfWkxrRGVqdFJIN0tBbFRDVWg5VnZ5S0FYdnA5N2pmRmZXcllhYWtzTWdLb3RUd2lKS3dvUmxFeDFSTXlxcElNQUMtUy1VdVdJclBPUWpYLWUyOTA2anpXOVUwRkRfbjVKcjR2eERGN3g2MnF1dEEzeTFIbWhBcmRfRXp3Zm5xVUU5T2hXZVUyR3d2YmhDQU1Dc3hvMTYxV254N0ZYbHlBZ0xmMTjSAfYBQVVfeXFMT3pMSjdLcEc4dy1ENEItRmRPOWtBVlQ0X2xodTg0ZkhkMnNUTUVFdFpuZGVMQTl1OHZXMmh5WDEyM1d2QXU1NGhyMlNSbFd5ZW94aXdRZWlvWmtWeE5QTWlFSVlScXJ2cngySVg4ejJKS2VNeGFKcDJrMmRpa1ZYdzJCeXlUWndfcjNuR0M2d2pIU2w0U0NWZW1jeDB2cV93QWpCbWhNM0NtVDhXd09NeTNMMWo2YmtLcklTX09QWGVYMEl5WWhQRUpUSXRjX19yX3dRVDFvRkN3VFVEUFJBbGl5eEl2S0hpZExsSHdNbDk3ajVPUkV3?oc=5",
    "date": "2026-11-10T15:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "808b303ca24e",
-   "title": "Keiko Fujimori solicitará permiso al Senado para viajar a Asia durante visita del papa León XIV (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVVScll4NzlwVlI3U0hVOVp0eWQ3cHRqQ25YbU9MbjZrLUtRV2RVWkZaTXpDbjJ4MDBVNVlUYWhfQXJtVl83UEhkSWxHdE9VSWRZV2JyNkNLRzg1TG5GRENlSUhkWG5BT2kzeXNHbDQ0TjJaX0Z1UVBPWmFkSU52c3RvSFFzYTV0QXplTlRHWUJPS0dJX1hQcHM5c29Fem9PRldBdmpLcGNUMjRjbk5wNVhiWkZjTFM3WjFHNU4tanRnaXZRYVM0?oc=5",
-   "date": "2026-11-10T15:36:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6a412ad8734f",
-   "title": "Luis Galarreta negó que el viaje de Keiko Fujimori sea un desaire a la visita del papa León XIV",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQW9MajhsWnhGZzZHWVBjRVhiZnM5VW4zYi1fak8ydjBuaENweVgyYVQyX2txc3J5XzBzazhvOXFBV19YbVNNME5GT2tHcG9JbXYtdWVqX2JWTUNpRWRPLXdKQjhQeWowWjVwSEtvYldCc01qQnJTSkdGQWJGbWNwSGlOTms3RDUxWVQ5WFl6eVdoeTMzZVNmQ1UwRW1vQUpYWWVRdFQzYlBzdUJnODNWNGJORlF4eUxCajRaakJENEpFbHczOEwyM2gwT01XSnlKQzRn0gHnAUFVX3lxTE5UWlYxZ3o4bmFVdk56aWZFcVM4WE01SzlkZ18ybTJ1WFZsQU4wNFhKckp6TVFmMmlCdk5YMzBjOTZDYUM2dDFuVktQcWpPekZhY0preVpIcXkyeTlMYWd6d04wUGN3V3BqR2hYOVpjby0zS0RIRzloQWg2SEluYjRGWXpUOHdfMEh5UHJfRVMyOTByUDhRS1dUbG8zc3FFM2lCazlCWmxZMXQteFBDdzY4aGFyMThIY21uTFVQME0xaDJmcVF4REVFaGhRTDBnLURNU2RseG4ySWhOT2I3WXFtMXdQWV9wRQ?oc=5",
-   "date": "2026-11-10T15:23:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
