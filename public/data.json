@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T11:18:00.279133+00:00",
+ "generated_at": "2026-11-11T11:40:13.204516+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Argentina",
+   "abroad": true,
+   "city": "Argentina"
   },
-  "source": "El Comercio",
-  "date": "2026-11-11T03:00:00+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-11T11:32:13+00:00"
  },
  "next": {
   "place": {
@@ -362,6 +360,21 @@
  "agenda_minutes_7d": 323,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "1979925ca25b",
+   "title": "Día 1 de León XIV en Perú: llegada desde Argentina, ruta en papamóvil, reunión con Keiko Fujimori y otras actividades",
+   "excerpt": "La visita apostólica comenzará este miércoles con una recepción en el Grupo Aéreo N.° 8 y cerrará con un encuentro ante autoridades, sociedad civil y diplomáticos en San Borja",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/11/dia-1-de-leon-xiv-en-peru-llegada-desde-argentina-ruta-en-papamovil-reunion-con-keiko-fujimori-y-otras-actividades/",
+   "date": "2026-11-11T11:32:13+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Argentina",
+    "abroad": true,
+    "city": "Argentina"
+   },
+   "next": null
+  },
   {
    "id": "b92571a66cf7",
    "title": "Keiko Fujimori niega desplante a León XIV y dice es por el niño: “No politicen” | Al Vuelo",
@@ -1064,17 +1077,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk14czlIN1J5Zi1LWEV5bm54NjgzdFplb0x5d3BHV0NGM1BqMkc4X0JSODFwUkdlZXFvOVBLV05vZFEtVmptUGZBZURlaEF5OHkyX3N0MGIxclpKQ3FoQkRfdUxfM1BvclItM3Rrd2toaFdSUmFEQkx5aEpDVkY0a0lqcHhMX1RMRHRUU0oxYUJ0OFZvaHFwVXYwRHNDdU1CbVBsMTVfcjB1WEdidGc3c1JGMHd5ZVZHNGpRSnZKVWfSAcYBQVVfeXFMTlpFN2FidmJWaURHQ2VJcGdMcUd0bXFKMG9SM3dSVm40MzNCaFNWanRSaTFkbUlnZ2dpMll1dzN0SmxoVHVBMDJJWVFqYzFCNnFjYVFMakpyRXZyWlBIOE5lMFNFSi11SFRPWEZMTUhXVllwWVdqMjZFbXA5OS11MWRIZ1lDM21BWU50cUdfTHNhTWlYOWFhY01UUzVCemNtNktRWFdtVDUybnZsX0x6NDVCWG9KS0FnVnpxcFJUd0ZCZWJLOExn?oc=5",
    "date": "2026-11-10T11:57:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e3cbe63d90d0",
-   "title": "Keiko Fujimori llega a 100 días de gestión con 55% de desaprobación, según encuesta de CIT",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFZocGtROWRXN29qbWlLVkJramZRRzBBMF9VSkwwMDlFc3BvVF8wRmY3Nm80bFVoX2NRcjJ0UE9xdDBHeHZmc2hJTHpFb3FYUkFCUnNUY1FtR1htXzRDV3pQOTI5MDJtX1B0NWxMRThBX2RYNEMwSEFfUzhwUE5QUDdOVk5XdG1ETHpTb21CWFNUV3NFcGczU0tINjFIVndLdHNhSjV6U2N4N1dfOVJFOGdtcWdoNS1zNndSVDR3eVNkeFNNYi1TZ1JwNWZ5eG9DYnFObmhwSUc?oc=5",
-   "date": "2026-11-10T06:44:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
