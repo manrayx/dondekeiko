@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T23:39:54.996507+00:00",
+ "generated_at": "2026-11-11T00:01:45.426875+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,10 +100,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "Gestión",
-  "date": "2026-11-10T23:00:00+00:00",
-  "title": "Senado debatirá autorización para que Keiko Fujimori viaje a China y Japón la próxima semana",
-  "url": "https://gestion.pe/peru/politica/senado-debatira-autorizacion-para-que-keiko-fujimori-viaje-a-china-y-japon-la-proxima-semana-noticia/"
+  "source": "Exitosa Noticias",
+  "date": "2026-11-10T23:32:00+00:00",
+  "title": "Keiko Fujimori se ausentaría de la despedida del papa León XIV por viaje a China: \"No es un desaire\"",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekpZTktPVk5wMmY4azRfZVprY0s1RktuZTBJdlBkRG1MNWFhUGpHRm5IdTl3SGhJVzUxemhEYWFsUUw2cmwtclEtTmtsYkNBSncydnpLX2ZSTmV1ZmoydjVRakh3Vkg2U0JCTVZocUJnVkI4d3ZEMHNJTi16RTJHWXRuOUQ5YVVKdnBBNHM5T1p5OUxWODhBV3EwQXVsTUNWTDR6RGNiSlFxcFNncEdwTnVsd2VwM25EWU9LTnlFSQ?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -391,7 +391,32 @@
    "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/luis-galarreta-defiende-a-keiko-fujimori-por-viaje-durante-visita-del-papa-leon-xiv-descarta-desaire-noticia/",
-   "date": "2026-11-10T23:37:47+00:00",
+   "date": "2026-11-10T23:40:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "08abfea7965e",
+   "title": "Keiko Fujimori se ausentaría de la despedida del papa León XIV por viaje a China: \"No es un desaire\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekpZTktPVk5wMmY4azRfZVprY0s1RktuZTBJdlBkRG1MNWFhUGpHRm5IdTl3SGhJVzUxemhEYWFsUUw2cmwtclEtTmtsYkNBSncydnpLX2ZSTmV1ZmoydjVRakh3Vkg2U0JCTVZocUJnVkI4d3ZEMHNJTi16RTJHWXRuOUQ5YVVKdnBBNHM5T1p5OUxWODhBV3EwQXVsTUNWTDR6RGNiSlFxcFNncEdwTnVsd2VwM25EWU9LTnlFSQ?oc=5",
+   "date": "2026-11-10T23:32:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "41d529da6518",
+   "title": "Ministro Vinelli niega que viaje de Keiko Fujimori a China sea un desplante a la visita del papa",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMGRKMVpLMTJ4bWFpQjZsU2JHNDlFdWNoZE9uV3BLUlBpWXVIX0p3d3A4eTY4QjRuSVdzajR1OU5aNlZyMVczRUs2NTRLZXlock9FdEpjRkNSMjdod19OWHJ4YktLODRjRlJUOTZHcExmZEdkTUVaM3k3TkRQTkYwcHZ2Nzc3STRhUFJyaVZELWZKQ0d2ajVlMWR2MVlEU3JuV2ZRQ3c1em9PMHE2ZHAwWGVaN0tSSHE0VlBZY1hkcDRXYmJPQkU1TVhpY2xUMVEwWHl6aEtxbVRmcmp5VlBmaVhDNGQ1LWs?oc=5",
+   "date": "2026-11-10T23:23:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -539,9 +564,9 @@
    "id": "5e11f02a5303",
    "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV: “Ella lamenta no estar hasta el final”",
    "excerpt": "El primer ministro confirmó que la presidenta no llegará a la jornada final de la visita papal y respaldó el viaje a la cumbre de APEC y a Japón como…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/10/luis-galarreta-niega-desplante-de-keiko-fujimori-al-papa-leon-xiv-ella-lamenta-no-estar-hasta-el-final/",
-   "date": "2026-11-10T15:41:08+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZExNLTR2dGFlYk4xdlhoQ1drUU1ONm44Vk9rVUhVVXpQbk43T2FndnNMOVlOTVRfWkxrRGVqdFJIN0tBbFRDVWg5VnZ5S0FYdnA5N2pmRmZXcllhYWtzTWdLb3RUd2lKS3dvUmxFeDFSTXlxcElNQUMtUy1VdVdJclBPUWpYLWUyOTA2anpXOVUwRkRfbjVKcjR2eERGN3g2MnF1dEEzeTFIbWhBcmRfRXp3Zm5xVUU5T2hXZVUyR3d2YmhDQU1Dc3hvMTYxV254N0ZYbHlBZ0xmMTjSAfYBQVVfeXFMT3pMSjdLcEc4dy1ENEItRmRPOWtBVlQ0X2xodTg0ZkhkMnNUTUVFdFpuZGVMQTl1OHZXMmh5WDEyM1d2QXU1NGhyMlNSbFd5ZW94aXdRZWlvWmtWeE5QTWlFSVlScXJ2cngySVg4ejJKS2VNeGFKcDJrMmRpa1ZYdzJCeXlUWndfcjNuR0M2d2pIU2w0U0NWZW1jeDB2cV93QWpCbWhNM0NtVDhXd09NeTNMMWo2YmtLcklTX09QWGVYMEl5WWhQRUpUSXRjX19yX3dRVDFvRkN3VFVEUFJBbGl5eEl2S0hpZExsSHdNbDk3ajVPUkV3?oc=5",
+   "date": "2026-11-10T15:41:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1040,28 +1065,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3JTVVktaldycHVvM1hoRkRGVFpMM0NsMXZkZVJubWdkTElWVjRYWjZTRFAyNllMRnpJU0I2elNfYjI3YUJhdjA4cjFWNXVUaDlQdk5Gb05zcm5yazIyM3RjMllSc1BxSHFCV2pUcGtxSUt6Yjc0M2xUOE5RNUpLXzBKV1o4eUlfcmRacjVxSXN4MlFPT3V6Q1hPMDZpRDdNNlBMWGxtNzZ1ZE5Yc0sweHRiV2ZnU3QtMXZSMVZmb1BwaGZVc0V2U09BUQ?oc=5",
    "date": "2026-11-09T15:56:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "62a0a668c26d",
-   "title": "Perú.- Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas en exportación",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmpwRGwzTEJYTld5VnJQX0QyMUppd2hlNlVYeEhPempyNDBPNGxwdFVRQU9yek1ZN3hLRVpENUh2WHRqLVYyZ3JvdEgxZmk0T05OOW5DdkpVTlQ3S3B3N1lTTVNxUzhMVkJhNVJMc0dXajQwOVVrV2VhSDcyejhWMmVTZXVCVkY4eGYyWmg5eTRNTVNUSERPckgyOGlaN2RUN3hJNzlFcHNGZEFVaVJVYnRfQjVLYmx0cVZkWFVqWG9hN01yanlUWlgteUVtTkdINV8w?oc=5",
-   "date": "2026-11-09T15:34:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4c731a78c915",
-   "title": "Gobierno publica decreto legislativo sobre delitos violentos e informáticos",
-   "excerpt": "Al amparo de las facultades delegadas por el Congreso, el Gobierno de Keiko Fujimori publicó el Decreto Legislativo 1744 que busca fortalecer la lucha contra los delitos informáticos.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno-publica-nuevo-decreto-legislativo-sobre-delitos-violentos-e-informaticos-apuesplan-noticia/",
-   "date": "2026-11-09T15:32:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
