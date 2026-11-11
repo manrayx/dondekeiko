@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:23:28.784125+00:00",
+ "generated_at": "2026-11-11T16:45:41.052152+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,17 +111,17 @@
    "abroad": true
   },
   "source": "El Comercio",
-  "date": "2026-11-11T16:15:40+00:00",
-  "title": "EN VIVO: Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
+  "date": "2026-11-11T16:43:07+00:00",
+  "title": "EN VIVO: Senado debate permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/"
  },
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 4,
-  "posando": 55
+  "triste": 5,
+  "posando": 53
  },
  "total_7d": 60,
  "silence": {
@@ -363,6 +363,67 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e2d1a02c23d7",
+   "title": "EN VIVO: Senado debate permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-11T16:43:07+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "e8ff40e07416",
+   "title": "Ministro Juan Sheput pide al Senado aprobar viaje de Keiko Fujimori: \"Nadie nos puede representar mejor\"",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMlhjNHZKRTFUS1o0OVJ6RTBFT255eUFtQi1qNjdXTVc5dWpMZ1N4QTVQZFVlanhwMl8wdVV2d1IyOUx5TlA5ZkNqd2ZDakxiTDJLWFF5OXM4LXpKUkZidFpjX1ppQ2t3Rjk5eDFFQlNUZVBiaE5KcWYyNVpta05jSXFzR1l4N2hrcTB4WFdjQkc4N2RWVy1jN1FZRDJaY2hwN2xiVjJkcWs2TXBfRjJCMFdIbmQzaUp5T3R3UXI4d3lFRF9PLUEwN2tNZ3FseDhDUG1sdWxrc1NCdE81eDRwbjlWZGsyTVNJb0ZhMHM3OVdwQWd2bGh3SzdhU0lwQ1VtZGFWSktFTFdsbGlYSlgwNW0wSjV5UQ?oc=5",
+   "date": "2026-11-11T16:38:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "69e88fa28491",
+   "title": "León XIV llega a Perú en medio de críticas a Keiko Fujimori por su viaje a China durante visita del Papa",
+   "excerpt": "",
+   "source": "La Tercera",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUJnWDIzMVRiY2owTVpITmRaT0VZcUw4LXcyeVNidWxmdkppbXBmVFRoT2VFdWJYUmxlNE1TSGxMSjY2a0g1WEN6MzQwYVFhSVFTRmtnT01JZVNUT1BidzNNWWh6c0U1TnJDbmlvdWVFeGxxMVRWMlUtNUxVQS1sSXpBZTlsVGZfZnEwVUtzeUFoWmpNVHBIS2dTc0YyMGhKWG5XWVdGVWpQNWRlX0s0TVp2UENqSzFtUGNmV25pRHRLbV9uZ0Jkd3VsYTBGM3hXemNHWW1QTjRlYVFpd3fSAf8BQVVfeXFMTnJKRmctNm5MWUxVYjJTN3dHeVg4N0g1djFkVndNWEF3Sjd4S3o4NV9Ic21Rd09GbnZ1R1FqWTRWck1YeWN3ZDFHSUxfOVZOeGlTUU1lc0lWdGZFQzl2WHVrcGJpQm5vaVBRQjZDejAtZnN0YW1uU3RTRkt1Yk1WUjV1andPSHZQS2poZjFwdlBUQnJOcUxMRmRfMGJuOXpyMlNyMUZWUVA5R1Jja0RTVFhkOEZZYWFpVklNVllFd2kxOE0xTy1TVjN2dnpKOUVzNFBodkhkUG45TjYyN0IxemswMGRUY2VFdGRyTEE0OFNfWWZHNUxaNGNITHA4VTdn?oc=5",
+   "date": "2026-11-11T16:30:00+00:00",
+   "state": "triste",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "db19a3a6d4b7",
+   "title": "KEIKO FUJIMORI NIEGA DESAIRE AL PAPA LEÓN XIV POR VIAJE A ASIA",
+   "excerpt": "",
+   "source": "ProyContra",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHNFWWR6NXFyeXhIRUU4djFRNGZyYTNENjRHbXNPRFZEaWFZRk5HSzhtVWNZVEtMSU9wNloySVdlYkRPeXhxUGdnYVc1RnpPbV85LV94VkhxM184ZVlnUmtOTmkwS2t1V2JlMGlNVkFrRG1zbDZnX1d5Y3pFeXlsTG9MRG9uM0RINWJIQkZYTk80QVpHMTNYN0xLZ251cVVuVlE?oc=5",
+   "date": "2026-11-11T16:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9fefd73a3639",
+   "title": "Ana Lucía Pineda viaja a Perú invitada por Keiko Fujimori para acto protocolario con el papa León XIV",
+   "excerpt": "",
+   "source": "Pulzo",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTBiOHIzRmZPNFhwdF8yQ2FvZGhIU19lRHBVVmMyLWJaVng4Q0xBdXpGcUkxQjZsS1h5bUw1VnYwR3dXUEg4alE0WjFfMjVNNm9kU1ZmcDVITFdiMU1DZW9XcTVtQzRYYWFKMkJxZWZLdnE4a1VkNkJhNlFXdndDeTFXclQyN1NMMWx2enc4R3lGQnA2UTJiYXpLNEM0eGpIdElXZXlSUGxDbjZ4V1hKUmV4SEs1QWtWdDdlbXdsS0hBMEtHVXp0MDN0cGt4bjVFdHJjZXNwcWFRNWPSAeABQVVfeXFMUGpkczUwNGVWRFhKd29NSWxfalNqTVRVNTBpQjdFWGNzRGdVaWZjaGZtOU5GQjR1QWJWQl9ELXBDSkZQNW5mXzRqQXhmSlVTUFFBWU5JT2lod25ibHVFRVZjSGlNQ1U4Q1FnaFFMMFkzMDdBYVVLY29USmJnZWV2c2dwbGNQeVdBbkZFaTVwXy1tc1A2alJyOG9mLTdHQUZsWEpMbHd5bmdidzVJb1RxRE83bUtGRmdIZS1scWRFTkNkX1ZiYmhVNEhLdmdqMDFqdDdJaGN2WVZ3VTlVeV8zZjk?oc=5",
+   "date": "2026-11-11T16:25:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "02092b2ec79e",
    "title": "EN VIVO: Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
    "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
@@ -565,6 +626,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "792d18a1178d",
+   "title": "Keiko Fujimori justifica viaje a China y responde...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMDk0NWw0amR5TzhScVN3bTdNTEFZNi1SWjBTdXZ5TEpTQWV6SlpsdDFKXzJINzFueWdGdnpGb1p5dHJPSFpTWmlVZTZ1S0FXbHpVcGtfRTFaWXFMbGlrZW13RW5nbVhZWEVKWmlKSDN0OXhtUVdHNWpxa090YjdqUGdHRUhSZTVNVGM3WmpOUWlIcllBVnJRQlV3RTFxSjlfdm5tdWxGMko4TUxGd3kyQ3F4dmY4NEtV0gG-AUFVX3lxTE04enBSaDlCZ2EzMi0tMk9wRFpNVjBZR0xVUUE3Ri1vZVVIeWNxNzU4RUZ4Q3d5S0JJYVFjYlkzV3JPNVNJUDg0bm9JUjI0LXdsdC1YeERpNzhiNzNaQXkwTnBka0RHa2h5bGJaSW92OVM1ZVJ4blFpeDgxWmVwb0J0eTd5bkUwY0E0OHlzc2RuVExhWmdGREM2dUhIUWUybFU0ZjlHNmtYVTVBUW5abXZ6dlAyY1Q2eDBOekNFNUE?oc=5",
+   "date": "2026-11-11T11:18:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "b92571a66cf7",
@@ -869,7 +944,7 @@
    "id": "1c00b213c17d",
    "title": "Keiko Fujimori responde a cuestionamientos por solicitar permiso para viajar durante despedida del papa León XIV",
    "excerpt": "",
-   "source": "Diario Expreso",
+   "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSHlLemJHOWJxMGtKWHdWQXdfNkpYT0kwempoLVF6LVdaVk13bnVzay1lcVZ5d0dLTHJKOWFidWR0bEhnU2ROSVhNa2lQT1RhZ1lLNmxXZ1ljWkhCNXVmMlVQcFRHMHVsVlNjRFFwWGxma3BHMXozUkJ2NVdUbHVFRHZhandBZ0FzN3NRLXVzcHR0SEZZZ2RCODZoR2g2aUpRUF9EMzhuWl9jYUhCOGJ2LVRteTlQeFdqTkQ5a3NrMkhwd193bFVmNVlaT0F1SDlDbVZFekw0bl91STlha2FmclllUFZ4TlA2YUFwT3pvSXpYUTd1YjE5SURhRTdPaWpYMGc?oc=5",
    "date": "2026-11-11T00:14:39+00:00",
    "state": "posando",
@@ -1020,84 +1095,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUlpzNDRyeDJmdDlwaTJ1aDZ5RmRRSzZZSXlYbFkzWlNuaFJVZjJabzRjQWxwcVZSeFFnOF9PSjQ5NjdiSWhjZUtNa2lyejFucVl5NXl0WmFpSlpZSHg2SDRncWczbnVyRXdhV2lic09PVHdnSkdIWHJIMGpyc2FRblVBMkVxLUNjcGg3UVlqSVZRYUUtenRhZk9CX2dJbGROUGMtOWZMU1VGNWMwMWo1bXlORXpBVFZYVjJWTW5jR2NJbnJYTXJQZ0U2aVlYc0o1RkE?oc=5",
    "date": "2026-11-10T18:20:26+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "feffb3efc340",
-   "title": "Keiko Fujimori viajará a China en medio de la visita de León XIV a Perú y la comparan con Milei",
-   "excerpt": "",
-   "source": "Perfil",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNEZBVEhWWVBoajB3d1h1U09UYkQ4QVl3TGw1b1FTTDBjUjZqVGRZbnAtSFlKOWRPWDdlYW11UndpcW1PdVFzeWgxNncxbENlLVhvVnQxaDYyTFdIZ1p0UFp2SGJMa3A2NmZjVkVlN3FubUZDbS1GdzEtYTVEZFhNVzV4Z29PRGRGWlhPWm5zR2JTUXpIQ0hWd2RyUU9ISnRubnl6OGpRNTREVUV5TmE1X1d3MDhoUWZvWEI4NU1QN1UzRkFJZk1aMmFUOWFWck9LbDd0RnVDaU56Yl9CQ25MbGk0aw?oc=5",
-   "date": "2026-11-10T18:07:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "252081be57b5",
-   "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
-   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbGx2MlBacXpRU0F3a0dxTVctZlB6RnNJREtFNzhVdDBkZGRiXzVUa2l0V0d1RS1KZlpCak5lc2lfeThVNHVOek13dHQ5bEstM2ZHZ0g4UGM2ckc3ZFhhZGFSZkpDVG9ZSUcwWjNsTzlNQUxFTkZlMVlBQ2ktZUdrZWdtMElianRaTGlpOVVFbmRpMW9qSjdGUmQzQl9kMTRndFhzNkQxOE9kZXczazgwRmEtZU1qdG9XX2VGWTY4b184VnNDUmtKOUFuR29RRHZ3ZVZ5aHhQWG5CM2ROVDdLZmZsNHBZY1kzTnA0UFMxVHFmVDZGRkc3Xy1XZWZJMlhGTmlSbGNZWmVyLVFkVXl5cTBMbmlHWmYwanpKMVNBR0JHbXQycjRScC1IdloxUDDSAcMCQVVfeXFMUElqRUlwQVNkZFl0U1J6U3RoNzJuTWpQd1lIZm5meVpKZ0hUZTI4Q0JtTTNkUERkc1hTZTU0ektxTmJCc2Q4Qk1xUERpLTRLWHVoX0xTZUF3SFRwX210RUhHcmV5NVNoaGd1ZDA1ZkJtLVFlZHNZbkdUWlhkOU00NEItbG9JeklpZEtKR0M4RnF4SHVyNC1EZTVIZG5BOGs1Z2tNS1hzQ0xYaEwtM1BnRXcydjB3LXlaSVhuQ3lfeHF3YWJGSDJ4Q2xvaXd0MDRnUS1BMmE0OFhvcTVsUE5LN0FuWHdaZVJkNEdraUxWeWlWRVhDWGYwcjVUQW1wNFE4R2NPS18yTmhvb1BNd2Z6WWxxa1Q0cy1vbTgweS0wLTZCTGJWdFdyN29LYW5yS0JBUndfS1NDUXZWUWxwRUhLd0w5aWc?oc=5",
-   "date": "2026-11-10T18:01:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "b1882c7326ee",
-   "title": "Senado decidirá este miércoles 11 de noviembre si Keiko Fujimori viaja a China y Japón para reuniones oficiales",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM0FKSkthMjd3Nzg0NlZCeVRDeU5GM09Rd3NiMnJDMlBuTExaSFF0V0dtOGl3R2d4YzlJVDRCZ2VYWlZRMTlfYVhYdkRVMFlHV1g1LVJkUlU5NWJoS1FGQzRWOExlZ29qbUljRjNNZVZ4NW5FYVc1RjdPUVVZRHpLQkFGUzNOUFFBS0FtX2RwbnZtOTlEdmF5SzF6Uk9rZlhuSm1peTM0cThMam8yU29jV25CX21nOGV2T2V0Y25ocXBndVNsXzdmOUlZRzcyak1TTjBpOEln?oc=5",
-   "date": "2026-11-10T17:43:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "bd2213736cf7",
-   "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón",
-   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbGx2MlBacXpRU0F3a0dxTVctZlB6RnNJREtFNzhVdDBkZGRiXzVUa2l0V0d1RS1KZlpCak5lc2lfeThVNHVOek13dHQ5bEstM2ZHZ0g4UGM2ckc3ZFhhZGFSZkpDVG9ZSUcwWjNsTzlNQUxFTkZlMVlBQ2ktZUdrZWdtMElianRaTGlpOVVFbmRpMW9qSjdGUmQzQl9kMTRndFhzNkQxOE9kZXczazgwRmEtZU1qdG9XX2VGWTY4b184VnNDUmtKOUFuR29RRHZ3ZVZ5aHhQWG5CM2ROVDdLZmZsNHBZY1kzTnA0UFMxVHFmVDZGRkc3Xy1XZWZJMlhGTmlSbGNZWmVyLVFkVXl5cTBMbmlHWmYwanpKMVNBR0JHbXQycjRScC1IdloxUDDSAcMCQVVfeXFMUElqRUlwQVNkZFl0U1J6U3RoNzJuTWpQd1lIZm5meVpKZ0hUZTI4Q0JtTTNkUERkc1hTZTU0ektxTmJCc2Q4Qk1xUERpLTRLWHVoX0xTZUF3SFRwX210RUhHcmV5NVNoaGd1ZDA1ZkJtLVFlZHNZbkdUWlhkOU00NEItbG9JeklpZEtKR0M4RnF4SHVyNC1EZTVIZG5BOGs1Z2tNS1hzQ0xYaEwtM1BnRXcydjB3LXlaSVhuQ3lfeHF3YWJGSDJ4Q2xvaXd0MDRnUS1BMmE0OFhvcTVsUE5LN0FuWHdaZVJkNEdraUxWeWlWRVhDWGYwcjVUQW1wNFE4R2NPS18yTmhvb1BNd2Z6WWxxa1Q0cy1vbTgweS0wLTZCTGJWdFdyN29LYW5yS0JBUndfS1NDUXZWUWxwRUhLd0w5aWc?oc=5",
-   "date": "2026-11-10T17:39:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "b285b82b1e87",
-   "title": "Presidenta Keiko Fujimori: El Perú está alcanzando cifras históricas de exportación",
-   "excerpt": "",
-   "source": "Rumbo Minero",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSGZJZFR5MnlYNkhxdjUtSGV2VTE2Y2xjb1MtY3lET0RKcVFmX0RqRDgyT3VQUjR5TjZ4Y2ZDX1REdkc2alpNQ3BwWmZ2R1NGUzB0WURCcmRPcG1DRXBLUWJFNDlUS3prNHZPcm1wbmM4VnA4RmZzY0JXVWNpREtzQTJwWm5feENhNHQ4Z083TlVLa3R3VlVMSmItNnRib1ZScmsxdXFVdXdwa2gwWTVlZUVHSWZvZw?oc=5",
-   "date": "2026-11-10T17:30:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8763a49b68a6",
-   "title": "Premier Galarreta defiende viaje de Keiko Fujimori a China y Japón por prevención ante El Niño",
-   "excerpt": "",
-   "source": "La Decana Radio Juliaca",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXhiR3FDRjE3VXB6VFU1RzNtM2lpUE82NnlfcE15ZTNMQmRYTFJUcUF2eWxZa2pNZW5YZkQ2UGNUNHR1d1VMRW42eE9UTHRhOVU5OUt6MzNwMlJjbklDZnN3LTBTUmI5TWNVWFd6MnNyOEtpbDBYajNqYWRvWW10elRJV3ktUWRjLWc5czhpQ2xtcFl4aHpMWUU4TUlVNlRKYTAyZ2lXVTlic09vQmFNODhtZ2tIV1N1YjlldFVrUDl0MVhNaFk2LTN4V1Y0enh0bWc?oc=5",
-   "date": "2026-11-10T16:45:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
