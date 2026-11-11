@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:29:16.527682+00:00",
+ "generated_at": "2026-11-11T17:50:53.597335+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "La República",
-  "date": "2026-11-11T17:26:56+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-11T15:23:29+00:00"
  },
  "next": {
   "place": {
@@ -109,7 +111,7 @@
    "abroad": true
   },
   "source": "La República",
-  "date": "2026-11-11T17:26:56+00:00",
+  "date": "2026-11-11T17:50:09+00:00",
   "title": "Keiko Fujimori no despedirá a León XIV: Senado aprueba su viaje a China y Japón para la cumbre APEC",
   "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-no-despedira-a-leon-xvi-senado-aprueba-su-viaje-a-china-y-japon-para-la-cumbre-apec-hnews-513436"
  },
@@ -363,16 +365,12 @@
   {
    "id": "9e3a86369c84",
    "title": "Keiko Fujimori no despedirá a León XIV: Senado aprueba su viaje a China y Japón para la cumbre APEC",
-   "excerpt": "Con 43 votos a favor, el Senado otorgó el permiso a la mandataria para su participación en la cumbre de APEC en China y su reunión con la primera ministra…",
+   "excerpt": "Con 43 votos a favor, 1 en contra y 5 abstenciones, el Senado otorgó el permiso a la mandataria para salir del país el 15 de noviembre y permanecer en…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-no-despedira-a-leon-xvi-senado-aprueba-su-viaje-a-china-y-japon-para-la-cumbre-apec-hnews-513436",
-   "date": "2026-11-11T17:26:56+00:00",
+   "date": "2026-11-11T17:50:09+00:00",
    "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
+   "place": null,
    "next": {
     "name": "China",
     "abroad": true
@@ -384,13 +382,71 @@
    "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
-   "date": "2026-11-11T17:23:01+00:00",
+   "date": "2026-11-11T17:46:43+00:00",
    "state": "posando",
    "place": null,
    "next": {
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "b34deaf2f9b0",
+   "title": "Galarreta rechaza que viaje de Fujimori a China sea un desaire al papa León XIV: \"Ella lamentaba mucho no estar hasta el final\"",
+   "excerpt": "Ante los cuestionamientos por la salida de la presidenta en los días finales de la gira papal, el jefe del Gabinete, Luis Galarreta, señaló que el viaje busca conseguir donaciones…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/galarreta-rechaza-que-viaje-de-fujimori-a-china-sea-un-desaire-al-papa-leon-xiv-ella-lamentaba-mucho-no-estar-hasta-el-final-hnews-477180",
+   "date": "2026-11-11T17:39:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0a8704acb367",
+   "title": "Encuesta IEP: El 53% de peruanos desaprueba la gestión de Keiko Fujimori en el Gobierno",
+   "excerpt": "Entre septiembre y noviembre, la aprobación de la mandataria se estancó en 37%. En contraste, la desaprobación de su gestión continuó creciendo y pasó de 49% a 53%.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/encuesta-iep-el-53-de-peruanos-desaprueba-la-gestion-de-keiko-fujimori-en-el-gobierno-hnews-492294",
+   "date": "2026-11-11T17:37:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c2619378fddc",
+   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-11T17:37:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "42cb4779857c",
+   "title": "Keiko Fujimori no despedirá a León XVI: Senado aprueba su viaje a China y Japón para la cumbre APEC",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNFR1U3hHa0phdGg1cTFFb3FfeC1VR0NUaS1pdG9lS0JFb2lDa3ZyclRmQVdQeHNrZkcxOXM2U3lFcEY0MXpSb1FxdElqZjZsVzVDak51VFd5dFJFMjlCNE82RzIySnplYWdlTDY3MXZUd3VDNXpFbDZtX2sxWFBWcXhiNkd3NVdJZkpRSUJNLTRwU3RWVV9sZkJPaWdZbFgyb3ZHLTVQb0FsWUVndndOV1M5cWVtTktRNjBwSG8tQzdnNm1WWk9FVTR2OFR3NHVGVGdrWmZ5T3FpNEdiR0RiSU9KSU5OTG5CVUHSAe8BQVVfeXFMTlhVb0hVRmRZX2xZa3ExU3FDdFRYNXNLRDV4aF9Id2daV0V4SXNCeGlHMGxsU3Z2ZFR3c3NUSE5rY2wzOXRVc0RfWmdNdTJsOHNVWm5FYlNSWFlUWWRRdl92TlJiYVFrR0ZJQl9OQzgxaGZQS25ZNGloMHM1ZG5UMi1sM085UTlMMDNDYmFpVm10WXoxS1IydFJteEVJOHltUkQ4WUpzazFlMmRSUGVydXEyVkQ5S256aHdGbUtkSFVmTDZ4LW5XX2VZdlZCbHJyQnVoR3B5NnNrOERJWUNIa1VobUdfMGw4TC00bjVSLUE?oc=5",
+   "date": "2026-11-11T17:26:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "87feadab062a",
+   "title": "Roberto Sánchez sugiere que el viaje de Keiko Fujimori sea reprogramado para \"despedir con afecto y honores\" al papa León XIV",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdEFPMDhkOU85TWdtOTlWQkRWR2c3T25oR0pDUy1rMGZaNWdKMlRsZ1hZWUFhTk9RczhNcHg2bGNPSEg2NTBhN3B1TlpuN1BGby14bGNBWlJJa3NJcnNYa2x5THM4cGY1X2hjZ0pRR2dSRC05MTkyWFUzc245LTFGcnlDeUxxTVlvZjdKdU9oS3Zhd1ZNWDVLY09hYWNFOGZkdG5RekFGb3FjMzgzU1hoMm80dHZUYURZQmFMNEp3OHVBWWpUX20yX2RqRnJTTmdsU0hvVjJ2M2xnNHBQUk5QcWkyVW43Sms?oc=5",
+   "date": "2026-11-11T17:03:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "e2d1a02c23d7",
@@ -465,6 +521,31 @@
    "next": null
   },
   {
+   "id": "0a8cbff3e782",
+   "title": "Keiko Fujimori se irá de viaje mientras León XIV todavía estará en Perú: “Como presidenta, tengo obligaciones que cumplir”",
+   "excerpt": "",
+   "source": "Clarin.com",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU044aGlPU1V4Z2djNi1Ta2NDbTJjSThYY2R5ck1OX2Jncnp3MkkwcmVIcUVEaE1EV0psTGhFcTc4bUZwVTctX1N0bng4ZVhZQlVSTXZyRXRRYVdBbEZyWWNKcG8wbmNsVFZ4QzJCcGdaWDZrdHlvRmZJcUJCTmZFMWVIYXVEOWFBWTRqSUpHRDRUVV9sVTB0NXU5T3UyRGp5X1VySmJBZHFRdXdidkFMaWQ2LWp3U19BQVNrM2RSN3B2MXg2V29qQU1sOA?oc=5",
+   "date": "2026-11-11T16:24:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "aa8c3ab5d485",
+   "title": "Keiko Fujimori niega desaire al Papa León XIV por viaje a China y Japón",
+   "excerpt": "",
+   "source": "losandes.com.pe",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVRoaGI0blZ6bGpWOGR4ZlNFUUR2T0RtNDRsWEdXVGJpeERHXzlXOW1LWmVwc2JuX2c1SXNSd1pHQUstRGxKZERoaW9KaHpWZHRoWmVMMlJ6RWRRdHh5dGlhd2tYVm42cGQ2eUNaVFItVlRndTMwTXFESGZwR2RUZnBRamExUlEwUWVReUhjSUtpSWp5NGdzOWI4NHY?oc=5",
+   "date": "2026-11-11T16:24:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "02092b2ec79e",
    "title": "EN VIVO: Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
    "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
@@ -493,17 +574,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "c2619378fddc",
-   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-11T15:19:15+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -603,17 +673,6 @@
    "url": "https://larepublica.pe/politica/2026/11/10/cuestionan-a-keiko-fujimori-por-priorizar-viaje-al-exterior-es-un-horror-diplomatico-hnews-892940",
    "date": "2026-11-11T13:19:29+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b34deaf2f9b0",
-   "title": "Galarreta rechaza que viaje de Fujimori a China sea un desaire al papa León XIV: \"Ella lamentaba mucho no estar hasta el final\"",
-   "excerpt": "Ante los cuestionamientos por la salida de la presidenta en los días finales de la gira papal, el jefe del Gabinete, Luis Galarreta, señaló que el viaje busca conseguir donaciones…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/galarreta-rechaza-que-viaje-de-fujimori-a-china-sea-un-desaire-al-papa-leon-xiv-ella-lamentaba-mucho-no-estar-hasta-el-final-hnews-477180",
-   "date": "2026-11-11T13:04:32+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -1041,67 +1100,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "1977d68fa932",
-   "title": "Keiko Fujimori se ausentaría de la despedida de León XIV por viaje a China: \"Jamás se me ocurriría desairar al papa\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZnJQYnJHVkFwcFd6Rk9GMG5UOG83VWp6dWt2azRpY2tLTVFncUlsSmVselRuWWlKbXROcURZclhLSzNOemhvVWdUaTFfZ3JaTHJzUlk2ZlNqMUtoQW5wbF9OTDk0dXYxN3c3a3JIVmEzTlA3RzRONDY3ZUVkdXJmTWJwd0NVenpQYzR4Vk9WejJXdWVwYVl3bGZVaUpwdGNiVkZEMWRRUFFlU2FJR2g4SEtDaDl6VFBWYWhoTklLTXAwRDRTa2x5ZEwxMXZNUjhUNGlB?oc=5",
-   "date": "2026-11-10T23:32:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "41d529da6518",
-   "title": "Ministro Vinelli niega que viaje de Keiko Fujimori a China sea un desplante a la visita del papa",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMGRKMVpLMTJ4bWFpQjZsU2JHNDlFdWNoZE9uV3BLUlBpWXVIX0p3d3A4eTY4QjRuSVdzajR1OU5aNlZyMVczRUs2NTRLZXlock9FdEpjRkNSMjdod19OWHJ4YktLODRjRlJUOTZHcExmZEdkTUVaM3k3TkRQTkYwcHZ2Nzc3STRhUFJyaVZELWZKQ0d2ajVlMWR2MVlEU3JuV2ZRQ3c1em9PMHE2ZHAwWGVaN0tSSHE0VlBZY1hkcDRXYmJPQkU1TVhpY2xUMVEwWHl6aEtxbVRmcmp5VlBmaVhDNGQ1LWs?oc=5",
-   "date": "2026-11-10T23:23:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2dd59ffa03b3",
-   "title": "Senado debatirá autorización para que Keiko Fujimori viaje a China y Japón la próxima semana",
-   "excerpt": "El Pleno del Senado debatirá este miércoles 11 de noviembre el proyecto de resolución legislativa que autoriza a la presidenta de la República, Keiko Fujimori, a salir del territorio nacional…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/senado-debatira-autorizacion-para-que-keiko-fujimori-viaje-a-china-y-japon-la-proxima-semana-noticia/",
-   "date": "2026-11-10T23:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "93e3b3d1b303",
-   "title": "Trece detenidos en una operación errónea contra la minería ilegal",
-   "excerpt": "Por la culata. El gobierno los presentó como integrantes de la organización criminal Los Guardianes de La Pampa. Incluso la presidenta Keiko Fujimori felicitó al Comando Unificado y a la…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/07/trece-detenidos-en-una-operacion-erronea-contra-la-mineria-ilegal-218064",
-   "date": "2026-11-10T22:21:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "801388c01673",
-   "title": "Luis Galarreta descarta desaire de Keiko Fujimori por viaje durante visita de León XIV",
-   "excerpt": "Luis Galarreta defiende a Keiko Fujimori por viaje durante visita de León XIV, considerando que la presidenta quiere viajar del 15 al 21 de noviembre a Cina y Japón.",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2Vzb01mblF2dVM3aFo0WmxYM1lJcGJNS2l3Nl9Ocll5eWs1a0ppYlhfVGdKSkdjeWRZXzlpdW5HYVEyNFBJTldLR3AyTmUyNENHOE9fTEtmTXNsd2IzRk1ZRk9ZUk5lZFRVdHFmR3p3MlJ1aS1WNkJReEktSUhTMzNMMm4wbUw2MlBFQ1RwVldnb2hMV2Fmc25hMnkwM292UlFSdTNLOU03UTE4NVJSQjliSjlRazJkTF9mcHJ3S0piUkU5YVM1b3g5Nm56X2paTU42cy1PUnh0Zw?oc=5",
-   "date": "2026-11-10T21:04:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
