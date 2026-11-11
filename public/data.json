@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T09:28:00.722907+00:00",
+ "generated_at": "2026-11-11T11:18:00.279133+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -363,12 +363,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "ddb081b9a2fd",
-   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
-   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
-   "date": "2026-11-11T08:00:00+00:00",
+   "id": "b92571a66cf7",
+   "title": "Keiko Fujimori niega desplante a León XIV y dice es por el niño: “No politicen” | Al Vuelo",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTRLMEk1cjJVVHJiYkdBdTNhWDBOTURVYUVxd3F0YXNBZVdXSUpoSmdtZmZHUkZVaG1WRGd6a29TVnZfUUVha1JnQzFNcEtvTS04SlNLRVU0cm9IT0JoVTdwU1o4UmVldkU5UmtpMTdOOEdJa0VuRGh6N3ZIM3FpeEtxYjEzWUtwN3NDVVR2WERtWUZINGNaYy1ydnRydU56LU5tQ0hwSWNDcEd6UEFQZ09B?oc=5",
+   "date": "2026-11-11T11:03:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -379,7 +379,18 @@
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpBbUw3V0xkbWFBUWdoSmNTanNzYVZOYVhXQmJZbTV4dGpWaEZkRTFNdjM2dkM2SFdLY1ZzQmZqWDdsak1oVW5jMmZST2dsemFyOVNuYkVBUDA3bE5QWDVITWNvaUUxbDktOTFUN1plb0dlSFFMQnlVbUxodFcxWk5XNk9tNWFYbUxoM0JxcHZldXRWNmVwTlVJM0xPaWtZM0hOVHVNMEJ4Um1DbnkzcUFrUmd0bDg?oc=5",
-   "date": "2026-11-11T06:45:33+00:00",
+   "date": "2026-11-11T11:03:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-11-11T08:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1064,17 +1075,6 @@
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFZocGtROWRXN29qbWlLVkJramZRRzBBMF9VSkwwMDlFc3BvVF8wRmY3Nm80bFVoX2NRcjJ0UE9xdDBHeHZmc2hJTHpFb3FYUkFCUnNUY1FtR1htXzRDV3pQOTI5MDJtX1B0NWxMRThBX2RYNEMwSEFfUzhwUE5QUDdOVk5XdG1ETHpTb21CWFNUV3NFcGczU0tINjFIVndLdHNhSjV6U2N4N1dfOVJFOGdtcWdoNS1zNndSVDR3eVNkeFNNYi1TZ1JwNWZ5eG9DYnFObmhwSUc?oc=5",
    "date": "2026-11-10T06:44:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9227dbc99ca3",
-   "title": "Perú suscribirá TLC con Tailandia en los próximos días, dice Keiko Fujimori",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/peru-suscribira-tlc-con-tailandia-en-los-proximos-dias-dice-keiko-fujimori-noticia/",
-   "date": "2026-11-10T02:20:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
