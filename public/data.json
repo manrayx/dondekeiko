@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:54:42.571920+00:00",
+ "generated_at": "2026-11-11T03:16:48.739799+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,7 +94,17 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": null,
+ "last_place": {
+  "place": {
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
+  },
+  "source": "El Comercio",
+  "date": "2026-11-11T03:00:00+00:00"
+ },
  "next": {
   "place": {
    "name": "China",
@@ -402,6 +412,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e87ae563c42f",
+   "title": "Papa León XIV y Keiko Fujimori se reúnen este miércoles en Palacio de Gobierno",
+   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
+   "date": "2026-11-11T03:00:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "29f09501cccc",
    "title": "Keiko Fujimori sobre críticas por su viaje a Asia durante visita de León XIV: “Jamás se me ocurriría desairarlo\"",
    "excerpt": "",
@@ -488,6 +515,17 @@
    "next": null
   },
   {
+   "id": "4a751f09f600",
+   "title": "Keiko Fujimori y Cancillería sabían con anticipación de la visita del papa al Perú",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS09WZHcwcndxQzNFYV9US0ZvOHN0WmtNSHNPd2JITHg5X0xadXpwdDJQYk5mTEx1NktvZzBJWmxrT0NXMjFCM2RqYU0yOEdybDhCVEJaMnhlYWVvMVZZSEwyTHNvd19VUmJ1a0NEOEFXYU1ZR3Nha2hsNDJ5Ym1Od25ydUZxWWRwalF5bjFibklwckZVamhCYi1vb0I2TVlWVmdWRGpKRTAzZ3dxelNzcjRhSzFZZmp1N0pFSld4UUM5cWltT0h2TGhjQ0hMdE9vN01B?oc=5",
+   "date": "2026-11-11T01:34:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8f9c77bd98d3",
    "title": "Keiko Fujimori responde por viaje a China durante visita del Papa León XIV",
    "excerpt": "",
@@ -500,17 +538,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "4a751f09f600",
-   "title": "Keiko Fujimori y Cancillería sabían con anticipación de la visita del papa al Perú",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS09WZHcwcndxQzNFYV9US0ZvOHN0WmtNSHNPd2JITHg5X0xadXpwdDJQYk5mTEx1NktvZzBJWmxrT0NXMjFCM2RqYU0yOEdybDhCVEJaMnhlYWVvMVZZSEwyTHNvd19VUmJ1a0NEOEFXYU1ZR3Nha2hsNDJ5Ym1Od25ydUZxWWRwalF5bjFibklwckZVamhCYi1vb0I2TVlWVmdWRGpKRTAzZ3dxelNzcjRhSzFZZmp1N0pFSld4UUM5cWltT0h2TGhjQ0hMdE9vN01B?oc=5",
-   "date": "2026-11-11T01:31:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "d5e248e56002",
@@ -909,10 +936,21 @@
    "next": null
   },
   {
+   "id": "2f77131533e2",
+   "title": "VERGÜENZA: Keiko Fujimori se irá del país mientras el papa León XIV está visitando Perú",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVpXazhlQWxqa2l0RnJtZ2ZYMmZpaGJWZWNib0NFZk5YajZ1bW9CQlVVRFJhVzdJcGoyTFJBM296QWtWMGhMMVhJUUFuc1JBVnJndS03dExwbExiWVJlSEN0aEhMZUx6ZWhDZWVTVDByR1k4SmlOb1dFUHFBVWVpZENLclB2dGFnWm5HOGQ4aktOT2x5b1Zz?oc=5",
+   "date": "2026-11-10T15:16:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b91ecb3c209d",
    "title": "Viaje de Keiko Fujimori a China y Japón: premier Luis Galarreta responde a críticas por coincidencia con visita del papa León XIV",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZjJ4TEhWZGtHRG5kb1RxbUozZS16TTFFMGJZQTdsRlhIQjdlck02eUJzTll0Z2xBLXZNaWliLVltdS1reUVXenRtUGJYc1FER0ZnSGNyNDZ6YkJVSXl1X0tIaUFkaE80OHRSSy1CeEhOTHFzUV9rVzJaYlU3a3p6OGJycExBVlduTXlmaVdhZENPTWpxTVZ5X1FyZEMySUp0VkJQeHp5aWZzUGt6QmpGRDRGM1VVQUpYMkdMald3NklzeVFZZFBSaFZfcGxJWTVfLVVGNE5HMGU4bm42UnRXREVqNjhDcmR4SmpzSHZBbmZMYkJrOTZYbi04aHAxMkVCTTlZZGtXVHJHTmNsZXo3a1JSdXdxUVhsZ2c?oc=5",
    "date": "2026-11-10T15:14:01+00:00",
    "state": "triste",
@@ -1083,28 +1121,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYldXQWgwT1RCdlZ1SzRxbVdPWjhYRVhBOHgwdVoyamNicGg4Y3AzenZRTG9vdzZ5WEpCdDd0dC02Q2tjNWlfczFpcFMwTVdSRnpMWC1ibHQ5VlRObVpxVEZaRDJWSTlQbE5pLVFLclBhS3ZpaVZjZEQ1X19EOWYwSzFhU3JGNktBQkZXdmt4Y2NxWUczUkVyNTY0YU5LNEk1NkE4NDkyV3dEZzZvLUpnUUIxMjd4VzBJdjdnWmRQMERuUEl6dmxYVEVOTFdzMXNFREYwVEZORFdoa0dTVnhOMTNTV1NSdzZKUlHSAf4BQVVfeXFMTXdWaUo0YjlxZU9jaWhmcTAtOFRxV2Q4V01NM1M5OU0yLTk4dko2VmR2d3RKbC1ob2hjQkFxYlpyNjJYRkE4TjNxUG1RLTRxQ0pGTGtfdDIzWHhuT3ppSHVsUXlLODZrUnlaeHh1aTQ5bEd6LTZJbk85ZG8zZUJFM3lOMmNLMmU0NGFFVlNsdmQybk9BSXduOUZCaHVDbjVnclNIeHFYSHNTZ2NtNjNnSVhqMm95Rk9TVVNpUlEzT2ZrWHY1dkFXZFhWM2tYRjFvb0dHY0E4ZHk2SE8zakJUR1ZjOHIxNmYwTnFxRXc1ZVo3R2xsN0MtMHVndkt5dVE?oc=5",
    "date": "2026-11-09T23:57:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "30617fe4f1ec",
-   "title": "KEIKO FUJIMORI NO ATERRIZA EN ACCIONES NI METAS LAS IDEAS DE SU PLAN DE GOBIERNO TRAS SUS PRIMEROS 100 DÍAS, ADVIERTE ANALISTA JOSÉ SALAZAR",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTG5uRkVPVXc1NTFrWmlKbnRYRTNrRmUxUnItMzM4QkFPeXZmenJTblZKdkE3SWNJYmJQcjk3SmNhaXBXV25KU003cnFiUk9RaU5oem1zU3FOQVpUUUR2MnE3WENKUFpNQ29SQlpBUWRrRDh1SXh1QnNJOXA1MFpHOEdWWHJQNW5sQUEyNUk2cnVpUFIzdXFjOFpEZ0hPMi1WMkxOeHluWEhVYlFHYUFXMjJVQjRpZkk2YlFOSFVwS3hNTlc4Q1d1eG1ob0UtU2ZtVlFqLTE2WGdIcHNObVpoalVfZUE4QzB4dEZTRi1DZWFVY0hXY1E?oc=5",
-   "date": "2026-11-09T23:40:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c76930dfea31",
-   "title": "Keiko Fujimori solicita al Congreso permiso para viajar a China y Japón por foro APEC",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORmtyZUl5NUxRTzgtR2wxd2lyZFhaakpCNUp6SU5lb2xBRDBGOGNKRjNLQVU2M0JWbVowZkw1WHZXVXFORi00UlFJS1R3Y1JrR2dYZXdlaUlmY0pnenZjQlRKYWhOcm1yNFBJdU8tNXNOaFdBRmZYdkt6VVMxN1ljNzJjXy1zbktidTY4T2Vqbjg4VzlxQ3VGR3BmMzhON3pFVl9EYmVNLVltOU9FZkFYbHNwVFdaODJa?oc=5",
-   "date": "2026-11-09T23:24:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
