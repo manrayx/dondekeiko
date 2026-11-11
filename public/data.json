@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T07:16:32.992680+00:00",
+ "generated_at": "2026-11-11T07:38:46.049833+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "Primicias",
-  "date": "2026-11-11T04:01:24+00:00",
-  "title": "Visita del papa León XIV a Perú: Keiko Fujimori niega que su viaje a China sea un desaire al pontífice",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFpZVnVhQkNMOTNucGVIbnExN0M4VE42SmFCT1hEck44bVZRdUZOTlVpT2VrNUJ2WE51UlJoLUdSaEczZnQ5ZTNFVTdsOXNsRWpObGZabjYzb3pfUG5WQ2hVVi1jU3JHT2tlek9HNHpQeG5jMGYyQ1ljYWdzS2ZuUmUweS13a2JSckpPNkJHc3RWd3YzaFVEMGJEajc5LV9jZTJQOVlwdGw1QQ?oc=5"
+  "source": "Gaceta Perú TV",
+  "date": "2026-11-11T05:32:02+00:00",
+  "title": "Keiko Fujimori defiende viaje a China durante visita del papa León XIV",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVENxbE5qcUZPZHFLcVZwLU40cjc3N0lvMVZzcERuQjdyUUF0eTRFZE9Qbm92TzBkaEhyVm9HSUEzNFJRUEdmSW80aU90UmpmT1JKVWNzZ3BtdzlkNTJ4aWp4NGd4dU9Zdy1SUXpJekdCZ1RCaFIyZ0FmVXMxQzIzbzVyMFQ3QTJzZE9BWFA4R2M0WVljZjkwUEc0ZDI3V3owRHlzUEVaTzh5QjA?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -372,6 +372,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "620b3e138bbb",
+   "title": "Keiko Fujimori defiende viaje a China durante visita del papa León XIV",
+   "excerpt": "",
+   "source": "Gaceta Perú TV",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVENxbE5qcUZPZHFLcVZwLU40cjc3N0lvMVZzcERuQjdyUUF0eTRFZE9Qbm92TzBkaEhyVm9HSUEzNFJRUEdmSW80aU90UmpmT1JKVWNzZ3BtdzlkNTJ4aWp4NGd4dU9Zdy1SUXpJekdCZ1RCaFIyZ0FmVXMxQzIzbzVyMFQ3QTJzZE9BWFA4R2M0WVljZjkwUEc0ZDI3V3owRHlzUEVaTzh5QjA?oc=5",
+   "date": "2026-11-11T05:32:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "a747a492a551",
@@ -1061,17 +1075,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/peru-suscribira-tlc-con-tailandia-en-los-proximos-dias-dice-keiko-fujimori-noticia/",
    "date": "2026-11-10T02:20:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32f65a0917c9",
-   "title": "President Keiko Fujimori to attend ceremony for Peruvian Exporter’s Day",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORzdONTVzbmtzbTRiWkxqZGY0WlhYN3hQR3hXREVCOTktMEFLcnBuMmJfS2FQRU43d3o3NmV1Y2pJUGQ2eDNOcjBaWlNiXzBpTFVYV0Fha2otRkxHeUUyNi1GS3QzQzdFTkFqZklKZUpQVzRzT3FPaFFta1dxRmZycmJ3YXR4Zi00ay1rSUxtVWRoQXpPWXhSN2ZiQlJhZlhWaF9fWGt6SlhTRUo0N1dxN21qek5BTGZt?oc=5",
-   "date": "2026-11-10T01:20:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
