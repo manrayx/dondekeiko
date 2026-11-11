@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T11:40:13.204516+00:00",
+ "generated_at": "2026-11-11T12:24:34.621475+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -361,6 +361,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5c04ddb05a44",
+   "title": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\"",
+   "excerpt": "Expertos en materia política e internacional indicaron que la APEC empieza el 18 de noviembre, por lo que no había necesidad de que la jefa de Estado viaje el 15.…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/10/cuestionan-a-keiko-fujimori-por-priorizar-viaje-al-exterior-es-un-horror-diplomatico-hnews-892940",
+   "date": "2026-11-11T12:17:48+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c2619378fddc",
+   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-11T12:00:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1979925ca25b",
    "title": "Día 1 de León XIV en Perú: llegada desde Argentina, ruta en papamóvil, reunión con Keiko Fujimori y otras actividades",
    "excerpt": "La visita apostólica comenzará este miércoles con una recepción en el Grupo Aéreo N.° 8 y cerrará con un encuentro ante autoridades, sociedad civil y diplomáticos en San Borja",
@@ -426,8 +448,8 @@
    "id": "a747a492a551",
    "title": "Keiko Fujimori: Excancilleres se pronuncian sobre ausencia de presidenta en despedida del papa León XIV",
    "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbC1icEh1a3l1NUU0cVhyZ21JNEFPVjJpMVJHd0UwdGFzU3h0UThqSGVnZjBKVEtic3V5MVNBSGs4MkRZa1BSY3duSVpfdFRveHRJcWNmQTZkcll6eVJOTmpyTkxMMDVIU2dudktkaVZtM2dhRnFsSlVUdlZHbnpNN2J5Y3BsbUduRVhJRy03NkM3SUd4MWpKbGVhNl8wbUw1LWVlOWw1Y3lIWndiQmZKdDczNXlXN190eFVqY19JUzlwVVB5U2QzMXJLV2Roemw5dVVMVW5fX1FQTFdqYWUzdkEtY0dGWWFz?oc=5",
    "date": "2026-11-11T05:01:00+00:00",
    "state": "posando",
    "place": null,
@@ -560,17 +582,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "5c04ddb05a44",
-   "title": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\"",
-   "excerpt": "Expertos en materia política e internacional indicaron que la APEC empieza el 18 de noviembre, por lo que no había necesidad de que la jefa de Estado viaje el 15.…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/10/cuestionan-a-keiko-fujimori-por-priorizar-viaje-al-exterior-es-un-horror-diplomatico-hnews-892940",
-   "date": "2026-11-11T01:35:34+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
   },
   {
    "id": "4a751f09f600",
@@ -1066,17 +1077,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0RPQmEyS3JTM20yem5hcF94TWRVV2N3aVBEaFBDQW1wT2ZtUTFOMi1Cd2hNaERXbDVZMU5zbEl4anFxWGpVeFZnMklJUjhWNUtfR0ZJWlYxRE5mZFNuNVlkbVhFVVgycldFZDFPQUFnNDdtWGp0M0lySDNDQ3NLTEJaeHNuSndyZGtydWQxSG1BSC1PNG9GVmtZRmUxTmtSTk14ZWNWOW1EN3dETEpIRFd6ZXR2bGFkZkF5YktWNEE1UUk?oc=5",
    "date": "2026-11-10T13:37:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "29e23e1b4622",
-   "title": "Gonzales Posada: Viaje de Keiko Fujimori a El...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk14czlIN1J5Zi1LWEV5bm54NjgzdFplb0x5d3BHV0NGM1BqMkc4X0JSODFwUkdlZXFvOVBLV05vZFEtVmptUGZBZURlaEF5OHkyX3N0MGIxclpKQ3FoQkRfdUxfM1BvclItM3Rrd2toaFdSUmFEQkx5aEpDVkY0a0lqcHhMX1RMRHRUU0oxYUJ0OFZvaHFwVXYwRHNDdU1CbVBsMTVfcjB1WEdidGc3c1JGMHd5ZVZHNGpRSnZKVWfSAcYBQVVfeXFMTlpFN2FidmJWaURHQ2VJcGdMcUd0bXFKMG9SM3dSVm40MzNCaFNWanRSaTFkbUlnZ2dpMll1dzN0SmxoVHVBMDJJWVFqYzFCNnFjYVFMakpyRXZyWlBIOE5lMFNFSi11SFRPWEZMTUhXVllwWVdqMjZFbXA5OS11MWRIZ1lDM21BWU50cUdfTHNhTWlYOWFhY01UUzVCemNtNktRWFdtVDUybnZsX0x6NDVCWG9KS0FnVnpxcFJUd0ZCZWJLOExn?oc=5",
-   "date": "2026-11-10T11:57:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
