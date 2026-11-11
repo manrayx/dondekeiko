@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:50:53.597335+00:00",
+ "generated_at": "2026-11-11T18:12:31.666400+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -363,6 +363,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c2619378fddc",
+   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-11T18:07:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "03903d908f4b",
+   "title": "Pleno del Senado autoriza viaje de Keiko Fujimori a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-11T18:07:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9e3a86369c84",
    "title": "Keiko Fujimori no despedirá a León XIV: Senado aprueba su viaje a China y Japón para la cumbre APEC",
    "excerpt": "Con 43 votos a favor, 1 en contra y 5 abstenciones, el Senado otorgó el permiso a la mandataria para salir del país el 15 de noviembre y permanecer en…",
@@ -391,6 +413,17 @@
    }
   },
   {
+   "id": "222a0067e5db",
+   "title": "Senado aprueba viaje de la presidenta Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2hYODdmWC1ST3p0bjRuNHJJdXFWLXl6Y05nWk1pcmk3TVExVHFqend3NUVOQzREanFibXlmSHlIXzhPbUdkWjlQc2RGZkV1NnBzb3ZnbVpSOVRkZzBRYTFGeTVRYm0xRkJqZFhWRWRBVTZkN2ZsNmxoNU9xU0d0Z2lvLWhGaTN2bzRtQmw3ckMyQVBJTkR0cUlZenpMTDFzRjJycUJYN2RBTkVKaHR6eklQOWVYbk04WVZCMk13dDRoWDVN0gHKAUFVX3lxTE04dE1vME1kZTVxdUVyeE9POGxKbXQ0eXVWbFpYRkRBZ19SaVh3RHF5VEVOVUs4Zm8yOXAzTjRXeVlYQU43dVhHUEptdml5MFBrbHFzWXZOaVdRcWY0Y0pPYUJrNElKY1VmSmxBVURDZEFVVDRNQlh5N21OaWY0d2JqLVRSb0piVm5iRGJ6Q0M1UVprQXRKN0RhWDZfTDU1NTkyVkRFekRiYi04SWZRX2N2S0lIekd2OEpacXJwZTh2TGRNaGNpNjlfWWc?oc=5",
+   "date": "2026-11-11T17:41:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b34deaf2f9b0",
    "title": "Galarreta rechaza que viaje de Fujimori a China sea un desaire al papa León XIV: \"Ella lamentaba mucho no estar hasta el final\"",
    "excerpt": "Ante los cuestionamientos por la salida de la presidenta en los días finales de la gira papal, el jefe del Gabinete, Luis Galarreta, señaló que el viaje busca conseguir donaciones…",
@@ -408,17 +441,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/encuesta-iep-el-53-de-peruanos-desaprueba-la-gestion-de-keiko-fujimori-en-el-gobierno-hnews-492294",
    "date": "2026-11-11T17:37:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c2619378fddc",
-   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-11T17:37:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -619,6 +641,17 @@
    }
   },
   {
+   "id": "0e62738ad228",
+   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLURZOEpWdThJU3kwa3ZQWHNtX0lsdnppU0tIX2J6dFhscGtobzAxRGVxSGtuSURhWmY2SHBWdkZ6MzFoRWZaMUk5WWx0anRyclBVMXJNMWp5bEtGQklreUdsTEZrOGN2TUhiOXAxTGtTa2lILUNXRmt5ZmJudnZERmExLXd2V0VFTlU3SUR5ejBUY1F1UWVKQW9jVUNyT1pBMjRNWHpjVWFIZHZRYWo4c0ZQdDBwSGpqSFRYaXhkbUgtNzMyMW1xdEJkLWJTWjVNRTNNMUhUWmJES2Zhc2ww?oc=5",
+   "date": "2026-11-11T14:18:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "330e19ea6478",
    "title": "Cúpula fujimorista acompañará al papa León XIV ante ausencia de Keiko por viaje a China (VIDEO)",
    "excerpt": "",
@@ -639,17 +672,6 @@
    "source": "Pulzo",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT21tXy1fT2VTZG9lNTFwdXdsVzZUTGJFbVlmWXNONXZOVzZGODBYZXJhWnZaaHo0VnhsbmpLaVgzQ0NGY2NSenprYVBuaVdRQVpoc3RCWHhxZUJDeTNyN1lTTGIwaWJOcjhRVGFCSzM5b093TjlYOXk0bmpSOFdKczlSUzJGdXhMNl9zd3ZJQzB0UlBLbzZldmY1d3BKWU9fSWNpYldORFU3ZktqRTkxVXRn0gG3AUFVX3lxTE1tdmlUM0xVa3NwampqZFVvNWhldnVCTXJtbzM2V3FxNjhSOVBKY1h1cnRiYWdjWG5NVnBHSGE2eG5WdUt6TU9OamdIeXNLTWU2YUZKX1lRRWlkM09XdURLT3huYUZMSXllMVNGZjVHQmlLdXpqS1dKSmI4bkNaamFHS3Yxd2lHN1RUcU8wcjhMMEZORXgzZzJfOWJEbFRtZGdOcl8xeVhoTmo0aFl0LUhSbE1PX1F4Zw?oc=5",
    "date": "2026-11-11T13:38:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0e62738ad228",
-   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
-   "excerpt": "",
-   "source": "perucheck",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZmNYT1dET3FZdlU4Uk9Hb2JDOUg5TDhaV0ctWVVlblRxUFI0NkxheG9OTWhhTGNSVXpVaUJvNmgwZnhBcEFfVG1QMkNHSlJqUHJkSVd0S3B6ck9XTUsteUhzSFlpQ2g0OEdfNUZjZ1pESUo4N2dXN2g4TzNmS1NrYTJXU3hkMENDQ3ItNE9weFljMzM2cmhkOE5acEY0N3hLdUZfTGdKWURyQTdvREw1c1p6Z2Q1c3dZRXc3cDN6MUVOQUgtWEhkVEhKUUx3XzdWYUg2eVhVX3NxVUVjSGl1dWZhVE9ZZTJzUmhjOWZFNHZ1ZzVfYmU2a3RXNzRkdEhKV1phMmV3YmUxUTZMdUxrejRwUFkxUG5WdUFlOUh0OA?oc=5",
-   "date": "2026-11-11T13:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1075,31 +1097,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "a9287932d52e",
-   "title": "Keiko Fujimori: Jamás se me ocurriría desairar al Papa León XIV",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlVDOGo2bjZrX2hXM1NCcUplbFQ1TzZwMUV1Vkg1XzdxNmlkVUR6Q3FqODZsZlFVeVoxZERyQk83TVdmb0dkcjUtRW5tcTFlQzVra2wxZkVBcUVmMm9VOTVPemw1REV0Q0N6YjVHLTBybmRNNnBIRnloc2ZmVWtVQUp1VV9ESnJOSnFwWUYydjRBMmdkWFNMRXFQY3ZlUXN2?oc=5",
-   "date": "2026-11-10T23:47:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08abfea7965e",
-   "title": "Keiko Fujimori se ausentaría de la despedida del papa León XIV por viaje a China: \"No es un desaire\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekpZTktPVk5wMmY4azRfZVprY0s1RktuZTBJdlBkRG1MNWFhUGpHRm5IdTl3SGhJVzUxemhEYWFsUUw2cmwtclEtTmtsYkNBSncydnpLX2ZSTmV1ZmoydjVRakh3Vkg2U0JCTVZocUJnVkI4d3ZEMHNJTi16RTJHWXRuOUQ5YVVKdnBBNHM5T1p5OUxWODhBV3EwQXVsTUNWTDR6RGNiSlFxcFNncEdwTnVsd2VwM25EWU9LTnlFSQ?oc=5",
-   "date": "2026-11-10T23:32:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
