@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:02:09.702782+00:00",
+ "generated_at": "2026-11-11T16:23:28.784125+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,18 +110,18 @@
    "name": "China",
    "abroad": true
   },
-  "source": "Religión Digital",
-  "date": "2026-11-11T14:47:39+00:00",
-  "title": "Keiko Fujimori, criticada por su viaje a China: \"Jamás se me ocurriría desairar al Papa\"",
-  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDdWaUhxSFIxekdLRVEtZEpjZmV6T3BiVjJZczQyam5tZ1p3M0xmMjVfaW9jd2xJWkNMdE9ySjdBUWdIOGZlLV9pUmJvT0k0aHNNZnpvM3FDellkN2kxWEhkRnpMTXkta3A4MEwzdUlqZjB5dnkwU1NnZnU4VlA4WS1XbWRzM0RCUFHSAY8BQVVfeXFMTi13bkpCVFFRUFpTSldLa1Vld1hnUEstY1FZRG03SDFaOEY0NXpXOXoyalJGcTRsNkU1aVhoNi1INld1M0lnTk5Pd1RaenNNb1FtdEt5a0RnUnVOWVZSN3JTVDhNMUF3Vm5vRFEtbnFtOE5yVEQ1ODNzN2oyNHVpNndvRkhkaF9rNU5kc19LVms?oc=5"
+  "source": "El Comercio",
+  "date": "2026-11-11T16:15:40+00:00",
+  "title": "EN VIVO: Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
+  "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/"
  },
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 4,
-  "posando": 56
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -363,6 +363,20 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "02092b2ec79e",
+   "title": "EN VIVO: Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-11T16:15:40+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "e87ae563c42f",
    "title": "Papa León XIV y Keiko Fujimori se reúnen este miércoles en Palacio de Gobierno",
    "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
@@ -433,17 +447,6 @@
    }
   },
   {
-   "id": "0e62738ad228",
-   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLURZOEpWdThJU3kwa3ZQWHNtX0lsdnppU0tIX2J6dFhscGtobzAxRGVxSGtuSURhWmY2SHBWdkZ6MzFoRWZaMUk5WWx0anRyclBVMXJNMWp5bEtGQklreUdsTEZrOGN2TUhiOXAxTGtTa2lILUNXRmt5ZmJudnZERmExLXd2V0VFTlU3SUR5ejBUY1F1UWVKQW9jVUNyT1pBMjRNWHpjVWFIZHZRYWo4c0ZQdDBwSGpqSFRYaXhkbUgtNzMyMW1xdEJkLWJTWjVNRTNNMUhUWmJES2Zhc2ww?oc=5",
-   "date": "2026-11-11T14:18:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "330e19ea6478",
    "title": "Cúpula fujimorista acompañará al papa León XIV ante ausencia de Keiko por viaje a China (VIDEO)",
    "excerpt": "",
@@ -464,6 +467,17 @@
    "source": "Pulzo",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT21tXy1fT2VTZG9lNTFwdXdsVzZUTGJFbVlmWXNONXZOVzZGODBYZXJhWnZaaHo0VnhsbmpLaVgzQ0NGY2NSenprYVBuaVdRQVpoc3RCWHhxZUJDeTNyN1lTTGIwaWJOcjhRVGFCSzM5b093TjlYOXk0bmpSOFdKczlSUzJGdXhMNl9zd3ZJQzB0UlBLbzZldmY1d3BKWU9fSWNpYldORFU3ZktqRTkxVXRn0gG3AUFVX3lxTE1tdmlUM0xVa3NwampqZFVvNWhldnVCTXJtbzM2V3FxNjhSOVBKY1h1cnRiYWdjWG5NVnBHSGE2eG5WdUt6TU9OamdIeXNLTWU2YUZKX1lRRWlkM09XdURLT3huYUZMSXllMVNGZjVHQmlLdXpqS1dKSmI4bkNaamFHS3Yxd2lHN1RUcU8wcjhMMEZORXgzZzJfOWJEbFRtZGdOcl8xeVhoTmo0aFl0LUhSbE1PX1F4Zw?oc=5",
    "date": "2026-11-11T13:38:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0e62738ad228",
+   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
+   "excerpt": "",
+   "source": "perucheck",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZmNYT1dET3FZdlU4Uk9Hb2JDOUg5TDhaV0ctWVVlblRxUFI0NkxheG9OTWhhTGNSVXpVaUJvNmgwZnhBcEFfVG1QMkNHSlJqUHJkSVd0S3B6ck9XTUsteUhzSFlpQ2g0OEdfNUZjZ1pESUo4N2dXN2g4TzNmS1NrYTJXU3hkMENDQ3ItNE9weFljMzM2cmhkOE5acEY0N3hLdUZfTGdKWURyQTdvREw1c1p6Z2Q1c3dZRXc3cDN6MUVOQUgtWEhkVEhKUUx3XzdWYUg2eVhVX3NxVUVjSGl1dWZhVE9ZZTJzUmhjOWZFNHZ1ZzVfYmU2a3RXNzRkdEhKV1phMmV3YmUxUTZMdUxrejRwUFkxUG5WdUFlOUh0OA?oc=5",
+   "date": "2026-11-11T13:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -505,8 +519,8 @@
    "id": "88e093816acf",
    "title": "Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
    "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbGx2MlBacXpRU0F3a0dxTVctZlB6RnNJREtFNzhVdDBkZGRiXzVUa2l0V0d1RS1KZlpCak5lc2lfeThVNHVOek13dHQ5bEstM2ZHZ0g4UGM2ckc3ZFhhZGFSZkpDVG9ZSUcwWjNsTzlNQUxFTkZlMVlBQ2ktZUdrZWdtMElianRaTGlpOVVFbmRpMW9qSjdGUmQzQl9kMTRndFhzNkQxOE9kZXczazgwRmEtZU1qdG9XX2VGWTY4b184VnNDUmtKOUFuR29RRHZ3ZVZ5aHhQWG5CM2ROVDdLZmZsNHBZY1kzTnA0UFMxVHFmVDZGRkc3Xy1XZWZJMlhGTmlSbGNZWmVyLVFkVXl5cTBMbmlHWmYwanpKMVNBR0JHbXQycjRScC1IdloxUDDSAcMCQVVfeXFMUElqRUlwQVNkZFl0U1J6U3RoNzJuTWpQd1lIZm5meVpKZ0hUZTI4Q0JtTTNkUERkc1hTZTU0ektxTmJCc2Q4Qk1xUERpLTRLWHVoX0xTZUF3SFRwX210RUhHcmV5NVNoaGd1ZDA1ZkJtLVFlZHNZbkdUWlhkOU00NEItbG9JeklpZEtKR0M4RnF4SHVyNC1EZTVIZG5BOGs1Z2tNS1hzQ0xYaEwtM1BnRXcydjB3LXlaSVhuQ3lfeHF3YWJGSDJ4Q2xvaXd0MDRnUS1BMmE0OFhvcTVsUE5LN0FuWHdaZVJkNEdraUxWeWlWRVhDWGYwcjVUQW1wNFE4R2NPS18yTmhvb1BNd2Z6WWxxa1Q0cy1vbTgweS0wLTZCTGJWdFdyN29LYW5yS0JBUndfS1NDUXZWUWxwRUhLd0w5aWc?oc=5",
    "date": "2026-11-11T12:24:49+00:00",
    "state": "posando",
    "place": null,
@@ -1083,17 +1097,6 @@
    "source": "La Decana Radio Juliaca",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXhiR3FDRjE3VXB6VFU1RzNtM2lpUE82NnlfcE15ZTNMQmRYTFJUcUF2eWxZa2pNZW5YZkQ2UGNUNHR1d1VMRW42eE9UTHRhOVU5OUt6MzNwMlJjbklDZnN3LTBTUmI5TWNVWFd6MnNyOEtpbDBYajNqYWRvWW10elRJV3ktUWRjLWc5czhpQ2xtcFl4aHpMWUU4TUlVNlRKYTAyZ2lXVTlic09vQmFNODhtZ2tIV1N1YjlldFVrUDl0MVhNaFk2LTN4V1Y0enh0bWc?oc=5",
    "date": "2026-11-10T16:45:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1fc25ea535bb",
-   "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV",
-   "excerpt": "",
-   "source": "DIARIO VIRAL",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVpsdFlqSk5NMkN4c2lOczBvZFd2T1FXWEpDYjZZcDNpSHQ5UF9PTVplVGxGOUNFX3BQQnk5WTZCMllCWTdqblUzcVo3VmdFQXZXYzZMcFJ5TTZ0YlRlQ0ZZV2RmS3VMV2gwa0ZOVzI1eEFBb1NlY1RiNjRNVFY1a0MzRG5xdEpwTnh0VzF5b2NrZVY2OEl5cXpPcGNNZDRNekpEcQ?oc=5",
-   "date": "2026-11-10T16:31:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
