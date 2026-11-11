@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T12:24:34.621475+00:00",
+ "generated_at": "2026-11-11T12:46:44.497737+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,22 +96,24 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Argentina",
-   "abroad": true,
-   "city": "Argentina"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-11T11:32:13+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-11T12:24:26+00:00"
  },
  "next": {
   "place": {
    "name": "China",
    "abroad": true
   },
-  "source": "Gaceta Perú TV",
-  "date": "2026-11-11T05:32:02+00:00",
-  "title": "Keiko Fujimori defiende viaje a China durante visita del papa León XIV",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVENxbE5qcUZPZHFLcVZwLU40cjc3N0lvMVZzcERuQjdyUUF0eTRFZE9Qbm92TzBkaEhyVm9HSUEzNFJRUEdmSW80aU90UmpmT1JKVWNzZ3BtdzlkNTJ4aWp4NGd4dU9Zdy1SUXpJekdCZ1RCaFIyZ0FmVXMxQzIzbzVyMFQ3QTJzZE9BWFA4R2M0WVljZjkwUEc0ZDI3V3owRHlzUEVaTzh5QjA?oc=5"
+  "source": "El Comercio",
+  "date": "2026-11-11T12:24:49+00:00",
+  "title": "Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
+  "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -361,6 +363,48 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c2619378fddc",
+   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-11T12:25:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "88e093816acf",
+   "title": "Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-11T12:24:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "e87ae563c42f",
+   "title": "Papa León XIV y Keiko Fujimori se reúnen este miércoles en Palacio de Gobierno",
+   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
+   "date": "2026-11-11T12:24:26+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "5c04ddb05a44",
    "title": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\"",
    "excerpt": "Expertos en materia política e internacional indicaron que la APEC empieza el 18 de noviembre, por lo que no había necesidad de que la jefa de Estado viaje el 15.…",
@@ -368,17 +412,6 @@
    "url": "https://larepublica.pe/politica/2026/11/10/cuestionan-a-keiko-fujimori-por-priorizar-viaje-al-exterior-es-un-horror-diplomatico-hnews-892940",
    "date": "2026-11-11T12:17:48+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c2619378fddc",
-   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-11T12:00:11+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -404,17 +437,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTRLMEk1cjJVVHJiYkdBdTNhWDBOTURVYUVxd3F0YXNBZVdXSUpoSmdtZmZHUkZVaG1WRGd6a29TVnZfUUVha1JnQzFNcEtvTS04SlNLRVU0cm9IT0JoVTdwU1o4UmVldkU5UmtpMTdOOEdJa0VuRGh6N3ZIM3FpeEtxYjEzWUtwN3NDVVR2WERtWUZINGNaYy1ydnRydU56LU5tQ0hwSWNDcEd6UEFQZ09B?oc=5",
    "date": "2026-11-11T11:03:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d5e248e56002",
-   "title": "Presidenta Keiko Fujimori pide no politizar la llegada del papa León XIV",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpBbUw3V0xkbWFBUWdoSmNTanNzYVZOYVhXQmJZbTV4dGpWaEZkRTFNdjM2dkM2SFdLY1ZzQmZqWDdsak1oVW5jMmZST2dsemFyOVNuYkVBUDA3bE5QWDVITWNvaUUxbDktOTFUN1plb0dlSFFMQnlVbUxodFcxWk5XNk9tNWFYbUxoM0JxcHZldXRWNmVwTlVJM0xPaWtZM0hOVHVNMEJ4Um1DbnkzcUFrUmd0bDg?oc=5",
-   "date": "2026-11-11T11:03:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -468,23 +490,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "e87ae563c42f",
-   "title": "Papa León XIV y Keiko Fujimori se reúnen este miércoles en Palacio de Gobierno",
-   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-11T03:00:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
   },
   {
    "id": "29f09501cccc",
@@ -607,6 +612,17 @@
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "d5e248e56002",
+   "title": "Presidenta Keiko Fujimori pide no politizar la llegada del papa León XIV",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHFrV19RQlViQlVGMUVBV2k3VEIxOW5BeWpKMDJjUHh0Y0R1bEVjbUZ4VzdEd1hocnlYdXYxT3ZnYWg0UmE0TmdPalIwcnVMeFh0c0FVc0F2RkVVSUw1UExiN2NQU3kwemtaaWxKVTBBSWNKdmJDQ3pQdVE0blVTbmI3LVFSRHRnTmtCajQyOEpzV0lRU3NfeWo1TmdFWTh2RmRuel83and4NXZUUTE0QUJJZkpsR2M?oc=5",
+   "date": "2026-11-11T01:21:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "68230c94f5a3",
@@ -878,8 +894,8 @@
    "id": "252081be57b5",
    "title": "Senado debate este miércoles permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
    "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNbGx2MlBacXpRU0F3a0dxTVctZlB6RnNJREtFNzhVdDBkZGRiXzVUa2l0V0d1RS1KZlpCak5lc2lfeThVNHVOek13dHQ5bEstM2ZHZ0g4UGM2ckc3ZFhhZGFSZkpDVG9ZSUcwWjNsTzlNQUxFTkZlMVlBQ2ktZUdrZWdtMElianRaTGlpOVVFbmRpMW9qSjdGUmQzQl9kMTRndFhzNkQxOE9kZXczazgwRmEtZU1qdG9XX2VGWTY4b184VnNDUmtKOUFuR29RRHZ3ZVZ5aHhQWG5CM2ROVDdLZmZsNHBZY1kzTnA0UFMxVHFmVDZGRkc3Xy1XZWZJMlhGTmlSbGNZWmVyLVFkVXl5cTBMbmlHWmYwanpKMVNBR0JHbXQycjRScC1IdloxUDDSAcMCQVVfeXFMUElqRUlwQVNkZFl0U1J6U3RoNzJuTWpQd1lIZm5meVpKZ0hUZTI4Q0JtTTNkUERkc1hTZTU0ektxTmJCc2Q4Qk1xUERpLTRLWHVoX0xTZUF3SFRwX210RUhHcmV5NVNoaGd1ZDA1ZkJtLVFlZHNZbkdUWlhkOU00NEItbG9JeklpZEtKR0M4RnF4SHVyNC1EZTVIZG5BOGs1Z2tNS1hzQ0xYaEwtM1BnRXcydjB3LXlaSVhuQ3lfeHF3YWJGSDJ4Q2xvaXd0MDRnUS1BMmE0OFhvcTVsUE5LN0FuWHdaZVJkNEdraUxWeWlWRVhDWGYwcjVUQW1wNFE4R2NPS18yTmhvb1BNd2Z6WWxxa1Q0cy1vbTgweS0wLTZCTGJWdFdyN29LYW5yS0JBUndfS1NDUXZWUWxwRUhLd0w5aWc?oc=5",
    "date": "2026-11-10T18:01:11+00:00",
    "state": "posando",
    "place": null,
@@ -1066,17 +1082,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/10/peru-y-tailandia-suscribiran-un-tlc-antes-del-cierre-del-2026-los-productos-que-podrian-comerciar/",
    "date": "2026-11-10T13:57:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bca6137a74a0",
-   "title": "Galarreta defiende viaje de Keiko Fujimori a China y Japón y descarta que sea un desaire al papa",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS0RPQmEyS3JTM20yem5hcF94TWRVV2N3aVBEaFBDQW1wT2ZtUTFOMi1Cd2hNaERXbDVZMU5zbEl4anFxWGpVeFZnMklJUjhWNUtfR0ZJWlYxRE5mZFNuNVlkbVhFVVgycldFZDFPQUFnNDdtWGp0M0lySDNDQ3NLTEJaeHNuSndyZGtydWQxSG1BSC1PNG9GVmtZRmUxTmtSTk14ZWNWOW1EN3dETEpIRFd6ZXR2bGFkZkF5YktWNEE1UUk?oc=5",
-   "date": "2026-11-10T13:37:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
