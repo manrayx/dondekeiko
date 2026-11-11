@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T16:45:41.052152+00:00",
+ "generated_at": "2026-11-11T17:07:15.122573+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,7 +111,7 @@
    "abroad": true
   },
   "source": "El Comercio",
-  "date": "2026-11-11T16:43:07+00:00",
+  "date": "2026-11-11T17:00:44+00:00",
   "title": "EN VIVO: Senado debate permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/"
  },
@@ -368,7 +368,7 @@
    "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
-   "date": "2026-11-11T16:43:07+00:00",
+   "date": "2026-11-11T17:00:44+00:00",
    "state": "transmitiendo",
    "place": null,
    "next": {
@@ -388,11 +388,22 @@
    "next": null
   },
   {
+   "id": "5fbc6103bdfd",
+   "title": "“Jamás lo desairaría”: Keiko Fujimori respondió a las críticas por viajar durante la visita del Papa | 11 de",
+   "excerpt": "",
+   "source": "Hoy Día Córdoba",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmdmWkQ3QjRmNkR2WUdzck5wb2lPandEWkc1MnNjTzlBS1NXX2ltSThUS1VVY2RxR1dnbUpndm54Q2p2TldOeWdUZjZkVzdXNHdmTl8wMjc1dTBSQ3d3Q3hRVjVLdUNiQXo5WnVWb0h5QVFMOHJFQkFNZHhaTWUtbXo4TnQ1bVg1TUxFOTRRUVVWNThfd3U4bUsza2ZESkdNWlJmNlR2cmtyb3dxeWR6WF80Z0hRRkFaSm9BVkg1azJCdkpO0gHKAUFVX3lxTFA3SlJTT2FWVVBjN1R5dnc0S2w0cktYVlZMVUdHbDBZWUU1dHBJLTBxODJZQWtKRm1XSDQyLXYzS0c1aVBJaGppUXdtQi1MTFNsVVJsYVBBdUduTkg4M0pVV1p0XzJSYl9Qd2lBZU44bnJQMTRnMTcyR1FaUGtieGZ3M0NsQVVaOUxCOHMybHI0TnJ2VVJXZWg2TUN5YTd4aW96UHFSNmZnVTNBYU5MR2l5Z096aExUYTFjOVZJdWliMi0wZDhvWG9TX1E?oc=5",
+   "date": "2026-11-11T16:36:12+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "69e88fa28491",
    "title": "León XIV llega a Perú en medio de críticas a Keiko Fujimori por su viaje a China durante visita del Papa",
    "excerpt": "",
    "source": "La Tercera",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUJnWDIzMVRiY2owTVpITmRaT0VZcUw4LXcyeVNidWxmdkppbXBmVFRoT2VFdWJYUmxlNE1TSGxMSjY2a0g1WEN6MzQwYVFhSVFTRmtnT01JZVNUT1BidzNNWWh6c0U1TnJDbmlvdWVFeGxxMVRWMlUtNUxVQS1sSXpBZTlsVGZfZnEwVUtzeUFoWmpNVHBIS2dTc0YyMGhKWG5XWVdGVWpQNWRlX0s0TVp2UENqSzFtUGNmV25pRHRLbV9uZ0Jkd3VsYTBGM3hXemNHWW1QTjRlYVFpd3fSAf8BQVVfeXFMTnJKRmctNm5MWUxVYjJTN3dHeVg4N0g1djFkVndNWEF3Sjd4S3o4NV9Ic21Rd09GbnZ1R1FqWTRWck1YeWN3ZDFHSUxfOVZOeGlTUU1lc0lWdGZFQzl2WHVrcGJpQm5vaVBRQjZDejAtZnN0YW1uU3RTRkt1Yk1WUjV1andPSHZQS2poZjFwdlBUQnJOcUxMRmRfMGJuOXpyMlNyMUZWUVA5R1Jja0RTVFhkOEZZYWFpVklNVllFd2kxOE0xTy1TVjN2dnpKOUVzNFBodkhkUG45TjYyN0IxemswMGRUY2VFdGRyTEE0OFNfWWZHNUxaNGNITHA4VTdn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUJnWDIzMVRiY2owTVpITmRaT0VZcUw4LXcyeVNidWxmdkppbXBmVFRoT2VFdWJYUmxlNE1TSGxMSjY2a0g1WEN6MzQwYVFhSVFTRmtnT01JZVNUT1BidzNNWWh6c0U1TnJDbmlvdWVFeGxxMVRWMlUtNUxVQS1sSXpBZTlsVGZfZnEwVUtzeUFoWmpNVHBIS2dTc0YyMGhKWG5XWVdGVWpQNWRlX0s0TVp2UENqSzFtUGNmV25pRHRLbV9uZ0Jkd3VsYTBGM3hXemNHWW1QTjRlYVFpd3c?oc=5",
    "date": "2026-11-11T16:30:00+00:00",
    "state": "triste",
    "place": null,
@@ -471,7 +482,7 @@
    "excerpt": "",
    "source": "Religión Digital",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDdWaUhxSFIxekdLRVEtZEpjZmV6T3BiVjJZczQyam5tZ1p3M0xmMjVfaW9jd2xJWkNMdE9ySjdBUWdIOGZlLV9pUmJvT0k0aHNNZnpvM3FDellkN2kxWEhkRnpMTXkta3A4MEwzdUlqZjB5dnkwU1NnZnU4VlA4WS1XbWRzM0RCUFHSAY8BQVVfeXFMTi13bkpCVFFRUFpTSldLa1Vld1hnUEstY1FZRG03SDFaOEY0NXpXOXoyalJGcTRsNkU1aVhoNi1INld1M0lnTk5Pd1RaenNNb1FtdEt5a0RnUnVOWVZSN3JTVDhNMUF3Vm5vRFEtbnFtOE5yVEQ1ODNzN2oyNHVpNndvRkhkaF9rNU5kc19LVms?oc=5",
-   "date": "2026-11-11T14:47:39+00:00",
+   "date": "2026-11-11T15:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -1086,17 +1097,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "6b31981cabdf",
-   "title": "Carlos Basombrío cuestiona posible ausencia de Keiko en la despedida del papa León XIV: \"Un calculado desaire\"",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUlpzNDRyeDJmdDlwaTJ1aDZ5RmRRSzZZSXlYbFkzWlNuaFJVZjJabzRjQWxwcVZSeFFnOF9PSjQ5NjdiSWhjZUtNa2lyejFucVl5NXl0WmFpSlpZSHg2SDRncWczbnVyRXdhV2lic09PVHdnSkdIWHJIMGpyc2FRblVBMkVxLUNjcGg3UVlqSVZRYUUtenRhZk9CX2dJbGROUGMtOWZMU1VGNWMwMWo1bXlORXpBVFZYVjJWTW5jR2NJbnJYTXJQZ0U2aVlYc0o1RkE?oc=5",
-   "date": "2026-11-10T18:20:26+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
