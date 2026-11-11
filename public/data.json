@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T18:34:34.616827+00:00",
+ "generated_at": "2026-11-11T18:55:52.377737+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,18 +110,18 @@
    "name": "China",
    "abroad": true
   },
-  "source": "La República",
-  "date": "2026-11-11T17:50:09+00:00",
-  "title": "Keiko Fujimori no despedirá a León XIV: Senado aprueba su viaje a China y Japón para la cumbre APEC",
-  "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-no-despedira-a-leon-xvi-senado-aprueba-su-viaje-a-china-y-japon-para-la-cumbre-apec-hnews-513436"
+  "source": "Rumbo Minero",
+  "date": "2026-11-11T18:33:10+00:00",
+  "title": "APEC 2026: Keiko Fujimori viajará a China para promover inversiones y minerales críticos",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeDE0a1FEVFJGTEt2ZnVPdkJyLXhPTHZiR0FUZkRrMWNBUTlJUE9teDRnVlJCSDhpQTF1dlo4LVRadHVqa1hWakwyeXUyME12eWJJUUJISkdyc1ZaVmhQdEE2cVVkNEstOTdHYVItdWFqWDVac1lTRUw1TnZuZ05SVHVaSkkwanRjNUN2T19QSmlLSWFYdE1YX2RNSkZ4R2JDOVRPNmhrZVhmTnlfWmNNdWdGWURES1pB?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 5,
-  "posando": 53
+  "triste": 4,
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -363,6 +363,64 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "606f2eb88de4",
+   "title": "Keiko Fujimori se irá de Perú en plena visita de León XIV: “Jamás se me ocurriría desairar al Papa”",
+   "excerpt": "",
+   "source": "Canal26",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFRGMVNrOHQ1TjZhUm80b0gtNzNuYlg5dmZEU1c0d2pqcDdLZEtJZnY5ZzgySmplT2NCTy1KNTFnVkcyXzVSQkxnU1NZb3l0ZkhoVlctNHV6UXR3X2tLckk1RzViYkRrSXlGNzg1c2hXVDZFZjNOUVBxLW1fQmcwU2Fkemh1TGVKX0pEYVNMNTU5SzVyMGR3dGRvME1HSmlEM1plMHNxSFdJcEk4Y2ZEN0dMMVdyWHpLcHk1aS1xaEEySnY0MzY3VFcwZm8tdS1QaWcwWHVWQ212WHJEbjRYY2VR?oc=5",
+   "date": "2026-11-11T18:45:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bed9c09cc2ff",
+   "title": "Ranking regional de presidentes: Keiko Fujimori se ubica en el puesto 9 con una desaprobación que supera el 54%",
+   "excerpt": "El rechazo a la gestión de Keiko Fujimori alcanza el 54.4% y su aprobación cae 2.5% en noviembre, según el último reporte de la consultora CB Global Data.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/ranking-regional-de-presidentes-keiko-fujimori-se-ubica-en-el-puesto-9-con-una-desaprobacion-que-supera-el-54-hnews-524799",
+   "date": "2026-11-11T18:42:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d0a508fc73e9",
+   "title": "Senado aprobó viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlpBSTJ2dHNSenRwZHhwT29MRGRBcHRiRVVqalhQY0FDQkp6eDVfZnBVeWVITW4wNmxWSDlsOTU5elk5TjJ3Z0dxNjN5aUpsU1ktcExCTEpPSW9naDBhZWRNZVZMQlRkcUU1U3pJTEtGSWVHRldkbUx1T3BUdVpCY3BRa1JqbE54dGlBM0h2LVkyLThqQ2hQSmxxbmY2UDJQRVY3aA?oc=5",
+   "date": "2026-11-11T18:34:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d0696d852314",
+   "title": "APEC 2026: Keiko Fujimori viajará a China para promover inversiones y minerales críticos",
+   "excerpt": "",
+   "source": "Rumbo Minero",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeDE0a1FEVFJGTEt2ZnVPdkJyLXhPTHZiR0FUZkRrMWNBUTlJUE9teDRnVlJCSDhpQTF1dlo4LVRadHVqa1hWakwyeXUyME12eWJJUUJISkdyc1ZaVmhQdEE2cVVkNEstOTdHYVItdWFqWDVac1lTRUw1TnZuZ05SVHVaSkkwanRjNUN2T19QSmlLSWFYdE1YX2RNSkZ4R2JDOVRPNmhrZVhmTnlfWmNNdWdGWURES1pB?oc=5",
+   "date": "2026-11-11T18:33:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "f25254a3ff17",
+   "title": "Sheput sobre viaje de Keiko Fujimori al APEC:...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDZmZjZuN0hsSGhvQUl0UEZycVkxaVVtNHA2eWVGNG5sNmNiYnkyaDdZYVNic1BJQTM3a1FnMEh4X2ZDbzAtTW1oTXA5bjFvQnFyS3M0ZWVUTi1iV3JEWVgyZW9wNTBZR29lV19YMmtId0VqX1hyZVRsVWtIYW9sam1OdGdDNm5XZ2RoR2ZyVEc2LUlOLWxxZWRiaEJ2a3PSAaQBQVVfeXFMUHVmRzMxaDFoZ05EMnowLWRTYnhnZ0lkbEY1MU5kWHlCLS1jNVpKb0RQS0poOGZqZndiejlXNGVhN1piODRtNXhfa0VCcE5UcXRRQnk4SXJ4MWxtUjMyRVBqdEFRNzVNa1p2MWk1aXlqRnRHeEJEdlJaMW53WmZFMnZSVXNkN3JHNmNqSlJYTW83QWJnZjhnQkU4WFgySmxJeEFxRXk?oc=5",
+   "date": "2026-11-11T18:31:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b1e42f63e92f",
    "title": "Encuesta del IEP: El 51% de peruanos rechaza que el Congreso haya otorgado las facultades legislativas al Gobierno",
    "excerpt": "Sobre el impacto del Congreso en la gestión presidencial, el 34% de ciudadanos consideró que “ni facilita ni dificulta” el trabajo de Fujimori.",
@@ -380,6 +438,17 @@
    "source": "La 100",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQk9SS0JXSXZzaUVwNDV6amMwbFYzV281WjRjQVdrUGJ4Z0ltUVI3YkRWMWl6c1A5cGgxTjJjOGVvOURudk1GYzNONjdEVVRQdkNTRTlmVVpidXFZTmVmczlGWThPY1RYYzcwR3ZPSlpLVHRUX0hhLUtiOGFWSGdUSjhYaTNBWThpelRwMDhHZjZZejZqUm1VODVaLWFieThlbTFMMy1BVjJLSmc2UHlQMVZ5RjVCeU5QaGd6MU1mWkFCT3hMdjJ5TjRLUXZlcEgtSFktNjUyMVVQYi11eWpvaWdndmtoRUhxd2JtSTE2Y1VKYllnY2hQbmtUakJwUzg1Qmd0bGRn?oc=5",
    "date": "2026-11-11T18:22:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3f1092932a3f",
+   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzhIeVNNZHVuMEpzdUJmQllBRF9EUXZpYWItMWc2bVZBLThjcm1tQXRENkVobW1ITV9sVHk2VFJTY3p5ZnV4anRkTjVNT3ZNcUU1Tl9qNDhDcm1TajNXUEpMNktqbVlHcWdPcWZ1S2FxUlpUYWxubmZ6aUpTb2FEVVRZRzROeWJMV2hxV2FKYnRSVnlKcHVFODR0SlFSaTJjMV91M2V6QkMzWjBoZjVDTnB0M1FvZHVSQ25WbVJraw?oc=5",
+   "date": "2026-11-11T18:16:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -407,17 +476,6 @@
    "next": null
   },
   {
-   "id": "3f1092932a3f",
-   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaE9JSERNOExrWHM0TEVIQUZaZnRlTngydHp2YmdyYWdGUmpScENyeHpOWmJJTW95VFYzWThpY202R2JOYXo5WWljZUc5bHZNdExfSlhHUW9tNGhack5EeHJaaFJVYXNlbjRoOXYtbl9jQmQtMF9iaklJVVZFTzJ1WmZjRUJHV0JKRkl0QkR5dmNpaUQ4R2lQdTVsbDlNeHlYbHRDMFNRNWQ?oc=5",
-   "date": "2026-11-11T18:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "1cec737a6a48",
    "title": "Pleno del Senado aprueba viaje de la presidenta Keiko Fujimori a China y Japón",
    "excerpt": "",
@@ -434,6 +492,20 @@
    "excerpt": "Con 43 votos a favor, 1 en contra y 5 abstenciones, el Senado otorgó el permiso a la mandataria para salir del país el 15 de noviembre y permanecer en…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-no-despedira-a-leon-xvi-senado-aprueba-su-viaje-a-china-y-japon-para-la-cumbre-apec-hnews-513436",
+   "date": "2026-11-11T17:50:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "42cb4779857c",
+   "title": "Keiko Fujimori no despedirá a León XVI: Senado aprueba su viaje a China y Japón para la cumbre APEC",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNFR1U3hHa0phdGg1cTFFb3FfeC1VR0NUaS1pdG9lS0JFb2lDa3ZyclRmQVdQeHNrZkcxOXM2U3lFcEY0MXpSb1FxdElqZjZsVzVDak51VFd5dFJFMjlCNE82RzIySnplYWdlTDY3MXZUd3VDNXpFbDZtX2sxWFBWcXhiNkd3NVdJZkpRSUJNLTRwU3RWVV9sZkJPaWdZbFgyb3ZHLTVQb0FsWUVndndOV1M5cWVtTktRNjBwSG8tQzdnNm1WWk9FVTR2OFR3NHVGVGdrWmZ5T3FpNEdiR0RiSU9KSU5OTG5CVUHSAe8BQVVfeXFMTlhVb0hVRmRZX2xZa3ExU3FDdFRYNXNLRDV4aF9Id2daV0V4SXNCeGlHMGxsU3Z2ZFR3c3NUSE5rY2wzOXRVc0RfWmdNdTJsOHNVWm5FYlNSWFlUWWRRdl92TlJiYVFrR0ZJQl9OQzgxaGZQS25ZNGloMHM1ZG5UMi1sM085UTlMMDNDYmFpVm10WXoxS1IydFJteEVJOHltUkQ4WUpzazFlMmRSUGVydXEyVkQ5S256aHdGbUtkSFVmTDZ4LW5XX2VZdlZCbHJyQnVoR3B5NnNrOERJWUNIa1VobUdfMGw4TC00bjVSLUE?oc=5",
    "date": "2026-11-11T17:50:09+00:00",
    "state": "posando",
    "place": null,
@@ -490,20 +562,6 @@
    "next": null
   },
   {
-   "id": "42cb4779857c",
-   "title": "Keiko Fujimori no despedirá a León XVI: Senado aprueba su viaje a China y Japón para la cumbre APEC",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNFR1U3hHa0phdGg1cTFFb3FfeC1VR0NUaS1pdG9lS0JFb2lDa3ZyclRmQVdQeHNrZkcxOXM2U3lFcEY0MXpSb1FxdElqZjZsVzVDak51VFd5dFJFMjlCNE82RzIySnplYWdlTDY3MXZUd3VDNXpFbDZtX2sxWFBWcXhiNkd3NVdJZkpRSUJNLTRwU3RWVV9sZkJPaWdZbFgyb3ZHLTVQb0FsWUVndndOV1M5cWVtTktRNjBwSG8tQzdnNm1WWk9FVTR2OFR3NHVGVGdrWmZ5T3FpNEdiR0RiSU9KSU5OTG5CVUHSAe8BQVVfeXFMTlhVb0hVRmRZX2xZa3ExU3FDdFRYNXNLRDV4aF9Id2daV0V4SXNCeGlHMGxsU3Z2ZFR3c3NUSE5rY2wzOXRVc0RfWmdNdTJsOHNVWm5FYlNSWFlUWWRRdl92TlJiYVFrR0ZJQl9OQzgxaGZQS25ZNGloMHM1ZG5UMi1sM085UTlMMDNDYmFpVm10WXoxS1IydFJteEVJOHltUkQ4WUpzazFlMmRSUGVydXEyVkQ5S256aHdGbUtkSFVmTDZ4LW5XX2VZdlZCbHJyQnVoR3B5NnNrOERJWUNIa1VobUdfMGw4TC00bjVSLUE?oc=5",
-   "date": "2026-11-11T17:26:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
    "id": "87feadab062a",
    "title": "Roberto Sánchez sugiere que el viaje de Keiko Fujimori sea reprogramado para \"despedir con afecto y honores\" al papa León XIV",
    "excerpt": "",
@@ -522,6 +580,20 @@
    "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
    "date": "2026-11-11T17:00:44+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "da5201465120",
+   "title": "Keiko Fujimori, criticada por su viaje a China: \"Jamás se me ocurriría desairar al Papa\"",
+   "excerpt": "",
+   "source": "Religión Digital",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDdWaUhxSFIxekdLRVEtZEpjZmV6T3BiVjJZczQyam5tZ1p3M0xmMjVfaW9jd2xJWkNMdE9ySjdBUWdIOGZlLV9pUmJvT0k0aHNNZnpvM3FDellkN2kxWEhkRnpMTXkta3A4MEwzdUlqZjB5dnkwU1NnZnU4VlA4WS1XbWRzM0RCUFHSAY8BQVVfeXFMTi13bkpCVFFRUFpTSldLa1Vld1hnUEstY1FZRG03SDFaOEY0NXpXOXoyalJGcTRsNkU1aVhoNi1INld1M0lnTk5Pd1RaenNNb1FtdEt5a0RnUnVOWVZSN3JTVDhNMUF3Vm5vRFEtbnFtOE5yVEQ1ODNzN2oyNHVpNndvRkhkaF9rNU5kc19LVms?oc=5",
+   "date": "2026-11-11T16:44:07+00:00",
+   "state": "posando",
    "place": null,
    "next": {
     "name": "China",
@@ -641,20 +713,6 @@
     "abroad": false
    },
    "next": null
-  },
-  {
-   "id": "da5201465120",
-   "title": "Keiko Fujimori, criticada por su viaje a China: \"Jamás se me ocurriría desairar al Papa\"",
-   "excerpt": "",
-   "source": "Religión Digital",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRDdWaUhxSFIxekdLRVEtZEpjZmV6T3BiVjJZczQyam5tZ1p3M0xmMjVfaW9jd2xJWkNMdE9ySjdBUWdIOGZlLV9pUmJvT0k0aHNNZnpvM3FDellkN2kxWEhkRnpMTXkta3A4MEwzdUlqZjB5dnkwU1NnZnU4VlA4WS1XbWRzM0RCUFHSAY8BQVVfeXFMTi13bkpCVFFRUFpTSldLa1Vld1hnUEstY1FZRG03SDFaOEY0NXpXOXoyalJGcTRsNkU1aVhoNi1INld1M0lnTk5Pd1RaenNNb1FtdEt5a0RnUnVOWVZSN3JTVDhNMUF3Vm5vRFEtbnFtOE5yVEQ1ODNzN2oyNHVpNndvRkhkaF9rNU5kc19LVms?oc=5",
-   "date": "2026-11-11T15:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   },
   {
    "id": "4bd2d121a88d",
@@ -1031,67 +1089,6 @@
    "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-japon-y-china-en-plena-emergencia-por-el-fenomeno-el-nino-hnews-351549",
    "date": "2026-11-11T00:52:00+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bf1be57320eb",
-   "title": "Perú.- Presidenta Keiko Fujimori pide no politizar la llegada del papa León XIV",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWpiWEszX1FUenM3NjJtQlRfdlFuLS1IMERubERpRDNQWlA5WEZkaExqbUI1Rm1tR0pwTGtBLWhwM2dqOWpFcTZhQ3JqTXJmTTJnQW9uNlRUampKNG9OcXpqZW13T2IwZkhpV3piTUluQ1VkR1JXZFJEV0xZVHF2Q0ozTHRXRjl2YjFzWjFkTS03Mkx4ZklwSXVnQnZBdTF2cXYxV1dCSnNuUEcyMTZpZHdvQm1TQ1IzQ3lpZ3RFcW5JWE1CeDBodXdaMA?oc=5",
-   "date": "2026-11-11T00:45:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5bb8392356ed",
-   "title": "Presidenta Fujimori rechaza que su viaje a China y Japón sea un desaire al papa León XIV",
-   "excerpt": "",
-   "source": "Radio Nacional",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTk3SFBxbTBEaTV1ZVBxV3VBbG9tTzFieDhOOTc3Sk1yWXozVzFXX1o3bHpxcGJtVU1xOWhaQ3c3c0gteVhUSHFZcnBGNVMza29PNUk5dkNIUV9mT1psQnJNbnVBUXBIbzlKOGJpNmlUYzAxZ1lJWVBORjBUT2lxel8tTGFycWhJeGQ5VGJQSERuTlZ5VmhTWHR4cGcwQXB3dllpNzRUanFNemU5d0ktRWt0bTkyWjRheUJlZ2c2WEs5UXNtVTlIcUFRelNvWF9GUkNnd2Zn?oc=5",
-   "date": "2026-11-11T00:40:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "8354472ef5fa",
-   "title": "Keiko Fujimori no estará en la despedida al papa León XIV por reunión con el presidente de China Xi Jinping el 17 de noviembre",
-   "excerpt": "La mandataria explicó sus razones para ausentarse del acto religioso y aseguró que intentó modificar su agenda internacional sin éxito",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/11/keiko-fujimori-no-estara-en-la-despedida-al-papa-leon-xiv-por-reunion-con-el-presidente-de-china-xi-jinping-el-17-de-noviembre/",
-   "date": "2026-11-11T00:33:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "859cfdb6db21",
-   "title": "Keiko Fujimori ante cuestionamientos por su viaje a China durante visita del papa: \"No politicen una llegada tan hermosa\"",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbmlpTDJObllaUEE0TFNmSmRfdWVTM2NCWlc5V3BUNW1QMnA2Zl96b2IxTTlrbzZSeEN2NXlVZFVRRFIyZUdZekZUSXdhdDNWS3RGZDhfd2pVcTVWZUJNZldPd2xkRGNZUHhhTy13S0VPNTNEYzBkSVBUSExTNXR6d2FHSmluMGxqSURrd2dFWktJUGJIRnhCbEc5T1ZyWnlTcGJLRWNVakJ0RldqMGF6RW9sQ0pxSGwxZUxUYV9lVzJjUUdPQ0gxaVNwYVlfeW5BcTF1Ym9wRjNIa2lwMG9OR0dNVE83TTlpUF9tcklmVQ?oc=5",
-   "date": "2026-11-11T00:32:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "81b8a5a54fc8",
-   "title": "Keiko Fujimori responde a críticas por viajar durante visita del papa León XIV: “Hemos tratado de cambiar fechas, pero era imposible”",
-   "excerpt": "La presidenta Keiko Fujimori respondió a las críticas por su anunciado viaje al Foro de Cooperación Económica Asia-Pacífico (APEC) durante la visita del papa León XIV al Perú y dijo…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-responde-a-criticas-por-viajar-durante-visita-del-papa-leon-xiv-hemos-tratado-de-cambiar-fechas-pero-era-imposible-apuesplan-ultimas-noticia/",
-   "date": "2026-11-11T00:17:54+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
