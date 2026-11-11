@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T19:17:58.795656+00:00",
+ "generated_at": "2026-11-11T19:39:32.626940+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -363,6 +363,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3f1092932a3f",
+   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
+   "excerpt": "El pleno del Senado aprobó, con 44 votos a favor, uno en contra y cinco abstenciones, la autorización solicitada por el Ejecutivo para que la presidenta Keiko Fujimori viaje a…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/senado-aprueba-viaje-de-presidenta-keiko-fujimori-a-foro-apec-noticia/",
+   "date": "2026-11-11T19:19:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "34c396897db1",
    "title": "Álvarez sobre ausencia de Keiko Fujimori en despedida del papa León XIV: “Es esencial para el bolsillo de los ciudadanos”",
    "excerpt": "El ministro de Justicia justificó la inasistencia de la presidenta Keiko Fujimori durante los últimos días de visita del sumo pontífice debido a su viaje al APEC. Ernesto Álvarez calificó…",
@@ -449,17 +460,6 @@
    "source": "La 100",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQk9SS0JXSXZzaUVwNDV6amMwbFYzV281WjRjQVdrUGJ4Z0ltUVI3YkRWMWl6c1A5cGgxTjJjOGVvOURudk1GYzNONjdEVVRQdkNTRTlmVVpidXFZTmVmczlGWThPY1RYYzcwR3ZPSlpLVHRUX0hhLUtiOGFWSGdUSjhYaTNBWThpelRwMDhHZjZZejZqUm1VODVaLWFieThlbTFMMy1BVjJLSmc2UHlQMVZ5RjVCeU5QaGd6MU1mWkFCT3hMdjJ5TjRLUXZlcEgtSFktNjUyMVVQYi11eWpvaWdndmtoRUhxd2JtSTE2Y1VKYllnY2hQbmtUakJwUzg1Qmd0bGRn?oc=5",
    "date": "2026-11-11T18:22:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3f1092932a3f",
-   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNzhIeVNNZHVuMEpzdUJmQllBRF9EUXZpYWItMWc2bVZBLThjcm1tQXRENkVobW1ITV9sVHk2VFJTY3p5ZnV4anRkTjVNT3ZNcUU1Tl9qNDhDcm1TajNXUEpMNktqbVlHcWdPcWZ1S2FxUlpUYWxubmZ6aUpTb2FEVVRZRzROeWJMV2hxV2FKYnRSVnlKcHVFODR0SlFSaTJjMV91M2V6QkMzWjBoZjVDTnB0M1FvZHVSQ25WbVJraw?oc=5",
-   "date": "2026-11-11T18:16:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -577,7 +577,7 @@
    "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón durante visita del papa León XIV",
    "excerpt": "",
    "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNkNpeEhqQzAzM3g5ZXF2VnlKd2gtZUN0WVhyR2F0MG9RUmk0UHV1THp0R3dRRUlQdWwzUktfUzdQbDdKYmo5d1dlNmUyY0pmTGYtaVlRVk9MR0RIVlFXUFhyZnFWRHl5a3pvYjQwazBEdlVxZXF3SjcwSzh5SmIwQWpya1dZNmNuNXVVOC1fRVd1czBnYU05MVlRSUlMZUFWOE9HNlc1Q25VRmpvN1A5WFpVdEVlOHpxSWpYNTBrT0RKMU53YjFkelF1ZGhvZWJtc3JqNmNNVWJycnFKQ3d6Q3VBWdIB4wFBVV95cUxNNkNpeEhqQzAzM3g5ZXF2VnlKd2gtZUN0WVhyR2F0MG9RUmk0UHV1THp0R3dRRUlQdWwzUktfUzdQbDdKYmo5d1dlNmUyY0pmTGYtaVlRVk9MR0RIVlFXUFhyZnFWRHl5a3pvYjQwazBEdlVxZXF3SjcwSzh5SmIwQWpya1dZNmNuNXVVOC1fRVd1czBnYU05MVlRSUlMZUFWOE9HNlc1Q25VRmpvN1A5WFpVdEVlOHpxSWpYNTBrT0RKMU53YjFkelF1ZGhvZWJtc3JqNmNNVWJycnFKQ3d6Q3VBWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcUdJMEFLOEdJck5qWUFYSFRpTkp2VV94dkhPMWVtUVYyeTZ3SkRRRHVMUEFxTHBET1ZwMEdGTmFLSlB3Mkx3dERlckFyUHlDN3ZHUWVPOEU5UDdBQVctSnBhV2ZybjdRV2JCM0ZhSmxwMlhCN1pwaTliWV9EMjhIb2VsbXlNSHptT3NuRkJTNFlUWmZzS2lmZzAyY1dGZjhtQ0J3Sm40bjRpVUZvU2lLUDd1Sm9lV0ltTm1QUzc1UEZaUUJJdTVDV9IB4wFBVV95cUxNNkNpeEhqQzAzM3g5ZXF2VnlKd2gtZUN0WVhyR2F0MG9RUmk0UHV1THp0R3dRRUlQdWwzUktfUzdQbDdKYmo5d1dlNmUyY0pmTGYtaVlRVk9MR0RIVlFXUFhyZnFWRHl5a3pvYjQwazBEdlVxZXF3SjcwSzh5SmIwQWpya1dZNmNuNXVVOC1fRVd1czBnYU05MVlRSUlMZUFWOE9HNlc1Q25VRmpvN1A5WFpVdEVlOHpxSWpYNTBrT0RKMU53YjFkelF1ZGhvZWJtc3JqNmNNVWJycnFKQ3d6Q3VBWQ?oc=5",
    "date": "2026-11-11T17:33:00+00:00",
    "state": "posando",
    "place": null,
