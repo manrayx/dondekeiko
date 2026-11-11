@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T14:13:33.528872+00:00",
+ "generated_at": "2026-11-11T14:35:48.867209+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 5,
-  "posando": 55
+  "triste": 4,
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -362,6 +362,17 @@
  "agenda_minutes_7d": 323,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "0e62738ad228",
+   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLURZOEpWdThJU3kwa3ZQWHNtX0lsdnppU0tIX2J6dFhscGtobzAxRGVxSGtuSURhWmY2SHBWdkZ6MzFoRWZaMUk5WWx0anRyclBVMXJNMWp5bEtGQklreUdsTEZrOGN2TUhiOXAxTGtTa2lILUNXRmt5ZmJudnZERmExLXd2V0VFTlU3SUR5ejBUY1F1UWVKQW9jVUNyT1pBMjRNWHpjVWFIZHZRYWo4c0ZQdDBwSGpqSFRYaXhkbUgtNzMyMW1xdEJkLWJTWjVNRTNNMUhUWmJES2Zhc2ww?oc=5",
+   "date": "2026-11-11T14:18:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "330e19ea6478",
    "title": "Cúpula fujimorista acompañará al papa León XIV ante ausencia de Keiko por viaje a China (VIDEO)",
@@ -1075,17 +1086,6 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVpXazhlQWxqa2l0RnJtZ2ZYMmZpaGJWZWNib0NFZk5YajZ1bW9CQlVVRFJhVzdJcGoyTFJBM296QWtWMGhMMVhJUUFuc1JBVnJndS03dExwbExiWVJlSEN0aEhMZUx6ZWhDZWVTVDByR1k4SmlOb1dFUHFBVWVpZENLclB2dGFnWm5HOGQ4aktOT2x5b1Zz?oc=5",
    "date": "2026-11-10T15:16:09+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b91ecb3c209d",
-   "title": "Viaje de Keiko Fujimori a China y Japón: premier Luis Galarreta responde a críticas por coincidencia con visita del papa León XIV",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPZjJ4TEhWZGtHRG5kb1RxbUozZS16TTFFMGJZQTdsRlhIQjdlck02eUJzTll0Z2xBLXZNaWliLVltdS1reUVXenRtUGJYc1FER0ZnSGNyNDZ6YkJVSXl1X0tIaUFkaE80OHRSSy1CeEhOTHFzUV9rVzJaYlU3a3p6OGJycExBVlduTXlmaVdhZENPTWpxTVZ5X1FyZEMySUp0VkJQeHp5aWZzUGt6QmpGRDRGM1VVQUpYMkdMald3NklzeVFZZFBSaFZfcGxJWTVfLVVGNE5HMGU4bm42UnRXREVqNjhDcmR4SmpzSHZBbmZMYkJrOTZYbi04aHAxMkVCTTlZZGtXVHJHTmNsZXo3a1JSdXdxUVhsZ2c?oc=5",
-   "date": "2026-11-10T15:14:01+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
