@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T15:40:51.738199+00:00",
+ "generated_at": "2026-11-11T16:02:09.702782+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -564,6 +564,17 @@
    "next": null
   },
   {
+   "id": "56503e296e2f",
+   "title": "Rescate de patrimonio histórico, el viaje de Keiko Fujimori en despedida papal y la remoción del director de Barbadillo",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPd0t1UHZOTWJjM0RYcmJxTnRycmFpeEVHQXJ3dTc4SFFQeXlMcG5rdnZnN0ZaZTFPbkNDa1djQ2VJUnVhYjZVQjAxOU90QWRxZloxcEM0WGgzNUFtd2I1NUNkdHpLbjNEWWhYU1dOU2RYeWk5QXJtbGNpSjNvdTAyR0VULW1WVTZDUHFCeFU4cVluYVJSZGpKVHZZQkRkU0lTRjlRcWFlN2MyNE95ZHFrNWlOdi1YYUwwdmlNdUl5VlhVTFdTSnNfbnk2UlpLU0xqeldsSkVCLVJ0TTJFQWw1Snc1U3p1S3plNGl1XzBySERIVUduUk9na0otdU4zd9IBkgJBVV95cUxPUDFsdEZla1VpXzlUeXp3TWlNYnpCNWQzeDAxYVhIVWNaNWJ0WW1IenB5NGhTUnIxT1BMMU1UVmZGTFRZOEJFSlUwcUJLNFRyck1raERYQ3Nwdm84Nm02UXJpX3VQcW94eWFRQ29KY2prQzRXZzdpTGpjN0liaEJvcGh1U1J3MWFDT0FMbU1fX3NYbFhzQ2VaVnh2cm5JMXJ4NmxIWTlfY0xvMEgyVTU4YUpjbnpzY2luenBFUS1wTVBFN1RLSTl0TTQ2YWQ1aEdaSVU3TkdmMHlaS3hhTlJXR2dvMy1KaXhzaElrcnA1TU5zT3NNdEZ0blluVzYwdHNmSEJjemtWVFVKRWZRNTRmVEh3?oc=5",
+   "date": "2026-11-11T10:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
@@ -714,12 +725,26 @@
    "id": "4a751f09f600",
    "title": "Keiko Fujimori y Cancillería sabían con anticipación de la visita del papa al Perú",
    "excerpt": "",
-   "source": "Diario Expreso",
+   "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS09WZHcwcndxQzNFYV9US0ZvOHN0WmtNSHNPd2JITHg5X0xadXpwdDJQYk5mTEx1NktvZzBJWmxrT0NXMjFCM2RqYU0yOEdybDhCVEJaMnhlYWVvMVZZSEwyTHNvd19VUmJ1a0NEOEFXYU1ZR3Nha2hsNDJ5Ym1Od25ydUZxWWRwalF5bjFibklwckZVamhCYi1vb0I2TVlWVmdWRGpKRTAzZ3dxelNzcjRhSzFZZmp1N0pFSld4UUM5cWltT0h2TGhjQ0hMdE9vN01B?oc=5",
    "date": "2026-11-11T01:34:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "8f9c77bd98d3",
+   "title": "Keiko Fujimori responde por viaje a China durante visita del Papa León XIV",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLV9SRUQ5enNMQTlHS0tSWjZzX1Y2dDFENzB2ZVZTbnp2eFhkdGtXUmpkWDgxS2l2YkoxZ3VtdmFLajFWOWtyUXp5NHBrYllkOFgxWU1yUUhnOVNscFJWb2wxbDA3NUlCR1lUOEhoTzdRS1lLZlpWZnRfYnBRczI1dS13Nkh4TUs2U0dpYWV4aW9ZX1FnRmF4Qzh3T0VkcmFQU0FTRlkyQlo5SkxsSWdNbXlXM1hFZVJwb0xXN0pkTGI?oc=5",
+   "date": "2026-11-11T01:32:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "d5e248e56002",
@@ -836,20 +861,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "8f9c77bd98d3",
-   "title": "Keiko Fujimori responde por viaje a China durante visita del Papa León XIV",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLV9SRUQ5enNMQTlHS0tSWjZzX1Y2dDFENzB2ZVZTbnp2eFhkdGtXUmpkWDgxS2l2YkoxZ3VtdmFLajFWOWtyUXp5NHBrYllkOFgxWU1yUUhnOVNscFJWb2wxbDA3NUlCR1lUOEhoTzdRS1lLZlpWZnRfYnBRczI1dS13Nkh4TUs2U0dpYWV4aW9ZX1FnRmF4Qzh3T0VkcmFQU0FTRlkyQlo5SkxsSWdNbXlXM1hFZVJwb0xXN0pkTGI?oc=5",
-   "date": "2026-11-11T00:01:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   },
   {
    "id": "8fff16c023c9",
@@ -1083,17 +1094,6 @@
    "source": "DIARIO VIRAL",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLVpsdFlqSk5NMkN4c2lOczBvZFd2T1FXWEpDYjZZcDNpSHQ5UF9PTVplVGxGOUNFX3BQQnk5WTZCMllCWTdqblUzcVo3VmdFQXZXYzZMcFJ5TTZ0YlRlQ0ZZV2RmS3VMV2gwa0ZOVzI1eEFBb1NlY1RiNjRNVFY1a0MzRG5xdEpwTnh0VzF5b2NrZVY2OEl5cXpPcGNNZDRNekpEcQ?oc=5",
    "date": "2026-11-10T16:31:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5e11f02a5303",
-   "title": "Luis Galarreta niega desplante de Keiko Fujimori al papa León XIV: “Ella lamenta no estar hasta el final”",
-   "excerpt": "El primer ministro confirmó que la presidenta no llegará a la jornada final de la visita papal y respaldó el viaje a la cumbre de APEC y a Japón como…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZExNLTR2dGFlYk4xdlhoQ1drUU1ONm44Vk9rVUhVVXpQbk43T2FndnNMOVlOTVRfWkxrRGVqdFJIN0tBbFRDVWg5VnZ5S0FYdnA5N2pmRmZXcllhYWtzTWdLb3RUd2lKS3dvUmxFeDFSTXlxcElNQUMtUy1VdVdJclBPUWpYLWUyOTA2anpXOVUwRkRfbjVKcjR2eERGN3g2MnF1dEEzeTFIbWhBcmRfRXp3Zm5xVUU5T2hXZVUyR3d2YmhDQU1Dc3hvMTYxV254N0ZYbHlBZ0xmMTjSAfYBQVVfeXFMT3pMSjdLcEc4dy1ENEItRmRPOWtBVlQ0X2xodTg0ZkhkMnNUTUVFdFpuZGVMQTl1OHZXMmh5WDEyM1d2QXU1NGhyMlNSbFd5ZW94aXdRZWlvWmtWeE5QTWlFSVlScXJ2cngySVg4ejJKS2VNeGFKcDJrMmRpa1ZYdzJCeXlUWndfcjNuR0M2d2pIU2w0U0NWZW1jeDB2cV93QWpCbWhNM0NtVDhXd09NeTNMMWo2YmtLcklTX09QWGVYMEl5WWhQRUpUSXRjX19yX3dRVDFvRkN3VFVEUFJBbGl5eEl2S0hpZExsSHdNbDk3ajVPUkV3?oc=5",
-   "date": "2026-11-10T15:41:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
