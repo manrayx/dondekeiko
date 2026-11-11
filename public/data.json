@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T18:55:52.377737+00:00",
+ "generated_at": "2026-11-11T19:17:58.795656+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -363,6 +363,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "34c396897db1",
+   "title": "Álvarez sobre ausencia de Keiko Fujimori en despedida del papa León XIV: “Es esencial para el bolsillo de los ciudadanos”",
+   "excerpt": "El ministro de Justicia justificó la inasistencia de la presidenta Keiko Fujimori durante los últimos días de visita del sumo pontífice debido a su viaje al APEC. Ernesto Álvarez calificó…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/alvarez-sobre-ausencia-de-keiko-fujimori-en-despedida-del-papa-leon-xiv-es-esencial-para-el-bolsillo-de-los-ciudadanos-hnews-961235",
+   "date": "2026-11-11T18:59:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "606f2eb88de4",
    "title": "Keiko Fujimori se irá de Perú en plena visita de León XIV: “Jamás se me ocurriría desairar al Papa”",
    "excerpt": "",
@@ -557,6 +568,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/encuesta-iep-el-53-de-peruanos-desaprueba-la-gestion-de-keiko-fujimori-en-el-gobierno-hnews-492294",
    "date": "2026-11-11T17:37:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a7fcc4fd65ca",
+   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón durante visita del papa León XIV",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNkNpeEhqQzAzM3g5ZXF2VnlKd2gtZUN0WVhyR2F0MG9RUmk0UHV1THp0R3dRRUlQdWwzUktfUzdQbDdKYmo5d1dlNmUyY0pmTGYtaVlRVk9MR0RIVlFXUFhyZnFWRHl5a3pvYjQwazBEdlVxZXF3SjcwSzh5SmIwQWpya1dZNmNuNXVVOC1fRVd1czBnYU05MVlRSUlMZUFWOE9HNlc1Q25VRmpvN1A5WFpVdEVlOHpxSWpYNTBrT0RKMU53YjFkelF1ZGhvZWJtc3JqNmNNVWJycnFKQ3d6Q3VBWdIB4wFBVV95cUxNNkNpeEhqQzAzM3g5ZXF2VnlKd2gtZUN0WVhyR2F0MG9RUmk0UHV1THp0R3dRRUlQdWwzUktfUzdQbDdKYmo5d1dlNmUyY0pmTGYtaVlRVk9MR0RIVlFXUFhyZnFWRHl5a3pvYjQwazBEdlVxZXF3SjcwSzh5SmIwQWpya1dZNmNuNXVVOC1fRVd1czBnYU05MVlRSUlMZUFWOE9HNlc1Q25VRmpvN1A5WFpVdEVlOHpxSWpYNTBrT0RKMU53YjFkelF1ZGhvZWJtc3JqNmNNVWJycnFKQ3d6Q3VBWQ?oc=5",
+   "date": "2026-11-11T17:33:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1066,28 +1088,6 @@
    "source": "Tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHFrV19RQlViQlVGMUVBV2k3VEIxOW5BeWpKMDJjUHh0Y0R1bEVjbUZ4VzdEd1hocnlYdXYxT3ZnYWg0UmE0TmdPalIwcnVMeFh0c0FVc0F2RkVVSUw1UExiN2NQU3kwemtaaWxKVTBBSWNKdmJDQ3pQdVE0blVTbmI3LVFSRHRnTmtCajQyOEpzV0lRU3NfeWo1TmdFWTh2RmRuel83and4NXZUUTE0QUJJZkpsR2M?oc=5",
    "date": "2026-11-11T01:21:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "68230c94f5a3",
-   "title": "Presidenta Keiko Fujimori participó en el ensayo de la ceremonia de bienvenida al Papa León XIV",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHpJN0I4MEJkMzVQRFhyX0Y3ODVyR1BPYnRaZ1hYeVZBeU51V2NUbEZMMXcwcFo4RW4zWlNGTlZ6Snp3TXVEdkpPREdFUC0zMlFwR0VCMVE5ZXFWUDdkaDVtWXhuMy1nelJkdkQyVk5XVEtyek9aUVhncEZ6dUhDWHc4cVRDZVhlWVBuM1dfUko2V29yaFJzUGJOcU9DT2QxYV9YbU1HRVFSSndockwyMnFBdFM4ZW5pUFV2LTVDUk5Gak9YYXlJMnlOSQ?oc=5",
-   "date": "2026-11-11T00:52:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2a10e2b00742",
-   "title": "Keiko Fujimori solicita permiso al Congreso para viajar a Japón y China en plena emergencia por el fenómeno El Niño",
-   "excerpt": "El oficio fue enviado al presidente del Congreso, Miguel Torres. De aprobarse, la presidenta Keiko Fujimori saldría del Perú del 15 al 21 de noviembre para asistir a la cumbre…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/09/keiko-fujimori-solicita-permiso-al-congreso-para-viajar-a-japon-y-china-en-plena-emergencia-por-el-fenomeno-el-nino-hnews-351549",
-   "date": "2026-11-11T00:52:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
