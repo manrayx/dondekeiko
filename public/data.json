@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T15:18:51.864429+00:00",
+ "generated_at": "2026-11-11T15:40:51.738199+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-11T12:24:26+00:00"
+  "date": "2026-11-11T15:23:29+00:00"
  },
  "next": {
   "place": {
@@ -363,6 +363,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e87ae563c42f",
+   "title": "Papa León XIV y Keiko Fujimori se reúnen este miércoles en Palacio de Gobierno",
+   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
+   "date": "2026-11-11T15:23:29+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "c2619378fddc",
+   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-11T15:19:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "da5201465120",
    "title": "Keiko Fujimori, criticada por su viaje a China: \"Jamás se me ocurriría desairar al Papa\"",
    "excerpt": "",
@@ -389,17 +417,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "c2619378fddc",
-   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-11T14:34:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "daaeac014c3d",
@@ -497,23 +514,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "e87ae563c42f",
-   "title": "Papa León XIV y Keiko Fujimori se reúnen este miércoles en Palacio de Gobierno",
-   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-11T12:24:26+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
   },
   {
    "id": "1979925ca25b",
