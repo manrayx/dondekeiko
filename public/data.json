@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T14:35:48.867209+00:00",
+ "generated_at": "2026-11-11T14:57:12.890458+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "El Búho.pe",
-  "date": "2026-11-11T13:45:31+00:00",
-  "title": "Cúpula fujimorista acompañará al papa León XIV ante ausencia de Keiko por viaje a China (VIDEO)",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHl0YjA1RTd1RTkwTW9ZVW9pYjNhUFFHM0dRWkJLMmFLQ0lUWThhTWJrS3ZLNUEwMzRyU3pQaHFBZWhZRmlKT3Y1SzVjVjlITnkwYi1MOTlKSWZPRDlBNnVfOE1YUURRUU5EUElPUFBMaVRpWjlQTXVxNk9rX2pkcmY0M3RZZGlVX3VLeDJ0NlkyMUowa1RKUGJYR29zN19NakU1d3BjeC1fSWtOYUpjNXlzV0F3RkdPS1BsVw?oc=5"
+  "source": "Trome.com",
+  "date": "2026-11-11T14:39:46+00:00",
+  "title": "Keiko Fujimori defiende viaje a China durante visita del papa: “Jamás se me ocurriría desairar”",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1NRRG1vaVNSZXVMTUlxUlQxODhKdGNrNXB1cl9VRlJyMXF2SW1tT05WbnRkZVRZV1Z2VzFGbk55YVcxNzdwZzRaSWNRaWxQeS1LT2Z1Y0JOeW1JUE5nazNjUVd3R25ISk5sVDJ6WDZxSG1uM3JrVXNVT3R5UnNzYWJ0eEx0ZllnTF9wNV9Bb3dyWnlsTTJDNTFuYS0zZkZZZjR1ZkRNZzRNWlRj0gHAAUFVX3lxTFBaQjF3dHlfd2hacm1mbUdtT0pBZnFPT3VCQl9pOC1Wa1BzY1lZemd1MEpTblh1Uzg4bE50Vkk0RG9HelBIYnl5eVpYSXhhR2YyZUZvbndOSWpKV1BlbG5jeUpfeGRoNy1QVnFqcFlSU1NfT3A4OEdZSlNPSEtVcXllSVB1TGFKTDZUd21HejltdVlRN0NkNk85VWZkTy11VlBKSHdsXzBKWm1id2NtOGY1bHlxQWZJNUtFbVFQMXVieQ?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -363,6 +363,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4bd2d121a88d",
+   "title": "Keiko Fujimori defiende viaje a China durante visita del papa: “Jamás se me ocurriría desairar”",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1NRRG1vaVNSZXVMTUlxUlQxODhKdGNrNXB1cl9VRlJyMXF2SW1tT05WbnRkZVRZV1Z2VzFGbk55YVcxNzdwZzRaSWNRaWxQeS1LT2Z1Y0JOeW1JUE5nazNjUVd3R25ISk5sVDJ6WDZxSG1uM3JrVXNVT3R5UnNzYWJ0eEx0ZllnTF9wNV9Bb3dyWnlsTTJDNTFuYS0zZkZZZjR1ZkRNZzRNWlRj0gHAAUFVX3lxTFBaQjF3dHlfd2hacm1mbUdtT0pBZnFPT3VCQl9pOC1Wa1BzY1lZemd1MEpTblh1Uzg4bE50Vkk0RG9HelBIYnl5eVpYSXhhR2YyZUZvbndOSWpKV1BlbG5jeUpfeGRoNy1QVnFqcFlSU1NfT3A4OEdZSlNPSEtVcXllSVB1TGFKTDZUd21HejltdVlRN0NkNk85VWZkTy11VlBKSHdsXzBKWm1id2NtOGY1bHlxQWZJNUtFbVFQMXVieQ?oc=5",
+   "date": "2026-11-11T14:39:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "c2619378fddc",
+   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-11T14:34:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "daaeac014c3d",
+   "title": "“Jamás se me ocurriría desairar al papa”: Keiko Fujimori defiende viaje a China durante visita de León XIV",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTWdXT09ZWFZoREhHUmdsRy1fMFJoQnJlbVRqVW94YVo2WllQdFpDOTdKQV9mX3k5SkE5RTRzMFBReDgtem5SZlBhbTFCeTdPQWRBRncyc1I3M3pmeXhra2hsRDNRVWRXTmhuanZCbDNOZUFMWmRMaFBQaFIyRmlZMFFQNXR2MFY2LW00c1VzWDZ1UVJBbDVnZWk2QUs1RTJrdWlUZkJ6dFl6ckJKbm1RVHF0UG5ZZ2xUVnMzSzBITnJPSUVaWnRwQWNmTDI?oc=5",
+   "date": "2026-11-11T14:24:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "0e62738ad228",
    "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
    "excerpt": "",
@@ -405,17 +444,6 @@
    "source": "El Diario Ecuador",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1ctUnhnMTVFRXp2STNNTFFJcVdNbjJHbVM4bUJpZzVPRU1rcVdEWmNndUp2ZWlmYUx6TnhSSmI4MldHRUhHZkl1aEF5LWJLWWRScGpENEt5RFk3RzlGVXp4dlFzOXQ0dFhoeEtNOHcwYVR1aGkxeG90ckFPbncyQWF1TlMyMzVMLTg1ME9saDJsbnp1c1RKSGUzU3RZeGxxck82THlLRlg2Z25JM01EOW9qY0RIMnh1eVdzNnZRTUNJSW91Q1VZbDBUUmE4bE5YUlNIZkhqajduMnpvRTRB?oc=5",
    "date": "2026-11-11T13:29:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c2619378fddc",
-   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-11T13:25:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1063,28 +1091,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQW9MajhsWnhGZzZHWVBjRVhiZnM5VW4zYi1fak8ydjBuaENweVgyYVQyX2txc3J5XzBzazhvOXFBV19YbVNNME5GT2tHcG9JbXYtdWVqX2JWTUNpRWRPLXdKQjhQeWowWjVwSEtvYldCc01qQnJTSkdGQWJGbWNwSGlOTms3RDUxWVQ5WFl6eVdoeTMzZVNmQ1UwRW1vQUpYWWVRdFQzYlBzdUJnODNWNGJORlF4eUxCajRaakJENEpFbHczOEwyM2gwT01XSnlKQzRn0gHnAUFVX3lxTE5UWlYxZ3o4bmFVdk56aWZFcVM4WE01SzlkZ18ybTJ1WFZsQU4wNFhKckp6TVFmMmlCdk5YMzBjOTZDYUM2dDFuVktQcWpPekZhY0preVpIcXkyeTlMYWd6d04wUGN3V3BqR2hYOVpjby0zS0RIRzloQWg2SEluYjRGWXpUOHdfMEh5UHJfRVMyOTByUDhRS1dUbG8zc3FFM2lCazlCWmxZMXQteFBDdzY4aGFyMThIY21uTFVQME0xaDJmcVF4REVFaGhRTDBnLURNU2RseG4ySWhOT2I3WXFtMXdQWV9wRQ?oc=5",
    "date": "2026-11-10T15:23:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "817fe4a6237c",
-   "title": "VERGÜENZA: Keiko se irá del país mientras León XIV visita el Perú",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVpXazhlQWxqa2l0RnJtZ2ZYMmZpaGJWZWNib0NFZk5YajZ1bW9CQlVVRFJhVzdJcGoyTFJBM296QWtWMGhMMVhJUUFuc1JBVnJndS03dExwbExiWVJlSEN0aEhMZUx6ZWhDZWVTVDByR1k4SmlOb1dFUHFBVWVpZENLclB2dGFnWm5HOGQ4aktOT2x5b1Zz?oc=5",
-   "date": "2026-11-10T15:16:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2f77131533e2",
-   "title": "VERGÜENZA: Keiko Fujimori se irá del país mientras el papa León XIV está visitando Perú",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVVpXazhlQWxqa2l0RnJtZ2ZYMmZpaGJWZWNib0NFZk5YajZ1bW9CQlVVRFJhVzdJcGoyTFJBM296QWtWMGhMMVhJUUFuc1JBVnJndS03dExwbExiWVJlSEN0aEhMZUx6ZWhDZWVTVDByR1k4SmlOb1dFUHFBVWVpZENLclB2dGFnWm5HOGQ4aktOT2x5b1Zz?oc=5",
-   "date": "2026-11-10T15:16:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
