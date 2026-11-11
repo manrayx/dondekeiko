@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T04:00:20.950397+00:00",
+ "generated_at": "2026-11-11T04:22:14.548597+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "El Universo",
-  "date": "2026-11-11T02:19:00+00:00",
-  "title": "‘Jamás desairaría al papa’: Keiko Fujimori defiende viaje a China en plena visita papal | Latinoamérica | Internacional",
-  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQndsNUlVcndyZVhtNWljd05feFNjRGtncVlmZG9neTFEZW5UZi13cEVxbzgzSnhGYTQ5YjhFS19uZXVrS1liRWR1Q2xkdzRGREdtVWJFQXEzYWszR1VWM3lGQW9wemNGVVY0Zk5NQnVoYTB1bnllYUdMYXBRYzA1ZmFhTmREc3lsbjFUQjlzRXltYlpEb1VwLW5GMllnRGw2YWR4ZG9PSGVCNEI4TkkxeE5DMERYdVdaUkVxTU9hQ2lZeTZvS0pBcVhicS00eGpmaUN0U2lPZXRPcFJZaXc?oc=5"
+  "source": "Primicias",
+  "date": "2026-11-11T04:01:24+00:00",
+  "title": "Visita del papa León XIV a Perú: Keiko Fujimori niega que su viaje a China sea un desaire al pontífice",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFpZVnVhQkNMOTNucGVIbnExN0M4VE42SmFCT1hEck44bVZRdUZOTlVpT2VrNUJ2WE51UlJoLUdSaEczZnQ5ZTNFVTdsOXNsRWpObGZabjYzb3pfUG5WQ2hVVi1jU3JHT2tlek9HNHpQeG5jMGYyQ1ljYWdzS2ZuUmUweS13a2JSckpPNkJHc3RWd3YzaFVEMGJEajc5LV9jZTJQOVlwdGw1QQ?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -411,6 +411,20 @@
  "agenda_minutes_7d": 438,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "435bf987cdd7",
+   "title": "Visita del papa León XIV a Perú: Keiko Fujimori niega que su viaje a China sea un desaire al pontífice",
+   "excerpt": "",
+   "source": "Primicias",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWFpZVnVhQkNMOTNucGVIbnExN0M4VE42SmFCT1hEck44bVZRdUZOTlVpT2VrNUJ2WE51UlJoLUdSaEczZnQ5ZTNFVTdsOXNsRWpObGZabjYzb3pfUG5WQ2hVVi1jU3JHT2tlek9HNHpQeG5jMGYyQ1ljYWdzS2ZuUmUweS13a2JSckpPNkJHc3RWd3YzaFVEMGJEajc5LV9jZTJQOVlwdGw1QQ?oc=5",
+   "date": "2026-11-11T04:01:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "e87ae563c42f",
    "title": "Papa León XIV y Keiko Fujimori se reúnen este miércoles en Palacio de Gobierno",
@@ -1113,17 +1127,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "d246d9aee166",
-   "title": "Balance de los primeros 100 días del gobierno de la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPYldXQWgwT1RCdlZ1SzRxbVdPWjhYRVhBOHgwdVoyamNicGg4Y3AzenZRTG9vdzZ5WEpCdDd0dC02Q2tjNWlfczFpcFMwTVdSRnpMWC1ibHQ5VlRObVpxVEZaRDJWSTlQbE5pLVFLclBhS3ZpaVZjZEQ1X19EOWYwSzFhU3JGNktBQkZXdmt4Y2NxWUczUkVyNTY0YU5LNEk1NkE4NDkyV3dEZzZvLUpnUUIxMjd4VzBJdjdnWmRQMERuUEl6dmxYVEVOTFdzMXNFREYwVEZORFdoa0dTVnhOMTNTV1NSdzZKUlHSAf4BQVVfeXFMTXdWaUo0YjlxZU9jaWhmcTAtOFRxV2Q4V01NM1M5OU0yLTk4dko2VmR2d3RKbC1ob2hjQkFxYlpyNjJYRkE4TjNxUG1RLTRxQ0pGTGtfdDIzWHhuT3ppSHVsUXlLODZrUnlaeHh1aTQ5bEd6LTZJbk85ZG8zZUJFM3lOMmNLMmU0NGFFVlNsdmQybk9BSXduOUZCaHVDbjVnclNIeHFYSHNTZ2NtNjNnSVhqMm95Rk9TVVNpUlEzT2ZrWHY1dkFXZFhWM2tYRjFvb0dHY0E4ZHk2SE8zakJUR1ZjOHIxNmYwTnFxRXc1ZVo3R2xsN0MtMHVndkt5dVE?oc=5",
-   "date": "2026-11-09T23:57:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
