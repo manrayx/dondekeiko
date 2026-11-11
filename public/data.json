@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T01:06:14.350426+00:00",
+ "generated_at": "2026-11-11T01:28:12.877895+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,8 +110,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 58
+  "triste": 3,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -120,6 +120,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-10T18:05:00-05:00",
+   "end": "2026-11-10T18:20:00-05:00",
+   "minutes": 15,
+   "subject": "Supervisa ensayo de la ceremonia de bienvenida al papa León XIV.",
+   "lugar": "Patio de Honor, Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Patio de Honor",
+    "full": "Patio de Honor, Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-09T14:00:00-05:00",
    "end": "2026-11-09T14:25:00-05:00",
@@ -382,9 +398,20 @@
    }
   }
  ],
- "agenda_minutes_7d": 423,
+ "agenda_minutes_7d": 438,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "d5e248e56002",
+   "title": "Presidenta Keiko Fujimori pide no politizar la llegada del papa León XIV",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHFrV19RQlViQlVGMUVBV2k3VEIxOW5BeWpKMDJjUHh0Y0R1bEVjbUZ4VzdEd1hocnlYdXYxT3ZnYWg0UmE0TmdPalIwcnVMeFh0c0FVc0F2RkVVSUw1UExiN2NQU3kwemtaaWxKVTBBSWNKdmJDQ3pQdVE0blVTbmI3LVFSRHRnTmtCajQyOEpzV0lRU3NfeWo1TmdFWTh2RmRuel83and4NXZUUTE0QUJJZkpsR2M?oc=5",
+   "date": "2026-11-11T01:05:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "68230c94f5a3",
    "title": "Presidenta Keiko Fujimori participó en el ensayo de la ceremonia de bienvenida al Papa León XIV",
@@ -650,6 +677,17 @@
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "6b31981cabdf",
+   "title": "Carlos Basombrío cuestiona posible ausencia de Keiko en la despedida del papa León XIV: \"Un calculado desaire\"",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUlpzNDRyeDJmdDlwaTJ1aDZ5RmRRSzZZSXlYbFkzWlNuaFJVZjJabzRjQWxwcVZSeFFnOF9PSjQ5NjdiSWhjZUtNa2lyejFucVl5NXl0WmFpSlpZSHg2SDRncWczbnVyRXdhV2lic09PVHdnSkdIWHJIMGpyc2FRblVBMkVxLUNjcGg3UVlqSVZRYUUtenRhZk9CX2dJbGROUGMtOWZMU1VGNWMwMWo1bXlORXpBVFZYVjJWTW5jR2NJbnJYTXJQZ0U2aVlYc0o1RkE?oc=5",
+   "date": "2026-11-10T18:20:26+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
   },
   {
    "id": "feffb3efc340",
@@ -1061,28 +1099,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "9e8eaecd3bea",
-   "title": "Rosa Bartra: “El modelo de El Salvador era inviable a primera vista”",
-   "excerpt": "Ayer entusiasta parlamentaria de Fuerza Popular y hoy inesperada crítica del mandato de Keiko Fujimori, Rosa Bartra da su visión sobre los 100 primeros días del gobierno, la comentada gira…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/08/rosa-bartra-el-modelo-de-el-salvador-era-inviable-a-primera-vista-hnews-756192",
-   "date": "2026-11-09T19:46:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f0480f372290",
-   "title": "Presidenta Keiko Fujimori solicita autorización para viajar a China y Japón",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbzBKRmRfQ05GOXRGR1BfckN5S0syY0tleFNySmR3SUVYQ1BsT3ZSLUhLTi1BRzYwYVk4dndqcldtY2NVanBnYUs5aVZhZm56eUxuMDF1RTF0aG1LV1RWQXg2QWtlVnFGOElzS2tubG12WUdiQldwWi1McVFjUDZMeUdWTFNzVzV1YnREQWpVYUt6TUFTUm1SaGZZU2lTbVB4VmV0NnlldDRaRjY3VGt4ZWxJT0FVeThuSS1v?oc=5",
-   "date": "2026-11-09T19:39:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1202,6 +1218,7 @@
   "base naval del callao, peru": [
    -12.03303,
    -77.13791
-  ]
+  ],
+  "patio de honor, palacio de gobierno, peru": null
  }
 }
