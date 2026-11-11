@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T13:08:14.645879+00:00",
+ "generated_at": "2026-11-11T13:30:25.384589+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -363,23 +363,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c2619378fddc",
+   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-11T13:25:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5c04ddb05a44",
+   "title": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\"",
+   "excerpt": "Expertos en materia política e internacional indicaron que la APEC empieza el 18 de noviembre, por lo que no había necesidad de que la jefa de Estado viaje el 15.…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/10/cuestionan-a-keiko-fujimori-por-priorizar-viaje-al-exterior-es-un-horror-diplomatico-hnews-892940",
+   "date": "2026-11-11T13:19:29+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b34deaf2f9b0",
    "title": "Galarreta rechaza que viaje de Fujimori a China sea un desaire al papa León XIV: \"Ella lamentaba mucho no estar hasta el final\"",
    "excerpt": "Ante los cuestionamientos por la salida de la presidenta en los días finales de la gira papal, el jefe del Gabinete, Luis Galarreta, señaló que el viaje busca conseguir donaciones…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/galarreta-rechaza-que-viaje-de-fujimori-a-china-sea-un-desaire-al-papa-leon-xiv-ella-lamentaba-mucho-no-estar-hasta-el-final-hnews-477180",
    "date": "2026-11-11T13:04:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c2619378fddc",
-   "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-11T12:25:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -413,17 +424,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "5c04ddb05a44",
-   "title": "Cuestionan a Keiko Fujimori por priorizar viaje al exterior: \"Es un horror diplomático\"",
-   "excerpt": "Expertos en materia política e internacional indicaron que la APEC empieza el 18 de noviembre, por lo que no había necesidad de que la jefa de Estado viaje el 15.…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/10/cuestionan-a-keiko-fujimori-por-priorizar-viaje-al-exterior-es-un-horror-diplomatico-hnews-892940",
-   "date": "2026-11-11T12:17:48+00:00",
-   "state": "triste",
-   "place": null,
    "next": null
   },
   {
