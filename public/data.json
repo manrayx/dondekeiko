@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:33:10.419105+00:00",
+ "generated_at": "2026-11-11T02:54:42.571920+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,8 +110,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 4,
-  "posando": 56
+  "triste": 5,
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -402,6 +402,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "29f09501cccc",
+   "title": "Keiko Fujimori sobre críticas por su viaje a Asia durante visita de León XIV: “Jamás se me ocurriría desairarlo\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXBXeXgtcURWd0t4QTdHRmV5QmhOdkRBa1FqbFczWTFHWi01aHdwUkxjTVlzZklwTmNKVERQYkUwY1FRWUZfZFZjZ2MxYktuLVJlMFRVUFpwcjFUTnM5Z2NPWkpXTFdoMTZsZEkxQWM4RVgtUzBYbVpObWpCQ1lHUkNvV2ZGdXJZNy1HT1o5cHBuSlF6ZE1UNlVVb0UtdmhHb2pVZHI3azFUdw?oc=5",
+   "date": "2026-11-11T02:37:30+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "78ffec2ffc27",
    "title": "‘Jamás desairaría al papa’: Keiko Fujimori defiende viaje a China en plena visita papal | Latinoamérica | Internacional",
    "excerpt": "",
@@ -610,7 +621,7 @@
    "id": "1c00b213c17d",
    "title": "Keiko Fujimori responde a cuestionamientos por solicitar permiso para viajar durante despedida del papa León XIV",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSHlLemJHOWJxMGtKWHdWQXdfNkpYT0kwempoLVF6LVdaVk13bnVzay1lcVZ5d0dLTHJKOWFidWR0bEhnU2ROSVhNa2lQT1RhZ1lLNmxXZ1ljWkhCNXVmMlVQcFRHMHVsVlNjRFFwWGxma3BHMXozUkJ2NVdUbHVFRHZhandBZ0FzN3NRLXVzcHR0SEZZZ2RCODZoR2g2aUpRUF9EMzhuWl9jYUhCOGJ2LVRteTlQeFdqTkQ5a3NrMkhwd193bFVmNVlaT0F1SDlDbVZFekw0bl91STlha2FmclllUFZ4TlA2YUFwT3pvSXpYUTd1YjE5SURhRTdPaWpYMGc?oc=5",
    "date": "2026-11-11T00:14:39+00:00",
    "state": "posando",
@@ -1000,7 +1011,7 @@
    "id": "e3cbe63d90d0",
    "title": "Keiko Fujimori llega a 100 días de gestión con 55% de desaprobación, según encuesta de CIT",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeFZocGtROWRXN29qbWlLVkJramZRRzBBMF9VSkwwMDlFc3BvVF8wRmY3Nm80bFVoX2NRcjJ0UE9xdDBHeHZmc2hJTHpFb3FYUkFCUnNUY1FtR1htXzRDV3pQOTI5MDJtX1B0NWxMRThBX2RYNEMwSEFfUzhwUE5QUDdOVk5XdG1ETHpTb21CWFNUV3NFcGczU0tINjFIVndLdHNhSjV6U2N4N1dfOVJFOGdtcWdoNS1zNndSVDR3eVNkeFNNYi1TZ1JwNWZ5eG9DYnFObmhwSUc?oc=5",
    "date": "2026-11-10T06:44:43+00:00",
    "state": "posando",
@@ -1094,17 +1105,6 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORmtyZUl5NUxRTzgtR2wxd2lyZFhaakpCNUp6SU5lb2xBRDBGOGNKRjNLQVU2M0JWbVowZkw1WHZXVXFORi00UlFJS1R3Y1JrR2dYZXdlaUlmY0pnenZjQlRKYWhOcm1yNFBJdU8tNXNOaFdBRmZYdkt6VVMxN1ljNzJjXy1zbktidTY4T2Vqbjg4VzlxQ3VGR3BmMzhON3pFVl9EYmVNLVltOU9FZkFYbHNwVFdaODJa?oc=5",
    "date": "2026-11-09T23:24:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cbe9cd2c0065",
-   "title": "Keiko Fujimori moviliza buque y más de 230 marinos a Piura por El Niño: “Lo vamos a enfrentar por tierra, mar y cielo”",
-   "excerpt": "El operativo contempla atención médica, rescates en zonas inundadas y asistencia a las familias que podrían resultar afectadas por las lluvias",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/09/keiko-fujimori-moviliza-buque-y-mas-de-230-marinos-a-piura-por-el-nino-lo-vamos-a-enfrentar-por-tierra-mar-y-cielo/",
-   "date": "2026-11-09T22:57:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
