@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:07:15.122573+00:00",
+ "generated_at": "2026-11-11T17:29:16.527682+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,24 +96,22 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "China",
+   "abroad": true,
+   "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-11T15:23:29+00:00"
+  "source": "La República",
+  "date": "2026-11-11T17:26:56+00:00"
  },
  "next": {
   "place": {
    "name": "China",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-11T17:00:44+00:00",
-  "title": "EN VIVO: Senado debate permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
-  "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/"
+  "source": "La República",
+  "date": "2026-11-11T17:26:56+00:00",
+  "title": "Keiko Fujimori no despedirá a León XIV: Senado aprueba su viaje a China y Japón para la cumbre APEC",
+  "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-no-despedira-a-leon-xvi-senado-aprueba-su-viaje-a-china-y-japon-para-la-cumbre-apec-hnews-513436"
  },
  "counts_7d": {
   "transmitiendo": 2,
@@ -363,6 +361,38 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9e3a86369c84",
+   "title": "Keiko Fujimori no despedirá a León XIV: Senado aprueba su viaje a China y Japón para la cumbre APEC",
+   "excerpt": "Con 43 votos a favor, el Senado otorgó el permiso a la mandataria para su participación en la cumbre de APEC en China y su reunión con la primera ministra…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-no-despedira-a-leon-xvi-senado-aprueba-su-viaje-a-china-y-japon-para-la-cumbre-apec-hnews-513436",
+   "date": "2026-11-11T17:26:56+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "fa59f508d59c",
+   "title": "Senado aprueba permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
+   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-11T17:23:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "e2d1a02c23d7",
    "title": "EN VIVO: Senado debate permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
    "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
@@ -495,7 +525,7 @@
    "title": "Keiko Fujimori defiende viaje a China durante visita del papa: “Jamás se me ocurriría desairar”",
    "excerpt": "",
    "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1NRRG1vaVNSZXVMTUlxUlQxODhKdGNrNXB1cl9VRlJyMXF2SW1tT05WbnRkZVRZV1Z2VzFGbk55YVcxNzdwZzRaSWNRaWxQeS1LT2Z1Y0JOeW1JUE5nazNjUVd3R25ISk5sVDJ6WDZxSG1uM3JrVXNVT3R5UnNzYWJ0eEx0ZllnTF9wNV9Bb3dyWnlsTTJDNTFuYS0zZkZZZjR1ZkRNZzRNWlRj0gHAAUFVX3lxTFBaQjF3dHlfd2hacm1mbUdtT0pBZnFPT3VCQl9pOC1Wa1BzY1lZemd1MEpTblh1Uzg4bE50Vkk0RG9HelBIYnl5eVpYSXhhR2YyZUZvbndOSWpKV1BlbG5jeUpfeGRoNy1QVnFqcFlSU1NfT3A4OEdZSlNPSEtVcXllSVB1TGFKTDZUd21HejltdVlRN0NkNk85VWZkTy11VlBKSHdsXzBKWm1id2NtOGY1bHlxQWZJNUtFbVFQMXVieQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkIxd3R5X3doWnJtZm1HbU9KQWZxT091QkJfaTgtVmtQc2NZWXpndTBKU25YdVM4OGxOdFZJNERvR3pQSGJ5eXlaWEl4YUdmMmVGb253TklqSldQZWxuY3lKX3hkaDctUFZxanBZUlNTX09wODhHWUpTT0hLVXF5ZUlQdUxhSkw2VHdtR3o5bXVZUTdDZDZPOVVmZE8tdVZQSkh3bF8wSlptYndjbThmNWx5cUFmSTVLRW1RUDF1YnnSAcABQVVfeXFMUFpCMXd0eV93aFpybWZtR21PSkFmcU9PdUJCX2k4LVZrUHNjWVl6Z3UwSlNuWHVTODhsTnRWSTREb0d6UEhieXl5WlhJeGFHZjJlRm9ud05JakpXUGVsbmN5Sl94ZGg3LVBWcWpwWVJTU19PcDg4R1lKU09IS1VxeWVJUHVMYUpMNlR3bUd6OW11WVE3Q2Q2TzlVZmRPLXVWUEpId2xfMEpabWJ3Y204ZjVseXFBZkk1S0VtUVAxdWJ5?oc=5",
    "date": "2026-11-11T14:39:46+00:00",
    "state": "posando",
    "place": null,
@@ -1072,31 +1102,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "b00ea097d8fb",
-   "title": "¿Desplante al papa? Keiko Fujimori viajaría a China antes de la despedida del León XIV",
-   "excerpt": "",
-   "source": "Evidencia.pe",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fVkJNcnBpZGh1aHpqV2JVWlRCd3lqaWJJaUVPWGtSZ0hJMy03RGpuUUNoQTJKWFc4RU9xb1l4UUtDbzFxNTBYTnM2eEgyYWtueC0yMkhOVHRwcnF0YWstSDZNbVJOZEhoNmdPaHM5VVRiSHdPRHcxcjROUWw?oc=5",
-   "date": "2026-11-10T20:38:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1aa1ed0ad1c7",
-   "title": "¡Se va sin despedirse del papa! Keiko Fujimori viajará a China y Japón por APEC y se perdería último día de León XIV en Perú",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeUJ2cnBVUkszYjAxWTAxYi1kNy1iVXBNamw4ZVJJWW9BMl9HbVIzWWdYS2R6b0RnaXRQVkJYcjNhWjBIbktEbEVEbTlWRTVieVpEb2p6ek9jWVhPRGRQY0FCeEYybEtTdlN6Zi1xeUJWOVZFN3FpU3BCUWZvY2Z5ajgxMnhWcks0R3duQmZuQkthQzJCdE1meFA2d2docFlIVF9wWERIWnY5dzgwc0RJU2NQVE1ETjJNV1ZsWXpJOFc3Wm5YZlFNbE9aZUJPaDBKSWx5QnB3N1N0U1JTc212bS13YjhId1NK0gH8AUFVX3lxTE9hVWtTelRlQ2FrM3RXRWpqZURMTnhyN3lLM0dRME1KVFN4amRCYjRXY0xRNGtjN2tjclpsblpDbm1GbUI2ZzIwbnhuaGl5Y1I0V2tQRGtFTXF6aFhsMlJodGlYVXJWU2ZIOElKcktsbzRhdjBacDVtaUY5UldybkhGcjg3TTMyWXdLZ2VHRVpmazBFZ2hDS3FZRlBDRHVaNUVQUTNvaTlvWWFIYUY0UmhaNXNCUThBemxULURTbFB3dXcyZk1UMmk5elhFZ0pmaGU4MzFJVnZ0VWdOX0w5Yk1STUY3aU9rZHlka2V6RUpPZ0NPbFJybG42NnNmMA?oc=5",
-   "date": "2026-11-10T18:46:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
