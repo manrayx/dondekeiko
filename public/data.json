@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T06:54:31.641694+00:00",
+ "generated_at": "2026-11-11T07:16:32.992680+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -363,6 +363,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d5e248e56002",
+   "title": "Presidenta Keiko Fujimori pide no politizar la llegada del papa León XIV",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpBbUw3V0xkbWFBUWdoSmNTanNzYVZOYVhXQmJZbTV4dGpWaEZkRTFNdjM2dkM2SFdLY1ZzQmZqWDdsak1oVW5jMmZST2dsemFyOVNuYkVBUDA3bE5QWDVITWNvaUUxbDktOTFUN1plb0dlSFFMQnlVbUxodFcxWk5XNk9tNWFYbUxoM0JxcHZldXRWNmVwTlVJM0xPaWtZM0hOVHVNMEJ4Um1DbnkzcUFrUmd0bDg?oc=5",
+   "date": "2026-11-11T06:45:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a747a492a551",
    "title": "Keiko Fujimori: Excancilleres se pronuncian sobre ausencia de presidenta en despedida del papa León XIV",
    "excerpt": "",
@@ -412,6 +423,17 @@
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXBXeXgtcURWd0t4QTdHRmV5QmhOdkRBa1FqbFczWTFHWi01aHdwUkxjTVlzZklwTmNKVERQYkUwY1FRWUZfZFZjZ2MxYktuLVJlMFRVUFpwcjFUTnM5Z2NPWkpXTFdoMTZsZEkxQWM4RVgtUzBYbVpObWpCQ1lHUkNvV2ZGdXJZNy1HT1o5cHBuSlF6ZE1UNlVVb0UtdmhHb2pVZHI3azFUdw?oc=5",
    "date": "2026-11-11T02:38:34+00:00",
    "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b0ffc0923de0",
+   "title": "Víctor Flores respalda viaje de Keiko Fujimori a la cumbre APEC",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTTRZZDc3RzM0VjMwSkdpWDI2b3ZoWWhsNUd1T3doZWdTSU00dnRoVzNRZjZMOVBSU1lVM005UHI1TWFLOTJkbE1LS2hFZEl0V2dhX3liYl9hUDVRS1dwdjRSWk5aM05vOC1BUGJ5YnFBeHByY1I1SThRRktqbEN6MndCc2lScDlRRnBlbjFwbVZvZXBHaGRj?oc=5",
+   "date": "2026-11-11T02:36:45+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -525,17 +547,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "d5e248e56002",
-   "title": "Presidenta Keiko Fujimori pide no politizar la llegada del papa León XIV",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObHFrV19RQlViQlVGMUVBV2k3VEIxOW5BeWpKMDJjUHh0Y0R1bEVjbUZ4VzdEd1hocnlYdXYxT3ZnYWg0UmE0TmdPalIwcnVMeFh0c0FVc0F2RkVVSUw1UExiN2NQU3kwemtaaWxKVTBBSWNKdmJDQ3pQdVE0blVTbmI3LVFSRHRnTmtCajQyOEpzV0lRU3NfeWo1TmdFWTh2RmRuel83and4NXZUUTE0QUJJZkpsR2M?oc=5",
-   "date": "2026-11-11T01:21:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "68230c94f5a3",
@@ -1061,17 +1072,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORzdONTVzbmtzbTRiWkxqZGY0WlhYN3hQR3hXREVCOTktMEFLcnBuMmJfS2FQRU43d3o3NmV1Y2pJUGQ2eDNOcjBaWlNiXzBpTFVYV0Fha2otRkxHeUUyNi1GS3QzQzdFTkFqZklKZUpQVzRzT3FPaFFta1dxRmZycmJ3YXR4Zi00ay1rSUxtVWRoQXpPWXhSN2ZiQlJhZlhWaF9fWGt6SlhTRUo0N1dxN21qek5BTGZt?oc=5",
    "date": "2026-11-10T01:20:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08f83905d01c",
-   "title": "Keiko Fujimori solicita autorización al Senado...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUhkYmtyX0xVcHpiaFNaUlprbjVKTnp2V3ZnVHJUbG5tT003MnN6NFg3OXFjLUtXTTliUkhzeFotaGFLNVFuTDFHS2dfcVNaT1N1N1hoMm9XZlIzanFONHRkdnJ1b1RMNDFReE10RmdwcGc2TlU4S3dLaXR6ZTEtNkpnbk1meEo4bl9RbThTVlQ3LXU1cXFOSzJydzFWcUpkMUxiTmQ1LUZVdDFvdUVabTNScXZNS3dUeUHSAb8BQVVfeXFMTkJ1b2RHd0pwUUJ5ZGk2UEZwc2dBci02VjYxQnR5d0tHVVVGTkIya1dZTGoyWUVNdkEydHE5bkdjWmdHamZtRGlwN2VnUU04cE5KWlBFSGU4WlBXYkxlQzRtVHFjMnZaMW5IV2xqWTZEQ0FRSEw2clBabjhSQ09tSE1SSHY0aVNtcWNvNWtmRkVCMV9QajJmZ1JKajdYV1B1VC11M2lBV24tUjN3QWlxSlY5bU5FeXJUVjRKd0RFTnM?oc=5",
-   "date": "2026-11-10T01:10:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
