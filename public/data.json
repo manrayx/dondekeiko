@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T00:23:45.860815+00:00",
+ "generated_at": "2026-11-11T00:44:58.172063+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,10 +100,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "RPP",
-  "date": "2026-11-11T00:01:29+00:00",
-  "title": "Keiko Fujimori responde por viaje a China durante visita del Papa León XIV",
-  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLV9SRUQ5enNMQTlHS0tSWjZzX1Y2dDFENzB2ZVZTbnp2eFhkdGtXUmpkWDgxS2l2YkoxZ3VtdmFLajFWOWtyUXp5NHBrYllkOFgxWU1yUUhnOVNscFJWb2wxbDA3NUlCR1lUOEhoTzdRS1lLZlpWZnRfYnBRczI1dS13Nkh4TUs2U0dpYWV4aW9ZX1FnRmF4Qzh3T0VkcmFQU0FTRlkyQlo5SkxsSWdNbXlXM1hFZVJwb0xXN0pkTGI?oc=5"
+  "source": "TVPerú",
+  "date": "2026-11-11T00:40:01+00:00",
+  "title": "Presidenta Fujimori rechaza que su viaje a China y Japón sea un desaire al papa León XIV",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWUR2SDZfMGt2bDhKS3d4THU0T2pvMU5QSm92bUFrUmotLTFlMnpMS0tyNmo3QVFDUnRWSmlKLUdYb3pTR3dnWnZjWXg0NU5RQ3A1b2ItelZ2QXNyYmdOY3FUZUcyYVF6VXYwTnBkQ3pRRGJLWGJ4SjhXcXZpdjV4bkkzTzlScFpmb3VRVTNGSmpHRVhIb1NtVTlsbUJZQlZNUldmM2F6RTdqV1FSWVhCZ3cwaFNFeEktR0R0YThrV3FnQ1lXcEF5ejlMZjU?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -386,6 +386,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5bb8392356ed",
+   "title": "Presidenta Fujimori rechaza que su viaje a China y Japón sea un desaire al papa León XIV",
+   "excerpt": "",
+   "source": "TVPerú",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWUR2SDZfMGt2bDhKS3d4THU0T2pvMU5QSm92bUFrUmotLTFlMnpMS0tyNmo3QVFDUnRWSmlKLUdYb3pTR3dnWnZjWXg0NU5RQ3A1b2ItelZ2QXNyYmdOY3FUZUcyYVF6VXYwTnBkQ3pRRGJLWGJ4SjhXcXZpdjV4bkkzTzlScFpmb3VRVTNGSmpHRVhIb1NtVTlsbUJZQlZNUldmM2F6RTdqV1FSWVhCZ3cwaFNFeEktR0R0YThrV3FnQ1lXcEF5ejlMZjU?oc=5",
+   "date": "2026-11-11T00:40:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "8354472ef5fa",
+   "title": "Keiko Fujimori no estará en la despedida al papa León XIV por reunión con el presidente de China Xi Jinping el 17 de noviembre",
+   "excerpt": "La mandataria explicó sus razones para ausentarse del acto religioso y aseguró que intentó modificar su agenda internacional sin éxito",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/11/keiko-fujimori-no-estara-en-la-despedida-al-papa-leon-xiv-por-reunion-con-el-presidente-de-china-xi-jinping-el-17-de-noviembre/",
+   "date": "2026-11-11T00:33:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "859cfdb6db21",
+   "title": "Keiko Fujimori ante cuestionamientos por su viaje a China durante visita del papa: \"No politicen una llegada tan hermosa\"",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSnFoUTBEYjhITjVXVmc4clkweUZXanMxZWUzdUVWSUI2Z3FCSWJYNUVjVVU0T1dkLVZ0OUIyYnh0QzB1dXRtcjN1cFd0V1hsTFpSVHhPWVpfX21sUTJQYnAzMXNoTjNQM0JuLTludmNFOXd6OUZzMFk5RGNyU3F4akNBampQUkFUeWF6a05lUGlBY0hoNEtIX0IwUmdRV3hWLUZOZkpIREFPZXU0NDBqM2tIWko1MDlqNEZ1amhMNmZaQkxMNGEwOXg3V0p3UGlEdlhsZGloaUxTTGNSOTJv?oc=5",
+   "date": "2026-11-11T00:32:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "81b8a5a54fc8",
    "title": "Keiko Fujimori responde a críticas por viajar durante visita del papa León XIV: “Hemos tratado de cambiar fechas, pero era imposible”",
    "excerpt": "La presidenta Keiko Fujimori respondió a las críticas por su anunciado viaje al Foro de Cooperación Económica Asia-Pacífico (APEC) durante la visita del papa León XIV al Perú y dijo…",
@@ -393,6 +432,17 @@
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-responde-a-criticas-por-viajar-durante-visita-del-papa-leon-xiv-hemos-tratado-de-cambiar-fechas-pero-era-imposible-apuesplan-ultimas-noticia/",
    "date": "2026-11-11T00:17:54+00:00",
    "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1c00b213c17d",
+   "title": "Keiko Fujimori responde a cuestionamientos por solicitar permiso para viajar durante despedida del papa León XIV",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSHlLemJHOWJxMGtKWHdWQXdfNkpYT0kwempoLVF6LVdaVk13bnVzay1lcVZ5d0dLTHJKOWFidWR0bEhnU2ROSVhNa2lQT1RhZ1lLNmxXZ1ljWkhCNXVmMlVQcFRHMHVsVlNjRFFwWGxma3BHMXozUkJ2NVdUbHVFRHZhandBZ0FzN3NRLXVzcHR0SEZZZ2RCODZoR2g2aUpRUF9EMzhuWl9jYUhCOGJ2LVRteTlQeFdqTkQ5a3NrMkhwd193bFVmNVlaT0F1SDlDbVZFekw0bl91STlha2FmclllUFZ4TlA2YUFwT3pvSXpYUTd1YjE5SURhRTdPaWpYMGc?oc=5",
+   "date": "2026-11-11T00:12:28+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -461,8 +511,22 @@
    "id": "08abfea7965e",
    "title": "Keiko Fujimori se ausentaría de la despedida del papa León XIV por viaje a China: \"No es un desaire\"",
    "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOVoybERvWjM0V0FMRmUtcVZMa1l2SWFMLU5hOVR5VDJaWTlPQW5hVTFWZ2FpYlZXenZmQlZVeUJTTDdOOThLQXhOMEFGQk84Sm9jYkVULW9SeXVMOHBxSktTVGg0V19ZVUdMd04tRmlMdmZTekRBbTlaZERSdndrem5zcFlydHI2dXBYNG9aczlFNmlIU1YtM1MyWHY3ODhTeXRyUzZYMXZBVDdWT1BlMFRjZVhMZndpWk9JaG90UW9OaDBlOHoxTHl5dw?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekpZTktPVk5wMmY4azRfZVprY0s1RktuZTBJdlBkRG1MNWFhUGpHRm5IdTl3SGhJVzUxemhEYWFsUUw2cmwtclEtTmtsYkNBSncydnpLX2ZSTmV1ZmoydjVRakh3Vkg2U0JCTVZocUJnVkI4d3ZEMHNJTi16RTJHWXRuOUQ5YVVKdnBBNHM5T1p5OUxWODhBV3EwQXVsTUNWTDR6RGNiSlFxcFNncEdwTnVsd2VwM25EWU9LTnlFSQ?oc=5",
+   "date": "2026-11-10T23:32:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "1977d68fa932",
+   "title": "Keiko Fujimori se ausentaría de la despedida de León XIV por viaje a China: \"Jamás se me ocurriría desairar al papa\"",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR3FSX1dXNjVuVEw0TjJvemVYcW1vMEJoZ1RUVWhPeHlVSHNuby1zVXBGa2ZXMEk4NWY4YmNPaTVOSEc3SGJyREJvcXZJXzNVV2ZXMUowckFUMEV5VnZWVTJaM01hcFpERTNfSXlJNlRsYkxNQU1raDUyUnViSmg3TWxCM2xEQngySXFiTHhMNS1nNzB4ZXQyU1Z2WGoxRVBHb2k5WWtnYnJjbVJJTkR1bEs2OFFoQjdZRDI3WnZKSTNOazA5MUt3Vnh6MzhHZFVvNHdvOHpQdmJ6cGZ0ZjNVYQ?oc=5",
    "date": "2026-11-10T23:32:00+00:00",
    "state": "posando",
    "place": null,
@@ -1016,61 +1080,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSVRfWExxQzZqM0RoX2N3TzQ0QkhMNVdIVHA3TzU2ZW1seTIzRjFvS3FHNW5wNGZXLVlqdk92RFJLYlRxY0F4VXg0OVFldXd2V3NMR2l1TGg4dzdtTnRza19lWWZZRXVDUDZHUFV6dXBQMFhYa3I2MzBLeWlxdXlqbGRaT1lkZWx1UElIcXF6NUhVSFlsc0w4TjJvRzFZWko5YVVFNGpidVp1eHU5MHRWRGhfVFZFRGx3Nm5RUjBLeHI?oc=5",
    "date": "2026-11-09T18:46:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9d88fcc949da",
-   "title": "Presidenta Keiko Fujimori solicita permiso al Congreso para viajar a China y Japón esta semana",
-   "excerpt": "La mandataria tiene previsto salir del país el domingo15 de noviembre y participará de una serie de actividades en el marco de la Reunión de Líderes Económicos de APEC",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUXo1RFpMWGpaTEFZSjRnWlNQWmI2VmVXYmk0dDRrS0FjT1c3RkdycWR1dUMwZjF3N0RjekVsSl9JMjQ3UGNhYVppWlFTX1ozN2gtU0kyakxkd00weUU3UEM4eWY0R3hnYWk1aG1ZeTBPSTdSZG1Zb0hoNFdyVzdFQ2ZkTUdQUkRUMS1SSWhSTDJWMlBESU95RUtlejFwQ0hYYkdKbkc3NWN0YWVnSWtrc3pEeGdDcE5jWDlOOVJNVUhQdTZYMlhqa2lxTTJwZGtW0gHrAUFVX3lxTE5KUVR2UXFvM1NfVUxhRFdnSFJNcktKX3c4NXpjTjktRk5hV2FhVWtaalRISVViTGNzNDFwaGdqRGZmYzQwLUhPQUFHYmpnZENsWHNGbmt4S21aYjBkUE1GcGdsSExTa2xEWlh1ZlpSNHJtSHdZOWhmdjU4d0JLekRGLVVxUWNEbmtZLTd0d200aktmRXQ5aldYRlFKRkc3UWdhNlpId1Ffa0sxQTVBZHZfQWU1azZ4YmU5UFhpZ3dCSEhCUXpGbGVUOHZKMktZR0l0ZU9PbDRtY0d2eXhneDlQWHIwTjVRVFBnVlk?oc=5",
-   "date": "2026-11-09T18:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e551a19b50a5",
-   "title": "Keiko Fujimori solicita al Senado autorización para viajar a China y Japón del 15 al 21 de noviembre en medio de emergencia por el Mega Niño",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUkR5YVR6eVROeTU2Z0huRm94TkJ0R3Z4RDRYRmtBSy04NHhWd01peUpwdmRVYkNxSVZZVzZpLUgweFdiUVgwX2xuTER2eXFiYklXUW5UTms0U3FKdDVLWHdlOUdzbVBWT2N5WGhsdEhybGxKSVk1UTBtYlNZNTlvcDBydmpyaTZ3SHpzQVdpSllxWlV2SzBSdm9lT2tTT3p1dHlvNzc3aFVCa3dMMUpCbjVFVEQ5Mi1pVTZuNkpLVWY2N3phWUV0RURnODhZNTUxSFlGMFVoZEdrSGZ1eGozLThmdC1qZVQ1TG5mb2dMd0RSSWw1WlJma2tMeWdCZw?oc=5",
-   "date": "2026-11-09T18:26:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "00904831f332",
-   "title": "Presidenta Keiko Fujimori: Perú está alcanzando cifras históricas de exportación",
-   "excerpt": "",
-   "source": "TVPerú",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEt4X3lGMmVUcW41QmN5bmxxV0NXMW4tSkxKakFLTGkzdmpCbVNxLVpyRzhyV3pqbUhDVTVRX0RaZHNQRktUNktxVnRTMEFSeVhIV2dxbFF6TjBpVFhTRUZpc3RQN1FCbjJvbHpmeG5NTU43QmlCNU5DUHBUaEtpVDE2ZUZ6MnBXVlRzenJYbVBFb2xxeWZHWTJGTG9SOU94OGl1RWt1QVFULUtPdUZuVERMemp6UkpBa0s0?oc=5",
-   "date": "2026-11-09T18:19:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "33d3d57fac64",
-   "title": "Keiko Fujimori quiere viajar a Japón y China en plena emergencia por El Niño: pide autorización al Senado",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ2cyLVVTM05YcWZxaUJVMUp3bElUU0lKa1JmYS00WGlYQ0dMcmNnMWhqYU9hNE8zMERhblBlVFhiTkdNVmtDV1Q5NzFIUlh2TFhhRzUwUWdUOVJzNkI3a1laYjd4Y3Z4NFpFZGtsQnNxNmo2dlFqLURYTHAtQWxFbFlJU1JpWTJBSlk3RDB3eGtZb291elN6eHlHUm9LWUhrR2N6YjhwQTRPd3JQTUdxMkNXLUxaaUtmTmRicEFwVmVmc1VOMzloWDVmcE5Xdw?oc=5",
-   "date": "2026-11-09T18:12:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a2c44f259499",
-   "title": "Presidenta Keiko Fujimori: Perú está alcanzando cifras históricas en exportación",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd182M1BiMWxDdzNiaDUzei1aOFh2ZURxMXBHRGJqYk1ZTUhsSjBzWWQzQ1F2TmwxSlRVakFpb3Q5SU5GMnVHX3VrVkdDRHVUNG1yclljbHlQTU9wU0FzaUFXUHNxaFNkQ2dkTDN3b0NLNzFsU0prZjJQUG9zQWlPTXluVU5tcFIwZ3pVNHFzUWZVVXlkZnpicGQwSDFZTUNpX0ZFaUVFY1ZVOVA0TURpRE0wOFFDTVRjXzl3?oc=5",
-   "date": "2026-11-09T18:03:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
