@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T22:14:36.729879+00:00",
+ "generated_at": "2026-11-11T22:36:34.260348+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-11T22:11:14+00:00"
+  "date": "2026-11-11T22:22:34+00:00"
  },
  "next": {
   "place": {
@@ -363,12 +363,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "930c11b5ab37",
+   "title": "Keiko Fujimori recibe en el aeropuerto al papa León XIV en su regreso al Perú",
+   "excerpt": "El sumo pontífice volvió al Perú después de un año y medio de haber sido elegido como el sucesor del papa Francisco. La presidenta Keiko Fujimori encabezará la ceremonia oficial…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-recibe-en-el-aeropuerto-al-papa-leon-xiv-en-su-regreso-al-peru-hnews-513458",
+   "date": "2026-11-11T22:37:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5418dd45c080",
    "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen esta tarde en Palacio de Gobierno",
    "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-11T22:11:14+00:00",
+   "date": "2026-11-11T22:22:34+00:00",
    "state": "transmitiendo",
    "place": {
     "name": "Palacio de Gobierno",
@@ -634,6 +645,17 @@
    "source": "TN",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGE4eTI2dEZ2RU5NZHhaeTJSYTR1aWpQc1VhSW84M21FQ1FXYmFyWFhHY0xSMWhsU0NXM0Z2bm5qOGdUaWd1SEhqb2tja05jWS1ydVJnNVl0QnBqZ3NMOWZ5bXNBUmUwVW9OTVRwVzYwX1RtLXl6dHRnX2p2M1loYmRlY1lHNDlGaDhETWVobjJFYWg5M0t2UkFBb0RiNFFRN1VGWWItbC0zcEI1UWNsdDBBUlVyVjNFWE50eFR4S0VvcnAtWmctNkxNUHJHX2RiU0VzcWhVd1BJYjExSmVzcVhJeDNpcFlHSTZTa9IBgAJBVV95cUxPMFdSNjJtX2tvaTI5enViLUlzZlhvMHYwZ0JaZWRUbUxXRmNXRXNSdDNPV1dQMVpmQUFfRkFZd3FCc1dPc2VZVUV4cTBuOVYxUFFocWlIbnBaNG5XTWhnT2xSbE0yTWgwaXM5NXdyRjJlTk1IX2JYUENHak9fb0N5aWxyWnpZdlZBXzRLT245SDZvcTBQSnJNTVdvdm12Wm9xZHhVNV9qeU9EWk9yTlgta29TNHlwNDA5a2FobExLZFVlcWtNdXZYU1p4NUN3S3h0ZmhuUUJMazQtZEpldEgwd2dOZWFEeE1pRFR1V0Y0NnVwMktZM1FXT2w1WTB3RGhR?oc=5",
    "date": "2026-11-11T19:54:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "85810138737f",
+   "title": "Keiko Fujimori viajará al exterior durante la visita del papa León XIV a Perú: los motivos",
+   "excerpt": "",
+   "source": "El Destape",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzI0VTU4SlZPSFh5a2VEUl9ieVdSVDJ5d3RRQzl4YnotNThPYk5scnpUR3owZnJ4RlZ6ZllVQWxaNHpyMkdTZVJDSUQySHNmRnZ0VG9LSDJDMVJUQUlNYWxyQzRrb0R1ZE5qRkhkQzRyUjFUNmF6UHBpd1B5eHAtVUpGY1BoMzBpN2lXWGJ0aEdTQUhqaWRyZzdVMFFJZkZ0R29MODBBMWpYdms4Mi1HSG5FTDMwNUtj0gHMAUFVX3lxTE9sV0pTSjR4bnlvc3pMdnUyRm12bDNaeE9ZMVh6alIzTDdDQTYyelZ0WHpXbHV1U2tKTzdCN3B6MGpWMUw0cklmZUlheHNyZ0NCbk9HMy1aMWpnaWREWXVLa0hGeTVQWVR3REpzRHJkaUItS0VPSW92djJMV2lPVlYxQUpFMks2M1BZbEJWZnR0VHFZeXlNV0F3d1BOZ2pnSlNqOXVqZ21XOGNpQ2pZMnVrbkJiR3hnVjQxN2VGRW9UdDBSSzl1QzVpNmxDTQ?oc=5",
+   "date": "2026-11-11T19:46:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1052,6 +1074,17 @@
    }
   },
   {
+   "id": "0e62738ad228",
+   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNLURZOEpWdThJU3kwa3ZQWHNtX0lsdnppU0tIX2J6dFhscGtobzAxRGVxSGtuSURhWmY2SHBWdkZ6MzFoRWZaMUk5WWx0anRyclBVMXJNMWp5bEtGQklreUdsTEZrOGN2TUhiOXAxTGtTa2lILUNXRmt5ZmJudnZERmExLXd2V0VFTlU3SUR5ejBUY1F1UWVKQW9jVUNyT1pBMjRNWHpjVWFIZHZRYWo4c0ZQdDBwSGpqSFRYaXhkbUgtNzMyMW1xdEJkLWJTWjVNRTNNMUhUWmJES2Zhc2ww?oc=5",
+   "date": "2026-11-11T14:18:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "330e19ea6478",
    "title": "Cúpula fujimorista acompañará al papa León XIV ante ausencia de Keiko por viaje a China (VIDEO)",
    "excerpt": "",
@@ -1064,39 +1097,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "b632ec9826db",
-   "title": "Primera dama viajará a Perú para la visita del papa León XIV; Keiko Fujimori hizo invitación",
-   "excerpt": "",
-   "source": "Pulzo",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT21tXy1fT2VTZG9lNTFwdXdsVzZUTGJFbVlmWXNONXZOVzZGODBYZXJhWnZaaHo0VnhsbmpLaVgzQ0NGY2NSenprYVBuaVdRQVpoc3RCWHhxZUJDeTNyN1lTTGIwaWJOcjhRVGFCSzM5b093TjlYOXk0bmpSOFdKczlSUzJGdXhMNl9zd3ZJQzB0UlBLbzZldmY1d3BKWU9fSWNpYldORFU3ZktqRTkxVXRn0gG3AUFVX3lxTE1tdmlUM0xVa3NwampqZFVvNWhldnVCTXJtbzM2V3FxNjhSOVBKY1h1cnRiYWdjWG5NVnBHSGE2eG5WdUt6TU9OamdIeXNLTWU2YUZKX1lRRWlkM09XdURLT3huYUZMSXllMVNGZjVHQmlLdXpqS1dKSmI4bkNaamFHS3Yxd2lHN1RUcU8wcjhMMEZORXgzZzJfOWJEbFRtZGdOcl8xeVhoTmo0aFl0LUhSbE1PX1F4Zw?oc=5",
-   "date": "2026-11-11T13:38:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0e62738ad228",
-   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
-   "excerpt": "",
-   "source": "perucheck",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZmNYT1dET3FZdlU4Uk9Hb2JDOUg5TDhaV0ctWVVlblRxUFI0NkxheG9OTWhhTGNSVXpVaUJvNmgwZnhBcEFfVG1QMkNHSlJqUHJkSVd0S3B6ck9XTUsteUhzSFlpQ2g0OEdfNUZjZ1pESUo4N2dXN2g4TzNmS1NrYTJXU3hkMENDQ3ItNE9weFljMzM2cmhkOE5acEY0N3hLdUZfTGdKWURyQTdvREw1c1p6Z2Q1c3dZRXc3cDN6MUVOQUgtWEhkVEhKUUx3XzdWYUg2eVhVX3NxVUVjSGl1dWZhVE9ZZTJzUmhjOWZFNHZ1ZzVfYmU2a3RXNzRkdEhKV1phMmV3YmUxUTZMdUxrejRwUFkxUG5WdUFlOUh0OA?oc=5",
-   "date": "2026-11-11T13:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "63ce7d28d8b3",
-   "title": "Keiko Fujimori niega desaire al papa León XIV tras programar viaje oficial a China durante la visita papal",
-   "excerpt": "",
-   "source": "El Diario Ecuador",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1ctUnhnMTVFRXp2STNNTFFJcVdNbjJHbVM4bUJpZzVPRU1rcVdEWmNndUp2ZWlmYUx6TnhSSmI4MldHRUhHZkl1aEF5LWJLWWRScGpENEt5RFk3RzlGVXp4dlFzOXQ0dFhoeEtNOHcwYVR1aGkxeG90ckFPbncyQWF1TlMyMzVMLTg1ME9saDJsbnp1c1RKSGUzU3RZeGxxck82THlLRlg2Z25JM01EOW9qY0RIMnh1eVdzNnZRTUNJSW91Q1VZbDBUUmE4bE5YUlNIZkhqajduMnpvRTRB?oc=5",
-   "date": "2026-11-11T13:29:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
