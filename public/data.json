@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T23:20:26.867502+00:00",
+ "generated_at": "2026-11-11T23:42:30.605988+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
+   "name": "Gran Teatro Nacional",
    "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
+   "lat": -12.08663,
+   "lng": -77.00316,
    "abroad": false
   },
-  "source": "El Comercio",
-  "date": "2026-11-11T23:03:14+00:00"
+  "source": "La República",
+  "date": "2026-11-11T23:24:58+00:00"
  },
  "next": {
   "place": {
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQkxoNll4d0VZOHR1RWlHWmpCaFE3ckxpSjI5TXRsU2Mxdl81SE1MUXZoTzBnNEFBRHFEdWNiTm9BT255Rkk0eVhORVBjdE5oRVFWajlKRHJWNW4wOEdtY3g1Nk82MGIweF9HZHIxN1RBUEk?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 3,
-  "posando": 54
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -363,6 +363,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "dea7b26d97b1",
+   "title": "Papa León XIV dará discurso en el Gran Teatro Nacional: conoce la lista de las autoridades invitadas al evento",
+   "excerpt": "Entre los asistentes estarán la presidenta Keiko Fujimori, el presidente del Congreso Miguel Torres y otros líderes de instituciones peruanas.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-dara-discurso-en-el-gran-teatro-nacional-conoce-la-lista-de-las-autoridades-invitadas-al-evento-hnews-859683",
+   "date": "2026-11-11T23:24:58+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Gran Teatro Nacional",
+    "city": null,
+    "lat": -12.08663,
+    "lng": -77.00316,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "5418dd45c080",
    "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen esta tarde en Palacio de Gobierno",
    "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
@@ -377,6 +394,17 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "04511e3b6464",
+   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "CanalB.pe",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTg1NnAzbHJCeWdWRVhLdnZrMkJ3MEcwUEJJV2pmS1BfMnhtLWJGUnI5NkxtZU45VEYzSEJ1bUNGUkhSaE03dk84Y01PSHQ0U3ExRnR4dl95RXFwVjk5VTlseVd5YXE2YXZLNGNDSGp3YXlpYXFfUnpPLXhmUzBvVHRhWUVLUDVpUkNaSWljOW10cTRvcFE?oc=5",
+   "date": "2026-11-11T23:00:32+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1057,34 +1085,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "aa8c3ab5d485",
-   "title": "Keiko Fujimori niega desaire al Papa León XIV por viaje a China y Japón",
-   "excerpt": "",
-   "source": "losandes.com.pe",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVRoaGI0blZ6bGpWOGR4ZlNFUUR2T0RtNDRsWEdXVGJpeERHXzlXOW1LWmVwc2JuX2c1SXNSd1pHQUstRGxKZERoaW9KaHpWZHRoWmVMMlJ6RWRRdHh5dGlhd2tYVm42cGQ2eUNaVFItVlRndTMwTXFESGZwR2RUZnBRamExUlEwUWVReUhjSUtpSWp5NGdzOWI4NHY?oc=5",
-   "date": "2026-11-11T16:24:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "02092b2ec79e",
-   "title": "EN VIVO: Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
-   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
-   "date": "2026-11-11T16:15:40+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
@@ -1206,6 +1206,10 @@
    -77.13791
   ],
   "patio de honor, palacio de gobierno, peru": null,
-  "base aerea naval, peru": null
+  "base aerea naval, peru": null,
+  "gran teatro nacional, peru": [
+   -12.08663,
+   -77.00316
+  ]
  }
 }
