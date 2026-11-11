@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T13:30:25.384589+00:00",
+ "generated_at": "2026-11-11T13:51:59.449258+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-11T12:24:49+00:00",
-  "title": "Senado debate hoy permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
-  "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/"
+  "source": "El Búho.pe",
+  "date": "2026-11-11T13:45:31+00:00",
+  "title": "Cúpula fujimorista acompañará al papa León XIV ante ausencia de Keiko por viaje a China (VIDEO)",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHl0YjA1RTd1RTkwTW9ZVW9pYjNhUFFHM0dRWkJLMmFLQ0lUWThhTWJrS3ZLNUEwMzRyU3pQaHFBZWhZRmlKT3Y1SzVjVjlITnkwYi1MOTlKSWZPRDlBNnVfOE1YUURRUU5EUElPUFBMaVRpWjlQTXVxNk9rX2pkcmY0M3RZZGlVX3VLeDJ0NlkyMUowa1RKUGJYR29zN19NakU1d3BjeC1fSWtOYUpjNXlzV0F3RkdPS1BsVw?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -363,6 +363,31 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "330e19ea6478",
+   "title": "Cúpula fujimorista acompañará al papa León XIV ante ausencia de Keiko por viaje a China (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeHl0YjA1RTd1RTkwTW9ZVW9pYjNhUFFHM0dRWkJLMmFLQ0lUWThhTWJrS3ZLNUEwMzRyU3pQaHFBZWhZRmlKT3Y1SzVjVjlITnkwYi1MOTlKSWZPRDlBNnVfOE1YUURRUU5EUElPUFBMaVRpWjlQTXVxNk9rX2pkcmY0M3RZZGlVX3VLeDJ0NlkyMUowa1RKUGJYR29zN19NakU1d3BjeC1fSWtOYUpjNXlzV0F3RkdPS1BsVw?oc=5",
+   "date": "2026-11-11T13:45:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "63ce7d28d8b3",
+   "title": "Keiko Fujimori niega desaire al papa León XIV tras programar viaje oficial a China durante la visita papal",
+   "excerpt": "",
+   "source": "www.eldiario.ec",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1ctUnhnMTVFRXp2STNNTFFJcVdNbjJHbVM4bUJpZzVPRU1rcVdEWmNndUp2ZWlmYUx6TnhSSmI4MldHRUhHZkl1aEF5LWJLWWRScGpENEt5RFk3RzlGVXp4dlFzOXQ0dFhoeEtNOHcwYVR1aGkxeG90ckFPbncyQWF1TlMyMzVMLTg1ME9saDJsbnp1c1RKSGUzU3RZeGxxck82THlLRlg2Z25JM01EOW9qY0RIMnh1eVdzNnZRTUNJSW91Q1VZbDBUUmE4bE5YUlNIZkhqajduMnpvRTRB?oc=5",
+   "date": "2026-11-11T13:29:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c2619378fddc",
    "title": "Keiko Fujimori: ¿Qué opinan tres excancilleres sobre ausencia de presidenta en despedida del papa León XIV?",
    "excerpt": "",
@@ -611,20 +636,6 @@
    "next": null
   },
   {
-   "id": "8f9c77bd98d3",
-   "title": "Keiko Fujimori responde por viaje a China durante visita del Papa León XIV",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLV9SRUQ5enNMQTlHS0tSWjZzX1Y2dDFENzB2ZVZTbnp2eFhkdGtXUmpkWDgxS2l2YkoxZ3VtdmFLajFWOWtyUXp5NHBrYllkOFgxWU1yUUhnOVNscFJWb2wxbDA3NUlCR1lUOEhoTzdRS1lLZlpWZnRfYnBRczI1dS13Nkh4TUs2U0dpYWV4aW9ZX1FnRmF4Qzh3T0VkcmFQU0FTRlkyQlo5SkxsSWdNbXlXM1hFZVJwb0xXN0pkTGI?oc=5",
-   "date": "2026-11-11T01:32:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
    "id": "d5e248e56002",
    "title": "Presidenta Keiko Fujimori pide no politizar la llegada del papa León XIV",
    "excerpt": "",
@@ -739,6 +750,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "8f9c77bd98d3",
+   "title": "Keiko Fujimori responde por viaje a China durante visita del Papa León XIV",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLV9SRUQ5enNMQTlHS0tSWjZzX1Y2dDFENzB2ZVZTbnp2eFhkdGtXUmpkWDgxS2l2YkoxZ3VtdmFLajFWOWtyUXp5NHBrYllkOFgxWU1yUUhnOVNscFJWb2wxbDA3NUlCR1lUOEhoTzdRS1lLZlpWZnRfYnBRczI1dS13Nkh4TUs2U0dpYWV4aW9ZX1FnRmF4Qzh3T0VkcmFQU0FTRlkyQlo5SkxsSWdNbXlXM1hFZVJwb0xXN0pkTGI?oc=5",
+   "date": "2026-11-11T00:01:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "8fff16c023c9",
@@ -1060,28 +1085,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-sobre-ausencia-de-keiko-fujimori-en-despedida-del-papa-el-viaje-a-apec-es-fundamental-ultimas-apuesplan-noticia/",
    "date": "2026-11-10T15:07:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f8f65b5a095b",
-   "title": "Luis Galarreta defiende viaje de Keiko Fujimori a China y Japón",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSFV5Z3R3X2pBOFZsME1EMEh1ZE5wYmQ0QlA2elFCSGJfX2kzcUxHMTkyMTdkdEtCdkVkSmtrZmRvMTBpSTViRGd2ZkJFY2p4cFJRSFViQnlEUTk0N1dvWllFOHJNbXc4bXlXRHFHUG5EeVRvQVpVUmxESFUxTVpfbkRaOHg3VkhpMWluSVVaWEkyQkNWamZsakE4a2UyeHRSZllCdkZtaU1IM0lYaHZ5R1NuTnVBUWxxeVRfMFpFaDhhOGF1WkVtV08yUDAyeWpVS0NaQjdyQzhweTlpZXfSAeMBQVVfeXFMUFV0alJUQzVIQlJlNmxyOUplZlg2ZTFBZS1FS0phc0RnZnpUQTJqaWxSOEp5WDB4NXAteU5UeGVrelB4VUhGYXlOeERTWGtjVW9OX29renNxaHBJa19wS0I4aFZ1SnY3WV8xS1ZqdlhUR2pUM3UtcDlwYnRkLVFTYjNpRjJTQlg5TWh1VWxySGZ5cmVxaG9qZS00SGxWZ0R2clo4aHhsQVlHMVpGUEJQOFlWWFpVcDkzaEZSbmV2YVpSc0pETDFCakhENW85eDVvR0t2YjZGYTNJR0NObF9pcmNoRUE?oc=5",
-   "date": "2026-11-10T14:12:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2c43459d9adf",
-   "title": "Galarreta defiende viaje de Keiko Fujimori a China y Japón y descarta desaire al papa León XIV",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejk3ZVFrM1RHQzd3RjZxbDRBeUVmMWxjT0xBWFNnMGc2d2hZVFo4RVZlVzBCY2l5cTV0QTRvTXBBUm4ydXhaR1pEZEdXNzcxamg0cFF4TnJmdXRNWjJkLVpETi1UaklnRy1uaUt1UG43T2N2eC1SZzJfNlhMNHNaWU9EdlcyRURaN0g5VldxYTJUWlVoQ0pMRUVCWWhLSjdjN3ZfczdVYUZQQmZNRmVRcVZNN0ZKTXY3S2w5TQ?oc=5",
-   "date": "2026-11-10T14:07:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
