@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T03:40:19.184858+00:00",
+ "generated_at": "2026-11-12T04:01:47.458169+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Lima",
-   "lat": -12.046,
-   "lng": -77.043,
-   "abroad": false,
-   "city": "Lima"
+   "name": "China",
+   "abroad": true,
+   "city": "China"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-12T02:40:59+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-12T03:41:36+00:00"
  },
  "next": {
   "place": {
@@ -427,6 +425,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5703103eacda",
+   "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGNGc1hyS3hjVkZDVHJiSHRYeTZpcU9RRmhjOUo1aC1JQThtcDY3SGRGaWNfTFFhZDNYUTR3cTZkaWt1QkVmY0YtVC1Od0pQTkt2dDh1V0xHcHNiMHpnTHB5SVBKZGk3UHlzVXhuWFE2d1A5OE9URlo2ajRCMEVlTUxUdnZWaUJoVTZHSHY1QzBRRE5uQW5qTDBxU0dMV2p1VFNvNmFQUVJOU2RZQ3AyandxakR3RjBh?oc=5",
+   "date": "2026-11-12T03:41:36+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "d54df5e516e6",
    "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
    "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
@@ -488,7 +501,7 @@
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObXp3YVJYVHA1RWlBOEE3aHRRaUNWNUIxZWdKTnJ2WHFfRDVNYTV6T2ZXcGZQQklCeUNxa2NITlBZM3RuRV9MR1B5UGlBNjg0dHExYUNSbU9uWEJ1ajJfLURlQ0Y0d3g2QmpLcHhIbUVWSjN2ckFDM3pQa1lIcVBWbHZzVTJCdjlKWkVsNDZMX3FCeWNsY1E5a2tVVkxZYm93WkJFOU51RnlqNDZ3dEE?oc=5",
-   "date": "2026-11-12T02:10:00+00:00",
+   "date": "2026-11-12T02:16:00+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -504,7 +517,7 @@
    "title": "Cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
    "excerpt": "",
    "source": "Gente de Salta",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZEZPRlA5STZEa0VMSVQ4X2diNThwUzhkMUJBLUlNdDlYTTgxczZyc0FUYzd4NXJqUU11WnpFZi1fLTZDcUFxX1lvTlk1VkVGdzhwdDFVWDlnenpPNTZrRExoWi1BZGRnZi1rYXBPSWJQWFJRa2lwZGxNZERJZFFaSzU0bWlXbHdIaE81NGtxTGFxVV9BUWp1UXl6WTNpVHotVGZnUktXOUJ5SXBTeUw0QVYyLXVaLWfSAbcBQVVfeXFMUGRGT0ZQOUk2RGtFTElUOF9nYjU4cFM4ZDFCQS1JTXQ5WE04MXM2cnNBVGM3eDVyalFNdVp6RWYtXy02Q3FBcV9Zb05ZNVZFRnc4cHQxVVg5Z3p6TzU2a0RMaFotQWRkZ2Yta2FwT0liUFhSUWtpcGRsTWRESWRRWks1NG1pV2x3SGhPNTRrcUxhcVVfQVFqdVF5elkzaVR6LVRmZ1JLVzlCeUlwU3lMNEFWMi11Wi1n?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGRnQWpUV2VGam56VmdER0dDd1kwcTBYN0F6d1dLU3FPWE9yazVZQ01TNVNhNG1jMzdSTmxwY2oxWndwNU80Y0RhMVh5MDk2N1VseHVJbUN4VTduWEdXSm84Y0VCamtkQ3dtS0U4ZFNMSEEtdk9hX2YyZm1xQm5OSkY4c1R3MnRzdDVJaUozWFpyQm5mXzA0UFNpR1V5RElRSWljY3hwUzliWlZkMlNiekZR0gG3AUFVX3lxTFBkRk9GUDlJNkRrRUxJVDhfZ2I1OHBTOGQxQkEtSU10OVhNODFzNnJzQVRjN3g1cmpRTXVaekVmLV8tNkNxQXFfWW9OWTVWRUZ3OHB0MVVYOWd6ek81NmtETGhaLUFkZGdmLWthcE9JYlBYUlFraXBkbE1kRElkUVpLNTRtaVdsd0hoTzU0a3FMYXFVX0FRanVReXpZM2lUei1UZmdSS1c5QnlJcFN5TDRBVjItdVotZw?oc=5",
    "date": "2026-11-12T02:09:00+00:00",
    "state": "triste",
    "place": null,
@@ -950,21 +963,6 @@
    "next": null
   },
   {
-   "id": "5703103eacda",
-   "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXo4VUNtYjdmOFdwYndPWXpMX1kya3YtVW81Wkd5TVhFTHhKRVpkZWF1NU5FU3I1MlBfS1pjSlQ3NERpR2dVSFNrRVlvSDREdGxYQmVRT003bUlYRExBMWkxZVVaVHVjdllaY1B1Mmk4aXQ5RUNuXzdkU1hiUUd3RjEzN1ByZW5ham5SQ3ZTeEFUaWdYVGdfWWVTVzVpQ3VrNXVTaTB0UDVWdU0tZzJxNVB1dG1TYkJlSTN1NHp2Q0JDLTgtaVp3a0NLNHZvRE0?oc=5",
-   "date": "2026-11-11T21:36:39+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
    "id": "c417f1f50883",
    "title": "Últimas noticias de Keiko Gobierno hoy Miércoles 11 noviembre",
    "excerpt": "",
@@ -1103,23 +1101,6 @@
    "next": null
   },
   {
-   "id": "4007631cd54e",
-   "title": "Video de abucheos a Keiko Fujimori en Cusco en 2021 se asocia falsamente a su mandato en 2026",
-   "excerpt": "",
-   "source": "AFP Factual",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kR1dvRnlQb0hTT3FubjNwOVl2ODRyTUNESHhqVlQ3LWQ1aEo3TXVld05Db3djMmJHekduaVlxVGZJLXM5VHg2T2pwcW1UWkgwdExxR1NR?oc=5",
-   "date": "2026-11-11T20:19:46+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Cusco",
-    "lat": -13.532,
-    "lng": -71.967,
-    "abroad": false,
-    "city": "Cusco"
-   },
-   "next": null
-  },
-  {
    "id": "cc9ab72f67de",
    "title": "Keiko Fujimori tras aprobación de viaje a China y Japón: \"Cumpliré una agenda de alto nivel\"",
    "excerpt": "",
@@ -1146,6 +1127,23 @@
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "4007631cd54e",
+   "title": "Video de abucheos a Keiko Fujimori en Cusco en 2021 se asocia falsamente a su mandato en 2026",
+   "excerpt": "",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNTh3QWNDdE1mVkNQSXVSWWJyWXRoTl93ZV9PRHg2MXJMUFg0bDdMVkhmN3dUekVZRmdmT0kxWEdkRUttaU9tYTkzT2g1ZFNvRTRiRXMza2EtRmg4UXFuSERIZENqV1RnbXZPOWdwbTFIR21mdmwzUVRXdDd5dkhfWmhWWGZZYjN3dVZz?oc=5",
+   "date": "2026-11-11T20:15:33+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false,
+    "city": "Cusco"
+   },
+   "next": null
   },
   {
    "id": "30c76c2654c9",
