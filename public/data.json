@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T04:23:11.335558+00:00",
+ "generated_at": "2026-11-12T04:45:08.887674+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -442,6 +442,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3R4OGVTMGtZNE5aSTVINjU4Mm5tWm9ReVdrRHhiaHFOaTc3RGtaOXl0UFNOaHR1X0lOYl9wX0hySDA2UFRtRXBnb2tOcVYxX21mdV8waVhQdHQyd2J5OW1OaHBnMThmNGxSVl9tY1hBNG9sYUhzZktqalZsLUc0cnRXc2hLNlk5aVFLeVF2Q3V0MHRaQkZjeWpaYWJWMXN4enRhOTNucTdUal9y?oc=5",
    "date": "2026-11-12T04:10:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3f26b53646e1",
+   "title": "El papa León XIV llegó al Perú y fue recibido por la presidenta Keiko Fujimori y el canciller Carlos Espá",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUjZTc20wMWx5Y09ZaVNmcEw0RXZpTWtiY3c4bnpiQ1Fia3BtZXVPaktsS2xsQ2pqaGRkeUJKaHRZdnhxMGNQWkNyQUxtU3ZGdzJ2ZzNaOXB0ZXJsVHpoT09yT0ZBQQ?oc=5",
+   "date": "2026-11-12T04:09:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1165,17 +1176,6 @@
     "abroad": false,
     "city": "Cusco"
    },
-   "next": null
-  },
-  {
-   "id": "30c76c2654c9",
-   "title": "Keiko Fujimori viajará a Asia durante la visita del Papa a Perú",
-   "excerpt": "",
-   "source": "Radio 3 Cadena Patagonia",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcDEyVWlMTVhULTZITVZIdVRhX2Q4QWJ6Q3pXMXlSUzVZMTZMejVzMllYTHpiZ0N3NWRMUDNBMTRid2RnS3RoOE5rMzdWblpmUlJONGZKZjhfOVZuUVpaS3JsZkVBbGZob0lwYjBieUdHd1BUZ0ZpdTZWMVMtVWxEWFRrVFRFQ19KMWt0NWJFcWVqT3NjRUJqQTFNb2ZIb3BZd2RZ?oc=5",
-   "date": "2026-11-11T20:07:28+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
