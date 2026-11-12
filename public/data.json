@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T00:48:46.535221+00:00",
+ "generated_at": "2026-11-12T01:10:13.609996+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
+   "name": "Base Aérea",
    "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
+   "lat": -12.16056,
+   "lng": -77.00256,
    "abroad": false
   },
-  "source": "El Comercio",
-  "date": "2026-11-12T00:42:34+00:00"
+  "source": "Gestión",
+  "date": "2026-11-12T01:02:04+00:00"
  },
  "next": {
   "place": {
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQkxoNll4d0VZOHR1RWlHWmpCaFE3ckxpSjI5TXRsU2Mxdl81SE1MUXZoTzBnNEFBRHFEdWNiTm9BT255Rkk0eVhORVBjdE5oRVFWajlKRHJWNW4wOEdtY3g1Nk82MGIweF9HZHIxN1RBUEk?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 4,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 56
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -363,6 +363,40 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c2aac3662502",
+   "title": "Papa León XIV volvió a casa: santo padre se reúne con Keiko Fujimori",
+   "excerpt": "Papa León XIV ya está en Perú. Aterrizó en la Base Aérea del Callo y fue recibido por comitiva episcopal y del Gobierno.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/papa-leon-xiv-volvio-a-casa-santo-padre-se-reune-con-keiko-fujimori-y-da-mensaje-a-peruanos-noticia/",
+   "date": "2026-11-12T01:02:04+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Base Aérea",
+    "city": null,
+    "lat": -12.16056,
+    "lng": -77.00256,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "f1402645d521",
+   "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reunieron en Palacio de Gobierno",
+   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
+   "date": "2026-11-12T01:01:59+00:00",
+   "state": "transmitiendo",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "ffcecb3dfa24",
    "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen en Palacio de Gobierno",
    "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
@@ -375,23 +409,6 @@
     "city": null,
     "lat": -12.04491,
     "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "c2aac3662502",
-   "title": "Papa León XIV volvió a casa: santo padre se reúne con Keiko Fujimori",
-   "excerpt": "Papa León XIV ya está en Perú. Aterrizó en la Base Aérea del Callo y fue recibido por comitiva episcopal y del Gobierno.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/papa-leon-xiv-volvio-a-casa-santo-padre-se-reune-con-keiko-fujimori-y-da-mensaje-a-peruanos-noticia/",
-   "date": "2026-11-12T00:40:17+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Base Aérea",
-    "city": null,
-    "lat": -12.16056,
-    "lng": -77.00256,
     "abroad": false
    },
    "next": null
@@ -797,6 +814,20 @@
    }
   },
   {
+   "id": "9a8842162a43",
+   "title": "Keiko Fujimori agradece al Senado por autorización de viaje a China y Japón",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPclN1ZlJ1Wm5aMU1sTnl0N2RWTGQydnZnTGRXampEUS0xZ1UwUW1Xc2pQR3V6WjZBc09ZQmFJaFQ0b2dIV0Z4Sk5NdXFtalBpUG5RcHN2anZER21ZMGVGaWJrWG0zaWZKcEpVQWF4SlJCLTN3Sk5DdlYteHJ6ZHFucFcxWjdOYkkxbENpMHNtd3RHT3hReGI4YzJhYTRTaFZkTllvNHBB?oc=5",
+   "date": "2026-11-11T20:17:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "4007631cd54e",
    "title": "Video de abucheos a Keiko Fujimori en Cusco en 2021 se asocia falsamente a su mandato en 2026",
    "excerpt": "",
@@ -1069,28 +1100,6 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2hYODdmWC1ST3p0bjRuNHJJdXFWLXl6Y05nWk1pcmk3TVExVHFqend3NUVOQzREanFibXlmSHlIXzhPbUdkWjlQc2RGZkV1NnBzb3ZnbVpSOVRkZzBRYTFGeTVRYm0xRkJqZFhWRWRBVTZkN2ZsNmxoNU9xU0d0Z2lvLWhGaTN2bzRtQmw3ckMyQVBJTkR0cUlZenpMTDFzRjJycUJYN2RBTkVKaHR6eklQOWVYbk04WVZCMk13dDRoWDVN0gHKAUFVX3lxTE04dE1vME1kZTVxdUVyeE9POGxKbXQ0eXVWbFpYRkRBZ19SaVh3RHF5VEVOVUs4Zm8yOXAzTjRXeVlYQU43dVhHUEptdml5MFBrbHFzWXZOaVdRcWY0Y0pPYUJrNElKY1VmSmxBVURDZEFVVDRNQlh5N21OaWY0d2JqLVRSb0piVm5iRGJ6Q0M1UVprQXRKN0RhWDZfTDU1NTkyVkRFekRiYi04SWZRX2N2S0lIekd2OEpacXJwZTh2TGRNaGNpNjlfWWc?oc=5",
    "date": "2026-11-11T17:41:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b34deaf2f9b0",
-   "title": "Galarreta rechaza que viaje de Fujimori a China sea un desaire al papa León XIV: \"Ella lamentaba mucho no estar hasta el final\"",
-   "excerpt": "Ante los cuestionamientos por la salida de la presidenta en los días finales de la gira papal, el jefe del Gabinete, Luis Galarreta, señaló que el viaje busca conseguir donaciones…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/galarreta-rechaza-que-viaje-de-fujimori-a-china-sea-un-desaire-al-papa-leon-xiv-ella-lamentaba-mucho-no-estar-hasta-el-final-hnews-477180",
-   "date": "2026-11-11T17:39:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0a8704acb367",
-   "title": "Encuesta IEP: El 53% de peruanos desaprueba la gestión de Keiko Fujimori en el Gobierno",
-   "excerpt": "Entre septiembre y noviembre, la aprobación de la mandataria se estancó en 37%. En contraste, la desaprobación de su gestión continuó creciendo y pasó de 49% a 53%.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/encuesta-iep-el-53-de-peruanos-desaprueba-la-gestion-de-keiko-fujimori-en-el-gobierno-hnews-492294",
-   "date": "2026-11-11T17:37:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
