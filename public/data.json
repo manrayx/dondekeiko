@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T09:47:10.073826+00:00",
+ "generated_at": "2026-11-12T10:08:40.402521+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "Agencia Andina",
-  "date": "2026-11-12T09:41:36+00:00"
+  "date": "2026-11-12T09:52:20+00:00"
  },
  "next": {
   "place": {
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 3,
-  "posando": 54
+  "triste": 2,
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -375,12 +375,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "23b0dfc6dea4",
+   "title": "Presidenta Fujimori: \"El Perú recibe al papa León XIV con el corazón abierto\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFI2UVJVRXBHQW9KaGRicERscUFFSU5wMjNFb3AtTkY4T1A5eXdvVFV2cGw5YVBtaDV1UWZqNER1bDNkOW5qNWQ5NVktd1JWc0dMZXQ0Vlg0Z1N5M1RGZFVzaE1vdXVEQ3B0TVExd3FpdEJENlpjczNQRVI3UEZTRy14VXp0Tm85dDMxMU5kNU1hMXByV2xUVXBtNnJRYmFRTGJsVHhubjlWVmhXQVRzcGIwQkY3UQ?oc=5",
+   "date": "2026-11-12T09:52:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5703103eacda",
    "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGNGc1hyS3hjVkZDVHJiSHRYeTZpcU9RRmhjOUo1aC1JQThtcDY3SGRGaWNfTFFhZDNYUTR3cTZkaWt1QkVmY0YtVC1Od0pQTkt2dDh1V0xHcHNiMHpnTHB5SVBKZGk3UHlzVXhuWFE2d1A5OE9URlo2ajRCMEVlTUxUdnZWaUJoVTZHSHY1QzBRRE5uQW5qTDBxU0dMV2p1VFNvNmFQUVJOU2RZQ3AyandxakR3RjBh?oc=5",
-   "date": "2026-11-12T09:41:36+00:00",
+   "date": "2026-11-12T09:52:20+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -396,17 +407,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-12T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "23b0dfc6dea4",
-   "title": "Presidenta Fujimori: \"El Perú recibe al papa León XIV con el corazón abierto\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFI2UVJVRXBHQW9KaGRicERscUFFSU5wMjNFb3AtTkY4T1A5eXdvVFV2cGw5YVBtaDV1UWZqNER1bDNkOW5qNWQ5NVktd1JWc0dMZXQ0Vlg0Z1N5M1RGZFVzaE1vdXVEQ3B0TVExd3FpdEJENlpjczNQRVI3UEZTRy14VXp0Tm85dDMxMU5kNU1hMXByV2xUVXBtNnJRYmFRTGJsVHhubjlWVmhXQVRzcGIwQkY3UQ?oc=5",
-   "date": "2026-11-12T06:42:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1055,6 +1055,17 @@
    "next": null
   },
   {
+   "id": "fee0868b6545",
+   "title": "Senado autoriza viaje de la presidenta Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "Radio Nacional",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHFlaXNmWG4xR2ZNclU2YnFRU29WbWhVcGRPLUJsNnRjYjFhQkQycnBCeXRneXNYTVZCS0RtYW5rbHBkc2txaWhXOXh5bFZHNzNudERXY3hMdmlLNW1CdkU1QnZ3NDJrb19WQlhMd2pqdEhrVnp5d0pGSHQtS0l3YVZyUDlTVV9WLXdNSkJXMHdfVU5PV3B4d3RMNkE3bHI1UDI1TzZIS3hJUG0wQ3JpYmNBR1poc01FdllfdA?oc=5",
+   "date": "2026-11-11T21:38:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "de8a334bbae7",
    "title": "Keiko Fujimori expresa su agradecimiento al Senado tras recibir permiso para a China y Japón",
    "excerpt": "",
@@ -1109,17 +1120,6 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHVJRGRIY3hCZFJGVDJlOWh2OG1fVU00eEVkOVFiWS1BN0VOZTRzYVU1T3F5VlFSS194Z2FRSmVTYm5lRlZuZGFlX2UwTVY5XzVfN2k0WVdsTjUyWWVac19yamRObGVrc1FiSjJxb1FTbThKSVdHSGtlcGJoaXZPNWs5VmxDNnJSTnd2WmtKWEN0aWpFbGRidFA4c2JQejdiamxhLU90VFVVbUtGbG5qeW05SUFBZzBVUGtqQk9oLU40RFpCbnc?oc=5",
    "date": "2026-11-11T21:18:55+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9b321fa05385",
-   "title": "Polémica en Perú: cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
-   "excerpt": "",
-   "source": "La Nación",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTjgzSThuZjNRZUJsZDN6dVBfN0VHcjVFNXVKUWptMGZxQjJvSXZWdUJoT0t1bTlkRVI5TEFSNVJYUnkzR3REUTdmYTBsT2pEVlVOZFE1VHFxRHV0ZWQ3TDQ1N3pHcWh6Yk5IM21QcTdVX0VRMEROVXFlUnkzQy02UGM0VWpxOXR1dmxEd1k0a2FfNGVYbmowMHlIc3ZpUnhUdU5lTzdmdnI2aUprazVOeVRUckh4Z0traThFZmRpMUl0WWc0ZnU1ZTRUWkZmeUd6SE1HYnRxRTRSU0xhdDJ3Z0pPNA?oc=5",
-   "date": "2026-11-11T21:11:00+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
