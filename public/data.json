@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T16:36:51.304811+00:00",
+ "generated_at": "2026-11-12T16:58:33.972045+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-12T16:16:00+00:00"
+  "date": "2026-11-12T16:49:09+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -366,12 +368,29 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "501ef570d79d",
+   "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+   "date": "2026-11-12T16:49:09+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "97ec476695b1",
    "title": "ENTRE EL PAPA Y CHINA: LA DECISIÓN DE KEIKO FUJIMORI",
    "excerpt": "",
    "source": "Stereo Villa 101.7 fm",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xcDBmM3hOeXlvdmlmdnUyWl9Gcko0ckVfeDJCSnh4QzhJS1lJZS1yU09pWXB1cFBUM0JZVVE0ZURnTTBEcVBjbkRLRjUtc2tOX1E?oc=5",
-   "date": "2026-11-12T16:33:14+00:00",
+   "date": "2026-11-12T16:32:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -400,23 +419,6 @@
    "date": "2026-11-12T16:03:43+00:00",
    "state": "triste",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "501ef570d79d",
-   "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
-   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-12T15:37:05+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   },
   {
