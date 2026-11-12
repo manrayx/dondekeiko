@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T01:10:13.609996+00:00",
+ "generated_at": "2026-11-12T01:31:53.331666+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "Gestión",
-  "date": "2026-11-12T01:02:04+00:00"
+  "date": "2026-11-12T01:30:56+00:00"
  },
  "next": {
   "place": {
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQkxoNll4d0VZOHR1RWlHWmpCaFE3ckxpSjI5TXRsU2Mxdl81SE1MUXZoTzBnNEFBRHFEdWNiTm9BT255Rkk0eVhORVBjdE5oRVFWajlKRHJWNW4wOEdtY3g1Nk82MGIweF9HZHIxN1RBUEk?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 4,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 55
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -368,7 +368,7 @@
    "excerpt": "Papa León XIV ya está en Perú. Aterrizó en la Base Aérea del Callo y fue recibido por comitiva episcopal y del Gobierno.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/papa-leon-xiv-volvio-a-casa-santo-padre-se-reune-con-keiko-fujimori-y-da-mensaje-a-peruanos-noticia/",
-   "date": "2026-11-12T01:02:04+00:00",
+   "date": "2026-11-12T01:30:56+00:00",
    "state": "posando",
    "place": {
     "name": "Base Aérea",
@@ -385,7 +385,7 @@
    "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-12T01:01:59+00:00",
+   "date": "2026-11-12T01:30:37+00:00",
    "state": "transmitiendo",
    "place": {
     "name": "Palacio de Gobierno",
@@ -397,13 +397,24 @@
    "next": null
   },
   {
-   "id": "ffcecb3dfa24",
-   "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen en Palacio de Gobierno",
-   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-12T00:42:34+00:00",
-   "state": "transmitiendo",
+   "id": "4025f3e376e9",
+   "title": "El papa León XIV se reúne con la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdm5lSjJnNl9oalh2d3JkMnkxOVR2ajZfbVA4U1pTakpnVWFMQUdIWlVxQ2NjRTd2TkJsUzNNaFZMLXNocFJRNXFRQUhNMDNLT2pYYmd6MlJfNEFaTER3dldWNkd1d3hFNzNlc3BkZXlCLVRmcUxzcVZFNmNRYW83aVRGM2ViUVRHQ2ZrVDdmeWFvQQ?oc=5",
+   "date": "2026-11-12T00:55:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "09d9aac0bcaf",
+   "title": "Papa León XIV llegó a Palacio de Gobierno para reunirse con la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGdrcU0ydmF5N2ZnMkJ5ZE45aGFNQ3cwM1B5Sm1Jei1odWpQV3liSThoU09VaWdaRTllOVcxRGNza2FkdG9CdVo2akVZeVE4V3RrZUI5c1FKSzBvS0tocG5HalRpTjZaRUtheU1UQWVnTGhVWVRCWFdFZnJkVVZjcVpQeV9FVFIwa0JyYUZFRWh4Wmp3bVNLT2g1QzYzR3Q3YVQ2d0dkbDQ1cFhoTktILTZDb25QOG5aSW1ZUUh1dXpET2U1TWNiOUVn0gHeAUFVX3lxTE5XVFRUbDd3bVBpT1BEZjdGWjd6NGpacUN1VElRVllleUF1b1RqZU9jOEw1VllOeUR5bnc5dWhFUW5iOVFiNUNKcnM5bUV5eTJBYmpQQ2dwUXVvTDcycm9nLTR4Y29raWx4TWpFS05udW5rU3h4Vjd3cGdHdFFOMkFWTVUxQXZmd21UaDkySVVlSmhYcGxSY2tFanBKZ1B5UHQ3clJSeXVoNnE4YlNxNWdrNENsNWtENXBSRWVMaGtwVDBKUkRsSFBjbWtValVvX0ZaNXg2akRXTHZZREJTdw?oc=5",
+   "date": "2026-11-12T00:34:28+00:00",
+   "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
     "city": null,
@@ -986,23 +997,23 @@
    }
   },
   {
-   "id": "f25254a3ff17",
-   "title": "Sheput sobre viaje de Keiko Fujimori al APEC:...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDZmZjZuN0hsSGhvQUl0UEZycVkxaVVtNHA2eWVGNG5sNmNiYnkyaDdZYVNic1BJQTM3a1FnMEh4X2ZDbzAtTW1oTXA5bjFvQnFyS3M0ZWVUTi1iV3JEWVgyZW9wNTBZR29lV19YMmtId0VqX1hyZVRsVWtIYW9sam1OdGdDNm5XZ2RoR2ZyVEc2LUlOLWxxZWRiaEJ2a3PSAaQBQVVfeXFMUHVmRzMxaDFoZ05EMnowLWRTYnhnZ0lkbEY1MU5kWHlCLS1jNVpKb0RQS0poOGZqZndiejlXNGVhN1piODRtNXhfa0VCcE5UcXRRQnk4SXJ4MWxtUjMyRVBqdEFRNzVNa1p2MWk1aXlqRnRHeEJEdlJaMW53WmZFMnZSVXNkN3JHNmNqSlJYTW83QWJnZjhnQkU4WFgySmxJeEFxRXk?oc=5",
-   "date": "2026-11-11T18:31:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "b1e42f63e92f",
    "title": "Encuesta del IEP: El 51% de peruanos rechaza que el Congreso haya otorgado las facultades legislativas al Gobierno",
    "excerpt": "Sobre el impacto del Congreso en la gestión presidencial, el 34% de ciudadanos consideró que “ni facilita ni dificulta” el trabajo de Fujimori.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/encuesta-del-iep-el-51-de-peruanos-rechaza-que-el-congreso-haya-otorgado-las-facultades-legislativas-al-gobierno-hnews-676291",
    "date": "2026-11-11T18:29:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f25254a3ff17",
+   "title": "Sheput sobre viaje de Keiko Fujimori al APEC:...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDZmZjZuN0hsSGhvQUl0UEZycVkxaVVtNHA2eWVGNG5sNmNiYnkyaDdZYVNic1BJQTM3a1FnMEh4X2ZDbzAtTW1oTXA5bjFvQnFyS3M0ZWVUTi1iV3JEWVgyZW9wNTBZR29lV19YMmtId0VqX1hyZVRsVWtIYW9sam1OdGdDNm5XZ2RoR2ZyVEc2LUlOLWxxZWRiaEJ2a3PSAaQBQVVfeXFMUHVmRzMxaDFoZ05EMnowLWRTYnhnZ0lkbEY1MU5kWHlCLS1jNVpKb0RQS0poOGZqZndiejlXNGVhN1piODRtNXhfa0VCcE5UcXRRQnk4SXJ4MWxtUjMyRVBqdEFRNzVNa1p2MWk1aXlqRnRHeEJEdlJaMW53WmZFMnZSVXNkN3JHNmNqSlJYTW83QWJnZjhnQkU4WFgySmxJeEFxRXk?oc=5",
+   "date": "2026-11-11T18:23:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1092,17 +1103,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "222a0067e5db",
-   "title": "Senado aprueba viaje de la presidenta Keiko Fujimori a China y Japón",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ2hYODdmWC1ST3p0bjRuNHJJdXFWLXl6Y05nWk1pcmk3TVExVHFqend3NUVOQzREanFibXlmSHlIXzhPbUdkWjlQc2RGZkV1NnBzb3ZnbVpSOVRkZzBRYTFGeTVRYm0xRkJqZFhWRWRBVTZkN2ZsNmxoNU9xU0d0Z2lvLWhGaTN2bzRtQmw3ckMyQVBJTkR0cUlZenpMTDFzRjJycUJYN2RBTkVKaHR6eklQOWVYbk04WVZCMk13dDRoWDVN0gHKAUFVX3lxTE04dE1vME1kZTVxdUVyeE9POGxKbXQ0eXVWbFpYRkRBZ19SaVh3RHF5VEVOVUs4Zm8yOXAzTjRXeVlYQU43dVhHUEptdml5MFBrbHFzWXZOaVdRcWY0Y0pPYUJrNElKY1VmSmxBVURDZEFVVDRNQlh5N21OaWY0d2JqLVRSb0piVm5iRGJ6Q0M1UVprQXRKN0RhWDZfTDU1NTkyVkRFekRiYi04SWZRX2N2S0lIekd2OEpacXJwZTh2TGRNaGNpNjlfWWc?oc=5",
-   "date": "2026-11-11T17:41:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
