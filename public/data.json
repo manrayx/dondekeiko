@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:55:51.435993+00:00",
+ "generated_at": "2026-11-12T12:17:13.770416+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,23 +96,16 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-12T09:52:20+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-12T12:00:52+00:00"
  },
- "next": {
-  "place": {
-   "name": "China",
-   "abroad": true
-  },
-  "source": "Willax",
-  "date": "2026-11-11T21:23:49+00:00",
-  "title": "Keiko Fujimori viajará a China y Japón: presidenta agradece aprobación del Senado",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQkxoNll4d0VZOHR1RWlHWmpCaFE3ckxpSjI5TXRsU2Mxdl81SE1MUXZoTzBnNEFBRHFEdWNiTm9BT255Rkk0eVhORVBjdE5oRVFWajlKRHJWNW4wOEdtY3g1Nk82MGIweF9HZHIxN1RBUEk?oc=5"
- },
+ "next": null,
  "counts_7d": {
   "transmitiendo": 3,
   "entrevista": 0,
@@ -375,6 +368,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "501ef570d79d",
+   "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+   "date": "2026-11-12T12:00:52+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "32010362e182",
    "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
    "excerpt": "",
@@ -456,23 +466,6 @@
     "name": "China",
     "abroad": true,
     "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "501ef570d79d",
-   "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
-   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-12T05:01:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
    },
    "next": null
   },
@@ -855,6 +848,17 @@
    "next": null
   },
   {
+   "id": "9fc5b10a4ce1",
+   "title": "Keiko Fujimori y su emoción tras darle la bienvenida al papa León XIV: \"Lo hemos extrañado y hoy nos llena de emoción tenerlo\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBWWFIbXNaR05sX2lLaFVaX3BWY3NyTlRJWks2WWlMcjlIVVJNRFZ6NTM4NTlnRlNvZUgxaGFSdXRWR3VDOGlBazdYYnBHWDh3UHhZSVpPOHQtZllwVWtqaXVjR3hQdnQ1aDhxbzNGOGJyZFBMbndWVHRJQQ?oc=5",
+   "date": "2026-11-12T00:08:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d58c8e9e1bd6",
    "title": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón",
    "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
@@ -999,6 +1003,17 @@
    "next": null
   },
   {
+   "id": "0e62738ad228",
+   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUTlXWWZwaE9fZnMxZkhDUGdOZ29VSENWYnNSLW9ZeEVBd1BpOGcyWTVWWnhxU3JYejZwX2hyYmdUc25SSUw0V0o4bzZacXRId3ZnZ3NpdDlkNjhqTUFmdkhqYV82Y3FxeXl5STR2ckljQU1CS19idXVzeGxjSzJXRExiTTBERnp2emdFcDBlb2VLY3h5TDBJMU1FeGQ3VzlQWG5FNjRUYndvMmxzWFA3OVpsYkRYMllqUU9HRm93VU9DdEVDX0lNaHZ4Nzl4STBqWWFMbXNZVmhLZ0N1Nl9vQ01fQW1FQVJVWlNieE1uUmw3Nk1aUmFqNVQzZDNLcGRnVEHSAYcCQVVfeXFMTzdKSmhxNWN4bUpOZkRrWFVEQ0RUR0lYZUctX1N6MmE2b2FCSXo0NEJUR1pRd1RWbzRERFNHeTVyLUVvWWRHTU1EZ3gwUC0zQWxtN3ZwYXNrVFNjRlBsZ2tzVi1FMXpDbUs0SzN4cHZDdXFfVEpkX2RCcXBOR2pFRU03NEFHb241WTdDRjlKZGQzb0hQQVdHQzFMdE1sYkFvaWFKVTZJXzlLNUpTNjVDTF9nRks3Uk96MnpXdU1iOTdiSUgtSXYwd0xqd3gtckNtR0QzTkMxdUZRaVlVeFNuREtXVTBMMHg5WWMzN0JMQ0dCWjlMbEhSUktKbkFRQVljemNrRy1IQk0?oc=5",
+   "date": "2026-11-11T22:09:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "acd47cc1adc6",
    "title": "Presidenta Keiko Fujimori dará la bienvenida al papa León XIV en el Grupo Aéreo N° 8",
    "excerpt": "",
@@ -1094,31 +1109,6 @@
    "source": "CanalB.pe",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjZFTU42MnhkR19PZjVsOUE2S1E4Z2Q1YnBTYXRJYktHcDB1N2dXR3ZXWFVwaGlwLTZHanFwSm5BaXk1S3llckJSWHpzZnlaSmx5UEFldU5NUkp3Q1YzTk1KbmlKZ3k0ZkpoOTNkTWFMR2lGV293YjdCN3laekNka2NqM05LdVNxZHE4aG5yUS1JZUNiT25yNg?oc=5",
    "date": "2026-11-11T21:25:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "69c3e53634d1",
-   "title": "Keiko Fujimori viajará a China y Japón: presidenta agradece aprobación del Senado",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQkxoNll4d0VZOHR1RWlHWmpCaFE3ckxpSjI5TXRsU2Mxdl81SE1MUXZoTzBnNEFBRHFEdWNiTm9BT255Rkk0eVhORVBjdE5oRVFWajlKRHJWNW4wOEdtY3g1Nk82MGIweF9HZHIxN1RBUEk?oc=5",
-   "date": "2026-11-11T21:23:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "a3473febde23",
-   "title": "Keiko Fujimori agredeció al Senado por autorizar su viaje oficial a China y Japón",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHVJRGRIY3hCZFJGVDJlOWh2OG1fVU00eEVkOVFiWS1BN0VOZTRzYVU1T3F5VlFSS194Z2FRSmVTYm5lRlZuZGFlX2UwTVY5XzVfN2k0WVdsTjUyWWVac19yamRObGVrc1FiSjJxb1FTbThKSVdHSGtlcGJoaXZPNWs5VmxDNnJSTnd2WmtKWEN0aWpFbGRidFA4c2JQejdiamxhLU90VFVVbUtGbG5qeW05SUFBZzBVUGtqQk9oLU40RFpCbnc?oc=5",
-   "date": "2026-11-11T21:18:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
