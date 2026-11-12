@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T04:01:47.458169+00:00",
+ "generated_at": "2026-11-12T04:23:11.335558+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -425,6 +425,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "32010362e182",
+   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNTM3JhTVVZXzZtVjdJeWJ2QndfSS1vY2JXZ25Tb3FlUVdzUnZXVkd5OTNvRVYzdm1CaTJ0NTMzM2t0QllTLUJ0bjl1dExsWDUycnVyUTBKNmdQQUtaS0RPRDY0Tm9FVFE2bGhMTUN5VWE0Nm0tVHBJUC1sTjlrQURtR2tfRl9EVDFfOEkzcVIzU3V5bjlGOWVDUUFkR19EenNMQ21YYmNlU3huYTlQdFVXSzd0NHljOWxxT0VNdTFxNEE?oc=5",
+   "date": "2026-11-12T04:12:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ae7802493ba1",
+   "title": "Presidenta Keiko Fujimori sostuvo audiencia con el papa León XIV",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3R4OGVTMGtZNE5aSTVINjU4Mm5tWm9ReVdrRHhiaHFOaTc3RGtaOXl0UFNOaHR1X0lOYl9wX0hySDA2UFRtRXBnb2tOcVYxX21mdV8waVhQdHQyd2J5OW1OaHBnMThmNGxSVl9tY1hBNG9sYUhzZktqalZsLUc0cnRXc2hLNlk5aVFLeVF2Q3V0MHRaQkZjeWpaYWJWMXN4enRhOTNucTdUal9y?oc=5",
+   "date": "2026-11-12T04:10:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5703103eacda",
    "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
    "excerpt": "",
@@ -446,6 +468,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
    "date": "2026-11-12T03:26:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8606e4630da1",
+   "title": "9 frases de la bienvenida de Keiko Fujimori al Papa León XIV en Perú",
+   "excerpt": "",
+   "source": "EWTN News",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rLUNvNnZ3ek91Y0FnYU8yOFN5WlY2bUR6dTFLMVBWTkZDQzgtVUt3eGxuQjV0clBaOXhHam52dFlPN3ZpVlFzY3g3Rjc3NUY1U0ZzaVZZZUxsMk00YTNtdnVMblh1MnVXR0FPY3lqRVRNZnM?oc=5",
+   "date": "2026-11-12T03:09:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -687,17 +720,6 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWJWUlhhekxfcHp4TWFDalVGV29PcFZIN0ZSRVVNdEI2Y28wMjZFTjNhckpRaW5OTGt0TEpxZ3VIWXIyQnNaVXZmeEtRLUVLRDlLQWFITjFodVczSno2ZXltOVgycnJFbUFjQmd0TG9fbUhHb0lLRmNISWZBenk2MWpVd0dGNXFJYXdmRmFhTG9GZVk0Wi1oLTF4ZG1FWjF0TzhqZXBMTG9oUzlHVjlvZFBZMnRlQk96ZnfSAb8BQVVfeXFMTU8yWFlwMTNXYkN5OV9PVW9nZWFuVmFMTmNBalZ6WjJXcnpITEFEbTVnQXptSGZSckt2YU9DQjRCVzMtcU82RGxkQnlDTWlONHFueE5XQ2ZwN1lMQ3BxOUZMQ2l0MTVjUFhldG1OcTNIbkd2Y1NDTUtVWlpNeTB1VmlXbE1nT3RmTkU3cDFHalY0Um14X1pUU1R3N0RoaVBWM0djelBtR3ZuUkZKT29ZaXEwMDUwcjFoeTZ1Z1lsSzg?oc=5",
    "date": "2026-11-12T00:26:24+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32010362e182",
-   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVdtdS0ySDV4UU5UWDI0ZDRyRGtxNGFxeHNFNWpFdmhmcldPQlY0Z1lZZHRLOTMyX1BrWi1tZTNxVVlFQnFzcmlSRmNjRzE2MERGVEpzdGc5NFRNVVFGdHF3dVZ5UWVJMERrczc0ZGZ3UDZBOFNHcHZlQ0lsWjFpVUJ0VmNUNVNnOXRxaVpLOFVEX1psb2NuSVpwVkhWRHNDbHV6bF9mdTFiUW5ENEVncXk5RnltcDN1WkE?oc=5",
-   "date": "2026-11-12T00:24:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -1155,34 +1177,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "e653d9799ed1",
-   "title": "Keiko Fujimori viajará a China y Japón: esta es su AGENDA OFICIAL para la cumbre APEC",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXV6cDJmWU9YTlpkYW9wTzhzS0hmSUZaZVJranZiUGF5OUR3UC03ajNZM29fVDRjaEJreVVGWk5lbGlIYklsdm5WRzdhTlZnT0dkdTkzbHJ3SkZLakhnY2JqMnRCdjl6cU5rWEt3LVVxZDVKcHhzTGY1V0JrMW83TFdmWlp6YjZXeWVEbnM5YzdOZm9kdldhRHNPR3FyWHplc1FnOHVB?oc=5",
-   "date": "2026-11-11T20:03:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "c9b87884bab5",
-   "title": "Keiko Fujimori viajará a China y Japón: se reunirá con Xi Jinping el 17 de noviembre",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXV6cDJmWU9YTlpkYW9wTzhzS0hmSUZaZVJranZiUGF5OUR3UC03ajNZM29fVDRjaEJreVVGWk5lbGlIYklsdm5WRzdhTlZnT0dkdTkzbHJ3SkZLakhnY2JqMnRCdjl6cU5rWEt3LVVxZDVKcHhzTGY1V0JrMW83TFdmWlp6YjZXeWVEbnM5YzdOZm9kdldhRHNPR3FyWHplc1FnOHVB?oc=5",
-   "date": "2026-11-11T20:03:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
