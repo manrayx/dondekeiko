@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T17:41:50.106844+00:00",
+ "generated_at": "2026-11-12T18:03:16.650990+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,9 +103,18 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-12T16:49:09+00:00"
+  "date": "2026-11-12T17:49:00+00:00"
  },
- "next": null,
+ "next": {
+  "place": {
+   "name": "China",
+   "abroad": true
+  },
+  "source": "La República",
+  "date": "2026-11-12T17:48:37+00:00",
+  "title": "Foro APEC 2026: estas serán las actividades de Keiko Fujimori durante su viaje a China y Japón",
+  "url": "https://larepublica.pe/politica/2026/11/12/foro-apec-2026-estas-seran-las-actividades-de-keiko-fujimori-durante-su-viaje-a-china-y-japon-hnews-666480"
+ },
  "counts_7d": {
   "transmitiendo": 2,
   "entrevista": 0,
@@ -373,7 +382,7 @@
    "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-12T16:49:09+00:00",
+   "date": "2026-11-12T17:49:00+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -383,6 +392,24 @@
     "abroad": false
    },
    "next": null
+  },
+  {
+   "id": "5a6aa6d2978c",
+   "title": "Foro APEC 2026: estas serán las actividades de Keiko Fujimori durante su viaje a China y Japón",
+   "excerpt": "La presidenta Keiko Fujimori viajará del 15 al 21 de noviembre para asistir al Foro APEC en China y mantener reuniones en Japón. Se encuentran programadas reuniones con líderes de…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/12/foro-apec-2026-estas-seran-las-actividades-de-keiko-fujimori-durante-su-viaje-a-china-y-japon-hnews-666480",
+   "date": "2026-11-12T17:48:37+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "97ec476695b1",
@@ -1081,17 +1108,6 @@
    "source": "La República",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80dw?oc=5",
    "date": "2026-11-11T22:45:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0e62738ad228",
-   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUTlXWWZwaE9fZnMxZkhDUGdOZ29VSENWYnNSLW9ZeEVBd1BpOGcyWTVWWnhxU3JYejZwX2hyYmdUc25SSUw0V0o4bzZacXRId3ZnZ3NpdDlkNjhqTUFmdkhqYV82Y3FxeXl5STR2ckljQU1CS19idXVzeGxjSzJXRExiTTBERnp2emdFcDBlb2VLY3h5TDBJMU1FeGQ3VzlQWG5FNjRUYndvMmxzWFA3OVpsYkRYMllqUU9HRm93VU9DdEVDX0lNaHZ4Nzl4STBqWWFMbXNZVmhLZ0N1Nl9vQ01fQW1FQVJVWlNieE1uUmw3Nk1aUmFqNVQzZDNLcGRnVEHSAYcCQVVfeXFMTzdKSmhxNWN4bUpOZkRrWFVEQ0RUR0lYZUctX1N6MmE2b2FCSXo0NEJUR1pRd1RWbzRERFNHeTVyLUVvWWRHTU1EZ3gwUC0zQWxtN3ZwYXNrVFNjRlBsZ2tzVi1FMXpDbUs0SzN4cHZDdXFfVEpkX2RCcXBOR2pFRU03NEFHb241WTdDRjlKZGQzb0hQQVdHQzFMdE1sYkFvaWFKVTZJXzlLNUpTNjVDTF9nRks3Uk96MnpXdU1iOTdiSUgtSXYwd0xqd3gtckNtR0QzTkMxdUZRaVlVeFNuREtXVTBMMHg5WWMzN0JMQ0dCWjlMbEhSUktKbkFRQVljemNrRy1IQk0?oc=5",
-   "date": "2026-11-11T22:09:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
