@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T03:19:08.563582+00:00",
+ "generated_at": "2026-11-12T03:40:19.184858+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Gran Teatro Nacional",
-   "city": null,
-   "lat": -12.08663,
-   "lng": -77.00316,
-   "abroad": false
+   "name": "Lima",
+   "lat": -12.046,
+   "lng": -77.043,
+   "abroad": false,
+   "city": "Lima"
   },
-  "source": "La República",
-  "date": "2026-11-12T02:17:11+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-12T02:40:59+00:00"
  },
  "next": {
   "place": {
@@ -432,7 +432,7 @@
    "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
-   "date": "2026-11-12T03:16:37+00:00",
+   "date": "2026-11-12T03:26:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -446,6 +446,23 @@
    "date": "2026-11-12T02:46:38+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "2ffaedfb1102",
+   "title": "“Regreso a mi patria”: León XIV recordó ante Keiko Fujimori los años que compartió en Perú y pidió respetar a las comunidades y avanzar hacia la paz",
+   "excerpt": "El pontífice abrió su agenda apostólica en Lima con un mensaje sobre las décadas vividas en el país, cuya nacionalidad obtuvo en 2015 tras dirigir la diócesis de Chiclayo durante…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/12/regreso-a-mi-patria-leon-xiv-recordo-ante-keiko-fujimori-las-decadas-que-compartio-en-el-pais-y-pidio-respetar-a-las-comunidades-y-avanzar-hacia-la-paz/",
+   "date": "2026-11-12T02:40:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
    "next": null
   },
   {
@@ -487,7 +504,7 @@
    "title": "Cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
    "excerpt": "",
    "source": "Gente de Salta",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGRnQWpUV2VGam56VmdER0dDd1kwcTBYN0F6d1dLU3FPWE9yazVZQ01TNVNhNG1jMzdSTmxwY2oxWndwNU80Y0RhMVh5MDk2N1VseHVJbUN4VTduWEdXSm84Y0VCamtkQ3dtS0U4ZFNMSEEtdk9hX2YyZm1xQm5OSkY4c1R3MnRzdDVJaUozWFpyQm5mXzA0UFNpR1V5RElRSWljY3hwUzliWlZkMlNiekZR0gG3AUFVX3lxTFBkRk9GUDlJNkRrRUxJVDhfZ2I1OHBTOGQxQkEtSU10OVhNODFzNnJzQVRjN3g1cmpRTXVaekVmLV8tNkNxQXFfWW9OWTVWRUZ3OHB0MVVYOWd6ek81NmtETGhaLUFkZGdmLWthcE9JYlBYUlFraXBkbE1kRElkUVpLNTRtaVdsd0hoTzU0a3FMYXFVX0FRanVReXpZM2lUei1UZmdSS1c5QnlJcFN5TDRBVjItdVotZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZEZPRlA5STZEa0VMSVQ4X2diNThwUzhkMUJBLUlNdDlYTTgxczZyc0FUYzd4NXJqUU11WnpFZi1fLTZDcUFxX1lvTlk1VkVGdzhwdDFVWDlnenpPNTZrRExoWi1BZGRnZi1rYXBPSWJQWFJRa2lwZGxNZERJZFFaSzU0bWlXbHdIaE81NGtxTGFxVV9BUWp1UXl6WTNpVHotVGZnUktXOUJ5SXBTeUw0QVYyLXVaLWfSAbcBQVVfeXFMUGRGT0ZQOUk2RGtFTElUOF9nYjU4cFM4ZDFCQS1JTXQ5WE04MXM2cnNBVGM3eDVyalFNdVp6RWYtXy02Q3FBcV9Zb05ZNVZFRnc4cHQxVVg5Z3p6TzU2a0RMaFotQWRkZ2Yta2FwT0liUFhSUWtpcGRsTWRESWRRWks1NG1pV2x3SGhPNTRrcUxhcVVfQVFqdVF5elkzaVR6LVRmZ1JLVzlCeUlwU3lMNEFWMi11Wi1n?oc=5",
    "date": "2026-11-12T02:09:00+00:00",
    "state": "triste",
    "place": null,
@@ -505,23 +522,23 @@
    "next": null
   },
   {
+   "id": "6d0a1673d647",
+   "title": "Keiko Fujimori a papa León XIV: “No tenemos que pensar igual para reconocernos como hermanos”",
+   "excerpt": "",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/12/keiko-fujimori-a-papa-leon-xiv-no-tenemos-que-pensar-igual-para-reconocernos-como-hermanos/",
+   "date": "2026-11-12T02:07:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "791e0da37320",
    "title": "Keiko Fujimori al Papa: Que la reconciliación sea el regalo que su visita deje al Perú",
    "excerpt": "",
    "source": "Vatican News",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejh3blNaU3BnX3dOOXBwaXVBNGV3eXJGbjlRSjRKcDlvSHhNVWRjT1lPZlgtZnRGM055X01kODVBNF9XQTJidndZdmdBRVIwc1NPaEo2ckVUaGxHekw5VVFra0h1NV8xcEgxY0RvdmJDRF9Qc3kyXzFfTnhZSDZNc2x2VHg3dUZpM1NvX1FhdDRkbU1OVVdPam5KOTJfR09xZE9sQm9FcXM0YUlTWENqcHZoeTg?oc=5",
    "date": "2026-11-12T02:07:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6d0a1673d647",
-   "title": "Keiko Fujimori a papa León XIV: “No tenemos que pensar igual para reconocernos como hermanos”",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1c4NjJodFRycTVrOEYxUV9vMHFsUWpzWHlGRlh5YzQ1YURNZHo5eENTRDdXc1h0WmNVVlBiVjBxcTYtNm9EaVh5RWRaM1BlOHJVTjYySmZFUVAwVTNKSi1UVWxTOFQ1eXlOU2wyZDNFSXBzdjRqSFEtcmlVUExHNGZWY1dRY2ZYVGRaSFpmVktwZVdpNEpOalRIT1p3RFR2LXRKREVFYWxKTFF4N1d2Y0NhUWJFUEpqbG8tMHU0ODh1akJLdVN1aFhYONIB5gFBVV95cUxPTFpvcWRBbF9MY25abThUX1lXNl9MMUlvTnBjcUJGYThMOFJ1cjk3TmRfZlByRlRsQmw2VEVBUDVEM1ZXSUFnWUJ0LXBia19GTW5UZE5vN08zUGhfc0VVMzdMeXEwd0l5UUdQaXlkUVZLXzJTQ3ROUThldFd0YXFXUExYNzZQQXRtdXA2Y2l3dGZURVJiREcyLVB0VUVKdUg4dkRQODNDQ0F3T0NYMFdtcmxzdVlzRzM2VmJyeWZPS2VRTVBaTTVreU51NWN5cFJhY1VWYThDWVA0MXFnN1RnYjgzaUU3Zw?oc=5",
-   "date": "2026-11-12T02:07:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -586,6 +603,39 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "f7f5c50a4347",
+   "title": "Papa León XIV sorprende al bajar la luna de su auto para saludar a los fieles peruanos durante su llegada a Lima",
+   "excerpt": "El pontífice respondió con un gesto inusual a bordo de su vehículo oficial, mientras se dirigía al Palacio de Gobierno para reunirse con Keiko Fujimori",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-sorprende-al-bajar-la-luna-de-su-auto-para-saludar-a-los-fieles-peruanos-durante-su-llegada-a-lima/",
+   "date": "2026-11-12T01:16:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bd514325da81",
+   "title": "Los primeros minutos del papa León XIV en suelo peruano: honores, autoridades, sonrisas y emoción del santo padre y los peruanos",
+   "excerpt": "El sumo pontífice llegó al Grupo Aéreo N.º 8 del Callao procedente de Argentina y fue recibido por la presidenta Keiko Fujimori, autoridades de Gobierno, representantes religiosos y niños",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/11/los-primeros-minutos-del-papa-leon-xiv-en-suelo-peruano-honores-autoridades-sonrisas-y-emocion-del-santo-padre-y-los-peruanos/",
+   "date": "2026-11-12T01:06:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3991edb093e4",
+   "title": "“Perú te ama”: el Papa León XIV entona con orgullo el himno nacional y conmueve al país",
+   "excerpt": "Las cámaras registraron al sumo pontífice siguiendo las estrofas antes de su encuentro privado con la presidenta Keiko Fujimori, en su primer retorno al país desde que fue elegido jefe…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/12/peru-te-ama-el-papa-leon-xiv-entona-con-orgullo-el-himno-nacional-y-conmueve-al-pais/",
+   "date": "2026-11-12T00:56:44+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -691,10 +741,10 @@
   {
    "id": "f6cc7c124842",
    "title": "Papa León XIV recibe saludo protocolar de Keiko Fujimori: el momento de casi medio minuto en su bienvenida al Perú",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFM2UHVNVjZ3NGNpWGhSbXI1Ungxb2ZjckxmVTFNUi10LUVoUmN3ZU50Qnl6LV8yQ0dBZGoxbTdadUpVNFA2elVHczh3N3paWnFFbFBRS2IwRnZLU0ZoMTItbi1ZcjFSR014VTBkdlU3MW94S29Vc3pxdnJMcHhHTUotWXo3OGFkeGpHTV95ck5iaUdnbGoxVjJlVGFRN2RvcXZFblZTcnVLLUx2NnotNmRkMzhBYTVTSlRWaktlOC15QW40X0tSazRmREZ5Ym9yWEVTSWl3WU5HQ203c2h5V2JSTHZYWms00gGDAkFVX3lxTE9ja0hsR0I0VkRKQjFRekI3RjRVN2IxYXo0YXhPd3daRTZWOHdwZ2JWWVgxTnpLVTNjdXhYU1JteG9ENHI4Y0xzc1FobWJFNk81QkgtelBGeVlJVlhKYjZKZGJDUXFyRmFBY25vZzl0bEhEdTFTZ0ZVUnpJczFRb1l2SnZ0dFhZVE1zNkRiVDh0dzVTTWFTTmtUUEFVQWlrNnQ5cVN3NEg5Y0xZZXZFdk1EQnJyckU1Mzk0TGFXSEhlbUZaa3EwWUs1dFZBU3FlYVZ5TTdhVUxxbEJ3dVZDM283em9QdElEeHBWMS1nMWRTdWxaMzU4Vm1ieXpqd0JoVUVVWDQ?oc=5",
-   "date": "2026-11-11T23:59:00+00:00",
+   "excerpt": "La mandataria encabezó la recepción oficial del pontífice en el Callao, donde se produjo el primer encuentro protocolar de ambos",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-recibe-saludo-protocolar-de-keiko-fujimori-el-momento-de-casi-medio-minuto-tras-su-llegada-al-peru/",
+   "date": "2026-11-11T23:59:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -708,6 +758,23 @@
    "date": "2026-11-11T23:56:42+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "c5058e10b51b",
+   "title": "Primera reacción del papa León XIV en Perú: el santo padre se emociona ante el multitudinario recibimiento en Lima",
+   "excerpt": "Keiko Fujimori recibió al sumo pontífice en el Grupo Aéreo N.° 8, acompañada del canciller Carlos Espá y otras autoridades, durante la ceremonia oficial de bienvenida",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/11/la-primera-reaccion-del-papa-leon-xiv-en-suelo-peruano-tras-aterrizar-en-lima-para-iniciar-su-visita-al-peru/",
+   "date": "2026-11-11T23:32:13+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
    "next": null
   },
   {
@@ -789,6 +856,17 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZDhoLVNEaGZ1X1k2QjVGQ2dqMGkwMnk3T004akxmVHQzNndUa3U1aVh3eWtja0FaN2RZZFhIMFA3VUZCN2pEdmpfWWxSZ0NDVjV2VV9ZR3NHRjJCZE5pdUE0bC1nUll6Wnd3dHZJRjhZbE1wanNULWFNQmpvdDZaeXRFZDJ5WTFpWjlub1RMX0ZTZnFrS1dNdDAwcmJpaDAxRnlkRVFKcHlORWRwMkhqTFBjSl84YWROZ09LS01tZllPdThHS3I4MWRydUY?oc=5",
    "date": "2026-11-11T22:36:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0e62738ad228",
+   "title": "Keiko Fujimori y el MTC se desdicen: no fueron ni 42 ni 48 antenas derribadas cerca de penales, como señaló la presidenta",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUTlXWWZwaE9fZnMxZkhDUGdOZ29VSENWYnNSLW9ZeEVBd1BpOGcyWTVWWnhxU3JYejZwX2hyYmdUc25SSUw0V0o4bzZacXRId3ZnZ3NpdDlkNjhqTUFmdkhqYV82Y3FxeXl5STR2ckljQU1CS19idXVzeGxjSzJXRExiTTBERnp2emdFcDBlb2VLY3h5TDBJMU1FeGQ3VzlQWG5FNjRUYndvMmxzWFA3OVpsYkRYMllqUU9HRm93VU9DdEVDX0lNaHZ4Nzl4STBqWWFMbXNZVmhLZ0N1Nl9vQ01fQW1FQVJVWlNieE1uUmw3Nk1aUmFqNVQzZDNLcGRnVEHSAYcCQVVfeXFMTzdKSmhxNWN4bUpOZkRrWFVEQ0RUR0lYZUctX1N6MmE2b2FCSXo0NEJUR1pRd1RWbzRERFNHeTVyLUVvWWRHTU1EZ3gwUC0zQWxtN3ZwYXNrVFNjRlBsZ2tzVi1FMXpDbUs0SzN4cHZDdXFfVEpkX2RCcXBOR2pFRU03NEFHb241WTdDRjlKZGQzb0hQQVdHQzFMdE1sYkFvaWFKVTZJXzlLNUpTNjVDTF9nRks3Uk96MnpXdU1iOTdiSUgtSXYwd0xqd3gtckNtR0QzTkMxdUZRaVlVeFNuREtXVTBMMHg5WWMzN0JMQ0dCWjlMbEhSUktKbkFRQVljemNrRy1IQk0?oc=5",
+   "date": "2026-11-11T22:09:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1005,12 +1083,40 @@
   {
    "id": "3e9c08eb493b",
    "title": "Papa León XIV en Perú: ¿Quién despedirá al santo padre el lunes 16 de noviembre ante la ausencia de la presidenta Keiko Fujimori?",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVC1OQTNmbHIxQjVOUjFjWUZaOVhMM05ueFdITzhQLUptUzAxQmF5N3NEdGU0emtTWG9oaDhfdzVWYWRjTENfYlZOMVk3T0ZkNFhZQ2w0eGFTZG15dXdWaUZnQ3RFVUJZUzNPaG0yamIwOUt5d3NveE5jcFU4YkVNQzZGcU5XWmdUXzBPdC1pUVlsZHpKcUprX3huMlVNMzM2eWpyUnBrZW1FOVFYYlR2OG1sQm5vdW9ncDlxVUYtcmJjdV81cUhUeklDRHAwb20zQ3g2UVpwM2xGMGY5SlhvdXJVYmhCTWtaRU1tNndqRTExdGx6S2xuT0hzUdIBlgJBVV95cUxQTnh5WmQ0RkNndTZFdXJzRnpmVTRIdzNMWmJVblVWTGotYWZ4cnpMMERLZkRpcmwyRzlKRHJ0QTZpUy1YOUZQRXFIdHlhNkhKWUYySHZOOUdiM2VtTVdFRlNaWUdOYy1vZnNJLUVWTkEzR0tEaFBUYkZDYkxEMkF5MzY3WTJjT3BJX3hnMkFpaElIOG1PN2lfSVhlOGdLMkZCbHdUdnhjTVZUMEhEUktweXAxNnVIblFDaV9Nd01xTlFzMlV5WkZQQ0xlSS1lM0Zqbkk2aENtVklSS0sza242N1ZMQmpBTUs1akNIel95TzR4Z1lGeDVpb2MtQTBYa2UxSFhjaGNsLXFmelRMZHBMQkdDeXEtZw?oc=5",
-   "date": "2026-11-11T20:31:00+00:00",
+   "excerpt": "La mandataria viajará a Asia por la cumbre APEC y una reunión con Xi Jinping. El canciller afirmó que la jefa de Estado coordinó con autoridades de la Iglesia católica…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-en-peru-quien-despedira-al-santo-padre-el-lunes-16-de-noviembre-ante-la-ausencia-de-la-presidenta-keiko-fujimori/",
+   "date": "2026-11-11T20:31:26+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "edcc11ad194f",
+   "title": "Vocero de los obispos peruanos respalda que Keiko Fujimori no despida al papa León XIV: “Cada uno tiene su espacio”",
+   "excerpt": "El monseñor Carlos García Camader afirmó que los obispos cumplirán con la recepción y despedida del pontífice, mientras la mandataria viajará a China y Japón para participar en actividades oficiales",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/11/vocero-de-los-obispos-peruanos-respalda-que-keiko-fujimori-no-despida-al-papa-leon-xiv-cada-uno-tiene-su-espacio/",
+   "date": "2026-11-11T20:25:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4007631cd54e",
+   "title": "Video de abucheos a Keiko Fujimori en Cusco en 2021 se asocia falsamente a su mandato en 2026",
+   "excerpt": "",
+   "source": "AFP Factual",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kR1dvRnlQb0hTT3FubjNwOVl2ODRyTUNESHhqVlQ3LWQ1aEo3TXVld05Db3djMmJHekduaVlxVGZJLXM5VHg2T2pwcW1UWkgwdExxR1NR?oc=5",
+   "date": "2026-11-11T20:19:46+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false,
+    "city": "Cusco"
+   },
    "next": null
   },
   {
@@ -1040,23 +1146,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "4007631cd54e",
-   "title": "Video de abucheos a Keiko Fujimori en Cusco en 2021 se asocia falsamente a su mandato en 2026",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNTh3QWNDdE1mVkNQSXVSWWJyWXRoTl93ZV9PRHg2MXJMUFg0bDdMVkhmN3dUekVZRmdmT0kxWEdkRUttaU9tYTkzT2g1ZFNvRTRiRXMza2EtRmg4UXFuSERIZENqV1RnbXZPOWdwbTFIR21mdmwzUVRXdDd5dkhfWmhWWGZZYjN3dVZz?oc=5",
-   "date": "2026-11-11T20:15:33+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Cusco",
-    "lat": -13.532,
-    "lng": -71.967,
-    "abroad": false,
-    "city": "Cusco"
-   },
-   "next": null
   },
   {
    "id": "30c76c2654c9",
@@ -1096,83 +1185,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "292ccbd97ca9",
-   "title": "Polémica en Perú: la presidenta Keiko Fujimori se irá de gira por China y Japón en plena visita del papa León XIV",
-   "excerpt": "",
-   "source": "TN",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGE4eTI2dEZ2RU5NZHhaeTJSYTR1aWpQc1VhSW84M21FQ1FXYmFyWFhHY0xSMWhsU0NXM0Z2bm5qOGdUaWd1SEhqb2tja05jWS1ydVJnNVl0QnBqZ3NMOWZ5bXNBUmUwVW9OTVRwVzYwX1RtLXl6dHRnX2p2M1loYmRlY1lHNDlGaDhETWVobjJFYWg5M0t2UkFBb0RiNFFRN1VGWWItbC0zcEI1UWNsdDBBUlVyVjNFWE50eFR4S0VvcnAtWmctNkxNUHJHX2RiU0VzcWhVd1BJYjExSmVzcVhJeDNpcFlHSTZTa9IBgAJBVV95cUxPMFdSNjJtX2tvaTI5enViLUlzZlhvMHYwZ0JaZWRUbUxXRmNXRXNSdDNPV1dQMVpmQUFfRkFZd3FCc1dPc2VZVUV4cTBuOVYxUFFocWlIbnBaNG5XTWhnT2xSbE0yTWgwaXM5NXdyRjJlTk1IX2JYUENHak9fb0N5aWxyWnpZdlZBXzRLT245SDZvcTBQSnJNTVdvdm12Wm9xZHhVNV9qeU9EWk9yTlgta29TNHlwNDA5a2FobExLZFVlcWtNdXZYU1p4NUN3S3h0ZmhuUUJMazQtZEpldEgwd2dOZWFEeE1pRFR1V0Y0NnVwMktZM1FXT2w1WTB3RGhR?oc=5",
-   "date": "2026-11-11T19:54:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "85810138737f",
-   "title": "Keiko Fujimori viajará al exterior durante la visita del papa León XIV a Perú: los motivos",
-   "excerpt": "",
-   "source": "El Destape",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzI0VTU4SlZPSFh5a2VEUl9ieVdSVDJ5d3RRQzl4YnotNThPYk5scnpUR3owZnJ4RlZ6ZllVQWxaNHpyMkdTZVJDSUQySHNmRnZ0VG9LSDJDMVJUQUlNYWxyQzRrb0R1ZE5qRkhkQzRyUjFUNmF6UHBpd1B5eHAtVUpGY1BoMzBpN2lXWGJ0aEdTQUhqaWRyZzdVMFFJZkZ0R29MODBBMWpYdms4Mi1HSG5FTDMwNUtj0gHMAUFVX3lxTE9sV0pTSjR4bnlvc3pMdnUyRm12bDNaeE9ZMVh6alIzTDdDQTYyelZ0WHpXbHV1U2tKTzdCN3B6MGpWMUw0cklmZUlheHNyZ0NCbk9HMy1aMWpnaWREWXVLa0hGeTVQWVR3REpzRHJkaUItS0VPSW92djJMV2lPVlYxQUpFMks2M1BZbEJWZnR0VHFZeXlNV0F3d1BOZ2pnSlNqOXVqZ21XOGNpQ2pZMnVrbkJiR3hnVjQxN2VGRW9UdDBSSzl1QzVpNmxDTQ?oc=5",
-   "date": "2026-11-11T19:46:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b69276fdd34f",
-   "title": "Ernesto Álvarez justifica viaje de Keiko Fujimori a China: \"Es esencial para el bolsillo de los ciudadanos\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHZkZkZMeXl2MjBpdlRTYThBRzZNOGhESGdVUFZ2WVM3UWxRQXNhazZVSlF3YlVDYjI0WjZRZzY2V2h1M0tCV0FSSzRYTEhvaFVZSkpDV24xZFBBTFZBQmQtOFdBdjd4cHlPUmVKTzNId09lQ3p4bHdBcU9ubVAtakJKM0dqeF9EeGd2VlVpMU5selB0dlNMWXA2VDRKMXZScEFmcEcwYWtfeEZvTExCSmdpTTZuYURUNGVySzA1Qm5JLS1lQ2t4ZGk1WC1tUGs?oc=5",
-   "date": "2026-11-11T19:20:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7859ac4e041d",
-   "title": "Presidenta Fujimori saluda autorización del Senado para viajar a China y Japón",
-   "excerpt": "",
-   "source": "Tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjVkVHB5Yjl1TUVkTzBLQjdOUkNla2ZEMEdBS2FUdFNUNDhuNFlGdjNEa1JqVElpTVltcHpsbW1KcXJmcWx4UE90M2x3a3ZXZ0VNeDFHeGtKcHRyelVRQTVUNmJLODFkY3FrOU9tQVF6OWhhV09JLTFadEd4dlpZbFloZGgtSHdhLUpHeTgxdWRkdnVMNTF6WFVaLTRuZndlYjBRMFJYakRKWF9JSDBsak5wVUYtcVA2LS05YQ?oc=5",
-   "date": "2026-11-11T19:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "34c396897db1",
-   "title": "Álvarez sobre ausencia de Keiko Fujimori en despedida del papa León XIV: “Es esencial para el bolsillo de los ciudadanos”",
-   "excerpt": "El ministro de Justicia justificó la inasistencia de la presidenta Keiko Fujimori durante los últimos días de visita del sumo pontífice debido a su viaje al APEC. Ernesto Álvarez calificó…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/alvarez-sobre-ausencia-de-keiko-fujimori-en-despedida-del-papa-leon-xiv-es-esencial-para-el-bolsillo-de-los-ciudadanos-hnews-961235",
-   "date": "2026-11-11T18:59:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "606f2eb88de4",
-   "title": "Keiko Fujimori se irá de Perú en plena visita de León XIV: “Jamás se me ocurriría desairar al Papa”",
-   "excerpt": "",
-   "source": "Canal26",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFRGMVNrOHQ1TjZhUm80b0gtNzNuYlg5dmZEU1c0d2pqcDdLZEtJZnY5ZzgySmplT2NCTy1KNTFnVkcyXzVSQkxnU1NZb3l0ZkhoVlctNHV6UXR3X2tLckk1RzViYkRrSXlGNzg1c2hXVDZFZjNOUVBxLW1fQmcwU2Fkemh1TGVKX0pEYVNMNTU5SzVyMGR3dGRvME1HSmlEM1plMHNxSFdJcEk4Y2ZEN0dMMVdyWHpLcHk1aS1xaEEySnY0MzY3VFcwZm8tdS1QaWcwWHVWQ212WHJEbjRYY2VR?oc=5",
-   "date": "2026-11-11T18:45:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bed9c09cc2ff",
-   "title": "Ranking regional de presidentes: Keiko Fujimori se ubica en el puesto 9 con una desaprobación que supera el 54%",
-   "excerpt": "El rechazo a la gestión de Keiko Fujimori alcanza el 54.4% y su aprobación cae 2.5% en noviembre, según el último reporte de la consultora CB Global Data.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/ranking-regional-de-presidentes-keiko-fujimori-se-ubica-en-el-puesto-9-con-una-desaprobacion-que-supera-el-54-hnews-524799",
-   "date": "2026-11-11T18:42:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
