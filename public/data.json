@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T23:42:30.605988+00:00",
+ "generated_at": "2026-11-12T00:04:37.950184+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Gran Teatro Nacional",
+   "name": "Palacio de Gobierno",
    "city": null,
-   "lat": -12.08663,
-   "lng": -77.00316,
+   "lat": -12.04491,
+   "lng": -77.0298,
    "abroad": false
   },
   "source": "La República",
-  "date": "2026-11-11T23:24:58+00:00"
+  "date": "2026-11-11T23:59:19+00:00"
  },
  "next": {
   "place": {
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQkxoNll4d0VZOHR1RWlHWmpCaFE3ckxpSjI5TXRsU2Mxdl81SE1MUXZoTzBnNEFBRHFEdWNiTm9BT255Rkk0eVhORVBjdE5oRVFWajlKRHJWNW4wOEdtY3g1Nk82MGIweF9HZHIxN1RBUEk?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 3,
-  "posando": 55
+  "triste": 1,
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -363,6 +363,62 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "96ffd34594bd",
+   "title": "Papa León XIV llega a Palacio de Gobierno: Keiko Fujimori y sus ministros lo reciben en su visita al Perú",
+   "excerpt": "A la espera del sumo pontífice, el patio de honor del Palacio se llenó con la presencia del Regimiento de Caballería Mariscal Domingo Nieto y los Húsares de Junín.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-llega-a-palacio-de-gobierno-keiko-fujimori-y-sus-ministros-lo-reciben-en-su-visita-al-peru-hnews-754017",
+   "date": "2026-11-11T23:59:19+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "ffcecb3dfa24",
+   "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen en Palacio de Gobierno",
+   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
+   "date": "2026-11-11T23:59:06+00:00",
+   "state": "transmitiendo",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "f6cc7c124842",
+   "title": "Papa León XIV recibe saludo protocolar de Keiko Fujimori: el momento de casi medio minuto en su bienvenida al Perú",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFM2UHVNVjZ3NGNpWGhSbXI1Ungxb2ZjckxmVTFNUi10LUVoUmN3ZU50Qnl6LV8yQ0dBZGoxbTdadUpVNFA2elVHczh3N3paWnFFbFBRS2IwRnZLU0ZoMTItbi1ZcjFSR014VTBkdlU3MW94S29Vc3pxdnJMcHhHTUotWXo3OGFkeGpHTV95ck5iaUdnbGoxVjJlVGFRN2RvcXZFblZTcnVLLUx2NnotNmRkMzhBYTVTSlRWaktlOC15QW40X0tSazRmREZ5Ym9yWEVTSWl3WU5HQ203c2h5V2JSTHZYWms00gGDAkFVX3lxTE9ja0hsR0I0VkRKQjFRekI3RjRVN2IxYXo0YXhPd3daRTZWOHdwZ2JWWVgxTnpLVTNjdXhYU1JteG9ENHI4Y0xzc1FobWJFNk81QkgtelBGeVlJVlhKYjZKZGJDUXFyRmFBY25vZzl0bEhEdTFTZ0ZVUnpJczFRb1l2SnZ0dFhZVE1zNkRiVDh0dzVTTWFTTmtUUEFVQWlrNnQ5cVN3NEg5Y0xZZXZFdk1EQnJyckU1Mzk0TGFXSEhlbUZaa3EwWUs1dFZBU3FlYVZ5TTdhVUxxbEJ3dVZDM283em9QdElEeHBWMS1nMWRTdWxaMzU4Vm1ieXpqd0JoVUVVWDQ?oc=5",
+   "date": "2026-11-11T23:46:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "32010362e182",
+   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNTM3JhTVVZXzZtVjdJeWJ2QndfSS1vY2JXZ25Tb3FlUVdzUnZXVkd5OTNvRVYzdm1CaTJ0NTMzM2t0QllTLUJ0bjl1dExsWDUycnVyUTBKNmdQQUtaS0RPRDY0Tm9FVFE2bGhMTUN5VWE0Nm0tVHBJUC1sTjlrQURtR2tfRl9EVDFfOEkzcVIzU3V5bjlGOWVDUUFkR19EenNMQ21YYmNlU3huYTlQdFVXSzd0NHljOWxxT0VNdTFxNEE?oc=5",
+   "date": "2026-11-11T23:45:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "dea7b26d97b1",
    "title": "Papa León XIV dará discurso en el Gran Teatro Nacional: conoce la lista de las autoridades invitadas al evento",
    "excerpt": "Entre los asistentes estarán la presidenta Keiko Fujimori, el presidente del Congreso Miguel Torres y otros líderes de instituciones peruanas.",
@@ -375,23 +431,6 @@
     "city": null,
     "lat": -12.08663,
     "lng": -77.00316,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "5418dd45c080",
-   "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen esta tarde en Palacio de Gobierno",
-   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-11T23:03:14+00:00",
-   "state": "transmitiendo",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
     "abroad": false
    },
    "next": null
@@ -445,8 +484,8 @@
    "title": "Keiko Fujimori recibe en el aeropuerto al papa León XIV en su regreso al Perú",
    "excerpt": "El sumo pontífice volvió al Perú después de un año y medio de haber sido elegido como el sucesor del papa Francisco. La presidenta Keiko Fujimori encabezará la ceremonia oficial…",
    "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-recibe-en-el-aeropuerto-al-papa-leon-xiv-en-su-regreso-al-peru-hnews-513458",
-   "date": "2026-11-11T22:37:18+00:00",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80d9IB0wFBVV95cUxPM1hPUVJhWVJUSXFzbnoyV01vVVlwcHVuR2p4c29Hb2tES24xdlhvRV91VVhhcGtfemhNSG1NdS15RkhFQWQ3bGJLQS1meGJXb0VpTDFINkJCZXU5dkxmcTAtcDZwUk5xVy1jQ2tCaWgyY2NIQl9sSDZDTXhVempmUkNmdmxUTG5EN01IQ08tbV9BZkxCc0pGVmZmVXNITnRZeGRIMFd4RDNzdEdoWE5CSFk5N3JaeUdtRTFWajVXdDNTSzZWT1k3aUpjVkpJcjdFU0x3?oc=5",
+   "date": "2026-11-11T22:45:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -471,6 +510,23 @@
    "date": "2026-11-11T22:07:03+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "5418dd45c080",
+   "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen esta tarde en Palacio de Gobierno",
+   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUmRVZ0dsczZGak5YZ181Q1BPVmNJSTNhVU9fVU9sdUV3MU9mcWtXeUVCMVg3RXdXQVhKanFCd1dtZWI1dkpUMVduZlB5V3FrZFRPWFdtVFhPN00tZDJyMWpHT294Y21FYVNoUldyRTRxanA3WTdrRXM5QV9mWXlKNmJGS0N3X1JyRFJkd3F3MXAzTTNQc2FkSVZtMktWdWctNnVnSXF1LXJJWlhkRUt2UmpfSDdJVDY3Smhja3RrVm8xSVBmZ3lxVmRyUmwxTzhCSi1wcFZxVnExVUtuaVRjUGJJY0NoRWhFdmE5U01iZVhLMVM0ZEFv0gGLAkFVX3lxTE1rRnBWYU1aSlBMbWpGeDVNQVdMQ2RYZTBBeTg3UFN1bkJTMk5Wa3J0MVVGQV9YQ19pcW9tTENOLU40Y1pORFluZkIxSnV5NHllQXN6cnlGRmRjUjRHM2lfVmVzTGRZMXVCUW4xVWlvOVJqbjQ2UTcxR2NOa3J4RkcySGpvMlZSTE5ZUjBLd011QjBwcF9NSzVVSVhZd2ptT0t0UVF3MGx1bENMSENMNWVKWEpScjR2MllNN29ySDM0VS1KbW42V25KRHF1WU1FZkpyTkRBamxrTlp1M09IRlFPamRPbC1rLXlZNDlpQXd0YUZPd0xZT0ExQVVWMWx4bEc1TzYxdXVTWFlBYw?oc=5",
+   "date": "2026-11-11T21:58:36+00:00",
+   "state": "transmitiendo",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
    "next": null
   },
   {
@@ -671,7 +727,7 @@
    "excerpt": "",
    "source": "AFP Factual",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kR1dvRnlQb0hTT3FubjNwOVl2ODRyTUNESHhqVlQ3LWQ1aEo3TXVld05Db3djMmJHekduaVlxVGZJLXM5VHg2T2pwcW1UWkgwdExxR1NR?oc=5",
-   "date": "2026-11-11T20:21:02+00:00",
+   "date": "2026-11-11T20:19:46+00:00",
    "state": "posando",
    "place": {
     "name": "Cusco",
@@ -764,6 +820,17 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUHZkZkZMeXl2MjBpdlRTYThBRzZNOGhESGdVUFZ2WVM3UWxRQXNhazZVSlF3YlVDYjI0WjZRZzY2V2h1M0tCV0FSSzRYTEhvaFVZSkpDV24xZFBBTFZBQmQtOFdBdjd4cHlPUmVKTzNId09lQ3p4bHdBcU9ubVAtakJKM0dqeF9EeGd2VlVpMU5selB0dlNMWXA2VDRKMXZScEFmcEcwYWtfeEZvTExCSmdpTTZuYURUNGVySzA1Qm5JLS1lQ2t4ZGk1WC1tUGs?oc=5",
    "date": "2026-11-11T19:20:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7859ac4e041d",
+   "title": "Presidenta Fujimori saluda autorización del Senado para viajar a China y Japón",
+   "excerpt": "",
+   "source": "Tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjVkVHB5Yjl1TUVkTzBLQjdOUkNla2ZEMEdBS2FUdFNUNDhuNFlGdjNEa1JqVElpTVltcHpsbW1KcXJmcWx4UE90M2x3a3ZXZ0VNeDFHeGtKcHRyelVRQTVUNmJLODFkY3FrOU9tQVF6OWhhV09JLTFadEd4dlpZbFloZGgtSHdhLUpHeTgxdWRkdnVMNTF6WFVaLTRuZndlYjBRMFJYakRKWF9JSDBsak5wVUYtcVA2LS05YQ?oc=5",
+   "date": "2026-11-11T19:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1024,64 +1091,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOMlhjNHZKRTFUS1o0OVJ6RTBFT255eUFtQi1qNjdXTVc5dWpMZ1N4QTVQZFVlanhwMl8wdVV2d1IyOUx5TlA5ZkNqd2ZDakxiTDJLWFF5OXM4LXpKUkZidFpjX1ppQ2t3Rjk5eDFFQlNUZVBiaE5KcWYyNVpta05jSXFzR1l4N2hrcTB4WFdjQkc4N2RWVy1jN1FZRDJaY2hwN2xiVjJkcWs2TXBfRjJCMFdIbmQzaUp5T3R3UXI4d3lFRF9PLUEwN2tNZ3FseDhDUG1sdWxrc1NCdE81eDRwbjlWZGsyTVNJb0ZhMHM3OVdwQWd2bGh3SzdhU0lwQ1VtZGFWSktFTFdsbGlYSlgwNW0wSjV5UQ?oc=5",
    "date": "2026-11-11T16:38:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5fbc6103bdfd",
-   "title": "“Jamás lo desairaría”: Keiko Fujimori respondió a las críticas por viajar durante la visita del Papa | 11 de",
-   "excerpt": "",
-   "source": "Hoy Día Córdoba",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmdmWkQ3QjRmNkR2WUdzck5wb2lPandEWkc1MnNjTzlBS1NXX2ltSThUS1VVY2RxR1dnbUpndm54Q2p2TldOeWdUZjZkVzdXNHdmTl8wMjc1dTBSQ3d3Q3hRVjVLdUNiQXo5WnVWb0h5QVFMOHJFQkFNZHhaTWUtbXo4TnQ1bVg1TUxFOTRRUVVWNThfd3U4bUsza2ZESkdNWlJmNlR2cmtyb3dxeWR6WF80Z0hRRkFaSm9BVkg1azJCdkpO0gHKAUFVX3lxTFA3SlJTT2FWVVBjN1R5dnc0S2w0cktYVlZMVUdHbDBZWUU1dHBJLTBxODJZQWtKRm1XSDQyLXYzS0c1aVBJaGppUXdtQi1MTFNsVVJsYVBBdUduTkg4M0pVV1p0XzJSYl9Qd2lBZU44bnJQMTRnMTcyR1FaUGtieGZ3M0NsQVVaOUxCOHMybHI0TnJ2VVJXZWg2TUN5YTd4aW96UHFSNmZnVTNBYU5MR2l5Z096aExUYTFjOVZJdWliMi0wZDhvWG9TX1E?oc=5",
-   "date": "2026-11-11T16:36:12+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "69e88fa28491",
-   "title": "León XIV llega a Perú en medio de críticas a Keiko Fujimori por su viaje a China durante visita del Papa",
-   "excerpt": "",
-   "source": "La Tercera",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYUJnWDIzMVRiY2owTVpITmRaT0VZcUw4LXcyeVNidWxmdkppbXBmVFRoT2VFdWJYUmxlNE1TSGxMSjY2a0g1WEN6MzQwYVFhSVFTRmtnT01JZVNUT1BidzNNWWh6c0U1TnJDbmlvdWVFeGxxMVRWMlUtNUxVQS1sSXpBZTlsVGZfZnEwVUtzeUFoWmpNVHBIS2dTc0YyMGhKWG5XWVdGVWpQNWRlX0s0TVp2UENqSzFtUGNmV25pRHRLbV9uZ0Jkd3VsYTBGM3hXemNHWW1QTjRlYVFpd3fSAf8BQVVfeXFMTnJKRmctNm5MWUxVYjJTN3dHeVg4N0g1djFkVndNWEF3Sjd4S3o4NV9Ic21Rd09GbnZ1R1FqWTRWck1YeWN3ZDFHSUxfOVZOeGlTUU1lc0lWdGZFQzl2WHVrcGJpQm5vaVBRQjZDejAtZnN0YW1uU3RTRkt1Yk1WUjV1andPSHZQS2poZjFwdlBUQnJOcUxMRmRfMGJuOXpyMlNyMUZWUVA5R1Jja0RTVFhkOEZZYWFpVklNVllFd2kxOE0xTy1TVjN2dnpKOUVzNFBodkhkUG45TjYyN0IxemswMGRUY2VFdGRyTEE0OFNfWWZHNUxaNGNITHA4VTdn?oc=5",
-   "date": "2026-11-11T16:30:00+00:00",
-   "state": "triste",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "db19a3a6d4b7",
-   "title": "KEIKO FUJIMORI NIEGA DESAIRE AL PAPA LEÓN XIV POR VIAJE A ASIA",
-   "excerpt": "",
-   "source": "ProyContra",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZHNFWWR6NXFyeXhIRUU4djFRNGZyYTNENjRHbXNPRFZEaWFZRk5HSzhtVWNZVEtMSU9wNloySVdlYkRPeXhxUGdnYVc1RnpPbV85LV94VkhxM184ZVlnUmtOTmkwS2t1V2JlMGlNVkFrRG1zbDZnX1d5Y3pFeXlsTG9MRG9uM0RINWJIQkZYTk80QVpHMTNYN0xLZ251cVVuVlE?oc=5",
-   "date": "2026-11-11T16:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9fefd73a3639",
-   "title": "Ana Lucía Pineda viaja a Perú invitada por Keiko Fujimori para acto protocolario con el papa León XIV",
-   "excerpt": "",
-   "source": "Pulzo",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONTBiOHIzRmZPNFhwdF8yQ2FvZGhIU19lRHBVVmMyLWJaVng4Q0xBdXpGcUkxQjZsS1h5bUw1VnYwR3dXUEg4alE0WjFfMjVNNm9kU1ZmcDVITFdiMU1DZW9XcTVtQzRYYWFKMkJxZWZLdnE4a1VkNkJhNlFXdndDeTFXclQyN1NMMWx2enc4R3lGQnA2UTJiYXpLNEM0eGpIdElXZXlSUGxDbjZ4V1hKUmV4SEs1QWtWdDdlbXdsS0hBMEtHVXp0MDN0cGt4bjVFdHJjZXNwcWFRNWPSAeABQVVfeXFMUGpkczUwNGVWRFhKd29NSWxfalNqTVRVNTBpQjdFWGNzRGdVaWZjaGZtOU5GQjR1QWJWQl9ELXBDSkZQNW5mXzRqQXhmSlVTUFFBWU5JT2lod25ibHVFRVZjSGlNQ1U4Q1FnaFFMMFkzMDdBYVVLY29USmJnZWV2c2dwbGNQeVdBbkZFaTVwXy1tc1A2alJyOG9mLTdHQUZsWEpMbHd5bmdidzVJb1RxRE83bUtGRmdIZS1scWRFTkNkX1ZiYmhVNEhLdmdqMDFqdDdJaGN2WVZ3VTlVeV8zZjk?oc=5",
-   "date": "2026-11-11T16:25:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0a8cbff3e782",
-   "title": "Keiko Fujimori se irá de viaje mientras León XIV todavía estará en Perú: “Como presidenta, tengo obligaciones que cumplir”",
-   "excerpt": "",
-   "source": "Clarin.com",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU044aGlPU1V4Z2djNi1Ta2NDbTJjSThYY2R5ck1OX2Jncnp3MkkwcmVIcUVEaE1EV0psTGhFcTc4bUZwVTctX1N0bng4ZVhZQlVSTXZyRXRRYVdBbEZyWWNKcG8wbmNsVFZ4QzJCcGdaWDZrdHlvRmZJcUJCTmZFMWVIYXVEOWFBWTRqSUpHRDRUVV9sVTB0NXU5T3UyRGp5X1VySmJBZHFRdXdidkFMaWQ2LWp3U19BQVNrM2RSN3B2MXg2V29qQU1sOA?oc=5",
-   "date": "2026-11-11T16:24:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
