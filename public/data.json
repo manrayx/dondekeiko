@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T12:17:13.770416+00:00",
+ "generated_at": "2026-11-12T12:38:30.131224+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-12T12:00:52+00:00"
+  "date": "2026-11-12T12:35:13+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -368,12 +368,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4515abf59210",
+   "title": "Confiep y Cámara de Comercio de Loreto destacan que producción de hidrocarburos en la región dinamizará la economía del país",
+   "excerpt": "Durante la conferencia “Visión Estratégica del Desarrollo de Loreto”, organizada en el edificio Juan Santos Atahualpa del Congreso, el titular de la Confiep afirmó que en el Gobierno de Keiko…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/confiep-y-camara-de-comercio-de-loreto-destacan-que-hidrocarburos-en-la-region-dinamizara-la-economia-del-pais-noticia/",
+   "date": "2026-11-12T12:36:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "501ef570d79d",
    "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
    "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-12T12:00:52+00:00",
+   "date": "2026-11-12T12:35:13+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -402,17 +413,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
    "date": "2026-11-12T11:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4515abf59210",
-   "title": "Confiep y Cámara de Comercio de Loreto destacan que producción de hidrocarburos en la región dinamizará la economía del país",
-   "excerpt": "Durante la conferencia “Visión Estratégica del Desarrollo de Loreto”, organizada en el edificio Juan Santos Atahualpa del Congreso, el titular de la Confiep afirmó que en el Gobierno de Keiko…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/confiep-y-camara-de-comercio-de-loreto-destacan-que-hidrocarburos-en-la-region-dinamizara-la-economia-del-pais-noticia/",
-   "date": "2026-11-12T10:58:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
