@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T02:14:40.829647+00:00",
+ "generated_at": "2026-11-12T02:36:31.767238+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
+   "name": "Gran Teatro Nacional",
    "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
+   "lat": -12.08663,
+   "lng": -77.00316,
    "abroad": false
   },
-  "source": "El Peruano",
-  "date": "2026-11-12T02:10:00+00:00"
+  "source": "La República",
+  "date": "2026-11-12T02:17:11+00:00"
  },
  "next": {
   "place": {
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 55
+  "triste": 3,
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -130,6 +130,54 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-11T19:15:00-05:00",
+   "end": "2026-11-11T19:44:00-05:00",
+   "minutes": 29,
+   "subject": "Reunión con el papa León XIV.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-11T18:56:00-05:00",
+   "end": "2026-11-11T19:04:00-05:00",
+   "minutes": 8,
+   "subject": "Ceremonia de bienvenida al papa León XIV.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-11T17:34:00-05:00",
+   "end": "2026-11-11T17:39:00-05:00",
+   "minutes": 5,
+   "subject": "Bienvenida al papa León XIV a su llegada al Perú.",
+   "lugar": "Grupo Aéreo N° 8, Callao",
+   "state": "posando",
+   "place": {
+    "name": "Grupo Aéreo N° 8",
+    "full": "Grupo Aéreo N° 8, Callao",
+    "city": "Callao",
+    "lat": -12.056,
+    "lng": -77.118,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-10T18:05:00-05:00",
    "end": "2026-11-10T18:20:00-05:00",
@@ -359,9 +407,26 @@
    }
   }
  ],
- "agenda_minutes_7d": 323,
+ "agenda_minutes_7d": 365,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "45b46e590353",
+   "title": "Papa León XIV a Keiko Fujimori: “Los sucesos del pasado merecen ser tratados con justicia y sensibilidad”",
+   "excerpt": "Durante su encuentro con las altas autoridades en el Gran Teatro Nacional, el pontífice también pidió a los representantes del Estado escuchar las necesidades de la población y fortalecer la…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-a-keiko-fujimori-los-sucesos-del-pasado-merecen-ser-tratados-con-justicia-y-sensibilidad-hnews-999559",
+   "date": "2026-11-12T02:17:11+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Gran Teatro Nacional",
+    "city": null,
+    "lat": -12.08663,
+    "lng": -77.00316,
+    "abroad": false
+   },
+   "next": null
+  },
   {
    "id": "fc93ad2b550f",
    "title": "Presidenta Keiko Fujimori recibió al papa León XIV en Palacio de Gobierno",
@@ -380,6 +445,17 @@
    "next": null
   },
   {
+   "id": "980b77acfe9f",
+   "title": "Cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
+   "excerpt": "",
+   "source": "Gente de Salta",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGRnQWpUV2VGam56VmdER0dDd1kwcTBYN0F6d1dLU3FPWE9yazVZQ01TNVNhNG1jMzdSTmxwY2oxWndwNU80Y0RhMVh5MDk2N1VseHVJbUN4VTduWEdXSm84Y0VCamtkQ3dtS0U4ZFNMSEEtdk9hX2YyZm1xQm5OSkY4c1R3MnRzdDVJaUozWFpyQm5mXzA0UFNpR1V5RElRSWljY3hwUzliWlZkMlNiekZR0gG3AUFVX3lxTFBkRk9GUDlJNkRrRUxJVDhfZ2I1OHBTOGQxQkEtSU10OVhNODFzNnJzQVRjN3g1cmpRTXVaekVmLV8tNkNxQXFfWW9OWTVWRUZ3OHB0MVVYOWd6ek81NmtETGhaLUFkZGdmLWthcE9JYlBYUlFraXBkbE1kRElkUVpLNTRtaVdsd0hoTzU0a3FMYXFVX0FRanVReXpZM2lUei1UZmdSS1c5QnlJcFN5TDRBVjItdVotZw?oc=5",
+   "date": "2026-11-12T02:09:00+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4df14919ebdf",
    "title": "Papa León XIV exige a Keiko Fujimori preocuparse por las personas con problemas de salud mental y discapacidad",
    "excerpt": "El pontífice enfatizó la importancia de cuidar a quienes sufren enfermedades y destacó el sacrificio de las familias que brindan apoyo a sus seres queridos en situaciones críticas.",
@@ -391,20 +467,36 @@
    "next": null
   },
   {
-   "id": "45b46e590353",
-   "title": "Papa León XIV a Keiko Fujimori: “Los sucesos del pasado merecen ser tratados con justicia y sensibilidad”",
-   "excerpt": "Durante su encuentro con las altas autoridades en el Gran Teatro Nacional, el pontífice también pidió a los representantes del Estado escuchar las necesidades de la población y fortalecer la…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-a-keiko-fujimori-los-sucesos-del-pasado-merecen-ser-tratados-con-justicia-y-sensibilidad-hnews-999559",
-   "date": "2026-11-12T02:06:17+00:00",
+   "id": "791e0da37320",
+   "title": "Keiko Fujimori al Papa: Que la reconciliación sea el regalo que su visita deje al Perú",
+   "excerpt": "",
+   "source": "Vatican News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejh3blNaU3BnX3dOOXBwaXVBNGV3eXJGbjlRSjRKcDlvSHhNVWRjT1lPZlgtZnRGM055X01kODVBNF9XQTJidndZdmdBRVIwc1NPaEo2ckVUaGxHekw5VVFra0h1NV8xcEgxY0RvdmJDRF9Qc3kyXzFfTnhZSDZNc2x2VHg3dUZpM1NvX1FhdDRkbU1OVVdPam5KOTJfR09xZE9sQm9FcXM0YUlTWENqcHZoeTg?oc=5",
+   "date": "2026-11-12T02:07:02+00:00",
    "state": "posando",
-   "place": {
-    "name": "Gran Teatro Nacional",
-    "city": null,
-    "lat": -12.08663,
-    "lng": -77.00316,
-    "abroad": false
-   },
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6d0a1673d647",
+   "title": "Keiko Fujimori a papa León XIV: “No tenemos que pensar igual para reconocernos como hermanos”",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1c4NjJodFRycTVrOEYxUV9vMHFsUWpzWHlGRlh5YzQ1YURNZHo5eENTRDdXc1h0WmNVVlBiVjBxcTYtNm9EaVh5RWRaM1BlOHJVTjYySmZFUVAwVTNKSi1UVWxTOFQ1eXlOU2wyZDNFSXBzdjRqSFEtcmlVUExHNGZWY1dRY2ZYVGRaSFpmVktwZVdpNEpOalRIT1p3RFR2LXRKREVFYWxKTFF4N1d2Y0NhUWJFUEpqbG8tMHU0ODh1akJLdVN1aFhYONIB5gFBVV95cUxPTFpvcWRBbF9MY25abThUX1lXNl9MMUlvTnBjcUJGYThMOFJ1cjk3TmRfZlByRlRsQmw2VEVBUDVEM1ZXSUFnWUJ0LXBia19GTW5UZE5vN08zUGhfc0VVMzdMeXEwd0l5UUdQaXlkUVZLXzJTQ3ROUThldFd0YXFXUExYNzZQQXRtdXA2Y2l3dGZURVJiREcyLVB0VUVKdUg4dkRQODNDQ0F3T0NYMFdtcmxzdVlzRzM2VmJyeWZPS2VRTVBaTTVreU51NWN5cFJhY1VWYThDWVA0MXFnN1RnYjgzaUU3Zw?oc=5",
+   "date": "2026-11-12T02:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c1f6a9a3e32a",
+   "title": "Con una reunión con la presidenta Keiko Fujimori, León XIV da inicio a su visita a Perú",
+   "excerpt": "",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdndlV0tKeHZwVXhtbVM3eGkzS0xvd1FzLU9XWURkRDVqSXRrUnRNOU9mM1VfYU5uNjd1dTJhaHJZWVJQcFdFRDdNdHp0a0djLTdyclFfc1I5QlNSa3EyTC0wd1pKcUFaOUhBalNxNkFMQldVaTdvUU9zdVRnQlBwWmhCaUlOR3hFUzhIa3FVMjhTNzJyZ0JMWmRnRTk?oc=5",
+   "date": "2026-11-12T01:59:00+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1068,50 +1160,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "b1e42f63e92f",
-   "title": "Encuesta del IEP: El 51% de peruanos rechaza que el Congreso haya otorgado las facultades legislativas al Gobierno",
-   "excerpt": "Sobre el impacto del Congreso en la gestión presidencial, el 34% de ciudadanos consideró que “ni facilita ni dificulta” el trabajo de Fujimori.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/encuesta-del-iep-el-51-de-peruanos-rechaza-que-el-congreso-haya-otorgado-las-facultades-legislativas-al-gobierno-hnews-676291",
-   "date": "2026-11-11T18:29:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f25254a3ff17",
-   "title": "Sheput sobre viaje de Keiko Fujimori al APEC:...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDZmZjZuN0hsSGhvQUl0UEZycVkxaVVtNHA2eWVGNG5sNmNiYnkyaDdZYVNic1BJQTM3a1FnMEh4X2ZDbzAtTW1oTXA5bjFvQnFyS3M0ZWVUTi1iV3JEWVgyZW9wNTBZR29lV19YMmtId0VqX1hyZVRsVWtIYW9sam1OdGdDNm5XZ2RoR2ZyVEc2LUlOLWxxZWRiaEJ2a3PSAaQBQVVfeXFMUHVmRzMxaDFoZ05EMnowLWRTYnhnZ0lkbEY1MU5kWHlCLS1jNVpKb0RQS0poOGZqZndiejlXNGVhN1piODRtNXhfa0VCcE5UcXRRQnk4SXJ4MWxtUjMyRVBqdEFRNzVNa1p2MWk1aXlqRnRHeEJEdlJaMW53WmZFMnZSVXNkN3JHNmNqSlJYTW83QWJnZjhnQkU4WFgySmxJeEFxRXk?oc=5",
-   "date": "2026-11-11T18:23:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f6a03b1e9049",
-   "title": "La polémica decisión de Keiko Fujimori durante la visita del papa León XIV en Perú: “Como presidenta, tengo obligaciones que cumplir”",
-   "excerpt": "",
-   "source": "La 100",
-   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQk9SS0JXSXZzaUVwNDV6amMwbFYzV281WjRjQVdrUGJ4Z0ltUVI3YkRWMWl6c1A5cGgxTjJjOGVvOURudk1GYzNONjdEVVRQdkNTRTlmVVpidXFZTmVmczlGWThPY1RYYzcwR3ZPSlpLVHRUX0hhLUtiOGFWSGdUSjhYaTNBWThpelRwMDhHZjZZejZqUm1VODVaLWFieThlbTFMMy1BVjJLSmc2UHlQMVZ5RjVCeU5QaGd6MU1mWkFCT3hMdjJ5TjRLUXZlcEgtSFktNjUyMVVQYi11eWpvaWdndmtoRUhxd2JtSTE2Y1VKYllnY2hQbmtUakJwUzg1Qmd0bGRn?oc=5",
-   "date": "2026-11-11T18:22:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "03903d908f4b",
-   "title": "Pleno del Senado autoriza viaje de Keiko Fujimori a China y Japón del 15 al 21 de noviembre",
-   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
-   "date": "2026-11-11T18:07:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1241,6 +1289,7 @@
   "base aerea, peru": [
    -12.16056,
    -77.00256
-  ]
+  ],
+  "grupo aereo n° 8, callao, peru": null
  }
 }
