@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T04:45:08.887674+00:00",
+ "generated_at": "2026-11-12T05:07:05.894714+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-12T03:41:36+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-12T05:01:00+00:00"
  },
  "next": {
   "place": {
@@ -369,61 +369,54 @@
     "lng": -77.0298,
     "abroad": false
    }
+  }
+ ],
+ "agenda_minutes_7d": 337,
+ "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
+ "items": [
+  {
+   "id": "ab735ca6ad93",
+   "title": "Keiko Fujimori: Esta es la agenda que cumplirá la presidenta en China y Japón",
+   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
+   "date": "2026-11-12T05:01:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
   },
   {
-   "start": "2026-11-04T17:00:00-05:00",
-   "end": "2026-11-04T17:27:00-05:00",
-   "minutes": 27,
-   "subject": "Lidera la firma del Pacto contra la Anemia, que contempla la intervención articulada multisectorial del Gobierno central en alianza con gobiernos regionales, el sector privado, organismos internacionales, colegios profesionales, universidades y organizaciones de la sociedad civil.",
-   "lugar": "Palacio de Gobierno",
+   "id": "501ef570d79d",
+   "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+   "date": "2026-11-12T05:01:00+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
+    "city": null,
     "lat": -12.04491,
     "lng": -77.0298,
     "abroad": false
-   }
+   },
+   "next": null
   },
   {
-   "start": "2026-11-04T09:10:00-05:00",
-   "end": "2026-11-04T09:40:00-05:00",
-   "minutes": 30,
-   "subject": "Supervisa módulo de control de acceso al Establecimiento Penitenciario Ancón I.",
-   "lugar": "Distrito de Ancón",
+   "id": "ae7802493ba1",
+   "title": "Presidenta Keiko Fujimori sostuvo audiencia con el papa León XIV",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWU1jTkFwaEdsNl9jNUpnZ0diMkVsVjVIQnlKTHRXeExWLXZEZ1k1eGduRVZsOURGTkZMUktQbGdQTWZhdXBRanIwczF3a3RQZ1FrM2dxbDc1S2tjQXlJTERZVkM5M0sxakxjbnB4Sy1DTUZ6UU1ScktwemswRFFVZnRaZzlURjhMOXpSaHo2X0JTbHpsRDJwNDhDdEx4ajN5WUE?oc=5",
+   "date": "2026-11-12T04:23:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "Distrito de Ancón",
-    "full": "Distrito de Ancón",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
+   "place": null,
+   "next": null
   },
-  {
-   "start": "2026-11-04T08:45:00-05:00",
-   "end": "2026-11-04T09:05:00-05:00",
-   "minutes": 20,
-   "subject": "Lidera ceremonia de entrega de dos terrenos estatales, con una extensión aproximada de 2600 hectáreas, al Ministerio de Justicia y Derechos Humanos para la construcción de dos establecimientos penitenciarios en Huacho.",
-   "lugar": "Distrito de Ancón",
-   "state": "posando",
-   "place": {
-    "name": "Distrito de Ancón",
-    "full": "Distrito de Ancón",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  }
- ],
- "agenda_minutes_7d": 414,
- "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
- "items": [
   {
    "id": "32010362e182",
    "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
@@ -431,17 +424,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNTM3JhTVVZXzZtVjdJeWJ2QndfSS1vY2JXZ25Tb3FlUVdzUnZXVkd5OTNvRVYzdm1CaTJ0NTMzM2t0QllTLUJ0bjl1dExsWDUycnVyUTBKNmdQQUtaS0RPRDY0Tm9FVFE2bGhMTUN5VWE0Nm0tVHBJUC1sTjlrQURtR2tfRl9EVDFfOEkzcVIzU3V5bjlGOWVDUUFkR19EenNMQ21YYmNlU3huYTlQdFVXSzd0NHljOWxxT0VNdTFxNEE?oc=5",
    "date": "2026-11-12T04:12:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ae7802493ba1",
-   "title": "Presidenta Keiko Fujimori sostuvo audiencia con el papa León XIV",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3R4OGVTMGtZNE5aSTVINjU4Mm5tWm9ReVdrRHhiaHFOaTc3RGtaOXl0UFNOaHR1X0lOYl9wX0hySDA2UFRtRXBnb2tOcVYxX21mdV8waVhQdHQyd2J5OW1OaHBnMThmNGxSVl9tY1hBNG9sYUhzZktqalZsLUc0cnRXc2hLNlk5aVFLeVF2Q3V0MHRaQkZjeWpaYWJWMXN4enRhOTNucTdUal9y?oc=5",
-   "date": "2026-11-12T04:10:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -490,6 +472,17 @@
    "source": "EWTN News",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rLUNvNnZ3ek91Y0FnYU8yOFN5WlY2bUR6dTFLMVBWTkZDQzgtVUt3eGxuQjV0clBaOXhHam52dFlPN3ZpVlFzY3g3Rjc3NUY1U0ZzaVZZZUxsMk00YTNtdnVMblh1MnVXR0FPY3lqRVRNZnM?oc=5",
    "date": "2026-11-12T03:09:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1a7e2e93b0d5",
+   "title": "Keiko Fujimori pide reconciliación nacional durante encuentro con el papa León XIV",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVZzWjhSS3VTdVh6T2hvOGhKd2g0SjJsS1lJMnRpWWZ4UEI1VThoQUsxRUVJUkFOcFB6Y2JyUnI5QTdidGhIZFk0Ry1JMHZOTVl1aTRkMmg3aXc2WUF6aDlOaXV2akxFSnhLU3JTaGFOTGhyRVRYbnhKaUJocERmeTM3R2VwZG1BWUlCc1pWVkQzNUVDcnRQdm5acDFSb1pJMmFGM3pkYk9kV0dmQjRB?oc=5",
+   "date": "2026-11-12T03:07:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1131,51 +1124,6 @@
    "date": "2026-11-11T20:25:37+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "cc9ab72f67de",
-   "title": "Keiko Fujimori tras aprobación de viaje a China y Japón: \"Cumpliré una agenda de alto nivel\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcXBGcHdJcHRhRkxmWU1KSlRyOFFOcmZ2VmxTMWxza3lNc1VCSmZmOFJRTTZINHEyOGREMUxIRmJ0ZWI3ZUdLSlRuWGR0elVBcHlJb09fSVViR0kwOVY2UmN1TmFMeWZ0RTZiV2dYay03T2ZYS1NUODBTaWNqSUdobFljTjlJTVdQMnJIZmk1WVd4ZVg0Sk44UklhU3NUNGFxLTFiXzF5WEhYTG50NE1iUGplSk5EYm9wd1hqNkVMSkFfaFdPMGJicw?oc=5",
-   "date": "2026-11-11T20:19:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "9a8842162a43",
-   "title": "Keiko Fujimori agradece al Senado por autorización de viaje a China y Japón",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPclN1ZlJ1Wm5aMU1sTnl0N2RWTGQydnZnTGRXampEUS0xZ1UwUW1Xc2pQR3V6WjZBc09ZQmFJaFQ0b2dIV0Z4Sk5NdXFtalBpUG5RcHN2anZER21ZMGVGaWJrWG0zaWZKcEpVQWF4SlJCLTN3Sk5DdlYteHJ6ZHFucFcxWjdOYkkxbENpMHNtd3RHT3hReGI4YzJhYTRTaFZkTllvNHBB?oc=5",
-   "date": "2026-11-11T20:17:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "4007631cd54e",
-   "title": "Video de abucheos a Keiko Fujimori en Cusco en 2021 se asocia falsamente a su mandato en 2026",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNTh3QWNDdE1mVkNQSXVSWWJyWXRoTl93ZV9PRHg2MXJMUFg0bDdMVkhmN3dUekVZRmdmT0kxWEdkRUttaU9tYTkzT2g1ZFNvRTRiRXMza2EtRmg4UXFuSERIZENqV1RnbXZPOWdwbTFIR21mdmwzUVRXdDd5dkhfWmhWWGZZYjN3dVZz?oc=5",
-   "date": "2026-11-11T20:15:33+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Cusco",
-    "lat": -13.532,
-    "lng": -71.967,
-    "abroad": false,
-    "city": "Cusco"
-   },
    "next": null
   }
  ],
