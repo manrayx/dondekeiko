@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T11:13:17.556808+00:00",
+ "generated_at": "2026-11-12T11:34:40.540905+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -375,6 +375,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d54df5e516e6",
+   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
+   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
+   "date": "2026-11-12T11:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4515abf59210",
    "title": "Confiep y Cámara de Comercio de Loreto destacan que producción de hidrocarburos en la región dinamizará la economía del país",
    "excerpt": "Durante la conferencia “Visión Estratégica del Desarrollo de Loreto”, organizada en el edificio Juan Santos Atahualpa del Congreso, el titular de la Confiep afirmó que en el Gobierno de Keiko…",
@@ -483,17 +494,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUjZTc20wMWx5Y09ZaVNmcEw0RXZpTWtiY3c4bnpiQ1Fia3BtZXVPaktsS2xsQ2pqaGRkeUJKaHRZdnhxMGNQWkNyQUxtU3ZGdzJ2ZzNaOXB0ZXJsVHpoT09yT0ZBQQ?oc=5",
    "date": "2026-11-12T04:09:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d54df5e516e6",
-   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
-   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
-   "date": "2026-11-12T03:26:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
