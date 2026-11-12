@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T05:07:05.894714+00:00",
+ "generated_at": "2026-11-12T05:28:17.124318+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -728,6 +728,17 @@
    "next": null
   },
   {
+   "id": "d6b75a99149a",
+   "title": "Papa León XIV se reune con presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjFrS2t1bzViQnJickZyVXFMNDhHd2NxT0h5dEFfQWRITmJkbzJGcEs0Q0FzZ2NDVFV5QVpxV3A5OXh6QjlrTWZPMzFDblNyNnBQcFl4a2J0RTI4MVpCcnQ1RzUxU0wyWmJYRGNzLVFGVGZzWENnd1NneHB2RTlyNE9nTjFpVjlrd3ZsSDVNRXF4aFJ1bFE?oc=5",
+   "date": "2026-11-12T00:24:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "dba1d805b069",
    "title": "Desaprobación de Keiko Fujimori alcanza el 53% y al parecer está en caída libre",
    "excerpt": "",
@@ -1111,17 +1122,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-en-peru-quien-despedira-al-santo-padre-el-lunes-16-de-noviembre-ante-la-ausencia-de-la-presidenta-keiko-fujimori/",
    "date": "2026-11-11T20:31:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "edcc11ad194f",
-   "title": "Vocero de los obispos peruanos respalda que Keiko Fujimori no despida al papa León XIV: “Cada uno tiene su espacio”",
-   "excerpt": "El monseñor Carlos García Camader afirmó que los obispos cumplirán con la recepción y despedida del pontífice, mientras la mandataria viajará a China y Japón para participar en actividades oficiales",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/11/vocero-de-los-obispos-peruanos-respalda-que-keiko-fujimori-no-despida-al-papa-leon-xiv-cada-uno-tiene-su-espacio/",
-   "date": "2026-11-11T20:25:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
