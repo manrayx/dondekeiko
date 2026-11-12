@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T17:19:48.903028+00:00",
+ "generated_at": "2026-11-12T17:41:50.106844+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,12 +107,12 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 55
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -461,6 +461,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNTM3JhTVVZXzZtVjdJeWJ2QndfSS1vY2JXZ25Tb3FlUVdzUnZXVkd5OTNvRVYzdm1CaTJ0NTMzM2t0QllTLUJ0bjl1dExsWDUycnVyUTBKNmdQQUtaS0RPRDY0Tm9FVFE2bGhMTUN5VWE0Nm0tVHBJUC1sTjlrQURtR2tfRl9EVDFfOEkzcVIzU3V5bjlGOWVDUUFkR19EenNMQ21YYmNlU3huYTlQdFVXSzd0NHljOWxxT0VNdTFxNEE?oc=5",
    "date": "2026-11-12T11:46:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ae7802493ba1",
+   "title": "Presidenta Keiko Fujimori sostuvo audiencia con el papa León XIV",
+   "excerpt": "",
+   "source": "Tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzkzTGthTU55OGN3UDRzR1FDQTNoSklUTzI3bFZvSDctelptYTM1SFRnWkRlQWVVVTJ2eW1CR3NWSm1vYWNwckZCRXk0UzBnMUFvZmFTWHRYRWZuQzZpOVh1eEFFNlBhQVptY0IwcEVjODdWNzh6Tk1XbmZuN1gzOGU0Y0F3UmZWSFFaNlpuOFJuXy1WWVZnazBHS2FfOHFPcjR4amtWUHlGWUNL?oc=5",
+   "date": "2026-11-12T11:28:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1094,23 +1105,6 @@
    "date": "2026-11-11T22:07:03+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "5418dd45c080",
-   "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen esta tarde en Palacio de Gobierno",
-   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUmRVZ0dsczZGak5YZ181Q1BPVmNJSTNhVU9fVU9sdUV3MU9mcWtXeUVCMVg3RXdXQVhKanFCd1dtZWI1dkpUMVduZlB5V3FrZFRPWFdtVFhPN00tZDJyMWpHT294Y21FYVNoUldyRTRxanA3WTdrRXM5QV9mWXlKNmJGS0N3X1JyRFJkd3F3MXAzTTNQc2FkSVZtMktWdWctNnVnSXF1LXJJWlhkRUt2UmpfSDdJVDY3Smhja3RrVm8xSVBmZ3lxVmRyUmwxTzhCSi1wcFZxVnExVUtuaVRjUGJJY0NoRWhFdmE5U01iZVhLMVM0ZEFv0gGLAkFVX3lxTE1rRnBWYU1aSlBMbWpGeDVNQVdMQ2RYZTBBeTg3UFN1bkJTMk5Wa3J0MVVGQV9YQ19pcW9tTENOLU40Y1pORFluZkIxSnV5NHllQXN6cnlGRmRjUjRHM2lfVmVzTGRZMXVCUW4xVWlvOVJqbjQ2UTcxR2NOa3J4RkcySGpvMlZSTE5ZUjBLd011QjBwcF9NSzVVSVhZd2ptT0t0UVF3MGx1bENMSENMNWVKWEpScjR2MllNN29ySDM0VS1KbW42V25KRHF1WU1FZkpyTkRBamxrTlp1M09IRlFPamRPbC1rLXlZNDlpQXd0YUZPd0xZT0ExQVVWMWx4bEc1TzYxdXVTWFlBYw?oc=5",
-   "date": "2026-11-11T21:58:36+00:00",
-   "state": "transmitiendo",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
