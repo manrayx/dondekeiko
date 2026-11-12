@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T07:59:30.438846+00:00",
+ "generated_at": "2026-11-12T08:21:14.183930+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -374,6 +374,17 @@
  "agenda_minutes_7d": 337,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-11-12T08:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "23b0dfc6dea4",
    "title": "Presidenta Fujimori: \"El Perú recibe al papa León XIV con el corazón abierto\"",
@@ -1108,17 +1119,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/dos-bancadas-de-diputados-buscan-investigar-a-fernando-cerimedo-por-su-actuacion-en-las-elecciones-2026-hnews-468149",
    "date": "2026-11-11T21:08:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fee0868b6545",
-   "title": "Senado autoriza viaje de la presidenta Keiko Fujimori a China y Japón",
-   "excerpt": "",
-   "source": "Tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkFDNjh6b3BIZ1p5SHdCVWllRGNndmx1M0NpME1qSXRqTVh0OXY4ZldaYXlYODczT1VOeVhfX2h2bWs0cENkaS10YlFoU2FFLXJ1VVExd2pZRHBjMVVPcDhDVGVISUJBV2xXdEtZSU5laVF0LUpzN1FSbWQzQjIzRHZfby0tdWlyN2lVMWtvaDQ4ai11MkRqVFpwWVh4MEc4cXgwRTJVVWdjQjMwV0YyTQ?oc=5",
-   "date": "2026-11-11T21:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
