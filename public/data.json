@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T01:53:16.604410+00:00",
+ "generated_at": "2026-11-12T02:14:40.829647+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Base Aérea",
+   "name": "Palacio de Gobierno",
    "city": null,
-   "lat": -12.16056,
-   "lng": -77.00256,
+   "lat": -12.04491,
+   "lng": -77.0298,
    "abroad": false
   },
-  "source": "Gestión",
-  "date": "2026-11-12T01:43:29+00:00"
+  "source": "El Peruano",
+  "date": "2026-11-12T02:10:00+00:00"
  },
  "next": {
   "place": {
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 56
+  "triste": 2,
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -363,6 +363,68 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "fc93ad2b550f",
+   "title": "Presidenta Keiko Fujimori recibió al papa León XIV en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObXp3YVJYVHA1RWlBOEE3aHRRaUNWNUIxZWdKTnJ2WHFfRDVNYTV6T2ZXcGZQQklCeUNxa2NITlBZM3RuRV9MR1B5UGlBNjg0dHExYUNSbU9uWEJ1ajJfLURlQ0Y0d3g2QmpLcHhIbUVWSjN2ckFDM3pQa1lIcVBWbHZzVTJCdjlKWkVsNDZMX3FCeWNsY1E5a2tVVkxZYm93WkJFOU51RnlqNDZ3dEE?oc=5",
+   "date": "2026-11-12T02:10:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "4df14919ebdf",
+   "title": "Papa León XIV exige a Keiko Fujimori preocuparse por las personas con problemas de salud mental y discapacidad",
+   "excerpt": "El pontífice enfatizó la importancia de cuidar a quienes sufren enfermedades y destacó el sacrificio de las familias que brindan apoyo a sus seres queridos en situaciones críticas.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-exige-a-keiko-fujimori-preocuparse-por-las-personas-con-problemas-de-salud-mental-y-discapacidad-hnews-240108",
+   "date": "2026-11-12T02:08:40+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "45b46e590353",
+   "title": "Papa León XIV a Keiko Fujimori: “Los sucesos del pasado merecen ser tratados con justicia y sensibilidad”",
+   "excerpt": "Durante su encuentro con las altas autoridades en el Gran Teatro Nacional, el pontífice también pidió a los representantes del Estado escuchar las necesidades de la población y fortalecer la…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-a-keiko-fujimori-los-sucesos-del-pasado-merecen-ser-tratados-con-justicia-y-sensibilidad-hnews-999559",
+   "date": "2026-11-12T02:06:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Gran Teatro Nacional",
+    "city": null,
+    "lat": -12.08663,
+    "lng": -77.00316,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "96bada0e16de",
+   "title": "Keiko Fujimori ante el papa León XIV: La tarea es “la reconciliación nacional”",
+   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
+   "date": "2026-11-12T01:50:40+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
    "id": "c2aac3662502",
    "title": "Papa León XIV volvió a casa: santo padre se reúne con Keiko Fujimori",
    "excerpt": "Papa León XIV ya está en Perú. Aterrizó en la Base Aérea del Callo y fue recibido por comitiva episcopal y del Gobierno.",
@@ -497,23 +559,23 @@
    "next": null
   },
   {
+   "id": "f6cc7c124842",
+   "title": "Papa León XIV recibe saludo protocolar de Keiko Fujimori: el momento de casi medio minuto en su bienvenida al Perú",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFM2UHVNVjZ3NGNpWGhSbXI1Ungxb2ZjckxmVTFNUi10LUVoUmN3ZU50Qnl6LV8yQ0dBZGoxbTdadUpVNFA2elVHczh3N3paWnFFbFBRS2IwRnZLU0ZoMTItbi1ZcjFSR014VTBkdlU3MW94S29Vc3pxdnJMcHhHTUotWXo3OGFkeGpHTV95ck5iaUdnbGoxVjJlVGFRN2RvcXZFblZTcnVLLUx2NnotNmRkMzhBYTVTSlRWaktlOC15QW40X0tSazRmREZ5Ym9yWEVTSWl3WU5HQ203c2h5V2JSTHZYWms00gGDAkFVX3lxTE9ja0hsR0I0VkRKQjFRekI3RjRVN2IxYXo0YXhPd3daRTZWOHdwZ2JWWVgxTnpLVTNjdXhYU1JteG9ENHI4Y0xzc1FobWJFNk81QkgtelBGeVlJVlhKYjZKZGJDUXFyRmFBY25vZzl0bEhEdTFTZ0ZVUnpJczFRb1l2SnZ0dFhZVE1zNkRiVDh0dzVTTWFTTmtUUEFVQWlrNnQ5cVN3NEg5Y0xZZXZFdk1EQnJyckU1Mzk0TGFXSEhlbUZaa3EwWUs1dFZBU3FlYVZ5TTdhVUxxbEJ3dVZDM283em9QdElEeHBWMS1nMWRTdWxaMzU4Vm1ieXpqd0JoVUVVWDQ?oc=5",
+   "date": "2026-11-11T23:59:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3b251d2814ca",
    "title": "Presidenta Keiko Fujimori da la bienvenida al papa León XIV a su llegada al Perú",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2hjZWNyeWNlTWFOWWMzZnVhWl9lQUFTMHFTOGRnTmJXaTQ3VEtZRHB1NVBRUy13QUdvdmN0d2p0ZndiWWJvNEFwam5YVThpdEtZcnI1dS04R2xWRThGRzJhdVNKS0hJT245Rm84U3NXOGcwQWxUcnJkWXFkRzRFTGlvRnpZZm1zM1FGM0ZDWkF0ZXV5UEVZaUFNSm9VNnV1UGNuUF9CNUYzWEcwcnJRY3RsbmdheFNpSkxla1lIaw?oc=5",
    "date": "2026-11-11T23:56:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f6cc7c124842",
-   "title": "Papa León XIV recibe saludo protocolar de Keiko Fujimori: el momento de casi medio minuto en su bienvenida al Perú",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFM2UHVNVjZ3NGNpWGhSbXI1Ungxb2ZjckxmVTFNUi10LUVoUmN3ZU50Qnl6LV8yQ0dBZGoxbTdadUpVNFA2elVHczh3N3paWnFFbFBRS2IwRnZLU0ZoMTItbi1ZcjFSR014VTBkdlU3MW94S29Vc3pxdnJMcHhHTUotWXo3OGFkeGpHTV95ck5iaUdnbGoxVjJlVGFRN2RvcXZFblZTcnVLLUx2NnotNmRkMzhBYTVTSlRWaktlOC15QW40X0tSazRmREZ5Ym9yWEVTSWl3WU5HQ203c2h5V2JSTHZYWms00gGDAkFVX3lxTE9ja0hsR0I0VkRKQjFRekI3RjRVN2IxYXo0YXhPd3daRTZWOHdwZ2JWWVgxTnpLVTNjdXhYU1JteG9ENHI4Y0xzc1FobWJFNk81QkgtelBGeVlJVlhKYjZKZGJDUXFyRmFBY25vZzl0bEhEdTFTZ0ZVUnpJczFRb1l2SnZ0dFhZVE1zNkRiVDh0dzVTTWFTTmtUUEFVQWlrNnQ5cVN3NEg5Y0xZZXZFdk1EQnJyckU1Mzk0TGFXSEhlbUZaa3EwWUs1dFZBU3FlYVZ5TTdhVUxxbEJ3dVZDM283em9QdElEeHBWMS1nMWRTdWxaMzU4Vm1ieXpqd0JoVUVVWDQ?oc=5",
-   "date": "2026-11-11T23:46:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -759,6 +821,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/dos-bancadas-de-diputados-buscan-investigar-a-fernando-cerimedo-por-su-actuacion-en-las-elecciones-2026-hnews-468149",
    "date": "2026-11-11T21:08:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fee0868b6545",
+   "title": "Senado autoriza viaje de la presidenta Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "Tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkFDNjh6b3BIZ1p5SHdCVWllRGNndmx1M0NpME1qSXRqTVh0OXY4ZldaYXlYODczT1VOeVhfX2h2bWs0cENkaS10YlFoU2FFLXJ1VVExd2pZRHBjMVVPcDhDVGVISUJBV2xXdEtZSU5laVF0LUpzN1FSbWQzQjIzRHZfby0tdWlyN2lVMWtvaDQ4ai11MkRqVFpwWVh4MEc4cXgwRTJVVWdjQjMwV0YyTQ?oc=5",
+   "date": "2026-11-11T21:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1039,70 +1112,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "1cec737a6a48",
-   "title": "Pleno del Senado aprueba viaje de la presidenta Keiko Fujimori a China y Japón",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT2lLVTNOZlZuc3BnQkkwa2tremhhUVhuWU91amNzSDBmRVJJdkcycHloZEFmQkRTaWRqaDlpU0JLOHJ5YnpyWUVUSWlhdFdOdkRwakFxWmQ3UjQ5T1F2RFRuTXplenhmc0NQc3ktc3dwSDNBbzFzYlEwVlRoREZZV0Q4dzc3R3VCSGtxd2tqWVc5dnF0MnBfWmNrQ19zQjU5SG53Zzdubw?oc=5",
-   "date": "2026-11-11T17:58:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9e3a86369c84",
-   "title": "Keiko Fujimori no despedirá a León XIV: Senado aprueba su viaje a China y Japón para la cumbre APEC",
-   "excerpt": "Con 43 votos a favor, 1 en contra y 5 abstenciones, el Senado otorgó el permiso a la mandataria para salir del país el 15 de noviembre y permanecer en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-no-despedira-a-leon-xvi-senado-aprueba-su-viaje-a-china-y-japon-para-la-cumbre-apec-hnews-513436",
-   "date": "2026-11-11T17:50:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "42cb4779857c",
-   "title": "Keiko Fujimori no despedirá a León XVI: Senado aprueba su viaje a China y Japón para la cumbre APEC",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNFR1U3hHa0phdGg1cTFFb3FfeC1VR0NUaS1pdG9lS0JFb2lDa3ZyclRmQVdQeHNrZkcxOXM2U3lFcEY0MXpSb1FxdElqZjZsVzVDak51VFd5dFJFMjlCNE82RzIySnplYWdlTDY3MXZUd3VDNXpFbDZtX2sxWFBWcXhiNkd3NVdJZkpRSUJNLTRwU3RWVV9sZkJPaWdZbFgyb3ZHLTVQb0FsWUVndndOV1M5cWVtTktRNjBwSG8tQzdnNm1WWk9FVTR2OFR3NHVGVGdrWmZ5T3FpNEdiR0RiSU9KSU5OTG5CVUHSAe8BQVVfeXFMTlhVb0hVRmRZX2xZa3ExU3FDdFRYNXNLRDV4aF9Id2daV0V4SXNCeGlHMGxsU3Z2ZFR3c3NUSE5rY2wzOXRVc0RfWmdNdTJsOHNVWm5FYlNSWFlUWWRRdl92TlJiYVFrR0ZJQl9OQzgxaGZQS25ZNGloMHM1ZG5UMi1sM085UTlMMDNDYmFpVm10WXoxS1IydFJteEVJOHltUkQ4WUpzazFlMmRSUGVydXEyVkQ5S256aHdGbUtkSFVmTDZ4LW5XX2VZdlZCbHJyQnVoR3B5NnNrOERJWUNIa1VobUdfMGw4TC00bjVSLUE?oc=5",
-   "date": "2026-11-11T17:50:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "68ae49ff17ec",
-   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón en medio de la visita del papa León XIV",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcUdJMEFLOEdJck5qWUFYSFRpTkp2VV94dkhPMWVtUVYyeTZ3SkRRRHVMUEFxTHBET1ZwMEdGTmFLSlB3Mkx3dERlckFyUHlDN3ZHUWVPOEU5UDdBQVctSnBhV2ZybjdRV2JCM0ZhSmxwMlhCN1pwaTliWV9EMjhIb2VsbXlNSHptT3NuRkJTNFlUWmZzS2lmZzAyY1dGZjhtQ0J3Sm40bjRpVUZvU2lLUDd1Sm9lV0ltTm1QUzc1UEZaUUJJdTVDV9IB4wFBVV95cUxNNkNpeEhqQzAzM3g5ZXF2VnlKd2gtZUN0WVhyR2F0MG9RUmk0UHV1THp0R3dRRUlQdWwzUktfUzdQbDdKYmo5d1dlNmUyY0pmTGYtaVlRVk9MR0RIVlFXUFhyZnFWRHl5a3pvYjQwazBEdlVxZXF3SjcwSzh5SmIwQWpya1dZNmNuNXVVOC1fRVd1czBnYU05MVlRSUlMZUFWOE9HNlc1Q25VRmpvN1A5WFpVdEVlOHpxSWpYNTBrT0RKMU53YjFkelF1ZGhvZWJtc3JqNmNNVWJycnFKQ3d6Q3VBWQ?oc=5",
-   "date": "2026-11-11T17:48:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fa59f508d59c",
-   "title": "Senado aprueba permiso para que Keiko Fujimori viaje a China y Japón del 15 al 21 de noviembre",
-   "excerpt": "El Senado debatirá este miércoles 11 de noviembre la autorización solicitada por la presidenta Keiko Fujimori para viajar a China y Japón entre el 15 y el 21 de este…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/congreso/keiko-fujimori-en-vivo-senado-permiso-presidenta-para-viajar-a-china-apec-y-japon-del-15-al-21-de-noviembre-detalles-votacion-papa-leon-xiv-apuesplan-ultimas-noticia/",
-   "date": "2026-11-11T17:46:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
