@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:08:40.402521+00:00",
+ "generated_at": "2026-11-12T10:30:10.577013+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -375,6 +375,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "32010362e182",
+   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNTM3JhTVVZXzZtVjdJeWJ2QndfSS1vY2JXZ25Tb3FlUVdzUnZXVkd5OTNvRVYzdm1CaTJ0NTMzM2t0QllTLUJ0bjl1dExsWDUycnVyUTBKNmdQQUtaS0RPRDY0Tm9FVFE2bGhMTUN5VWE0Nm0tVHBJUC1sTjlrQURtR2tfRl9EVDFfOEkzcVIzU3V5bjlGOWVDUUFkR19EenNMQ21YYmNlU3huYTlQdFVXSzd0NHljOWxxT0VNdTFxNEE?oc=5",
+   "date": "2026-11-12T10:12:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "23b0dfc6dea4",
    "title": "Presidenta Fujimori: \"El Perú recibe al papa León XIV con el corazón abierto\"",
    "excerpt": "",
@@ -407,17 +418,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-12T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32010362e182",
-   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNTM3JhTVVZXzZtVjdJeWJ2QndfSS1vY2JXZ25Tb3FlUVdzUnZXVkd5OTNvRVYzdm1CaTJ0NTMzM2t0QllTLUJ0bjl1dExsWDUycnVyUTBKNmdQQUtaS0RPRDY0Tm9FVFE2bGhMTUN5VWE0Nm0tVHBJUC1sTjlrQURtR2tfRl9EVDFfOEkzcVIzU3V5bjlGOWVDUUFkR19EenNMQ21YYmNlU3huYTlQdFVXSzd0NHljOWxxT0VNdTFxNEE?oc=5",
-   "date": "2026-11-12T05:46:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -458,9 +458,9 @@
    "id": "ae7802493ba1",
    "title": "Presidenta Keiko Fujimori sostuvo audiencia con el papa León XIV",
    "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGlBVW14UDRjbDM3RzVuX0tvRldOMkpFeWFiWXBvLUNONnRkLXBYMzdOczBQUkZzSExUbnZUTC14MExEdVpJbDhyVkk0alJGM1duR3NiX1ZtdFExUFRhRkNZZHJmcEFkWlBCdXV5bm8tMmhNUV9aemVYck9xSlZVT2pGWGlKSVVyaUh4Yi1ZT0hkVHJibEdId3lNdExpQTAzdWVORXNJVGNFV081Zzg0WTN1V0dGZWctQUxBcklnMHI?oc=5",
-   "date": "2026-11-12T04:17:12+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWU1jTkFwaEdsNl9jNUpnZ0diMkVsVjVIQnlKTHRXeExWLXZEZ1k1eGduRVZsOURGTkZMUktQbGdQTWZhdXBRanIwczF3a3RQZ1FrM2dxbDc1S2tjQXlJTERZVkM5M0sxakxjbnB4Sy1DTUZ6UU1ScktwemswRFFVZnRaZzlURjhMOXpSaHo2X0JTbHpsRDJwNDhDdEx4ajN5WUE?oc=5",
+   "date": "2026-11-12T04:56:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -516,17 +516,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVZzWjhSS3VTdVh6T2hvOGhKd2g0SjJsS1lJMnRpWWZ4UEI1VThoQUsxRUVJUkFOcFB6Y2JyUnI5QTdidGhIZFk0Ry1JMHZOTVl1aTRkMmg3aXc2WUF6aDlOaXV2akxFSnhLU3JTaGFOTGhyRVRYbnhKaUJocERmeTM3R2VwZG1BWUlCc1pWVkQzNUVDcnRQdm5acDFSb1pJMmFGM3pkYk9kV0dmQjRB?oc=5",
    "date": "2026-11-12T03:07:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9688a9559080",
-   "title": "Keiko Fujimori deja mensaje tras llegada del papa León XIV: \"El Perú lo recibe con los brazos abiertos\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTFlMGpYM0FBdXgxRGlnd0R4RUxqY2xtOVIzZDJxSXZkUkc5aTJJckVMeFNKV3NpSWwxVEd3VE1BMVd4cG5LaGlPTDFOalkycElfLTZ4elNTYWw1UkpmSDM1V1dReVBIeHZlbUotNUZpVDJmSDg1YjJJQnRlS1FTNkpMaWJpU1ZNNXhVeEk5UmpoNVVTZ2ZqT2FVZjB3ZzJMNmhQSjNtTGE1YnVYSjRKbjhUZ3FLNG1sU1ZQV0hUbkxESl9mVlgzNzBISEE0aGNpTW5HQw?oc=5",
-   "date": "2026-11-12T02:46:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -728,6 +717,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/11/los-primeros-minutos-del-papa-leon-xiv-en-suelo-peruano-honores-autoridades-sonrisas-y-emocion-del-santo-padre-y-los-peruanos/",
    "date": "2026-11-12T01:06:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9688a9559080",
+   "title": "Keiko Fujimori deja mensaje tras llegada del papa León XIV: \"El Perú lo recibe con los brazos abiertos\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTFlMGpYM0FBdXgxRGlnd0R4RUxqY2xtOVIzZDJxSXZkUkc5aTJJckVMeFNKV3NpSWwxVEd3VE1BMVd4cG5LaGlPTDFOalkycElfLTZ4elNTYWw1UkpmSDM1V1dReVBIeHZlbUotNUZpVDJmSDg1YjJJQnRlS1FTNkpMaWJpU1ZNNXhVeEk5UmpoNVVTZ2ZqT2FVZjB3ZzJMNmhQSjNtTGE1YnVYSjRKbjhUZ3FLNG1sU1ZQV0hUbkxESl9mVlgzNzBISEE0aGNpTW5HQw?oc=5",
+   "date": "2026-11-12T01:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
