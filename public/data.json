@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T08:42:55.260807+00:00",
+ "generated_at": "2026-11-12T09:47:10.073826+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-12T05:01:00+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-12T09:41:36+00:00"
  },
  "next": {
   "place": {
@@ -375,6 +375,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5703103eacda",
+   "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGNGc1hyS3hjVkZDVHJiSHRYeTZpcU9RRmhjOUo1aC1JQThtcDY3SGRGaWNfTFFhZDNYUTR3cTZkaWt1QkVmY0YtVC1Od0pQTkt2dDh1V0xHcHNiMHpnTHB5SVBKZGk3UHlzVXhuWFE2d1A5OE9URlo2ajRCMEVlTUxUdnZWaUJoVTZHSHY1QzBRRE5uQW5qTDBxU0dMV2p1VFNvNmFQUVJOU2RZQ3AyandxakR3RjBh?oc=5",
+   "date": "2026-11-12T09:41:36+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
@@ -459,21 +474,6 @@
    "date": "2026-11-12T04:09:31+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "5703103eacda",
-   "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGNGc1hyS3hjVkZDVHJiSHRYeTZpcU9RRmhjOUo1aC1JQThtcDY3SGRGaWNfTFFhZDNYUTR3cTZkaWt1QkVmY0YtVC1Od0pQTkt2dDh1V0xHcHNiMHpnTHB5SVBKZGk3UHlzVXhuWFE2d1A5OE9URlo2ajRCMEVlTUxUdnZWaUJoVTZHSHY1QzBRRE5uQW5qTDBxU0dMV2p1VFNvNmFQUVJOU2RZQ3AyandxakR3RjBh?oc=5",
-   "date": "2026-11-12T03:41:36+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -955,6 +955,17 @@
    "next": null
   },
   {
+   "id": "63a711773fa0",
+   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV tras su llegada a Lima",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1pyUG5HWGd5VENENDVaakdrZ25jZ2pScGdxUy0wVUZpNjhOQmJpdDJNNTUyaUhUMVpYV3lHeUlVcXZkUzJjeERhYzQybmNybjBIRDJFTnpvTm9lb2JzMHVsVmFsTnpyZzgtbjlncGdFU2FlY1VCM1R4Y00ydE1HQ2M3WHFOZ0g5YkN3NzI3S3hrcHRzc3h0RzZsanMxOUM1NksxSGo5ZTZNOXlleUZGWDhlMEZTWTNFX3d2X1p3QV9iNHNsdDJIWtIB3AFBVV95cUxNN3VxZXJrYnVHMnV5TXc5MDNycXFibVlyQzhDN1B3ZkVuSktfUTRHMV9fdU4wSWRNVFVucWlNWXQ3MklVcGhsd3ROY0hZaG5oUnpwLVpueGNaa3A4Y0puLUVLQlZtWlRET1dNczNpOVhPYm42Ul9jRmxrNHgwdHJ0ZTZjTk1GeFRYS1BycHZvN28yWkpwRENRRXprZGVfbmRVYzVuZlVCODNWcnlSVnA3WEJkTWVYWFBJZ0V3SHhweEV1cVc4NjFCb1RKR2VHVUJYai1oazgweWEtOFl3?oc=5",
+   "date": "2026-11-11T22:48:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "164b2e517f48",
    "title": "Keiko Fujimori recibió al papa León XIV en la Base Aérea Naval del Callao en su regreso al Perú",
    "excerpt": "",
@@ -1109,17 +1120,6 @@
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTjgzSThuZjNRZUJsZDN6dVBfN0VHcjVFNXVKUWptMGZxQjJvSXZWdUJoT0t1bTlkRVI5TEFSNVJYUnkzR3REUTdmYTBsT2pEVlVOZFE1VHFxRHV0ZWQ3TDQ1N3pHcWh6Yk5IM21QcTdVX0VRMEROVXFlUnkzQy02UGM0VWpxOXR1dmxEd1k0a2FfNGVYbmowMHlIc3ZpUnhUdU5lTzdmdnI2aUprazVOeVRUckh4Z0traThFZmRpMUl0WWc0ZnU1ZTRUWkZmeUd6SE1HYnRxRTRSU0xhdDJ3Z0pPNA?oc=5",
    "date": "2026-11-11T21:11:00+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "80fb031a7fa5",
-   "title": "Dos bancadas de Diputados buscan investigar a Fernando Cerimedo por su actuación en las Elecciones 2026",
-   "excerpt": "Las iniciativas plantean crear comisiones multipartidarias para investigar los presuntos vínculos del consultor argentino con Keiko Fujimori y Fuerza Popular. La moción presentada por Obras propone indagar durante 120 días…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/dos-bancadas-de-diputados-buscan-investigar-a-fernando-cerimedo-por-su-actuacion-en-las-elecciones-2026-hnews-468149",
-   "date": "2026-11-11T21:08:21+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
