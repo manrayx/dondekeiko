@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T20:13:10.502357+00:00",
+ "generated_at": "2026-11-12T20:34:38.648466+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "China",
+   "abroad": true,
+   "city": "China"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-12T19:59:06+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-12T20:08:26+00:00"
  },
  "next": {
   "place": {
@@ -377,29 +375,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "b64f914fc57a",
-   "title": "Papa León XIV recibió un retablo ayacuchano de manos de Keiko Fujimori en su encuentro oficial en Palacio de Gobierno",
-   "excerpt": "El Santo Padre llegó al Perú como parte de su visita apostólica del 11 al 16 de noviembre, que incluye encuentros con autoridades, celebraciones religiosas y actividades en cinco ciudades…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/12/papa-leon-xiv-recibio-un-retablo-ayacuchano-de-manos-de-keiko-fujimori-en-su-encuentro-oficial-en-palacio-de-gobierno/",
-   "date": "2026-11-12T19:59:06+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
    "id": "ab735ca6ad93",
    "title": "Keiko Fujimori: Esta es la agenda que cumplirá la presidenta en China y Japón",
    "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
-   "date": "2026-11-12T18:30:41+00:00",
+   "date": "2026-11-12T20:08:26+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -414,7 +395,24 @@
    "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-12T18:30:26+00:00",
+   "date": "2026-11-12T20:08:07+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "b64f914fc57a",
+   "title": "Papa León XIV recibió un retablo ayacuchano de manos de Keiko Fujimori en su encuentro oficial en Palacio de Gobierno",
+   "excerpt": "El Santo Padre llegó al Perú como parte de su visita apostólica del 11 al 16 de noviembre, que incluye encuentros con autoridades, celebraciones religiosas y actividades en cinco ciudades…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/12/papa-leon-xiv-recibio-un-retablo-ayacuchano-de-manos-de-keiko-fujimori-en-su-encuentro-oficial-en-palacio-de-gobierno/",
+   "date": "2026-11-12T19:59:06+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
