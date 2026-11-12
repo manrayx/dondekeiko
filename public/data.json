@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T19:29:48.094524+00:00",
+ "generated_at": "2026-11-12T20:13:10.502357+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "El Comercio",
-  "date": "2026-11-12T18:30:41+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-12T19:59:06+00:00"
  },
  "next": {
   "place": {
@@ -374,6 +376,23 @@
  "agenda_minutes_7d": 337,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b64f914fc57a",
+   "title": "Papa León XIV recibió un retablo ayacuchano de manos de Keiko Fujimori en su encuentro oficial en Palacio de Gobierno",
+   "excerpt": "El Santo Padre llegó al Perú como parte de su visita apostólica del 11 al 16 de noviembre, que incluye encuentros con autoridades, celebraciones religiosas y actividades en cinco ciudades…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/12/papa-leon-xiv-recibio-un-retablo-ayacuchano-de-manos-de-keiko-fujimori-en-su-encuentro-oficial-en-palacio-de-gobierno/",
+   "date": "2026-11-12T19:59:06+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
   {
    "id": "ab735ca6ad93",
    "title": "Keiko Fujimori: Esta es la agenda que cumplirá la presidenta en China y Japón",
@@ -1106,17 +1125,6 @@
    "source": "La República",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80dw?oc=5",
    "date": "2026-11-11T22:45:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "acd47cc1adc6",
-   "title": "Presidenta Keiko Fujimori dará la bienvenida al papa León XIV en el Grupo Aéreo N° 8",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdzZ5WXRxS3llRUFoTDZibktZd1o3NURvV0tPeVRSUVZ4eHBPRFpJRHdIaTlJREVjTWo1aWNFb1pDLXFnRUJ1R0x3ZHJKTjliNVc0OVFqUC12aVZlVklkV0E5SC12dHBmV2V6TWlpNFR2azRkNUdxVzhzVlFkQTVaQUNVcExhM2RVdHU0TzRVQU8tU05IMHNXaHR6eGtFTHlWOTl3OXdkaGkycG84dU1EeFh5UkNEdkUwTFRCRGtaLW9NaURPSWplMEVlTjhwUQ?oc=5",
-   "date": "2026-11-11T22:07:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
