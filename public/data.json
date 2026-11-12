@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T00:26:46.934349+00:00",
+ "generated_at": "2026-11-12T00:48:46.535221+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-12T00:21:55+00:00"
+  "date": "2026-11-12T00:42:34+00:00"
  },
  "next": {
   "place": {
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lQkxoNll4d0VZOHR1RWlHWmpCaFE3ckxpSjI5TXRsU2Mxdl81SE1MUXZoTzBnNEFBRHFEdWNiTm9BT255Rkk0eVhORVBjdE5oRVFWajlKRHJWNW4wOEdtY3g1Nk82MGIweF9HZHIxN1RBUEk?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 57
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -363,23 +363,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "dba1d805b069",
-   "title": "Desaprobación de Keiko Fujimori alcanza el 53% y al parecer está en caída libre",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnpnN2V4MTZmMkk4Q04zODVkbnhsc2J5UEp6NG4tYVVSblQ0bVJMUTk4NHdIUXEtaGN4NDAya3k3V3lVWFR1V0dDRXFnVlZZc1R0NThfNnM1bE5qa0MyZ2UxSnRHVEJjTGRsdi1WTGpjVGpnMV9ZYVdBdi1pZ2U4QUxWVWo4Y1RtUWRtdjdPc1ZUa0NhZkR6cGNGb0hQdnZlQl9jRXFTS1c?oc=5",
-   "date": "2026-11-12T00:22:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "ffcecb3dfa24",
    "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reúnen en Palacio de Gobierno",
    "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-12T00:21:55+00:00",
+   "date": "2026-11-12T00:42:34+00:00",
    "state": "transmitiendo",
    "place": {
     "name": "Palacio de Gobierno",
@@ -392,11 +381,11 @@
   },
   {
    "id": "c2aac3662502",
-   "title": "Papa León XIV volvió a casa: santo padre se reune con Keiko Fujimori",
+   "title": "Papa León XIV volvió a casa: santo padre se reúne con Keiko Fujimori",
    "excerpt": "Papa León XIV ya está en Perú. Aterrizó en la Base Aérea del Callo y fue recibido por comitiva episcopal y del Gobierno.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/papa-leon-xiv-volvio-a-casa-santo-padre-se-reune-con-keiko-fujimori-y-da-mensaje-a-peruanos-noticia/",
-   "date": "2026-11-12T00:15:29+00:00",
+   "date": "2026-11-12T00:40:17+00:00",
    "state": "posando",
    "place": {
     "name": "Base Aérea",
@@ -405,6 +394,39 @@
     "lng": -77.00256,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "74cfed14252c",
+   "title": "Papa León XIV en Perú EN VIVO: Sumo Pontífice canta el Himno Nacional y se reúne con Keiko Fujimori",
+   "excerpt": "",
+   "source": "Karibeña",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWJWUlhhekxfcHp4TWFDalVGV29PcFZIN0ZSRVVNdEI2Y28wMjZFTjNhckpRaW5OTGt0TEpxZ3VIWXIyQnNaVXZmeEtRLUVLRDlLQWFITjFodVczSno2ZXltOVgycnJFbUFjQmd0TG9fbUhHb0lLRmNISWZBenk2MWpVd0dGNXFJYXdmRmFhTG9GZVk0Wi1oLTF4ZG1FWjF0TzhqZXBMTG9oUzlHVjlvZFBZMnRlQk96ZnfSAb8BQVVfeXFMTU8yWFlwMTNXYkN5OV9PVW9nZWFuVmFMTmNBalZ6WjJXcnpITEFEbTVnQXptSGZSckt2YU9DQjRCVzMtcU82RGxkQnlDTWlONHFueE5XQ2ZwN1lMQ3BxOUZMQ2l0MTVjUFhldG1OcTNIbkd2Y1NDTUtVWlpNeTB1VmlXbE1nT3RmTkU3cDFHalY0Um14X1pUU1R3N0RoaVBWM0djelBtR3ZuUkZKT29ZaXEwMDUwcjFoeTZ1Z1lsSzg?oc=5",
+   "date": "2026-11-12T00:26:24+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dba1d805b069",
+   "title": "Desaprobación de Keiko Fujimori alcanza el 53% y al parecer está en caída libre",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnpnN2V4MTZmMkk4Q04zODVkbnhsc2J5UEp6NG4tYVVSblQ0bVJMUTk4NHdIUXEtaGN4NDAya3k3V3lVWFR1V0dDRXFnVlZZc1R0NThfNnM1bE5qa0MyZ2UxSnRHVEJjTGRsdi1WTGpjVGpnMV9ZYVdBdi1pZ2U4QUxWVWo4Y1RtUWRtdjdPc1ZUa0NhZkR6cGNGb0hQdnZlQl9jRXFTS1c?oc=5",
+   "date": "2026-11-12T00:22:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "32010362e182",
+   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVdtdS0ySDV4UU5UWDI0ZDRyRGtxNGFxeHNFNWpFdmhmcldPQlY0Z1lZZHRLOTMyX1BrWi1tZTNxVVlFQnFzcmlSRmNjRzE2MERGVEpzdGc5NFRNVVFGdHF3dVZ5UWVJMERrczc0ZGZ3UDZBOFNHcHZlQ0lsWjFpVUJ0VmNUNVNnOXRxaVpLOFVEX1psb2NuSVpwVkhWRHNDbHV6bF9mdTFiUW5ENEVncXk5RnltcDN1WkE?oc=5",
+   "date": "2026-11-12T00:13:54+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -433,17 +455,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "32010362e182",
-   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVdtdS0ySDV4UU5UWDI0ZDRyRGtxNGFxeHNFNWpFdmhmcldPQlY0Z1lZZHRLOTMyX1BrWi1tZTNxVVlFQnFzcmlSRmNjRzE2MERGVEpzdGc5NFRNVVFGdHF3dVZ5UWVJMERrczc0ZGZ3UDZBOFNHcHZlQ0lsWjFpVUJ0VmNUNVNnOXRxaVpLOFVEX1psb2NuSVpwVkhWRHNDbHV6bF9mdTFiUW5ENEVncXk5RnltcDN1WkE?oc=5",
-   "date": "2026-11-12T00:04:18+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -1080,17 +1091,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/encuesta-iep-el-53-de-peruanos-desaprueba-la-gestion-de-keiko-fujimori-en-el-gobierno-hnews-492294",
    "date": "2026-11-11T17:37:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a7fcc4fd65ca",
-   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón durante visita del papa León XIV",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcUdJMEFLOEdJck5qWUFYSFRpTkp2VV94dkhPMWVtUVYyeTZ3SkRRRHVMUEFxTHBET1ZwMEdGTmFLSlB3Mkx3dERlckFyUHlDN3ZHUWVPOEU5UDdBQVctSnBhV2ZybjdRV2JCM0ZhSmxwMlhCN1pwaTliWV9EMjhIb2VsbXlNSHptT3NuRkJTNFlUWmZzS2lmZzAyY1dGZjhtQ0J3Sm40bjRpVUZvU2lLUDd1Sm9lV0ltTm1QUzc1UEZaUUJJdTVDV9IB4wFBVV95cUxNNkNpeEhqQzAzM3g5ZXF2VnlKd2gtZUN0WVhyR2F0MG9RUmk0UHV1THp0R3dRRUlQdWwzUktfUzdQbDdKYmo5d1dlNmUyY0pmTGYtaVlRVk9MR0RIVlFXUFhyZnFWRHl5a3pvYjQwazBEdlVxZXF3SjcwSzh5SmIwQWpya1dZNmNuNXVVOC1fRVd1czBnYU05MVlRSUlMZUFWOE9HNlc1Q25VRmpvN1A5WFpVdEVlOHpxSWpYNTBrT0RKMU53YjFkelF1ZGhvZWJtc3JqNmNNVWJycnFKQ3d6Q3VBWQ?oc=5",
-   "date": "2026-11-11T17:33:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
