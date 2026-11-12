@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T07:37:34.869585+00:00",
+ "generated_at": "2026-11-12T07:59:30.438846+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,9 +432,9 @@
    "id": "ae7802493ba1",
    "title": "Presidenta Keiko Fujimori sostuvo audiencia con el papa León XIV",
    "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWU1jTkFwaEdsNl9jNUpnZ0diMkVsVjVIQnlKTHRXeExWLXZEZ1k1eGduRVZsOURGTkZMUktQbGdQTWZhdXBRanIwczF3a3RQZ1FrM2dxbDc1S2tjQXlJTERZVkM5M0sxakxjbnB4Sy1DTUZ6UU1ScktwemswRFFVZnRaZzlURjhMOXpSaHo2X0JTbHpsRDJwNDhDdEx4ajN5WUE?oc=5",
-   "date": "2026-11-12T04:56:00+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3R4OGVTMGtZNE5aSTVINjU4Mm5tWm9ReVdrRHhiaHFOaTc3RGtaOXl0UFNOaHR1X0lOYl9wX0hySDA2UFRtRXBnb2tOcVYxX21mdV8waVhQdHQyd2J5OW1OaHBnMThmNGxSVl9tY1hBNG9sYUhzZktqalZsLUc0cnRXc2hLNlk5aVFLeVF2Q3V0MHRaQkZjeWpaYWJWMXN4enRhOTNucTdUal9y?oc=5",
+   "date": "2026-11-12T04:10:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -535,6 +535,17 @@
     "abroad": false,
     "city": "Lima"
    },
+   "next": null
+  },
+  {
+   "id": "4c7390e304c7",
+   "title": "El Perú necesita reconciliarse, señala Keiko Fujimori en su discurso ante el papa León XIV",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWDBrQkFiamFUMy1jUEYxQ0lkQlpjRlA1TWo5Z2ZnMU1FMW9ScWlRYTlOV1ZUQnZ1LU5na3hYMWNiVm1LX1ZDNVBoR01paG9uZjRnNzh6a1hmZWdUakQtY2VNaV9EanZLeF9mRjZSWVFzcEYwd0RVQWY0ZHM0Zng0RGltZ3lNMWFtb3dVSmhpeTJKR1VfMUx4VVVUM2ZiZEJheC1JbWw5WFc4ZlVqcXZLTng2TDl5WlV2cUdqai0weDZvR1luOXNIYUtKbEJnenpObWQ5bzdaMmJQMWxLSjJZ0gHzAUFVX3lxTE1EN0JJZjRPYnRVUXdVQ1VKWTJTOVF1bktWNXN6b1haUVNVSmpfTFdmNmU0QXFPM0dyZTA3Q1FXQjJWdUs2cE9SSzdxZ0Fob1kxTnJGNFk2NGVxRVR3cUc5ck5nUHVDMmJCRllNUHdMR3FBTlZWYkFFd2RhcGNUc1JPdmdEQ1dfUi16RkV1NmhjMEZzZUhFSHg2WkVyMkFQbXJlSzZndWxqQ3F3NnRWXzlzMlRzazJJZHBMMWVGc1VDRldocE9BV3o3WEJwZHpsVG5CYlhiR2VyRWo4NXFRMXI4OUlYVkVmWTlncXBiX3oyMFlQRQ?oc=5",
+   "date": "2026-11-12T02:17:25+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1108,17 +1119,6 @@
    "source": "Tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkFDNjh6b3BIZ1p5SHdCVWllRGNndmx1M0NpME1qSXRqTVh0OXY4ZldaYXlYODczT1VOeVhfX2h2bWs0cENkaS10YlFoU2FFLXJ1VVExd2pZRHBjMVVPcDhDVGVISUJBV2xXdEtZSU5laVF0LUpzN1FSbWQzQjIzRHZfby0tdWlyN2lVMWtvaDQ4ai11MkRqVFpwWVh4MEc4cXgwRTJVVWdjQjMwV0YyTQ?oc=5",
    "date": "2026-11-11T21:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3982267c7293",
-   "title": "Keiko Fujimori estará ausente durante la visita del papa León XIV a Perú",
-   "excerpt": "",
-   "source": "Ambito",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEdCcWIwRGc0YVlxeVpNX3lVUkl1Z01qLU5BLXVGa25POHFGZ1lzY2Z2VXh2Wk1zNlhFQi1vMWFTT0RBaEs2LVlsbm1KeVFiVHFKc1V1YTNfTmhMMk5yMmdUYVkxMG5FVG9NNzR0V1VXSl9sQ2JlM0V1QkVGQnVueEhWcVUzVzJ5R1AxaTlSNGExaFRiVnlrTHIxWkVLWXYxUUHSAacBQVVfeXFMUFV1ck03Sl9WczZZNGlFSUdPV29oRXphUWY1TjhtNDZpOGFhZ1F2QUFWQnNoMmwyc3k5d05kRVJHSUc2cWl2cFgxRTAzdVBtTkZuVGotd09ZdHlrOFBIMlF4R1NSenUxYllsakJOei13VkJfSGl0X0JQM3BRcEFWNl9YZmFWUG5iVS1sak42UlpKZUJwS2xDUE1mSGZ4TjRNcFFzY1phams?oc=5",
-   "date": "2026-11-11T20:50:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
