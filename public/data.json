@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T02:36:31.767238+00:00",
+ "generated_at": "2026-11-12T03:19:08.563582+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -130,6 +130,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-11T20:20:00-05:00",
+   "end": "2026-11-11T21:09:00-05:00",
+   "minutes": 49,
+   "subject": "Participa de encuentro del papa León XIV con las autoridades, el cuerpo diplomático y la sociedad civil.",
+   "lugar": "Gran Teatro Nacional, San Borja",
+   "state": "posando",
+   "place": {
+    "name": "Gran Teatro Nacional",
+    "full": "Gran Teatro Nacional, San Borja",
+    "city": null,
+    "lat": -12.08663,
+    "lng": -77.00316,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-11T19:15:00-05:00",
    "end": "2026-11-11T19:44:00-05:00",
@@ -407,9 +423,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 365,
+ "agenda_minutes_7d": 414,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "d54df5e516e6",
+   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
+   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
+   "date": "2026-11-12T03:16:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9688a9559080",
+   "title": "Keiko Fujimori deja mensaje tras llegada del papa León XIV: \"El Perú lo recibe con los brazos abiertos\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTFlMGpYM0FBdXgxRGlnd0R4RUxqY2xtOVIzZDJxSXZkUkc5aTJJckVMeFNKV3NpSWwxVEd3VE1BMVd4cG5LaGlPTDFOalkycElfLTZ4elNTYWw1UkpmSDM1V1dReVBIeHZlbUotNUZpVDJmSDg1YjJJQnRlS1FTNkpMaWJpU1ZNNXhVeEk5UmpoNVVTZ2ZqT2FVZjB3ZzJMNmhQSjNtTGE1YnVYSjRKbjhUZ3FLNG1sU1ZQV0hUbkxESl9mVlgzNzBISEE0aGNpTW5HQw?oc=5",
+   "date": "2026-11-12T02:46:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "45b46e590353",
    "title": "Papa León XIV a Keiko Fujimori: “Los sucesos del pasado merecen ser tratados con justicia y sensibilidad”",
@@ -644,7 +682,7 @@
    "title": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón",
    "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
    "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbDJNdjdwdks1R3NtaGZ3YW5xMGVlTFl2aFJGNWs4MFBXMFdzNTNXeE1fZmRueHhGWUExZjNESGh1aGtjc3lwWlltYzNJRDFma3d0Q1dwYUN1NjNmLVRnWkxKV0Zhc3N6bk1sSnM5ZXdfbFE0ekNIaXVmZzIxTGo0R3VBaGxsY3hob1AzYXhORDl6NEZCYk54U3NibXgwaFVRbTg3Tmt4Smk5ZkF4WDJIcTRxd210MW9CTVdoZWdsRmJpeG5sYm1NU0tnU1NCeU41OEprR3JObw?oc=5",
    "date": "2026-11-12T00:00:00+00:00",
    "state": "posando",
    "place": null,
@@ -1135,31 +1173,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "d0a508fc73e9",
-   "title": "Senado aprobó viaje de Keiko Fujimori a China y Japón",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZlpBSTJ2dHNSenRwZHhwT29MRGRBcHRiRVVqalhQY0FDQkp6eDVfZnBVeWVITW4wNmxWSDlsOTU5elk5TjJ3Z0dxNjN5aUpsU1ktcExCTEpPSW9naDBhZWRNZVZMQlRkcUU1U3pJTEtGSWVHRldkbUx1T3BUdVpCY3BRa1JqbE54dGlBM0h2LVkyLThqQ2hQSmxxbmY2UDJQRVY3aA?oc=5",
-   "date": "2026-11-11T18:34:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d0696d852314",
-   "title": "APEC 2026: Keiko Fujimori viajará a China para promover inversiones y minerales críticos",
-   "excerpt": "",
-   "source": "Rumbo Minero",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeDE0a1FEVFJGTEt2ZnVPdkJyLXhPTHZiR0FUZkRrMWNBUTlJUE9teDRnVlJCSDhpQTF1dlo4LVRadHVqa1hWakwyeXUyME12eWJJUUJISkdyc1ZaVmhQdEE2cVVkNEstOTdHYVItdWFqWDVac1lTRUw1TnZuZ05SVHVaSkkwanRjNUN2T19QSmlLSWFYdE1YX2RNSkZ4R2JDOVRPNmhrZVhmTnlfWmNNdWdGWURES1pB?oc=5",
-   "date": "2026-11-11T18:33:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
@@ -1290,6 +1303,10 @@
    -12.16056,
    -77.00256
   ],
-  "grupo aereo n° 8, callao, peru": null
+  "grupo aereo n° 8, callao, peru": null,
+  "gran teatro nacional, san borja, peru": [
+   -12.08663,
+   -77.00316
+  ]
  }
 }
