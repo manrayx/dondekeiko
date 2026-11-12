@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T06:32:21.299579+00:00",
+ "generated_at": "2026-11-12T06:53:40.713962+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -375,6 +375,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "23b0dfc6dea4",
+   "title": "Presidenta Fujimori: \"El Perú recibe al papa León XIV con el corazón abierto\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFI2UVJVRXBHQW9KaGRicERscUFFSU5wMjNFb3AtTkY4T1A5eXdvVFV2cGw5YVBtaDV1UWZqNER1bDNkOW5qNWQ5NVktd1JWc0dMZXQ0Vlg0Z1N5M1RGZFVzaE1vdXVEQ3B0TVExd3FpdEJENlpjczNQRVI3UEZTRy14VXp0Tm85dDMxMU5kNU1hMXByV2xUVXBtNnJRYmFRTGJsVHhubjlWVmhXQVRzcGIwQkY3UQ?oc=5",
+   "date": "2026-11-12T06:42:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "32010362e182",
    "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
    "excerpt": "",
@@ -667,6 +678,17 @@
    "next": null
   },
   {
+   "id": "e523729a95a7",
+   "title": "Papa León XIV se reúne conpresidenta Keiko Fujimori en palacio de gobierno",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXE5VUs0MFRoQWU2QTV6M0RUMUxHSDI3ZWpUYjBjZkEzSlhZNGRIZW1icnBzSUFpb2RaODZDXzlrMmtwWHZuZ3NUekxOczN2THBoLWNCQTFrWFVyMVpON2N1cWx1U1kwVlZNQnJJamhqVVprSkVuek9YcmxWZG4tZzZLM0ZuUTkyeFVRRS1fQ3dxSVJDLTd1LVVDcGFpUWZ3US1FYUJNWVZNNnRXcW9DeG0wbw?oc=5",
+   "date": "2026-11-12T01:17:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f7f5c50a4347",
    "title": "Papa León XIV sorprende al bajar la luna de su auto para saludar a los fieles peruanos durante su llegada a Lima",
    "excerpt": "El pontífice respondió con un gesto inusual a bordo de su vehículo oficial, mientras se dirigía al Palacio de Gobierno para reunirse con Keiko Fujimori",
@@ -706,17 +728,6 @@
    "source": "Yahoo",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdm5lSjJnNl9oalh2d3JkMnkxOVR2ajZfbVA4U1pTakpnVWFMQUdIWlVxQ2NjRTd2TkJsUzNNaFZMLXNocFJRNXFRQUhNMDNLT2pYYmd6MlJfNEFaTER3dldWNkd1d3hFNzNlc3BkZXlCLVRmcUxzcVZFNmNRYW83aVRGM2ViUVRHQ2ZrVDdmeWFvQQ?oc=5",
    "date": "2026-11-12T00:55:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "23b0dfc6dea4",
-   "title": "Presidenta Fujimori: \"El Perú recibe al papa León XIV con el corazón abierto\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFI2UVJVRXBHQW9KaGRicERscUFFSU5wMjNFb3AtTkY4T1A5eXdvVFV2cGw5YVBtaDV1UWZqNER1bDNkOW5qNWQ5NVktd1JWc0dMZXQ0Vlg0Z1N5M1RGZFVzaE1vdXVEQ3B0TVExd3FpdEJENlpjczNQRVI3UEZTRy14VXp0Tm85dDMxMU5kNU1hMXByV2xUVXBtNnJRYmFRTGJsVHhubjlWVmhXQVRzcGIwQkY3UQ?oc=5",
-   "date": "2026-11-12T00:38:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1108,17 +1119,6 @@
    "source": "Ambito",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEdCcWIwRGc0YVlxeVpNX3lVUkl1Z01qLU5BLXVGa25POHFGZ1lzY2Z2VXh2Wk1zNlhFQi1vMWFTT0RBaEs2LVlsbm1KeVFiVHFKc1V1YTNfTmhMMk5yMmdUYVkxMG5FVG9NNzR0V1VXSl9sQ2JlM0V1QkVGQnVueEhWcVUzVzJ5R1AxaTlSNGExaFRiVnlrTHIxWkVLWXYxUUHSAacBQVVfeXFMUFV1ck03Sl9WczZZNGlFSUdPV29oRXphUWY1TjhtNDZpOGFhZ1F2QUFWQnNoMmwyc3k5d05kRVJHSUc2cWl2cFgxRTAzdVBtTkZuVGotd09ZdHlrOFBIMlF4R1NSenUxYllsakJOei13VkJfSGl0X0JQM3BRcEFWNl9YZmFWUG5iVS1sak42UlpKZUJwS2xDUE1mSGZ4TjRNcFFzY1phams?oc=5",
    "date": "2026-11-11T20:50:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3a12cc9e33ed",
-   "title": "Senado autoriza viaje de la presidenta Keiko Fujimori para participar en APEC",
-   "excerpt": "",
-   "source": "LP | Pasión por el Derecho",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjdCVC1uYlVpelR3dUZDZWs1NWFRTU52d0JkMGNFWmF5MXRaRmU2Q2FLTHUxOU9IR2pyQnhzc3JGXzlheW9JSV9TWU9MblF0WjBiMnNhc3RaWG9ITVVpa3piUXp4NkpjZU16T1VRMThtVFIxNUFSRlFSQTVCSzJ6UGJxWVI3V3V5YjNXcFVB?oc=5",
-   "date": "2026-11-11T20:46:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
