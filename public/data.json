@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T01:31:53.331666+00:00",
+ "generated_at": "2026-11-12T01:53:16.604410+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "Gestión",
-  "date": "2026-11-12T01:30:56+00:00"
+  "date": "2026-11-12T01:43:29+00:00"
  },
  "next": {
   "place": {
@@ -368,7 +368,7 @@
    "excerpt": "Papa León XIV ya está en Perú. Aterrizó en la Base Aérea del Callo y fue recibido por comitiva episcopal y del Gobierno.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/papa-leon-xiv-volvio-a-casa-santo-padre-se-reune-con-keiko-fujimori-y-da-mensaje-a-peruanos-noticia/",
-   "date": "2026-11-12T01:30:56+00:00",
+   "date": "2026-11-12T01:43:29+00:00",
    "state": "posando",
    "place": {
     "name": "Base Aérea",
@@ -385,7 +385,7 @@
    "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-12T01:30:37+00:00",
+   "date": "2026-11-12T01:37:46+00:00",
    "state": "transmitiendo",
    "place": {
     "name": "Palacio de Gobierno",
@@ -436,23 +436,23 @@
    "next": null
   },
   {
+   "id": "32010362e182",
+   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVdtdS0ySDV4UU5UWDI0ZDRyRGtxNGFxeHNFNWpFdmhmcldPQlY0Z1lZZHRLOTMyX1BrWi1tZTNxVVlFQnFzcmlSRmNjRzE2MERGVEpzdGc5NFRNVVFGdHF3dVZ5UWVJMERrczc0ZGZ3UDZBOFNHcHZlQ0lsWjFpVUJ0VmNUNVNnOXRxaVpLOFVEX1psb2NuSVpwVkhWRHNDbHV6bF9mdTFiUW5ENEVncXk5RnltcDN1WkE?oc=5",
+   "date": "2026-11-12T00:24:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "dba1d805b069",
    "title": "Desaprobación de Keiko Fujimori alcanza el 53% y al parecer está en caída libre",
    "excerpt": "",
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnpnN2V4MTZmMkk4Q04zODVkbnhsc2J5UEp6NG4tYVVSblQ0bVJMUTk4NHdIUXEtaGN4NDAya3k3V3lVWFR1V0dDRXFnVlZZc1R0NThfNnM1bE5qa0MyZ2UxSnRHVEJjTGRsdi1WTGpjVGpnMV9ZYVdBdi1pZ2U4QUxWVWo4Y1RtUWRtdjdPc1ZUa0NhZkR6cGNGb0hQdnZlQl9jRXFTS1c?oc=5",
    "date": "2026-11-12T00:22:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32010362e182",
-   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVdtdS0ySDV4UU5UWDI0ZDRyRGtxNGFxeHNFNWpFdmhmcldPQlY0Z1lZZHRLOTMyX1BrWi1tZTNxVVlFQnFzcmlSRmNjRzE2MERGVEpzdGc5NFRNVVFGdHF3dVZ5UWVJMERrczc0ZGZ3UDZBOFNHcHZlQ0lsWjFpVUJ0VmNUNVNnOXRxaVpLOFVEX1psb2NuSVpwVkhWRHNDbHV6bF9mdTFiUW5ENEVncXk5RnltcDN1WkE?oc=5",
-   "date": "2026-11-12T00:13:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -569,22 +569,22 @@
    "next": null
   },
   {
-   "id": "164b2e517f48",
-   "title": "Keiko Fujimori recibió al papa León XIV en la Base Aérea Naval del Callao en su regreso al Perú",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80dw?oc=5",
-   "date": "2026-11-11T22:45:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "930c11b5ab37",
    "title": "Keiko Fujimori recibe en el aeropuerto al papa León XIV en su regreso al Perú",
    "excerpt": "El sumo pontífice volvió al Perú después de un año y medio de haber sido elegido como el sucesor del papa Francisco. La presidenta Keiko Fujimori encabezará la ceremonia oficial…",
    "source": "La República",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80d9IB0wFBVV95cUxPM1hPUVJhWVJUSXFzbnoyV01vVVlwcHVuR2p4c29Hb2tES24xdlhvRV91VVhhcGtfemhNSG1NdS15RkhFQWQ3bGJLQS1meGJXb0VpTDFINkJCZXU5dkxmcTAtcDZwUk5xVy1jQ2tCaWgyY2NIQl9sSDZDTXhVempmUkNmdmxUTG5EN01IQ08tbV9BZkxCc0pGVmZmVXNITnRZeGRIMFd4RDNzdEdoWE5CSFk5N3JaeUdtRTFWajVXdDNTSzZWT1k3aUpjVkpJcjdFU0x3?oc=5",
+   "date": "2026-11-11T22:59:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "164b2e517f48",
+   "title": "Keiko Fujimori recibió al papa León XIV en la Base Aérea Naval del Callao en su regreso al Perú",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80dw?oc=5",
    "date": "2026-11-11T22:45:50+00:00",
    "state": "posando",
    "place": null,
