@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:30:10.577013+00:00",
+ "generated_at": "2026-11-12T11:13:17.556808+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -374,6 +374,17 @@
  "agenda_minutes_7d": 337,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "4515abf59210",
+   "title": "Confiep y Cámara de Comercio de Loreto destacan que producción de hidrocarburos en la región dinamizará la economía del país",
+   "excerpt": "Durante la conferencia “Visión Estratégica del Desarrollo de Loreto”, organizada en el edificio Juan Santos Atahualpa del Congreso, el titular de la Confiep afirmó que en el Gobierno de Keiko…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/confiep-y-camara-de-comercio-de-loreto-destacan-que-hidrocarburos-en-la-region-dinamizara-la-economia-del-pais-noticia/",
+   "date": "2026-11-12T10:58:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "32010362e182",
    "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
@@ -1022,17 +1033,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-que-opinan-los-excancilleres-sobre-ausencia-de-presidenta-en-despedida-del-papa-leon-xiv-apuesplan-noticia/",
    "date": "2026-11-11T21:57:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4515abf59210",
-   "title": "Confiep y Cámara de Comercio de Loreto destacan que producción de hidrocarburos en la región dinamizará la economía del país",
-   "excerpt": "Durante la conferencia “Visión Estratégica del Desarrollo de Loreto”, organizada en el edificio Juan Santos Atahualpa del Congreso, el titular de la Confiep afirmó que en el Gobierno de Keiko…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/confiep-y-camara-de-comercio-de-loreto-destacan-que-hidrocarburos-en-la-region-dinamizara-la-economia-del-pais-noticia/",
-   "date": "2026-11-11T21:56:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
