@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T20:34:38.648466+00:00",
+ "generated_at": "2026-11-12T20:56:05.544617+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-12T20:08:26+00:00"
+  "date": "2026-11-12T20:33:30+00:00"
  },
  "next": {
   "place": {
@@ -380,7 +380,7 @@
    "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
-   "date": "2026-11-12T20:08:26+00:00",
+   "date": "2026-11-12T20:33:30+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -973,6 +973,17 @@
    "next": null
   },
   {
+   "id": "a497d1205c04",
+   "title": "Presidenta Fujimori dio la bienvenida al papa León XIV: “El Perú lo recibe con el corazón abierto”",
+   "excerpt": "",
+   "source": "Tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkJFRlpmYnpmTUpjcVZmby1hRmRKWWtkS0lMZ0h0MHBOM0FUSmV2azh2RmtQS0ltMU5kMi1vcUVJYmRUbnpUZEVuTDM2VFY5ckZFRlc3VTZySlJtTnpUdHdmeE42VGxoR0NtQ0hfdEtJaXpWOFF2OU9oTkRjUGZPUU91aTcxMnhRcmtzQWdwMkZsUnpwOHUtS2JoSk9xYjdBZUxHM045NDJTLWtWYkJ3ZFJJUXZxa0ExM1RRMDE3ME13QWc?oc=5",
+   "date": "2026-11-12T00:11:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9fc5b10a4ce1",
    "title": "Keiko Fujimori y su emoción tras darle la bienvenida al papa León XIV: \"Lo hemos extrañado y hoy nos llena de emoción tenerlo\"",
    "excerpt": "",
@@ -1112,17 +1123,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU1pyUG5HWGd5VENENDVaakdrZ25jZ2pScGdxUy0wVUZpNjhOQmJpdDJNNTUyaUhUMVpYV3lHeUlVcXZkUzJjeERhYzQybmNybjBIRDJFTnpvTm9lb2JzMHVsVmFsTnpyZzgtbjlncGdFU2FlY1VCM1R4Y00ydE1HQ2M3WHFOZ0g5YkN3NzI3S3hrcHRzc3h0RzZsanMxOUM1NksxSGo5ZTZNOXlleUZGWDhlMEZTWTNFX3d2X1p3QV9iNHNsdDJIWtIB3AFBVV95cUxNN3VxZXJrYnVHMnV5TXc5MDNycXFibVlyQzhDN1B3ZkVuSktfUTRHMV9fdU4wSWRNVFVucWlNWXQ3MklVcGhsd3ROY0hZaG5oUnpwLVpueGNaa3A4Y0puLUVLQlZtWlRET1dNczNpOVhPYm42Ul9jRmxrNHgwdHJ0ZTZjTk1GeFRYS1BycHZvN28yWkpwRENRRXprZGVfbmRVYzVuZlVCODNWcnlSVnA3WEJkTWVYWFBJZ0V3SHhweEV1cVc4NjFCb1RKR2VHVUJYai1oazgweWEtOFl3?oc=5",
    "date": "2026-11-11T22:48:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "164b2e517f48",
-   "title": "Keiko Fujimori recibió al papa León XIV en la Base Aérea Naval del Callao en su regreso al Perú",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80dw?oc=5",
-   "date": "2026-11-11T22:45:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
