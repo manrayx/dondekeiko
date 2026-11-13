@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:39:37.498194+00:00",
+ "generated_at": "2026-11-13T09:11:53.822865+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 56
+  "triste": 3,
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -547,6 +547,17 @@
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-12T08:00:00+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "aeb93b9be489",
+   "title": "¡Saluda al papa y se va! Senado autoriza viaje de Keiko Fujimori a China y ausencia genera críticas",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTmVHLUpkRjVPSlBFQ21PZE5PSmdPbUZ3c2k5MnJqaXNPeFM2Mm9zak1VYloyYV9fdlMxLV9mUVJTWFNZcmVIVmowWVVfM3JpTDY2clkwTDRqZGc0cGJuSVZEZGdVQnZsSHJCTjFMLXRvUW1XWHlOX2k1WjBmVk5XRENaX2FpUWJCWXI0em5rNHIxVlZUWXk2bk5WVzNVUDNoU0ZRdV91M3NYeGhsbllmblJWWkZha2drNWRiQnRYU2xBY2JMYnZpeDkzYUtZY3ZDVU1vc2VqU19zSlJmcFoxWDBYX3AxLUJwOTNOeVRGX0cxVGFxOG5uTkZnWmJOTmJrOXFV0gGXAkFVX3lxTFAxOUxTOHlJSVEwQnJpWXNkRGFWNWZxaElTUklPaGU4QUNGZmFjaDQzOGpRS1JVOF91WTVWWDNueUxLR29TMjhiLVZBY1d1eTFDLWx0RUhPaFZwNzJOWmtUZ1ZITG8wZ1MwUnVVUEo4STNsTk5vMFNGNXgtanlUb3lBbVh5aFVyd3dGMFlUVEdXQmZzVzg5SDBMYmNHSVJNY25xLXBQMzhIbGtOWklHaFR1LUdNNG03TU1nV08xajJkY3FGQjFnVEllbFdsLXhmRE5zeUVoYWlFYlluS0s1WmVmSU5EMEtmZjJIczJ2M1Bfa055SHpZa3U2WnVKVmtFSk5fVkoxRTFHbnYyQkxYYzg5MVVUeUVqZw?oc=5",
+   "date": "2026-11-12T05:15:45+00:00",
+   "state": "triste",
    "place": null,
    "next": null
   },
@@ -1089,17 +1100,6 @@
    "excerpt": "El sumo pontífice volvió al Perú después de un año y medio de haber sido elegido como el sucesor del papa Francisco. La presidenta Keiko Fujimori encabezará la ceremonia oficial…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-recibe-en-el-aeropuerto-al-papa-leon-xiv-en-su-regreso-al-peru-hnews-513458",
-   "date": "2026-11-11T22:59:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "930c11b5ab37",
-   "title": "Keiko Fujimori recibe en el aeropuerto al papa León XIV en su regreso al Perú",
-   "excerpt": "El sumo pontífice volvió al Perú después de un año y medio de haber sido elegido como el sucesor del papa Francisco. La presidenta Keiko Fujimori encabezará la ceremonia oficial…",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ2MtV2FZenNVZklRdWd6dFJVMGFUSV9kN2dkblNTN2oxcmt6WkRWdDlaTlRfRXdQM3Q4bURVdmhhYWhneG5GdmNKMmxQYkxkQnFnTnRvLW5hd0Y2czRXVUZQUHU0RmVlVy1DS09yWFd5eEhQaVFTZ3VnQWc4bGs3TzVyX2FDWk92TnpuUlJfUjhTMm1hTEZRT3djV0ZvdXlFc2VTM0VMeGR6bGhRM1BzUkJtRHl1WnFDdDRnZ1RKc0NpbTFCVnNnamVXNU80d9IB0wFBVV95cUxPM1hPUVJhWVJUSXFzbnoyV01vVVlwcHVuR2p4c29Hb2tES24xdlhvRV91VVhhcGtfemhNSG1NdS15RkhFQWQ3bGJLQS1meGJXb0VpTDFINkJCZXU5dkxmcTAtcDZwUk5xVy1jQ2tCaWgyY2NIQl9sSDZDTXhVempmUkNmdmxUTG5EN01IQ08tbV9BZkxCc0pGVmZmVXNITnRZeGRIMFd4RDNzdEdoWE5CSFk5N3JaeUdtRTFWajVXdDNTSzZWT1k3aUpjVkpJcjdFU0x3?oc=5",
    "date": "2026-11-11T22:59:05+00:00",
    "state": "posando",
    "place": null,
