@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T16:25:07.996222+00:00",
+ "generated_at": "2026-11-13T17:08:13.784926+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "lng": -77.0298,
    "abroad": false
   },
-  "source": "La República",
-  "date": "2026-11-13T15:25:10+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-13T16:57:00+00:00"
  },
  "next": {
   "place": {
@@ -361,6 +361,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "80c6afae5fda",
+   "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+   "date": "2026-11-13T16:57:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "98da0cd28a22",
    "title": "La presidenta Keiko Fujimori asiste a la misa del papa León XIV en su regreso a Chiclayo",
    "excerpt": "",
@@ -397,23 +414,6 @@
    "date": "2026-11-13T15:24:14+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "80c6afae5fda",
-   "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
-   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-13T13:57:17+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   },
   {
