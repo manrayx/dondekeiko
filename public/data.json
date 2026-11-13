@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T13:09:23.024289+00:00",
+ "generated_at": "2026-11-13T14:13:54.584337+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-13T12:47:54+00:00"
+  "date": "2026-11-13T13:57:17+00:00"
  },
  "next": {
   "place": {
@@ -361,6 +361,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "80c6afae5fda",
+   "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+   "date": "2026-11-13T13:57:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "270657eb6afd",
    "title": "Carlos Espá defiende ausencia de Keiko Fujimori en despedida de León XIV: “No hay que ser más papistas que el papa”",
    "excerpt": "Además, el canciller dijo que la jefa de Estado habría notificado con anticipación a la Conferencia Episcopal y al nuncio apostólico sobre su imposibilidad de asistir al cierre de la…",
@@ -375,8 +392,8 @@
    "id": "501ef570d79d",
    "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
    "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSTFFdjRWUW5WWWFBUUc0YUg4a1l6MThqSElyZ3NGWEQ5TEV1dFZNNTI1dVMxWFVhUUhLTDJ6WWg1VlBGN1pCMFQtWFh4VzVhclkxaFBGaFVGbm5HNlNXalF6UlNjSU9YU3Z2UG91M3paeWpsZXQySTZ3Y1lTTnJLZ2hfZm9xWUMyVGlxOGFKcHRBdjh5V2RBaTN2ZGVLVWY3RF8xdjVMZ0dVcHRtOVZBLUVVV1hHV29vNThQU2J5OXNyMFNycEVyUG5lV1ZzS256NkRhZHFsb21OWjBTN3JwaHhuV0dnVlFfWFZCRHdISDEwTlhuUE1iSzQ4eVdKc2ZRUy1RNXBJUDd0SnI3WDItZTdoWkRYUdIBqgJBVV95cUxNWnFpZjRMakdPREltTThvaDE1RnBLckstMTREell6Y2M1cVg0U01Ic1dacDN3WlVIUm1qV2h2d3R5N2QybWllTlc2U0tlR1pidURSUDc0a1lGZnZxY2xTMXNhdENmWmZlNXljRlpRR0dabFdqNWxzU3U2SDg4N2RQZVo4Y3Yzb2x1SkZpY2l6VjVOUEx5NS1fdDVxSjdzUlNIc1dVZGE0LXJ0T1lQcGo0cUJKVzZNY3BrNk81dE9hZ2Z4SVlGSmpDVDFJTnQyMG1VZmRUTDFnS3AtaWxPTUhBdDhaMkV4eHU0aTdJQW9CVTcyMTg3WS1FT3VvWkdWWk1QZU43YTZGU2hXeVRIU2VRNm53a3MtMkhQczJta0Jscl8tNVc3VmtvY2JR?oc=5",
    "date": "2026-11-13T12:47:54+00:00",
    "state": "posando",
    "place": {
@@ -1089,17 +1106,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFM2UHVNVjZ3NGNpWGhSbXI1Ungxb2ZjckxmVTFNUi10LUVoUmN3ZU50Qnl6LV8yQ0dBZGoxbTdadUpVNFA2elVHczh3N3paWnFFbFBRS2IwRnZLU0ZoMTItbi1ZcjFSR014VTBkdlU3MW94S29Vc3pxdnJMcHhHTUotWXo3OGFkeGpHTV95ck5iaUdnbGoxVjJlVGFRN2RvcXZFblZTcnVLLUx2NnotNmRkMzhBYTVTSlRWaktlOC15QW40X0tSazRmREZ5Ym9yWEVTSWl3WU5HQ203c2h5V2JSTHZYWms00gGDAkFVX3lxTE9ja0hsR0I0VkRKQjFRekI3RjRVN2IxYXo0YXhPd3daRTZWOHdwZ2JWWVgxTnpLVTNjdXhYU1JteG9ENHI4Y0xzc1FobWJFNk81QkgtelBGeVlJVlhKYjZKZGJDUXFyRmFBY25vZzl0bEhEdTFTZ0ZVUnpJczFRb1l2SnZ0dFhZVE1zNkRiVDh0dzVTTWFTTmtUUEFVQWlrNnQ5cVN3NEg5Y0xZZXZFdk1EQnJyckU1Mzk0TGFXSEhlbUZaa3EwWUs1dFZBU3FlYVZ5TTdhVUxxbEJ3dVZDM283em9QdElEeHBWMS1nMWRTdWxaMzU4Vm1ieXpqd0JoVUVVWDQ?oc=5",
    "date": "2026-11-11T23:59:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3b251d2814ca",
-   "title": "Presidenta Keiko Fujimori da la bienvenida al papa León XIV a su llegada al Perú",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2hjZWNyeWNlTWFOWWMzZnVhWl9lQUFTMHFTOGRnTmJXaTQ3VEtZRHB1NVBRUy13QUdvdmN0d2p0ZndiWWJvNEFwam5YVThpdEtZcnI1dS04R2xWRThGRzJhdVNKS0hJT245Rm84U3NXOGcwQWxUcnJkWXFkRzRFTGlvRnpZZm1zM1FGM0ZDWkF0ZXV5UEVZaUFNSm9VNnV1UGNuUF9CNUYzWEcwcnJRY3RsbmdheFNpSkxla1lIaw?oc=5",
-   "date": "2026-11-11T23:56:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
