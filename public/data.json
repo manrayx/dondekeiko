@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T15:41:08.507003+00:00",
+ "generated_at": "2026-11-13T16:25:07.996222+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -360,6 +360,17 @@
  "agenda_minutes_7d": 311,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "98da0cd28a22",
+   "title": "La presidenta Keiko Fujimori asiste a la misa del papa León XIV en su regreso a Chiclayo",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnBPakRiLW1LWU9EaF9tMzBxaUMwMjNxOVJ2WmRUVEhwUjlWUUNCRmYxZVEtaVRsREZvQk1JcW53dFpSTUM4eERYNXZHejJrTUU0dF92SkxEWk9CVnRMRV9EYi1JQV9FRGQ0YkgtajdaY1FTZDlpZGdOS1hRSWp0RFZUelVld0dqek1CR2k0eHdpT0NnazdzOFN0WXJrNXN1b3NsRG4zdk80aEhydWpRQV9fcC1sLWZqQlpFblZOVHhpMHdHWW5lM2FfUFlfck95SzJlZVU4UV_SAfMBQVVfeXFMTmRkSF9zYU9WdXp5SS1abmJtMWVGcmctVkdDRElZdmlUM2xFOTlNVmhIbnNZS2s5ZnJWYTUyb1d2U0VKR1VueG1JX2k4TGZuNk5TNVFSREZRMzYtT25obkNKalQ3MnhWemZ4R2lBMGJhRWxTbUxHWWlnOVp5UWVSN01TVl9EdG8teENrVWlHQzhVMU1qbnZoQ2VMYzZUQUJDZDVsTjZXTndVczZMcFpnOExkUjdRVzdEeE92RU1Ua0x0VUVfNjJXOE40ODF5Z1psQUs2RFpTUFNBc3pVMnlmNjhDbTBMYy1OZXYtaXJ4b194YXZV?oc=5",
+   "date": "2026-11-13T16:17:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "9bdf75d886da",
    "title": "Espá justifica viaje de Fujimori al extranjero durante visita del papa León XIV: “No hay que ser más papistas que el papa”",
@@ -1103,17 +1114,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "a497d1205c04",
-   "title": "Presidenta Fujimori dio la bienvenida al papa León XIV: “El Perú lo recibe con el corazón abierto”",
-   "excerpt": "",
-   "source": "Tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkJFRlpmYnpmTUpjcVZmby1hRmRKWWtkS0lMZ0h0MHBOM0FUSmV2azh2RmtQS0ltMU5kMi1vcUVJYmRUbnpUZEVuTDM2VFY5ckZFRlc3VTZySlJtTnpUdHdmeE42VGxoR0NtQ0hfdEtJaXpWOFF2OU9oTkRjUGZPUU91aTcxMnhRcmtzQWdwMkZsUnpwOHUtS2JoSk9xYjdBZUxHM045NDJTLWtWYkJ3ZFJJUXZxa0ExM1RRMDE3ME13QWc?oc=5",
-   "date": "2026-11-12T00:11:45+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
