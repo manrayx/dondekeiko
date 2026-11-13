@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T19:18:10.298456+00:00",
+ "generated_at": "2026-11-13T20:22:37.890751+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,7 +111,7 @@
    "abroad": true
   },
   "source": "La República",
-  "date": "2026-11-13T17:41:11+00:00",
+  "date": "2026-11-13T20:14:13+00:00",
   "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
   "url": "https://larepublica.pe/politica/2026/11/13/keiko-fujimori-excancilleres-piden-a-la-presidenta-retrasar-su-viaje-a-china-para-que-pueda-despedir-al-papa-leon-xiv-hnews-969553"
  },
@@ -377,6 +377,31 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f33e783a4a23",
+   "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
+   "excerpt": "César Landa, Eda Rivas, Manuel Rodríguez Cuadros y otros cuatro exfuncionarios cuestionaron que la mandataria salga del país el 15 de noviembre, antes de que termine la visita oficial del…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/13/keiko-fujimori-excancilleres-piden-a-la-presidenta-retrasar-su-viaje-a-china-para-que-pueda-despedir-al-papa-leon-xiv-hnews-969553",
+   "date": "2026-11-13T20:14:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "c2075ce9a109",
+   "title": "Keiko Fujimori participó en misa del papa León XIV en Pimentel: pontífice rompió el protocolo para saludarla",
+   "excerpt": "La mandataria asistió a la celebración eucarística en las Pampas de Pimentel, donde participaron 15 imágenes religiosas de distintas regiones del país, en una de las actividades centrales de la…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/13/keiko-fujimori-participo-en-misa-del-papa-leon-xiv-en-pimentel-pontifice-rompio-el-protocolo-para-saludarla/",
+   "date": "2026-11-13T20:07:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5ebba5867c37",
    "title": "Keiko Fujimori acude a misa del papa León XIV en Pampas de Pimentel en Chiclayo",
    "excerpt": "La presidenta Keiko Fujimori estuvo presente en la masiva ceremonia que presidió el papa León XIV en Pampas de Pimentel. La mandataria estuvo entre las primeras filas de los miles…",
@@ -392,20 +417,6 @@
     "city": "Chiclayo"
    },
    "next": null
-  },
-  {
-   "id": "f33e783a4a23",
-   "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
-   "excerpt": "César Landa, Eda Rivas, Manuel Rodríguez Cuadros y otros cuatro exfuncionarios cuestionaron que la mandataria salga del país el 15 de noviembre, antes de que termine la visita oficial del…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/13/keiko-fujimori-excancilleres-piden-a-la-presidenta-retrasar-su-viaje-a-china-para-que-pueda-despedir-al-papa-leon-xiv-hnews-969553",
-   "date": "2026-11-13T17:41:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   },
   {
    "id": "80c6afae5fda",
@@ -1114,23 +1125,6 @@
    "source": "Revista COSAS Perú",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1k0dVdDZE54Z2xCam1YTlFvZWpzbGJ1b1RYWW1TWmFNbnFRbVpmdU1SRGZmUnRPdHdZN2p4c1FKeEcySDJRVEN3MFgzWjBycWFYaUR4ZElOZFp1dm5YbGlEQkZjMXV3S1I0Y24xV2hpSHZwdlFlcVk5Y1huY2s3S3M5OTF2cFd4OEF1STlWcnNyU0JlN3NnUDhnMNIBoAFBVV95cUxNaUVwaHFDT0hpcEdzVS15VHEyaFFzQlcyZXBCV2MwRFdKaVk0UnRWOGI0OFFTUk1wYV85WUVWR205bUF3dXRNbS1hMmhSMWtJbkx6ZjB0NDBZNGltZ0l2N2VSd1BERGxzU0hqZmlubHZ0T0J2VEJQckI0REdSVURKOUFrT0xfU1Vtc2ozelQtbzFYdS1MOE1TWUtTb3ItRklr?oc=5",
    "date": "2026-11-12T00:32:51+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "4f3283082bc3",
-   "title": "Keiko Fujimori recibe al papa León XIV en Palacio de Gobierno en visita histórica al Perú",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlN1cHV0dkk5eWR0SkRpWTFSYlNwajl2QnJGc0RDREt5RU9TSU8zd0ZUOHFham0zd1Q4U1FEQmYtWXFqMG9ZZGktMkJBU0ZzZnRHcXNFUDIxQk5vYWpobFRFY2oyWmxlWER3UDg5dUdWUUNNeDVsTldxMXE2S3JXNXlvNU9EUTd6WkFndFoxb19NSTJGdGpvMEtMT0hSeFhlXzBxYW5iRzJVRGFEck5Ba0E2NzBteU1zcWc?oc=5",
-   "date": "2026-11-12T00:30:00+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
