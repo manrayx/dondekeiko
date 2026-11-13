@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T20:43:53.150712+00:00",
+ "generated_at": "2026-11-13T21:05:18.387562+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -376,6 +376,17 @@
  "agenda_minutes_7d": 394,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "e6dba7c62bf1",
+   "title": "Keiko Fujimori participó de la misa del papa León XIV en las Pampas de Pimentel",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbjFWdHQtZnk5YUZaTXFYMHhkWUJvTEIzTnFwLVR5SFpFcHFPX1ZMOWN4dGJJdzVpSjl0S2dDWWg2MnI4N1pWY3dVc3VOMnFlLTVMNlY4M3BhY2VBUmZWcHh0UF9MSkZzNWJfRUdtdENEc2o1Z2EyVFhxVHBYM0lkTDRfZS1sRFZOQzVpbzU1NkYwdUpxUjVPUF9nOGZzdGVBSktGbVFWWUVDaDE1RV9KaTg3dmR2SHhFWk9wRllGbmg5eVpZ?oc=5",
+   "date": "2026-11-13T20:47:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "f33e783a4a23",
    "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
@@ -1110,23 +1121,6 @@
    "date": "2026-11-12T00:38:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "09d9aac0bcaf",
-   "title": "Papa León XIV llegó a Palacio de Gobierno para reunirse con la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdGdrcU0ydmF5N2ZnMkJ5ZE45aGFNQ3cwM1B5Sm1Jei1odWpQV3liSThoU09VaWdaRTllOVcxRGNza2FkdG9CdVo2akVZeVE4V3RrZUI5c1FKSzBvS0tocG5HalRpTjZaRUtheU1UQWVnTGhVWVRCWFdFZnJkVVZjcVpQeV9FVFIwa0JyYUZFRWh4Wmp3bVNLT2g1QzYzR3Q3YVQ2d0dkbDQ1cFhoTktILTZDb25QOG5aSW1ZUUh1dXpET2U1TWNiOUVn0gHeAUFVX3lxTE5XVFRUbDd3bVBpT1BEZjdGWjd6NGpacUN1VElRVllleUF1b1RqZU9jOEw1VllOeUR5bnc5dWhFUW5iOVFiNUNKcnM5bUV5eTJBYmpQQ2dwUXVvTDcycm9nLTR4Y29raWx4TWpFS05udW5rU3h4Vjd3cGdHdFFOMkFWTVUxQXZmd21UaDkySVVlSmhYcGxSY2tFanBKZ1B5UHQ3clJSeXVoNnE4YlNxNWdrNENsNWtENXBSRWVMaGtwVDBKUkRsSFBjbWtValVvX0ZaNXg2akRXTHZZREJTdw?oc=5",
-   "date": "2026-11-12T00:34:28+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
