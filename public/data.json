@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T12:25:49.656893+00:00",
+ "generated_at": "2026-11-13T12:47:18.289095+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-13T00:51:30+00:00"
+  "date": "2026-11-13T12:42:30+00:00"
  },
  "next": {
   "place": {
@@ -359,38 +361,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "ea263bfb664f",
-   "title": "Edgar Gonzales sobre Keiko Fujimori: “Han pasado 100 días y no tiene nada”",
-   "excerpt": "",
-   "source": "Evidencia.pe",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWtwUTU3VWZ2bUhiMGFiOFAweU9JRU9BaHBYTmRRQ2o5VUM1U3NPLXFSUkJVNEQ3U1hVN0NGMTYwVFktV0FkUS1HTUNZeFE4QTIzUVZmWlMxRjc1bHY0V21MM0ZsYjR5ZEJ3RWRHNXlmSkVZSU9BOU95bG83Qk52NkN1MVFid3EwclNPVTRHT1BNS2Z5cENGSNIBngFBVV95cUxQMlBIdXlDQ0FXWm5vU1pVanBsZk1pQlFZN2EyakFTZFkyVlU3U2hHSVhxV2NsdGxyVzI5M1N5RTVNakdkRDBEdHI1U19DYlpCTThjTVBnUm04bF9fcURRRmFuUG9DR1BFQ21SOEdONWJuSDBMYVFITzJlaTMxaVNTVDVrdDBLLWoyOGRGVUYySlVYOHlNa3NOTDcyQ1l0Zw?oc=5",
-   "date": "2026-11-13T02:06:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ab735ca6ad93",
-   "title": "Keiko Fujimori: Esta es la agenda que cumplirá la presidenta en China y Japón",
-   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
-   "date": "2026-11-13T00:51:30+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
    "id": "501ef570d79d",
    "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
    "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-13T00:49:32+00:00",
+   "date": "2026-11-13T12:42:30+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -399,6 +375,28 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "e1a39a8ffc4f",
+   "title": "Keiko Fujimori viaja el domingo 15 a China: Esta es la agenda que cumplirá en ese país y Japón",
+   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
+   "date": "2026-11-13T12:41:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ea263bfb664f",
+   "title": "Edgar Gonzales sobre Keiko Fujimori: “Han pasado 100 días y no tiene nada”",
+   "excerpt": "",
+   "source": "Evidencia.pe",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWtwUTU3VWZ2bUhiMGFiOFAweU9JRU9BaHBYTmRRQ2o5VUM1U3NPLXFSUkJVNEQ3U1hVN0NGMTYwVFktV0FkUS1HTUNZeFE4QTIzUVZmWlMxRjc1bHY0V21MM0ZsYjR5ZEJ3RWRHNXlmSkVZSU9BOU95bG83Qk52NkN1MVFid3EwclNPVTRHT1BNS2Z5cENGSNIBngFBVV95cUxQMlBIdXlDQ0FXWm5vU1pVanBsZk1pQlFZN2EyakFTZFkyVlU3U2hHSVhxV2NsdGxyVzI5M1N5RTVNakdkRDBEdHI1U19DYlpCTThjTVBnUm04bF9fcURRRmFuUG9DR1BFQ21SOEdONWJuSDBMYVFITzJlaTMxaVNTVDVrdDBLLWoyOGRGVUYySlVYOHlNa3NOTDcyQ1l0Zw?oc=5",
+   "date": "2026-11-13T02:06:32+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -536,6 +534,21 @@
    "date": "2026-11-12T11:46:31+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "ab735ca6ad93",
+   "title": "Keiko Fujimori: Esta es la agenda que cumplirá la presidenta en China y Japón",
+   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNCSk9PdVI5X0oyS25Za3h5X0RsNk92NGdHSThVbEI3WnpZVzc3OG14Q1d0bDljd3JLejg2eDUyTnM3YWtmNjhIMjNHSWJMVDNlUTY1S211dUh1SmMzVGY5RmoxaEZfelVNN2RRVVdsNmtDOTRxeVBEd2lfVUpXYlZzczFtNXRIbnNYMVEtMHRmbkhkY0pSWFR2VFdiMVJRU0xFQ19tZTV5b1c5SGxsZjlmMGgxTVVfV1dtd0dKVkVsZS1iVnB6WWVMVV9EOXo1MWJJSTVRb0VBNDNHWFFzedIB9AFBVV95cUxOZEZxR0FiZm9ZdHN4cFBaZ0pLNTlkUW1pMHlobUNLTmtaRHNWdTdJUmt1YjRRMElQTDZ2RHdtaDl5akdyVEtTdkxONDZpcGd3ZjVQeS02U0F6MG1BSUktakVTMXgxM2NOT043ZkloTHNSVGVvWkUza3ItVFVDUGVQNnJ1VTJhUlhnaFhKbUtvcDduVjBidG5EcDMtZDZRdUNfYjI3NXU2cVdmcVFvUWVFYmktdS1Zc0ZiVG44Y1BKNkJRcFQzTWlueXdfNWJqNlBJRUF3OUVUVE5Rbkp5YTZaeW8tY3FGbV83ZnhPaDJWUkVGck1m?oc=5",
+   "date": "2026-11-12T11:27:02+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -931,6 +944,23 @@
    "next": null
   },
   {
+   "id": "22a5bbf5d664",
+   "title": "Papa León XIV se reúne con Keiko Fujimori en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Revista COSAS Perú",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN1k0dVdDZE54Z2xCam1YTlFvZWpzbGJ1b1RYWW1TWmFNbnFRbVpmdU1SRGZmUnRPdHdZN2p4c1FKeEcySDJRVEN3MFgzWjBycWFYaUR4ZElOZFp1dm5YbGlEQkZjMXV3S1I0Y24xV2hpSHZwdlFlcVk5Y1huY2s3S3M5OTF2cFd4OEF1STlWcnNyU0JlN3NnUDhnMNIBoAFBVV95cUxNaUVwaHFDT0hpcEdzVS15VHEyaFFzQlcyZXBCV2MwRFdKaVk0UnRWOGI0OFFTUk1wYV85WUVWR205bUF3dXRNbS1hMmhSMWtJbkx6ZjB0NDBZNGltZ0l2N2VSd1BERGxzU0hqZmlubHZ0T0J2VEJQckI0REdSVURKOUFrT0xfU1Vtc2ozelQtbzFYdS1MOE1TWUtTb3ItRklr?oc=5",
+   "date": "2026-11-12T00:32:51+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "4f3283082bc3",
    "title": "Keiko Fujimori recibe al papa León XIV en Palacio de Gobierno en visita histórica al Perú",
    "excerpt": "",
@@ -1078,34 +1108,6 @@
     "abroad": false,
     "city": "Lima"
    },
-   "next": null
-  },
-  {
-   "id": "dea7b26d97b1",
-   "title": "Papa León XIV dará discurso en el Gran Teatro Nacional: conoce la lista de las autoridades invitadas al evento",
-   "excerpt": "Entre los asistentes estarán la presidenta Keiko Fujimori, el presidente del Congreso Miguel Torres y otros líderes de instituciones peruanas.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-dara-discurso-en-el-gran-teatro-nacional-conoce-la-lista-de-las-autoridades-invitadas-al-evento-hnews-859683",
-   "date": "2026-11-11T23:24:58+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Gran Teatro Nacional",
-    "city": null,
-    "lat": -12.08663,
-    "lng": -77.00316,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "ad2fac822cf0",
-   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV en el Grupo Aéreo N° 8",
-   "excerpt": "",
-   "source": "Trujillo en Línea",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2JrTmpDVmRJZTUzb0JuV3M1bmFJc01JZDJ1VlJ4M3lLTjZCVzd0T3RpRndJeFVZSmFtVUo2NS1IaEhZSGR6R2xHMllZVkFDWkNlX3RjVnhrRksxRVJpamJ2cUtuUFFxQ0JOSER3QnBhZWZVRy1xTHJJV0Z1YmZkaEJ2SUFDT1hCWDZOTHJyWDNfdEVubDhvU2VfMndYM01fbVkydG5SU1QwczRVZi10TFBKTHd1MmxObnhuMDk0WTdPSm9pY3V5TTlYcXdrSHBaakdnN3lR?oc=5",
-   "date": "2026-11-11T23:17:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
