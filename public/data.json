@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:08:13.784926+00:00",
+ "generated_at": "2026-11-13T17:29:41.248920+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -130,6 +130,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-13T11:00:00-05:00",
+   "end": "2026-11-13T12:23:00-05:00",
+   "minutes": 83,
+   "subject": "Asiste a la misa celebrada por el papa León XIV.",
+   "lugar": "Pampas de Pimentel, provincia de Chiclayo, región Lambayeque",
+   "state": "posando",
+   "place": {
+    "name": "Pampas de Pimentel",
+    "full": "Pampas de Pimentel, provincia de Chiclayo, región Lambayeque",
+    "city": "Lambayeque",
+    "lat": -6.701,
+    "lng": -79.906,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-11T20:20:00-05:00",
    "end": "2026-11-11T21:09:00-05:00",
@@ -357,7 +373,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 311,
+ "agenda_minutes_7d": 394,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -1249,6 +1265,8 @@
   "gran teatro nacional, san borja, peru": [
    -12.08663,
    -77.00316
-  ]
+  ],
+  "pampas de pimentel, provincia de chiclayo, region lambayeque, peru": null,
+  "pampas de pimentel, region lambayeque, peru": null
  }
 }
