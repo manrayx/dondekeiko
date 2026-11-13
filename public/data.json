@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T21:48:43.051330+00:00",
+ "generated_at": "2026-11-13T22:53:09.686763+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -377,6 +377,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3bcaba6de0a8",
+   "title": "Presidenta Keiko Fujimori participó en santa misa celebrada por el papa León XIV en las Pampas de Pimente",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOFlzV0FqLUxHSi1GSDFTNU1jZU11dkl5a2oweW5UYmw2OUxIR0VMcFVTQ0xFaFNHYllvaFU1emFqc1ZYeUFBQXZWOGQ0cFdRTkU4X1d2a2VNMXZvaGtpQUMyU282WjRDUGN6QndxeXBXNHc1MGhTa3VDVUc0N0czanFjRGFJUmltRGJhSE83d1lhUXVXZngtZHFMZ2lyT1FjX184UXFVRDFua0s3dkNmUXpEb0dYV1dVVHJGTk1hUDFCeDV1ZjdGdGg2MWFiSlhudFczaQ?oc=5",
+   "date": "2026-11-13T22:49:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b407452837dd",
    "title": "Keiko Fujimori expresa su solidaridad con el ministro de Salud tras accidente de comitiva en Amazonas",
    "excerpt": "El ministro de Salud, Luis Dyer, y los integrantes de su comitiva sufrieron un accidente de tránsito durante una jornada de supervisión en Amazonas. Keiko Fujimori expresó su solidaridad con…",
@@ -561,6 +572,17 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "0d8f5422b973",
+   "title": "Rubén Meza sobre el discurso del papa León XIV: me imagino que poca gracia le ha hecho al gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "Ideele Radio",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOEZfV3JRNlN4OTUxRFhYNU5PR2ZaY1VtTmNiWjNwdHF2Q3hoYWd4RW5ldThDQkExRm14X0xRaUU4S1BiZWYwNHExT1J6TmczUl9Mbk03YzFPc1VXQWF0MkptRFJ0TjY3bW1udzR5dkRnelN5eGxveXpNXzBnTV95bi1xYzluNXNqTHBKTkFuZ0w0Qk5reFZYd1dEckZJS1ZrMzY3ZzV3Ym1yTHZKVXllUFR6TWJXc2ZhTmhSb0RWWW5iY0dyR3pzNnhrMHlPaDlKczBtek9aMGU3ZEtsZnItX3V6V25WMFNMMzB3TQ?oc=5",
+   "date": "2026-11-13T12:46:59+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1103,28 +1125,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTFlMGpYM0FBdXgxRGlnd0R4RUxqY2xtOVIzZDJxSXZkUkc5aTJJckVMeFNKV3NpSWwxVEd3VE1BMVd4cG5LaGlPTDFOalkycElfLTZ4elNTYWw1UkpmSDM1V1dReVBIeHZlbUotNUZpVDJmSDg1YjJJQnRlS1FTNkpMaWJpU1ZNNXhVeEk5UmpoNVVTZ2ZqT2FVZjB3ZzJMNmhQSjNtTGE1YnVYSjRKbjhUZ3FLNG1sU1ZQV0hUbkxESl9mVlgzNzBISEE0aGNpTW5HQw?oc=5",
    "date": "2026-11-12T01:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3991edb093e4",
-   "title": "“Perú te ama”: el Papa León XIV entona con orgullo el himno nacional y conmueve al país",
-   "excerpt": "Las cámaras registraron al sumo pontífice siguiendo las estrofas antes de su encuentro privado con la presidenta Keiko Fujimori, en su primer retorno al país desde que fue elegido jefe…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/12/peru-te-ama-el-papa-leon-xiv-entona-con-orgullo-el-himno-nacional-y-conmueve-al-pais/",
-   "date": "2026-11-12T00:56:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4025f3e376e9",
-   "title": "El papa León XIV se reúne con la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdm5lSjJnNl9oalh2d3JkMnkxOVR2ajZfbVA4U1pTakpnVWFMQUdIWlVxQ2NjRTd2TkJsUzNNaFZMLXNocFJRNXFRQUhNMDNLT2pYYmd6MlJfNEFaTER3dldWNkd1d3hFNzNlc3BkZXlCLVRmcUxzcVZFNmNRYW83aVRGM2ViUVRHQ2ZrVDdmeWFvQQ?oc=5",
-   "date": "2026-11-12T00:55:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
