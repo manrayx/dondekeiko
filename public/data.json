@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T23:50:07.964357+00:00",
+ "generated_at": "2026-11-13T00:11:24.785468+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-12T22:08:39+00:00"
+  "date": "2026-11-13T00:08:00+00:00"
  },
  "next": {
   "place": {
@@ -380,7 +380,7 @@
    "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
-   "date": "2026-11-12T22:08:39+00:00",
+   "date": "2026-11-13T00:08:00+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -395,7 +395,7 @@
    "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-12T22:03:19+00:00",
+   "date": "2026-11-13T00:03:00+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -404,6 +404,17 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "04511e3b6464",
+   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "Diario Ahora",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTVadEtBdmNuREUwdjdaaG11V2Y0YUs1clk0a0JON0ZtSU1fUE40MzRwcTFoam5Ib2xaMThzUTdNczFxa0FtbDJ2MzktaHVEUlZlQnkwRi03MVJwMEpld0M1ZzNyVVRSa0ViNFBhRTdyc1lrc21VSVdYXzNWdVd0clhPT2ZHcmExYndqazlR?oc=5",
+   "date": "2026-11-12T21:13:38+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1068,17 +1079,6 @@
    "source": "Trujillo en Línea",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2JrTmpDVmRJZTUzb0JuV3M1bmFJc01JZDJ1VlJ4M3lLTjZCVzd0T3RpRndJeFVZSmFtVUo2NS1IaEhZSGR6R2xHMllZVkFDWkNlX3RjVnhrRksxRVJpamJ2cUtuUFFxQ0JOSER3QnBhZWZVRy1xTHJJV0Z1YmZkaEJ2SUFDT1hCWDZOTHJyWDNfdEVubDhvU2VfMndYM01fbVkydG5SU1QwczRVZi10TFBKTHd1MmxObnhuMDk0WTdPSm9pY3V5TTlYcXdrSHBaakdnN3lR?oc=5",
    "date": "2026-11-11T23:17:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "04511e3b6464",
-   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón",
-   "excerpt": "",
-   "source": "CanalB.pe",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTg1NnAzbHJCeWdWRVhLdnZrMkJ3MEcwUEJJV2pmS1BfMnhtLWJGUnI5NkxtZU45VEYzSEJ1bUNGUkhSaE03dk84Y01PSHQ0U3ExRnR4dl95RXFwVjk5VTlseVd5YXE2YXZLNGNDSGp3YXlpYXFfUnpPLXhmUzBvVHRhWUVLUDVpUkNaSWljOW10cTRvcFE?oc=5",
-   "date": "2026-11-11T23:00:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
