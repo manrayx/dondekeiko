@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T05:35:43.069541+00:00",
+ "generated_at": "2026-11-13T06:39:37.498194+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -606,23 +606,6 @@
    "next": null
   },
   {
-   "id": "2ffaedfb1102",
-   "title": "“Regreso a mi patria”: León XIV recordó ante Keiko Fujimori los años que compartió en Perú y pidió respetar a las comunidades y avanzar hacia la paz",
-   "excerpt": "El pontífice abrió su agenda apostólica en Lima con un mensaje sobre las décadas vividas en el país, cuya nacionalidad obtuvo en 2015 tras dirigir la diócesis de Chiclayo durante…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/12/regreso-a-mi-patria-leon-xiv-recordo-ante-keiko-fujimori-las-decadas-que-compartio-en-el-pais-y-pidio-respetar-a-las-comunidades-y-avanzar-hacia-la-paz/",
-   "date": "2026-11-12T02:40:59+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
    "id": "4c7390e304c7",
    "title": "El Perú necesita reconciliarse, señala Keiko Fujimori en su discurso ante el papa León XIV",
    "excerpt": "",
@@ -676,6 +659,17 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "2ffaedfb1102",
+   "title": "“Regreso a mi patria”: León XIV recordó ante Keiko Fujimori los años que compartió en Perú y pidió respetar a las comunidades y avanzar hacia la paz",
+   "excerpt": "El pontífice abrió su agenda apostólica en Lima con un mensaje sobre las décadas vividas en el país, cuya nacionalidad obtuvo en 2015 tras dirigir la diócesis de Chiclayo durante…",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQW5QZTd0RmJTWF8tRjRyekdtcXZ0XzRGMFBkYmtoZWFkbmpIWTNNSlZDOVdJVjFBQ2FhUE5jRzl0UTF1X3lPaHptZHhqa0NQWlFNWTc0MmNVMEVPR2JrMUp6NzlQcEwwZHVQeHpkU1pneWptU09lRGtWTFpjMU1YX3YzaWNRczNvTno5bmZkbk5DVE5rR0wwWFVxRkQ5RnRUWDNaV2NFMlA1WE9SeHZWNTBDWGU3ZjQ0dkpEZl9COEdxbjNQdlB5bzRSdTExaXpXV3h1SVNjWVF3b25HSVFFeHZMb2k0N0I0SGJOTlB6RHRNMlBES2FHT2RUVTFCaUozMlhqVGdSbmtpcnM2WEpUV01ZdjhJbDdaQ0daeNIBtwJBVV95cUxQQWIySkhCcjJGRW40ZkljdWd2aDl6SEJUWDJ0Nkhld2lLZThOUko5R0p2SU9aMVNQeWh1aXlVaHlyeUJ1aDcwTGZzaWhzR3B1Y0NOZGxYRnBXNzlCMzhjLXFGeEc0WUFWOXJuSVEwbWhwVTRtbFBLMTlQbERkMFNxWG9hcV9EdFR1NWFHZjFHZ2tjdWpxODRuZU9fdEhPZXBucEZCd3BveHBvcG5PNEN1TWo3YjVBLVRpdURkSTZSOG9ESGhWWDB5Z2VYcDY1VUFINlRBeUFpdC1vcWhwMzAzU0ZWLUJQZmljajQ3M3ZpbEZkbXlNV05xNm9rNzF2ZE9Sc2s4SnB6eUdoWnE4bE1ISjdFaGc0b1dteW03c0ZVNEVTLU5zbUV1QVBBQXFKOGRFNEVRSDY2aw?oc=5",
+   "date": "2026-11-12T02:12:00+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
