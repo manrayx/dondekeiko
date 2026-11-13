@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T05:13:47.681538+00:00",
+ "generated_at": "2026-11-13T05:35:43.069541+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -399,17 +399,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "04511e3b6464",
-   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón",
-   "excerpt": "",
-   "source": "Diario Ahora",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTVadEtBdmNuREUwdjdaaG11V2Y0YUs1clk0a0JON0ZtSU1fUE40MzRwcTFoam5Ib2xaMThzUTdNczFxa0FtbDJ2MzktaHVEUlZlQnkwRi03MVJwMEpld0M1ZzNyVVRSa0ViNFBhRTdyc1lrc21VSVdYXzNWdVd0clhPT2ZHcmExYndqazlR?oc=5",
-   "date": "2026-11-12T21:13:38+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -1074,6 +1063,17 @@
    "source": "Trujillo en Línea",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2JrTmpDVmRJZTUzb0JuV3M1bmFJc01JZDJ1VlJ4M3lLTjZCVzd0T3RpRndJeFVZSmFtVUo2NS1IaEhZSGR6R2xHMllZVkFDWkNlX3RjVnhrRksxRVJpamJ2cUtuUFFxQ0JOSER3QnBhZWZVRy1xTHJJV0Z1YmZkaEJ2SUFDT1hCWDZOTHJyWDNfdEVubDhvU2VfMndYM01fbVkydG5SU1QwczRVZi10TFBKTHd1MmxObnhuMDk0WTdPSm9pY3V5TTlYcXdrSHBaakdnN3lR?oc=5",
    "date": "2026-11-11T23:17:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "04511e3b6464",
+   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "CanalB.pe",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTg1NnAzbHJCeWdWRVhLdnZrMkJ3MEcwUEJJV2pmS1BfMnhtLWJGUnI5NkxtZU45VEYzSEJ1bUNGUkhSaE03dk84Y01PSHQ0U3ExRnR4dl95RXFwVjk5VTlseVd5YXE2YXZLNGNDSGp3YXlpYXFfUnpPLXhmUzBvVHRhWUVLUDVpUkNaSWljOW10cTRvcFE?oc=5",
+   "date": "2026-11-11T23:00:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
