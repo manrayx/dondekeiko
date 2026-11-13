@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T21:05:18.387562+00:00",
+ "generated_at": "2026-11-13T21:48:43.051330+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Chiclayo",
-   "lat": -6.771,
-   "lng": -79.841,
+   "name": "Amazonas",
+   "lat": -6.231,
+   "lng": -77.869,
    "abroad": false,
-   "city": "Chiclayo"
+   "city": "Amazonas"
   },
   "source": "El Comercio",
-  "date": "2026-11-13T18:25:00+00:00"
+  "date": "2026-11-13T21:45:40+00:00"
  },
  "next": {
   "place": {
@@ -377,6 +377,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b407452837dd",
+   "title": "Keiko Fujimori expresa su solidaridad con el ministro de Salud tras accidente de comitiva en Amazonas",
+   "excerpt": "El ministro de Salud, Luis Dyer, y los integrantes de su comitiva sufrieron un accidente de tránsito durante una jornada de supervisión en Amazonas. Keiko Fujimori expresó su solidaridad con…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-expresa-su-solidaridad-con-el-ministro-de-salud-tras-accidente-de-comitiva-en-amazonas-ultimas-noticia/",
+   "date": "2026-11-13T21:45:40+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Amazonas",
+    "lat": -6.231,
+    "lng": -77.869,
+    "abroad": false,
+    "city": "Amazonas"
+   },
+   "next": null
+  },
+  {
+   "id": "831b358f30b5",
+   "title": "Keiko Fujimori revela estado de salud del ministro Luis Dyer y parlamentarios tras accidente en carretera de Amazonas",
+   "excerpt": "El siniestro ocurrió alrededor de las 9:00 a. m. en la carretera Fernando Belaúnde Terry, cuando la delegación cumplía actividades de supervisión en la región",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/13/keiko-fujimori-revela-estado-de-salud-del-ministro-luis-dyer-y-parlamentarios-tras-accidente-en-carretera-de-amazonas/",
+   "date": "2026-11-13T21:30:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e6dba7c62bf1",
    "title": "Keiko Fujimori participó de la misa del papa León XIV en las Pampas de Pimentel",
    "excerpt": "",
@@ -402,23 +430,23 @@
    }
   },
   {
+   "id": "878f2207cf03",
+   "title": "Presidenta Fujimori participó en santa misa celebrada por el papa León XIV en las Pampas de Pimentel",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUJXa3lrcWh2MjN1Z1BzTTNMaWlkQ2UydHFiazZZT3lNV2Q1ME9lbm1OZER6NlJ3VThyc0tGQjlTUHd1UnBZc29FczhtS29PcUc1RHZ6TFpHY2JWRzFHcDY2UGlQM3YwNFhxbGpENXhEUTh2cVlacHRuMDlEaXR4YVRWV0ZyY3FKWUJHUmE5TTg3Q185SUtRZ1VOZDdYVDE1NWE5aXBHZHlNdVNUYUl3X3B1WHVjQXMzLXZHN1NINU42Z1d2UlJQa2dkUnd6YjNmbEk4?oc=5",
+   "date": "2026-11-13T20:08:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c2075ce9a109",
    "title": "Keiko Fujimori participó en misa del papa León XIV en Pimentel: pontífice rompió el protocolo para saludarla",
    "excerpt": "La mandataria asistió a la celebración eucarística en las Pampas de Pimentel, donde participaron 15 imágenes religiosas de distintas regiones del país, en una de las actividades centrales de la…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/13/keiko-fujimori-participo-en-misa-del-papa-leon-xiv-en-pimentel-pontifice-rompio-el-protocolo-para-saludarla/",
    "date": "2026-11-13T20:07:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "878f2207cf03",
-   "title": "Presidenta Fujimori participó en santa misa celebrada por el papa León XIV en las Pampas de Pimentel",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUJXa3lrcWh2MjN1Z1BzTTNMaWlkQ2UydHFiazZZT3lNV2Q1ME9lbm1OZER6NlJ3VThyc0tGQjlTUHd1UnBZc29FczhtS29PcUc1RHZ6TFpHY2JWRzFHcDY2UGlQM3YwNFhxbGpENXhEUTh2cVlacHRuMDlEaXR4YVRWV0ZyY3FKWUJHUmE5TTg3Q185SUtRZ1VOZDdYVDE1NWE5aXBHZHlNdVNUYUl3X3B1WHVjQXMzLXZHN1NINU42Z1d2UlJQa2dkUnd6YjNmbEk4?oc=5",
-   "date": "2026-11-13T19:27:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1097,28 +1125,6 @@
    "source": "Yahoo",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdm5lSjJnNl9oalh2d3JkMnkxOVR2ajZfbVA4U1pTakpnVWFMQUdIWlVxQ2NjRTd2TkJsUzNNaFZMLXNocFJRNXFRQUhNMDNLT2pYYmd6MlJfNEFaTER3dldWNkd1d3hFNzNlc3BkZXlCLVRmcUxzcVZFNmNRYW83aVRGM2ViUVRHQ2ZrVDdmeWFvQQ?oc=5",
    "date": "2026-11-12T00:55:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1e7f93e58986",
-   "title": "León XIV en Perú: el Papa fue recibido por Keiko Fujimori y cantó el Himno Nacional",
-   "excerpt": "",
-   "source": "Ambito",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTGFQMlVzNHR1amZGY1U1bXlzQ1p3NGJwXzNQUS1FY2psS0ZlbDlUcFNOM2d5VHNTYWVDUDltcWRUVFdJLVNZWUJaZTh4V3VrV0ZvaVY3MjRnQ0dnLXQwa2ExQVhWMTVZUFNnR3k1Yzh6eWZ3TGVwaGlxeDc5VDAxeFdpcXNsWUVmZVk0UllPRURTZ2NtMmoyRERneGxmVDdyZjFra05fdTZ4RF8xYzFfM0VPMNIBuAFBVV95cUxNaDh3MFVucndtYWxRTDhaM29RZjVNYWZGaHg3VEhOdExLdm1PVjI0SzRobnZ1UFlzYVJMdTFNYWZzRGdUQXRvckNCTDRka19EZzJ4N1g2Uk1MUVU3ODV6V0ptMFRRZUk2dXc1UVhQS1g1RjB0bzJieDRxZmRfUUNaVzJfYWd6SlJkNXFEUlNlWWhSU0d6VnZhdHZ1UHBzeGlaelp5TnRYc0tWRTBra1JKaExLcGRJNDF2?oc=5",
-   "date": "2026-11-12T00:47:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "23b0dfc6dea4",
-   "title": "Presidenta Fujimori: \"El Perú recibe al papa León XIV con el corazón abierto\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFI2UVJVRXBHQW9KaGRicERscUFFSU5wMjNFb3AtTkY4T1A5eXdvVFV2cGw5YVBtaDV1UWZqNER1bDNkOW5qNWQ5NVktd1JWc0dMZXQ0Vlg0Z1N5M1RGZFVzaE1vdXVEQ3B0TVExd3FpdEJENlpjczNQRVI3UEZTRy14VXp0Tm85dDMxMU5kNU1hMXByV2xUVXBtNnJRYmFRTGJsVHhubjlWVmhXQVRzcGIwQkY3UQ?oc=5",
-   "date": "2026-11-12T00:38:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
