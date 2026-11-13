@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:29:41.248920+00:00",
+ "generated_at": "2026-11-13T17:51:52.572649+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,9 +111,9 @@
    "abroad": true
   },
   "source": "La República",
-  "date": "2026-11-12T17:48:37+00:00",
-  "title": "Foro APEC 2026: estas serán las actividades de Keiko Fujimori durante su viaje a China y Japón",
-  "url": "https://larepublica.pe/politica/2026/11/12/foro-apec-2026-estas-seran-las-actividades-de-keiko-fujimori-durante-su-viaje-a-china-y-japon-hnews-666480"
+  "date": "2026-11-13T17:41:11+00:00",
+  "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
+  "url": "https://larepublica.pe/politica/2026/11/13/keiko-fujimori-excancilleres-piden-a-la-presidenta-retrasar-su-viaje-a-china-para-que-pueda-despedir-al-papa-leon-xiv-hnews-969553"
  },
  "counts_7d": {
   "transmitiendo": 2,
@@ -376,6 +376,20 @@
  "agenda_minutes_7d": 394,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "f33e783a4a23",
+   "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
+   "excerpt": "César Landa, Eda Rivas, Manuel Rodríguez Cuadros y otros cuatro exfuncionarios cuestionaron que la mandataria salga del país el 15 de noviembre, antes de que termine la visita oficial del…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/13/keiko-fujimori-excancilleres-piden-a-la-presidenta-retrasar-su-viaje-a-china-para-que-pueda-despedir-al-papa-leon-xiv-hnews-969553",
+   "date": "2026-11-13T17:41:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "80c6afae5fda",
    "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
@@ -1113,23 +1127,6 @@
    "date": "2026-11-12T00:13:38+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "96ffd34594bd",
-   "title": "Papa León XIV llega a Palacio de Gobierno: Keiko Fujimori y sus ministros lo reciben en su visita al Perú",
-   "excerpt": "A la espera del sumo pontífice, el patio de honor del Palacio se llenó con la presencia del Regimiento de Caballería Mariscal Domingo Nieto y los Húsares de Junín.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-llega-a-palacio-de-gobierno-keiko-fujimori-y-sus-ministros-lo-reciben-en-su-visita-al-peru-hnews-754017",
-   "date": "2026-11-12T00:12:23+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
