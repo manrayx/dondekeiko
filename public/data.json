@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T18:56:43.505079+00:00",
+ "generated_at": "2026-11-13T19:18:10.298456+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "city": "Chiclayo"
   },
   "source": "El Comercio",
-  "date": "2026-11-13T18:24:17+00:00"
+  "date": "2026-11-13T18:25:00+00:00"
  },
  "next": {
   "place": {
@@ -116,12 +116,12 @@
   "url": "https://larepublica.pe/politica/2026/11/13/keiko-fujimori-excancilleres-piden-a-la-presidenta-retrasar-su-viaje-a-china-para-que-pueda-despedir-al-papa-leon-xiv-hnews-969553"
  },
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 4,
-  "posando": 54
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -382,7 +382,7 @@
    "excerpt": "La presidenta Keiko Fujimori estuvo presente en la masiva ceremonia que presidió el papa León XIV en Pampas de Pimentel. La mandataria estuvo entre las primeras filas de los miles…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/peru/lambayeque/keiko-fujimori-acude-a-misa-del-papa-leon-xiv-en-pampas-de-pimentel-en-chiclayo-gira-sudamericana-apuesplan-ultimas-noticia/",
-   "date": "2026-11-13T18:24:17+00:00",
+   "date": "2026-11-13T18:25:00+00:00",
    "state": "posando",
    "place": {
     "name": "Chiclayo",
@@ -509,6 +509,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
    "date": "2026-11-13T12:41:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "73499409bdb4",
+   "title": "Rubén Meza sobre el gobierno de Keiko Fujimori: creo que hay una situación de desilusión",
+   "excerpt": "",
+   "source": "Ideele Radio",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQclYtVF9Gb28wZzRCN282d1BBUE1ITzlCUWtXbndMOHY4d1FmSFoyREhFWkpWOFQ4R3RNcjluamNSRllrTFpOSUxlRFM1SGRzb0tTRDJLczhnRE04bnZKWnZOc0NDVHczTWY4YVI3Q2JGRHVYRkc1dkFMMnlOczBvM3JUSjVEWUZVNVZmbEQ4dDRxdTZQXzU5cU1OTzdvWlBnc0JRYWltVVdRREpUVElqZnBHU1FaZFlkSkpWLWJhT2t6djg?oc=5",
+   "date": "2026-11-13T10:04:04+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -722,6 +733,23 @@
    "date": "2026-11-12T08:00:00+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "5c0c0b147896",
+   "title": "Video de abucheos a Keiko Fujimori en Cusco no es actual, es de 2021",
+   "excerpt": "",
+   "source": "Mala Espina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMks3WlpnQXlmeWdpZldlTDJpY0VXVXU4Q1BtSGtLS2NNRjVtMERDQThxZnJxMzhnVU9nUkc0bDZYNW5RNEZsT3c0VnVKRF9hRS1oOEJiWXczbW9iYmE2RHB4cVZVa2ltR2g1RzR4NUNJMGZPdi1hVHo0N0ZCQVhSa3RMTXp2bGhlOEFVLS1YNFQ0NEJaTzBzdk9XNzlaSkVxYjROX09HT3ZwRFMtdy1yX00tWWo1ZEU?oc=5",
+   "date": "2026-11-12T08:00:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false,
+    "city": "Cusco"
+   },
    "next": null
   },
   {
@@ -1111,28 +1139,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "74cfed14252c",
-   "title": "Papa León XIV en Perú EN VIVO: Sumo Pontífice canta el Himno Nacional y se reúne con Keiko Fujimori",
-   "excerpt": "",
-   "source": "Karibeña",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWJWUlhhekxfcHp4TWFDalVGV29PcFZIN0ZSRVVNdEI2Y28wMjZFTjNhckpRaW5OTGt0TEpxZ3VIWXIyQnNaVXZmeEtRLUVLRDlLQWFITjFodVczSno2ZXltOVgycnJFbUFjQmd0TG9fbUhHb0lLRmNISWZBenk2MWpVd0dGNXFJYXdmRmFhTG9GZVk0Wi1oLTF4ZG1FWjF0TzhqZXBMTG9oUzlHVjlvZFBZMnRlQk96ZnfSAb8BQVVfeXFMTU8yWFlwMTNXYkN5OV9PVW9nZWFuVmFMTmNBalZ6WjJXcnpITEFEbTVnQXptSGZSckt2YU9DQjRCVzMtcU82RGxkQnlDTWlONHFueE5XQ2ZwN1lMQ3BxOUZMQ2l0MTVjUFhldG1OcTNIbkd2Y1NDTUtVWlpNeTB1VmlXbE1nT3RmTkU3cDFHalY0Um14X1pUU1R3N0RoaVBWM0djelBtR3ZuUkZKT29ZaXEwMDUwcjFoeTZ1Z1lsSzg?oc=5",
-   "date": "2026-11-12T00:26:24+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d6b75a99149a",
-   "title": "Papa León XIV se reune con presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjFrS2t1bzViQnJickZyVXFMNDhHd2NxT0h5dEFfQWRITmJkbzJGcEs0Q0FzZ2NDVFV5QVpxV3A5OXh6QjlrTWZPMzFDblNyNnBQcFl4a2J0RTI4MVpCcnQ1RzUxU0wyWmJYRGNzLVFGVGZzWENnd1NneHB2RTlyNE9nTjFpVjlrd3ZsSDVNRXF4aFJ1bFE?oc=5",
-   "date": "2026-11-12T00:24:59+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
