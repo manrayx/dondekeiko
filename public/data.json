@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T12:47:18.289095+00:00",
+ "generated_at": "2026-11-13T13:09:23.024289+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-13T12:42:30+00:00"
+  "date": "2026-11-13T12:47:54+00:00"
  },
  "next": {
   "place": {
@@ -361,12 +361,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "270657eb6afd",
+   "title": "Carlos Espá defiende ausencia de Keiko Fujimori en despedida de León XIV: “No hay que ser más papistas que el papa”",
+   "excerpt": "Además, el canciller dijo que la jefa de Estado habría notificado con anticipación a la Conferencia Episcopal y al nuncio apostólico sobre su imposibilidad de asistir al cierre de la…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/13/carlos-espa-defiende-ausencia-de-keiko-fujimori-en-despedida-de-leon-xiv-no-hay-que-ser-mas-papistas-que-el-papa/",
+   "date": "2026-11-13T13:05:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "501ef570d79d",
    "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
    "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-13T12:42:30+00:00",
+   "date": "2026-11-13T12:47:54+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -1091,23 +1102,6 @@
    "date": "2026-11-11T23:56:42+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c5058e10b51b",
-   "title": "Primera reacción del papa León XIV en Perú: el santo padre se emociona ante el multitudinario recibimiento en Lima",
-   "excerpt": "Keiko Fujimori recibió al sumo pontífice en el Grupo Aéreo N.° 8, acompañada del canciller Carlos Espá y otras autoridades, durante la ceremonia oficial de bienvenida",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/11/la-primera-reaccion-del-papa-leon-xiv-en-suelo-peruano-tras-aterrizar-en-lima-para-iniciar-su-visita-al-peru/",
-   "date": "2026-11-11T23:32:13+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
    "next": null
   }
  ],
