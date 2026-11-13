@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T14:13:54.584337+00:00",
+ "generated_at": "2026-11-13T15:41:08.507003+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "lng": -77.0298,
    "abroad": false
   },
-  "source": "El Comercio",
-  "date": "2026-11-13T13:57:17+00:00"
+  "source": "La República",
+  "date": "2026-11-13T15:25:10+00:00"
  },
  "next": {
   "place": {
@@ -361,6 +361,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9bdf75d886da",
+   "title": "Espá justifica viaje de Fujimori al extranjero durante visita del papa León XIV: “No hay que ser más papistas que el papa”",
+   "excerpt": "El canciller señaló que, durante su reunión en Palacio de Gobierno, Fujimori explicó al sumo pontífice las razones por las que no lo acompañaría durante los últimos días de su…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/13/espa-justifica-viaje-de-fujimori-al-extranjero-durante-visita-del-papa-leon-xiv-no-hay-que-ser-mas-papistas-que-el-papa-494832",
+   "date": "2026-11-13T15:25:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "06c1a7c5f274",
+   "title": "PerúCheck: Falso, Perú no es el primer productor mundial de arándanos uvas y espárragos, como afirmó Keiko Fujimori.",
+   "excerpt": "PerúCheck: Falso, Perú no es el primer productor mundial de arándanos uvas y espárragos, como afirmó Keiko Fujimori.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/perucheck-falso-peru-no-es-el-primer-productor-mundial-de-arandanos-uvas-y-esparragos-como-afirmo-keiko-fujimori-noticia/",
+   "date": "2026-11-13T15:24:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "80c6afae5fda",
    "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
    "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
@@ -491,6 +519,17 @@
    "source": "Tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzkzTGthTU55OGN3UDRzR1FDQTNoSklUTzI3bFZvSDctelptYTM1SFRnWkRlQWVVVTJ2eW1CR3NWSm1vYWNwckZCRXk0UzBnMUFvZmFTWHRYRWZuQzZpOVh1eEFFNlBhQVptY0IwcEVjODdWNzh6Tk1XbmZuN1gzOGU0Y0F3UmZWSFFaNlpuOFJuXy1WWVZnazBHS2FfOHFPcjR4amtWUHlGWUNL?oc=5",
    "date": "2026-11-12T16:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "927809b53ce3",
+   "title": "Falso: Perú no es el primer productor mundial de arándanos uvas y espárragos, como afirmó Keiko Fujimori.",
+   "excerpt": "",
+   "source": "perucheck",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV1lNSGVkTWdCTVpBbkhJRnFVd0ZfZEI0OFNwMi1UUk50VmtteW1lWkdlRFFfRTVKeVNILU03NEQweGZLdDFVV1laNS1PYXJhbVBnLS1WZUtRNUxsUnRTZzdVeUNEVUxwbFdDOEFlc0NSeDdnS3ZvZlBuSGZ0aFFGUEpoWHdaZlN6T0c4UndteUlESmlBcC1PckpZMUppZGlTc2pCYkhFcEdWd3FoUWhBdWRJQkYtV19VNy12Nk1QVzgyUU0zOGpFT3BvOXdvRHU4YVpyOVlhOFVIaUFmWkdHaTlMUTBad2FhdTVUV2NqazJMTTRDYno0?oc=5",
+   "date": "2026-11-12T13:29:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1073,39 +1112,6 @@
    "source": "Tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkJFRlpmYnpmTUpjcVZmby1hRmRKWWtkS0lMZ0h0MHBOM0FUSmV2azh2RmtQS0ltMU5kMi1vcUVJYmRUbnpUZEVuTDM2VFY5ckZFRlc3VTZySlJtTnpUdHdmeE42VGxoR0NtQ0hfdEtJaXpWOFF2OU9oTkRjUGZPUU91aTcxMnhRcmtzQWdwMkZsUnpwOHUtS2JoSk9xYjdBZUxHM045NDJTLWtWYkJ3ZFJJUXZxa0ExM1RRMDE3ME13QWc?oc=5",
    "date": "2026-11-12T00:11:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9fc5b10a4ce1",
-   "title": "Keiko Fujimori y su emoción tras darle la bienvenida al papa León XIV: \"Lo hemos extrañado y hoy nos llena de emoción tenerlo\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBWWFIbXNaR05sX2lLaFVaX3BWY3NyTlRJWks2WWlMcjlIVVJNRFZ6NTM4NTlnRlNvZUgxaGFSdXRWR3VDOGlBazdYYnBHWDh3UHhZSVpPOHQtZllwVWtqaXVjR3hQdnQ1aDhxbzNGOGJyZFBMbndWVHRJQQ?oc=5",
-   "date": "2026-11-12T00:08:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d58c8e9e1bd6",
-   "title": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón",
-   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbDJNdjdwdks1R3NtaGZ3YW5xMGVlTFl2aFJGNWs4MFBXMFdzNTNXeE1fZmRueHhGWUExZjNESGh1aGtjc3lwWlltYzNJRDFma3d0Q1dwYUN1NjNmLVRnWkxKV0Zhc3N6bk1sSnM5ZXdfbFE0ekNIaXVmZzIxTGo0R3VBaGxsY3hob1AzYXhORDl6NEZCYk54U3NibXgwaFVRbTg3Tmt4Smk5ZkF4WDJIcTRxd210MW9CTVdoZWdsRmJpeG5sYm1NU0tnU1NCeU41OEprR3JObw?oc=5",
-   "date": "2026-11-12T00:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f6cc7c124842",
-   "title": "Papa León XIV recibe saludo protocolar de Keiko Fujimori: el momento de casi medio minuto en su bienvenida al Perú",
-   "excerpt": "La mandataria encabezó la recepción oficial del pontífice en el Callao, donde se produjo el primer encuentro protocolar de ambos",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMFM2UHVNVjZ3NGNpWGhSbXI1Ungxb2ZjckxmVTFNUi10LUVoUmN3ZU50Qnl6LV8yQ0dBZGoxbTdadUpVNFA2elVHczh3N3paWnFFbFBRS2IwRnZLU0ZoMTItbi1ZcjFSR014VTBkdlU3MW94S29Vc3pxdnJMcHhHTUotWXo3OGFkeGpHTV95ck5iaUdnbGoxVjJlVGFRN2RvcXZFblZTcnVLLUx2NnotNmRkMzhBYTVTSlRWaktlOC15QW40X0tSazRmREZ5Ym9yWEVTSWl3WU5HQ203c2h5V2JSTHZYWms00gGDAkFVX3lxTE9ja0hsR0I0VkRKQjFRekI3RjRVN2IxYXo0YXhPd3daRTZWOHdwZ2JWWVgxTnpLVTNjdXhYU1JteG9ENHI4Y0xzc1FobWJFNk81QkgtelBGeVlJVlhKYjZKZGJDUXFyRmFBY25vZzl0bEhEdTFTZ0ZVUnpJczFRb1l2SnZ0dFhZVE1zNkRiVDh0dzVTTWFTTmtUUEFVQWlrNnQ5cVN3NEg5Y0xZZXZFdk1EQnJyckU1Mzk0TGFXSEhlbUZaa3EwWUs1dFZBU3FlYVZ5TTdhVUxxbEJ3dVZDM283em9QdElEeHBWMS1nMWRTdWxaMzU4Vm1ieXpqd0JoVUVVWDQ?oc=5",
-   "date": "2026-11-11T23:59:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
