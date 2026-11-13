@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:11:53.822865+00:00",
+ "generated_at": "2026-11-13T09:55:10.226871+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 3,
-  "posando": 55
+  "triste": 4,
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -492,6 +492,20 @@
    "next": null
   },
   {
+   "id": "a39b69a31de3",
+   "title": "Keiko Fujimori viajará a China y no estará en la despedida del papa León XIV en Perú: presidenta responde a críticas y niega un desplante",
+   "excerpt": "",
+   "source": "El Tiempo",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZnR6WGhUaEZFZzFYTktOTFVBWUJkYUwyS3dkbldJX2NmNjNNZ0NKaVI3QnFjZ2Z4R0h0dTFsQmNGYmdZVWllckRBcGQtZ2RoV3gzZkZUdmhiVHFIM1dMVlVfLV9RUlJmRjdnYXU1U3lVTkFkOHZnYm9oYWhncVhCT0xpU1B2NU9XQ3IyRV9hRWV3SjR2SzRQcWpfRFFtMjlPUWNzTUpfU2lYcXRYNzBERzdoQVZ4eGpTSU51cko5SDRMQzRKaE9IS3lxRVFneXluSjYtU08xTkxuUDcxVjlrTTJFbVBZLXA5TmpCUkY5QkFUVHl3dU51Y0Facjh4c29yWllwNE1Xd0tkb0ZmdEFwdS1RTnZZeXRT?oc=5",
+   "date": "2026-11-12T12:19:17+00:00",
+   "state": "triste",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "a7ed1106834f",
    "title": "Keiko Fujimori insiste en desairar al Papa León XIV | Pico a Pico con Mabel Cáceres (VIDEO)",
    "excerpt": "",
@@ -546,6 +560,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-12T08:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8b1f3d1d37be",
+   "title": "León XIV inicia visita a Perú con reunión con la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Universo",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVl0RG5LZmx4Zk1zQVdVY1VZbGtXSHl4WjNUcEdGZ0RJaVpoUFhqcnV3bWlsNUE2N0FmOTN2T0xxcFlEV0QteHUxcEtpWUl0eGJvUjMxZEl2c2lxTkV2UHQ5Ym4wZV9VMTRHR2FUOTFEZG5CSDd5U0pIb2xSN0Fwak0yOUFTNzVlMzFMNm11Q0VnUjBEOUs2enVIZ0V2OWs1UjNyRXg5Yi1TV2ZEUVRmWlkyOS1WWXQ5dzVIZktrSnNtR3ZSSmI3dU95MUVuX0w30gHkAUFVX3lxTE91RkI5VHFhdm91TW1UTHVTbS1ETUJvam5OOEszd3FjOWx2ZlgwRXRJUGtPMFNGMzBDUnZQWUFmbXlkcXNTVGdiYUEtX1VkeXIzeUxkemFHMlhjeWt6a3VVWjBzRkRGQ1lJY0lfTFBwbmYxeDBtallGY2hMLTl5RFd0a3lOVmM1SjAxZnFrV2dzbWh1bWViV0kzS0dhUVI4a0Z3RTNJeWk3RGtWVzFNODhjR1V0cUVxSFUydEhTWmJVYjA4eXg1QnJwd1RfNkdVcEFGclgySFplNW5tbERsN1FqSUhCYw?oc=5",
+   "date": "2026-11-12T07:42:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1079,28 +1104,6 @@
    "source": "CanalB.pe",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZTg1NnAzbHJCeWdWRVhLdnZrMkJ3MEcwUEJJV2pmS1BfMnhtLWJGUnI5NkxtZU45VEYzSEJ1bUNGUkhSaE03dk84Y01PSHQ0U3ExRnR4dl95RXFwVjk5VTlseVd5YXE2YXZLNGNDSGp3YXlpYXFfUnpPLXhmUzBvVHRhWUVLUDVpUkNaSWljOW10cTRvcFE?oc=5",
    "date": "2026-11-11T23:00:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3f1092932a3f",
-   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
-   "excerpt": "El pleno del Senado aprobó, con 44 votos a favor, uno en contra y cinco abstenciones, la autorización solicitada por el Ejecutivo para que la presidenta Keiko Fujimori viaje a…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/senado-aprueba-viaje-de-presidenta-keiko-fujimori-a-foro-apec-noticia/",
-   "date": "2026-11-11T23:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "86b1fe587b72",
-   "title": "Keiko Fujimori recibió al papa León XIV en su regreso al Perú",
-   "excerpt": "El sumo pontífice volvió al Perú después de un año y medio de haber sido elegido como el sucesor del papa Francisco. La presidenta Keiko Fujimori encabezará la ceremonia oficial…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/keiko-fujimori-recibe-en-el-aeropuerto-al-papa-leon-xiv-en-su-regreso-al-peru-hnews-513458",
-   "date": "2026-11-11T22:59:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
