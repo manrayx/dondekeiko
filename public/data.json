@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:51:52.572649+00:00",
+ "generated_at": "2026-11-13T18:35:15.968957+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Chiclayo",
+   "lat": -6.771,
+   "lng": -79.841,
+   "abroad": false,
+   "city": "Chiclayo"
   },
   "source": "El Comercio",
-  "date": "2026-11-13T16:57:00+00:00"
+  "date": "2026-11-13T18:24:17+00:00"
  },
  "next": {
   "place": {
@@ -376,6 +376,23 @@
  "agenda_minutes_7d": 394,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "5ebba5867c37",
+   "title": "Keiko Fujimori acude a misa del papa León XIV en Pampas de Pimentel en Chiclayo",
+   "excerpt": "La presidenta Keiko Fujimori estuvo presente en la masiva ceremonia que presidió el papa León XIV en Pampas de Pimentel. La mandataria estuvo entre las primeras filas de los miles…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/peru/lambayeque/keiko-fujimori-acude-a-misa-del-papa-leon-xiv-en-pampas-de-pimentel-en-chiclayo-gira-sudamericana-apuesplan-ultimas-noticia/",
+   "date": "2026-11-13T18:24:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Chiclayo",
+    "lat": -6.771,
+    "lng": -79.841,
+    "abroad": false,
+    "city": "Chiclayo"
+   },
+   "next": null
+  },
   {
    "id": "f33e783a4a23",
    "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
@@ -1114,17 +1131,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnpnN2V4MTZmMkk4Q04zODVkbnhsc2J5UEp6NG4tYVVSblQ0bVJMUTk4NHdIUXEtaGN4NDAya3k3V3lVWFR1V0dDRXFnVlZZc1R0NThfNnM1bE5qa0MyZ2UxSnRHVEJjTGRsdi1WTGpjVGpnMV9ZYVdBdi1pZ2U4QUxWVWo4Y1RtUWRtdjdPc1ZUa0NhZkR6cGNGb0hQdnZlQl9jRXFTS1c?oc=5",
    "date": "2026-11-12T00:23:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "91328db0af78",
-   "title": "Keiko Fujimori da la bienvenida al papa León XIV: “El Perú lo recibe con el corazón abierto”",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/papa-leon-xiv-keiko-fujimori-da-la-bienvenida-al-papa-el-peru-lo-recibe-con-el-corazon-abierto-gira-sudamerica-2026-apuesplan-ultimas-noticia/",
-   "date": "2026-11-12T00:13:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
