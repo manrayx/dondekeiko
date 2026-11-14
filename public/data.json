@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T23:36:32.173531+00:00",
+ "generated_at": "2026-11-14T00:41:42.781535+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -377,6 +377,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "831b358f30b5",
+   "title": "Keiko Fujimori revela estado de salud del ministro Luis Dyer y parlamentarios tras accidente en carretera de Amazonas",
+   "excerpt": "El siniestro ocurrió alrededor de las 9:00 a. m. en la carretera Fernando Belaúnde Terry, cuando la delegación cumplía actividades de supervisión en la región",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/13/keiko-fujimori-revela-estado-de-salud-del-ministro-luis-dyer-y-parlamentarios-tras-accidente-en-carretera-de-amazonas/",
+   "date": "2026-11-14T00:30:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3bcaba6de0a8",
    "title": "Presidenta Keiko Fujimori participó en santa misa celebrada por el papa León XIV en las Pampas de Pimentel",
    "excerpt": "",
@@ -402,17 +413,6 @@
     "abroad": false,
     "city": "Amazonas"
    },
-   "next": null
-  },
-  {
-   "id": "831b358f30b5",
-   "title": "Keiko Fujimori revela estado de salud del ministro Luis Dyer y parlamentarios tras accidente en carretera de Amazonas",
-   "excerpt": "El siniestro ocurrió alrededor de las 9:00 a. m. en la carretera Fernando Belaúnde Terry, cuando la delegación cumplía actividades de supervisión en la región",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/13/keiko-fujimori-revela-estado-de-salud-del-ministro-luis-dyer-y-parlamentarios-tras-accidente-en-carretera-de-amazonas/",
-   "date": "2026-11-13T21:30:58+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
