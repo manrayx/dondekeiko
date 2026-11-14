@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T18:39:41.490588+00:00",
+ "generated_at": "2026-11-14T20:27:08.616360+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -280,6 +280,17 @@
  "agenda_minutes_7d": 295,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "dce22aaf9fea",
+   "title": "Presencia de Keiko Fujimori en APEC dará fluidez a relaciones comerciales de Perú",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUJvY0trWjhlUlp5MGFnN1VEWm9COHQ4Q29WOWsxYkhpZXh6aFYyakE3MlJxLUNlNmViZ2Z3alRkaU01bTd6Q01QbXZmeFFBMTlJX0N6dGc4UHdGSjhKSHNGVjlaQTRRZ0lBQ2VrN3Q3UFV4UlBIejZLSWtRdlJ1OFEzTW4wai1CMFhISnFKY0hQaUJJNXhKaE1qSnNkU2wwM2x3NWtMYXpXT3NTR0RlWHdhdnpZREFlTEd4MVJFcXFPN095UlZaTTI0U0FuWDRnVFE?oc=5",
+   "date": "2026-11-14T20:10:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "63b351a67654",
    "title": "Ministros asumirán encargaturas por viaje de Keiko Fujimori a China",
@@ -995,23 +1006,6 @@
    "date": "2026-11-12T02:17:14+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "45b46e590353",
-   "title": "Papa León XIV a Keiko Fujimori: “Los sucesos del pasado merecen ser tratados con justicia y sensibilidad”",
-   "excerpt": "Durante su encuentro con las altas autoridades en el Gran Teatro Nacional, el pontífice también pidió a los representantes del Estado escuchar las necesidades de la población y fortalecer la…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-a-keiko-fujimori-los-sucesos-del-pasado-merecen-ser-tratados-con-justicia-y-sensibilidad-hnews-999559",
-   "date": "2026-11-12T02:17:11+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Gran Teatro Nacional",
-    "city": null,
-    "lat": -12.08663,
-    "lng": -77.00316,
-    "abroad": false
-   },
    "next": null
   }
  ],
