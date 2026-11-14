@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T04:38:23.333721+00:00",
+ "generated_at": "2026-11-14T05:21:07.872030+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -275,107 +275,22 @@
     "abroad": false,
     "approx": true
    }
-  },
-  {
-   "start": "2026-11-06T14:25:00-05:00",
-   "end": "2026-11-06T14:37:00-05:00",
-   "minutes": 12,
-   "subject": "Supervisa hospital de campaña instalado en el Centro de Educación Básica Especial (CEBE) Jesús Nazareno.",
-   "lugar": "Distrito Veintiséis de Octubre, región Piura",
-   "state": "posando",
-   "place": {
-    "name": "Distrito Veintiséis de Octubre",
-    "full": "Distrito Veintiséis de Octubre, región Piura",
-    "city": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-06T13:55:00-05:00",
-   "end": "2026-11-06T14:12:00-05:00",
-   "minutes": 17,
-   "subject": "Supervisa implementación de albergue en el Coliseo Municipal Los Algarrobos.",
-   "lugar": "Asentamiento humano Los Algarrobos, región Piura",
-   "state": "posando",
-   "place": {
-    "name": "Asentamiento humano Los Algarrobos",
-    "full": "Asentamiento humano Los Algarrobos, región Piura",
-    "city": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-06T11:35:00-05:00",
-   "end": "2026-11-06T12:00:00-05:00",
-   "minutes": 25,
-   "subject": "Supervisa hospital de campaña instalado en la Institución Educativa María Mafalda Lama.",
-   "lugar": "Distrito de Tumbes, región Tumbes",
-   "state": "posando",
-   "place": {
-    "name": "Distrito de Tumbes",
-    "full": "Distrito de Tumbes, región Tumbes",
-    "city": "Tumbes",
-    "lat": -3.55565,
-    "lng": -80.42554,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-06T10:28:00-05:00",
-   "end": "2026-11-06T10:38:00-05:00",
-   "minutes": 10,
-   "subject": "Inspecciona zonas afectadas por lluvias.",
-   "lugar": "Asentamiento humano Ampliación El Canario, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
-   "state": "posando",
-   "place": {
-    "name": "Asentamiento humano Ampliación El Canario",
-    "full": "Asentamiento humano Ampliación El Canario, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
-    "city": "Tumbes",
-    "lat": -3.566,
-    "lng": -80.451,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-06T10:05:00-05:00",
-   "end": "2026-11-06T10:20:00-05:00",
-   "minutes": 15,
-   "subject": "Supervisa albergue para damnificados instalado en la Institución Educativa N.° 098 \"El Gran Chilimasa\".",
-   "lugar": "Asentamiento humano Nuevo Aguas Verdes, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
-   "state": "posando",
-   "place": {
-    "name": "Asentamiento humano Nuevo Aguas Verdes",
-    "full": "Asentamiento humano Nuevo Aguas Verdes, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
-    "city": "Tumbes",
-    "lat": -3.48632,
-    "lng": -80.26423,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-06T09:30:00-05:00",
-   "end": "2026-11-06T09:50:00-05:00",
-   "minutes": 20,
-   "subject": "Inspecciona  el albergue plataforma Villa Primavera.",
-   "lugar": "Asentamiento humano Villa Primavera, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
-   "state": "posando",
-   "place": {
-    "name": "Asentamiento humano Villa Primavera",
-    "full": "Asentamiento humano Villa Primavera, distrito de Aguas Verdes, provincia de Zarumilla, región Tumbes",
-    "city": "Tumbes",
-    "lat": -3.48414,
-    "lng": -80.26422,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 394,
+ "agenda_minutes_7d": 295,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "1cc7c3cd45c8",
+   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+   "date": "2026-11-14T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a48768a45fbe",
    "title": "Luis Solari cuestiona viaje de Keiko Fujimori a China durante estadía del papa León XIV en Perú: \"Hay gato encerrado\"",
@@ -1108,17 +1023,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXE5VUs0MFRoQWU2QTV6M0RUMUxHSDI3ZWpUYjBjZkEzSlhZNGRIZW1icnBzSUFpb2RaODZDXzlrMmtwWHZuZ3NUekxOczN2THBoLWNCQTFrWFVyMVpON2N1cWx1U1kwVlZNQnJJamhqVVprSkVuek9YcmxWZG4tZzZLM0ZuUTkyeFVRRS1fQ3dxSVJDLTd1LVVDcGFpUWZ3US1FYUJNWVZNNnRXcW9DeG0wbw?oc=5",
    "date": "2026-11-12T01:17:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f7f5c50a4347",
-   "title": "Papa León XIV sorprende al bajar la luna de su auto para saludar a los fieles peruanos durante su llegada a Lima",
-   "excerpt": "El pontífice respondió con un gesto inusual a bordo de su vehículo oficial, mientras se dirigía al Palacio de Gobierno para reunirse con Keiko Fujimori",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-sorprende-al-bajar-la-luna-de-su-auto-para-saludar-a-los-fieles-peruanos-durante-su-llegada-a-lima/",
-   "date": "2026-11-12T01:16:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
