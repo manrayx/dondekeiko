@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:29:19.122486+00:00",
+ "generated_at": "2026-11-14T03:33:36.732570+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 4,
-  "posando": 55
+  "triste": 5,
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -376,6 +376,17 @@
  "agenda_minutes_7d": 394,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a48768a45fbe",
+   "title": "Luis Solari cuestiona viaje de Keiko Fujimori a China durante estadía del papa León XIV en Perú: \"Hay gato encerrado\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEVGOEtrVkFJdk5ZYnRjRF91MHVyck56cDZZLW5qTk1ZMU9ZSHdvUS1FcExwSlFORVp4Y2loTkhqSHFuVWdWb2JTNGdSQmhGYTVibGVhLVVQeTRtQmZrZTZHQlJyRTd0QWhjNG9tSDZKdzFMOGVZaVpHRU5ramg4VEQ3bjB3SlBMbWhMZ0RSTjludw?oc=5",
+   "date": "2026-11-14T03:16:10+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
   {
    "id": "80c6afae5fda",
    "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
@@ -1108,17 +1119,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/11/papa-leon-xiv-sorprende-al-bajar-la-luna-de-su-auto-para-saludar-a-los-fieles-peruanos-durante-su-llegada-a-lima/",
    "date": "2026-11-12T01:16:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "68dbd5be0c87",
-   "title": "El papa León XIV inicia su visita a Perú con una reunión con la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNGU0QmRLa1ZfUjN2MC1NUzg1MUdocC1Rd0kwWWFiQzFtLUwyNG5uTTRsYWF6TWxwQ1VJYUYwZi1TNU1vcjdXR3BBejkyVmppQ3FHMjJTejZBXy05ZFYtRnRfamJSR2pQZWkzYktiRnpKejJnd0pXRDYzX1BIdkswbG5TamQ3ZUU?oc=5",
-   "date": "2026-11-12T01:11:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
