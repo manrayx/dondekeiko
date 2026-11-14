@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:04:56.503976+00:00",
+ "generated_at": "2026-11-14T15:26:02.083827+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -280,6 +280,28 @@
  "agenda_minutes_7d": 295,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "63b351a67654",
+   "title": "Ministros asumirán encargaturas por viaje de Keiko Fujimori a China",
+   "excerpt": "El viaje de la presidenta Keiko Fujimori a China y Japón, previsto del 15 al 21 de noviembre, activará tres encargaturas temporales en el Ejecutivo.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-viajara-a-china-para-asistir-a-apec-ministros-asumiran-encargaturas-luis-galarreta-y-rafael-belaunde-noticia/",
+   "date": "2026-11-14T15:23:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "29e880b8d302",
+   "title": "Presencia de Keiko Fujimori en APEC dará fluidez a relaciones comerciales del Perú",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV3JoalNuWlBiSkI0NVFDcW5JWFZlOEQ4VklNX0ZwS3JxRjdaOVJvMEZkWFZ6MDI5U2J4MGplNVI3c0RpcTdiYXlmak00ZTdicGxlZ3c2ZWRSZUQxVnFZUkRvcUNNUDFsOGpPZjVIeTVjeFhVeVByRm9GbjFHRm5BRTNOZ294MDVHZEdIekhJVGdremZtMGZIWmdTMUlyRXZiM0RjVDRKOGpLUG9nRUtkV1RJVURTVTZKUFc2YWw5b0pqTVdXQU9OREFybDBwT0hPbFE?oc=5",
+   "date": "2026-11-14T15:00:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "286ac501d134",
    "title": "Senado autoriza viaje de Keiko a Asia en medio de visita papal",
@@ -992,28 +1014,6 @@
    "source": "Vatican News",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejh3blNaU3BnX3dOOXBwaXVBNGV3eXJGbjlRSjRKcDlvSHhNVWRjT1lPZlgtZnRGM055X01kODVBNF9XQTJidndZdmdBRVIwc1NPaEo2ckVUaGxHekw5VVFra0h1NV8xcEgxY0RvdmJDRF9Qc3kyXzFfTnhZSDZNc2x2VHg3dUZpM1NvX1FhdDRkbU1OVVdPam5KOTJfR09xZE9sQm9FcXM0YUlTWENqcHZoeTg?oc=5",
    "date": "2026-11-12T02:07:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6d0a1673d647",
-   "title": "Keiko Fujimori a papa León XIV: “No tenemos que pensar igual para reconocernos como hermanos”",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ1c4NjJodFRycTVrOEYxUV9vMHFsUWpzWHlGRlh5YzQ1YURNZHo5eENTRDdXc1h0WmNVVlBiVjBxcTYtNm9EaVh5RWRaM1BlOHJVTjYySmZFUVAwVTNKSi1UVWxTOFQ1eXlOU2wyZDNFSXBzdjRqSFEtcmlVUExHNGZWY1dRY2ZYVGRaSFpmVktwZVdpNEpOalRIT1p3RFR2LXRKREVFYWxKTFF4N1d2Y0NhUWJFUEpqbG8tMHU0ODh1akJLdVN1aFhYONIB5gFBVV95cUxPTFpvcWRBbF9MY25abThUX1lXNl9MMUlvTnBjcUJGYThMOFJ1cjk3TmRfZlByRlRsQmw2VEVBUDVEM1ZXSUFnWUJ0LXBia19GTW5UZE5vN08zUGhfc0VVMzdMeXEwd0l5UUdQaXlkUVZLXzJTQ3ROUThldFd0YXFXUExYNzZQQXRtdXA2Y2l3dGZURVJiREcyLVB0VUVKdUg4dkRQODNDQ0F3T0NYMFdtcmxzdVlzRzM2VmJyeWZPS2VRTVBaTTVreU51NWN5cFJhY1VWYThDWVA0MXFnN1RnYjgzaUU3Zw?oc=5",
-   "date": "2026-11-12T02:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c1f6a9a3e32a",
-   "title": "Con una reunión con la presidenta Keiko Fujimori, León XIV da inicio a su visita a Perú",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdndlV0tKeHZwVXhtbVM3eGkzS0xvd1FzLU9XWURkRDVqSXRrUnRNOU9mM1VfYU5uNjd1dTJhaHJZWVJQcFdFRDdNdHp0a0djLTdyclFfc1I5QlNSa3EyTC0wd1pKcUFaOUhBalNxNkFMQldVaTdvUU9zdVRnQlBwWmhCaUlOR3hFUzhIa3FVMjhTNzJyZ0JMWmRnRTk?oc=5",
-   "date": "2026-11-12T01:59:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
