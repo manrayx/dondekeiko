@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T13:16:09.926668+00:00",
+ "generated_at": "2026-11-14T13:37:59.858254+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,18 +110,18 @@
    "name": "China",
    "abroad": true
   },
-  "source": "La República",
-  "date": "2026-11-13T20:14:13+00:00",
-  "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
-  "url": "https://larepublica.pe/politica/2026/11/13/keiko-fujimori-excancilleres-piden-a-la-presidenta-retrasar-su-viaje-a-china-para-que-pueda-despedir-al-papa-leon-xiv-hnews-969553"
+  "source": "Perú21",
+  "date": "2026-11-14T13:12:58+00:00",
+  "title": "Canciller Carlos Espá viajará a China y Japón para acompañar a Keiko Fujimori en cumbre de APEC",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGlHc0RhUGxhdkVib2hGbF9sQVZlNWRnckZIZlp3amVGZmZVcVBpM2x4RkR1MmI4M2taM29kNUlib3pWRFRxR0tKek95aEhPSk9kMXBja3Qzc2F5d2NIZzd4NGdFd3NiT0RxRHVlU2ttejdjMTZDU0FJTDhqZ0F0YU1oQTBSR181bjJGSDlnTm1rU29zVlo3T2RXc0dhcnFOcVdnYV9RMVJPZ1NiSVVuQmFSeHF5VmhUdU1r?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 5,
-  "posando": 54
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -280,6 +280,20 @@
  "agenda_minutes_7d": 295,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "3a08adc38670",
+   "title": "Canciller Carlos Espá viajará a China y Japón para acompañar a Keiko Fujimori en cumbre de APEC",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGlHc0RhUGxhdkVib2hGbF9sQVZlNWRnckZIZlp3amVGZmZVcVBpM2x4RkR1MmI4M2taM29kNUlib3pWRFRxR0tKek95aEhPSk9kMXBja3Qzc2F5d2NIZzd4NGdFd3NiT0RxRHVlU2ttejdjMTZDU0FJTDhqZ0F0YU1oQTBSR181bjJGSDlnTm1rU29zVlo3T2RXc0dhcnFOcVdnYV9RMVJPZ1NiSVVuQmFSeHF5VmhUdU1r?oc=5",
+   "date": "2026-11-14T13:12:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "1cc7c3cd45c8",
    "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
@@ -1006,23 +1020,6 @@
     "city": null,
     "lat": -12.16056,
     "lng": -77.00256,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "f1402645d521",
-   "title": "EN VIVO: Papa León XIV y Keiko Fujimori se reunieron en Palacio de Gobierno",
-   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-12T01:37:46+00:00",
-   "state": "transmitiendo",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
     "abroad": false
    },
    "next": null
