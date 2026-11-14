@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T11:29:08.896166+00:00",
+ "generated_at": "2026-11-14T12:54:46.822131+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -281,23 +281,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1cc7c3cd45c8",
+   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+   "date": "2026-11-14T12:47:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b48ece059bb1",
    "title": "Lourdes Flores Nano critica viaje de Keiko Fujimori a China y Japón durante visita de papa León XIV: “Es un error político”",
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzU2YVRWcjY3SHRJNURDYWJoOFZwMTBQTVJnY2pkU0dTVHJPYUNEMDR4SURPQXR2Zmh2YVpBMEt6OEM5bWNTX0dqSHYwaDBQSzQxT2JNODZhaFFrYXJFdi1ucUZvTzYwRWRtY292Z3BUT1J4d1k2andYLUQ5c1JJSHpaVURic2hpLXk2QzFTSGdrd1JXbTVtOFhaT05aYUJUQ3JuU3V6b2tqaDZB?oc=5",
    "date": "2026-11-14T07:04:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1cc7c3cd45c8",
-   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-   "date": "2026-11-14T05:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
