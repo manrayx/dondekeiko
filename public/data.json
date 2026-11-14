@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T17:56:44.903883+00:00",
+ "generated_at": "2026-11-14T18:18:30.159246+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,6 +430,23 @@
    "date": "2026-11-14T01:09:49+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "74b5533b4135",
+   "title": "Keiko Fujimori a León XIV tras misa en Chiclayo: \"Nos llena de fe, esperanza y nos inspiran a construir un país más unido y más solidario\"",
+   "excerpt": "",
+   "source": "Diario Altavoz",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdTJpSkxkODF0VHpDc21idG9TR1pvMXYxRGVlaC1tYnhKUmRoTXRaeW4zWVJUZ0Z1d0IwYksyYlFqOTM0dWszSTFpYnUzSW5rTnQybk1HWWxORGlrZVB6Y0s5QnoxNi1JR1d6YUdXS1Y1dzQzQ2JNNnJZUEZYdXZJNHhZMngtS0lBOV9FY24xaWJubmlhUks4RHJSemR1TTlhODJNZWczdGwxQnV4SXY2U0FVb2VubnprME0zNWJsc1ptdDJjWVJyQzlZVkczdVFZblpCSGZvSzBPXzk3elUydXFYc2EwcnBnSTdHUzZra1JycnF4T0E?oc=5",
+   "date": "2026-11-14T00:00:06+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Chiclayo",
+    "lat": -6.771,
+    "lng": -79.841,
+    "abroad": false,
+    "city": "Chiclayo"
+   },
    "next": null
   },
   {
@@ -993,23 +1010,6 @@
     "city": null,
     "lat": -12.08663,
     "lng": -77.00316,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "fc93ad2b550f",
-   "title": "Presidenta Keiko Fujimori recibió al papa León XIV en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObXp3YVJYVHA1RWlBOEE3aHRRaUNWNUIxZWdKTnJ2WHFfRDVNYTV6T2ZXcGZQQklCeUNxa2NITlBZM3RuRV9MR1B5UGlBNjg0dHExYUNSbU9uWEJ1ajJfLURlQ0Y0d3g2QmpLcHhIbUVWSjN2ckFDM3pQa1lIcVBWbHZzVTJCdjlKWkVsNDZMX3FCeWNsY1E5a2tVVkxZYm93WkJFOU51RnlqNDZ3dEE?oc=5",
-   "date": "2026-11-12T02:16:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
     "abroad": false
    },
    "next": null
