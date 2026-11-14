@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T21:30:42.920858+00:00",
+ "generated_at": "2026-11-14T21:52:34.107603+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -281,12 +281,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7f6ec61f7551",
+   "title": "Presidenta Fujimori recibe informe de la Comisión Consultiva del Despacho Presidencial",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDJ2MTJUT2E1Q0tObkpBT0lVbFpvaF93VUVpdVJhVUp5QjZhNExOeHBHbDl1Qi1rNDVzZkZCM0Z2NTVHNE1najlqc3lydFdiWW5VT2QwV2RETnBGNk1kTUlvRkJDNDV6VWY5WUJtNkhBdUZTeVBiWi05djZzT0dGY1pOSEE0dHpKUlkzSWRUQnBVekhMMlhjdzZ3YjZzWjRzUER5Rkhuek1sM0F6dEpJTXRHUDVsaEtl?oc=5",
+   "date": "2026-11-14T21:49:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1cc7c3cd45c8",
    "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
    "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-   "date": "2026-11-14T21:16:41+00:00",
+   "date": "2026-11-14T21:32:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -982,34 +993,23 @@
    "next": null
   },
   {
+   "id": "259b902f8e6d",
+   "title": "Keiko Fujimori al papa León XIV: \"Que la sanación y la reconciliación sean el gran regalo de su visita\"",
+   "excerpt": "",
+   "source": "Diario Altavoz",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0tFam56TVRNOVRDMTlHX1RRaUVjNXJvUGZkcVN3VlE4b1FncC1RZmNCVXJYeEdkc0xKR3Blak9CM21CR3B2S1BNRnJRQnVoR2xvQXNlWlFHQTcwRk5ZOGtOR2pWQ3pEVWV2enBmb21rUVdIakl1ZVBsZDJxMDN5UF9DQ0lFMlA2VWs4am1LZHEyaDhDbURjZF8wamJOX0FoMm5SOEZsdEdLQ21yVEx6VzJYQTRKWTVYUVgzT3ZjZk00aEpQenE3Rw?oc=5",
+   "date": "2026-11-12T03:14:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8606e4630da1",
    "title": "9 frases de la bienvenida de Keiko Fujimori al Papa León XIV en Perú",
    "excerpt": "",
    "source": "EWTN News",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rLUNvNnZ3ek91Y0FnYU8yOFN5WlY2bUR6dTFLMVBWTkZDQzgtVUt3eGxuQjV0clBaOXhHam52dFlPN3ZpVlFzY3g3Rjc3NUY1U0ZzaVZZZUxsMk00YTNtdnVMblh1MnVXR0FPY3lqRVRNZnM?oc=5",
    "date": "2026-11-12T03:09:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1a7e2e93b0d5",
-   "title": "Keiko Fujimori pide reconciliación nacional durante encuentro con el papa León XIV",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVZzWjhSS3VTdVh6T2hvOGhKd2g0SjJsS1lJMnRpWWZ4UEI1VThoQUsxRUVJUkFOcFB6Y2JyUnI5QTdidGhIZFk0Ry1JMHZOTVl1aTRkMmg3aXc2WUF6aDlOaXV2akxFSnhLU3JTaGFOTGhyRVRYbnhKaUJocERmeTM3R2VwZG1BWUlCc1pWVkQzNUVDcnRQdm5acDFSb1pJMmFGM3pkYk9kV0dmQjRB?oc=5",
-   "date": "2026-11-12T03:07:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "96bada0e16de",
-   "title": "Keiko Fujimori ante el papa León XIV: La tarea es “la reconciliación nacional”",
-   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUmRVZ0dsczZGak5YZ181Q1BPVmNJSTNhVU9fVU9sdUV3MU9mcWtXeUVCMVg3RXdXQVhKanFCd1dtZWI1dkpUMVduZlB5V3FrZFRPWFdtVFhPN00tZDJyMWpHT294Y21FYVNoUldyRTRxanA3WTdrRXM5QV9mWXlKNmJGS0N3X1JyRFJkd3F3MXAzTTNQc2FkSVZtMktWdWctNnVnSXF1LXJJWlhkRUt2UmpfSDdJVDY3Smhja3RrVm8xSVBmZ3lxVmRyUmwxTzhCSi1wcFZxVnExVUtuaVRjUGJJY0NoRWhFdmE5U01iZVhLMVM0ZEFv0gGLAkFVX3lxTE1rRnBWYU1aSlBMbWpGeDVNQVdMQ2RYZTBBeTg3UFN1bkJTMk5Wa3J0MVVGQV9YQ19pcW9tTENOLU40Y1pORFluZkIxSnV5NHllQXN6cnlGRmRjUjRHM2lfVmVzTGRZMXVCUW4xVWlvOVJqbjQ2UTcxR2NOa3J4RkcySGpvMlZSTE5ZUjBLd011QjBwcF9NSzVVSVhZd2ptT0t0UVF3MGx1bENMSENMNWVKWEpScjR2MllNN29ySDM0VS1KbW42V25KRHF1WU1FZkpyTkRBamxrTlp1M09IRlFPamRPbC1rLXlZNDlpQXd0YUZPd0xZT0ExQVVWMWx4bEc1TzYxdXVTWFlBYw?oc=5",
-   "date": "2026-11-12T02:59:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
