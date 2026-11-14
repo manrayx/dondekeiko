@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T01:24:57.302475+00:00",
+ "generated_at": "2026-11-14T02:08:14.006550+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -376,6 +376,28 @@
  "agenda_minutes_7d": 394,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "3f1092932a3f",
+   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
+   "excerpt": "El pleno del Senado aprobó, con 44 votos a favor, uno en contra y cinco abstenciones, la autorización solicitada por el Ejecutivo para que la presidenta Keiko Fujimori viaje a…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/senado-aprueba-viaje-de-presidenta-keiko-fujimori-a-foro-apec-noticia/",
+   "date": "2026-11-14T02:03:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "504849f96328",
+   "title": "Keiko Fujimori participó en misa del papa León XIV en las Pampas de Pimentel",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Q2RTFlSWxORm5HLU03bmRBOGNCQ3ZTUEhqU1Bqc2RiaDU2Qk1QWkYtb2tWeFd5b29zUWZFLVFnVmJhS2JSakszckF0SUY2WTBfZlFOTDc4cjBOSFBpQ3NsdFVIQlhEeXY2QXBSWG5xZnUwN2swa21TTWFYNUZVS3dUeFRVaXROT1dJ?oc=5",
+   "date": "2026-11-14T01:09:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "831b358f30b5",
    "title": "Keiko Fujimori revela estado de salud del ministro Luis Dyer y parlamentarios tras accidente en carretera de Amazonas",
@@ -913,6 +935,17 @@
    "next": null
   },
   {
+   "id": "96bada0e16de",
+   "title": "Keiko Fujimori ante el papa León XIV: La tarea es “la reconciliación nacional”",
+   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUmRVZ0dsczZGak5YZ181Q1BPVmNJSTNhVU9fVU9sdUV3MU9mcWtXeUVCMVg3RXdXQVhKanFCd1dtZWI1dkpUMVduZlB5V3FrZFRPWFdtVFhPN00tZDJyMWpHT294Y21FYVNoUldyRTRxanA3WTdrRXM5QV9mWXlKNmJGS0N3X1JyRFJkd3F3MXAzTTNQc2FkSVZtMktWdWctNnVnSXF1LXJJWlhkRUt2UmpfSDdJVDY3Smhja3RrVm8xSVBmZ3lxVmRyUmwxTzhCSi1wcFZxVnExVUtuaVRjUGJJY0NoRWhFdmE5U01iZVhLMVM0ZEFv0gGLAkFVX3lxTE1rRnBWYU1aSlBMbWpGeDVNQVdMQ2RYZTBBeTg3UFN1bkJTMk5Wa3J0MVVGQV9YQ19pcW9tTENOLU40Y1pORFluZkIxSnV5NHllQXN6cnlGRmRjUjRHM2lfVmVzTGRZMXVCUW4xVWlvOVJqbjQ2UTcxR2NOa3J4RkcySGpvMlZSTE5ZUjBLd011QjBwcF9NSzVVSVhZd2ptT0t0UVF3MGx1bENMSENMNWVKWEpScjR2MllNN29ySDM0VS1KbW42V25KRHF1WU1FZkpyTkRBamxrTlp1M09IRlFPamRPbC1rLXlZNDlpQXd0YUZPd0xZT0ExQVVWMWx4bEc1TzYxdXVTWFlBYw?oc=5",
+   "date": "2026-11-12T02:59:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4c7390e304c7",
    "title": "El Perú necesita reconciliarse, señala Keiko Fujimori en su discurso ante el papa León XIV",
    "excerpt": "",
@@ -1024,23 +1057,6 @@
    "next": null
   },
   {
-   "id": "96bada0e16de",
-   "title": "Keiko Fujimori ante el papa León XIV: La tarea es “la reconciliación nacional”",
-   "excerpt": "Como su primera actividad oficial en Lima, el papa León XIV acude este miércoles a Palacio de Gobierno donde será recibido por la presidenta Keiko Fujimori.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/papa-leon-xiv-y-keiko-fujimori-se-reunen-en-palacio-de-gobierno-hoy-11-de-noviembre-en-inicio-de-su-visita-al-peru-apuesplan-noticia/",
-   "date": "2026-11-12T01:50:40+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
    "id": "c2aac3662502",
    "title": "Papa León XIV volvió a casa: santo padre se reúne con Keiko Fujimori",
    "excerpt": "Papa León XIV ya está en Perú. Aterrizó en la Base Aérea del Callo y fue recibido por comitiva episcopal y del Gobierno.",
@@ -1103,28 +1119,6 @@
    "source": "Yahoo",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNGU0QmRLa1ZfUjN2MC1NUzg1MUdocC1Rd0kwWWFiQzFtLUwyNG5uTTRsYWF6TWxwQ1VJYUYwZi1TNU1vcjdXR3BBejkyVmppQ3FHMjJTejZBXy05ZFYtRnRfamJSR2pQZWkzYktiRnpKejJnd0pXRDYzX1BIdkswbG5TamQ3ZUU?oc=5",
    "date": "2026-11-12T01:11:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bd514325da81",
-   "title": "Los primeros minutos del papa León XIV en suelo peruano: honores, autoridades, sonrisas y emoción del santo padre y los peruanos",
-   "excerpt": "El sumo pontífice llegó al Grupo Aéreo N.º 8 del Callao procedente de Argentina y fue recibido por la presidenta Keiko Fujimori, autoridades de Gobierno, representantes religiosos y niños",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/11/los-primeros-minutos-del-papa-leon-xiv-en-suelo-peruano-honores-autoridades-sonrisas-y-emocion-del-santo-padre-y-los-peruanos/",
-   "date": "2026-11-12T01:06:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9688a9559080",
-   "title": "Keiko Fujimori deja mensaje tras llegada del papa León XIV: \"El Perú lo recibe con los brazos abiertos\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTFlMGpYM0FBdXgxRGlnd0R4RUxqY2xtOVIzZDJxSXZkUkc5aTJJckVMeFNKV3NpSWwxVEd3VE1BMVd4cG5LaGlPTDFOalkycElfLTZ4elNTYWw1UkpmSDM1V1dReVBIeHZlbUotNUZpVDJmSDg1YjJJQnRlS1FTNkpMaWJpU1ZNNXhVeEk5UmpoNVVTZ2ZqT2FVZjB3ZzJMNmhQSjNtTGE1YnVYSjRKbjhUZ3FLNG1sU1ZQV0hUbkxESl9mVlgzNzBISEE0aGNpTW5HQw?oc=5",
-   "date": "2026-11-12T01:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
