@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:47:40.415664+00:00",
+ "generated_at": "2026-11-14T17:13:48.358322+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 5,
-  "posando": 55
+  "triste": 4,
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -348,6 +348,17 @@
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "eab40c94d912",
+   "title": "Perú. Desaprobación de Keiko Fujimori alcanza el 53% y al parecer está en caída libre",
+   "excerpt": "",
+   "source": "Resumen Latinoamericano -",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSl9rMjE2RGpNbFJ3ZnhUWDc5UkRGRy05cllkNjAwX1FzdExoTzhiOW1hSndSMjRjVU1WdDYtM1lHRHVjVTFmS3lpNEdoMVBzc0Ffc1l2cU5HX2RfQUx2Z1YyelEzQkxTS0d3UEJvbWluOTFUVEZ6ODE4aTBKcTc4T3VibFBtU2t1VVRhWmdzZS1Nclk1ak9yczJZWVd5cThRbmNQejhNYlFFOEhWTjFBNVMybncwMkpEMkJ0ZmVPX0hZTS03WjFlZTBXRUw4N1k?oc=5",
+   "date": "2026-11-14T10:57:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "b48ece059bb1",
@@ -1004,17 +1015,6 @@
    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPQW5QZTd0RmJTWF8tRjRyekdtcXZ0XzRGMFBkYmtoZWFkbmpIWTNNSlZDOVdJVjFBQ2FhUE5jRzl0UTF1X3lPaHptZHhqa0NQWlFNWTc0MmNVMEVPR2JrMUp6NzlQcEwwZHVQeHpkU1pneWptU09lRGtWTFpjMU1YX3YzaWNRczNvTno5bmZkbk5DVE5rR0wwWFVxRkQ5RnRUWDNaV2NFMlA1WE9SeHZWNTBDWGU3ZjQ0dkpEZl9COEdxbjNQdlB5bzRSdTExaXpXV3h1SVNjWVF3b25HSVFFeHZMb2k0N0I0SGJOTlB6RHRNMlBES2FHT2RUVTFCaUozMlhqVGdSbmtpcnM2WEpUV01ZdjhJbDdaQ0daeNIBtwJBVV95cUxQQWIySkhCcjJGRW40ZkljdWd2aDl6SEJUWDJ0Nkhld2lLZThOUko5R0p2SU9aMVNQeWh1aXlVaHlyeUJ1aDcwTGZzaWhzR3B1Y0NOZGxYRnBXNzlCMzhjLXFGeEc0WUFWOXJuSVEwbWhwVTRtbFBLMTlQbERkMFNxWG9hcV9EdFR1NWFHZjFHZ2tjdWpxODRuZU9fdEhPZXBucEZCd3BveHBvcG5PNEN1TWo3YjVBLVRpdURkSTZSOG9ESGhWWDB5Z2VYcDY1VUFINlRBeUFpdC1vcWhwMzAzU0ZWLUJQZmljajQ3M3ZpbEZkbXlNV05xNm9rNzF2ZE9Sc2s4SnB6eUdoWnE4bE1ISjdFaGc0b1dteW03c0ZVNEVTLU5zbUV1QVBBQXFKOGRFNEVRSDY2aw?oc=5",
    "date": "2026-11-12T02:12:00+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "980b77acfe9f",
-   "title": "Cuestionan a Keiko Fujimori porque se irá del país durante la visita del papa León XIV",
-   "excerpt": "",
-   "source": "Gente de Salta",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGRnQWpUV2VGam56VmdER0dDd1kwcTBYN0F6d1dLU3FPWE9yazVZQ01TNVNhNG1jMzdSTmxwY2oxWndwNU80Y0RhMVh5MDk2N1VseHVJbUN4VTduWEdXSm84Y0VCamtkQ3dtS0U4ZFNMSEEtdk9hX2YyZm1xQm5OSkY4c1R3MnRzdDVJaUozWFpyQm5mXzA0UFNpR1V5RElRSWljY3hwUzliWlZkMlNiekZR0gG3AUFVX3lxTFBkRk9GUDlJNkRrRUxJVDhfZ2I1OHBTOGQxQkEtSU10OVhNODFzNnJzQVRjN3g1cmpRTXVaekVmLV8tNkNxQXFfWW9OWTVWRUZ3OHB0MVVYOWd6ek81NmtETGhaLUFkZGdmLWthcE9JYlBYUlFraXBkbE1kRElkUVpLNTRtaVdsd0hoTzU0a3FMYXFVX0FRanVReXpZM2lUei1UZmdSS1c5QnlJcFN5TDRBVjItdVotZw?oc=5",
-   "date": "2026-11-12T02:09:00+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
