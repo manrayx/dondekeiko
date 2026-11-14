@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T20:27:08.616360+00:00",
+ "generated_at": "2026-11-14T21:09:28.950811+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "Perú21",
-  "date": "2026-11-14T13:12:58+00:00",
-  "title": "Canciller Carlos Espá viajará a China y Japón para acompañar a Keiko Fujimori en cumbre de APEC",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGlHc0RhUGxhdkVib2hGbF9sQVZlNWRnckZIZlp3amVGZmZVcVBpM2x4RkR1MmI4M2taM29kNUlib3pWRFRxR0tKek95aEhPSk9kMXBja3Qzc2F5d2NIZzd4NGdFd3NiT0RxRHVlU2ttejdjMTZDU0FJTDhqZ0F0YU1oQTBSR181bjJGSDlnTm1rU29zVlo3T2RXc0dhcnFOcVdnYV9RMVJPZ1NiSVVuQmFSeHF5VmhUdU1r?oc=5"
+  "source": "Infobae Perú",
+  "date": "2026-11-14T21:03:44+00:00",
+  "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones bilaterales que tendrá durante la cumbre APEC 2026",
+  "url": "https://www.infobae.com/peru/2026/11/14/keiko-fujimori-viajara-a-china-y-japon-estas-son-las-reuniones-bilaterales-que-tendra-durante-la-cumbre-apec-2026/"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -281,6 +281,20 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ea5a5badefe5",
+   "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones bilaterales que tendrá durante la cumbre APEC 2026",
+   "excerpt": "La presidenta se reunirá con la directora gerente del Fondo Monetario Internacional, Kristalina Georgieva, en el marco de la cumbre de líderes económicos",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/14/keiko-fujimori-viajara-a-china-y-japon-estas-son-las-reuniones-bilaterales-que-tendra-durante-la-cumbre-apec-2026/",
+   "date": "2026-11-14T21:03:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "dce22aaf9fea",
    "title": "Presencia de Keiko Fujimori en APEC dará fluidez a relaciones comerciales de Perú",
    "excerpt": "",
@@ -345,6 +359,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "476a82111c52",
+   "title": "Keiko Fujimori viajará a China en medio de visita del papa León XIV",
+   "excerpt": "",
+   "source": "Jornada",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3J6UlZWSnhIQjQ2dFVzVnVhNFk0VU4tSDVkQ19VMHhRVUNSWG9XSEY4aDdBRkZraDRaSEVoYXY1MDFOWUl1T25CRmlpR0d5NXNZeTRmZFVpb21YbHd4TzVFdnhRWEE3VjVuMzRmbWlJN19FYWJGWnNVWXRkV3ZuUXlnUGZybmFQV19zUXZuWEMtc3BzTFE?oc=5",
+   "date": "2026-11-14T14:56:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "1cc7c3cd45c8",
@@ -982,28 +1010,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUmRVZ0dsczZGak5YZ181Q1BPVmNJSTNhVU9fVU9sdUV3MU9mcWtXeUVCMVg3RXdXQVhKanFCd1dtZWI1dkpUMVduZlB5V3FrZFRPWFdtVFhPN00tZDJyMWpHT294Y21FYVNoUldyRTRxanA3WTdrRXM5QV9mWXlKNmJGS0N3X1JyRFJkd3F3MXAzTTNQc2FkSVZtMktWdWctNnVnSXF1LXJJWlhkRUt2UmpfSDdJVDY3Smhja3RrVm8xSVBmZ3lxVmRyUmwxTzhCSi1wcFZxVnExVUtuaVRjUGJJY0NoRWhFdmE5U01iZVhLMVM0ZEFv0gGLAkFVX3lxTE1rRnBWYU1aSlBMbWpGeDVNQVdMQ2RYZTBBeTg3UFN1bkJTMk5Wa3J0MVVGQV9YQ19pcW9tTENOLU40Y1pORFluZkIxSnV5NHllQXN6cnlGRmRjUjRHM2lfVmVzTGRZMXVCUW4xVWlvOVJqbjQ2UTcxR2NOa3J4RkcySGpvMlZSTE5ZUjBLd011QjBwcF9NSzVVSVhZd2ptT0t0UVF3MGx1bENMSENMNWVKWEpScjR2MllNN29ySDM0VS1KbW42V25KRHF1WU1FZkpyTkRBamxrTlp1M09IRlFPamRPbC1rLXlZNDlpQXd0YUZPd0xZT0ExQVVWMWx4bEc1TzYxdXVTWFlBYw?oc=5",
    "date": "2026-11-12T02:59:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4c7390e304c7",
-   "title": "El Perú necesita reconciliarse, señala Keiko Fujimori en su discurso ante el papa León XIV",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWDBrQkFiamFUMy1jUEYxQ0lkQlpjRlA1TWo5Z2ZnMU1FMW9ScWlRYTlOV1ZUQnZ1LU5na3hYMWNiVm1LX1ZDNVBoR01paG9uZjRnNzh6a1hmZWdUakQtY2VNaV9EanZLeF9mRjZSWVFzcEYwd0RVQWY0ZHM0Zng0RGltZ3lNMWFtb3dVSmhpeTJKR1VfMUx4VVVUM2ZiZEJheC1JbWw5WFc4ZlVqcXZLTng2TDl5WlV2cUdqai0weDZvR1luOXNIYUtKbEJnenpObWQ5bzdaMmJQMWxLSjJZ0gHzAUFVX3lxTE1EN0JJZjRPYnRVUXdVQ1VKWTJTOVF1bktWNXN6b1haUVNVSmpfTFdmNmU0QXFPM0dyZTA3Q1FXQjJWdUs2cE9SSzdxZ0Fob1kxTnJGNFk2NGVxRVR3cUc5ck5nUHVDMmJCRllNUHdMR3FBTlZWYkFFd2RhcGNUc1JPdmdEQ1dfUi16RkV1NmhjMEZzZUhFSHg2WkVyMkFQbXJlSzZndWxqQ3F3NnRWXzlzMlRzazJJZHBMMWVGc1VDRldocE9BV3o3WEJwZHpsVG5CYlhiR2VyRWo4NXFRMXI4OUlYVkVmWTlncXBiX3oyMFlQRQ?oc=5",
-   "date": "2026-11-12T02:17:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4babe2499f8c",
-   "title": "Keiko Fujimori pide al papa León XIV que su visita deje un legado de reconciliación y unidad nacional",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTZkYTBSOTdnc3d6b0FKRXVCYnhHWHhkYVpJdDBVMmlRZUUwcERsaXdjcmZCM3NPY0tMX25DOHVNbjFMWFFCQzlaeWFlNUFEYTN1LTFDc2NGUHEzWVJOUHRWOGJtVER5U1d2TGxrdnJYQ1JhM19ra3BNbzV1ZC1EamR0b19keXhJSEVndzg2ZWl2UVhGTWRkYk1tV3FJWG8?oc=5",
-   "date": "2026-11-12T02:17:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
