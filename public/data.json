@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T21:52:34.107603+00:00",
+ "generated_at": "2026-11-14T22:14:24.948943+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -725,6 +725,17 @@
    "next": null
   },
   {
+   "id": "04511e3b6464",
+   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "Diario Ahora",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTVadEtBdmNuREUwdjdaaG11V2Y0YUs1clk0a0JON0ZtSU1fUE40MzRwcTFoam5Ib2xaMThzUTdNczFxa0FtbDJ2MzktaHVEUlZlQnkwRi03MVJwMEpld0M1ZzNyVVRSa0ViNFBhRTdyc1lrc21VSVdYXzNWdVd0clhPT2ZHcmExYndqazlR?oc=5",
+   "date": "2026-11-12T21:13:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b64f914fc57a",
    "title": "Papa León XIV recibió un retablo ayacuchano de manos de Keiko Fujimori en su encuentro oficial en Palacio de Gobierno",
    "excerpt": "El Santo Padre llegó al Perú como parte de su visita apostólica del 11 al 16 de noviembre, que incluye encuentros con autoridades, celebraciones religiosas y actividades en cinco ciudades…",
@@ -949,6 +960,17 @@
    "next": null
   },
   {
+   "id": "7ecd68b5b451",
+   "title": "Keiko Fujimori: “El Perú recibe al papa León...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0otNUo3bmZ4WTZvamdXSl9pejZiYVI3aDZRZHFWeXJ4WHJfWEV2dmk0ZFFWbGdJSEVpRmpNRWFYNDVDVHJCdl9rRmpFYjJmMTFoRE4wR3JiNlVYYlNuUjFXSXY1ekZBRnlzR00wd2xHQU5pcjM5V0MzbUlYWURHWXVlN2pSd3FTZDVOeEJtOUlxeE40NXhmR0FIRdIBoAFBVV95cUxQZHhhR1kxNTZ0NDdqN3hmcGJ4Mno5b0Q3bUFzUHcxSnltdG42NXhWcFMxZmZUQklJSkE1ekF3bXlrdTYyeGVrbVRFZHhoVUViUHpWN0pyeEw0em9IU24wQmpXbzh6MTB5T1paUzRQcXpnVU1XTGVZTEh1bUNGOHZ4Yjk1S2pSOWRDTWlOR2dfTVZJS1BJWjNZLWs0RzFaaFNG?oc=5",
+   "date": "2026-11-12T06:50:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "aeb93b9be489",
    "title": "¡Saluda al papa y se va! Senado autoriza viaje de Keiko Fujimori a China y ausencia genera críticas",
    "excerpt": "",
@@ -988,28 +1010,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTJhcmg0SmNWMTVpSnRUQzhIdjZqV3pEYmR6V1loNE9VNFQ0MFJzRkN5dzJjT0FiN0toUlBPWjZkVEw4TGoxNDItNFBrOHg4YWxwc1luLWxnc2pBY2lKdThmQzA1X3kzNm16aGRjWEt4akk4S3FVd0R2RnNYTkVVbkVVRlVjM0VGS2xqalZ4d3ZYUmNtSUsyOTBWTzN5WHY0SmtJS1NyZDdLY1ZoM1VwZtIBtgFBVV95cUxPbTl3Z2wxc3RMTmtjQVV6YUhPQm9wRWV6bkdfYVMySEJuenFhLWxJY09xS2l3MFVYY2wteGFadnRBLVp5ZzVlMUlBa3JBbnNVenVHT0RSblExcDI5djRQZFNCSUpIMTBELUh2V21lcDNMMjdSeHBqUVdaNTFSMU8wU0NjQlpSVHN6UHZlUzB4andJRjE2VnBnVDdCNGJ2V1h5Q2U5NlRoSjVHUl9KU2hseDdmZ2VhZw?oc=5",
    "date": "2026-11-12T03:25:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "259b902f8e6d",
-   "title": "Keiko Fujimori al papa León XIV: \"Que la sanación y la reconciliación sean el gran regalo de su visita\"",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ0tFam56TVRNOVRDMTlHX1RRaUVjNXJvUGZkcVN3VlE4b1FncC1RZmNCVXJYeEdkc0xKR3Blak9CM21CR3B2S1BNRnJRQnVoR2xvQXNlWlFHQTcwRk5ZOGtOR2pWQ3pEVWV2enBmb21rUVdIakl1ZVBsZDJxMDN5UF9DQ0lFMlA2VWs4am1LZHEyaDhDbURjZF8wamJOX0FoMm5SOEZsdEdLQ21yVEx6VzJYQTRKWTVYUVgzT3ZjZk00aEpQenE3Rw?oc=5",
-   "date": "2026-11-12T03:14:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8606e4630da1",
-   "title": "9 frases de la bienvenida de Keiko Fujimori al Papa León XIV en Perú",
-   "excerpt": "",
-   "source": "EWTN News",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rLUNvNnZ3ek91Y0FnYU8yOFN5WlY2bUR6dTFLMVBWTkZDQzgtVUt3eGxuQjV0clBaOXhHam52dFlPN3ZpVlFzY3g3Rjc3NUY1U0ZzaVZZZUxsMk00YTNtdnVMblh1MnVXR0FPY3lqRVRNZnM?oc=5",
-   "date": "2026-11-12T03:09:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
