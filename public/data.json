@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T22:14:24.948943+00:00",
+ "generated_at": "2026-11-14T23:39:26.443639+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -281,23 +281,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1cc7c3cd45c8",
+   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+   "date": "2026-11-14T23:32:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7f6ec61f7551",
    "title": "Presidenta Fujimori recibe informe de la Comisión Consultiva del Despacho Presidencial",
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaDJ2MTJUT2E1Q0tObkpBT0lVbFpvaF93VUVpdVJhVUp5QjZhNExOeHBHbDl1Qi1rNDVzZkZCM0Z2NTVHNE1najlqc3lydFdiWW5VT2QwV2RETnBGNk1kTUlvRkJDNDV6VWY5WUJtNkhBdUZTeVBiWi05djZzT0dGY1pOSEE0dHpKUlkzSWRUQnBVekhMMlhjdzZ3YjZzWjRzUER5Rkhuek1sM0F6dEpJTXRHUDVsaEtl?oc=5",
    "date": "2026-11-14T21:49:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1cc7c3cd45c8",
-   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-   "date": "2026-11-14T21:32:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
