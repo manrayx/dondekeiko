@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T13:59:51.046994+00:00",
+ "generated_at": "2026-11-14T15:04:56.503976+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -281,6 +281,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "286ac501d134",
+   "title": "Senado autoriza viaje de Keiko a Asia en medio de visita papal",
+   "excerpt": "",
+   "source": "Jornada",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3J6UlZWSnhIQjQ2dFVzVnVhNFk0VU4tSDVkQ19VMHhRVUNSWG9XSEY4aDdBRkZraDRaSEVoYXY1MDFOWUl1T25CRmlpR0d5NXNZeTRmZFVpb21YbHd4TzVFdnhRWEE3VjVuMzRmbWlJN19FYWJGWnNVWXRkV3ZuUXlnUGZybmFQV19zUXZuWEMtc3BzTFE?oc=5",
+   "date": "2026-11-14T14:56:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1cc7c3cd45c8",
+   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+   "date": "2026-11-14T14:47:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3a08adc38670",
    "title": "Canciller Carlos Espá viajará a China y Japón para acompañar a Keiko Fujimori en cumbre de APEC",
    "excerpt": "",
@@ -293,17 +315,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "1cc7c3cd45c8",
-   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-   "date": "2026-11-14T12:47:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "b48ece059bb1",
@@ -1005,23 +1016,6 @@
    "date": "2026-11-12T01:59:31+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c2aac3662502",
-   "title": "Papa León XIV volvió a casa: santo padre se reúne con Keiko Fujimori",
-   "excerpt": "Papa León XIV ya está en Perú. Aterrizó en la Base Aérea del Callo y fue recibido por comitiva episcopal y del Gobierno.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/papa-leon-xiv-volvio-a-casa-santo-padre-se-reune-con-keiko-fujimori-y-da-mensaje-a-peruanos-noticia/",
-   "date": "2026-11-12T01:43:29+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Base Aérea",
-    "city": null,
-    "lat": -12.16056,
-    "lng": -77.00256,
-    "abroad": false
-   },
    "next": null
   }
  ],
