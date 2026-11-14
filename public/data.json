@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T05:21:07.872030+00:00",
+ "generated_at": "2026-11-14T07:08:02.888864+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -281,6 +281,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b48ece059bb1",
+   "title": "Lourdes Flores Nano critica viaje de Keiko Fujimori a China y Japón durante visita de papa León XIV: “Es un error político”",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzU2YVRWcjY3SHRJNURDYWJoOFZwMTBQTVJnY2pkU0dTVHJPYUNEMDR4SURPQXR2Zmh2YVpBMEt6OEM5bWNTX0dqSHYwaDBQSzQxT2JNODZhaFFrYXJFdi1ucUZvTzYwRWRtY292Z3BUT1J4d1k2andYLUQ5c1JJSHpaVURic2hpLXk2QzFTSGdrd1JXbTVtOFhaT05aYUJUQ3JuU3V6b2tqaDZB?oc=5",
+   "date": "2026-11-14T07:04:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1cc7c3cd45c8",
    "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
    "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
@@ -297,7 +308,7 @@
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEVGOEtrVkFJdk5ZYnRjRF91MHVyck56cDZZLW5qTk1ZMU9ZSHdvUS1FcExwSlFORVp4Y2loTkhqSHFuVWdWb2JTNGdSQmhGYTVibGVhLVVQeTRtQmZrZTZHQlJyRTd0QWhjNG9tSDZKdzFMOGVZaVpHRU5ramg4VEQ3bjB3SlBMbWhMZ0RSTjludw?oc=5",
-   "date": "2026-11-14T03:16:10+00:00",
+   "date": "2026-11-14T03:17:39+00:00",
    "state": "triste",
    "place": null,
    "next": null
@@ -1014,17 +1025,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "e523729a95a7",
-   "title": "Papa León XIV se reúne conpresidenta Keiko Fujimori en palacio de gobierno",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeXE5VUs0MFRoQWU2QTV6M0RUMUxHSDI3ZWpUYjBjZkEzSlhZNGRIZW1icnBzSUFpb2RaODZDXzlrMmtwWHZuZ3NUekxOczN2THBoLWNCQTFrWFVyMVpON2N1cWx1U1kwVlZNQnJJamhqVVprSkVuek9YcmxWZG4tZzZLM0ZuUTkyeFVRRS1fQ3dxSVJDLTd1LVVDcGFpUWZ3US1FYUJNWVZNNnRXcW9DeG0wbw?oc=5",
-   "date": "2026-11-12T01:17:31+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
