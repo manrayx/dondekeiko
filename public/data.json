@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:37:46.553662+00:00",
+ "generated_at": "2026-11-15T18:59:38.806144+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -505,20 +505,6 @@
    }
   },
   {
-   "id": "3a08adc38670",
-   "title": "Canciller Carlos Espá viajará a China y Japón para acompañar a Keiko Fujimori en cumbre de APEC",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGlHc0RhUGxhdkVib2hGbF9sQVZlNWRnckZIZlp3amVGZmZVcVBpM2x4RkR1MmI4M2taM29kNUlib3pWRFRxR0tKek95aEhPSk9kMXBja3Qzc2F5d2NIZzd4NGdFd3NiT0RxRHVlU2ttejdjMTZDU0FJTDhqZ0F0YU1oQTBSR181bjJGSDlnTm1rU29zVlo3T2RXc0dhcnFOcVdnYV9RMVJPZ1NiSVVuQmFSeHF5VmhUdU1r?oc=5",
-   "date": "2026-11-14T13:12:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
    "id": "eab40c94d912",
    "title": "Perú. Desaprobación de Keiko Fujimori alcanza el 53% y al parecer está en caída libre",
    "excerpt": "",
@@ -881,6 +867,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "3a08adc38670",
+   "title": "Canciller Carlos Espá viajará a China y Japón para acompañar a Keiko Fujimori en cumbre de APEC",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGlHc0RhUGxhdkVib2hGbF9sQVZlNWRnckZIZlp3amVGZmZVcVBpM2x4RkR1MmI4M2taM29kNUlib3pWRFRxR0tKek95aEhPSk9kMXBja3Qzc2F5d2NIZzd4NGdFd3NiT0RxRHVlU2ttejdjMTZDU0FJTDhqZ0F0YU1oQTBSR181bjJGSDlnTm1rU29zVlo3T2RXc0dhcnFOcVdnYV9RMVJPZ1NiSVVuQmFSeHF5VmhUdU1r?oc=5",
+   "date": "2026-11-13T08:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "c84fb3538ef2",
