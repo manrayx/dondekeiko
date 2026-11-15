@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:52:36.887441+00:00",
+ "generated_at": "2026-11-15T22:14:01.136546+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -117,9 +117,9 @@
   "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
-  "molesta": 0,
+  "molesta": 1,
   "triste": 1,
-  "posando": 59
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -261,6 +261,17 @@
  "agenda_minutes_7d": 241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "50b7c6856084",
+   "title": "Un cerco político al pontífice para “que no escuche a las víctimas”",
+   "excerpt": "Lo niegan, pero el gobierno de Fujimori quiso influir en la agenda papal. Visita de León XIV se vio teñida de cierto acoso que no prosperó. Al cierre, familiares de…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/15/un-cerco-politico-al-pontifice-para-que-no-escuche-a-las-victimas-409755",
+   "date": "2026-11-15T22:14:12+00:00",
+   "state": "molesta",
+   "place": null,
+   "next": null
+  },
   {
    "id": "c3ea84f4a950",
    "title": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
@@ -989,17 +1000,6 @@
    "source": "Evidencia.pe",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNWtwUTU3VWZ2bUhiMGFiOFAweU9JRU9BaHBYTmRRQ2o5VUM1U3NPLXFSUkJVNEQ3U1hVN0NGMTYwVFktV0FkUS1HTUNZeFE4QTIzUVZmWlMxRjc1bHY0V21MM0ZsYjR5ZEJ3RWRHNXlmSkVZSU9BOU95bG83Qk52NkN1MVFid3EwclNPVTRHT1BNS2Z5cENGSNIBngFBVV95cUxQMlBIdXlDQ0FXWm5vU1pVanBsZk1pQlFZN2EyakFTZFkyVlU3U2hHSVhxV2NsdGxyVzI5M1N5RTVNakdkRDBEdHI1U19DYlpCTThjTVBnUm04bF9fcURRRmFuUG9DR1BFQ21SOEdONWJuSDBMYVFITzJlaTMxaVNTVDVrdDBLLWoyOGRGVUYySlVYOHlNa3NOTDcyQ1l0Zw?oc=5",
    "date": "2026-11-13T02:06:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "801308750c9c",
-   "title": "IEP: El 53% de peruanos desaprueba la gestión de Keiko Fujimori -",
-   "excerpt": "",
-   "source": "Perú Informa",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORi1IcWFwSms2V1pnclotWmhrMmd4WVF2R2pHb1ZhY2NaaVdnSjhmU2hJaWtxZVQ3dTlBUUdlZWRwZVZJSl9GbENjUXo0UFBpZVpNc2VmUGl1WC1ReHdvZFlCSXZ6NDUtSEh5SWRPbGszZTVfR2ZzQlhJNzcwLUY2VHJYV3hXamt4Z3NoQlZubTRaLWwz?oc=5",
-   "date": "2026-11-12T22:43:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
