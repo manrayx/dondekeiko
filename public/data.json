@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:18:42.345384+00:00",
+ "generated_at": "2026-11-15T05:01:28.461720+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -256,26 +256,9 @@
     "abroad": false,
     "approx": true
    }
-  },
-  {
-   "start": "2026-11-07T08:58:00-05:00",
-   "end": "2026-11-07T09:52:00-05:00",
-   "minutes": 54,
-   "subject": "Suscribe decreto supremo que aprueba prueba nuevas reglas de disciplina escolar:",
-   "lugar": "Institución Educativa Emblemática Alfonso Ugarte, San Isidro",
-   "state": "posando",
-   "place": {
-    "name": "Institución Educativa Emblemática Alfonso Ugarte",
-    "full": "Institución Educativa Emblemática Alfonso Ugarte, San Isidro",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
   }
  ],
- "agenda_minutes_7d": 295,
+ "agenda_minutes_7d": 241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
