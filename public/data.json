@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T12:54:13.650909+00:00",
+ "generated_at": "2026-11-15T13:15:37.371568+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -636,6 +636,17 @@
    "next": null
   },
   {
+   "id": "7846abf45322",
+   "title": "Encuesta IEP: fracaso total del fujimorismo, desaprobación a Keiko Fujimori subió a 53%",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEt0VDU5VU9BQ3Jjb2RyWk1ESDBBSmo4RzZuSk9HZFFXSFZRYkRNWlJIMGlieGIyUHlKaHFXS2pkaTducEwybHNQMUwxTUgtMXpMZktlLUZiVS1TSlNGempOOVZxelVISWpXRTVCNUNRNGMtaFhUQlhybktES01uX1JQWENHV0kwR2QzZXVyWS1fS3FGNmh1LWZlTzNndU1fUlBSbTBTcU51UXNjY3lmSmRjdXlIR1U?oc=5",
+   "date": "2026-11-13T18:29:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5ebba5867c37",
    "title": "Keiko Fujimori acude a misa del papa León XIV en Pampas de Pimentel en Chiclayo",
    "excerpt": "La presidenta Keiko Fujimori estuvo presente en la masiva ceremonia que presidió el papa León XIV en Pampas de Pimentel. La mandataria estuvo entre las primeras filas de los miles…",
@@ -770,6 +781,17 @@
    "source": "Ideele Radio",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQclYtVF9Gb28wZzRCN282d1BBUE1ITzlCUWtXbndMOHY4d1FmSFoyREhFWkpWOFQ4R3RNcjluamNSRllrTFpOSUxlRFM1SGRzb0tTRDJLczhnRE04bnZKWnZOc0NDVHczTWY4YVI3Q2JGRHVYRkc1dkFMMnlOczBvM3JUSjVEWUZVNVZmbEQ4dDRxdTZQXzU5cU1OTzdvWlBnc0JRYWltVVdRREpUVElqZnBHU1FaZFlkSkpWLWJhT2t6djg?oc=5",
    "date": "2026-11-13T10:04:04+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c84fb3538ef2",
+   "title": "Canciller viajará con Keiko Fujimori a China y Japón para cumbre y reunión bilateral",
+   "excerpt": "",
+   "source": "DIARIO VIRAL",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHBWaThFV3phZWh1T3MwdC1SR0x4c19LTkdiUk9IOHZmanRsWWlZY0FOUjI4a2M2Z0lvY0IyVDNLUGNXN2FUWjRZNWJXckR1SlRkWEJscXhXeDhMTmkwa2MxRzBjZGpzbXJOYlNvNzJLU1NGUWZnUEVMd29UWWdFUXp6eVd5MVpNRXdZZ3BMcU9kWHJ3QkZWYUNaSV9UektJdmltclV0Q3FVc3ZTc2lieU9wS2lpTmJpYmlF?oc=5",
+   "date": "2026-11-13T08:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -973,34 +995,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-12T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5c0c0b147896",
-   "title": "Video de abucheos a Keiko Fujimori en Cusco no es actual, es de 2021",
-   "excerpt": "",
-   "source": "Mala Espina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMks3WlpnQXlmeWdpZldlTDJpY0VXVXU4Q1BtSGtLS2NNRjVtMERDQThxZnJxMzhnVU9nUkc0bDZYNW5RNEZsT3c0VnVKRF9hRS1oOEJiWXczbW9iYmE2RHB4cVZVa2ltR2g1RzR4NUNJMGZPdi1hVHo0N0ZCQVhSa3RMTXp2bGhlOEFVLS1YNFQ0NEJaTzBzdk9XNzlaSkVxYjROX09HT3ZwRFMtdy1yX00tWWo1ZEU?oc=5",
-   "date": "2026-11-12T08:00:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Cusco",
-    "lat": -13.532,
-    "lng": -71.967,
-    "abroad": false,
-    "city": "Cusco"
-   },
-   "next": null
-  },
-  {
-   "id": "8b1f3d1d37be",
-   "title": "León XIV inicia visita a Perú con reunión con la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Universo",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVl0RG5LZmx4Zk1zQVdVY1VZbGtXSHl4WjNUcEdGZ0RJaVpoUFhqcnV3bWlsNUE2N0FmOTN2T0xxcFlEV0QteHUxcEtpWUl0eGJvUjMxZEl2c2lxTkV2UHQ5Ym4wZV9VMTRHR2FUOTFEZG5CSDd5U0pIb2xSN0Fwak0yOUFTNzVlMzFMNm11Q0VnUjBEOUs2enVIZ0V2OWs1UjNyRXg5Yi1TV2ZEUVRmWlkyOS1WWXQ5dzVIZktrSnNtR3ZSSmI3dU95MUVuX0w30gHkAUFVX3lxTE91RkI5VHFhdm91TW1UTHVTbS1ETUJvam5OOEszd3FjOWx2ZlgwRXRJUGtPMFNGMzBDUnZQWUFmbXlkcXNTVGdiYUEtX1VkeXIzeUxkemFHMlhjeWt6a3VVWjBzRkRGQ1lJY0lfTFBwbmYxeDBtallGY2hMLTl5RFd0a3lOVmM1SjAxZnFrV2dzbWh1bWViV0kzS0dhUVI4a0Z3RTNJeWk3RGtWVzFNODhjR1V0cUVxSFUydEhTWmJVYjA4eXg1QnJwd1RfNkdVcEFGclgySFplNW5tbERsN1FqSUhCYw?oc=5",
-   "date": "2026-11-12T07:42:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
