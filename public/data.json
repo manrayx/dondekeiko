@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:57:22.439041+00:00",
+ "generated_at": "2026-11-15T23:18:43.029124+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-15T04:13:03+00:00"
+  "source": "Perú21",
+  "date": "2026-11-15T22:37:33+00:00"
  },
  "next": {
   "place": {
@@ -270,6 +270,21 @@
    "date": "2026-11-15T22:47:43+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "4da11a4a9d12",
+   "title": "Keiko Fujimori viajó a China para participar en cumbre de la APEC",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkMzNHZZX0RpYmltYW5kZUFoLWRHbVJqZkJob0VDSUJEcE95ajVOS3QzZndIMmdQXzdSZW5DX0diampXOXFIdkV3TGdBTnpQUWpzVnU4R0MxdDZUMzg0ajRjTFdnNEtrRXZlQ0hyek40UjNmTUk0MWFDYTktSmpKdlFXU0IzM3Q2ZVFzUHFtOHd5alpXZHc?oc=5",
+   "date": "2026-11-15T22:37:33+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -553,6 +568,17 @@
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "b0bd3d79ec51",
+   "title": "Premier Luis Galarreta quedará a cargo de la Presidencia durante viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPei1FRm1rTFhENFZSVDJ6Tkk1MEVwODJCOUowZmpLTzF1a3FUMzdvQi04U081YUJGY3gzaFBIUlNjUy1rd3NBeWpwNkNSX1duVGhVQUQxUHhXQ19OXzlEcmlTNFhUcjJUckVQRS1NUTlSQUJibEpxUTdkc3lRbkpnME5BZExZd0dnVlZOZXN1UVN2SHBzdlg0dTFtQVJKejhhUWwyZ1Fjd3NBMGxub0xaaS1DMzk2b1dRZHZ4TWNsRWMweElNOWQzQlhRc1dObXZQT0hBdg?oc=5",
+   "date": "2026-11-14T12:12:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "eab40c94d912",
@@ -972,31 +998,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGlHc0RhUGxhdkVib2hGbF9sQVZlNWRnckZIZlp3amVGZmZVcVBpM2x4RkR1MmI4M2taM29kNUlib3pWRFRxR0tKek95aEhPSk9kMXBja3Qzc2F5d2NIZzd4NGdFd3NiT0RxRHVlU2ttejdjMTZDU0FJTDhqZ0F0YU1oQTBSR181bjJGSDlnTm1rU29zVlo3T2RXc0dhcnFOcVdnYV9RMVJPZ1NiSVVuQmFSeHF5VmhUdU1r?oc=5",
    "date": "2026-11-13T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "c84fb3538ef2",
-   "title": "Canciller viajará con Keiko Fujimori a China y Japón para cumbre y reunión bilateral",
-   "excerpt": "",
-   "source": "DIARIO VIRAL",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMHBWaThFV3phZWh1T3MwdC1SR0x4c19LTkdiUk9IOHZmanRsWWlZY0FOUjI4a2M2Z0lvY0IyVDNLUGNXN2FUWjRZNWJXckR1SlRkWEJscXhXeDhMTmkwa2MxRzBjZGpzbXJOYlNvNzJLU1NGUWZnUEVMd29UWWdFUXp6eVd5MVpNRXdZZ3BMcU9kWHJ3QkZWYUNaSV9UektJdmltclV0Q3FVc3ZTc2lieU9wS2lpTmJpYmlF?oc=5",
-   "date": "2026-11-13T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2faa858b70b0",
-   "title": "Keiko Fujimori viajará a China y Japón para participar en cumbre APEC",
-   "excerpt": "",
-   "source": "Diario El Pueblo",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFd4OFpPR1plRlR3OU1PUVdtTEpUTjRTVHBWVTM0LTRUeXMtSTlnMW85SWd6dGl4Y2JCbVE3bVcxMVpOQlBjMlBqOXYtR2Q2dkVCS1N1QnhaV3dHd2FRV2Y0OGpCZzJDRE9EeDFUaHBuQTRNWVB3eEE5cVN2WGt0Z2FSZzJ6M2lsanEyZ28wNzBiQng4djVSLTdCUl9fUXItMUhodlpsc3hjRllPVm5rdg?oc=5",
-   "date": "2026-11-13T05:26:00+00:00",
    "state": "posando",
    "place": null,
    "next": {
