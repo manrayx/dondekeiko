@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:35:26.842666+00:00",
+ "generated_at": "2026-11-15T22:57:22.439041+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -261,6 +261,17 @@
  "agenda_minutes_7d": 241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "eac2a67eb667",
+   "title": "César Acuña se reunió con presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZndMMXdnMlZ4OVdidDA2TU9Zb0t0T1BvTmJ3dkxUeEdUUzJyLWIteWdFbGlFNFozX01aTy0waTBrYTZnMmtnQ2RPeXl5a005bWJrczN2dEMtX0FqUW5XQjQyd1Y4Qy0ySkJ2WFhrWi1VNVZVQ2ZqYzR2Mk9Yc09VZGlUOWpZNi1HXy1hb2RxbVZickFDWGktdUx3OTgtUXhrdnJZeWdwTWlKb29nZlHSAcIBQVVfeXFMT08xTDlRZEQ4SFFESWt2N21LNnJldnJVVW8zaDVtVEtrR25ub0taYjN0QS02WXE1N3lZUkdIenN0LTRQQmQ3c0xnbFVCMWNwSXM0ajM0VUVycWtITTRkVGloWl9Pd3Y3S0dxS2t5SVJ6Y1pEZE1CTXI4WW4tOXhPRzNGSmtjaG9TbEtqcE52em1EelNHZEc0M09fTDB1ZHladGI1OHlIeWxnZm5ER3J6Zm84LWpzbUJJS2FjZUpxUzNSbUE?oc=5",
+   "date": "2026-11-15T22:47:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "50b7c6856084",
    "title": "Un cerco político al pontífice para “que no escuche a las víctimas”",
@@ -992,17 +1003,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "13d94c0920d7",
-   "title": "El feo de la presidenta Keiko Fujimori al primer \"Papa peruano\"",
-   "excerpt": "",
-   "source": "Artículo 14",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlFERWN4R0hGOE5aQlFaNWFLTG5DaVBFNzZpSFU3VkFYNWE4czNnME1LUEpMNDFTaEJ2MGFreVBPdndlVWhhenZTY0p6Y2FhdGxoaWlERFF2LTZadHhXaXZqLThSRXNtMXJuTEJwdFIzUW5MRE9VMjh6a0xuc2VwWnVTNHFtSTREbW9XRmlFU1k3SHk5N2hTLWJXa001WFlCaUtlX1FoMHBMWF9fVkRPN3V0ZDN3Zw?oc=5",
-   "date": "2026-11-13T04:35:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
