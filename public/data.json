@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T13:58:31.461127+00:00",
+ "generated_at": "2026-11-15T14:20:08.788825+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -447,6 +447,20 @@
    }
   },
   {
+   "id": "16b61298262a",
+   "title": "Keiko viajará a China antes de la despedida del papa | Jornada",
+   "excerpt": "",
+   "source": "Jornada",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVJiUDZ0dTlEbWVxUHNUU29xbUNNRGM2Q3JfeUpfLW9MMm9GSzQtT042ZTBYT1pVd1FJRzhUQzI5R2tiTzNZdENWMjh1NVEtcURPWllLNE0xS2V6cGVSaGJuZ0p0WDVFMXN0ek4tbTdpNFNkQWVrV2g2OENXdEVXZlg3ZFNFWmxpLWVVbGhxZUd5THQwV0RPM3ZwR09ORlRjUVpzZlVvbHl1MTZoMlE?oc=5",
+   "date": "2026-11-14T14:17:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "3a08adc38670",
    "title": "Canciller Carlos Espá viajará a China y Japón para acompañar a Keiko Fujimori en cumbre de APEC",
    "excerpt": "",
@@ -819,6 +833,17 @@
    "next": null
   },
   {
+   "id": "801308750c9c",
+   "title": "IEP: El 53% de peruanos desaprueba la gestión de Keiko Fujimori -",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORi1IcWFwSms2V1pnclotWmhrMmd4WVF2R2pHb1ZhY2NaaVdnSjhmU2hJaWtxZVQ3dTlBUUdlZWRwZVZJSl9GbENjUXo0UFBpZVpNc2VmUGl1WC1ReHdvZFlCSXZ6NDUtSEh5SWRPbGszZTVfR2ZzQlhJNzcwLUY2VHJYV3hXamt4Z3NoQlZubTRaLWwz?oc=5",
+   "date": "2026-11-12T22:43:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b64f914fc57a",
    "title": "Papa León XIV recibió un retablo ayacuchano de manos de Keiko Fujimori en su encuentro oficial en Palacio de Gobierno",
    "excerpt": "El Santo Padre llegó al Perú como parte de su visita apostólica del 11 al 16 de noviembre, que incluye encuentros con autoridades, celebraciones religiosas y actividades en cinco ciudades…",
@@ -969,32 +994,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNTM3JhTVVZXzZtVjdJeWJ2QndfSS1vY2JXZ25Tb3FlUVdzUnZXVkd5OTNvRVYzdm1CaTJ0NTMzM2t0QllTLUJ0bjl1dExsWDUycnVyUTBKNmdQQUtaS0RPRDY0Tm9FVFE2bGhMTUN5VWE0Nm0tVHBJUC1sTjlrQURtR2tfRl9EVDFfOEkzcVIzU3V5bjlGOWVDUUFkR19EenNMQ21YYmNlU3huYTlQdFVXSzd0NHljOWxxT0VNdTFxNEE?oc=5",
    "date": "2026-11-12T11:46:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ab735ca6ad93",
-   "title": "Keiko Fujimori: Esta es la agenda que cumplirá la presidenta en China y Japón",
-   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNCSk9PdVI5X0oyS25Za3h5X0RsNk92NGdHSThVbEI3WnpZVzc3OG14Q1d0bDljd3JLejg2eDUyTnM3YWtmNjhIMjNHSWJMVDNlUTY1S211dUh1SmMzVGY5RmoxaEZfelVNN2RRVVdsNmtDOTRxeVBEd2lfVUpXYlZzczFtNXRIbnNYMVEtMHRmbkhkY0pSWFR2VFdiMVJRU0xFQ19tZTV5b1c5SGxsZjlmMGgxTVVfV1dtd0dKVkVsZS1iVnB6WWVMVV9EOXo1MWJJSTVRb0VBNDNHWFFzedIB9AFBVV95cUxOZEZxR0FiZm9ZdHN4cFBaZ0pLNTlkUW1pMHlobUNLTmtaRHNWdTdJUmt1YjRRMElQTDZ2RHdtaDl5akdyVEtTdkxONDZpcGd3ZjVQeS02U0F6MG1BSUktakVTMXgxM2NOT043ZkloTHNSVGVvWkUza3ItVFVDUGVQNnJ1VTJhUlhnaFhKbUtvcDduVjBidG5EcDMtZDZRdUNfYjI3NXU2cVdmcVFvUWVFYmktdS1Zc0ZiVG44Y1BKNkJRcFQzTWlueXdfNWJqNlBJRUF3OUVUVE5Rbkp5YTZaeW8tY3FGbV83ZnhPaDJWUkVGck1m?oc=5",
-   "date": "2026-11-12T11:27:02+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "d54df5e516e6",
-   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
-   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbDJNdjdwdks1R3NtaGZ3YW5xMGVlTFl2aFJGNWs4MFBXMFdzNTNXeE1fZmRueHhGWUExZjNESGh1aGtjc3lwWlltYzNJRDFma3d0Q1dwYUN1NjNmLVRnWkxKV0Zhc3N6bk1sSnM5ZXdfbFE0ekNIaXVmZzIxTGo0R3VBaGxsY3hob1AzYXhORDl6NEZCYk54U3NibXgwaFVRbTg3Tmt4Smk5ZkF4WDJIcTRxd210MW9CTVdoZWdsRmJpeG5sYm1NU0tnU1NCeU41OEprR3JObw?oc=5",
-   "date": "2026-11-12T11:15:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
