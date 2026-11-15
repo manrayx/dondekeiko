@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:16:21.137697+00:00",
+ "generated_at": "2026-11-15T18:37:46.553662+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -941,6 +941,17 @@
    "next": null
   },
   {
+   "id": "04511e3b6464",
+   "title": "Senado autoriza viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "",
+   "source": "Diario Ahora",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTVadEtBdmNuREUwdjdaaG11V2Y0YUs1clk0a0JON0ZtSU1fUE40MzRwcTFoam5Ib2xaMThzUTdNczFxa0FtbDJ2MzktaHVEUlZlQnkwRi03MVJwMEpld0M1ZzNyVVRSa0ViNFBhRTdyc1lrc21VSVdYXzNWdVd0clhPT2ZHcmExYndqazlR?oc=5",
+   "date": "2026-11-12T21:13:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b64f914fc57a",
    "title": "Papa León XIV recibió un retablo ayacuchano de manos de Keiko Fujimori en su encuentro oficial en Palacio de Gobierno",
    "excerpt": "El Santo Padre llegó al Perú como parte de su visita apostólica del 11 al 16 de noviembre, que incluye encuentros con autoridades, celebraciones religiosas y actividades en cinco ciudades…",
@@ -990,17 +1001,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcURqUTVIMUpmS21uYWU3TXRPUGZ3LUZRdHBRSTM4UVJvaXk2MTJZbjYzaDhzSjJFTDNsU0thQzZLTXRnQTcxMGNwSTgtRzFtQXNxSVFoQ2RhWXNRTkhoX2d5TF9HdkFoM2l1djFzMlhjbmM2ZEZLMGJLSkYxYTNrT3FKVzl5QXpaSFE3bzRhbk9scTFZWlRYVmxQUWdMeGx3MzJwUFlTRmI2R3l5M09VQVk4MVlVTDFXYUN3?oc=5",
    "date": "2026-11-12T16:06:35+00:00",
    "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ae7802493ba1",
-   "title": "Presidenta Keiko Fujimori sostuvo audiencia con el papa León XIV",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzkzTGthTU55OGN3UDRzR1FDQTNoSklUTzI3bFZvSDctelptYTM1SFRnWkRlQWVVVTJ2eW1CR3NWSm1vYWNwckZCRXk0UzBnMUFvZmFTWHRYRWZuQzZpOVh1eEFFNlBhQVptY0IwcEVjODdWNzh6Tk1XbmZuN1gzOGU0Y0F3UmZWSFFaNlpuOFJuXy1WWVZnazBHS2FfOHFPcjR4amtWUHlGWUNL?oc=5",
-   "date": "2026-11-12T16:00:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
