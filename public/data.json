@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:47:28.936736+00:00",
+ "generated_at": "2026-11-15T21:09:28.472582+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -108,10 +108,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "Infobae",
-  "date": "2026-11-14T21:03:00+00:00",
-  "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones bilaterales que tendrá durante la cumbre APEC 2026",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM2V5TEc0NVRBTUdGaGxVRDA0M2dJLXJYeUdyQmYzTHdGWEpyQ21yUExBWmJUTEU1Q3VSM2xteDV2S01hWW1QRWk0b0RnRUpRQjNQZGJMTnMzRzFWSTctXzIzNTBRNkd5TXc0TmVRY3ZJaFNRQ3RSOVJjN0RuZmpOZjFCYW9yLVNmNFpEbXR6SGVPLWNOU0d3eXNfYmdJU2pvVkl6Q3dOMWZBT2c1eU1GOFBJUGp4azN5VVZaS3lfdjNlM2ZSdUtOUUpaQ3dTNGFhOHpVWk1TamJGZlN5RHRKS3pfZGRBbnA1Z1HSAYQCQVVfeXFMTUN0dnAtcWlpVkxRYlFQWG83ZzhvS0NReTZuY0FPaVk1LUJvSnVNWUo5TnVhUVQtNWtrbFdhSkI4cVd3ZXdaUHZXSldGRktWWDd5bVc1a01MWmRuSmh5MHpRUW5KRHg1eXRQT01MZnBCVlo4cEI2ZGpEbi1IbXJDejJnb24tYzZpMkFFT3RkMEE4dkRMNk9Ya1NNREpGaVpVNlJPRE13eTc5NXAtcW15ZHpCdmF0b1pYR1g0S0tqdVFveXZqQUtkd1NZYy1PRlZ4enFRNEZHYUtMUE53MlFucFgwWGpPSG5iOUlHUzdzdGpJVmM5WERnUXNCRmpBQklpY0lFa1g?oc=5"
+  "source": "El Comercio",
+  "date": "2026-11-15T20:55:23+00:00",
+  "title": "Keiko Fujimori inició su viaje a China y Japón: ¿cuál será su agenda oficial?",
+  "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -262,11 +262,25 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "b6a65e7edd02",
-   "title": "Keiko Fujimori viaja hoy a China: Esta es la agenda que cumplirá en ese país y Japón",
+   "id": "0a0deacd814b",
+   "title": "Keiko Fujimori inició su viaje a China y Japón: ¿cuál será su agenda oficial?",
    "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
+   "date": "2026-11-15T20:55:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "b6a65e7edd02",
+   "title": "Keiko Fujimori viaja hoy a China: Esta es la agenda que cumplirá en ese país y Japón",
+   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNCSk9PdVI5X0oyS25Za3h5X0RsNk92NGdHSThVbEI3WnpZVzc3OG14Q1d0bDljd3JLejg2eDUyTnM3YWtmNjhIMjNHSWJMVDNlUTY1S211dUh1SmMzVGY5RmoxaEZfelVNN2RRVVdsNmtDOTRxeVBEd2lfVUpXYlZzczFtNXRIbnNYMVEtMHRmbkhkY0pSWFR2VFdiMVJRU0xFQ19tZTV5b1c5SGxsZjlmMGgxTVVfV1dtd0dKVkVsZS1iVnB6WWVMVV9EOXo1MWJJSTVRb0VBNDNHWFFzedIB9AFBVV95cUxOZEZxR0FiZm9ZdHN4cFBaZ0pLNTlkUW1pMHlobUNLTmtaRHNWdTdJUmt1YjRRMElQTDZ2RHdtaDl5akdyVEtTdkxONDZpcGd3ZjVQeS02U0F6MG1BSUktakVTMXgxM2NOT043ZkloTHNSVGVvWkUza3ItVFVDUGVQNnJ1VTJhUlhnaFhKbUtvcDduVjBidG5EcDMtZDZRdUNfYjI3NXU2cVdmcVFvUWVFYmktdS1Zc0ZiVG44Y1BKNkJRcFQzTWlueXdfNWJqNlBJRUF3OUVUVE5Rbkp5YTZaeW8tY3FGbV83ZnhPaDJWUkVGck1m?oc=5",
    "date": "2026-11-15T18:01:57+00:00",
    "state": "posando",
    "place": null,
@@ -992,20 +1006,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "5a6aa6d2978c",
-   "title": "Foro APEC 2026: estas serán las actividades de Keiko Fujimori durante su viaje a China y Japón",
-   "excerpt": "La presidenta Keiko Fujimori viajará del 15 al 21 de noviembre para asistir al Foro APEC en China y mantener reuniones en Japón. Se encuentran programadas reuniones con líderes de…",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRl9MR0U5THo0SHc3cWd2Y1ZjOU1GVndKUF94aU5Fa2VrN2pEOWdHY2xLS1lCWWloVDV3QVA3dDE2NEhsdEloSUFyck1HQmpZOFc1U2xjNFlsamU3MTRlX2RLZE9KSUlLcV9jVm9MNncxMVl3YWtsOHVVMFlaWVNpeXZ0RVByQ3EwZDVNNTN6RVlwYkhDYm1UQVY2dE8wTFU0b2EzTHRoSnBydGx1RHFBLU5FU2cxajBaV1VWN0JBSUM4Nk9nOFBEalVNcGdkV1JSNV9vRFhiZGY4eTk3SFdFaTdrb9IB6AFBVV95cUxQOVNkVU56WDRyZHlGUTV2ODVQeVI3c2pjaW5NcVFOb0Vkd1o3TnlObUZBQWdFazBIY0JVY2ZJVXRZQmdmbjZyZjdJT0d5MmlyTjlQUU5JQTFGLTlzVXhqV1pVUkZhOHVpYWU5LVRsdGRjcmJLcHd3a29Fd3VGNUZxajg3b1BoMmpfVnEtTnZlWnhwckluUGZkcDhac1RwU2s3ZzNJVmxaeGcxSjVvTXZ2QWVLc3NGMmh4Q1Y0a3RKczFycDFCcmFqQ2dBZWZxejdqWTAxSjJ2OXE2Z3NyXzBETmJ2Z2ltUTJu?oc=5",
-   "date": "2026-11-12T17:48:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
