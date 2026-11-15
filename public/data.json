@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T18:59:38.806144+00:00",
+ "generated_at": "2026-11-15T19:21:45.733029+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 58
+  "triste": 1,
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -969,6 +969,17 @@
    "next": null
   },
   {
+   "id": "f9458e506827",
+   "title": "Perú. Encuesta IEP: El 53% de peruanos desaprueba la gestión de Keiko Fujimori en el Gobierno",
+   "excerpt": "",
+   "source": "Resumen Latinoamericano -",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTJPc1JVNklUTGVDTFU2ZWZDN3AwbFNkeTBUTldPeUJWSVlYRlJWRDdJSk1hTzZta2pfYTdERDZOVURlLU1uZWdiYlAzdXpXbjlRZTR0dHNXTFJBTXlRVGRUS3RKc3pJT1Y4UXgwRXN4bFF3RmVqSm9pWGlfS1hXdk5QTUx6T00tRDlZMnFUa3M2UzNFczJGeU02MkRqVWtLUjVELU93b0NEcWo3ZUFLcERKaERvaGp3dlVGSlNZeF9GdFFScDI3aGlRbzBUMFE3Z2s5ZzZGZXc?oc=5",
+   "date": "2026-11-12T18:10:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5a6aa6d2978c",
    "title": "Foro APEC 2026: estas serán las actividades de Keiko Fujimori durante su viaje a China y Japón",
    "excerpt": "La presidenta Keiko Fujimori viajará del 15 al 21 de noviembre para asistir al Foro APEC en China y mantener reuniones en Japón. Se encuentran programadas reuniones con líderes de…",
@@ -990,17 +1001,6 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xcDBmM3hOeXlvdmlmdnUyWl9Gcko0ckVfeDJCSnh4QzhJS1lJZS1yU09pWXB1cFBUM0JZVVE0ZURnTTBEcVBjbkRLRjUtc2tOX1E?oc=5",
    "date": "2026-11-12T16:32:50+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b5bd41d38e31",
-   "title": "Bayly cuestiona las decisiones diplomáticas y la pobre imagen pública de Keiko Fujimori",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcURqUTVIMUpmS21uYWU3TXRPUGZ3LUZRdHBRSTM4UVJvaXk2MTJZbjYzaDhzSjJFTDNsU0thQzZLTXRnQTcxMGNwSTgtRzFtQXNxSVFoQ2RhWXNRTkhoX2d5TF9HdkFoM2l1djFzMlhjbmM2ZEZLMGJLSkYxYTNrT3FKVzl5QXpaSFE3bzRhbk9scTFZWlRYVmxQUWdMeGx3MzJwUFlTRmI2R3l5M09VQVk4MVlVTDFXYUN3?oc=5",
-   "date": "2026-11-12T16:06:35+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
