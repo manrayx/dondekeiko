@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T21:09:28.472582+00:00",
+ "generated_at": "2026-11-15T21:30:46.086648+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -108,10 +108,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-15T20:55:23+00:00",
-  "title": "Keiko Fujimori inició su viaje a China y Japón: ¿cuál será su agenda oficial?",
-  "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/"
+  "source": "La República",
+  "date": "2026-11-15T21:12:01+00:00",
+  "title": "Keiko Fujimori viaja a China y no despedirá al Papa León XIV en su último día en Perú",
+  "url": "https://larepublica.pe/politica/2026/11/15/keiko-fujimori-viaja-a-china-y-no-despedira-al-papa-leon-xiv-en-su-ultimo-dia-en-peru-hnews-1103400"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -261,6 +261,31 @@
  "agenda_minutes_7d": 241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "c3ea84f4a950",
+   "title": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
+   "excerpt": "Al terminar la misa en Pimentel, el pontífice tomó la iniciativa y se acercó a saludar a la presidenta peruana. Ella lo describió como uno de los momentos más memorables…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/14/los-gestos-que-profundizan-la-relacion-entre-leon-xiv-y-keiko-fujimori/",
+   "date": "2026-11-15T21:21:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ab6b6290e2fc",
+   "title": "Keiko Fujimori viaja a China y no despedirá al Papa León XIV en su último día en Perú",
+   "excerpt": "El santo padre parte de Lima rumbo a Roma la tarde de este lunes 16. En representación de la jefa de Estado, acudirán a la despedida, el primer ministro, Luis…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/15/keiko-fujimori-viaja-a-china-y-no-despedira-al-papa-leon-xiv-en-su-ultimo-dia-en-peru-hnews-1103400",
+   "date": "2026-11-15T21:12:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "0a0deacd814b",
    "title": "Keiko Fujimori inició su viaje a China y Japón: ¿cuál será su agenda oficial?",
@@ -425,17 +450,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-viajara-a-china-para-asistir-a-apec-ministros-asumiran-encargaturas-luis-galarreta-y-rafael-belaunde-noticia/",
    "date": "2026-11-14T18:28:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c3ea84f4a950",
-   "title": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
-   "excerpt": "Al terminar la misa en Pimentel, el pontífice tomó la iniciativa y se acercó a saludar a la presidenta peruana. Ella lo describió como uno de los momentos más memorables…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFMySkk1SEtnd20wUzExT1RNM0oyYm9xTXVReFVSdzM3bFNjanBrSFFLc0QzMEtLbjY5ZmVJZWZRa2hxZVZsTnNaOEpDakl6X0I2QkRNYjVJSVlEWU5neFQxUDZnX2lVMzRQMUpFVGdhODZZX1BpUHJSYzdDb0IwMU53SDNyVENrUlQ2ZXgyYnJGVlFkRmhmOGV5bkZVYm9Id3g1SDU1QVJ5OXRqLVFIdtIBywFBVV95cUxQLTY0ZWNxd1RpMUptaloxYmZmaFNvamZXQ3ZFSV85akR5SjJoMFpVY3FEc20xNEpWUGk1am5jb0FwQkFtMUFOQU0zODBiWHMxcnZ5N3dnaGpub0hlb0k1cUdILUtycDhBOExMOWlqZUcwTFlPN1Rjd3R5UlplNnJFc2tKcHZGY1p6YWFBYnBFSVhiWFhwdWNxOE9TcWtVUDkteFBLbnE2NWQxMlFmWHR0LTFISFNHdGZPQU8wclY1Z1doaTFCQWo1Tl9TRQ?oc=5",
-   "date": "2026-11-14T17:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -722,6 +736,17 @@
    "next": null
   },
   {
+   "id": "b89f7fc4e47a",
+   "title": "Autorizan delegación del Despacho Presidencial que acompañará a Keiko Fujimori a Japón y China",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaV9pNGtEdjdGS1A0d19aRXJWQldObG05ekp6YTRDUzJHS2ZETjNrWjRZempSU1BYM2FHM3FEbHItckFzUDVIM3R5c09rRGJzcVFCWHcyOG1pNXJDelQ5SU53d0J5bnNiRzduQXBUTUZrUnZ5NXRoc1hBck5NWWZkUHB4LU1wSmozcjZTMGhQZDU0T0NMc05XT0VLSHBWbGQ2ZHF6RDVoVWxCLTVQSk1feGZpVDVUaW5qdGlzYk83UXRrUmQ5c2xF?oc=5",
+   "date": "2026-11-13T20:38:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f33e783a4a23",
    "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
    "excerpt": "César Landa, Eda Rivas, Manuel Rodríguez Cuadros y otros cuatro exfuncionarios cuestionaron que la mandataria salga del país el 15 de noviembre, antes de que termine la visita oficial del…",
@@ -975,34 +1000,6 @@
    "source": "Diario Ahora",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTVadEtBdmNuREUwdjdaaG11V2Y0YUs1clk0a0JON0ZtSU1fUE40MzRwcTFoam5Ib2xaMThzUTdNczFxa0FtbDJ2MzktaHVEUlZlQnkwRi03MVJwMEpld0M1ZzNyVVRSa0ViNFBhRTdyc1lrc21VSVdYXzNWdVd0clhPT2ZHcmExYndqazlR?oc=5",
    "date": "2026-11-12T21:13:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b64f914fc57a",
-   "title": "Papa León XIV recibió un retablo ayacuchano de manos de Keiko Fujimori en su encuentro oficial en Palacio de Gobierno",
-   "excerpt": "El Santo Padre llegó al Perú como parte de su visita apostólica del 11 al 16 de noviembre, que incluye encuentros con autoridades, celebraciones religiosas y actividades en cinco ciudades…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcUxQX1ZubXhuQ3lDWGZKSk93djJueHNJYXN3Y0I4LXZqNjJPY0RXdmQzbXBNZEZQZEdCUk90ZWVvanY1bmVhTk5lazNTV1YwSHZNMWZQbG1RVTBoSFc3NkpxWjNyUDVFYWhPVWZBRlFQSEt4Y05Md0U0Q0lnVHdQVFZYY2lVZ3gwMS03N2paVUF3ODVmNF9lTTA4NkZFWjhIMVdsaXhYWWNDN2FXeTV5ZTMwcjlTbzhrTDQ3d01vQVJVWFBhV1ZQWXg5OFhkR0RrZHU2YzRUUHlQMlJKaEhRU21LcEJlaERrcnpPSlE4WdIBigJBVV95cUxNa3B3QWlScWFuanBpZEl4cjA5MFMwQjhLelVyVjJna0JLQ2sxN2JEdzZ3c3dCWThmV01ib2djQ2ZwemtUMGhpYmtRZFZkeGt6NGZrUnFNQWJRdi1VazlhWEpKUXItaS1Vdm4xMXJTM3YySDFETGRlQVNEMDBYZ0lNU1FuOS04ZmtHMmFfbVJRNHNNeDFETGpHSzUzQWpuSjBpOWM5VFdSaVlPRXhlcEhpY21jNHc3LTYxblI3b1pGbEstQzVNOTZQVW1TOFJ5blc5bzUtTFlITFBaMThqNUhPWTFMODJSOHhWTEc1NDNIM1FpVkxKM280SS1uTTh3VkZKWXhoZDBCYl96QQ?oc=5",
-   "date": "2026-11-12T19:59:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "f9458e506827",
-   "title": "Perú. Encuesta IEP: El 53% de peruanos desaprueba la gestión de Keiko Fujimori en el Gobierno",
-   "excerpt": "",
-   "source": "Resumen Latinoamericano -",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbTJPc1JVNklUTGVDTFU2ZWZDN3AwbFNkeTBUTldPeUJWSVlYRlJWRDdJSk1hTzZta2pfYTdERDZOVURlLU1uZWdiYlAzdXpXbjlRZTR0dHNXTFJBTXlRVGRUS3RKc3pJT1Y4UXgwRXN4bFF3RmVqSm9pWGlfS1hXdk5QTUx6T00tRDlZMnFUa3M2UzNFczJGeU02MkRqVWtLUjVELU93b0NEcWo3ZUFLcERKaERvaGp3dlVGSlNZeF9GdFFScDI3aGlRbzBUMFE3Z2s5ZzZGZXc?oc=5",
-   "date": "2026-11-12T18:10:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
