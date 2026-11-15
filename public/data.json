@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:25:34.213582+00:00",
+ "generated_at": "2026-11-15T20:47:28.936736+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -577,6 +577,20 @@
    "next": null
   },
   {
+   "id": "357290358a7e",
+   "title": "Gobierno autoriza viaje a China y Japón de Guillermo Shinno: será parte de la comitiva de Keiko Fujimori en la APEC",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRVQ2LXFsd3ZMLUMwelY4Sk1yUV9yZ0c1RFQ5TFJlMThQSFFPSDQ3bnc4eUY4UF9vZEdlZGkyTk1ldS1QTmRTT1dndWNSZkkydHVJWnR0ajM2SVJlREt1T3VqbU1BZGtsTGJGUnZTcG81YUxoRGk4Y1FnTmNURF82cWdMa1FyRThjYklaNko1MlRXT0pQNlRiVFVNU1d5aXYyb1FuYjJxamM4b2lLSjhpN2pLWk5zVkF3UkNvOFlwMXdtWDFPT3hKZlhSaUNaRFlRRnZOeWFnMA?oc=5",
+   "date": "2026-11-14T01:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "74b5533b4135",
    "title": "Keiko Fujimori a León XIV tras misa en Chiclayo: \"Nos llena de fe, esperanza y nos inspiran a construir un país más unido y más solidario\"",
    "excerpt": "",
@@ -992,17 +1006,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "97ec476695b1",
-   "title": "ENTRE EL PAPA Y CHINA: LA DECISIÓN DE KEIKO FUJIMORI",
-   "excerpt": "",
-   "source": "Stereo Villa 101.7 fm",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xcDBmM3hOeXlvdmlmdnUyWl9Gcko0ckVfeDJCSnh4QzhJS1lJZS1yU09pWXB1cFBUM0JZVVE0ZURnTTBEcVBjbkRLRjUtc2tOX1E?oc=5",
-   "date": "2026-11-12T16:32:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
