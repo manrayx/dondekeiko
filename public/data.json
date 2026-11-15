@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T02:52:33.094895+00:00",
+ "generated_at": "2026-11-15T03:57:20.662934+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Amazonas",
-   "lat": -6.231,
-   "lng": -77.869,
-   "abroad": false,
-   "city": "Amazonas"
+   "name": "Palacio de Gobierno",
+   "city": "La Paz",
+   "abroad": true
   },
-  "source": "Willax",
-  "date": "2026-11-14T17:06:36+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-15T03:34:00+00:00"
  },
  "next": {
   "place": {
@@ -280,6 +278,21 @@
  "agenda_minutes_7d": 295,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a695aae91730",
+   "title": "Presidenta Keiko Fujimori recibió a Premio Nobel de la Paz 2015 en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVRjNTBkanZBSW11cF9sZE5wdkRUY2V1cWNIQldvWXRpYTVtMHE1MnNNdkhBeW1Bc2NZSDJMbHU5UmRHOEFsRldqWHZxVlVGYzdkM1B1SlZfeUJNZEFiUFAwZmZWZ25SeVVGSlNDYWtXX01uVy1zWDJkZmNFUHFMYlFOWUZaSVNYVzVLdk9iOHowS3EtQ2IwcTZGT0wyX0FzZmhFNUJpRmFyXzFaXzJwVGtDeHpVRXVqMmdLaUs5eG9pUQ?oc=5",
+   "date": "2026-11-15T03:34:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "La Paz",
+    "abroad": true
+   },
+   "next": null
+  },
   {
    "id": "1cc7c3cd45c8",
    "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
@@ -1005,17 +1018,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpUjZTc20wMWx5Y09ZaVNmcEw0RXZpTWtiY3c4bnpiQ1Fia3BtZXVPaktsS2xsQ2pqaGRkeUJKaHRZdnhxMGNQWkNyQUxtU3ZGdzJ2ZzNaOXB0ZXJsVHpoT09yT0ZBQQ?oc=5",
    "date": "2026-11-12T04:09:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a310eca8e26f",
-   "title": "Senado aprueba viaje de Keiko Fujimori a Japón y...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSTJhcmg0SmNWMTVpSnRUQzhIdjZqV3pEYmR6V1loNE9VNFQ0MFJzRkN5dzJjT0FiN0toUlBPWjZkVEw4TGoxNDItNFBrOHg4YWxwc1luLWxnc2pBY2lKdThmQzA1X3kzNm16aGRjWEt4akk4S3FVd0R2RnNYTkVVbkVVRlVjM0VGS2xqalZ4d3ZYUmNtSUsyOTBWTzN5WHY0SmtJS1NyZDdLY1ZoM1VwZtIBtgFBVV95cUxPbTl3Z2wxc3RMTmtjQVV6YUhPQm9wRWV6bkdfYVMySEJuenFhLWxJY09xS2l3MFVYY2wteGFadnRBLVp5ZzVlMUlBa3JBbnNVenVHT0RSblExcDI5djRQZFNCSUpIMTBELUh2V21lcDNMMjdSeHBqUVdaNTFSMU8wU0NjQlpSVHN6UHZlUzB4andJRjE2VnBnVDdCNGJ2V1h5Q2U5NlRoSjVHUl9KU2hseDdmZ2VhZw?oc=5",
-   "date": "2026-11-12T03:25:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
