@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T16:50:19.679909+00:00",
+ "generated_at": "2026-11-15T17:11:47.011842+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 4,
-  "posando": 56
+  "triste": 3,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -301,6 +301,17 @@
    "source": "Ojo-Público",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGV0V2hKX252amlLRjg5Qi1uVDd6S1Y0dWtJUjJKdHNJaWcwUVI0cm1EZzgzb0hGb3B6N05fSjI2NzZiWHl4b3B4SFdzVFdqTGJvVGk3LUNyNGlkZE43SUJ0SjlEM2lnZV84cUxLdVEwdGU0VXkxejY0dTVTUmZaVHZxbENpM3o2bUIw?oc=5",
    "date": "2026-11-15T05:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b3d22c9e5871",
+   "title": "President Keiko Fujimori welcomes 2015 Nobel Peace Prize Laureate at the Government Palace",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ2lIeUtVak1GLWRVYllkNS1tQmR2XzdON3NuSkNKM2xkZjczcUkzZGlLMExmbEJpYWt0Uk5yYTBTcXAxSUJjRWNXLVd0RDV3WGpZVW45eld3ODgxWTlqTnQ1dVd1X2dZX1BQRzk0cUhCdERydTFaVkhiTm1mQlVBaWszMEdIQnM4UnBHWTBtZTRkRVBIX1QtaWdsZVdGalljNTk1UXBPeFotMEVCdkl1eGJsUW5wXzVoUzI1aW1NejZQdXBXNzFCSFdNVXN3c0ViUV9z?oc=5",
+   "date": "2026-11-15T04:56:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -989,20 +1000,6 @@
    "state": "triste",
    "place": null,
    "next": null
-  },
-  {
-   "id": "a39b69a31de3",
-   "title": "Keiko Fujimori viajará a China y no estará en la despedida del papa León XIV en Perú: presidenta responde a críticas y niega un desplante",
-   "excerpt": "",
-   "source": "El Tiempo",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZnR6WGhUaEZFZzFYTktOTFVBWUJkYUwyS3dkbldJX2NmNjNNZ0NKaVI3QnFjZ2Z4R0h0dTFsQmNGYmdZVWllckRBcGQtZ2RoV3gzZkZUdmhiVHFIM1dMVlVfLV9RUlJmRjdnYXU1U3lVTkFkOHZnYm9oYWhncVhCT0xpU1B2NU9XQ3IyRV9hRWV3SjR2SzRQcWpfRFFtMjlPUWNzTUpfU2lYcXRYNzBERzdoQVZ4eGpTSU51cko5SDRMQzRKaE9IS3lxRVFneXluSjYtU08xTkxuUDcxVjlrTTJFbVBZLXA5TmpCUkY5QkFUVHl3dU51Y0Facjh4c29yWllwNE1Xd0tkb0ZmdEFwdS1RTnZZeXRT?oc=5",
-   "date": "2026-11-12T12:19:17+00:00",
-   "state": "triste",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
