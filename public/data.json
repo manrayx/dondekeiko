@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T14:20:08.788825+00:00",
+ "generated_at": "2026-11-15T15:45:06.079101+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -262,6 +262,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ca5258aaf698",
+   "title": "Diethell Columbus defiende viaje de Keiko Fujimori a El Salvador y pide priorizar a víctimas de la delincuencia",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVhaTGwzUFNraElydHJUYnYzUzZJUDZxRi12WnJySGxYTXNJRXV1dlVTYTZQOEtnd2g4djFGaWZaVGI1eEJhTEh1Unk0eHhObTJOUW50NFhDcXpBRHRXNlNZbVdsWmE4ZW9XWFhzVFFTQnRYWVg0NDJkQ0t5UERCWjVLSkJEd0Fwc1RMSHQwNmxpYzhWY3N4UUxHMElDLTYtY01BZzFYOW5zWmZfOEd2aFhEanVXNTVXTE11eEdsQ3lCY3R3cGc1NGhicmw?oc=5",
+   "date": "2026-11-15T14:51:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "75c37d95eede",
    "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
    "excerpt": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
@@ -300,11 +311,11 @@
   },
   {
    "id": "a695aae91730",
-   "title": "Presidenta Keiko Fujimori recibió a Premio Nobel de la Paz 2015 en Palacio de Gobierno",
+   "title": "Presidenta Keiko Fujimori recibió a premio nobel de la paz 2015 en Palacio de Gobierno",
    "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1U0bWdENTNpMXZaQ3lTanFSUWNhdDBGbkdqaUR3YnJCNlRtM01hTm5pQlVxeGpBLXdzVzhrY25idHNOTmFHR2d4V3dFQmFVYWlUSUZnU0VQaVE1ejZ2cExJS25lQnk2M3NhTWJwbklLcENfamxmMlBRMjJQNExxVkExQ2pHbFpQcGg3WnQzQTc5UTY3d3o0UjNqM3c5UDRTd1R5VFAyVHVjbHZQT2Y5Y1RBSTFlNWl6RDZJczVsSHpSM0J1R1QtSnFFSTEzT1FsbkdzYQ?oc=5",
-   "date": "2026-11-15T03:41:00+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVRjNTBkanZBSW11cF9sZE5wdkRUY2V1cWNIQldvWXRpYTVtMHE1MnNNdkhBeW1Bc2NZSDJMbHU5UmRHOEFsRldqWHZxVlVGYzdkM1B1SlZfeUJNZEFiUFAwZmZWZ25SeVVGSlNDYWtXX01uVy1zWDJkZmNFUHFMYlFOWUZaSVNYVzVLdk9iOHowS3EtQ2IwcTZGT0wyX0FzZmhFNUJpRmFyXzFaXzJwVGtDeHpVRXVqMmdLaUs5eG9pUQ?oc=5",
+   "date": "2026-11-15T03:34:00+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -983,17 +994,6 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcGZjNE1vemM0dmw4cHc2UkptQ1hteFB4TGl6WEhUN2VtRHhPS2dSVmdDWnpBQi0zZzhmNm1qUnBqc0NwWnBtakFUcjVvQ2xuRmt6UGU1cmwyREJDMkI3Rjk4VDBacDVodW1wRlJrX2NFU2FZQmZ6NGtjSFBNNjAtR2lFaWhBdEdUOXpUNjRobWVMX0VUUjNWUTJOdTdYY2l3RF9taUtPQmt4cmVpeWZCem1BV2EyYlhmLWdSZlMzYXE4SGlw?oc=5",
    "date": "2026-11-12T12:07:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32010362e182",
-   "title": "Presidenta Keiko Fujimori dio la bienvenida al papa León XIV a su llegada al Perú",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNTM3JhTVVZXzZtVjdJeWJ2QndfSS1vY2JXZ25Tb3FlUVdzUnZXVkd5OTNvRVYzdm1CaTJ0NTMzM2t0QllTLUJ0bjl1dExsWDUycnVyUTBKNmdQQUtaS0RPRDY0Tm9FVFE2bGhMTUN5VWE0Nm0tVHBJUC1sTjlrQURtR2tfRl9EVDFfOEkzcVIzU3V5bjlGOWVDUUFkR19EenNMQ21YYmNlU3huYTlQdFVXSzd0NHljOWxxT0VNdTFxNEE?oc=5",
-   "date": "2026-11-12T11:46:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
