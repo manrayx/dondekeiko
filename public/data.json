@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T11:28:50.703586+00:00",
+ "generated_at": "2026-11-15T12:11:23.462227+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 4,
-  "posando": 56
+  "triste": 3,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -268,6 +268,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/ahora-si-la-china-una-cronica-de-fernando-vivas-sobre-el-viaje-de-keiko-fujimori-apuesplan-noticia/",
    "date": "2026-11-15T11:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ad89bc72ae34",
+   "title": "El consejo paralelo de Fujimori: el poder de José Chlimper en las decisiones del Gobierno",
+   "excerpt": "",
+   "source": "Ojo-Público",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGV0V2hKX252amlLRjg5Qi1uVDd6S1Y0dWtJUjJKdHNJaWcwUVI0cm1EZzgzb0hGb3B6N05fSjI2NzZiWHl4b3B4SFdzVFdqTGJvVGk3LUNyNGlkZE43SUJ0SjlEM2lnZV84cUxLdVEwdGU0VXkxejY0dTVTUmZaVHZxbENpM3o2bUIw?oc=5",
+   "date": "2026-11-15T05:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -764,6 +775,17 @@
    "next": null
   },
   {
+   "id": "13d94c0920d7",
+   "title": "El feo de la presidenta Keiko Fujimori al primer \"Papa peruano\"",
+   "excerpt": "",
+   "source": "Artículo 14",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYlFERWN4R0hGOE5aQlFaNWFLTG5DaVBFNzZpSFU3VkFYNWE4czNnME1LUEpMNDFTaEJ2MGFreVBPdndlVWhhenZTY0p6Y2FhdGxoaWlERFF2LTZadHhXaXZqLThSRXNtMXJuTEJwdFIzUW5MRE9VMjh6a0xuc2VwWnVTNHFtSTREbW9XRmlFU1k3SHk5N2hTLWJXa001WFlCaUtlX1FoMHBMWF9fVkRPN3V0ZDN3Zw?oc=5",
+   "date": "2026-11-13T04:35:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ea263bfb664f",
    "title": "Edgar Gonzales sobre Keiko Fujimori: “Han pasado 100 días y no tiene nada”",
    "excerpt": "",
@@ -980,28 +1002,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVl0RG5LZmx4Zk1zQVdVY1VZbGtXSHl4WjNUcEdGZ0RJaVpoUFhqcnV3bWlsNUE2N0FmOTN2T0xxcFlEV0QteHUxcEtpWUl0eGJvUjMxZEl2c2lxTkV2UHQ5Ym4wZV9VMTRHR2FUOTFEZG5CSDd5U0pIb2xSN0Fwak0yOUFTNzVlMzFMNm11Q0VnUjBEOUs2enVIZ0V2OWs1UjNyRXg5Yi1TV2ZEUVRmWlkyOS1WWXQ5dzVIZktrSnNtR3ZSSmI3dU95MUVuX0w30gHkAUFVX3lxTE91RkI5VHFhdm91TW1UTHVTbS1ETUJvam5OOEszd3FjOWx2ZlgwRXRJUGtPMFNGMzBDUnZQWUFmbXlkcXNTVGdiYUEtX1VkeXIzeUxkemFHMlhjeWt6a3VVWjBzRkRGQ1lJY0lfTFBwbmYxeDBtallGY2hMLTl5RFd0a3lOVmM1SjAxZnFrV2dzbWh1bWViV0kzS0dhUVI4a0Z3RTNJeWk3RGtWVzFNODhjR1V0cUVxSFUydEhTWmJVYjA4eXg1QnJwd1RfNkdVcEFGclgySFplNW5tbERsN1FqSUhCYw?oc=5",
    "date": "2026-11-12T07:42:35+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7ecd68b5b451",
-   "title": "Keiko Fujimori: “El Perú recibe al papa León...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0otNUo3bmZ4WTZvamdXSl9pejZiYVI3aDZRZHFWeXJ4WHJfWEV2dmk0ZFFWbGdJSEVpRmpNRWFYNDVDVHJCdl9rRmpFYjJmMTFoRE4wR3JiNlVYYlNuUjFXSXY1ekZBRnlzR00wd2xHQU5pcjM5V0MzbUlYWURHWXVlN2pSd3FTZDVOeEJtOUlxeE40NXhmR0FIRdIBoAFBVV95cUxQZHhhR1kxNTZ0NDdqN3hmcGJ4Mno5b0Q3bUFzUHcxSnltdG42NXhWcFMxZmZUQklJSkE1ekF3bXlrdTYyeGVrbVRFZHhoVUViUHpWN0pyeEw0em9IU24wQmpXbzh6MTB5T1paUzRQcXpnVU1XTGVZTEh1bUNGOHZ4Yjk1S2pSOWRDTWlOR2dfTVZJS1BJWjNZLWs0RzFaaFNG?oc=5",
-   "date": "2026-11-12T06:50:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "aeb93b9be489",
-   "title": "¡Saluda al papa y se va! Senado autoriza viaje de Keiko Fujimori a China y ausencia genera críticas",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOTmVHLUpkRjVPSlBFQ21PZE5PSmdPbUZ3c2k5MnJqaXNPeFM2Mm9zak1VYloyYV9fdlMxLV9mUVJTWFNZcmVIVmowWVVfM3JpTDY2clkwTDRqZGc0cGJuSVZEZGdVQnZsSHJCTjFMLXRvUW1XWHlOX2k1WjBmVk5XRENaX2FpUWJCWXI0em5rNHIxVlZUWXk2bk5WVzNVUDNoU0ZRdV91M3NYeGhsbllmblJWWkZha2drNWRiQnRYU2xBY2JMYnZpeDkzYUtZY3ZDVU1vc2VqU19zSlJmcFoxWDBYX3AxLUJwOTNOeVRGX0cxVGFxOG5uTkZnWmJOTmJrOXFV0gGXAkFVX3lxTFAxOUxTOHlJSVEwQnJpWXNkRGFWNWZxaElTUklPaGU4QUNGZmFjaDQzOGpRS1JVOF91WTVWWDNueUxLR29TMjhiLVZBY1d1eTFDLWx0RUhPaFZwNzJOWmtUZ1ZITG8wZ1MwUnVVUEo4STNsTk5vMFNGNXgtanlUb3lBbVh5aFVyd3dGMFlUVEdXQmZzVzg5SDBMYmNHSVJNY25xLXBQMzhIbGtOWklHaFR1LUdNNG03TU1nV08xajJkY3FGQjFnVEllbFdsLXhmRE5zeUVoYWlFYlluS0s1WmVmSU5EMEtmZjJIczJ2M1Bfa055SHpZa3U2WnVKVmtFSk5fVkoxRTFHbnYyQkxYYzg5MVVUeUVqZw?oc=5",
-   "date": "2026-11-12T05:15:45+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
