@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T17:33:04.182869+00:00",
+ "generated_at": "2026-11-15T17:54:58.814646+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 3,
-  "posando": 57
+  "triste": 2,
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -608,6 +608,17 @@
    "next": null
   },
   {
+   "id": "4b1f1cf03dfb",
+   "title": "Carlos Espá defiende ausencia de Keiko Fujimori en despedida del Papa: “No hay que ser más papistas que el Papa”",
+   "excerpt": "",
+   "source": "https://hbanoticias.pe/",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNDFpOFJJb0FfSFZIOWhKNjZ0WGt6c1lzSy1UOW1LYzYtUllZV25NODl2a0xCTG9xQTZXeFY1YlJDZWxPVFFZTnhtRkhxMkFyb2lscmstRkxQdVVYSUdvbmo3dE84ZmppaHZWNnlCbE55bHJBU2dmenlZQjNRQXd4MHJaZGJmZUp0aWNWMjlXRU5URGVWWGRCS2h3VnBlUF9CLWt1Q2lvbU5BdFFzT2JzVGUwdTN3RGJnU2RweF9pZW1ZcktWczAxT1ZSLUUyZw?oc=5",
+   "date": "2026-11-13T23:39:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3bcaba6de0a8",
    "title": "Presidenta Keiko Fujimori participó en santa misa celebrada por el papa León XIV en las Pampas de Pimentel",
    "excerpt": "",
@@ -793,7 +804,7 @@
    "title": "Keiko Fujimori recibirá al papa León XIV a su llegada a Chiclayo",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmlzaWlfWXdtV2lJbVNoSUF0TmJBdTRKNWlyX2thV3FzVmxBVFZvS1k5dHpxcDQ2S2pKMVdYVnpydXBLNU84TWlCU3dUSWxuenljYmFEOFJFS1lRQ3NLNTd5TV9kbXpaRmhONHlvSGRDcWFMdDNwQk1ndkJqOVZUaGpwc3Jwd0RxY1ZVVFRWRG5TVnNDTEhSQWxoZUpFWThmb3dOSktseHFRYmx5Q3RTTkpWeF9HYzZMMlBnanlUVjVESmt1Qmd4cndQUdIBywFBVV95cUxORmlzaWlfWXdtV2lJbVNoSUF0TmJBdTRKNWlyX2thV3FzVmxBVFZvS1k5dHpxcDQ2S2pKMVdYVnpydXBLNU84TWlCU3dUSWxuenljYmFEOFJFS1lRQ3NLNTd5TV9kbXpaRmhONHlvSGRDcWFMdDNwQk1ndkJqOVZUaGpwc3Jwd0RxY1ZVVFRWRG5TVnNDTEhSQWxoZUpFWThmb3dOSktseHFRYmx5Q3RTTkpWeF9HYzZMMlBnanlUVjVESmt1Qmd4cndQUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONE1OdENPdmhNaEszQV94Y2ZlMUh0SFBYenFINVZuQk9BYUdiM0tJSFREYXFnWVdwRnJyaVdka0VfUENoRVFXR2ZvVEJlNnNyNlZkRXVlWUpLR1dtT1l6UUJBLV9mZUFzTkNwYy1nMlNpay15RzJYOEZkUVlDMUVoRWo2cnQ3TVBhRUhoUExsSThtdjVKMGpaanNMdlFhcUJNT3JRbEpTSGs4cGUtQ05WSE56cjlzdW_SAcsBQVVfeXFMTkZpc2lpX1l3bVdpSW1TaElBdE5iQXU0SjVpcl9rYVdxc1ZsQVRWb0tZOXR6cXA0NktqSjFXWFZ6cnVwSzVPOE1pQlN3VElsbnp5Y2JhRDhSRUtZUUNzSzU3eU1fZG16WkZoTjR5b0hkQ3FhTHQzcEJNZ3ZCajlWVGhqcHNycHdEcWNWVVRUVkRuU1ZzQ0xIUkFsaGVKRVk4Zm93TkpLbHhxUWJseUN0U05KVnhfR2M2TDJQZ2p5VFY1REprdUJneHJ3UFE?oc=5",
    "date": "2026-11-13T13:45:59+00:00",
    "state": "posando",
    "place": null,
@@ -989,17 +1000,6 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcURqUTVIMUpmS21uYWU3TXRPUGZ3LUZRdHBRSTM4UVJvaXk2MTJZbjYzaDhzSjJFTDNsU0thQzZLTXRnQTcxMGNwSTgtRzFtQXNxSVFoQ2RhWXNRTkhoX2d5TF9HdkFoM2l1djFzMlhjbmM2ZEZLMGJLSkYxYTNrT3FKVzl5QXpaSFE3bzRhbk9scTFZWlRYVmxQUWdMeGx3MzJwUFlTRmI2R3l5M09VQVk4MVlVTDFXYUN3?oc=5",
    "date": "2026-11-12T16:06:35+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4df14919ebdf",
-   "title": "Papa León XIV exige a Keiko Fujimori preocuparse por las personas con problemas de salud mental y discapacidad",
-   "excerpt": "El pontífice enfatizó la importancia de cuidar a quienes sufren enfermedades y destacó el sacrificio de las familias que brindan apoyo a sus seres queridos en situaciones críticas.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/11/papa-leon-xiv-exige-a-keiko-fujimori-preocuparse-por-las-personas-con-problemas-de-salud-mental-y-discapacidad-hnews-240108",
-   "date": "2026-11-12T16:03:43+00:00",
    "state": "triste",
    "place": null,
    "next": null
