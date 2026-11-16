@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T05:03:37.563394+00:00",
+ "generated_at": "2026-11-16T05:25:23.903882+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakw3Mml2WWl0MWlLQ1hkZ3FXMXhfTmhQZm5HQ1hnYUtsOFdpMHM2dWJQU0NMMjVsRVR4QnZZMW42OWMzU21rRXlMYVJNdThOaTNDY2F5WHFtbUJZVU1XYmlQWDhKNU1TVGp0VFJfUDBGWVFiQm9Fd3BjMjJsUi13NjF6aFhSUGNReHNXQkllNW9hT25GZHdsbi1Ta3BYNFFYbUxlOE1kMVdQWDd6RkNGR1RpVlZiczYwQVhPMXZBWHBxQkdF?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 1,
   "triste": 1,
-  "posando": 58
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -263,6 +263,17 @@
  "agenda_minutes_7d": 241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "52ecbd1a071e",
+   "title": "Papa defiende Amazonía y pueblos indígenas | Keiko viaja a Asia | En vivo Santiago Pedraglio",
+   "excerpt": "",
+   "source": "Epicentro TV",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NXQWxLb2JMOFAyamt3LVU2Y0xOMi1UbGk1T1M2UVp5Y0x5Qmg2OVVWb2VSZFJwbDhkUmlVNzZBNkdUQ00zdUZNZUlaU0RLdnNTMmN6YXFqTC1vMDg1dnNNT3JVV2R4bkRKWm0zLWZtWDM2RGNzR2NlbHByejRCamljTGNBWFllVC1oRHNfYUhScWtHdnBHQTMzcmVHa1B5WjVHYnFPUjNiTmc4V1dR?oc=5",
+   "date": "2026-11-16T05:02:55+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
   {
    "id": "d54df5e516e6",
    "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
@@ -1002,17 +1013,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "06c1a7c5f274",
-   "title": "PerúCheck: Falso, Perú no es el primer productor mundial de arándanos uvas y espárragos, como afirmó Keiko Fujimori.",
-   "excerpt": "PerúCheck: Falso, Perú no es el primer productor mundial de arándanos uvas y espárragos, como afirmó Keiko Fujimori.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/perucheck-falso-peru-no-es-el-primer-productor-mundial-de-arandanos-uvas-y-esparragos-como-afirmo-keiko-fujimori-noticia/",
-   "date": "2026-11-13T15:24:14+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
