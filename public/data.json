@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:07:15.936933+00:00",
+ "generated_at": "2026-11-16T18:28:22.168647+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Japón",
-   "abroad": true,
-   "city": "Japón"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "El Comercio",
-  "date": "2026-11-16T16:57:00+00:00"
+  "source": "La República",
+  "date": "2026-11-16T18:18:33+00:00"
  },
  "next": {
   "place": {
@@ -262,6 +264,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "66f103b28910",
+   "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
+   "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el jefe de gabinete, Enrique Vásquez, y luego el 13 de…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/16/keiko-fujimori-se-reunio-con-allan-dyer-hijo-del-ministro-de-salud-en-palacio-de-gobierno-hnews-356320",
+   "date": "2026-11-16T18:18:33+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "6bbbf0ec5986",
+   "title": "Carlos Espá: viaje de Keiko Fujimori a China y Japón impulsará comercio y apoyo ante El Niño",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2hpUHFrY0VZWWtpTW5EdTdpQUVERU56ZVN0dXlpMlRtQ0RkTDdELU5xSWxPVEZBcHc2VG5BbkVVNTVfRmVFV005TWpyb0RDS1czN29ZYWV2OTRGN2hoNUVVZFVPS1Ricl8xa0J5OGlfRE0zNko1aGt0NmtfUll3TjBuTFRNZ3VwYmdGRUNSUFJrQUR5RlMxMGtrWDYwQUhoZFhldTNIZHRaUjVYaTZXNEF2WTlPN2FxZFgxeHVPbUhkd2hVdkEtYVU3VDRDUdIB4gFBVV95cUxPeENYOHZ2M0ZtQjhkd1FaSGt1NWtyNTFYeGxONVQ4ZksxbDhvaEoxVTVVMVdiM3g2V2RrRjMzT0Nyb2txQnVZNkswZVQzMkZkLXNobXVKTVVXZFJRcjJsRVd1UW02RWJfcUEzRXZGS1FpQ1lLOGdMVFA2WVpVZlNHRElMUjByR0liQWNJNVFxSXQyV1ZZQmN4cFU3QkRfTElGbENybFBKakZjSkZLVE5SR2RhZzBNY04tcWxfbVAtbDlyN0wzTTdxYjczM2VNSGZzMTRuV1h6T1VRNF82eklXamZ3?oc=5",
+   "date": "2026-11-16T17:55:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "75c37d95eede",
    "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
    "excerpt": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
@@ -328,23 +358,6 @@
    "next": null
   },
   {
-   "id": "66f103b28910",
-   "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
-   "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el jefe de gabinete, Enrique Vásquez, y luego el 13 de…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/16/keiko-fujimori-se-reunio-con-allan-dyer-hijo-del-ministro-de-salud-en-palacio-de-gobierno-hnews-356320",
-   "date": "2026-11-16T15:03:49+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
    "id": "91f57d54e0d2",
    "title": "Keiko Fujimori viajará a China y no estará en la despedida del papa León XIV en Perú",
    "excerpt": "",
@@ -364,7 +377,7 @@
    "excerpt": "",
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWZoX3EyZHRCU0MxSEtxZ0dVbXhYancwWExRNUdMTVlSTlRXZUVlMHZFN2pTem5jckpLNUtha0VoSUlGZGwtQTZabDFWX0IyeTRfcklIbklSTE8tdFRFU29GME5ibkFEbUJPdWhUcGpMeTBZeFlRZEtzSXpyMXlvM0xtN0ZCUkVuLWZTM2xZR2ctekV1Tzl1VjVsMnBYU2h0U2Q40gGoAUFVX3lxTFBaUTdYYUJreC1oQ0RUelo4V2JpSFQzcHE0b3UzLThzQTZLeTRjdjFjVWN1a2hocWpFS2g4SFJXS2FHV1VRQ3NabDRrVk1XN1VFTmVnUVJNN3NidXNLdkxTOFphWEtoOEowRklMRVJld0szVTZ5djEwLWJLNDBmZUNFSjlQOVNpWlNHLUd0dE9HYXpBVHlzUkZNRlBsbzVzRnZvUmx2eFVGeg?oc=5",
-   "date": "2026-11-16T14:00:46+00:00",
+   "date": "2026-11-16T14:24:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1000,23 +1013,6 @@
     "lng": -77.043,
     "abroad": false,
     "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "b407452837dd",
-   "title": "Keiko Fujimori expresa su solidaridad con el ministro de Salud tras accidente de comitiva en Amazonas",
-   "excerpt": "El ministro de Salud, Luis Dyer, y los integrantes de su comitiva sufrieron un accidente de tránsito durante una jornada de supervisión en Amazonas. Keiko Fujimori expresó su solidaridad con…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-expresa-su-solidaridad-con-el-ministro-de-salud-tras-accidente-de-comitiva-en-amazonas-ultimas-noticia/",
-   "date": "2026-11-13T21:45:40+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Amazonas",
-    "lat": -6.231,
-    "lng": -77.869,
-    "abroad": false,
-    "city": "Amazonas"
    },
    "next": null
   }
