@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:28:22.168647+00:00",
+ "generated_at": "2026-11-16T18:49:41.595886+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-16T16:57:00+00:00",
-  "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
-  "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/"
+  "source": "Revista Caretas",
+  "date": "2026-11-16T18:00:12+00:00",
+  "title": "¿Quiénes despedirán al papa León XIV tras la ausencia de Keiko Fujimori por su viaje a China?",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlJrZG9DUm5neklYQ29MOGxiRldacTVHLWg5aUpSVVI0S2lpTTNxaTE2N0tWcXY5bGI1NFllcUhITm5ERElDX3ZTVFdLbnFtUmhCWk9WTTg0SWhHT2tfX2tBbVA3U3RrcFNHUW8zeUxKQl9yWGRsd2hTZWxTU0dsWDIzT3VWaVZ1VjhXYnhrZ0JSX1BGZ1hqMVBsWUZteFZJazFKbHIxYnp5SC1HeDBEZDZERk83X29VeGJDUg?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -279,6 +279,20 @@
     "abroad": false
    },
    "next": null
+  },
+  {
+   "id": "a937ba3e03c4",
+   "title": "¿Quiénes despedirán al papa León XIV tras la ausencia de Keiko Fujimori por su viaje a China?",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlJrZG9DUm5neklYQ29MOGxiRldacTVHLWg5aUpSVVI0S2lpTTNxaTE2N0tWcXY5bGI1NFllcUhITm5ERElDX3ZTVFdLbnFtUmhCWk9WTTg0SWhHT2tfX2tBbVA3U3RrcFNHUW8zeUxKQl9yWGRsd2hTZWxTU0dsWDIzT3VWaVZ1VjhXYnhrZ0JSX1BGZ1hqMVBsWUZteFZJazFKbHIxYnp5SC1HeDBEZDZERk83X29VeGJDUg?oc=5",
+   "date": "2026-11-16T18:00:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "6bbbf0ec5986",
@@ -752,7 +766,7 @@
    "title": "Ministros asumirán encargaturas por viaje de Keiko Fujimori a China",
    "excerpt": "El viaje de la presidenta Keiko Fujimori a China y Japón, previsto del 15 al 21 de noviembre, activará tres encargaturas temporales en el Ejecutivo.",
    "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-viajara-a-china-para-asistir-a-apec-ministros-asumiran-encargaturas-luis-galarreta-y-rafael-belaunde-noticia/",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX2IxaEg4YUdxeU82cFNNckZaVmhka0ZZRlFOZV9USVhJR3pNV2t6M3pFOEllLUg3TmJnOEdhZE8tbjhYdXF4dHRpQVlwQXpZeVRDLUNEdkVxSlhFYmxUaE5XOWd4OGdnenYtcUNWYmlmRGZFb3ZnU05VVjRFaEtYLW5SNkdPMGxqQkpzb092bWFjU0pvU3NRMk9UY1lpMjl0MG1wMkVGdGV3VU9XLTlsXzBTalBDSVd0NEtkTmlCZnl4NzNPbEpHWVRxM3h5NmtGOVVaTHU3b3Y5NGlTZTRic2Rpald3aEt2UDJxN2tn?oc=5",
    "date": "2026-11-14T18:28:00+00:00",
    "state": "posando",
    "place": null,
@@ -997,23 +1011,6 @@
    "date": "2026-11-13T21:55:15+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "662e3766656f",
-   "title": "Primera dama de Bolivia participó en reunión con Keiko Fujimori y el papa León XIV en Lima: le pidió visitar el país andino",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdi1yeVBRZnFEUkNpMTdJU2NscnB5WHpTSEJpZWc4Tl9JVldQNVFTMGlxWUFTVE55OW9ZOUJKNTQyOVNrcVVWdmU4WTd5Ykc4NmtuTDZhalUwQko0UHBYUXdZdVUzNUpLNHM0bjRoTkhTVmhzTTdua244Y29PTkVRSzRRUFlRcV8zRWxnNm83UXdLQzU0QlFxX0VXRVdNRnpsVzF4V0pHNDRhaWtfVFBXam5yejhsanJIcEFBc2NSS2kxOWd0ZnVNemMxTi1hQzE5OEluby1OYUVhOV9FUDkwT3lB?oc=5",
-   "date": "2026-11-13T21:52:05+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
    "next": null
   }
  ],
