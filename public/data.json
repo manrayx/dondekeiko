@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T00:45:42.611122+00:00",
+ "generated_at": "2026-11-16T01:49:42.214922+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-15T23:14:50+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-16T01:32:09+00:00"
  },
  "next": {
   "place": {
@@ -261,6 +261,38 @@
  "agenda_minutes_7d": 241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "c1d0ad0f65a7",
+   "title": "Keiko Fujimori viajó a China: ¿cuál será su agenda oficial en ese país y a Japón?",
+   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
+   "date": "2026-11-16T01:32:09+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "b68da92113d8",
+   "title": "César Acuña se reunió con Keiko Fujimori en Palacio de Gobierno",
+   "excerpt": "César Acuña, fundador de la Universidad César Vallejo (UCV) y exgobernador de La Libertad, se reunió en Palacio de Gobierno con la presidenta de la República, Keiko Fujimori.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/cesar-acuna-se-reunio-con-keiko-fujimori-en-palacio-de-gobierno-noticia/",
+   "date": "2026-11-16T01:30:12+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
   {
    "id": "75c37d95eede",
    "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
@@ -976,28 +1008,6 @@
    "source": "Ideele Radio",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOEZfV3JRNlN4OTUxRFhYNU5PR2ZaY1VtTmNiWjNwdHF2Q3hoYWd4RW5ldThDQkExRm14X0xRaUU4S1BiZWYwNHExT1J6TmczUl9Mbk03YzFPc1VXQWF0MkptRFJ0TjY3bW1udzR5dkRnelN5eGxveXpNXzBnTV95bi1xYzluNXNqTHBKTkFuZ0w0Qk5reFZYd1dEckZJS1ZrMzY3ZzV3Ym1yTHZKVXllUFR6TWJXc2ZhTmhSb0RWWW5iY0dyR3pzNnhrMHlPaDlKczBtek9aMGU3ZEtsZnItX3V6V25WMFNMMzB3TQ?oc=5",
    "date": "2026-11-13T12:46:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e1a39a8ffc4f",
-   "title": "Keiko Fujimori viaja el domingo 15 a China: Esta es la agenda que cumplirá en ese país y Japón",
-   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNCSk9PdVI5X0oyS25Za3h5X0RsNk92NGdHSThVbEI3WnpZVzc3OG14Q1d0bDljd3JLejg2eDUyTnM3YWtmNjhIMjNHSWJMVDNlUTY1S211dUh1SmMzVGY5RmoxaEZfelVNN2RRVVdsNmtDOTRxeVBEd2lfVUpXYlZzczFtNXRIbnNYMVEtMHRmbkhkY0pSWFR2VFdiMVJRU0xFQ19tZTV5b1c5SGxsZjlmMGgxTVVfV1dtd0dKVkVsZS1iVnB6WWVMVV9EOXo1MWJJSTVRb0VBNDNHWFFzedIB9AFBVV95cUxOZEZxR0FiZm9ZdHN4cFBaZ0pLNTlkUW1pMHlobUNLTmtaRHNWdTdJUmt1YjRRMElQTDZ2RHdtaDl5akdyVEtTdkxONDZpcGd3ZjVQeS02U0F6MG1BSUktakVTMXgxM2NOT043ZkloTHNSVGVvWkUza3ItVFVDUGVQNnJ1VTJhUlhnaFhKbUtvcDduVjBidG5EcDMtZDZRdUNfYjI3NXU2cVdmcVFvUWVFYmktdS1Zc0ZiVG44Y1BKNkJRcFQzTWlueXdfNWJqNlBJRUF3OUVUVE5Rbkp5YTZaeW8tY3FGbV83ZnhPaDJWUkVGck1m?oc=5",
-   "date": "2026-11-13T12:41:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "73499409bdb4",
-   "title": "Rubén Meza sobre el gobierno de Keiko Fujimori: creo que hay una situación de desilusión",
-   "excerpt": "",
-   "source": "Ideele Radio",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQclYtVF9Gb28wZzRCN282d1BBUE1ITzlCUWtXbndMOHY4d1FmSFoyREhFWkpWOFQ4R3RNcjluamNSRllrTFpOSUxlRFM1SGRzb0tTRDJLczhnRE04bnZKWnZOc0NDVHczTWY4YVI3Q2JGRHVYRkc1dkFMMnlOczBvM3JUSjVEWUZVNVZmbEQ4dDRxdTZQXzU5cU1OTzdvWlBnc0JRYWltVVdRREpUVElqZnBHU1FaZFlkSkpWLWJhT2t6djg?oc=5",
-   "date": "2026-11-13T10:04:04+00:00",
    "state": "posando",
    "place": null,
    "next": null
