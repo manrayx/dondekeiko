@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T13:27:15.842380+00:00",
+ "generated_at": "2026-11-16T14:10:31.079144+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "Japón"
   },
   "source": "El Comercio",
-  "date": "2026-11-16T13:00:14+00:00"
+  "date": "2026-11-16T13:56:51+00:00"
  },
  "next": {
   "place": {
@@ -109,9 +109,9 @@
    "abroad": true
   },
   "source": "El Comercio",
-  "date": "2026-11-16T13:00:14+00:00",
+  "date": "2026-11-16T13:56:51+00:00",
   "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
-  "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/"
+  "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -262,23 +262,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "6cd3e160bbfb",
-   "title": "Keiko Fujimori en APEC y Japón: quién es quién y la agenda del viaje que autorizó el Senado",
-   "excerpt": "",
-   "source": "Tu Diario Huánuco",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEp4QTdOYm8xVURDTXA0b2hZOW1tdHRsT0xrZTNoT3Jkd28zSkRGZ204eTdJT1ZjS1lNdXJkY0d4bWFfT3VDMDR3aklzaXVyQUhEWnNvSDhjRDhsMlhzemd5WWQ1NU1TN2M4Z2IxNG5tYlEyQ3NrdXB6c0NCSFJrUlBneVlaU1p3VTBuQjlKRU9Vb3hL?oc=5",
-   "date": "2026-11-16T13:08:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "a500170a8876",
    "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
    "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
    "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
-   "date": "2026-11-16T13:00:14+00:00",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/",
+   "date": "2026-11-16T13:56:51+00:00",
    "state": "posando",
    "place": {
     "name": "Japón",
@@ -289,6 +278,17 @@
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "6cd3e160bbfb",
+   "title": "Keiko Fujimori en APEC y Japón: quién es quién y la agenda del viaje que autorizó el Senado",
+   "excerpt": "",
+   "source": "Tu Diario Huánuco",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEp4QTdOYm8xVURDTXA0b2hZOW1tdHRsT0xrZTNoT3Jkd28zSkRGZ204eTdJT1ZjS1lNdXJkY0d4bWFfT3VDMDR3aklzaXVyQUhEWnNvSDhjRDhsMlhzemd5WWQ1NU1TN2M4Z2IxNG5tYlEyQ3NrdXB6c0NCSFJrUlBneVlaU1p3VTBuQjlKRU9Vb3hL?oc=5",
+   "date": "2026-11-16T13:08:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "82c8e463945f",
