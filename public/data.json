@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T15:15:25.682520+00:00",
+ "generated_at": "2026-11-16T15:36:47.924292+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-16T13:56:51+00:00",
-  "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
-  "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/"
+  "source": "La Decana Radio Juliaca",
+  "date": "2026-11-16T14:53:00+00:00",
+  "title": "Keiko Fujimori viajará a China y no estará en la despedida del papa León XIV en Perú",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLW0ySk53dTFUZFBRWFNTa2NpX0prQ2xscXU0N1AybklpNGYybHBqbF8xQzV3WlhfQ0NOa3JvRHR4bm9kMWRJLXhXYktPYjBCX19JNlUzYW1KbkRRcFRHdU5sOFhqQTR2LXhWaUx0dTJ6aW1KT2ZtQ092TjB4c0ZuNEZhMUc1QkI2QzZ4OEx6RWRGSGlkQlNUNml3MEFYX2FwX0NOS3NvTlJxQWRZNENwc1EzY1F6d1REaU5tM1dNeUtTQjVz?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -279,6 +279,20 @@
     "abroad": false
    },
    "next": null
+  },
+  {
+   "id": "91f57d54e0d2",
+   "title": "Keiko Fujimori viajará a China y no estará en la despedida del papa León XIV en Perú",
+   "excerpt": "",
+   "source": "La Decana Radio Juliaca",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLW0ySk53dTFUZFBRWFNTa2NpX0prQ2xscXU0N1AybklpNGYybHBqbF8xQzV3WlhfQ0NOa3JvRHR4bm9kMWRJLXhXYktPYjBCX19JNlUzYW1KbkRRcFRHdU5sOFhqQTR2LXhWaUx0dTJ6aW1KT2ZtQ092TjB4c0ZuNEZhMUc1QkI2QzZ4OEx6RWRGSGlkQlNUNml3MEFYX2FwX0NOS3NvTlJxQWRZNENwc1EzY1F6d1REaU5tM1dNeUtTQjVz?oc=5",
+   "date": "2026-11-16T14:53:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
   },
   {
    "id": "a500170a8876",
@@ -713,8 +727,8 @@
    "id": "05a544328da3",
    "title": "Encargan despacho presidencial a Luis Galarreta por viaje de Keiko Fujimori a China y Japón",
    "excerpt": "El Poder Ejecutivo encarga el despacho de la Presidencia de la República al primer vicepresidente, Luis Galarreta, desde el 15 de noviembre. Esta medida responde a la salida del país…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/actualidad/encargan-despacho-presidencial-a-luis-galarreta-por-viaje-de-keiko-fujimori-a-china-y-japon-ultimas-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcTBTYmZ3cEpuOVJoTDJ2RFNYRF9SWW1wUkFLNDdzbUc5ZzhmemZZVjdaSFZkcC1BaDFnNHhjYjhPWFJ5YmxUNWJBcGMxSW9FQlA5d1dERmxHM01zTU5VRlpjTzVGc3BvQkNaZjdJbmFaOWRfYkRKVVRNb2hPV1FfZTA4REZ2OE1SSVNpamIweVcwQ1hSMExvcWpIcTR0SUdzLUh0M29sbi1qNi1jVzluWDlEZUp6THQzRXpwSUZKdVFLWWs2bndkY1Vhb2IxWElkMkxLMnBkTGhnNk9QTkVaS1owVFrSAfgBQVVfeXFMTU9qa0RxRTBCWGFjd0UzYUI5bmdSOFBpajZEM3pWeVRfUklldGNRTDJtVURvVUZ5NEpsUUR0dGFNLVQ3aENxOXZraG05aVZ5aEdJQzN6VjJuWV9rTlZpQ2szeEF1aHhLemZnYnhfNnQ3NVA4MEZydDVhMkF3MEJyVm1TV1dDZldsQ2FjaXZDQnJVVlFPNngwaEJqYlNjdXlqbEw0NjFiZVpmRldUOEhLRkhzVUNvWkZyMDRKZ3dYTjdnQTcxZEphd3VLcWNUdGZzSjFXZnNIcXNsOUFrNjdLbWF4WkVfZV8wQWxvM2lPWF9xUHpycFJrTUE?oc=5",
    "date": "2026-11-14T15:25:11+00:00",
    "state": "posando",
    "place": null,
@@ -1009,20 +1023,6 @@
     "abroad": false
    },
    "next": null
-  },
-  {
-   "id": "f33e783a4a23",
-   "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
-   "excerpt": "César Landa, Eda Rivas, Manuel Rodríguez Cuadros y otros cuatro exfuncionarios cuestionaron que la mandataria salga del país el 15 de noviembre, antes de que termine la visita oficial del…",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOTduTXJITS0zRmRmVTFFVFFsZ3ZJX3o3RktxdE1nRER0NjYzVGh0SHNIWWNhcWRKb1dlWGM0Q1FSWlVHdmFtZWZXcHctaGlxZzNJTjhkSXpGaVB0SkQxUVRIbURhd0doN3dqMG5yek45bjVQR1FuNGJFc3V2dUVqcG9WbFZXNWc4cGJLb3JaTWF3SUQwVEt3YXFsOHd4NkZidmNlclZ0RERIWmZGMkdVV1BBVFVXYWprRXprZFhfUHh0SDlrTTNVOUFXWWJfYnU3NnZjS3RBRnF3S0xlX2pRNnluT2ZvQnhBTVc4a1I4ZXE4MHE3LWdlQjN6S1NuYS13VzRF0gGIAkFVX3lxTE5NcHVaZWhNYUtqc0dVLXFJMVRxSmNSRWZfX3pqTnFzNWhMU2VJUVhCVFBjLUFmeWNFcy13bk8xejl3UTVLdGlyZDBDanFURndjT1BGdUp6R0hTUWhBY055WHVmVmFPcWxpVkIzQWw1LVA2OFV4eVV3NHJWaFlGdjlBNnRKemFRbVp2ZGhROHJtRlRvUHBTLS0wWjN3YnQ4NzdDQXQ3REtRZUxqSENKSVNoSHgwUFp4N2pTN05FZXdwSTZ5NVk0UncwV2ptZzdQRzlxWXVYdG12OVNtVkh3end0TjFMbi1JZ2ZzVnZmXzY0dS1abEN2X0FiU3B5S283dlNPMjlDQjVvYQ?oc=5",
-   "date": "2026-11-13T20:14:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
