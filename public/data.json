@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T15:36:47.924292+00:00",
+ "generated_at": "2026-11-16T15:57:55.243831+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -264,6 +264,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "967e15ea7604",
+   "title": "Viaje de Keiko Fujimori a China y Japón: esta es la agenda oficial y las trascendentales reuniones que sostendrá en APEC",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPakpRMHZTb1VqX3ZjLTNsS25CR0ZVUHo1SFczZnA4Rzg0dlRTdDdVUkVFUTJwNmtrX0pzZWZBVnNucU40aWRvbXB2N0NZWGRnQ0ZCUEtYZW1adDlDNmJscDBpNXpQWlpDVE85blFXNVJKdjE1ZDR2cVE3YVRsTXl5ZXZNeWgyb2dWLVRvY3g5dHladWk1ZUE2VWU3bVd5ZEIxREw1Tkl3Z0Z2TnZiYUZtb2tsM1JTY3BGMjBTVk84YjNvR0l0ank2VU9CWFh0dFdOamV3aFpEcEowT3JjeFZJaFF1MTdEMmxzZnRmcUptNlVwd01QMEhkdktyX0p0Zmg3emxLQ1I2RUJCN2tvSDJDUkNfdndPYXpOZ0FsNkNZWmd2UUE3a0NBZmhNUlpQNmZRYTNVYlhmOGlka0p6bWc?oc=5",
+   "date": "2026-11-16T15:40:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1cc7c3cd45c8",
+   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+   "date": "2026-11-16T15:40:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "75c37d95eede",
+   "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/ahora-si-la-china-una-cronica-de-fernando-vivas-sobre-el-viaje-de-keiko-fujimori-apuesplan-noticia/",
+   "date": "2026-11-16T15:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "66f103b28910",
    "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
    "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el jefe de gabinete, Enrique Vásquez, y luego el 13 de…",
@@ -339,39 +372,6 @@
    "next": null
   },
   {
-   "id": "1cc7c3cd45c8",
-   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-   "date": "2026-11-16T12:03:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "75c37d95eede",
-   "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
-   "excerpt": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/ahora-si-la-china-una-cronica-de-fernando-vivas-sobre-el-viaje-de-keiko-fujimori-apuesplan-noticia/",
-   "date": "2026-11-16T11:58:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4ecbeecb106f",
-   "title": "Canciller: viaje de presidenta Fujimori promoverá el comercio y cooperación ante El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTDZSa0pGOEFSbVpraWYzMWwzdXZUd3V0cVBPcHo5bWxxVEltbVlScTFvNU00b2EtN0Z1SVExcmEyTzZEam51M0M3TlFrRHdUd3F4M0t4clo2bzhmY1gwRlRLYlJHeVJ1VXAweVotamZsRGNqUDd3Q3FnaUg3WjNRd3hLZU9BMEgxZ2Z5ZURYLUNrRkcwaUUtbUJqcS0tYkM5SG9vXzRpcktnbzBub0pwRTlBbUE2XzMxVXJfWHFqbnhVOEU?oc=5",
-   "date": "2026-11-16T09:53:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "1be4d20373ca",
    "title": "La presidenta Keiko Fujimori en su discurso al Papa: “Que la reconciliación sea el regalo que su visita deje al Perú”",
    "excerpt": "",
@@ -389,6 +389,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
    "date": "2026-11-16T03:52:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4ecbeecb106f",
+   "title": "Canciller: viaje de presidenta Fujimori promoverá el comercio y cooperación ante El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTDZSa0pGOEFSbVpraWYzMWwzdXZUd3V0cVBPcHo5bWxxVEltbVlScTFvNU00b2EtN0Z1SVExcmEyTzZEam51M0M3TlFrRHdUd3F4M0t4clo2bzhmY1gwRlRLYlJHeVJ1VXAweVotamZsRGNqUDd3Q3FnaUg3WjNRd3hLZU9BMEgxZ2Z5ZURYLUNrRkcwaUUtbUJqcS0tYkM5SG9vXzRpcktnbzBub0pwRTlBbUE2XzMxVXJfWHFqbnhVOEU?oc=5",
+   "date": "2026-11-16T03:51:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -431,6 +442,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
    "date": "2026-11-16T01:57:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "abf57666f7af",
+   "title": "Presidenta Fujimori llevará posibilidades de comercio e inversión a China y Japón",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1pNMFJMWXgxc2pLbGQ2aXR2cVZkSnNfeGpVNldCUGZXV3prbzdsYTZvYW1FX3B6ZG5LbmVvcUhabEpRQm5ZZktUNE9sSWllNHBsOGJibHI0TWpnNXd6ZFFEZjIzRnphb0twaVFDM29GM2c0WE5TZ0hGSmg2Mk5kQ0h2QTJsem41eWxNY2lsR21QRmhVUTBEenlBajk2SEI4eFpJeXRxNVN6QUNJMGI3eXoyMEw4ZHoy?oc=5",
+   "date": "2026-11-16T00:43:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -594,6 +616,21 @@
    "date": "2026-11-15T14:51:14+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "54bc61c484aa",
+   "title": "Keiko Fujimori recibió a ganador del Nobel de la Paz en Palacio: ¿quién es Abdessattar Ben Moussa?",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPS0hjTW5qS0t5U2djZTg2TUVGU0xUb2NROGZDYUJlWFFzR211TlNwLXpjLUdMMnNVNzVwZGlZLVlfVE1fTmpuOWJWUzAzaUdKa3ZPbm5EakdIMk9LZnU4N1RBQWh0bzh6dXk1M3ZMWllOY25ZRDY1UDlnRWszSTdpUTdKdXhqUlBtR09SLW4xRWdmLVpCTlBOeXdROHFWWnZTcno1aTdxM3M3ZmttUEhjcWgtZlQ3UU92akdOUHZlT1JqSWFHWU5jblRaY0lZa2dXYmgyejdZS3FOMjFXalFJLWxpSmU0WFI2RU84MGstVVRpX0k3MzA4TGlHLUZhV1NtYlhTX3NjYm9ISWdiTEpsN2dveGJfSlhDb1dVQTl2ZXRZTzgzN0wxbUlWcw?oc=5",
+   "date": "2026-11-15T12:51:55+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "La Paz",
+    "abroad": true
+   },
    "next": null
   },
   {
@@ -979,49 +1016,6 @@
    "date": "2026-11-13T20:47:30+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "b89f7fc4e47a",
-   "title": "Autorizan delegación del Despacho Presidencial que acompañará a Keiko Fujimori a Japón y China",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaV9pNGtEdjdGS1A0d19aRXJWQldObG05ekp6YTRDUzJHS2ZETjNrWjRZempSU1BYM2FHM3FEbHItckFzUDVIM3R5c09rRGJzcVFCWHcyOG1pNXJDelQ5SU53d0J5bnNiRzduQXBUTUZrUnZ5NXRoc1hBck5NWWZkUHB4LU1wSmozcjZTMGhQZDU0T0NMc05XT0VLSHBWbGQ2ZHF6RDVoVWxCLTVQSk1feGZpVDVUaW5qdGlzYk83UXRrUmQ5c2xF?oc=5",
-   "date": "2026-11-13T20:38:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7ef123240d32",
-   "title": "Video muestra insultos contra Keiko Fujimori en Perú, no contra Abelardo de la Espriella en Colombia",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHlZU0I5YTVhaVRWMlRLcWlQQjhaX2pSLWVkLXI5blN6RUhzUy15VDV4d3JyaFkyZEd2elkyR3I1dEtveGhMTF96Vk5GbHMyTW00UVpWRzZJa0tETWR0SFpiN244YkhOem8teVp3VWtZUlFSc19WU0NBTDJIQ1R1SmZQc3pfSXlPbzBTQlJR?oc=5",
-   "date": "2026-11-13T20:35:24+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Colombia",
-    "abroad": true,
-    "city": "Colombia"
-   },
-   "next": null
-  },
-  {
-   "id": "80c6afae5fda",
-   "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
-   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSTFFdjRWUW5WWWFBUUc0YUg4a1l6MThqSElyZ3NGWEQ5TEV1dFZNNTI1dVMxWFVhUUhLTDJ6WWg1VlBGN1pCMFQtWFh4VzVhclkxaFBGaFVGbm5HNlNXalF6UlNjSU9YU3Z2UG91M3paeWpsZXQySTZ3Y1lTTnJLZ2hfZm9xWUMyVGlxOGFKcHRBdjh5V2RBaTN2ZGVLVWY3RF8xdjVMZ0dVcHRtOVZBLUVVV1hHV29vNThQU2J5OXNyMFNycEVyUG5lV1ZzS256NkRhZHFsb21OWjBTN3JwaHhuV0dnVlFfWFZCRHdISDEwTlhuUE1iSzQ4eVdKc2ZRUy1RNXBJUDd0SnI3WDItZTdoWkRYUdIBqgJBVV95cUxNWnFpZjRMakdPREltTThvaDE1RnBLckstMTREell6Y2M1cVg0U01Ic1dacDN3WlVIUm1qV2h2d3R5N2QybWllTlc2U0tlR1pidURSUDc0a1lGZnZxY2xTMXNhdENmWmZlNXljRlpRR0dabFdqNWxzU3U2SDg4N2RQZVo4Y3Yzb2x1SkZpY2l6VjVOUEx5NS1fdDVxSjdzUlNIc1dVZGE0LXJ0T1lQcGo0cUJKVzZNY3BrNk81dE9hZ2Z4SVlGSmpDVDFJTnQyMG1VZmRUTDFnS3AtaWxPTUhBdDhaMkV4eHU0aTdJQW9CVTcyMTg3WS1FT3VvWkdWWk1QZU43YTZGU2hXeVRIU2VRNm53a3MtMkhQczJta0Jscl8tNVc3VmtvY2JR?oc=5",
-   "date": "2026-11-13T20:21:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
