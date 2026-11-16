@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:41:50.089529+00:00",
+ "generated_at": "2026-11-16T22:03:10.431342+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -295,6 +295,17 @@
  "agenda_minutes_7d": 348,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "bd782fc989ce",
+   "title": "Keiko Fujimori se reúne con el presidente de China, Xi Jinping, este martes en Shenzhen",
+   "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-presidente-de-china-xi-jinping-en-shenzhen-apuesplan-noticia/",
+   "date": "2026-11-16T21:46:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "8c3d4c6ccd1f",
    "title": "Arminta advierte alza de precios y pide resultados al Gobierno de Keiko Fujimori",
@@ -1033,17 +1044,6 @@
    "source": "https://hbanoticias.pe/",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNDFpOFJJb0FfSFZIOWhKNjZ0WGt6c1lzSy1UOW1LYzYtUllZV25NODl2a0xCTG9xQTZXeFY1YlJDZWxPVFFZTnhtRkhxMkFyb2lscmstRkxQdVVYSUdvbmo3dE84ZmppaHZWNnlCbE55bHJBU2dmenlZQjNRQXd4MHJaZGJmZUp0aWNWMjlXRU5URGVWWGRCS2h3VnBlUF9CLWt1Q2lvbU5BdFFzT2JzVGUwdTN3RGJnU2RweF9pZW1ZcktWczAxT1ZSLUUyZw?oc=5",
    "date": "2026-11-13T23:39:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3bcaba6de0a8",
-   "title": "Presidenta Keiko Fujimori participó en santa misa celebrada por el papa León XIV en las Pampas de Pimentel",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdHhTV3J4R0Q3MERoWTcyVVR2WjVwbXpuRGNmdVRrMXFucm9GSTNpLTU5R1FXWEkySEstUVdnQmg4aTRCVGxiYXFORGhKRnpFcHcwcVN6a1RTSFZtQkl4SzkwRU8xMVUtT2xwNktNOWJrX3FLZnpzQ0IzTExYSGxvSlUyUUc3WlBocGxLZm9ueDkxTVBTYmdmRjlKWm1GRElJLVctQjRDTlVBWFhENzZYdDU2MEhjb2tzWC1Kb2VxTmdFakswRFRTbDFYXzhKXzFGcUtZQXlB?oc=5",
-   "date": "2026-11-13T23:09:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
