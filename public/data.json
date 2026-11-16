@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T11:18:05.741874+00:00",
+ "generated_at": "2026-11-16T11:39:31.982552+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "China",
+   "abroad": true,
+   "city": "China"
   },
-  "source": "Gestión",
-  "date": "2026-11-16T03:15:00+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-16T03:17:13+00:00"
  },
  "next": {
   "place": {
@@ -294,6 +292,21 @@
    "date": "2026-11-16T03:52:00+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "5703103eacda",
+   "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGNGc1hyS3hjVkZDVHJiSHRYeTZpcU9RRmhjOUo1aC1JQThtcDY3SGRGaWNfTFFhZDNYUTR3cTZkaWt1QkVmY0YtVC1Od0pQTkt2dDh1V0xHcHNiMHpnTHB5SVBKZGk3UHlzVXhuWFE2d1A5OE9URlo2ajRCMEVlTUxUdnZWaUJoVTZHSHY1QzBRRE5uQW5qTDBxU0dMV2p1VFNvNmFQUVJOU2RZQ3AyandxakR3RjBh?oc=5",
+   "date": "2026-11-16T03:17:13+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -555,21 +568,6 @@
     "name": "Palacio de Gobierno",
     "city": "La Paz",
     "abroad": true
-   },
-   "next": null
-  },
-  {
-   "id": "5703103eacda",
-   "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGNGc1hyS3hjVkZDVHJiSHRYeTZpcU9RRmhjOUo1aC1JQThtcDY3SGRGaWNfTFFhZDNYUTR3cTZkaWt1QkVmY0YtVC1Od0pQTkt2dDh1V0xHcHNiMHpnTHB5SVBKZGk3UHlzVXhuWFE2d1A5OE9URlo2ajRCMEVlTUxUdnZWaUJoVTZHSHY1QzBRRE5uQW5qTDBxU0dMV2p1VFNvNmFQUVJOU2RZQ3AyandxakR3RjBh?oc=5",
-   "date": "2026-11-15T00:24:07+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
    },
    "next": null
   },
