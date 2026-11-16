@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T14:53:44.073974+00:00",
+ "generated_at": "2026-11-16T15:15:25.682520+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Japón",
-   "abroad": true,
-   "city": "Japón"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "El Comercio",
-  "date": "2026-11-16T13:56:51+00:00"
+  "source": "La República",
+  "date": "2026-11-16T15:03:49+00:00"
  },
  "next": {
   "place": {
@@ -261,6 +263,23 @@
  "agenda_minutes_7d": 241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "66f103b28910",
+   "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
+   "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el jefe de gabinete, Enrique Vásquez, y luego el 13 de…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/16/keiko-fujimori-se-reunio-con-allan-dyer-hijo-del-ministro-de-salud-en-palacio-de-gobierno-hnews-356320",
+   "date": "2026-11-16T15:03:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
   {
    "id": "a500170a8876",
    "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
@@ -1004,17 +1023,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "c2075ce9a109",
-   "title": "Keiko Fujimori participó en misa del papa León XIV en Pimentel: pontífice rompió el protocolo para saludarla",
-   "excerpt": "La mandataria asistió a la celebración eucarística en las Pampas de Pimentel, donde participaron 15 imágenes religiosas de distintas regiones del país, en una de las actividades centrales de la…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM1JBa2ZtRXU3OWh0Um5xXzZpbXFNZ0laendMZk5Ncl85N0lDMU1WMmNfQk1zSnlLd2UxV2pQS1hpTmx1RUtYcGp6RVFFU0h4SThSd0tod0RMcTBVQTh4djBKbVJzMGlHQVVSVDdfdzRLRWVGVXdOOEkyZWRNeXlaX0p4Q1BQZEZOeWlzRHYyakpmWXRpcldlVHptZ0NwT203NFJxekNqYW91Ul94el9BN3NsZ3pNd3VHVVVBbkFHX3VILVV4VlRFaDFKNlV6eEJ3WUQyYkNpSEVIM0duUnBxMHVn0gH8AUFVX3lxTE1XMHZJLU5hQWhySUdpWDhfR3lXS0FKcGJ3d0x6LWg1TkNFZHZsX2FCSVo4VmZTQ0ItdjMtSExHaV9rcGNqd0ZfSlFBaEJEUWVWb3o3dXAzblM0Y3JuNDhsLXg1bklPLXYwRF9Ud1dYUnR5Y2x5QTVjUVVCT3I3a1BKak4tZDFZQVJkTVdnSjhreVZsMzJkRmktY3B2V2lwV1dGUlpZTkJaZ0dxSG9iWDN2RXFva09zSEFTbTNpWWs2N0VXbXdJRHI1R1dpcEMxU2xpbk5JVlpINnBkR0FBeGNxak1QMDZNak5RVXJmTmVmQUc2OGQzSkdnWEtoUQ?oc=5",
-   "date": "2026-11-13T20:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
