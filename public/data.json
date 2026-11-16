@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:33:01.500141+00:00",
+ "generated_at": "2026-11-16T19:55:13.012847+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,7 +111,7 @@
    "abroad": true
   },
   "source": "La República",
-  "date": "2026-11-16T19:21:45+00:00",
+  "date": "2026-11-16T19:51:54+00:00",
   "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
   "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776"
  },
@@ -285,7 +285,7 @@
    "excerpt": "La presidenta viajó el domingo 15 a la APEC y llegará a Shenzhen horas después de que el pontífice deje Lima. El 11 de noviembre lo había recibido en la…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776",
-   "date": "2026-11-16T19:21:45+00:00",
+   "date": "2026-11-16T19:51:54+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -792,17 +792,6 @@
    "next": null
   },
   {
-   "id": "c3ea84f4a950",
-   "title": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
-   "excerpt": "Al terminar la misa en Pimentel, el pontífice tomó la iniciativa y se acercó a saludar a la presidenta peruana. Ella lo describió como uno de los momentos más memorables…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFMySkk1SEtnd20wUzExT1RNM0oyYm9xTXVReFVSdzM3bFNjanBrSFFLc0QzMEtLbjY5ZmVJZWZRa2hxZVZsTnNaOEpDakl6X0I2QkRNYjVJSVlEWU5neFQxUDZnX2lVMzRQMUpFVGdhODZZX1BpUHJSYzdDb0IwMU53SDNyVENrUlQ2ZXgyYnJGVlFkRmhmOGV5bkZVYm9Id3g1SDU1QVJ5OXRqLVFIdtIBywFBVV95cUxQLTY0ZWNxd1RpMUptaloxYmZmaFNvamZXQ3ZFSV85akR5SjJoMFpVY3FEc20xNEpWUGk1am5jb0FwQkFtMUFOQU0zODBiWHMxcnZ5N3dnaGpub0hlb0k1cUdILUtycDhBOExMOWlqZUcwTFlPN1Rjd3R5UlplNnJFc2tKcHZGY1p6YWFBYnBFSVhiWFhwdWNxOE9TcWtVUDkteFBLbnE2NWQxMlFmWHR0LTFISFNHdGZPQU8wclY1Z1doaTFCQWo1Tl9TRQ?oc=5",
-   "date": "2026-11-14T17:41:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "bd1791f1823b",
    "title": "Keiko Fujimori se solidariza con ministro Luis Dyer tras accidente de tránsito en Amazonas: \"Sigo pendiente de su recuperación\"",
    "excerpt": "",
@@ -898,6 +887,17 @@
    "source": "Resumen Latinoamericano -",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSl9rMjE2RGpNbFJ3ZnhUWDc5UkRGRy05cllkNjAwX1FzdExoTzhiOW1hSndSMjRjVU1WdDYtM1lHRHVjVTFmS3lpNEdoMVBzc0Ffc1l2cU5HX2RfQUx2Z1YyelEzQkxTS0d3UEJvbWluOTFUVEZ6ODE4aTBKcTc4T3VibFBtU2t1VVRhWmdzZS1Nclk1ak9yczJZWVd5cThRbmNQejhNYlFFOEhWTjFBNVMybncwMkpEMkJ0ZmVPX0hZTS03WjFlZTBXRUw4N1k?oc=5",
    "date": "2026-11-14T10:57:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c3ea84f4a950",
+   "title": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
+   "excerpt": "Al terminar la misa en Pimentel, el pontífice tomó la iniciativa y se acercó a saludar a la presidenta peruana. Ella lo describió como uno de los momentos más memorables…",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFMySkk1SEtnd20wUzExT1RNM0oyYm9xTXVReFVSdzM3bFNjanBrSFFLc0QzMEtLbjY5ZmVJZWZRa2hxZVZsTnNaOEpDakl6X0I2QkRNYjVJSVlEWU5neFQxUDZnX2lVMzRQMUpFVGdhODZZX1BpUHJSYzdDb0IwMU53SDNyVENrUlQ2ZXgyYnJGVlFkRmhmOGV5bkZVYm9Id3g1SDU1QVJ5OXRqLVFIdtIBywFBVV95cUxQLTY0ZWNxd1RpMUptaloxYmZmaFNvamZXQ3ZFSV85akR5SjJoMFpVY3FEc20xNEpWUGk1am5jb0FwQkFtMUFOQU0zODBiWHMxcnZ5N3dnaGpub0hlb0k1cUdILUtycDhBOExMOWlqZUcwTFlPN1Rjd3R5UlplNnJFc2tKcHZGY1p6YWFBYnBFSVhiWFhwdWNxOE9TcWtVUDkteFBLbnE2NWQxMlFmWHR0LTFISFNHdGZPQU8wclY1Z1doaTFCQWo1Tl9TRQ?oc=5",
+   "date": "2026-11-14T08:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
