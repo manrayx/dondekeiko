@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T04:42:31.745333+00:00",
+ "generated_at": "2026-11-16T05:03:37.563394+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
    "date": "2026-11-16T03:52:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4ecbeecb106f",
+   "title": "Canciller: viaje de presidenta Fujimori promoverá el comercio y cooperación ante El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTDZSa0pGOEFSbVpraWYzMWwzdXZUd3V0cVBPcHo5bWxxVEltbVlScTFvNU00b2EtN0Z1SVExcmEyTzZEam51M0M3TlFrRHdUd3F4M0t4clo2bzhmY1gwRlRLYlJHeVJ1VXAweVotamZsRGNqUDd3Q3FnaUg3WjNRd3hLZU9BMEgxZ2Z5ZURYLUNrRkcwaUUtbUJqcS0tYkM5SG9vXzRpcktnbzBub0pwRTlBbUE2XzMxVXJfWHFqbnhVOEU?oc=5",
+   "date": "2026-11-16T03:51:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1000,17 +1011,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/perucheck-falso-peru-no-es-el-primer-productor-mundial-de-arandanos-uvas-y-esparragos-como-afirmo-keiko-fujimori-noticia/",
    "date": "2026-11-13T15:24:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8ce3c5dc597d",
-   "title": "Keiko Fujimori recibirá al papa León XIV a su llegada a Chiclayo",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmlzaWlfWXdtV2lJbVNoSUF0TmJBdTRKNWlyX2thV3FzVmxBVFZvS1k5dHpxcDQ2S2pKMVdYVnpydXBLNU84TWlCU3dUSWxuenljYmFEOFJFS1lRQ3NLNTd5TV9kbXpaRmhONHlvSGRDcWFMdDNwQk1ndkJqOVZUaGpwc3Jwd0RxY1ZVVFRWRG5TVnNDTEhSQWxoZUpFWThmb3dOSktseHFRYmx5Q3RTTkpWeF9HYzZMMlBnanlUVjVESmt1Qmd4cndQUdIBywFBVV95cUxORmlzaWlfWXdtV2lJbVNoSUF0TmJBdTRKNWlyX2thV3FzVmxBVFZvS1k5dHpxcDQ2S2pKMVdYVnpydXBLNU84TWlCU3dUSWxuenljYmFEOFJFS1lRQ3NLNTd5TV9kbXpaRmhONHlvSGRDcWFMdDNwQk1ndkJqOVZUaGpwc3Jwd0RxY1ZVVFRWRG5TVnNDTEhSQWxoZUpFWThmb3dOSktseHFRYmx5Q3RTTkpWeF9HYzZMMlBnanlUVjVESmt1Qmd4cndQUQ?oc=5",
-   "date": "2026-11-13T13:45:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
