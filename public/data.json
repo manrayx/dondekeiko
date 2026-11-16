@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T02:32:51.094815+00:00",
+ "generated_at": "2026-11-16T03:37:56.388652+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "AP Noticias",
-  "date": "2026-11-16T02:08:07+00:00"
+  "source": "Gestión",
+  "date": "2026-11-16T03:15:00+00:00"
  },
  "next": {
   "place": {
@@ -262,6 +264,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b68da92113d8",
+   "title": "César Acuña se reunió con Keiko Fujimori en Palacio de Gobierno",
+   "excerpt": "César Acuña, fundador de la Universidad César Vallejo (UCV) y exgobernador de La Libertad, se reunió en Palacio de Gobierno con la presidenta de la República, Keiko Fujimori.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/cesar-acuna-se-reunio-con-keiko-fujimori-en-palacio-de-gobierno-noticia/",
+   "date": "2026-11-16T03:15:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "877555aa41cf",
    "title": "Keiko Fujimori viajó a China para participar en la APEC: se reunirá con Xi Jinping y la primera ministra de Japón",
    "excerpt": "",
@@ -324,23 +343,6 @@
     "name": "China",
     "abroad": true,
     "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "b68da92113d8",
-   "title": "César Acuña se reunió con Keiko Fujimori en Palacio de Gobierno",
-   "excerpt": "César Acuña, fundador de la Universidad César Vallejo (UCV) y exgobernador de La Libertad, se reunió en Palacio de Gobierno con la presidenta de la República, Keiko Fujimori.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/cesar-acuna-se-reunio-con-keiko-fujimori-en-palacio-de-gobierno-noticia/",
-   "date": "2026-11-16T01:30:12+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
    },
    "next": null
   },
