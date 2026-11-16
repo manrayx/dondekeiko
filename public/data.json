@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T02:10:49.154005+00:00",
+ "generated_at": "2026-11-16T02:32:51.094815+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-16T01:32:09+00:00"
+  "source": "AP Noticias",
+  "date": "2026-11-16T02:08:07+00:00"
  },
  "next": {
   "place": {
@@ -262,6 +262,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "877555aa41cf",
+   "title": "Keiko Fujimori viajó a China para participar en la APEC: se reunirá con Xi Jinping y la primera ministra de Japón",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYktSbUs2V0dUclE4LUVqenhabUJiQ0NpMVhxekdqUHlhcmx2ZWpDUHRfU2VHRTBRRDFPMXpsNlM3bXRGbUxFbV8zUVBxenZSY1FabS1Hd28wQkFrSzRRc0NCc0RLa1ZZS2pscUlBZVRRZUtCaWx2Y2wwUTNENG10dGxlcWU1LUtkbU5fTWdMOGtrcEdrcmtmaS00VHRBb2tuLVBoTHRTU3d6aWZGSVpzZkhsUzNCQnVPeGd3eXNGRW54SXNDWWRfRGZXRmZ4ZXVqVVgxTHVzd1A4cmRZVHlN?oc=5",
+   "date": "2026-11-16T02:08:07+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "bad8054c6fd0",
    "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones y actividades de su agenda oficial",
    "excerpt": "",
@@ -349,21 +364,6 @@
    "date": "2026-11-15T23:42:56+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "5703103eacda",
-   "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGNGc1hyS3hjVkZDVHJiSHRYeTZpcU9RRmhjOUo1aC1JQThtcDY3SGRGaWNfTFFhZDNYUTR3cTZkaWt1QkVmY0YtVC1Od0pQTkt2dDh1V0xHcHNiMHpnTHB5SVBKZGk3UHlzVXhuWFE2d1A5OE9URlo2ajRCMEVlTUxUdnZWaUJoVTZHSHY1QzBRRE5uQW5qTDBxU0dMV2p1VFNvNmFQUVJOU2RZQ3AyandxakR3RjBh?oc=5",
-   "date": "2026-11-15T23:14:50+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -520,6 +520,21 @@
     "name": "Palacio de Gobierno",
     "city": "La Paz",
     "abroad": true
+   },
+   "next": null
+  },
+  {
+   "id": "5703103eacda",
+   "title": "Conoce la agenda oficial que cumplirá la presidenta Keiko Fujimori en China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGNGc1hyS3hjVkZDVHJiSHRYeTZpcU9RRmhjOUo1aC1JQThtcDY3SGRGaWNfTFFhZDNYUTR3cTZkaWt1QkVmY0YtVC1Od0pQTkt2dDh1V0xHcHNiMHpnTHB5SVBKZGk3UHlzVXhuWFE2d1A5OE9URlo2ajRCMEVlTUxUdnZWaUJoVTZHSHY1QzBRRE5uQW5qTDBxU0dMV2p1VFNvNmFQUVJOU2RZQ3AyandxakR3RjBh?oc=5",
+   "date": "2026-11-15T00:24:07+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
    },
    "next": null
   },
@@ -704,23 +719,6 @@
    "next": null
   },
   {
-   "id": "80c6afae5fda",
-   "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
-   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-papa-leon-xiv-de-que-conversaron-en-palacio-de-gobierno-apuesplany-por-que-invitaron-a-boluarte-y-otros-expresidentes-apuesplan-noticia/",
-   "date": "2026-11-14T02:21:45+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
    "id": "e8bfbe5f9c0e",
    "title": "Presidenta Fujimori: el mensaje del Papa León XIV nos inspira a construir un país más unido y solidario",
    "excerpt": "",
@@ -885,6 +883,23 @@
    "next": null
   },
   {
+   "id": "80c6afae5fda",
+   "title": "¿De qué conversaron Keiko Fujimori y el papa León XIV en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
+   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSTFFdjRWUW5WWWFBUUc0YUg4a1l6MThqSElyZ3NGWEQ5TEV1dFZNNTI1dVMxWFVhUUhLTDJ6WWg1VlBGN1pCMFQtWFh4VzVhclkxaFBGaFVGbm5HNlNXalF6UlNjSU9YU3Z2UG91M3paeWpsZXQySTZ3Y1lTTnJLZ2hfZm9xWUMyVGlxOGFKcHRBdjh5V2RBaTN2ZGVLVWY3RF8xdjVMZ0dVcHRtOVZBLUVVV1hHV29vNThQU2J5OXNyMFNycEVyUG5lV1ZzS256NkRhZHFsb21OWjBTN3JwaHhuV0dnVlFfWFZCRHdISDEwTlhuUE1iSzQ4eVdKc2ZRUy1RNXBJUDd0SnI3WDItZTdoWkRYUdIBqgJBVV95cUxNWnFpZjRMakdPREltTThvaDE1RnBLckstMTREell6Y2M1cVg0U01Ic1dacDN3WlVIUm1qV2h2d3R5N2QybWllTlc2U0tlR1pidURSUDc0a1lGZnZxY2xTMXNhdENmWmZlNXljRlpRR0dabFdqNWxzU3U2SDg4N2RQZVo4Y3Yzb2x1SkZpY2l6VjVOUEx5NS1fdDVxSjdzUlNIc1dVZGE0LXJ0T1lQcGo0cUJKVzZNY3BrNk81dE9hZ2Z4SVlGSmpDVDFJTnQyMG1VZmRUTDFnS3AtaWxPTUhBdDhaMkV4eHU0aTdJQW9CVTcyMTg3WS1FT3VvWkdWWk1QZU43YTZGU2hXeVRIU2VRNm53a3MtMkhQczJta0Jscl8tNVc3VmtvY2JR?oc=5",
+   "date": "2026-11-13T20:21:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "f33e783a4a23",
    "title": "Keiko Fujimori: Excancilleres piden a la presidenta retrasar su viaje a China para que pueda despedir al papa León XIV",
    "excerpt": "César Landa, Eda Rivas, Manuel Rodríguez Cuadros y otros cuatro exfuncionarios cuestionaron que la mandataria salga del país el 15 de noviembre, antes de que termine la visita oficial del…",
@@ -994,17 +1009,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmlzaWlfWXdtV2lJbVNoSUF0TmJBdTRKNWlyX2thV3FzVmxBVFZvS1k5dHpxcDQ2S2pKMVdYVnpydXBLNU84TWlCU3dUSWxuenljYmFEOFJFS1lRQ3NLNTd5TV9kbXpaRmhONHlvSGRDcWFMdDNwQk1ndkJqOVZUaGpwc3Jwd0RxY1ZVVFRWRG5TVnNDTEhSQWxoZUpFWThmb3dOSktseHFRYmx5Q3RTTkpWeF9HYzZMMlBnanlUVjVESmt1Qmd4cndQUdIBywFBVV95cUxORmlzaWlfWXdtV2lJbVNoSUF0TmJBdTRKNWlyX2thV3FzVmxBVFZvS1k5dHpxcDQ2S2pKMVdYVnpydXBLNU84TWlCU3dUSWxuenljYmFEOFJFS1lRQ3NLNTd5TV9kbXpaRmhONHlvSGRDcWFMdDNwQk1ndkJqOVZUaGpwc3Jwd0RxY1ZVVFRWRG5TVnNDTEhSQWxoZUpFWThmb3dOSktseHFRYmx5Q3RTTkpWeF9HYzZMMlBnanlUVjVESmt1Qmd4cndQUQ?oc=5",
    "date": "2026-11-13T13:45:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ff67a8d70f1d",
-   "title": "José Manuyama: Keiko Fujimori debería resolver el problema, pasan los meses y el Nanay sigue a la deriva",
-   "excerpt": "",
-   "source": "Ideele Radio",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbEJSN0RhTVlsNjVBNTNBWjM0WDRId0NKNWV3SW12eG1LYy0xb1AzWWpLT2s4Si1mbEpxQlY4dmZLZF84TXl3RmU5U3hPTWhrUlpPNUxQOFZjeHdYSEpLYVdQeG05N0VJZFdXd0RKQWY5VTdOQVBvV1NvYnMyVUtyOExWRHhOQnZxZmhGNmhwT1BPbWVHVzV6dVNPVXpWcE9nQ003cnhHbkRFQmpVZW5wQVZLSE5MUzdmNWZsV3BpT2ZPaTdKQng1Zl9BVjN4UFRGU1NLdFBDYVAtczg?oc=5",
-   "date": "2026-11-13T13:38:08+00:00",
    "state": "posando",
    "place": null,
    "next": null
