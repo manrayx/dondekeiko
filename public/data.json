@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T03:37:56.388652+00:00",
+ "generated_at": "2026-11-16T03:59:51.997485+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -264,6 +264,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d54df5e516e6",
+   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
+   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
+   "date": "2026-11-16T03:52:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b68da92113d8",
    "title": "César Acuña se reunió con Keiko Fujimori en Palacio de Gobierno",
    "excerpt": "César Acuña, fundador de la Universidad César Vallejo (UCV) y exgobernador de La Libertad, se reunió en Palacio de Gobierno con la presidenta de la República, Keiko Fujimori.",
@@ -316,17 +327,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
    "date": "2026-11-16T01:57:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d54df5e516e6",
-   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
-   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
-   "date": "2026-11-16T01:52:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1009,7 +1009,7 @@
    "title": "Keiko Fujimori recibirá al papa León XIV a su llegada a Chiclayo",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmlzaWlfWXdtV2lJbVNoSUF0TmJBdTRKNWlyX2thV3FzVmxBVFZvS1k5dHpxcDQ2S2pKMVdYVnpydXBLNU84TWlCU3dUSWxuenljYmFEOFJFS1lRQ3NLNTd5TV9kbXpaRmhONHlvSGRDcWFMdDNwQk1ndkJqOVZUaGpwc3Jwd0RxY1ZVVFRWRG5TVnNDTEhSQWxoZUpFWThmb3dOSktseHFRYmx5Q3RTTkpWeF9HYzZMMlBnanlUVjVESmt1Qmd4cndQUdIBywFBVV95cUxORmlzaWlfWXdtV2lJbVNoSUF0TmJBdTRKNWlyX2thV3FzVmxBVFZvS1k5dHpxcDQ2S2pKMVdYVnpydXBLNU84TWlCU3dUSWxuenljYmFEOFJFS1lRQ3NLNTd5TV9kbXpaRmhONHlvSGRDcWFMdDNwQk1ndkJqOVZUaGpwc3Jwd0RxY1ZVVFRWRG5TVnNDTEhSQWxoZUpFWThmb3dOSktseHFRYmx5Q3RTTkpWeF9HYzZMMlBnanlUVjVESmt1Qmd4cndQUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONE1OdENPdmhNaEszQV94Y2ZlMUh0SFBYenFINVZuQk9BYUdiM0tJSFREYXFnWVdwRnJyaVdka0VfUENoRVFXR2ZvVEJlNnNyNlZkRXVlWUpLR1dtT1l6UUJBLV9mZUFzTkNwYy1nMlNpay15RzJYOEZkUVlDMUVoRWo2cnQ3TVBhRUhoUExsSThtdjVKMGpaanNMdlFhcUJNT3JRbEpTSGs4cGUtQ05WSE56cjlzdW_SAcsBQVVfeXFMTkZpc2lpX1l3bVdpSW1TaElBdE5iQXU0SjVpcl9rYVdxc1ZsQVRWb0tZOXR6cXA0NktqSjFXWFZ6cnVwSzVPOE1pQlN3VElsbnp5Y2JhRDhSRUtZUUNzSzU3eU1fZG16WkZoTjR5b0hkQ3FhTHQzcEJNZ3ZCajlWVGhqcHNycHdEcWNWVVRUVkRuU1ZzQ0xIUkFsaGVKRVk4Zm93TkpLbHhxUWJseUN0U05KVnhfR2M2TDJQZ2p5VFY1REprdUJneHJ3UFE?oc=5",
    "date": "2026-11-13T13:45:59+00:00",
    "state": "posando",
    "place": null,
