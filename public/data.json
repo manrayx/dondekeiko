@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:49:41.595886+00:00",
+ "generated_at": "2026-11-16T19:11:32.989322+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "Revista Caretas",
-  "date": "2026-11-16T18:00:12+00:00",
-  "title": "¿Quiénes despedirán al papa León XIV tras la ausencia de Keiko Fujimori por su viaje a China?",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlJrZG9DUm5neklYQ29MOGxiRldacTVHLWg5aUpSVVI0S2lpTTNxaTE2N0tWcXY5bGI1NFllcUhITm5ERElDX3ZTVFdLbnFtUmhCWk9WTTg0SWhHT2tfX2tBbVA3U3RrcFNHUW8zeUxKQl9yWGRsd2hTZWxTU0dsWDIzT3VWaVZ1VjhXYnhrZ0JSX1BGZ1hqMVBsWUZteFZJazFKbHIxYnp5SC1HeDBEZDZERk83X29VeGJDUg?oc=5"
+  "source": "La República",
+  "date": "2026-11-16T19:02:10+00:00",
+  "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
+  "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -130,6 +130,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-16T13:41:00-05:00",
+   "end": "2026-11-16T13:55:00-05:00",
+   "minutes": 14,
+   "subject": "Despedida al papa León XIV.",
+   "lugar": "Grupo Aéreo N°8, Callao",
+   "state": "posando",
+   "place": {
+    "name": "Grupo Aéreo N°8",
+    "full": "Grupo Aéreo N°8, Callao",
+    "city": "Callao",
+    "lat": -12.056,
+    "lng": -77.118,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-13T11:00:00-05:00",
    "end": "2026-11-13T12:23:00-05:00",
@@ -260,9 +276,23 @@
    }
   }
  ],
- "agenda_minutes_7d": 241,
+ "agenda_minutes_7d": 255,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "927926d3c771",
+   "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
+   "excerpt": "La presidenta viajó el domingo 15 a la APEC y llegará a Shenzhen horas después de que el pontífice deje Lima. El 11 de noviembre lo había recibido en la…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776",
+   "date": "2026-11-16T19:02:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "66f103b28910",
    "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
@@ -1001,17 +1031,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "831b358f30b5",
-   "title": "Keiko Fujimori revela estado de salud del ministro Luis Dyer y parlamentarios tras accidente en carretera de Amazonas",
-   "excerpt": "El siniestro ocurrió alrededor de las 9:00 a. m. en la carretera Fernando Belaúnde Terry, cuando la delegación cumplía actividades de supervisión en la región",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa05EUmpWUWFRT21DWGtfQV9wQ2JkZElrVk50OEZwUnA0Qm95SDVvbkU0ajhraDQ0b3dxT3h3SFMwdFZUbTRMR0E0RTdtRm1pVy0tREdVbUVhaW1aSXFkX2pZZzZVeGY1MjhnYUtqc0c0YlNsVlp2Vnl0ZDVWdVNBZ1lvRHdsTHBKd1VOV0pnT21OSWpVT0xBTVBRbFFRZDgtNDBGVF8tc2Q1UFZIRnRuYlltU2hoOFJ0NzJQNUNETG1leTNwX19UbW1jT3BXejd2QUhxQ2wzcHNiUGpMaEMyNmlPVHB5SkpIemVvT0FmQdIBigJBVV95cUxNbWcxaGgtOFE3ejd3NVF2QTByY0hIX0VxTG44TEVldjdTMGd4MnctWVVRUGhIblY1dHU4SUdGdFJtVWdXUGNJR2FvWFZWU1B3MGsyUXoySU9WN1ViYnJNcG1paGxmZDFJRDFLaUp0aWZlSHFva3lkblg5M1IwNF9EQWJkYjRLRS1QcnJDT3ctM0NQWkR1bmVCLXYzRUNfdGY3V3BXQjlqLTFDN3BVS0hIZVdpeWR3cWpWbHBueUdCWUNjdEV0MjRWdlpzWWVpZmEzTVNWU1dYLUxaTWZacFdaNm43Vk1JdjJzRF8xcTZ1TTRaTTVCQm9LdUhXaGFnakQ1MkNvRGxKbUhmUQ?oc=5",
-   "date": "2026-11-13T21:55:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1148,6 +1167,7 @@
    -77.00316
   ],
   "pampas de pimentel, provincia de chiclayo, region lambayeque, peru": null,
-  "pampas de pimentel, region lambayeque, peru": null
+  "pampas de pimentel, region lambayeque, peru": null,
+  "grupo aereo n°8, callao, peru": null
  }
 }
