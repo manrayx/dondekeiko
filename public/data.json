@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T10:12:59.294906+00:00",
+ "generated_at": "2026-11-16T11:18:05.741874+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,17 +286,6 @@
    "next": null
   },
   {
-   "id": "52ecbd1a071e",
-   "title": "Papa defiende Amazonía y pueblos indígenas | Keiko viaja a Asia | En vivo Santiago Pedraglio",
-   "excerpt": "",
-   "source": "Epicentro TV",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NXQWxLb2JMOFAyamt3LVU2Y0xOMi1UbGk1T1M2UVp5Y0x5Qmg2OVVWb2VSZFJwbDhkUmlVNzZBNkdUQ00zdUZNZUlaU0RLdnNTMmN6YXFqTC1vMDg1dnNNT3JVV2R4bkRKWm0zLWZtWDM2RGNzR2NlbHByejRCamljTGNBWFllVC1oRHNfYUhScWtHdnBHQTMzcmVHa1B5WjVHYnFPUjNiTmc4V1dR?oc=5",
-   "date": "2026-11-16T05:02:55+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d54df5e516e6",
    "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
    "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
@@ -388,6 +377,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "52ecbd1a071e",
+   "title": "Papa defiende Amazonía y pueblos indígenas | Keiko viaja a Asia | En vivo Santiago Pedraglio",
+   "excerpt": "",
+   "source": "Epicentro TV",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NXQWxLb2JMOFAyamt3LVU2Y0xOMi1UbGk1T1M2UVp5Y0x5Qmg2OVVWb2VSZFJwbDhkUmlVNzZBNkdUQ00zdUZNZUlaU0RLdnNTMmN6YXFqTC1vMDg1dnNNT3JVV2R4bkRKWm0zLWZtWDM2RGNzR2NlbHByejRCamljTGNBWFllVC1oRHNfYUhScWtHdnBHQTMzcmVHa1B5WjVHYnFPUjNiTmc4V1dR?oc=5",
+   "date": "2026-11-16T00:00:00+00:00",
+   "state": "transmitiendo",
+   "place": null,
    "next": null
   },
   {
