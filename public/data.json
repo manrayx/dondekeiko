@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:22:52.118027+00:00",
+ "generated_at": "2026-11-16T13:05:55.458341+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,22 +96,22 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
+   "name": "Japón",
    "abroad": true,
-   "city": "China"
+   "city": "Japón"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-16T03:17:13+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-16T13:00:14+00:00"
  },
  "next": {
   "place": {
    "name": "China",
    "abroad": true
   },
-  "source": "Diario Altavoz",
-  "date": "2026-11-16T02:00:35+00:00",
-  "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones y actividades de su agenda oficial",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakw3Mml2WWl0MWlLQ1hkZ3FXMXhfTmhQZm5HQ1hnYUtsOFdpMHM2dWJQU0NMMjVsRVR4QnZZMW42OWMzU21rRXlMYVJNdThOaTNDY2F5WHFtbUJZVU1XYmlQWDhKNU1TVGp0VFJfUDBGWVFiQm9Fd3BjMjJsUi13NjF6aFhSUGNReHNXQkllNW9hT25GZHdsbi1Ta3BYNFFYbUxlOE1kMVdQWDd6RkNGR1RpVlZiczYwQVhPMXZBWHBxQkdF?oc=5"
+  "source": "El Comercio",
+  "date": "2026-11-16T13:00:14+00:00",
+  "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
+  "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -262,6 +262,24 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a500170a8876",
+   "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
+   "date": "2026-11-16T13:00:14+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Japón",
+    "abroad": true,
+    "city": "Japón"
+   },
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "1cc7c3cd45c8",
    "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
    "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
@@ -371,21 +389,6 @@
    "date": "2026-11-16T01:57:55+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c1d0ad0f65a7",
-   "title": "Keiko Fujimori viajó a China: ¿cuál será su agenda oficial en ese país y a Japón?",
-   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
-   "date": "2026-11-16T01:32:09+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -500,6 +503,21 @@
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "c1d0ad0f65a7",
+   "title": "Keiko Fujimori viajó a China: ¿cuál será su agenda oficial en ese país y a Japón?",
+   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNCSk9PdVI5X0oyS25Za3h5X0RsNk92NGdHSThVbEI3WnpZVzc3OG14Q1d0bDljd3JLejg2eDUyTnM3YWtmNjhIMjNHSWJMVDNlUTY1S211dUh1SmMzVGY5RmoxaEZfelVNN2RRVVdsNmtDOTRxeVBEd2lfVUpXYlZzczFtNXRIbnNYMVEtMHRmbkhkY0pSWFR2VFdiMVJRU0xFQ19tZTV5b1c5SGxsZjlmMGgxTVVfV1dtd0dKVkVsZS1iVnB6WWVMVV9EOXo1MWJJSTVRb0VBNDNHWFFzedIB9AFBVV95cUxOZEZxR0FiZm9ZdHN4cFBaZ0pLNTlkUW1pMHlobUNLTmtaRHNWdTdJUmt1YjRRMElQTDZ2RHdtaDl5akdyVEtTdkxONDZpcGd3ZjVQeS02U0F6MG1BSUktakVTMXgxM2NOT043ZkloTHNSVGVvWkUza3ItVFVDUGVQNnJ1VTJhUlhnaFhKbUtvcDduVjBidG5EcDMtZDZRdUNfYjI3NXU2cVdmcVFvUWVFYmktdS1Zc0ZiVG44Y1BKNkJRcFQzTWlueXdfNWJqNlBJRUF3OUVUVE5Rbkp5YTZaeW8tY3FGbV83ZnhPaDJWUkVGck1m?oc=5",
+   "date": "2026-11-15T19:32:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
   },
   {
    "id": "b6a65e7edd02",
@@ -992,17 +1010,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnBPakRiLW1LWU9EaF9tMzBxaUMwMjNxOVJ2WmRUVEhwUjlWUUNCRmYxZVEtaVRsREZvQk1JcW53dFpSTUM4eERYNXZHejJrTUU0dF92SkxEWk9CVnRMRV9EYi1JQV9FRGQ0YkgtajdaY1FTZDlpZGdOS1hRSWp0RFZUelVld0dqek1CR2k0eHdpT0NnazdzOFN0WXJrNXN1b3NsRG4zdk80aEhydWpRQV9fcC1sLWZqQlpFblZOVHhpMHdHWW5lM2FfUFlfck95SzJlZVU4UV_SAfMBQVVfeXFMTmRkSF9zYU9WdXp5SS1abmJtMWVGcmctVkdDRElZdmlUM2xFOTlNVmhIbnNZS2s5ZnJWYTUyb1d2U0VKR1VueG1JX2k4TGZuNk5TNVFSREZRMzYtT25obkNKalQ3MnhWemZ4R2lBMGJhRWxTbUxHWWlnOVp5UWVSN01TVl9EdG8teENrVWlHQzhVMU1qbnZoQ2VMYzZUQUJDZDVsTjZXTndVczZMcFpnOExkUjdRVzdEeE92RU1Ua0x0VUVfNjJXOE40ODF5Z1psQUs2RFpTUFNBc3pVMnlmNjhDbTBMYy1OZXYtaXJ4b194YXZV?oc=5",
    "date": "2026-11-13T16:17:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c38bf6a90914",
-   "title": "Keiko Fujimori asiste a Chiclayo para la misa del papa León XIV en las Pampas de Pimentel",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObFRHbllMZkMtY1NqVjhSS19COVVaUlpPbERjSEhQd0RKVzJKY0hRaGRwaGN1dUtENUFsRUJwcjdEMWZ3RjhOXzJUUUFZTHhCNTJGRzdUZTVreWxPdkg2MFFmckJiMi1rdGtQdkZVVjJraHZSdFo5VEs5YUtxUTVxUFlINW03eFktNEZtblVtVEJiVGF0MWRZbEZKNmZNUE9PUTZNTVdCYmFkWWRGeTdYMlVYSUd0UQ?oc=5",
-   "date": "2026-11-13T15:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
