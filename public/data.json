@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T23:18:43.029124+00:00",
+ "generated_at": "2026-11-16T00:02:23.458330+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -262,6 +262,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "75c37d95eede",
+   "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/ahora-si-la-china-una-cronica-de-fernando-vivas-sobre-el-viaje-de-keiko-fujimori-apuesplan-noticia/",
+   "date": "2026-11-15T23:42:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "eac2a67eb667",
    "title": "César Acuña se reunió con presidenta Keiko Fujimori",
    "excerpt": "",
@@ -366,17 +377,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVhaTGwzUFNraElydHJUYnYzUzZJUDZxRi12WnJySGxYTXNJRXV1dlVTYTZQOEtnd2g4djFGaWZaVGI1eEJhTEh1Unk0eHhObTJOUW50NFhDcXpBRHRXNlNZbVdsWmE4ZW9XWFhzVFFTQnRYWVg0NDJkQ0t5UERCWjVLSkJEd0Fwc1RMSHQwNmxpYzhWY3N4UUxHMElDLTYtY01BZzFYOW5zWmZfOEd2aFhEanVXNTVXTE11eEdsQ3lCY3R3cGc1NGhicmw?oc=5",
    "date": "2026-11-15T14:51:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "75c37d95eede",
-   "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
-   "excerpt": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/ahora-si-la-china-una-cronica-de-fernando-vivas-sobre-el-viaje-de-keiko-fujimori-apuesplan-noticia/",
-   "date": "2026-11-15T13:55:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
