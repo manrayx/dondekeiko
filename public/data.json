@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:20:22.888070+00:00",
+ "generated_at": "2026-11-16T21:41:50.089529+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -296,6 +296,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8c3d4c6ccd1f",
+   "title": "Arminta advierte alza de precios y pide resultados al Gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "Evidencia.pe",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVRLa0h1dGpvbjRjcjFsc0JPYzA0NTlaekQzNXdQSkJoMDNVRkk5QWEyYVNyZzNPbnY4NXFYY1B5ci1INFBEMU1peXFoNmM3NVpucjJBdld5a1plQWFhN3ZsdllPZ2MxRm9JZG5SQmpub0VsRmkzNEJyYW5wWEIyWmdPWkRmeENNM2E0VlZZanpsN2JVR2ZXTGhEd0wwVnh4a3g4U9IBqgFBVV95cUxNVnBOQ0g0aUtoNXJSdklhRmVyeXF0WnJLZ1hmRnJUOGZBR2NWMEFFSlJlNUpJTXRGeUxXVnlGc2s4XzdIa1lBWXMtUDdraTYyeEdxZnJaMWVMUmMxbkIta2w3MlNEN21NNmRoVXZ5RHVMZTFtOXhFZ3EwMGRDQWprVFpod0FaUkRBSXRoVGViU3lsSmthc01ZcFZsZkprVzc5VjV5TkZqaEVNdw?oc=5",
+   "date": "2026-11-16T21:30:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "927926d3c771",
    "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
    "excerpt": "La presidenta viajó el domingo 15 a la APEC y llegará a Shenzhen horas después de que el pontífice deje Lima. El 11 de noviembre lo había recibido en la…",
@@ -519,6 +530,17 @@
    "next": null
   },
   {
+   "id": "abf57666f7af",
+   "title": "Presidenta Fujimori llevará posibilidades de comercio e inversión a China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHlqQUVLa19iRDVnWVJDNVV4N244cW1ob1NjSjB0TXVackpqQ0ZLR1kwRDhVSnVIbUdPVFNoLVlFNEpwS0U0QkRPa2k0Zm1McGhidnBtM19qeGU3ajRwS21tWFFpZ0dRWFpkT2IwNkZ2eUpUc0FRU3JRSTZObFdNc3NNRDZfbGhBcWNKNWpGeVJZUExKeGVZTDhWdTBPaVFya2dmVHZyeWVHeWx3UGpXS2gzRjJBT0JRNTZmVzMxM0dOT00?oc=5",
+   "date": "2026-11-16T03:06:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bad8054c6fd0",
    "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones y actividades de su agenda oficial",
    "excerpt": "",
@@ -539,17 +561,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
    "date": "2026-11-16T01:57:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "abf57666f7af",
-   "title": "Presidenta Fujimori llevará posibilidades de comercio e inversión a China y Japón",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1pNMFJMWXgxc2pLbGQ2aXR2cVZkSnNfeGpVNldCUGZXV3prbzdsYTZvYW1FX3B6ZG5LbmVvcUhabEpRQm5ZZktUNE9sSWllNHBsOGJibHI0TWpnNXd6ZFFEZjIzRnphb0twaVFDM29GM2c0WE5TZ0hGSmg2Mk5kQ0h2QTJsem41eWxNY2lsR21QRmhVUTBEenlBajk2SEI4eFpJeXRxNVN6QUNJMGI3eXoyMEw4ZHoy?oc=5",
-   "date": "2026-11-16T00:43:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1033,17 +1044,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdHhTV3J4R0Q3MERoWTcyVVR2WjVwbXpuRGNmdVRrMXFucm9GSTNpLTU5R1FXWEkySEstUVdnQmg4aTRCVGxiYXFORGhKRnpFcHcwcVN6a1RTSFZtQkl4SzkwRU8xMVUtT2xwNktNOWJrX3FLZnpzQ0IzTExYSGxvSlUyUUc3WlBocGxLZm9ueDkxTVBTYmdmRjlKWm1GRElJLVctQjRDTlVBWFhENzZYdDU2MEhjb2tzWC1Kb2VxTmdFakswRFRTbDFYXzhKXzFGcUtZQXlB?oc=5",
    "date": "2026-11-13T23:09:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "878f2207cf03",
-   "title": "Presidenta Fujimori participó en santa misa celebrada por el papa León XIV en las Pampas de Pimentel",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUJXa3lrcWh2MjN1Z1BzTTNMaWlkQ2UydHFiazZZT3lNV2Q1ME9lbm1OZER6NlJ3VThyc0tGQjlTUHd1UnBZc29FczhtS29PcUc1RHZ6TFpHY2JWRzFHcDY2UGlQM3YwNFhxbGpENXhEUTh2cVlacHRuMDlEaXR4YVRWV0ZyY3FKWUJHUmE5TTg3Q185SUtRZ1VOZDdYVDE1NWE5aXBHZHlNdVNUYUl3X3B1WHVjQXMzLXZHN1NINU42Z1d2UlJQa2dkUnd6YjNmbEk4?oc=5",
-   "date": "2026-11-13T22:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
