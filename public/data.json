@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T01:49:42.214922+00:00",
+ "generated_at": "2026-11-16T02:10:49.154005+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -108,10 +108,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "La República",
-  "date": "2026-11-15T21:12:01+00:00",
-  "title": "Keiko Fujimori viaja a China y no despedirá al Papa León XIV en su último día en Perú",
-  "url": "https://larepublica.pe/politica/2026/11/15/keiko-fujimori-viaja-a-china-y-no-despedira-al-papa-leon-xiv-en-su-ultimo-dia-en-peru-hnews-1103400"
+  "source": "altavoz.pe",
+  "date": "2026-11-16T02:00:35+00:00",
+  "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones y actividades de su agenda oficial",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakw3Mml2WWl0MWlLQ1hkZ3FXMXhfTmhQZm5HQ1hnYUtsOFdpMHM2dWJQU0NMMjVsRVR4QnZZMW42OWMzU21rRXlMYVJNdThOaTNDY2F5WHFtbUJZVU1XYmlQWDhKNU1TVGp0VFJfUDBGWVFiQm9Fd3BjMjJsUi13NjF6aFhSUGNReHNXQkllNW9hT25GZHdsbi1Ta3BYNFFYbUxlOE1kMVdQWDd6RkNGR1RpVlZiczYwQVhPMXZBWHBxQkdF?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -262,6 +262,42 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "bad8054c6fd0",
+   "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones y actividades de su agenda oficial",
+   "excerpt": "",
+   "source": "altavoz.pe",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakw3Mml2WWl0MWlLQ1hkZ3FXMXhfTmhQZm5HQ1hnYUtsOFdpMHM2dWJQU0NMMjVsRVR4QnZZMW42OWMzU21rRXlMYVJNdThOaTNDY2F5WHFtbUJZVU1XYmlQWDhKNU1TVGp0VFJfUDBGWVFiQm9Fd3BjMjJsUi13NjF6aFhSUGNReHNXQkllNW9hT25GZHdsbi1Ta3BYNFFYbUxlOE1kMVdQWDd6RkNGR1RpVlZiczYwQVhPMXZBWHBxQkdF?oc=5",
+   "date": "2026-11-16T02:00:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "bf3ff7f8fa60",
+   "title": "Ministerio de Justicia será reorganizado durante 120 días: Gobierno plantea reformas y evaluará duplicidad de funciones",
+   "excerpt": "El decreto fue suscrito por la presidenta Keiko Fujimori y el ministro Ernesto Álvarez Miranda, con sustento en la Ley de Modernización del Estado",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
+   "date": "2026-11-16T01:57:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d54df5e516e6",
+   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
+   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
+   "date": "2026-11-16T01:52:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c1d0ad0f65a7",
    "title": "Keiko Fujimori viajó a China: ¿cuál será su agenda oficial en ese país y a Japón?",
    "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
@@ -291,6 +327,17 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "cbd5f5d1aa1f",
+   "title": "Viaje de presidenta Fujimori a China y Japón: conoce su agenda oficial",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlJ6YW1rc2w4bUxhTEgzcHY3emhLZ0E3d2t1RzdlVUp3V0FyajNtTXhOOXRob21FdE5qbWdJTGNGRUZOaGxsWkZWQzRZM1BNcEo3cTlJQ1RyR2ZpZ0tXdHEyRHNhZDBfRUdNRGFEWmwyb050SHNtTWhkdDNsTXhTTDVNblZCZk1HT2IyeHAwcnRsbnpzUVFyRlJYWldaaWtxS1lJV2VVaHk?oc=5",
+   "date": "2026-11-16T00:42:00+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -674,17 +721,6 @@
    "next": null
   },
   {
-   "id": "3f1092932a3f",
-   "title": "Senado aprueba viaje de presidenta Keiko Fujimori a foro APEC",
-   "excerpt": "El pleno del Senado aprobó, con 44 votos a favor, uno en contra y cinco abstenciones, la autorización solicitada por el Ejecutivo para que la presidenta Keiko Fujimori viaje a…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/senado-aprueba-viaje-de-presidenta-keiko-fujimori-a-foro-apec-noticia/",
-   "date": "2026-11-14T02:03:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "e8bfbe5f9c0e",
    "title": "Presidenta Fujimori: el mensaje del Papa León XIV nos inspira a construir un país más unido y solidario",
    "excerpt": "",
@@ -969,45 +1005,6 @@
    "source": "Ideele Radio",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbEJSN0RhTVlsNjVBNTNBWjM0WDRId0NKNWV3SW12eG1LYy0xb1AzWWpLT2s4Si1mbEpxQlY4dmZLZF84TXl3RmU5U3hPTWhrUlpPNUxQOFZjeHdYSEpLYVdQeG05N0VJZFdXd0RKQWY5VTdOQVBvV1NvYnMyVUtyOExWRHhOQnZxZmhGNmhwT1BPbWVHVzV6dVNPVXpWcE9nQ003cnhHbkRFQmpVZW5wQVZLSE5MUzdmNWZsV3BpT2ZPaTdKQng1Zl9BVjN4UFRGU1NLdFBDYVAtczg?oc=5",
    "date": "2026-11-13T13:38:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "270657eb6afd",
-   "title": "Carlos Espá defiende ausencia de Keiko Fujimori en despedida de León XIV: “No hay que ser más papistas que el papa”",
-   "excerpt": "Además, el canciller dijo que la jefa de Estado habría notificado con anticipación a la Conferencia Episcopal y al nuncio apostólico sobre su imposibilidad de asistir al cierre de la…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSW16cG1oODJLc3VRUVNGZVptSHFIV2RLTGIxZFd2R0xOWk5TOFZSMUNpUC1DSExKS2pqanBEYmVXMUZQNlNLYTFiVVMwdGJQYTMxQ1l0a3c5dUFiOFppX2hzZmNzYWRqVXF3MWV5alg1RTZFblI1dDJXMldjMENUOVRvVTFZWkZsMEF4MjJ1RVBJNXdzOEl5NWt4Slc4TlRENTF5QTkxcF9GeTRrOU9sM2RmQ1dBandlVlFuQ2pTSnVKZTVwN1RUV3hYOTQ0WU10WWVvNTh4SjFXU0MtbGlJeHluYzljdS1O0gGDAkFVX3lxTE5SRnZ5LUZuUmQzdUtyMlQxc09WOEpiSjJESXgtcmxRTkpLU2gxNUhEVWFVX2NnZkpNRWxRNDc3UXhxNkJSZGZabzNHQ1Vva29LanF2cXRCWDBTMUdwLUswbkNLdzUxck1LYUpjSXo5TVFqTWFmUG05MkNfZ05JaGhyUEFHRzFnMENudWlmTTNRZk1SelhObVM5WFZyZlpOaExlUndIV25ubHJqWnB2VElCb0lBcmJCLWR4OVZjd0tkRVd1Nll0bXNZZXg4SEhweHN6WVVHV25SQXlCUXNKcVdONjJtdzlqM2RNM0hZcFFTNm9ZWjh2ZlNvYk13LVdZUGZ0b3c?oc=5",
-   "date": "2026-11-13T13:05:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "501ef570d79d",
-   "title": "Keiko Fujimori y el papa León XIV: ¿De qué conversaron en Palacio de Gobierno? ¿Y por qué invitaron a Boluarte y otros expresidentes?",
-   "excerpt": "Tras concluir la primera mitad de su viaje a Sudamérica en Uruguay y Argentina, el papa León XIV llegó al Perú, su patria, recorrió las calles de Breña y el…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSTFFdjRWUW5WWWFBUUc0YUg4a1l6MThqSElyZ3NGWEQ5TEV1dFZNNTI1dVMxWFVhUUhLTDJ6WWg1VlBGN1pCMFQtWFh4VzVhclkxaFBGaFVGbm5HNlNXalF6UlNjSU9YU3Z2UG91M3paeWpsZXQySTZ3Y1lTTnJLZ2hfZm9xWUMyVGlxOGFKcHRBdjh5V2RBaTN2ZGVLVWY3RF8xdjVMZ0dVcHRtOVZBLUVVV1hHV29vNThQU2J5OXNyMFNycEVyUG5lV1ZzS256NkRhZHFsb21OWjBTN3JwaHhuV0dnVlFfWFZCRHdISDEwTlhuUE1iSzQ4eVdKc2ZRUy1RNXBJUDd0SnI3WDItZTdoWkRYUdIBqgJBVV95cUxNWnFpZjRMakdPREltTThvaDE1RnBLckstMTREell6Y2M1cVg0U01Ic1dacDN3WlVIUm1qV2h2d3R5N2QybWllTlc2U0tlR1pidURSUDc0a1lGZnZxY2xTMXNhdENmWmZlNXljRlpRR0dabFdqNWxzU3U2SDg4N2RQZVo4Y3Yzb2x1SkZpY2l6VjVOUEx5NS1fdDVxSjdzUlNIc1dVZGE0LXJ0T1lQcGo0cUJKVzZNY3BrNk81dE9hZ2Z4SVlGSmpDVDFJTnQyMG1VZmRUTDFnS3AtaWxPTUhBdDhaMkV4eHU0aTdJQW9CVTcyMTg3WS1FT3VvWkdWWk1QZU43YTZGU2hXeVRIU2VRNm53a3MtMkhQczJta0Jscl8tNVc3VmtvY2JR?oc=5",
-   "date": "2026-11-13T12:47:54+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "0d8f5422b973",
-   "title": "Rubén Meza sobre el discurso del papa León XIV: me imagino que poca gracia le ha hecho al gobierno de Keiko Fujimori",
-   "excerpt": "",
-   "source": "Ideele Radio",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQOEZfV3JRNlN4OTUxRFhYNU5PR2ZaY1VtTmNiWjNwdHF2Q3hoYWd4RW5ldThDQkExRm14X0xRaUU4S1BiZWYwNHExT1J6TmczUl9Mbk03YzFPc1VXQWF0MkptRFJ0TjY3bW1udzR5dkRnelN5eGxveXpNXzBnTV95bi1xYzluNXNqTHBKTkFuZ0w0Qk5reFZYd1dEckZJS1ZrMzY3ZzV3Ym1yTHZKVXllUFR6TWJXc2ZhTmhSb0RWWW5iY0dyR3pzNnhrMHlPaDlKczBtek9aMGU3ZEtsZnItX3V6V25WMFNMMzB3TQ?oc=5",
-   "date": "2026-11-13T12:46:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
