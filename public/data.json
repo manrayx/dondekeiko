@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:11:32.989322+00:00",
+ "generated_at": "2026-11-16T19:33:01.500141+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,7 +111,7 @@
    "abroad": true
   },
   "source": "La República",
-  "date": "2026-11-16T19:02:10+00:00",
+  "date": "2026-11-16T19:21:45+00:00",
   "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
   "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776"
  },
@@ -285,7 +285,7 @@
    "excerpt": "La presidenta viajó el domingo 15 a la APEC y llegará a Shenzhen horas después de que el pontífice deje Lima. El 11 de noviembre lo había recibido en la…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776",
-   "date": "2026-11-16T19:02:10+00:00",
+   "date": "2026-11-16T19:21:45+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -781,17 +781,6 @@
    }
   },
   {
-   "id": "dce22aaf9fea",
-   "title": "Presencia de Keiko Fujimori en APEC dará fluidez a relaciones comerciales de Perú",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaUJvY0trWjhlUlp5MGFnN1VEWm9COHQ4Q29WOWsxYkhpZXh6aFYyakE3MlJxLUNlNmViZ2Z3alRkaU01bTd6Q01QbXZmeFFBMTlJX0N6dGc4UHdGSjhKSHNGVjlaQTRRZ0lBQ2VrN3Q3UFV4UlBIejZLSWtRdlJ1OFEzTW4wai1CMFhISnFKY0hQaUJJNXhKaE1qSnNkU2wwM2x3NWtMYXpXT3NTR0RlWHdhdnpZREFlTEd4MVJFcXFPN095UlZaTTI0U0FuWDRnVFE?oc=5",
-   "date": "2026-11-14T20:10:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "63b351a67654",
    "title": "Ministros asumirán encargaturas por viaje de Keiko Fujimori a China",
    "excerpt": "El viaje de la presidenta Keiko Fujimori a China y Japón, previsto del 15 al 21 de noviembre, activará tres encargaturas temporales en el Ejecutivo.",
@@ -1028,6 +1017,17 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSUJXa3lrcWh2MjN1Z1BzTTNMaWlkQ2UydHFiazZZT3lNV2Q1ME9lbm1OZER6NlJ3VThyc0tGQjlTUHd1UnBZc29FczhtS29PcUc1RHZ6TFpHY2JWRzFHcDY2UGlQM3YwNFhxbGpENXhEUTh2cVlacHRuMDlEaXR4YVRWV0ZyY3FKWUJHUmE5TTg3Q185SUtRZ1VOZDdYVDE1NWE5aXBHZHlNdVNUYUl3X3B1WHVjQXMzLXZHN1NINU42Z1d2UlJQa2dkUnd6YjNmbEk4?oc=5",
    "date": "2026-11-13T22:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "831b358f30b5",
+   "title": "Keiko Fujimori revela estado de salud del ministro Luis Dyer y parlamentarios tras accidente en carretera de Amazonas",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOa05EUmpWUWFRT21DWGtfQV9wQ2JkZElrVk50OEZwUnA0Qm95SDVvbkU0ajhraDQ0b3dxT3h3SFMwdFZUbTRMR0E0RTdtRm1pVy0tREdVbUVhaW1aSXFkX2pZZzZVeGY1MjhnYUtqc0c0YlNsVlp2Vnl0ZDVWdVNBZ1lvRHdsTHBKd1VOV0pnT21OSWpVT0xBTVBRbFFRZDgtNDBGVF8tc2Q1UFZIRnRuYlltU2hoOFJ0NzJQNUNETG1leTNwX19UbW1jT3BXejd2QUhxQ2wzcHNiUGpMaEMyNmlPVHB5SkpIemVvT0FmQdIBigJBVV95cUxNbWcxaGgtOFE3ejd3NVF2QTByY0hIX0VxTG44TEVldjdTMGd4MnctWVVRUGhIblY1dHU4SUdGdFJtVWdXUGNJR2FvWFZWU1B3MGsyUXoySU9WN1ViYnJNcG1paGxmZDFJRDFLaUp0aWZlSHFva3lkblg5M1IwNF9EQWJkYjRLRS1QcnJDT3ctM0NQWkR1bmVCLXYzRUNfdGY3V3BXQjlqLTFDN3BVS0hIZVdpeWR3cWpWbHBueUdCWUNjdEV0MjRWdlpzWWVpZmEzTVNWU1dYLUxaTWZacFdaNm43Vk1JdjJzRF8xcTZ1TTRaTTVCQm9LdUhXaGFnakQ1MkNvRGxKbUhmUQ?oc=5",
+   "date": "2026-11-13T21:55:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
