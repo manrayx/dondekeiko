@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:55:13.012847+00:00",
+ "generated_at": "2026-11-16T20:16:19.240352+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -147,6 +147,22 @@
    }
   },
   {
+   "start": "2026-11-16T10:55:00-05:00",
+   "end": "2026-11-16T12:28:00-05:00",
+   "minutes": 93,
+   "subject": "Participa en la misa celebrada por el papa León XIV.",
+   "lugar": "Base Aérea Las Palmas, Santiago de Surco",
+   "state": "posando",
+   "place": {
+    "name": "Base Aérea Las Palmas",
+    "full": "Base Aérea Las Palmas, Santiago de Surco",
+    "city": null,
+    "lat": -12.16056,
+    "lng": -77.00256,
+    "abroad": false
+   }
+  },
+  {
    "start": "2026-11-13T11:00:00-05:00",
    "end": "2026-11-13T12:23:00-05:00",
    "minutes": 83,
@@ -276,7 +292,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 255,
+ "agenda_minutes_7d": 348,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -1168,6 +1184,10 @@
   ],
   "pampas de pimentel, provincia de chiclayo, region lambayeque, peru": null,
   "pampas de pimentel, region lambayeque, peru": null,
-  "grupo aereo n°8, callao, peru": null
+  "grupo aereo n°8, callao, peru": null,
+  "base aerea las palmas, santiago de surco, peru": [
+   -12.16056,
+   -77.00256
+  ]
  }
 }
