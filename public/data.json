@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:03:10.431342+00:00",
+ "generated_at": "2026-11-16T22:23:44.431729+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 1,
-  "triste": 1,
-  "posando": 57
+  "triste": 2,
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -296,6 +296,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3b3a3feb3bb4",
+   "title": "Keiko Fujimori sostendrá reunión con Xi Jinping este martes 17",
+   "excerpt": "La presidenta Keiko Fujimori sostendrá este martes 17 de noviembre una reunion bilateral con su homólogo chino, Xi Jinping, según la agenda prevista.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-sostendra-reunion-con-xi-jinping-este-martes-17-noticia/",
+   "date": "2026-11-16T22:16:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bd782fc989ce",
    "title": "Keiko Fujimori se reúne con el presidente de China, Xi Jinping, este martes en Shenzhen",
    "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
@@ -325,6 +336,20 @@
    "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776",
    "date": "2026-11-16T20:19:45+00:00",
    "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "565b9413f0f7",
+   "title": "En la pregunta del día, ciudadanos critican ausencia de Keiko Fujimori en despedida del papa León XIV por viaje a China",
+   "excerpt": "",
+   "source": "Radio Onda Azul",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSV9Ec3FpRG1CSUtQZGNxZjVwU2lDQXNOZUVmM2xKRGdsZ29kUUE0WlQ4d0ItWVdqY2czYVk1QVVNR1hiUHZYcGVGQ2ZfZXNhWFhIRXdSME8ydFJBdndmRzNvVGlMQzd2ZGYwWG1wR0U1Mk0xeVBEQU95dXJPSTZ1NWxzYmZuRV9yN3NWMTIzb3N5VmZwbVFzVlhRcDlRTG9PVFpiMWtfaC1reVVETkVVSUoyVXR5Ty1HbkxrYWpFeWdjU0hYWjNOQlkwUUFOMzhOdXNaSFh5VXR3TllyN1E?oc=5",
+   "date": "2026-11-16T19:57:49+00:00",
+   "state": "triste",
    "place": null,
    "next": {
     "name": "China",
@@ -385,6 +410,21 @@
    "next": null
   },
   {
+   "id": "bd14606ace60",
+   "title": "Keiko Fujimori viajó a China para participar en la 33.ª Reunión de APEC -",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0pDRWFLeXhOejctalpRM2t5V1UweFd1LTBQSEplUGplOWRVYm1xSk5yWGdVSW0yOFlaRkJXSjhQeUI5SGtpWENMYzNRdl9TaHF6eUxoTURlOUc2TVI0bjdtWTJ0VlNXcnV4czFLSE02TVl2T1JjUDl2TFI2QTB4OFVUTWVNNzRoQ0Q3NFk4NWMxTVJIRWw5ZDZDSHZPb1dCQnc?oc=5",
+   "date": "2026-11-16T17:14:19+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "a500170a8876",
    "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
    "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
@@ -403,25 +443,10 @@
    }
   },
   {
-   "id": "bd14606ace60",
-   "title": "Keiko Fujimori viajó a China para participar en la 33.ª Reunión de APEC -",
-   "excerpt": "",
-   "source": "Perú Informa",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0pDRWFLeXhOejctalpRM2t5V1UweFd1LTBQSEplUGplOWRVYm1xSk5yWGdVSW0yOFlaRkJXSjhQeUI5SGtpWENMYzNRdl9TaHF6eUxoTURlOUc2TVI0bjdtWTJ0VlNXcnV4czFLSE02TVl2T1JjUDl2TFI2QTB4OFVUTWVNNzRoQ0Q3NFk4NWMxTVJIRWw5ZDZDSHZPb1dCQnc?oc=5",
-   "date": "2026-11-16T16:44:49+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
    "id": "967e15ea7604",
    "title": "Viaje de Keiko Fujimori a China y Japón: esta es la agenda oficial y las trascendentales reuniones que sostendrá en APEC",
    "excerpt": "",
-   "source": "Expreso",
+   "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPakpRMHZTb1VqX3ZjLTNsS25CR0ZVUHo1SFczZnA4Rzg0dlRTdDdVUkVFUTJwNmtrX0pzZWZBVnNucU40aWRvbXB2N0NZWGRnQ0ZCUEtYZW1adDlDNmJscDBpNXpQWlpDVE85blFXNVJKdjE1ZDR2cVE3YVRsTXl5ZXZNeWgyb2dWLVRvY3g5dHladWk1ZUE2VWU3bVd5ZEIxREw1Tkl3Z0Z2TnZiYUZtb2tsM1JTY3BGMjBTVk84YjNvR0l0ank2VU9CWFh0dFdOamV3aFpEcEowT3JjeFZJaFF1MTdEMmxzZnRmcUptNlVwd01QMEhkdktyX0p0Zmg3emxLQ1I2RUJCN2tvSDJDUkNfdndPYXpOZ0FsNkNZWmd2UUE3a0NBZmhNUlpQNmZRYTNVYlhmOGlka0p6bWc?oc=5",
    "date": "2026-11-16T15:40:48+00:00",
    "state": "posando",
@@ -1019,34 +1044,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "74b5533b4135",
-   "title": "Keiko Fujimori a León XIV tras misa en Chiclayo: \"Nos llena de fe, esperanza y nos inspiran a construir un país más unido y más solidario\"",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdTJpSkxkODF0VHpDc21idG9TR1pvMXYxRGVlaC1tYnhKUmRoTXRaeW4zWVJUZ0Z1d0IwYksyYlFqOTM0dWszSTFpYnUzSW5rTnQybk1HWWxORGlrZVB6Y0s5QnoxNi1JR1d6YUdXS1Y1dzQzQ2JNNnJZUEZYdXZJNHhZMngtS0lBOV9FY24xaWJubmlhUks4RHJSemR1TTlhODJNZWczdGwxQnV4SXY2U0FVb2VubnprME0zNWJsc1ptdDJjWVJyQzlZVkczdVFZblpCSGZvSzBPXzk3elUydXFYc2EwcnBnSTdHUzZra1JycnF4T0E?oc=5",
-   "date": "2026-11-14T00:00:06+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Chiclayo",
-    "lat": -6.771,
-    "lng": -79.841,
-    "abroad": false,
-    "city": "Chiclayo"
-   },
-   "next": null
-  },
-  {
-   "id": "4b1f1cf03dfb",
-   "title": "Carlos Espá defiende ausencia de Keiko Fujimori en despedida del Papa: “No hay que ser más papistas que el Papa”",
-   "excerpt": "",
-   "source": "https://hbanoticias.pe/",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNDFpOFJJb0FfSFZIOWhKNjZ0WGt6c1lzSy1UOW1LYzYtUllZV25NODl2a0xCTG9xQTZXeFY1YlJDZWxPVFFZTnhtRkhxMkFyb2lscmstRkxQdVVYSUdvbmo3dE84ZmppaHZWNnlCbE55bHJBU2dmenlZQjNRQXd4MHJaZGJmZUp0aWNWMjlXRU5URGVWWGRCS2h3VnBlUF9CLWt1Q2lvbU5BdFFzT2JzVGUwdTN3RGJnU2RweF9pZW1ZcktWczAxT1ZSLUUyZw?oc=5",
-   "date": "2026-11-13T23:39:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
