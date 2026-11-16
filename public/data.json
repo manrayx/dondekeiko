@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T16:40:40.291393+00:00",
+ "generated_at": "2026-11-16T17:01:58.269985+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,24 +96,22 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Japón",
+   "abroad": true,
+   "city": "Japón"
   },
-  "source": "La República",
-  "date": "2026-11-16T15:03:49+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-16T16:57:00+00:00"
  },
  "next": {
   "place": {
    "name": "China",
    "abroad": true
   },
-  "source": "La Decana Radio Juliaca",
-  "date": "2026-11-16T14:53:00+00:00",
-  "title": "Keiko Fujimori viajará a China y no estará en la despedida del papa León XIV en Perú",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLW0ySk53dTFUZFBRWFNTa2NpX0prQ2xscXU0N1AybklpNGYybHBqbF8xQzV3WlhfQ0NOa3JvRHR4bm9kMWRJLXhXYktPYjBCX19JNlUzYW1KbkRRcFRHdU5sOFhqQTR2LXhWaUx0dTJ6aW1KT2ZtQ092TjB4c0ZuNEZhMUc1QkI2QzZ4OEx6RWRGSGlkQlNUNml3MEFYX2FwX0NOS3NvTlJxQWRZNENwc1EzY1F6d1REaU5tM1dNeUtTQjVz?oc=5"
+  "source": "El Comercio",
+  "date": "2026-11-16T16:57:00+00:00",
+  "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
+  "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -264,6 +262,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a500170a8876",
+   "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/",
+   "date": "2026-11-16T16:57:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Japón",
+    "abroad": true,
+    "city": "Japón"
+   },
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "bd14606ace60",
+   "title": "Keiko Fujimori viajó a China para participar en la 33.ª Reunión de APEC -",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS0pDRWFLeXhOejctalpRM2t5V1UweFd1LTBQSEplUGplOWRVYm1xSk5yWGdVSW0yOFlaRkJXSjhQeUI5SGtpWENMYzNRdl9TaHF6eUxoTURlOUc2TVI0bjdtWTJ0VlNXcnV4czFLSE02TVl2T1JjUDl2TFI2QTB4OFVUTWVNNzRoQ0Q3NFk4NWMxTVJIRWw5ZDZDSHZPb1dCQnc?oc=5",
+   "date": "2026-11-16T16:44:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "967e15ea7604",
    "title": "Viaje de Keiko Fujimori a China y Japón: esta es la agenda oficial y las trascendentales reuniones que sostendrá en APEC",
    "excerpt": "",
@@ -337,24 +368,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "a500170a8876",
-   "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/",
-   "date": "2026-11-16T13:56:51+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Japón",
-    "abroad": true,
-    "city": "Japón"
-   },
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   },
   {
    "id": "6cd3e160bbfb",
@@ -539,17 +552,6 @@
    "url": "https://larepublica.pe/politica/2026/11/15/un-cerco-politico-al-pontifice-para-que-no-escuche-a-las-victimas-409755",
    "date": "2026-11-15T22:14:12+00:00",
    "state": "molesta",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c3ea84f4a950",
-   "title": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
-   "excerpt": "Al terminar la misa en Pimentel, el pontífice tomó la iniciativa y se acercó a saludar a la presidenta peruana. Ella lo describió como uno de los momentos más memorables…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/14/los-gestos-que-profundizan-la-relacion-entre-leon-xiv-y-keiko-fujimori/",
-   "date": "2026-11-15T21:21:01+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -750,6 +752,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-viajara-a-china-para-asistir-a-apec-ministros-asumiran-encargaturas-luis-galarreta-y-rafael-belaunde-noticia/",
    "date": "2026-11-14T18:28:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c3ea84f4a950",
+   "title": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
+   "excerpt": "Al terminar la misa en Pimentel, el pontífice tomó la iniciativa y se acercó a saludar a la presidenta peruana. Ella lo describió como uno de los momentos más memorables…",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFMySkk1SEtnd20wUzExT1RNM0oyYm9xTXVReFVSdzM3bFNjanBrSFFLc0QzMEtLbjY5ZmVJZWZRa2hxZVZsTnNaOEpDakl6X0I2QkRNYjVJSVlEWU5neFQxUDZnX2lVMzRQMUpFVGdhODZZX1BpUHJSYzdDb0IwMU53SDNyVENrUlQ2ZXgyYnJGVlFkRmhmOGV5bkZVYm9Id3g1SDU1QVJ5OXRqLVFIdtIBywFBVV95cUxQLTY0ZWNxd1RpMUptaloxYmZmaFNvamZXQ3ZFSV85akR5SjJoMFpVY3FEc20xNEpWUGk1am5jb0FwQkFtMUFOQU0zODBiWHMxcnZ5N3dnaGpub0hlb0k1cUdILUtycDhBOExMOWlqZUcwTFlPN1Rjd3R5UlplNnJFc2tKcHZGY1p6YWFBYnBFSVhiWFhwdWNxOE9TcWtVUDkteFBLbnE2NWQxMlFmWHR0LTFISFNHdGZPQU8wclY1Z1doaTFCQWo1Tl9TRQ?oc=5",
+   "date": "2026-11-14T17:41:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1005,17 +1018,6 @@
     "abroad": false,
     "city": "Amazonas"
    },
-   "next": null
-  },
-  {
-   "id": "cf02de210694",
-   "title": "Keiko Fujimori asistió a la misa del papa León XIV en las Palmas de Pimentel y recibió el saludo del Santo Padre",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTnF6OEVLcDFmMm9KNTkzSjN2azlLcEY4V0lnN0ZKMk40SGhuajIyV2hWbHd3WFg3eE1tdlk3OHpMN0dVSHNqMHN4ekZ0SGY3WHUwb20wd01mV1J1d0RBSkRZVmdGN3dFNFp3YVIwS2R0cGZnWGhqSjlfd1pyOUFCR3RIQlVRVEpsbkF5SWI1YjZwcGZJUXFzRlEwazhNdm1DV0pxNkdGZ3BPM0xxdjJCRFhNYmFENDFzZDlvY1lxQ21QdTRNNl94WHNrRkJvS25Vc1ZXUXRXQ0g?oc=5",
-   "date": "2026-11-13T21:05:15+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
