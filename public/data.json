@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T05:25:23.903882+00:00",
+ "generated_at": "2026-11-16T05:46:42.593512+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -263,6 +263,17 @@
  "agenda_minutes_7d": 241,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "1be4d20373ca",
+   "title": "La presidenta Keiko Fujimori en su discurso al Papa: “Que la reconciliación sea el regalo que su visita deje al Perú”",
+   "excerpt": "",
+   "source": "Radio y Televisión Riojana",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSHFnU1dVZTN0ejZ2MHRNcHg5cnBLemdJcW1GTmZ2cHRaZHJDWXJHa2hNTWZibHVvME9TWlBwSDRGN240TVU1V2ZlMjhXRmUwVkZRNTlOZnVrc2hxZjlBeEFZc2RCdFlrZkhwR05qRWp1UkMta09Za2pFVE1ZdjBESDRhcGtBNHcxczRGbzcyYUNDbFR3SEpQN0ZvN3FKajhqTEZ4eFBMay1YeGkxaExvOW0zYjJvdmloNFNpTHhNcE5CcXp4SmNCU0RqeWhtZy02Vy1rY2l1VHJmWU9NZG9ldDZ4UkpmLXV6NWkzOGpwVVBUMFhmVUFDOXl3?oc=5",
+   "date": "2026-11-16T05:24:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "52ecbd1a071e",
    "title": "Papa defiende Amazonía y pueblos indígenas | Keiko viaja a Asia | En vivo Santiago Pedraglio",
@@ -996,23 +1007,6 @@
    "date": "2026-11-13T15:40:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "9bdf75d886da",
-   "title": "Espá justifica viaje de Fujimori al extranjero durante visita del papa León XIV: “No hay que ser más papistas que el papa”",
-   "excerpt": "El canciller señaló que, durante su reunión en Palacio de Gobierno, Fujimori explicó al sumo pontífice las razones por las que no lo acompañaría durante los últimos días de su…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/13/espa-justifica-viaje-de-fujimori-al-extranjero-durante-visita-del-papa-leon-xiv-no-hay-que-ser-mas-papistas-que-el-papa-494832",
-   "date": "2026-11-13T15:25:10+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
