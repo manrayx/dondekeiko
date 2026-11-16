@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:23:44.431729+00:00",
+ "generated_at": "2026-11-16T22:45:02.342617+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "abroad": false
   },
   "source": "La República",
-  "date": "2026-11-16T18:18:33+00:00"
+  "date": "2026-11-16T22:36:41+00:00"
  },
  "next": {
   "place": {
@@ -296,23 +296,66 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "bd782fc989ce",
+   "title": "Keiko Fujimori se reúne con el presidente de China, Xi Jinping, este martes en Shenzhen",
+   "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-presidente-de-china-xi-jinping-en-shenzhen-apuesplan-noticia/",
+   "date": "2026-11-16T22:37:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "66f103b28910",
+   "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
+   "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el consultor del BID en la Unidad de Cumplimiento, Enrique Vásquez,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/16/keiko-fujimori-se-reunio-con-allan-dyer-hijo-del-ministro-de-salud-en-palacio-de-gobierno-hnews-356320",
+   "date": "2026-11-16T22:36:41+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "828094208c88",
+   "title": "Viaje de Keiko Fujimori a China y Japón: ¿Cuál será la agenda oficial de la presidenta?",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGFwMG5WcVBuUDdGLXdCLTZPbkNudkRsdWtrdC11QXNORnR4bGxFU3ZXbGFmVU9hTXlCOE9jR2N4TU9XQ2N3cmFrNTZ0OXNINlRzY3lmRHVaZDdvT0oyc0RqcTFfTmZhTmxKbENHeFFZdS1PSWNtYWRKOHRnRy1zRVhR?oc=5",
+   "date": "2026-11-16T22:23:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7092edf5b6b7",
+   "title": "Keiko Fujimori en APEC 2026: conoce la agenda oficial que cumplirá en China y Japón",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVNVNlRkXzZLWk1UcFdLajZhWm01Tjg5RWJkY00wLThRMTlJZnE4QUxxZzMxLVlIZkJrSVdhYzhFMk9NeHc5ZGpUY0hDMG5MLUg4Q1p4SjFEenhzRWR1Z1g5Q0FtZERXcXdXbm0yTXFBUFdJWlM2ekpOS0FTZHBkNUxuZXkzbFFUZGlMZkdoaUZWRHlUSldnTXBxWFFxVExqNm45eEhpUWpHVjQyVndaZVByVmJQQVdHTlYzWEZJNXdLc011RWhhUi1rT3hRNC0tSVdPOGhTRTJ2QmVBSkHSAd4BQVVfeXFMTTFTVTZUZF82S1pNVHBXS2o2YVptNU44OUViZGNNMC04UTE5SWZxOEFMcWczMS1ZSGZCa0lXYWM4RTJPTXh3OWRqVGNIQzBuTC1IOENaeEoxRHp4c0VkdWdYOUNBbWREV3F3V25tMk1xQVBXSVpTNnpKTktBU2RwZDVMbmV5M2xRVGRpTGZHaGlGVkR5VEpXZ01wcVhRcVRMajZuOXhIaVFqR1Y0MlZ3WmVQclZiUEFXR05WM1hGSTV3S3NNdUVoYVIta094UTQtLUlXTzhoU0UydkJlQUpB?oc=5",
+   "date": "2026-11-16T22:19:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "3b3a3feb3bb4",
    "title": "Keiko Fujimori sostendrá reunión con Xi Jinping este martes 17",
    "excerpt": "La presidenta Keiko Fujimori sostendrá este martes 17 de noviembre una reunion bilateral con su homólogo chino, Xi Jinping, según la agenda prevista.",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-sostendra-reunion-con-xi-jinping-este-martes-17-noticia/",
    "date": "2026-11-16T22:16:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bd782fc989ce",
-   "title": "Keiko Fujimori se reúne con el presidente de China, Xi Jinping, este martes en Shenzhen",
-   "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-presidente-de-china-xi-jinping-en-shenzhen-apuesplan-noticia/",
-   "date": "2026-11-16T21:46:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -355,23 +398,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "66f103b28910",
-   "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
-   "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el jefe de gabinete, Enrique Vásquez, y luego el 13 de…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/16/keiko-fujimori-se-reunio-con-allan-dyer-hijo-del-ministro-de-salud-en-palacio-de-gobierno-hnews-356320",
-   "date": "2026-11-16T18:18:33+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
   },
   {
    "id": "a937ba3e03c4",
@@ -1019,31 +1045,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "504849f96328",
-   "title": "Keiko Fujimori participó en misa del papa León XIV en las Pampas de Pimentel",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0Q2RTFlSWxORm5HLU03bmRBOGNCQ3ZTUEhqU1Bqc2RiaDU2Qk1QWkYtb2tWeFd5b29zUWZFLVFnVmJhS2JSakszckF0SUY2WTBfZlFOTDc4cjBOSFBpQ3NsdFVIQlhEeXY2QXBSWG5xZnUwN2swa21TTWFYNUZVS3dUeFRVaXROT1dJ?oc=5",
-   "date": "2026-11-14T01:09:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "357290358a7e",
-   "title": "Gobierno autoriza viaje a China y Japón de Guillermo Shinno: será parte de la comitiva de Keiko Fujimori en la APEC",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRVQ2LXFsd3ZMLUMwelY4Sk1yUV9yZ0c1RFQ5TFJlMThQSFFPSDQ3bnc4eUY4UF9vZEdlZGkyTk1ldS1QTmRTT1dndWNSZkkydHVJWnR0ajM2SVJlREt1T3VqbU1BZGtsTGJGUnZTcG81YUxoRGk4Y1FnTmNURF82cWdMa1FyRThjYklaNko1MlRXT0pQNlRiVFVNU1d5aXYyb1FuYjJxamM4b2lLSjhpN2pLWk5zVkF3UkNvOFlwMXdtWDFPT3hKZlhSaUNaRFlRRnZOeWFnMA?oc=5",
-   "date": "2026-11-14T01:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
