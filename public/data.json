@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:45:02.342617+00:00",
+ "generated_at": "2026-11-16T23:06:24.473693+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -296,6 +296,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d54df5e516e6",
+   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
+   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
+   "date": "2026-11-16T22:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bd782fc989ce",
    "title": "Keiko Fujimori se reúne con el presidente de China, Xi Jinping, este martes en Shenzhen",
    "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
@@ -548,17 +559,6 @@
    "source": "Radio y Televisión Riojana",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSHFnU1dVZTN0ejZ2MHRNcHg5cnBLemdJcW1GTmZ2cHRaZHJDWXJHa2hNTWZibHVvME9TWlBwSDRGN240TVU1V2ZlMjhXRmUwVkZRNTlOZnVrc2hxZjlBeEFZc2RCdFlrZkhwR05qRWp1UkMta09Za2pFVE1ZdjBESDRhcGtBNHcxczRGbzcyYUNDbFR3SEpQN0ZvN3FKajhqTEZ4eFBMay1YeGkxaExvOW0zYjJvdmloNFNpTHhNcE5CcXp4SmNCU0RqeWhtZy02Vy1rY2l1VHJmWU9NZG9ldDZ4UkpmLXV6NWkzOGpwVVBUMFhmVUFDOXl3?oc=5",
    "date": "2026-11-16T05:24:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d54df5e516e6",
-   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
-   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
-   "date": "2026-11-16T03:52:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
