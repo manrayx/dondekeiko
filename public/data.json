@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T13:05:55.458341+00:00",
+ "generated_at": "2026-11-16T13:27:15.842380+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -262,6 +262,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6cd3e160bbfb",
+   "title": "Keiko Fujimori en APEC y Japón: quién es quién y la agenda del viaje que autorizó el Senado",
+   "excerpt": "",
+   "source": "Tu Diario Huánuco",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEp4QTdOYm8xVURDTXA0b2hZOW1tdHRsT0xrZTNoT3Jkd28zSkRGZ204eTdJT1ZjS1lNdXJkY0d4bWFfT3VDMDR3aklzaXVyQUhEWnNvSDhjRDhsMlhzemd5WWQ1NU1TN2M4Z2IxNG5tYlEyQ3NrdXB6c0NCSFJrUlBneVlaU1p3VTBuQjlKRU9Vb3hL?oc=5",
+   "date": "2026-11-16T13:08:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a500170a8876",
    "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
    "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
@@ -278,6 +289,21 @@
     "name": "China",
     "abroad": true
    }
+  },
+  {
+   "id": "82c8e463945f",
+   "title": "¡Se fue sin despedirse del papa León XIV! Keiko Fujimori viajó a China para participar de la APEC y reunirse con Xi Jinping",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQdnB4WEdBbVY2S29DSGpSX210ZzZaYjQyTF80RmE5RTlCOVFoQ1Nqc09VclBPakY0LThOTS1KejBKS0M4eG9RZW1UZUswZTctXzB0WDdvUHN3bXd3WUxkTlV5X0xrc2lHOXZad0Q5aE9JdHJBQkxoMTdjd1JLdjFQR2oxdWwyeThlNWZsOHRZanFuS3VtX2pGTnByRFE2SjFxWTNVMV9KY214VHN5X1BDU0ROeXZaTVdyVVA4MUVyUzRWWExuVGpDMTQ1WDNHa2thRGVwbldtc0ZLcWhWNUpmZlpjQ3hMS2NBZnk2bzF4SDBZR2VwemVmWm9oWTM3VjBSSFZGanF1dlBhQdIBngJBVV95cUxNS3RaN1pCdXVTZWNndm53MXNWalY4MmdTcXJpQmpwV1Yyd1U1dWtLblc0X2FaSVJKMTNsQ25JQ2pFVV9yajc1S2IzallTdTBCTEwwT0N5N3JVZ0Nkc3JHYmJhYU4xUFVwakRmTk1JODM2VjFrdU1MQVh5dW9palhYT1ZmUFZwczRsaUdUWGZrQ0JwOE14YV9LZjlDS3FENDA2Q1pzZEVSdVZnMTU5ZXY0UnhRTFRzTW9rZ0RKYUNqcW94SnE2amkxZk1LUlZpa2FVdTd0RkM2Tk1GZjF4eW5lOWs5RG9BWWUtU0dFUnZZaDZPM2FHUWxJS1BmX0ZOb1g1Z0h4UUhzbG1PNTUzMTlNSDVpZFlNeXhIdFozSXlB?oc=5",
+   "date": "2026-11-16T12:58:34+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
   },
   {
    "id": "1cc7c3cd45c8",
@@ -982,34 +1008,6 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEt0VDU5VU9BQ3Jjb2RyWk1ESDBBSmo4RzZuSk9HZFFXSFZRYkRNWlJIMGlieGIyUHlKaHFXS2pkaTducEwybHNQMUwxTUgtMXpMZktlLUZiVS1TSlNGempOOVZxelVISWpXRTVCNUNRNGMtaFhUQlhybktES01uX1JQWENHV0kwR2QzZXVyWS1fS3FGNmh1LWZlTzNndU1fUlBSbTBTcU51UXNjY3lmSmRjdXlIR1U?oc=5",
    "date": "2026-11-13T18:29:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5ebba5867c37",
-   "title": "Keiko Fujimori acude a misa del papa León XIV en Pampas de Pimentel en Chiclayo",
-   "excerpt": "La presidenta Keiko Fujimori estuvo presente en la masiva ceremonia que presidió el papa León XIV en Pampas de Pimentel. La mandataria estuvo entre las primeras filas de los miles…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM21NY3BGVmctNGJOUHdXT0Njdi0yZGhNTTl1SVdseFI5LXcwWTVpamI5blAtX0YwNk9pSXk3VGpiMklFeVByeDk4VnVYTEZsOFdGNnVFWmE2ODJWaS1EdTJEVzJ3WExlVE1pb2VLYUtYVWVGNmdCbkJLa0NLX1hUY2ZsczVVRzRCaUF5VWxhQUVoZExER1hkS2hTSzlTdTJld0tKTFVNaFZRSkdKZmhSQ3QxdE1JSUNxaEgwSWpsVG5PTS1DX2RBZFdZdHJPeFVmeTV1OXh2Z3AtU1hMUDZJSUo3VmtfSGVkUkZwRGZPNEZ3WHNM0gGIAkFVX3lxTFB6WkUtVjZWMmJOM1lsWjFleFZvazNpdFBzNVcwbm1LTWhhSFVGdkxGbXBXMnFYdHBreFR5aHpET0tIQjNOYmZESWhKbUd0dXZPRzRCQ3hLaUMxanVkdzlvc2plcDFPaUU4V2FTWkttRmdESzZzOElJeEZPck53cU4wRnFOV0UxN2VPYl9adjFyNzVldUI3dk9oTFNkS3FUT0t5UkRCQmIwMDJkTWZqa2pJbDQ5S3FTc0hPSkswRDZCQTZ3SkJaM1pvM1gxbTdrN2NpMHAtcDhKcXo4VXAxVVZTLTNnSkp2NHhxcWtVNk05N3pFMnBvTzJ3TG1NaU9mbmJ1ZkdsYmcyNA?oc=5",
-   "date": "2026-11-13T18:25:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Chiclayo",
-    "lat": -6.771,
-    "lng": -79.841,
-    "abroad": false,
-    "city": "Chiclayo"
-   },
-   "next": null
-  },
-  {
-   "id": "98da0cd28a22",
-   "title": "La presidenta Keiko Fujimori asiste a la misa del papa León XIV en su regreso a Chiclayo",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnBPakRiLW1LWU9EaF9tMzBxaUMwMjNxOVJ2WmRUVEhwUjlWUUNCRmYxZVEtaVRsREZvQk1JcW53dFpSTUM4eERYNXZHejJrTUU0dF92SkxEWk9CVnRMRV9EYi1JQV9FRGQ0YkgtajdaY1FTZDlpZGdOS1hRSWp0RFZUelVld0dqek1CR2k0eHdpT0NnazdzOFN0WXJrNXN1b3NsRG4zdk80aEhydWpRQV9fcC1sLWZqQlpFblZOVHhpMHdHWW5lM2FfUFlfck95SzJlZVU4UV_SAfMBQVVfeXFMTmRkSF9zYU9WdXp5SS1abmJtMWVGcmctVkdDRElZdmlUM2xFOTlNVmhIbnNZS2s5ZnJWYTUyb1d2U0VKR1VueG1JX2k4TGZuNk5TNVFSREZRMzYtT25obkNKalQ3MnhWemZ4R2lBMGJhRWxTbUxHWWlnOVp5UWVSN01TVl9EdG8teENrVWlHQzhVMU1qbnZoQ2VMYzZUQUJDZDVsTjZXTndVczZMcFpnOExkUjdRVzdEeE92RU1Ua0x0VUVfNjJXOE40ODF5Z1psQUs2RFpTUFNBc3pVMnlmNjhDbTBMYy1OZXYtaXJ4b194YXZV?oc=5",
-   "date": "2026-11-13T16:17:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
