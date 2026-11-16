@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T11:39:31.982552+00:00",
+ "generated_at": "2026-11-16T12:22:52.118027+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -262,6 +262,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1cc7c3cd45c8",
+   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
+   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
+   "date": "2026-11-16T12:03:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "75c37d95eede",
+   "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+   "excerpt": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/ahora-si-la-china-una-cronica-de-fernando-vivas-sobre-el-viaje-de-keiko-fujimori-apuesplan-noticia/",
+   "date": "2026-11-16T11:58:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4ecbeecb106f",
    "title": "Canciller: viaje de presidenta Fujimori promoverá el comercio y cooperación ante El Niño",
    "excerpt": "",
@@ -400,17 +422,6 @@
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NXQWxLb2JMOFAyamt3LVU2Y0xOMi1UbGk1T1M2UVp5Y0x5Qmg2OVVWb2VSZFJwbDhkUmlVNzZBNkdUQ00zdUZNZUlaU0RLdnNTMmN6YXFqTC1vMDg1dnNNT3JVV2R4bkRKWm0zLWZtWDM2RGNzR2NlbHByejRCamljTGNBWFllVC1oRHNfYUhScWtHdnBHQTMzcmVHa1B5WjVHYnFPUjNiTmc4V1dR?oc=5",
    "date": "2026-11-16T00:00:00+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "75c37d95eede",
-   "title": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
-   "excerpt": "Ahora sí, la China, una crónica de Fernando Vivas sobre el viaje de Keiko Fujimori a China y Japón",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/ahora-si-la-china-una-cronica-de-fernando-vivas-sobre-el-viaje-de-keiko-fujimori-apuesplan-noticia/",
-   "date": "2026-11-15T23:42:56+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -569,17 +580,6 @@
     "city": "La Paz",
     "abroad": true
    },
-   "next": null
-  },
-  {
-   "id": "1cc7c3cd45c8",
-   "title": "Vladimiro Montesinos permanecerá en prisión hasta el 2037: ¿Cuáles fueron los argumentos del PJ?",
-   "excerpt": "Vladimiro Montesinos, exasesor presidencial del Gobierno de Alberto Fujimori (1990 al 2000), permanecerá cumpliendo condena hasta el 2037, por el “Caso Pativilca”.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/reves-para-vladimiro-montesinos-permanecera-en-prision-hasta-el-2037-cuales-fueron-los-argumentos-del-poder-judicial-noticia/",
-   "date": "2026-11-14T23:32:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
