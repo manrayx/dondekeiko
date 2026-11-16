@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T23:06:24.473693+00:00",
+ "generated_at": "2026-11-16T23:27:31.578727+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "China",
+   "abroad": true,
+   "city": "China"
   },
-  "source": "La República",
-  "date": "2026-11-16T22:36:41+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-16T23:20:27+00:00"
  },
  "next": {
   "place": {
@@ -120,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 1,
-  "triste": 2,
-  "posando": 56
+  "triste": 1,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -295,6 +293,32 @@
  "agenda_minutes_7d": 348,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "207323d5af2a",
+   "title": "Keiko Fujimori viajó a Asia y no despidió al papa León XIV",
+   "excerpt": "",
+   "source": "Jornada",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2JMZWN1ZzZEZDhqc2JUb1lVTElHYTJ1OEg3ZTNIcWltcU9mLWJ0ajB2RVhkN05UZXUzZDRScU1HT0dkaldqMVVEcDNPTXdTV2lGNmJhSEFSSlJFZmNUb1FqX1NTNDRrTGhhdGc3UnJtMmRoczRzd1A0SDhzVTRwVHFOYUUxWldyV0dxbEpQVlFuMmNSNXg4LU1HLTVJWWlYR3R4Y2hMcUVMTnp5N3VBRFlGUEFPRXQ5YVhaX0ZB?oc=5",
+   "date": "2026-11-16T23:21:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "92de2c515558",
+   "title": "Keiko Fujimori: ¿Cuál será su agenda oficial en China y Japón?",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/",
+   "date": "2026-11-16T23:20:27+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
   {
    "id": "d54df5e516e6",
    "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
@@ -690,7 +714,7 @@
    "id": "4da11a4a9d12",
    "title": "Keiko Fujimori viajó a China para participar en cumbre de la APEC",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkMzNHZZX0RpYmltYW5kZUFoLWRHbVJqZkJob0VDSUJEcE95ajVOS3QzZndIMmdQXzdSZW5DX0diampXOXFIdkV3TGdBTnpQUWpzVnU4R0MxdDZUMzg0ajRjTFdnNEtrRXZlQ0hyek40UjNmTUk0MWFDYTktSmpKdlFXU0IzM3Q2ZVFzUHFtOHd5alpXZHc?oc=5",
    "date": "2026-11-15T22:37:33+00:00",
    "state": "posando",
@@ -1020,28 +1044,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzU2YVRWcjY3SHRJNURDYWJoOFZwMTBQTVJnY2pkU0dTVHJPYUNEMDR4SURPQXR2Zmh2YVpBMEt6OEM5bWNTX0dqSHYwaDBQSzQxT2JNODZhaFFrYXJFdi1ucUZvTzYwRWRtY292Z3BUT1J4d1k2andYLUQ5c1JJSHpaVURic2hpLXk2QzFTSGdrd1JXbTVtOFhaT05aYUJUQ3JuU3V6b2tqaDZB?oc=5",
    "date": "2026-11-14T07:08:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a48768a45fbe",
-   "title": "Luis Solari cuestiona viaje de Keiko Fujimori a China durante estadía del papa León XIV en Perú: \"Hay gato encerrado\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEVGOEtrVkFJdk5ZYnRjRF91MHVyck56cDZZLW5qTk1ZMU9ZSHdvUS1FcExwSlFORVp4Y2loTkhqSHFuVWdWb2JTNGdSQmhGYTVibGVhLVVQeTRtQmZrZTZHQlJyRTd0QWhjNG9tSDZKdzFMOGVZaVpHRU5ramg4VEQ3bjB3SlBMbWhMZ0RSTjludw?oc=5",
-   "date": "2026-11-14T03:17:39+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e8bfbe5f9c0e",
-   "title": "Presidenta Fujimori: el mensaje del Papa León XIV nos inspira a construir un país más unido y solidario",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM0doN0xpTDBWa2ttZWFSeUR6dGRZNmlHc0ZxM2lkU1VhYlNuWFRmcHFFeFlldFRCQTFPQUdDUFUzcVdFLXZ1bk9iVVBmdlpXVDBvclhXem9LeGhvcHZ2UkNxSUhsemJSRFU2WWw0LWQ0VUcyZHRYSFl4OGVzcS1fYlRfUFRMdDFvcEV6TFdudWpPYWc2RmE3ZUFER3JSYkVLZjg2RGJndDR6VzZ4Q1dTZENCVDZwbkFMUDR0REVzRFB4cXVsLW9aNDBDRzZBaUpVbk5QWA?oc=5",
-   "date": "2026-11-14T01:24:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
