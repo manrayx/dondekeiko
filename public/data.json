@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:27:45.284756+00:00",
+ "generated_at": "2026-11-17T19:49:39.304798+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -295,6 +295,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "fe9e5c050255",
+   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
+   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
+   "date": "2026-11-17T19:34:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ae3d0f842500",
    "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
    "excerpt": "",
@@ -343,14 +354,18 @@
    "next": null
   },
   {
-   "id": "fe9e5c050255",
-   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
-   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
-   "date": "2026-11-17T17:33:56+00:00",
+   "id": "39134c0504ce",
+   "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFBSUTRwbFo5MVcybHlZdGlmT1draVMtVGdneFQ5YWNJRTNscWgzSGJxVzhRb1lDT01vV2t4ZzRQLWNYOHg4QXJnVzktZ0g5VTYyMUVaSkNicW9vWGJMYnBPd3BFekttTTZ5WWRhcFNhTHBzazllSURocHF5c3NzVy1BVGZpU2p2ekJRMm56djd5WlozajBuSzNkblp3ZEpmajBGOXVWN3o4b3M0RTVTNFVkUy1CQUNUbDNzVGNPQlQ?oc=5",
+   "date": "2026-11-17T17:19:00+00:00",
    "state": "posando",
-   "place": null,
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -631,21 +646,6 @@
    "date": "2026-11-17T12:59:03+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "39134c0504ce",
-   "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFBSUTRwbFo5MVcybHlZdGlmT1draVMtVGdneFQ5YWNJRTNscWgzSGJxVzhRb1lDT01vV2t4ZzRQLWNYOHg4QXJnVzktZ0g5VTYyMUVaSkNicW9vWGJMYnBPd3BFekttTTZ5WWRhcFNhTHBzazllSURocHF5c3NzVy1BVGZpU2p2ekJRMm56djd5WlozajBuSzNkblp3ZEpmajBGOXVWN3o4b3M0RTVTNFVkUy1CQUNUbDNzVGNPQlQ?oc=5",
-   "date": "2026-11-17T12:30:51+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
