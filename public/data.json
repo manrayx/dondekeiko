@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:11:32.821213+00:00",
+ "generated_at": "2026-11-17T11:33:00.562849+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -260,6 +260,17 @@
  "agenda_minutes_7d": 296,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "2f89bef1f9ec",
+   "title": "Keiko Fujimori y Xi Jinping se reunieron en Shenzhen antes de la cumbre APEC 2026",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNktTMjBOeFF6dFR5bEhqNm9wa3o4a0JxRUFkWkNDR0ZFQ3VsQmpEdk1SWjJMeUNvWnF1VmUybURZM0FrMWcxZURWdnA2cFFqQjdLU3llQXdacVdrWTNVZk1wQjJmTlp3UmF4QnZoTE42NnNjQmV1MWxuTGIzMFZfODNCWW1tS1R2VG5PeFo0ZG41cEktcnhvTDZUd1ZFUnpJZVczSmVMZzNzSGtrNm9YRzNaTjVWSFlPa0FKNlZGcTlQTHRTek8zcV9n?oc=5",
+   "date": "2026-11-17T11:15:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "fe9e5c050255",
    "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
@@ -994,21 +1005,6 @@
    "date": "2026-11-15T04:56:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "a695aae91730",
-   "title": "Presidenta Keiko Fujimori recibió a premio nobel de la paz 2015 en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYVRjNTBkanZBSW11cF9sZE5wdkRUY2V1cWNIQldvWXRpYTVtMHE1MnNNdkhBeW1Bc2NZSDJMbHU5UmRHOEFsRldqWHZxVlVGYzdkM1B1SlZfeUJNZEFiUFAwZmZWZ25SeVVGSlNDYWtXX01uVy1zWDJkZmNFUHFMYlFOWUZaSVNYVzVLdk9iOHowS3EtQ2IwcTZGT0wyX0FzZmhFNUJpRmFyXzFaXzJwVGtDeHpVRXVqMmdLaUs5eG9pUQ?oc=5",
-   "date": "2026-11-15T03:34:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "La Paz",
-    "abroad": true
-   },
    "next": null
   }
  ],
