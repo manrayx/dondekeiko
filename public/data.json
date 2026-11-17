@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T15:08:44.872135+00:00",
+ "generated_at": "2026-11-17T15:30:16.214889+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -295,6 +295,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b54d4ee33e4b",
+   "title": "Keiko Fujimori anuncia que China donará US$ 22,5 millones al Perú para enfrentar el fenómeno El Niño",
+   "excerpt": "La donación no reembolsable y la maquinaria para labores de prevención fueron anunciadas por la mandataria peruana luego de su reunión bilateral con Xi Jinping en la cumbre de APEC",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/17/keiko-fujimori-anuncia-que-china-donara-us-225-millones-al-peru-para-enfrentar-el-fenomeno-el-nino/",
+   "date": "2026-11-17T15:14:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6bf4f84fedc7",
    "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
    "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
@@ -364,17 +375,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUtUcExZSFVnOVBfR2NzTDI5V2E2dUs4Wm9JS0s0V1BtOGhSdW1HRlkyWkpnSWtNWGNsMVRCTENYci03bU9hSDJ6X3NHSU5iYWF0WnJyUmNKYzFpMEdleC1xXzI3X2lUVnlTbHVzOW5HOHJLcUpQNUtrb3RYUUxpUlo3UFhXZU55TzJzcmVmeTF5LUpIOU42Y3pyUEFnY2RqN3FrclZTa2F2UjM2d2pPcFN2bHJhd2dVc1E?oc=5",
    "date": "2026-11-17T13:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ae3d0f842500",
-   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN2lVLTllZkthbHZtZENpdVNuVzBKbnFlUlFJMlJBU3FRODh3bG5YbEJDUGZkZFpETXo3TWd1T3NTR0xNYWlHeDBQekhRRTRYcTlMeHRSd1VlQjl3MjNaam5hZGRPY0tSOFBxSG91ZVZoanNiZmRDTF9CU2dNTll1dW5SZjBNdHRBZWpoS2ItczVEZzhYSGVzdmdUVEZ4SlpQdWk5R1dXX2NzTFBvY21RMUtGVUhhZFl5YlE?oc=5",
-   "date": "2026-11-17T13:35:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -461,12 +461,49 @@
    "next": null
   },
   {
+   "id": "ae3d0f842500",
+   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnpPdkZFZUh6Q2ZJMlltbmhPdlJmWXUwbmdBeXZyVHpySV9FQV9hVE9HaGhKNERmNnExQ3pLNWU4ZFQydFJCeG9qcFI0T0kxSkxYcDBRdnFhT3lxMGVDZERqXzgyUWNndVFsMUw2UlRZU2xJMVp4bjU2eWp0VFJyY08zUnNEMWdCWFQ2OGlsbThkOEZpLXdEc3pkT1FXMXhNX1B6dUtWT3JNVDdDaHRLNXdOUmlPSV8wQzVvRjNoTQ?oc=5",
+   "date": "2026-11-17T12:42:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "39134c0504ce",
+   "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFBSUTRwbFo5MVcybHlZdGlmT1draVMtVGdneFQ5YWNJRTNscWgzSGJxVzhRb1lDT01vV2t4ZzRQLWNYOHg4QXJnVzktZ0g5VTYyMUVaSkNicW9vWGJMYnBPd3BFekttTTZ5WWRhcFNhTHBzazllSURocHF5c3NzVy1BVGZpU2p2ekJRMm56djd5WlozajBuSzNkblp3ZEpmajBGOXVWN3o4b3M0RTVTNFVkUy1CQUNUbDNzVGNPQlQ?oc=5",
+   "date": "2026-11-17T12:30:51+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "d86485b56fbc",
    "title": "Keiko Fujimori anuncia apoyo de China por US$ 22,5 millones para enfrentar El Niño",
    "excerpt": "",
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYXdCbWRhZmZrWWpmNXJxMmFGc2FsblcwU2lLaFFNRWFxajZuMXQza0ktVzB5LWViekQtbUZxOVFEc3ZiQUdUeml6LXhpeHU3TUdJSWF0ZHg4bG9nSlJma0tpSmVnbUZjeHJ0cnZuRmV0Vk9GUVNxTXA4SUVMMjU5TmhyOFJCaXlKQi1aQ0E4eElsN0J3V0dYV2wya04wbVJfNG85QzhjOWMtc19UOXc3VEkwNm8yRWFqUDFmM1dYNNIB0wFBVV95cUxPeEJCeVdUUG1BMmRnOHREY1JNRnAzcWVOcnVJNlFKajBzNkh2UnFnQXhJWDZCUjR0bWlleHhhdkFILTBqWDlidXZBU0h6NU92V21Dbm9QdjFLbXRzY3ZXTW5ORXdEdWwzR0ZMZHdqV2ZsLTV2Y3VhRzhFSVZCd2pkVkxPRS1jQjdhZ21IUTRtdlhYcC1QWWYtbnhHYkhwQVctZkRSd2poTVFOUjFMTVJGQUxnZ1A1Z19uMTJ2R2pKeUI0WktaUmFVQ1ZBLUs1OVRNWVJZ?oc=5",
    "date": "2026-11-17T12:30:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b1700f40c0b1",
+   "title": "Las crisis en Perú debilitan la confianza en Keiko Fujimori",
+   "excerpt": "",
+   "source": "DIARIO VIRAL",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDBpVzBRb0J4aVR1VXB2bVBmMERJQXNRamxJOUpCSFBLVmV0Rlk3Y05iVzl0TjFRWlNBQ2VIM2dCQTV4UlQ2WHlQalp6bzl2R2xaajk3X2NURzh2VUhTU1UzczNQR0J6M21JeDgteWV0bXE3SWtWcjNKMzRYeDFnWGVqOV9MVGVhWU5RTlhYMDNvaFA1anNaV0xtbw?oc=5",
+   "date": "2026-11-17T12:22:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -530,21 +567,6 @@
    "date": "2026-11-17T11:55:25+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "39134c0504ce",
-   "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcDNMdU1CbU1fNnFmbEw5cmxmQlF4REtBQ24yUFg4UzRVZ0lJa0h3ZE1PdXRhRzFNcVlkZ1J2SHd5VUV3bTFTNk5KQy1uMGZNLUpPT3F5eGE1OHJZTEFsM25IbG9WY1lWbHkwLThpeFh6cGpqaDU0VmNPUlRKblUzLTNKajU0YjlZNmlqOGZCQUJ6Vk5UVERhYzNZT24ybDlvODNOLWY2UmxEbHpiODJMWjlheHZmMzg3YmZDWTExTUQtWURxeE1jZGVUWXNqYkgzUU1XZXpRcXNWQU0?oc=5",
-   "date": "2026-11-17T11:50:58+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -1002,28 +1024,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "1be4d20373ca",
-   "title": "La presidenta Keiko Fujimori en su discurso al Papa: “Que la reconciliación sea el regalo que su visita deje al Perú”",
-   "excerpt": "",
-   "source": "Radio y Televisión Riojana",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSHFnU1dVZTN0ejZ2MHRNcHg5cnBLemdJcW1GTmZ2cHRaZHJDWXJHa2hNTWZibHVvME9TWlBwSDRGN240TVU1V2ZlMjhXRmUwVkZRNTlOZnVrc2hxZjlBeEFZc2RCdFlrZkhwR05qRWp1UkMta09Za2pFVE1ZdjBESDRhcGtBNHcxczRGbzcyYUNDbFR3SEpQN0ZvN3FKajhqTEZ4eFBMay1YeGkxaExvOW0zYjJvdmloNFNpTHhNcE5CcXp4SmNCU0RqeWhtZy02Vy1rY2l1VHJmWU9NZG9ldDZ4UkpmLXV6NWkzOGpwVVBUMFhmVUFDOXl3?oc=5",
-   "date": "2026-11-16T05:24:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4ecbeecb106f",
-   "title": "Canciller: viaje de presidenta Fujimori promoverá el comercio y cooperación ante El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTDZSa0pGOEFSbVpraWYzMWwzdXZUd3V0cVBPcHo5bWxxVEltbVlScTFvNU00b2EtN0Z1SVExcmEyTzZEam51M0M3TlFrRHdUd3F4M0t4clo2bzhmY1gwRlRLYlJHeVJ1VXAweVotamZsRGNqUDd3Q3FnaUg3WjNRd3hLZU9BMEgxZ2Z5ZURYLUNrRkcwaUUtbUJqcS0tYkM5SG9vXzRpcktnbzBub0pwRTlBbUE2XzMxVXJfWHFqbnhVOEU?oc=5",
-   "date": "2026-11-16T03:51:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
