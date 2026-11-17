@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:35:18.197140+00:00",
+ "generated_at": "2026-11-17T16:56:44.543065+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Perú Informa",
-  "date": "2026-11-17T15:54:19+00:00"
+  "source": "La República",
+  "date": "2026-11-17T16:52:25+00:00"
  },
  "next": {
   "place": {
@@ -295,6 +295,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6bf4f84fedc7",
+   "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
+   "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-china-en-vivo-minuto-a-minuto-de-su-gira-antes-de-la-cumbre-apec-hnews-558331",
+   "date": "2026-11-17T16:52:25+00:00",
+   "state": "transmitiendo",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "dc3b4deb4cd0",
    "title": "Keiko Fujimori anuncia donación china de US$ 22.5 millones",
    "excerpt": "",
@@ -395,21 +410,6 @@
    "date": "2026-11-17T15:50:55+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "6bf4f84fedc7",
-   "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
-   "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-china-en-vivo-minuto-a-minuto-de-su-gira-antes-de-la-cumbre-apec-hnews-558331",
-   "date": "2026-11-17T15:49:07+00:00",
-   "state": "transmitiendo",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -532,6 +532,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "208ec2e7de05",
+   "title": "Keiko Fujimori anuncia apoyo de China por US$ 22,5 millones para enfrentar el fenómeno El Niño",
+   "excerpt": "",
+   "source": "Diario Altavoz",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1VydE94MG9RYm5pTVpvVUcyNXdvWS1DWC1ZSnV6NXNhdXVDcXA1LU9IazRuc2hFM1JWMEtFODlwZXJBNHRpQUV1MkxFQ2hmNUFtZnF6b2tQTEV1UVNwNDR2VjdPNGFXeHVCQlNRdENWMWIzQlozaUwtcmZwS2lPUWh5ZjhacG5ESGJCcG90SXR5VUMzZHZtVjIycVNjRGsyYmt6YklfdWR5SWFaajN2ZXI1aUFuX1liMFlWOC1R?oc=5",
+   "date": "2026-11-17T13:06:21+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1007,17 +1018,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "6bbbf0ec5986",
-   "title": "Carlos Espá: viaje de Keiko Fujimori a China y Japón impulsará comercio y apoyo ante El Niño",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2hpUHFrY0VZWWtpTW5EdTdpQUVERU56ZVN0dXlpMlRtQ0RkTDdELU5xSWxPVEZBcHc2VG5BbkVVNTVfRmVFV005TWpyb0RDS1czN29ZYWV2OTRGN2hoNUVVZFVPS1Ricl8xa0J5OGlfRE0zNko1aGt0NmtfUll3TjBuTFRNZ3VwYmdGRUNSUFJrQUR5RlMxMGtrWDYwQUhoZFhldTNIZHRaUjVYaTZXNEF2WTlPN2FxZFgxeHVPbUhkd2hVdkEtYVU3VDRDUdIB4gFBVV95cUxPeENYOHZ2M0ZtQjhkd1FaSGt1NWtyNTFYeGxONVQ4ZksxbDhvaEoxVTVVMVdiM3g2V2RrRjMzT0Nyb2txQnVZNkswZVQzMkZkLXNobXVKTVVXZFJRcjJsRVd1UW02RWJfcUEzRXZGS1FpQ1lLOGdMVFA2WVpVZlNHRElMUjByR0liQWNJNVFxSXQyV1ZZQmN4cFU3QkRfTElGbENybFBKakZjSkZLVE5SR2RhZzBNY04tcWxfbVAtbDlyN0wzTTdxYjczM2VNSGZzMTRuV1h6T1VRNF82eklXamZ3?oc=5",
-   "date": "2026-11-16T17:55:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
