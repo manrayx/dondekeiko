@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:56:44.543065+00:00",
+ "generated_at": "2026-11-17T17:40:01.954785+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -214,7 +214,7 @@
    "start": "2026-11-11T20:20:00-05:00",
    "end": "2026-11-11T21:09:00-05:00",
    "minutes": 49,
-   "subject": "Participa de encuentro del papa León XIV con las autoridades, el cuerpo diplomático y la sociedad civil.",
+   "subject": "Acompaña a la señora Presidenta de la República al encuentro del papa León XIV con las autoridades, el cuerpo diplomático y la sociedad civil.",
    "lugar": "Gran Teatro Nacional, San Borja",
    "state": "posando",
    "place": {
@@ -295,6 +295,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "fe9e5c050255",
+   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
+   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
+   "date": "2026-11-17T17:33:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6bf4f84fedc7",
    "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
    "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
@@ -332,34 +343,12 @@
    "next": null
   },
   {
-   "id": "fe9e5c050255",
-   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
-   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
-   "date": "2026-11-17T16:23:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d3d3f3f063a6",
    "title": "Keiko Fujimori pide a empresarios chinos seguir invirtiendo en Perú y promete estabilidad económica",
    "excerpt": "",
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcDVyQmotYi1pOEhxdXJkY1lUREZqYjNDbjZxc3YwSW11TGxwT2Q4OUFvcGNLdEd2VDdMWkQ1N2RPNjVzbFRkVV9HdlZxcS11WE5WMVltdWFHLWxjbGtMSUU1aFNmZ0hJQUlmVGNoQ1dBOXdaVEFFeUd6cUwtdU15UWZGczlLUDlSQXZoaXhuQXhodkd3dFFFaWxXMTRVVlBTWHc1czVseDUxc0ttNXlQVjZVRkFIMU54MXdJdkZuUlFVSFk?oc=5",
    "date": "2026-11-17T16:20:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "afa1407133b1",
-   "title": "Keiko Fujimori anuncia que China entregará 22.5 millones de dólares al Perú para enfrentar el Fenómeno El Niño",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdExad2tqRGtobWU5dDhaVnJhazVUZEpQbGo0SDhGN2NfanlXNXNlaXJQNnhMdXR0V05LUnM1V2plMm1XcEc0THVqUkN1YzNyV21KTVlPTTNkR08tZVBxVV9uUTk5VUpuN3JWTXpBTmFRSkE5OWtnVzAzWXhCQy1GQmtkbUtORzhNcC05NXJmcTlkNXYzOXdCNFJSUWRiZW9QZVFGRWhuZDFxNlkyNFc3LTF4QVBzb2M1Q2hRdmdhSE1QdlhJcHU4NV9xbmhidEVzc2FWSXJyNVNjcUtZaFN6bVg4bnRWNEJyUlIwSkprNA?oc=5",
-   "date": "2026-11-17T16:03:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -532,6 +521,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "afa1407133b1",
+   "title": "Keiko Fujimori anuncia que China entregará 22.5 millones de dólares al Perú para enfrentar el Fenómeno El Niño",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdExad2tqRGtobWU5dDhaVnJhazVUZEpQbGo0SDhGN2NfanlXNXNlaXJQNnhMdXR0V05LUnM1V2plMm1XcEc0THVqUkN1YzNyV21KTVlPTTNkR08tZVBxVV9uUTk5VUpuN3JWTXpBTmFRSkE5OWtnVzAzWXhCQy1GQmtkbUtORzhNcC05NXJmcTlkNXYzOXdCNFJSUWRiZW9QZVFGRWhuZDFxNlkyNFc3LTF4QVBzb2M1Q2hRdmdhSE1QdlhJcHU4NV9xbmhidEVzc2FWSXJyNVNjcUtZaFN6bVg4bnRWNEJyUlIwSkprNA?oc=5",
+   "date": "2026-11-17T13:08:50+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
