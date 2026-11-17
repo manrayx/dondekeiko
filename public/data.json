@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:40:01.954785+00:00",
+ "generated_at": "2026-11-17T18:01:57.812777+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "La República",
-  "date": "2026-11-17T16:52:25+00:00"
+  "date": "2026-11-17T17:53:19+00:00"
  },
  "next": {
   "place": {
@@ -295,6 +295,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6bf4f84fedc7",
+   "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
+   "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-china-en-vivo-minuto-a-minuto-de-su-gira-antes-de-la-cumbre-apec-hnews-558331",
+   "date": "2026-11-17T17:53:19+00:00",
+   "state": "transmitiendo",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "fe9e5c050255",
    "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
    "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
@@ -306,18 +321,14 @@
    "next": null
   },
   {
-   "id": "6bf4f84fedc7",
-   "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
-   "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-china-en-vivo-minuto-a-minuto-de-su-gira-antes-de-la-cumbre-apec-hnews-558331",
-   "date": "2026-11-17T16:52:25+00:00",
-   "state": "transmitiendo",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
+   "id": "978378a6dce6",
+   "title": "Keiko Fujimori participa en APEC 2026:...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRzdaVmVhaTBDd0lEa3BnUGYzbVFUYWloRjBPcUR4UGxmbFlJeFdPdU5kQmRJTWZpdUYwc0tZaVFXZWh2dGoxOVRuSkZYV1RORm1rcXByS2g2SkFhMFExYVpVeEhMNzZ6ZHh6Rk40WFMzazUxSjJJb2taTUN5aFQzSm9OelpHYlNhWXIxd1ZXa0ZNck5qdmtrcXM5cmFHU2VmbE54V2xUOFZ1VjF3eVlHR3RjVW1JcUNVdzgyakpnZ2FaVVJfcUI2WmVZVWYxQdIB0wFBVV95cUxNczZjMXJQekliQXVDNGJuU280UGlhTTV5TGtvMllLTmY0eHdlY25kZUczN2FsY25kMXJIZnJ5Wm5xLXdLYWM5UlU2cVpvTjVxZGJ6eDZSLVEweFZoSTh3dXJxbWRVanczbzVSQ0Yxai1wQXpvNUF1YjR1eGFnQzVuZmZSN1g2ZUpxekh1NFh1OU5MWHZMSjBScm9TYS11Z1VtcW9DeHpNUTQ2bjE5Wmw3eUZLanZRb1Zmb2xVVE0tYktfUUZ1VjBTT2lwN3U5OUV0X0Jv?oc=5",
+   "date": "2026-11-17T16:32:07+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -340,6 +351,21 @@
    "date": "2026-11-17T16:26:50+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "dbe502f2eeae",
+   "title": "Papa deseó éxitos a presidenta Fujimori en su participación en cumbre APEC en China",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09mS3hrZE54a1F0WVJhNEN6VHkwaHJDQllNT25IbHFnQUJoMDQ4Y2RweGhNdzU4UU5nY19vSlNMUFRlRElsWTJ6SkVHaGI2LW5QWk5Kb2NHRVU4eHFhUVEzNDRJVFA1SjhfekljMjlkbWU1cnBQWGI4RTl2THZZRHJLQmVBVjBkWVhSYWxtSVpnQjFkNWQzU0ZvekhSWnFqOU5TZnpCZm5tMnc2RU5iMDVReGJUTzFhZFZF?oc=5",
+   "date": "2026-11-17T16:23:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -402,21 +428,6 @@
    "next": null
   },
   {
-   "id": "dbe502f2eeae",
-   "title": "Papa deseó éxitos a presidenta Fujimori en su participación en cumbre APEC en China",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09mS3hrZE54a1F0WVJhNEN6VHkwaHJDQllNT25IbHFnQUJoMDQ4Y2RweGhNdzU4UU5nY19vSlNMUFRlRElsWTJ6SkVHaGI2LW5QWk5Kb2NHRVU4eHFhUVEzNDRJVFA1SjhfekljMjlkbWU1cnBQWGI4RTl2THZZRHJLQmVBVjBkWVhSYWxtSVpnQjFkNWQzU0ZvekhSWnFqOU5TZnpCZm5tMnc2RU5iMDVReGJUTzFhZFZF?oc=5",
-   "date": "2026-11-17T15:43:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
    "id": "dd8aa72fa3c4",
    "title": "Encuentro de la presidenta Keiko Fujimori con empresarios de diversos sectores de China",
    "excerpt": "",
@@ -451,6 +462,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "d86485b56fbc",
+   "title": "Keiko Fujimori anuncia apoyo de China por US$ 22,5 millones para enfrentar El Niño",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYXdCbWRhZmZrWWpmNXJxMmFGc2FsblcwU2lLaFFNRWFxajZuMXQza0ktVzB5LWViekQtbUZxOVFEc3ZiQUdUeml6LXhpeHU3TUdJSWF0ZHg4bG9nSlJma0tpSmVnbUZjeHJ0cnZuRmV0Vk9GUVNxTXA4SUVMMjU5TmhyOFJCaXlKQi1aQ0E4eElsN0J3V0dYV2wya04wbVJfNG85QzhjOWMtc19UOXc3VEkwNm8yRWFqUDFmM1dYNNIB0wFBVV95cUxPeEJCeVdUUG1BMmRnOHREY1JNRnAzcWVOcnVJNlFKajBzNkh2UnFnQXhJWDZCUjR0bWlleHhhdkFILTBqWDlidXZBU0h6NU92V21Dbm9QdjFLbXRzY3ZXTW5ORXdEdWwzR0ZMZHdqV2ZsLTV2Y3VhRzhFSVZCd2pkVkxPRS1jQjdhZ21IUTRtdlhYcC1QWWYtbnhHYkhwQVctZkRSd2poTVFOUjFMTVJGQUxnZ1A1Z19uMTJ2R2pKeUI0WktaUmFVQ1ZBLUs1OVRNWVJZ?oc=5",
+   "date": "2026-11-17T13:56:42+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -590,14 +612,18 @@
    "next": null
   },
   {
-   "id": "d86485b56fbc",
-   "title": "Keiko Fujimori anuncia apoyo de China por US$ 22,5 millones para enfrentar El Niño",
+   "id": "39134c0504ce",
+   "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
    "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYXdCbWRhZmZrWWpmNXJxMmFGc2FsblcwU2lLaFFNRWFxajZuMXQza0ktVzB5LWViekQtbUZxOVFEc3ZiQUdUeml6LXhpeHU3TUdJSWF0ZHg4bG9nSlJma0tpSmVnbUZjeHJ0cnZuRmV0Vk9GUVNxTXA4SUVMMjU5TmhyOFJCaXlKQi1aQ0E4eElsN0J3V0dYV2wya04wbVJfNG85QzhjOWMtc19UOXc3VEkwNm8yRWFqUDFmM1dYNNIB0wFBVV95cUxPeEJCeVdUUG1BMmRnOHREY1JNRnAzcWVOcnVJNlFKajBzNkh2UnFnQXhJWDZCUjR0bWlleHhhdkFILTBqWDlidXZBU0h6NU92V21Dbm9QdjFLbXRzY3ZXTW5ORXdEdWwzR0ZMZHdqV2ZsLTV2Y3VhRzhFSVZCd2pkVkxPRS1jQjdhZ21IUTRtdlhYcC1QWWYtbnhHYkhwQVctZkRSd2poTVFOUjFMTVJGQUxnZ1A1Z19uMTJ2R2pKeUI0WktaUmFVQ1ZBLUs1OVRNWVJZ?oc=5",
-   "date": "2026-11-17T12:30:03+00:00",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFBSUTRwbFo5MVcybHlZdGlmT1draVMtVGdneFQ5YWNJRTNscWgzSGJxVzhRb1lDT01vV2t4ZzRQLWNYOHg4QXJnVzktZ0g5VTYyMUVaSkNicW9vWGJMYnBPd3BFekttTTZ5WWRhcFNhTHBzazllSURocHF5c3NzVy1BVGZpU2p2ekJRMm56djd5WlozajBuSzNkblp3ZEpmajBGOXVWN3o4b3M0RTVTNFVkUy1CQUNUbDNzVGNPQlQ?oc=5",
+   "date": "2026-11-17T12:30:51+00:00",
    "state": "posando",
-   "place": null,
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -670,21 +696,6 @@
    "date": "2026-11-17T11:55:25+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "39134c0504ce",
-   "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcDNMdU1CbU1fNnFmbEw5cmxmQlF4REtBQ24yUFg4UzRVZ0lJa0h3ZE1PdXRhRzFNcVlkZ1J2SHd5VUV3bTFTNk5KQy1uMGZNLUpPT3F5eGE1OHJZTEFsM25IbG9WY1lWbHkwLThpeFh6cGpqaDU0VmNPUlRKblUzLTNKajU0YjlZNmlqOGZCQUJ6Vk5UVERhYzNZT24ybDlvODNOLWY2UmxEbHpiODJMWjlheHZmMzg3YmZDWTExTUQtWURxeE1jZGVUWXNqYkgzUU1XZXpRcXNWQU0?oc=5",
-   "date": "2026-11-17T11:50:58+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -999,20 +1010,6 @@
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSV9Ec3FpRG1CSUtQZGNxZjVwU2lDQXNOZUVmM2xKRGdsZ29kUUE0WlQ4d0ItWVdqY2czYVk1QVVNR1hiUHZYcGVGQ2ZfZXNhWFhIRXdSME8ydFJBdndmRzNvVGlMQzd2ZGYwWG1wR0U1Mk0xeVBEQU95dXJPSTZ1NWxzYmZuRV9yN3NWMTIzb3N5VmZwbVFzVlhRcDlRTG9PVFpiMWtfaC1reVVETkVVSUoyVXR5Ty1HbkxrYWpFeWdjU0hYWjNOQlkwUUFOMzhOdXNaSFh5VXR3TllyN1E?oc=5",
    "date": "2026-11-16T19:57:49+00:00",
    "state": "triste",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "a937ba3e03c4",
-   "title": "¿Quiénes despedirán al papa León XIV tras la ausencia de Keiko Fujimori por su viaje a China?",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWlJrZG9DUm5neklYQ29MOGxiRldacTVHLWg5aUpSVVI0S2lpTTNxaTE2N0tWcXY5bGI1NFllcUhITm5ERElDX3ZTVFdLbnFtUmhCWk9WTTg0SWhHT2tfX2tBbVA3U3RrcFNHUW8zeUxKQl9yWGRsd2hTZWxTU0dsWDIzT3VWaVZ1VjhXYnhrZ0JSX1BGZ1hqMVBsWUZteFZJazFKbHIxYnp5SC1HeDBEZDZERk83X29VeGJDUg?oc=5",
-   "date": "2026-11-16T18:00:12+00:00",
-   "state": "posando",
    "place": null,
    "next": {
     "name": "China",
