@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T15:51:52.929210+00:00",
+ "generated_at": "2026-11-17T16:13:23.104467+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "La República",
-  "date": "2026-11-17T15:49:07+00:00"
+  "source": "Perú Informa",
+  "date": "2026-11-17T15:54:19+00:00"
  },
  "next": {
   "place": {
@@ -294,6 +294,54 @@
  "agenda_minutes_7d": 396,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "6330525f8b5d",
+   "title": "Presidenta Keiko Fujimori destaca fortaleza económica del Perú",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2NLZjhIWjhaZG1fYXBQT05hdURoMFgwakhnNHFuVWp4ZW5HM1hvZEVNdUFhZlFxb2dlTHZKUFBhZENldE9ka19vajJmNE4zN3FNSVAwc1I1dVprSVFHQTl1d2llX19RaHRrV21PdmI0NnBqemJXTnRXUHdVTU0yQ3pQcEhhVVA5RngtWWlUeU1ZQkNNNWo1Q3I0VDR5cDhCSkNfQUU2S1ZiODlESHA0ZDBudVlKUlQ4ODgxTUNVblkydw?oc=5",
+   "date": "2026-11-17T16:00:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c755bb771449",
+   "title": "Keiko Fujimori se reunió con Xi Jinping en Shenzhen a 55 años de la relación con China",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWZOQmVGSTVMWGJwSmdMYnNEdGd6ZWtqdi1BMmY4M2ZieV9rQnF6NzVmXzZteGZmUkl2YmdDX3JkSEs3a3NrZk9BRV8yZFVUQS1pUUM5THZzN1NmUzJkUFZBZ21WeUNRUXhUMzVZclVsWmxCVFYyazQ3cGJkbFJwU2VtS3BsQ2Ytakc5WnNHNTQ0YmdHdEF4VGFSbkFvMHVta1o5Xzh0RmU1X04zYkNVeGhuY25vRHVy?oc=5",
+   "date": "2026-11-17T15:58:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0a6a8062735d",
+   "title": "Presidenta Keiko Fujimori inició su agenda oficial en China con una reunión bilateral junto a Xi Jinping",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmQ3RjJVZGZWNHNmWmMtR1BSM19EUFJIcV9ISmVCZ0RPbVRUZGNOS3otUzlyWTctZDgta0c5bGtZN2RNRDc1bjJLc3pXSUtzYTRIM3EtMWJrYTMweDJCTnd3WHBjdm5DLTBHek5rOFJEak9ETHJlTVMtNkRmOXpIWHdHNlNNMmxiV0kwRHpSSnBCVUhMeGU4bGZCM3VsMm9YczRHY01heVZkSEk0VVdYaFZlb3BqZjVOUjR0OXQ3a3RwMmoxMHU1c0ExOEVWUQ?oc=5",
+   "date": "2026-11-17T15:54:19+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "8a129f7a57b3",
+   "title": "Xi Jinping y Keiko Fujimori se reúnen en Shenzhen antes de la cumbre de la APEC",
+   "excerpt": "",
+   "source": "HolaNews",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc20yVU1JLXFNX0hybUNDdktUcTlVM3ZjOEtQLTBaUk5ZMTFfNjAwcThnYTZ6QlprdUdnbGNNeHZlQTVnV1JRSlV3TmhrN1VRVnJiTms2RUhfM19kZkxyazdGYTRWQnJNRFFWU1JtWHhMOHp6dnA3Z0FicWExc3lXWVBSUDdpLUlRczlYRDM1ejZfQnZQUnM5QlFVRUc0UVQycEdR?oc=5",
+   "date": "2026-11-17T15:50:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "6bf4f84fedc7",
    "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
@@ -640,17 +688,6 @@
    "next": null
   },
   {
-   "id": "8a129f7a57b3",
-   "title": "Xi Jinping y Keiko Fujimori se reúnen en Shenzhen antes de la cumbre de la APEC",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaE1YVGp0eFFwYzVuSlR6N1ZHSFBsZ1kwVjlOSXQ4ZEhZSERyc2h4ODRaVVROS0cwTE9GNl9RN3BLb1lKeXd5M0ZkQl9CTG1tN1k4blJGdzVjcWRQTXBUeWNmRWZDblJ5QktMQ18xTnhfMWdzUEJuNE53cEpNYURlQU9mV0FpbjFMRmJ2dVctcGJCVXN5Wi0weVRUNFdlaWVxSUZsRkF4OU9qSTBiS0xubzFQaW5JeFBQR3JnN1l0N09aUmkwNktqMnkxRVrSAecBQVVfeXFMUFAxVUl1dWZxVm9wM0NBTXgzNTBRNldZSjFVR2thUmdEQWhOTENBSTY3amoyTG13d2ozTDAtTjVsNWE3bVVkNjRMVnRNalVKZVBjTHN4a3l1RVlRdUNDM0JJNDBGZkdoYk9OUTVhUVIxSmJQMXZzN0NmaVNOZmRRLWxSWTdxd0xHdVhOQ0M0TjlNMGJpWDRKOHJad3dhVl9ZdDVHX0NpclFJb3ZhaVRVQjVvenEwNldpenZ3MTlQX2UyZ1NzVUJZRkQ2amc1VWoweXZIemxHOVkwSzVzSHFMa1dMLU5SdTA0?oc=5",
-   "date": "2026-11-17T09:17:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "e959f785a27f",
    "title": "La presidenta de Perú, Keiko Fujimori, llega a la reunión bilateral con el presidente de China",
    "excerpt": "",
@@ -981,49 +1018,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "91f57d54e0d2",
-   "title": "Keiko Fujimori viajará a China y no estará en la despedida del papa León XIV en Perú",
-   "excerpt": "",
-   "source": "La Decana Radio Juliaca",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLW0ySk53dTFUZFBRWFNTa2NpX0prQ2xscXU0N1AybklpNGYybHBqbF8xQzV3WlhfQ0NOa3JvRHR4bm9kMWRJLXhXYktPYjBCX19JNlUzYW1KbkRRcFRHdU5sOFhqQTR2LXhWaUx0dTJ6aW1KT2ZtQ092TjB4c0ZuNEZhMUc1QkI2QzZ4OEx6RWRGSGlkQlNUNml3MEFYX2FwX0NOS3NvTlJxQWRZNENwc1EzY1F6d1REaU5tM1dNeUtTQjVz?oc=5",
-   "date": "2026-11-16T14:53:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "d6d4831fc8e8",
-   "title": "Keiko Fujimori agradece al Senado permiso para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWZoX3EyZHRCU0MxSEtxZ0dVbXhYancwWExRNUdMTVlSTlRXZUVlMHZFN2pTem5jckpLNUtha0VoSUlGZGwtQTZabDFWX0IyeTRfcklIbklSTE8tdFRFU29GME5ibkFEbUJPdWhUcGpMeTBZeFlRZEtzSXpyMXlvM0xtN0ZCUkVuLWZTM2xZR2ctekV1Tzl1VjVsMnBYU2h0U2Q40gGoAUFVX3lxTFBaUTdYYUJreC1oQ0RUelo4V2JpSFQzcHE0b3UzLThzQTZLeTRjdjFjVWN1a2hocWpFS2g4SFJXS2FHV1VRQ3NabDRrVk1XN1VFTmVnUVJNN3NidXNLdkxTOFphWEtoOEowRklMRVJld0szVTZ5djEwLWJLNDBmZUNFSjlQOVNpWlNHLUd0dE9HYXpBVHlzUkZNRlBsbzVzRnZvUmx2eFVGeg?oc=5",
-   "date": "2026-11-16T14:15:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a500170a8876",
-   "title": "Keiko Fujimori viaja a China: ¿Cuál será su agenda oficial en ese país y luego en Japón?",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPcFlBX2JIY0ROVnhVQ2RjYkNacVhQTGFYSGhJeVFnUFFpbTFsN0lmdThBdkt0Y3FacDlkMkRVaHc1c2Z6bjJMTFhjTy1hOFVDQkVaWWJPZkNwMkZVTWFLN0lPdmI1R1V4alh6RzV2ZXgyeWZDM3p6bVA2ZThUdVYzcTZWZGZsZGhvWlZrOFdKVllLTWpwOUszSGp3OTU5QkY3OGVLLXI5MjBqeGdJUkhkV25jemFBaTl1RUliZU9jSlpJenR1NzRPckhqVjhoNGZJTmpvLUxKNTJSbkhfTy1nRUxwWWFGOFpFM0lhazFfMG9WaVcyd1BKLVdFZGU4eGNzcVA5UmZjR2d5OWJKbEtndm9vZDVVUVFUdDQ0RHpKLXVvQWZDRE9hd3VXQnNlOEXSAa8CQVVfeXFMT3BZQV9iSGNETlZ4VUNkY2JDWnFYUExhWEhoSXlRZ1BRaW0xbDdJZnU4QXZLdGNxWnA5ZDJEVWh3NXNmem4yTExYY08tYThVQ0JFWlliT2ZDcDJGVU1hSzdJT3ZiNUdVeGpYekc1dmV4MnlmQzN6em1QNmU4VHVWM3E2VmRmbGRob1pWazhXSlZZS01qcDlLM0hqdzk1OUJGNzhlSy1yOTIwanhnSVJIZFduY3phQWk5dUVJYmVPY0paSXp0dTc0T3JIalY4aDRmSU5qby1MSjUyUm5IX08tZ0VMcFlhRjhaRTNJYWsxXzBvVmlXMndQSi1XRWRlOHhjc3FQOVJmY0dneTliSmxLZ3Zvb2Q1VVFRVHQ0NER6Si11b0FmQ0RPYXd1V0JzZThF?oc=5",
-   "date": "2026-11-16T13:56:51+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Japón",
-    "abroad": true,
-    "city": "Japón"
-   },
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
