@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:01:57.812777+00:00",
+ "generated_at": "2026-11-17T18:23:22.171612+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 58
+  "triste": 0,
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -294,6 +294,39 @@
  "agenda_minutes_7d": 396,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "ae3d0f842500",
+   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWluRmxLeEhtbHRQZEJNOTRVbmFpVDI0djk1d0g4aEl4U1BQaWNZU2pXY2tCaEF4anNieWRJN2pldlk5M1pJSVZuUkpjVV95WDJ2ZEk4bDRTUmJ1a3ByTmtZNGRVSE9jM1gtdkI1enpjRTZsVjQwMW9tSDBKQjBTVzZzNFFPRmoxc2N4dVViSzRxQkdZVHFoYXdYN3BNOFdqejllZ0Q2YktFWmQyN2hyY2dKR3ZsUElQeWVOckdKX09PYVdz?oc=5",
+   "date": "2026-11-17T18:12:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "45e3cff15968",
+   "title": "Reunión entre los presidentes Xi Jiping y Keiko Fujimori no fue un encuentro bilateral formal",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVlfb191bXQxTEx3dGV4UVpVWHpUc3Z0VzlOR2NIYklub2lOLVVaTm9ydjQ0N2NFZmlGOFFWV0ZRa0hzaEV5Z09UbjlPc3ZELXZuZGNxNkNqV2VUWnhMMDZmXy1QYVJVc0steTFYTnVMa1dOVUtoWVF6VWFWcTc0MV9YYlJlU0xfVEJPWTFIekMzQUIzcGtNajhFcEZQSEJFd0lCVVlYUTB0UzlqbklSOUZ1UEY4S1hBX2NYYQ?oc=5",
+   "date": "2026-11-17T18:05:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "847ec2806313",
+   "title": "Presidenta Fujimori agradece a China apoyo para enfrentar impacto de El Niño [video]",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUtUcExZSFVnOVBfR2NzTDI5V2E2dUs4Wm9JS0s0V1BtOGhSdW1HRlkyWkpnSWtNWGNsMVRCTENYci03bU9hSDJ6X3NHSU5iYWF0WnJyUmNKYzFpMEdleC1xXzI3X2lUVnlTbHVzOW5HOHJLcUpQNUtrb3RYUUxpUlo3UFhXZU55TzJzcmVmeTF5LUpIOU42Y3pyUEFnY2RqN3FrclZTa2F2UjM2d2pPcFN2bHJhd2dVc1E?oc=5",
+   "date": "2026-11-17T18:02:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "6bf4f84fedc7",
    "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
@@ -498,17 +531,6 @@
    "next": null
   },
   {
-   "id": "847ec2806313",
-   "title": "Presidenta Fujimori agradece a China apoyo para enfrentar impacto de El Niño [video]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUtUcExZSFVnOVBfR2NzTDI5V2E2dUs4Wm9JS0s0V1BtOGhSdW1HRlkyWkpnSWtNWGNsMVRCTENYci03bU9hSDJ6X3NHSU5iYWF0WnJyUmNKYzFpMEdleC1xXzI3X2lUVnlTbHVzOW5HOHJLcUpQNUtrb3RYUUxpUlo3UFhXZU55TzJzcmVmeTF5LUpIOU42Y3pyUEFnY2RqN3FrclZTa2F2UjM2d2pPcFN2bHJhd2dVc1E?oc=5",
-   "date": "2026-11-17T13:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d2780b1d9f74",
    "title": "APEC 2026: Keiko Fujimori y Xi Jinping se reunieron en Shenzhen antes del foro económico",
    "excerpt": "Luego de dejar el país sin despedir al papa León XIV, la mandataria se reunió con su homólogo chino, Xi Jinping. El encuentro dejó un compromiso de US$22,5 millones en…",
@@ -601,17 +623,6 @@
    "next": null
   },
   {
-   "id": "ae3d0f842500",
-   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnpPdkZFZUh6Q2ZJMlltbmhPdlJmWXUwbmdBeXZyVHpySV9FQV9hVE9HaGhKNERmNnExQ3pLNWU4ZFQydFJCeG9qcFI0T0kxSkxYcDBRdnFhT3lxMGVDZERqXzgyUWNndVFsMUw2UlRZU2xJMVp4bjU2eWp0VFJyY08zUnNEMWdCWFQ2OGlsbThkOEZpLXdEc3pkT1FXMXhNX1B6dUtWT3JNVDdDaHRLNXdOUmlPSV8wQzVvRjNoTQ?oc=5",
-   "date": "2026-11-17T12:42:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "39134c0504ce",
    "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
    "excerpt": "",
@@ -643,7 +654,7 @@
    "excerpt": "",
    "source": "DIARIO VIRAL",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDBpVzBRb0J4aVR1VXB2bVBmMERJQXNRamxJOUpCSFBLVmV0Rlk3Y05iVzl0TjFRWlNBQ2VIM2dCQTV4UlQ2WHlQalp6bzl2R2xaajk3X2NURzh2VUhTU1UzczNQR0J6M21JeDgteWV0bXE3SWtWcjNKMzRYeDFnWGVqOV9MVGVhWU5RTlhYMDNvaFA1anNaV0xtbw?oc=5",
-   "date": "2026-11-17T12:22:30+00:00",
+   "date": "2026-11-17T12:24:08+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1001,20 +1012,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "565b9413f0f7",
-   "title": "En la pregunta del día, ciudadanos critican ausencia de Keiko Fujimori en despedida del papa León XIV por viaje a China",
-   "excerpt": "",
-   "source": "Radio Onda Azul",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSV9Ec3FpRG1CSUtQZGNxZjVwU2lDQXNOZUVmM2xKRGdsZ29kUUE0WlQ4d0ItWVdqY2czYVk1QVVNR1hiUHZYcGVGQ2ZfZXNhWFhIRXdSME8ydFJBdndmRzNvVGlMQzd2ZGYwWG1wR0U1Mk0xeVBEQU95dXJPSTZ1NWxzYmZuRV9yN3NWMTIzb3N5VmZwbVFzVlhRcDlRTG9PVFpiMWtfaC1reVVETkVVSUoyVXR5Ty1HbkxrYWpFeWdjU0hYWjNOQlkwUUFOMzhOdXNaSFh5VXR3TllyN1E?oc=5",
-   "date": "2026-11-16T19:57:49+00:00",
-   "state": "triste",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
