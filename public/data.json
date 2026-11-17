@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:47:22.728423+00:00",
+ "generated_at": "2026-11-17T15:08:44.872135+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "La República",
-  "date": "2026-11-17T14:43:04+00:00"
+  "date": "2026-11-17T15:04:23+00:00"
  },
  "next": {
   "place": {
@@ -300,8 +300,23 @@
    "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-china-en-vivo-minuto-a-minuto-de-su-gira-antes-de-la-cumbre-apec-hnews-558331",
-   "date": "2026-11-17T14:43:04+00:00",
+   "date": "2026-11-17T15:04:23+00:00",
    "state": "transmitiendo",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "3a96c2d8dc7c",
+   "title": "Keiko Fujimori inicia la agenda en China con reunión bilateral con Xi Jinping",
+   "excerpt": "",
+   "source": "LaRepublica.co",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWTFUZTJYWHRHUndtZnZ5LUZDMEM1N1VWWWF4X2NwcXpBRUNoa0ktb0ZZdjVubFhzS3A3SkdYU3MybzBrMmhqV3MwOUxITU40aGk3ZVlvdW5GWUtNTWNXdkFTb2hHSzk0Qk1za3J3TnhmUURZOC11b3k2RXVkWTZfTFdDV25iT3RNN1VHMjZSY2VqVXFSeFpPeUJZeUR5OHRNVTJLbHpQd05OaUkwUm1Jd2REcDlTczVhUWJVTXUyVU4wYWtU0gHEAUFVX3lxTE44aHhfbUhDRFBCNm9VV0lOVUdrMmc0Yi1zYkxqV21CZVlKV2ZHVDg5N01LeEFRVW81cThSSnpFOFhwcGozRzRNeW1MWThFN3E5ZVkxZklYMUs0Rklha193ZWE5V2FMZ2g3UWQ3bF9UNzY3Ql9jQmdOdU00cXlSZHpJUnh4MkJvLUtpSEdEYWFpMW8yZ0RTVU83emYzTDhIcW5VMkM2d25kVkVhY1BzMzdsaVg4anlrNXNIdExkdklQeE5LX3k?oc=5",
+   "date": "2026-11-17T14:55:52+00:00",
+   "state": "posando",
    "place": {
     "name": "China",
     "abroad": true,
@@ -397,6 +412,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdExad2tqRGtobWU5dDhaVnJhazVUZEpQbGo0SDhGN2NfanlXNXNlaXJQNnhMdXR0V05LUnM1V2plMm1XcEc0THVqUkN1YzNyV21KTVlPTTNkR08tZVBxVV9uUTk5VUpuN3JWTXpBTmFRSkE5OWtnVzAzWXhCQy1GQmtkbUtORzhNcC05NXJmcTlkNXYzOXdCNFJSUWRiZW9QZVFGRWhuZDFxNlkyNFc3LTF4QVBzb2M1Q2hRdmdhSE1QdlhJcHU4NV9xbmhidEVzc2FWSXJyNVNjcUtZaFN6bVg4bnRWNEJyUlIwSkprNA?oc=5",
    "date": "2026-11-17T13:08:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "840c8c790c28",
+   "title": "Keiko Fujimori: China apoyará con 22,5 millones...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckpCZmJpUHJnS1VZdTNtSVFrZHhyUV92ZEUzd205dEdiQW1USS0tM0FsOERXU1U1MVFoTUs3cWxFQlBRXzFJQjlHbUlDOTA2MjJ3WGNYdTU2SlNjZnZXTkRHYUNjMzRaMVBmb0c2RUVZMkpZYUJ4NEVKQ0NoSjlRcFk0UEUtc1NaS3BMU0h2NHpaejFjUUhvSUt3S01tM2NwY2FIYUhRejF4RVpzUUQ2MnVVcFnSAboBQVVfeXFMUDZtT3d4V1ZwbXRneGRDa1N5Nlc4cTZDOVZLUG9uWXBaV2w5TUVKZHVpLXJELTB6NTRqbjdHcDdiVGhCY3ZfUW5lMzJ1QUh2RmVOMHBfTW00MXN1V3Q1aW84cEMxMUU1M1RnakdzNW5RVUtxZDkwMW9FT3VzZkM0MElaS0RXMHNvMS10bHFSV193cWN1RmxLc2VYZFBKQmJDNWkwSUxZU1ZqTWZET291STNIcmpQMTI3SmtB?oc=5",
+   "date": "2026-11-17T13:07:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -998,34 +1024,6 @@
    "date": "2026-11-16T03:51:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c1d089038c83",
-   "title": "Keiko Fujimori: Desaprobada con 07 al no cumplir mayoría de las 67 promesas de su plan de gobierno en primeros 100 días",
-   "excerpt": "",
-   "source": "Arequipa Misti Press",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObTFZWTF6eUlBU2Z0UVlydjV3V1RkRXl4V2c4OXlCZGxZcjJ6T0lSQk1RVFlSZC00NU5NZFVkM3ptOTRHOUZVWmFEOWNacDl0VlpLY3FZaENjV1RqYmdGbnVoMkMzQ3VVdDdmVGg1aElMRnhpSl9lNFRHc3lXdDJrN01YSy04NFFFRkFmRW9KbXR4NEh5MkY0SU5nMDVLaEZqUGtmOEVkN0VIczF0SDF1OFFWb0ZXblRxb2tUQ2M2X2p2WXZsX2pVci1GV1Q4QzhlM2JCNlBBV2JmNUJpQmd3aWR5dU9lOG1oTXFNQzFhLTcwNEk?oc=5",
-   "date": "2026-11-16T03:27:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b68da92113d8",
-   "title": "César Acuña se reunió con Keiko Fujimori en Palacio de Gobierno",
-   "excerpt": "César Acuña, fundador de la Universidad César Vallejo (UCV) y exgobernador de La Libertad, se reunió en Palacio de Gobierno con la presidenta de la República, Keiko Fujimori.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/cesar-acuna-se-reunio-con-keiko-fujimori-en-palacio-de-gobierno-noticia/",
-   "date": "2026-11-16T03:15:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
