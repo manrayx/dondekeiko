@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T02:38:58.119065+00:00",
+ "generated_at": "2026-11-17T03:21:39.882392+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -108,10 +108,10 @@
    "name": "China",
    "abroad": true
   },
-  "source": "La República",
-  "date": "2026-11-17T01:44:33+00:00",
-  "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
-  "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776"
+  "source": "tvperu.gob.pe",
+  "date": "2026-11-17T02:58:07+00:00",
+  "title": "Presidenta Fujimori: esta es su agenda oficial de actividades en su viaje a China y Japón",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVZyQzZIX1JuU3ViUElva0RKc2lBd3MtNkhRT1RKSVZhem1IYlREcERobkFsY3VLZWZlR2Z5eUpoQnNzVy04cU5faXpDa0YtR2JacE9wTWFqTi15LXMxTkNRV0dWbkRRXzgzelpQbXBOcVF4dExrNXY1MnpGREdrS2ZoTXA5R01UOFZWUlMtZXFqZmNFTHJKMjVvSmRJRWZOR3Y3cmRyRjZBOXhIOUZZZE9aZ0swSmZpUGQxdjNDOXNhUQ?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 1,
@@ -293,6 +293,20 @@
  "agenda_minutes_7d": 348,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "87d75e3dccab",
+   "title": "Presidenta Fujimori: esta es su agenda oficial de actividades en su viaje a China y Japón",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVZyQzZIX1JuU3ViUElva0RKc2lBd3MtNkhRT1RKSVZhem1IYlREcERobkFsY3VLZWZlR2Z5eUpoQnNzVy04cU5faXpDa0YtR2JacE9wTWFqTi15LXMxTkNRV0dWbkRRXzgzelpQbXBOcVF4dExrNXY1MnpGREdrS2ZoTXA5R01UOFZWUlMtZXFqZmNFTHJKMjVvSmRJRWZOR3Y3cmRyRjZBOXhIOUZZZE9aZ0swSmZpUGQxdjNDOXNhUQ?oc=5",
+   "date": "2026-11-17T02:58:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
   {
    "id": "927926d3c771",
    "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
@@ -1035,17 +1049,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV3JoalNuWlBiSkI0NVFDcW5JWFZlOEQ4VklNX0ZwS3JxRjdaOVJvMEZkWFZ6MDI5U2J4MGplNVI3c0RpcTdiYXlmak00ZTdicGxlZ3c2ZWRSZUQxVnFZUkRvcUNNUDFsOGpPZjVIeTVjeFhVeVByRm9GbjFHRm5BRTNOZ294MDVHZEdIekhJVGdremZtMGZIWmdTMUlyRXZiM0RjVDRKOGpLUG9nRUtkV1RJVURTVTZKUFc2YWw5b0pqTVdXQU9OREFybDBwT0hPbFE?oc=5",
    "date": "2026-11-14T15:00:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "286ac501d134",
-   "title": "Senado autoriza viaje de Keiko a Asia en medio de visita papal",
-   "excerpt": "",
-   "source": "Jornada",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3J6UlZWSnhIQjQ2dFVzVnVhNFk0VU4tSDVkQ19VMHhRVUNSWG9XSEY4aDdBRkZraDRaSEVoYXY1MDFOWUl1T25CRmlpR0d5NXNZeTRmZFVpb21YbHd4TzVFdnhRWEE3VjVuMzRmbWlJN19FYWJGWnNVWXRkV3ZuUXlnUGZybmFQV19zUXZuWEMtc3BzTFE?oc=5",
-   "date": "2026-11-14T14:56:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
