@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:11:10.337517+00:00",
+ "generated_at": "2026-11-17T20:54:31.595293+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -295,6 +295,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "66f1cbd98cee",
+   "title": "Encuentro entre Keiko Fujimori y Xi Jinping nunca figuró en la agenda oficial de China",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNalN2TWUzVUpuNXpNQXdWTFJKN2NmdHlBWF9XWEFhM2tuX1RRN3E1MDhyTkVVWXM1RGNLYlRoekhYVHpoUVAyRHZpbFU2QmZ1eGJOSEJORGotdXlRTHNURFJfaElaTzVCVFNvMHRJZUY0emdVa2dyRmZUY1JjUHZ2N01nOThSWXg2N1lscHlCYjR2OHpYWjV2SWl3Ui1JZ3lEUGl1TFlQU3ZkOU9mUDhlclA2MlRqLXF2RWc?oc=5",
+   "date": "2026-11-17T20:38:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8020655abeef",
+   "title": "Keiko Fujimori anuncia que China donará US$22,5 millones al Perú por el Fenómeno El Niño",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1JTdTFqRTRPMHVNWTBCVDNNa3JuWk1XOFFtY2NGUHNxWVctajZ1bVdXVzhxd2JtWkpmbUFzMG9wRm9IbGRCMVRFcVFJcEVNVkhRMmtBX0RfN0RiZ3RFbDhRX0dXNVExMmRwNGJjbjNmQ3pfUGw0UGdzSlZTYUV1eUxHdEFydnVfLW9ycERmUjlJOTN6REFnYzZIYzNDSlZJS01kQ1ZoWVNZb2FPdVZrZmpn0gG3AUFVX3lxTE8tWmo2MHhGcVNsLUwxa3VkUnQwN01KVXB4SDJKYkNVYnlLbHAxNEhwSlJiem52b1czZEhKU3puOW9RTTNDdkpJWmxMSkpQMTI3c0FrZUNPQzJRaUljUVJMaXF6dHRtOUNUU3k4V2FMaHdSeDkyaDYyTmFVNjVYTXFLT0VVNTdKX3NXSkduc3FSWGZKM1NaM3pfVmpRbWdQWGNuSFY3RnF4VlE4SW5JY3JReFNWY21IMA?oc=5",
+   "date": "2026-11-17T20:28:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "45e3cff15968",
+   "title": "Reunión entre los presidentes Xi Jiping y Keiko Fujimori no fue un encuentro bilateral formal",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVlfb191bXQxTEx3dGV4UVpVWHpUc3Z0VzlOR2NIYklub2lOLVVaTm9ydjQ0N2NFZmlGOFFWV0ZRa0hzaEV5Z09UbjlPc3ZELXZuZGNxNkNqV2VUWnhMMDZmXy1QYVJVc0steTFYTnVMa1dOVUtoWVF6VWFWcTc0MV9YYlJlU0xfVEJPWTFIekMzQUIzcGtNajhFcEZQSEJFd0lCVVlYUTB0UzlqbklSOUZ1UEY4S1hBX2NYYQ?oc=5",
+   "date": "2026-11-17T20:13:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c9e560f74440",
    "title": "Keiko Fujimori busca atraer inversiones chinas y fortalecer la cooperación frente a El Niño",
    "excerpt": "",
@@ -334,17 +367,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWluRmxLeEhtbHRQZEJNOTRVbmFpVDI0djk1d0g4aEl4U1BQaWNZU2pXY2tCaEF4anNieWRJN2pldlk5M1pJSVZuUkpjVV95WDJ2ZEk4bDRTUmJ1a3ByTmtZNGRVSE9jM1gtdkI1enpjRTZsVjQwMW9tSDBKQjBTVzZzNFFPRmoxc2N4dVViSzRxQkdZVHFoYXdYN3BNOFdqejllZ0Q2YktFWmQyN2hyY2dKR3ZsUElQeWVOckdKX09PYVdz?oc=5",
    "date": "2026-11-17T18:12:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "45e3cff15968",
-   "title": "Reunión entre los presidentes Xi Jiping y Keiko Fujimori no fue un encuentro bilateral formal",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVlfb191bXQxTEx3dGV4UVpVWHpUc3Z0VzlOR2NIYklub2lOLVVaTm9ydjQ0N2NFZmlGOFFWV0ZRa0hzaEV5Z09UbjlPc3ZELXZuZGNxNkNqV2VUWnhMMDZmXy1QYVJVc0steTFYTnVMa1dOVUtoWVF6VWFWcTc0MV9YYlJlU0xfVEJPWTFIekMzQUIzcGtNajhFcEZQSEJFd0lCVVlYUTB0UzlqbklSOUZ1UEY4S1hBX2NYYQ?oc=5",
-   "date": "2026-11-17T18:05:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -985,32 +1007,6 @@
    "date": "2026-11-16T22:37:52+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "828094208c88",
-   "title": "Viaje de Keiko Fujimori a China y Japón: ¿Cuál será la agenda oficial de la presidenta?",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGFwMG5WcVBuUDdGLXdCLTZPbkNudkRsdWtrdC11QXNORnR4bGxFU3ZXbGFmVU9hTXlCOE9jR2N4TU9XQ2N3cmFrNTZ0OXNINlRzY3lmRHVaZDdvT0oyc0RqcTFfTmZhTmxKbENHeFFZdS1PSWNtYWRKOHRnRy1zRVhR?oc=5",
-   "date": "2026-11-16T22:23:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7092edf5b6b7",
-   "title": "Keiko Fujimori en APEC 2026: conoce la agenda oficial que cumplirá en China y Japón",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVNVNlRkXzZLWk1UcFdLajZhWm01Tjg5RWJkY00wLThRMTlJZnE4QUxxZzMxLVlIZkJrSVdhYzhFMk9NeHc5ZGpUY0hDMG5MLUg4Q1p4SjFEenhzRWR1Z1g5Q0FtZERXcXdXbm0yTXFBUFdJWlM2ekpOS0FTZHBkNUxuZXkzbFFUZGlMZkdoaUZWRHlUSldnTXBxWFFxVExqNm45eEhpUWpHVjQyVndaZVByVmJQQVdHTlYzWEZJNXdLc011RWhhUi1rT3hRNC0tSVdPOGhTRTJ2QmVBSkHSAd4BQVVfeXFMTTFTVTZUZF82S1pNVHBXS2o2YVptNU44OUViZGNNMC04UTE5SWZxOEFMcWczMS1ZSGZCa0lXYWM4RTJPTXh3OWRqVGNIQzBuTC1IOENaeEoxRHp4c0VkdWdYOUNBbWREV3F3V25tMk1xQVBXSVpTNnpKTktBU2RwZDVMbmV5M2xRVGRpTGZHaGlGVkR5VEpXZ01wcVhRcVRMajZuOXhIaVFqR1Y0MlZ3WmVQclZiUEFXR05WM1hGSTV3S3NNdUVoYVIta094UTQtLUlXTzhoU0UydkJlQUpB?oc=5",
-   "date": "2026-11-16T22:19:59+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
