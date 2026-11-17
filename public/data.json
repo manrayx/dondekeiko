@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:16:18.607871+00:00",
+ "generated_at": "2026-11-17T12:37:26.105594+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "notiperú",
-  "date": "2026-11-17T11:50:58+00:00"
+  "source": "La República",
+  "date": "2026-11-17T12:21:39+00:00"
  },
  "next": {
   "place": {
@@ -261,6 +263,78 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b736defd5fea",
+   "title": "Keiko Fujimori se reúne con presidente Xi Jinping y anuncia apoyo de China por más de US$ 22 millones para El Niño",
+   "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-presidente-de-china-xi-jinping-en-shenzhen-apuesplan-noticia/",
+   "date": "2026-11-17T12:32:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d86485b56fbc",
+   "title": "Keiko Fujimori anuncia apoyo de China por US$ 22,5 millones para enfrentar El Niño",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYXdCbWRhZmZrWWpmNXJxMmFGc2FsblcwU2lLaFFNRWFxajZuMXQza0ktVzB5LWViekQtbUZxOVFEc3ZiQUdUeml6LXhpeHU3TUdJSWF0ZHg4bG9nSlJma0tpSmVnbUZjeHJ0cnZuRmV0Vk9GUVNxTXA4SUVMMjU5TmhyOFJCaXlKQi1aQ0E4eElsN0J3V0dYV2wya04wbVJfNG85QzhjOWMtc19UOXc3VEkwNm8yRWFqUDFmM1dYNNIB0wFBVV95cUxPeEJCeVdUUG1BMmRnOHREY1JNRnAzcWVOcnVJNlFKajBzNkh2UnFnQXhJWDZCUjR0bWlleHhhdkFILTBqWDlidXZBU0h6NU92V21Dbm9QdjFLbXRzY3ZXTW5ORXdEdWwzR0ZMZHdqV2ZsLTV2Y3VhRzhFSVZCd2pkVkxPRS1jQjdhZ21IUTRtdlhYcC1QWWYtbnhHYkhwQVctZkRSd2poTVFOUjFMTVJGQUxnZ1A1Z19uMTJ2R2pKeUI0WktaUmFVQ1ZBLUs1OVRNWVJZ?oc=5",
+   "date": "2026-11-17T12:30:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fe9e5c050255",
+   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
+   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
+   "date": "2026-11-17T12:23:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "66f103b28910",
+   "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
+   "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el consultor del BID en la Unidad de Cumplimiento, Enrique Vásquez,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/16/keiko-fujimori-se-reunio-con-allan-dyer-hijo-del-ministro-de-salud-en-palacio-de-gobierno-hnews-356320",
+   "date": "2026-11-17T12:21:39+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "6272b70b821e",
+   "title": "Presidentes Keiko Fujimori y Xi Jinping...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0FSNmlmV0h4ZlozNE1FVEU3b3ByZ0dkWVB4UUQ5YXAzcDEwTHBXYjVlWnJvbDJNTnlhY29oUk9zS2hHNWVxclFrd2FXRk1BYWVDNVlEc1lycktwd3pwYXYxWkNHRUVFVnFscENpTWhtcDBmV0Y2QUhnNXVmS2tvVGZ2TnplYm9XbFRTRjhmT3IyUk1vTnNoZ09hUjZLemlnRXFCaGY0U3RvUE5KSGlwX2hrdVRNOHNjenJpZHhncnnSAcYBQVVfeXFMTTBLR0ZZbmtpWS1CdHIxLTFrUEJ0alhQN241RGtWYkZCMlNuNU9nXzhZcVo5SGlac2FKaGJlX1hUd0hvRHNTR0tUOUpZZFZVX0xRSkZDY3Y1RkF5aUs5SEY4RWFTWkdwb0JHZU9XdUpWbnZNN1lSN2VnMHM2OUJiajBrWGNsLXFzNEdYMVFOc1BCeEZhRElnMHlCbHZSV3J0ZjQyRE5fTEh4cVZYRklRcS13ZEpzaWU5V2N5Q2lOYzUxSm1tN2xn?oc=5",
+   "date": "2026-11-17T12:13:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c1040a857da3",
+   "title": "Keiko Fujimori anuncia donación china para prevenir efectos de El Niño",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUhmdHNRNXg1cVZUbVNEV1VoVTdtc3NuOXBDaF96NzhhaFZiVW9VSUxmWVRNQUplQnFhZEVUdHJPSUdwbHBpX0dDWDBvUHAzWW40NEhXSUhielIwcGh6MENia0lkNHhSTm1oZWlWSXZlaGM5eGpjeUQ0ampvRTBuTWgxQTZYbDQ0NjlyeUxSTkNaTnBEYVdUcjQ1emthQ3Jsbm9kOW40a0dTWVN1VFNPOHRrV2xRYVd6ZFJpTHVmS2ZRRnI5bHhFZzdfZldxcWJ1Qlgwc3VSbDFIQXk10gHiAUFVX3lxTE5JTlBFbW1KTVZVU2p4SXNXWldrME9LbURHMFpwLTlOSGtfTXM0MDRwUDU2T09Ldmd1QXp2ZDFhVlMxckUxVkFCYndzTHdQbFZoQVVLZzZocVg1bWQtZ1FXOF9iODBfQXlWNmZOZ3AyOVpqTjZBQzFQZ1RYaElBZ3MteXg2LXVsdF9OVnF2X2tLWVRhOUFYYzRheFRQWGxmYUliMFFPZGtHTkZ6SmduREJMVnJLTWVtQTQwYUFoek9PY0VSYlE4MFliWHpZTlB5aFBFdWpGQThsalBHVGZ3Y2JxZ1E?oc=5",
+   "date": "2026-11-17T12:10:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ae3d0f842500",
    "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
    "excerpt": "",
@@ -278,6 +352,17 @@
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRF8yUzNfVS1SbVlmM25CUlJTUWtrdlVnTTlZMS1IelpxTlo0dzFEWTdFUGs3aUw3TnVqQ3VQWE13MmtUN3dQMG1fOFg4T29aTUkzMlpsRVdVaWF1bDczSnRPcklHV1R5SU5FeXpLRmlUOUEwOW5iUklUQ282QkIwZWlVNkFrazJ6YUYtM0tITW93TTJzbGtmT1JPWGpWQ2xZNWZkWWlFVVVmU2IwTS1GcGdraEVIcTBpU1N0alc0cXVzNEktNUZCcDJuM0QyeGZ0RjF4N2o1cUh1Yi1SRUdmZUIyVXRJaG9KVkw2c0NoUE9tckVJTHduUUZMZnhxVFlOZlViTFVLMi1wOWNqeXZ1UTA4SnM4YzdhT3hDcWNLSklEdks0N2wzNXdsZ01veEZPdDJuZ3N0QTJtbW9CTU9WcjNB?oc=5",
    "date": "2026-11-17T12:04:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "66bb5423040d",
+   "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar el fenómeno El Niño en Perú",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGszSFkxNUE3UmVMNUotZkRvamJIbEdBMjVLZ1lnQTFDeXdaQm0tamtLY1ZiNDVFNjRCc2F0WVNJNk5MTnhZcXd2WW9tNWRMQlBfV1AtMS13ZUZIU1lIRGhuU1d5bWNQajM3d0N4R2kyekd6OEdzb0N4ajlSdXlHZUh2bzV3T0tvTmNZM2J2enFyZDNwNWNHdERDRzBIYXZtOFptZHEyV1dfQWJQVldRdTA2aktGUE1vTDlTQmJPQ0ZkV3hoanVrTFV3?oc=5",
+   "date": "2026-11-17T11:55:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -341,17 +426,6 @@
    "source": "AP Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2U0d1Q4SkFuSUozblg0WmRBRUxva1NSN2w2dU1sVy1nd3ZyVjZTLXhKSDJjcGE2RHd4RmQtbDlsejVheWl1YW1Ya0hmeDR1UGVfbUxTUjBJcldxNE1Pek05ejY0TVBXNmd1VXlrVkRsTVdHdGZGWmRyM19Oa1dpRVk5aUVnZXZnekkxal9BX1g0QWpIbkVTWGpwLTNkc2xsRnViV0EzTW1QcFl2N0NOUE9EN2JUbEVVT0thRVZ1Um82eWpJWm1ESnVZTHVZTnI0?oc=5",
    "date": "2026-11-17T11:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fe9e5c050255",
-   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
-   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
-   "date": "2026-11-17T11:00:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -532,28 +606,11 @@
    "id": "bd782fc989ce",
    "title": "Keiko Fujimori se reúne con el presidente de China, Xi Jinping, este martes en Shenzhen",
    "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-presidente-de-china-xi-jinping-en-shenzhen-apuesplan-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOclh1aEY2WU1CQUVNLURvVXRqc0FvaFdKR0FLNEhXNlBrd19pMVJvZ2x0RHNRY21JZTFDT2RBak5qZ0NWYjlTSXdhaDlpbHFHUkRudlRGTnVBdGdPMUlaVjlUNklHWVU1TkUzaHRBMGNlNWdudVRjdVNrR09BNGhZa21aZ05LNTNyZDFTeVRBVlI0YVF3UTZibWZrNWUzRVJXaVFONkNpYzE1SzZOTm10cGY5V0UydWR6VTZDMmlHOVo2V21pTm0wQm1YREPSAeABQVVfeXFMT3M0dTd6WTAxUWttRFpnSHd4NDNDOHZ6LVFZWEx0SzFtWWExN0p4ZjFhODNsa2tnNGZQWm9FbExQX20wTG15TzUtVTB6VkZwQ3lWdFhkX3BkSW16Qm4tV0xSaXhQMmJHMkEwMVA2NFpyWlBFa0dKcHFUaEk3VHVoS1dxV0o5dmtFNFphdWttU1hLdFdhc1l6VUlYZ20wUkdRVzFtUG9hM0NoV21WcEtwQlBHS3lBdi1ZUjhwdjJmOUJfaEp4VzFieUVoV2k2NTlzV1Z6TllqY3hQWGZ5U2ZRVFE?oc=5",
    "date": "2026-11-16T22:37:52+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "66f103b28910",
-   "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
-   "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el consultor del BID en la Unidad de Cumplimiento, Enrique Vásquez,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/16/keiko-fujimori-se-reunio-con-allan-dyer-hijo-del-ministro-de-salud-en-palacio-de-gobierno-hnews-356320",
-   "date": "2026-11-16T22:36:41+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   },
   {
@@ -939,71 +996,6 @@
    "url": "https://larepublica.pe/politica/2026/11/15/un-cerco-politico-al-pontifice-para-que-no-escuche-a-las-victimas-409755",
    "date": "2026-11-15T22:14:12+00:00",
    "state": "molesta",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ab6b6290e2fc",
-   "title": "Keiko Fujimori viaja a China y no despedirá al Papa León XIV en su último día en Perú",
-   "excerpt": "El santo padre parte de Lima rumbo a Roma la tarde de este lunes 16. En representación de la jefa de Estado, acudirán a la despedida, el primer ministro, Luis…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/15/keiko-fujimori-viaja-a-china-y-no-despedira-al-papa-leon-xiv-en-su-ultimo-dia-en-peru-hnews-1103400",
-   "date": "2026-11-15T21:12:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "0a0deacd814b",
-   "title": "Keiko Fujimori inició su viaje a China y Japón: ¿cuál será su agenda oficial?",
-   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/el-senado-autoriza-viaje-de-fujimori-a-china-y-japon-esta-es-la-agenda-que-cumplira-la-presidenta-apuesplan-noticia/",
-   "date": "2026-11-15T20:55:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "c1d0ad0f65a7",
-   "title": "Keiko Fujimori viajó a China: ¿cuál será su agenda oficial en ese país y a Japón?",
-   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNCSk9PdVI5X0oyS25Za3h5X0RsNk92NGdHSThVbEI3WnpZVzc3OG14Q1d0bDljd3JLejg2eDUyTnM3YWtmNjhIMjNHSWJMVDNlUTY1S211dUh1SmMzVGY5RmoxaEZfelVNN2RRVVdsNmtDOTRxeVBEd2lfVUpXYlZzczFtNXRIbnNYMVEtMHRmbkhkY0pSWFR2VFdiMVJRU0xFQ19tZTV5b1c5SGxsZjlmMGgxTVVfV1dtd0dKVkVsZS1iVnB6WWVMVV9EOXo1MWJJSTVRb0VBNDNHWFFzedIB9AFBVV95cUxOZEZxR0FiZm9ZdHN4cFBaZ0pLNTlkUW1pMHlobUNLTmtaRHNWdTdJUmt1YjRRMElQTDZ2RHdtaDl5akdyVEtTdkxONDZpcGd3ZjVQeS02U0F6MG1BSUktakVTMXgxM2NOT043ZkloTHNSVGVvWkUza3ItVFVDUGVQNnJ1VTJhUlhnaFhKbUtvcDduVjBidG5EcDMtZDZRdUNfYjI3NXU2cVdmcVFvUWVFYmktdS1Zc0ZiVG44Y1BKNkJRcFQzTWlueXdfNWJqNlBJRUF3OUVUVE5Rbkp5YTZaeW8tY3FGbV83ZnhPaDJWUkVGck1m?oc=5",
-   "date": "2026-11-15T19:32:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "b6a65e7edd02",
-   "title": "Keiko Fujimori viaja hoy a China: Esta es la agenda que cumplirá en ese país y Japón",
-   "excerpt": "Durante el debate, senadores de Ahora Nación, Juntos por el Perú y Buen Gobierno criticaron que la salida de la presidenta coincida con la visita del papa León XIV",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYnNCSk9PdVI5X0oyS25Za3h5X0RsNk92NGdHSThVbEI3WnpZVzc3OG14Q1d0bDljd3JLejg2eDUyTnM3YWtmNjhIMjNHSWJMVDNlUTY1S211dUh1SmMzVGY5RmoxaEZfelVNN2RRVVdsNmtDOTRxeVBEd2lfVUpXYlZzczFtNXRIbnNYMVEtMHRmbkhkY0pSWFR2VFdiMVJRU0xFQ19tZTV5b1c5SGxsZjlmMGgxTVVfV1dtd0dKVkVsZS1iVnB6WWVMVV9EOXo1MWJJSTVRb0VBNDNHWFFzedIB9AFBVV95cUxOZEZxR0FiZm9ZdHN4cFBaZ0pLNTlkUW1pMHlobUNLTmtaRHNWdTdJUmt1YjRRMElQTDZ2RHdtaDl5akdyVEtTdkxONDZpcGd3ZjVQeS02U0F6MG1BSUktakVTMXgxM2NOT043ZkloTHNSVGVvWkUza3ItVFVDUGVQNnJ1VTJhUlhnaFhKbUtvcDduVjBidG5EcDMtZDZRdUNfYjI3NXU2cVdmcVFvUWVFYmktdS1Zc0ZiVG44Y1BKNkJRcFQzTWlueXdfNWJqNlBJRUF3OUVUVE5Rbkp5YTZaeW8tY3FGbV83ZnhPaDJWUkVGck1m?oc=5",
-   "date": "2026-11-15T18:01:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "34f140a2804b",
-   "title": "NIÑO COSTERO 2026 AMENAZA LA AGRICULTURA FAMILIAR: KEIKO FUJIMORI PRIORIZÓ LAS DESCOLMATACIONES, QUE SE PRESTAN PARA LA CORRUPCIÓN, ADVIERTE DIRIGENTE GREMIAL",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOY1Y0RTNKZjFDZkxfSWEyTTl1Ylk2a1VpR3UxbDFCeVduNDZOWVFvU2ZDVHNhTWFtMnVDMl9ETVVnbHM2QTNQMTJFblpYb1lXSnpHSDI4WjNPcVdzTlIwZkR3V25aNDNwMnJXVHJpbGxOdlhDXzFGUUJ5b2Mxd0s4VDBPWFVuS0JXWFI1cXgwYTVxNUhjUXhFazRzV0xiQnJPWXk5bk5sTGh1Y3p0U1BPU2g0Y1k5dkNVbXE2Wm9LUFhrQl9maTBmVGxXdmNRQ2dDTGhhNzZOZTA1VHZIblFsSU5LTHhpUmZneDlCREZIOGVmN2JRNHRJMUVrdVB6d2NEYkUzbklZUzR0ZUFK?oc=5",
-   "date": "2026-11-15T17:19:32+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
