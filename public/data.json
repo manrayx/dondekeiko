@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:25:54.214915+00:00",
+ "generated_at": "2026-11-17T14:47:22.728423+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "La República",
-  "date": "2026-11-17T14:25:18+00:00"
+  "date": "2026-11-17T14:43:04+00:00"
  },
  "next": {
   "place": {
@@ -300,13 +300,24 @@
    "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-china-en-vivo-minuto-a-minuto-de-su-gira-antes-de-la-cumbre-apec-hnews-558331",
-   "date": "2026-11-17T14:25:18+00:00",
+   "date": "2026-11-17T14:43:04+00:00",
    "state": "transmitiendo",
    "place": {
     "name": "China",
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "fe9e5c050255",
+   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
+   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
+   "date": "2026-11-17T14:23:03+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -430,17 +441,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYXdCbWRhZmZrWWpmNXJxMmFGc2FsblcwU2lLaFFNRWFxajZuMXQza0ktVzB5LWViekQtbUZxOVFEc3ZiQUdUeml6LXhpeHU3TUdJSWF0ZHg4bG9nSlJma0tpSmVnbUZjeHJ0cnZuRmV0Vk9GUVNxTXA4SUVMMjU5TmhyOFJCaXlKQi1aQ0E4eElsN0J3V0dYV2wya04wbVJfNG85QzhjOWMtc19UOXc3VEkwNm8yRWFqUDFmM1dYNNIB0wFBVV95cUxPeEJCeVdUUG1BMmRnOHREY1JNRnAzcWVOcnVJNlFKajBzNkh2UnFnQXhJWDZCUjR0bWlleHhhdkFILTBqWDlidXZBU0h6NU92V21Dbm9QdjFLbXRzY3ZXTW5ORXdEdWwzR0ZMZHdqV2ZsLTV2Y3VhRzhFSVZCd2pkVkxPRS1jQjdhZ21IUTRtdlhYcC1QWWYtbnhHYkhwQVctZkRSd2poTVFOUjFMTVJGQUxnZ1A1Z19uMTJ2R2pKeUI0WktaUmFVQ1ZBLUs1OVRNWVJZ?oc=5",
    "date": "2026-11-17T12:30:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fe9e5c050255",
-   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
-   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
-   "date": "2026-11-17T12:23:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
