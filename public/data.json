@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T02:17:26.205204+00:00",
+ "generated_at": "2026-11-17T02:38:58.119065+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -481,6 +481,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "bc2e1708fdbb",
+   "title": "Transportistas de carga pesada exigen reunión con Keiko Fujimori por alza del combustible",
+   "excerpt": "",
+   "source": "Radio Yaraví Arequipa",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTm9maWdKX1ZMbGY0Xzh4YXRaN1FONWhlNjh3OU9TWlBjMlA0Vnhva3hkem1PZmZGbkc1VWJmQjdvQWtnQUtyeFdmMTBVUldBSDZyY2dJa2NFa0V0QzFVTGNGV2R2aG1oMkJOcU5neDBPblpfZDFMNEJLSTM0b2xWdWxHdzEyLU0zYmxOajRJeHNNMG9MWnpWS1NOeTItblZieWNrT0tiNFJCeEJaVnBLMXFFd0poX2VnR0dvSVRkSlhmS2dVUXdEb2l3aGtXZzQ?oc=5",
+   "date": "2026-11-16T21:33:38+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -1038,20 +1049,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "476a82111c52",
-   "title": "Keiko Fujimori viajará a China en medio de visita del papa León XIV",
-   "excerpt": "",
-   "source": "Jornada",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3J6UlZWSnhIQjQ2dFVzVnVhNFk0VU4tSDVkQ19VMHhRVUNSWG9XSEY4aDdBRkZraDRaSEVoYXY1MDFOWUl1T25CRmlpR0d5NXNZeTRmZFVpb21YbHd4TzVFdnhRWEE3VjVuMzRmbWlJN19FYWJGWnNVWXRkV3ZuUXlnUGZybmFQV19zUXZuWEMtc3BzTFE?oc=5",
-   "date": "2026-11-14T14:56:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
