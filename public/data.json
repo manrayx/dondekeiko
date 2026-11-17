@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:55:07.951995+00:00",
+ "generated_at": "2026-11-17T07:16:36.477000+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -261,6 +261,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3b3a3feb3bb4",
+   "title": "Keiko Fujimori sostendrá reunión con Xi Jinping este martes 17",
+   "excerpt": "La presidenta Keiko Fujimori sostendrá este martes 17 de noviembre una reunion bilateral con su homólogo chino, Xi Jinping, según la agenda prevista.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-sostendra-reunion-con-xi-jinping-este-martes-17-noticia/",
+   "date": "2026-11-17T07:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "87d75e3dccab",
    "title": "Presidenta Fujimori: esta es su agenda oficial de actividades en su viaje a China y Japón",
    "excerpt": "",
@@ -287,17 +298,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "3b3a3feb3bb4",
-   "title": "Keiko Fujimori sostendrá reunión con Xi Jinping este martes 17",
-   "excerpt": "La presidenta Keiko Fujimori sostendrá este martes 17 de noviembre una reunion bilateral con su homólogo chino, Xi Jinping, según la agenda prevista.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-sostendra-reunion-con-xi-jinping-este-martes-17-noticia/",
-   "date": "2026-11-17T01:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "7b027e23fdb7",
@@ -802,7 +802,7 @@
    "id": "4da11a4a9d12",
    "title": "Keiko Fujimori viajó a China para participar en cumbre de la APEC",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkMzNHZZX0RpYmltYW5kZUFoLWRHbVJqZkJob0VDSUJEcE95ajVOS3QzZndIMmdQXzdSZW5DX0diampXOXFIdkV3TGdBTnpQUWpzVnU4R0MxdDZUMzg0ajRjTFdnNEtrRXZlQ0hyek40UjNmTUk0MWFDYTktSmpKdlFXU0IzM3Q2ZVFzUHFtOHd5alpXZHc?oc=5",
    "date": "2026-11-15T22:37:33+00:00",
    "state": "posando",
