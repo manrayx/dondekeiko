@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:04:15.619565+00:00",
+ "generated_at": "2026-11-17T14:25:54.214915+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Gestión",
-  "date": "2026-11-17T13:16:46+00:00"
+  "source": "La República",
+  "date": "2026-11-17T14:25:18+00:00"
  },
  "next": {
   "place": {
@@ -114,12 +114,12 @@
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVZyQzZIX1JuU3ViUElva0RKc2lBd3MtNkhRT1RKSVZhem1IYlREcERobkFsY3VLZWZlR2Z5eUpoQnNzVy04cU5faXpDa0YtR2JacE9wTWFqTi15LXMxTkNRV0dWbkRRXzgzelpQbXBOcVF4dExrNXY1MnpGREdrS2ZoTXA5R01UOFZWUlMtZXFqZmNFTHJKMjVvSmRJRWZOR3Y3cmRyRjZBOXhIOUZZZE9aZ0swSmZpUGQxdjNDOXNhUQ?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 59
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -295,12 +295,38 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6bf4f84fedc7",
+   "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
+   "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-china-en-vivo-minuto-a-minuto-de-su-gira-antes-de-la-cumbre-apec-hnews-558331",
+   "date": "2026-11-17T14:25:18+00:00",
+   "state": "transmitiendo",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "faf31755a73c",
    "title": "El Presidente Xi Jinping Sostiene un Encuentro con la Presidenta del Perú Keiko Fujimori",
    "excerpt": "",
    "source": "中华人民共和国外交部",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40aHJxQXhQN1N6Rnp6V0hkaUNlUndMU1VOWU9OeUJOUDI0SG0zRzE5YjNMV05FdHlJZVFadzdHb0gwTmJXVmp1SGM0THBzckhpbFpwYmVpZWhINzRzVHlXeWRLV3hZbU94em9aSHYyS1VXQQ?oc=5",
    "date": "2026-11-17T13:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1fc988fbd05c",
+   "title": "APEC 2026: Presidenta Fujimori se reunió con su homólogo Xi Jinping",
+   "excerpt": "",
+   "source": "Rumbo Minero",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWk1mVHYtTVU3ZmNiblk0Zm1xdlc3dHRia2VFLTVlNUtWTy1FaW93S2ZCVVRrOUFXV2Z3VWx0RllzaTl1Mi0yMmpwSWJJR0otY1I5ejV2TlNiV1VnZTlhSW14MmwtUTNKTUpBaklvWnkwRlJoT012MXNKU0wyeldLQW5PbnpSUXFiMEJDM0lPVWpDem9NX0VoMml1M0hKdUF1VEN0a2ZSYTdlN3Jk?oc=5",
+   "date": "2026-11-17T13:44:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -368,8 +394,8 @@
    "id": "e2b2989151e3",
    "title": "Keiko Fujimori confirma que Xi Jinping le extendió invitación para realizar visita de Estado a China",
    "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0V1X0RxUXBadWRXbWNjRlZxZDBSeUFTWUFzQmhKYTRYN3JkVDdmNk5pb1pTSktfckRza3FzQ1cyb1dlWmZMcXd6ZDZoWDJQQ2Q4dmRMLS1tUDV0LXRRcF9SMUx3NEVWZG9mdGoxZVViUlhwUklDX295dTlsWktSdmJmTWZKU2IwbktSVmFYYW5YYU5iRkp2dVU4Z0c5akU2NGU4TG5EWnJ2c2dhcFJoaGNYeUJ1UmtwcVozS0czQU1Pa0ZBeVpBcU9MTnV0TmM?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzlUUWZrMGhteFQ0VzZlZUlkb2lIdllCTk56VEVnZTBtNjFRV2EyZWJJa0NJM2xxc0FUMTMxcGROLVB1czd3Rk1GZTVROE5sMDVRTWFfQUtXbzVGZkg0S0xqMzFxejJPVUJCU19lbWwzQzR5amk0U2NhNy1QaGlrNHpHVGhEWjJXVWZfSnFkeWNvZnVhUzJrTkRrYUdBdFhaa2dwMHFva0R1U3BvY29zd2VnZm4zTERQVjBzZHFrcEUyLVZ2U3BDZ0c3LTU4STA?oc=5",
    "date": "2026-11-17T13:03:00+00:00",
    "state": "posando",
    "place": null,
@@ -522,6 +548,17 @@
    "next": null
   },
   {
+   "id": "95e8f23bdba3",
+   "title": "Keiko Fujimori anuncia donación de China por $ 22.5 millones para afrontar El Niño tras reunión con Xi Jinping",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQk9iQ1YwQkRJQk1Yd1BMeWZJUjdzaGFOelBKR1RMU2kzTERxU29uT09zeGNwVTJsSkZWbVlPd2xfcVJyQ29EUGNEQkwxaWJBelVsLWNKZFBJRHhWdTZFWTZYc1RyQXJFV1Z0NGM2VjRXcWs5cTA5OHVqa3Y3SXFfX1M0SkxtNnRLbkhsbzZpZ0xreHM3TG1WNVlhM3M2bmQ5Z3NjRVV6MWJwc2RJUjBEU3F2YVJxbkxRM2FpXzdvYk11NGl3NTBrMmRUSHJ2MVhiVWc?oc=5",
+   "date": "2026-11-17T11:41:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2f89bef1f9ec",
    "title": "Keiko Fujimori y Xi Jinping se reunieron en Shenzhen antes de la cumbre APEC 2026",
    "excerpt": "",
@@ -536,8 +573,8 @@
    "id": "5202b15a682c",
    "title": "Keiko Fujimori y Xi Jinping: China publica las primeras imágenes de su encuentro bilateral en Shenzhen",
    "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ2U0d1Q4SkFuSUozblg0WmRBRUxva1NSN2w2dU1sVy1nd3ZyVjZTLXhKSDJjcGE2RHd4RmQtbDlsejVheWl1YW1Ya0hmeDR1UGVfbUxTUjBJcldxNE1Pek05ejY0TVBXNmd1VXlrVkRsTVdHdGZGWmRyM19Oa1dpRVk5aUVnZXZnekkxal9BX1g0QWpIbkVTWGpwLTNkc2xsRnViV0EzTW1QcFl2N0NOUE9EN2JUbEVVT0thRVZ1Um82eWpJWm1ESnVZTHVZTnI0?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0MxMUZTVHFSX3F0Wm9qZURTS0NfaG1JWTFMbzJibTk4c096Y3pvZENpb0JjWGFPSzZIeGlzUk5zMExpcTM0TTNud0JjeTlFVFFfM0dPWm1BTGxzU0g3ZktWcjVwbjRfVnNTLUdWcjFNZ1I5aEdnTTRSZlc3LVNCcDVQZFg0ZUVoT25ZUkd1cmJjZG9YcmpMWFlrR0tTUWZpZDB2emtWVldVMk0yWUc4SE1BZVFkaUZhWHFBRHR4XzJhbW50ZEYxeUV2NVlQYVRoYU1z?oc=5",
    "date": "2026-11-17T11:07:00+00:00",
    "state": "posando",
    "place": null,
@@ -989,42 +1026,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "abf57666f7af",
-   "title": "Presidenta Fujimori llevará posibilidades de comercio e inversión a China y Japón",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHlqQUVLa19iRDVnWVJDNVV4N244cW1ob1NjSjB0TXVackpqQ0ZLR1kwRDhVSnVIbUdPVFNoLVlFNEpwS0U0QkRPa2k0Zm1McGhidnBtM19qeGU3ajRwS21tWFFpZ0dRWFpkT2IwNkZ2eUpUc0FRU3JRSTZObFdNc3NNRDZfbGhBcWNKNWpGeVJZUExKeGVZTDhWdTBPaVFya2dmVHZyeWVHeWx3UGpXS2gzRjJBT0JRNTZmVzMxM0dOT00?oc=5",
-   "date": "2026-11-16T03:06:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bad8054c6fd0",
-   "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones y actividades de su agenda oficial",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakw3Mml2WWl0MWlLQ1hkZ3FXMXhfTmhQZm5HQ1hnYUtsOFdpMHM2dWJQU0NMMjVsRVR4QnZZMW42OWMzU21rRXlMYVJNdThOaTNDY2F5WHFtbUJZVU1XYmlQWDhKNU1TVGp0VFJfUDBGWVFiQm9Fd3BjMjJsUi13NjF6aFhSUGNReHNXQkllNW9hT25GZHdsbi1Ta3BYNFFYbUxlOE1kMVdQWDd6RkNGR1RpVlZiczYwQVhPMXZBWHBxQkdF?oc=5",
-   "date": "2026-11-16T02:00:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "bf3ff7f8fa60",
-   "title": "Ministerio de Justicia será reorganizado durante 120 días: Gobierno plantea reformas y evaluará duplicidad de funciones",
-   "excerpt": "El decreto fue suscrito por la presidenta Keiko Fujimori y el ministro Ernesto Álvarez Miranda, con sustento en la Ley de Modernización del Estado",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
-   "date": "2026-11-16T01:57:55+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
