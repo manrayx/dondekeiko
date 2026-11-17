@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:42:13.493364+00:00",
+ "generated_at": "2026-11-17T14:04:15.619565+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -114,12 +114,12 @@
   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVZyQzZIX1JuU3ViUElva0RKc2lBd3MtNkhRT1RKSVZhem1IYlREcERobkFsY3VLZWZlR2Z5eUpoQnNzVy04cU5faXpDa0YtR2JacE9wTWFqTi15LXMxTkNRV0dWbkRRXzgzelpQbXBOcVF4dExrNXY1MnpGREdrS2ZoTXA5R01UOFZWUlMtZXFqZmNFTHJKMjVvSmRJRWZOR3Y3cmRyRjZBOXhIOUZZZE9aZ0swSmZpUGQxdjNDOXNhUQ?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 58
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -133,6 +133,23 @@
    "end": "2026-11-17T17:30:00-05:00",
    "minutes": 20,
    "subject": "Reunión bilateral con su homólogo de la República Popular China, Xi Jinping. (Hora local)",
+   "lugar": "Ciudad de Shenzhen, República Popular China",
+   "state": "posando",
+   "place": {
+    "name": "Ciudad de Shenzhen",
+    "full": "Ciudad de Shenzhen, República Popular China",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
+   "start": "2026-11-17T12:15:00-05:00",
+   "end": "2026-11-17T13:35:00-05:00",
+   "minutes": 80,
+   "subject": "Almuerzo de trabajo con empresarios chinos organizado por la Embajada del Perú en la República Popular China. (Hora local)",
    "lugar": "Ciudad de Shenzhen, República Popular China",
    "state": "posando",
    "place": {
@@ -274,9 +291,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 316,
+ "agenda_minutes_7d": 396,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "faf31755a73c",
+   "title": "El Presidente Xi Jinping Sostiene un Encuentro con la Presidenta del Perú Keiko Fujimori",
+   "excerpt": "",
+   "source": "中华人民共和国外交部",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40aHJxQXhQN1N6Rnp6V0hkaUNlUndMU1VOWU9OeUJOUDI0SG0zRzE5YjNMV05FdHlJZVFadzdHb0gwTmJXVmp1SGM0THBzckhpbFpwYmVpZWhINzRzVHlXeWRLV3hZbU94em9aSHYyS1VXQQ?oc=5",
+   "date": "2026-11-17T13:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "847ec2806313",
+   "title": "Presidenta Fujimori agradece a China apoyo para enfrentar impacto de El Niño [video]",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUtUcExZSFVnOVBfR2NzTDI5V2E2dUs4Wm9JS0s0V1BtOGhSdW1HRlkyWkpnSWtNWGNsMVRCTENYci03bU9hSDJ6X3NHSU5iYWF0WnJyUmNKYzFpMEdleC1xXzI3X2lUVnlTbHVzOW5HOHJLcUpQNUtrb3RYUUxpUlo3UFhXZU55TzJzcmVmeTF5LUpIOU42Y3pyUEFnY2RqN3FrclZTa2F2UjM2d2pPcFN2bHJhd2dVc1E?oc=5",
+   "date": "2026-11-17T13:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "ae3d0f842500",
    "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
@@ -321,6 +360,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdExad2tqRGtobWU5dDhaVnJhazVUZEpQbGo0SDhGN2NfanlXNXNlaXJQNnhMdXR0V05LUnM1V2plMm1XcEc0THVqUkN1YzNyV21KTVlPTTNkR08tZVBxVV9uUTk5VUpuN3JWTXpBTmFRSkE5OWtnVzAzWXhCQy1GQmtkbUtORzhNcC05NXJmcTlkNXYzOXdCNFJSUWRiZW9QZVFGRWhuZDFxNlkyNFc3LTF4QVBzb2M1Q2hRdmdhSE1QdlhJcHU4NV9xbmhidEVzc2FWSXJyNVNjcUtZaFN6bVg4bnRWNEJyUlIwSkprNA?oc=5",
    "date": "2026-11-17T13:08:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e2b2989151e3",
+   "title": "Keiko Fujimori confirma que Xi Jinping le extendió invitación para realizar visita de Estado a China",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0V1X0RxUXBadWRXbWNjRlZxZDBSeUFTWUFzQmhKYTRYN3JkVDdmNk5pb1pTSktfckRza3FzQ1cyb1dlWmZMcXd6ZDZoWDJQQ2Q4dmRMLS1tUDV0LXRRcF9SMUx3NEVWZG9mdGoxZVViUlhwUklDX295dTlsWktSdmJmTWZKU2IwbktSVmFYYW5YYU5iRkp2dVU4Z0c5akU2NGU4TG5EWnJ2c2dhcFJoaGNYeUJ1UmtwcVozS0czQU1Pa0ZBeVpBcU9MTnV0TmM?oc=5",
+   "date": "2026-11-17T13:03:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -974,43 +1024,6 @@
    "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
    "date": "2026-11-16T01:57:55+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cbd5f5d1aa1f",
-   "title": "Viaje de presidenta Fujimori a China y Japón: conoce su agenda oficial",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlJ6YW1rc2w4bUxhTEgzcHY3emhLZ0E3d2t1RzdlVUp3V0FyajNtTXhOOXRob21FdE5qbWdJTGNGRUZOaGxsWkZWQzRZM1BNcEo3cTlJQ1RyR2ZpZ0tXdHEyRHNhZDBfRUdNRGFEWmwyb050SHNtTWhkdDNsTXhTTDVNblZCZk1HT2IyeHAwcnRsbnpzUVFyRlJYWldaaWtxS1lJV2VVaHk?oc=5",
-   "date": "2026-11-16T00:42:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "877555aa41cf",
-   "title": "Keiko Fujimori viajó a China para participar en la APEC: se reunirá con Xi Jinping y la primera ministra de Japón",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc2M1NXRyVEl5MXRGZUVHdDFwUC1iMHFHVVRKV1FQSTZialRVdjg4MG1VYXNleXFiOUVMWXJ4OXlqNG9mcUVhY3N4MzBkbERmdGoyYUg1Tmd3Rkx3Mmt2SHFIRmFGVFpOTjhhOHVSWWhEU20tRFZnbUY5cTk1LUduZndPbkx5dWg2RFZlMHRiWEowUWU5bl9PbFVBUk9ibUN2bjdXTnlIUkpkaTY4c3RHUHlEWUxlZ0JYazNpZWUwM1JFb3lTMTdsTUdVeEQ?oc=5",
-   "date": "2026-11-16T00:26:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "52ecbd1a071e",
-   "title": "Papa defiende Amazonía y pueblos indígenas | Keiko viaja a Asia | En vivo Santiago Pedraglio",
-   "excerpt": "",
-   "source": "Epicentro TV",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc3NXQWxLb2JMOFAyamt3LVU2Y0xOMi1UbGk1T1M2UVp5Y0x5Qmg2OVVWb2VSZFJwbDhkUmlVNzZBNkdUQ00zdUZNZUlaU0RLdnNTMmN6YXFqTC1vMDg1dnNNT3JVV2R4bkRKWm0zLWZtWDM2RGNzR2NlbHByejRCamljTGNBWFllVC1oRHNfYUhScWtHdnBHQTMzcmVHa1B5WjVHYnFPUjNiTmc4V1dR?oc=5",
-   "date": "2026-11-16T00:00:00+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
