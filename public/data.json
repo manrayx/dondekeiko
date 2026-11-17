@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:58:36.619837+00:00",
+ "generated_at": "2026-11-17T22:20:14.057937+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "La República",
-  "date": "2026-11-17T17:53:19+00:00"
+  "source": "Exitosa Noticias",
+  "date": "2026-11-17T20:11:00+00:00"
  },
  "next": {
   "place": {
@@ -295,6 +295,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6a60febb660e",
+   "title": "Keiko Fujimori presenta a China como el principal socio comercial de Perú",
+   "excerpt": "La mandataria sostuvo una reunión bilateral con su homólogo Xi Jinping en la ciudad de Shenzhen. Al término del encuentro, destacó a China como el primer socio comercial del Perú…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-presenta-a-china-como-el-principal-socio-comercial-de-peru-hnews-370617",
+   "date": "2026-11-17T22:18:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dfd5bf589d98",
+   "title": "Presidenta Keiko Fujimori destaca fortaleza económica de Perú",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3JQVnFPMVMzWmZOWDRFRmpWUXZlaVMtZUMtM0Ita1FrWWJlQjJ5ckRjTFJ4VF95emVoYlJ5bEN0dGVIZWlzbDBTUW1UeW5iTGhVcXNEbU0tZndOY3ZXRHhjdzN6OUtsLWM4M3lZTi1jUGp0d1YzMGg5TE5VLVlvTmF1bTJVQlVCM1VjVTctMjFIdElDS0lqTk1SMjIxTHM4OXFMSHhEbHg?oc=5",
+   "date": "2026-11-17T22:02:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "66bb5423040d",
    "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar el fenómeno El Niño en Perú",
    "excerpt": "",
@@ -369,6 +391,21 @@
    "date": "2026-11-17T20:13:40+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "2fbb0d1f6b50",
+   "title": "Premier Luis Galarreta destaca agenda de Keiko Fujimori en China: \"Reimpulsar nuestras relaciones bilaterales\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSVJER0ZxMERBbkxLU0FoUVNmRGI0al8zeEhGNFF3NGhRZlpJMlFHaXFQWUdLekw3Y0tZZVBBRmJHN05WMWNzTGlXbEFfVjJGVnhRbzJhbHFZVGxYX0VXdTdxSzE1VGs4Zno1Q2MzTDZLTFBETmNaZC1jVjd1b1lHejRtY2lXbW9TVlM0aGNKTUhZN0JteEM5Zk1EUGhfVkRaS1NQOTAxYll6TlJQTU1wb0YzRTJXWEVUVzdsSW04YlRYTklCQ3BjQ2VXMTRxSm9oWUQtUkdJUml4MUFfa1R0cGdoVQ?oc=5",
+   "date": "2026-11-17T20:11:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -533,6 +570,17 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWZOQmVGSTVMWGJwSmdMYnNEdGd6ZWtqdi1BMmY4M2ZieV9rQnF6NzVmXzZteGZmUkl2YmdDX3JkSEs3a3NrZk9BRV8yZFVUQS1pUUM5THZzN1NmUzJkUFZBZ21WeUNRUXhUMzVZclVsWmxCVFYyazQ3cGJkbFJwU2VtS3BsQ2Ytakc5WnNHNTQ0YmdHdEF4VGFSbkFvMHVta1o5Xzh0RmU1X04zYkNVeGhuY25vRHVy?oc=5",
    "date": "2026-11-17T15:58:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c6e53a7c3da4",
+   "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar El Niño",
+   "excerpt": "",
+   "source": "Noticias Trujillo",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEh4VzdUWWRDUGJQczR0MmpYVHlPLXlIN2xiNFIta0hnUXVTUmxmeE5uNHB3MkNWMHBUbGltdlFLUXB2bjJ6UFlicjkzLWxfLW5ZOElhS1psa3J4TTlIQWRyYzZlZlhvdHJJYlNJMXhzX051a05KWGEyYlV4OW12b0gwZXBSbmxYTDNGdWttZXhGU01OVDlXSk0wZ2x5U3hzTHFvQ2JnRUN5cWl4aVpieExjNXRCV3hjTlNDWnFqbjZSQQ?oc=5",
+   "date": "2026-11-17T15:57:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -953,54 +1001,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejJsR29Tbmp4WUlEaDhzcXNpYzloRzJ6SXY4Z2JEWlltNjVVNW81b1RDa2JOTlQ4WmRBOWdaYXkzS2c0dFVDYkVjRGdnLWp6NmlVX002VjlsWkJmUThPNlNLYU9JQy1sb3Z5NGcwUC1jZjRsdEhQWHM5X091NFkxV2FaVWIxRHRLcUdDMEtCb2lhaDVTalFZVmtSY21MSVpScmlrSFJlS0NlM0hQcTk0cTcySE5keVIzM01GUlpJdG9JRDZmTDcwMTlIZk1kOGtEcDRQcm93dzhNZDVJOXc?oc=5",
    "date": "2026-11-16T23:55:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "7616bfdff5f4",
-   "title": "Keiko Fujimori se reúne este martes con su homólogo chino, Xi Jinping",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGRvOHl3MWp3TWV2V1FkQTlFalhYeUlqTHZYUnF4NHlfOW4xa052elA1U1hEeU5NNmJVMjcxdTNKNG0zdlNRWUJjal9lQXZIdDFJVFVOQ29OT2NLTE0xYVdtTHJuTVRvMHRxS2ZZSHM4YzJXSHg4aThGY3ZkdjlmV3c4c3g3MHZPbVQ5TzlwNUdjUjNrQTkxbk1KbTVBZw?oc=5",
-   "date": "2026-11-16T23:45:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "709493527c96",
-   "title": "APEC 2026: Keiko Fujimori se reunirá con la directora gerente del FMI, ¿qué otros encuentros económicos tendrá esta semana?",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVU5samZnN1R0Ump5RXZtMEV5dVlSWVlUaktvRzJWQlYzQ09lc054aURfR19oS3VJRkttb2V4eWxEdmF2WGctdDhqMG5UM2dfV3Q4NEdVQVo3QzVfT285RVR4bTBvdGU4N09yVWZ0WFRnYWpqMUxSN05QMkpVSEFYSkxMbjg4TFZ5NW1yb0xseElQZUtmUm1iVXowRmFfSlFfWDVMUlJUcFVYUC1UWXJlU2F5ekxiMzFpYlEwelFTeDcxM2I0enNldlZtb3Vqd1VoMWxpUHJ1cTJYcHhkSXFQc1oweHZVazR5UlJ0MFVYVDXSAYQCQVVfeXFMTXBtWk15Vk9zckNsMjduUUxKb1RMNmNEbkxmT2ktSEpmREp5aEhwWFFtN0RlNERIcFpTVWYzVW1yb2V2U0Y3Y0tFSDROM1FieVMtZmZiOVAxeW1HNUgxWE5lTnY5T1JrVENpdGplZjZxQzBZQ2UxMGNORjQ1RGtNZUdzbGZJNnRGVW1YV29YY2tDbnZvdElDdS1LSnlWSE1ZdERab2RpVTU5NFRxUDkxeHRoZWlwQklSRHJRTzlOc2RGV2RtYTd6ekVNZ3JONkJDMWtLWE54SnlOaEY4ZEdaUmpNWHQ0ZmtWcFF3UFVhbDlueUEtTkdzQ3NjUDFudWpVekM1MzE?oc=5",
-   "date": "2026-11-16T23:36:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "99291b06e948",
-   "title": "León XIV se despide de Perú entre el reclamo de las víctimas de la represión y la ausencia de Keiko Fujimori",
-   "excerpt": "",
-   "source": "La Tercera",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWURMTzFfa2pabnBsZlY3bXFrZmVNS3ZRVVk2X1djWUczYTBhRGxWVGdRR25VSl8tZkZvSm9GMkctR0NCSlBhNEJOb1I2b2k5ZHRzQWVlNkQ3TER2YmQwdmZyS1lHcWJNeWd4SWVQektHdThDQUhhMENXS0pqeGx6NWVfWkVWN1E5anNjWkNvSW9qTWR1TUl4ZG5YM1drQlNIN1VidWZsTTl3S2tRYlY4T0gtUHhmaW8yNEI1NmJhczl4NFljS1dxeGFnUlhyZ3pBaGNyUGc5QmhlQ3N1Tk8yakdMQdIBhAJBVV95cUxNX3B4LU9WbHRRUGtiOGNYMDRtUlJhYjJVX3p3N0JBaGxXalFEWnVSTVd1R3c3N1B1dEZyc1cxSlBjM2tpVW5Uek82UXhjRHZaMEFvdXBZSlVMbXhlOXVESXVOc19tV1BUdHRYRVdwdmk1SVpkdnU2Z2t4UVBPR19vcGR6cG5SakFUQmhReEhWZi1GeEcxY0NOaDVnVENMZ0k0cEtmdnl1RGxzSTdfZm5iUnpKNVBfSVp2S3NBUkhsRlZ2d2JScFlkWDZMZE5PVlk3V3BsdFZMSFk4SjhDbjV6akpENGZQVzNnbHhxZ0p6S3Z4TnlDT2hVS09kLU9qcFFzZ2ljeQ?oc=5",
-   "date": "2026-11-16T23:30:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "92de2c515558",
-   "title": "Keiko Fujimori: ¿Cuál será su agenda oficial en China y Japón?",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-china-y-japon-reuniones-encuentros-bilaterales-foros-apec-cual-es-la-agenda-oficial-que-cumplira-en-su-viaje-apec-xijinping-apuesplan-noticia/",
-   "date": "2026-11-16T23:20:27+00:00",
    "state": "posando",
    "place": {
     "name": "China",
