@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:41:40.811969+00:00",
+ "generated_at": "2026-11-17T23:03:04.928291+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -295,6 +295,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a11ebe48c658",
+   "title": "Gobierno invita a empresas chinas a usar Puerto de Chancay como eje logístico hacia Sudamérica",
+   "excerpt": "El Gobierno de Keiko Fujimori invitó a empresarios chinos a utilizar la infraestructura peruana, entre los que se encuentra el puerto de Chancay, como herramientas para expandir sus mercados hacia…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/gobierno-invita-a-empresas-chinas-a-usar-puerto-de-chancay-como-eje-logistico-hacia-sudamerica-noticia/",
+   "date": "2026-11-17T22:49:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6a60febb660e",
    "title": "Keiko Fujimori presenta a China como el principal socio comercial de Perú",
    "excerpt": "La mandataria sostuvo una reunión bilateral con su homólogo Xi Jinping en la ciudad de Shenzhen. Al término del encuentro, destacó a China como el primer socio comercial del Perú…",
@@ -344,7 +355,7 @@
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUS1tOWJOQ3lJcE1YOU9rWkFoRF9TMXR1MTFIOERWbU1PbXB6dXZON2trOEJfSlNVV19EYjQ0eUdiT29FTDMwd0lwT0h1eTR3UDlSQzRUWkk5bHgyUzhJU29YdGtUV0dxSDNiN2R6MndrVlRzM1VIMmtRX3k1ckVibzNkSjk?oc=5",
-   "date": "2026-11-17T21:43:21+00:00",
+   "date": "2026-11-17T21:47:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -500,6 +511,17 @@
    "source": "ATV.pe",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pczhfcWl2QXoyWkdWWWpselBBV0I5aXN6cXVPT1hVcW5KNlBpbFpSQ3MwZjc3eld2Zlk3dzJZeXNfVVoybHBhbDJGQVhlY3B6Wm1SUkVtTzh0Y1V4MjNpVHl0V3NLWlQ3YWJ2REJpNA?oc=5",
    "date": "2026-11-17T17:04:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bb59185ddf32",
+   "title": "Comitiva de la presidenta Keiko Fujimori al foro APEC 2026 cuesta casi US$100 mil en pasajes y viáticos",
+   "excerpt": "",
+   "source": "Gato Encerrado",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDZuUlZqZVJpMmFOMHJjRjc3Ulp5WHdiWTdDT21rUkk2LWNFSWFabE9ZN3ozWkthcXZMQjdfdFNMSkxlY0NtLVRuQTVGLWFtejY3LU1pLXFBRlV5WkJmOTcxZUo2VVltdmw0Q2o1UkNlUlhRMnhEU2ZRM1BFVzl2Y2ZPLWFkWmF4T0Q0QTVTNVJudzVneE1yTlNObF9la2cyUVNVT1BUbmxDb2lGdkJvWVBFVTJZdw?oc=5",
+   "date": "2026-11-17T17:01:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -978,32 +1000,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "7b027e23fdb7",
-   "title": "Bilaterales con Xi Jinping y Keiko Fujimori: La agenda del Presidente Kast en la Cumbre de la APEC en China",
-   "excerpt": "",
-   "source": "The Clinic",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZU5BbWk3V2xLeDJNM29OTC14N0pVdjNUWXpPUXFnLTV5ZFpiLVZwWXh6NE1GVWhwOXJhaDFPZWFmeGlabFRtdkRGQWdidDU1MVFaaml4a3hwWFVpeUZpMGlDSlpYUUlZN1Zkbl9nbXFvUVpOVnJ1MWcxM196YXFfYU1qa0I2Rnd0RUNJMkI1MG1kdGI3ZERGak1jclpLdFd5WGdOajFydVJrekJiUnVZbHVtcFF3QmR6elF2dHJrbE1Lb3p4SlRJS1lhZS15UlpVekJ1bkpGWVp0WTQ?oc=5",
-   "date": "2026-11-17T00:36:30+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "c70a43db64c1",
-   "title": "Keiko Fujimori se reúne con Xi Jinping en medio de las presiones de Trump sobre Perú",
-   "excerpt": "",
-   "source": "EL PAÍS",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbldDVzZaZ1pHcFFEWWhSaEZMZkN4Q2l4TmgtcWJCMkVSTU1Mb05XOGhOUVlIX3JqdGd4SDRobFdHNmU3VDk5ODB4SkRiWTZmclFmNmo1U2tXcmdnM1lDQ20teld5N3BVMlVHaFg1dkd6SWlYY2dGMk1wbnh4TFNvOE9aSDg2QzdiSHZZU1NJQ09MdXhfbG01d2k2NDhCWFJLM2Y4Z24wX3I4Qnl3cFZGTHZPUGhvRTN5SFVvX2ZfeVZtU0FXekHSAdoBQVVfeXFMTk1zSWtTY2lkSmhrRVFVQ3RLemgtbXhXYTZ1SWM0ejg0OFhGcFlEYXhpX0NwZUZrNEpiQmxQaHplT2NsZHRqaEJkZnoxdkZiblN5TGVEam5PLW00NWdRcTNZMG9nMGRiUzNqOURKeDFEWVRfU19Ed0pkNHIxYllyeEUyUU8tdlk2LVVrSUVJOVRYdWRpem9pSFY4OWtWMTBjUmlrdElQRzhwNjl0RE5PWGNVWFowMGJYRUhRcTBSMllWcl9oSWI2QmNMWFRRNm1WQXRnczhkcHh2TVE?oc=5",
-   "date": "2026-11-17T00:31:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
