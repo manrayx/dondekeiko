@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T09:02:58.157743+00:00",
+ "generated_at": "2026-11-17T09:24:23.557936+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -260,6 +260,28 @@
  "agenda_minutes_7d": 296,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "8a129f7a57b3",
+   "title": "Xi Jinping y Keiko Fujimori se reúnen en Shenzhen antes de la cumbre de la APEC",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaE1YVGp0eFFwYzVuSlR6N1ZHSFBsZ1kwVjlOSXQ4ZEhZSERyc2h4ODRaVVROS0cwTE9GNl9RN3BLb1lKeXd5M0ZkQl9CTG1tN1k4blJGdzVjcWRQTXBUeWNmRWZDblJ5QktMQ18xTnhfMWdzUEJuNE53cEpNYURlQU9mV0FpbjFMRmJ2dVctcGJCVXN5Wi0weVRUNFdlaWVxSUZsRkF4OU9qSTBiS0xubzFQaW5JeFBQR3JnN1l0N09aUmkwNktqMnkxRVrSAecBQVVfeXFMUFAxVUl1dWZxVm9wM0NBTXgzNTBRNldZSjFVR2thUmdEQWhOTENBSTY3amoyTG13d2ozTDAtTjVsNWE3bVVkNjRMVnRNalVKZVBjTHN4a3l1RVlRdUNDM0JJNDBGZkdoYk9OUTVhUVIxSmJQMXZzN0NmaVNOZmRRLWxSWTdxd0xHdVhOQ0M0TjlNMGJpWDRKOHJad3dhVl9ZdDVHX0NpclFJb3ZhaVRVQjVvenEwNldpenZ3MTlQX2UyZ1NzVUJZRkQ2amc1VWoweXZIemxHOVkwSzVzSHFMa1dMLU5SdTA0?oc=5",
+   "date": "2026-11-17T09:17:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e959f785a27f",
+   "title": "La presidenta de Perú, Keiko Fujimori, llega a la reunión bilateral con el presidente de China",
+   "excerpt": "",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnJPYmh4Mjd5SXhPbjg4a1hHS09oVF9oU00yMDFaZkd6Z2Z3N3R6TEZjdkNyc2dBeW1BdGN2ZEpyUUlURFJEQ2JBUTREM3A1UkVqWm1KRnRGVGJCZlRIc1pWUExYZlIwY054c1hBc2R4NGFrakpTZFlSWWQ2NmxuRExHTGJkQVg2ZEphc2NWZUFDa1E?oc=5",
+   "date": "2026-11-17T09:09:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "3b3a3feb3bb4",
    "title": "Keiko Fujimori sostendrá reunión con Xi Jinping este martes 17",
@@ -985,31 +1007,6 @@
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNT0prSFREcFVFX0d1S193WmE0ekl5MmtTWnBCSmR5RU9BZFZmTGV2Y0JYUm5sQ1lEakh1ejd4cktaNFUza0F0TVZKYTQ2X2hvTEF4U09HbE9zN3g0RDlQMFpnTFp6ZFZQQ2JSOEoxdW5SemhNRGxENlZJTjk1UnZ5Yjl2NHpReFNBS2l3NzVxVmlpQlllaWROYjF1bzAxVHJpRzB3RW8tT1ZHajIzRDFYYTJPeU8yVHVPX2VCUlU0enVGT2M0MURHbl9WZ1VKZHhrSGNpUFVWS2QxQzF6THZyTjJvZy1BcjBGQ0pSVUFrTVRqWWlkTmt6TUNsOFFaOG5zNzlwZDdYcDFpNWFHREg0MFhTMHBUMzdyMWpjTlFVcjBvbEU?oc=5",
    "date": "2026-11-14T21:12:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ea5a5badefe5",
-   "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones bilaterales que tendrá durante la cumbre APEC 2026",
-   "excerpt": "La presidenta se reunirá con la directora gerente del Fondo Monetario Internacional, Kristalina Georgieva, en el marco de la cumbre de líderes económicos",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM2V5TEc0NVRBTUdGaGxVRDA0M2dJLXJYeUdyQmYzTHdGWEpyQ21yUExBWmJUTEU1Q3VSM2xteDV2S01hWW1QRWk0b0RnRUpRQjNQZGJMTnMzRzFWSTctXzIzNTBRNkd5TXc0TmVRY3ZJaFNRQ3RSOVJjN0RuZmpOZjFCYW9yLVNmNFpEbXR6SGVPLWNOU0d3eXNfYmdJU2pvVkl6Q3dOMWZBT2c1eU1GOFBJUGp4azN5VVZaS3lfdjNlM2ZSdUtOUUpaQ3dTNGFhOHpVWk1TamJGZlN5RHRKS3pfZGRBbnA1Z1HSAYQCQVVfeXFMTUN0dnAtcWlpVkxRYlFQWG83ZzhvS0NReTZuY0FPaVk1LUJvSnVNWUo5TnVhUVQtNWtrbFdhSkI4cVd3ZXdaUHZXSldGRktWWDd5bVc1a01MWmRuSmh5MHpRUW5KRHg1eXRQT01MZnBCVlo4cEI2ZGpEbi1IbXJDejJnb24tYzZpMkFFT3RkMEE4dkRMNk9Ya1NNREpGaVpVNlJPRE13eTc5NXAtcW15ZHpCdmF0b1pYR1g0S0tqdVFveXZqQUtkd1NZYy1PRlZ4enFRNEZHYUtMUE53MlFucFgwWGpPSG5iOUlHUzdzdGpJVmM5WERnUXNCRmpBQklpY0lFa1g?oc=5",
-   "date": "2026-11-14T21:03:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "63b351a67654",
-   "title": "Ministros asumirán encargaturas por viaje de Keiko Fujimori a China",
-   "excerpt": "El viaje de la presidenta Keiko Fujimori a China y Japón, previsto del 15 al 21 de noviembre, activará tres encargaturas temporales en el Ejecutivo.",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX2IxaEg4YUdxeU82cFNNckZaVmhka0ZZRlFOZV9USVhJR3pNV2t6M3pFOEllLUg3TmJnOEdhZE8tbjhYdXF4dHRpQVlwQXpZeVRDLUNEdkVxSlhFYmxUaE5XOWd4OGdnenYtcUNWYmlmRGZFb3ZnU05VVjRFaEtYLW5SNkdPMGxqQkpzb092bWFjU0pvU3NRMk9UY1lpMjl0MG1wMkVGdGV3VU9XLTlsXzBTalBDSVd0NEtkTmlCZnl4NzNPbEpHWVRxM3h5NmtGOVVaTHU3b3Y5NGlTZTRic2Rpald3aEt2UDJxN2tn?oc=5",
-   "date": "2026-11-14T18:28:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
