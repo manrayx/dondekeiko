@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T00:31:08.087379+00:00",
+ "generated_at": "2026-11-17T00:52:02.035491+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-16T23:20:27+00:00"
+  "source": "The Clinic",
+  "date": "2026-11-17T00:36:30+00:00"
  },
  "next": {
   "place": {
@@ -294,6 +294,36 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "7b027e23fdb7",
+   "title": "Bilaterales con Xi Jinping y Keiko Fujimori: La agenda del Presidente Kast en la Cumbre de la APEC en China",
+   "excerpt": "",
+   "source": "The Clinic",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZU5BbWk3V2xLeDJNM29OTC14N0pVdjNUWXpPUXFnLTV5ZFpiLVZwWXh6NE1GVWhwOXJhaDFPZWFmeGlabFRtdkRGQWdidDU1MVFaaml4a3hwWFVpeUZpMGlDSlpYUUlZN1Zkbl9nbXFvUVpOVnJ1MWcxM196YXFfYU1qa0I2Rnd0RUNJMkI1MG1kdGI3ZERGak1jclpLdFd5WGdOajFydVJrekJiUnVZbHVtcFF3QmR6elF2dHJrbE1Lb3p4SlRJS1lhZS15UlpVekJ1bkpGWVp0WTQ?oc=5",
+   "date": "2026-11-17T00:36:30+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "b49bd2731fa5",
+   "title": "Keiko Fujimori en China y Japón: conozca la agenda con las principales reuniones bilateriales que sostendrá la presidenta",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWEpLcVQ1YUs2OHdidmNqZEtVeWxkYzk0Vm53VEY0UlMzMU5JTEhZT25Jd2E5QWg4OG8ySGJDMlpFSk5RRGd4RDREMWVWbGQxdkVobDEwWlpxMDc1TUpaVmJCY29MamRQb01vZjJ5dUkzeWFJejc3cWljZW41S2oxeWNCQnJqTHFvNEhiaDUtTDR3S0EwbS1WX2YxUjFuREtVUEJ1Tk9WQ2pDQ1VTNDIwUUlSZW1LYUwwNDBvODZPMkZmLWxUMVJVUDBZSWFyR19zSS1DS2RJU1UwNTR0MlZYTFIxeHdpMEhrdEE?oc=5",
+   "date": "2026-11-16T23:55:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "927926d3c771",
    "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
    "excerpt": "La presidenta viajó el domingo 15 a la APEC y llegará a Shenzhen horas después de que el pontífice deje Lima. El 11 de noviembre lo había recibido en la…",
@@ -341,17 +371,6 @@
    "next": null
   },
   {
-   "id": "207323d5af2a",
-   "title": "Keiko Fujimori viajó a Asia y no despidió al papa León XIV",
-   "excerpt": "",
-   "source": "Jornada",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2JMZWN1ZzZEZDhqc2JUb1lVTElHYTJ1OEg3ZTNIcWltcU9mLWJ0ajB2RVhkN05UZXUzZDRScU1HT0dkaldqMVVEcDNPTXdTV2lGNmJhSEFSSlJFZmNUb1FqX1NTNDRrTGhhdGc3UnJtMmRoczRzd1A0SDhzVTRwVHFOYUUxWldyV0dxbEpQVlFuMmNSNXg4LU1HLTVJWWlYR3R4Y2hMcUVMTnp5N3VBRFlGUEFPRXQ5YVhaX0ZB?oc=5",
-   "date": "2026-11-16T23:21:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "92de2c515558",
    "title": "Keiko Fujimori: ¿Cuál será su agenda oficial en China y Japón?",
    "excerpt": "La presidenta de la República, Keiko Fujimori, viajó este domingo 15 de noviembre a China, donde participará en la cumbre del Foro de Cooperación Económica Asia-Pacífico (APEC). Luego, se trasladará…",
@@ -364,6 +383,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "207323d5af2a",
+   "title": "Keiko Fujimori viajó a Asia y no despidió al papa León XIV",
+   "excerpt": "",
+   "source": "Jornada",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2JMZWN1ZzZEZDhqc2JUb1lVTElHYTJ1OEg3ZTNIcWltcU9mLWJ0ajB2RVhkN05UZXUzZDRScU1HT0dkaldqMVVEcDNPTXdTV2lGNmJhSEFSSlJFZmNUb1FqX1NTNDRrTGhhdGc3UnJtMmRoczRzd1A0SDhzVTRwVHFOYUUxWldyV0dxbEpQVlFuMmNSNXg4LU1HLTVJWWlYR3R4Y2hMcUVMTnp5N3VBRFlGUEFPRXQ5YVhaX0ZB?oc=5",
+   "date": "2026-11-16T23:17:12+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -649,6 +679,17 @@
    "next": null
   },
   {
+   "id": "abf57666f7af",
+   "title": "Presidenta Fujimori llevará posibilidades de comercio e inversión a China y Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHlqQUVLa19iRDVnWVJDNVV4N244cW1ob1NjSjB0TXVackpqQ0ZLR1kwRDhVSnVIbUdPVFNoLVlFNEpwS0U0QkRPa2k0Zm1McGhidnBtM19qeGU3ajRwS21tWFFpZ0dRWFpkT2IwNkZ2eUpUc0FRU3JRSTZObFdNc3NNRDZfbGhBcWNKNWpGeVJZUExKeGVZTDhWdTBPaVFya2dmVHZyeWVHeWx3UGpXS2gzRjJBT0JRNTZmVzMxM0dOT00?oc=5",
+   "date": "2026-11-16T03:06:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bad8054c6fd0",
    "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones y actividades de su agenda oficial",
    "excerpt": "",
@@ -669,17 +710,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
    "date": "2026-11-16T01:57:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "abf57666f7af",
-   "title": "Presidenta Fujimori llevará posibilidades de comercio e inversión a China y Japón",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1pNMFJMWXgxc2pLbGQ2aXR2cVZkSnNfeGpVNldCUGZXV3prbzdsYTZvYW1FX3B6ZG5LbmVvcUhabEpRQm5ZZktUNE9sSWllNHBsOGJibHI0TWpnNXd6ZFFEZjIzRnphb0twaVFDM29GM2c0WE5TZ0hGSmg2Mk5kQ0h2QTJsem41eWxNY2lsR21QRmhVUTBEenlBajk2SEI4eFpJeXRxNVN6QUNJMGI3eXoyMEw4ZHoy?oc=5",
-   "date": "2026-11-16T00:43:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1025,28 +1055,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "b0bd3d79ec51",
-   "title": "Premier Luis Galarreta quedará a cargo de la Presidencia durante viaje de Keiko Fujimori a China y Japón",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPei1FRm1rTFhENFZSVDJ6Tkk1MEVwODJCOUowZmpLTzF1a3FUMzdvQi04U081YUJGY3gzaFBIUlNjUy1rd3NBeWpwNkNSX1duVGhVQUQxUHhXQ19OXzlEcmlTNFhUcjJUckVQRS1NUTlSQUJibEpxUTdkc3lRbkpnME5BZExZd0dnVlZOZXN1UVN2SHBzdlg0dTFtQVJKejhhUWwyZ1Fjd3NBMGxub0xaaS1DMzk2b1dRZHZ4TWNsRWMweElNOWQzQlhRc1dObXZQT0hBdg?oc=5",
-   "date": "2026-11-14T12:12:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "eab40c94d912",
-   "title": "Perú. Desaprobación de Keiko Fujimori alcanza el 53% y al parecer está en caída libre",
-   "excerpt": "",
-   "source": "Resumen Latinoamericano -",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSl9rMjE2RGpNbFJ3ZnhUWDc5UkRGRy05cllkNjAwX1FzdExoTzhiOW1hSndSMjRjVU1WdDYtM1lHRHVjVTFmS3lpNEdoMVBzc0Ffc1l2cU5HX2RfQUx2Z1YyelEzQkxTS0d3UEJvbWluOTFUVEZ6ODE4aTBKcTc4T3VibFBtU2t1VVRhWmdzZS1Nclk1ak9yczJZWVd5cThRbmNQejhNYlFFOEhWTjFBNVMybncwMkpEMkJ0ZmVPX0hZTS03WjFlZTBXRUw4N1k?oc=5",
-   "date": "2026-11-14T10:57:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
