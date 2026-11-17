@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T23:24:58.014085+00:00",
+ "generated_at": "2026-11-17T23:46:36.319405+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,16 +103,7 @@
   "source": "El Comercio",
   "date": "2026-11-17T23:13:40+00:00"
  },
- "next": {
-  "place": {
-   "name": "China",
-   "abroad": true
-  },
-  "source": "tvperu.gob.pe",
-  "date": "2026-11-17T06:59:00+00:00",
-  "title": "Presidenta Fujimori: esta es su agenda oficial de actividades en su viaje a China y Japón",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVZyQzZIX1JuU3ViUElva0RKc2lBd3MtNkhRT1RKSVZhem1IYlREcERobkFsY3VLZWZlR2Z5eUpoQnNzVy04cU5faXpDa0YtR2JacE9wTWFqTi15LXMxTkNRV0dWbkRRXzgzelpQbXBOcVF4dExrNXY1MnpGREdrS2ZoTXA5R01UOFZWUlMtZXFqZmNFTHJKMjVvSmRJRWZOR3Y3cmRyRjZBOXhIOUZZZE9aZ0swSmZpUGQxdjNDOXNhUQ?oc=5"
- },
+ "next": null,
  "counts_7d": {
   "transmitiendo": 1,
   "entrevista": 0,
@@ -295,6 +286,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ae3d0f842500",
+   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWluRmxLeEhtbHRQZEJNOTRVbmFpVDI0djk1d0g4aEl4U1BQaWNZU2pXY2tCaEF4anNieWRJN2pldlk5M1pJSVZuUkpjVV95WDJ2ZEk4bDRTUmJ1a3ByTmtZNGRVSE9jM1gtdkI1enpjRTZsVjQwMW9tSDBKQjBTVzZzNFFPRmoxc2N4dVViSzRxQkdZVHFoYXdYN3BNOFdqejllZ0Q2YktFWmQyN2hyY2dKR3ZsUElQeWVOckdKX09PYVdz?oc=5",
+   "date": "2026-11-17T23:37:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "67bd3f578e92",
+   "title": "Keiko Fujimori admite a China como el principal socio comercial de Perú",
+   "excerpt": "La mandataria sostuvo una reunión bilateral con su homólogo Xi Jinping en la ciudad de Shenzhen. Al término del encuentro, destacó a China como el primer socio comercial del Perú…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-presenta-a-china-como-el-principal-socio-comercial-de-peru-hnews-370617",
+   "date": "2026-11-17T23:32:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "307922a2bbd7",
    "title": "Keiko Fujimori y El Niño: Desde un bloque en TV hasta un vocero, las opciones que se barajó para comunicar sobre la emergencia",
    "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
@@ -347,7 +360,7 @@
    "title": "Keiko Fujimori presenta a China como el principal socio comercial de Perú",
    "excerpt": "La mandataria sostuvo una reunión bilateral con su homólogo Xi Jinping en la ciudad de Shenzhen. Al término del encuentro, destacó a China como el primer socio comercial del Perú…",
    "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-presenta-a-china-como-el-principal-socio-comercial-de-peru-hnews-370617",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0psblZEOXR2R0piYklhM21rY3JGZTZKMGR2VjBBSTR5a3VxQXZ5WXgwRUdxaEYxeVVLU0pfMG5sd0lwUEpQZFY5aE1teVo2VF80UEdZM1NPQkI0eUJ0UDlCVkI4MW10b1FZWHM0R01lcXBDMF9QbmFJLUhTWGtTY1dOQnFGODBvOVRTd0g2ZTNLcDVvVFI2cnplbktiaGlRTXhoQV9Za0pWVlA2ZEJiZTdKTzhOMVdQYjlmQWJlaWxJZ1czZDBXZNIBzgFBVV95cUxNSkhDNWNGSHZ6LU4xVkdKN2NJS2pBT3dmUHlDYUpXM3ZUUWZYbnBtaFNLMWYwejUyVzZqbEZTWDBFeUhoVzl4dGlTQ01lYjJKSTdOM1lDaEJNX0VLNEE0NEg3Y1ZNOGREemZDT0RPVi0yanUwdGRESDk3ZG9DeC15RmlxY1FHQXd1SkZBQmhnQlM5bXZ0eG1YcnBxeFhXVGhhTDE0TVJQVTZPM2R4ZWJrWk4yRjBQX010YmtXZXJ2eGV1NlRQYmtQMnB3emVRZw?oc=5",
    "date": "2026-11-17T22:18:15+00:00",
    "state": "posando",
    "place": null,
@@ -803,8 +816,8 @@
    "id": "e2b2989151e3",
    "title": "Keiko Fujimori confirma que Xi Jinping le extendió invitación para realizar visita de Estado a China",
    "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0V1X0RxUXBadWRXbWNjRlZxZDBSeUFTWUFzQmhKYTRYN3JkVDdmNk5pb1pTSktfckRza3FzQ1cyb1dlWmZMcXd6ZDZoWDJQQ2Q4dmRMLS1tUDV0LXRRcF9SMUx3NEVWZG9mdGoxZVViUlhwUklDX295dTlsWktSdmJmTWZKU2IwbktSVmFYYW5YYU5iRkp2dVU4Z0c5akU2NGU4TG5EWnJ2c2dhcFJoaGNYeUJ1UmtwcVozS0czQU1Pa0ZBeVpBcU9MTnV0TmM?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzlUUWZrMGhteFQ0VzZlZUlkb2lIdllCTk56VEVnZTBtNjFRV2EyZWJJa0NJM2xxc0FUMTMxcGROLVB1czd3Rk1GZTVROE5sMDVRTWFfQUtXbzVGZkg0S0xqMzFxejJPVUJCU19lbWwzQzR5amk0U2NhNy1QaGlrNHpHVGhEWjJXVWZfSnFkeWNvZnVhUzJrTkRrYUdBdFhaa2dwMHFva0R1U3BvY29zd2VnZm4zTERQVjBzZHFrcEUyLVZ2U3BDZ0c3LTU4STA?oc=5",
    "date": "2026-11-17T13:03:00+00:00",
    "state": "posando",
    "place": null,
@@ -878,17 +891,6 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUhmdHNRNXg1cVZUbVNEV1VoVTdtc3NuOXBDaF96NzhhaFZiVW9VSUxmWVRNQUplQnFhZEVUdHJPSUdwbHBpX0dDWDBvUHAzWW40NEhXSUhielIwcGh6MENia0lkNHhSTm1oZWlWSXZlaGM5eGpjeUQ0ampvRTBuTWgxQTZYbDQ0NjlyeUxSTkNaTnBEYVdUcjQ1emthQ3Jsbm9kOW40a0dTWVN1VFNPOHRrV2xRYVd6ZFJpTHVmS2ZRRnI5bHhFZzdfZldxcWJ1Qlgwc3VSbDFIQXk10gHiAUFVX3lxTE5JTlBFbW1KTVZVU2p4SXNXWldrME9LbURHMFpwLTlOSGtfTXM0MDRwUDU2T09Ldmd1QXp2ZDFhVlMxckUxVkFCYndzTHdQbFZoQVVLZzZocVg1bWQtZ1FXOF9iODBfQXlWNmZOZ3AyOVpqTjZBQzFQZ1RYaElBZ3MteXg2LXVsdF9OVnF2X2tLWVRhOUFYYzRheFRQWGxmYUliMFFPZGtHTkZ6SmduREJMVnJLTWVtQTQwYUFoek9PY0VSYlE4MFliWHpZTlB5aFBFdWpGQThsalBHVGZ3Y2JxZ1E?oc=5",
    "date": "2026-11-17T12:10:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ae3d0f842500",
-   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWluRmxLeEhtbHRQZEJNOTRVbmFpVDI0djk1d0g4aEl4U1BQaWNZU2pXY2tCaEF4anNieWRJN2pldlk5M1pJSVZuUkpjVV95WDJ2ZEk4bDRTUmJ1a3ByTmtZNGRVSE9jM1gtdkI1enpjRTZsVjQwMW9tSDBKQjBTVzZzNFFPRmoxc2N4dVViSzRxQkdZVHFoYXdYN3BNOFdqejllZ0Q2YktFWmQyN2hyY2dKR3ZsUElQeWVOckdKX09PYVdz?oc=5",
-   "date": "2026-11-17T12:07:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -984,20 +986,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "87d75e3dccab",
-   "title": "Presidenta Fujimori: esta es su agenda oficial de actividades en su viaje a China y Japón",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOVZyQzZIX1JuU3ViUElva0RKc2lBd3MtNkhRT1RKSVZhem1IYlREcERobkFsY3VLZWZlR2Z5eUpoQnNzVy04cU5faXpDa0YtR2JacE9wTWFqTi15LXMxTkNRV0dWbkRRXzgzelpQbXBOcVF4dExrNXY1MnpGREdrS2ZoTXA5R01UOFZWUlMtZXFqZmNFTHJKMjVvSmRJRWZOR3Y3cmRyRjZBOXhIOUZZZE9aZ0swSmZpUGQxdjNDOXNhUQ?oc=5",
-   "date": "2026-11-17T06:59:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
