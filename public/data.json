@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:37:05.402405+00:00",
+ "generated_at": "2026-11-17T21:58:36.619837+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -294,6 +294,39 @@
  "agenda_minutes_7d": 396,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "66bb5423040d",
+   "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar el fenómeno El Niño en Perú",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGszSFkxNUE3UmVMNUotZkRvamJIbEdBMjVLZ1lnQTFDeXdaQm0tamtLY1ZiNDVFNjRCc2F0WVNJNk5MTnhZcXd2WW9tNWRMQlBfV1AtMS13ZUZIU1lIRGhuU1d5bWNQajM3d0N4R2kyekd6OEdzb0N4ajlSdXlHZUh2bzV3T0tvTmNZM2J2enFyZDNwNWNHdERDRzBIYXZtOFptZHEyV1dfQWJQVldRdTA2aktGUE1vTDlTQmJPQ0ZkV3hoanVrTFV3?oc=5",
+   "date": "2026-11-17T21:48:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f2d9e4891713",
+   "title": "Keiko Fujimori anuncia apoyo de USD 22,5 millones tras reunirse con Xi Jinping: \"Contribuirá a nuestros esfuerzos frente al fenómeno El Niño\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUS1tOWJOQ3lJcE1YOU9rWkFoRF9TMXR1MTFIOERWbU1PbXB6dXZON2trOEJfSlNVV19EYjQ0eUdiT29FTDMwd0lwT0h1eTR3UDlSQzRUWkk5bHgyUzhJU29YdGtUV0dxSDNiN2R6MndrVlRzM1VIMmtRX3k1ckVibzNkSjk?oc=5",
+   "date": "2026-11-17T21:43:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3360f21a3ab9",
+   "title": "Keiko Fujimori ofrece estabilidad económica en Perú para empresarios chinos",
+   "excerpt": "",
+   "source": "DIARIO VIRAL",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1R2ajIyRnBNWGtWT1hqaUdkR3hGUTFpRC01b2lUdnNIX2hvMHkzVzVfazdKUkhMTFFQRzJoRk82WmxaTUJGaXotS0JNZDN3ZkpROUtYUHBqZ05sekhlVVpGV1N6R2xCeThVR0VqTFpoTWF2bHdxTXJfcUpBNTQ1R2dwWlFGXzNhWHhEZEc3T2tCLVQyQks5SGp2cU54eGc0VW5aUGlQWXk0QlY5dHB2OQ?oc=5",
+   "date": "2026-11-17T21:20:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "307922a2bbd7",
    "title": "Keiko Fujimori y El Niño: Desde un bloque en TV hasta un vocero, las opciones que se barajó para comunicar sobre la emergencia",
@@ -663,8 +696,8 @@
    "id": "e2b2989151e3",
    "title": "Keiko Fujimori confirma que Xi Jinping le extendió invitación para realizar visita de Estado a China",
    "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0V1X0RxUXBadWRXbWNjRlZxZDBSeUFTWUFzQmhKYTRYN3JkVDdmNk5pb1pTSktfckRza3FzQ1cyb1dlWmZMcXd6ZDZoWDJQQ2Q4dmRMLS1tUDV0LXRRcF9SMUx3NEVWZG9mdGoxZVViUlhwUklDX295dTlsWktSdmJmTWZKU2IwbktSVmFYYW5YYU5iRkp2dVU4Z0c5akU2NGU4TG5EWnJ2c2dhcFJoaGNYeUJ1UmtwcVozS0czQU1Pa0ZBeVpBcU9MTnV0TmM?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzlUUWZrMGhteFQ0VzZlZUlkb2lIdllCTk56VEVnZTBtNjFRV2EyZWJJa0NJM2xxc0FUMTMxcGROLVB1czd3Rk1GZTVROE5sMDVRTWFfQUtXbzVGZkg0S0xqMzFxejJPVUJCU19lbWwzQzR5amk0U2NhNy1QaGlrNHpHVGhEWjJXVWZfSnFkeWNvZnVhUzJrTkRrYUdBdFhaa2dwMHFva0R1U3BvY29zd2VnZm4zTERQVjBzZHFrcEUyLVZ2U3BDZ0c3LTU4STA?oc=5",
    "date": "2026-11-17T13:03:00+00:00",
    "state": "posando",
    "place": null,
@@ -760,17 +793,6 @@
    "source": "Diario Expreso",
    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRF8yUzNfVS1SbVlmM25CUlJTUWtrdlVnTTlZMS1IelpxTlo0dzFEWTdFUGs3aUw3TnVqQ3VQWE13MmtUN3dQMG1fOFg4T29aTUkzMlpsRVdVaWF1bDczSnRPcklHV1R5SU5FeXpLRmlUOUEwOW5iUklUQ282QkIwZWlVNkFrazJ6YUYtM0tITW93TTJzbGtmT1JPWGpWQ2xZNWZkWWlFVVVmU2IwTS1GcGdraEVIcTBpU1N0alc0cXVzNEktNUZCcDJuM0QyeGZ0RjF4N2o1cUh1Yi1SRUdmZUIyVXRJaG9KVkw2c0NoUE9tckVJTHduUUZMZnhxVFlOZlViTFVLMi1wOWNqeXZ1UTA4SnM4YzdhT3hDcWNLSklEdks0N2wzNXdsZ01veEZPdDJuZ3N0QTJtbW9CTU9WcjNB?oc=5",
    "date": "2026-11-17T12:04:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "66bb5423040d",
-   "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar el fenómeno El Niño en Perú",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGszSFkxNUE3UmVMNUotZkRvamJIbEdBMjVLZ1lnQTFDeXdaQm0tamtLY1ZiNDVFNjRCc2F0WVNJNk5MTnhZcXd2WW9tNWRMQlBfV1AtMS13ZUZIU1lIRGhuU1d5bWNQajM3d0N4R2kyekd6OEdzb0N4ajlSdXlHZUh2bzV3T0tvTmNZM2J2enFyZDNwNWNHdERDRzBIYXZtOFptZHEyV1dfQWJQVldRdTA2aktGUE1vTDlTQmJPQ0ZkV3hoanVrTFV3?oc=5",
-   "date": "2026-11-17T11:55:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -985,28 +1007,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "207323d5af2a",
-   "title": "Keiko Fujimori viajó a Asia y no despidió al papa León XIV",
-   "excerpt": "",
-   "source": "Jornada",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2JMZWN1ZzZEZDhqc2JUb1lVTElHYTJ1OEg3ZTNIcWltcU9mLWJ0ajB2RVhkN05UZXUzZDRScU1HT0dkaldqMVVEcDNPTXdTV2lGNmJhSEFSSlJFZmNUb1FqX1NTNDRrTGhhdGc3UnJtMmRoczRzd1A0SDhzVTRwVHFOYUUxWldyV0dxbEpQVlFuMmNSNXg4LU1HLTVJWWlYR3R4Y2hMcUVMTnp5N3VBRFlGUEFPRXQ5YVhaX0ZB?oc=5",
-   "date": "2026-11-16T23:17:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d54df5e516e6",
-   "title": "Conozca la agenda de Keiko Fujimori en el foro APEC y Japón",
-   "excerpt": "Conozca la genda de Keiko Fujimori en el foro APEC y Japón . La presidenta viajará a China y Japón del 15 al 21 de noviembre para cumplir actividades oficiales.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/la-presidenta-viajara-a-china-y-japon-del-15-al-21-de-noviembre-para-cumplir-actividades-oficiales-noticia/",
-   "date": "2026-11-16T22:45:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
