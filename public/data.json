@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T10:50:11.450410+00:00",
+ "generated_at": "2026-11-17T11:11:32.821213+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -260,6 +260,17 @@
  "agenda_minutes_7d": 296,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "fe9e5c050255",
+   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
+   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
+   "date": "2026-11-17T11:00:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "8a129f7a57b3",
    "title": "Xi Jinping y Keiko Fujimori se reúnen en Shenzhen antes de la cumbre de la APEC",
@@ -998,17 +1009,6 @@
     "city": "La Paz",
     "abroad": true
    },
-   "next": null
-  },
-  {
-   "id": "630f60c8771b",
-   "title": "Presidenta Keiko Fujimori recibió informe de avances de la Comisión Consultiva del Despacho Presidencial: ¿qué temas se abordaron?",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNT0prSFREcFVFX0d1S193WmE0ekl5MmtTWnBCSmR5RU9BZFZmTGV2Y0JYUm5sQ1lEakh1ejd4cktaNFUza0F0TVZKYTQ2X2hvTEF4U09HbE9zN3g0RDlQMFpnTFp6ZFZQQ2JSOEoxdW5SemhNRGxENlZJTjk1UnZ5Yjl2NHpReFNBS2l3NzVxVmlpQlllaWROYjF1bzAxVHJpRzB3RW8tT1ZHajIzRDFYYTJPeU8yVHVPX2VCUlU0enVGT2M0MURHbl9WZ1VKZHhrSGNpUFVWS2QxQzF6THZyTjJvZy1BcjBGQ0pSVUFrTVRqWWlkTmt6TUNsOFFaOG5zNzlwZDdYcDFpNWFHREg0MFhTMHBUMzdyMWpjTlFVcjBvbEU?oc=5",
-   "date": "2026-11-14T21:12:47+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
