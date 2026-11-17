@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:49:39.304798+00:00",
+ "generated_at": "2026-11-17T20:11:10.337517+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -295,12 +295,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c9e560f74440",
+   "title": "Keiko Fujimori busca atraer inversiones chinas y fortalecer la cooperación frente a El Niño",
+   "excerpt": "",
+   "source": "Caracol Radio",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3BJYUV1QU1ocnVyNVdUMGRhZUkyRGEyQUtrQ0ZEU1NpeFYyVlBFQzJpRnRzdGoyWjNDMjgtcTJ5VkNCRUtLUU9wYnNZbFdpNTlSTW5Eb1E0dUsteFB1S0hUQzltTEZ1aTB0dlhtN0E3c280OVVTOTFDYVN2SjBaM0FsM2VQT21zSnNHNE5HYjJJV0M2OXdNWXZobzg5WE5IRkVmSnRfVzJBODJpX052bGgwZnMtRHpsWHp6V2s1NXBfNmFN0gHYAUFVX3lxTFBSSEItYmdqX0Y2bXBabFVkYzlDZkJuZTFHdkFMOUdfc0xJQkVzRTdTVmdLSjdjV2lJZWlIMzdkMUN6cm5aaEN3RUpPaktrdDhYbmZOZ0Z4NVVxLTRKYjJtN1MwYW8wTUtWMGdEeG12azg4MXMtT3F4R1hjRVZYdlk3dzBSbmR5c1ZNYlRRdXQ1Y3V4TV9ybENNUEc2ZXp2dkNndHZIRjYtbDJEZ1dGRHRIWE56VXE3UnpjQWc5VzFqcVdheUFOcENqWDhLODFHLWlRaU82cV9pbg?oc=5",
+   "date": "2026-11-17T20:07:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "fe9e5c050255",
    "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
    "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
    "date": "2026-11-17T19:34:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9b764cfcc2d6",
+   "title": "Keiko Fujimori viene a Barranquilla para gabinete binacional con De la Espriella",
+   "excerpt": "",
+   "source": "El Espectador",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjRUR3dZdmVtejdwd0gwYldqOG5RQV9uQTM1T0VLc3ZlQ0h1amNDcGd3S05jLVRERnNFMHFNMlB0bmpqUTdkOW5pNkFoSUM3UFdpZFRUc3UydmxOdDdOVEVnZnhGRzd1cGFxRzJleUF2NjVadEJHeWJ0dE9sY0lOS2x0eWlqSTY1b0gtODJDMWNHVVdraHljMER1bGdBc3RLamQxNlRkWUI3VFlFYTg5TnNvbERkcGFPcDJOYXJJYnpYZ9IB1gFBVV95cUxPS3dReXRLUmo2VFJ1VkFkMXYyazlnbVZpcHl4dVZNTnJoZGlOOVh4ZG9DX1Y4NzVWLXU2SW92Tllrby1ZeG5aWG5QcFROZXlsbTROZThlU1hTdHg5bU11bVc2MXpPeXFNMWIxMUNvQ3lKbENrS1A0Ynh6UkpONmliYkZNRi0tR0o5QTFVQmJyNFJka1JhYU5yRnB5b2dkVktsalQwM2YzY2x3NjNnQ2ZhbFF0RUQ1UGs0ellTbW5BeDdGYnBaM1lZbEc0WGdicUVCVE9aZWNn?oc=5",
+   "date": "2026-11-17T19:29:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -989,28 +1011,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "66d984acf1bb",
-   "title": "Son falsas imágenes de libreta de notas de Keiko Fujimori y Pedro Castillo: fueron hechas con IA",
-   "excerpt": "",
-   "source": "Pancarta.pe",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbEplRFkyc2YwMVRkbnlkekk3Zkp3eVhkenVqWmhTZVpoNGFNUWEtNUYzMG5wUlFkQmlFYTNjcDZ5NEU4SldaNzIxMllZeWJxUGp0d1IxQWVncjhuN0Z6RVVGRXhTd1A3ZjBLZ3RkaUpwbG9DNU9Eam1FUkJmUG5mYktCdGI0THl6QURmVnd1WUluck5Fa0ZBTnI5RE02bmNoZjJodktBLU4yQVFmS2lfWEhHT3FEaE9OV0RjVktrTFlHeGs3Q19TWVlTdjE5YWRtaDgwYzZkV3NMNDhLeUkwMA?oc=5",
-   "date": "2026-11-16T22:19:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bc2e1708fdbb",
-   "title": "Transportistas de carga pesada exigen reunión con Keiko Fujimori por alza del combustible",
-   "excerpt": "",
-   "source": "Radio Yaraví Arequipa",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTm9maWdKX1ZMbGY0Xzh4YXRaN1FONWhlNjh3OU9TWlBjMlA0Vnhva3hkem1PZmZGbkc1VWJmQjdvQWtnQUtyeFdmMTBVUldBSDZyY2dJa2NFa0V0QzFVTGNGV2R2aG1oMkJOcU5neDBPblpfZDFMNEJLSTM0b2xWdWxHdzEyLU0zYmxOajRJeHNNMG9MWnpWS1NOeTItblZieWNrT0tiNFJCeEJaVnBLMXFFd0poX2VnR0dvSVRkSlhmS2dVUXdEb2l3aGtXZzQ?oc=5",
-   "date": "2026-11-16T21:33:38+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
