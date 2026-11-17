@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:58:39.550665+00:00",
+ "generated_at": "2026-11-17T13:20:10.196930+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "China",
+   "abroad": true,
+   "city": "China"
   },
-  "source": "La República",
-  "date": "2026-11-17T12:21:39+00:00"
+  "source": "Gestión",
+  "date": "2026-11-17T13:16:46+00:00"
  },
  "next": {
   "place": {
@@ -119,9 +117,9 @@
   "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
-  "molesta": 1,
+  "molesta": 0,
   "triste": 1,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -263,12 +261,27 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "ae3d0f842500",
-   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "id": "8b7a294cdde5",
+   "title": "Keiko Fujimori inicia agenda en China en reunión bilateral con Xi Jinping: los temas abordados",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, inició su agenda de trabajo en la ciudad de Shenzhen este martes, donde sostuvo una reunión bilateral con su homólogo de la República…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-inicia-agenda-en-china-en-reunion-bilateral-con-xi-jinping-los-temas-abordados-noticia/",
+   "date": "2026-11-17T13:16:46+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "afa1407133b1",
+   "title": "Keiko Fujimori anuncia que China entregará 22.5 millones de dólares al Perú para enfrentar el Fenómeno El Niño",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnpPdkZFZUh6Q2ZJMlltbmhPdlJmWXUwbmdBeXZyVHpySV9FQV9hVE9HaGhKNERmNnExQ3pLNWU4ZFQydFJCeG9qcFI0T0kxSkxYcDBRdnFhT3lxMGVDZERqXzgyUWNndVFsMUw2UlRZU2xJMVp4bjU2eWp0VFJyY08zUnNEMWdCWFQ2OGlsbThkOEZpLXdEc3pkT1FXMXhNX1B6dUtWT3JNVDdDaHRLNXdOUmlPSV8wQzVvRjNoTQ?oc=5",
-   "date": "2026-11-17T12:42:19+00:00",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdExad2tqRGtobWU5dDhaVnJhazVUZEpQbGo0SDhGN2NfanlXNXNlaXJQNnhMdXR0V05LUnM1V2plMm1XcEc0THVqUkN1YzNyV21KTVlPTTNkR08tZVBxVV9uUTk5VUpuN3JWTXpBTmFRSkE5OWtnVzAzWXhCQy1GQmtkbUtORzhNcC05NXJmcTlkNXYzOXdCNFJSUWRiZW9QZVFGRWhuZDFxNlkyNFc3LTF4QVBzb2M1Q2hRdmdhSE1QdlhJcHU4NV9xbmhidEVzc2FWSXJyNVNjcUtZaFN6bVg4bnRWNEJyUlIwSkprNA?oc=5",
+   "date": "2026-11-17T13:08:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -279,7 +292,29 @@
    "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-presidente-de-china-xi-jinping-en-shenzhen-apuesplan-noticia/",
-   "date": "2026-11-17T12:38:44+00:00",
+   "date": "2026-11-17T12:59:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8b82d8358380",
+   "title": "Keiko Fujimori se reúne con Xi Jinping y anuncia apoyo de China por US$22,5 millones para hacer frente a El Niño: \"Fortalecer la relación\"",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcjVrbjA4V2VoOHVMaEoxM2FmZUczai1pZ3hZTld5WEk2X2w1Z3VWb2NXRmFaR3Q4YVQ2Y000OVNpRjJVSklmZlFPWHBrRDd2T0xhM1ZIby1UdDVzNFpIVGdvZ0kwOGVva0l5d2x5OTcwU0lsaWl5QnMyRy1PN2FEUFlqRUdWd2ljV0tyOWZBckRkVEhsLXVTTGJYOUJGQnVPYkN5QzBxY2lkTU9FQVRtb0QyUWh5WF85YVdSQjVOdmZQeDVmM2x5NHhocU9pekZnOU9rTGdzRTVteEYtRWNKd3ZMd1NLUDlZRkFfbUE1UFB3aFowN0E?oc=5",
+   "date": "2026-11-17T12:59:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ae3d0f842500",
+   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnpPdkZFZUh6Q2ZJMlltbmhPdlJmWXUwbmdBeXZyVHpySV9FQV9hVE9HaGhKNERmNnExQ3pLNWU4ZFQydFJCeG9qcFI0T0kxSkxYcDBRdnFhT3lxMGVDZERqXzgyUWNndVFsMUw2UlRZU2xJMVp4bjU2eWp0VFJyY08zUnNEMWdCWFQ2OGlsbThkOEZpLXdEc3pkT1FXMXhNX1B6dUtWT3JNVDdDaHRLNXdOUmlPSV8wQzVvRjNoTQ?oc=5",
+   "date": "2026-11-17T12:42:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -959,43 +994,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOUNlR2JTTmJoLVNKNV8ybGNlTFBXV3BrLVdNNm1uTGNRVEZEOXJwUVdqdWoxMG80Y0h5QTNzbHVIVjh4RTFhNFV6WHJhVTVmSGxlRm1Penh3Y2FZbm5Td3VDQnowb3QxZ2tPR3pXNVNLWXZNMGNJRWFBRHVPamRWVmRHTDU2MXZDbWpINDd4V0FENWpBRzB5dG5QeTZxZ2FWY21oTzd4M2FySnVvR0tzcGNJN3A4LVotV0lJ?oc=5",
    "date": "2026-11-15T23:02:58+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "eac2a67eb667",
-   "title": "César Acuña se reunió con presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZndMMXdnMlZ4OVdidDA2TU9Zb0t0T1BvTmJ3dkxUeEdUUzJyLWIteWdFbGlFNFozX01aTy0waTBrYTZnMmtnQ2RPeXl5a005bWJrczN2dEMtX0FqUW5XQjQyd1Y4Qy0ySkJ2WFhrWi1VNVZVQ2ZqYzR2Mk9Yc09VZGlUOWpZNi1HXy1hb2RxbVZickFDWGktdUx3OTgtUXhrdnJZeWdwTWlKb29nZlHSAcIBQVVfeXFMT08xTDlRZEQ4SFFESWt2N21LNnJldnJVVW8zaDVtVEtrR25ub0taYjN0QS02WXE1N3lZUkdIenN0LTRQQmQ3c0xnbFVCMWNwSXM0ajM0VUVycWtITTRkVGloWl9Pd3Y3S0dxS2t5SVJ6Y1pEZE1CTXI4WW4tOXhPRzNGSmtjaG9TbEtqcE52em1EelNHZEc0M09fTDB1ZHladGI1OHlIeWxnZm5ER3J6Zm84LWpzbUJJS2FjZUpxUzNSbUE?oc=5",
-   "date": "2026-11-15T22:47:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4da11a4a9d12",
-   "title": "Keiko Fujimori viajó a China para participar en cumbre de la APEC",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkMzNHZZX0RpYmltYW5kZUFoLWRHbVJqZkJob0VDSUJEcE95ajVOS3QzZndIMmdQXzdSZW5DX0diampXOXFIdkV3TGdBTnpQUWpzVnU4R0MxdDZUMzg0ajRjTFdnNEtrRXZlQ0hyek40UjNmTUk0MWFDYTktSmpKdlFXU0IzM3Q2ZVFzUHFtOHd5alpXZHc?oc=5",
-   "date": "2026-11-15T22:37:33+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "50b7c6856084",
-   "title": "Un cerco político al pontífice para “que no escuche a las víctimas”",
-   "excerpt": "Lo niegan, pero el gobierno de Fujimori quiso influir en la agenda papal. Visita de León XIV se vio teñida de cierto acoso que no prosperó. Al cierre, familiares de…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/15/un-cerco-politico-al-pontifice-para-que-no-escuche-a-las-victimas-409755",
-   "date": "2026-11-15T22:14:12+00:00",
-   "state": "molesta",
    "place": null,
    "next": null
   }
