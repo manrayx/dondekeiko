@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:54:31.297289+00:00",
+ "generated_at": "2026-11-17T12:16:18.607871+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-17T11:43:00+00:00"
+  "source": "notiperú",
+  "date": "2026-11-17T11:50:58+00:00"
  },
  "next": {
   "place": {
@@ -261,12 +261,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ae3d0f842500",
+   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWluRmxLeEhtbHRQZEJNOTRVbmFpVDI0djk1d0g4aEl4U1BQaWNZU2pXY2tCaEF4anNieWRJN2pldlk5M1pJSVZuUkpjVV95WDJ2ZEk4bDRTUmJ1a3ByTmtZNGRVSE9jM1gtdkI1enpjRTZsVjQwMW9tSDBKQjBTVzZzNFFPRmoxc2N4dVViSzRxQkdZVHFoYXdYN3BNOFdqejllZ0Q2YktFWmQyN2hyY2dKR3ZsUElQeWVOckdKX09PYVdz?oc=5",
+   "date": "2026-11-17T12:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "276968565612",
+   "title": "Keiko Fujimori, tras reunión con Xi Jinping, revela la ayuda que brindará China a Perú por fenómeno El Niño",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRF8yUzNfVS1SbVlmM25CUlJTUWtrdlVnTTlZMS1IelpxTlo0dzFEWTdFUGs3aUw3TnVqQ3VQWE13MmtUN3dQMG1fOFg4T29aTUkzMlpsRVdVaWF1bDczSnRPcklHV1R5SU5FeXpLRmlUOUEwOW5iUklUQ282QkIwZWlVNkFrazJ6YUYtM0tITW93TTJzbGtmT1JPWGpWQ2xZNWZkWWlFVVVmU2IwTS1GcGdraEVIcTBpU1N0alc0cXVzNEktNUZCcDJuM0QyeGZ0RjF4N2o1cUh1Yi1SRUdmZUIyVXRJaG9KVkw2c0NoUE9tckVJTHduUUZMZnhxVFlOZlViTFVLMi1wOWNqeXZ1UTA4SnM4YzdhT3hDcWNLSklEdks0N2wzNXdsZ01veEZPdDJuZ3N0QTJtbW9CTU9WcjNB?oc=5",
+   "date": "2026-11-17T12:04:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "39134c0504ce",
    "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPemc5a1ZGWV9ZNHJXVzJ6cDl2RkUtbnNxaDZaQ1ZVTF83UnZtcV8wbnZhVVdQcFFXOHRFVV9sa25FR0c0Y2dDRWp1QXFGMXVQbU9ScUl5c2RCejZnZEVXSDJtQlFva3daa2thSnNiaUxoSGVoZmhvN1I1VFBWQ3BTcWJ6Y3ZkNWk2R2FsdUZ2WnVoazZJQVhXZnoxeUxTOHlPY0FVei1BcFZlTGxBenRjOElRT0dxRmJjUE9EWHRsNC16YXk0SVE?oc=5",
-   "date": "2026-11-17T11:43:00+00:00",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcDNMdU1CbU1fNnFmbEw5cmxmQlF4REtBQ24yUFg4UzRVZ0lJa0h3ZE1PdXRhRzFNcVlkZ1J2SHd5VUV3bTFTNk5KQy1uMGZNLUpPT3F5eGE1OHJZTEFsM25IbG9WY1lWbHkwLThpeFh6cGpqaDU0VmNPUlRKblUzLTNKajU0YjlZNmlqOGZCQUJ6Vk5UVERhYzNZT24ybDlvODNOLWY2UmxEbHpiODJMWjlheHZmMzg3YmZDWTExTUQtWURxeE1jZGVUWXNqYkgzUU1XZXpRcXNWQU0?oc=5",
+   "date": "2026-11-17T11:50:58+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -983,32 +1005,6 @@
    "date": "2026-11-15T17:19:32+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "ca5258aaf698",
-   "title": "Diethell Columbus defiende viaje de Keiko Fujimori a El Salvador y pide priorizar a víctimas de la delincuencia",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVhaTGwzUFNraElydHJUYnYzUzZJUDZxRi12WnJySGxYTXNJRXV1dlVTYTZQOEtnd2g4djFGaWZaVGI1eEJhTEh1Unk0eHhObTJOUW50NFhDcXpBRHRXNlNZbVdsWmE4ZW9XWFhzVFFTQnRYWVg0NDJkQ0t5UERCWjVLSkJEd0Fwc1RMSHQwNmxpYzhWY3N4UUxHMElDLTYtY01BZzFYOW5zWmZfOEd2aFhEanVXNTVXTE11eEdsQ3lCY3R3cGc1NGhicmw?oc=5",
-   "date": "2026-11-15T14:51:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "54bc61c484aa",
-   "title": "Keiko Fujimori recibió a ganador del Nobel de la Paz en Palacio: ¿quién es Abdessattar Ben Moussa?",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPS0hjTW5qS0t5U2djZTg2TUVGU0xUb2NROGZDYUJlWFFzR211TlNwLXpjLUdMMnNVNzVwZGlZLVlfVE1fTmpuOWJWUzAzaUdKa3ZPbm5EakdIMk9LZnU4N1RBQWh0bzh6dXk1M3ZMWllOY25ZRDY1UDlnRWszSTdpUTdKdXhqUlBtR09SLW4xRWdmLVpCTlBOeXdROHFWWnZTcno1aTdxM3M3ZmttUEhjcWgtZlQ3UU92akdOUHZlT1JqSWFHWU5jblRaY0lZa2dXYmgyejdZS3FOMjFXalFJLWxpSmU0WFI2RU84MGstVVRpX0k3MzA4TGlHLUZhV1NtYlhTX3NjYm9ISWdiTEpsN2dveGJfSlhDb1dVQTl2ZXRZTzgzN0wxbUlWcw?oc=5",
-   "date": "2026-11-15T12:51:55+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "La Paz",
-    "abroad": true
-   },
    "next": null
   }
  ],
