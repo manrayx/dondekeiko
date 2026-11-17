@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:20:14.057937+00:00",
+ "generated_at": "2026-11-17T22:41:40.811969+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -306,6 +306,17 @@
    "next": null
   },
   {
+   "id": "c12774f94bed",
+   "title": "De La Espriella y presidenta del Perú, Keiko Fujimori, tendrán cita clave en Barranquilla",
+   "excerpt": "",
+   "source": "Caracol Radio",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXh0ZS02TE9jVjVVd0FaYTdBNHdKQVpGRk5PV3Y5ekFObEhHYW9LOXE0eERtSkZkN3Nua1VHUFFySWVJel9nX0hTeFpZS3Z3aHExSy1qRF8yMnBNQWNXSWdoSHIwN19nS3RNLWxtVTM1eTZwak5pNHBDcVM2Um8yYTlTQkl2S214WENaby01VHhXcDJGanF4Wk1uTEZRajM4YXFUTVk1QV84QVBVbHVGZUJ6bnhEaEh2MXFpeDRVb9IB0wFBVV95cUxOU3UxV2xBd1dXNWJScHd4Z0ZqSTlvZUtqUkdYNzJ4ODdGWnlzdXljVVNablNOR295T3VTdGRtTDFobFozTDFyUUpKZWwyS3pDaTN5ZU1iSHhYSC1JNDhJUUIydzJlSVFMVTdzTl9fVGVoek1Fc2R1cVVLdy1HTzhjRU90VlRRLUdab3VTWDJhbGx6SzRSU2tjdktMNXNXUkwwQW4tMFdlMFVrZXp5cHB1RWVxUzRFYVc0YXBqMHVJWjhMOWxhUE5UZ1hNb2hwNGFfX3lN?oc=5",
+   "date": "2026-11-17T22:03:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "dfd5bf589d98",
    "title": "Presidenta Keiko Fujimori destaca fortaleza económica de Perú",
    "excerpt": "",
@@ -344,7 +355,7 @@
    "excerpt": "",
    "source": "DIARIO VIRAL",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1R2ajIyRnBNWGtWT1hqaUdkR3hGUTFpRC01b2lUdnNIX2hvMHkzVzVfazdKUkhMTFFQRzJoRk82WmxaTUJGaXotS0JNZDN3ZkpROUtYUHBqZ05sekhlVVpGV1N6R2xCeThVR0VqTFpoTWF2bHdxTXJfcUpBNTQ1R2dwWlFGXzNhWHhEZEc3T2tCLVQyQks5SGp2cU54eGc0VW5aUGlQWXk0QlY5dHB2OQ?oc=5",
-   "date": "2026-11-17T21:20:08+00:00",
+   "date": "2026-11-17T21:20:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -992,21 +1003,6 @@
    "date": "2026-11-17T00:31:54+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "b49bd2731fa5",
-   "title": "Keiko Fujimori en China y Japón: conozca la agenda con las principales reuniones bilateriales que sostendrá la presidenta",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejJsR29Tbmp4WUlEaDhzcXNpYzloRzJ6SXY4Z2JEWlltNjVVNW81b1RDa2JOTlQ4WmRBOWdaYXkzS2c0dFVDYkVjRGdnLWp6NmlVX002VjlsWkJmUThPNlNLYU9JQy1sb3Z5NGcwUC1jZjRsdEhQWHM5X091NFkxV2FaVWIxRHRLcUdDMEtCb2lhaDVTalFZVmtSY21MSVpScmlrSFJlS0NlM0hQcTk0cTcySE5keVIzM01GUlpJdG9JRDZmTDcwMTlIZk1kOGtEcDRQcm93dzhNZDVJOXc?oc=5",
-   "date": "2026-11-16T23:55:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
