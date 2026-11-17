@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T23:48:37.076207+00:00",
+ "generated_at": "2026-11-17T00:09:47.342610+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -109,7 +109,7 @@
    "abroad": true
   },
   "source": "La República",
-  "date": "2026-11-16T20:19:45+00:00",
+  "date": "2026-11-16T23:46:37+00:00",
   "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
   "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776"
  },
@@ -294,6 +294,31 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "927926d3c771",
+   "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
+   "excerpt": "La presidenta viajó el domingo 15 a la APEC y llegará a Shenzhen horas después de que el pontífice deje Lima. El 11 de noviembre lo había recibido en la…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776",
+   "date": "2026-11-16T23:46:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
+   "id": "7616bfdff5f4",
+   "title": "Keiko Fujimori se reúne este martes con su homólogo chino, Xi Jinping",
+   "excerpt": "",
+   "source": "altavoz.pe",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRGRvOHl3MWp3TWV2V1FkQTlFalhYeUlqTHZYUnF4NHlfOW4xa052elA1U1hEeU5NNmJVMjcxdTNKNG0zdlNRWUJjal9lQXZIdDFJVFVOQ29OT2NLTE0xYVdtTHJuTVRvMHRxS2ZZSHM4YzJXSHg4aThGY3ZkdjlmV3c4c3g3MHZPbVQ5TzlwNUdjUjNrQTkxbk1KbTVBZw?oc=5",
+   "date": "2026-11-16T23:45:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "709493527c96",
    "title": "APEC 2026: Keiko Fujimori se reunirá con la directora gerente del FMI, ¿qué otros encuentros económicos tendrá esta semana?",
    "excerpt": "",
@@ -427,20 +452,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "927926d3c771",
-   "title": "Galarreta y Espá despiden al papa León XIV mientras Keiko Fujimori viaja a China",
-   "excerpt": "La presidenta viajó el domingo 15 a la APEC y llegará a Shenzhen horas después de que el pontífice deje Lima. El 11 de noviembre lo había recibido en la…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/16/galarreta-y-espa-despiden-al-papa-leon-xiv-mientras-keiko-fujimori-viaja-a-china-hnews-877776",
-   "date": "2026-11-16T20:19:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   },
   {
    "id": "565b9413f0f7",
@@ -736,7 +747,7 @@
    "id": "4da11a4a9d12",
    "title": "Keiko Fujimori viajó a China para participar en cumbre de la APEC",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkMzNHZZX0RpYmltYW5kZUFoLWRHbVJqZkJob0VDSUJEcE95ajVOS3QzZndIMmdQXzdSZW5DX0diampXOXFIdkV3TGdBTnpQUWpzVnU4R0MxdDZUMzg0ajRjTFdnNEtrRXZlQ0hyek40UjNmTUk0MWFDYTktSmpKdlFXU0IzM3Q2ZVFzUHFtOHd5alpXZHc?oc=5",
    "date": "2026-11-15T22:37:33+00:00",
    "state": "posando",
@@ -1033,17 +1044,6 @@
    "source": "Resumen Latinoamericano -",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSl9rMjE2RGpNbFJ3ZnhUWDc5UkRGRy05cllkNjAwX1FzdExoTzhiOW1hSndSMjRjVU1WdDYtM1lHRHVjVTFmS3lpNEdoMVBzc0Ffc1l2cU5HX2RfQUx2Z1YyelEzQkxTS0d3UEJvbWluOTFUVEZ6ODE4aTBKcTc4T3VibFBtU2t1VVRhWmdzZS1Nclk1ak9yczJZWVd5cThRbmNQejhNYlFFOEhWTjFBNVMybncwMkpEMkJ0ZmVPX0hZTS03WjFlZTBXRUw4N1k?oc=5",
    "date": "2026-11-14T10:57:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c3ea84f4a950",
-   "title": "Los gestos que profundizan la relación entre León XIV y Keiko Fujimori",
-   "excerpt": "Al terminar la misa en Pimentel, el pontífice tomó la iniciativa y se acercó a saludar a la presidenta peruana. Ella lo describió como uno de los momentos más memorables…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUFMySkk1SEtnd20wUzExT1RNM0oyYm9xTXVReFVSdzM3bFNjanBrSFFLc0QzMEtLbjY5ZmVJZWZRa2hxZVZsTnNaOEpDakl6X0I2QkRNYjVJSVlEWU5neFQxUDZnX2lVMzRQMUpFVGdhODZZX1BpUHJSYzdDb0IwMU53SDNyVENrUlQ2ZXgyYnJGVlFkRmhmOGV5bkZVYm9Id3g1SDU1QVJ5OXRqLVFIdtIBywFBVV95cUxQLTY0ZWNxd1RpMUptaloxYmZmaFNvamZXQ3ZFSV85akR5SjJoMFpVY3FEc20xNEpWUGk1am5jb0FwQkFtMUFOQU0zODBiWHMxcnZ5N3dnaGpub0hlb0k1cUdILUtycDhBOExMOWlqZUcwTFlPN1Rjd3R5UlplNnJFc2tKcHZGY1p6YWFBYnBFSVhiWFhwdWNxOE9TcWtVUDkteFBLbnE2NWQxMlFmWHR0LTFISFNHdGZPQU8wclY1Z1doaTFCQWo1Tl9TRQ?oc=5",
-   "date": "2026-11-14T08:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
