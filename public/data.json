@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T00:52:02.035491+00:00",
+ "generated_at": "2026-11-17T01:13:06.757369+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -294,6 +294,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3b3a3feb3bb4",
+   "title": "Keiko Fujimori sostendrá reunión con Xi Jinping este martes 17",
+   "excerpt": "La presidenta Keiko Fujimori sostendrá este martes 17 de noviembre una reunion bilateral con su homólogo chino, Xi Jinping, según la agenda prevista.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-sostendra-reunion-con-xi-jinping-este-martes-17-noticia/",
+   "date": "2026-11-17T01:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7b027e23fdb7",
    "title": "Bilaterales con Xi Jinping y Keiko Fujimori: La agenda del Presidente Kast en la Cumbre de la APEC en China",
    "excerpt": "",
@@ -306,6 +317,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "c70a43db64c1",
+   "title": "Keiko Fujimori se reúne con Xi Jinping en medio de las presiones de Trump sobre Perú",
+   "excerpt": "",
+   "source": "EL PAÍS",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbldDVzZaZ1pHcFFEWWhSaEZMZkN4Q2l4TmgtcWJCMkVSTU1Mb05XOGhOUVlIX3JqdGd4SDRobFdHNmU3VDk5ODB4SkRiWTZmclFmNmo1U2tXcmdnM1lDQ20teld5N3BVMlVHaFg1dkd6SWlYY2dGMk1wbnh4TFNvOE9aSDg2QzdiSHZZU1NJQ09MdXhfbG01d2k2NDhCWFJLM2Y4Z24wX3I4Qnl3cFZGTHZPUGhvRTN5SFVvX2ZfeVZtU0FXekHSAdoBQVVfeXFMTk1zSWtTY2lkSmhrRVFVQ3RLemgtbXhXYTZ1SWM0ejg0OFhGcFlEYXhpX0NwZUZrNEpiQmxQaHplT2NsZHRqaEJkZnoxdkZiblN5TGVEam5PLW00NWdRcTNZMG9nMGRiUzNqOURKeDFEWVRfU19Ed0pkNHIxYllyeEUyUU8tdlk2LVVrSUVJOVRYdWRpem9pSFY4OWtWMTBjUmlrdElQRzhwNjl0RE5PWGNVWFowMGJYRUhRcTBSMllWcl9oSWI2QmNMWFRRNm1WQXRnczhkcHh2TVE?oc=5",
+   "date": "2026-11-17T00:31:54+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -459,17 +481,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "3b3a3feb3bb4",
-   "title": "Keiko Fujimori sostendrá reunión con Xi Jinping este martes 17",
-   "excerpt": "La presidenta Keiko Fujimori sostendrá este martes 17 de noviembre una reunion bilateral con su homólogo chino, Xi Jinping, según la agenda prevista.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-sostendra-reunion-con-xi-jinping-este-martes-17-noticia/",
-   "date": "2026-11-16T22:16:29+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -679,17 +690,6 @@
    "next": null
   },
   {
-   "id": "abf57666f7af",
-   "title": "Presidenta Fujimori llevará posibilidades de comercio e inversión a China y Japón",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHlqQUVLa19iRDVnWVJDNVV4N244cW1ob1NjSjB0TXVackpqQ0ZLR1kwRDhVSnVIbUdPVFNoLVlFNEpwS0U0QkRPa2k0Zm1McGhidnBtM19qeGU3ajRwS21tWFFpZ0dRWFpkT2IwNkZ2eUpUc0FRU3JRSTZObFdNc3NNRDZfbGhBcWNKNWpGeVJZUExKeGVZTDhWdTBPaVFya2dmVHZyeWVHeWx3UGpXS2gzRjJBT0JRNTZmVzMxM0dOT00?oc=5",
-   "date": "2026-11-16T03:06:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "bad8054c6fd0",
    "title": "Keiko Fujimori viajará a China y Japón: estas son las reuniones y actividades de su agenda oficial",
    "excerpt": "",
@@ -710,6 +710,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/16/ministerio-de-justicia-sera-reorganizado-durante-120-dias-gobierno-plantea-reformas-y-evaluara-duplicidad-de-funciones/",
    "date": "2026-11-16T01:57:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "abf57666f7af",
+   "title": "Presidenta Fujimori llevará posibilidades de comercio e inversión a China y Japón",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1pNMFJMWXgxc2pLbGQ2aXR2cVZkSnNfeGpVNldCUGZXV3prbzdsYTZvYW1FX3B6ZG5LbmVvcUhabEpRQm5ZZktUNE9sSWllNHBsOGJibHI0TWpnNXd6ZFFEZjIzRnphb0twaVFDM29GM2c0WE5TZ0hGSmg2Mk5kQ0h2QTJsem41eWxNY2lsR21QRmhVUTBEenlBajk2SEI4eFpJeXRxNVN6QUNJMGI3eXoyMEw4ZHoy?oc=5",
+   "date": "2026-11-16T00:43:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -777,7 +788,7 @@
    "id": "4da11a4a9d12",
    "title": "Keiko Fujimori viajó a China para participar en cumbre de la APEC",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkMzNHZZX0RpYmltYW5kZUFoLWRHbVJqZkJob0VDSUJEcE95ajVOS3QzZndIMmdQXzdSZW5DX0diampXOXFIdkV3TGdBTnpQUWpzVnU4R0MxdDZUMzg0ajRjTFdnNEtrRXZlQ0hyek40UjNmTUk0MWFDYTktSmpKdlFXU0IzM3Q2ZVFzUHFtOHd5alpXZHc?oc=5",
    "date": "2026-11-15T22:37:33+00:00",
    "state": "posando",
@@ -1035,20 +1046,6 @@
    "source": "Jornada",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3J6UlZWSnhIQjQ2dFVzVnVhNFk0VU4tSDVkQ19VMHhRVUNSWG9XSEY4aDdBRkZraDRaSEVoYXY1MDFOWUl1T25CRmlpR0d5NXNZeTRmZFVpb21YbHd4TzVFdnhRWEE3VjVuMzRmbWlJN19FYWJGWnNVWXRkV3ZuUXlnUGZybmFQV19zUXZuWEMtc3BzTFE?oc=5",
    "date": "2026-11-14T14:56:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
-  },
-  {
-   "id": "16b61298262a",
-   "title": "Keiko viajará a China antes de la despedida del papa | Jornada",
-   "excerpt": "",
-   "source": "Jornada",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLVJiUDZ0dTlEbWVxUHNUU29xbUNNRGM2Q3JfeUpfLW9MMm9GSzQtT042ZTBYT1pVd1FJRzhUQzI5R2tiTzNZdENWMjh1NVEtcURPWllLNE0xS2V6cGVSaGJuZ0p0WDVFMXN0ek4tbTdpNFNkQWVrV2g2OENXdEVXZlg3ZFNFWmxpLWVVbGhxZUd5THQwV0RPM3ZwR09ORlRjUVpzZlVvbHl1MTZoMlE?oc=5",
-   "date": "2026-11-14T14:17:33+00:00",
    "state": "posando",
    "place": null,
    "next": {
