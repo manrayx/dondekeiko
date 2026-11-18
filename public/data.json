@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:32:55.440619+00:00",
+ "generated_at": "2026-11-18T19:54:38.011710+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,17 +100,17 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Diario Correo",
-  "date": "2026-11-18T18:25:15+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-18T19:40:00+00:00"
  },
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
-  "molesta": 1,
+  "molesta": 0,
   "triste": 0,
-  "posando": 59
+  "posando": 60
  },
  "total_7d": 60,
  "silence": {
@@ -270,6 +270,32 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4c79ddfba123",
+   "title": "Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2tGcGxzbmlyS3NOZWVEM1N4Si1vZTY3US13OXg5WkRtLVFoR1RUa1lfQjZoREVqQU04M1dZcmcwZS1VQnYwNjBxa25Ba1BZSHd3S1lLcEVpRU5Sc2VqT2ZFU0dVZWZTVWRvajZ2TDg1ckx5cmpfN2dBdV9BbWtydDdXT0QxOERsZzc4U3FjanBORElZbUpyYXZ5TGkzbURXOElyR2tiVmR2NXVhWlNsLQ?oc=5",
+   "date": "2026-11-18T19:43:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "08bfcf8787de",
+   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
+   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
+   "date": "2026-11-18T19:40:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "a55120138dc9",
    "title": "La presidenta Keiko Fujimori inicia su agenda en APEC tras ser recibida por Xi Jinping en Shenzhen",
    "excerpt": "La mandataria peruana acordó con el gobernante chino profundizar la asociación estratégica integral y ampliar la colaboración en comercio, infraestructura y nuevas tecnologías antes de la reunión plenaria del jueves…",
@@ -337,21 +363,6 @@
    "date": "2026-11-18T17:45:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "08bfcf8787de",
-   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
-   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
-   "date": "2026-11-18T17:40:24+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -631,8 +642,8 @@
    "next": null
   },
   {
-   "id": "4c79ddfba123",
-   "title": "Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
+   "id": "b068ab901e4a",
+   "title": "Perú.- Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
    "excerpt": "",
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTlpa3hUM214bE9LMk5OZWlaUERLZ2xITERFQjczYmxHNlR4WTQ4UjY4aVNPRVZaQ0ZjLUZEVzN3aTU3bE5xaG1qOTRDemxLVnlPYzhVTHBuSW13aEJRX3dNUUlOUW5hX1ZSTnkwdzFsRjVUZU5rSjNVekY5SVF4UXBfZUNZQWt1Z214cF95X0tJeXZVTXVDeUxUMEx2bXQwRk9COHk1N0Rjcy1zd2N1UUhoRkx6N1FMeGoyZDhpSDNsbG1kWUE?oc=5",
@@ -973,17 +984,6 @@
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTFNPNVNoX004ek9MNkNHTFpCemRuOGxkOGhPdUJwYThSbWhPRG1Ub3AwNXQ1aDJUZ2FseThhQXd1bTNtOUtWZ2l5Qk92NThPRGtUZFkwWDkwTW9qQjlkVFFjVzBWeFJPbFNuTlNJeXYxbGhKUVR4UlA0SU12Q3NkRVIxWjl3b2dzaHpLVE5nTTFvdndqWEJJbjQ4bVp5R3JGOW1LLVREcEl4NTliUlotMTlHR290VDBzazRSZ05xSXAwMUQyQ0tRc1V5SUdvTklFeDg5SnZna1ZsX1o0Y0tCTlhjTHhYRWZxQWw4anpHcXhuOVE?oc=5",
    "date": "2026-11-18T01:08:08+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "19fa3b9c25b0",
-   "title": "Un cerco político al pontífice para que no escuche a las víctimas",
-   "excerpt": "Lo niegan, pero el gobierno de Fujimori quiso influir en la agenda papal. Visita de León XIV se vio teñida de cierto acoso que no prosperó. Al cierre, familiares de…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/15/un-cerco-politico-al-pontifice-para-que-no-escuche-a-las-victimas-409755",
-   "date": "2026-11-18T00:47:05+00:00",
-   "state": "molesta",
    "place": null,
    "next": null
   }
