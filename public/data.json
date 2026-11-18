@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T01:12:37.054966+00:00",
+ "generated_at": "2026-11-18T01:34:02.249896+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Lima",
+   "lat": -12.046,
+   "lng": -77.043,
+   "abroad": false,
+   "city": "Lima"
   },
-  "source": "Diario Correo",
-  "date": "2026-11-18T00:16:10+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-18T01:19:27+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -286,6 +288,38 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9446549d110d",
+   "title": "“Hoy levantamos la voz”: Hugo Del Castillo llevó su preocupación al Gobierno por posible exclusión de su disciplina en Lima 2027",
+   "excerpt": "El doble medallista panamericano, con preseas en Lima 2019 y Santiago 2023, pidió a la presidenta Keiko Fujimori que impulse las gestiones necesarias para garantizar la presencia del taekwondo poomsae…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/deportes/2026/11/18/hoy-levantamos-la-voz-hugo-del-castillo-llevo-su-preocupacion-al-gobierno-por-posible-exclusion-de-su-disciplina-en-lima-2027/",
+   "date": "2026-11-18T01:19:27+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
+   "id": "94815c06cfec",
+   "title": "Keiko Fujimori y Claudia Sheinbaum se reunirán en china: ¿Qué temas marcarán el encuentro entre Perú y México?",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2o1LWlJNDkzT2l5eWRBVW1EeVFnM2JkQlF2VEs4cFRqbHZOdmktQjJ6ZG11aE9tNFVfcmtuNzU2cmEzTEo5QjZxUkFxZkJrSDlwamRZY3FWUGJsUW9YQ0V6ZEZMOVo4SVZlUG9JTG16Q1ppVzlOTmo3Y0NnLWZIREkxT2dvc1JBZXNOTHpVek9IRzVjYUt3ek54ZWprWElGbWFmX1pXYm91UDh3UFdyeV83Q2k1TjR0Wjk1bEFhMGVXWXNTMVN0SElXQ1JNbkgzMnc?oc=5",
+   "date": "2026-11-18T01:14:24+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "19fa3b9c25b0",
    "title": "Un cerco político al pontífice para que no escuche a las víctimas",
    "excerpt": "Lo niegan, pero el gobierno de Fujimori quiso influir en la agenda papal. Visita de León XIV se vio teñida de cierto acoso que no prosperó. Al cierre, familiares de…",
@@ -303,6 +337,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjhJdHotNUpUeGF6akRRT1NRMGVOdk15b1VueWRSNTVzSmI1T0EtZm9rWUJoS3ZVeElGMFJud1ZlLXVLN2llNW5kYlFvMlQ2SGxKU2VVUWlObjZqeDhSdXItSzV6a29Ja2x1VVVYbUVVNGxmV01tWkVmVE5WaGwxRTZSLU41ejFBdlZrWDR4ZDRVdFpDRGttdTdrOWZKN0lYRW1DUllkQ3c0YUpQNEhGb2ZTeVZvcHMxRjRlLThoVm9CQnR1aGc?oc=5",
    "date": "2026-11-18T00:36:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "031544540232",
+   "title": "China: Keiko Fujimori sostiene reunión bilateral con el primer ministro de Papúa Nueva Guinea, James Marape",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYktIMDgwcnpaekY1c2lNSjd4emxOaTRpcUdYSVF5X05yS0NSY0NWNUdnTmt1eVBKTEgtOHZNcUNTbkVnYUtOX1FPVEs4VXV3b0c1bW5oQVNLX1pXdlFZWWtqb1k5eHhlREZRX3JSTjJMaTFhbnEzaVBMQkJuQXRtRU9tTnB6Wlpka2JKYzI3UUZLeTNGRUcwS1N1cWxFUnR3VEVveGZJZmhwME9aOHR0dlhIRE9haXNOX2JiYWVkUUFnUlhmNF9DMnl3a2dad0Y4aURxemJUdXVtdjQ?oc=5",
+   "date": "2026-11-18T00:28:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -950,43 +995,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRF8yUzNfVS1SbVlmM25CUlJTUWtrdlVnTTlZMS1IelpxTlo0dzFEWTdFUGs3aUw3TnVqQ3VQWE13MmtUN3dQMG1fOFg4T29aTUkzMlpsRVdVaWF1bDczSnRPcklHV1R5SU5FeXpLRmlUOUEwOW5iUklUQ282QkIwZWlVNkFrazJ6YUYtM0tITW93TTJzbGtmT1JPWGpWQ2xZNWZkWWlFVVVmU2IwTS1GcGdraEVIcTBpU1N0alc0cXVzNEktNUZCcDJuM0QyeGZ0RjF4N2o1cUh1Yi1SRUdmZUIyVXRJaG9KVkw2c0NoUE9tckVJTHduUUZMZnhxVFlOZlViTFVLMi1wOWNqeXZ1UTA4SnM4YzdhT3hDcWNLSklEdks0N2wzNXdsZ01veEZPdDJuZ3N0QTJtbW9CTU9WcjNB?oc=5",
    "date": "2026-11-17T12:04:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "66bb5423040d",
-   "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar el fenómeno El Niño en Perú",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGszSFkxNUE3UmVMNUotZkRvamJIbEdBMjVLZ1lnQTFDeXdaQm0tamtLY1ZiNDVFNjRCc2F0WVNJNk5MTnhZcXd2WW9tNWRMQlBfV1AtMS13ZUZIU1lIRGhuU1d5bWNQajM3d0N4R2kyekd6OEdzb0N4ajlSdXlHZUh2bzV3T0tvTmNZM2J2enFyZDNwNWNHdERDRzBIYXZtOFptZHEyV1dfQWJQVldRdTA2aktGUE1vTDlTQmJPQ0ZkV3hoanVrTFV3?oc=5",
-   "date": "2026-11-17T11:55:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8fe314cb604a",
-   "title": "Presidenta Keiko Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRTU2S1NFYkFLUFRNMWFnM0VvejRGNlpoTVVvMEphMHAtOE5WZE1lLUtQU0NUNzM1UXNMNWFBOHU1N0dVb2h2dV9KdVM4d0lDM0toSDZZblIwREFmS1ctclBpdXI2SmJmdDNmSXlnbVVoTEJjd2lPZ0Zham1RYkNrN3hQeVUtRnhHMGhudTdWd2JIWVhNdUREbTVkbXlqcEh2RlctajMyaGhBZWlJcHdTLWY0c3FfWnp6U1J1b3VyZzllbjlNMlI0Z1lQMA?oc=5",
-   "date": "2026-11-17T11:42:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "60ed3b0da8c3",
-   "title": "Presidenta Keiko Fujimori sostuvo encuentro bilateral con su homólogo Xi Jinping",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeXBROW1wUmpwb3BKckh6X01vd05ITzN1SW5OVzVSZmt4c05meUl0ZGwwNS1MRXROYWRlM0NvYVQyaG9LMjN0cXZ6SmNWUlNGTzdFcG9aV2RqaHVNbnVsbWI0VE10UElvdzMxQUpFQ295cEl6eDM2VmRMWTF3ejgyYjJEemJhZnhzUHMxX0tBUVBnMklzeVF1elVrYnhIUmZWS3N3TkY4NW5UcDV2enNMakRfaDk0NGppMGc0?oc=5",
-   "date": "2026-11-17T11:41:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
