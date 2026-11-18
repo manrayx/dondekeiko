@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:00:43.652044+00:00",
+ "generated_at": "2026-11-18T03:22:43.045215+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-18T02:44:05+00:00"
+  "source": "Perú Informa",
+  "date": "2026-11-18T03:06:49+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -286,12 +286,27 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "baf6e3b896d1",
+   "title": "Presidenta Keiko Fujimori sostuvo reunión bilateral con el primer ministro de Papúa Nueva Guinea durante cumbre del APEC en China",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQV8xWm5HV21QZHBjNmZpbXVVVUtpWERaZ18ydmw2TDFIZG91VUN4YWVoV2R5YmRUeVY3aTI2dld6UDRDZWYxaGIybUFXUUZsM0pMT2RITUtNRnNJS3djRnJ2T0prSU83aXhHLWlKcWFib0lCdWxhYWlLcGtDRmZJeUwxeExZbTV6OXhtRm45S3ptQU83ZDVFWWM5bElMZW1HczRyS1kya0hDeFh0bnhHQW9ZRkVSRDFaT1E1aWRSQlYya2p6Yk1nZEVPVWNsX2gyS21xRXQyWFpYdThVSGNQLXllSVZ3b1BqX1JSWlQyWQ?oc=5",
+   "date": "2026-11-18T03:06:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "48514661ed04",
    "title": "Keiko Fujimori se reunió con el primer ministro de Papúa Nueva Guinea en el marco del APEC en China",
    "excerpt": "El encuentro celebrado en Shenzhen durante la cumbre de APEC incluyó una propuesta de convenio técnico sobre clima, protección marina, combate a la pesca no regulada y cultivo de papa",
    "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/18/keiko-fujimori-se-reunio-con-el-primer-ministro-de-papua-nueva-guinea-en-el-marco-del-apec-en-china/",
-   "date": "2026-11-18T02:44:05+00:00",
+   "url": "https://www.infobae.com/peru/2026/11/18/keiko-fujimori-se-reunio-con-el-primer-ministro-de-papua-nueva-guinea-en-el-marco-del-apec-en-china-2/",
+   "date": "2026-11-18T02:44:46+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -521,6 +536,17 @@
    "next": null
   },
   {
+   "id": "3360f21a3ab9",
+   "title": "Keiko Fujimori ofrece estabilidad económica en Perú para empresarios chinos",
+   "excerpt": "",
+   "source": "DIARIO VIRAL",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1R2ajIyRnBNWGtWT1hqaUdkR3hGUTFpRC01b2lUdnNIX2hvMHkzVzVfazdKUkhMTFFQRzJoRk82WmxaTUJGaXotS0JNZDN3ZkpROUtYUHBqZ05sekhlVVpGV1N6R2xCeThVR0VqTFpoTWF2bHdxTXJfcUpBNTQ1R2dwWlFGXzNhWHhEZEc3T2tCLVQyQks5SGp2cU54eGc0VW5aUGlQWXk0QlY5dHB2OQ?oc=5",
+   "date": "2026-11-17T21:45:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7ec316fc1193",
    "title": "Presidenta Fujimori destaca fortaleza económica del Perú e invita a empresarios chinos a invertir en el país",
    "excerpt": "",
@@ -549,17 +575,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORFAtMDFLQnJYWTNlb3pHRUJpcV9HWWcycDhDNHF1MmMxZWtXbjBQQTY0dGhkTW5rZW9RbUZfR3lVeWh5SU1PY0I5Y3hOcU9SODEweVRtSkZMNGJPcVo2cXdnOHFSVU1MQ19yNmtOeURDTFZCbjlCcWVrV2lXalRIYzZ0U3hJQXR3eHZlS3l3YXhqcTE2YUJPZENGcVRuMmcxRkJYSG5uWEo0RHpDYWdIZklMNHp0cjFWUHdWdEdNWFpCUkgtS0o3bEhNM1Y?oc=5",
    "date": "2026-11-17T21:31:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3360f21a3ab9",
-   "title": "Keiko Fujimori ofrece estabilidad económica en Perú para empresarios chinos",
-   "excerpt": "",
-   "source": "DIARIO VIRAL",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR1R2ajIyRnBNWGtWT1hqaUdkR3hGUTFpRC01b2lUdnNIX2hvMHkzVzVfazdKUkhMTFFQRzJoRk82WmxaTUJGaXotS0JNZDN3ZkpROUtYUHBqZ05sekhlVVpGV1N6R2xCeThVR0VqTFpoTWF2bHdxTXJfcUpBNTQ1R2dwWlFGXzNhWHhEZEc3T2tCLVQyQks5SGp2cU54eGc0VW5aUGlQWXk0QlY5dHB2OQ?oc=5",
-   "date": "2026-11-17T21:20:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -984,17 +999,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-presidente-de-china-xi-jinping-en-shenzhen-apuesplan-noticia/",
    "date": "2026-11-17T12:59:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8b82d8358380",
-   "title": "Keiko Fujimori se reúne con Xi Jinping y anuncia apoyo de China por US$22,5 millones para hacer frente a El Niño: \"Fortalecer la relación\"",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcjVrbjA4V2VoOHVMaEoxM2FmZUczai1pZ3hZTld5WEk2X2w1Z3VWb2NXRmFaR3Q4YVQ2Y000OVNpRjJVSklmZlFPWHBrRDd2T0xhM1ZIby1UdDVzNFpIVGdvZ0kwOGVva0l5d2x5OTcwU0lsaWl5QnMyRy1PN2FEUFlqRUdWd2ljV0tyOWZBckRkVEhsLXVTTGJYOUJGQnVPYkN5QzBxY2lkTU9FQVRtb0QyUWh5WF85YVdSQjVOdmZQeDVmM2x5NHhocU9pekZnOU9rTGdzRTVteEYtRWNKd3ZMd1NLUDlZRkFfbUE1UFB3aFowN0E?oc=5",
-   "date": "2026-11-17T12:59:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
