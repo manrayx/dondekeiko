@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T01:34:02.249896+00:00",
+ "generated_at": "2026-11-18T02:17:21.133910+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Lima",
-   "lat": -12.046,
-   "lng": -77.043,
-   "abroad": false,
-   "city": "Lima"
+   "name": "China",
+   "abroad": true,
+   "city": "China"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-18T01:19:27+00:00"
+  "source": "Diario Correo",
+  "date": "2026-11-18T01:59:04+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -288,6 +286,43 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9f340b4a86bf",
+   "title": "Keiko Fujimori se reúne con Sheinbaum y líderes de APEC este miércoles en Shenzhen",
+   "excerpt": "",
+   "source": "Diario Ahora",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScjYtZnZFZWhDaGV6T29YQjQyOTV3YkxIaFdmZ3d0MWRqNjZ5SmtUNTI0V1lxaUcwcU40bHY1c1R5b21ZeHBEYmtneS1tLUZHX0htbDBza2RUY2w3S2c1TnM2MGo0ZEFFLVRoV0g3V0c2bm5zUDhERUZtQQ?oc=5",
+   "date": "2026-11-18T02:03:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "db57ed27ac6f",
+   "title": "Keiko Fujimori busca fortalecer vínculos con Papúa Nueva Guinea durante reunión en China",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnZ6UTgxRjN1b2duNFBUZnBoMlZKcFd1cE56S3k3dnJLU013dzEzWlNmaTN4RGs0OWdUaFRQVkk0RFBRd0RVOTUtWmxUWTMxNWNIY2RWV1pMbEV2LUkydVJ3dE9NU2xzb1VHRFRjTl9EekFzUDZJQTkwenk5SG5zMWhIWHotNGU0akNiNDIxbDNRS0E3WWQ4ZVNVOElma0RfQ0FfeWcxbG4zMzcyRC1uQTB6WE1CbFhlR3dEUUV6UEJFRHU1eFHSAdoBQVVfeXFMT3BUemZjeGJ3bW9CcFNhQzhxa01qVXJiOWE3SFFJako3S2NqUHZIUnJoWEpFRDMyLVpYQWhna0EtN0JaWXV5MjZxRjdOZ3ZxNjl3ajFIU1QzV2ZQelJ2SXN5bWV6RjJQT2J2S3hFSFFBSW9taVQ3bW1wSjUxTFNOSGhPdmV5Wkg4ekFGajJHeXR5dE9vbWRxVDA3ZHZKSS1vRG5fcDdnMEp4dTJjbTJlemFYQnpNcndnWlRlUkZtRGxnS0xnZElHd1Zha0NOLWtTNDFtaU4zRWRZRVE?oc=5",
+   "date": "2026-11-18T01:59:04+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "e1006993c4a5",
+   "title": "Presidenta Fujimori se reúne con primer ministro de Papúa Nueva Guinea",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi10aEgzVmdfeFVtY1ZuQmlBd3FPblVlcUsyRUl4Zld1bWlKQ1pZOF9YWnNsZGluNEU2TzVNQW1XT0xHbEp6eHpWQ2FHZW9ud0JrMDRNWTVBcTg2TlRXWThIck95bjREbVNlc1B1OGl2TnVPTGUxRUxQYm92ZDdmWHBOdU1UNnJuZU1zdE50LUdMYkwyaFhhU2IxLUNjVWJzc1RtQWpEX1pnNzV3d3lhbTNfcDU?oc=5",
+   "date": "2026-11-18T01:56:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9446549d110d",
    "title": "“Hoy levantamos la voz”: Hugo Del Castillo llevó su preocupación al Gobierno por posible exclusión de su disciplina en Lima 2027",
    "excerpt": "El doble medallista panamericano, con preseas en Lima 2019 y Santiago 2023, pidió a la presidenta Keiko Fujimori que impulse las gestiones necesarias para garantizar la presencia del taekwondo poomsae…",
@@ -466,6 +501,17 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUS1tOWJOQ3lJcE1YOU9rWkFoRF9TMXR1MTFIOERWbU1PbXB6dXZON2trOEJfSlNVV19EYjQ0eUdiT29FTDMwd0lwT0h1eTR3UDlSQzRUWkk5bHgyUzhJU29YdGtUV0dxSDNiN2R6MndrVlRzM1VIMmtRX3k1ckVibzNkSjk?oc=5",
    "date": "2026-11-17T21:47:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4ae6abcefe16",
+   "title": "Presidenta Keiko Fujimori recibe autorización del Senado para viajar a China y Japón por reuniones del APEC",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNjBLOWVsVVhJallCZEc5ZjVCQmFtMlB5cjlNUEN5UzV2cUc2bi1zRE9lVk5nVXllTTJaN2IxMHBRVjlRNmFUUmlkVGhCRkU5Wm9FRGhYM1lyR0ZLSGdicTg4Y3dKQ0xuY1JqcS1pdHJwN3JhZi02bHNLTFB2UHJ2dXI2QWFRVzBYZmtnTkVpX1NzZEFSRXFGNGVfNWxRTHIwLW9ZdWlNbGNUMDZoUkRxa1ZrU2ttQUlaTkEtUi1WWGxRVzhEb0UzdlliN3BFMGZtV2JTY0twLW5XNFk?oc=5",
+   "date": "2026-11-17T21:33:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -898,8 +944,8 @@
    "id": "e2b2989151e3",
    "title": "Keiko Fujimori confirma que Xi Jinping le extendió invitación para realizar visita de Estado a China",
    "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0V1X0RxUXBadWRXbWNjRlZxZDBSeUFTWUFzQmhKYTRYN3JkVDdmNk5pb1pTSktfckRza3FzQ1cyb1dlWmZMcXd6ZDZoWDJQQ2Q4dmRMLS1tUDV0LXRRcF9SMUx3NEVWZG9mdGoxZVViUlhwUklDX295dTlsWktSdmJmTWZKU2IwbktSVmFYYW5YYU5iRkp2dVU4Z0c5akU2NGU4TG5EWnJ2c2dhcFJoaGNYeUJ1UmtwcVozS0czQU1Pa0ZBeVpBcU9MTnV0TmM?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzlUUWZrMGhteFQ0VzZlZUlkb2lIdllCTk56VEVnZTBtNjFRV2EyZWJJa0NJM2xxc0FUMTMxcGROLVB1czd3Rk1GZTVROE5sMDVRTWFfQUtXbzVGZkg0S0xqMzFxejJPVUJCU19lbWwzQzR5amk0U2NhNy1QaGlrNHpHVGhEWjJXVWZfSnFkeWNvZnVhUzJrTkRrYUdBdFhaa2dwMHFva0R1U3BvY29zd2VnZm4zTERQVjBzZHFrcEUyLVZ2U3BDZ0c3LTU4STA?oc=5",
    "date": "2026-11-17T13:03:00+00:00",
    "state": "posando",
    "place": null,
@@ -945,56 +991,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0FSNmlmV0h4ZlozNE1FVEU3b3ByZ0dkWVB4UUQ5YXAzcDEwTHBXYjVlWnJvbDJNTnlhY29oUk9zS2hHNWVxclFrd2FXRk1BYWVDNVlEc1lycktwd3pwYXYxWkNHRUVFVnFscENpTWhtcDBmV0Y2QUhnNXVmS2tvVGZ2TnplYm9XbFRTRjhmT3IyUk1vTnNoZ09hUjZLemlnRXFCaGY0U3RvUE5KSGlwX2hrdVRNOHNjenJpZHhncnnSAcYBQVVfeXFMTTBLR0ZZbmtpWS1CdHIxLTFrUEJ0alhQN241RGtWYkZCMlNuNU9nXzhZcVo5SGlac2FKaGJlX1hUd0hvRHNTR0tUOUpZZFZVX0xRSkZDY3Y1RkF5aUs5SEY4RWFTWkdwb0JHZU9XdUpWbnZNN1lSN2VnMHM2OUJiajBrWGNsLXFzNEdYMVFOc1BCeEZhRElnMHlCbHZSV3J0ZjQyRE5fTEh4cVZYRklRcS13ZEpzaWU5V2N5Q2lOYzUxSm1tN2xn?oc=5",
    "date": "2026-11-17T12:28:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b1700f40c0b1",
-   "title": "Las crisis en Perú debilitan la confianza en Keiko Fujimori",
-   "excerpt": "",
-   "source": "DIARIO VIRAL",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbDBpVzBRb0J4aVR1VXB2bVBmMERJQXNRamxJOUpCSFBLVmV0Rlk3Y05iVzl0TjFRWlNBQ2VIM2dCQTV4UlQ2WHlQalp6bzl2R2xaajk3X2NURzh2VUhTU1UzczNQR0J6M21JeDgteWV0bXE3SWtWcjNKMzRYeDFnWGVqOV9MVGVhWU5RTlhYMDNvaFA1anNaV0xtbw?oc=5",
-   "date": "2026-11-17T12:24:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "66f103b28910",
-   "title": "Keiko Fujimori se reunió dos veces con el hijo del ministro de Salud en Palacio: una durante la visita del papa León XIV",
-   "excerpt": "La primera reunión con la presidenta Fujimori fue el 17 de octubre por más de dos horas junto con el consultor del BID en la Unidad de Cumplimiento, Enrique Vásquez,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/16/keiko-fujimori-se-reunio-con-allan-dyer-hijo-del-ministro-de-salud-en-palacio-de-gobierno-hnews-356320",
-   "date": "2026-11-17T12:21:39+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "c1040a857da3",
-   "title": "Keiko Fujimori anuncia donación china para prevenir efectos de El Niño",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUhmdHNRNXg1cVZUbVNEV1VoVTdtc3NuOXBDaF96NzhhaFZiVW9VSUxmWVRNQUplQnFhZEVUdHJPSUdwbHBpX0dDWDBvUHAzWW40NEhXSUhielIwcGh6MENia0lkNHhSTm1oZWlWSXZlaGM5eGpjeUQ0ampvRTBuTWgxQTZYbDQ0NjlyeUxSTkNaTnBEYVdUcjQ1emthQ3Jsbm9kOW40a0dTWVN1VFNPOHRrV2xRYVd6ZFJpTHVmS2ZRRnI5bHhFZzdfZldxcWJ1Qlgwc3VSbDFIQXk10gHiAUFVX3lxTE5JTlBFbW1KTVZVU2p4SXNXWldrME9LbURHMFpwLTlOSGtfTXM0MDRwUDU2T09Ldmd1QXp2ZDFhVlMxckUxVkFCYndzTHdQbFZoQVVLZzZocVg1bWQtZ1FXOF9iODBfQXlWNmZOZ3AyOVpqTjZBQzFQZ1RYaElBZ3MteXg2LXVsdF9OVnF2X2tLWVRhOUFYYzRheFRQWGxmYUliMFFPZGtHTkZ6SmduREJMVnJLTWVtQTQwYUFoek9PY0VSYlE4MFliWHpZTlB5aFBFdWpGQThsalBHVGZ3Y2JxZ1E?oc=5",
-   "date": "2026-11-17T12:10:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "276968565612",
-   "title": "Keiko Fujimori, tras reunión con Xi Jinping, revela la ayuda que brindará China a Perú por fenómeno El Niño",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRF8yUzNfVS1SbVlmM25CUlJTUWtrdlVnTTlZMS1IelpxTlo0dzFEWTdFUGs3aUw3TnVqQ3VQWE13MmtUN3dQMG1fOFg4T29aTUkzMlpsRVdVaWF1bDczSnRPcklHV1R5SU5FeXpLRmlUOUEwOW5iUklUQ282QkIwZWlVNkFrazJ6YUYtM0tITW93TTJzbGtmT1JPWGpWQ2xZNWZkWWlFVVVmU2IwTS1GcGdraEVIcTBpU1N0alc0cXVzNEktNUZCcDJuM0QyeGZ0RjF4N2o1cUh1Yi1SRUdmZUIyVXRJaG9KVkw2c0NoUE9tckVJTHduUUZMZnhxVFlOZlViTFVLMi1wOWNqeXZ1UTA4SnM4YzdhT3hDcWNLSklEdks0N2wzNXdsZ01veEZPdDJuZ3N0QTJtbW9CTU9WcjNB?oc=5",
-   "date": "2026-11-17T12:04:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
