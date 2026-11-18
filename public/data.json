@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:42:51.327438+00:00",
+ "generated_at": "2026-11-18T22:04:46.644702+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -269,6 +269,17 @@
  "agenda_minutes_7d": 381,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "4bff78ff4569",
+   "title": "Keiko Fujimori y China: ¿qué acuerdos y beneficios obtiene el Perú tras reunión con Xi Jinping?",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTVM0Mk9taUxZSUdidmV2dlBWR04weVU5a1Q5Tkc4WFQ0aTVPWlptOGFHVURScmpvdktkVU1jbzUwVkl6TGRCQ0dkS21sUEVCOGVzbnU1UzJQXy1nZElHeTQwb29OT0NmSlgyQmg2NGFja0Z3NW1LQ0xydmVlZWJ0T25lMThvV2tSSFhVamVnUTliR0R4OWo5bjF5WGxESzFKTGItRXl0LXcxbHNja1pPdlgwNUNkb3QtMHpVZNIBwgFBVV95cUxPeWRrTVczN3I4SldHeU0zNWI3NjdmVmNIWEFKbVJERDhRemhVY3JVY3dLdjlXZC1BTFFiekM0TFdWampPb3MxeWw1aWw5S2RzUURwY3h1aHo3U1pjNXI5aHJVVTJVMVBDTTVTakVPeTdDblNiTFMxNXdwNmVHV0dIb2JlWFc5UTlkYzRvMDVianhMRDFrUnFRaGFDQWRLeWlUblBoODJIUEhwVlB5emJIdFpZSnA2cnFrTGJTWnNxMkFIdw?oc=5",
+   "date": "2026-11-18T21:47:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "08bfcf8787de",
    "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
@@ -800,6 +811,17 @@
    "next": null
   },
   {
+   "id": "c8ef71845ff6",
+   "title": "Keiko Fujimori: China otorgará US$ 22 millones adicionales al Perú para construir un centro de monitoreo inteligente",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWtUVkxrUXlmRmU3S09OcUJ4Q2Vrc2RLdThDSzJTWmo4RjRqdFFlOEYwRm53V3FILU9kZVdUSVdFMWJ1VTVFQnlLTjBqQ3ZuUWlIMXVHWUZsRXVZU1R3OXlJRk94OURra29yS2tETnEwY1ZmWndSa0E0RVhtMmJDQ1NrX3JGX0pKRVl5QlVzTjhXUEhlR0pqYVpSU1hjN2Z3dG1ySnNQNGp6Ty1MX1Z2S295c0dHV2Z2dWtWS0t4ejc3Z19yLVV0b0otSjVqaV8wSjZzZmxYaw?oc=5",
+   "date": "2026-11-18T12:15:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8aa26375ffc9",
    "title": "Keiko Fujimori anuncia aporte de China para implementar centro de monitoreo inteligente en el Perú",
    "excerpt": "",
@@ -951,32 +973,6 @@
    "source": "Diario Ahora",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScjYtZnZFZWhDaGV6T29YQjQyOTV3YkxIaFdmZ3d0MWRqNjZ5SmtUNTI0V1lxaUcwcU40bHY1c1R5b21ZeHBEYmtneS1tLUZHX0htbDBza2RUY2w3S2c1TnM2MGo0ZEFFLVRoV0g3V0c2bm5zUDhERUZtQQ?oc=5",
    "date": "2026-11-18T02:03:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "db57ed27ac6f",
-   "title": "Keiko Fujimori busca fortalecer vínculos con Papúa Nueva Guinea durante reunión en China",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnZ6UTgxRjN1b2duNFBUZnBoMlZKcFd1cE56S3k3dnJLU013dzEzWlNmaTN4RGs0OWdUaFRQVkk0RFBRd0RVOTUtWmxUWTMxNWNIY2RWV1pMbEV2LUkydVJ3dE9NU2xzb1VHRFRjTl9EekFzUDZJQTkwenk5SG5zMWhIWHotNGU0akNiNDIxbDNRS0E3WWQ4ZVNVOElma0RfQ0FfeWcxbG4zMzcyRC1uQTB6WE1CbFhlR3dEUUV6UEJFRHU1eFHSAdoBQVVfeXFMT3BUemZjeGJ3bW9CcFNhQzhxa01qVXJiOWE3SFFJako3S2NqUHZIUnJoWEpFRDMyLVpYQWhna0EtN0JaWXV5MjZxRjdOZ3ZxNjl3ajFIU1QzV2ZQelJ2SXN5bWV6RjJQT2J2S3hFSFFBSW9taVQ3bW1wSjUxTFNOSGhPdmV5Wkg4ekFGajJHeXR5dE9vbWRxVDA3ZHZKSS1vRG5fcDdnMEp4dTJjbTJlemFYQnpNcndnWlRlUkZtRGxnS0xnZElHd1Zha0NOLWtTNDFtaU4zRWRZRVE?oc=5",
-   "date": "2026-11-18T01:59:04+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "11b792f8c748",
-   "title": "Keiko Fujimori despliega agenda comercial en APEC y Japón",
-   "excerpt": "",
-   "source": "CanalB.pe",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDludmNmRm5uTjdpeU12MUN0V0dDR0JwbU8zUFROSW8zRk1RWlFMc21VZTc0NTktajBQN0VfR3J4OFg5S1lybDh0Vy1QQ2FCX2lHd0c2cy1ZbTJ6VnVFYWpPZGFLXzN0Smx4Z0VBak1oa2JQN3NJTFpRRXZTcGNLRzdHOUJ2N1haaWEyRTA2Y182NHhHR1RXSnZmdlNYWmM?oc=5",
-   "date": "2026-11-18T01:49:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
