@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:39:34.069185+00:00",
+ "generated_at": "2026-11-18T12:01:01.314605+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-18T11:27:52+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-18T11:48:14+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +270,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "08bfcf8787de",
+   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
+   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
+   "date": "2026-11-18T11:48:14+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "9a03657ff223",
    "title": "Keiko Fujimori y Claudia Sheinbaum se reunirán en China tras retomar vínculos diplomáticos: ¿Cuál será la agenda?",
    "excerpt": "Las mandatarias de Perú y México tendrán una cita en Shenzhen durante la cumbre de APEC, tres meses después del acuerdo que normalizó la relación bilateral",
@@ -343,21 +358,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-la-apec-carlos-raffo-estuvo-presente-en-almuerzo-organizado-por-la-embajada-de-peru-en-china-hnews-1388305",
    "date": "2026-11-18T05:16:27+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "08bfcf8787de",
-   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
-   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
-   "date": "2026-11-18T05:02:00+00:00",
    "state": "posando",
    "place": {
     "name": "China",
