@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:29:30.218359+00:00",
+ "generated_at": "2026-11-18T00:50:54.171286+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -108,9 +108,9 @@
   "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
-  "molesta": 0,
+  "molesta": 1,
   "triste": 0,
-  "posando": 59
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -286,6 +286,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "19fa3b9c25b0",
+   "title": "Un cerco político al pontífice para que no escuche a las víctimas",
+   "excerpt": "Lo niegan, pero el gobierno de Fujimori quiso influir en la agenda papal. Visita de León XIV se vio teñida de cierto acoso que no prosperó. Al cierre, familiares de…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/15/un-cerco-politico-al-pontifice-para-que-no-escuche-a-las-victimas-409755",
+   "date": "2026-11-18T00:47:05+00:00",
+   "state": "molesta",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "625b88738d00",
+   "title": "Presidenta Fujimori sostuvo reunión bilateral con primer ministro de Papúa Nueva Guinea",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjhJdHotNUpUeGF6akRRT1NRMGVOdk15b1VueWRSNTVzSmI1T0EtZm9rWUJoS3ZVeElGMFJud1ZlLXVLN2llNW5kYlFvMlQ2SGxKU2VVUWlObjZqeDhSdXItSzV6a29Ja2x1VVVYbUVVNGxmV01tWkVmVE5WaGwxRTZSLU41ejFBdlZrWDR4ZDRVdFpDRGttdTdrOWZKN0lYRW1DUllkQ3c0YUpQNEhGb2ZTeVZvcHMxRjRlLThoVm9CQnR1aGc?oc=5",
+   "date": "2026-11-18T00:36:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "dfd5bf589d98",
    "title": "Presidenta Keiko Fujimori destaca fortaleza económica de Perú",
    "excerpt": "",
@@ -388,17 +410,6 @@
    "source": "Caracol Radio",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXh0ZS02TE9jVjVVd0FaYTdBNHdKQVpGRk5PV3Y5ekFObEhHYW9LOXE0eERtSkZkN3Nua1VHUFFySWVJel9nX0hTeFpZS3Z3aHExSy1qRF8yMnBNQWNXSWdoSHIwN19nS3RNLWxtVTM1eTZwak5pNHBDcVM2Um8yYTlTQkl2S214WENaby01VHhXcDJGanF4Wk1uTEZRajM4YXFUTVk1QV84QVBVbHVGZUJ6bnhEaEh2MXFpeDRVb9IB0wFBVV95cUxOU3UxV2xBd1dXNWJScHd4Z0ZqSTlvZUtqUkdYNzJ4ODdGWnlzdXljVVNablNOR295T3VTdGRtTDFobFozTDFyUUpKZWwyS3pDaTN5ZU1iSHhYSC1JNDhJUUIydzJlSVFMVTdzTl9fVGVoek1Fc2R1cVVLdy1HTzhjRU90VlRRLUdab3VTWDJhbGx6SzRSU2tjdktMNXNXUkwwQW4tMFdlMFVrZXp5cHB1RWVxUzRFYVc0YXBqMHVJWjhMOWxhUE5UZ1hNb2hwNGFfX3lN?oc=5",
    "date": "2026-11-17T22:03:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "66bb5423040d",
-   "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar el fenómeno El Niño en Perú",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGszSFkxNUE3UmVMNUotZkRvamJIbEdBMjVLZ1lnQTFDeXdaQm0tamtLY1ZiNDVFNjRCc2F0WVNJNk5MTnhZcXd2WW9tNWRMQlBfV1AtMS13ZUZIU1lIRGhuU1d5bWNQajM3d0N4R2kyekd6OEdzb0N4ajlSdXlHZUh2bzV3T0tvTmNZM2J2enFyZDNwNWNHdERDRzBIYXZtOFptZHEyV1dfQWJQVldRdTA2aktGUE1vTDlTQmJPQ0ZkV3hoanVrTFV3?oc=5",
-   "date": "2026-11-17T21:48:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -933,6 +944,17 @@
    "next": null
   },
   {
+   "id": "66bb5423040d",
+   "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar el fenómeno El Niño en Perú",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbGszSFkxNUE3UmVMNUotZkRvamJIbEdBMjVLZ1lnQTFDeXdaQm0tamtLY1ZiNDVFNjRCc2F0WVNJNk5MTnhZcXd2WW9tNWRMQlBfV1AtMS13ZUZIU1lIRGhuU1d5bWNQajM3d0N4R2kyekd6OEdzb0N4ajlSdXlHZUh2bzV3T0tvTmNZM2J2enFyZDNwNWNHdERDRzBIYXZtOFptZHEyV1dfQWJQVldRdTA2aktGUE1vTDlTQmJPQ0ZkV3hoanVrTFV3?oc=5",
+   "date": "2026-11-17T11:55:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8fe314cb604a",
    "title": "Presidenta Keiko Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
    "excerpt": "",
@@ -965,28 +987,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQk9iQ1YwQkRJQk1Yd1BMeWZJUjdzaGFOelBKR1RMU2kzTERxU29uT09zeGNwVTJsSkZWbVlPd2xfcVJyQ29EUGNEQkwxaWJBelVsLWNKZFBJRHhWdTZFWTZYc1RyQXJFV1Z0NGM2VjRXcWs5cTA5OHVqa3Y3SXFfX1M0SkxtNnRLbkhsbzZpZ0xreHM3TG1WNVlhM3M2bmQ5Z3NjRVV6MWJwc2RJUjBEU3F2YVJxbkxRM2FpXzdvYk11NGl3NTBrMmRUSHJ2MVhiVWc?oc=5",
    "date": "2026-11-17T11:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2f89bef1f9ec",
-   "title": "Keiko Fujimori y Xi Jinping se reunieron en Shenzhen antes de la cumbre APEC 2026",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNktTMjBOeFF6dFR5bEhqNm9wa3o4a0JxRUFkWkNDR0ZFQ3VsQmpEdk1SWjJMeUNvWnF1VmUybURZM0FrMWcxZURWdnA2cFFqQjdLU3llQXdacVdrWTNVZk1wQjJmTlp3UmF4QnZoTE42NnNjQmV1MWxuTGIzMFZfODNCWW1tS1R2VG5PeFo0ZG41cEktcnhvTDZUd1ZFUnpJZVczSmVMZzNzSGtrNm9YRzNaTjVWSFlPa0FKNlZGcTlQTHRTek8zcV9n?oc=5",
-   "date": "2026-11-17T11:15:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5202b15a682c",
-   "title": "Keiko Fujimori y Xi Jinping: China publica las primeras imágenes de su encuentro bilateral en Shenzhen",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0MxMUZTVHFSX3F0Wm9qZURTS0NfaG1JWTFMbzJibTk4c096Y3pvZENpb0JjWGFPSzZIeGlzUk5zMExpcTM0TTNud0JjeTlFVFFfM0dPWm1BTGxzU0g3ZktWcjVwbjRfVnNTLUdWcjFNZ1I5aEdnTTRSZlc3LVNCcDVQZFg0ZUVoT25ZUkd1cmJjZG9YcmpMWFlrR0tTUWZpZDB2emtWVldVMk0yWUc4SE1BZVFkaUZhWHFBRHR4XzJhbW50ZEYxeUV2NVlQYVRoYU1z?oc=5",
-   "date": "2026-11-17T11:07:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
