@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:30:55.980925+00:00",
+ "generated_at": "2026-11-18T14:52:38.310788+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-18T14:24:14+00:00"
+  "date": "2026-11-18T14:26:33+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -275,9 +275,24 @@
    "excerpt": "Los temas abordados entre ambas autoridades de Estado incluyeron el impulso del intercambio comercial y la posibilidad de coordinar acciones frente a los efectos del fenómeno El Niño (FEN).",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/18/apec-2026-keiko-fujimori-se-reunio-con-jose-antonio-kast-en-shenzhen-hnews-1601928",
-   "date": "2026-11-18T14:31:11+00:00",
+   "date": "2026-11-18T14:45:57+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "08bfcf8787de",
+   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
+   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
+   "date": "2026-11-18T14:26:33+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -296,18 +311,14 @@
    "next": null
   },
   {
-   "id": "08bfcf8787de",
-   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
-   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
-   "date": "2026-11-18T14:19:00+00:00",
+   "id": "cd545c34a839",
+   "title": "Presidenta Fujimori abordó con su homólogo chileno José Antonio Kast cooperación en seguridad y acciones frente a El Niño",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2ZMYUxGZjJvbVRDaUhqOU94RllFTW02T0UtZVdBc2RSRzVpREswOFM2bzhGSUczYjlYMF92dkk2bkZMVVhGcHpoVExpZXVPOE5pcnZLNVZmWnlfVUxxSXh1RU54TzB0NlBsSmluYlh3QTEwQlVOY1BoZ2hJUTk4dXVwZ0xaT0dtVE1MdFdBbExLY2FXejBqeDJQdUxhWnY3Q0hNYU1oeE9HeGRYV3dqRFZyTHVpeWdXYUlWLWJmdE1PZw?oc=5",
+   "date": "2026-11-18T14:16:42+00:00",
    "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
+   "place": null,
    "next": null
   },
   {
@@ -383,6 +394,17 @@
   {
    "id": "809956cd4ffc",
    "title": "China destinará US$ 22 millones para implementar centro de monitoreo inteligente sobre seguridad ciudadana",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que China brindará al Perú un aporte adicional de 22 millones de dólares para la construcción de un centro de monitoreo inteligente…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
+   "date": "2026-11-18T13:07:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "05527d493145",
+   "title": "China destinará US$ 22 millones para construir centro de monitoreo inteligente sobre seguridad ciudadana",
    "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que China brindará al Perú un aporte adicional de 22 millones de dólares para la construcción de un centro de monitoreo inteligente…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
@@ -965,28 +987,6 @@
    "source": "El Espectador",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjRUR3dZdmVtejdwd0gwYldqOG5RQV9uQTM1T0VLc3ZlQ0h1amNDcGd3S05jLVRERnNFMHFNMlB0bmpqUTdkOW5pNkFoSUM3UFdpZFRUc3UydmxOdDdOVEVnZnhGRzd1cGFxRzJleUF2NjVadEJHeWJ0dE9sY0lOS2x0eWlqSTY1b0gtODJDMWNHVVdraHljMER1bGdBc3RLamQxNlRkWUI3VFlFYTg5TnNvbERkcGFPcDJOYXJJYnpYZ9IB1gFBVV95cUxPS3dReXRLUmo2VFJ1VkFkMXYyazlnbVZpcHl4dVZNTnJoZGlOOVh4ZG9DX1Y4NzVWLXU2SW92Tllrby1ZeG5aWG5QcFROZXlsbTROZThlU1hTdHg5bU11bVc2MXpPeXFNMWIxMUNvQ3lKbENrS1A0Ynh6UkpONmliYkZNRi0tR0o5QTFVQmJyNFJka1JhYU5yRnB5b2dkVktsalQwM2YzY2x3NjNnQ2ZhbFF0RUQ1UGs0ellTbW5BeDdGYnBaM1lZbEc0WGdicUVCVE9aZWNn?oc=5",
    "date": "2026-11-17T19:29:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ddfffae5d5d1",
-   "title": "Presidenta Fujimori destaca fortaleza económica de Perú, invita a empresarios chinos a seguir invirtiendo en el país",
-   "excerpt": "",
-   "source": "Chimbote en Línea",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQ1B0X3ZDdEJfVjVQUEVCOVRjWnZrMVNqUVNTemNkRWVxUG1qTVlPWGFUT3BmRmJNeVFadHRvY0pMdWllRVQxMmlxemxUdmJJMm5LVVdQeEpWRVI5elVndTBfQUJDRnhQeW5sM2FsekdLZkxKbmdqYnVDOGJzUmVuMUdMVkN5M2FYaVRPeXVxUnpXNVc1YUNvX3EtRDR6UThGVTJMdXVDT2lreFdOck81SDVidG9nMlFFVzhzSWNfcDNhWUhyRF95RVRzVU5fR243Q2ZOWktGREZQWjA0LWlNN3drRUpkVTc1WkV6QmhKbmgxbzdkbEFzeTFSbnFQQlNl?oc=5",
-   "date": "2026-11-17T19:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "847ec2806313",
-   "title": "Presidenta Fujimori agradece a China apoyo para enfrentar impacto de El Niño [video]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUtUcExZSFVnOVBfR2NzTDI5V2E2dUs4Wm9JS0s0V1BtOGhSdW1HRlkyWkpnSWtNWGNsMVRCTENYci03bU9hSDJ6X3NHSU5iYWF0WnJyUmNKYzFpMEdleC1xXzI3X2lUVnlTbHVzOW5HOHJLcUpQNUtrb3RYUUxpUlo3UFhXZU55TzJzcmVmeTF5LUpIOU42Y3pyUEFnY2RqN3FrclZTa2F2UjM2d2pPcFN2bHJhd2dVc1E?oc=5",
-   "date": "2026-11-17T18:02:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
