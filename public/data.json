@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:56:43.245918+00:00",
+ "generated_at": "2026-11-18T16:18:26.752413+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3fd3012e02ff",
+   "title": "Japón da la bienvenida a Keiko Fujimori y anuncia reunión con el emperador Naruhito",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZERyTlJQN1lzeE15SDhBT0NaRjFpakJ2bkZxYWN3RWhKM2pTLUJBRlp1bHdjSC1scGhhMktONDhTMVlWRXVxamJwTS1ZUVpYOExwMjFFVmgyMS1aUUgwZnJwUEpoS2RNZHE1aVFST2l3V0IyUERsUGdWcGl6elR5cjVWakdJNDJSRUNIMUdVdm5sSWRLaHptRTdJZjJZVWVCc1FVOGN2TGJzbFNTSTZoS1RQb3Q3OFRTREZ5OWh4Z9IB0wFBVV95cUxQb2dKcXdONEl5LWx6S2FiUzgtTVZfa0JndnpacldYSzdQSVAtSFZWcmNtQnEtWk9jWm1oRW5sNVd5b0k3MC1NTWtkeElOcFVhaGVRcDVYR1prVElmQldvT1RRR0NPVUkxTWNrNW9oS2kzYzJXSkdOaWx2b3ZQNFg1U1NCQTlIOFlsa29DTVJ3WkY4U1JHbXY1WDZ3QUgxc2NNNjlHaS1wSVowRTREeWtRaVljTlE0U04wczQ1c25GVnVSbzNMaTlEU2dRZ0RLTFpmX2NJ?oc=5",
+   "date": "2026-11-18T16:02:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f09350f6819f",
    "title": "APEC 2026: Keiko Fujimori se reunió con el presidente de Vietnam para fortalecer relaciones bilaterales",
    "excerpt": "",
@@ -350,6 +361,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5DYlBkcXEya3FYVTFzR25FcHFFaUM1WkZLNFdmWlpsVVZNdGhEQ29EWm9MZFV0TzJnTzRSbjJ2RUNkV3NhcmNfZlRfR3cyWEJaOFM3bVE1cjY0dGJwWkgxR3VlN1dxVkxLN2lzM0Q1V3NqZ2s5WjhjaUg0RFpoeWgyNUhTOGZvb3lTMWFfNks0eVV3Z1dOcTI4MVBucVZLX1ZWZnBaaVdCTHZ2UDBzLVlzTW9McTlaZVE?oc=5",
    "date": "2026-11-18T14:14:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "42dac5e1b4c7",
+   "title": "Keiko Fujimori y Abelardo de la Espriella tendrán una cumbre clave por isla Santa Rosa",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVJuQ3liTWNMUTBDYUQ2eXVPQURVTUJzNjVKYWpjQXJaU1U0UVRFTXMyMWxPZFVhbHU0TlYwcVJrdDdJMnhWemFrMTJ5T1U0VVhqN01EV1k2OGx5Qng4UXBma0JvdWZlQWRiRlFNUERZbXBOQkNfbkc4UUE0eGRiTEI2OGEtZERpRk9lSUZMQ0s0R3YtODRJ?oc=5",
+   "date": "2026-11-18T14:09:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -856,6 +878,17 @@
    "next": null
   },
   {
+   "id": "a16755555044",
+   "title": "APEC 2026: Keiko Fujimori destaca estabilidad económica del Perú y pide a empresarios chinos mantener sus inversiones",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRWY1OTNMNmFYb1dNQmtQTHI5T05vcEVCQTFfTTU1UVpFN01oWXJTd3dXQ0E1RmMySUlBenhNeWt2NVBiUXh4UDBRS25vUUt1R1dkbmROZ0VtTnVCRGRRVjktMmYyLVR2YlUtSGE3Nk1BVmpDWHZMT3FVNUJhRUdEYjRpR2xDeERURDRKd2tjMDZORDl1V2wtNlFkcUYzQWN1Z3ZoaTZENGRJUGJhNGs2Y3llZnNpc05vUnJWR3k5UURkbU5LQTE5UDBvaDRRamhTN0UwbkExUEVFaHVkNEZlSlhUbmR4em5PcjJyT3AwdDJSbGJNcGlrRkswYnLSAZACQVVfeXFMT2swUkNqVUlJVlFkZFBzRU1GQml5VXBtQzJlX1kwcDlUMUFyenQ4MWFMeU8zdVlYNlpKUDg0dWhQNjBObTloMTdhR1lSR0NWWHFFZXg1YXRKdFBrSlk3QkpKalE2X3U2UUoxSFFaTUgzaVBrWVJEZTdsZ0Y1OHlBUWNrV2R6QzNsU2JFR0V0dlVyY3VVcS01UVVnajJDZkpOaHRZSGM0QVhpdnlST3plRnhRTDB2SUhhalM4QlRzUDROeTJjZ1U2RjU4UEdtMFF3Y3E4QzhoTjA3d0Q2SjE0RHI4TkwzLThnVGQ0ZDRfa0M2RU5KVlNKYW9jRGJYM1RPT19LUXhIQkR4bGt3Ul9SeVE?oc=5",
+   "date": "2026-11-17T22:26:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6a60febb660e",
    "title": "Keiko Fujimori presenta a China como el principal socio comercial de Perú",
    "excerpt": "La mandataria sostuvo una reunión bilateral con su homólogo Xi Jinping en la ciudad de Shenzhen. Al término del encuentro, destacó a China como el primer socio comercial del Perú…",
@@ -952,43 +985,6 @@
    "date": "2026-11-17T20:28:23+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "45e3cff15968",
-   "title": "Reunión entre los presidentes Xi Jiping y Keiko Fujimori no fue un encuentro bilateral formal",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVlfb191bXQxTEx3dGV4UVpVWHpUc3Z0VzlOR2NIYklub2lOLVVaTm9ydjQ0N2NFZmlGOFFWV0ZRa0hzaEV5Z09UbjlPc3ZELXZuZGNxNkNqV2VUWnhMMDZmXy1QYVJVc0steTFYTnVMa1dOVUtoWVF6VWFWcTc0MV9YYlJlU0xfVEJPWTFIekMzQUIzcGtNajhFcEZQSEJFd0lCVVlYUTB0UzlqbklSOUZ1UEY4S1hBX2NYYQ?oc=5",
-   "date": "2026-11-17T20:13:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ef299f752be0",
-   "title": "Reunión entre los presidentes Xi Jinping y Keiko Fujimori no fue un encuentro bilateral formal",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVlfb191bXQxTEx3dGV4UVpVWHpUc3Z0VzlOR2NIYklub2lOLVVaTm9ydjQ0N2NFZmlGOFFWV0ZRa0hzaEV5Z09UbjlPc3ZELXZuZGNxNkNqV2VUWnhMMDZmXy1QYVJVc0steTFYTnVMa1dOVUtoWVF6VWFWcTc0MV9YYlJlU0xfVEJPWTFIekMzQUIzcGtNajhFcEZQSEJFd0lCVVlYUTB0UzlqbklSOUZ1UEY4S1hBX2NYYQ?oc=5",
-   "date": "2026-11-17T20:13:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2fbb0d1f6b50",
-   "title": "Premier Luis Galarreta destaca agenda de Keiko Fujimori en China: \"Reimpulsar nuestras relaciones bilaterales\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSVJER0ZxMERBbkxLU0FoUVNmRGI0al8zeEhGNFF3NGhRZlpJMlFHaXFQWUdLekw3Y0tZZVBBRmJHN05WMWNzTGlXbEFfVjJGVnhRbzJhbHFZVGxYX0VXdTdxSzE1VGs4Zno1Q2MzTDZLTFBETmNaZC1jVjd1b1lHejRtY2lXbW9TVlM0aGNKTUhZN0JteEM5Zk1EUGhfVkRaS1NQOTAxYll6TlJQTU1wb0YzRTJXWEVUVzdsSW04YlRYTklCQ3BjQ2VXMTRxSm9oWUQtUkdJUml4MUFfa1R0cGdoVQ?oc=5",
-   "date": "2026-11-17T20:11:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
