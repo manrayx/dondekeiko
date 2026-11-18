@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T05:10:50.644622+00:00",
+ "generated_at": "2026-11-18T05:32:46.540106+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-18T05:02:00+00:00"
+  "source": "La República",
+  "date": "2026-11-18T05:16:27+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -269,6 +269,21 @@
  "agenda_minutes_7d": 381,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "8da37dfd4f35",
+   "title": "Keiko Fujimori en la APEC: Carlos Raffo estuvo presente en almuerzo organizado por la embajada de Perú en China",
+   "excerpt": "La Embajada del Perú en China organizó un almuerzo con motivo de la visita oficial de la presidenta Keiko Fujimori. Estuvieron presentes aproximadamente 70 representantes de empresas chinas de diversos…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-la-apec-carlos-raffo-estuvo-presente-en-almuerzo-organizado-por-la-embajada-de-peru-en-china-hnews-1388305",
+   "date": "2026-11-18T05:16:27+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
   {
    "id": "08bfcf8787de",
    "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
@@ -976,17 +991,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdExad2tqRGtobWU5dDhaVnJhazVUZEpQbGo0SDhGN2NfanlXNXNlaXJQNnhMdXR0V05LUnM1V2plMm1XcEc0THVqUkN1YzNyV21KTVlPTTNkR08tZVBxVV9uUTk5VUpuN3JWTXpBTmFRSkE5OWtnVzAzWXhCQy1GQmtkbUtORzhNcC05NXJmcTlkNXYzOXdCNFJSUWRiZW9QZVFGRWhuZDFxNlkyNFc3LTF4QVBzb2M1Q2hRdmdhSE1QdlhJcHU4NV9xbmhidEVzc2FWSXJyNVNjcUtZaFN6bVg4bnRWNEJyUlIwSkprNA?oc=5",
    "date": "2026-11-17T13:08:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "208ec2e7de05",
-   "title": "Keiko Fujimori anuncia apoyo de China por US$ 22,5 millones para enfrentar el fenómeno El Niño",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1VydE94MG9RYm5pTVpvVUcyNXdvWS1DWC1ZSnV6NXNhdXVDcXA1LU9IazRuc2hFM1JWMEtFODlwZXJBNHRpQUV1MkxFQ2hmNUFtZnF6b2tQTEV1UVNwNDR2VjdPNGFXeHVCQlNRdENWMWIzQlozaUwtcmZwS2lPUWh5ZjhacG5ESGJCcG90SXR5VUMzZHZtVjIycVNjRGsyYmt6YklfdWR5SWFaajN2ZXI1aUFuX1liMFlWOC1R?oc=5",
-   "date": "2026-11-17T13:06:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
