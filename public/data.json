@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T18:06:15.201931+00:00",
+ "generated_at": "2026-11-18T18:28:07.229249+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,12 +270,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6dfebc65ad7b",
+   "title": "Visita de presidenta Fujimori a Japón afianza agenda de cooperación bilateral",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDQ4Sjh3ZU1Jd3dkSnpRUkVpYUNiUG9laHJGT0w5VmZsZWZteG10OC1adTJZVnJWQkJ4ZXdWckhZYk1iczJMOUREa1lRT3Q4R1JpdV9wTjdId3lvOEh5LWl4anN5N2lnbWFEUXMtb1ltdzJQb1R3SjhMdGNqeUJkX0dMMWJNZTJyaGdxalJjcmZabjhoUXc2R0tKcXMzem9vOWFUeFJjZ1pDVXQyZGtndHlEVkR4b1V1NGc?oc=5",
+   "date": "2026-11-18T18:22:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a6bcc7376c22",
    "title": "Presidenta Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi",
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV3R3OUdaOXE3NkhZWXlneE9hN2NZYk5Fbmtta3RoeERJcE9WcmMzSEkySEtLd0FPSnpCQzd4bjU2a2hMOUVVcVZUWGpaX2hnVm9HSFQyU1F2eks5M0ZKV09wdm83c1AwUUdyMnk1MElkOGRfSy1MUzA0VlNvanFwemdnQkZoVWdFQmZiT3pvaVdHYWs1RmdJVlNUN011NzRlMXJOeGQyNXdCN2Njbm5CN0Zpb19nYTJoeW03SDRGUVBmd0ctd1YzS3B4UQ?oc=5",
    "date": "2026-11-18T17:59:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "85dc5decd48c",
+   "title": "Presidenta Fujimori inicia su participación en la 33ª Reunión de Líderes Económicos de APEC",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
+   "date": "2026-11-18T17:45:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -776,7 +798,7 @@
    "title": "Keiko Fujimori se reunió con el primer ministro de Papúa Nueva Guinea en el marco del APEC en China",
    "excerpt": "El encuentro celebrado en Shenzhen durante la cumbre de APEC incluyó una propuesta de convenio técnico sobre clima, protección marina, combate a la pesca no regulada y cultivo de papa",
    "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYldzM3VCcnY2LUt2RjlsSDM1Yi00bFVqM2NjMF9OYkh6VTFYaFpFWGtIUHhjM1FJMjdvR2s2WFhkSEhNdWVrUVJjLTdncUcyVjBIV1VhdHVwMER3V3B4cDNoYWNma0hYRTFFWTVsX0ZVbzN4THZiYnlMeXdodmNrTHZlZ0h2UXF6dmdwa3FJU25vaWcyM0tpeTNfUWhQaXpnU1pHbTR4eTU4M2MzNE1CV1F5VERTSWx6aWJpc3NGTk9ldHlTRTRIOXpEYmFVNGU3bjZ2V3p1bFZSQdIB9AFBVV95cUxQTHRPWUtaMEwtaEoyNWFYamdUZGplZWJMZ1ltXzdkcGF3ako5RWxON0lYSGNFbzhiZUhsV3Z6V3E1MTEzQlRTTmNiM09QVmViMy0zSXdDWUw2dURwX1o0akxJamU3emQzRUdFSjJMemRQc3Rna3kyaHJ2NWZDdkJ1d0M3ZXBfVjdRVXhqQjBFeklSWmZsWFpYMXZ5ay1UUVg5UC12YTA3bWdwLTBKZ3ZWd2NMeDgtd0ZReFltZ0h4dHdRVnpuY2k1enNjRmdpVnk4RThIbUJBOVI3TGNpNGd4cjlRMXJvU0dYZG5Idmc3Tnhva0xR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbUV2THo1UWhITXRyVGJEQjBLRmo3U2RpTzB0OTJMRWdNYkQyRlZnMVl2SXMtZzZ1RDJTMnRNeFNNYmFqTnQ4Mk5rZlJjamFKSkFreFVPbEotOXF0MHZQamF2Z1JUajhCMTRVOENpdS1iaE9fQi1VaXBXNzVPSjJEVmZwUzdSeDc0SXp0RzlHNy12STVLbTNSOVFFZGlpeTJiLVNXQ2FQSXVnX3BqQ1RUSUlURF9xaVQxckNLelVndlIwY0I2cWd1alg5V2xYZjFzOEFhQ2luNNIB8gFBVV95cUxQWjFSbUp3amQ1bzNfRzZMMUsyeGNibjQzcWo1anBFakJjaE10NlRQWXJXWmNlak5KTWtRRFVmNG9adnRoX29fVl9KOC1iY0ZyZDViUW5yZFhZd1p0TVBualo5MXpnLTRydmZjQzZxNURDUHltVjFOU19MSGxiYXpSZEZxNlg5MWdkY0k0eXNTUm5IcDJhXzIwS1c5RDJxZXlCWTJNU0Y0LXFTQVc5SkFwdGl5V1pjdTVEZ2piSnFUNm11YUVzRlRYS05RRVRYM2hoZ3Ryb3I1X3RPN3pJWjNvUV93VUh4V0N2ZlVDbFdQYXhkZw?oc=5",
    "date": "2026-11-18T02:44:00+00:00",
    "state": "posando",
    "place": {
@@ -965,28 +987,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-presenta-a-china-como-el-principal-socio-comercial-de-peru-hnews-370617",
    "date": "2026-11-17T23:32:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "307922a2bbd7",
-   "title": "Keiko Fujimori y El Niño: Desde un bloque en TV hasta un vocero, las opciones que se barajó para comunicar sobre la emergencia",
-   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-el-nino-cual-es-la-estrategia-de-comunicacion-sobre-las-acciones-frente-a-la-emergencia-apuesplan-noticia/",
-   "date": "2026-11-17T23:14:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bcff3ed2c9f0",
-   "title": "Keiko Fujimori se reunirá con la presidenta de México este miércoles en Shenzhen: estos son los encuentros que sostendrá",
-   "excerpt": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUmctQl8ySTY3R0xYMmpDUVhzR2l0VkM1XzhyWmEtS1Z2MVlpSTlkVjVMeWZWMUY2LVpkX2ViRVFKRnhtU2ZVSm9MVlhRMWhYaXhoX1VFS21JMXVzTzVodEtTb1FGM2Ezb0RwZGdvNjM1TC1FZlpTMG1yeWRENFhmUG1RTldnY25fRFVLdEUyMjVkRUNfOXNwM3NLT0dDWVM3Z05YQmF6aTV5cXAxckV6R0ZmdHN5MDBRVk5BbWZFVURnT2xidWYzWTNBVFBnbWZ2d0hBem5fN1hBQ0xzS1ZJdldXYUY0R0ZfRHlGNUR1SDJ1Z1JRVjJUNERteEhTbU9Ia1JObTRuYUpzRVlaQUR3U0dzTEdCTmZvcElmcEUwNndGVmVnVWNxLTBvbGZNRFpUd1owQXZn0gHKAkFVX3lxTE1zY3FDUFdVMl84bXY5YUxqRU1jRE5pQl9MVUNfM25jNGxnYkhoSEp6UDRsUkxPQU1Hd3FDQVF6TnhKVU1YMjlPUDlVS28tbXFwRWRfMHRaS3NMV3FTdWZ4X1pyckduUzVCODVONWxTa2llanRvQmFFU1RlSGFHZlpEZUxETWtod2h1U0VzODNjMXVsODdkZzBLUFYzQU9rdWxwWlI0ajU1WFI4V0hOTC15VTlwUVg4V05vOU5rWWhQczNEUlhORnctNVNwbDZpYkZ6cWVnUG1MY3IweWVranFFeU91VmpKY1c0cmpYcEFwSkptaGdqQjhUQ2hXVi1DQ2xCcHl2a2VWU2NXWHRSbVZlTlBROGFkaXJJOWRjb1dEb2Z5YVpuOFIwdk1aeWozMDhUSENPbWVkWndDSGVXUHdRaUpBZWVQd1k2QQ?oc=5",
-   "date": "2026-11-17T23:13:40+00:00",
    "state": "posando",
    "place": null,
    "next": null
