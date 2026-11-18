@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:16:41.998926+00:00",
+ "generated_at": "2026-11-18T06:37:59.411043+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -311,6 +311,17 @@
    "next": null
   },
   {
+   "id": "e1006993c4a5",
+   "title": "Presidenta Fujimori se reúne con primer ministro de Papúa Nueva Guinea",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi10aEgzVmdfeFVtY1ZuQmlBd3FPblVlcUsyRUl4Zld1bWlKQ1pZOF9YWnNsZGluNEU2TzVNQW1XT0xHbEp6eHpWQ2FHZW9ud0JrMDRNWTVBcTg2TlRXWThIck95bjREbVNlc1B1OGl2TnVPTGUxRUxQYm92ZDdmWHBOdU1UNnJuZU1zdE50LUdMYkwyaFhhU2IxLUNjVWJzc1RtQWpEX1pnNzV3d3lhbTNfcDU?oc=5",
+   "date": "2026-11-18T03:11:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "baf6e3b896d1",
    "title": "Presidenta Keiko Fujimori sostuvo reunión bilateral con el primer ministro de Papúa Nueva Guinea durante cumbre del APEC en China",
    "excerpt": "",
@@ -378,17 +389,6 @@
    "next": null
   },
   {
-   "id": "e1006993c4a5",
-   "title": "Presidenta Fujimori se reúne con primer ministro de Papúa Nueva Guinea",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi10aEgzVmdfeFVtY1ZuQmlBd3FPblVlcUsyRUl4Zld1bWlKQ1pZOF9YWnNsZGluNEU2TzVNQW1XT0xHbEp6eHpWQ2FHZW9ud0JrMDRNWTVBcTg2TlRXWThIck95bjREbVNlc1B1OGl2TnVPTGUxRUxQYm92ZDdmWHBOdU1UNnJuZU1zdE50LUdMYkwyaFhhU2IxLUNjVWJzc1RtQWpEX1pnNzV3d3lhbTNfcDU?oc=5",
-   "date": "2026-11-18T01:56:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "9446549d110d",
    "title": "“Hoy levantamos la voz”: Hugo Del Castillo llevó su preocupación al Gobierno por posible exclusión de su disciplina en Lima 2027",
    "excerpt": "El doble medallista panamericano, con preseas en Lima 2019 y Santiago 2023, pidió a la presidenta Keiko Fujimori que impulse las gestiones necesarias para garantizar la presencia del taekwondo poomsae…",
@@ -402,21 +402,6 @@
     "lng": -77.043,
     "abroad": false,
     "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "94815c06cfec",
-   "title": "Keiko Fujimori y Claudia Sheinbaum se reunirán en china: ¿Qué temas marcarán el encuentro entre Perú y México?",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2o1LWlJNDkzT2l5eWRBVW1EeVFnM2JkQlF2VEs4cFRqbHZOdmktQjJ6ZG11aE9tNFVfcmtuNzU2cmEzTEo5QjZxUkFxZkJrSDlwamRZY3FWUGJsUW9YQ0V6ZEZMOVo4SVZlUG9JTG16Q1ppVzlOTmo3Y0NnLWZIREkxT2dvc1JBZXNOTHpVek9IRzVjYUt3ek54ZWprWElGbWFmX1pXYm91UDh3UFdyeV83Q2k1TjR0Wjk1bEFhMGVXWXNTMVN0SElXQ1JNbkgzMnc?oc=5",
-   "date": "2026-11-18T01:14:24+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
    },
    "next": null
   },
@@ -471,6 +456,21 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMUxHRnQzRzZOc3IwNzJCa2RZbjFGYkkwT194WEQ5WGIwd0hFV3BPekYwZW9reGprWkNudk9SZjhhME9ENjdUODNZNnlzbXVWNlJNaXY4cFRfazFtSE5YRFVNRFhjeElHTFB4ZkhNZUhrMjF4YVpDWjVVUEh1Qlk2bHRYTnlZQU5LcC1tSm1uaU9SSS1LZlJIYUtMY0YzbnhXamVxNWQtcmlZZkNrZnVWYnFTTnVxYXRyVzFWc3cyVnZzdHJpT1B6clA0d0tQOTDSAeMBQVVfeXFMTmVxb3pySU9pdVpvbWVFWjM1S1dQQ3UzVDRicmtIOXNQbkw5Sk0wT1FmLXNaaHBjbU52Z252Q1ZuLW9OeFlNcWx2TnJITF9GXzZhYzNKMXJneUZyV1QwNk40bTZhUzlrTzZISWJkakpoUlV4R21kY2lzeXgxN3RNSi1DTGktenNHQmw3TGY1Z2xHMUFrbF91N3dVcXlvOEUwZl9EQURnM2VZeHhFeFZwMmdyN0NvVkdmUzBpa20xLXhJSkJLS1ViQl9xS2c1bWIwWmJlT0E0eVZCY3V2dXRQVjFpRVk?oc=5",
    "date": "2026-11-18T00:16:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "94815c06cfec",
+   "title": "Keiko Fujimori y Claudia Sheinbaum se reunirán en China: ¿Qué temas marcarán el encuentro entre Perú y México?",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV2o1LWlJNDkzT2l5eWRBVW1EeVFnM2JkQlF2VEs4cFRqbHZOdmktQjJ6ZG11aE9tNFVfcmtuNzU2cmEzTEo5QjZxUkFxZkJrSDlwamRZY3FWUGJsUW9YQ0V6ZEZMOVo4SVZlUG9JTG16Q1ppVzlOTmo3Y0NnLWZIREkxT2dvc1JBZXNOTHpVek9IRzVjYUt3ek54ZWprWElGbWFmX1pXYm91UDh3UFdyeV83Q2k1TjR0Wjk1bEFhMGVXWXNTMVN0SElXQ1JNbkgzMnc?oc=5",
+   "date": "2026-11-18T00:11:00+00:00",
    "state": "posando",
    "place": {
     "name": "China",
