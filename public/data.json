@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:09:31.212640+00:00",
+ "generated_at": "2026-11-18T23:52:41.889858+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-18T21:31:20+00:00"
+  "date": "2026-11-18T23:31:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,14 +270,18 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "7dfb62cdfa84",
-   "title": "Claudia Sheinbaum desaíra a Keiko Fujimori y afirma que no está dentro sus planes reunirse con la mandataria peruana – Gato Encerrado",
-   "excerpt": "",
-   "source": "Gato Encerrado",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2hHOVVsYU9OS3JtSElReko0SmI4VmF3eDlPSGVnbDVKYUVUYmVxWGlKckt6eXF5Q3o1S0ZDLW8zZmc4amhja2FFOGF0S0YyZTVMVlM1OUtzbVI5YTRnM0lxZXlHSF9jVTBpcGVPTTBhV0Zna3RJb3dJYUx6WHB2eWh3eFBoeFVwLV9vWHVaLTFjV29MM3R0WWNvSjNoVThtS09EdGdiLWx4czQtU0QxZE9CVU9ZNGhxeW1aUmVVRThOLUZiS1JnY2VZaDhFUEltbW9lcEVWRGJTRjNJRWZCdw?oc=5",
-   "date": "2026-11-18T22:55:02+00:00",
+   "id": "08bfcf8787de",
+   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
+   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
+   "date": "2026-11-18T23:31:00+00:00",
    "state": "posando",
-   "place": null,
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -292,6 +296,17 @@
    "next": null
   },
   {
+   "id": "7dfb62cdfa84",
+   "title": "Claudia Sheinbaum desaíra a Keiko Fujimori y afirma que no está dentro sus planes reunirse con la mandataria peruana",
+   "excerpt": "",
+   "source": "Gato Encerrado",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2hHOVVsYU9OS3JtSElReko0SmI4VmF3eDlPSGVnbDVKYUVUYmVxWGlKckt6eXF5Q3o1S0ZDLW8zZmc4amhja2FFOGF0S0YyZTVMVlM1OUtzbVI5YTRnM0lxZXlHSF9jVTBpcGVPTTBhV0Zna3RJb3dJYUx6WHB2eWh3eFBoeFVwLV9vWHVaLTFjV29MM3R0WWNvSjNoVThtS09EdGdiLWx4czQtU0QxZE9CVU9ZNGhxeW1aUmVVRThOLUZiS1JnY2VZaDhFUEltbW9lcEVWRGJTRjNJRWZCdw?oc=5",
+   "date": "2026-11-18T22:50:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4bff78ff4569",
    "title": "Keiko Fujimori y China: ¿qué acuerdos y beneficios obtiene el Perú tras reunión con Xi Jinping?",
    "excerpt": "",
@@ -300,21 +315,6 @@
    "date": "2026-11-18T21:47:20+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "08bfcf8787de",
-   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
-   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
-   "date": "2026-11-18T21:31:20+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
