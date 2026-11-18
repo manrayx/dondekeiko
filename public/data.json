@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:48:07.033701+00:00",
+ "generated_at": "2026-11-18T14:09:31.204402+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-18T12:39:15+00:00"
+  "date": "2026-11-18T14:05:17+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +270,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "865dde18bd4b",
+   "title": "Keiko Fujimori abordó con su presidente chileno José Antonio Kast cooperación en seguridad y acciones frente a El Niño",
+   "excerpt": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-los-presidentes-de-mexico-chile-y-vietnam-este-miercoles-en-shenzhen-estos-son-los-encuentros-bilaterales-que-sostendra-apec-apuesplan-noticia/",
+   "date": "2026-11-18T14:05:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "3ce04957ffe0",
    "title": "Presidenta Keiko Fujimori se reunió con su homólogo de Vietnam en el marco de APEC",
    "excerpt": "",
@@ -284,9 +299,9 @@
    "id": "4c79ddfba123",
    "title": "Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2tGcGxzbmlyS3NOZWVEM1N4Si1vZTY3US13OXg5WkRtLVFoR1RUa1lfQjZoREVqQU04M1dZcmcwZS1VQnYwNjBxa25Ba1BZSHd3S1lLcEVpRU5Sc2VqT2ZFU0dVZWZTVWRvajZ2TDg1ckx5cmpfN2dBdV9BbWtydDdXT0QxOERsZzc4U3FjanBORElZbUpyYXZ5TGkzbURXOElyR2tiVmR2NXVhWlNsLQ?oc=5",
-   "date": "2026-11-18T13:40:00+00:00",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTlpa3hUM214bE9LMk5OZWlaUERLZ2xITERFQjczYmxHNlR4WTQ4UjY4aVNPRVZaQ0ZjLUZEVzN3aTU3bE5xaG1qOTRDemxLVnlPYzhVTHBuSW13aEJRX3dNUUlOUW5hX1ZSTnkwdzFsRjVUZU5rSjNVekY5SVF4UXBfZUNZQWt1Z214cF95X0tJeXZVTXVDeUxUMEx2bXQwRk9COHk1N0Rjcy1zd2N1UUhoRkx6N1FMeGoyZDhpSDNsbG1kWUE?oc=5",
+   "date": "2026-11-18T13:42:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -342,6 +357,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclQ1NGhYT1pyaFdpZmRSUkNwejhxdFE2eXhITkx6LWRRUEVMdGtxcjBjSmpoT3JwT0Q2a0E1VkIzS3pDeDM1bFh0REdkZDVEV1V0aDJnYUlFZ2pOalZLN2Fjb3ZoNldrV1NvcTVkRlZJaF95R3pFUXVGelNVN3JhR3MyeEp4V0NIYjJDYXI5WDdlQnNISGtnOHM1N1FNMHVsWkFPTnZrRy0yMmxpWXc?oc=5",
    "date": "2026-11-18T13:02:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e1006993c4a5",
+   "title": "Presidenta Fujimori se reúne con primer ministro de Papúa Nueva Guinea",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi10aEgzVmdfeFVtY1ZuQmlBd3FPblVlcUsyRUl4Zld1bWlKQ1pZOF9YWnNsZGluNEU2TzVNQW1XT0xHbEp6eHpWQ2FHZW9ud0JrMDRNWTVBcTg2TlRXWThIck95bjREbVNlc1B1OGl2TnVPTGUxRUxQYm92ZDdmWHBOdU1UNnJuZU1zdE50LUdMYkwyaFhhU2IxLUNjVWJzc1RtQWpEX1pnNzV3d3lhbTNfcDU?oc=5",
+   "date": "2026-11-18T13:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -489,17 +515,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "e1006993c4a5",
-   "title": "Presidenta Fujimori se reúne con primer ministro de Papúa Nueva Guinea",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi10aEgzVmdfeFVtY1ZuQmlBd3FPblVlcUsyRUl4Zld1bWlKQ1pZOF9YWnNsZGluNEU2TzVNQW1XT0xHbEp6eHpWQ2FHZW9ud0JrMDRNWTVBcTg2TlRXWThIck95bjREbVNlc1B1OGl2TnVPTGUxRUxQYm92ZDdmWHBOdU1UNnJuZU1zdE50LUdMYkwyaFhhU2IxLUNjVWJzc1RtQWpEX1pnNzV3d3lhbTNfcDU?oc=5",
-   "date": "2026-11-18T03:11:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -978,17 +993,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "0bef4402dd00",
-   "title": "Keiko Fujimori anuncia que China donará 22.5 millones de dólares al Perú para enfrentar el fenómeno El Niño",
-   "excerpt": "",
-   "source": "ATV.pe",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pczhfcWl2QXoyWkdWWWpselBBV0I5aXN6cXVPT1hVcW5KNlBpbFpSQ3MwZjc3eld2Zlk3dzJZeXNfVVoybHBhbDJGQVhlY3B6Wm1SUkVtTzh0Y1V4MjNpVHl0V3NLWlQ3YWJ2REJpNA?oc=5",
-   "date": "2026-11-17T17:04:34+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
