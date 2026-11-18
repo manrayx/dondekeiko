@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:01:01.314605+00:00",
+ "generated_at": "2026-11-18T12:43:44.460132+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-18T11:48:14+00:00"
+  "date": "2026-11-18T12:39:15+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,18 +270,66 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "08bfcf8787de",
-   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
-   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "id": "6e7ab094504d",
+   "title": "Presidentes de Perú, Keiko Fujimori, y Chile, José Antonio Kast, se reúnen en China",
+   "excerpt": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre…",
    "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
-   "date": "2026-11-18T11:48:14+00:00",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-los-presidentes-de-mexico-chile-y-vietnam-este-miercoles-en-shenzhen-estos-son-los-encuentros-bilaterales-que-sostendra-apec-apuesplan-noticia/",
+   "date": "2026-11-18T12:39:15+00:00",
    "state": "posando",
    "place": {
     "name": "China",
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "2e059d4b8ea1",
+   "title": "Señalan que gobierno de Keiko Fujimori muestra debilidad política en sus primeros 100 días",
+   "excerpt": "",
+   "source": "Rumbo Minero",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1JHYXlyVUMwX1VnZ05xVmpCcGc1ODFnbzFkdEY3M1lKMTY4YWhVWkJvRmh6ZE1mQTJnZ3hnWmllelMzSV9LeVQ3N3F6ZHpPNXJ0eVNrVTA5Vm5GTkhzcFFVWW5aZENubXFnREp6REpUWUk4c29DcmRXUzdvbGZnWXNjdWpvUWhrYldyMThJLV9rLWFjdkxPaU1ZR3Vnd0NXUlF1cmw2X0ZYaVd5WjRVYnhxeUxXWUpITU15Q3FiR2dnWVJMWTZKOUJB?oc=5",
+   "date": "2026-11-18T12:29:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e308072352db",
+   "title": "Abelardo de la Espriella recibirá a Keiko Fujimori, presidenta del Perú, en Barranquilla: así se llevará a cabo un gabinete binacional",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMDRybkc1LTZKQXc3RFlRS25RSnR4Ql9fcmtlZ0ZxWDlkRHd6b25Eeks5RDN3QlM1V0dvZ2J0WW43bC1XQmtYTlJzQkZMUTdUSllEdDNjRlR2UFZLcmh4amtDaDU3WVBrdDJFbEFISXg0VE5rRUJZRElSOHVDc3Q5NFF5MjQxU3c3R0FRNGU4UmlyWWMxWGV2QnhmRndZYmFGM1k0azNqVnZXeU5zRjdGT05XUDZKbFdDUFJWRElIOGtVbms1TEExNU1KajBPbzYxb2ktRUVBQ19xSnlvenNJVkg4WHdUVGs1cndIOUhXQlQ4dFJHajRDNUdlUWhjcFNadXltd1hFONIBogJBVV95cUxQcGRZZ3IyaDBxc1R2QTZ6RFhQQjlWNzEtX2FVOThvdk4xVHU4dzk0enFRUGVtc1QwWHNfSjlHQWJDSlFQNHhvOFJMb0pjeTlDZTUyNG5fSkxzWGFZSWdIamw2NGFDdmVmR0dKQk1DTEpkWDVXeU1DMFpiQ29xanhjT2txZV9NSHBIbHY2UW1JeGQ4cGFZYmNCMG4tNzFjWWpsOHJtRmFia3Q0V0VieEJYNjN1MnZGSm1SR1dUNHF1dU0xdDh4SW8wdGk1emI2U2kyeDBKQjNUZFNqb2Y0ZlJlOFo2XzBvTzI0bzZZVjBmWHUtNU1XVGF1T1ZhbmFqdGJRdjM3RDY4VmI1dXB6UC1QeUNSVlBIR19PamF3NExpYW1zQQ?oc=5",
+   "date": "2026-11-18T12:24:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "08bfcf8787de",
+   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
+   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
+   "date": "2026-11-18T12:19:08+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "8aa26375ffc9",
+   "title": "Keiko Fujimori anuncia aporte de China para implementar centro de monitoreo inteligente en el Perú",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUXhncVlyYVNiLWxNVDA2Q1NHMVhCTmlZOFF5cjBsampkVDBDSEFsRmVZNDZtZ2hlcVVfVnh5Y3JJUC0xTXk0T0ZFNnMyTDhvMkNCSGhHUkoxdTBDMzJ6aktqbS1VSHpVbHNaYzB2cEc0UTkyMjdnaWt1czJNZDFRTFFZcDJKT25GRXVLMlNVYXBGUE9wTmxvdFE4U04zU3ZJZ3FkTHF6MExLcXpGeWp4ZzB4R0V6dEVlVmg2UF9zNWI2cVBqaVdWWTJkY1E2NUVfNXdpZkRweWtLdWdsVjl0QU5JeHlkellXOGotMTl1ZHI4QdIB9wFBVV95cUxONnd3OE1Zc2hQS290RHRlcGhuZnVIOEdWeUxRMjZjamx2cWRFMmtjeFU5SDJiMlZ2Z2FvUzNNY0VWV202Y29kNzVza01OeDlibjEwNXY4ZVM0TWVJOGdiNUt1X1cxZHZVcHRWZmgwcFIzTVU3NHl2TFA2ZEh3cWhyMW0yYWJiZ2pnS0NEcTF0YVFkSkJQTTFjcTEtOW5lcWxSUXJQcUYwcGlDLXFmUUFreEFaYm9ONVZTdUNPTjFKV2NKN2FRZ1BvTldkLVR3UWljQi1WNGZ1TlJ3MFBsZ3p2Y2llVFZhMGtyb3IyVDRmWVlCdWFLWm9j?oc=5",
+   "date": "2026-11-18T12:14:33+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -539,6 +587,17 @@
    "next": null
   },
   {
+   "id": "b344225aa351",
+   "title": "Keiko Fujimori destaca a China como principal socio comercial y busca atraer más inversiones",
+   "excerpt": "",
+   "source": "Jornada",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUi1HbUtsQUVZSHZGeXhTcUVWaWcyNl9YTFVaT1RNd0trNTNJajc0NFJBYkt4TnRTSFhQd0ludktOYnFyTDZhQUxUTzVBOWJLXzFIenQ5aWhXNGFSaEtLZEphSUJMbTJzOE9kS2x5cnRoZzBmVTBIenRJbnFJcnozMUNDVUxVSXhmd3FEd2RaajJXaWtpT1NtN19sOE5Zc0lPa3hHRlpLMzJKb1FFYmJwTk5hTF8wVnc?oc=5",
+   "date": "2026-11-18T00:20:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0f96ee17312a",
    "title": "Keiko Fujimori se reunirá con Claudia Sheinbaum en China tras restablecimiento de relaciones",
    "excerpt": "",
@@ -594,15 +653,11 @@
    "id": "bcff3ed2c9f0",
    "title": "Keiko Fujimori se reunirá con la presidenta de México este miércoles en Shenzhen: estos son los encuentros que sostendrá",
    "excerpt": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-los-presidentes-de-mexico-chile-y-vietnam-este-miercoles-en-shenzhen-estos-son-los-encuentros-bilaterales-que-sostendra-apec-apuesplan-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNUmctQl8ySTY3R0xYMmpDUVhzR2l0VkM1XzhyWmEtS1Z2MVlpSTlkVjVMeWZWMUY2LVpkX2ViRVFKRnhtU2ZVSm9MVlhRMWhYaXhoX1VFS21JMXVzTzVodEtTb1FGM2Ezb0RwZGdvNjM1TC1FZlpTMG1yeWRENFhmUG1RTldnY25fRFVLdEUyMjVkRUNfOXNwM3NLT0dDWVM3Z05YQmF6aTV5cXAxckV6R0ZmdHN5MDBRVk5BbWZFVURnT2xidWYzWTNBVFBnbWZ2d0hBem5fN1hBQ0xzS1ZJdldXYUY0R0ZfRHlGNUR1SDJ1Z1JRVjJUNERteEhTbU9Ia1JObTRuYUpzRVlaQUR3U0dzTEdCTmZvcElmcEUwNndGVmVnVWNxLTBvbGZNRFpUd1owQXZn0gHKAkFVX3lxTE1zY3FDUFdVMl84bXY5YUxqRU1jRE5pQl9MVUNfM25jNGxnYkhoSEp6UDRsUkxPQU1Hd3FDQVF6TnhKVU1YMjlPUDlVS28tbXFwRWRfMHRaS3NMV3FTdWZ4X1pyckduUzVCODVONWxTa2llanRvQmFFU1RlSGFHZlpEZUxETWtod2h1U0VzODNjMXVsODdkZzBLUFYzQU9rdWxwWlI0ajU1WFI4V0hOTC15VTlwUVg4V05vOU5rWWhQczNEUlhORnctNVNwbDZpYkZ6cWVnUG1MY3IweWVranFFeU91VmpKY1c0cmpYcEFwSkptaGdqQjhUQ2hXVi1DQ2xCcHl2a2VWU2NXWHRSbVZlTlBROGFkaXJJOWRjb1dEb2Z5YVpuOFIwdk1aeWozMDhUSENPbWVkWndDSGVXUHdRaUpBZWVQd1k2QQ?oc=5",
    "date": "2026-11-17T23:13:40+00:00",
    "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
+   "place": null,
    "next": null
   },
   {
@@ -936,65 +991,6 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWZOQmVGSTVMWGJwSmdMYnNEdGd6ZWtqdi1BMmY4M2ZieV9rQnF6NzVmXzZteGZmUkl2YmdDX3JkSEs3a3NrZk9BRV8yZFVUQS1pUUM5THZzN1NmUzJkUFZBZ21WeUNRUXhUMzVZclVsWmxCVFYyazQ3cGJkbFJwU2VtS3BsQ2Ytakc5WnNHNTQ0YmdHdEF4VGFSbkFvMHVta1o5Xzh0RmU1X04zYkNVeGhuY25vRHVy?oc=5",
    "date": "2026-11-17T15:58:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c6e53a7c3da4",
-   "title": "Keiko Fujimori anuncia donación de US$ 22,5 millones de China para enfrentar El Niño",
-   "excerpt": "",
-   "source": "Noticias Trujillo",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSEh4VzdUWWRDUGJQczR0MmpYVHlPLXlIN2xiNFIta0hnUXVTUmxmeE5uNHB3MkNWMHBUbGltdlFLUXB2bjJ6UFlicjkzLWxfLW5ZOElhS1psa3J4TTlIQWRyYzZlZlhvdHJJYlNJMXhzX051a05KWGEyYlV4OW12b0gwZXBSbmxYTDNGdWttZXhGU01OVDlXSk0wZ2x5U3hzTHFvQ2JnRUN5cWl4aVpieExjNXRCV3hjTlNDWnFqbjZSQQ?oc=5",
-   "date": "2026-11-17T15:57:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0a6a8062735d",
-   "title": "Presidenta Keiko Fujimori inició su agenda oficial en China con una reunión bilateral junto a Xi Jinping",
-   "excerpt": "",
-   "source": "Perú Informa",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZmQ3RjJVZGZWNHNmWmMtR1BSM19EUFJIcV9ISmVCZ0RPbVRUZGNOS3otUzlyWTctZDgta0c5bGtZN2RNRDc1bjJLc3pXSUtzYTRIM3EtMWJrYTMweDJCTnd3WHBjdm5DLTBHek5rOFJEak9ETHJlTVMtNkRmOXpIWHdHNlNNMmxiV0kwRHpSSnBCVUhMeGU4bGZCM3VsMm9YczRHY01heVZkSEk0VVdYaFZlb3BqZjVOUjR0OXQ3a3RwMmoxMHU1c0ExOEVWUQ?oc=5",
-   "date": "2026-11-17T15:54:19+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "8a129f7a57b3",
-   "title": "Xi Jinping y Keiko Fujimori se reúnen en Shenzhen antes de la cumbre de la APEC",
-   "excerpt": "",
-   "source": "HolaNews",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc20yVU1JLXFNX0hybUNDdktUcTlVM3ZjOEtQLTBaUk5ZMTFfNjAwcThnYTZ6QlprdUdnbGNNeHZlQTVnV1JRSlV3TmhrN1VRVnJiTms2RUhfM19kZkxyazdGYTRWQnJNRFFWU1JtWHhMOHp6dnA3Z0FicWExc3lXWVBSUDdpLUlRczlYRDM1ejZfQnZQUnM5QlFVRUc0UVQycEdR?oc=5",
-   "date": "2026-11-17T15:50:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dd8aa72fa3c4",
-   "title": "Encuentro de la presidenta Keiko Fujimori con empresarios de diversos sectores de China",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3psdGRUalBiOTI1Rk5WUTJvSDBJYktOTW1FODVERFU0Z2JHNWRKU3JkQ3ZsNVBKMEtQTE9SM3VvWVB3eFJvLXNTcktIUzJjM1c3bVlQR1pzZnhMU0JWcjZHY1RQX2ExNG5NUzR0LUNIdENSdjVzUFNoel84OEJTVkFjOE93cE9pbFVnRW9OSElCTW1pcFNXelJadkdVR1BIZ0hhUjFmbjJsZ0hhV294QUhaRkI1VngxR3RV?oc=5",
-   "date": "2026-11-17T15:41:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b54d4ee33e4b",
-   "title": "Keiko Fujimori anuncia que China donará US$ 22,5 millones al Perú para enfrentar el fenómeno El Niño",
-   "excerpt": "La donación no reembolsable y la maquinaria para labores de prevención fueron anunciadas por la mandataria peruana luego de su reunión bilateral con Xi Jinping en la cumbre de APEC",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR29pZGpfbFBQOWIxV00wWHp4Qm1DQmE3UUhWT1RZZTlXWjFmNHRkc3NvMUN3VlcxRjBiOVZZQk5fZmgtSElEQndldmFOSWVRWGdJYlNSN25Kam9CdklWcEU5OC1hQW1QRjVMYjh6MWZVcTVJOTZNZGtfdDhxeDZtUU5JdEdXRUVkVk5YeFJ0eXhsdzZOSTlmcXI4d0R5bFRndWZDbl9VamZua0JpQkQ4VVo4anQ1T2M2SVlEQnFoR2FwSWtRX1Q0S1IxXzROT19mdnBNZFBB0gHwAUFVX3lxTE51aUZrUzllUThBa2k4c1FCbVNaMkdoUzZaTmlHelRZejNmeTVXR0VidlFoWno1d3ZMZGs0dVpzX0xqbFJHeERWUFhVV1VEb1Y1dE4tMzRhRnFjZ1ZfU09YS2FnRXFOSngxY1hDaWtlcVhxNE8tbEh6aVptbWhRSTh0X3c2d085WGhxUS10RU5rOWRLR3VDUWhhRVZkdGxDWXNkLVljakhlX0pVTlU3T05jWm0wZTFUeVhfWDhtMmNaTlRJVXhBLWxFa01XOFlteEZqTGl1X1B2MmU4Q1MwemRrWTJ0XzJsbG50S2p5VzRKSw?oc=5",
-   "date": "2026-11-17T15:14:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
