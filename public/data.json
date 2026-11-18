@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:16:09.059712+00:00",
+ "generated_at": "2026-11-18T20:38:12.328463+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "13725cb8258e",
+   "title": "Keiko Fujimori se reúne con primer ministro de Singapur para impulsar la cooperación en educación y desarrollo de zonas económicas especiales",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQY0NIVWJ3TjNlOXY3TEIzVE4xaWc2M0EyWmhXRjF4QlI1SjhKdXR1MmJJY1AtVUZYa1FQMlp6a2RHZXBQcnNqR2hsaTk2LWU2OVFpX1YzWURjT2VkVklybjQ1ejN1aUdBa3hvWWNrOWd4bVh1bnlLZV9WSXdfQVNoS0lDWGdPOEttamx5NXNDV3htdFZXQ3ZqYWJsd0hnQV9VRkR6ZFdvUUEzWFAyM1VlR0xvV0EzWWltVHNMay1yZ3VJT0oxUWVBblg4elhJNHYyWjJybzk1dGlvaVFWWkNDR0NLb3ZoWTJXdFRCM3NSTnRZYWRWM0s5MVFJNThLWlZPakVqV0VIaFZ4djNRVDRfZjc0aWwxMnBfSVh4aC11SkM3Z9IBtgJBVV95cUxOdGZoa0hYNUwyWUIxSEJkSkFDSllaMVpqQ2c3NlhBSXpkQVZuQXljdE1iN0hoV2oyYW92ZU50b2ZZc2lpZnBweHNiYlZtRE16VWJaNjVNZ3A3elNLSmt4SFVTSlc4MDQ5YnN3WjlXNVhxUVRzaFAteDBxa2dTbzVYckRjZnB3WVZ4MURKTVRmUV9YMUt3aU05Z3VXNnpTX05aZXFvdDJFSW5JUE9FbXRra2JIMlN6SHpud0JmZzc4bllsNTF0MWhYNTlKUkYxb2lsUkRwQ1Zob0VBU0NlNFZaUE11Sm4zQ2poNnpMVEstMkZwX1hwMHhFdXRKWkhFalZIYzNqdnlzd0d4Vmp0dGwtNWxmQ01VMWlsdW9yZ1l6ZDgwQjljNmtYRG12R01tZVY1NmZ1WEdB?oc=5",
+   "date": "2026-11-18T19:55:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d456d6a8adda",
    "title": "APEC 2026: Keiko Fujimori plantea fortalecer la cooperación entre Perú y Singapur",
    "excerpt": "",
@@ -307,6 +318,17 @@
    "next": null
   },
   {
+   "id": "a6bcc7376c22",
+   "title": "Presidenta Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi [video]",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNXlBRXJrMk9ZZkVaSktfMFB1bEhka0stMk1wRlJQdjdZME5fUVFncUR3MmxhbHBJQkVlVmtZSzBQSVNvSnlDam5ac2luZVd1Y1Q4b3A5Q0xBcEZKRUM5QXFIS0FWaGc0ZllLNG95RmR1QURkbjJMVFdhVl93MkQ1bjZPT0RiamZLYkd3M3NHS0RFY1Q5eFQ1aFRGcGhWWkdoNC1sZHlvQW16QWp5VkswOWJUYXB4Y3lEc1E5cTM5WTdTdVV1eGxOTUlmdXlGUnl1cDhz?oc=5",
+   "date": "2026-11-18T18:41:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a55120138dc9",
    "title": "La presidenta Keiko Fujimori inicia su agenda en APEC tras ser recibida por Xi Jinping en Shenzhen",
    "excerpt": "La mandataria peruana acordó con el gobernante chino profundizar la asociación estratégica integral y ampliar la colaboración en comercio, infraestructura y nuevas tecnologías antes de la reunión plenaria del jueves…",
@@ -333,7 +355,7 @@
    "title": "APEC 2026: Keiko Fujimori inicia su participación en la cumbre de líderes en China",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGo1X1RkbnRJcGtWN3V1OFVudHVGWE10cjdNeFo0ZWJ1UW9ZN0NKTUJzY0lwMjg0WC1fT0Q3MlhTVkZfa2c4OFBjRThTVU5mWjhybU1OQWlQelNFQ1JwSXJpZWl5b2dpSW5mR3c4NEp5NG15eVdJWWIxWDRWQlhXc3dadnhjLWNZVG5VSm84dUZaX2JsUUI1eXdCcEZLdUsyWUd4b09hNlpjaWlyYldYV1d6a0U5cUs3U3VGUndsYTbSAdQBQVVfeXFMTXhYamVpS2h1UU9iNmF1RW01ZGdEaTQtRlZJOFdJWVlFc0U0RnhwOW43S3ZzeGhfYTNKdGJFR0dYQm8zbmc4clVzZXhiTzFWNzFBUGRDWDZSa1AzWERYNEJGdmtlRG5LVFF1MFptdHpBS3oxNmRBWkZ6ckUxMzltdVIwdWdvdGp0SjdMX3htcmJId284eURfZHpaSDJJajdPYUk4Nlh3SjdtN3Vsc1pJbW9GbGZJaEd4UVJKYUMwWUNtcV9rbGR2NnhqVkJRRGw3bjZSMzE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGo1X1RkbnRJcGtWN3V1OFVudHVGWE10cjdNeFo0ZWJ1UW9ZN0NKTUJzY0lwMjg0WC1fT0Q3MlhTVkZfa2c4OFBjRThTVU5mWjhybU1OQWlQelNFQ1JwSXJpZWl5b2dpSW5mR3c4NEp5NG15eVdJWWIxWDRWQlhXc3dadnhjLWNZVG5VSm84dUZaX2JsUUI1eXdCcEZLdUsyWUd4b09hNlpjaWlyYldYV1d6a0U5cUs3U3VGUndsYTY?oc=5",
    "date": "2026-11-18T18:25:15+00:00",
    "state": "posando",
    "place": {
@@ -350,17 +372,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDQ4Sjh3ZU1Jd3dkSnpRUkVpYUNiUG9laHJGT0w5VmZsZWZteG10OC1adTJZVnJWQkJ4ZXdWckhZYk1iczJMOUREa1lRT3Q4R1JpdV9wTjdId3lvOEh5LWl4anN5N2lnbWFEUXMtb1ltdzJQb1R3SjhMdGNqeUJkX0dMMWJNZTJyaGdxalJjcmZabjhoUXc2R0tKcXMzem9vOWFUeFJjZ1pDVXQyZGtndHlEVkR4b1V1NGc?oc=5",
    "date": "2026-11-18T18:22:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a6bcc7376c22",
-   "title": "Presidenta Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi [video]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNXlBRXJrMk9ZZkVaSktfMFB1bEhka0stMk1wRlJQdjdZME5fUVFncUR3MmxhbHBJQkVlVmtZSzBQSVNvSnlDam5ac2luZVd1Y1Q4b3A5Q0xBcEZKRUM5QXFIS0FWaGc0ZllLNG95RmR1QURkbjJMVFdhVl93MkQ1bjZPT0RiamZLYkd3M3NHS0RFY1Q5eFQ1aFRGcGhWWkdoNC1sZHlvQW16QWp5VkswOWJUYXB4Y3lEc1E5cTM5WTdTdVV1eGxOTUlmdXlGUnl1cDhz?oc=5",
-   "date": "2026-11-18T18:06:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -968,23 +979,6 @@
    "date": "2026-11-18T01:37:21+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "9446549d110d",
-   "title": "“Hoy levantamos la voz”: Hugo Del Castillo llevó su preocupación al Gobierno por posible exclusión de su disciplina en Lima 2027",
-   "excerpt": "El doble medallista panamericano, con preseas en Lima 2019 y Santiago 2023, pidió a la presidenta Keiko Fujimori que impulse las gestiones necesarias para garantizar la presencia del taekwondo poomsae…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/deportes/2026/11/18/hoy-levantamos-la-voz-hugo-del-castillo-llevo-su-preocupacion-al-gobierno-por-posible-exclusion-de-su-disciplina-en-lima-2027/",
-   "date": "2026-11-18T01:19:27+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
    "next": null
   }
  ],
