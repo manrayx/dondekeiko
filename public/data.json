@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:22:43.045215+00:00",
+ "generated_at": "2026-11-18T03:44:03.847587+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -285,6 +285,17 @@
  "agenda_minutes_7d": 396,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a3f698d97c9d",
+   "title": "Presidenta Fujimori resalta voluntad de seguir trabajando junto a empresarios de China",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2F5Mm05ZXdfakpvQl84eUktd3hidlR6ejd1bk0zaWRVbHFxUTdHQ3BteUtONWwzS201UGFwa2htT0NRdy1jMURLQ25tZUdNcDhHTHItcWNKODVsY1VmUWdGRlcyT3VXaDhlT0pzcHJwVHd5aVVZaDV1NWRYb000R0RCOS0wTjZab0tNa2FJdzFOckpGYWtMQkNfa3JZSXd0TjJTMC1qWUdJUTNKTGlES0Ewd0drSFZaWm5USEdiNWZmdjhNUUE?oc=5",
+   "date": "2026-11-18T03:33:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "baf6e3b896d1",
    "title": "Presidenta Keiko Fujimori sostuvo reunión bilateral con el primer ministro de Papúa Nueva Guinea durante cumbre del APEC en China",
@@ -988,17 +999,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzlUUWZrMGhteFQ0VzZlZUlkb2lIdllCTk56VEVnZTBtNjFRV2EyZWJJa0NJM2xxc0FUMTMxcGROLVB1czd3Rk1GZTVROE5sMDVRTWFfQUtXbzVGZkg0S0xqMzFxejJPVUJCU19lbWwzQzR5amk0U2NhNy1QaGlrNHpHVGhEWjJXVWZfSnFkeWNvZnVhUzJrTkRrYUdBdFhaa2dwMHFva0R1U3BvY29zd2VnZm4zTERQVjBzZHFrcEUyLVZ2U3BDZ0c3LTU4STA?oc=5",
    "date": "2026-11-17T13:03:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b736defd5fea",
-   "title": "Keiko Fujimori se reúne con presidente Xi Jinping y anuncia apoyo de China por más de US$ 22 millones para El Niño",
-   "excerpt": "La presidenta Keiko Fujimori se reunirá con su homólogo chino, Xi Jinping, este martes 17 de noviembre en la ciudad de Shenzhen, donde participará en la 33° Reunión de Líderes…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-presidente-de-china-xi-jinping-en-shenzhen-apuesplan-noticia/",
-   "date": "2026-11-17T12:59:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
