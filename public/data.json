@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T19:54:38.011710+00:00",
+ "generated_at": "2026-11-18T20:16:09.059712+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d456d6a8adda",
+   "title": "APEC 2026: Keiko Fujimori plantea fortalecer la cooperación entre Perú y Singapur",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUgzemJJd3djb2lPeTNOQzZFdC1qeGUwNW8xLTZHMHZuVmFLWGtmMEdWWVZWUkNBWWEwaDNGZFRBenhldG9uTk5iNS1VcTlVR2IyTmZnR005X3JrRDhDTHBBSmZteWhyNEtSeTNuT21kMkRub2dOTUtyMS1UYUpuSEpTTnJHeDQtRVpXTXFOcG1iS0QxUlBKdkpDZ0lKUXlJaHZrSXZoUS1PZUVldGthS0hsOEVtMmF3RzVFMm9mTdIB0wFBVV95cUxPMlJHTVZwTTNYam03VzJaRGYwVWRkbFFEd0hoOG13SEVEd3ptelduVk5EX1dXZ3AxNDB3cDNLMGM3MmlDcXpYeTFGOFo0dm9Yd0poUXZCd3ZCZUtWUjYxUmZMNGhEcnhPUGVSanQwN0J3eExWZXQxQUxJMVlHMjc1enRSOF9CRGp6UFlEeHRRZ1dWRzNPOWZIUFI1dGtkQXhGcFBETEpYTUVzQUpJbzhoSGlrOXlLVENTdDZJc3p2eXM0Mk4yVW5kbTZNLS02amk4ZzlV?oc=5",
+   "date": "2026-11-18T19:51:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4c79ddfba123",
    "title": "Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
    "excerpt": "",
@@ -427,6 +438,17 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWVSTXBFYmY0QmdNWVZkcXhscGVQU1U0XzNEV2xBeFYzQW9BV19qejlBWUsySkdvV3NKUzFEYmNoMktRa3Y2dW5TcFMxNHF3bFFSelQwa2VCQ1ZXRVRIYlNSLW9UZFdzREE1eDIyejRuOVZBVEw4OThJaDNiU3NDWF9DVzlrOUpTZTdz?oc=5",
    "date": "2026-11-18T16:55:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e308072352db",
+   "title": "Abelardo de la Espriella recibirá a Keiko Fujimori, presidenta del Perú, en Barranquilla: así se llevará a cabo un gabinete binacional",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMDRybkc1LTZKQXc3RFlRS25RSnR4Ql9fcmtlZ0ZxWDlkRHd6b25Eeks5RDN3QlM1V0dvZ2J0WW43bC1XQmtYTlJzQkZMUTdUSllEdDNjRlR2UFZLcmh4amtDaDU3WVBrdDJFbEFISXg0VE5rRUJZRElSOHVDc3Q5NFF5MjQxU3c3R0FRNGU4UmlyWWMxWGV2QnhmRndZYmFGM1k0azNqVnZXeU5zRjdGT05XUDZKbFdDUFJWRElIOGtVbms1TEExNU1KajBPbzYxb2ktRUVBQ19xSnlvenNJVkg4WHdUVGs1cndIOUhXQlQ4dFJHajRDNUdlUWhjcFNadXltd1hFONIBogJBVV95cUxQcGRZZ3IyaDBxc1R2QTZ6RFhQQjlWNzEtX2FVOThvdk4xVHU4dzk0enFRUGVtc1QwWHNfSjlHQWJDSlFQNHhvOFJMb0pjeTlDZTUyNG5fSkxzWGFZSWdIamw2NGFDdmVmR0dKQk1DTEpkWDVXeU1DMFpiQ29xanhjT2txZV9NSHBIbHY2UW1JeGQ4cGFZYmNCMG4tNzFjWWpsOHJtRmFia3Q0V0VieEJYNjN1MnZGSm1SR1dUNHF1dU0xdDh4SW8wdGk1emI2U2kyeDBKQjNUZFNqb2Y0ZlJlOFo2XzBvTzI0bzZZVjBmWHUtNU1XVGF1T1ZhbmFqdGJRdjM3RDY4VmI1dXB6UC1QeUNSVlBIR19PamF3NExpYW1zQQ?oc=5",
+   "date": "2026-11-18T16:51:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -659,17 +681,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWTFNZlZCQVJjNjFtOXVlRzQzUlVFcTRDYUp4VEhXVmlTbzdFaWZJZXNiekotOFpsMUpBQUNCODV0OXhNYjlMbjVJN3hRcUFRdjVnaTI5dVJ4T0NsRHZKNHJpeVB0UjVtS1dqUmNIbjF1WXNQcklaZklIeTV0YllxclVIaFd1VU5Xc3pxZXlpYU1DVXlYQWEzS3dzUDRaT3BhXzM1eHhlaFpIWVFIT3FCLUdac2RNMWYyYVlZVzlkT2k3dk5HSlJsMmR1bnVudTTSAeMBQVVfeXFMUDFnZXNobWd6eGVMWngyOFR3VVZNZ3JuNW5RdVc5bmpBMnBHWXBETkVHMDhKd01UbF9Ec1ppQ0FwZUdLZlV5UG93N1lpdFdkVEVFd0Q1ZnM2Z0dYQlhoRm9MTFAtRVdNbzF6TnFyMU1sS1ZWcVlfU0VuenBfNUdPWDBfdVRWb2tvYWQ2ZE9oVERNbjFISDMzc09HU0Y5VDQ3ZEt4YTdCcmRxbmVaVjZ6OXNiYTlaWUVPTVNqZzkybE50dkdJU2NqdTI3cUFnVGswb1V2SGZPRjVBZHhINjlzNjdLRWs?oc=5",
    "date": "2026-11-18T13:41:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e308072352db",
-   "title": "Abelardo de la Espriella recibirá a Keiko Fujimori, presidenta del Perú, en Barranquilla: así se llevará a cabo un gabinete binacional",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMDRybkc1LTZKQXc3RFlRS25RSnR4Ql9fcmtlZ0ZxWDlkRHd6b25Eeks5RDN3QlM1V0dvZ2J0WW43bC1XQmtYTlJzQkZMUTdUSllEdDNjRlR2UFZLcmh4amtDaDU3WVBrdDJFbEFISXg0VE5rRUJZRElSOHVDc3Q5NFF5MjQxU3c3R0FRNGU4UmlyWWMxWGV2QnhmRndZYmFGM1k0azNqVnZXeU5zRjdGT05XUDZKbFdDUFJWRElIOGtVbms1TEExNU1KajBPbzYxb2ktRUVBQ19xSnlvenNJVkg4WHdUVGs1cndIOUhXQlQ4dFJHajRDNUdlUWhjcFNadXltd1hFONIBogJBVV95cUxQcGRZZ3IyaDBxc1R2QTZ6RFhQQjlWNzEtX2FVOThvdk4xVHU4dzk0enFRUGVtc1QwWHNfSjlHQWJDSlFQNHhvOFJMb0pjeTlDZTUyNG5fSkxzWGFZSWdIamw2NGFDdmVmR0dKQk1DTEpkWDVXeU1DMFpiQ29xanhjT2txZV9NSHBIbHY2UW1JeGQ4cGFZYmNCMG4tNzFjWWpsOHJtRmFia3Q0V0VieEJYNjN1MnZGSm1SR1dUNHF1dU0xdDh4SW8wdGk1emI2U2kyeDBKQjNUZFNqb2Y0ZlJlOFo2XzBvTzI0bzZZVjBmWHUtNU1XVGF1T1ZhbmFqdGJRdjM3RDY4VmI1dXB6UC1QeUNSVlBIR19PamF3NExpYW1zQQ?oc=5",
-   "date": "2026-11-18T13:31:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -974,17 +985,6 @@
     "abroad": false,
     "city": "Lima"
    },
-   "next": null
-  },
-  {
-   "id": "36e686fad30c",
-   "title": "Keiko Fujimori se reunió con primer ministro de Papúa Nueva Guinea: ¿qué acuerdos buscan impulsar?",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTFNPNVNoX004ek9MNkNHTFpCemRuOGxkOGhPdUJwYThSbWhPRG1Ub3AwNXQ1aDJUZ2FseThhQXd1bTNtOUtWZ2l5Qk92NThPRGtUZFkwWDkwTW9qQjlkVFFjVzBWeFJPbFNuTlNJeXYxbGhKUVR4UlA0SU12Q3NkRVIxWjl3b2dzaHpLVE5nTTFvdndqWEJJbjQ4bVp5R3JGOW1LLVREcEl4NTliUlotMTlHR290VDBzazRSZ05xSXAwMUQyQ0tRc1V5SUdvTklFeDg5SnZna1ZsX1o0Y0tCTlhjTHhYRWZxQWw4anpHcXhuOVE?oc=5",
-   "date": "2026-11-18T01:08:08+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
