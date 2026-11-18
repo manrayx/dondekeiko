@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T16:18:26.752413+00:00",
+ "generated_at": "2026-11-18T16:40:38.070187+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-18T14:26:33+00:00"
+  "date": "2026-11-18T16:26:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +270,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "08bfcf8787de",
+   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
+   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
+   "date": "2026-11-18T16:26:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "3fd3012e02ff",
    "title": "Japón da la bienvenida a Keiko Fujimori y anuncia reunión con el emperador Naruhito",
    "excerpt": "",
@@ -311,21 +326,6 @@
    "date": "2026-11-18T14:38:37+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "08bfcf8787de",
-   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
-   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
-   "date": "2026-11-18T14:26:33+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -607,6 +607,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "ae3d0f842500",
+   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWluRmxLeEhtbHRQZEJNOTRVbmFpVDI0djk1d0g4aEl4U1BQaWNZU2pXY2tCaEF4anNieWRJN2pldlk5M1pJSVZuUkpjVV95WDJ2ZEk4bDRTUmJ1a3ByTmtZNGRVSE9jM1gtdkI1enpjRTZsVjQwMW9tSDBKQjBTVzZzNFFPRmoxc2N4dVViSzRxQkdZVHFoYXdYN3BNOFdqejllZ0Q2YktFWmQyN2hyY2dKR3ZsUElQeWVOckdKX09PYVdz?oc=5",
+   "date": "2026-11-18T04:45:07+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -972,17 +983,6 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNalN2TWUzVUpuNXpNQXdWTFJKN2NmdHlBWF9XWEFhM2tuX1RRN3E1MDhyTkVVWXM1RGNLYlRoekhYVHpoUVAyRHZpbFU2QmZ1eGJOSEJORGotdXlRTHNURFJfaElaTzVCVFNvMHRJZUY0emdVa2dyRmZUY1JjUHZ2N01nOThSWXg2N1lscHlCYjR2OHpYWjV2SWl3Ui1JZ3lEUGl1TFlQU3ZkOU9mUDhlclA2MlRqLXF2RWc?oc=5",
    "date": "2026-11-17T20:38:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8020655abeef",
-   "title": "Keiko Fujimori anuncia que China donará US$22,5 millones al Perú por el Fenómeno El Niño",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1JTdTFqRTRPMHVNWTBCVDNNa3JuWk1XOFFtY2NGUHNxWVctajZ1bVdXVzhxd2JtWkpmbUFzMG9wRm9IbGRCMVRFcVFJcEVNVkhRMmtBX0RfN0RiZ3RFbDhRX0dXNVExMmRwNGJjbjNmQ3pfUGw0UGdzSlZTYUV1eUxHdEFydnVfLW9ycERmUjlJOTN6REFnYzZIYzNDSlZJS01kQ1ZoWVNZb2FPdVZrZmpn0gG3AUFVX3lxTE8tWmo2MHhGcVNsLUwxa3VkUnQwN01KVXB4SDJKYkNVYnlLbHAxNEhwSlJiem52b1czZEhKU3puOW9RTTNDdkpJWmxMSkpQMTI3c0FrZUNPQzJRaUljUVJMaXF6dHRtOUNUU3k4V2FMaHdSeDkyaDYyTmFVNjVYTXFLT0VVNTdKX3NXSkduc3FSWGZKM1NaM3pfVmpRbWdQWGNuSFY3RnF4VlE4SW5JY3JReFNWY21IMA?oc=5",
-   "date": "2026-11-17T20:28:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
