@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:37:59.411043+00:00",
+ "generated_at": "2026-11-18T08:04:33.933486+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -386,6 +386,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "11b792f8c748",
+   "title": "Keiko Fujimori despliega agenda comercial en APEC y Japón",
+   "excerpt": "",
+   "source": "CanalB.pe",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDludmNmRm5uTjdpeU12MUN0V0dDR0JwbU8zUFROSW8zRk1RWlFMc21VZTc0NTktajBQN0VfR3J4OFg5S1lybDh0Vy1QQ2FCX2lHd0c2cy1ZbTJ6VnVFYWpPZGFLXzN0Smx4Z0VBak1oa2JQN3NJTFpRRXZTcGNLRzdHOUJ2N1haaWEyRTA2Y182NHhHR1RXSnZmdlNYWmM?oc=5",
+   "date": "2026-11-18T01:49:15+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -978,21 +989,6 @@
    "date": "2026-11-17T13:30:45+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "8b7a294cdde5",
-   "title": "Keiko Fujimori inicia agenda en China en reunión bilateral con Xi Jinping: los temas abordados",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, inició su agenda de trabajo en la ciudad de Shenzhen este martes, donde sostuvo una reunión bilateral con su homólogo de la República…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-inicia-agenda-en-china-en-reunion-bilateral-con-xi-jinping-los-temas-abordados-noticia/",
-   "date": "2026-11-17T13:16:46+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
