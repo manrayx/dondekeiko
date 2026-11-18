@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:52:41.142737+00:00",
+ "generated_at": "2026-11-18T10:56:48.709951+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "La República",
-  "date": "2026-11-18T05:16:27+00:00"
+  "source": "Teletrece",
+  "date": "2026-11-18T10:48:21+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -269,6 +269,32 @@
  "agenda_minutes_7d": 381,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "2052a77d25e3",
+   "title": "Kast se reúne con Keiko Fujimori en China: \"Queremos seguir trabajando juntos\"",
+   "excerpt": "",
+   "source": "Teletrece",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTFvbUFVYnRSU0RtTklxZHBRT3E5QUdlTDI1c3ZCWTVOMUNJQ0Zqa1V4dkNydWNnU215NnUtb0VPUzBuTmtUYjZDQzlkZUpWR1lQYkNNYVdzRG85NUlZdTZqZVZmR0w2T3RxVXdxdWNUQVA3cDZSdl9jUk42dnl3VGh5Sl9MQnlKLWdRWHo3Z25jazRoeGhOSE13S3ZCNlQtLTlfZ0lWV0hxVUk3bVVoZkdwb1RFd2pCNXNYS1BTTUtXd2dF?oc=5",
+   "date": "2026-11-18T10:48:21+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "7766c1aaf4af",
+   "title": "Presidenta Keiko Fujimori visitó el Centro de Comando de Servicio y Administración Gubernamental del distrito de Longgang",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNUFXMThwMThjd0ZINFZmSUVNTU02M3ZKVXliSThEbzNpbVF1MFJ3VkRtNW04Ylg3dFVOQTR5RmtkczB5cmVndVZRYkt1NGMwT3RzRmZDX1dTMUhMc3hNYjVwWkRmSjloU1cxNk1HQ0FHSW5BWU0wUzl4MFN5VndPWnNYU3NYOTlWdWt1YTFGaUhwZV9UNlFhNGhHdHBlN2dVcWFOM0dqTnZTN3JfWWJSTmUtSmxFendBZmtIWUlya2VxbEpBZzNmQ2hQbkNILVQteElVay1BM2F1eVdwdTJKcFlXd2FCY0d3alE?oc=5",
+   "date": "2026-11-18T10:42:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a3f698d97c9d",
    "title": "Presidenta Fujimori resalta voluntad de seguir trabajando junto a empresarios de China",
@@ -968,28 +994,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "1fc988fbd05c",
-   "title": "APEC 2026: Presidenta Fujimori se reunió con su homólogo Xi Jinping",
-   "excerpt": "",
-   "source": "Rumbo Minero",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWk1mVHYtTVU3ZmNiblk0Zm1xdlc3dHRia2VFLTVlNUtWTy1FaW93S2ZCVVRrOUFXV2Z3VWx0RllzaTl1Mi0yMmpwSWJJR0otY1I5ejV2TlNiV1VnZTlhSW14MmwtUTNKTUpBaklvWnkwRlJoT012MXNKU0wyeldLQW5PbnpSUXFiMEJDM0lPVWpDem9NX0VoMml1M0hKdUF1VEN0a2ZSYTdlN3Jk?oc=5",
-   "date": "2026-11-17T13:44:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d2780b1d9f74",
-   "title": "APEC 2026: Keiko Fujimori y Xi Jinping se reunieron en Shenzhen antes del foro económico",
-   "excerpt": "Luego de dejar el país sin despedir al papa León XIV, la mandataria se reunió con su homólogo chino, Xi Jinping. El encuentro dejó un compromiso de US$22,5 millones en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/17/apec-2026-keiko-fujimori-y-xi-jinping-se-reunieron-en-shenzhen-antes-del-foro-economico-364463",
-   "date": "2026-11-17T13:32:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1132,6 +1136,7 @@
    -12.16056,
    -77.00256
   ],
-  "ciudad de shenzhen, republica popular china, peru": null
+  "ciudad de shenzhen, republica popular china, peru": null,
+  "centro de comando de servicio y administracion gubernamental, peru": null
  }
 }
