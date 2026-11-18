@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:43:44.460132+00:00",
+ "generated_at": "2026-11-18T13:26:22.575058+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -269,6 +269,28 @@
  "agenda_minutes_7d": 381,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "4ce7881aba3e",
+   "title": "China destinará US$ 22 millones adicionales para centro de monitoreo inteligente sobre seguridad ciudadana",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que China brindará al Perú un aporte adicional de 22 millones de dólares para la construcción de un centro de monitoreo inteligente…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
+   "date": "2026-11-18T13:07:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "aceeed8bb528",
+   "title": "Presidenta Fujimori se reunió con presidente de Vietnam en el marco de APEC",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclQ1NGhYT1pyaFdpZmRSUkNwejhxdFE2eXhITkx6LWRRUEVMdGtxcjBjSmpoT3JwT0Q2a0E1VkIzS3pDeDM1bFh0REdkZDVEV1V0aDJnYUlFZ2pOalZLN2Fjb3ZoNldrV1NvcTVkRlZJaF95R3pFUXVGelNVN3JhR3MyeEp4V0NIYjJDYXI5WDdlQnNISGtnOHM1N1FNMHVsWkFPTnZrRy0yMmxpWXc?oc=5",
+   "date": "2026-11-18T13:02:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "6e7ab094504d",
    "title": "Presidentes de Perú, Keiko Fujimori, y Chile, José Antonio Kast, se reúnen en China",
@@ -969,28 +991,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcDVyQmotYi1pOEhxdXJkY1lUREZqYjNDbjZxc3YwSW11TGxwT2Q4OUFvcGNLdEd2VDdMWkQ1N2RPNjVzbFRkVV9HdlZxcS11WE5WMVltdWFHLWxjbGtMSUU1aFNmZ0hJQUlmVGNoQ1dBOXdaVEFFeUd6cUwtdU15UWZGczlLUDlSQXZoaXhuQXhodkd3dFFFaWxXMTRVVlBTWHc1czVseDUxc0ttNXlQVjZVRkFIMU54MXdJdkZuUlFVSFk?oc=5",
    "date": "2026-11-17T16:20:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6330525f8b5d",
-   "title": "Presidenta Keiko Fujimori destaca fortaleza económica del Perú",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2NLZjhIWjhaZG1fYXBQT05hdURoMFgwakhnNHFuVWp4ZW5HM1hvZEVNdUFhZlFxb2dlTHZKUFBhZENldE9ka19vajJmNE4zN3FNSVAwc1I1dVprSVFHQTl1d2llX19RaHRrV21PdmI0NnBqemJXTnRXUHdVTU0yQ3pQcEhhVVA5RngtWWlUeU1ZQkNNNWo1Q3I0VDR5cDhCSkNfQUU2S1ZiODlESHA0ZDBudVlKUlQ4ODgxTUNVblkydw?oc=5",
-   "date": "2026-11-17T16:00:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c755bb771449",
-   "title": "Keiko Fujimori se reunió con Xi Jinping en Shenzhen a 55 años de la relación con China",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUWZOQmVGSTVMWGJwSmdMYnNEdGd6ZWtqdi1BMmY4M2ZieV9rQnF6NzVmXzZteGZmUkl2YmdDX3JkSEs3a3NrZk9BRV8yZFVUQS1pUUM5THZzN1NmUzJkUFZBZ21WeUNRUXhUMzVZclVsWmxCVFYyazQ3cGJkbFJwU2VtS3BsQ2Ytakc5WnNHNTQ0YmdHdEF4VGFSbkFvMHVta1o5Xzh0RmU1X04zYkNVeGhuY25vRHVy?oc=5",
-   "date": "2026-11-17T15:58:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
