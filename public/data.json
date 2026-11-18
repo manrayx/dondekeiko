@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:26:22.575058+00:00",
+ "generated_at": "2026-11-18T13:48:07.033701+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,8 +270,63 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3ce04957ffe0",
+   "title": "Presidenta Keiko Fujimori se reunió con su homólogo de Vietnam en el marco de APEC",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXAyNFJsVnVQM29NczdnUFFtTXphOU1LMVJKdEo0V1V4OW5XeVdfMGxERzFWY2JYVmtJam0tYkJaQUxhaS1WS19KdnB6V0xIbU90X2EzeXN4cXk4TGktZDlxcHlBdTdLQy1RVGdvYkc5dDVTTlB4RGNQMENVTEFaOXYzMFVodXVGUjIxTmwwczBnMkFHeHRmWVMwOUVlUU1pUkRORnc4TGU2TUlrZHdSVFNnS0M?oc=5",
+   "date": "2026-11-18T13:43:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4c79ddfba123",
+   "title": "Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2tGcGxzbmlyS3NOZWVEM1N4Si1vZTY3US13OXg5WkRtLVFoR1RUa1lfQjZoREVqQU04M1dZcmcwZS1VQnYwNjBxa25Ba1BZSHd3S1lLcEVpRU5Sc2VqT2ZFU0dVZWZTVWRvajZ2TDg1ckx5cmpfN2dBdV9BbWtydDdXT0QxOERsZzc4U3FjanBORElZbUpyYXZ5TGkzbURXOElyR2tiVmR2NXVhWlNsLQ?oc=5",
+   "date": "2026-11-18T13:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "27555e7f245e",
+   "title": "APEC 2026: Keiko Fujimori se reunió con José Antonio Kast en Shenzhen",
+   "excerpt": "Los temas abordados entre ambas autoridades de Estado incluyeron el impulso del intercambio comercial y la posibilidad de coordinar acciones frente a los efectos del fenómeno El Niño (FEN).",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/18/apec-2026-keiko-fujimori-se-reunio-con-jose-antonio-kast-en-shenzhen-hnews-1601928",
+   "date": "2026-11-18T13:26:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7edec40276bb",
+   "title": "Presidenta Fujimori se reunió con presidente de Vietnam en el marco de APEC [video]",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazNwMW1jdG80LXcxNUhYblpubTYyVU9CR3hjMHh3MU9DYkNGdE5KaUk2Sk5OQUxXMlNKeFJjU1BhQjVLUzI1WWpSY2dvUHJjUUswbFlLVE1sZEtzNTlTZ19Ya1Jsa18xd0xwNV92SlpCekgwanFWNUpDZVFhU1BZOXd6V1hfc3pwVnd2cjRxaTFoZk9vTmpMb2RtZ2ZnMTVTczJUMDFVeW1kcklBclREbF93WlZ1RGcxSlE?oc=5",
+   "date": "2026-11-18T13:25:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4ce7881aba3e",
    "title": "China destinará US$ 22 millones adicionales para centro de monitoreo inteligente sobre seguridad ciudadana",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que China brindará al Perú un aporte adicional de 22 millones de dólares para la construcción de un centro de monitoreo inteligente…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
+   "date": "2026-11-18T13:07:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "809956cd4ffc",
+   "title": "China destinará US$ 22 millones para implementar centro de monitoreo inteligente sobre seguridad ciudadana",
    "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que China brindará al Perú un aporte adicional de 22 millones de dólares para la construcción de un centro de monitoreo inteligente…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
@@ -562,6 +617,17 @@
     "abroad": false,
     "city": "Lima"
    },
+   "next": null
+  },
+  {
+   "id": "36e686fad30c",
+   "title": "Keiko Fujimori se reunió con primer ministro de Papúa Nueva Guinea: ¿qué acuerdos buscan impulsar?",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTFNPNVNoX004ek9MNkNHTFpCemRuOGxkOGhPdUJwYThSbWhPRG1Ub3AwNXQ1aDJUZ2FseThhQXd1bTNtOUtWZ2l5Qk92NThPRGtUZFkwWDkwTW9qQjlkVFFjVzBWeFJPbFNuTlNJeXYxbGhKUVR4UlA0SU12Q3NkRVIxWjl3b2dzaHpLVE5nTTFvdndqWEJJbjQ4bVp5R3JGOW1LLVREcEl4NTliUlotMTlHR290VDBzazRSZ05xSXAwMUQyQ0tRc1V5SUdvTklFeDg5SnZna1ZsX1o0Y0tCTlhjTHhYRWZxQWw4anpHcXhuOVE?oc=5",
+   "date": "2026-11-18T01:08:08+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -921,76 +987,6 @@
    "source": "ATV.pe",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pczhfcWl2QXoyWkdWWWpselBBV0I5aXN6cXVPT1hVcW5KNlBpbFpSQ3MwZjc3eld2Zlk3dzJZeXNfVVoybHBhbDJGQVhlY3B6Wm1SUkVtTzh0Y1V4MjNpVHl0V3NLWlQ3YWJ2REJpNA?oc=5",
    "date": "2026-11-17T17:04:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bb59185ddf32",
-   "title": "Comitiva de la presidenta Keiko Fujimori al foro APEC 2026 cuesta casi US$100 mil en pasajes y viáticos",
-   "excerpt": "",
-   "source": "Gato Encerrado",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUDZuUlZqZVJpMmFOMHJjRjc3Ulp5WHdiWTdDT21rUkk2LWNFSWFabE9ZN3ozWkthcXZMQjdfdFNMSkxlY0NtLVRuQTVGLWFtejY3LU1pLXFBRlV5WkJmOTcxZUo2VVltdmw0Q2o1UkNlUlhRMnhEU2ZRM1BFVzl2Y2ZPLWFkWmF4T0Q0QTVTNVJudzVneE1yTlNObF9la2cyUVNVT1BUbmxDb2lGdkJvWVBFVTJZdw?oc=5",
-   "date": "2026-11-17T17:01:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "978378a6dce6",
-   "title": "Keiko Fujimori participa en APEC 2026:...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRzdaVmVhaTBDd0lEa3BnUGYzbVFUYWloRjBPcUR4UGxmbFlJeFdPdU5kQmRJTWZpdUYwc0tZaVFXZWh2dGoxOVRuSkZYV1RORm1rcXByS2g2SkFhMFExYVpVeEhMNzZ6ZHh6Rk40WFMzazUxSjJJb2taTUN5aFQzSm9OelpHYlNhWXIxd1ZXa0ZNck5qdmtrcXM5cmFHU2VmbE54V2xUOFZ1VjF3eVlHR3RjVW1JcUNVdzgyakpnZ2FaVVJfcUI2WmVZVWYxQdIB0wFBVV95cUxNczZjMXJQekliQXVDNGJuU280UGlhTTV5TGtvMllLTmY0eHdlY25kZUczN2FsY25kMXJIZnJ5Wm5xLXdLYWM5UlU2cVpvTjVxZGJ6eDZSLVEweFZoSTh3dXJxbWRVanczbzVSQ0Yxai1wQXpvNUF1YjR1eGFnQzVuZmZSN1g2ZUpxekh1NFh1OU5MWHZMSjBScm9TYS11Z1VtcW9DeHpNUTQ2bjE5Wmw3eUZLanZRb1Zmb2xVVE0tYktfUUZ1VjBTT2lwN3U5OUV0X0Jv?oc=5",
-   "date": "2026-11-17T16:32:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dc3b4deb4cd0",
-   "title": "Keiko Fujimori anuncia donación china de US$ 22.5 millones",
-   "excerpt": "",
-   "source": "Jornada",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmRBajJxRG9HMFlON0VZS1hvMEgyMDVadUlpZWxRZVFJWjZsRlFJNkZuSUFVdEFEWXlDaUJoeG8yakhKNGIzRFhuLWhoOXctQjJ1Rk5tZjh4Wk4waUFJNTFQdkJ6R0FnaHp1bWpESm5RZFBYNVZrMGVhX2FyQnZxZkk0UzJzOTNrTjVFdzMzUlVBWkpsTTZuRkoyRnJTZGNyX2xaeV9iZnBEb2R5UmQxTk9pSE9XdmZjZEtyVA?oc=5",
-   "date": "2026-11-17T16:26:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "00d4f3eeb81a",
-   "title": "Keiko Fujimori destaca fortaleza económica del Perú e invita a empresarios chinos a seguir invirtiendo en el país",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRWY1OTNMNmFYb1dNQmtQTHI5T05vcEVCQTFfTTU1UVpFN01oWXJTd3dXQ0E1RmMySUlBenhNeWt2NVBiUXh4UDBRS25vUUt1R1dkbmROZ0VtTnVCRGRRVjktMmYyLVR2YlUtSGE3Nk1BVmpDWHZMT3FVNUJhRUdEYjRpR2xDeERURDRKd2tjMDZORDl1V2wtNlFkcUYzQWN1Z3ZoaTZENGRJUGJhNGs2Y3llZnNpc05vUnJWR3k5UURkbU5LQTE5UDBvaDRRamhTN0UwbkExUEVFaHVkNEZlSlhUbmR4em5PcjJyT3AwdDJSbGJNcGlrRkswYnLSAZACQVVfeXFMT2swUkNqVUlJVlFkZFBzRU1GQml5VXBtQzJlX1kwcDlUMUFyenQ4MWFMeU8zdVlYNlpKUDg0dWhQNjBObTloMTdhR1lSR0NWWHFFZXg1YXRKdFBrSlk3QkpKalE2X3U2UUoxSFFaTUgzaVBrWVJEZTdsZ0Y1OHlBUWNrV2R6QzNsU2JFR0V0dlVyY3VVcS01UVVnajJDZkpOaHRZSGM0QVhpdnlST3plRnhRTDB2SUhhalM4QlRzUDROeTJjZ1U2RjU4UEdtMFF3Y3E4QzhoTjA3d0Q2SjE0RHI4TkwzLThnVGQ0ZDRfa0M2RU5KVlNKYW9jRGJYM1RPT19LUXhIQkR4bGt3Ul9SeVE?oc=5",
-   "date": "2026-11-17T16:26:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dbe502f2eeae",
-   "title": "Papa deseó éxitos a presidenta Fujimori en su participación en cumbre APEC en China",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd09mS3hrZE54a1F0WVJhNEN6VHkwaHJDQllNT25IbHFnQUJoMDQ4Y2RweGhNdzU4UU5nY19vSlNMUFRlRElsWTJ6SkVHaGI2LW5QWk5Kb2NHRVU4eHFhUVEzNDRJVFA1SjhfekljMjlkbWU1cnBQWGI4RTl2THZZRHJLQmVBVjBkWVhSYWxtSVpnQjFkNWQzU0ZvekhSWnFqOU5TZnpCZm5tMnc2RU5iMDVReGJUTzFhZFZF?oc=5",
-   "date": "2026-11-17T16:23:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "d3d3f3f063a6",
-   "title": "Keiko Fujimori pide a empresarios chinos seguir invirtiendo en Perú y promete estabilidad económica",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcDVyQmotYi1pOEhxdXJkY1lUREZqYjNDbjZxc3YwSW11TGxwT2Q4OUFvcGNLdEd2VDdMWkQ1N2RPNjVzbFRkVV9HdlZxcS11WE5WMVltdWFHLWxjbGtMSUU1aFNmZ0hJQUlmVGNoQ1dBOXdaVEFFeUd6cUwtdU15UWZGczlLUDlSQXZoaXhuQXhodkd3dFFFaWxXMTRVVlBTWHc1czVseDUxc0ttNXlQVjZVRkFIMU54MXdJdkZuUlFVSFk?oc=5",
-   "date": "2026-11-17T16:20:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
