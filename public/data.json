@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:08:06.324292+00:00",
+ "generated_at": "2026-11-18T00:29:30.218359+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-17T23:13:40+00:00"
+  "source": "Diario Correo",
+  "date": "2026-11-18T00:16:10+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -286,14 +286,29 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "ae3d0f842500",
-   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "id": "dfd5bf589d98",
+   "title": "Presidenta Keiko Fujimori destaca fortaleza económica de Perú",
    "excerpt": "",
    "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWluRmxLeEhtbHRQZEJNOTRVbmFpVDI0djk1d0g4aEl4U1BQaWNZU2pXY2tCaEF4anNieWRJN2pldlk5M1pJSVZuUkpjVV95WDJ2ZEk4bDRTUmJ1a3ByTmtZNGRVSE9jM1gtdkI1enpjRTZsVjQwMW9tSDBKQjBTVzZzNFFPRmoxc2N4dVViSzRxQkdZVHFoYXdYN3BNOFdqejllZ0Q2YktFWmQyN2hyY2dKR3ZsUElQeWVOckdKX09PYVdz?oc=5",
-   "date": "2026-11-17T23:37:09+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3JQVnFPMVMzWmZOWDRFRmpWUXZlaVMtZUMtM0Ita1FrWWJlQjJ5ckRjTFJ4VF95emVoYlJ5bEN0dGVIZWlzbDBTUW1UeW5iTGhVcXNEbU0tZndOY3ZXRHhjdzN6OUtsLWM4M3lZTi1jUGp0d1YzMGg5TE5VLVlvTmF1bTJVQlVCM1VjVTctMjFIdElDS0lqTk1SMjIxTHM4OXFMSHhEbHg?oc=5",
+   "date": "2026-11-18T00:22:27+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "0f96ee17312a",
+   "title": "Keiko Fujimori se reunirá con Claudia Sheinbaum en China tras restablecimiento de relaciones",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMUxHRnQzRzZOc3IwNzJCa2RZbjFGYkkwT194WEQ5WGIwd0hFV3BPekYwZW9reGprWkNudk9SZjhhME9ENjdUODNZNnlzbXVWNlJNaXY4cFRfazFtSE5YRFVNRFhjeElHTFB4ZkhNZUhrMjF4YVpDWjVVUEh1Qlk2bHRYTnlZQU5LcC1tSm1uaU9SSS1LZlJIYUtMY0YzbnhXamVxNWQtcmlZZkNrZnVWYnFTTnVxYXRyVzFWc3cyVnZzdHJpT1B6clA0d0tQOTDSAeMBQVVfeXFMTmVxb3pySU9pdVpvbWVFWjM1S1dQQ3UzVDRicmtIOXNQbkw5Sk0wT1FmLXNaaHBjbU52Z252Q1ZuLW9OeFlNcWx2TnJITF9GXzZhYzNKMXJneUZyV1QwNk40bTZhUzlrTzZISWJkakpoUlV4R21kY2lzeXgxN3RNSi1DTGktenNHQmw3TGY1Z2xHMUFrbF91N3dVcXlvOEUwZl9EQURnM2VZeHhFeFZwMmdyN0NvVkdmUzBpa20xLXhJSkJLS1ViQl9xS2c1bWIwWmJlT0E0eVZCY3V2dXRQVjFpRVk?oc=5",
+   "date": "2026-11-18T00:16:10+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -373,17 +388,6 @@
    "source": "Caracol Radio",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXh0ZS02TE9jVjVVd0FaYTdBNHdKQVpGRk5PV3Y5ekFObEhHYW9LOXE0eERtSkZkN3Nua1VHUFFySWVJel9nX0hTeFpZS3Z3aHExSy1qRF8yMnBNQWNXSWdoSHIwN19nS3RNLWxtVTM1eTZwak5pNHBDcVM2Um8yYTlTQkl2S214WENaby01VHhXcDJGanF4Wk1uTEZRajM4YXFUTVk1QV84QVBVbHVGZUJ6bnhEaEh2MXFpeDRVb9IB0wFBVV95cUxOU3UxV2xBd1dXNWJScHd4Z0ZqSTlvZUtqUkdYNzJ4ODdGWnlzdXljVVNablNOR295T3VTdGRtTDFobFozTDFyUUpKZWwyS3pDaTN5ZU1iSHhYSC1JNDhJUUIydzJlSVFMVTdzTl9fVGVoek1Fc2R1cVVLdy1HTzhjRU90VlRRLUdab3VTWDJhbGx6SzRSU2tjdktMNXNXUkwwQW4tMFdlMFVrZXp5cHB1RWVxUzRFYVc0YXBqMHVJWjhMOWxhUE5UZ1hNb2hwNGFfX3lN?oc=5",
    "date": "2026-11-17T22:03:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dfd5bf589d98",
-   "title": "Presidenta Keiko Fujimori destaca fortaleza económica de Perú",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3JQVnFPMVMzWmZOWDRFRmpWUXZlaVMtZUMtM0Ita1FrWWJlQjJ5ckRjTFJ4VF95emVoYlJ5bEN0dGVIZWlzbDBTUW1UeW5iTGhVcXNEbU0tZndOY3ZXRHhjdzN6OUtsLWM4M3lZTi1jUGp0d1YzMGg5TE5VLVlvTmF1bTJVQlVCM1VjVTctMjFIdElDS0lqTk1SMjIxTHM4OXFMSHhEbHg?oc=5",
-   "date": "2026-11-17T22:02:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -709,9 +713,9 @@
    "id": "b54d4ee33e4b",
    "title": "Keiko Fujimori anuncia que China donará US$ 22,5 millones al Perú para enfrentar el fenómeno El Niño",
    "excerpt": "La donación no reembolsable y la maquinaria para labores de prevención fueron anunciadas por la mandataria peruana luego de su reunión bilateral con Xi Jinping en la cumbre de APEC",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/17/keiko-fujimori-anuncia-que-china-donara-us-225-millones-al-peru-para-enfrentar-el-fenomeno-el-nino/",
-   "date": "2026-11-17T15:14:28+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR29pZGpfbFBQOWIxV00wWHp4Qm1DQmE3UUhWT1RZZTlXWjFmNHRkc3NvMUN3VlcxRjBiOVZZQk5fZmgtSElEQndldmFOSWVRWGdJYlNSN25Kam9CdklWcEU5OC1hQW1QRjVMYjh6MWZVcTVJOTZNZGtfdDhxeDZtUU5JdEdXRUVkVk5YeFJ0eXhsdzZOSTlmcXI4d0R5bFRndWZDbl9VamZua0JpQkQ4VVo4anQ1T2M2SVlEQnFoR2FwSWtRX1Q0S1IxXzROT19mdnBNZFBB0gHwAUFVX3lxTE51aUZrUzllUThBa2k4c1FCbVNaMkdoUzZaTmlHelRZejNmeTVXR0VidlFoWno1d3ZMZGs0dVpzX0xqbFJHeERWUFhVV1VEb1Y1dE4tMzRhRnFjZ1ZfU09YS2FnRXFOSngxY1hDaWtlcVhxNE8tbEh6aVptbWhRSTh0X3c2d085WGhxUS10RU5rOWRLR3VDUWhhRVZkdGxDWXNkLVljakhlX0pVTlU3T05jWm0wZTFUeVhfWDhtMmNaTlRJVXhBLWxFa01XOFlteEZqTGl1X1B2MmU4Q1MwemRrWTJ0XzJsbG50S2p5VzRKSw?oc=5",
+   "date": "2026-11-17T15:14:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -827,8 +831,8 @@
    "id": "e2b2989151e3",
    "title": "Keiko Fujimori confirma que Xi Jinping le extendió invitación para realizar visita de Estado a China",
    "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQzlUUWZrMGhteFQ0VzZlZUlkb2lIdllCTk56VEVnZTBtNjFRV2EyZWJJa0NJM2xxc0FUMTMxcGROLVB1czd3Rk1GZTVROE5sMDVRTWFfQUtXbzVGZkg0S0xqMzFxejJPVUJCU19lbWwzQzR5amk0U2NhNy1QaGlrNHpHVGhEWjJXVWZfSnFkeWNvZnVhUzJrTkRrYUdBdFhaa2dwMHFva0R1U3BvY29zd2VnZm4zTERQVjBzZHFrcEUyLVZ2U3BDZ0c3LTU4STA?oc=5",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0V1X0RxUXBadWRXbWNjRlZxZDBSeUFTWUFzQmhKYTRYN3JkVDdmNk5pb1pTSktfckRza3FzQ1cyb1dlWmZMcXd6ZDZoWDJQQ2Q4dmRMLS1tUDV0LXRRcF9SMUx3NEVWZG9mdGoxZVViUlhwUklDX295dTlsWktSdmJmTWZKU2IwbktSVmFYYW5YYU5iRkp2dVU4Z0c5akU2NGU4TG5EWnJ2c2dhcFJoaGNYeUJ1UmtwcVozS0czQU1Pa0ZBeVpBcU9MTnV0TmM?oc=5",
    "date": "2026-11-17T13:03:00+00:00",
    "state": "posando",
    "place": null,
@@ -852,6 +856,17 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcjVrbjA4V2VoOHVMaEoxM2FmZUczai1pZ3hZTld5WEk2X2w1Z3VWb2NXRmFaR3Q4YVQ2Y000OVNpRjJVSklmZlFPWHBrRDd2T0xhM1ZIby1UdDVzNFpIVGdvZ0kwOGVva0l5d2x5OTcwU0lsaWl5QnMyRy1PN2FEUFlqRUdWd2ljV0tyOWZBckRkVEhsLXVTTGJYOUJGQnVPYkN5QzBxY2lkTU9FQVRtb0QyUWh5WF85YVdSQjVOdmZQeDVmM2x5NHhocU9pekZnOU9rTGdzRTVteEYtRWNKd3ZMd1NLUDlZRkFfbUE1UFB3aFowN0E?oc=5",
    "date": "2026-11-17T12:59:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ae3d0f842500",
+   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnpPdkZFZUh6Q2ZJMlltbmhPdlJmWXUwbmdBeXZyVHpySV9FQV9hVE9HaGhKNERmNnExQ3pLNWU4ZFQydFJCeG9qcFI0T0kxSkxYcDBRdnFhT3lxMGVDZERqXzgyUWNndVFsMUw2UlRZU2xJMVp4bjU2eWp0VFJyY08zUnNEMWdCWFQ2OGlsbThkOEZpLXdEc3pkT1FXMXhNX1B6dUtWT3JNVDdDaHRLNXdOUmlPSV8wQzVvRjNoTQ?oc=5",
+   "date": "2026-11-17T12:42:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -910,9 +925,9 @@
    "id": "276968565612",
    "title": "Keiko Fujimori, tras reunión con Xi Jinping, revela la ayuda que brindará China a Perú por fenómeno El Niño",
    "excerpt": "",
-   "source": "Diario Expreso",
+   "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQRF8yUzNfVS1SbVlmM25CUlJTUWtrdlVnTTlZMS1IelpxTlo0dzFEWTdFUGs3aUw3TnVqQ3VQWE13MmtUN3dQMG1fOFg4T29aTUkzMlpsRVdVaWF1bDczSnRPcklHV1R5SU5FeXpLRmlUOUEwOW5iUklUQ282QkIwZWlVNkFrazJ6YUYtM0tITW93TTJzbGtmT1JPWGpWQ2xZNWZkWWlFVVVmU2IwTS1GcGdraEVIcTBpU1N0alc0cXVzNEktNUZCcDJuM0QyeGZ0RjF4N2o1cUh1Yi1SRUdmZUIyVXRJaG9KVkw2c0NoUE9tckVJTHduUUZMZnhxVFlOZlViTFVLMi1wOWNqeXZ1UTA4SnM4YzdhT3hDcWNLSklEdks0N2wzNXdsZ01veEZPdDJuZ3N0QTJtbW9CTU9WcjNB?oc=5",
-   "date": "2026-11-17T12:04:28+00:00",
+   "date": "2026-11-17T12:04:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -972,17 +987,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNR0MxMUZTVHFSX3F0Wm9qZURTS0NfaG1JWTFMbzJibTk4c096Y3pvZENpb0JjWGFPSzZIeGlzUk5zMExpcTM0TTNud0JjeTlFVFFfM0dPWm1BTGxzU0g3ZktWcjVwbjRfVnNTLUdWcjFNZ1I5aEdnTTRSZlc3LVNCcDVQZFg0ZUVoT25ZUkd1cmJjZG9YcmpMWFlrR0tTUWZpZDB2emtWVldVMk0yWUc4SE1BZVFkaUZhWHFBRHR4XzJhbW50ZEYxeUV2NVlQYVRoYU1z?oc=5",
    "date": "2026-11-17T11:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e959f785a27f",
-   "title": "La presidenta de Perú, Keiko Fujimori, llega a la reunión bilateral con el presidente de China",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnJPYmh4Mjd5SXhPbjg4a1hHS09oVF9oU00yMDFaZkd6Z2Z3N3R6TEZjdkNyc2dBeW1BdGN2ZEpyUUlURFJEQ2JBUTREM3A1UkVqWm1KRnRGVGJCZlRIc1pWUExYZlIwY054c1hBc2R4NGFrakpTZFlSWWQ2NmxuRExHTGJkQVg2ZEphc2NWZUFDa1E?oc=5",
-   "date": "2026-11-17T09:09:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
