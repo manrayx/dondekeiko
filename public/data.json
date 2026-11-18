@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T02:17:21.133910+00:00",
+ "generated_at": "2026-11-18T02:39:14.086622+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -286,6 +286,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a11ebe48c658",
+   "title": "Gobierno invita a empresas chinas a usar Puerto de Chancay como eje logístico hacia Sudamérica",
+   "excerpt": "El Gobierno de Keiko Fujimori invitó a empresarios chinos a utilizar la infraestructura peruana, entre los que se encuentra el puerto de Chancay, como herramientas para expandir sus mercados hacia…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/gobierno-invita-a-empresas-chinas-a-usar-puerto-de-chancay-como-eje-logistico-hacia-sudamerica-noticia/",
+   "date": "2026-11-18T02:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9f340b4a86bf",
    "title": "Keiko Fujimori se reúne con Sheinbaum y líderes de APEC este miércoles en Shenzhen",
    "excerpt": "",
@@ -462,17 +473,6 @@
    "next": null
   },
   {
-   "id": "a11ebe48c658",
-   "title": "Gobierno invita a empresas chinas a usar Puerto de Chancay como eje logístico hacia Sudamérica",
-   "excerpt": "El Gobierno de Keiko Fujimori invitó a empresarios chinos a utilizar la infraestructura peruana, entre los que se encuentra el puerto de Chancay, como herramientas para expandir sus mercados hacia…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/gobierno-invita-a-empresas-chinas-a-usar-puerto-de-chancay-como-eje-logistico-hacia-sudamerica-noticia/",
-   "date": "2026-11-17T22:49:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "6a60febb660e",
    "title": "Keiko Fujimori presenta a China como el principal socio comercial de Perú",
    "excerpt": "La mandataria sostuvo una reunión bilateral con su homólogo Xi Jinping en la ciudad de Shenzhen. Al término del encuentro, destacó a China como el primer socio comercial del Perú…",
@@ -501,6 +501,17 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUS1tOWJOQ3lJcE1YOU9rWkFoRF9TMXR1MTFIOERWbU1PbXB6dXZON2trOEJfSlNVV19EYjQ0eUdiT29FTDMwd0lwT0h1eTR3UDlSQzRUWkk5bHgyUzhJU29YdGtUV0dxSDNiN2R6MndrVlRzM1VIMmtRX3k1ckVibzNkSjk?oc=5",
    "date": "2026-11-17T21:47:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7ec316fc1193",
+   "title": "Presidenta Fujimori destaca fortaleza económica del Perú e invita a empresarios chinos a invertir en el país",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUZvMjBWM3laZ1NlNkxsNFRoVTdxdlFZWDJhREI0ckIxT1BmcVNwM2ZteXRUX1RCdVlLbzB3dGI1QzlVanBIbDdZandCc3RNSEM4TE5nR0tKYkN4TC16WkxmOHlGQ1c0LUhQYUs4X2ZzQUM0bC1LdUNSelc4Q2w2VGgxQk9sVzAzbXpqVUZZaExvRENiWmlmOWpXMzlRMHBic2xDYjdTY2l1ckF3UW5IMFNTOXBTRDZHUFE3LUpB?oc=5",
+   "date": "2026-11-17T21:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -980,17 +991,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnpPdkZFZUh6Q2ZJMlltbmhPdlJmWXUwbmdBeXZyVHpySV9FQV9hVE9HaGhKNERmNnExQ3pLNWU4ZFQydFJCeG9qcFI0T0kxSkxYcDBRdnFhT3lxMGVDZERqXzgyUWNndVFsMUw2UlRZU2xJMVp4bjU2eWp0VFJyY08zUnNEMWdCWFQ2OGlsbThkOEZpLXdEc3pkT1FXMXhNX1B6dUtWT3JNVDdDaHRLNXdOUmlPSV8wQzVvRjNoTQ?oc=5",
    "date": "2026-11-17T12:42:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6272b70b821e",
-   "title": "Presidentes Keiko Fujimori y Xi Jinping...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0FSNmlmV0h4ZlozNE1FVEU3b3ByZ0dkWVB4UUQ5YXAzcDEwTHBXYjVlWnJvbDJNTnlhY29oUk9zS2hHNWVxclFrd2FXRk1BYWVDNVlEc1lycktwd3pwYXYxWkNHRUVFVnFscENpTWhtcDBmV0Y2QUhnNXVmS2tvVGZ2TnplYm9XbFRTRjhmT3IyUk1vTnNoZ09hUjZLemlnRXFCaGY0U3RvUE5KSGlwX2hrdVRNOHNjenJpZHhncnnSAcYBQVVfeXFMTTBLR0ZZbmtpWS1CdHIxLTFrUEJ0alhQN241RGtWYkZCMlNuNU9nXzhZcVo5SGlac2FKaGJlX1hUd0hvRHNTR0tUOUpZZFZVX0xRSkZDY3Y1RkF5aUs5SEY4RWFTWkdwb0JHZU9XdUpWbnZNN1lSN2VnMHM2OUJiajBrWGNsLXFzNEdYMVFOc1BCeEZhRElnMHlCbHZSV3J0ZjQyRE5fTEh4cVZYRklRcS13ZEpzaWU5V2N5Q2lOYzUxSm1tN2xn?oc=5",
-   "date": "2026-11-17T12:28:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
