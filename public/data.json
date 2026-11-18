@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:38:12.328463+00:00",
+ "generated_at": "2026-11-18T20:59:32.712940+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -276,6 +276,17 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQY0NIVWJ3TjNlOXY3TEIzVE4xaWc2M0EyWmhXRjF4QlI1SjhKdXR1MmJJY1AtVUZYa1FQMlp6a2RHZXBQcnNqR2hsaTk2LWU2OVFpX1YzWURjT2VkVklybjQ1ejN1aUdBa3hvWWNrOWd4bVh1bnlLZV9WSXdfQVNoS0lDWGdPOEttamx5NXNDV3htdFZXQ3ZqYWJsd0hnQV9VRkR6ZFdvUUEzWFAyM1VlR0xvV0EzWWltVHNMay1yZ3VJT0oxUWVBblg4elhJNHYyWjJybzk1dGlvaVFWWkNDR0NLb3ZoWTJXdFRCM3NSTnRZYWRWM0s5MVFJNThLWlZPakVqV0VIaFZ4djNRVDRfZjc0aWwxMnBfSVh4aC11SkM3Z9IBtgJBVV95cUxOdGZoa0hYNUwyWUIxSEJkSkFDSllaMVpqQ2c3NlhBSXpkQVZuQXljdE1iN0hoV2oyYW92ZU50b2ZZc2lpZnBweHNiYlZtRE16VWJaNjVNZ3A3elNLSmt4SFVTSlc4MDQ5YnN3WjlXNVhxUVRzaFAteDBxa2dTbzVYckRjZnB3WVZ4MURKTVRmUV9YMUt3aU05Z3VXNnpTX05aZXFvdDJFSW5JUE9FbXRra2JIMlN6SHpud0JmZzc4bllsNTF0MWhYNTlKUkYxb2lsUkRwQ1Zob0VBU0NlNFZaUE11Sm4zQ2poNnpMVEstMkZwX1hwMHhFdXRKWkhFalZIYzNqdnlzd0d4Vmp0dGwtNWxmQ01VMWlsdW9yZ1l6ZDgwQjljNmtYRG12R01tZVY1NmZ1WEdB?oc=5",
    "date": "2026-11-18T19:55:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "83cb00784431",
+   "title": "Presidenta Fujimori abordó con su homólogo chileno cooperación y acciones frente a El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmozX1ZkX0lmc0Y1NGFoM1NfMjl1Sk9OMm42dDYwVkoyU3F1bUJXbXBBRXVwUG5VTUpiX1Q1ZHFjTGYwLUlObWIwbUVNd3ZfdVVqMTU1TnFxQng3enpzM0p6X3RGdXQwNl8yRE1Ha0tIZU5XZ3hlcGlPRnhUbW5SREZkRHRGM3lWcHc5NE9lMW5ISWx3R2c2cUNCYzFSMEhrc1hDS29TMWNlWU42c2Q3a25NN0pRMjA1V2tyZ3lPX1NOcEhRTVdDWjhR?oc=5",
+   "date": "2026-11-18T19:55:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -966,17 +977,6 @@
    "source": "CanalB.pe",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDludmNmRm5uTjdpeU12MUN0V0dDR0JwbU8zUFROSW8zRk1RWlFMc21VZTc0NTktajBQN0VfR3J4OFg5S1lybDh0Vy1QQ2FCX2lHd0c2cy1ZbTJ6VnVFYWpPZGFLXzN0Smx4Z0VBak1oa2JQN3NJTFpRRXZTcGNLRzdHOUJ2N1haaWEyRTA2Y182NHhHR1RXSnZmdlNYWmM?oc=5",
    "date": "2026-11-18T01:49:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9aeeeaa20463",
-   "title": "¡China da una mano! Keiko Fujimori anuncia que Xi Jinping donará US$22,5 millones para enfrentar el fenómeno El Niño",
-   "excerpt": "",
-   "source": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPakdzX2s4UDRRTnh1bWFOVDROQVlnYlo2RFFKS0xxajJsUktKR2Q4OEJtbnJCTHd2aDF2cHhVdlVGVDQ2SXFfM01sZTAyekJmbVBNeDVzTUtYVzBJVXgzbjNJRVVNMjVkNW9PUzBLWWh5bmlkd3NiSnQ4elowTi10YS11VWx5Q09RMVJhcXNwQ05VQ29UWGVnem53M25Bc1JJZm13c3IxM1FxTWFOa0RQZmZuZDFQUF9iMkRiZ1YxM3Q2Mkp0dEY5MnJlMzhNMWZHWkYydlJXVG5wOTFpOVE1MHRJX3JHbXhMOXN0TVY2Sm9CTHZLVHhJd0Z1d2PSAZACQVVfeXFMUENVSkJrdU5DbUp5SW1qOVdkV2FCTHI4Y2hvOWx3T0hzSkNYWUJ5cm5XQlpQbVpYRVZuSEFFZDh6YkZPTmdyTXhhTHh5VnQxM1JxN0Jkc2ZFd1dEQ2V0YmxmUTFldXQ2UEdqNXVkckZfSDhHcWs3dUV2RWY4RkF1VzVlS29pcVB5c2NtNmdtRk10a1BfTExBdXU1R3Z3c2k1MW1OLWdvZEdweUZjRjJzSVZLQzNNRk5lYm1rMFdLTmFtbFVaVXRKNzFHV2FQVzVaUXMybGJ3TDRUeE5ya19vSWNyYmJiTXp0TkgtNEE3enhKc3p1NUxxTzlGZzZWQkJpbVRlRGtGeWwzNldNNzRYR0E?oc=5",
-   "date": "2026-11-18T01:37:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
