@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T22:04:46.644702+00:00",
+ "generated_at": "2026-11-18T23:09:31.212640+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -205,7 +205,7 @@
    "start": "2026-11-11T20:20:00-05:00",
    "end": "2026-11-11T21:09:00-05:00",
    "minutes": 49,
-   "subject": "Acompaña a la señora Presidenta de la República al encuentro del papa León XIV con las autoridades, el cuerpo diplomático y la sociedad civil.",
+   "subject": "Participa de encuentro del papa León XIV con las autoridades, el cuerpo diplomático y la sociedad civil.",
    "lugar": "Gran Teatro Nacional, San Borja",
    "state": "posando",
    "place": {
@@ -237,7 +237,7 @@
    "start": "2026-11-11T18:56:00-05:00",
    "end": "2026-11-11T19:04:00-05:00",
    "minutes": 8,
-   "subject": "Acompaña a la señora Presidenta de la República a la ceremonia de bienvenida al papa León XIV.",
+   "subject": "Ceremonia de bienvenida al papa León XIV.",
    "lugar": "Palacio de Gobierno",
    "state": "posando",
    "place": {
@@ -269,6 +269,28 @@
  "agenda_minutes_7d": 381,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "7dfb62cdfa84",
+   "title": "Claudia Sheinbaum desaíra a Keiko Fujimori y afirma que no está dentro sus planes reunirse con la mandataria peruana – Gato Encerrado",
+   "excerpt": "",
+   "source": "Gato Encerrado",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2hHOVVsYU9OS3JtSElReko0SmI4VmF3eDlPSGVnbDVKYUVUYmVxWGlKckt6eXF5Q3o1S0ZDLW8zZmc4amhja2FFOGF0S0YyZTVMVlM1OUtzbVI5YTRnM0lxZXlHSF9jVTBpcGVPTTBhV0Zna3RJb3dJYUx6WHB2eWh3eFBoeFVwLV9vWHVaLTFjV29MM3R0WWNvSjNoVThtS09EdGdiLWx4czQtU0QxZE9CVU9ZNGhxeW1aUmVVRThOLUZiS1JnY2VZaDhFUEltbW9lcEVWRGJTRjNJRWZCdw?oc=5",
+   "date": "2026-11-18T22:55:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "898489a1c524",
+   "title": "Presidenta Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWS1QcnJFUDZWUFp5YnllOWlhTi1wNDN0U3ZnS2I4NFgwd0o1LWtPWXFKTFI0bWU5ek1TZHZwYmE5V0kzdWIyWlZGbU9MRm51NmRpeERfVmNjSmN3NE1pcEJNRHR5RTI2QnNXcXlUR2FSWUVPWjlTakVwcjhnYzROOGJfUDM5TEEwRjZoX1d2RkZyWmxuRzRqN0tDTWo0UlBhamtHQVBXbENNaEIzVjQ2R1E1cUdRc3NjakpDUnNKWnpOT2FUdTdnbi1saw?oc=5",
+   "date": "2026-11-18T22:54:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "4bff78ff4569",
    "title": "Keiko Fujimori y China: ¿qué acuerdos y beneficios obtiene el Perú tras reunión con Xi Jinping?",
@@ -378,7 +400,7 @@
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNE5pOWxNdmhQbDROYUNwQVVkVlZUd2g4cUlVYkFXWmREbXV1WDZ0WURZRnFMRTRiSXFDRVJCRkVkbGxyb01uS3o4QTFDNkhreFRKTzQ3S0JfR0t2bmlrRGJtd0g4di1iWUg0RS1KWWtqOHZJZ3p3UUI4TEtFNnhWYnhJbTVSUHI4eG01NGV6TllOTkVvQjk1UDh1emk0OHpoUUI1c0RkeFBfZHd6R1kycUtoUHRLV0I0b2dHUWNCcnFZQm5X?oc=5",
-   "date": "2026-11-18T18:29:00+00:00",
+   "date": "2026-11-18T18:32:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -388,7 +410,7 @@
    "title": "APEC 2026: Keiko Fujimori inicia su participación en la cumbre de líderes en China",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGo1X1RkbnRJcGtWN3V1OFVudHVGWE10cjdNeFo0ZWJ1UW9ZN0NKTUJzY0lwMjg0WC1fT0Q3MlhTVkZfa2c4OFBjRThTVU5mWjhybU1OQWlQelNFQ1JwSXJpZWl5b2dpSW5mR3c4NEp5NG15eVdJWWIxWDRWQlhXc3dadnhjLWNZVG5VSm84dUZaX2JsUUI1eXdCcEZLdUsyWUd4b09hNlpjaWlyYldYV1d6a0U5cUs3U3VGUndsYTY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGo1X1RkbnRJcGtWN3V1OFVudHVGWE10cjdNeFo0ZWJ1UW9ZN0NKTUJzY0lwMjg0WC1fT0Q3MlhTVkZfa2c4OFBjRThTVU5mWjhybU1OQWlQelNFQ1JwSXJpZWl5b2dpSW5mR3c4NEp5NG15eVdJWWIxWDRWQlhXc3dadnhjLWNZVG5VSm84dUZaX2JsUUI1eXdCcEZLdUsyWUd4b09hNlpjaWlyYldYV1d6a0U5cUs3U3VGUndsYTbSAdQBQVVfeXFMTXhYamVpS2h1UU9iNmF1RW01ZGdEaTQtRlZJOFdJWVlFc0U0RnhwOW43S3ZzeGhfYTNKdGJFR0dYQm8zbmc4clVzZXhiTzFWNzFBUGRDWDZSa1AzWERYNEJGdmtlRG5LVFF1MFptdHpBS3oxNmRBWkZ6ckUxMzltdVIwdWdvdGp0SjdMX3htcmJId284eURfZHpaSDJJajdPYUk4Nlh3SjdtN3Vsc1pJbW9GbGZJaEd4UVJKYUMwWUNtcV9rbGR2NnhqVkJRRGw3bjZSMzE?oc=5",
    "date": "2026-11-18T18:25:15+00:00",
    "state": "posando",
    "place": {
@@ -493,17 +515,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMDRybkc1LTZKQXc3RFlRS25RSnR4Ql9fcmtlZ0ZxWDlkRHd6b25Eeks5RDN3QlM1V0dvZ2J0WW43bC1XQmtYTlJzQkZMUTdUSllEdDNjRlR2UFZLcmh4amtDaDU3WVBrdDJFbEFISXg0VE5rRUJZRElSOHVDc3Q5NFF5MjQxU3c3R0FRNGU4UmlyWWMxWGV2QnhmRndZYmFGM1k0azNqVnZXeU5zRjdGT05XUDZKbFdDUFJWRElIOGtVbms1TEExNU1KajBPbzYxb2ktRUVBQ19xSnlvenNJVkg4WHdUVGs1cndIOUhXQlQ4dFJHajRDNUdlUWhjcFNadXltd1hFONIBogJBVV95cUxQcGRZZ3IyaDBxc1R2QTZ6RFhQQjlWNzEtX2FVOThvdk4xVHU4dzk0enFRUGVtc1QwWHNfSjlHQWJDSlFQNHhvOFJMb0pjeTlDZTUyNG5fSkxzWGFZSWdIamw2NGFDdmVmR0dKQk1DTEpkWDVXeU1DMFpiQ29xanhjT2txZV9NSHBIbHY2UW1JeGQ4cGFZYmNCMG4tNzFjWWpsOHJtRmFia3Q0V0VieEJYNjN1MnZGSm1SR1dUNHF1dU0xdDh4SW8wdGk1emI2U2kyeDBKQjNUZFNqb2Y0ZlJlOFo2XzBvTzI0bzZZVjBmWHUtNU1XVGF1T1ZhbmFqdGJRdjM3RDY4VmI1dXB6UC1QeUNSVlBIR19PamF3NExpYW1zQQ?oc=5",
    "date": "2026-11-18T16:51:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "898489a1c524",
-   "title": "Presidenta Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWS1QcnJFUDZWUFp5YnllOWlhTi1wNDN0U3ZnS2I4NFgwd0o1LWtPWXFKTFI0bWU5ek1TZHZwYmE5V0kzdWIyWlZGbU9MRm51NmRpeERfVmNjSmN3NE1pcEJNRHR5RTI2QnNXcXlUR2FSWUVPWjlTakVwcjhnYzROOGJfUDM5TEEwRjZoX1d2RkZyWmxuRzRqN0tDTWo0UlBhamtHQVBXbENNaEIzVjQ2R1E1cUdRc3NjakpDUnNKWnpOT2FUdTdnbi1saw?oc=5",
-   "date": "2026-11-18T16:50:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -889,6 +900,17 @@
    "next": null
   },
   {
+   "id": "dfd5bf589d98",
+   "title": "Presidenta Keiko Fujimori destaca fortaleza económica de Perú",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3JQVnFPMVMzWmZOWDRFRmpWUXZlaVMtZUMtM0Ita1FrWWJlQjJ5ckRjTFJ4VF95emVoYlJ5bEN0dGVIZWlzbDBTUW1UeW5iTGhVcXNEbU0tZndOY3ZXRHhjdzN6OUtsLWM4M3lZTi1jUGp0d1YzMGg5TE5VLVlvTmF1bTJVQlVCM1VjVTctMjFIdElDS0lqTk1SMjIxTHM4OXFMSHhEbHg?oc=5",
+   "date": "2026-11-18T06:22:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8da37dfd4f35",
    "title": "Keiko Fujimori en la APEC: Carlos Raffo estuvo presente en almuerzo organizado por la embajada de Perú en China",
    "excerpt": "La Embajada del Perú en China organizó un almuerzo con motivo de la visita oficial de la presidenta Keiko Fujimori. Estuvieron presentes aproximadamente 70 representantes de empresas chinas de diversos…",
@@ -953,28 +975,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "a11ebe48c658",
-   "title": "Gobierno invita a empresas chinas a usar Puerto de Chancay como eje logístico hacia Sudamérica",
-   "excerpt": "El Gobierno de Keiko Fujimori invitó a empresarios chinos a utilizar la infraestructura peruana, entre los que se encuentra el puerto de Chancay, como herramientas para expandir sus mercados hacia…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/gobierno-invita-a-empresas-chinas-a-usar-puerto-de-chancay-como-eje-logistico-hacia-sudamerica-noticia/",
-   "date": "2026-11-18T02:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9f340b4a86bf",
-   "title": "Keiko Fujimori se reúne con Sheinbaum y líderes de APEC este miércoles en Shenzhen",
-   "excerpt": "",
-   "source": "Diario Ahora",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScjYtZnZFZWhDaGV6T29YQjQyOTV3YkxIaFdmZ3d0MWRqNjZ5SmtUNTI0V1lxaUcwcU40bHY1c1R5b21ZeHBEYmtneS1tLUZHX0htbDBza2RUY2w3S2c1TnM2MGo0ZEFFLVRoV0g3V0c2bm5zUDhERUZtQQ?oc=5",
-   "date": "2026-11-18T02:03:45+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
