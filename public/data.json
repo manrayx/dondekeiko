@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T05:32:46.540106+00:00",
+ "generated_at": "2026-11-18T06:16:41.998926+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -638,6 +638,17 @@
    "next": null
   },
   {
+   "id": "ef299f752be0",
+   "title": "Reunión entre los presidentes Xi Jinping y Keiko Fujimori no fue un encuentro bilateral formal",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVlfb191bXQxTEx3dGV4UVpVWHpUc3Z0VzlOR2NIYklub2lOLVVaTm9ydjQ0N2NFZmlGOFFWV0ZRa0hzaEV5Z09UbjlPc3ZELXZuZGNxNkNqV2VUWnhMMDZmXy1QYVJVc0steTFYTnVMa1dOVUtoWVF6VWFWcTc0MV9YYlJlU0xfVEJPWTFIekMzQUIzcGtNajhFcEZQSEJFd0lCVVlYUTB0UzlqbklSOUZ1UEY4S1hBX2NYYQ?oc=5",
+   "date": "2026-11-17T20:13:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2fbb0d1f6b50",
    "title": "Premier Luis Galarreta destaca agenda de Keiko Fujimori en China: \"Reimpulsar nuestras relaciones bilaterales\"",
    "excerpt": "",
@@ -982,17 +993,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "afa1407133b1",
-   "title": "Keiko Fujimori anuncia que China entregará 22.5 millones de dólares al Perú para enfrentar el Fenómeno El Niño",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdExad2tqRGtobWU5dDhaVnJhazVUZEpQbGo0SDhGN2NfanlXNXNlaXJQNnhMdXR0V05LUnM1V2plMm1XcEc0THVqUkN1YzNyV21KTVlPTTNkR08tZVBxVV9uUTk5VUpuN3JWTXpBTmFRSkE5OWtnVzAzWXhCQy1GQmtkbUtORzhNcC05NXJmcTlkNXYzOXdCNFJSUWRiZW9QZVFGRWhuZDFxNlkyNFc3LTF4QVBzb2M1Q2hRdmdhSE1QdlhJcHU4NV9xbmhidEVzc2FWSXJyNVNjcUtZaFN6bVg4bnRWNEJyUlIwSkprNA?oc=5",
-   "date": "2026-11-17T13:08:50+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
