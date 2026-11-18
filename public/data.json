@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:52:38.310788+00:00",
+ "generated_at": "2026-11-18T15:14:00.605598+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f09350f6819f",
+   "title": "APEC 2026: Keiko Fujimori se reunió con el presidente de Vietnam para fortalecer relaciones bilaterales",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb09wN2YybnR1NzFYVWktMTNKbUdpVnZ4a296RExGRk5sLUNDeVVxa1JSN3Y4Q2VzaUxUX3hNOFltcHhDYU9iVFdpTEdsRUlWNm5zWWxOanRuUThEX1dYUGZjODdDU1lMVHF2SjBPOEpJUmlfT2xUcGpnTWlxSFJ6MU9NZTFyaXhzd2kwSnc3SlZEZ3RuTjFvMGpvTXdFcDlWWHBSUFdsZlp0NS1MZzdDWEhyNlpOR3E1UkNtcExacXRhM21JNHlLUEY5ZTRLX21TUFR0QUROd9IB6wFBVV95cUxOMzVKQ3c3Z0tsaGVobkVKX25vQzYzSnlsbjlvTmRjODFpU1lIZmFjdGo4OWxfSFFTMlNaRzZlTnctYmxyWnRiaTZIR3R1Y2x5MlplbFdOUWVwUjh5d1l3SktoRkVITUcxbDBQbE54TEh3QmYyLVpaUDFJb2EydDFkZ21lQUFYcENuZ056SmJQMVl3ZHRkUWRBWE1jeWNhMjZ3NEM3ZGtNUVZBZ0ptZVhTdmpveWtkZWtwSGZMb2NZQVRRbExUZTZKMjhBSV9hQTNUMHdtQ09iTnNtWGdOQ2ZWYkJpS3N5UUl0em5V?oc=5",
+   "date": "2026-11-18T14:59:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "27555e7f245e",
    "title": "APEC 2026: Keiko Fujimori se reunió con José Antonio Kast en Shenzhen",
    "excerpt": "Los temas abordados entre ambas autoridades de Estado incluyeron el impulso del intercambio comercial y la posibilidad de coordinar acciones frente a los efectos del fenómeno El Niño (FEN).",
@@ -365,6 +376,17 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTlpa3hUM214bE9LMk5OZWlaUERLZ2xITERFQjczYmxHNlR4WTQ4UjY4aVNPRVZaQ0ZjLUZEVzN3aTU3bE5xaG1qOTRDemxLVnlPYzhVTHBuSW13aEJRX3dNUUlOUW5hX1ZSTnkwdzFsRjVUZU5rSjNVekY5SVF4UXBfZUNZQWt1Z214cF95X0tJeXZVTXVDeUxUMEx2bXQwRk9COHk1N0Rjcy1zd2N1UUhoRkx6N1FMeGoyZDhpSDNsbG1kWUE?oc=5",
    "date": "2026-11-18T13:42:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fa23ff5aa3f5",
+   "title": "APEC 2026: Keiko Fujimori y José Antonio Kast abordan comercio y cooperación frente a El Niño",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWTFNZlZCQVJjNjFtOXVlRzQzUlVFcTRDYUp4VEhXVmlTbzdFaWZJZXNiekotOFpsMUpBQUNCODV0OXhNYjlMbjVJN3hRcUFRdjVnaTI5dVJ4T0NsRHZKNHJpeVB0UjVtS1dqUmNIbjF1WXNQcklaZklIeTV0YllxclVIaFd1VU5Xc3pxZXlpYU1DVXlYQWEzS3dzUDRaT3BhXzM1eHhlaFpIWVFIT3FCLUdac2RNMWYyYVlZVzlkT2k3dk5HSlJsMmR1bnVudTTSAeMBQVVfeXFMUDFnZXNobWd6eGVMWngyOFR3VVZNZ3JuNW5RdVc5bmpBMnBHWXBETkVHMDhKd01UbF9Ec1ppQ0FwZUdLZlV5UG93N1lpdFdkVEVFd0Q1ZnM2Z0dYQlhoRm9MTFAtRVdNbzF6TnFyMU1sS1ZWcVlfU0VuenBfNUdPWDBfdVRWb2tvYWQ2ZE9oVERNbjFISDMzc09HU0Y5VDQ3ZEt4YTdCcmRxbmVaVjZ6OXNiYTlaWUVPTVNqZzkybE50dkdJU2NqdTI3cUFnVGswb1V2SGZPRjVBZHhINjlzNjdLRWs?oc=5",
+   "date": "2026-11-18T13:41:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -965,28 +987,6 @@
    "source": "Caracol Radio",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3BJYUV1QU1ocnVyNVdUMGRhZUkyRGEyQUtrQ0ZEU1NpeFYyVlBFQzJpRnRzdGoyWjNDMjgtcTJ5VkNCRUtLUU9wYnNZbFdpNTlSTW5Eb1E0dUsteFB1S0hUQzltTEZ1aTB0dlhtN0E3c280OVVTOTFDYVN2SjBaM0FsM2VQT21zSnNHNE5HYjJJV0M2OXdNWXZobzg5WE5IRkVmSnRfVzJBODJpX052bGgwZnMtRHpsWHp6V2s1NXBfNmFN0gHYAUFVX3lxTFBSSEItYmdqX0Y2bXBabFVkYzlDZkJuZTFHdkFMOUdfc0xJQkVzRTdTVmdLSjdjV2lJZWlIMzdkMUN6cm5aaEN3RUpPaktrdDhYbmZOZ0Z4NVVxLTRKYjJtN1MwYW8wTUtWMGdEeG12azg4MXMtT3F4R1hjRVZYdlk3dzBSbmR5c1ZNYlRRdXQ1Y3V4TV9ybENNUEc2ZXp2dkNndHZIRjYtbDJEZ1dGRHRIWE56VXE3UnpjQWc5VzFqcVdheUFOcENqWDhLODFHLWlRaU82cV9pbg?oc=5",
    "date": "2026-11-17T20:07:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fe9e5c050255",
-   "title": "Keiko Fujimori y El Niño: ¿Cuál es la estrategia de comunicación sobre las acciones frente a la emergencia?",
-   "excerpt": "La alerta roja en el norte del país ya ha sido activada por el adelanto del fenómeno de El Niño (se esperaba que las lluvias inicien en diciembre, pero comenzaron…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSkpnU3pjX2hRNXNWeXppNnlWS1U5R1dCWWljUUNndzNydThRTkx0MXJEZXVYLVUtR3JNZWgtR1J5VDlvYy00bTdjdHpGT01lOW5wam9DOUVfcTlwUkpidUxFMnFFbkZGWUdyNlhidndpamlnc1JJeGpsallWWkpoLXUzTkZ2UmFUQTZIYkZTRGNic3dKMV9iOWh1alpsMEJNa1ZucV93X2FKX1poZlNjbVJkY0lHcERISjNGRkFZTjhmRW42cHJ2SjZKcVk0NUE2dWNKbXJWZ0c4dHA3clNOQkJQQUhEb0dzUHc?oc=5",
-   "date": "2026-11-17T19:34:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9b764cfcc2d6",
-   "title": "Keiko Fujimori viene a Barranquilla para gabinete binacional con De la Espriella",
-   "excerpt": "",
-   "source": "El Espectador",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjRUR3dZdmVtejdwd0gwYldqOG5RQV9uQTM1T0VLc3ZlQ0h1amNDcGd3S05jLVRERnNFMHFNMlB0bmpqUTdkOW5pNkFoSUM3UFdpZFRUc3UydmxOdDdOVEVnZnhGRzd1cGFxRzJleUF2NjVadEJHeWJ0dE9sY0lOS2x0eWlqSTY1b0gtODJDMWNHVVdraHljMER1bGdBc3RLamQxNlRkWUI3VFlFYTg5TnNvbERkcGFPcDJOYXJJYnpYZ9IB1gFBVV95cUxPS3dReXRLUmo2VFJ1VkFkMXYyazlnbVZpcHl4dVZNTnJoZGlOOVh4ZG9DX1Y4NzVWLXU2SW92Tllrby1ZeG5aWG5QcFROZXlsbTROZThlU1hTdHg5bU11bVc2MXpPeXFNMWIxMUNvQ3lKbENrS1A0Ynh6UkpONmliYkZNRi0tR0o5QTFVQmJyNFJka1JhYU5yRnB5b2dkVktsalQwM2YzY2x3NjNnQ2ZhbFF0RUQ1UGs0ellTbW5BeDdGYnBaM1lZbEc0WGdicUVCVE9aZWNn?oc=5",
-   "date": "2026-11-17T19:29:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
