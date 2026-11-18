@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:23:26.201850+00:00",
+ "generated_at": "2026-11-18T17:44:44.122642+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-18T16:26:00+00:00"
+  "date": "2026-11-18T17:40:24+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +270,32 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "08bfcf8787de",
+   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
+   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
+   "date": "2026-11-18T17:40:24+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "1e47757868cd",
+   "title": "Keiko Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0V4X0tuUFkyQmJtdGdudF9WUVJMREJoTVdEX042dWJTcXRfNWVZZl9PMGlzVF9YZ0o2OG4zLXNCRW55VW8wLU5KcXhGeEN4VG1oaEZ0WkkxYk1kYm1qZElQZ19PUGtaNmxENElfTHdaS1QyNmdQSVZNMzdiUF84ZmFVM2E2UQ?oc=5",
+   "date": "2026-11-18T17:15:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "34aa4e5d4987",
    "title": "¿Keiko Fujimori y Abelardo De La Espriella tendrán reunión en Barranquilla? Esto se sabe",
    "excerpt": "",
@@ -283,6 +309,17 @@
   {
    "id": "8dadc5b63271",
    "title": "José Antonio Kast y Keiko Fujimori crearán un Gabinete Binacional en 2027: ¿en qué consiste y cómo beneficiará a la relación Perú-Chile?",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdmVTckhEOU9oRmdNTjU4UF9WNFJRVDlqMkp2bGtQRDU2SkVISGJHUk9mbGJaMG9lSWt1UG5HREhqRTdoZ3lkV2x0SGRjMzFEZWZVZUx4WU11OWxncDN1dDZ5RzdHY2ZxUGFnLVFrUndmd2JLTTBhZGRtZkRQTE9PYUExUWI3dEpsb0RNWExURFo0QXA0Z1hlRlByV1QzUjBtYmZIRWw0SGp0TFQ4VTl4emZJYk13cEVHYW13eFFORWtQOG5fSTFmbkVwVFIwTW9VbmFyN2pDY1pSZ0NhVFdiSFdLdkI0MTdOSWJrRHdkTGhtT09WNGQ0Tw?oc=5",
+   "date": "2026-11-18T17:10:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f1421426e76f",
+   "title": "José Antonio Kast y Keiko Fujimori realizarán un Gabinete Binacional en 2027: ¿en qué consiste y cómo beneficiará a la relación Perú-Chile?",
    "excerpt": "",
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdmVTckhEOU9oRmdNTjU4UF9WNFJRVDlqMkp2bGtQRDU2SkVISGJHUk9mbGJaMG9lSWt1UG5HREhqRTdoZ3lkV2x0SGRjMzFEZWZVZUx4WU11OWxncDN1dDZ5RzdHY2ZxUGFnLVFrUndmd2JLTTBhZGRtZkRQTE9PYUExUWI3dEpsb0RNWExURFo0QXA0Z1hlRlByV1QzUjBtYmZIRWw0SGp0TFQ4VTl4emZJYk13cEVHYW13eFFORWtQOG5fSTFmbkVwVFIwTW9VbmFyN2pDY1pSZ0NhVFdiSFdLdkI0MTdOSWJrRHdkTGhtT09WNGQ0Tw?oc=5",
@@ -336,18 +373,14 @@
    "next": null
   },
   {
-   "id": "08bfcf8787de",
-   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
-   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
-   "date": "2026-11-18T16:26:00+00:00",
+   "id": "3dc401e44181",
+   "title": "Presidenta Fujimori se reunió con su homólogo de Vietnam en el marco de APEC",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEQzNnk1LWNuQnptcVdzR0lYanpZSzZVSE5UWXZpTnRObkVyX3Z1aTljU1dfbUtldmtvVkRWbTYtaE5FR2tBcmRkWEJlOTdVZThzS0hVWEwtaFJKYnhuUE5sRENzUi1BTTNsZHJfbXJhcWVYam5SUVdHVU1NVzBPOU5GMHB3RGktOWl4eElMVktuSldBRXJmSzVvd1VpOXgwV3M4aEFUUDNZZ2hWci1aSUROMks3aE1ncjVYQg?oc=5",
+   "date": "2026-11-18T16:41:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
+   "place": null,
    "next": null
   },
   {
@@ -623,9 +656,9 @@
    "id": "9a03657ff223",
    "title": "Keiko Fujimori y Claudia Sheinbaum se reunirán en China tras retomar vínculos diplomáticos: ¿Cuál será la agenda?",
    "excerpt": "Las mandatarias de Perú y México tendrán una cita en Shenzhen durante la cumbre de APEC, tres meses después del acuerdo que normalizó la relación bilateral",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/18/keiko-fujimori-y-claudia-sheinbaum-se-reuniran-en-china-tras-retomar-vinculos-diplomaticos-cual-sera-la-agenda/",
-   "date": "2026-11-18T11:27:52+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNEZlbHpYM0RVeVhjQUtMZDdWZkFCTEt2QmZ4LXhZZTNMS2s0anpSLUJsMzB1bmFsdVhwY1Q2NHNCX21zelg2b1FJekpqWEVTRkpZeDRMRWg2bFVNOTJ6YUl4dVlaa0RNRVFNcWRaLW1sSXNubGhLdERYemtkUXhXWC05Y1lIdzRUSjV1eGltX1kxY1F2cHpkSnR4Q1pPUmQydjNwcGZ5bktRZEo3WEx4TVdodEVzbzlDSGdjeDFNUDRRRTdXa3I5Q0VfTjQ5S1hzYjZFbXp2LWRlSmx4LXNLODRoQjVxQdIBgAJBVV95cUxNRXFhQlR0YnY5ME5UdjlJdGdGaTZkLXhOeUgtR0o4M0xFUlF3M3NRTjRTaHJSNVpyS2lTX1JxTTBtZDVlSHRWc1F3WUhLOVhfQTJEZVNlQUZFeDBIQmlfdnRKbndrMC1RX1EyRzBWMGNKZGtuMVlLdi1jWHpOSjZ0RW1hM3p6RHRFWTlabTNTMFFzZWdrUmYyTnY2T0h0S2hsZEJfdkxCMzRBc3VwdjY5Z2M1RTQtMzBUVUk0amV4U000elBCTTN0MHFNTEpyc2MyX1pzQ05wbXd5UWZYWGcxc1J5WW1EMWs0ZHluXzlQWjV3dEt5RnFqX0I5cnFqaFZu?oc=5",
+   "date": "2026-11-18T11:27:00+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -713,17 +746,6 @@
    "next": null
   },
   {
-   "id": "3dc401e44181",
-   "title": "Presidenta Fujimori se reunió con su homólogo de Vietnam en el marco de APEC",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEQzNnk1LWNuQnptcVdzR0lYanpZSzZVSE5UWXZpTnRObkVyX3Z1aTljU1dfbUtldmtvVkRWbTYtaE5FR2tBcmRkWEJlOTdVZThzS0hVWEwtaFJKYnhuUE5sRENzUi1BTTNsZHJfbXJhcWVYam5SUVdHVU1NVzBPOU5GMHB3RGktOWl4eElMVktuSldBRXJmSzVvd1VpOXgwV3M4aEFUUDNZZ2hWci1aSUROMks3aE1ncjVYQg?oc=5",
-   "date": "2026-11-18T03:11:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "baf6e3b896d1",
    "title": "Presidenta Keiko Fujimori sostuvo reunión bilateral con el primer ministro de Papúa Nueva Guinea durante cumbre del APEC en China",
    "excerpt": "",
@@ -743,7 +765,7 @@
    "title": "Keiko Fujimori se reunió con el primer ministro de Papúa Nueva Guinea en el marco del APEC en China",
    "excerpt": "El encuentro celebrado en Shenzhen durante la cumbre de APEC incluyó una propuesta de convenio técnico sobre clima, protección marina, combate a la pesca no regulada y cultivo de papa",
    "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbUV2THo1UWhITXRyVGJEQjBLRmo3U2RpTzB0OTJMRWdNYkQyRlZnMVl2SXMtZzZ1RDJTMnRNeFNNYmFqTnQ4Mk5rZlJjamFKSkFreFVPbEotOXF0MHZQamF2Z1JUajhCMTRVOENpdS1iaE9fQi1VaXBXNzVPSjJEVmZwUzdSeDc0SXp0RzlHNy12STVLbTNSOVFFZGlpeTJiLVNXQ2FQSXVnX3BqQ1RUSUlURF9xaVQxckNLelVndlIwY0I2cWd1alg5V2xYZjFzOEFhQ2luNNIB8gFBVV95cUxQWjFSbUp3amQ1bzNfRzZMMUsyeGNibjQzcWo1anBFakJjaE10NlRQWXJXWmNlak5KTWtRRFVmNG9adnRoX29fVl9KOC1iY0ZyZDViUW5yZFhZd1p0TVBualo5MXpnLTRydmZjQzZxNURDUHltVjFOU19MSGxiYXpSZEZxNlg5MWdkY0k0eXNTUm5IcDJhXzIwS1c5RDJxZXlCWTJNU0Y0LXFTQVc5SkFwdGl5V1pjdTVEZ2piSnFUNm11YUVzRlRYS05RRVRYM2hoZ3Ryb3I1X3RPN3pJWjNvUV93VUh4V0N2ZlVDbFdQYXhkZw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYldzM3VCcnY2LUt2RjlsSDM1Yi00bFVqM2NjMF9OYkh6VTFYaFpFWGtIUHhjM1FJMjdvR2s2WFhkSEhNdWVrUVJjLTdncUcyVjBIV1VhdHVwMER3V3B4cDNoYWNma0hYRTFFWTVsX0ZVbzN4THZiYnlMeXdodmNrTHZlZ0h2UXF6dmdwa3FJU25vaWcyM0tpeTNfUWhQaXpnU1pHbTR4eTU4M2MzNE1CV1F5VERTSWx6aWJpc3NGTk9ldHlTRTRIOXpEYmFVNGU3bjZ2V3p1bFZSQdIB9AFBVV95cUxQTHRPWUtaMEwtaEoyNWFYamdUZGplZWJMZ1ltXzdkcGF3ako5RWxON0lYSGNFbzhiZUhsV3Z6V3E1MTEzQlRTTmNiM09QVmViMy0zSXdDWUw2dURwX1o0akxJamU3emQzRUdFSjJMemRQc3Rna3kyaHJ2NWZDdkJ1d0M3ZXBfVjdRVXhqQjBFeklSWmZsWFpYMXZ5ay1UUVg5UC12YTA3bWdwLTBKZ3ZWd2NMeDgtd0ZReFltZ0h4dHdRVnpuY2k1enNjRmdpVnk4RThIbUJBOVI3TGNpNGd4cjlRMXJvU0dYZG5Idmc3Tnhva0xR?oc=5",
    "date": "2026-11-18T02:44:00+00:00",
    "state": "posando",
    "place": {
@@ -965,28 +987,6 @@
    "source": "ELHERALDO.CO",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTDVmendSYTZXUUw4YjhoUkxMYkpSa1J2UHFkeHZoMGFlSGxSbTVmWXJVQ2V1Z3Nnd3VTYlZNMndpTE9McmZDT2pjY1RMWWxIZmJFai1IM0QwdHNFa1hydS11eE5fMDYxemRfNzJ5QmlMTVVmSGtkQnpaRlIyWWRfdmVkQlVpaThLSk5sNGVaYzg1YjFCWnliWGg5a25Dei1GMkx3d2VtQ1l2RDhYblVKYzdkdUlaNUZEdXFsVTBiX0x5emVTTE9WZk81YUxiUW5tVGdnR3NIUGRZVnNkMlZNZVp4Zw?oc=5",
    "date": "2026-11-17T23:06:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a16755555044",
-   "title": "APEC 2026: Keiko Fujimori destaca estabilidad económica del Perú y pide a empresarios chinos mantener sus inversiones",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRWY1OTNMNmFYb1dNQmtQTHI5T05vcEVCQTFfTTU1UVpFN01oWXJTd3dXQ0E1RmMySUlBenhNeWt2NVBiUXh4UDBRS25vUUt1R1dkbmROZ0VtTnVCRGRRVjktMmYyLVR2YlUtSGE3Nk1BVmpDWHZMT3FVNUJhRUdEYjRpR2xDeERURDRKd2tjMDZORDl1V2wtNlFkcUYzQWN1Z3ZoaTZENGRJUGJhNGs2Y3llZnNpc05vUnJWR3k5UURkbU5LQTE5UDBvaDRRamhTN0UwbkExUEVFaHVkNEZlSlhUbmR4em5PcjJyT3AwdDJSbGJNcGlrRkswYnLSAZACQVVfeXFMT2swUkNqVUlJVlFkZFBzRU1GQml5VXBtQzJlX1kwcDlUMUFyenQ4MWFMeU8zdVlYNlpKUDg0dWhQNjBObTloMTdhR1lSR0NWWHFFZXg1YXRKdFBrSlk3QkpKalE2X3U2UUoxSFFaTUgzaVBrWVJEZTdsZ0Y1OHlBUWNrV2R6QzNsU2JFR0V0dlVyY3VVcS01UVVnajJDZkpOaHRZSGM0QVhpdnlST3plRnhRTDB2SUhhalM4QlRzUDROeTJjZ1U2RjU4UEdtMFF3Y3E4QzhoTjA3d0Q2SjE0RHI4TkwzLThnVGQ0ZDRfa0M2RU5KVlNKYW9jRGJYM1RPT19LUXhIQkR4bGt3Ul9SeVE?oc=5",
-   "date": "2026-11-17T22:26:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6a60febb660e",
-   "title": "Keiko Fujimori presenta a China como el principal socio comercial de Perú",
-   "excerpt": "La mandataria sostuvo una reunión bilateral con su homólogo Xi Jinping en la ciudad de Shenzhen. Al término del encuentro, destacó a China como el primer socio comercial del Perú…",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0psblZEOXR2R0piYklhM21rY3JGZTZKMGR2VjBBSTR5a3VxQXZ5WXgwRUdxaEYxeVVLU0pfMG5sd0lwUEpQZFY5aE1teVo2VF80UEdZM1NPQkI0eUJ0UDlCVkI4MW10b1FZWHM0R01lcXBDMF9QbmFJLUhTWGtTY1dOQnFGODBvOVRTd0g2ZTNLcDVvVFI2cnplbktiaGlRTXhoQV9Za0pWVlA2ZEJiZTdKTzhOMVdQYjlmQWJlaWxJZ1czZDBXZNIBzgFBVV95cUxNSkhDNWNGSHZ6LU4xVkdKN2NJS2pBT3dmUHlDYUpXM3ZUUWZYbnBtaFNLMWYwejUyVzZqbEZTWDBFeUhoVzl4dGlTQ01lYjJKSTdOM1lDaEJNX0VLNEE0NEg3Y1ZNOGREemZDT0RPVi0yanUwdGRESDk3ZG9DeC15RmlxY1FHQXd1SkZBQmhnQlM5bXZ0eG1YcnBxeFhXVGhhTDE0TVJQVTZPM2R4ZWJrWk4yRjBQX010YmtXZXJ2eGV1NlRQYmtQMnB3emVRZw?oc=5",
-   "date": "2026-11-17T22:18:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
