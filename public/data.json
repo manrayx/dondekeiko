@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T14:09:31.204402+00:00",
+ "generated_at": "2026-11-18T14:30:55.980925+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,16 +101,16 @@
    "city": "China"
   },
   "source": "El Comercio",
-  "date": "2026-11-18T14:05:17+00:00"
+  "date": "2026-11-18T14:24:14+00:00"
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 1,
   "triste": 0,
-  "posando": 58
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -270,6 +270,58 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "27555e7f245e",
+   "title": "APEC 2026: Keiko Fujimori se reunió con José Antonio Kast en Shenzhen",
+   "excerpt": "Los temas abordados entre ambas autoridades de Estado incluyeron el impulso del intercambio comercial y la posibilidad de coordinar acciones frente a los efectos del fenómeno El Niño (FEN).",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/18/apec-2026-keiko-fujimori-se-reunio-con-jose-antonio-kast-en-shenzhen-hnews-1601928",
+   "date": "2026-11-18T14:31:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e67c1c289174",
+   "title": "Keiko Fujimori y presidente chileno José Antonio Kast conversan sobre cooperación en seguridad y acciones frente a El Niño",
+   "excerpt": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-los-presidentes-de-mexico-chile-y-vietnam-este-miercoles-en-shenzhen-estos-son-los-encuentros-bilaterales-que-sostendra-apec-apuesplan-noticia/",
+   "date": "2026-11-18T14:24:14+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "08bfcf8787de",
+   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
+   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
+   "date": "2026-11-18T14:19:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "c40391dc09f5",
+   "title": "Presidenta Keiko Fujimori se reunió con su homólogo chileno José Antonio Kast",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5DYlBkcXEya3FYVTFzR25FcHFFaUM1WkZLNFdmWlpsVVZNdGhEQ29EWm9MZFV0TzJnTzRSbjJ2RUNkV3NhcmNfZlRfR3cyWEJaOFM3bVE1cjY0dGJwWkgxR3VlN1dxVkxLN2lzM0Q1V3NqZ2s5WjhjaUg0RFpoeWgyNUhTOGZvb3lTMWFfNks0eVV3Z1dOcTI4MVBucVZLX1ZWZnBaaVdCTHZ2UDBzLVlzTW9McTlaZVE?oc=5",
+   "date": "2026-11-18T14:14:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "865dde18bd4b",
    "title": "Keiko Fujimori abordó con su presidente chileno José Antonio Kast cooperación en seguridad y acciones frente a El Niño",
    "excerpt": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre…",
@@ -302,17 +354,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTlpa3hUM214bE9LMk5OZWlaUERLZ2xITERFQjczYmxHNlR4WTQ4UjY4aVNPRVZaQ0ZjLUZEVzN3aTU3bE5xaG1qOTRDemxLVnlPYzhVTHBuSW13aEJRX3dNUUlOUW5hX1ZSTnkwdzFsRjVUZU5rSjNVekY5SVF4UXBfZUNZQWt1Z214cF95X0tJeXZVTXVDeUxUMEx2bXQwRk9COHk1N0Rjcy1zd2N1UUhoRkx6N1FMeGoyZDhpSDNsbG1kWUE?oc=5",
    "date": "2026-11-18T13:42:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "27555e7f245e",
-   "title": "APEC 2026: Keiko Fujimori se reunió con José Antonio Kast en Shenzhen",
-   "excerpt": "Los temas abordados entre ambas autoridades de Estado incluyeron el impulso del intercambio comercial y la posibilidad de coordinar acciones frente a los efectos del fenómeno El Niño (FEN).",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/18/apec-2026-keiko-fujimori-se-reunio-con-jose-antonio-kast-en-shenzhen-hnews-1601928",
-   "date": "2026-11-18T13:26:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -407,21 +448,6 @@
    "date": "2026-11-18T12:24:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "08bfcf8787de",
-   "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
-   "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-xi-jinping-el-impacto-del-encuentro-bilateral-en-china-apuesplan-noticia/",
-   "date": "2026-11-18T12:19:08+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   },
   {
@@ -963,36 +989,6 @@
    "date": "2026-11-17T18:02:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "6bf4f84fedc7",
-   "title": "Keiko Fujimori en China EN VIVO: minuto a minuto de su gira antes de la cumbre APEC",
-   "excerpt": "Keiko Fujimori dialogó con Xi Jinping y sostuvo citas empresariales en Shenzhen antes de la cumbre de APEC 2026. El encuentro bilateral dejó un compromiso chino de US$22,5 millones en…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-china-en-vivo-minuto-a-minuto-de-su-gira-antes-de-la-cumbre-apec-hnews-558331",
-   "date": "2026-11-17T17:53:19+00:00",
-   "state": "transmitiendo",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "39134c0504ce",
-   "title": "Presidenta Fujimori inicia agenda en China en reunión bilateral con su homólogo Xi Jinping",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFBSUTRwbFo5MVcybHlZdGlmT1draVMtVGdneFQ5YWNJRTNscWgzSGJxVzhRb1lDT01vV2t4ZzRQLWNYOHg4QXJnVzktZ0g5VTYyMUVaSkNicW9vWGJMYnBPd3BFekttTTZ5WWRhcFNhTHBzazllSURocHF5c3NzVy1BVGZpU2p2ekJRMm56djd5WlozajBuSzNkblp3ZEpmajBGOXVWN3o4b3M0RTVTNFVkUy1CQUNUbDNzVGNPQlQ?oc=5",
-   "date": "2026-11-17T17:19:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
