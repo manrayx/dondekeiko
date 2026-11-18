@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T23:46:36.319405+00:00",
+ "generated_at": "2026-11-18T00:08:06.324292+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -406,6 +406,17 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUS1tOWJOQ3lJcE1YOU9rWkFoRF9TMXR1MTFIOERWbU1PbXB6dXZON2trOEJfSlNVV19EYjQ0eUdiT29FTDMwd0lwT0h1eTR3UDlSQzRUWkk5bHgyUzhJU29YdGtUV0dxSDNiN2R6MndrVlRzM1VIMmtRX3k1ckVibzNkSjk?oc=5",
    "date": "2026-11-17T21:47:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "804357ae86f3",
+   "title": "Keiko ofrece el puerto de Chancay y los aeropuertos del Perú a China como eje logístico para Sudamérica",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORFAtMDFLQnJYWTNlb3pHRUJpcV9HWWcycDhDNHF1MmMxZWtXbjBQQTY0dGhkTW5rZW9RbUZfR3lVeWh5SU1PY0I5Y3hOcU9SODEweVRtSkZMNGJPcVo2cXdnOHFSVU1MQ19yNmtOeURDTFZCbjlCcWVrV2lXalRIYzZ0U3hJQXR3eHZlS3l3YXhqcTE2YUJPZENGcVRuMmcxRkJYSG5uWEo0RHpDYWdIZklMNHp0cjFWUHdWdEdNWFpCUkgtS0o3bEhNM1Y?oc=5",
+   "date": "2026-11-17T21:31:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -972,17 +983,6 @@
    "source": "Yahoo",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMnJPYmh4Mjd5SXhPbjg4a1hHS09oVF9oU00yMDFaZkd6Z2Z3N3R6TEZjdkNyc2dBeW1BdGN2ZEpyUUlURFJEQ2JBUTREM3A1UkVqWm1KRnRGVGJCZlRIc1pWUExYZlIwY054c1hBc2R4NGFrakpTZFlSWWQ2NmxuRExHTGJkQVg2ZEphc2NWZUFDa1E?oc=5",
    "date": "2026-11-17T09:09:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3b3a3feb3bb4",
-   "title": "Keiko Fujimori sostendrá reunión con Xi Jinping este martes 17",
-   "excerpt": "La presidenta Keiko Fujimori sostendrá este martes 17 de noviembre una reunion bilateral con su homólogo chino, Xi Jinping, según la agenda prevista.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-sostendra-reunion-con-xi-jinping-este-martes-17-noticia/",
-   "date": "2026-11-17T07:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
