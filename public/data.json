@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T15:14:00.605598+00:00",
+ "generated_at": "2026-11-18T15:56:43.245918+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -292,6 +292,17 @@
    "next": null
   },
   {
+   "id": "a3e53e614b18",
+   "title": "Keiko Fujimori será recibida por el emperador de Japón y se reunirá con su primera ministra",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcW1tTU5hZHg5OWFtdjBSbEdrZ1MtenAxaE0zek5jeExKQjY2czZIZnRvWkpEa2ZaZldKdDQwVlVFa080NzFxSmVhS0F3OXB1TlVDaXZGT1MwTDhvbjNzZW5CbE9tN2hZN0xtdFZJdGV0MGVXUUZtS29qU3Jfd1J0eTJtR21sTTVjYzB4MDZRcFN5X2RaSWpFQy1iSENNNXdqRHNF?oc=5",
+   "date": "2026-11-18T14:38:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "08bfcf8787de",
    "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
    "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
@@ -562,17 +573,6 @@
    "next": null
   },
   {
-   "id": "a3f698d97c9d",
-   "title": "Presidenta Fujimori resalta voluntad de seguir trabajando junto a empresarios de China",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2F5Mm05ZXdfakpvQl84eUktd3hidlR6ejd1bk0zaWRVbHFxUTdHQ3BteUtONWwzS201UGFwa2htT0NRdy1jMURLQ25tZUdNcDhHTHItcWNKODVsY1VmUWdGRlcyT3VXaDhlT0pzcHJwVHd5aVVZaDV1NWRYb000R0RCOS0wTjZab0tNa2FJdzFOckpGYWtMQkNfa3JZSXd0TjJTMC1qWUdJUTNKTGlES0Ewd0drSFZaWm5USEdiNWZmdjhNUUE?oc=5",
-   "date": "2026-11-18T09:38:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "8da37dfd4f35",
    "title": "Keiko Fujimori en la APEC: Carlos Raffo estuvo presente en almuerzo organizado por la embajada de Perú en China",
    "excerpt": "La Embajada del Perú en China organizó un almuerzo con motivo de la visita oficial de la presidenta Keiko Fujimori. Estuvieron presentes aproximadamente 70 representantes de empresas chinas de diversos…",
@@ -585,6 +585,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "a3f698d97c9d",
+   "title": "Presidenta Fujimori resalta voluntad de seguir trabajando junto a empresarios de China",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2F5Mm05ZXdfakpvQl84eUktd3hidlR6ejd1bk0zaWRVbHFxUTdHQ3BteUtONWwzS201UGFwa2htT0NRdy1jMURLQ25tZUdNcDhHTHItcWNKODVsY1VmUWdGRlcyT3VXaDhlT0pzcHJwVHd5aVVZaDV1NWRYb000R0RCOS0wTjZab0tNa2FJdzFOckpGYWtMQkNfa3JZSXd0TjJTMC1qWUdJUTNKTGlES0Ewd0drSFZaWm5USEdiNWZmdjhNUUE?oc=5",
+   "date": "2026-11-18T03:33:00+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -617,9 +628,9 @@
    "id": "48514661ed04",
    "title": "Keiko Fujimori se reunió con el primer ministro de Papúa Nueva Guinea en el marco del APEC en China",
    "excerpt": "El encuentro celebrado en Shenzhen durante la cumbre de APEC incluyó una propuesta de convenio técnico sobre clima, protección marina, combate a la pesca no regulada y cultivo de papa",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/18/keiko-fujimori-se-reunio-con-el-primer-ministro-de-papua-nueva-guinea-en-el-marco-del-apec-en-china-2/",
-   "date": "2026-11-18T02:44:46+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYldzM3VCcnY2LUt2RjlsSDM1Yi00bFVqM2NjMF9OYkh6VTFYaFpFWGtIUHhjM1FJMjdvR2s2WFhkSEhNdWVrUVJjLTdncUcyVjBIV1VhdHVwMER3V3B4cDNoYWNma0hYRTFFWTVsX0ZVbzN4THZiYnlMeXdodmNrTHZlZ0h2UXF6dmdwa3FJU25vaWcyM0tpeTNfUWhQaXpnU1pHbTR4eTU4M2MzNE1CV1F5VERTSWx6aWJpc3NGTk9ldHlTRTRIOXpEYmFVNGU3bjZ2V3p1bFZSQdIB9AFBVV95cUxQTHRPWUtaMEwtaEoyNWFYamdUZGplZWJMZ1ltXzdkcGF3ako5RWxON0lYSGNFbzhiZUhsV3Z6V3E1MTEzQlRTTmNiM09QVmViMy0zSXdDWUw2dURwX1o0akxJamU3emQzRUdFSjJMemRQc3Rna3kyaHJ2NWZDdkJ1d0M3ZXBfVjdRVXhqQjBFeklSWmZsWFpYMXZ5ay1UUVg5UC12YTA3bWdwLTBKZ3ZWd2NMeDgtd0ZReFltZ0h4dHdRVnpuY2k1enNjRmdpVnk4RThIbUJBOVI3TGNpNGd4cjlRMXJvU0dYZG5Idmc3Tnhva0xR?oc=5",
+   "date": "2026-11-18T02:44:00+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -978,17 +989,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "c9e560f74440",
-   "title": "Keiko Fujimori busca atraer inversiones chinas y fortalecer la cooperación frente a El Niño",
-   "excerpt": "",
-   "source": "Caracol Radio",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3BJYUV1QU1ocnVyNVdUMGRhZUkyRGEyQUtrQ0ZEU1NpeFYyVlBFQzJpRnRzdGoyWjNDMjgtcTJ5VkNCRUtLUU9wYnNZbFdpNTlSTW5Eb1E0dUsteFB1S0hUQzltTEZ1aTB0dlhtN0E3c280OVVTOTFDYVN2SjBaM0FsM2VQT21zSnNHNE5HYjJJV0M2OXdNWXZobzg5WE5IRkVmSnRfVzJBODJpX052bGgwZnMtRHpsWHp6V2s1NXBfNmFN0gHYAUFVX3lxTFBSSEItYmdqX0Y2bXBabFVkYzlDZkJuZTFHdkFMOUdfc0xJQkVzRTdTVmdLSjdjV2lJZWlIMzdkMUN6cm5aaEN3RUpPaktrdDhYbmZOZ0Z4NVVxLTRKYjJtN1MwYW8wTUtWMGdEeG12azg4MXMtT3F4R1hjRVZYdlk3dzBSbmR5c1ZNYlRRdXQ1Y3V4TV9ybENNUEc2ZXp2dkNndHZIRjYtbDJEZ1dGRHRIWE56VXE3UnpjQWc5VzFqcVdheUFOcENqWDhLODFHLWlRaU82cV9pbg?oc=5",
-   "date": "2026-11-17T20:07:13+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
