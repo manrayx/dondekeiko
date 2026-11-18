@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:04:33.933486+00:00",
+ "generated_at": "2026-11-18T09:52:41.142737+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a3f698d97c9d",
+   "title": "Presidenta Fujimori resalta voluntad de seguir trabajando junto a empresarios de China",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2F5Mm05ZXdfakpvQl84eUktd3hidlR6ejd1bk0zaWRVbHFxUTdHQ3BteUtONWwzS201UGFwa2htT0NRdy1jMURLQ25tZUdNcDhHTHItcWNKODVsY1VmUWdGRlcyT3VXaDhlT0pzcHJwVHd5aVVZaDV1NWRYb000R0RCOS0wTjZab0tNa2FJdzFOckpGYWtMQkNfa3JZSXd0TjJTMC1qWUdJUTNKTGlES0Ewd0drSFZaWm5USEdiNWZmdjhNUUE?oc=5",
+   "date": "2026-11-18T09:38:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8da37dfd4f35",
    "title": "Keiko Fujimori en la APEC: Carlos Raffo estuvo presente en almuerzo organizado por la embajada de Perú en China",
    "excerpt": "La Embajada del Perú en China organizó un almuerzo con motivo de la visita oficial de la presidenta Keiko Fujimori. Estuvieron presentes aproximadamente 70 representantes de empresas chinas de diversos…",
@@ -297,17 +308,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "a3f698d97c9d",
-   "title": "Presidenta Fujimori resalta voluntad de seguir trabajando junto a empresarios de China",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2F5Mm05ZXdfakpvQl84eUktd3hidlR6ejd1bk0zaWRVbHFxUTdHQ3BteUtONWwzS201UGFwa2htT0NRdy1jMURLQ25tZUdNcDhHTHItcWNKODVsY1VmUWdGRlcyT3VXaDhlT0pzcHJwVHd5aVVZaDV1NWRYb000R0RCOS0wTjZab0tNa2FJdzFOckpGYWtMQkNfa3JZSXd0TjJTMC1qWUdJUTNKTGlES0Ewd0drSFZaWm5USEdiNWZmdjhNUUE?oc=5",
-   "date": "2026-11-18T04:45:08+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -395,6 +395,17 @@
    "source": "CanalB.pe",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDludmNmRm5uTjdpeU12MUN0V0dDR0JwbU8zUFROSW8zRk1RWlFMc21VZTc0NTktajBQN0VfR3J4OFg5S1lybDh0Vy1QQ2FCX2lHd0c2cy1ZbTJ6VnVFYWpPZGFLXzN0Smx4Z0VBak1oa2JQN3NJTFpRRXZTcGNLRzdHOUJ2N1haaWEyRTA2Y182NHhHR1RXSnZmdlNYWmM?oc=5",
    "date": "2026-11-18T01:49:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9aeeeaa20463",
+   "title": "¡China da una mano! Keiko Fujimori anuncia que Xi Jinping donará US$22,5 millones para enfrentar el fenómeno El Niño",
+   "excerpt": "",
+   "source": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPakdzX2s4UDRRTnh1bWFOVDROQVlnYlo2RFFKS0xxajJsUktKR2Q4OEJtbnJCTHd2aDF2cHhVdlVGVDQ2SXFfM01sZTAyekJmbVBNeDVzTUtYVzBJVXgzbjNJRVVNMjVkNW9PUzBLWWh5bmlkd3NiSnQ4elowTi10YS11VWx5Q09RMVJhcXNwQ05VQ29UWGVnem53M25Bc1JJZm13c3IxM1FxTWFOa0RQZmZuZDFQUF9iMkRiZ1YxM3Q2Mkp0dEY5MnJlMzhNMWZHWkYydlJXVG5wOTFpOVE1MHRJX3JHbXhMOXN0TVY2Sm9CTHZLVHhJd0Z1d2PSAZACQVVfeXFMUENVSkJrdU5DbUp5SW1qOVdkV2FCTHI4Y2hvOWx3T0hzSkNYWUJ5cm5XQlpQbVpYRVZuSEFFZDh6YkZPTmdyTXhhTHh5VnQxM1JxN0Jkc2ZFd1dEQ2V0YmxmUTFldXQ2UEdqNXVkckZfSDhHcWs3dUV2RWY4RkF1VzVlS29pcVB5c2NtNmdtRk10a1BfTExBdXU1R3Z3c2k1MW1OLWdvZEdweUZjRjJzSVZLQzNNRk5lYm1rMFdLTmFtbFVaVXRKNzFHV2FQVzVaUXMybGJ3TDRUeE5ya19vSWNyYmJiTXp0TkgtNEE3enhKc3p1NUxxTzlGZzZWQkJpbVRlRGtGeWwzNldNNzRYR0E?oc=5",
+   "date": "2026-11-18T01:37:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -976,17 +987,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/17/apec-2026-keiko-fujimori-y-xi-jinping-se-reunieron-en-shenzhen-antes-del-foro-economico-364463",
    "date": "2026-11-17T13:32:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "840c8c790c28",
-   "title": "Keiko Fujimori: China apoyará con 22,5 millones...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckpCZmJpUHJnS1VZdTNtSVFrZHhyUV92ZEUzd205dEdiQW1USS0tM0FsOERXU1U1MVFoTUs3cWxFQlBRXzFJQjlHbUlDOTA2MjJ3WGNYdTU2SlNjZnZXTkRHYUNjMzRaMVBmb0c2RUVZMkpZYUJ4NEVKQ0NoSjlRcFk0UEUtc1NaS3BMU0h2NHpaejFjUUhvSUt3S01tM2NwY2FIYUhRejF4RVpzUUQ2MnVVcFnSAboBQVVfeXFMUDZtT3d4V1ZwbXRneGRDa1N5Nlc4cTZDOVZLUG9uWXBaV2w5TUVKZHVpLXJELTB6NTRqbjdHcDdiVGhCY3ZfUW5lMzJ1QUh2RmVOMHBfTW00MXN1V3Q1aW84cEMxMUU1M1RnakdzNW5RVUtxZDkwMW9FT3VzZkM0MElaS0RXMHNvMS10bHFSV193cWN1RmxLc2VYZFBKQmJDNWkwSUxZU1ZqTWZET291STNIcmpQMTI3SmtB?oc=5",
-   "date": "2026-11-17T13:30:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
