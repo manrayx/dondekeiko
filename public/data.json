@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:29:55.896503+00:00",
+ "generated_at": "2026-11-19T19:33:46.589941+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -375,6 +375,17 @@
    "next": null
   },
   {
+   "id": "ef40e9e73e39",
+   "title": "Barranquilla será sede de la cumbre presidencial entre De la Espriella y Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Expreso",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakI3NDNJYkk5ZHBONWdmeGpfZDhHenl2OFZjNDI0ZWxfUXlmRktNeTl5X0E4OXJoQ19fWHVETXJwQXpXTXdLRVdHMXBqYXZrZGIzck5uSUFFUXo2akdnal9wMGo3Yk5yTnhTX0JybTh5bmtUU3llbjJra0FyY0UtcUZJTWM5SGdzTXFYSE9la29LLUp6UGwyd1dNTjFKTktUUWd1aWFnNHRBekt6S2E5akNmOA?oc=5",
+   "date": "2026-11-19T13:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0a243d78145c",
    "title": "Lo que se sabe de la reunión entre Keiko Fujimori y Claudia Sheinbaum en China (VIDEOS)",
    "excerpt": "",
@@ -707,17 +718,6 @@
    "next": null
   },
   {
-   "id": "206824a5d843",
-   "title": "Presidenta Keiko Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZlR4WVVtRGZWS2lScDc3TlpScHdtYy1yQWR0RmpreTl6dnEzZWpjYjdmRVNCd2dZazk4U09HNlkzaUgzRkdjRHZ3MTZXQUpKeklhVkNhMVRaYUpIZ2lqTUo3MGR1bjliMDhoUG1oTXlrLUV5MVVlNXlpY1N4QjRIM3U1T0VZSGNTT0x0WVFLYS1NdVluMHB2QWpVUEY0OEZhUXdrTkx4NmxuUl9NYmszOVdxaFRYWFY5YXR4SW1IcFRKX2RTbVkyYTIwMExBTjE0b240TkdZWGxDbjZHMWFqSjlLMXBqNG9ZMVBlWNIBgAJBVV95cUxOZjdnYTU2N2xYT3Fzby1IRTM4WDJTWnFDRlFQZ21aOV8ySWFLV2pLQVQxVWFWZ3JPbXNTMEd3a2J3cTNvZXYzRy12bWNId2swQTNTT0ZMcXZodjdDMjhFbTZ1WkVxcG9ZSGxwMDYwdVhndHRVNWxBbGgwalVnQlpQMTdKQTRJNjMxRjUzb1Z0b3FxbFl2QS1Jc0l1X001d3hNbFJHa0tNOWNtMVdJUER5ZDhLRUVaSXZISE1FMWFkM1NkQTU3b1Rld21qZUFvZ1NHRC1sbHRzM1RWWUNzYUN0YU9JUE9PckFSZlVyRkFiNS04elNQeExyYVFYcFZmRURO?oc=5",
-   "date": "2026-11-18T21:23:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "d456d6a8adda",
    "title": "APEC 2026: Keiko Fujimori plantea fortalecer la cooperación entre Perú y Singapur",
    "excerpt": "",
@@ -887,12 +887,12 @@
    "next": null
   },
   {
-   "id": "3dc401e44181",
-   "title": "Presidenta Fujimori se reunió con su homólogo de Vietnam en el marco de APEC",
+   "id": "206824a5d843",
+   "title": "Presidenta Keiko Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi",
    "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEQzNnk1LWNuQnptcVdzR0lYanpZSzZVSE5UWXZpTnRObkVyX3Z1aTljU1dfbUtldmtvVkRWbTYtaE5FR2tBcmRkWEJlOTdVZThzS0hVWEwtaFJKYnhuUE5sRENzUi1BTTNsZHJfbXJhcWVYam5SUVdHVU1NVzBPOU5GMHB3RGktOWl4eElMVktuSldBRXJmSzVvd1VpOXgwV3M4aEFUUDNZZ2hWci1aSUROMks3aE1ncjVYQg?oc=5",
-   "date": "2026-11-18T16:41:00+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2g2U1c1QUJTLVZ3MFBBMnlBS0ZUbnJzeDF6dWR1LS13SjRObE4wc1RyUWV2NkZHVURxa0tfdDhRRUI2ZUMxU2M2aXhtZnhxNmtXLWRtaWJRb3N5ZUxpRDFXZVVqUGNIS2JVSlBRc2VPaUJtZzdRYXVXLVdjVTZUSFNoRGFPWjI0NGp3cFVMcHVIZTlBQ2NvbWNtN0VXdmpHNjd0N21SMHo1WVVmUUllU0t4VzNRVWNmTGY5MDJrSE5ZRUc3clEtYXJzWE5MU3Vncmhj?oc=5",
+   "date": "2026-11-18T16:44:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
