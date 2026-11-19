@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:28:04.196743+00:00",
+ "generated_at": "2026-11-19T03:49:28.912667+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-18T23:31:00+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-19T03:31:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +270,32 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3501616b94f3",
+   "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
+   "date": "2026-11-19T03:31:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "01e22808c7ca",
+   "title": "APEC 2026: Keiko Fujimori plantea convertir al Perú en puerta de entrada a Sudamérica",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnVrZU9xRTVkTEVkTjVack1sWDh2a2lqWGRMQTNvNFhZWWh3ZFQwQS1RUGZHenpwWm55QXBuUTJEQnkySnRVN2JrNWpLdWRyeFByR1pCZVdua0tLQm9DNjQzX3FnNGdMbWpHTjZzR0VxeXlveTNjWndnWkloY3djampJMjVOa1ZXSkdMOV9LdUg5RUk?oc=5",
+   "date": "2026-11-19T03:27:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "eab8eac07218",
    "title": "Keiko Fujimori presentó a Perú como acceso a mercados de la región ante empresarios estadounidenses",
    "excerpt": "",
@@ -322,6 +348,21 @@
    "date": "2026-11-19T01:29:25+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "8f3322cbc141",
+   "title": "Keiko Fujimori sostuvo reunión con empresarios estadounidenses en China: destacó la política de apertura económica del Perú",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPemRMSmhIb29WaUd3dzVEVGZHc29FRHVHa2YydU5JU2hrNFpvYkNfTjUtTXl4TTdUWlVUVVZkbFE3ZmlweGNvTWloRWtpWHpNWEVZbGxFX2RSUTRYZTNSSUtJRVFLMWlONFRyYmFScDVkMkd0c1RvOXNFem8zd3RFQngyUWdKOEtjaFlaVnlKMXJNU3dhUk5tQnllczlSVHFZWFRCb3NaUERTbm9wMnVyQ2VLTWZjSXBvVlV4aWRkaXNpOU5NaVpVbXlPT2IwTkdpSzNCMHNTTS1hQ01sUFdnNFM0bjh5R0NE?oc=5",
+   "date": "2026-11-19T01:17:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -623,6 +664,17 @@
    "next": null
   },
   {
+   "id": "964faaf9747c",
+   "title": "Japón prepara recibimiento especial a Keiko Fujimori: se reunirá con emperador Naruhito y primera ministra",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVFBaU0c4Ull0dVl3YXF5SWpZU1IzR1hYdUxBV1Z6TVpzLXJXSjAxdU9zUEZTWmxCWGpKVlRJdm5rNUVMZW41TVBNcFd0RHNWVU1manBIaXFaN3ItSzJTemJDUzQtVUlVVnNka000UnRLamhyZTBSSXJPU09kMlBWTnFxQW9ETW1fOTByZHRvRE5UVjVqYjFlZmxoX0pRUjBJQzBXajNUeUFsUFFsYVJwT3otVjZsYzFHVWVsWm9pOHpTQzJNcS1QM1V5Q3ZtTXZGMkJTb1RVTUFCNk1NbWhpbUhIY3dRSHQ2VS03UkJfMF85elJKRHE4VGNJREcxTjRWWEpPRVZWOVoyRXRQMUhIYV9fZ1pTMVF0R1BRZFdKMWRuTmw1cFlGSFp2QQ?oc=5",
+   "date": "2026-11-18T15:37:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7edec40276bb",
    "title": "Presidenta Fujimori se reunió con presidente de Vietnam en el marco de APEC [video]",
    "excerpt": "",
@@ -903,70 +955,14 @@
    "next": null
   },
   {
-   "id": "2052a77d25e3",
-   "title": "Kast se reúne con Keiko Fujimori en China: \"Queremos seguir trabajando juntos\"",
+   "id": "88d55b0d56b9",
+   "title": "Keiko Fujimori anuncia un aporte adicional de $ 22 millones de China para construir centro de monitoreo inteligente en Perú",
    "excerpt": "",
-   "source": "Teletrece",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTFvbUFVYnRSU0RtTklxZHBRT3E5QUdlTDI1c3ZCWTVOMUNJQ0Zqa1V4dkNydWNnU215NnUtb0VPUzBuTmtUYjZDQzlkZUpWR1lQYkNNYVdzRG85NUlZdTZqZVZmR0w2T3RxVXdxdWNUQVA3cDZSdl9jUk42dnl3VGh5Sl9MQnlKLWdRWHo3Z25jazRoeGhOSE13S3ZCNlQtLTlfZ0lWV0hxVUk3bVVoZkdwb1RFd2pCNXNYS1BTTUtXd2dF?oc=5",
-   "date": "2026-11-18T10:48:21+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "0fcf633d301c",
-   "title": "Keiko Fujimori y José Antonio Kast conversaron en China sobre asuntos comerciales y colaboración ante El Niño",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU0tMcWJqUEJLclc2eTdOZkZkY3pTajFiNWg2YVpyZUhaQ0lNbklmbTBkdDQtcERld3J6d2ZDN2pnMjdTSlM4ZkhBQVhOd004LUMxYXZFdnlMZTRReV9JeTJDQVVwUFJfWGoxMXIxRnVmeV9GWXBya3hPUTBocmVSdlQ5eVpIVEFjWnljRW5xRTFqdEpkaHJYQ0xqNmVGaTVkSTI5dll0aVpGOTM3ZVZUcDRmeThVb3k1VkhRRVdvNFV0TkwweGhwZXdvSVFrNTkzYlU5ODZ6Q3JfYTNkSjNST2tVZjJPTDlwbEl4a1RZcw?oc=5",
-   "date": "2026-11-18T10:45:25+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "7766c1aaf4af",
-   "title": "Presidenta Keiko Fujimori visitó el Centro de Comando de Servicio y Administración Gubernamental del distrito de Longgang",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNUFXMThwMThjd0ZINFZmSUVNTU02M3ZKVXliSThEbzNpbVF1MFJ3VkRtNW04Ylg3dFVOQTR5RmtkczB5cmVndVZRYkt1NGMwT3RzRmZDX1dTMUhMc3hNYjVwWkRmSjloU1cxNk1HQ0FHSW5BWU0wUzl4MFN5VndPWnNYU3NYOTlWdWt1YTFGaUhwZV9UNlFhNGhHdHBlN2dVcWFOM0dqTnZTN3JfWWJSTmUtSmxFendBZmtIWUlya2VxbEpBZzNmQ2hQbkNILVQteElVay1BM2F1eVdwdTJKcFlXd2FCY0d3alE?oc=5",
-   "date": "2026-11-18T10:42:59+00:00",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZUkxajNaR05TS000SGJPWlJfcExSZnVoOVpXajh2QXNNQWNJd1RWTTFzTTJmazJfcnRlQXFHU196d2xycGg2SzE3alRhZHpCYmYwQVFfS3RjbWNhVmE4eGh2OWIzSG1xNHZrNG1DbEhSYlJld3Z0TEtsRjJyTmJtY0JrSWktU3dYV2Q4SEZlZUludkFfdEp5RlVfbjNmenJxajU3bHRIUmFjTEd4bkpKbXhEMkozLTlNNjhoa3EzU05md09RQkVOckRjYmQtMEFlUENwdzd1cnM0NHJjeEJjX2RRTQ?oc=5",
+   "date": "2026-11-18T11:17:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "dfd5bf589d98",
-   "title": "Presidenta Keiko Fujimori destaca fortaleza económica de Perú",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM3JQVnFPMVMzWmZOWDRFRmpWUXZlaVMtZUMtM0Ita1FrWWJlQjJ5ckRjTFJ4VF95emVoYlJ5bEN0dGVIZWlzbDBTUW1UeW5iTGhVcXNEbU0tZndOY3ZXRHhjdzN6OUtsLWM4M3lZTi1jUGp0d1YzMGg5TE5VLVlvTmF1bTJVQlVCM1VjVTctMjFIdElDS0lqTk1SMjIxTHM4OXFMSHhEbHg?oc=5",
-   "date": "2026-11-18T06:22:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8da37dfd4f35",
-   "title": "Keiko Fujimori en la APEC: Carlos Raffo estuvo presente en almuerzo organizado por la embajada de Perú en China",
-   "excerpt": "La Embajada del Perú en China organizó un almuerzo con motivo de la visita oficial de la presidenta Keiko Fujimori. Estuvieron presentes aproximadamente 70 representantes de empresas chinas de diversos…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/17/keiko-fujimori-en-la-apec-carlos-raffo-estuvo-presente-en-almuerzo-organizado-por-la-embajada-de-peru-en-china-hnews-1388305",
-   "date": "2026-11-18T05:16:27+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
