@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T04:10:42.297744+00:00",
+ "generated_at": "2026-11-19T04:31:52.324643+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "notiperú",
-  "date": "2026-11-19T03:33:06+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-19T03:31:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -273,9 +273,9 @@
    "id": "3501616b94f3",
    "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
    "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVS1oXzcwVDRfV1g3R1FGR0IwdjByMjdSWWdqLVNfWWhwSHp4bmNSRVJ1M1ljeW8zdi1ZSmdmbmEwOFBNWkd4NzgzZjEyZFRSeEpLbVpqMGJCb1BrR3poME1mdkE0YkxDS3g2dU5pTDlkZVRCOXNmcGg5NDFxcENKenFldzJrQnVnTlp2WnhlSDFvQlB5LXhkSTFRRW1xVW9kRWhDRkZOcEVCbnROMXJnTzk5UjhiQzFDQTBzQUpqWmRPRVVlaFFIU2lR?oc=5",
-   "date": "2026-11-19T03:33:06+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
+   "date": "2026-11-19T03:31:00+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -383,6 +383,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDQ4Sjh3ZU1Jd3dkSnpRUkVpYUNiUG9laHJGT0w5VmZsZWZteG10OC1adTJZVnJWQkJ4ZXdWckhZYk1iczJMOUREa1lRT3Q4R1JpdV9wTjdId3lvOEh5LWl4anN5N2lnbWFEUXMtb1ltdzJQb1R3SjhMdGNqeUJkX0dMMWJNZTJyaGdxalJjcmZabjhoUXc2R0tKcXMzem9vOWFUeFJjZ1pDVXQyZGtndHlEVkR4b1V1NGc?oc=5",
    "date": "2026-11-19T00:24:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9f291c0c61af",
+   "title": "Claudia Sheinbaum desaíra a Keiko Fujimori: «No está dentro los planes» la publicitada reunión.",
+   "excerpt": "",
+   "source": "Gato Encerrado",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2hHOVVsYU9OS3JtSElReko0SmI4VmF3eDlPSGVnbDVKYUVUYmVxWGlKckt6eXF5Q3o1S0ZDLW8zZmc4amhja2FFOGF0S0YyZTVMVlM1OUtzbVI5YTRnM0lxZXlHSF9jVTBpcGVPTTBhV0Zna3RJb3dJYUx6WHB2eWh3eFBoeFVwLV9vWHVaLTFjV29MM3R0WWNvSjNoVThtS09EdGdiLWx4czQtU0QxZE9CVU9ZNGhxeW1aUmVVRThOLUZiS1JnY2VZaDhFUEltbW9lcEVWRGJTRjNJRWZCdw?oc=5",
+   "date": "2026-11-19T00:15:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -952,17 +963,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "88d55b0d56b9",
-   "title": "Keiko Fujimori anuncia un aporte adicional de $ 22 millones de China para construir centro de monitoreo inteligente en Perú",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZUkxajNaR05TS000SGJPWlJfcExSZnVoOVpXajh2QXNNQWNJd1RWTTFzTTJmazJfcnRlQXFHU196d2xycGg2SzE3alRhZHpCYmYwQVFfS3RjbWNhVmE4eGh2OWIzSG1xNHZrNG1DbEhSYlJld3Z0TEtsRjJyTmJtY0JrSWktU3dYV2Q4SEZlZUludkFfdEp5RlVfbjNmenJxajU3bHRIUmFjTEd4bkpKbXhEMkozLTlNNjhoa3EzU05md09RQkVOckRjYmQtMEFlUENwdzd1cnM0NHJjeEJjX2RRTQ?oc=5",
-   "date": "2026-11-18T11:17:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
