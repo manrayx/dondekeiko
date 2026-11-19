@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T04:53:49.507041+00:00",
+ "generated_at": "2026-11-19T05:15:05.666245+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-19T03:31:00+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-19T05:09:30+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -200,75 +200,63 @@
     "lng": -79.906,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-11-11T20:20:00-05:00",
-   "end": "2026-11-11T21:09:00-05:00",
-   "minutes": 49,
-   "subject": "Participa de encuentro del papa León XIV con las autoridades, el cuerpo diplomático y la sociedad civil.",
-   "lugar": "Gran Teatro Nacional, San Borja",
-   "state": "posando",
-   "place": {
-    "name": "Gran Teatro Nacional",
-    "full": "Gran Teatro Nacional, San Borja",
-    "city": null,
-    "lat": -12.08663,
-    "lng": -77.00316,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-11T19:15:00-05:00",
-   "end": "2026-11-11T19:44:00-05:00",
-   "minutes": 29,
-   "subject": "Reunión con el papa León XIV.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-11T18:56:00-05:00",
-   "end": "2026-11-11T19:04:00-05:00",
-   "minutes": 8,
-   "subject": "Ceremonia de bienvenida al papa León XIV.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-11T17:34:00-05:00",
-   "end": "2026-11-11T17:39:00-05:00",
-   "minutes": 5,
-   "subject": "Bienvenida al papa León XIV a su llegada al Perú.",
-   "lugar": "Grupo Aéreo N° 8, Callao",
-   "state": "posando",
-   "place": {
-    "name": "Grupo Aéreo N° 8",
-    "full": "Grupo Aéreo N° 8, Callao",
-    "city": "Callao",
-    "lat": -12.056,
-    "lng": -77.118,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 381,
+ "agenda_minutes_7d": 290,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "ddc2ebcb29a3",
+   "title": "Canciller Carlos Espá asegura que la presidenta Keiko Fujimori se reunió con su homóloga de México, Claudia Sheinbaum",
+   "excerpt": "El canciller Carlos Espá aseguró que la presidenta Keiko Fujimori sostuvo dos encuentros con su homóloga de México, Claudia Sheinbaum, durante un banquete realizado el martes en China, donde ambas…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/canciller-carlos-espa-asegura-que-la-presidenta-keiko-fujimori-se-reunio-con-su-homologa-de-mexico-claudia-sheinbaum-ultimas-apuesplan-noticia/",
+   "date": "2026-11-19T05:09:30+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "8f30985b4171",
+   "title": "Keiko Fujimori en APEC pide apoyo a países miembros para enfrentar El Niño: “Que se pongan del lado de Perú”",
+   "excerpt": "Durante la cumbre de líderes en China, la mandataria advirtió sobre la magnitud del evento climático y llamó a las economías de Asia Pacífico a sumar esfuerzos para ayudar al…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/19/keiko-fujimori-en-apec-pide-apoyo-a-paises-miembros-para-enfrentar-el-nino-que-se-pongan-del-lado-de-peru/",
+   "date": "2026-11-19T05:07:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "944779643aa7",
+   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China y encuentros en APEC",
+   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
+   "date": "2026-11-19T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "898489a1c524",
+   "title": "Presidenta Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWS1QcnJFUDZWUFp5YnllOWlhTi1wNDN0U3ZnS2I4NFgwd0o1LWtPWXFKTFI0bWU5ek1TZHZwYmE5V0kzdWIyWlZGbU9MRm51NmRpeERfVmNjSmN3NE1pcEJNRHR5RTI2QnNXcXlUR2FSWUVPWjlTakVwcjhnYzROOGJfUDM5TEEwRjZoX1d2RkZyWmxuRzRqN0tDTWo0UlBhamtHQVBXbENNaEIzVjQ2R1E1cUdRc3NjakpDUnNKWnpOT2FUdTdnbi1saw?oc=5",
+   "date": "2026-11-19T04:54:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "dde57db33d0a",
    "title": "Keiko Fujimori pide a países de APEC sumar esfuerzos contra El Niño",
@@ -313,17 +301,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLWVXODRkWFJONXBCQkVTWE96ZjJ2dXltUE4xWnVXby0zOGZPaDJsZllXRHNCeFNrZFVoVEsxMXY5bmFBZWxZdmJQVFBJZE1qVkU1eUpBTlNjUlZZeU9DVTRlNGVMc0wwckk4SG8wX28yYmtSMnl4SlBoSmZRYTViQjhucFVTUTh4eUZ4T1pQd212RmpFcjRiaFJicFRDS2ZnTzZDNHVXTGNkRVdDeS1WQnVKNTVQNkNtaWtOa0RwUURhd0gzSTVyaDB3TXBCdEJ6bUVXS3FzUHNnVWZKZktoSnZB?oc=5",
    "date": "2026-11-19T03:09:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "898489a1c524",
-   "title": "Presidenta Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWS1QcnJFUDZWUFp5YnllOWlhTi1wNDN0U3ZnS2I4NFgwd0o1LWtPWXFKTFI0bWU5ek1TZHZwYmE5V0kzdWIyWlZGbU9MRm51NmRpeERfVmNjSmN3NE1pcEJNRHR5RTI2QnNXcXlUR2FSWUVPWjlTakVwcjhnYzROOGJfUDM5TEEwRjZoX1d2RkZyWmxuRzRqN0tDTWo0UlBhamtHQVBXbENNaEIzVjQ2R1E1cUdRc3NjakpDUnNKWnpOT2FUdTdnbi1saw?oc=5",
-   "date": "2026-11-19T02:28:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -924,39 +901,6 @@
    "source": "Rumbo Minero",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1JHYXlyVUMwX1VnZ05xVmpCcGc1ODFnbzFkdEY3M1lKMTY4YWhVWkJvRmh6ZE1mQTJnZ3hnWmllelMzSV9LeVQ3N3F6ZHpPNXJ0eVNrVTA5Vm5GTkhzcFFVWW5aZENubXFnREp6REpUWUk4c29DcmRXUzdvbGZnWXNjdWpvUWhrYldyMThJLV9rLWFjdkxPaU1ZR3Vnd0NXUlF1cmw2X0ZYaVd5WjRVYnhxeUxXWUpITU15Q3FiR2dnWVJMWTZKOUJB?oc=5",
    "date": "2026-11-18T12:29:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0d24c01b2ba8",
-   "title": "Keiko Fujimori y José Antonio Kast coordinan Gabinete Binacional para trabajar juntos ante el fenómeno El Niño",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM3ZIVlRFWmRmeS1BdGFIc3pkQ3NNQk5NWkRhbl9jY3dFMEhidEJEZHhWUmFXTTVWeGxKS2ViQUUzZzQxWEx5cDBoZzJwQU9DaUZNWDNUNGdEckthNGM1WmR0NHhzUWdxd2tpRXBLVmNpU0NsbExDNHYtU3RYS1htMHJZcmd2eVhSSk0wRDdPamRFTVFQUUExa0NtdnNDZlFhbEFJMDJ4OHVYMnhzYVg3YV96YTBFdFNIdTZfZWp4a3lJN0VHSzEzSnhzRkFzbDA1RzF5bmZWQQ?oc=5",
-   "date": "2026-11-18T12:17:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c8ef71845ff6",
-   "title": "Keiko Fujimori: China otorgará US$ 22 millones adicionales al Perú para construir un centro de monitoreo inteligente",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbWtUVkxrUXlmRmU3S09OcUJ4Q2Vrc2RLdThDSzJTWmo4RjRqdFFlOEYwRm53V3FILU9kZVdUSVdFMWJ1VTVFQnlLTjBqQ3ZuUWlIMXVHWUZsRXVZU1R3OXlJRk94OURra29yS2tETnEwY1ZmWndSa0E0RVhtMmJDQ1NrX3JGX0pKRVl5QlVzTjhXUEhlR0pqYVpSU1hjN2Z3dG1ySnNQNGp6Ty1MX1Z2S295c0dHV2Z2dWtWS0t4ejc3Z19yLVV0b0otSjVqaV8wSjZzZmxYaw?oc=5",
-   "date": "2026-11-18T12:15:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8aa26375ffc9",
-   "title": "Keiko Fujimori anuncia aporte de China para implementar centro de monitoreo inteligente en el Perú",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUXhncVlyYVNiLWxNVDA2Q1NHMVhCTmlZOFF5cjBsampkVDBDSEFsRmVZNDZtZ2hlcVVfVnh5Y3JJUC0xTXk0T0ZFNnMyTDhvMkNCSGhHUkoxdTBDMzJ6aktqbS1VSHpVbHNaYzB2cEc0UTkyMjdnaWt1czJNZDFRTFFZcDJKT25GRXVLMlNVYXBGUE9wTmxvdFE4U04zU3ZJZ3FkTHF6MExLcXpGeWp4ZzB4R0V6dEVlVmg2UF9zNWI2cVBqaVdWWTJkY1E2NUVfNXdpZkRweWtLdWdsVjl0QU5JeHlkellXOGotMTl1ZHI4QdIB9wFBVV95cUxONnd3OE1Zc2hQS290RHRlcGhuZnVIOEdWeUxRMjZjamx2cWRFMmtjeFU5SDJiMlZ2Z2FvUzNNY0VWV202Y29kNzVza01OeDlibjEwNXY4ZVM0TWVJOGdiNUt1X1cxZHZVcHRWZmgwcFIzTVU3NHl2TFA2ZEh3cWhyMW0yYWJiZ2pnS0NEcTF0YVFkSkJQTTFjcTEtOW5lcWxSUXJQcUYwcGlDLXFmUUFreEFaYm9ONVZTdUNPTjFKV2NKN2FRZ1BvTldkLVR3UWljQi1WNGZ1TlJ3MFBsZ3p2Y2llVFZhMGtyb3IyVDRmWVlCdWFLWm9j?oc=5",
-   "date": "2026-11-18T12:14:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
