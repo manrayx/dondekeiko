@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:17:03.700662+00:00",
+ "generated_at": "2026-11-19T20:39:02.118001+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,16 +101,16 @@
    "city": "China"
   },
   "source": "Infobae Perú",
-  "date": "2026-11-19T20:09:14+00:00"
+  "date": "2026-11-19T20:25:24+00:00"
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 60
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -137,6 +137,22 @@
    }
   },
   {
+   "start": "2026-11-17T12:40:00-05:00",
+   "end": "2026-11-17T13:07:00-05:00",
+   "minutes": 27,
+   "subject": "Entrevista con el conductor de Tú tienes la palabra, Joel Quezada.",
+   "lugar": "Conexión desde la PCM, Cercado de Lima",
+   "state": "entrevista",
+   "place": {
+    "name": "Conexión desde la PCM",
+    "full": "Conexión desde la PCM, Cercado de Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
+  {
    "start": "2026-11-17T12:15:00-05:00",
    "end": "2026-11-17T13:35:00-05:00",
    "minutes": 80,
@@ -154,10 +170,58 @@
    }
   },
   {
-   "start": "2026-11-16T13:41:00-05:00",
-   "end": "2026-11-16T13:55:00-05:00",
-   "minutes": 14,
-   "subject": "Despedida al papa León XIV.",
+   "start": "2026-11-17T11:37:00-05:00",
+   "end": "2026-11-17T12:36:00-05:00",
+   "minutes": 59,
+   "subject": "Entrevista con el conductor de #BaellaTalks, Alfonso Baella Herrera.",
+   "lugar": "Sala Quiñonez de la PCM, Cercado de Lima",
+   "state": "entrevista",
+   "place": {
+    "name": "Sala Quiñonez de la PCM",
+    "full": "Sala Quiñonez de la PCM, Cercado de Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-17T09:47:00-05:00",
+   "end": "2026-11-17T11:00:00-05:00",
+   "minutes": 73,
+   "subject": "Reunión con el senador Elard Melgar Valdez, el presidente de la Superintendencia Nacional de Bienes Estales (SBN), Pedro Alberto Farje Horna, los alcaldes virtuales de la provincia de Huara y del distrito de Sayán, el teniente alcalde virtual de la provincia de Huaura y el presidente de la Cámara de Comercio de Huacho.",
+   "lugar": "Sala Pérez de Cuellar de la PCM, Cercado de Lima",
+   "state": "posando",
+   "place": {
+    "name": "Sala Pérez de Cuellar de la PCM",
+    "full": "Sala Pérez de Cuellar de la PCM, Cercado de Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-17T08:18:00-05:00",
+   "end": "2026-11-17T08:47:00-05:00",
+   "minutes": 29,
+   "subject": "Entrevista con la conductora de Primera Hora, María Fernanda Montenegro.",
+   "lugar": "Estudio de Tv Perú, Santa Beatriz, Cercado de Lima",
+   "state": "entrevista",
+   "place": {
+    "name": "Estudio de Tv Perú",
+    "full": "Estudio de Tv Perú, Santa Beatriz, Cercado de Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-16T12:35:00-05:00",
+   "end": "2026-11-16T14:40:00-05:00",
+   "minutes": 125,
+   "subject": "Ceremonia de despedida al papa León XIV.",
    "lugar": "Grupo Aéreo N°8, Callao",
    "state": "posando",
    "place": {
@@ -170,9 +234,9 @@
    }
   },
   {
-   "start": "2026-11-16T10:55:00-05:00",
-   "end": "2026-11-16T12:28:00-05:00",
-   "minutes": 93,
+   "start": "2026-11-16T10:30:00-05:00",
+   "end": "2026-11-16T12:05:00-05:00",
+   "minutes": 95,
    "subject": "Participa en la misa celebrada por el papa León XIV.",
    "lugar": "Base Aérea Las Palmas, Santiago de Surco",
    "state": "posando",
@@ -202,9 +266,24 @@
    }
   }
  ],
- "agenda_minutes_7d": 290,
+ "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "7f647c9263e4",
+   "title": "Claudia Sheinbaum llama “vecina” a Keiko Fujimori: juntas por primera vez, ríen y departen al lado de José Antonio Kast",
+   "excerpt": "El encuentro se produjo durante la cumbre de la APEC en China, en medio del restablecimiento de los vínculos diplomáticos entre Lima y México, suspendidos desde la crisis por la…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/19/claudia-sheinbaum-llama-vecina-a-keiko-fujimori-juntas-por-primera-vez-rien-y-departen-al-lado-de-jose-antonio-kast/",
+   "date": "2026-11-19T20:25:24+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
   {
    "id": "869e3ff43821",
    "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
@@ -217,27 +296,12 @@
    "next": null
   },
   {
-   "id": "7f647c9263e4",
-   "title": "Claudia Sheinbaum llama “vecina” a Keiko Fujimori: juntas por primera vez, ríen y departen al lado de José Antonio Kast",
-   "excerpt": "El encuentro se produjo durante la cumbre de la APEC en China, en medio del restablecimiento de los vínculos diplomáticos entre Lima y México, suspendidos desde la crisis por la…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/19/claudia-sheinbaum-llama-vecina-a-keiko-fujimori-juntas-por-primera-vez-rien-y-departen-al-lado-de-jose-antonio-kast/",
-   "date": "2026-11-19T20:09:14+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
    "id": "160e7d976835",
    "title": "Sheinbaum se reúne con Keiko Fujimori y aborda el restablecimiento de relaciones entre México y Perú (Redacción Astillero Informa)",
    "excerpt": "",
    "source": "julioastillero.com",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTNQT1hRMGExNnNKc3JpcHlqcl85Y25YWTFOLU9CdkN6QWE0cEU0Q3F4Q2RfdEZoeHFkZ0FTMmFKSW52ekQ0a21ESlQ3bHRxaVhBUUMtSDdFQUtRT0h1MjRCV0NHcFgxS1JyTi1TQWkwbllXOGFpR3ZxUnZSeVMtNzh2czloT002QTRLVEJyRDIzUEZydExOemdIVFpKNko4aXI1UWJMM2dHSnYycmswY3JGaEhRazhPYUVQRUtUdEZRQzdvakp3?oc=5",
-   "date": "2026-11-19T20:01:21+00:00",
+   "date": "2026-11-19T19:59:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -418,6 +482,17 @@
    "source": "El Expreso",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakI3NDNJYkk5ZHBONWdmeGpfZDhHenl2OFZjNDI0ZWxfUXlmRktNeTl5X0E4OXJoQ19fWHVETXJwQXpXTXdLRVdHMXBqYXZrZGIzck5uSUFFUXo2akdnal9wMGo3Yk5yTnhTX0JybTh5bmtUU3llbjJra0FyY0UtcUZJTWM5SGdzTXFYSE9la29LLUp6UGwyd1dNTjFKTktUUWd1aWFnNHRBekt6S2E5akNmOA?oc=5",
    "date": "2026-11-19T13:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "20499eb01686",
+   "title": "Keiko Fujimori se reunió con la directora gerente del FMI: hablaron sobre economía peruana, El Niño e inversión privada",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNkQ3eG01N3NxX1FCTEQ2T25QeGM1SGlJTW11SGFrUEVSa3lKaC1LbUVvc3lqNWR0dkJUSjJGVGcxT19ORk84NU1ZalJHakZfRFNDd3BIcXFxZnh1c3JVZlFGT1lBc0RxUlFTSDZrVVlXanJDTUV0aGdiZFdCNVdXUjFjckhfQmRfa3ZaS3FRQkdybGdqaHVtN1YyU25oeTM3aXF5WjllQVRjM2RYdWZKcG00N0VhN1VaNnlQQkxmUUl5eEUxU2hZVjJrYjRISHlsWm4tYkZuZlpvUzdUeWp1dTZ6WW4wZnFobXlYV1N4MEZpYnJiak91UTlqNA?oc=5",
+   "date": "2026-11-19T13:18:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -777,6 +852,17 @@
    "next": null
   },
   {
+   "id": "6b4a7cebe936",
+   "title": "EN VIVO | Análisis del viaje de Keiko Fujimori a la China y LO ÚLTIMO sobre el caso Lizeth Marzano",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEdjTm5NTzI0Y0ZmbS1GaGNnVEEtM19SX21hWWNDX21mN05kaV9WUFNDdGJOVXVDVDRvRjA1UWxhZlZVWmY1U3F3UnZfVXo4MmxZd01hRnhNc2F2OXhEVzhlV3oxX1haVjNKcWxQSTY3eVdVNHBWbHFqSk5nbDBGV29sN0JEb2Y4WTU3ZHVpYTBvYnR1TVZra0hBbVhGdDhtNHRiZW1VZS10ang4X3QtbndHZ2g3ejBDV2t2UHA5c2kxajV5dV9PWE1vWlZtVlZy?oc=5",
+   "date": "2026-11-18T19:25:00+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a6bcc7376c22",
    "title": "Presidenta Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi [video]",
    "excerpt": "",
@@ -875,28 +961,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdmVTckhEOU9oRmdNTjU4UF9WNFJRVDlqMkp2bGtQRDU2SkVISGJHUk9mbGJaMG9lSWt1UG5HREhqRTdoZ3lkV2x0SGRjMzFEZWZVZUx4WU11OWxncDN1dDZ5RzdHY2ZxUGFnLVFrUndmd2JLTTBhZGRtZkRQTE9PYUExUWI3dEpsb0RNWExURFo0QXA0Z1hlRlByV1QzUjBtYmZIRWw0SGp0TFQ4VTl4emZJYk13cEVHYW13eFFORWtQOG5fSTFmbkVwVFIwTW9VbmFyN2pDY1pSZ0NhVFdiSFdLdkI0MTdOSWJrRHdkTGhtT09WNGQ0Tw?oc=5",
    "date": "2026-11-18T17:10:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f1421426e76f",
-   "title": "José Antonio Kast y Keiko Fujimori realizarán un Gabinete Binacional en 2027: ¿en qué consiste y cómo beneficiará a la relación Perú-Chile?",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdmVTckhEOU9oRmdNTjU4UF9WNFJRVDlqMkp2bGtQRDU2SkVISGJHUk9mbGJaMG9lSWt1UG5HREhqRTdoZ3lkV2x0SGRjMzFEZWZVZUx4WU11OWxncDN1dDZ5RzdHY2ZxUGFnLVFrUndmd2JLTTBhZGRtZkRQTE9PYUExUWI3dEpsb0RNWExURFo0QXA0Z1hlRlByV1QzUjBtYmZIRWw0SGp0TFQ4VTl4emZJYk13cEVHYW13eFFORWtQOG5fSTFmbkVwVFIwTW9VbmFyN2pDY1pSZ0NhVFdiSFdLdkI0MTdOSWJrRHdkTGhtT09WNGQ0Tw?oc=5",
-   "date": "2026-11-18T17:10:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cdbe78eb5eb7",
-   "title": "¡Se preparan ante El Niño! Keiko Fujimori y José Antonio Kast alistan Gabinete Binacional para 2027",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWVSTXBFYmY0QmdNWVZkcXhscGVQU1U0XzNEV2xBeFYzQW9BV19qejlBWUsySkdvV3NKUzFEYmNoMktRa3Y2dW5TcFMxNHF3bFFSelQwa2VCQ1ZXRVRIYlNSLW9UZFdzREE1eDIyejRuOVZBVEw4OThJaDNiU3NDWF9DVzlrOUpTZTdz?oc=5",
-   "date": "2026-11-18T16:55:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1043,6 +1107,11 @@
    -77.00256
   ],
   "ciudad de shenzhen, republica popular china, peru": null,
-  "centro de comando de servicio y administracion gubernamental, peru": null
+  "centro de comando de servicio y administracion gubernamental, peru": null,
+  "conexion desde la pcm, cercado de lima, peru": null,
+  "sala quinonez de la pcm, cercado de lima, peru": null,
+  "sala perez de cuellar de la pcm, cercado de lima, peru": null,
+  "estudio de tv peru, santa beatriz, cercado de lima, peru": null,
+  "estudio de tv peru, cercado de lima, peru": null
  }
 }
