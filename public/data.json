@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T09:54:01.336401+00:00",
+ "generated_at": "2026-11-19T10:15:24.695990+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-19T09:32:49+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-19T10:08:02+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -206,6 +206,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8f30985b4171",
+   "title": "Keiko Fujimori en APEC pide apoyo a países miembros para enfrentar El Niño: “Que se pongan del lado de Perú”",
+   "excerpt": "Durante la cumbre de líderes en China, la mandataria advirtió sobre la magnitud del evento climático y llamó a las economías de Asia Pacífico a sumar esfuerzos para ayudar al…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/19/keiko-fujimori-en-apec-pide-apoyo-a-paises-miembros-para-enfrentar-el-nino-que-se-pongan-del-lado-de-peru/",
+   "date": "2026-11-19T10:08:02+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "3501616b94f3",
    "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
    "excerpt": "",
@@ -260,21 +275,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/canciller-carlos-espa-asegura-que-la-presidenta-keiko-fujimori-se-reunio-con-su-homologa-de-mexico-claudia-sheinbaum-ultimas-apuesplan-noticia/",
    "date": "2026-11-19T05:09:30+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "8f30985b4171",
-   "title": "Keiko Fujimori en APEC pide apoyo a países miembros para enfrentar El Niño: “Que se pongan del lado de Perú”",
-   "excerpt": "Durante la cumbre de líderes en China, la mandataria advirtió sobre la magnitud del evento climático y llamó a las economías de Asia Pacífico a sumar esfuerzos para ayudar al…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/19/keiko-fujimori-en-apec-pide-apoyo-a-paises-miembros-para-enfrentar-el-nino-que-se-pongan-del-lado-de-peru/",
-   "date": "2026-11-19T05:07:00+00:00",
    "state": "posando",
    "place": {
     "name": "China",
