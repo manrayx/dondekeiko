@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T21:43:19.902814+00:00",
+ "generated_at": "2026-11-19T22:05:21.386063+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -275,7 +275,18 @@
    "excerpt": "Las presidentas de Perú, Keiko Fujimori, y de México, Claudia Sheinbaum, acordaron impulsar una “nueva etapa” en las relacione diplomáticas, “con énfasis en el comercio, las inversiones y la cooperación…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-claudia-sheinbaum-saludan-restablecimiento-de-relaciones-diplomaticas-y-acuerdan-impulsar-nueva-etapa-destaca-palacio-de-gobierno-apuesplan-noticia/",
-   "date": "2026-11-19T21:29:49+00:00",
+   "date": "2026-11-19T21:54:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "869e3ff43821",
+   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
+   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
+   "date": "2026-11-19T21:53:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -315,17 +326,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "869e3ff43821",
-   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
-   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
-   "date": "2026-11-19T20:11:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
