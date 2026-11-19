@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:25:48.847438+00:00",
+ "generated_at": "2026-11-19T12:47:14.322731+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -206,6 +206,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "869e3ff43821",
+   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de una nueva jornada en APEC",
+   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
+   "date": "2026-11-19T12:40:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c29f15c0ffb9",
+   "title": "Claudia Sheinbaum reveló que se reunió con Keiko Fujimori en Shenzhen para \"restablecer las relaciones\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdWVIczdLT0hLU2xlbjZKN1htVFdXX05FNFlTUFdUZEtjM1lEQkFkUUhRUVBjTl95eFloMnFRakp6cExiRHVGN21aeXZGTjdFYXlTdWlXdzl4bjBYNnZHX05jQXBFS2R6cVc2Zk9Obm11NDZ6LThhX1ppMjA0OEFYUndSczhUcjl5eEd6bVdCMjgzb3FQX1BieDBlWUdKcVBfTmswVENMRXVZOW9qMUxLUmktRm42eW9ZY0xNRVk5bFNmcllmbmc1MFR2SDRYV3M4VG5xVFlWN0wzV0FLdGVPb2I1aXg?oc=5",
+   "date": "2026-11-19T12:40:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2661a2866ecb",
    "title": "Presidenta Fujimori destaca la importancia de llevar los beneficios del comercio abierto a las pequeñas y medianas empresas",
    "excerpt": "",
@@ -309,8 +331,8 @@
    "id": "944779643aa7",
    "title": "Keiko Fujimori: La nueva donación de US$22 millones de China y encuentros en APEC",
    "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWDRnclVpaWVNVS16VThJeTNsTHQxVUF3YVQwNW9rZ3hRc2g0eFlzODEtTHJpekd2dlBZeTVTVUVCcEhvR1ZTNmVXTzBwcFo1d2lydHR2ZEhqdGdJMHlZZk1fdkpBVXZFdkdGLUZXVFJSUURudGlRREZNWWdmLVlrSTF1NFZLNWxtV1VPcWNiSWVldXV4aXBJaG9zZDVzbDkzMkJOcGFTU3Vma2VQZG1ETlJMTXllaWZZVzhWVjJvZHlidEQ3VW1ZcHdBTUZ5NTlTT0Y1dmc2MWdITXRHd2gyOdIB9AFBVV95cUxOZllrN0xITU1lZzZEU1g1OWVLU3NIOWNHSW9ncXhnby1nZTVuU0tMUklTWmpCZVd3UEdJYnBNTWF1SUo1VVIxNWdVemFRbzFFT2I5Y0VwU01DR0pzTE9oNGR5TmFfRDlDYUtOX01zN2xlblczdjJiRWU4SlJXRWNZN1JLMlRwV3lEZ21laElDVm4yYVRKdXNaVVUzRk1xX0lJM2FGSzJyWGtLZDFxbWJ5eWd0TXdrMUFWU2s4RVRxWUl5MG5Wc3RxSHl0bU5iTXBKZlNUMU1RaHJMQ0o0RGd4VEZ1NllPcmU2NTB2N1ZHUV9jNm10?oc=5",
    "date": "2026-11-19T05:01:00+00:00",
    "state": "posando",
    "place": null,
@@ -380,6 +402,21 @@
    "date": "2026-11-19T03:00:00+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "146a35ff933d",
+   "title": "Keiko Fujimori presenta ventajas del Perú para atraer inversiones estadounidenses en China",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQmlPTGk2cEZuanRsRkZHT2phUm52aktYZzU5MmRZWEJYNWNKZ00ySjdwbnpoMmV3R2FNbDI1aThpOEpFbHRRZHpGZGdMTjhCb1RMc1dacWVfc3JaVWlucGx3WU1xbUNDeEdheXFEREhqV2c1OGJEVU9Wc0lDWTdnSzdRN2VyVlBPX2Y5bm96ODlnM2NaVTFBVUFfaGtxYS14N1JndXdhaTZPQjg3OGRSLVkybjl2RXhPdnFNMlMwS3Y0VzNhTnhDTnBFR202TlNRTU1BX3ZpLTh5YlZsNl9NVUJNZ3NMUU1qRFlVcG5mMVM1R0ZVaHFUQU5OUlVMYk9icVNZdkdFRWVaanJKdUR4Rjg2RkgwTk5PZjk2S0Jzdw?oc=5",
+   "date": "2026-11-19T02:09:16+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -868,39 +905,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXAyNFJsVnVQM29NczdnUFFtTXphOU1LMVJKdEo0V1V4OW5XeVdfMGxERzFWY2JYVmtJam0tYkJaQUxhaS1WS19KdnB6V0xIbU90X2EzeXN4cXk4TGktZDlxcHlBdTdLQy1RVGdvYkc5dDVTTlB4RGNQMENVTEFaOXYzMFVodXVGUjIxTmwwczBnMkFHeHRmWVMwOUVlUU1pUkRORnc4TGU2TUlrZHdSVFNnS0M?oc=5",
    "date": "2026-11-18T13:43:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b068ab901e4a",
-   "title": "Perú.- Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTlpa3hUM214bE9LMk5OZWlaUERLZ2xITERFQjczYmxHNlR4WTQ4UjY4aVNPRVZaQ0ZjLUZEVzN3aTU3bE5xaG1qOTRDemxLVnlPYzhVTHBuSW13aEJRX3dNUUlOUW5hX1ZSTnkwdzFsRjVUZU5rSjNVekY5SVF4UXBfZUNZQWt1Z214cF95X0tJeXZVTXVDeUxUMEx2bXQwRk9COHk1N0Rjcy1zd2N1UUhoRkx6N1FMeGoyZDhpSDNsbG1kWUE?oc=5",
-   "date": "2026-11-18T13:42:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fa23ff5aa3f5",
-   "title": "APEC 2026: Keiko Fujimori y José Antonio Kast abordan comercio y cooperación frente a El Niño",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWTFNZlZCQVJjNjFtOXVlRzQzUlVFcTRDYUp4VEhXVmlTbzdFaWZJZXNiekotOFpsMUpBQUNCODV0OXhNYjlMbjVJN3hRcUFRdjVnaTI5dVJ4T0NsRHZKNHJpeVB0UjVtS1dqUmNIbjF1WXNQcklaZklIeTV0YllxclVIaFd1VU5Xc3pxZXlpYU1DVXlYQWEzS3dzUDRaT3BhXzM1eHhlaFpIWVFIT3FCLUdac2RNMWYyYVlZVzlkT2k3dk5HSlJsMmR1bnVudTTSAeMBQVVfeXFMUDFnZXNobWd6eGVMWngyOFR3VVZNZ3JuNW5RdVc5bmpBMnBHWXBETkVHMDhKd01UbF9Ec1ppQ0FwZUdLZlV5UG93N1lpdFdkVEVFd0Q1ZnM2Z0dYQlhoRm9MTFAtRVdNbzF6TnFyMU1sS1ZWcVlfU0VuenBfNUdPWDBfdVRWb2tvYWQ2ZE9oVERNbjFISDMzc09HU0Y5VDQ3ZEt4YTdCcmRxbmVaVjZ6OXNiYTlaWUVPTVNqZzkybE50dkdJU2NqdTI3cUFnVGswb1V2SGZPRjVBZHhINjlzNjdLRWs?oc=5",
-   "date": "2026-11-18T13:41:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4ce7881aba3e",
-   "title": "China destinará US$ 22 millones adicionales para centro de monitoreo inteligente sobre seguridad ciudadana",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que China brindará al Perú un aporte adicional de 22 millones de dólares para la construcción de un centro de monitoreo inteligente…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
-   "date": "2026-11-18T13:07:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
