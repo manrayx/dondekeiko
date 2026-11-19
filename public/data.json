@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:06:34.394229+00:00",
+ "generated_at": "2026-11-19T03:28:04.196743+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -269,6 +269,17 @@
  "agenda_minutes_7d": 381,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "eab8eac07218",
+   "title": "Keiko Fujimori presentó a Perú como acceso a mercados de la región ante empresarios estadounidenses",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLWVXODRkWFJONXBCQkVTWE96ZjJ2dXltUE4xWnVXby0zOGZPaDJsZllXRHNCeFNrZFVoVEsxMXY5bmFBZWxZdmJQVFBJZE1qVkU1eUpBTlNjUlZZeU9DVTRlNGVMc0wwckk4SG8wX28yYmtSMnl4SlBoSmZRYTViQjhucFVTUTh4eUZ4T1pQd212RmpFcjRiaFJicFRDS2ZnTzZDNHVXTGNkRVdDeS1WQnVKNTVQNkNtaWtOa0RwUURhd0gzSTVyaDB3TXBCdEJ6bUVXS3FzUHNnVWZKZktoSnZB?oc=5",
+   "date": "2026-11-19T03:09:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "898489a1c524",
    "title": "Presidenta Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
@@ -956,17 +967,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "ae3d0f842500",
-   "title": "Presidenta Keiko Fujimori agradece a China apoyo para enfrentar impacto de El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWluRmxLeEhtbHRQZEJNOTRVbmFpVDI0djk1d0g4aEl4U1BQaWNZU2pXY2tCaEF4anNieWRJN2pldlk5M1pJSVZuUkpjVV95WDJ2ZEk4bDRTUmJ1a3ByTmtZNGRVSE9jM1gtdkI1enpjRTZsVjQwMW9tSDBKQjBTVzZzNFFPRmoxc2N4dVViSzRxQkdZVHFoYXdYN3BNOFdqejllZ0Q2YktFWmQyN2hyY2dKR3ZsUElQeWVOckdKX09PYVdz?oc=5",
-   "date": "2026-11-18T04:45:07+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
