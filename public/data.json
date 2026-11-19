@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T04:31:52.324643+00:00",
+ "generated_at": "2026-11-19T04:53:49.507041+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -269,6 +269,17 @@
  "agenda_minutes_7d": 381,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "dde57db33d0a",
+   "title": "Keiko Fujimori pide a países de APEC sumar esfuerzos contra El Niño",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkhhTWdDT1pMNU4td1YwenN0NjRYd1p4WWp0MDlZbE1wREpFY09VM3lPTldMWmwxU3RoRXBYU2lCQ3BEVzBCZDNBRHVKYTNsR0tVR2VTVFVkVkVxY21nM3dpRUhRY29acEVVVmRubzdPdlJPSGdETWJ5VFFockR5cHptTWo3cTRHMW01Ri1SbmNGM0RleXlCVzNBWG1qUl9VdDI3SUpIRzNXVkFYalJRMnNyWmN4V3c?oc=5",
+   "date": "2026-11-19T04:42:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "3501616b94f3",
    "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
@@ -948,21 +959,6 @@
    "date": "2026-11-18T12:14:33+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "9a03657ff223",
-   "title": "Keiko Fujimori y Claudia Sheinbaum se reunirán en China tras retomar vínculos diplomáticos: ¿Cuál será la agenda?",
-   "excerpt": "Las mandatarias de Perú y México tendrán una cita en Shenzhen durante la cumbre de APEC, tres meses después del acuerdo que normalizó la relación bilateral",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNEZlbHpYM0RVeVhjQUtMZDdWZkFCTEt2QmZ4LXhZZTNMS2s0anpSLUJsMzB1bmFsdVhwY1Q2NHNCX21zelg2b1FJekpqWEVTRkpZeDRMRWg2bFVNOTJ6YUl4dVlaa0RNRVFNcWRaLW1sSXNubGhLdERYemtkUXhXWC05Y1lIdzRUSjV1eGltX1kxY1F2cHpkSnR4Q1pPUmQydjNwcGZ5bktRZEo3WEx4TVdodEVzbzlDSGdjeDFNUDRRRTdXa3I5Q0VfTjQ5S1hzYjZFbXp2LWRlSmx4LXNLODRoQjVxQdIBgAJBVV95cUxNRXFhQlR0YnY5ME5UdjlJdGdGaTZkLXhOeUgtR0o4M0xFUlF3M3NRTjRTaHJSNVpyS2lTX1JxTTBtZDVlSHRWc1F3WUhLOVhfQTJEZVNlQUZFeDBIQmlfdnRKbndrMC1RX1EyRzBWMGNKZGtuMVlLdi1jWHpOSjZ0RW1hM3p6RHRFWTlabTNTMFFzZWdrUmYyTnY2T0h0S2hsZEJfdkxCMzRBc3VwdjY5Z2M1RTQtMzBUVUk0amV4U000elBCTTN0MHFNTEpyc2MyX1pzQ05wbXd5UWZYWGcxc1J5WW1EMWs0ZHluXzlQWjV3dEt5RnFqX0I5cnFqaFZu?oc=5",
-   "date": "2026-11-18T11:27:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
