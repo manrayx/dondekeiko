@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:19:54.084417+00:00",
+ "generated_at": "2026-11-19T06:41:11.695960+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -206,6 +206,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6dfebc65ad7b",
+   "title": "Visita de presidenta Fujimori a Japón afianza agenda de cooperación bilateral",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDQ4Sjh3ZU1Jd3dkSnpRUkVpYUNiUG9laHJGT0w5VmZsZWZteG10OC1adTJZVnJWQkJ4ZXdWckhZYk1iczJMOUREa1lRT3Q4R1JpdV9wTjdId3lvOEh5LWl4anN5N2lnbWFEUXMtb1ltdzJQb1R3SjhMdGNqeUJkX0dMMWJNZTJyaGdxalJjcmZabjhoUXc2R0tKcXMzem9vOWFUeFJjZ1pDVXQyZGtndHlEVkR4b1V1NGc?oc=5",
+   "date": "2026-11-19T06:24:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "cc2a28f921b9",
    "title": "Keiko Fujimori pide a países de APEC “que se pongan del lado de Perú” para enfrentar a El Niño",
    "excerpt": "",
@@ -317,6 +328,17 @@
    "next": null
   },
   {
+   "id": "0932b47679c7",
+   "title": "Presidenta Fujimori inicia su participación en la 33.ª Reunión de Líderes Económicos de APEC",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
+   "date": "2026-11-19T03:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9a05c98eb057",
    "title": "Keiko Fujimori presenta al Perú como puerta de acceso a los mercados de Sudamérica ante empresarios de EE.UU.",
    "excerpt": "",
@@ -376,17 +398,6 @@
    "next": null
   },
   {
-   "id": "6dfebc65ad7b",
-   "title": "Visita de presidenta Fujimori a Japón afianza agenda de cooperación bilateral",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDQ4Sjh3ZU1Jd3dkSnpRUkVpYUNiUG9laHJGT0w5VmZsZWZteG10OC1adTJZVnJWQkJ4ZXdWckhZYk1iczJMOUREa1lRT3Q4R1JpdV9wTjdId3lvOEh5LWl4anN5N2lnbWFEUXMtb1ltdzJQb1R3SjhMdGNqeUJkX0dMMWJNZTJyaGdxalJjcmZabjhoUXc2R0tKcXMzem9vOWFUeFJjZ1pDVXQyZGtndHlEVkR4b1V1NGc?oc=5",
-   "date": "2026-11-19T00:24:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "9f291c0c61af",
    "title": "Claudia Sheinbaum desaíra a Keiko Fujimori: «No está dentro los planes» la publicitada reunión.",
    "excerpt": "",
@@ -410,17 +421,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "0932b47679c7",
-   "title": "Presidenta Fujimori inicia su participación en la 33.ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
-   "date": "2026-11-18T23:28:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
