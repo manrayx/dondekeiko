@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:46:42.400319+00:00",
+ "generated_at": "2026-11-19T18:07:56.123934+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -217,6 +217,17 @@
    "next": null
   },
   {
+   "id": "a950a429787b",
+   "title": "Keiko Fujimori expone ante el FMI la estrategia económica de Perú y sus planes frente a El Niño",
+   "excerpt": "",
+   "source": "ElOriente.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVXB5dW1HU1RJV3NIbldrQUs4MHZ0czY2U3RJS1M2WWpzS3l2Mzc0cm5XVXpXdG5GNElGT2xUU19uRXhnOGFuUUwzTkt3THBBSE1faEJHbU9rQzlHYmpqS05SNzlnaXJyT2hoNmlMaHJyWEVCcFFJb2RvUnZKQm1GUXFIWTBZZE5lRTZteHZNVVdvdFJCb0hHRlZYZmxvSHpYRWpfRzdWczF3cHczQ0R3c3h2U1NINVZxMUtOSnRXS3N1bHYwR2V4bWxoUExkUUQ5ZWc?oc=5",
+   "date": "2026-11-19T17:02:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2661a2866ecb",
    "title": "Presidenta Fujimori destaca la importancia de llevar los beneficios del comercio abierto a las pequeñas y medianas empresas",
    "excerpt": "",
@@ -404,15 +415,11 @@
    "id": "8f30985b4171",
    "title": "Keiko Fujimori en APEC pide apoyo a países miembros para enfrentar El Niño: “Que se pongan del lado de Perú”",
    "excerpt": "Durante la cumbre de líderes en China, la mandataria advirtió sobre la magnitud del evento climático y llamó a las economías de Asia Pacífico a sumar esfuerzos para ayudar al…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/19/keiko-fujimori-en-apec-pide-apoyo-a-paises-miembros-para-enfrentar-el-nino-que-se-pongan-del-lado-de-peru/",
-   "date": "2026-11-19T11:12:34+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTDVQZndmU3dRd2dXUkJicjV5ZHowVE85bmR1VFVUcWM2UEY1TUduWjN0WGQ0blM3Z1Q5WnM1OXdMM1A0OUhqVjVGZXhscGVjRTVpY1BXLUNXZzM2VFBXOHFXRFhzeDZiMU5Pb05DR1FKWTBDbEJMUTZya3dlaXR0MjFDcS1fdUVzVldsVWJvX1d5MGo3RVJWcWIxUFJ3NHpwNFd0czE0TF8zMTllUHNlQjQ4cDdZT0Nac2l6eUFod2lrUnMyLWVmNmtpVllZdnQwUkc1bGJhZnpRSmJ1STNr0gH6AUFVX3lxTFBaU3VLcGZsRDBlQ1JNeXBLeXJtS1ItUU5TcnVXYko2TzRxTnZneFA4TFBmdHdiM0ZudDRSeURNYko3R2pWTGQ4eG5pUmFLWDRGQ19lYVdibkxYeG9mc0tqMWhqTVNiU1BfaW1NTkFnRTNxNHFPVmhETFI1LUx5LVd3U3NkekdCZUdnOVJVa1dmRGhMRjFPYmhnZ0xYcHJpZlMwS1ZJY2twdEoxSFZmcXREUk1NTVVXWWt2N202eDl3SnVfMHppYUNKdWNWWFZsWF9oZFE2elBLM3JERmUySFBJUEgtWHMzdk9OQWN0b29iVjA4TVZDQzNXTXc?oc=5",
+   "date": "2026-11-19T11:12:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
+   "place": null,
    "next": null
   },
   {
@@ -890,17 +897,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalA4N1VoVFFvSlEwYm5UT1lPTllsWm1LblBhalItUk4tWEZHN3F0Rnk4dXBuTk5QT0c3Y182VkQzQVY4eGI0a01wem8zZ0lvNkFrVzI2bENfZUVWQmstVE0wTlZsMVJjRW5xUHhfMkNESEpiaUxBNEVKajMxaFRBUEQwOXAxSHRhMUZzMGtSeVA2Y1E5ZFVyZzRDMVNOcmdoRnJXQ1YwVUJpeTFNckNzQkNYa0M3OWlQc1Z2QUt5ZEZFQzU2?oc=5",
    "date": "2026-11-18T16:08:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3fd3012e02ff",
-   "title": "Japón da la bienvenida a Keiko Fujimori y anuncia reunión con el emperador Naruhito",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZERyTlJQN1lzeE15SDhBT0NaRjFpakJ2bkZxYWN3RWhKM2pTLUJBRlp1bHdjSC1scGhhMktONDhTMVlWRXVxamJwTS1ZUVpYOExwMjFFVmgyMS1aUUgwZnJwUEpoS2RNZHE1aVFST2l3V0IyUERsUGdWcGl6elR5cjVWakdJNDJSRUNIMUdVdm5sSWRLaHptRTdJZjJZVWVCc1FVOGN2TGJzbFNTSTZoS1RQb3Q3OFRTREZ5OWh4Z9IB0wFBVV95cUxQb2dKcXdONEl5LWx6S2FiUzgtTVZfa0JndnpacldYSzdQSVAtSFZWcmNtQnEtWk9jWm1oRW5sNVd5b0k3MC1NTWtkeElOcFVhaGVRcDVYR1prVElmQldvT1RRR0NPVUkxTWNrNW9oS2kzYzJXSkdOaWx2b3ZQNFg1U1NCQTlIOFlsa29DTVJ3WkY4U1JHbXY1WDZ3QUgxc2NNNjlHaS1wSVowRTREeWtRaVljTlE0U04wczQ1c25GVnVSbzNMaTlEU2dRZ0RLTFpmX2NJ?oc=5",
-   "date": "2026-11-18T16:02:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
