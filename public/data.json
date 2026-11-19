@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:30:24.489201+00:00",
+ "generated_at": "2026-11-19T23:51:27.455396+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,23 +96,21 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Lima",
-   "lat": -12.046,
-   "lng": -77.043,
-   "abroad": false,
-   "city": "Lima"
+   "name": "Tokio",
+   "abroad": true,
+   "city": "Tokio"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-19T22:53:05+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-19T23:32:29+00:00"
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 59
+  "posando": 60
  },
  "total_7d": 60,
  "silence": {
@@ -271,6 +269,47 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "f93336217445",
+   "title": "Luis Galarreta sobre el papa León XIV: “Estaba absolutamente tranquilo, le deseó suerte al Gobierno cuando se despidió”",
+   "excerpt": "El jefe del Gabinete Ministerial, Luis Galarreta, afirmó que el papa León XIV estaba al tanto del viaje de la presidenta Keiko Fujimori a China y le deseó suerte al…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-sobre-el-papa-leon-xiv-estaba-absolutamente-tranquilo-le-deseo-suerte-al-gobierno-cuando-se-despidio-ultimas-noticia/",
+   "date": "2026-11-19T23:48:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "28033d183f17",
+   "title": "Keiko Fujimori se reúne con el emperador y la primera ministra de Japón este viernes en Tokio",
+   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
+   "date": "2026-11-19T23:32:29+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tokio",
+    "abroad": true,
+    "city": "Tokio"
+   },
+   "next": null
+  },
+  {
+   "id": "a89869d12e36",
+   "title": "Presidenta Keiko Fujimori califica de “muy fructífera para el Perú” agenda desarrollada en China",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdlIyZ0lqcHBFcDFXQlZHS3FtdC0wVmlMeVlpekh0MFk3NW53TlF3dl8zZEl1Y3Y4bWlDTjlRUVhHQXVpbUVWdnkwdHNYNnBGS0lDbHRYcFh6dXc0U19EdEN6V2I5YW44NXUxM2FSTExrNThKaXVoWDZ4bnYwS25JbHBodDVNVDJkdVBVQm5UdGwwSzRtTzMxbU95OUZ0REIwdnhTMWsyeFF4Ml9YamRIN0lZLXVKNUk2Sll3OXUtbHlORGM4THIzcWhR?oc=5",
+   "date": "2026-11-19T23:25:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
   {
    "id": "c0b1beea5dae",
    "title": "Presidenta Keiko Fujimori se reunió con su homólogo de Filipinas",
@@ -474,7 +513,7 @@
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lKRm1OY2NrVDhqS1NJUVg4OWc2TnFnZ2Z5SUdfMmg2ejhSRS04dS1VcFg2ZkZoUUNQVXdweUF0Y1FBWFlBNlV1RnFrOXdCcXJ2cjdSWTdTajZseUlZYVY5ZklFRVJHV2ZHclRaTHA0a2c0eGFTUVJqdjMzelRpQWU2VWo0VXFLYXpSUVFHZV8waVNIbDIyVVdyNWNqWUlhS2U3N3preXJLM0hpRnBpYzRwdmZ3UGJ1WHdnNlNpR0Itdw?oc=5",
-   "date": "2026-11-19T16:46:00+00:00",
+   "date": "2026-11-19T16:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -933,39 +972,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTVM0Mk9taUxZSUdidmV2dlBWR04weVU5a1Q5Tkc4WFQ0aTVPWlptOGFHVURScmpvdktkVU1jbzUwVkl6TGRCQ0dkS21sUEVCOGVzbnU1UzJQXy1nZElHeTQwb29OT0NmSlgyQmg2NGFja0Z3NW1LQ0xydmVlZWJ0T25lMThvV2tSSFhVamVnUTliR0R4OWo5bjF5WGxESzFKTGItRXl0LXcxbHNja1pPdlgwNUNkb3QtMHpVZNIBwgFBVV95cUxPeWRrTVczN3I4SldHeU0zNWI3NjdmVmNIWEFKbVJERDhRemhVY3JVY3dLdjlXZC1BTFFiekM0TFdWampPb3MxeWw1aWw5S2RzUURwY3h1aHo3U1pjNXI5aHJVVTJVMVBDTTVTakVPeTdDblNiTFMxNXdwNmVHV0dIb2JlWFc5UTlkYzRvMDVianhMRDFrUnFRaGFDQWRLeWlUblBoODJIUEhwVlB5emJIdFpZSnA2cnFrTGJTWnNxMkFIdw?oc=5",
    "date": "2026-11-18T21:47:20+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d456d6a8adda",
-   "title": "APEC 2026: Keiko Fujimori plantea fortalecer la cooperación entre Perú y Singapur",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeUgzemJJd3djb2lPeTNOQzZFdC1qeGUwNW8xLTZHMHZuVmFLWGtmMEdWWVZWUkNBWWEwaDNGZFRBenhldG9uTk5iNS1VcTlVR2IyTmZnR005X3JrRDhDTHBBSmZteWhyNEtSeTNuT21kMkRub2dOTUtyMS1UYUpuSEpTTnJHeDQtRVpXTXFOcG1iS0QxUlBKdkpDZ0lKUXlJaHZrSXZoUS1PZUVldGthS0hsOEVtMmF3RzVFMm9mTdIB0wFBVV95cUxPMlJHTVZwTTNYam03VzJaRGYwVWRkbFFEd0hoOG13SEVEd3ptelduVk5EX1dXZ3AxNDB3cDNLMGM3MmlDcXpYeTFGOFo0dm9Yd0poUXZCd3ZCZUtWUjYxUmZMNGhEcnhPUGVSanQwN0J3eExWZXQxQUxJMVlHMjc1enRSOF9CRGp6UFlEeHRRZ1dWRzNPOWZIUFI1dGtkQXhGcFBETEpYTUVzQUpJbzhoSGlrOXlLVENTdDZJc3p2eXM0Mk4yVW5kbTZNLS02amk4ZzlV?oc=5",
-   "date": "2026-11-18T19:51:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3175a0a932a7",
-   "title": "Presidenta Keiko Fujimori sostuvo reunión bilateral con las máximas autoridades de Vietnam, Brunéi y Singapur",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZzRmRndjVG1XaGdxTl9lMEEzUzhpdXJrQ1NJOU5FVUJVZ09rRU10dWVqWjJUMC0xeWl0VUVKSFNHaFNfcWxJN0p1TXk2ZEx3RWdzaFpSbG5YakJJX3p0V0JHQW5rUUhNRFFDcC1JQTZNLTNjeHFKb0J2aThQZlo3RjNpQkl6ZUhnT0ZHV2dFQ3g5cWZkUXYzWGx0M2NiMmxsOWZHZGlEcXppaXo0MWFzQWJFcU82UUN6NG5ERVJ0OUR4T0NsZ001cHBkbjFhUG9veEVZRDFZSlJfQnM?oc=5",
-   "date": "2026-11-18T19:34:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6b4a7cebe936",
-   "title": "EN VIVO | Análisis del viaje de Keiko Fujimori a la China y LO ÚLTIMO sobre el caso Lizeth Marzano",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEdjTm5NTzI0Y0ZmbS1GaGNnVEEtM19SX21hWWNDX21mN05kaV9WUFNDdGJOVXVDVDRvRjA1UWxhZlZVWmY1U3F3UnZfVXo4MmxZd01hRnhNc2F2OXhEVzhlV3oxX1haVjNKcWxQSTY3eVdVNHBWbHFqSk5nbDBGV29sN0JEb2Y4WTU3ZHVpYTBvYnR1TVZra0hBbVhGdDhtNHRiZW1VZS10ang4X3QtbndHZ2g3ejBDV2t2UHA5c2kxajV5dV9PWE1vWlZtVlZy?oc=5",
-   "date": "2026-11-18T19:25:00+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
