@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T17:25:35.827795+00:00",
+ "generated_at": "2026-11-19T17:46:42.400319+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -206,6 +206,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f44693f46a79",
+   "title": "Keiko Fujimori se reunió con la directora gerente del Fondo Monetario Internacional",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTRnSDZyb1p0dzhwcUZhZ293SVdmQ2lCTU1UcnZNelhIM3Vjb2U2MDNqZXg1N3dHZ3FfRUtDNDN4UmtzdEhPdFJSaW16SXNSRlRvMWFBZHQ0VWhzZE5OYzh3aVhadms5T3JxcEJodVJnWmV3M2k4T0pLSmQtcFpiOUNFMnlzNnd6TV9FY3RqNkVSNE81R2hEQmVya3l5aEdoS0hoWkNzTUtyVTZ5Nm1kQ3NBZEduR1ZLZDBNVHFvOXFKdFnSAdcBQVVfeXFMUHlCWDJWdGhPcGMtV1RJZGVOS29zUXhWVnFfMmlMWHNIZkJpdWR5eEM1TEdScnhCeWhVZ19fU1Etbkh5cXhaY3ItbHlteWVEellVN3NaZXpLak9jTVh6eUN3UnZkZXFaRWxnOG5YTm55SzhucE5sOXRObVZSdFFYdlFBbkp1Ry1NVlhHR1ZSY2dSb2M5YVJ3c2M2d0tOOTdGRlpDY1V4ZnZvLVJxX29wc0s0dGJoM1VVLTBRZVFDMGFyd1ZTb2FBUG9OM2M2UkVMckJpQldLNFk?oc=5",
+   "date": "2026-11-19T17:17:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2661a2866ecb",
+   "title": "Presidenta Fujimori destaca la importancia de llevar los beneficios del comercio abierto a las pequeñas y medianas empresas",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lKRm1OY2NrVDhqS1NJUVg4OWc2TnFnZ2Z5SUdfMmg2ejhSRS04dS1VcFg2ZkZoUUNQVXdweUF0Y1FBWFlBNlV1RnFrOXdCcXJ2cjdSWTdTajZseUlZYVY5ZklFRVJHV2ZHclRaTHA0a2c0eGFTUVJqdjMzelRpQWU2VWo0VXFLYXpSUVFHZV8waVNIbDIyVVdyNWNqWUlhS2U3N3preXJLM0hpRnBpYzRwdmZ3UGJ1WHdnNlNpR0Itdw?oc=5",
+   "date": "2026-11-19T16:46:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9742737eb89f",
    "title": "Presidenta Fujimori dialogó con primer ministro de Singapur sobre cooperación en educación y gobierno digital",
    "excerpt": "",
@@ -352,17 +374,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lRmxfQk5wVnZmd3hDd1NIbGU5SFNYNm5pZkMzVUFqTFhGYkFzd25qWGczZVdLUFh0Y1dKTEtUYVZVd2stMll3UnBKaThMLUpFM1oxNDhTWlk5N2NBLUVqbzhwSGIyWDFkcXcydEE2OW5MSzBaNDRGLWd1QXJRZw?oc=5",
    "date": "2026-11-19T12:23:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2661a2866ecb",
-   "title": "Presidenta Fujimori destaca la importancia de llevar los beneficios del comercio abierto a las pequeñas y medianas empresas",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lKRm1OY2NrVDhqS1NJUVg4OWc2TnFnZ2Z5SUdfMmg2ejhSRS04dS1VcFg2ZkZoUUNQVXdweUF0Y1FBWFlBNlV1RnFrOXdCcXJ2cjdSWTdTajZseUlZYVY5ZklFRVJHV2ZHclRaTHA0a2c0eGFTUVJqdjMzelRpQWU2VWo0VXFLYXpSUVFHZV8waVNIbDIyVVdyNWNqWUlhS2U3N3preXJLM0hpRnBpYzRwdmZ3UGJ1WHdnNlNpR0Itdw?oc=5",
-   "date": "2026-11-19T11:41:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -890,17 +901,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZERyTlJQN1lzeE15SDhBT0NaRjFpakJ2bkZxYWN3RWhKM2pTLUJBRlp1bHdjSC1scGhhMktONDhTMVlWRXVxamJwTS1ZUVpYOExwMjFFVmgyMS1aUUgwZnJwUEpoS2RNZHE1aVFST2l3V0IyUERsUGdWcGl6elR5cjVWakdJNDJSRUNIMUdVdm5sSWRLaHptRTdJZjJZVWVCc1FVOGN2TGJzbFNTSTZoS1RQb3Q3OFRTREZ5OWh4Z9IB0wFBVV95cUxQb2dKcXdONEl5LWx6S2FiUzgtTVZfa0JndnpacldYSzdQSVAtSFZWcmNtQnEtWk9jWm1oRW5sNVd5b0k3MC1NTWtkeElOcFVhaGVRcDVYR1prVElmQldvT1RRR0NPVUkxTWNrNW9oS2kzYzJXSkdOaWx2b3ZQNFg1U1NCQTlIOFlsa29DTVJ3WkY4U1JHbXY1WDZ3QUgxc2NNNjlHaS1wSVowRTREeWtRaVljTlE0U04wczQ1c25GVnVSbzNMaTlEU2dRZ0RLTFpmX2NJ?oc=5",
    "date": "2026-11-18T16:02:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "964faaf9747c",
-   "title": "Japón prepara recibimiento especial a Keiko Fujimori: se reunirá con emperador Naruhito y primera ministra",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVFBaU0c4Ull0dVl3YXF5SWpZU1IzR1hYdUxBV1Z6TVpzLXJXSjAxdU9zUEZTWmxCWGpKVlRJdm5rNUVMZW41TVBNcFd0RHNWVU1manBIaXFaN3ItSzJTemJDUzQtVUlVVnNka000UnRLamhyZTBSSXJPU09kMlBWTnFxQW9ETW1fOTByZHRvRE5UVjVqYjFlZmxoX0pRUjBJQzBXajNUeUFsUFFsYVJwT3otVjZsYzFHVWVsWm9pOHpTQzJNcS1QM1V5Q3ZtTXZGMkJTb1RVTUFCNk1NbWhpbUhIY3dRSHQ2VS03UkJfMF85elJKRHE4VGNJREcxTjRWWEpPRVZWOVoyRXRQMUhIYV9fZ1pTMVF0R1BRZFdKMWRuTmw1cFlGSFp2QQ?oc=5",
-   "date": "2026-11-18T15:37:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
