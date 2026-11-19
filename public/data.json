@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:07:56.123934+00:00",
+ "generated_at": "2026-11-19T18:29:55.896503+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -206,6 +206,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "869e3ff43821",
+   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
+   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
+   "date": "2026-11-19T18:11:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f44693f46a79",
    "title": "Keiko Fujimori se reunió con la directora gerente del Fondo Monetario Internacional",
    "excerpt": "",
@@ -250,23 +261,23 @@
    "next": null
   },
   {
+   "id": "556d3951aa5b",
+   "title": "Presidenta Fujimori se reunió con la directora gerente del FMI en el marco de APEC 2026",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTdxVFd1TTU5VmxUeV9WR3ZVb1VhaWFxT2VVLUJUbnFjSDlKSTBySmVGYmQtX2FuTUQyQU1YeC05MUk3NW9POWM5VDJ4ZFhIYlYxOU1hVS1zSFlzWnpPb2ZfaXJhaUNXb29XcndRaDlKQzRTeHE3ZE1jeEVQNTBKZjNFN2tDYlktVkFQWEZZTzBxWXRwQzlpWlFNZm1ZSlBzYzhSc0pvcGlGLWVHekNpSXVNMVQwTzJvckVVXzBB?oc=5",
+   "date": "2026-11-19T16:31:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "67bbd6b0d078",
    "title": "Presidenta Keiko Fujimori se reunió con la directora gerente del Fondo Monetario",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW55aTNQbkIzS1NUVDNWOGQ3b1FSTmJrejU3VFh3NVRuQmYyMUNSWFI0LWJzaTdMMy14eDNZNUtSeGZrbzVYLXB2SVgzQ2ZfekF1NXNDb2N6ZlpmeVhDdVpBWDEzOXJ0eWZMVmZyUUxPTDFOOVdDaFhpRUhnNzk4bHI3RXVlTGVSUXZ0cF9XZTBnd2k3cWRKUTBPSnFENERqeTVSUjR2Ni1KemdUUnB6N0Job3JtM1JvS0tSWXdvYw?oc=5",
    "date": "2026-11-19T16:18:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "869e3ff43821",
-   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
-   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
-   "date": "2026-11-19T15:55:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -348,6 +359,17 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0M4Y1V6dTVJSXJaZE4zRlMyR0dva2g3alZmdHJMSk9wTVVveGdkeWpXVTNjQ1Y3WWVmUlpnNFlEUHc3WjFaN0FuRWY4MlhzV3VmUHpwV1lQZzlNY1BrMnFSZHphN2hOY3lfRll2Z0hwaFhmeWxxZWpKWk9WSlhwZzc5WkpUYUkySzBrY25iZGxlS25RckJwVjNUZmtSYUVMaVUyZXowVURFcHZ3X204SkU3bWtUMDZXeEw0ZjdyZw?oc=5",
    "date": "2026-11-19T13:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "811571d45a0c",
+   "title": "Keiko Fujimori pide apoyo a economías de APEC para enfrentar el fenómeno El Niño",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFNUUmc0LXJLVHR3NFhlUmNOeHBQVXBVWUhpUDlfV21jWjNXQU1JbGlPNEYwUTBhTWZFeUZVWkJNcXpIUjF4NEU4cXZMTGpic0VIVFh1WUlQaElwajQtOXNrT0V4SEgtVjVZeXkwdmJzdzQtTk9pZm5vTWJWUm5MQTVrYXl1aU5sR0VIVndaeldyM1MtcGFIT01CU0VkdEp0TEd5T2VRQ2FlRWJ3SXlRbFA1azJjR3NnVGFhdDNfc9IB0wFBVV95cUxNRjAzbWMwNzZXaHdrbWRIOUp0LThkTHM4OUJGWEhNQWR3WHpCcFA4Q0lwNEIwZXZmSEIwclBOQWctSGZLYnhwTnFiRnV2djY3RzIxSFRzb0Z3OVgzWWhpYW13aWFwUW5ac1VzQVR2NkRmbUtoRExHWVdFclFIM016OW1fZEJvRFhBd1ZhWGJydVlLMkIyeWhyd1Y4djRoTHR1YVBqakhLNGZJS0dDMGJLaDRkM005NUJjdUg5Q2tUVFdJejdvYXNEYy1nWkRxYXFxU01F?oc=5",
+   "date": "2026-11-19T13:41:39+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -871,32 +893,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSEQzNnk1LWNuQnptcVdzR0lYanpZSzZVSE5UWXZpTnRObkVyX3Z1aTljU1dfbUtldmtvVkRWbTYtaE5FR2tBcmRkWEJlOTdVZThzS0hVWEwtaFJKYnhuUE5sRENzUi1BTTNsZHJfbXJhcWVYam5SUVdHVU1NVzBPOU5GMHB3RGktOWl4eElMVktuSldBRXJmSzVvd1VpOXgwV3M4aEFUUDNZZ2hWci1aSUROMks3aE1ncjVYQg?oc=5",
    "date": "2026-11-18T16:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "265935c385ea",
-   "title": "Keiko Fujimori se reunirá con De la Espriella en Colombia: la disputa por la isla Santa Rosa llega a la agenda bilateral",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb0FnQWp6SkxuY2hvNXcwMHBnYzZ6WWRjc2hHdy1uR29kUWFqcGdJZVIwbUtkeUFDLUNWR1BRU01tRUt3NVBBenBXUzBNQTdvNHNwU29IcWJQR3JKWTRVYUdQaHdPYllPUzloeXBJaHJQdHd3MUtxRm1QNmxzUlJRYTZJTmh6VUpBRy1DUkF2eFVBSWR2Z0FrNm5kQnBHUm41ckt0YkFieFQ4OEs1WGxJOEt3d0FlbnZ0UDlvOGtxWF9Qa0lISTVRNGRENXc1dkRJQlExWFowaUVuNVlFSFBVYXNn?oc=5",
-   "date": "2026-11-18T16:25:29+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Colombia",
-    "abroad": true,
-    "city": "Colombia"
-   },
-   "next": null
-  },
-  {
-   "id": "2482a27447a4",
-   "title": "🔴🔵 Nicolás Lúcar exige a Keiko Fujimori tomar medidas concretas para frenar la inseguridad",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalA4N1VoVFFvSlEwYm5UT1lPTllsWm1LblBhalItUk4tWEZHN3F0Rnk4dXBuTk5QT0c3Y182VkQzQVY4eGI0a01wem8zZ0lvNkFrVzI2bENfZUVWQmstVE0wTlZsMVJjRW5xUHhfMkNESEpiaUxBNEVKajMxaFRBUEQwOXAxSHRhMUZzMGtSeVA2Y1E5ZFVyZzRDMVNOcmdoRnJXQ1YwVUJpeTFNckNzQkNYa0M3OWlQc1Z2QUt5ZEZFQzU2?oc=5",
-   "date": "2026-11-18T16:08:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
