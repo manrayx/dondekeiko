@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T11:20:49.085513+00:00",
+ "generated_at": "2026-11-19T11:42:42.384063+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -205,6 +205,17 @@
  "agenda_minutes_7d": 290,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "2661a2866ecb",
+   "title": "Presidenta Fujimori destaca la importancia de llevar los beneficios del comercio abierto a las pequeñas y medianas empresas",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lKRm1OY2NrVDhqS1NJUVg4OWc2TnFnZ2Z5SUdfMmg2ejhSRS04dS1VcFg2ZkZoUUNQVXdweUF0Y1FBWFlBNlV1RnFrOXdCcXJ2cjdSWTdTajZseUlZYVY5ZklFRVJHV2ZHclRaTHA0a2c0eGFTUVJqdjMzelRpQWU2VWo0VXFLYXpSUVFHZV8waVNIbDIyVVdyNWNqWUlhS2U3N3preXJLM0hpRnBpYzRwdmZ3UGJ1WHdnNlNpR0Itdw?oc=5",
+   "date": "2026-11-19T11:41:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "feabe0083602",
    "title": "Intervención de la presidenta Keiko Fujimori en APEC, llegada a la sesión plenaria y fotografía de familia",
@@ -882,17 +893,6 @@
   {
    "id": "809956cd4ffc",
    "title": "China destinará US$ 22 millones para implementar centro de monitoreo inteligente sobre seguridad ciudadana",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que China brindará al Perú un aporte adicional de 22 millones de dólares para la construcción de un centro de monitoreo inteligente…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
-   "date": "2026-11-18T13:07:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "05527d493145",
-   "title": "China destinará US$ 22 millones para construir centro de monitoreo inteligente sobre seguridad ciudadana",
    "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que China brindará al Perú un aporte adicional de 22 millones de dólares para la construcción de un centro de monitoreo inteligente…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
