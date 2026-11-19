@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T05:15:05.666245+00:00",
+ "generated_at": "2026-11-19T06:19:54.084417+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -205,6 +205,17 @@
  "agenda_minutes_7d": 290,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "cc2a28f921b9",
+   "title": "Keiko Fujimori pide a países de APEC “que se pongan del lado de Perú” para enfrentar a El Niño",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVlCaC1obWdnNW9veWZtaHM2aGd1QndzRC0xY2RVQWtKMW83LVVreGNsUkVMcS1rZlhQQlUxTEZZWXFnaGQ3SGpnZk1nai1WYUJzM3F4ZzVQY2c3NGIyMFlWbjRnb0hacHl4NGg1dEJuUG9xR0VaZURkMk54MktlcFo0NG0yZFhfdGR4N01JNllvT3F2alBRaFZfRmw3ZUY4ZklaZndaTUwzYW1oYjkzV01NR2ZCbjQydjkxcmlzTmp0dGZPRUHSAdoBQVVfeXFMTXRZdUJXRlM1RVhUc2Q5bzNtTGg2d2xYMEZsaldvUlNWS1NGZkxjZG1Qd0wzSzI0aGFseHBGU0tXSURWdjBOM24wd2F1eFNpTWY0ajAydGZMNTd1MHBIbDdnMXZxZUFjWW1iejlyVnRzQUJXY0FHVEhNS2pyeEJxc1BIMlZQc3FVSmx1U3dkalVvd2Q5dmpwOHVBVnVrdmx3aWFTZy1EX2ExUlpwWHgyTVQwWFVUSTZ3Z1NiQmtkOExFVHBlUFZLTXJ3SVd4d2R6a2xUV3k3RU1pYVE?oc=5",
+   "date": "2026-11-19T05:32:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "ddc2ebcb29a3",
    "title": "Canciller Carlos Espá asegura que la presidenta Keiko Fujimori se reunió con su homóloga de México, Claudia Sheinbaum",
@@ -892,17 +903,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "2e059d4b8ea1",
-   "title": "Señalan que gobierno de Keiko Fujimori muestra debilidad política en sus primeros 100 días",
-   "excerpt": "",
-   "source": "Rumbo Minero",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1JHYXlyVUMwX1VnZ05xVmpCcGc1ODFnbzFkdEY3M1lKMTY4YWhVWkJvRmh6ZE1mQTJnZ3hnWmllelMzSV9LeVQ3N3F6ZHpPNXJ0eVNrVTA5Vm5GTkhzcFFVWW5aZENubXFnREp6REpUWUk4c29DcmRXUzdvbGZnWXNjdWpvUWhrYldyMThJLV9rLWFjdkxPaU1ZR3Vnd0NXUlF1cmw2X0ZYaVd5WjRVYnhxeUxXWUpITU15Q3FiR2dnWVJMWTZKOUJB?oc=5",
-   "date": "2026-11-18T12:29:33+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
