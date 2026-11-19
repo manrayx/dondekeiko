@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:15:24.695990+00:00",
+ "generated_at": "2026-11-19T11:20:49.085513+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -101,7 +101,7 @@
    "city": "China"
   },
   "source": "Infobae Perú",
-  "date": "2026-11-19T10:08:02+00:00"
+  "date": "2026-11-19T11:12:34+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -206,12 +206,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "feabe0083602",
+   "title": "Intervención de la presidenta Keiko Fujimori en APEC, llegada a la sesión plenaria y fotografía de familia",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZEZneldSSkxyczl5bVQ3RWJHam0xNWNEaExZLThUX3NGbkJhRnd1b2JUbEs0NWxKOUxUdUFtVmZ1ZHZmOVhlaDB2T1l0ZFpTNDB2NHc1MjUwT3pUZE9jcTZDR01VZHQxMmFnSHNuREtuV3hsb25MNkdqdVJOTHl0VWZSUmNDRDdIM0NGUWlkSEh2SWlWWjBRZHd0U2Z4QVl4blo1cll5VnZBalFnUWxxYlZvRk11cFV1cW4tSU81ZE5wWlZsT2JUMlZIRUxFMVBJVnRWLQ?oc=5",
+   "date": "2026-11-19T11:18:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8f30985b4171",
    "title": "Keiko Fujimori en APEC pide apoyo a países miembros para enfrentar El Niño: “Que se pongan del lado de Perú”",
    "excerpt": "Durante la cumbre de líderes en China, la mandataria advirtió sobre la magnitud del evento climático y llamó a las economías de Asia Pacífico a sumar esfuerzos para ayudar al…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/19/keiko-fujimori-en-apec-pide-apoyo-a-paises-miembros-para-enfrentar-el-nino-que-se-pongan-del-lado-de-peru/",
-   "date": "2026-11-19T10:08:02+00:00",
+   "date": "2026-11-19T11:12:34+00:00",
    "state": "posando",
    "place": {
     "name": "China",
@@ -344,6 +355,17 @@
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
+   "date": "2026-11-19T03:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9742737eb89f",
+   "title": "Presidenta Fujimori dialogó con primer ministro de Singapur sobre cooperación en educación y gobierno digital",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2hpMDB1ZzVrLXZsX0hkUl9NbDNWU3NBNDdCeC1LbHExLVZJeno3YzJDZDI5THNmWlQ4WlNWeVRaMVRmbFh2ZFpkUURXbEsyVUhBUzhQaUtPYlhTbWdsMEhSd09USFk2elVVd21hVE9SQkNyY3BOV3RjVjdCSEF5WEtFMkwxeUFrWExXV1BjMTJfeVp2VzdIRmVrLThWYndRZDdDRmdFMU1XOXRYb2NWcVFfOTI5b0FMemhuR0xZU3FGQQ?oc=5",
    "date": "2026-11-19T03:00:00+00:00",
    "state": "posando",
    "place": null,
@@ -875,28 +897,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/china-destinara-22-millones-de-dolares-adicionales-para-centro-de-monitoreo-inteligente-sobre-seguridad-ciudadana-keiko-fujimori-apuesplan-ultimas-noticia/",
    "date": "2026-11-18T13:07:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "aceeed8bb528",
-   "title": "Presidenta Fujimori se reunió con presidente de Vietnam en el marco de APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclQ1NGhYT1pyaFdpZmRSUkNwejhxdFE2eXhITkx6LWRRUEVMdGtxcjBjSmpoT3JwT0Q2a0E1VkIzS3pDeDM1bFh0REdkZDVEV1V0aDJnYUlFZ2pOalZLN2Fjb3ZoNldrV1NvcTVkRlZJaF95R3pFUXVGelNVN3JhR3MyeEp4V0NIYjJDYXI5WDdlQnNISGtnOHM1N1FNMHVsWkFPTnZrRy0yMmxpWXc?oc=5",
-   "date": "2026-11-18T13:02:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e1006993c4a5",
-   "title": "Presidenta Fujimori se reúne con primer ministro de Papúa Nueva Guinea",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTi10aEgzVmdfeFVtY1ZuQmlBd3FPblVlcUsyRUl4Zld1bWlKQ1pZOF9YWnNsZGluNEU2TzVNQW1XT0xHbEp6eHpWQ2FHZW9ud0JrMDRNWTVBcTg2TlRXWThIck95bjREbVNlc1B1OGl2TnVPTGUxRUxQYm92ZDdmWHBOdU1UNnJuZU1zdE50LUdMYkwyaFhhU2IxLUNjVWJzc1RtQWpEX1pnNzV3d3lhbTNfcDU?oc=5",
-   "date": "2026-11-18T13:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
