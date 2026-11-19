@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T08:27:21.734321+00:00",
+ "generated_at": "2026-11-19T09:54:01.336401+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-19T05:09:30+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-19T09:32:49+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -206,6 +206,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3501616b94f3",
+   "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
+   "date": "2026-11-19T09:32:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "83cb00784431",
    "title": "Presidenta Fujimori abordó con su homólogo chileno cooperación y acciones frente a El Niño",
    "excerpt": "",
@@ -302,21 +317,6 @@
    "next": null
   },
   {
-   "id": "3501616b94f3",
-   "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
-   "date": "2026-11-19T03:31:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
    "id": "01e22808c7ca",
    "title": "APEC 2026: Keiko Fujimori plantea convertir al Perú en puerta de entrada a Sudamérica",
    "excerpt": "",
@@ -367,6 +367,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2tGcGxzbmlyS3NOZWVEM1N4Si1vZTY3US13OXg5WkRtLVFoR1RUa1lfQjZoREVqQU04M1dZcmcwZS1VQnYwNjBxa25Ba1BZSHd3S1lLcEVpRU5Sc2VqT2ZFU0dVZWZTVWRvajZ2TDg1ckx5cmpfN2dBdV9BbWtydDdXT0QxOERsZzc4U3FjanBORElZbUpyYXZ5TGkzbURXOElyR2tiVmR2NXVhWlNsLQ?oc=5",
    "date": "2026-11-19T01:43:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6da5f9bff02d",
+   "title": "Presidenta Keiko Fujimori defiende a su gabinete: \"Hemos priorizado la capacidad para resolver problemas\"",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObl8xQTJEWUJTMzFidC1GTi1wWW50UmFROURwUUltTjVvYmFHdkVzbjROcXJiVDZ3NmF2Ml93cDQyRDZuT1pWQUdBbHVSMWhpa1ZjN0NHcGpQR2FmZklBZC1EQTVJSXMzZ3I0NzhabENPZUlfZjh6V2lXeEpKUE84d3d4YkQ5OVJObkxIdm9vLTBOakF2QTVPTTdLOFlDbnc1VUhVMXF0LUstWWVNc1BsZmRkbkFtcHdWSU1CeFpOdkdqc0k?oc=5",
+   "date": "2026-11-19T01:22:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -888,21 +899,6 @@
    "date": "2026-11-18T13:00:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "6e7ab094504d",
-   "title": "Presidentes de Perú, Keiko Fujimori, y Chile, José Antonio Kast, se reúnen en China",
-   "excerpt": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-los-presidentes-de-mexico-chile-y-vietnam-este-miercoles-en-shenzhen-estos-son-los-encuentros-bilaterales-que-sostendra-apec-apuesplan-noticia/",
-   "date": "2026-11-18T12:39:15+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
