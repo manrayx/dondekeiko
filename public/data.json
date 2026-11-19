@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:52:41.889858+00:00",
+ "generated_at": "2026-11-19T00:36:00.009702+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6dfebc65ad7b",
+   "title": "Visita de presidenta Fujimori a Japón afianza agenda de cooperación bilateral",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDQ4Sjh3ZU1Jd3dkSnpRUkVpYUNiUG9laHJGT0w5VmZsZWZteG10OC1adTJZVnJWQkJ4ZXdWckhZYk1iczJMOUREa1lRT3Q4R1JpdV9wTjdId3lvOEh5LWl4anN5N2lnbWFEUXMtb1ltdzJQb1R3SjhMdGNqeUJkX0dMMWJNZTJyaGdxalJjcmZabjhoUXc2R0tKcXMzem9vOWFUeFJjZ1pDVXQyZGtndHlEVkR4b1V1NGc?oc=5",
+   "date": "2026-11-19T00:24:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "08bfcf8787de",
    "title": "Keiko Fujimori se reúne con Xi Jinping: el impacto del encuentro bilateral en China",
    "excerpt": "Uno de los principales anuncios fue la donación china de US$22,5 millones al Perú para enfrentar El Niño.",
@@ -282,6 +293,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "0932b47679c7",
+   "title": "Presidenta Fujimori inicia su participación en la 33.ª Reunión de Líderes Económicos de APEC",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
+   "date": "2026-11-18T23:28:00+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -362,17 +384,6 @@
    "next": null
   },
   {
-   "id": "4c79ddfba123",
-   "title": "Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2tGcGxzbmlyS3NOZWVEM1N4Si1vZTY3US13OXg5WkRtLVFoR1RUa1lfQjZoREVqQU04M1dZcmcwZS1VQnYwNjBxa25Ba1BZSHd3S1lLcEVpRU5Sc2VqT2ZFU0dVZWZTVWRvajZ2TDg1ckx5cmpfN2dBdV9BbWtydDdXT0QxOERsZzc4U3FjanBORElZbUpyYXZ5TGkzbURXOElyR2tiVmR2NXVhWlNsLQ?oc=5",
-   "date": "2026-11-18T19:43:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "a6bcc7376c22",
    "title": "Presidenta Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi [video]",
    "excerpt": "",
@@ -418,17 +429,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "6dfebc65ad7b",
-   "title": "Visita de presidenta Fujimori a Japón afianza agenda de cooperación bilateral",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDQ4Sjh3ZU1Jd3dkSnpRUkVpYUNiUG9laHJGT0w5VmZsZWZteG10OC1adTJZVnJWQkJ4ZXdWckhZYk1iczJMOUREa1lRT3Q4R1JpdV9wTjdId3lvOEh5LWl4anN5N2lnbWFEUXMtb1ltdzJQb1R3SjhMdGNqeUJkX0dMMWJNZTJyaGdxalJjcmZabjhoUXc2R0tKcXMzem9vOWFUeFJjZ1pDVXQyZGtndHlEVkR4b1V1NGc?oc=5",
-   "date": "2026-11-18T18:22:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -482,17 +482,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdmVTckhEOU9oRmdNTjU4UF9WNFJRVDlqMkp2bGtQRDU2SkVISGJHUk9mbGJaMG9lSWt1UG5HREhqRTdoZ3lkV2x0SGRjMzFEZWZVZUx4WU11OWxncDN1dDZ5RzdHY2ZxUGFnLVFrUndmd2JLTTBhZGRtZkRQTE9PYUExUWI3dEpsb0RNWExURFo0QXA0Z1hlRlByV1QzUjBtYmZIRWw0SGp0TFQ4VTl4emZJYk13cEVHYW13eFFORWtQOG5fSTFmbkVwVFIwTW9VbmFyN2pDY1pSZ0NhVFdiSFdLdkI0MTdOSWJrRHdkTGhtT09WNGQ0Tw?oc=5",
    "date": "2026-11-18T17:10:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0932b47679c7",
-   "title": "Presidenta Fujimori inicia su participación en la 33.ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdS1tVUJQYWZKb05pLWpnOHZWX0lzWXRfUHlWVnZLSzBqZVJPR2pwZ1RfV3c3N3BURTJOVi12QnJVXzFpMG5xWkRRUzlsWF85WUhhVUJDWHJCbTBZbTN3dG4zaHlGTUVKM0NZNzNQR3NpenhZUXpTR1JIUVJ5NW9ZVDNqbWUzUV9EWGVxUjJlbjgtb0NpRG1uSnNKTGdKb21PUFdDbkhBb0dZczNac21BRE9RQ3pHMXVfZlhDNHVHSXFsdzVhZ1E?oc=5",
-   "date": "2026-11-18T16:57:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -725,6 +714,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWTFNZlZCQVJjNjFtOXVlRzQzUlVFcTRDYUp4VEhXVmlTbzdFaWZJZXNiekotOFpsMUpBQUNCODV0OXhNYjlMbjVJN3hRcUFRdjVnaTI5dVJ4T0NsRHZKNHJpeVB0UjVtS1dqUmNIbjF1WXNQcklaZklIeTV0YllxclVIaFd1VU5Xc3pxZXlpYU1DVXlYQWEzS3dzUDRaT3BhXzM1eHhlaFpIWVFIT3FCLUdac2RNMWYyYVlZVzlkT2k3dk5HSlJsMmR1bnVudTTSAeMBQVVfeXFMUDFnZXNobWd6eGVMWngyOFR3VVZNZ3JuNW5RdVc5bmpBMnBHWXBETkVHMDhKd01UbF9Ec1ppQ0FwZUdLZlV5UG93N1lpdFdkVEVFd0Q1ZnM2Z0dYQlhoRm9MTFAtRVdNbzF6TnFyMU1sS1ZWcVlfU0VuenBfNUdPWDBfdVRWb2tvYWQ2ZE9oVERNbjFISDMzc09HU0Y5VDQ3ZEt4YTdCcmRxbmVaVjZ6OXNiYTlaWUVPTVNqZzkybE50dkdJU2NqdTI3cUFnVGswb1V2SGZPRjVBZHhINjlzNjdLRWs?oc=5",
    "date": "2026-11-18T13:41:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4c79ddfba123",
+   "title": "Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2tGcGxzbmlyS3NOZWVEM1N4Si1vZTY3US13OXg5WkRtLVFoR1RUa1lfQjZoREVqQU04M1dZcmcwZS1VQnYwNjBxa25Ba1BZSHd3S1lLcEVpRU5Sc2VqT2ZFU0dVZWZTVWRvajZ2TDg1ckx5cmpfN2dBdV9BbWtydDdXT0QxOERsZzc4U3FjanBORElZbUpyYXZ5TGkzbURXOElyR2tiVmR2NXVhWlNsLQ?oc=5",
+   "date": "2026-11-18T13:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
