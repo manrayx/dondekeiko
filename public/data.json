@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:55:11.857402+00:00",
+ "generated_at": "2026-11-19T20:17:03.700662+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "www.apnoticias.pe",
-  "date": "2026-11-19T15:15:51+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-19T20:09:14+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -206,23 +206,49 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "869e3ff43821",
+   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
+   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
+   "date": "2026-11-19T20:11:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7f647c9263e4",
+   "title": "Claudia Sheinbaum llama “vecina” a Keiko Fujimori: juntas por primera vez, ríen y departen al lado de José Antonio Kast",
+   "excerpt": "El encuentro se produjo durante la cumbre de la APEC en China, en medio del restablecimiento de los vínculos diplomáticos entre Lima y México, suspendidos desde la crisis por la…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/19/claudia-sheinbaum-llama-vecina-a-keiko-fujimori-juntas-por-primera-vez-rien-y-departen-al-lado-de-jose-antonio-kast/",
+   "date": "2026-11-19T20:09:14+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
+   "id": "160e7d976835",
+   "title": "Sheinbaum se reúne con Keiko Fujimori y aborda el restablecimiento de relaciones entre México y Perú (Redacción Astillero Informa)",
+   "excerpt": "",
+   "source": "julioastillero.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTNQT1hRMGExNnNKc3JpcHlqcl85Y25YWTFOLU9CdkN6QWE0cEU0Q3F4Q2RfdEZoeHFkZ0FTMmFKSW52ekQ0a21ESlQ3bHRxaVhBUUMtSDdFQUtRT0h1MjRCV0NHcFgxS1JyTi1TQWkwbllXOGFpR3ZxUnZSeVMtNzh2czloT002QTRLVEJyRDIzUEZydExOemdIVFpKNko4aXI1UWJMM2dHSnYycmswY3JGaEhRazhPYUVQRUtUdEZRQzdvakp3?oc=5",
+   "date": "2026-11-19T20:01:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d5ed2d6dca7f",
    "title": "Sheinbaum informó que se reunió con Fujimori en Shenzhen para “restablecer las relaciones”",
    "excerpt": "La presidenta de México, Claudia Sheinbaum, aseguró este jueves que mantuvo una “breve reunión” en Shenzhen (sureste de China) con su par peruana, Keiko Fujimori, que sirvió para “restablecer las…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/sheinbaum-informo-que-se-reunio-con-fujimori-en-shenzhen-para-restablecer-las-relaciones-noticia/",
    "date": "2026-11-19T19:38:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "869e3ff43821",
-   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
-   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
-   "date": "2026-11-19T18:11:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -871,28 +897,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWVSTXBFYmY0QmdNWVZkcXhscGVQU1U0XzNEV2xBeFYzQW9BV19qejlBWUsySkdvV3NKUzFEYmNoMktRa3Y2dW5TcFMxNHF3bFFSelQwa2VCQ1ZXRVRIYlNSLW9UZFdzREE1eDIyejRuOVZBVEw4OThJaDNiU3NDWF9DVzlrOUpTZTdz?oc=5",
    "date": "2026-11-18T16:55:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e308072352db",
-   "title": "Abelardo de la Espriella recibirá a Keiko Fujimori, presidenta del Perú, en Barranquilla: así se llevará a cabo un gabinete binacional",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMDRybkc1LTZKQXc3RFlRS25RSnR4Ql9fcmtlZ0ZxWDlkRHd6b25Eeks5RDN3QlM1V0dvZ2J0WW43bC1XQmtYTlJzQkZMUTdUSllEdDNjRlR2UFZLcmh4amtDaDU3WVBrdDJFbEFISXg0VE5rRUJZRElSOHVDc3Q5NFF5MjQxU3c3R0FRNGU4UmlyWWMxWGV2QnhmRndZYmFGM1k0azNqVnZXeU5zRjdGT05XUDZKbFdDUFJWRElIOGtVbms1TEExNU1KajBPbzYxb2ktRUVBQ19xSnlvenNJVkg4WHdUVGs1cndIOUhXQlQ4dFJHajRDNUdlUWhjcFNadXltd1hFONIBogJBVV95cUxQcGRZZ3IyaDBxc1R2QTZ6RFhQQjlWNzEtX2FVOThvdk4xVHU4dzk0enFRUGVtc1QwWHNfSjlHQWJDSlFQNHhvOFJMb0pjeTlDZTUyNG5fSkxzWGFZSWdIamw2NGFDdmVmR0dKQk1DTEpkWDVXeU1DMFpiQ29xanhjT2txZV9NSHBIbHY2UW1JeGQ4cGFZYmNCMG4tNzFjWWpsOHJtRmFia3Q0V0VieEJYNjN1MnZGSm1SR1dUNHF1dU0xdDh4SW8wdGk1emI2U2kyeDBKQjNUZFNqb2Y0ZlJlOFo2XzBvTzI0bzZZVjBmWHUtNU1XVGF1T1ZhbmFqdGJRdjM3RDY4VmI1dXB6UC1QeUNSVlBIR19PamF3NExpYW1zQQ?oc=5",
-   "date": "2026-11-18T16:51:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b0784e9cc23c",
-   "title": "Presidenta Keiko Fujimori inicia su participación en la 33ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMjBEcWtPdy1KUTFiekhQUkI1Q0JhNUh4anFBMGhXMW9CdFMyajV1ZGttbWREM1FmZ3kzY2k0SFExLXIzZ1Bjb292emlFWmhKbUJzMkJfMmJ5OEFTVnZXWUJPN0F3Vzd2VnFHb3RpcVdaQWZRTlZBTDBNN2RFOUw5dU13S3E3YzdfOUNRZmluUmZDbW9FOWJVLWdnQVpvbWpwc2pWQzE5Z2pPUnkwaFRlekUzM04yQ0VMQ2RUTmxNeUw2YVZiSjVnWDl5a3pTSHExdXJQZQ?oc=5",
-   "date": "2026-11-18T16:49:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
