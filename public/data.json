@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:17:06.259790+00:00",
+ "generated_at": "2026-11-19T15:38:20.384757+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -206,6 +206,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a1ba6a848b63",
+   "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
+   "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/19/keiko-fujimori-se-reunio-por-primera-vez-con-claudia-sheinbaum-tras-restablecer-relaciones-con-mexico-hnews-1364295",
+   "date": "2026-11-19T15:35:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "92696c990e4d",
    "title": "Carlos Raffo debilitó figura de Luis Galarreta para buscar la PCM",
    "excerpt": "Sentenciado por corrupción en el régimen de Alberto Fujimori, el excongresista se mueve hoy como asesor en la sombra del entorno presidencial: acompañó a la mandataria en actividades oficiales durante…",
@@ -357,21 +368,6 @@
    "next": null
   },
   {
-   "id": "3501616b94f3",
-   "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
-   "date": "2026-11-19T09:32:49+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
    "id": "83cb00784431",
    "title": "Presidenta Fujimori abordó con su homólogo chileno cooperación y acciones frente a El Niño",
    "excerpt": "",
@@ -450,6 +446,21 @@
    "date": "2026-11-19T04:42:54+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "3501616b94f3",
+   "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
+   "date": "2026-11-19T03:31:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -886,17 +897,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb09wN2YybnR1NzFYVWktMTNKbUdpVnZ4a296RExGRk5sLUNDeVVxa1JSN3Y4Q2VzaUxUX3hNOFltcHhDYU9iVFdpTEdsRUlWNm5zWWxOanRuUThEX1dYUGZjODdDU1lMVHF2SjBPOEpJUmlfT2xUcGpnTWlxSFJ6MU9NZTFyaXhzd2kwSnc3SlZEZ3RuTjFvMGpvTXdFcDlWWHBSUFdsZlp0NS1MZzdDWEhyNlpOR3E1UkNtcExacXRhM21JNHlLUEY5ZTRLX21TUFR0QUROdw?oc=5",
    "date": "2026-11-18T14:59:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "27555e7f245e",
-   "title": "APEC 2026: Keiko Fujimori se reunió con José Antonio Kast en Shenzhen",
-   "excerpt": "Los temas abordados entre ambas autoridades de Estado incluyeron el impulso del intercambio comercial y la posibilidad de coordinar acciones frente a los efectos del fenómeno El Niño (FEN).",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/18/apec-2026-keiko-fujimori-se-reunio-con-jose-antonio-kast-en-shenzhen-hnews-1601928",
-   "date": "2026-11-18T14:45:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
