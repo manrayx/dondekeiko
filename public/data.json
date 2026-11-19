@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:08:45.591724+00:00",
+ "generated_at": "2026-11-19T13:30:06.331415+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -234,6 +234,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdWVIczdLT0hLU2xlbjZKN1htVFdXX05FNFlTUFdUZEtjM1lEQkFkUUhRUVBjTl95eFloMnFRakp6cExiRHVGN21aeXZGTjdFYXlTdWlXdzl4bjBYNnZHX05jQXBFS2R6cVc2Zk9Obm11NDZ6LThhX1ppMjA0OEFYUndSczhUcjl5eEd6bVdCMjgzb3FQX1BieDBlWUdKcVBfTmswVENMRXVZOW9qMUxLUmktRm42eW9ZY0xNRVk5bFNmcllmbmc1MFR2SDRYV3M4VG5xVFlWN0wzV0FLdGVPb2I1aXg?oc=5",
    "date": "2026-11-19T12:40:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "06d8141f5a43",
+   "title": "Keiko Fujimori se reunió con Claudia Sheinbaum: \"Conversaron de diversos temas\", revela Carlos Espá",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lRmxfQk5wVnZmd3hDd1NIbGU5SFNYNm5pZkMzVUFqTFhGYkFzd25qWGczZVdLUFh0Y1dKTEtUYVZVd2stMll3UnBKaThMLUpFM1oxNDhTWlk5N2NBLUVqbzhwSGIyWDFkcXcydEE2OW5MSzBaNDRGLWd1QXJRZw?oc=5",
+   "date": "2026-11-19T12:23:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -888,21 +899,6 @@
    "date": "2026-11-18T14:09:12+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "865dde18bd4b",
-   "title": "Keiko Fujimori abordó con su presidente chileno José Antonio Kast cooperación en seguridad y acciones frente a El Niño",
-   "excerpt": "La presidenta Keiko Fujimori continuará este miércoles 18 de noviembre con su agenda de actividades en China. Tiene programadas reuniones bilaterales con mandatarios y altos representantes de distintos países, entre…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-los-presidentes-de-mexico-chile-y-vietnam-este-miercoles-en-shenzhen-estos-son-los-encuentros-bilaterales-que-sostendra-apec-apuesplan-noticia/",
-   "date": "2026-11-18T14:05:17+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
