@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T00:36:00.009702+00:00",
+ "generated_at": "2026-11-19T01:19:17.912488+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -269,6 +269,17 @@
  "agenda_minutes_7d": 381,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "90b4350714ac",
+   "title": "La presidenta Keiko Fujimori, sostuvo una reunión bilateral con el primer ministro de la República de Singapur, Lawrence Wong",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1pkS1pLcjZEUzE4SGRaQllkRFg4ckpucjlZaFNGN3M0UTdfcmJMb2NtRkZFV1ZEdTNhZy1GWF85NVVYMWV4cmxaTWd3M21NWllQR2RRa1hwdWtfUUtLS2gxS0hNTHZTSkFFdkZHU2VDazVkZ0RoeFZQNHBSVktWNWhzdDM5WjlhOTlYXzFaWDZZMVB1Uk1sYU1hZUkwaVBUZzRSZlVVdUlRWkVEbTRPMnBVRlVCVWdXbml6X0NCNWxLUENDVE5EVGFyNGhVelc3dTVNMHhSblRRRDZBSkVMdFZVQmxtaGpnZHZJWnM4eFU?oc=5",
+   "date": "2026-11-19T01:16:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "6dfebc65ad7b",
    "title": "Visita de presidenta Fujimori a Japón afianza agenda de cooperación bilateral",
@@ -954,21 +965,6 @@
    "source": "Perú Informa",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQV8xWm5HV21QZHBjNmZpbXVVVUtpWERaZ18ydmw2TDFIZG91VUN4YWVoV2R5YmRUeVY3aTI2dld6UDRDZWYxaGIybUFXUUZsM0pMT2RITUtNRnNJS3djRnJ2T0prSU83aXhHLWlKcWFib0lCdWxhYWlLcGtDRmZJeUwxeExZbTV6OXhtRm45S3ptQU83ZDVFWWM5bElMZW1HczRyS1kya0hDeFh0bnhHQW9ZRkVSRDFaT1E1aWRSQlYya2p6Yk1nZEVPVWNsX2gyS21xRXQyWFpYdThVSGNQLXllSVZ3b1BqX1JSWlQyWQ?oc=5",
    "date": "2026-11-18T03:06:49+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "48514661ed04",
-   "title": "Keiko Fujimori se reunió con el primer ministro de Papúa Nueva Guinea en el marco del APEC en China",
-   "excerpt": "El encuentro celebrado en Shenzhen durante la cumbre de APEC incluyó una propuesta de convenio técnico sobre clima, protección marina, combate a la pesca no regulada y cultivo de papa",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYldzM3VCcnY2LUt2RjlsSDM1Yi00bFVqM2NjMF9OYkh6VTFYaFpFWGtIUHhjM1FJMjdvR2s2WFhkSEhNdWVrUVJjLTdncUcyVjBIV1VhdHVwMER3V3B4cDNoYWNma0hYRTFFWTVsX0ZVbzN4THZiYnlMeXdodmNrTHZlZ0h2UXF6dmdwa3FJU25vaWcyM0tpeTNfUWhQaXpnU1pHbTR4eTU4M2MzNE1CV1F5VERTSWx6aWJpc3NGTk9ldHlTRTRIOXpEYmFVNGU3bjZ2V3p1bFZSQdIB9AFBVV95cUxQTHRPWUtaMEwtaEoyNWFYamdUZGplZWJMZ1ltXzdkcGF3ako5RWxON0lYSGNFbzhiZUhsV3Z6V3E1MTEzQlRTTmNiM09QVmViMy0zSXdDWUw2dURwX1o0akxJamU3emQzRUdFSjJMemRQc3Rna3kyaHJ2NWZDdkJ1d0M3ZXBfVjdRVXhqQjBFeklSWmZsWFpYMXZ5ay1UUVg5UC12YTA3bWdwLTBKZ3ZWd2NMeDgtd0ZReFltZ0h4dHdRVnpuY2k1enNjRmdpVnk4RThIbUJBOVI3TGNpNGd4cjlRMXJvU0dYZG5Idmc3Tnhva0xR?oc=5",
-   "date": "2026-11-18T02:44:00+00:00",
    "state": "posando",
    "place": {
     "name": "China",
