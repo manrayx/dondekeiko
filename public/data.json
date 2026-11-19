@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:12:49.898969+00:00",
+ "generated_at": "2026-11-19T14:55:41.948719+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -205,6 +205,28 @@
  "agenda_minutes_7d": 290,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "92696c990e4d",
+   "title": "Carlos Raffo debilitó figura de Luis Galarreta para buscar la PCM",
+   "excerpt": "Sentenciado por corrupción en el régimen de Alberto Fujimori, el excongresista se mueve hoy como asesor en la sombra del entorno presidencial: acompañó a la mandataria en actividades oficiales durante…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/18/carlos-raffo-el-personaje-que-aparece-en-el-entorno-de-confianza-de-keiko-fujimori-en-su-viaje-a-china-hnews-993492",
+   "date": "2026-11-19T14:51:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d23db1564c40",
+   "title": "Perú y Tailandia firmarán un TLC antes del cierre del 2026: los productos que podrían intercambiar",
+   "excerpt": "La presidenta Keiko Fujimori anunció la firma de un tratado de libre comercio con Tailandia tras alcanzar un intercambio bilateral de USD 739 millones en 2025",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/10/peru-y-tailandia-suscribiran-un-tlc-antes-del-cierre-del-2026-los-productos-que-podrian-comerciar/",
+   "date": "2026-11-19T14:37:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "75df7a16c4bb",
    "title": "Presidenta de México Claudia Sheinbaum confirma que se reunió con Keiko Fujimori en Shenzhen para “restablecer las relaciones”",
@@ -881,28 +903,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "cd545c34a839",
-   "title": "Presidenta Fujimori abordó con su homólogo chileno José Antonio Kast cooperación en seguridad y acciones frente a El Niño",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2ZMYUxGZjJvbVRDaUhqOU94RllFTW02T0UtZVdBc2RSRzVpREswOFM2bzhGSUczYjlYMF92dkk2bkZMVVhGcHpoVExpZXVPOE5pcnZLNVZmWnlfVUxxSXh1RU54TzB0NlBsSmluYlh3QTEwQlVOY1BoZ2hJUTk4dXVwZ0xaT0dtVE1MdFdBbExLY2FXejBqeDJQdUxhWnY3Q0hNYU1oeE9HeGRYV3dqRFZyTHVpeWdXYUlWLWJmdE1PZw?oc=5",
-   "date": "2026-11-18T14:16:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c40391dc09f5",
-   "title": "Presidenta Keiko Fujimori se reunió con su homólogo chileno José Antonio Kast",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5DYlBkcXEya3FYVTFzR25FcHFFaUM1WkZLNFdmWlpsVVZNdGhEQ29EWm9MZFV0TzJnTzRSbjJ2RUNkV3NhcmNfZlRfR3cyWEJaOFM3bVE1cjY0dGJwWkgxR3VlN1dxVkxLN2lzM0Q1V3NqZ2s5WjhjaUg0RFpoeWgyNUhTOGZvb3lTMWFfNks0eVV3Z1dOcTI4MVBucVZLX1ZWZnBaaVdCTHZ2UDBzLVlzTW9McTlaZVE?oc=5",
-   "date": "2026-11-18T14:14:08+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
