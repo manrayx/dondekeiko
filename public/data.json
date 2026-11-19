@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T01:19:17.912488+00:00",
+ "generated_at": "2026-11-19T01:41:11.106276+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,12 +270,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "83cb00784431",
+   "title": "Presidenta Fujimori abordó con su homólogo chileno cooperación y acciones frente a El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmozX1ZkX0lmc0Y1NGFoM1NfMjl1Sk9OMm42dDYwVkoyU3F1bUJXbXBBRXVwUG5VTUpiX1Q1ZHFjTGYwLUlObWIwbUVNd3ZfdVVqMTU1TnFxQng3enpzM0p6X3RGdXQwNl8yRE1Ha0tIZU5XZ3hlcGlPRnhUbW5SREZkRHRGM3lWcHc5NE9lMW5ISWx3R2c2cUNCYzFSMEhrc1hDS29TMWNlWU42c2Q3a25NN0pRMjA1V2tyZ3lPX1NOcEhRTVdDWjhR?oc=5",
+   "date": "2026-11-19T01:29:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "90b4350714ac",
    "title": "La presidenta Keiko Fujimori, sostuvo una reunión bilateral con el primer ministro de la República de Singapur, Lawrence Wong",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1pkS1pLcjZEUzE4SGRaQllkRFg4ckpucjlZaFNGN3M0UTdfcmJMb2NtRkZFV1ZEdTNhZy1GWF85NVVYMWV4cmxaTWd3M21NWllQR2RRa1hwdWtfUUtLS2gxS0hNTHZTSkFFdkZHU2VDazVkZ0RoeFZQNHBSVktWNWhzdDM5WjlhOTlYXzFaWDZZMVB1Uk1sYU1hZUkwaVBUZzRSZlVVdUlRWkVEbTRPMnBVRlVCVWdXbml6X0NCNWxLUENDVE5EVGFyNGhVelc3dTVNMHhSblRRRDZBSkVMdFZVQmxtaGpnZHZJWnM4eFU?oc=5",
-   "date": "2026-11-19T01:16:48+00:00",
+   "date": "2026-11-19T01:16:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -368,17 +379,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQY0NIVWJ3TjNlOXY3TEIzVE4xaWc2M0EyWmhXRjF4QlI1SjhKdXR1MmJJY1AtVUZYa1FQMlp6a2RHZXBQcnNqR2hsaTk2LWU2OVFpX1YzWURjT2VkVklybjQ1ejN1aUdBa3hvWWNrOWd4bVh1bnlLZV9WSXdfQVNoS0lDWGdPOEttamx5NXNDV3htdFZXQ3ZqYWJsd0hnQV9VRkR6ZFdvUUEzWFAyM1VlR0xvV0EzWWltVHNMay1yZ3VJT0oxUWVBblg4elhJNHYyWjJybzk1dGlvaVFWWkNDR0NLb3ZoWTJXdFRCM3NSTnRZYWRWM0s5MVFJNThLWlZPakVqV0VIaFZ4djNRVDRfZjc0aWwxMnBfSVh4aC11SkM3Z9IBtgJBVV95cUxOdGZoa0hYNUwyWUIxSEJkSkFDSllaMVpqQ2c3NlhBSXpkQVZuQXljdE1iN0hoV2oyYW92ZU50b2ZZc2lpZnBweHNiYlZtRE16VWJaNjVNZ3A3elNLSmt4SFVTSlc4MDQ5YnN3WjlXNVhxUVRzaFAteDBxa2dTbzVYckRjZnB3WVZ4MURKTVRmUV9YMUt3aU05Z3VXNnpTX05aZXFvdDJFSW5JUE9FbXRra2JIMlN6SHpud0JmZzc4bllsNTF0MWhYNTlKUkYxb2lsUkRwQ1Zob0VBU0NlNFZaUE11Sm4zQ2poNnpMVEstMkZwX1hwMHhFdXRKWkhFalZIYzNqdnlzd0d4Vmp0dGwtNWxmQ01VMWlsdW9yZ1l6ZDgwQjljNmtYRG12R01tZVY1NmZ1WEdB?oc=5",
    "date": "2026-11-18T19:55:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "83cb00784431",
-   "title": "Presidenta Fujimori abordó con su homólogo chileno cooperación y acciones frente a El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmozX1ZkX0lmc0Y1NGFoM1NfMjl1Sk9OMm42dDYwVkoyU3F1bUJXbXBBRXVwUG5VTUpiX1Q1ZHFjTGYwLUlObWIwbUVNd3ZfdVVqMTU1TnFxQng3enpzM0p6X3RGdXQwNl8yRE1Ha0tIZU5XZ3hlcGlPRnhUbW5SREZkRHRGM3lWcHc5NE9lMW5ISWx3R2c2cUNCYzFSMEhrc1hDS29TMWNlWU42c2Q3a25NN0pRMjA1V2tyZ3lPX1NOcEhRTVdDWjhR?oc=5",
-   "date": "2026-11-18T19:55:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
