@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:24:02.941654+00:00",
+ "generated_at": "2026-11-19T02:45:19.301269+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "898489a1c524",
+   "title": "Presidenta Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWS1QcnJFUDZWUFp5YnllOWlhTi1wNDN0U3ZnS2I4NFgwd0o1LWtPWXFKTFI0bWU5ek1TZHZwYmE5V0kzdWIyWlZGbU9MRm51NmRpeERfVmNjSmN3NE1pcEJNRHR5RTI2QnNXcXlUR2FSWUVPWjlTakVwcjhnYzROOGJfUDM5TEEwRjZoX1d2RkZyWmxuRzRqN0tDTWo0UlBhamtHQVBXbENNaEIzVjQ2R1E1cUdRc3NjakpDUnNKWnpOT2FUdTdnbi1saw?oc=5",
+   "date": "2026-11-19T02:28:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9a05c98eb057",
    "title": "Keiko Fujimori presenta al Perú como puerta de acceso a los mercados de Sudamérica ante empresarios de EE.UU.",
    "excerpt": "",
@@ -346,17 +357,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
    "date": "2026-11-18T23:28:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "898489a1c524",
-   "title": "Presidenta Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWS1QcnJFUDZWUFp5YnllOWlhTi1wNDN0U3ZnS2I4NFgwd0o1LWtPWXFKTFI0bWU5ek1TZHZwYmE5V0kzdWIyWlZGbU9MRm51NmRpeERfVmNjSmN3NE1pcEJNRHR5RTI2QnNXcXlUR2FSWUVPWjlTakVwcjhnYzROOGJfUDM5TEEwRjZoX1d2RkZyWmxuRzRqN0tDTWo0UlBhamtHQVBXbENNaEIzVjQ2R1E1cUdRc3NjakpDUnNKWnpOT2FUdTdnbi1saw?oc=5",
-   "date": "2026-11-18T22:54:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
