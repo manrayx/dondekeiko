@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:51:30.301309+00:00",
+ "generated_at": "2026-11-19T14:12:49.898969+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -206,6 +206,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "75df7a16c4bb",
+   "title": "Presidenta de México Claudia Sheinbaum confirma que se reunió con Keiko Fujimori en Shenzhen para “restablecer las relaciones”",
+   "excerpt": "La presidenta de México, Claudia Sheinbaum, confirmó que sostuvo una reunión con su homóloga peruana, Keiko Fujimori, en la ciudad de Shenzhen, China, en el marco de la cumbre de…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/internacional/presidenta-de-mexico-claudia-sheinbaum-confirma-que-se-reunio-con-keiko-fujimori-en-shenzhen-para-restablecer-las-relaciones-ultimas-apuesplan-noticia/",
+   "date": "2026-11-19T14:08:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "869e3ff43821",
+   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
+   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
+   "date": "2026-11-19T13:55:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0a243d78145c",
    "title": "Lo que se sabe de la reunión entre Keiko Fujimori y Claudia Sheinbaum en China (VIDEOS)",
    "excerpt": "",
@@ -227,17 +249,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmQyWWJQYmJiVkdmek1oejkxQ0VaUWttVXRuT2M0N1hOVjRrclFGblBEeExIaXBpSy03a1QwZUNJaXRnQWhxalhtVnh3cHdzUmtHNkxBNUVwNVhDM19fV0lRX2UzV1M0YnJ3ODFsYkkxN3NFLWh4ZlplMVdCb1pLYVhUUHh6eDZ6WnpiMjNCSFpqeEFCUTk0ODB1bHV3YkVxb0RiWXZxTzRhaUlabGd6VEt3Qy1jWkFndzZHT0FGY2lkbXc?oc=5",
    "date": "2026-11-19T13:03:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "869e3ff43821",
-   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de una nueva jornada en APEC",
-   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
-   "date": "2026-11-19T12:40:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -352,9 +363,9 @@
   {
    "id": "cc2a28f921b9",
    "title": "Keiko Fujimori pide a países de APEC “que se pongan del lado de Perú” para enfrentar a El Niño",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVlCaC1obWdnNW9veWZtaHM2aGd1QndzRC0xY2RVQWtKMW83LVVreGNsUkVMcS1rZlhQQlUxTEZZWXFnaGQ3SGpnZk1nai1WYUJzM3F4ZzVQY2c3NGIyMFlWbjRnb0hacHl4NGg1dEJuUG9xR0VaZURkMk54MktlcFo0NG0yZFhfdGR4N01JNllvT3F2alBRaFZfRmw3ZUY4ZklaZndaTUwzYW1oYjkzV01NR2ZCbjQydjkxcmlzTmp0dGZPRUHSAdoBQVVfeXFMTXRZdUJXRlM1RVhUc2Q5bzNtTGg2d2xYMEZsaldvUlNWS1NGZkxjZG1Qd0wzSzI0aGFseHBGU0tXSURWdjBOM24wd2F1eFNpTWY0ajAydGZMNTd1MHBIbDdnMXZxZUFjWW1iejlyVnRzQUJXY0FHVEhNS2pyeEJxc1BIMlZQc3FVSmx1U3dkalVvd2Q5dmpwOHVBVnVrdmx3aWFTZy1EX2ExUlpwWHgyTVQwWFVUSTZ3Z1NiQmtkOExFVHBlUFZLTXJ3SVd4d2R6a2xUV3k3RU1pYVE?oc=5",
+   "excerpt": "Desde la cumbre APEC en Shenzhen, la presidenta Keiko Fujimori pidió a las economías miembro sumar esfuerzos para responder ante los efectos de magnitud extraordinaria del fenómeno El Niño.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/mundo/asia/keiko-fujimori-pide-a-paises-de-apec-sumar-esfuerzos-contra-el-nino-apuesplan-ultimas-noticia/",
    "date": "2026-11-19T05:32:47+00:00",
    "state": "posando",
    "place": null,
@@ -890,17 +901,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdW5DYlBkcXEya3FYVTFzR25FcHFFaUM1WkZLNFdmWlpsVVZNdGhEQ29EWm9MZFV0TzJnTzRSbjJ2RUNkV3NhcmNfZlRfR3cyWEJaOFM3bVE1cjY0dGJwWkgxR3VlN1dxVkxLN2lzM0Q1V3NqZ2s5WjhjaUg0RFpoeWgyNUhTOGZvb3lTMWFfNks0eVV3Z1dOcTI4MVBucVZLX1ZWZnBaaVdCTHZ2UDBzLVlzTW9McTlaZVE?oc=5",
    "date": "2026-11-18T14:14:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c028c543a169",
-   "title": "Kast se reunió con Keiko Fujimori en la Apec: Profundizaron relaciones comerciales y cooperación por fenómeno de El Niño",
-   "excerpt": "",
-   "source": "Meganoticias",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZk1TWU12NGVkSFZTQVQ0bGdSZTJMWU1US1c4dl9ZUFN1MkdxQUtka3VvWERkTXpIbFlkYk8xdzdIeG9peXZqcDBZVkthR2hxZ1BDTkFfYlZmcXh5WUhyWm0xR0Q1a2dSM3FJbXllQVh4R0k0X2swSlE4Uy1Va2NJVjNxTWgxbDUxMVBfUzREOXhvRGZWcEYwZ0IzWlM2cmdkX0N1MTJjZy1tOXZ2clZEc05LTjZGYXpmZUtoa0pfS3pKUXBtN2ZtZ2VHWllCV2xtMFBmNXV30gHbAUFVX3lxTE04RE9VdXFldkl5OXhpMlFUVTV6LW01SS14MlZ6cFFiUGRROEhXZ3pUdWJtbDA3ZFlEZ1RLeHpVSkVZbDRBeWtJbjByS0p0LUVnbjNBYzVOVU4tU1RtS3hqOUh5Q0cxb01lLUxmT1RzOXRUUndEWUhHazYwX0lrMUZGMnh0S1NiTGctNS12ZV9QZHRvRkVpLURISE5PdDZfTGVoOUNFNG9LRGU2M2xGRGJmZTFYeUE1UHA5MlNhRHpZN0hUUkFQV0tMUVhObmpHTk1aUUh5R3JqRkxpaw?oc=5",
-   "date": "2026-11-18T14:12:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
