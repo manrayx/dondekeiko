@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:09:16.465567+00:00",
+ "generated_at": "2026-11-19T23:30:24.489201+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -272,6 +272,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c0b1beea5dae",
+   "title": "Presidenta Keiko Fujimori se reunió con su homólogo de Filipinas",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHBxcjhlR0VpRHVjZEp5TWVCNHBVMV9KR3BtT0J4amxCRnY2eHM0bGxtWGhLY2dZQnNKT0pCYUZUc0J2NXdEZnU0U2w3Z3NXcGJZb3RRRVNjcGdXVVdrSVhiOGNCalhfejEwSXFPUzBYMXJpNXJVY2dTMk4zVk41RExkSUJnNVNZc0NtVE9sbkd4amlJNEY4ajlrQVo1VkJaYXdqWTBCZw?oc=5",
+   "date": "2026-11-19T23:23:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "933482d25208",
+   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
+   "date": "2026-11-19T23:10:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a1ba6a848b63",
    "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
    "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
@@ -339,6 +361,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEZEY0pscERZV2prQ0hvS0ptV1MxX2tsZ3FlWm13SnRxSmV1THlEZkVqa0FJV2pHS2pCcnFjRk5qOUNXakdlUlViaFY0NE9BcGdhaFVmZ0hraS0zRmwzQXh6bEx4WExsQ1FkWmZZZ056R0Fqb0RiWnZtakkwWFFTR084c2EzZm5xNW01cnFDM1JsY2owdnJ1R1dTUGxIcHVFLWtVcUt4eFhDWWRqaFZxR2xQQ0VtS3gySEEyMlhxYTk1Z1pPdl9hMUw2cXhBeW1jd1I0dE1Za9IB6wFBVV95cUxOV05hUUlmX0kwV3kxenZWNDBFd1FJS0U0RHVtZi16eUhHRk1hM1JUZko3Z2J0U1dzX0xzdHFzOFNBRVFKRll1UVlqMk83MG8teHhLNEMySmNxT1hDc3BYOEh1QUxrQldjR1ViUmFCeHgxV2VHV0xkWHBfS0pnejVabUtpX0pTNXhHajdYVUY5NHFzNXpybzY4cFd0Q3NEODFPWElCVi05b3BTZG9RX2dlRmM3MUhHbGhGd1RKN3E2QklDSWE0Ymk2SFQ0YTZheXNxTUM1bTVQTUxoVnU4dDB3OGNSU2xrUWlma1dV?oc=5",
    "date": "2026-11-19T22:34:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9742737eb89f",
+   "title": "Presidenta Fujimori dialogó con primer ministro de Singapur sobre cooperación en educación y gobierno digital",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2hpMDB1ZzVrLXZsX0hkUl9NbDNWU3NBNDdCeC1LbHExLVZJeno3YzJDZDI5THNmWlQ4WlNWeVRaMVRmbFh2ZFpkUURXbEsyVUhBUzhQaUtPYlhTbWdsMEhSd09USFk2elVVd21hVE9SQkNyY3BOV3RjVjdCSEF5WEtFMkwxeUFrWExXV1BjMTJfeVp2VzdIRmVrLThWYndRZDdDRmdFMU1XOXRYb2NWcVFfOTI5b0FMemhuR0xZU3FGQQ?oc=5",
+   "date": "2026-11-19T22:05:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -442,17 +475,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lKRm1OY2NrVDhqS1NJUVg4OWc2TnFnZ2Z5SUdfMmg2ejhSRS04dS1VcFg2ZkZoUUNQVXdweUF0Y1FBWFlBNlV1RnFrOXdCcXJ2cjdSWTdTajZseUlZYVY5ZklFRVJHV2ZHclRaTHA0a2c0eGFTUVJqdjMzelRpQWU2VWo0VXFLYXpSUVFHZV8waVNIbDIyVVdyNWNqWUlhS2U3N3preXJLM0hpRnBpYzRwdmZ3UGJ1WHdnNlNpR0Itdw?oc=5",
    "date": "2026-11-19T16:46:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9742737eb89f",
-   "title": "Presidenta Fujimori dialogó con primer ministro de Singapur sobre cooperación en educación y gobierno digital",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2hpMDB1ZzVrLXZsX0hkUl9NbDNWU3NBNDdCeC1LbHExLVZJeno3YzJDZDI5THNmWlQ4WlNWeVRaMVRmbFh2ZFpkUURXbEsyVUhBUzhQaUtPYlhTbWdsMEhSd09USFk2elVVd21hVE9SQkNyY3BOV3RjVjdCSEF5WEtFMkwxeUFrWExXV1BjMTJfeVp2VzdIRmVrLThWYndRZDdDRmdFMU1XOXRYb2NWcVFfOTI5b0FMemhuR0xZU3FGQQ?oc=5",
-   "date": "2026-11-19T16:31:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -944,28 +966,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMEdjTm5NTzI0Y0ZmbS1GaGNnVEEtM19SX21hWWNDX21mN05kaV9WUFNDdGJOVXVDVDRvRjA1UWxhZlZVWmY1U3F3UnZfVXo4MmxZd01hRnhNc2F2OXhEVzhlV3oxX1haVjNKcWxQSTY3eVdVNHBWbHFqSk5nbDBGV29sN0JEb2Y4WTU3ZHVpYTBvYnR1TVZra0hBbVhGdDhtNHRiZW1VZS10ang4X3QtbndHZ2g3ejBDV2t2UHA5c2kxajV5dV9PWE1vWlZtVlZy?oc=5",
    "date": "2026-11-18T19:25:00+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a6bcc7376c22",
-   "title": "Presidenta Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi [video]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNXlBRXJrMk9ZZkVaSktfMFB1bEhka0stMk1wRlJQdjdZME5fUVFncUR3MmxhbHBJQkVlVmtZSzBQSVNvSnlDam5ac2luZVd1Y1Q4b3A5Q0xBcEZKRUM5QXFIS0FWaGc0ZllLNG95RmR1QURkbjJMVFdhVl93MkQ1bjZPT0RiamZLYkd3M3NHS0RFY1Q5eFQ1aFRGcGhWWkdoNC1sZHlvQW16QWp5VkswOWJUYXB4Y3lEc1E5cTM5WTdTdVV1eGxOTUlmdXlGUnl1cDhz?oc=5",
-   "date": "2026-11-18T18:41:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a55120138dc9",
-   "title": "La presidenta Keiko Fujimori inicia su agenda en APEC tras ser recibida por Xi Jinping en Shenzhen",
-   "excerpt": "La mandataria peruana acordó con el gobernante chino profundizar la asociación estratégica integral y ampliar la colaboración en comercio, infraestructura y nuevas tecnologías antes de la reunión plenaria del jueves…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGw2d1VHR2daRENjLVcxSWlMWTl4dGo0YmVGVHQyNlRwT0U2NklEXzllRk5TaTlMRmZMQTgyQXVRenRlaUpReGFQUThLQTIzcTlJQm9zenNUQjBvOXhkQTN6SVg5OHNOMHN3OXV3VHEya1Zyb2F0bTRPRnpzYXhFUFhjVW1aa0xWZ21RLUZkY2VuRU5SUmM3WjZhdlc5VmxqaDRLSWVXclhOZzNxQi1YeHNvdURTTVc2VWZfeTV6Vk1lOWlDMkJCTGc5UzZqdnR4Z1pjdHVn0gHwAUFVX3lxTE14bmI4M3hRSi0xOC1jWTJzV1ZyWWdCbngzN2VvMXYyVk9WVXlnYmhKeS1uZ0NNdERCYzRDZGZScTRTNVRTcVhzck1FR0dCTWV1cHZreTFISFRYZ1Jac3NvQkdxMW1oUDRpSGt1cm9wY09BTmNDU1BiRllSdlBZQWJhZ3dnTXFsd2xfaUhBY0V3a2J3Vzh6NUZNNjgwLWl1NGNSS0JWV1hpT1E0ZjhQRmJGem5PM19RME40ZFJReTlQd3UzT0Y2blpHcEE4WEItejFHVUpMcndvSE4tdm8ycVMzaVR1RVdvWGkwYy1vdEVyNw?oc=5",
-   "date": "2026-11-18T18:37:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
