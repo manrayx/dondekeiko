@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:47:14.322731+00:00",
+ "generated_at": "2026-11-19T13:08:45.591724+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -206,6 +206,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "00418f4ae3b3",
+   "title": "Gobierno de la presidenta Keiko Fujimori suscribe acuerdo de libre comercio con Tailandia",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmQyWWJQYmJiVkdmek1oejkxQ0VaUWttVXRuT2M0N1hOVjRrclFGblBEeExIaXBpSy03a1QwZUNJaXRnQWhxalhtVnh3cHdzUmtHNkxBNUVwNVhDM19fV0lRX2UzV1M0YnJ3ODFsYkkxN3NFLWh4ZlplMVdCb1pLYVhUUHh6eDZ6WnpiMjNCSFpqeEFCUTk0ODB1bHV3YkVxb0RiWXZxTzRhaUlabGd6VEt3Qy1jWkFndzZHT0FGY2lkbXc?oc=5",
+   "date": "2026-11-19T13:03:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "869e3ff43821",
    "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de una nueva jornada en APEC",
    "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
@@ -234,6 +245,17 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lKRm1OY2NrVDhqS1NJUVg4OWc2TnFnZ2Z5SUdfMmg2ejhSRS04dS1VcFg2ZkZoUUNQVXdweUF0Y1FBWFlBNlV1RnFrOXdCcXJ2cjdSWTdTajZseUlZYVY5ZklFRVJHV2ZHclRaTHA0a2c0eGFTUVJqdjMzelRpQWU2VWo0VXFLYXpSUVFHZV8waVNIbDIyVVdyNWNqWUlhS2U3N3preXJLM0hpRnBpYzRwdmZ3UGJ1WHdnNlNpR0Itdw?oc=5",
    "date": "2026-11-19T11:41:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "471c22868858",
+   "title": "Gobierno de la presidenta Keiko Fujimori suscribe acuerdo de libre comercio con Tailandia.",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOS1JWHg5MkJ0VEw2NGJ3Z0JsakVhSkI2Z013T1ZkX0dTWWgyazdaVTRjeWFqOXNnZnU3SDJyb0x1RDJuTEgtMGVhdi01bEVRMXhtRURZa0o2VFJBZDBDay1GaGI0dnpraUZfYXRnanhpa2ZOSk1DMlNjZXl5ZHJra3ZyNmFjY2pScVdSRThsT3BtbkEtMlB4OG5wM0d0MEpNMXZnLUxvZVV3SnRDMkdmckJVNUx4ajZuRkpsRm5yb29CQQ?oc=5",
+   "date": "2026-11-19T11:28:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -881,32 +903,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "63917a158b52",
-   "title": "Keiko Fujimori se reunirá con Claudia Sheinbaum en medio del foro APEC en China",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbTBWXy13dC1LVlYxcGo3NWRNUWxKN2RURW4wMVlKcXE0Z3FFc21HMkxscy1xQ2h0Q0pobWVQMUJkMVhpbkVDRE81c1lsODI4VVA0QVpnLVBuSVVhQXVPbFo1SC03by03QmplSS1Pcnl0RjNxR2NhMjdwV2ctQmlFVVJ5WmpEc3Raek9YZ2hKaHViNTkwcTFGYlpBT0VfYWdGdWhUVmstU07SAawBQVVfeXFMTkVGa0p2aE9rOU1fWGNrdUcxSDU1dWc1NnJFRWVvUGtoTE1wN2duLTRmT2VwUGlfZWFmenNoVGIzQ0JjelhQX2lVbGlKaXBDd2JrR3gwWE5IcWpQeEhsTW5pOEFVelpabkxWMlpBVWRVSWx4cmk4LTdGUUNtTnpoOF9HQ1JiMUFXRzR1OXhCa0ZIclRTZzlvUkVfeGJqam1BLVE5c3NsajJzN1JYdA?oc=5",
-   "date": "2026-11-18T13:45:19+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "3ce04957ffe0",
-   "title": "Presidenta Keiko Fujimori se reunió con su homólogo de Vietnam en el marco de APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXAyNFJsVnVQM29NczdnUFFtTXphOU1LMVJKdEo0V1V4OW5XeVdfMGxERzFWY2JYVmtJam0tYkJaQUxhaS1WS19KdnB6V0xIbU90X2EzeXN4cXk4TGktZDlxcHlBdTdLQy1RVGdvYkc5dDVTTlB4RGNQMENVTEFaOXYzMFVodXVGUjIxTmwwczBnMkFHeHRmWVMwOUVlUU1pUkRORnc4TGU2TUlrZHdSVFNnS0M?oc=5",
-   "date": "2026-11-18T13:43:36+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
