@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:33:46.589941+00:00",
+ "generated_at": "2026-11-19T19:55:11.857402+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -205,6 +205,17 @@
  "agenda_minutes_7d": 290,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "d5ed2d6dca7f",
+   "title": "Sheinbaum informó que se reunió con Fujimori en Shenzhen para “restablecer las relaciones”",
+   "excerpt": "La presidenta de México, Claudia Sheinbaum, aseguró este jueves que mantuvo una “breve reunión” en Shenzhen (sureste de China) con su par peruana, Keiko Fujimori, que sirvió para “restablecer las…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/sheinbaum-informo-que-se-reunio-con-fujimori-en-shenzhen-para-restablecer-las-relaciones-noticia/",
+   "date": "2026-11-19T19:38:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "869e3ff43821",
    "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
@@ -882,17 +893,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMjBEcWtPdy1KUTFiekhQUkI1Q0JhNUh4anFBMGhXMW9CdFMyajV1ZGttbWREM1FmZ3kzY2k0SFExLXIzZ1Bjb292emlFWmhKbUJzMkJfMmJ5OEFTVnZXWUJPN0F3Vzd2VnFHb3RpcVdaQWZRTlZBTDBNN2RFOUw5dU13S3E3YzdfOUNRZmluUmZDbW9FOWJVLWdnQVpvbWpwc2pWQzE5Z2pPUnkwaFRlekUzM04yQ0VMQ2RUTmxNeUw2YVZiSjVnWDl5a3pTSHExdXJQZQ?oc=5",
    "date": "2026-11-18T16:49:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "206824a5d843",
-   "title": "Presidenta Keiko Fujimori abordó nuevas oportunidades de comercio e inversión con el sultán de Brunéi",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2g2U1c1QUJTLVZ3MFBBMnlBS0ZUbnJzeDF6dWR1LS13SjRObE4wc1RyUWV2NkZHVURxa0tfdDhRRUI2ZUMxU2M2aXhtZnhxNmtXLWRtaWJRb3N5ZUxpRDFXZVVqUGNIS2JVSlBRc2VPaUJtZzdRYXVXLVdjVTZUSFNoRGFPWjI0NGp3cFVMcHVIZTlBQ2NvbWNtN0VXdmpHNjd0N21SMHo1WVVmUUllU0t4VzNRVWNmTGY5MDJrSE5ZRUc3clEtYXJzWE5MU3Vncmhj?oc=5",
-   "date": "2026-11-18T16:44:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
