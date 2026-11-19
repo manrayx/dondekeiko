@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:59:40.838844+00:00",
+ "generated_at": "2026-11-19T16:21:10.131758+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Perú21",
-  "date": "2026-11-19T13:09:49+00:00"
+  "source": "www.apnoticias.pe",
+  "date": "2026-11-19T15:15:51+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -206,6 +206,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "67bbd6b0d078",
+   "title": "Presidenta Keiko Fujimori se reunió con la directora gerente del Fondo Monetario",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW55aTNQbkIzS1NUVDNWOGQ3b1FSTmJrejU3VFh3NVRuQmYyMUNSWFI0LWJzaTdMMy14eDNZNUtSeGZrbzVYLXB2SVgzQ2ZfekF1NXNDb2N6ZlpmeVhDdVpBWDEzOXJ0eWZMVmZyUUxPTDFOOVdDaFhpRUhnNzk4bHI3RXVlTGVSUXZ0cF9XZTBnd2k3cWRKUTBPSnFENERqeTVSUjR2Ni1KemdUUnB6N0Job3JtM1JvS0tSWXdvYw?oc=5",
+   "date": "2026-11-19T16:18:56+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "869e3ff43821",
    "title": "Keiko Fujimori: La nueva donación de US$22 millones de China, los encuentros y el balance de la jornada en APEC",
    "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
@@ -228,12 +239,38 @@
    "next": null
   },
   {
+   "id": "e95e35babd8c",
+   "title": "Presidenta Keiko Fujimori interviene durante sesión plenaria del Foro APEC 2026 en China",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM2xEdEJQZ2NsdjF6ZEpDRHpBUk4ydk0wYWJ1NXpfVVFSQnpXY2VKRW01ZHhSSWZiYW1KdEZGU2lHbDgtSlhtVE4wZi1kVnVQUFkydWF4RFl2MnBHRUZzeVZremFjYVN3THFXdVNMWFVkdlNqaGVVcjJZU1hpLTRzRjhad3VYZUhGV3VYTUxjVXlBNlQ5NTIxU1BVWnduZE01S2EwWFZoWUdYRGEwUHZHSnJUQm1ycDJwNmdsaFh5dUZHZl9Eemc?oc=5",
+   "date": "2026-11-19T15:15:51+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "92696c990e4d",
    "title": "Carlos Raffo debilitó figura de Luis Galarreta para buscar la PCM",
    "excerpt": "Sentenciado por corrupción en el régimen de Alberto Fujimori, el excongresista se mueve hoy como asesor en la sombra del entorno presidencial: acompañó a la mandataria en actividades oficiales durante…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/18/carlos-raffo-el-personaje-que-aparece-en-el-entorno-de-confianza-de-keiko-fujimori-en-su-viaje-a-china-hnews-993492",
    "date": "2026-11-19T14:51:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "00418f4ae3b3",
+   "title": "Gobierno de la presidenta Keiko Fujimori suscribe acuerdo de libre comercio con Tailandia",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmQyWWJQYmJiVkdmek1oejkxQ0VaUWttVXRuT2M0N1hOVjRrclFGblBEeExIaXBpSy03a1QwZUNJaXRnQWhxalhtVnh3cHdzUmtHNkxBNUVwNVhDM19fV0lRX2UzV1M0YnJ3ODFsYkkxN3NFLWh4ZlplMVdCb1pLYVhUUHh6eDZ6WnpiMjNCSFpqeEFCUTk0ODB1bHV3YkVxb0RiWXZxTzRhaUlabGd6VEt3Qy1jWkFndzZHT0FGY2lkbXc?oc=5",
+   "date": "2026-11-19T14:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -284,17 +321,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "00418f4ae3b3",
-   "title": "Gobierno de la presidenta Keiko Fujimori suscribe acuerdo de libre comercio con Tailandia",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmQyWWJQYmJiVkdmek1oejkxQ0VaUWttVXRuT2M0N1hOVjRrclFGblBEeExIaXBpSy03a1QwZUNJaXRnQWhxalhtVnh3cHdzUmtHNkxBNUVwNVhDM19fV0lRX2UzV1M0YnJ3ODFsYkkxN3NFLWh4ZlplMVdCb1pLYVhUUHh6eDZ6WnpiMjNCSFpqeEFCUTk0ODB1bHV3YkVxb0RiWXZxTzRhaUlabGd6VEt3Qy1jWkFndzZHT0FGY2lkbXc?oc=5",
-   "date": "2026-11-19T13:03:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -875,28 +901,6 @@
    "source": "Expreso",
    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQVFBaU0c4Ull0dVl3YXF5SWpZU1IzR1hYdUxBV1Z6TVpzLXJXSjAxdU9zUEZTWmxCWGpKVlRJdm5rNUVMZW41TVBNcFd0RHNWVU1manBIaXFaN3ItSzJTemJDUzQtVUlVVnNka000UnRLamhyZTBSSXJPU09kMlBWTnFxQW9ETW1fOTByZHRvRE5UVjVqYjFlZmxoX0pRUjBJQzBXajNUeUFsUFFsYVJwT3otVjZsYzFHVWVsWm9pOHpTQzJNcS1QM1V5Q3ZtTXZGMkJTb1RVTUFCNk1NbWhpbUhIY3dRSHQ2VS03UkJfMF85elJKRHE4VGNJREcxTjRWWEpPRVZWOVoyRXRQMUhIYV9fZ1pTMVF0R1BRZFdKMWRuTmw1cFlGSFp2QQ?oc=5",
    "date": "2026-11-18T15:37:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7edec40276bb",
-   "title": "Presidenta Fujimori se reunió con presidente de Vietnam en el marco de APEC [video]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazNwMW1jdG80LXcxNUhYblpubTYyVU9CR3hjMHh3MU9DYkNGdE5KaUk2Sk5OQUxXMlNKeFJjU1BhQjVLUzI1WWpSY2dvUHJjUUswbFlLVE1sZEtzNTlTZ19Ya1Jsa18xd0xwNV92SlpCekgwanFWNUpDZVFhU1BZOXd6V1hfc3pwVnd2cjRxaTFoZk9vTmpMb2RtZ2ZnMTVTczJUMDFVeW1kcklBclREbF93WlZ1RGcxSlE?oc=5",
-   "date": "2026-11-18T15:25:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f09350f6819f",
-   "title": "APEC 2026: Keiko Fujimori se reunió con el presidente de Vietnam para fortalecer relaciones bilaterales",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb09wN2YybnR1NzFYVWktMTNKbUdpVnZ4a296RExGRk5sLUNDeVVxa1JSN3Y4Q2VzaUxUX3hNOFltcHhDYU9iVFdpTEdsRUlWNm5zWWxOanRuUThEX1dYUGZjODdDU1lMVHF2SjBPOEpJUmlfT2xUcGpnTWlxSFJ6MU9NZTFyaXhzd2kwSnc3SlZEZ3RuTjFvMGpvTXdFcDlWWHBSUFdsZlp0NS1MZzdDWEhyNlpOR3E1UkNtcExacXRhM21JNHlLUEY5ZTRLX21TUFR0QUROdw?oc=5",
-   "date": "2026-11-18T14:59:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
