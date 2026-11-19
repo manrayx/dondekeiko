@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:30:06.331415+00:00",
+ "generated_at": "2026-11-19T13:51:30.301309+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "China"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-19T11:12:34+00:00"
+  "source": "Perú21",
+  "date": "2026-11-19T13:09:49+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -206,6 +206,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0a243d78145c",
+   "title": "Lo que se sabe de la reunión entre Keiko Fujimori y Claudia Sheinbaum en China (VIDEOS)",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3RSbXJCbWdzUl96SFM5Z0NHMGV5WnlORDU2UXgzcU9McmlpZEt1Z29CTGNhYUNwTGNJREhTZF82amQ2Y1VPTVo2Si1HbWJiZUNqY21Ga1RsRW5WZUdqNU52X1ZzR2xTeDVMWnp3OEtMU2pQR0VrLVJ2MnVncUx1bEsybVJRazVSV1M5QUVHLTdzdnNudGxvcDM3dU4zZmFRbnFyUmF6QS1zbFY5ajdmeW5n?oc=5",
+   "date": "2026-11-19T13:09:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "00418f4ae3b3",
    "title": "Gobierno de la presidenta Keiko Fujimori suscribe acuerdo de libre comercio con Tailandia",
    "excerpt": "",
@@ -255,7 +270,7 @@
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lKRm1OY2NrVDhqS1NJUVg4OWc2TnFnZ2Z5SUdfMmg2ejhSRS04dS1VcFg2ZkZoUUNQVXdweUF0Y1FBWFlBNlV1RnFrOXdCcXJ2cjdSWTdTajZseUlZYVY5ZklFRVJHV2ZHclRaTHA0a2c0eGFTUVJqdjMzelRpQWU2VWo0VXFLYXpSUVFHZV8waVNIbDIyVVdyNWNqWUlhS2U3N3preXJLM0hpRnBpYzRwdmZ3UGJ1WHdnNlNpR0Itdw?oc=5",
-   "date": "2026-11-19T11:41:02+00:00",
+   "date": "2026-11-19T12:16:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -886,17 +901,6 @@
    "source": "Meganoticias",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZk1TWU12NGVkSFZTQVQ0bGdSZTJMWU1US1c4dl9ZUFN1MkdxQUtka3VvWERkTXpIbFlkYk8xdzdIeG9peXZqcDBZVkthR2hxZ1BDTkFfYlZmcXh5WUhyWm0xR0Q1a2dSM3FJbXllQVh4R0k0X2swSlE4Uy1Va2NJVjNxTWgxbDUxMVBfUzREOXhvRGZWcEYwZ0IzWlM2cmdkX0N1MTJjZy1tOXZ2clZEc05LTjZGYXpmZUtoa0pfS3pKUXBtN2ZtZ2VHWllCV2xtMFBmNXV30gHbAUFVX3lxTE04RE9VdXFldkl5OXhpMlFUVTV6LW01SS14MlZ6cFFiUGRROEhXZ3pUdWJtbDA3ZFlEZ1RLeHpVSkVZbDRBeWtJbjByS0p0LUVnbjNBYzVOVU4tU1RtS3hqOUh5Q0cxb01lLUxmT1RzOXRUUndEWUhHazYwX0lrMUZGMnh0S1NiTGctNS12ZV9QZHRvRkVpLURISE5PdDZfTGVoOUNFNG9LRGU2M2xGRGJmZTFYeUE1UHA5MlNhRHpZN0hUUkFQV0tMUVhObmpHTk1aUUh5R3JqRkxpaw?oc=5",
    "date": "2026-11-18T14:12:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "42dac5e1b4c7",
-   "title": "Keiko Fujimori y Abelardo de la Espriella tendrán una cumbre clave por isla Santa Rosa",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVJuQ3liTWNMUTBDYUQ2eXVPQURVTUJzNjVKYWpjQXJaU1U0UVRFTXMyMWxPZFVhbHU0TlYwcVJrdDdJMnhWemFrMTJ5T1U0VVhqN01EV1k2OGx5Qng4UXBma0JvdWZlQWRiRlFNUERZbXBOQkNfbkc4UUE0eGRiTEI2OGEtZERpRk9lSUZMQ0s0R3YtODRJ?oc=5",
-   "date": "2026-11-18T14:09:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
