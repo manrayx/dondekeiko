@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:47:50.278029+00:00",
+ "generated_at": "2026-11-19T23:09:16.465567+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Lima",
+   "lat": -12.046,
+   "lng": -77.043,
+   "abroad": false,
+   "city": "Lima"
   },
   "source": "Infobae Perú",
-  "date": "2026-11-19T20:25:24+00:00"
+  "date": "2026-11-19T22:53:05+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +272,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a1ba6a848b63",
+   "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
+   "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/19/keiko-fujimori-se-reunio-por-primera-vez-con-claudia-sheinbaum-tras-restablecer-relaciones-con-mexico-hnews-1364295",
+   "date": "2026-11-19T23:03:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e5a5ee31365a",
+   "title": "Fujimori dialogó con Sheinbaum sobre restablecimiento de relaciones diplomáticas",
+   "excerpt": "La presidenta de México, Claudia Sheinbaum, aseguró este jueves que mantuvo una “breve reunión” en Shenzhen (sureste de China) con su par peruana, Keiko Fujimori, que sirvió para “restablecer las…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/sheinbaum-informo-que-se-reunio-con-fujimori-en-shenzhen-para-restablecer-las-relaciones-noticia/",
+   "date": "2026-11-19T23:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "43de5c4af47f",
+   "title": "Premier Luis Galarreta: “El papa León XIV me preguntó cuándo viajó Keiko Fujimori (a China), le deseó suerte al gobierno”",
+   "excerpt": "El jefe de Gabinete relató detalles de la conversación que sostuvo con el pontífice durante su despedida en Lima y destacó la actitud que tuvo hacia el Ejecutivo",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/19/premier-luis-galarreta-el-papa-leon-xiv-me-pregunto-cuando-viajo-keiko-fujimori-a-china-le-deseo-suerte-al-gobierno/",
+   "date": "2026-11-19T22:53:05+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
    "id": "5cc59ac0eded",
    "title": "Presidenta Fujimori y jefe ejecutivo de Hong Kong abordaron impulso a exportaciones",
    "excerpt": "",
@@ -287,6 +328,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/18/carlos-raffo-el-personaje-que-aparece-en-el-entorno-de-confianza-de-keiko-fujimori-en-su-viaje-a-china-hnews-993492",
    "date": "2026-11-19T22:35:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6457d080030c",
+   "title": "Keiko Fujimori se reúne con Claudia Sheinbaum y acuerdan fortalecer relaciones entre Perú y México",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEZEY0pscERZV2prQ0hvS0ptV1MxX2tsZ3FlWm13SnRxSmV1THlEZkVqa0FJV2pHS2pCcnFjRk5qOUNXakdlUlViaFY0NE9BcGdhaFVmZ0hraS0zRmwzQXh6bEx4WExsQ1FkWmZZZ056R0Fqb0RiWnZtakkwWFFTR084c2EzZm5xNW01cnFDM1JsY2owdnJ1R1dTUGxIcHVFLWtVcUt4eFhDWWRqaFZxR2xQQ0VtS3gySEEyMlhxYTk1Z1pPdl9hMUw2cXhBeW1jd1I0dE1Za9IB6wFBVV95cUxOV05hUUlmX0kwV3kxenZWNDBFd1FJS0U0RHVtZi16eUhHRk1hM1JUZko3Z2J0U1dzX0xzdHFzOFNBRVFKRll1UVlqMk83MG8teHhLNEMySmNxT1hDc3BYOEh1QUxrQldjR1ViUmFCeHgxV2VHV0xkWHBfS0pnejVabUtpX0pTNXhHajdYVUY5NHFzNXpybzY4cFd0Q3NEODFPWElCVi05b3BTZG9RX2dlRmM3MUhHbGhGd1RKN3E2QklDSWE0Ymk2SFQ0YTZheXNxTUM1bTVQTUxoVnU4dDB3OGNSU2xrUWlma1dV?oc=5",
+   "date": "2026-11-19T22:34:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -320,17 +372,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/19/galarreta-defiende-su-gestion-en-la-pcm-y-descarta-responder-por-cada-controversia-ministerial-no-es-que-el-premier-es-el-pararrayos-hnews-211014",
    "date": "2026-11-19T21:24:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e5a5ee31365a",
-   "title": "Fujimori dialogó con Sheinbaum sobre restablecimiento de relaciones diplomáticas",
-   "excerpt": "La presidenta de México, Claudia Sheinbaum, aseguró este jueves que mantuvo una “breve reunión” en Shenzhen (sureste de China) con su par peruana, Keiko Fujimori, que sirvió para “restablecer las…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/sheinbaum-informo-que-se-reunio-con-fujimori-en-shenzhen-para-restablecer-las-relaciones-noticia/",
-   "date": "2026-11-19T20:46:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -434,17 +475,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW55aTNQbkIzS1NUVDNWOGQ3b1FSTmJrejU3VFh3NVRuQmYyMUNSWFI0LWJzaTdMMy14eDNZNUtSeGZrbzVYLXB2SVgzQ2ZfekF1NXNDb2N6ZlpmeVhDdVpBWDEzOXJ0eWZMVmZyUUxPTDFOOVdDaFhpRUhnNzk4bHI3RXVlTGVSUXZ0cF9XZTBnd2k3cWRKUTBPSnFENERqeTVSUjR2Ni1KemdUUnB6N0Job3JtM1JvS0tSWXdvYw?oc=5",
    "date": "2026-11-19T16:18:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a1ba6a848b63",
-   "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
-   "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/19/keiko-fujimori-se-reunio-por-primera-vez-con-claudia-sheinbaum-tras-restablecer-relaciones-con-mexico-hnews-1364295",
-   "date": "2026-11-19T15:35:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -935,28 +965,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGw2d1VHR2daRENjLVcxSWlMWTl4dGo0YmVGVHQyNlRwT0U2NklEXzllRk5TaTlMRmZMQTgyQXVRenRlaUpReGFQUThLQTIzcTlJQm9zenNUQjBvOXhkQTN6SVg5OHNOMHN3OXV3VHEya1Zyb2F0bTRPRnpzYXhFUFhjVW1aa0xWZ21RLUZkY2VuRU5SUmM3WjZhdlc5VmxqaDRLSWVXclhOZzNxQi1YeHNvdURTTVc2VWZfeTV6Vk1lOWlDMkJCTGc5UzZqdnR4Z1pjdHVn0gHwAUFVX3lxTE14bmI4M3hRSi0xOC1jWTJzV1ZyWWdCbngzN2VvMXYyVk9WVXlnYmhKeS1uZ0NNdERCYzRDZGZScTRTNVRTcVhzck1FR0dCTWV1cHZreTFISFRYZ1Jac3NvQkdxMW1oUDRpSGt1cm9wY09BTmNDU1BiRllSdlBZQWJhZ3dnTXFsd2xfaUhBY0V3a2J3Vzh6NUZNNjgwLWl1NGNSS0JWV1hpT1E0ZjhQRmJGem5PM19RME40ZFJReTlQd3UzT0Y2blpHcEE4WEItejFHVUpMcndvSE4tdm8ycVMzaVR1RVdvWGkwYy1vdEVyNw?oc=5",
    "date": "2026-11-18T18:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b79e5fd242c3",
-   "title": "Presidenta Fujimori aborda agenda de cooperación bilateral con primer ministro de Singapur",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNE5pOWxNdmhQbDROYUNwQVVkVlZUd2g4cUlVYkFXWmREbXV1WDZ0WURZRnFMRTRiSXFDRVJCRkVkbGxyb01uS3o4QTFDNkhreFRKTzQ3S0JfR0t2bmlrRGJtd0g4di1iWUg0RS1KWWtqOHZJZ3p3UUI4TEtFNnhWYnhJbTVSUHI4eG01NGV6TllOTkVvQjk1UDh1emk0OHpoUUI1c0RkeFBfZHd6R1kycUtoUHRLV0I0b2dHUWNCcnFZQm5X?oc=5",
-   "date": "2026-11-18T18:32:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "13725cb8258e",
-   "title": "Keiko Fujimori se reúne con primer ministro de Singapur para impulsar la cooperación en educación y desarrollo de zonas económicas especiales",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQY0NIVWJ3TjNlOXY3TEIzVE4xaWc2M0EyWmhXRjF4QlI1SjhKdXR1MmJJY1AtVUZYa1FQMlp6a2RHZXBQcnNqR2hsaTk2LWU2OVFpX1YzWURjT2VkVklybjQ1ejN1aUdBa3hvWWNrOWd4bVh1bnlLZV9WSXdfQVNoS0lDWGdPOEttamx5NXNDV3htdFZXQ3ZqYWJsd0hnQV9VRkR6ZFdvUUEzWFAyM1VlR0xvV0EzWWltVHNMay1yZ3VJT0oxUWVBblg4elhJNHYyWjJybzk1dGlvaVFWWkNDR0NLb3ZoWTJXdFRCM3NSTnRZYWRWM0s5MVFJNThLWlZPakVqV0VIaFZ4djNRVDRfZjc0aWwxMnBfSVh4aC11SkM3Z9IBtgJBVV95cUxOdGZoa0hYNUwyWUIxSEJkSkFDSllaMVpqQ2c3NlhBSXpkQVZuQXljdE1iN0hoV2oyYW92ZU50b2ZZc2lpZnBweHNiYlZtRE16VWJaNjVNZ3A3elNLSmt4SFVTSlc4MDQ5YnN3WjlXNVhxUVRzaFAteDBxa2dTbzVYckRjZnB3WVZ4MURKTVRmUV9YMUt3aU05Z3VXNnpTX05aZXFvdDJFSW5JUE9FbXRra2JIMlN6SHpud0JmZzc4bllsNTF0MWhYNTlKUkYxb2lsUkRwQ1Zob0VBU0NlNFZaUE11Sm4zQ2poNnpMVEstMkZwX1hwMHhFdXRKWkhFalZIYzNqdnlzd0d4Vmp0dGwtNWxmQ01VMWlsdW9yZ1l6ZDgwQjljNmtYRG12R01tZVY1NmZ1WEdB?oc=5",
-   "date": "2026-11-18T18:31:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
