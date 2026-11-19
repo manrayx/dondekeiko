@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:26:41.406491+00:00",
+ "generated_at": "2026-11-19T22:47:50.278029+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5cc59ac0eded",
+   "title": "Presidenta Fujimori y jefe ejecutivo de Hong Kong abordaron impulso a exportaciones",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2ZRenZCeGRiSXRIbmhUWjJFeDZoQ01ISjBYR3c3c0tEd0dHdDJ2cDEtajJ6VXlIMzNLQVVnM2UyRVVvMnZ0M3hFQUMwbFA3ZjVzXzBENmxYTHRvSHlxTkdycTduZmdzUjl6NzBsYy1aS1BFNkZQUWpBNHpaRW54VEEwNkhrUzA3dVk5OWJqNWZULWh5VTdPTXlna0ZZbzhFeVRQTlgtZS1RbnpyZVRsRWY1cTZ0eHNwZTFn?oc=5",
+   "date": "2026-11-19T22:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "92696c990e4d",
+   "title": "Carlos Raffo debilitó figura de Luis Galarreta para buscar la PCM",
+   "excerpt": "Sentenciado por corrupción en el régimen de Alberto Fujimori, el excongresista se mueve hoy como asesor en la sombra del entorno presidencial: acompañó a la mandataria en actividades oficiales durante…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/18/carlos-raffo-el-personaje-que-aparece-en-el-entorno-de-confianza-de-keiko-fujimori-en-su-viaje-a-china-hnews-993492",
+   "date": "2026-11-19T22:35:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a5581b063fc0",
    "title": "Keiko Fujimori y Claudia Sheinbaum saludan restablecimiento de relaciones diplomáticas y acuerdan impulsar “nueva etapa”",
    "excerpt": "Las presidentas de Perú, Keiko Fujimori, y de México, Claudia Sheinbaum, acordaron impulsar una “nueva etapa” en las relacione diplomáticas, “con énfasis en el comercio, las inversiones y la cooperación…",
@@ -443,17 +465,6 @@
    "next": null
   },
   {
-   "id": "92696c990e4d",
-   "title": "Carlos Raffo debilitó figura de Luis Galarreta para buscar la PCM",
-   "excerpt": "Sentenciado por corrupción en el régimen de Alberto Fujimori, el excongresista se mueve hoy como asesor en la sombra del entorno presidencial: acompañó a la mandataria en actividades oficiales durante…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/18/carlos-raffo-el-personaje-que-aparece-en-el-entorno-de-confianza-de-keiko-fujimori-en-su-viaje-a-china-hnews-993492",
-   "date": "2026-11-19T14:51:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "00418f4ae3b3",
    "title": "Gobierno de la presidenta Keiko Fujimori suscribe acuerdo de libre comercio con Tailandia",
    "excerpt": "",
@@ -504,6 +515,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFNUUmc0LXJLVHR3NFhlUmNOeHBQVXBVWUhpUDlfV21jWjNXQU1JbGlPNEYwUTBhTWZFeUZVWkJNcXpIUjF4NEU4cXZMTGpic0VIVFh1WUlQaElwajQtOXNrT0V4SEgtVjVZeXkwdmJzdzQtTk9pZm5vTWJWUm5MQTVrYXl1aU5sR0VIVndaeldyM1MtcGFIT01CU0VkdEp0TEd5T2VRQ2FlRWJ3SXlRbFA1azJjR3NnVGFhdDNfc9IB0wFBVV95cUxNRjAzbWMwNzZXaHdrbWRIOUp0LThkTHM4OUJGWEhNQWR3WHpCcFA4Q0lwNEIwZXZmSEIwclBOQWctSGZLYnhwTnFiRnV2djY3RzIxSFRzb0Z3OVgzWWhpYW13aWFwUW5ac1VzQVR2NkRmbUtoRExHWVdFclFIM016OW1fZEJvRFhBd1ZhWGJydVlLMkIyeWhyd1Y4djRoTHR1YVBqakhLNGZJS0dDMGJLaDRkM005NUJjdUg5Q2tUVFdJejdvYXNEYy1nWkRxYXFxU01F?oc=5",
    "date": "2026-11-19T13:41:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "026cccb38eaf",
+   "title": "APEC 2026: Keiko Fujimori se reunió con la directora gerente del Fondo Monetario Internacional",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUk0eXNnWEYtMnp4ZVJjejlTMVpuSUZOcEk0NzdOTXlXRExvNG9zNHhOM0ZEaXdnWG5hRWJrcnVTaURiV2s0X0pLY2Ryc0VxLTBtMHdmS0UxTXRJc2FNMzV6TnBBaV9Va3I5TGRGaC1Mc0diZ04tRVl2bHBacEJfV3RMQzEyV0R5QmRlZlJlRWlRZ1RoTTBjZ3hzLTlQV3pCcTBvUkZWWElLUzVOanE0dXpXSV9qVzlkZzNrR25vSkh0MVdLTWhaa2kzdlo2QzV5RlNvc2lGVTJCZFY1d1kzV2hR0gH2AUFVX3lxTE9lVlo2TFk2VWJ4VXRLSUhZdFVTX2RVeXZlbm16LUNOcUxOaG1GLW1NdmhjTkNIcWJhUDNSR2xneEJtVkNUczY2UTU3eDBGT3ZFWXdsQWVMb3hrT1ZMS01hN2JhV1ZLMmhiTDdhZ3V6NFg2TXNvUEhJNEFtUi1scXd2RzBjMkRmZEhlaHdrQWh2WWRaaUg2MUxqVXh2QmF4Z2E4b1pvOFdFSEN3OTUwYlMwQzQ3c2c2SUI2VnBlR1JYejhCVEpvUkRZam9pZkduVVRHMW1CSDFUMl9LSlkyM3EtWkRGamp4NGVELWtFd1JSLXMyVS01UQ?oc=5",
+   "date": "2026-11-19T13:35:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -935,32 +957,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQY0NIVWJ3TjNlOXY3TEIzVE4xaWc2M0EyWmhXRjF4QlI1SjhKdXR1MmJJY1AtVUZYa1FQMlp6a2RHZXBQcnNqR2hsaTk2LWU2OVFpX1YzWURjT2VkVklybjQ1ejN1aUdBa3hvWWNrOWd4bVh1bnlLZV9WSXdfQVNoS0lDWGdPOEttamx5NXNDV3htdFZXQ3ZqYWJsd0hnQV9VRkR6ZFdvUUEzWFAyM1VlR0xvV0EzWWltVHNMay1yZ3VJT0oxUWVBblg4elhJNHYyWjJybzk1dGlvaVFWWkNDR0NLb3ZoWTJXdFRCM3NSTnRZYWRWM0s5MVFJNThLWlZPakVqV0VIaFZ4djNRVDRfZjc0aWwxMnBfSVh4aC11SkM3Z9IBtgJBVV95cUxOdGZoa0hYNUwyWUIxSEJkSkFDSllaMVpqQ2c3NlhBSXpkQVZuQXljdE1iN0hoV2oyYW92ZU50b2ZZc2lpZnBweHNiYlZtRE16VWJaNjVNZ3A3elNLSmt4SFVTSlc4MDQ5YnN3WjlXNVhxUVRzaFAteDBxa2dTbzVYckRjZnB3WVZ4MURKTVRmUV9YMUt3aU05Z3VXNnpTX05aZXFvdDJFSW5JUE9FbXRra2JIMlN6SHpud0JmZzc4bllsNTF0MWhYNTlKUkYxb2lsUkRwQ1Zob0VBU0NlNFZaUE11Sm4zQ2poNnpMVEstMkZwX1hwMHhFdXRKWkhFalZIYzNqdnlzd0d4Vmp0dGwtNWxmQ01VMWlsdW9yZ1l6ZDgwQjljNmtYRG12R01tZVY1NmZ1WEdB?oc=5",
    "date": "2026-11-18T18:31:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1b2a2bfbc835",
-   "title": "APEC 2026: Keiko Fujimori inicia su participación en la cumbre de líderes en China",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGo1X1RkbnRJcGtWN3V1OFVudHVGWE10cjdNeFo0ZWJ1UW9ZN0NKTUJzY0lwMjg0WC1fT0Q3MlhTVkZfa2c4OFBjRThTVU5mWjhybU1OQWlQelNFQ1JwSXJpZWl5b2dpSW5mR3c4NEp5NG15eVdJWWIxWDRWQlhXc3dadnhjLWNZVG5VSm84dUZaX2JsUUI1eXdCcEZLdUsyWUd4b09hNlpjaWlyYldYV1d6a0U5cUs3U3VGUndsYTbSAdQBQVVfeXFMTXhYamVpS2h1UU9iNmF1RW01ZGdEaTQtRlZJOFdJWVlFc0U0RnhwOW43S3ZzeGhfYTNKdGJFR0dYQm8zbmc4clVzZXhiTzFWNzFBUGRDWDZSa1AzWERYNEJGdmtlRG5LVFF1MFptdHpBS3oxNmRBWkZ6ckUxMzltdVIwdWdvdGp0SjdMX3htcmJId284eURfZHpaSDJJajdPYUk4Nlh3SjdtN3Vsc1pJbW9GbGZJaEd4UVJKYUMwWUNtcV9rbGR2NnhqVkJRRGw3bjZSMzE?oc=5",
-   "date": "2026-11-18T18:25:15+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "85dc5decd48c",
-   "title": "Presidenta Fujimori inicia su participación en la 33ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
-   "date": "2026-11-18T17:45:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
