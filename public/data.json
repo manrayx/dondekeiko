@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T06:41:11.695960+00:00",
+ "generated_at": "2026-11-19T07:45:03.496181+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -206,6 +206,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "83cb00784431",
+   "title": "Presidenta Fujimori abordó con su homólogo chileno cooperación y acciones frente a El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmozX1ZkX0lmc0Y1NGFoM1NfMjl1Sk9OMm42dDYwVkoyU3F1bUJXbXBBRXVwUG5VTUpiX1Q1ZHFjTGYwLUlObWIwbUVNd3ZfdVVqMTU1TnFxQng3enpzM0p6X3RGdXQwNl8yRE1Ha0tIZU5XZ3hlcGlPRnhUbW5SREZkRHRGM3lWcHc5NE9lMW5ISWx3R2c2cUNCYzFSMEhrc1hDS29TMWNlWU42c2Q3a25NN0pRMjA1V2tyZ3lPX1NOcEhRTVdDWjhR?oc=5",
+   "date": "2026-11-19T07:29:25+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6dfebc65ad7b",
    "title": "Visita de presidenta Fujimori a Japón afianza agenda de cooperación bilateral",
    "excerpt": "",
@@ -356,17 +367,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2tGcGxzbmlyS3NOZWVEM1N4Si1vZTY3US13OXg5WkRtLVFoR1RUa1lfQjZoREVqQU04M1dZcmcwZS1VQnYwNjBxa25Ba1BZSHd3S1lLcEVpRU5Sc2VqT2ZFU0dVZWZTVWRvajZ2TDg1ckx5cmpfN2dBdV9BbWtydDdXT0QxOERsZzc4U3FjanBORElZbUpyYXZ5TGkzbURXOElyR2tiVmR2NXVhWlNsLQ?oc=5",
    "date": "2026-11-19T01:43:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "83cb00784431",
-   "title": "Presidenta Fujimori abordó con su homólogo chileno cooperación y acciones frente a El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmozX1ZkX0lmc0Y1NGFoM1NfMjl1Sk9OMm42dDYwVkoyU3F1bUJXbXBBRXVwUG5VTUpiX1Q1ZHFjTGYwLUlObWIwbUVNd3ZfdVVqMTU1TnFxQng3enpzM0p6X3RGdXQwNl8yRE1Ha0tIZU5XZ3hlcGlPRnhUbW5SREZkRHRGM3lWcHc5NE9lMW5ISWx3R2c2cUNCYzFSMEhrc1hDS29TMWNlWU42c2Q3a25NN0pRMjA1V2tyZ3lPX1NOcEhRTVdDWjhR?oc=5",
-   "date": "2026-11-19T01:29:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
