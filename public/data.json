@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:09:37.608919+00:00",
+ "generated_at": "2026-11-20T04:31:21.034205+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -384,17 +384,6 @@
    "next": null
   },
   {
-   "id": "933482d25208",
-   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
-   "excerpt": "",
-   "source": "geniostv.pe",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYnJjaGdEQWNyMkdRS3hSWkFUN1o0VktYWThVb2hsZFJPUW1hSFpDb2dBUVNXeVMtaWQtcjRkREg5WnlOMTVabjFXejZtNmdZNnNnOVZiWG9WRDA1ZG8zTnlTdnFLQVJmcUJjUDJUSjladTF2dEJXWi1JSUJ2R3FkVUp4WU10RUZnN2lRZXNWRTMyMWRSSjI2QW5FMXdQNkhvSWtSenR6ZkI4aU5UdGg5VTdlcjFRUm1SSjUzaHNkNWNUdHNnNmxiTHJWSEtpYTgtdWhNaXczdjh4Nk1qcEdyalFDZDdnUQ?oc=5",
-   "date": "2026-11-20T00:41:31+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "a89869d12e36",
    "title": "Presidenta Keiko Fujimori califica de “muy fructífera para el Perú” agenda desarrollada en China [video]",
    "excerpt": "",
@@ -449,6 +438,17 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2ZRenZCeGRiSXRIbmhUWjJFeDZoQ01ISjBYR3c3c0tEd0dHdDJ2cDEtajJ6VXlIMzNLQVVnM2UyRVVvMnZ0M3hFQUMwbFA3ZjVzXzBENmxYTHRvSHlxTkdycTduZmdzUjl6NzBsYy1aS1BFNkZQUWpBNHpaRW54VEEwNkhrUzA3dVk5OWJqNWZULWh5VTdPTXlna0ZZbzhFeVRQTlgtZS1RbnpyZVRsRWY1cTZ0eHNwZTFn?oc=5",
    "date": "2026-11-19T23:12:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "933482d25208",
+   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
+   "date": "2026-11-19T23:10:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -857,17 +857,6 @@
    "next": null
   },
   {
-   "id": "dde57db33d0a",
-   "title": "Keiko Fujimori pide a países de APEC sumar esfuerzos contra El Niño",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzZZMTdlQ3J1UFJGWmp1NXRHZHFXbmExR3pMTWNnX012SnN3eWF6VWljU3ZuR1VDOFFyME1sc2plWTZ5NTgwMXk2dHJRM1k4dUJyX3prT1MwZWNSVlZKQTllZEgxeEdhalhqYUVmM0hDS3NJOFd1QVZiazBpY01OX0VmWk4tMjlPdXZUMWh3bWs0bk0zdHJ1MFZ2cHBKYnBUODUxaGFIVTUzQUk?oc=5",
-   "date": "2026-11-19T05:34:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "cc2a28f921b9",
    "title": "Keiko Fujimori pide a países de APEC “que se pongan del lado de Perú” para enfrentar a El Niño",
    "excerpt": "Desde la cumbre APEC en Shenzhen, la presidenta Keiko Fujimori pidió a las economías miembro sumar esfuerzos para responder ante los efectos de magnitud extraordinaria del fenómeno El Niño.",
@@ -916,12 +905,12 @@
    "next": null
   },
   {
-   "id": "eab8eac07218",
-   "title": "Keiko Fujimori presentó a Perú como acceso a mercados de la región ante empresarios estadounidenses",
+   "id": "dde57db33d0a",
+   "title": "Keiko Fujimori pide a países de APEC sumar esfuerzos contra El Niño",
    "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ28ydWhUX0N4UTRSLVg3WnN5SEczV01EejhpcE1hWHlnbzNIcjJrejFTVXpUdEI5eDA4X3VCN1l1anVjZV83TnhqSGI4ejhva1IwRXFGSHBiVHd1dklxNlh1ajNyUnlaOTg0RDF0V2Nya2VzdlZfT3lnMWF3clRnMHZCcG5fck5TSEpkRzRxYmJ0UkNQRzE5NXA3VFZaVHQxcmhYZklTdk9WS3M5eGJRMTkxN0tfZjl5ZlItcmtXSGFLYmVFR0g5QkttMFoyU0NydmhFMGxR?oc=5",
-   "date": "2026-11-19T04:14:50+00:00",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkhhTWdDT1pMNU4td1YwenN0NjRYd1p4WWp0MDlZbE1wREpFY09VM3lPTldMWmwxU3RoRXBYU2lCQ3BEVzBCZDNBRHVKYTNsR0tVR2VTVFVkVkVxY21nM3dpRUhRY29acEVVVmRubzdPdlJPSGdETWJ5VFFockR5cHptTWo3cTRHMW01Ri1SbmNGM0RleXlCVzNBWG1qUl9VdDI3SUpIRzNXVkFYalJRMnNyWmN4V3c?oc=5",
+   "date": "2026-11-19T04:42:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -948,6 +937,17 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnVrZU9xRTVkTEVkTjVack1sWDh2a2lqWGRMQTNvNFhZWWh3ZFQwQS1RUGZHenpwWm55QXBuUTJEQnkySnRVN2JrNWpLdWRyeFByR1pCZVdua0tLQm9DNjQzX3FnNGdMbWpHTjZzR0VxeXlveTNjWndnWkloY3djampJMjVOa1ZXSkdMOV9LdUg5RUk?oc=5",
    "date": "2026-11-19T03:27:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "eab8eac07218",
+   "title": "Keiko Fujimori presentó a Perú como acceso a mercados de la región ante empresarios estadounidenses",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLWVXODRkWFJONXBCQkVTWE96ZjJ2dXltUE4xWnVXby0zOGZPaDJsZllXRHNCeFNrZFVoVEsxMXY5bmFBZWxZdmJQVFBJZE1qVkU1eUpBTlNjUlZZeU9DVTRlNGVMc0wwckk4SG8wX28yYmtSMnl4SlBoSmZRYTViQjhucFVTUTh4eUZ4T1pQd212RmpFcjRiaFJicFRDS2ZnTzZDNHVXTGNkRVdDeS1WQnVKNTVQNkNtaWtOa0RwUURhd0gzSTVyaDB3TXBCdEJ6bUVXS3FzUHNnVWZKZktoSnZB?oc=5",
+   "date": "2026-11-19T03:09:48+00:00",
    "state": "posando",
    "place": null,
    "next": null
