@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:55:23.805287+00:00",
+ "generated_at": "2026-11-20T20:16:30.151951+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -279,6 +279,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5cf06c91b1ea",
+   "title": "Presidenta Fujimori agradece apoyo de Japón para enfrentar fenómeno El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnNXQWVfSmxJdkhXM2V5cFE5UkthZFJhcjN6QzFwYk9kNVpJUXU0T3hKT3dRajhiV1lCU3RPYUFxNWJvaUw2dlh0LV9GaU1aTGMxOXNDam03SWQxX1NYMWpTWnRqYzgwNER2cTJRMXBKUTRLWERMWnNhbVFnaUxjVGdUcmlKZEdKR244bjV4NUZLNS10RDk0WHZCeGdOQnVkMThMZUk1aVExbHNia2dlSTk1eVlHU3c?oc=5",
+   "date": "2026-11-20T20:08:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f2fea6a8e590",
    "title": "Presidenta Fujimori agradece apoyo que brindará Japón para enfrentar al fenómeno El Niño",
    "excerpt": "",
@@ -372,17 +383,6 @@
     "abroad": true,
     "city": "Tokio"
    },
-   "next": null
-  },
-  {
-   "id": "5cf06c91b1ea",
-   "title": "Presidenta Fujimori agradece apoyo de Japón para enfrentar fenómeno El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnNXQWVfSmxJdkhXM2V5cFE5UkthZFJhcjN6QzFwYk9kNVpJUXU0T3hKT3dRajhiV1lCU3RPYUFxNWJvaUw2dlh0LV9GaU1aTGMxOXNDam03SWQxX1NYMWpTWnRqYzgwNER2cTJRMXBKUTRLWERMWnNhbVFnaUxjVGdUcmlKZEdKR244bjV4NUZLNS10RDk0WHZCeGdOQnVkMThMZUk1aVExbHNia2dlSTk1eVlHU3c?oc=5",
-   "date": "2026-11-20T15:08:03+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
