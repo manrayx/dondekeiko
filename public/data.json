@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:38:23.059121+00:00",
+ "generated_at": "2026-11-20T21:00:05.380605+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Tokio",
+   "name": "Japón",
    "abroad": true,
-   "city": "Tokio"
+   "city": "Japón"
   },
-  "source": "Reporte Asia",
-  "date": "2026-11-20T15:51:20+00:00"
+  "source": "Enfoque Digital TV",
+  "date": "2026-11-20T17:30:02+00:00"
  },
  "next": {
   "place": {
@@ -301,6 +301,21 @@
    "next": null
   },
   {
+   "id": "a1661f634752",
+   "title": "Presidenta de Perú, Keiko Fujimori, visita Japón",
+   "excerpt": "",
+   "source": "Enfoque Digital TV",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaldLeGx5c2hCYURmOVdIbERfTTF1WWpQZjlCZU1HelBuYW1selh2UWpINm5hMGpzUFF5M2l6V1RJa0RHQUw4cmhubVA2VDE5ZHoxU0hNVjNSa3hHZEcyV3pIamthN0puWTlfRHJlU1dqVnc0WmZDb2U2Mm56R0dXcjY3V1lXTG5zdWtleVJQamZDYWF3MjFOM1BFUFhRVXBpLWJqTGVETDZLLTRPWVE?oc=5",
+   "date": "2026-11-20T17:30:02+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Japón",
+    "abroad": true,
+    "city": "Japón"
+   },
+   "next": null
+  },
+  {
    "id": "26f6a8b25203",
    "title": "Keiko Fujimori saluda a emperador Naruhito de Japón e invita a que Perú sea la «puerta de entrada a Sudamérica»",
    "excerpt": "",
@@ -427,7 +442,7 @@
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y la primera ministra de Japón",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzA0alE3NGZBV2FJc2tpX2ctRG8xWnZBelRxdEVhSVlkUWlhbk1yMDA5TmpWZXA4NzVteENnVk9nTzFENkc0bWRzdVA1ZnhCOE9lT1l6d19LWl9OQXVIOW5XeVVqQjNGYS1tYUVVNzNkV2ZYdVBNcm9TY0N1R1dmeTRQZXlYY3Q1Um5BTlhwRWdTUmxjWGpiT0plMzNyY1Q3dzl6WFRLbmxRbTY0N04tWWhGMmIzLVkyV0Rv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzFxWUlxNVZiUE9zYWZ3cVptLWhRMFZLUkoxYUM1TElzUHJheVYwV2tzZlhSaDR5TExEemdrQTlWMUVzUnpJa2ZzWU0yLU5nYjIxaXJjVEZkX21qaHBUSWw0WUlRUkRaUVNBeDMwVTBrWENlaGtGSHJia2w5T29VdDFoVU9lcnI3QVpJd0RWUG5QVmEz?oc=5",
    "date": "2026-11-20T13:39:23+00:00",
    "state": "posando",
    "place": null,
@@ -956,17 +971,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEZEY0pscERZV2prQ0hvS0ptV1MxX2tsZ3FlWm13SnRxSmV1THlEZkVqa0FJV2pHS2pCcnFjRk5qOUNXakdlUlViaFY0NE9BcGdhaFVmZ0hraS0zRmwzQXh6bEx4WExsQ1FkWmZZZ056R0Fqb0RiWnZtakkwWFFTR084c2EzZm5xNW01cnFDM1JsY2owdnJ1R1dTUGxIcHVFLWtVcUt4eFhDWWRqaFZxR2xQQ0VtS3gySEEyMlhxYTk1Z1pPdl9hMUw2cXhBeW1jd1I0dE1Za9IB6wFBVV95cUxOV05hUUlmX0kwV3kxenZWNDBFd1FJS0U0RHVtZi16eUhHRk1hM1JUZko3Z2J0U1dzX0xzdHFzOFNBRVFKRll1UVlqMk83MG8teHhLNEMySmNxT1hDc3BYOEh1QUxrQldjR1ViUmFCeHgxV2VHV0xkWHBfS0pnejVabUtpX0pTNXhHajdYVUY5NHFzNXpybzY4cFd0Q3NEODFPWElCVi05b3BTZG9RX2dlRmM3MUhHbGhGd1RKN3E2QklDSWE0Ymk2SFQ0YTZheXNxTUM1bTVQTUxoVnU4dDB3OGNSU2xrUWlma1dV?oc=5",
    "date": "2026-11-19T22:34:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9742737eb89f",
-   "title": "Presidenta Fujimori dialogó con primer ministro de Singapur sobre cooperación en educación y gobierno digital",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2hpMDB1ZzVrLXZsX0hkUl9NbDNWU3NBNDdCeC1LbHExLVZJeno3YzJDZDI5THNmWlQ4WlNWeVRaMVRmbFh2ZFpkUURXbEsyVUhBUzhQaUtPYlhTbWdsMEhSd09USFk2elVVd21hVE9SQkNyY3BOV3RjVjdCSEF5WEtFMkwxeUFrWExXV1BjMTJfeVp2VzdIRmVrLThWYndRZDdDRmdFMU1XOXRYb2NWcVFfOTI5b0FMemhuR0xZU3FGQQ?oc=5",
-   "date": "2026-11-19T22:05:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
