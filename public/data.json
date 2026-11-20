@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:11:14.108057+00:00",
+ "generated_at": "2026-11-20T14:32:32.527226+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -292,6 +292,17 @@
    "next": null
   },
   {
+   "id": "e8185d8b4843",
+   "title": "Keiko Fujimori se reúne con el emperador Naruhito y la primera ministra de Japón, Sanae Takaichi: ¿qué temas abordaron?",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOVRGeUpxWnZxNWtsMW9VSTRwQUp3NWU3YktQSkRPTlZCQUlINE5WN0l3eUJhRW01R2R3OWVyenJZdTFtR05HTDFVMWtmdGVBZkMtb3NMdjZmMXd4RW1TbU1BdDlha2J2WGg2a0xOOThiZ2NwQkVXdEpNMXJaaXFOMTZ4Tk1BNkJGbHZleFNINVFBZHRCWmpsQ2VKc1FGVHI3ZThUQVhockp3aXEyVnRQSjlhQk5tdTdQOXNmTjY1VWpabW9pWURtbXJGSDRHbXZLR2dFbmtRWkNNenFR?oc=5",
+   "date": "2026-11-20T13:31:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9b06d6269be8",
    "title": "Keiko Fujimori se reúne con primera ministra de Japón para fortalecer relaciones bilaterales VIDEO",
    "excerpt": "",
@@ -390,6 +401,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-inicia-visita-oficial-a-japon-con-reunion-con-la-gobernadora-de-tokio-noticia/",
    "date": "2026-11-20T12:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "247aae849ac4",
+   "title": "Iván Arenas Keiko, el equilibrio entre las olas",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRNmJhcjVYRVd0SWllMVJQYi1FaVpkRDduNU1ic2trQ3RqZ3dsRmp0T0RwNFJvRE4wQk8zZ1F5dFllLUMzd0lxVk90N25JRlYtZ05vNEcyTUJRaTlkUFhra3Vtczd0Y3VXM1JjclM5OE5Ec2pHQWtuV1pwazRvQQ?oc=5",
+   "date": "2026-11-20T12:05:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -508,7 +530,7 @@
    "id": "05fc1d100f9b",
    "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con gobernadora de Tokio: ¿qué temas abordaron?",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkFweVZ1azlmRUJoSHltVFlHUnc4SGkwTDlOMHA1X3psUlNXNWVqUlBhdkRoZWtCSm1sd1lVQV9XeHBrbURzRlNaNU52eGJxQTd1bmNYb2YweUFQVHc4U0dveUNwUGZWVDlJM0dQZHlOTFp5NTVQanFFSDlfUjE5NFhMdHZSZm1KeFM3U0tIbkQwWFJ6aGN3b25ROTdSQnZmWkNHVkZFXzRHV2I5cl9QWUUwd1c0R0d4VmRvQ1NtOGR2Q092?oc=5",
    "date": "2026-11-20T02:34:21+00:00",
    "state": "posando",
@@ -599,17 +621,6 @@
    "source": "Diario Altavoz",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTctR3V1dVJsTkFCaHh0YkZTQ1RKbUh5V0NoRkVlWmtfREVqS3hWSVhETDE0c2R0WnJHcjdrMm9ENGxDSkw0NVJrUzNoVDFYdHhIaEw4eGd1LVAtbVR4cml4c05IMWFQLVdFU2RtWnVoZDc5UmE5X2J4R3NHYmE1RUNkS0VibmQ0SVdvYlRXNHBXTENoQk1IT21Eenp2aGVfMXQ5cDFLdHMyOGx0YWYzRWVGWVhJSGZkaEI3ZHNaVGJZV2pPcGpOSA?oc=5",
    "date": "2026-11-20T00:53:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "247aae849ac4",
-   "title": "Iván Arenas Keiko, el equilibrio entre las olas",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRNmJhcjVYRVd0SWllMVJQYi1FaVpkRDduNU1ic2trQ3RqZ3dsRmp0T0RwNFJvRE4wQk8zZ1F5dFllLUMzd0lxVk90N25JRlYtZ05vNEcyTUJRaTlkUFhra3Vtczd0Y3VXM1JjclM5OE5Ec2pHQWtuV1pwazRvQQ?oc=5",
-   "date": "2026-11-20T00:39:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -936,17 +947,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/internacional/presidenta-de-mexico-claudia-sheinbaum-confirma-que-se-reunio-con-keiko-fujimori-en-shenzhen-para-restablecer-las-relaciones-ultimas-apuesplan-noticia/",
    "date": "2026-11-19T14:08:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fc94f4ce35bd",
-   "title": "Presidenta Fujimori se reunió con empresarios de EE. UU. y presentó al Perú como puerta de acceso a Sudamérica",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0M4Y1V6dTVJSXJaZE4zRlMyR0dva2g3alZmdHJMSk9wTVVveGdkeWpXVTNjQ1Y3WWVmUlpnNFlEUHc3WjFaN0FuRWY4MlhzV3VmUHpwV1lQZzlNY1BrMnFSZHphN2hOY3lfRll2Z0hwaFhmeWxxZWpKWk9WSlhwZzc5WkpUYUkySzBrY25iZGxlS25RckJwVjNUZmtSYUVMaVUyZXowVURFcHZ3X204SkU3bWtUMDZXeEw0ZjdyZw?oc=5",
-   "date": "2026-11-19T13:45:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
