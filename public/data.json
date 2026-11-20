@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:51:27.455396+00:00",
+ "generated_at": "2026-11-20T00:12:47.249282+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Tokio",
+   "name": "China",
    "abroad": true,
-   "city": "Tokio"
+   "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-19T23:32:29+00:00"
+  "source": "El Peruano",
+  "date": "2026-11-20T00:06:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +270,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a89869d12e36",
+   "title": "Presidenta Keiko Fujimori califica de “muy fructífera para el Perú” agenda desarrollada en China [video]",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbVpKZ00xM1A5ZUdoQTIyV21ub0pWakh3YTJiYTJhd3pOUjlXRTJTclJ1QUVoWGdGRXNVRzF3eFRjOGc0YWVuR0pZWVVUaFJXZlkyT3ZnT1JwcVhhYWUtUjktVks3LU9PS2dmSU51TXNXMXptdEdLVHNlYkF1YkxrU21BUXp6V29ka1U1S2Ixb3NiTV9ERnFZMWdXNmhWeHNXUW9yMnJCeFAxSWVlclA4dDZWWmxhaFNqMDNfT1pzTl92aTFHOWZxZy1VbmE4VkFJREE?oc=5",
+   "date": "2026-11-20T00:06:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
+  {
    "id": "f93336217445",
    "title": "Luis Galarreta sobre el papa León XIV: “Estaba absolutamente tranquilo, le deseó suerte al Gobierno cuando se despidió”",
    "excerpt": "El jefe del Gabinete Ministerial, Luis Galarreta, afirmó que el papa León XIV estaba al tanto del viaje de la presidenta Keiko Fujimori a China y le deseó suerte al…",
@@ -292,21 +307,6 @@
     "name": "Tokio",
     "abroad": true,
     "city": "Tokio"
-   },
-   "next": null
-  },
-  {
-   "id": "a89869d12e36",
-   "title": "Presidenta Keiko Fujimori califica de “muy fructífera para el Perú” agenda desarrollada en China",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdlIyZ0lqcHBFcDFXQlZHS3FtdC0wVmlMeVlpekh0MFk3NW53TlF3dl8zZEl1Y3Y4bWlDTjlRUVhHQXVpbUVWdnkwdHNYNnBGS0lDbHRYcFh6dXc0U19EdEN6V2I5YW44NXUxM2FSTExrNThKaXVoWDZ4bnYwS25JbHBodDVNVDJkdVBVQm5UdGwwSzRtTzMxbU95OUZ0REIwdnhTMWsyeFF4Ml9YamRIN0lZLXVKNUk2Sll3OXUtbHlORGM4THIzcWhR?oc=5",
-   "date": "2026-11-19T23:25:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
    },
    "next": null
   },
