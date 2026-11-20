@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:34:32.219892+00:00",
+ "generated_at": "2026-11-20T00:56:17.377710+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "933482d25208",
+   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
+   "date": "2026-11-20T00:32:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a89869d12e36",
    "title": "Presidenta Keiko Fujimori califica de “muy fructífera para el Perú” agenda desarrollada en China [video]",
    "excerpt": "",
@@ -328,17 +339,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2ZRenZCeGRiSXRIbmhUWjJFeDZoQ01ISjBYR3c3c0tEd0dHdDJ2cDEtajJ6VXlIMzNLQVVnM2UyRVVvMnZ0M3hFQUMwbFA3ZjVzXzBENmxYTHRvSHlxTkdycTduZmdzUjl6NzBsYy1aS1BFNkZQUWpBNHpaRW54VEEwNkhrUzA3dVk5OWJqNWZULWh5VTdPTXlna0ZZbzhFeVRQTlgtZS1RbnpyZVRsRWY1cTZ0eHNwZTFn?oc=5",
    "date": "2026-11-19T23:12:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "933482d25208",
-   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
-   "date": "2026-11-19T23:10:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -410,6 +410,17 @@
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2hpMDB1ZzVrLXZsX0hkUl9NbDNWU3NBNDdCeC1LbHExLVZJeno3YzJDZDI5THNmWlQ4WlNWeVRaMVRmbFh2ZFpkUURXbEsyVUhBUzhQaUtPYlhTbWdsMEhSd09USFk2elVVd21hVE9SQkNyY3BOV3RjVjdCSEF5WEtFMkwxeUFrWExXV1BjMTJfeVp2VzdIRmVrLThWYndRZDdDRmdFMU1XOXRYb2NWcVFfOTI5b0FMemhuR0xZU3FGQQ?oc=5",
+   "date": "2026-11-19T22:05:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2dacc5c04b5c",
+   "title": "Presidenta Fujimori sostuvo reunión bilateral con su homólogo de Filipinas en el marco de APEC",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdy1uTHd5bVlGbHpGV3YtXy1BbEdZT0RPbFphUlpIM3IzTkxqeVVfWnliQUFtanZDNTE1WVNPeUxPekhLeTc0aGt1WUxlcUI0RzNRN29SSjJJX0R0eHN2Slg2bXA3eDBxUjAwT1d1REFxSW9KV0xzOURTOUZtb2lMcVUzbkFBM1ZTX3NLLXJfcGhHOGlISWhhd3NsZ1I3Q2k1NjB0Tl9CaWc2S2FWZGMxSmVMWHZPLUcwOGlNREtRbTN0Zw?oc=5",
    "date": "2026-11-19T22:05:00+00:00",
    "state": "posando",
    "place": null,
@@ -960,17 +971,6 @@
    "source": "Gato Encerrado",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2hHOVVsYU9OS3JtSElReko0SmI4VmF3eDlPSGVnbDVKYUVUYmVxWGlKckt6eXF5Q3o1S0ZDLW8zZmc4amhja2FFOGF0S0YyZTVMVlM1OUtzbVI5YTRnM0lxZXlHSF9jVTBpcGVPTTBhV0Zna3RJb3dJYUx6WHB2eWh3eFBoeFVwLV9vWHVaLTFjV29MM3R0WWNvSjNoVThtS09EdGdiLWx4czQtU0QxZE9CVU9ZNGhxeW1aUmVVRThOLUZiS1JnY2VZaDhFUEltbW9lcEVWRGJTRjNJRWZCdw?oc=5",
    "date": "2026-11-18T22:50:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4bff78ff4569",
-   "title": "Keiko Fujimori y China: ¿qué acuerdos y beneficios obtiene el Perú tras reunión con Xi Jinping?",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTVM0Mk9taUxZSUdidmV2dlBWR04weVU5a1Q5Tkc4WFQ0aTVPWlptOGFHVURScmpvdktkVU1jbzUwVkl6TGRCQ0dkS21sUEVCOGVzbnU1UzJQXy1nZElHeTQwb29OT0NmSlgyQmg2NGFja0Z3NW1LQ0xydmVlZWJ0T25lMThvV2tSSFhVamVnUTliR0R4OWo5bjF5WGxESzFKTGItRXl0LXcxbHNja1pPdlgwNUNkb3QtMHpVZNIBwgFBVV95cUxPeWRrTVczN3I4SldHeU0zNWI3NjdmVmNIWEFKbVJERDhRemhVY3JVY3dLdjlXZC1BTFFiekM0TFdWampPb3MxeWw1aWw5S2RzUURwY3h1aHo3U1pjNXI5aHJVVTJVMVBDTTVTakVPeTdDblNiTFMxNXdwNmVHV0dIb2JlWFc5UTlkYzRvMDVianhMRDFrUnFRaGFDQWRLeWlUblBoODJIUEhwVlB5emJIdFpZSnA2cnFrTGJTWnNxMkFIdw?oc=5",
-   "date": "2026-11-18T21:47:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
