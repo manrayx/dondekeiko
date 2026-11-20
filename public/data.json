@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T16:41:33.255280+00:00",
+ "generated_at": "2026-11-20T17:02:52.641159+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,16 @@
   "source": "Reporte Asia",
   "date": "2026-11-20T15:51:20+00:00"
  },
- "next": null,
+ "next": {
+  "place": {
+   "name": "China",
+   "abroad": true
+  },
+  "source": "La República",
+  "date": "2026-11-19T22:35:36+00:00",
+  "title": "Carlos Raffo, el personaje que aparece en el entorno de confianza de Keiko Fujimori en su viaje a China",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZUx1M2xndDFsbjFtSzRYMzFSYWZTazdGQVFFV2NYN243VzFxSzBEZDZQcE1TaXViWF9jTTFHRDZSMjIweEppR1RyYnY2SzEtaGlBc0FPWEZlV1dWSU1pRnFHSEVlbUFZQkJxRFdCQ19qZDBhN3ZNVjFxWFk2Smh6Z0YwZmZLME9Ob2ZYX1lZeWJlWXFDNVp2VnVQN1ZjNkFiR0xrMVZ2eFFfNlVWRmotOXdnamhjNFU5LWR1X0tOVkVlQnZfYVdNNjd0ZjNxMzB5Yk5JU1VqM0JsU1FRTURTN2NoekI5Tk0xNmlPbnJlZw?oc=5"
+ },
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
@@ -337,7 +346,7 @@
    "title": "Keiko Fujimori se reunió con el emperador Naruhito en el Palacio Imperial de Japón VIDEO",
    "excerpt": "",
    "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmw0VElnX1lRY1lJQW9xTnBWOGFoOTYydmdOWXBpTDBpaDZiTjlwQXV0UldSZXJBbVZPRW5vNUtMN1haWGI4OXRuRktQOGtHbFVXM005d1k3QW5kdmNkc3Q0MGRLRjhGaXV0bnJnN3dEdjVleERrSHpib0V3ekYtdW1NalZmQV9xcl9hSjNobUYtdndhZldNUlRoek5hQnR4b2pjRURmZmhROS0wWS1lc200dFlKLU5DUTlwNQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWFMSlFZTGhMeWxyaThmbXRHZFJxS3pHYjAzRTd1Q1EwOFNCOEotdU9WN1VqMXBSNmY1a0luam9RYWNJY3U0VkE5Z0Z0ZmhvS0VMbUhsTmlRYlpjWkpYT3FBWVdBLXNDWURnb0NXbmFHbGxKWTJQMnVhZlBsd3lkVUYtSVJSUG5aWTg1MFFEWVpuazNLVEllTWFMcEt6NHd5N1dQXzNhMGtZVlEwSTNObXEtZjQ5aEU?oc=5",
    "date": "2026-11-20T14:57:46+00:00",
    "state": "posando",
    "place": {
@@ -883,6 +892,20 @@
    "next": null
   },
   {
+   "id": "0befa3f44f7c",
+   "title": "Carlos Raffo, el personaje que aparece en el entorno de confianza de Keiko Fujimori en su viaje a China",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZUx1M2xndDFsbjFtSzRYMzFSYWZTazdGQVFFV2NYN243VzFxSzBEZDZQcE1TaXViWF9jTTFHRDZSMjIweEppR1RyYnY2SzEtaGlBc0FPWEZlV1dWSU1pRnFHSEVlbUFZQkJxRFdCQ19qZDBhN3ZNVjFxWFk2Smh6Z0YwZmZLME9Ob2ZYX1lZeWJlWXFDNVp2VnVQN1ZjNkFiR0xrMVZ2eFFfNlVWRmotOXdnamhjNFU5LWR1X0tOVkVlQnZfYVdNNjd0ZjNxMzB5Yk5JU1VqM0JsU1FRTURTN2NoekI5Tk0xNmlPbnJlZw?oc=5",
+   "date": "2026-11-19T22:35:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "China",
+    "abroad": true
+   }
+  },
+  {
    "id": "6457d080030c",
    "title": "Keiko Fujimori se reúne con Claudia Sheinbaum y acuerdan fortalecer relaciones entre Perú y México",
    "excerpt": "",
@@ -944,17 +967,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/19/galarreta-defiende-su-gestion-en-la-pcm-y-descarta-responder-por-cada-controversia-ministerial-no-es-que-el-premier-es-el-pararrayos-hnews-211014",
    "date": "2026-11-19T21:24:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7f647c9263e4",
-   "title": "Claudia Sheinbaum llama “vecina” a Keiko Fujimori: juntas por primera vez, ríen y departen al lado de José Antonio Kast",
-   "excerpt": "El encuentro se produjo durante la cumbre de la APEC en China, en medio del restablecimiento de los vínculos diplomáticos entre Lima y México, suspendidos desde la crisis por la…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNWRkVzQtMDA0NWc2eVVSNV9mbnp0THZuQ3VBREROeFY0aXBFZVctWF94UUE4X2ROUHJrazRwZDItYUNEN3RSSlFuWmxBMU9zd3U2cTc4dE91b0NTZHFRU3htRVd0V0ZDMlF5eFhQcXh2Y1RKVUYtUWplNkFMREhtSzZzTG1vSm5JNElRSlMxdDRIeVRrTm9zUXBiTG5ZWEdUY091UlI4NW9VWV9WX3Rkak40RGl2bUZrVE1lc0MzbmM2Rl93OTdmVGVMZGRQaVh0RjBTVG81SEVpSGZKRUZUc2tlSndmSDhUNjhuYdIBhwJBVV95cUxNVHRGQzhkVzEwMVlLV1NXd2xfQ3ZWZF9KdDhwZC1IMzlydWc5U2U1SnBURS1CclhrazhZZFVMTWtzVVFaQXRGOGE0cEFEcV9XeGNEZHpXeFBvZ09xcDN1WlZobV9CLTRpLVo4aGpPNDBJOUJIM1JmLUs0UUdqMWFERVVZWDMzRFl5RjQtV3ltcVRZVlY5WC1fczBWb1p1YkYzYmlZeE5nUGV1bEMzVWJmZGdxWXZVNktvS2VoQUY1UG5sSFE4dzI2dkVOekRTNXRaOWZ5alkwSWhrZnZ6ZWxTalVDRFBmODBfZmZLUWtDdXZtRkNqcXVBaHh3WlNXa0RMX2Q0R1h4Yw?oc=5",
-   "date": "2026-11-19T20:25:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
