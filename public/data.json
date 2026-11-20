@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:52:30.258330+00:00",
+ "generated_at": "2026-11-20T05:34:59.986153+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8fb8e57a621f",
+   "title": "Keiko Fujimori se reunió con gobernadora de Tokio para conocer sobre respuesta japonesa ante desastres naturales",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdWVLbHBHX3FlLVRqMmZFZ0ZoUERQRTJDNXN1NXMtc0RwczF3cFAya3cyVUMwOWZmSzF4RzlxY3hseW04ZEphMHBOSVRYTkFPVTRRZEdUTWx6U29OeWNyWE5yeTA3R1JEeFJfZUtsT1JGX2tYUnpkVWo3RzVUYm5STmF5Sm4ycHNHSllCLWt4TmRxV1ZqOVp1NVN6ZkNqWUd3TW5iN1BTUnNLa091dG5JLV9VMkcyaDE0QUI1aU5PZnRvWm5jbWk3Wm05cU91MldfY2RaM0ZtWGVlWUg0bGRraEdqOTRoSmItOXI1SGpDcWx5Ukk0?oc=5",
+   "date": "2026-11-20T05:11:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ef91b7891e16",
    "title": "Fujimori anuncia apoyo de China y Corea del Sur por US$ 47 millones: Los anuncios tras APEC 2026",
    "excerpt": "La presidenta de la República, Keiko Fujimori, calificó de “muy fructífera para el Perú” la agenda desarrollada en Shenzhen, China, durante su participación en la Semana de Líderes Económicos del…",
@@ -287,6 +298,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-inicia-visita-oficial-a-japon-con-reunion-con-la-gobernadora-de-tokio-noticia/",
    "date": "2026-11-20T04:06:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "556d3951aa5b",
+   "title": "Presidenta Fujimori se reunió con la directora gerente del FMI en el marco de APEC 2026",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTdxVFd1TTU5VmxUeV9WR3ZVb1VhaWFxT2VVLUJUbnFjSDlKSTBySmVGYmQtX2FuTUQyQU1YeC05MUk3NW9POWM5VDJ4ZFhIYlYxOU1hVS1zSFlzWnpPb2ZfaXJhaUNXb29XcndRaDlKQzRTeHE3ZE1jeEVQNTBKZjNFN2tDYlktVkFQWEZZTzBxWXRwQzlpWlFNZm1ZSlBzYzhSc0pvcGlGLWVHekNpSXVNMVQwTzJvckVVXzBB?oc=5",
+   "date": "2026-11-20T02:54:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -640,17 +662,6 @@
    "next": null
   },
   {
-   "id": "556d3951aa5b",
-   "title": "Presidenta Fujimori se reunió con la directora gerente del FMI en el marco de APEC 2026",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTdxVFd1TTU5VmxUeV9WR3ZVb1VhaWFxT2VVLUJUbnFjSDlKSTBySmVGYmQtX2FuTUQyQU1YeC05MUk3NW9POWM5VDJ4ZFhIYlYxOU1hVS1zSFlzWnpPb2ZfaXJhaUNXb29XcndRaDlKQzRTeHE3ZE1jeEVQNTBKZjNFN2tDYlktVkFQWEZZTzBxWXRwQzlpWlFNZm1ZSlBzYzhSc0pvcGlGLWVHekNpSXVNMVQwTzJvckVVXzBB?oc=5",
-   "date": "2026-11-19T16:31:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "67bbd6b0d078",
    "title": "Presidenta Keiko Fujimori se reunió con la directora gerente del Fondo Monetario",
    "excerpt": "",
@@ -948,17 +959,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLWVXODRkWFJONXBCQkVTWE96ZjJ2dXltUE4xWnVXby0zOGZPaDJsZllXRHNCeFNrZFVoVEsxMXY5bmFBZWxZdmJQVFBJZE1qVkU1eUpBTlNjUlZZeU9DVTRlNGVMc0wwckk4SG8wX28yYmtSMnl4SlBoSmZRYTViQjhucFVTUTh4eUZ4T1pQd212RmpFcjRiaFJicFRDS2ZnTzZDNHVXTGNkRVdDeS1WQnVKNTVQNkNtaWtOa0RwUURhd0gzSTVyaDB3TXBCdEJ6bUVXS3FzUHNnVWZKZktoSnZB?oc=5",
    "date": "2026-11-19T03:09:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0932b47679c7",
-   "title": "Presidenta Fujimori inicia su participación en la 33.ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
-   "date": "2026-11-19T03:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
