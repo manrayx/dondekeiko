@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:32:32.527226+00:00",
+ "generated_at": "2026-11-20T14:54:24.959625+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "dc86d4eeb367",
+   "title": "Keiko Fujimori pide que Perú sea la ‘puerta de entrada a Sudamérica’ en su visita a Japón",
+   "excerpt": "",
+   "source": "El Universo",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORFUtMFBPeWFnN1BKVWdhT2ZrR0hQbEU0OVowaW93UzliSXY5Mm5WdHhFRjNMUFlmTk9QVUFfaU9wRjNhczRrdlF6Y2xudm1DOVQ0bUJGd2FHNVBaZE1XQS1oY3JoSDJYMENkaklVaUQ2bk5XVkxxVUxFR1QzNF9YblRpNHFBV3lPMlJ1b29HZzJJWUVZNjVPQzBoMkcyeTNqTzVmRVBpS2d2cUxNdzYyS3RxeEdUT1cxYjhLOXZvcDB2UmtqUmRFZU44SlFVRlhoSi1oRnd30gHqAUFVX3lxTE1lZVdLTkxFYzZBbFlOSVNVSEd2M0c3OTVFSHFyX1ZNLUJ5S21jMDZvZE5zV0U4NS1VdEF6eENoLXlHeUhnRlBPYlJNYk9DbFRyU2hZUXdtZXprN0VPMFpGb1hXZjBNTW5HRy03T3JPalRoR3lua0RSY1BaZmM1NFhoOWluZUVWbThPbF9PM0ExWWVxdVRJZXcxZVZydjZHM21Mckw2VVlQRUJWclZyZjBlX09ZZkx6RXpLZzRlUEdjTGdRWDhvd3dwWWllcVdYOUFhU3FWbENDU2NPem01WGlCS3B5MHY0X25YZw?oc=5",
+   "date": "2026-11-20T14:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5cf06c91b1ea",
    "title": "Presidenta Fujimori agradece apoyo de Japón para enfrentar fenómeno El Niño",
    "excerpt": "",
@@ -511,6 +522,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/fujimori-anuncia-apoyo-de-china-y-corea-del-sur-por-us-47-millones-los-anuncios-tras-apec-2026-noticia/",
    "date": "2026-11-20T04:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "792140b7c7cd",
+   "title": "Keiko Fujimori anuncia donaciones de US$ 47 millones de China y Corea para el Perú",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWlhOUNBdUJpc3oteE0zZlF5MkQxcm9zT3hlTkdvU1BLbV9fcUFQTjFZUlUzbXI3M0wta2FGM01USm9ZOUhnSmlGM2dyWnJnVmkyaFZNTFNiNmtBX2Uta2tOUi1kRzRZUEZ3UEF0NFBsVUFxQjZEcnUxckFPdjFLcXJ1NGcwZ1ZKcURSR0g0RzdrM1A1UzhNM24yWnBrdDlsbzVyYWtnRm8yZ19LVjRvMjBub1E0SmM5QzFkMUxIbzLSAdQBQVVfeXFMTzVSandHYUs3ZlJ5ZnA3b09tbEdUaVBmU1haYlBvaTdZV083dmVxYTRZZ2JsQXdrbVBIbTlZR3lrWGRIVTRySmRoVE1RMDJwWWoyeHd6blA4eWpLTG91NGVERDJBZVNlZE42SVJqVW1XQzJieVVaUjF5dUNPSGpYSnFtVHJSUHIyeno3bGlJY3JpTG42MlY4UkdIalhsTTY1U3M0X1lucHd0dm1kdG1BV0N6QW9qbEJwbGxZcTRLeDFlZXhFcGUtaHJUa3FPbktjbmRGWWY?oc=5",
+   "date": "2026-11-20T03:02:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -925,28 +947,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/10/peru-y-tailandia-suscribiran-un-tlc-antes-del-cierre-del-2026-los-productos-que-podrian-comerciar/",
    "date": "2026-11-19T14:37:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c4dd41080c78",
-   "title": "Con estos presidentes se reunió Keiko Fujimori en la APEC: ¿Se logró reunir con Claudia Sheinbaum?",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0ZPdW1ZY0FXcDNVZU11NUxVWDZMVGVDVVBoVGltbDhMTmMwelV4LV9EcDRCMUduSjdRRXNMaDdsOFhsSjh6bUE5eGl4MVJKdi00LUJ1RHFrTzhCSEJMb2wxbEdMTlVVVC1yWm5QTVc1ZkNCRjVMQm1hbm5JTWxISlBaRmJheEtETkdxVG5mUWdBbmZFWEFUWUFmOFptTDBNeTFpbF9IM3dJQkhpX2hLNXhxU2R2TmlveENhMzd4RnNuNEZwYURxcE1rcURnSldOVWtsWnM4dlNXRC1f?oc=5",
-   "date": "2026-11-19T14:10:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "75df7a16c4bb",
-   "title": "Presidenta de México Claudia Sheinbaum confirma que se reunió con Keiko Fujimori en Shenzhen para “restablecer las relaciones”",
-   "excerpt": "La presidenta de México, Claudia Sheinbaum, confirmó que sostuvo una reunión con su homóloga peruana, Keiko Fujimori, en la ciudad de Shenzhen, China, en el marco de la cumbre de…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/internacional/presidenta-de-mexico-claudia-sheinbaum-confirma-que-se-reunio-con-keiko-fujimori-en-shenzhen-para-restablecer-las-relaciones-ultimas-apuesplan-noticia/",
-   "date": "2026-11-19T14:08:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
