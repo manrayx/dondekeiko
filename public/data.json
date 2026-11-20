@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:15:09.607571+00:00",
+ "generated_at": "2026-11-20T10:36:26.214393+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -372,7 +372,7 @@
    "id": "05fc1d100f9b",
    "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con gobernadora de Tokio: ¿qué temas abordaron?",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkFweVZ1azlmRUJoSHltVFlHUnc4SGkwTDlOMHA1X3psUlNXNWVqUlBhdkRoZWtCSm1sd1lVQV9XeHBrbURzRlNaNU52eGJxQTd1bmNYb2YweUFQVHc4U0dveUNwUGZWVDlJM0dQZHlOTFp5NTVQanFFSDlfUjE5NFhMdHZSZm1KeFM3U0tIbkQwWFJ6aGN3b25ROTdSQnZmWkNHVkZFXzRHV2I5cl9QWUUwd1c0R0d4VmRvQ1NtOGR2Q092?oc=5",
    "date": "2026-11-20T02:34:21+00:00",
    "state": "posando",
@@ -938,17 +938,6 @@
    "next": null
   },
   {
-   "id": "898489a1c524",
-   "title": "Presidenta Fujimori inicia su participación en 33ª Reunión de Líderes Económicos de APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWS1QcnJFUDZWUFp5YnllOWlhTi1wNDN0U3ZnS2I4NFgwd0o1LWtPWXFKTFI0bWU5ek1TZHZwYmE5V0kzdWIyWlZGbU9MRm51NmRpeERfVmNjSmN3NE1pcEJNRHR5RTI2QnNXcXlUR2FSWUVPWjlTakVwcjhnYzROOGJfUDM5TEEwRjZoX1d2RkZyWmxuRzRqN0tDTWo0UlBhamtHQVBXbENNaEIzVjQ2R1E1cUdRc3NjakpDUnNKWnpOT2FUdTdnbi1saw?oc=5",
-   "date": "2026-11-19T04:54:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "dde57db33d0a",
    "title": "Keiko Fujimori pide a países de APEC sumar esfuerzos contra El Niño",
    "excerpt": "",
@@ -957,6 +946,21 @@
    "date": "2026-11-19T04:42:54+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "3501616b94f3",
+   "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
+   "date": "2026-11-19T03:31:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   }
  ],
