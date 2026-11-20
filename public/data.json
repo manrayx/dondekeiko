@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:23:52.092411+00:00",
+ "generated_at": "2026-11-20T12:45:32.527455+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -275,7 +275,7 @@
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHJGWEY5OEhEa2thVHpZNTlUSXREVVpLU0ltaFFkUG1lVVFLZDNzazNnUEh2WE5PeTlPb0otWHFmUzZadVFvcXVJaXNZbm9RZGFDNjNXRWYxLXNVWmpNNjBEeWREMWUxUjhac2Rvb0JUaWhJeURCdVNtM1A2aXo5bGVLRQ?oc=5",
-   "date": "2026-11-20T12:17:02+00:00",
+   "date": "2026-11-20T12:17:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -727,15 +727,11 @@
    "id": "7f647c9263e4",
    "title": "Claudia Sheinbaum llama “vecina” a Keiko Fujimori: juntas por primera vez, ríen y departen al lado de José Antonio Kast",
    "excerpt": "El encuentro se produjo durante la cumbre de la APEC en China, en medio del restablecimiento de los vínculos diplomáticos entre Lima y México, suspendidos desde la crisis por la…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/19/claudia-sheinbaum-llama-vecina-a-keiko-fujimori-juntas-por-primera-vez-rien-y-departen-al-lado-de-jose-antonio-kast/",
-   "date": "2026-11-19T20:25:24+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNWRkVzQtMDA0NWc2eVVSNV9mbnp0THZuQ3VBREROeFY0aXBFZVctWF94UUE4X2ROUHJrazRwZDItYUNEN3RSSlFuWmxBMU9zd3U2cTc4dE91b0NTZHFRU3htRVd0V0ZDMlF5eFhQcXh2Y1RKVUYtUWplNkFMREhtSzZzTG1vSm5JNElRSlMxdDRIeVRrTm9zUXBiTG5ZWEdUY091UlI4NW9VWV9WX3Rkak40RGl2bUZrVE1lc0MzbmM2Rl93OTdmVGVMZGRQaVh0RjBTVG81SEVpSGZKRUZUc2tlSndmSDhUNjhuYdIBhwJBVV95cUxNVHRGQzhkVzEwMVlLV1NXd2xfQ3ZWZF9KdDhwZC1IMzlydWc5U2U1SnBURS1CclhrazhZZFVMTWtzVVFaQXRGOGE0cEFEcV9XeGNEZHpXeFBvZ09xcDN1WlZobV9CLTRpLVo4aGpPNDBJOUJIM1JmLUs0UUdqMWFERVVZWDMzRFl5RjQtV3ltcVRZVlY5WC1fczBWb1p1YkYzYmlZeE5nUGV1bEMzVWJmZGdxWXZVNktvS2VoQUY1UG5sSFE4dzI2dkVOekRTNXRaOWZ5alkwSWhrZnZ6ZWxTalVDRFBmODBfZmZLUWtDdXZtRkNqcXVBaHh3WlNXa0RMX2Q0R1h4Yw?oc=5",
+   "date": "2026-11-19T20:25:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
+   "place": null,
    "next": null
   },
   {
