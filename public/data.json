@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:50:52.967182+00:00",
+ "generated_at": "2026-11-20T19:12:18.468278+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -278,6 +278,17 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "f2fea6a8e590",
+   "title": "Presidenta Fujimori agradece apoyo que brindará Japón para enfrentar al fenómeno El Niño",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTFSQ1NhS2Y4NVFhMTN5cEV0OWNNNUdxQWVJeG96bDhBWUszQ0dvNXpzM3JFMjBJbWZYZnVXaWRsTFJ5ZTVUOFFGYi1OM2dKUXExa2MzWmRHX1VRYXlzZUI4bm53TXktV1lMWG91YnkxSU13UkZVbm5TdElVbm00ckwwaFNNbG1lQWRQeEFRaS1lRFZlLXFlb2RvX09LRTVzZWJFZHRKcm5sVFo0Q1ZlR1lwc3VKRVg0Y3lCek0tN2k1UQ?oc=5",
+   "date": "2026-11-20T18:42:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "26f6a8b25203",
    "title": "Keiko Fujimori saluda a emperador Naruhito de Japón e invita a que Perú sea la «puerta de entrada a Sudamérica»",
@@ -956,17 +967,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2hpMDB1ZzVrLXZsX0hkUl9NbDNWU3NBNDdCeC1LbHExLVZJeno3YzJDZDI5THNmWlQ4WlNWeVRaMVRmbFh2ZFpkUURXbEsyVUhBUzhQaUtPYlhTbWdsMEhSd09USFk2elVVd21hVE9SQkNyY3BOV3RjVjdCSEF5WEtFMkwxeUFrWExXV1BjMTJfeVp2VzdIRmVrLThWYndRZDdDRmdFMU1XOXRYb2NWcVFfOTI5b0FMemhuR0xZU3FGQQ?oc=5",
    "date": "2026-11-19T22:05:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a5581b063fc0",
-   "title": "Keiko Fujimori y Claudia Sheinbaum saludan restablecimiento de relaciones diplomáticas y acuerdan impulsar “nueva etapa”",
-   "excerpt": "Las presidentas de Perú, Keiko Fujimori, y de México, Claudia Sheinbaum, acordaron impulsar una “nueva etapa” en las relacione diplomáticas, “con énfasis en el comercio, las inversiones y la cooperación…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-claudia-sheinbaum-saludan-restablecimiento-de-relaciones-diplomaticas-y-acuerdan-impulsar-nueva-etapa-destaca-palacio-de-gobierno-apuesplan-noticia/",
-   "date": "2026-11-19T22:04:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
