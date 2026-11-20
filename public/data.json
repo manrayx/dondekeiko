@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:54:24.959625+00:00",
+ "generated_at": "2026-11-20T15:37:32.902815+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio Imperial de Tokio",
-   "city": "Tokio",
+   "name": "Palacio Imperial de Japón VIDEO",
+   "city": "Japón",
    "abroad": true
   },
-  "source": "Gestión",
-  "date": "2026-11-20T13:20:00+00:00"
+  "source": "Perú21",
+  "date": "2026-11-20T14:57:46+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -269,6 +269,32 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "12adb28c8338",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
+   "date": "2026-11-20T15:22:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "95361171eff5",
+   "title": "Keiko Fujimori se reunió con el emperador Naruhito en el Palacio Imperial de Japón VIDEO",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWFMSlFZTGhMeWxyaThmbXRHZFJxS3pHYjAzRTd1Q1EwOFNCOEotdU9WN1VqMXBSNmY1a0luam9RYWNJY3U0VkE5Z0Z0ZmhvS0VMbUhsTmlRYlpjWkpYT3FBWVdBLXNDWURnb0NXbmFHbGxKWTJQMnVhZlBsd3lkVUYtSVJSUG5aWTg1MFFEWVpuazNLVEllTWFMcEt6NHd5N1dQXzNhMGtZVlEwSTNObXEtZjQ5aEU?oc=5",
+   "date": "2026-11-20T14:57:46+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio Imperial de Japón VIDEO",
+    "city": "Japón",
+    "abroad": true
+   },
+   "next": null
+  },
   {
    "id": "dc86d4eeb367",
    "title": "Keiko Fujimori pide que Perú sea la ‘puerta de entrada a Sudamérica’ en su visita a Japón",
@@ -445,17 +471,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
    "date": "2026-11-20T11:34:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "12adb28c8338",
-   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
-   "date": "2026-11-20T11:14:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -936,17 +951,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmQyWWJQYmJiVkdmek1oejkxQ0VaUWttVXRuT2M0N1hOVjRrclFGblBEeExIaXBpSy03a1QwZUNJaXRnQWhxalhtVnh3cHdzUmtHNkxBNUVwNVhDM19fV0lRX2UzV1M0YnJ3ODFsYkkxN3NFLWh4ZlplMVdCb1pLYVhUUHh6eDZ6WnpiMjNCSFpqeEFCUTk0ODB1bHV3YkVxb0RiWXZxTzRhaUlabGd6VEt3Qy1jWkFndzZHT0FGY2lkbXc?oc=5",
    "date": "2026-11-19T14:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d23db1564c40",
-   "title": "Perú y Tailandia firmarán un TLC antes del cierre del 2026: los productos que podrían intercambiar",
-   "excerpt": "La presidenta Keiko Fujimori anunció la firma de un tratado de libre comercio con Tailandia tras alcanzar un intercambio bilateral de USD 739 millones en 2025",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/10/peru-y-tailandia-suscribiran-un-tlc-antes-del-cierre-del-2026-los-productos-que-podrian-comerciar/",
-   "date": "2026-11-19T14:37:14+00:00",
    "state": "posando",
    "place": null,
    "next": null
