@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:00:05.380605+00:00",
+ "generated_at": "2026-11-20T22:03:39.778498+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Japón",
+   "name": "Tokio",
    "abroad": true,
-   "city": "Japón"
+   "city": "Tokio"
   },
-  "source": "Enfoque Digital TV",
-  "date": "2026-11-20T17:30:02+00:00"
+  "source": "Reporte Asia",
+  "date": "2026-11-20T18:02:53+00:00"
  },
  "next": {
   "place": {
@@ -301,6 +301,21 @@
    "next": null
   },
   {
+   "id": "4db43d3cd2c2",
+   "title": "El emperador Naruhito recibió a Keiko Fujimori en Tokio durante su visita oficial a Japón",
+   "excerpt": "",
+   "source": "Reporte Asia",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjRvaGo1U1F0dEtSQTBSME8tenVKNmxNSWdERng3cFFkc1ZsUllhM0RybDJnS0dBMW03VFRPMHRYMmxUVEVRT3BjUlkyYnphNHhuSEZlU2llSk11SzlpM3FWSUNzRzFNRWJfMk9LbGhCWXMtQUlYbFcwOVNJc1pXUGxJNDI5TU5qZndpMURSbHJDOFZTcF90Uk5sSTNad3B6V0hHaTlFVzREbmdBNnNLNE00bldmSVFJQTA2MkNsT2FlNnct?oc=5",
+   "date": "2026-11-20T18:02:53+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tokio",
+    "abroad": true,
+    "city": "Tokio"
+   },
+   "next": null
+  },
+  {
    "id": "a1661f634752",
    "title": "Presidenta de Perú, Keiko Fujimori, visita Japón",
    "excerpt": "",
@@ -357,21 +372,6 @@
    "date": "2026-11-20T16:10:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "4db43d3cd2c2",
-   "title": "El emperador Naruhito recibió a Keiko Fujimori en Tokio durante su visita oficial a Japón",
-   "excerpt": "",
-   "source": "Reporte Asia",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjRvaGo1U1F0dEtSQTBSME8tenVKNmxNSWdERng3cFFkc1ZsUllhM0RybDJnS0dBMW03VFRPMHRYMmxUVEVRT3BjUlkyYnphNHhuSEZlU2llSk11SzlpM3FWSUNzRzFNRWJfMk9LbGhCWXMtQUlYbFcwOVNJc1pXUGxJNDI5TU5qZndpMURSbHJDOFZTcF90Uk5sSTNad3B6V0hHaTlFVzREbmdBNnNLNE00bldmSVFJQTA2MkNsT2FlNnct?oc=5",
-   "date": "2026-11-20T15:51:20+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tokio",
-    "abroad": true,
-    "city": "Tokio"
-   },
    "next": null
   },
   {
