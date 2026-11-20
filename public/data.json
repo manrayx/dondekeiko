@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T00:56:17.377710+00:00",
+ "generated_at": "2026-11-20T01:17:23.832229+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,12 +270,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a1ba6a848b63",
+   "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
+   "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/19/keiko-fujimori-se-reunio-por-primera-vez-con-claudia-sheinbaum-tras-restablecer-relaciones-con-mexico-hnews-1364295",
+   "date": "2026-11-20T01:16:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "933482d25208",
    "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
    "date": "2026-11-20T00:32:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2c4b6c8b8e2f",
+   "title": "Keiko Fujimori se reunirá con el emperador...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
+   "date": "2026-11-20T00:25:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -339,17 +361,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2ZRenZCeGRiSXRIbmhUWjJFeDZoQ01ISjBYR3c3c0tEd0dHdDJ2cDEtajJ6VXlIMzNLQVVnM2UyRVVvMnZ0M3hFQUMwbFA3ZjVzXzBENmxYTHRvSHlxTkdycTduZmdzUjl6NzBsYy1aS1BFNkZQUWpBNHpaRW54VEEwNkhrUzA3dVk5OWJqNWZULWh5VTdPTXlna0ZZbzhFeVRQTlgtZS1RbnpyZVRsRWY1cTZ0eHNwZTFn?oc=5",
    "date": "2026-11-19T23:12:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a1ba6a848b63",
-   "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
-   "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/19/keiko-fujimori-se-reunio-por-primera-vez-con-claudia-sheinbaum-tras-restablecer-relaciones-con-mexico-hnews-1364295",
-   "date": "2026-11-19T23:03:20+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -460,6 +471,17 @@
    "next": null
   },
   {
+   "id": "160e7d976835",
+   "title": "Sheinbaum se reúne con Keiko Fujimori y aborda el restablecimiento de relaciones entre México y Perú (Redacción Astillero Informa)",
+   "excerpt": "",
+   "source": "julioastillero.com",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTNQT1hRMGExNnNKc3JpcHlqcl85Y25YWTFOLU9CdkN6QWE0cEU0Q3F4Q2RfdEZoeHFkZ0FTMmFKSW52ekQ0a21ESlQ3bHRxaVhBUUMtSDdFQUtRT0h1MjRCV0NHcFgxS1JyTi1TQWkwbllXOGFpR3ZxUnZSeVMtNzh2czloT002QTRLVEJyRDIzUEZydExOemdIVFpKNko4aXI1UWJMM2dHSnYycmswY3JGaEhRazhPYUVQRUtUdEZRQzdvakp3?oc=5",
+   "date": "2026-11-19T21:14:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7f647c9263e4",
    "title": "Claudia Sheinbaum llama “vecina” a Keiko Fujimori: juntas por primera vez, ríen y departen al lado de José Antonio Kast",
    "excerpt": "El encuentro se produjo durante la cumbre de la APEC en China, en medio del restablecimiento de los vínculos diplomáticos entre Lima y México, suspendidos desde la crisis por la…",
@@ -472,17 +494,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "160e7d976835",
-   "title": "Sheinbaum se reúne con Keiko Fujimori y aborda el restablecimiento de relaciones entre México y Perú (Redacción Astillero Informa)",
-   "excerpt": "",
-   "source": "julioastillero.com",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTNQT1hRMGExNnNKc3JpcHlqcl85Y25YWTFOLU9CdkN6QWE0cEU0Q3F4Q2RfdEZoeHFkZ0FTMmFKSW52ekQ0a21ESlQ3bHRxaVhBUUMtSDdFQUtRT0h1MjRCV0NHcFgxS1JyTi1TQWkwbllXOGFpR3ZxUnZSeVMtNzh2czloT002QTRLVEJyRDIzUEZydExOemdIVFpKNko4aXI1UWJMM2dHSnYycmswY3JGaEhRazhPYUVQRUtUdEZRQzdvakp3?oc=5",
-   "date": "2026-11-19T19:59:53+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -962,17 +973,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "7dfb62cdfa84",
-   "title": "Claudia Sheinbaum desaíra a Keiko Fujimori y afirma que no está dentro sus planes reunirse con la mandataria peruana – Gato Encerrado",
-   "excerpt": "",
-   "source": "Gato Encerrado",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQU2hHOVVsYU9OS3JtSElReko0SmI4VmF3eDlPSGVnbDVKYUVUYmVxWGlKckt6eXF5Q3o1S0ZDLW8zZmc4amhja2FFOGF0S0YyZTVMVlM1OUtzbVI5YTRnM0lxZXlHSF9jVTBpcGVPTTBhV0Zna3RJb3dJYUx6WHB2eWh3eFBoeFVwLV9vWHVaLTFjV29MM3R0WWNvSjNoVThtS09EdGdiLWx4czQtU0QxZE9CVU9ZNGhxeW1aUmVVRThOLUZiS1JnY2VZaDhFUEltbW9lcEVWRGJTRjNJRWZCdw?oc=5",
-   "date": "2026-11-18T22:50:56+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
