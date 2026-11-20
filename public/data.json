@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T01:17:23.832229+00:00",
+ "generated_at": "2026-11-20T01:38:47.769940+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
+   "name": "Tokio",
    "abroad": true,
-   "city": "China"
+   "city": "Tokio"
   },
-  "source": "El Peruano",
-  "date": "2026-11-20T00:06:00+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-20T01:38:45+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +270,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "28033d183f17",
+   "title": "Keiko Fujimori se reúne con el emperador y la primera ministra de Japón este viernes en Tokio",
+   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
+   "date": "2026-11-20T01:38:45+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tokio",
+    "abroad": true,
+    "city": "Tokio"
+   },
+   "next": null
+  },
+  {
    "id": "a1ba6a848b63",
    "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
    "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
@@ -326,21 +341,6 @@
    "date": "2026-11-19T23:48:09+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "28033d183f17",
-   "title": "Keiko Fujimori se reúne con el emperador y la primera ministra de Japón este viernes en Tokio",
-   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
-   "date": "2026-11-19T23:32:29+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tokio",
-    "abroad": true,
-    "city": "Tokio"
-   },
    "next": null
   },
   {
