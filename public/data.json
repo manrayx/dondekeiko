@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:21:41.993670+00:00",
+ "generated_at": "2026-11-20T02:43:41.239363+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d72c39e10e85",
+   "title": "Presidenta Keiko Fujimori sostiene reuniones bilaterales con autoridades de México, Filipinas y Hong Kong",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
+   "date": "2026-11-20T02:27:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ca471062ba9c",
    "title": "Presidenta Fujimori inicia visita oficial a Japón: sostiene encuentro con la gobernadora de Tokio",
    "excerpt": "",
@@ -499,6 +510,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-la-nueva-donacion-de-us22-millones-de-china-y-sus-reuniones-bilaterales-en-el-apec-apuesplan-noticia/",
    "date": "2026-11-19T21:53:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2bcb8f8d2e04",
+   "title": "Presidenta Fujimori dialogó con su homóloga de México sobre restablecimiento de relaciones diplomáticas",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWThHQ0g3WDhQd0VnY0ZlUHBYTUNzU28yeWJoUlEzaFZCM1k2SW1pQklfQXZES3NIcG5hVGo0RW0wNDFlbUNfTTBBY1p3NWQ1cXFFbTdsNlhFZ29yT2NlTjA0Y0lvMG5HMTFSaW96YTZxbjNXeEhZMXRnck9MNl92MC1RQnI1ZkhVUnZ6MkZISEZVUncyOERwOHBnUTltUF8xZnhqN05RX0pKWE9tNkVjNUZRTlBiZ0Jha1ZIUVlCQ0FFY3Buc2Fqc1hvX1h3NXVuTXVvN3Mwcw?oc=5",
+   "date": "2026-11-19T21:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -941,28 +963,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNalZlYzJCZ0g3Nl9jd01kRWJvNkxlME9LUW1UYlRyUTEzTEhkZzZnb2F4ZVJzcHB5MnJqRWZYYjdvT1JOSXNBRW83UjlWSDF5MHVMYXNpb3g1QW5JN2FvaWVEV210RDVJYVJ2S1pJNF9wSm8yYTFzZFd3S1ZyQ1V3bXllUWhxcmxmZ1M1VTJYYXdWSXFVbWt5bmZlZEFCUU1kRzh5T2plaWxYakpmY3ZvTFliaWw4Yl93d2p6RUlORUJUZzRBVzdabG9WdzdReGc0OHV6N3FNdFc0ejZDbHJ0ZFdfbzJQQ2RJX3RjZ0h3R05sNGpQQl9renhyb2MyWENQb3F4UNIBmAJBVV95cUxNRUljRkhUai0yc3dfbUN1YldTcWRrYkpTejFNMGdEUmpvcWlFUmR0dFlDbWVZQ01tampfblVSMDJhOGxkb3k3aEVvd0RxZHI3NVppUTBfdHZYV3htX3ZyYmR4c3EydnNFV2RYaTZlX2JaNU41M1BuLWdEaWZ5UkdoamJiOVFkM29OSXBpOUU5MjQ3LXJEV1V2MUVVYmpoUEVZOHVFWng0UWFkcnRRWHoxUXZnWEVLMWpROVdiVWllX0lwU0h5dUdYM3FldklDSVBGcEM4Mi04eG0xNFZoTkNjdlRvVkkyTkdpVkR3MzYwOVdDb3AybEVNVVFRQ0VIQ2xQNUdLVUFLLXAzMnhIMVpPTTZpR3lUUFVl?oc=5",
    "date": "2026-11-19T02:03:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4c79ddfba123",
-   "title": "Japón destaca próxima visita de Estado de la presidenta Keiko Fujimori",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2tGcGxzbmlyS3NOZWVEM1N4Si1vZTY3US13OXg5WkRtLVFoR1RUa1lfQjZoREVqQU04M1dZcmcwZS1VQnYwNjBxa25Ba1BZSHd3S1lLcEVpRU5Sc2VqT2ZFU0dVZWZTVWRvajZ2TDg1ckx5cmpfN2dBdV9BbWtydDdXT0QxOERsZzc4U3FjanBORElZbUpyYXZ5TGkzbURXOElyR2tiVmR2NXVhWlNsLQ?oc=5",
-   "date": "2026-11-19T01:43:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6da5f9bff02d",
-   "title": "Presidenta Keiko Fujimori defiende a su gabinete: \"Hemos priorizado la capacidad para resolver problemas\"",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObl8xQTJEWUJTMzFidC1GTi1wWW50UmFROURwUUltTjVvYmFHdkVzbjROcXJiVDZ3NmF2Ml93cDQyRDZuT1pWQUdBbHVSMWhpa1ZjN0NHcGpQR2FmZklBZC1EQTVJSXMzZ3I0NzhabENPZUlfZjh6V2lXeEpKUE84d3d4YkQ5OVJObkxIdm9vLTBOakF2QTVPTTdLOFlDbnc1VUhVMXF0LUstWWVNc1BsZmRkbkFtcHdWSU1CeFpOdkdqc0k?oc=5",
-   "date": "2026-11-19T01:22:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
