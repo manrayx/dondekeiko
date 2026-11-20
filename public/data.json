@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:05:03.402579+00:00",
+ "generated_at": "2026-11-20T04:09:37.608919+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "67e0e59e8dcc",
+   "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con la gobernadora de Tokio",
+   "excerpt": "La presidenta Keiko Fujimori inició su visita oficial a Japón con una reunión con la gobernadora de Tokio, Yuriko Koike, en la que expresó el interés del Perú en conocer…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-inicia-visita-oficial-a-japon-con-reunion-con-la-gobernadora-de-tokio-noticia/",
+   "date": "2026-11-20T04:06:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ef91b7891e16",
    "title": "Fujimori anuncia apoyo de China y Corea del Sur por US$ 47 millones: Los anuncios tras APEC 2026",
    "excerpt": "La presidenta de la República, Keiko Fujimori, calificó de “muy fructífera para el Perú” la agenda desarrollada en Shenzhen, China, durante su participación en la Semana de Líderes Económicos del…",
@@ -373,12 +384,12 @@
    "next": null
   },
   {
-   "id": "2c4b6c8b8e2f",
-   "title": "Keiko Fujimori se reunirá con el emperador...",
+   "id": "933482d25208",
+   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
    "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
-   "date": "2026-11-20T00:25:38+00:00",
+   "source": "geniostv.pe",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYnJjaGdEQWNyMkdRS3hSWkFUN1o0VktYWThVb2hsZFJPUW1hSFpDb2dBUVNXeVMtaWQtcjRkREg5WnlOMTVabjFXejZtNmdZNnNnOVZiWG9WRDA1ZG8zTnlTdnFLQVJmcUJjUDJUSjladTF2dEJXWi1JSUJ2R3FkVUp4WU10RUZnN2lRZXNWRTMyMWRSSjI2QW5FMXdQNkhvSWtSenR6ZkI4aU5UdGg5VTdlcjFRUm1SSjUzaHNkNWNUdHNnNmxiTHJWSEtpYTgtdWhNaXczdjh4Nk1qcEdyalFDZDdnUQ?oc=5",
+   "date": "2026-11-20T00:41:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -396,6 +407,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "2c4b6c8b8e2f",
+   "title": "Keiko Fujimori se reunirá con el emperador...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
+   "date": "2026-11-20T00:00:03+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -427,17 +449,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2ZRenZCeGRiSXRIbmhUWjJFeDZoQ01ISjBYR3c3c0tEd0dHdDJ2cDEtajJ6VXlIMzNLQVVnM2UyRVVvMnZ0M3hFQUMwbFA3ZjVzXzBENmxYTHRvSHlxTkdycTduZmdzUjl6NzBsYy1aS1BFNkZQUWpBNHpaRW54VEEwNkhrUzA3dVk5OWJqNWZULWh5VTdPTXlna0ZZbzhFeVRQTlgtZS1RbnpyZVRsRWY1cTZ0eHNwZTFn?oc=5",
    "date": "2026-11-19T23:12:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "933482d25208",
-   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
-   "date": "2026-11-19T23:10:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -846,6 +857,17 @@
    "next": null
   },
   {
+   "id": "dde57db33d0a",
+   "title": "Keiko Fujimori pide a países de APEC sumar esfuerzos contra El Niño",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYzZZMTdlQ3J1UFJGWmp1NXRHZHFXbmExR3pMTWNnX012SnN3eWF6VWljU3ZuR1VDOFFyME1sc2plWTZ5NTgwMXk2dHJRM1k4dUJyX3prT1MwZWNSVlZKQTllZEgxeEdhalhqYUVmM0hDS3NJOFd1QVZiazBpY01OX0VmWk4tMjlPdXZUMWh3bWs0bk0zdHJ1MFZ2cHBKYnBUODUxaGFIVTUzQUk?oc=5",
+   "date": "2026-11-19T05:34:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "cc2a28f921b9",
    "title": "Keiko Fujimori pide a países de APEC “que se pongan del lado de Perú” para enfrentar a El Niño",
    "excerpt": "Desde la cumbre APEC en Shenzhen, la presidenta Keiko Fujimori pidió a las economías miembro sumar esfuerzos para responder ante los efectos de magnitud extraordinaria del fenómeno El Niño.",
@@ -894,12 +916,12 @@
    "next": null
   },
   {
-   "id": "dde57db33d0a",
-   "title": "Keiko Fujimori pide a países de APEC sumar esfuerzos contra El Niño",
+   "id": "eab8eac07218",
+   "title": "Keiko Fujimori presentó a Perú como acceso a mercados de la región ante empresarios estadounidenses",
    "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkhhTWdDT1pMNU4td1YwenN0NjRYd1p4WWp0MDlZbE1wREpFY09VM3lPTldMWmwxU3RoRXBYU2lCQ3BEVzBCZDNBRHVKYTNsR0tVR2VTVFVkVkVxY21nM3dpRUhRY29acEVVVmRubzdPdlJPSGdETWJ5VFFockR5cHptTWo3cTRHMW01Ri1SbmNGM0RleXlCVzNBWG1qUl9VdDI3SUpIRzNXVkFYalJRMnNyWmN4V3c?oc=5",
-   "date": "2026-11-19T04:42:54+00:00",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ28ydWhUX0N4UTRSLVg3WnN5SEczV01EejhpcE1hWHlnbzNIcjJrejFTVXpUdEI5eDA4X3VCN1l1anVjZV83TnhqSGI4ejhva1IwRXFGSHBiVHd1dklxNlh1ajNyUnlaOTg0RDF0V2Nya2VzdlZfT3lnMWF3clRnMHZCcG5fck5TSEpkRzRxYmJ0UkNQRzE5NXA3VFZaVHQxcmhYZklTdk9WS3M5eGJRMTkxN0tfZjl5ZlItcmtXSGFLYmVFR0g5QkttMFoyU0NydmhFMGxR?oc=5",
+   "date": "2026-11-19T04:14:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -931,34 +953,12 @@
    "next": null
   },
   {
-   "id": "eab8eac07218",
-   "title": "Keiko Fujimori presentó a Perú como acceso a mercados de la región ante empresarios estadounidenses",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLWVXODRkWFJONXBCQkVTWE96ZjJ2dXltUE4xWnVXby0zOGZPaDJsZllXRHNCeFNrZFVoVEsxMXY5bmFBZWxZdmJQVFBJZE1qVkU1eUpBTlNjUlZZeU9DVTRlNGVMc0wwckk4SG8wX28yYmtSMnl4SlBoSmZRYTViQjhucFVTUTh4eUZ4T1pQd212RmpFcjRiaFJicFRDS2ZnTzZDNHVXTGNkRVdDeS1WQnVKNTVQNkNtaWtOa0RwUURhd0gzSTVyaDB3TXBCdEJ6bUVXS3FzUHNnVWZKZktoSnZB?oc=5",
-   "date": "2026-11-19T03:09:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "0932b47679c7",
    "title": "Presidenta Fujimori inicia su participación en la 33.ª Reunión de Líderes Económicos de APEC",
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWndMbVViVFFXVk5IdUhCdl9JYVBGOVFJRW5SYUZ4NFBhX2h2OU81S3ZDbk5XNkZlck9IWVE3aTVPeVBMNHI0V0R1T1puVFhLcFdGeEJ3UjAxaHVmbTdiSWhuV0JfUllrbGtNaHpqcEx0ZFlJMmdyaHNLYXdlMDN5MmVCa0hMQzNzTTFuRVVHVTRUdU5jWUJjUVJvai1rVVNzRXRPV2MyR0IzNzBkU2hRNElHSkZxb2s?oc=5",
    "date": "2026-11-19T03:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f50fcffa0197",
-   "title": "APEC 2026: Keiko Fujimori ofreció oportunidades de inversión en Perú a empresarios estadounidenses",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPczltVi0wM0lGNFA4bjJfd2VhcDBYZTZZS2dvUnVDYks5aGxsN3QyWU05amNNQldEUmQtV1VHOTNfUWhKZHdITTQzUS10cEgzd2lHSmRkdG9xZ3ZCdlhqdmlyT0VDMVNnXzFJNjVxcHJCXy1xcHptdEluUXpPVlhDZ3p6TzBzWkEySXFiZGp4anRnMjh3RU01b2czWll3NTRsYkNNcHlueXRDbUl3NDA4QXptUnZtbFVHcXl3dXpNaldQRWg0VXdrQVo4RmJmWkU3X0NvUUdn0gHqAUFVX3lxTFByY2FERVkzZEdFNXF5ZXJJY05vSUpsUEJCVHB5OUF4d1lUaUxGZFlyNndpVFN6cnEyWndrUjlOaWxSQTFDZTU0UklsV3JiMWFwQ3IxUXRYS3cyUVZ6MEI4Q1EtZmVCbWhBY25lWEhkZ0Z3Q2pqdW5tcGVZWHVFZnhPcDktY0hqdVVqREtKMnhkUVZ6LS0wQ3Y5NjFFME9CWWlnUllIZm1ZZ3Nad1lIVlQtUGY4NnZVTXdrTHlHVVpMdjVwY1AtaS00RHlBTE1TemFwS0c4RU8zXzB1cG1aMjRpanZQa2UtMjc2UQ?oc=5",
-   "date": "2026-11-19T02:36:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
