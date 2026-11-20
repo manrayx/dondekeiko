@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:36:26.214393+00:00",
+ "generated_at": "2026-11-20T10:58:11.528752+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "12adb28c8338",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQzV4TEd5NkUyRnpjOE5Xc21mOTFrRkNfamxNY290dWNzMUkwUlJrMDR0ZzhMWUNBc3lkdExfMlhZV0FIcHVLMWZoaWRWMHlITXl4UkozdkNWbTlNdFN2OHY3S2hCY05qSnI2YXRmb3hxYzh1OUdHczdfLXFBc2dKdURZMmU0bWhGQTdpOUo4cEk5S1FlR3RIalFWa2twTFFJbXI0c3hNVlYzbU9FWGFKYnM0VnpVVDZTcENPX2ZCNUZ6UHRRUG1CeVBKbmpwOC1EM29wbms0OTlEdw?oc=5",
+   "date": "2026-11-20T10:04:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
@@ -386,6 +397,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
    "date": "2026-11-20T02:31:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "429b5b62988f",
+   "title": "Keiko Fujimori califica de “muy fructífera...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakVhcEx2MUFzaGJ2V05XSHJzTnBFZUhOZjJrZC1JSHFoYmV0MmgwUjUxbXNSUnFTaHBYME1BOUxFbTBnWjlLVG44QkJHNlNZM1NTODJCQzBqTVhzZUtndU41T1N5NENvSmdYbnZuSWFwb0p4bnZOd1Y1a1czN3dNT0ZlSEt6Q0tHUVhTeHhsR18wOWRrdkR6eF9Ec2ZQaDdXODBVOXlfb3Y5a21xOVHSAbMBQVVfeXFMTXVnTGVQajFGd2ZuVUdic19yNGVPM0daZ2dMRmtoM2EtWUNwMzhKYWc0N2dVNUNfQUhJdEItSDF0cUZHUFV3TnZSbk9nOURES1BLU1JqME9wT3NGbHBOZFZKZUR5Q1lUcjhkb1pKLUZNWW9BclNqT2h3RjBaSm9nYUFZbC1tbHdpYmlZZXYzQ2hIUC1EcGV1Zk9rNVdHdlpvSEMxZ1FBbzYyeW9vYXEtZjFkdmM?oc=5",
+   "date": "2026-11-20T01:52:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -935,32 +957,6 @@
    "date": "2026-11-19T05:01:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "dde57db33d0a",
-   "title": "Keiko Fujimori pide a países de APEC sumar esfuerzos contra El Niño",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkhhTWdDT1pMNU4td1YwenN0NjRYd1p4WWp0MDlZbE1wREpFY09VM3lPTldMWmwxU3RoRXBYU2lCQ3BEVzBCZDNBRHVKYTNsR0tVR2VTVFVkVkVxY21nM3dpRUhRY29acEVVVmRubzdPdlJPSGdETWJ5VFFockR5cHptTWo3cTRHMW01Ri1SbmNGM0RleXlCVzNBWG1qUl9VdDI3SUpIRzNXVkFYalJRMnNyWmN4V3c?oc=5",
-   "date": "2026-11-19T04:42:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3501616b94f3",
-   "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
-   "date": "2026-11-19T03:31:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
