@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:58:11.528752+00:00",
+ "generated_at": "2026-11-20T11:19:18.172835+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -273,9 +273,20 @@
    "id": "12adb28c8338",
    "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
    "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQzV4TEd5NkUyRnpjOE5Xc21mOTFrRkNfamxNY290dWNzMUkwUlJrMDR0ZzhMWUNBc3lkdExfMlhZV0FIcHVLMWZoaWRWMHlITXl4UkozdkNWbTlNdFN2OHY3S2hCY05qSnI2YXRmb3hxYzh1OUdHczdfLXFBc2dKdURZMmU0bWhGQTdpOUo4cEk5S1FlR3RIalFWa2twTFFJbXI0c3hNVlYzbU9FWGFKYnM0VnpVVDZTcENPX2ZCNUZ6UHRRUG1CeVBKbmpwOC1EM29wbms0OTlEdw?oc=5",
-   "date": "2026-11-20T10:04:47+00:00",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
+   "date": "2026-11-20T11:14:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "14f72b196186",
+   "title": "Keiko Fujimori pide que Perú sea la \"puerta de entrada a Sudamérica\" en su visita a Japón",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUFwMUZ3Z2FyekpiYjZPZXFyUW44M3VMWl9FbTduYW9rY1d6MGg2YXdNcnNiUDhPM1I3WmJ0UVY2eUxXTXYwT2JXOHNhUVg2STFwbk02MWt2YlpVWmZ6X2V2N3hRSUx2ampxZ2J4TS1MY1FhYUdLN1ZhNVZPWldwOVR2U2NIZnJqbVJXRG9ZLWZIZ2lGZkJuVnEtcFhsNnQwNmQ1MUhGUmpnRXppd01vRTU0TERLeHItOFVlMlNmRGpjLUk4dTVMdzl3?oc=5",
+   "date": "2026-11-20T11:00:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -946,17 +957,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "944779643aa7",
-   "title": "Keiko Fujimori: La nueva donación de US$22 millones de China y encuentros en APEC",
-   "excerpt": "La mandataria participó de la Cumbre Líderes APEC 2026. Posteriormente, viajará a Japón.",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWDRnclVpaWVNVS16VThJeTNsTHQxVUF3YVQwNW9rZ3hRc2g0eFlzODEtTHJpekd2dlBZeTVTVUVCcEhvR1ZTNmVXTzBwcFo1d2lydHR2ZEhqdGdJMHlZZk1fdkpBVXZFdkdGLUZXVFJSUURudGlRREZNWWdmLVlrSTF1NFZLNWxtV1VPcWNiSWVldXV4aXBJaG9zZDVzbDkzMkJOcGFTU3Vma2VQZG1ETlJMTXllaWZZVzhWVjJvZHlidEQ3VW1ZcHdBTUZ5NTlTT0Y1dmc2MWdITXRHd2gyOdIB9AFBVV95cUxOZllrN0xITU1lZzZEU1g1OWVLU3NIOWNHSW9ncXhnby1nZTVuU0tMUklTWmpCZVd3UEdJYnBNTWF1SUo1VVIxNWdVemFRbzFFT2I5Y0VwU01DR0pzTE9oNGR5TmFfRDlDYUtOX01zN2xlblczdjJiRWU4SlJXRWNZN1JLMlRwV3lEZ21laElDVm4yYVRKdXNaVVUzRk1xX0lJM2FGSzJyWGtLZDFxbWJ5eWd0TXdrMUFWU2s4RVRxWUl5MG5Wc3RxSHl0bU5iTXBKZlNUMU1RaHJMQ0o0RGd4VEZ1NllPcmU2NTB2N1ZHUV9jNm10?oc=5",
-   "date": "2026-11-19T05:01:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
