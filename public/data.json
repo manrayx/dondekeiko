@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:25:14.822825+00:00",
+ "generated_at": "2026-11-20T22:47:01.089988+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -128,6 +128,155 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-20T13:02:00-05:00",
+   "end": "2026-11-20T13:23:00-05:00",
+   "minutes": 21,
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
+   "lugar": "Desde la PCM",
+   "state": "entrevista",
+   "place": {
+    "name": "Desde la PCM",
+    "full": "Desde la PCM",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
+   "start": "2026-11-20T11:18:00-05:00",
+   "end": "2026-11-20T12:43:00-05:00",
+   "minutes": 85,
+   "subject": "Reunión de comunicadores de instituciones pública.",
+   "lugar": "Colegio de Ingenieros de Lima, Miraflores",
+   "state": "posando",
+   "place": {
+    "name": "Colegio de Ingenieros de Lima",
+    "full": "Colegio de Ingenieros de Lima, Miraflores",
+    "city": "Lima",
+    "lat": -12.1151,
+    "lng": -77.02934,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-20T10:40:00-05:00",
+   "end": "2026-11-20T10:48:00-05:00",
+   "minutes": 8,
+   "subject": "Entrevista con reportero de Tv Perú.",
+   "lugar": "San Borja",
+   "state": "entrevista",
+   "place": {
+    "name": "San Borja",
+    "full": "San Borja",
+    "city": null,
+    "lat": -12.09645,
+    "lng": -76.99569,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-20T10:05:00-05:00",
+   "end": "2026-11-20T10:38:00-05:00",
+   "minutes": 33,
+   "subject": "Asiste a evento por el 34.º aniversario del Indecopi, “Indecopi 34 años: evolución, desafíos y futuro”.",
+   "lugar": "Auditorio del Indecopi, San Borja",
+   "state": "posando",
+   "place": {
+    "name": "Auditorio del Indecopi",
+    "full": "Auditorio del Indecopi, San Borja",
+    "city": null,
+    "lat": -12.08546,
+    "lng": -77.00787,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-20T08:00:00-05:00",
+   "end": "2026-11-20T08:15:00-05:00",
+   "minutes": 15,
+   "subject": "Entrevista telefónica con Nicolás Lúcar, conductor del programa: Hablemos Claro de Exitosa.",
+   "lugar": "Desde la PCM",
+   "state": "entrevista",
+   "place": {
+    "name": "Desde la PCM",
+    "full": "Desde la PCM",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
+   "start": "2026-11-20T07:35:00-05:00",
+   "end": "2026-11-20T07:50:00-05:00",
+   "minutes": 15,
+   "subject": "Entrevista telefónica con Melissa Peschiera, conductora del programa: Mañanas al día de canal N.",
+   "lugar": "Desde la PCM",
+   "state": "entrevista",
+   "place": {
+    "name": "Desde la PCM",
+    "full": "Desde la PCM",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
+   "start": "2026-11-20T07:15:00-05:00",
+   "end": "2026-11-20T07:30:00-05:00",
+   "minutes": 15,
+   "subject": "Entrevista telefónica con Carlos Villarreal y Johana Castro, conductores del programa la Rotativa del Aire de RPP.",
+   "lugar": "Desde la PCM",
+   "state": "entrevista",
+   "place": {
+    "name": "Desde la PCM",
+    "full": "Desde la PCM",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
+   "start": "2026-11-19T16:55:00-05:00",
+   "end": "2026-11-19T17:58:00-05:00",
+   "minutes": 63,
+   "subject": "Lidera conferencia de prensa con ministros.",
+   "lugar": "Sala del Acuerdo Nacional – PCM",
+   "state": "posando",
+   "place": {
+    "name": "Sala del Acuerdo Nacional – PCM",
+    "full": "Sala del Acuerdo Nacional – PCM",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
+  {
+   "start": "2026-11-19T13:25:00-05:00",
+   "end": "2026-11-19T16:26:00-05:00",
+   "minutes": 181,
+   "subject": "Consejo de Ministros.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-17T17:10:00-05:00",
    "end": "2026-11-17T17:30:00-05:00",
@@ -275,7 +424,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 591,
+ "agenda_minutes_7d": 1027,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -1122,6 +1271,20 @@
   "sala quinonez de la pcm, cercado de lima, peru": null,
   "sala perez de cuellar de la pcm, cercado de lima, peru": null,
   "estudio de tv peru, santa beatriz, cercado de lima, peru": null,
-  "estudio de tv peru, cercado de lima, peru": null
+  "estudio de tv peru, cercado de lima, peru": null,
+  "desde la pcm, peru": null,
+  "colegio de ingenieros de lima, miraflores, peru": [
+   -12.1151,
+   -77.02934
+  ],
+  "san borja, peru": [
+   -12.09645,
+   -76.99569
+  ],
+  "auditorio del indecopi, san borja, peru": [
+   -12.08546,
+   -77.00787
+  ],
+  "sala del acuerdo nacional – pcm, peru": null
  }
 }
