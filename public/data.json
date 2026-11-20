@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:28:32.788119+00:00",
+ "generated_at": "2026-11-20T13:49:55.061118+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9b06d6269be8",
+   "title": "Keiko Fujimori se reúne con primera ministra de Japón para fortalecer relaciones bilaterales VIDEO",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0lhN3lsQlc3VDFDR3ItaGs1ekR0YWU1SVYxWmFpUDRIeVZWaU1COGIxYmhOTzF4U2VUVi1YX3RjRDFkUFVweGswR3NHd1NPbk8xMXREREFkbzJQb2VrOGpQOWNXYVBPLWFFOGZselBMSXhfcGR5WUZqaktNZHB5SUtYX1BDZ3JQb2JkaTRHbm9rb2Z6VkRVcnNSU1dOZ3JHMUt2YmxLYUd0bzZGR1k5aXRpVnNaMGRzbkhyZzFkdEdOLTdt?oc=5",
+   "date": "2026-11-20T13:26:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "75d7446af960",
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y primera ministra de Japón",
    "excerpt": "La presidenta de la república, Keiko Fujimori, fue recibida este viernes en audiencia por su majestad el emperador Naruhito, en el Palacio Imperial de Tokio, en un encuentro de especial…",
@@ -334,7 +345,7 @@
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHJGWEY5OEhEa2thVHpZNTlUSXREVVpLU0ltaFFkUG1lVVFLZDNzazNnUEh2WE5PeTlPb0otWHFmUzZadVFvcXVJaXNZbm9RZGFDNjNXRWYxLXNVWmpNNjBEeWREMWUxUjhac2Rvb0JUaWhJeURCdVNtM1A2aXo5bGVLRQ?oc=5",
-   "date": "2026-11-20T12:17:17+00:00",
+   "date": "2026-11-20T12:18:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -507,6 +518,17 @@
   {
    "id": "a346a9129d70",
    "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones, luego del aporte de US$ 45 millones de China",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
+   "date": "2026-11-20T01:42:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c565dfe662d8",
+   "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones al Perú",
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
@@ -925,28 +947,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUk0eXNnWEYtMnp4ZVJjejlTMVpuSUZOcEk0NzdOTXlXRExvNG9zNHhOM0ZEaXdnWG5hRWJrcnVTaURiV2s0X0pLY2Ryc0VxLTBtMHdmS0UxTXRJc2FNMzV6TnBBaV9Va3I5TGRGaC1Mc0diZ04tRVl2bHBacEJfV3RMQzEyV0R5QmRlZlJlRWlRZ1RoTTBjZ3hzLTlQV3pCcTBvUkZWWElLUzVOanE0dXpXSV9qVzlkZzNrR25vSkh0MVdLTWhaa2kzdlo2QzV5RlNvc2lGVTJCZFY1d1kzV2hR0gH2AUFVX3lxTE9lVlo2TFk2VWJ4VXRLSUhZdFVTX2RVeXZlbm16LUNOcUxOaG1GLW1NdmhjTkNIcWJhUDNSR2xneEJtVkNUczY2UTU3eDBGT3ZFWXdsQWVMb3hrT1ZMS01hN2JhV1ZLMmhiTDdhZ3V6NFg2TXNvUEhJNEFtUi1scXd2RzBjMkRmZEhlaHdrQWh2WWRaaUg2MUxqVXh2QmF4Z2E4b1pvOFdFSEN3OTUwYlMwQzQ3c2c2SUI2VnBlR1JYejhCVEpvUkRZam9pZkduVVRHMW1CSDFUMl9LSlkyM3EtWkRGamp4NGVELWtFd1JSLXMyVS01UQ?oc=5",
    "date": "2026-11-19T13:35:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ef40e9e73e39",
-   "title": "Barranquilla será sede de la cumbre presidencial entre De la Espriella y Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Expreso",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakI3NDNJYkk5ZHBONWdmeGpfZDhHenl2OFZjNDI0ZWxfUXlmRktNeTl5X0E4OXJoQ19fWHVETXJwQXpXTXdLRVdHMXBqYXZrZGIzck5uSUFFUXo2akdnal9wMGo3Yk5yTnhTX0JybTh5bmtUU3llbjJra0FyY0UtcUZJTWM5SGdzTXFYSE9la29LLUp6UGwyd1dNTjFKTktUUWd1aWFnNHRBekt6S2E5akNmOA?oc=5",
-   "date": "2026-11-19T13:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "20499eb01686",
-   "title": "Keiko Fujimori se reunió con la directora gerente del FMI: hablaron sobre economía peruana, El Niño e inversión privada",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNkQ3eG01N3NxX1FCTEQ2T25QeGM1SGlJTW11SGFrUEVSa3lKaC1LbUVvc3lqNWR0dkJUSjJGVGcxT19ORk84NU1ZalJHakZfRFNDd3BIcXFxZnh1c3JVZlFGT1lBc0RxUlFTSDZrVVlXanJDTUV0aGdiZFdCNVdXUjFjckhfQmRfa3ZaS3FRQkdybGdqaHVtN1YyU25oeTM3aXF5WjllQVRjM2RYdWZKcG00N0VhN1VaNnlQQkxmUUl5eEUxU2hZVjJrYjRISHlsWm4tYkZuZlpvUzdUeWp1dTZ6WW4wZnFobXlYV1N4MEZpYnJiak91UTlqNA?oc=5",
-   "date": "2026-11-19T13:18:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
