@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:31:21.034205+00:00",
+ "generated_at": "2026-11-20T04:52:30.258330+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,23 +270,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ef91b7891e16",
+   "title": "Fujimori anuncia apoyo de China y Corea del Sur por US$ 47 millones: Los anuncios tras APEC 2026",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, calificó de “muy fructífera para el Perú” la agenda desarrollada en Shenzhen, China, durante su participación en la Semana de Líderes Económicos del…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/fujimori-anuncia-apoyo-de-china-y-corea-del-sur-por-us-47-millones-los-anuncios-tras-apec-2026-noticia/",
+   "date": "2026-11-20T04:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "67e0e59e8dcc",
    "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con la gobernadora de Tokio",
    "excerpt": "La presidenta Keiko Fujimori inició su visita oficial a Japón con una reunión con la gobernadora de Tokio, Yuriko Koike, en la que expresó el interés del Perú en conocer…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-inicia-visita-oficial-a-japon-con-reunion-con-la-gobernadora-de-tokio-noticia/",
    "date": "2026-11-20T04:06:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ef91b7891e16",
-   "title": "Fujimori anuncia apoyo de China y Corea del Sur por US$ 47 millones: Los anuncios tras APEC 2026",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, calificó de “muy fructífera para el Perú” la agenda desarrollada en Shenzhen, China, durante su participación en la Semana de Líderes Económicos del…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/fujimori-anuncia-apoyo-de-china-y-corea-del-sur-por-us-47-millones-los-anuncios-tras-apec-2026-noticia/",
-   "date": "2026-11-20T02:46:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
