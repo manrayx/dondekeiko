@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:03:39.778498+00:00",
+ "generated_at": "2026-11-20T22:25:14.822825+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -278,6 +278,17 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "34990c41d223",
+   "title": "Juan Velit: Presidenta Keiko Fujimori tuvo destacada performance en cumbre APEC",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblZ4cUo4X204ZkVDQ0w3UU5RNFhyZ3FkV0VMSkMzbW1KS1ZiaWtJbFBrZHhsYkM2b0xILWJ5SzdTVVN4ekFCZ0lDRGloSzJFTWsxWEhBSTdIdlNLcDZpODlWOHNvTmx2WW1MSndURnhYNVpjSnFMbl8zelVBSXZxNDZvLTZ3N3ByWVZkU1pncGEzeTdhUXYwTmZwY09JQlN6dV9HN3FZZ1YwcDhDcHZvRVNHazgtUG1mQnhieVJFVQ?oc=5",
+   "date": "2026-11-20T20:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "5cf06c91b1ea",
    "title": "Presidenta Fujimori agradece apoyo de Japón para enfrentar fenómeno El Niño",
@@ -963,17 +974,6 @@
     "name": "China",
     "abroad": true
    }
-  },
-  {
-   "id": "6457d080030c",
-   "title": "Keiko Fujimori se reúne con Claudia Sheinbaum y acuerdan fortalecer relaciones entre Perú y México",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbEZEY0pscERZV2prQ0hvS0ptV1MxX2tsZ3FlWm13SnRxSmV1THlEZkVqa0FJV2pHS2pCcnFjRk5qOUNXakdlUlViaFY0NE9BcGdhaFVmZ0hraS0zRmwzQXh6bEx4WExsQ1FkWmZZZ056R0Fqb0RiWnZtakkwWFFTR084c2EzZm5xNW01cnFDM1JsY2owdnJ1R1dTUGxIcHVFLWtVcUt4eFhDWWRqaFZxR2xQQ0VtS3gySEEyMlhxYTk1Z1pPdl9hMUw2cXhBeW1jd1I0dE1Za9IB6wFBVV95cUxOV05hUUlmX0kwV3kxenZWNDBFd1FJS0U0RHVtZi16eUhHRk1hM1JUZko3Z2J0U1dzX0xzdHFzOFNBRVFKRll1UVlqMk83MG8teHhLNEMySmNxT1hDc3BYOEh1QUxrQldjR1ViUmFCeHgxV2VHV0xkWHBfS0pnejVabUtpX0pTNXhHajdYVUY5NHFzNXpybzY4cFd0Q3NEODFPWElCVi05b3BTZG9RX2dlRmM3MUhHbGhGd1RKN3E2QklDSWE0Ymk2SFQ0YTZheXNxTUM1bTVQTUxoVnU4dDB3OGNSU2xrUWlma1dV?oc=5",
-   "date": "2026-11-19T22:34:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
