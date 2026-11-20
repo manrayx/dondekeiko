@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:00:09.688512+00:00",
+ "generated_at": "2026-11-20T02:21:41.993670+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ca471062ba9c",
+   "title": "Presidenta Fujimori inicia visita oficial a Japón: sostiene encuentro con la gobernadora de Tokio",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmRUWEVTcktsT2NDSDBxWERDRjhFdmpWTjU5d3RnMXh5aERERHI4MUo4ODdaYWFKV1dBcGpiWHIwOGZoZXhMZThOWEFYRFNnWThrT1Y1NGlOZXJhdFk0TW85M2Y0dEhrTG9zMFRLaGJMR0JKLVJPd0VXTTRIRGJ2al9tb18xSlN6VHVhSUQ1ajlKdzgtT3BaeWJKdER3WXBKYVEtR1VjTEd3eTBSelJpTGhFMDNrazNtV000VU5iUGREdlFaa2NOZl9QTHc?oc=5",
+   "date": "2026-11-20T01:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "28033d183f17",
    "title": "Keiko Fujimori se reúne con el emperador y la primera ministra de Japón este viernes en Tokio",
    "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
@@ -285,6 +296,28 @@
    "next": null
   },
   {
+   "id": "a346a9129d70",
+   "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones, luego del aporte de US$ 45 millones de China",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
+   "date": "2026-11-20T01:31:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "76d7be32fbd9",
+   "title": "Presidenta Fujimori aborda impulso de exportaciones con jefe ejecutivo de Hong Kong",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnMySEhkbVBNN3VNcDU1V3MyN1JRY1NPZG9BMjFrNE8yTXdqS0tqTzZoVXdJa1hMcS1lM19FZVJKWXNldHNBZlIzWHN2TXRkMGlZT2Y5SXJoS2VfN2FQeG84dm5Ta2pSWjh3VEI4Qk05dzFKU1JvekQ2UXlTdkNLWGxMdXl5RUZTT29wcFo1bGZiRF9sNElvR0NoUk1VQTNjWHFIYVlVX0ZsZnhqWWxiY1ZSaFdLTTJ1dXc5dXRhWkg4dw?oc=5",
+   "date": "2026-11-20T01:31:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a1ba6a848b63",
    "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
    "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
@@ -296,34 +329,12 @@
    "next": null
   },
   {
-   "id": "ca471062ba9c",
-   "title": "Presidenta Fujimori inicia visita oficial a Japón: sostiene encuentro con la gobernadora de Tokio",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0hGRXdheDZnWjhuaXFRUnNTUjg3U3BvWk5xYVdJUTI5YTFOQUQ2eENnTHFkQ1FHa2hJeHJuY1hCM2RGT0NKMmdPYVo3TmJvQWIxRzlHdmFVZzdDejZuTFViR1ZZTzBCempfRHIyTklnbU1pREY4Qll1SURtM3FidmFPNUVpUjU4UENUUXN2UFdUREt1UThBNUsyT3p0cktSamQySnlzV0Q1SkxpYUpzV1FaRTdiSjRE?oc=5",
-   "date": "2026-11-20T01:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "6dbb420e041d",
    "title": "Presidenta Fujimori califica de “muy fructífera” la participación del Perú en APEC 2026",
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RZV0wySkZwR3Y4cWhITzRqbXpzRzIyTjRFMzdnM1V3ZjcyWUN6RmZwaHdReFVZMTVseHN6S0x0bjBIOXpfTy1lV2g1dTZ0RThSamppQVJxS0NiSGZoVTJ2M3MtTTNIRXFpcmphVGhkOTUzYndBanNYMEFkVmxpU2t2MW1jajdhWmpNc0VkYmcwQVl0ZXBNN3FZeHUxd3lOQmppbFpQZkVQR2ZjNUFOT0V0MzR5QUFiSXpDR09vazd2dw?oc=5",
    "date": "2026-11-20T00:52:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "933482d25208",
-   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
-   "date": "2026-11-20T00:32:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -383,6 +394,17 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2ZRenZCeGRiSXRIbmhUWjJFeDZoQ01ISjBYR3c3c0tEd0dHdDJ2cDEtajJ6VXlIMzNLQVVnM2UyRVVvMnZ0M3hFQUMwbFA3ZjVzXzBENmxYTHRvSHlxTkdycTduZmdzUjl6NzBsYy1aS1BFNkZQUWpBNHpaRW54VEEwNkhrUzA3dVk5OWJqNWZULWh5VTdPTXlna0ZZbzhFeVRQTlgtZS1RbnpyZVRsRWY1cTZ0eHNwZTFn?oc=5",
    "date": "2026-11-19T23:12:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "933482d25208",
+   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
+   "date": "2026-11-19T23:10:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -857,7 +879,7 @@
    "id": "01e22808c7ca",
    "title": "APEC 2026: Keiko Fujimori plantea convertir al Perú en puerta de entrada a Sudamérica",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnVrZU9xRTVkTEVkTjVack1sWDh2a2lqWGRMQTNvNFhZWWh3ZFQwQS1RUGZHenpwWm55QXBuUTJEQnkySnRVN2JrNWpLdWRyeFByR1pCZVdua0tLQm9DNjQzX3FnNGdMbWpHTjZzR0VxeXlveTNjWndnWkloY3djampJMjVOa1ZXSkdMOV9LdUg5RUk?oc=5",
    "date": "2026-11-19T03:27:43+00:00",
    "state": "posando",
@@ -941,32 +963,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObl8xQTJEWUJTMzFidC1GTi1wWW50UmFROURwUUltTjVvYmFHdkVzbjROcXJiVDZ3NmF2Ml93cDQyRDZuT1pWQUdBbHVSMWhpa1ZjN0NHcGpQR2FmZklBZC1EQTVJSXMzZ3I0NzhabENPZUlfZjh6V2lXeEpKUE84d3d4YkQ5OVJObkxIdm9vLTBOakF2QTVPTTdLOFlDbnc1VUhVMXF0LUstWWVNc1BsZmRkbkFtcHdWSU1CeFpOdkdqc0k?oc=5",
    "date": "2026-11-19T01:22:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f3322cbc141",
-   "title": "Keiko Fujimori sostuvo reunión con empresarios estadounidenses en China: destacó la política de apertura económica del Perú",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPemRMSmhIb29WaUd3dzVEVGZHc29FRHVHa2YydU5JU2hrNFpvYkNfTjUtTXl4TTdUWlVUVVZkbFE3ZmlweGNvTWloRWtpWHpNWEVZbGxFX2RSUTRYZTNSSUtJRVFLMWlONFRyYmFScDVkMkd0c1RvOXNFem8zd3RFQngyUWdKOEtjaFlaVnlKMXJNU3dhUk5tQnllczlSVHFZWFRCb3NaUERTbm9wMnVyQ2VLTWZjSXBvVlV4aWRkaXNpOU5NaVpVbXlPT2IwTkdpSzNCMHNTTS1hQ01sUFdnNFM0bjh5R0NE?oc=5",
-   "date": "2026-11-19T01:17:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "90b4350714ac",
-   "title": "La presidenta Keiko Fujimori, sostuvo una reunión bilateral con el primer ministro de la República de Singapur, Lawrence Wong",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPS1pkS1pLcjZEUzE4SGRaQllkRFg4ckpucjlZaFNGN3M0UTdfcmJMb2NtRkZFV1ZEdTNhZy1GWF85NVVYMWV4cmxaTWd3M21NWllQR2RRa1hwdWtfUUtLS2gxS0hNTHZTSkFFdkZHU2VDazVkZ0RoeFZQNHBSVktWNWhzdDM5WjlhOTlYXzFaWDZZMVB1Uk1sYU1hZUkwaVBUZzRSZlVVdUlRWkVEbTRPMnBVRlVCVWdXbml6X0NCNWxLUENDVE5EVGFyNGhVelc3dTVNMHhSblRRRDZBSkVMdFZVQmxtaGpnZHZJWnM4eFU?oc=5",
-   "date": "2026-11-19T01:16:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
