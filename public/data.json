@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:49:55.061118+00:00",
+ "generated_at": "2026-11-20T14:11:14.108057+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "5cf06c91b1ea",
+   "title": "Presidenta Fujimori agradece apoyo de Japón para enfrentar fenómeno El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnNXQWVfSmxJdkhXM2V5cFE5UkthZFJhcjN6QzFwYk9kNVpJUXU0T3hKT3dRajhiV1lCU3RPYUFxNWJvaUw2dlh0LV9GaU1aTGMxOXNDam03SWQxX1NYMWpTWnRqYzgwNER2cTJRMXBKUTRLWERMWnNhbVFnaUxjVGdUcmlKZEdKR244bjV4NUZLNS10RDk0WHZCeGdOQnVkMThMZUk1aVExbHNia2dlSTk1eVlHU3c?oc=5",
+   "date": "2026-11-20T14:03:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "61dafe183895",
+   "title": "Gobierno designa a Teodoro Crisólogo Grández como jefe del Gabinete de Asesores de Keiko Fujimori",
+   "excerpt": "El Poder Ejecutivo oficializó la designación de Teodoro Alonso Crisólogo Grández en el cargo de Jefe de Gabinete de Asesores del Despacho Presidencial de Keiko Fujimori. El nombramiento fue formalizado…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/actualidad/gobierno-designa-a-teodoro-crisologo-grandez-como-nuevo-jefe-del-gabinete-de-asesores-de-keiko-fujimori-ultimas-noticia/",
+   "date": "2026-11-20T13:58:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9b06d6269be8",
    "title": "Keiko Fujimori se reúne con primera ministra de Japón para fortalecer relaciones bilaterales VIDEO",
    "excerpt": "",
@@ -486,7 +508,7 @@
    "id": "05fc1d100f9b",
    "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con gobernadora de Tokio: ¿qué temas abordaron?",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkFweVZ1azlmRUJoSHltVFlHUnc4SGkwTDlOMHA1X3psUlNXNWVqUlBhdkRoZWtCSm1sd1lVQV9XeHBrbURzRlNaNU52eGJxQTd1bmNYb2YweUFQVHc4U0dveUNwUGZWVDlJM0dQZHlOTFp5NTVQanFFSDlfUjE5NFhMdHZSZm1KeFM3U0tIbkQwWFJ6aGN3b25ROTdSQnZmWkNHVkZFXzRHV2I5cl9QWUUwd1c0R0d4VmRvQ1NtOGR2Q092?oc=5",
    "date": "2026-11-20T02:34:21+00:00",
    "state": "posando",
@@ -925,28 +947,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0M4Y1V6dTVJSXJaZE4zRlMyR0dva2g3alZmdHJMSk9wTVVveGdkeWpXVTNjQ1Y3WWVmUlpnNFlEUHc3WjFaN0FuRWY4MlhzV3VmUHpwV1lQZzlNY1BrMnFSZHphN2hOY3lfRll2Z0hwaFhmeWxxZWpKWk9WSlhwZzc5WkpUYUkySzBrY25iZGxlS25RckJwVjNUZmtSYUVMaVUyZXowVURFcHZ3X204SkU3bWtUMDZXeEw0ZjdyZw?oc=5",
    "date": "2026-11-19T13:45:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "811571d45a0c",
-   "title": "Keiko Fujimori pide apoyo a economías de APEC para enfrentar el fenómeno El Niño",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFNUUmc0LXJLVHR3NFhlUmNOeHBQVXBVWUhpUDlfV21jWjNXQU1JbGlPNEYwUTBhTWZFeUZVWkJNcXpIUjF4NEU4cXZMTGpic0VIVFh1WUlQaElwajQtOXNrT0V4SEgtVjVZeXkwdmJzdzQtTk9pZm5vTWJWUm5MQTVrYXl1aU5sR0VIVndaeldyM1MtcGFIT01CU0VkdEp0TEd5T2VRQ2FlRWJ3SXlRbFA1azJjR3NnVGFhdDNfc9IB0wFBVV95cUxNRjAzbWMwNzZXaHdrbWRIOUp0LThkTHM4OUJGWEhNQWR3WHpCcFA4Q0lwNEIwZXZmSEIwclBOQWctSGZLYnhwTnFiRnV2djY3RzIxSFRzb0Z3OVgzWWhpYW13aWFwUW5ac1VzQVR2NkRmbUtoRExHWVdFclFIM016OW1fZEJvRFhBd1ZhWGJydVlLMkIyeWhyd1Y4djRoTHR1YVBqakhLNGZJS0dDMGJLaDRkM005NUJjdUg5Q2tUVFdJejdvYXNEYy1nWkRxYXFxU01F?oc=5",
-   "date": "2026-11-19T13:41:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "026cccb38eaf",
-   "title": "APEC 2026: Keiko Fujimori se reunió con la directora gerente del Fondo Monetario Internacional",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTUk0eXNnWEYtMnp4ZVJjejlTMVpuSUZOcEk0NzdOTXlXRExvNG9zNHhOM0ZEaXdnWG5hRWJrcnVTaURiV2s0X0pLY2Ryc0VxLTBtMHdmS0UxTXRJc2FNMzV6TnBBaV9Va3I5TGRGaC1Mc0diZ04tRVl2bHBacEJfV3RMQzEyV0R5QmRlZlJlRWlRZ1RoTTBjZ3hzLTlQV3pCcTBvUkZWWElLUzVOanE0dXpXSV9qVzlkZzNrR25vSkh0MVdLTWhaa2kzdlo2QzV5RlNvc2lGVTJCZFY1d1kzV2hR0gH2AUFVX3lxTE9lVlo2TFk2VWJ4VXRLSUhZdFVTX2RVeXZlbm16LUNOcUxOaG1GLW1NdmhjTkNIcWJhUDNSR2xneEJtVkNUczY2UTU3eDBGT3ZFWXdsQWVMb3hrT1ZMS01hN2JhV1ZLMmhiTDdhZ3V6NFg2TXNvUEhJNEFtUi1scXd2RzBjMkRmZEhlaHdrQWh2WWRaaUg2MUxqVXh2QmF4Z2E4b1pvOFdFSEN3OTUwYlMwQzQ3c2c2SUI2VnBlR1JYejhCVEpvUkRZam9pZkduVVRHMW1CSDFUMl9LSlkyM3EtWkRGamp4NGVELWtFd1JSLXMyVS01UQ?oc=5",
-   "date": "2026-11-19T13:35:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
