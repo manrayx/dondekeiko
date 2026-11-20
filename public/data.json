@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:19:18.172835+00:00",
+ "generated_at": "2026-11-20T11:40:30.431952+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Tokio",
+   "name": "China",
    "abroad": true,
-   "city": "Tokio"
+   "city": "China"
   },
-  "source": "El Comercio",
-  "date": "2026-11-20T01:38:45+00:00"
+  "source": "El Peruano",
+  "date": "2026-11-20T00:06:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -269,6 +269,17 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b273d6b3d99a",
+   "title": "Keiko Fujimori inicia visita oficial a Japón y es recibida en audiencia por el emperador Naruhito",
+   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
+   "date": "2026-11-20T11:34:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "12adb28c8338",
    "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
@@ -446,21 +457,6 @@
    "next": null
   },
   {
-   "id": "28033d183f17",
-   "title": "Keiko Fujimori se reúne con el emperador y la primera ministra de Japón este viernes en Tokio",
-   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
-   "date": "2026-11-20T01:38:45+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tokio",
-    "abroad": true,
-    "city": "Tokio"
-   },
-   "next": null
-  },
-  {
    "id": "a1ba6a848b63",
    "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
    "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
@@ -517,6 +513,21 @@
    "date": "2026-11-19T23:54:54+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "28033d183f17",
+   "title": "Keiko Fujimori se reúne con el emperador y la primera ministra de Japón este viernes en Tokio",
+   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMVM3SUZJYnRoVExzQXBKQXhGc2doU25WOVk2OEE1MVNjSWJPa3N3OVJERHdBWVhhWk9xTVdKX3pHdFIxajNiNnJhYUtpRi1mY0JZcnVQOXNaWXB5LTFhWFN1Q0RXSEhpWkVHQXNmdEp3c2xQX2NWb2x5c3ZPSEUxbUNVdUltMlpzNzFGYy1NeVB3XzR1UWdCNmQ3ZXF0UTBUc3ZLcUdKeDg1WlF1c2djOFROUXZZbW5EcjF1eHNVSHBSdUhwZXJYcFhCVFcyNDF2ejkzdlYyRWN2ZC1SdUF2Nk9tTE9vbUXSAfsBQVVfeXFMTlhlV2pteUJDSkNUQ1pPMnNiZmMzMVhmVzZpM0Q3WjlSXzZReU81NjNVRnlxNWZraUFsVl83Y0U0ZVAyQ2g4Q01VSVJ3XzFWRWhSaGxibWNPMWdRNllnaDZNQU1yaTlibk1Gb29HdElXVUEwUzNmRURFOWROSGhZVENSZmJoRWpOOGhzaWFuWUxxQk5wTWFBUTRYRkhrZUtnMFdkdHI3S1FKWHFwZUcyY1dNWWxlc19scUdBdXBIUEs2MVlVWEg5WDhiWGtFSUdTazhiOGRTNlhOdEdHZE5MV3p3Qk5XWEJTMlBlU3BsaU9NRk9PcTFsVUkteGc?oc=5",
+   "date": "2026-11-19T23:50:07+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tokio",
+    "abroad": true,
+    "city": "Tokio"
+   },
    "next": null
   },
   {
@@ -942,21 +953,6 @@
    "date": "2026-11-19T05:32:47+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "ddc2ebcb29a3",
-   "title": "Canciller Carlos Espá asegura que la presidenta Keiko Fujimori se reunió con su homóloga de México, Claudia Sheinbaum",
-   "excerpt": "El canciller Carlos Espá aseguró que la presidenta Keiko Fujimori sostuvo dos encuentros con su homóloga de México, Claudia Sheinbaum, durante un banquete realizado el martes en China, donde ambas…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/canciller-carlos-espa-asegura-que-la-presidenta-keiko-fujimori-se-reunio-con-su-homologa-de-mexico-claudia-sheinbaum-ultimas-apuesplan-noticia/",
-   "date": "2026-11-19T05:09:30+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
