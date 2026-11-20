@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:00:41.084001+00:00",
+ "generated_at": "2026-11-20T07:22:30.947440+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -336,6 +336,17 @@
    "next": null
   },
   {
+   "id": "76d7be32fbd9",
+   "title": "Presidenta Fujimori aborda impulso de exportaciones con jefe ejecutivo de Hong Kong",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnMySEhkbVBNN3VNcDU1V3MyN1JRY1NPZG9BMjFrNE8yTXdqS0tqTzZoVXdJa1hMcS1lM19FZVJKWXNldHNBZlIzWHN2TXRkMGlZT2Y5SXJoS2VfN2FQeG84dm5Ta2pSWjh3VEI4Qk05dzFKU1JvekQ2UXlTdkNLWGxMdXl5RUZTT29wcFo1bGZiRF9sNElvR0NoUk1VQTNjWHFIYVlVX0ZsZnhqWWxiY1ZSaFdLTTJ1dXc5dXRhWkg4dw?oc=5",
+   "date": "2026-11-20T02:54:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "05fc1d100f9b",
    "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con gobernadora de Tokio: ¿qué temas abordaron?",
    "excerpt": "",
@@ -353,6 +364,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
    "date": "2026-11-20T02:27:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a346a9129d70",
+   "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones, luego del aporte de US$ 45 millones de China",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
+   "date": "2026-11-20T01:42:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -381,28 +403,6 @@
     "abroad": true,
     "city": "Tokio"
    },
-   "next": null
-  },
-  {
-   "id": "a346a9129d70",
-   "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones, luego del aporte de US$ 45 millones de China",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
-   "date": "2026-11-20T01:31:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "76d7be32fbd9",
-   "title": "Presidenta Fujimori aborda impulso de exportaciones con jefe ejecutivo de Hong Kong",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnMySEhkbVBNN3VNcDU1V3MyN1JRY1NPZG9BMjFrNE8yTXdqS0tqTzZoVXdJa1hMcS1lM19FZVJKWXNldHNBZlIzWHN2TXRkMGlZT2Y5SXJoS2VfN2FQeG84dm5Ta2pSWjh3VEI4Qk05dzFKU1JvekQ2UXlTdkNLWGxMdXl5RUZTT29wcFo1bGZiRF9sNElvR0NoUk1VQTNjWHFIYVlVX0ZsZnhqWWxiY1ZSaFdLTTJ1dXc5dXRhWkg4dw?oc=5",
-   "date": "2026-11-20T01:31:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
