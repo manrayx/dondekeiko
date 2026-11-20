@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:58:54.552731+00:00",
+ "generated_at": "2026-11-20T16:20:09.778330+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "Tokio"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-20T15:44:19+00:00"
+  "source": "Reporte Asia",
+  "date": "2026-11-20T15:51:20+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -269,6 +269,32 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "4db43d3cd2c2",
+   "title": "El emperador Naruhito recibió a Keiko Fujimori en Tokio durante su visita oficial a Japón",
+   "excerpt": "",
+   "source": "Reporte Asia",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjRvaGo1U1F0dEtSQTBSME8tenVKNmxNSWdERng3cFFkc1ZsUllhM0RybDJnS0dBMW03VFRPMHRYMmxUVEVRT3BjUlkyYnphNHhuSEZlU2llSk11SzlpM3FWSUNzRzFNRWJfMk9LbGhCWXMtQUlYbFcwOVNJc1pXUGxJNDI5TU5qZndpMURSbHJDOFZTcF90Uk5sSTNad3B6V0hHaTlFVzREbmdBNnNLNE00bldmSVFJQTA2MkNsT2FlNnct?oc=5",
+   "date": "2026-11-20T15:51:20+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tokio",
+    "abroad": true,
+    "city": "Tokio"
+   },
+   "next": null
+  },
+  {
+   "id": "9ad36bd3a13a",
+   "title": "Presidenta Fujimori agradece apoyo que brindará Japón para enfrentar el fenómeno El Niño",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1lkOGJNZXpOQ3ppVjhYVXBhcFBWS3NOM3Ryb3JSSjVhWm1pSi1kT3FTVldGOV9Yajluc04wajlydXlsVXZ3clFEM21XaEFTZVBpQkozOHgtS19odlRvb0UyazgwXzlxcGVJZjN5Skg1NE44N09FSW1nVXJ0YkNOMGwzQkFxY1R5RWpVc1VYS3liQ1pjZjN3X2pqOFMzS1ZlbC1rVGRGdm1Xb01iSHVpSVFkdWRFVjhrNjFtdXloeFVndw?oc=5",
+   "date": "2026-11-20T15:47:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "108f36a8dd9e",
    "title": "Keiko Fujimori reafirma con Japón la asociación estratégica bilateral durante cumbre celebrada en Tokio",
@@ -535,6 +561,17 @@
    "next": null
   },
   {
+   "id": "d54b5a7aa17b",
+   "title": "Presidenta Keiko Fujimori sostiene encuentro con la gobernadora de Tokio",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU9yMlBQSjZxbnIwWXlyVGZPd0UwTG9qZkVtckxRY1lMMHQyMUpaM0RQU00yUWNRTElRaGZKcjktSk9CMGU3ZVU0MDFNVWozTDhnODliWGpad3ZCRTYyajF3XzlnanRwd2p6ZlZLa2tWUFlvaDdHaFNFbTNab3Y4dXRfN1dTYW5ITzVMREpjSFRKV04yS09nb1FOcFFhR3hBWjZOQjFzVUQ2SkhKbDNIWXdFelJINmVIMlo1UmRn?oc=5",
+   "date": "2026-11-20T06:10:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ad0d1db34c10",
    "title": "Keiko Fujimori y la recuperación de la institución presidencial",
    "excerpt": "",
@@ -593,7 +630,7 @@
    "id": "05fc1d100f9b",
    "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con gobernadora de Tokio: ¿qué temas abordaron?",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkFweVZ1azlmRUJoSHltVFlHUnc4SGkwTDlOMHA1X3psUlNXNWVqUlBhdkRoZWtCSm1sd1lVQV9XeHBrbURzRlNaNU52eGJxQTd1bmNYb2YweUFQVHc4U0dveUNwUGZWVDlJM0dQZHlOTFp5NTVQanFFSDlfUjE5NFhMdHZSZm1KeFM3U0tIbkQwWFJ6aGN3b25ROTdSQnZmWkNHVkZFXzRHV2I5cl9QWUUwd1c0R0d4VmRvQ1NtOGR2Q092?oc=5",
    "date": "2026-11-20T02:34:21+00:00",
    "state": "posando",
@@ -918,39 +955,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdTRnSDZyb1p0dzhwcUZhZ293SVdmQ2lCTU1UcnZNelhIM3Vjb2U2MDNqZXg1N3dHZ3FfRUtDNDN4UmtzdEhPdFJSaW16SXNSRlRvMWFBZHQ0VWhzZE5OYzh3aVhadms5T3JxcEJodVJnWmV3M2k4T0pLSmQtcFpiOUNFMnlzNnd6TV9FY3RqNkVSNE81R2hEQmVya3l5aEdoS0hoWkNzTUtyVTZ5Nm1kQ3NBZEduR1ZLZDBNVHFvOXFKdFnSAdcBQVVfeXFMUHlCWDJWdGhPcGMtV1RJZGVOS29zUXhWVnFfMmlMWHNIZkJpdWR5eEM1TEdScnhCeWhVZ19fU1Etbkh5cXhaY3ItbHlteWVEellVN3NaZXpLak9jTVh6eUN3UnZkZXFaRWxnOG5YTm55SzhucE5sOXRObVZSdFFYdlFBbkp1Ry1NVlhHR1ZSY2dSb2M5YVJ3c2M2d0tOOTdGRlpDY1V4ZnZvLVJxX29wc0s0dGJoM1VVLTBRZVFDMGFyd1ZTb2FBUG9OM2M2UkVMckJpQldLNFk?oc=5",
    "date": "2026-11-19T17:17:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a950a429787b",
-   "title": "Keiko Fujimori expone ante el FMI la estrategia económica de Perú y sus planes frente a El Niño",
-   "excerpt": "",
-   "source": "ElOriente.com",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVXB5dW1HU1RJV3NIbldrQUs4MHZ0czY2U3RJS1M2WWpzS3l2Mzc0cm5XVXpXdG5GNElGT2xUU19uRXhnOGFuUUwzTkt3THBBSE1faEJHbU9rQzlHYmpqS05SNzlnaXJyT2hoNmlMaHJyWEVCcFFJb2RvUnZKQm1GUXFIWTBZZE5lRTZteHZNVVdvdFJCb0hHRlZYZmxvSHpYRWpfRzdWczF3cHczQ0R3c3h2U1NINVZxMUtOSnRXS3N1bHYwR2V4bWxoUExkUUQ5ZWc?oc=5",
-   "date": "2026-11-19T17:02:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2661a2866ecb",
-   "title": "Presidenta Fujimori destaca la importancia de llevar los beneficios del comercio abierto a las pequeñas y medianas empresas",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN3lKRm1OY2NrVDhqS1NJUVg4OWc2TnFnZ2Z5SUdfMmg2ejhSRS04dS1VcFg2ZkZoUUNQVXdweUF0Y1FBWFlBNlV1RnFrOXdCcXJ2cjdSWTdTajZseUlZYVY5ZklFRVJHV2ZHclRaTHA0a2c0eGFTUVJqdjMzelRpQWU2VWo0VXFLYXpSUVFHZV8waVNIbDIyVVdyNWNqWUlhS2U3N3preXJLM0hpRnBpYzRwdmZ3UGJ1WHdnNlNpR0Itdw?oc=5",
-   "date": "2026-11-19T16:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "67bbd6b0d078",
-   "title": "Presidenta Keiko Fujimori se reunió con la directora gerente del Fondo Monetario",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW55aTNQbkIzS1NUVDNWOGQ3b1FSTmJrejU3VFh3NVRuQmYyMUNSWFI0LWJzaTdMMy14eDNZNUtSeGZrbzVYLXB2SVgzQ2ZfekF1NXNDb2N6ZlpmeVhDdVpBWDEzOXJ0eWZMVmZyUUxPTDFOOVdDaFhpRUhnNzk4bHI3RXVlTGVSUXZ0cF9XZTBnd2k3cWRKUTBPSnFENERqeTVSUjR2Ni1KemdUUnB6N0Job3JtM1JvS0tSWXdvYw?oc=5",
-   "date": "2026-11-19T16:18:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
