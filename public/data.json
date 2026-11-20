@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:43:41.239363+00:00",
+ "generated_at": "2026-11-20T03:05:03.402579+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -269,6 +269,28 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "ef91b7891e16",
+   "title": "Fujimori anuncia apoyo de China y Corea del Sur por US$ 47 millones: Los anuncios tras APEC 2026",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, calificó de “muy fructífera para el Perú” la agenda desarrollada en Shenzhen, China, durante su participación en la Semana de Líderes Económicos del…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/fujimori-anuncia-apoyo-de-china-y-corea-del-sur-por-us-47-millones-los-anuncios-tras-apec-2026-noticia/",
+   "date": "2026-11-20T02:46:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "05fc1d100f9b",
+   "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con gobernadora de Tokio: ¿qué temas abordaron?",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkFweVZ1azlmRUJoSHltVFlHUnc4SGkwTDlOMHA1X3psUlNXNWVqUlBhdkRoZWtCSm1sd1lVQV9XeHBrbURzRlNaNU52eGJxQTd1bmNYb2YweUFQVHc4U0dveUNwUGZWVDlJM0dQZHlOTFp5NTVQanFFSDlfUjE5NFhMdHZSZm1KeFM3U0tIbkQwWFJ6aGN3b25ROTdSQnZmWkNHVkZFXzRHV2I5cl9QWUUwd1c0R0d4VmRvQ1NtOGR2Q092?oc=5",
+   "date": "2026-11-20T02:34:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "d72c39e10e85",
    "title": "Presidenta Keiko Fujimori sostiene reuniones bilaterales con autoridades de México, Filipinas y Hong Kong",
@@ -937,32 +959,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPczltVi0wM0lGNFA4bjJfd2VhcDBYZTZZS2dvUnVDYks5aGxsN3QyWU05amNNQldEUmQtV1VHOTNfUWhKZHdITTQzUS10cEgzd2lHSmRkdG9xZ3ZCdlhqdmlyT0VDMVNnXzFJNjVxcHJCXy1xcHptdEluUXpPVlhDZ3p6TzBzWkEySXFiZGp4anRnMjh3RU01b2czWll3NTRsYkNNcHlueXRDbUl3NDA4QXptUnZtbFVHcXl3dXpNaldQRWg0VXdrQVo4RmJmWkU3X0NvUUdn0gHqAUFVX3lxTFByY2FERVkzZEdFNXF5ZXJJY05vSUpsUEJCVHB5OUF4d1lUaUxGZFlyNndpVFN6cnEyWndrUjlOaWxSQTFDZTU0UklsV3JiMWFwQ3IxUXRYS3cyUVZ6MEI4Q1EtZmVCbWhBY25lWEhkZ0Z3Q2pqdW5tcGVZWHVFZnhPcDktY0hqdVVqREtKMnhkUVZ6LS0wQ3Y5NjFFME9CWWlnUllIZm1ZZ3Nad1lIVlQtUGY4NnZVTXdrTHlHVVpMdjVwY1AtaS00RHlBTE1TemFwS0c4RU8zXzB1cG1aMjRpanZQa2UtMjc2UQ?oc=5",
    "date": "2026-11-19T02:36:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "146a35ff933d",
-   "title": "Keiko Fujimori presenta ventajas del Perú para atraer inversiones estadounidenses en China",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQmlPTGk2cEZuanRsRkZHT2phUm52aktYZzU5MmRZWEJYNWNKZ00ySjdwbnpoMmV3R2FNbDI1aThpOEpFbHRRZHpGZGdMTjhCb1RMc1dacWVfc3JaVWlucGx3WU1xbUNDeEdheXFEREhqV2c1OGJEVU9Wc0lDWTdnSzdRN2VyVlBPX2Y5bm96ODlnM2NaVTFBVUFfaGtxYS14N1JndXdhaTZPQjg3OGRSLVkybjl2RXhPdnFNMlMwS3Y0VzNhTnhDTnBFR202TlNRTU1BX3ZpLTh5YlZsNl9NVUJNZ3NMUU1qRFlVcG5mMVM1R0ZVaHFUQU5OUlVMYk9icVNZdkdFRWVaanJKdUR4Rjg2RkgwTk5PZjk2S0Jzdw?oc=5",
-   "date": "2026-11-19T02:09:16+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "9a05c98eb057",
-   "title": "Keiko Fujimori presenta al Perú como puerta de acceso a los mercados de Sudamérica ante empresarios de EE.UU.",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNalZlYzJCZ0g3Nl9jd01kRWJvNkxlME9LUW1UYlRyUTEzTEhkZzZnb2F4ZVJzcHB5MnJqRWZYYjdvT1JOSXNBRW83UjlWSDF5MHVMYXNpb3g1QW5JN2FvaWVEV210RDVJYVJ2S1pJNF9wSm8yYTFzZFd3S1ZyQ1V3bXllUWhxcmxmZ1M1VTJYYXdWSXFVbWt5bmZlZEFCUU1kRzh5T2plaWxYakpmY3ZvTFliaWw4Yl93d2p6RUlORUJUZzRBVzdabG9WdzdReGc0OHV6N3FNdFc0ejZDbHJ0ZFdfbzJQQ2RJX3RjZ0h3R05sNGpQQl9renhyb2MyWENQb3F4UNIBmAJBVV95cUxNRUljRkhUai0yc3dfbUN1YldTcWRrYkpTejFNMGdEUmpvcWlFUmR0dFlDbWVZQ01tampfblVSMDJhOGxkb3k3aEVvd0RxZHI3NVppUTBfdHZYV3htX3ZyYmR4c3EydnNFV2RYaTZlX2JaNU41M1BuLWdEaWZ5UkdoamJiOVFkM29OSXBpOUU5MjQ3LXJEV1V2MUVVYmpoUEVZOHVFWng0UWFkcnRRWHoxUXZnWEVLMWpROVdiVWllX0lwU0h5dUdYM3FldklDSVBGcEM4Mi04eG0xNFZoTkNjdlRvVkkyTkdpVkR3MzYwOVdDb3AybEVNVVFRQ0VIQ2xQNUdLVUFLLXAzMnhIMVpPTTZpR3lUUFVl?oc=5",
-   "date": "2026-11-19T02:03:33+00:00",
    "state": "posando",
    "place": null,
    "next": null
