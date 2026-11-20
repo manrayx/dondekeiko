@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T13:07:19.375757+00:00",
+ "generated_at": "2026-11-20T13:28:32.788119+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Palacio Imperial de Tokio",
+   "city": "Tokio",
+   "abroad": true
   },
-  "source": "El Peruano",
-  "date": "2026-11-20T00:06:00+00:00"
+  "source": "Gestión",
+  "date": "2026-11-20T13:20:00+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -270,6 +270,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "75d7446af960",
+   "title": "Keiko Fujimori se reunió con el emperador Naruhito y primera ministra de Japón",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, fue recibida este viernes en audiencia por su majestad el emperador Naruhito, en el Palacio Imperial de Tokio, en un encuentro de especial…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-se-reunio-con-el-emperador-naruhito-y-primera-ministra-de-japon-noticia/",
+   "date": "2026-11-20T13:20:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio Imperial de Tokio",
+    "city": "Tokio",
+    "abroad": true
+   },
+   "next": null
+  },
+  {
    "id": "58645479423f",
    "title": "Keiko Fujimori realiza visita oficial a Japón: es recibida por el emperador Naruhito y se reúne con primera ministra",
    "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
@@ -281,11 +296,33 @@
    "next": null
   },
   {
+   "id": "946ca99b5c02",
+   "title": "Keiko Fujimori se reúne con primera ministra de Japón para fortalecer relación bilateral",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2lVNkN4c1Vzb3pTWmphS2VnazRRcU50Zm1LQVZLQUxvbXJuSEYxWGRXNHhsYzk3OUFFT1EwQmVIOWs3NGdDNmdBaks5VWRLS21hRC15YnVEUmN5Y1FFdzhEU1h4NWJYalFJRkZ6UXZselIyNDQtZ29XM0M4aElhd3duTDRGdV9rcGk3VjN6Y1ZheUxZREZVNWpmN3JhNl9JTFQyekt6eWotY1NMZF9SWlRyMEpXLTQ3cWFfNU5pYzZ4dW4wNUJMSnZ30gHeAUFVX3lxTE55OW15VEsyRGlkNUk4TFJuZElucmItYTB5MUMyeEE2MzFIX3JaTGpiX1ZRUmxQcUQxbVF5eENtejBfT21wOXg0aWFoVnlvNV80a2ZEVGd0NjVmVDA0XzNIOVJWWHAxd2JjZ3IwTFVVRTBWb2dqQnZINlVuVjRGeGJpZVU2bTRmMmJFRkd3NXdiOFlNU1poeEhzN3NHRzZYbEFBRkdQek11dGVBbThEMEVmbmsyTjlkOVhOd1RVX1BBVlpIRUJVc3M1N00yNDNPZ3RXVURMVmFGeGxENVRpZw?oc=5",
+   "date": "2026-11-20T12:34:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6dbb420e041d",
    "title": "Presidenta Fujimori califica de “muy fructífera” la participación del Perú en APEC 2026",
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RZV0wySkZwR3Y4cWhITzRqbXpzRzIyTjRFMzdnM1V3ZjcyWUN6RmZwaHdReFVZMTVseHN6S0x0bjBIOXpfTy1lV2g1dTZ0RThSamppQVJxS0NiSGZoVTJ2M3MtTTNIRXFpcmphVGhkOTUzYndBanNYMEFkVmxpU2t2MW1jajdhWmpNc0VkYmcwQVl0ZXBNN3FZeHUxd3lOQmppbFpQZkVQR2ZjNUFOT0V0MzR5QUFiSXpDR09vazd2dw?oc=5",
+   "date": "2026-11-20T12:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "76d7be32fbd9",
+   "title": "Presidenta Fujimori aborda impulso de exportaciones con jefe ejecutivo de Hong Kong",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnMySEhkbVBNN3VNcDU1V3MyN1JRY1NPZG9BMjFrNE8yTXdqS0tqTzZoVXdJa1hMcS1lM19FZVJKWXNldHNBZlIzWHN2TXRkMGlZT2Y5SXJoS2VfN2FQeG84dm5Ta2pSWjh3VEI4Qk05dzFKU1JvekQ2UXlTdkNLWGxMdXl5RUZTT29wcFo1bGZiRF9sNElvR0NoUk1VQTNjWHFIYVlVX0ZsZnhqWWxiY1ZSaFdLTTJ1dXc5dXRhWkg4dw?oc=5",
    "date": "2026-11-20T12:30:00+00:00",
    "state": "posando",
    "place": null,
@@ -429,17 +466,6 @@
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTdxVFd1TTU5VmxUeV9WR3ZVb1VhaWFxT2VVLUJUbnFjSDlKSTBySmVGYmQtX2FuTUQyQU1YeC05MUk3NW9POWM5VDJ4ZFhIYlYxOU1hVS1zSFlzWnpPb2ZfaXJhaUNXb29XcndRaDlKQzRTeHE3ZE1jeEVQNTBKZjNFN2tDYlktVkFQWEZZTzBxWXRwQzlpWlFNZm1ZSlBzYzhSc0pvcGlGLWVHekNpSXVNMVQwTzJvckVVXzBB?oc=5",
-   "date": "2026-11-20T02:54:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "76d7be32fbd9",
-   "title": "Presidenta Fujimori aborda impulso de exportaciones con jefe ejecutivo de Hong Kong",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVnMySEhkbVBNN3VNcDU1V3MyN1JRY1NPZG9BMjFrNE8yTXdqS0tqTzZoVXdJa1hMcS1lM19FZVJKWXNldHNBZlIzWHN2TXRkMGlZT2Y5SXJoS2VfN2FQeG84dm5Ta2pSWjh3VEI4Qk05dzFKU1JvekQ2UXlTdkNLWGxMdXl5RUZTT29wcFo1bGZiRF9sNElvR0NoUk1VQTNjWHFIYVlVX0ZsZnhqWWxiY1ZSaFdLTTJ1dXc5dXRhWkg4dw?oc=5",
    "date": "2026-11-20T02:54:00+00:00",
    "state": "posando",
    "place": null,
@@ -921,32 +947,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNkQ3eG01N3NxX1FCTEQ2T25QeGM1SGlJTW11SGFrUEVSa3lKaC1LbUVvc3lqNWR0dkJUSjJGVGcxT19ORk84NU1ZalJHakZfRFNDd3BIcXFxZnh1c3JVZlFGT1lBc0RxUlFTSDZrVVlXanJDTUV0aGdiZFdCNVdXUjFjckhfQmRfa3ZaS3FRQkdybGdqaHVtN1YyU25oeTM3aXF5WjllQVRjM2RYdWZKcG00N0VhN1VaNnlQQkxmUUl5eEUxU2hZVjJrYjRISHlsWm4tYkZuZlpvUzdUeWp1dTZ6WW4wZnFobXlYV1N4MEZpYnJiak91UTlqNA?oc=5",
    "date": "2026-11-19T13:18:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0a243d78145c",
-   "title": "Lo que se sabe de la reunión entre Keiko Fujimori y Claudia Sheinbaum en China (VIDEOS)",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3RSbXJCbWdzUl96SFM5Z0NHMGV5WnlORDU2UXgzcU9McmlpZEt1Z29CTGNhYUNwTGNJREhTZF82amQ2Y1VPTVo2Si1HbWJiZUNqY21Ga1RsRW5WZUdqNU52X1ZzR2xTeDVMWnp3OEtMU2pQR0VrLVJ2MnVncUx1bEsybVJRazVSV1M5QUVHLTdzdnNudGxvcDM3dU4zZmFRbnFyUmF6QS1zbFY5ajdmeW5n?oc=5",
-   "date": "2026-11-19T13:09:49+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "c29f15c0ffb9",
-   "title": "Claudia Sheinbaum reveló que se reunió con Keiko Fujimori en Shenzhen para \"restablecer las relaciones\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdWVIczdLT0hLU2xlbjZKN1htVFdXX05FNFlTUFdUZEtjM1lEQkFkUUhRUVBjTl95eFloMnFRakp6cExiRHVGN21aeXZGTjdFYXlTdWlXdzl4bjBYNnZHX05jQXBFS2R6cVc2Zk9Obm11NDZ6LThhX1ppMjA0OEFYUndSczhUcjl5eEd6bVdCMjgzb3FQX1BieDBlWUdKcVBfTmswVENMRXVZOW9qMUxLUmktRm42eW9ZY0xNRVk5bFNmcllmbmc1MFR2SDRYV3M4VG5xVFlWN0wzV0FLdGVPb2I1aXg?oc=5",
-   "date": "2026-11-19T12:40:41+00:00",
    "state": "posando",
    "place": null,
    "next": null
