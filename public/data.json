@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:22:30.947440+00:00",
+ "generated_at": "2026-11-20T08:05:10.974007+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -269,6 +269,28 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-11-20T08:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ad0d1db34c10",
+   "title": "Keiko Fujimori y la recuperación de la institución presidencial",
+   "excerpt": "",
+   "source": "El Montonero",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXNHSXpoZ0hObkJSZWRMaUdUY3JrSTNfYTlKVndOSUJTSTlDd3hqWWlKcFA2djhPZ3ZEMmxDZm42UE83Rmx0LUtTWVZnWkxiLU5sWmVJcFdnRzNMZFFIUjdhVmRSeDF2S0p1RV93ZXJUaGRTOWkzYWl0V3dNazNuYkNLN1BUU0hwdi1KSk1iUUYtWWtEMU4zVUpaSQ?oc=5",
+   "date": "2026-11-20T06:00:57+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "8fb8e57a621f",
    "title": "Keiko Fujimori se reunió con gobernadora de Tokio para conocer sobre respuesta japonesa ante desastres naturales",
@@ -933,32 +955,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkhhTWdDT1pMNU4td1YwenN0NjRYd1p4WWp0MDlZbE1wREpFY09VM3lPTldMWmwxU3RoRXBYU2lCQ3BEVzBCZDNBRHVKYTNsR0tVR2VTVFVkVkVxY21nM3dpRUhRY29acEVVVmRubzdPdlJPSGdETWJ5VFFockR5cHptTWo3cTRHMW01Ri1SbmNGM0RleXlCVzNBWG1qUl9VdDI3SUpIRzNXVkFYalJRMnNyWmN4V3c?oc=5",
    "date": "2026-11-19T04:42:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3501616b94f3",
-   "title": "Presidenta Keiko Fujimori interviene en sesión del Foro APEC 2026 en China",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1o3dWNQa25FOUFNTXM4c2lOenZQOWh4ZC1UTlJ2M3p3UXdBNzlRc0hpTXZrS3VEd1BuNlhvRXFjcmNrXzRUZ0ZVbHR2bkVfVjRRMThXbl9hb3hsd2ExMk1PUm0zWmhxbDU3VjcxY0t6M2FMR2lYUzFIbmh6a1o0WXdKRGsxUEg5d0YxNjMtMzBkNjhqR2tBY2hiTzk1MmR2THdEeGI5NkpYQXhGcGVwdWw5VXZRdw?oc=5",
-   "date": "2026-11-19T03:31:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "01e22808c7ca",
-   "title": "APEC 2026: Keiko Fujimori plantea convertir al Perú en puerta de entrada a Sudamérica",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWnVrZU9xRTVkTEVkTjVack1sWDh2a2lqWGRMQTNvNFhZWWh3ZFQwQS1RUGZHenpwWm55QXBuUTJEQnkySnRVN2JrNWpLdWRyeFByR1pCZVdua0tLQm9DNjQzX3FnNGdMbWpHTjZzR0VxeXlveTNjWndnWkloY3djampJMjVOa1ZXSkdMOV9LdUg5RUk?oc=5",
-   "date": "2026-11-19T03:27:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
