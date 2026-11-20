@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:45:32.527455+00:00",
+ "generated_at": "2026-11-20T13:07:19.375757+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -270,6 +270,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "58645479423f",
+   "title": "Keiko Fujimori realiza visita oficial a Japón: es recibida por el emperador Naruhito y se reúne con primera ministra",
+   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
+   "date": "2026-11-20T12:49:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6dbb420e041d",
+   "title": "Presidenta Fujimori califica de “muy fructífera” la participación del Perú en APEC 2026",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RZV0wySkZwR3Y4cWhITzRqbXpzRzIyTjRFMzdnM1V3ZjcyWUN6RmZwaHdReFVZMTVseHN6S0x0bjBIOXpfTy1lV2g1dTZ0RThSamppQVJxS0NiSGZoVTJ2M3MtTTNIRXFpcmphVGhkOTUzYndBanNYMEFkVmxpU2t2MW1jajdhWmpNc0VkYmcwQVl0ZXBNN3FZeHUxd3lOQmppbFpQZkVQR2ZjNUFOT0V0MzR5QUFiSXpDR09vazd2dw?oc=5",
+   "date": "2026-11-20T12:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8eab471eb7af",
    "title": "Keiko Fujimori se roba las miradas al acomodarle la bufanda a José Antonio Kast: \"Tengo yo el privilegio\"",
    "excerpt": "",
@@ -281,34 +303,23 @@
    "next": null
   },
   {
+   "id": "78956d15df0d",
+   "title": "Presidenta Keiko Fujimori se reunió con el emperador de Japón Naruhito",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDhZVUJadmdJenBxNEh5UDM3VDhZd3B5djlRbU1yZnNWTGZqTGhEZFZEVVNkekVITS05akVYQTdIWV9zTDZuVXVpWVpibUxXYkFqV3ZLSXdjbS01Z3pCR3A1b3ByVk1GejYyc1lJTm10bnJ3ZlBIQWFyTVg0OThqUS1YTDdCb2QzNGhLSFNnci1weFU4Mk50M0Ywb0FRY21QbkM1ZGtBSlZJYk1a?oc=5",
+   "date": "2026-11-20T12:15:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "67e0e59e8dcc",
    "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con la gobernadora de Tokio",
    "excerpt": "La presidenta Keiko Fujimori inició su visita oficial a Japón con una reunión con la gobernadora de Tokio, Yuriko Koike, en la que expresó el interés del Perú en conocer…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-inicia-visita-oficial-a-japon-con-reunion-con-la-gobernadora-de-tokio-noticia/",
    "date": "2026-11-20T12:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "58645479423f",
-   "title": "Keiko Fujimori realiza visita oficial a Japón: es recibida por el emperador Naruhito y se reúne con primera ministra",
-   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
-   "date": "2026-11-20T12:11:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "247aae849ac4",
-   "title": "Iván Arenas Keiko, el equilibrio entre las olas",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRNmJhcjVYRVd0SWllMVJQYi1FaVpkRDduNU1ic2trQ3RqZ3dsRmp0T0RwNFJvRE4wQk8zZ1F5dFllLUMzd0lxVk90N25JRlYtZ05vNEcyTUJRaTlkUFhra3Vtczd0Y3VXM1JjclM5OE5Ec2pHQWtuV1pwazRvQQ?oc=5",
-   "date": "2026-11-20T12:05:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -424,17 +435,6 @@
    "next": null
   },
   {
-   "id": "6dbb420e041d",
-   "title": "Presidenta Fujimori califica de “muy fructífera” la participación del Perú en APEC 2026",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RZV0wySkZwR3Y4cWhITzRqbXpzRzIyTjRFMzdnM1V3ZjcyWUN6RmZwaHdReFVZMTVseHN6S0x0bjBIOXpfTy1lV2g1dTZ0RThSamppQVJxS0NiSGZoVTJ2M3MtTTNIRXFpcmphVGhkOTUzYndBanNYMEFkVmxpU2t2MW1jajdhWmpNc0VkYmcwQVl0ZXBNN3FZeHUxd3lOQmppbFpQZkVQR2ZjNUFOT0V0MzR5QUFiSXpDR09vazd2dw?oc=5",
-   "date": "2026-11-20T02:54:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "76d7be32fbd9",
    "title": "Presidenta Fujimori aborda impulso de exportaciones con jefe ejecutivo de Hong Kong",
    "excerpt": "",
@@ -512,12 +512,34 @@
    "next": null
   },
   {
+   "id": "5614d1671ecc",
+   "title": "Peru's President Keiko Fujimori meets with Philippine counterpart | News | ANDINA - Peru News Agency",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzZLNFZ1LXh4WG15MXFqZ0NDdlFJSmhyU3VEenZTc3VabWhqdkkxT0x5QW5JUFYxblVrSFMxUHYzQ1VSNEs3V2dVOTY2Y3ZNbzJBaTlJcFkzMF9PSzBNR3U5cjMtOWlfbHYxVHpZWHRMSkpaMnhycGh0OEdiaTdTSk1hZlhoUnhIR1BlVWNSbnJWUG5WajJxcGJac3R5R1kzTng4Qllkdnd0b0ZDWi1v?oc=5",
+   "date": "2026-11-20T01:04:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a9008d1b4282",
    "title": "Luis Galarreta dice que el papa León XIV estuvo \"tranquilo\" con el viaje de Keiko Fujimori a APEC 2026",
    "excerpt": "",
    "source": "Diario Altavoz",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTctR3V1dVJsTkFCaHh0YkZTQ1RKbUh5V0NoRkVlWmtfREVqS3hWSVhETDE0c2R0WnJHcjdrMm9ENGxDSkw0NVJrUzNoVDFYdHhIaEw4eGd1LVAtbVR4cml4c05IMWFQLVdFU2RtWnVoZDc5UmE5X2J4R3NHYmE1RUNkS0VibmQ0SVdvYlRXNHBXTENoQk1IT21Eenp2aGVfMXQ5cDFLdHMyOGx0YWYzRWVGWVhJSGZkaEI3ZHNaVGJZV2pPcGpOSA?oc=5",
    "date": "2026-11-20T00:53:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "247aae849ac4",
+   "title": "Iván Arenas Keiko, el equilibrio entre las olas",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRNmJhcjVYRVd0SWllMVJQYi1FaVpkRDduNU1ic2trQ3RqZ3dsRmp0T0RwNFJvRE4wQk8zZ1F5dFllLUMzd0lxVk90N25JRlYtZ05vNEcyTUJRaTlkUFhra3Vtczd0Y3VXM1JjclM5OE5Ec2pHQWtuV1pwazRvQQ?oc=5",
+   "date": "2026-11-20T00:39:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -827,6 +849,17 @@
    "next": null
   },
   {
+   "id": "c4dd41080c78",
+   "title": "Con estos presidentes se reunió Keiko Fujimori en la APEC: ¿Se logró reunir con Claudia Sheinbaum?",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0ZPdW1ZY0FXcDNVZU11NUxVWDZMVGVDVVBoVGltbDhMTmMwelV4LV9EcDRCMUduSjdRRXNMaDdsOFhsSjh6bUE5eGl4MVJKdi00LUJ1RHFrTzhCSEJMb2wxbEdMTlVVVC1yWm5QTVc1ZkNCRjVMQm1hbm5JTWxISlBaRmJheEtETkdxVG5mUWdBbmZFWEFUWUFmOFptTDBNeTFpbF9IM3dJQkhpX2hLNXhxU2R2TmlveENhMzd4RnNuNEZwYURxcE1rcURnSldOVWtsWnM4dlNXRC1f?oc=5",
+   "date": "2026-11-19T14:10:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "75df7a16c4bb",
    "title": "Presidenta de México Claudia Sheinbaum confirma que se reunió con Keiko Fujimori en Shenzhen para “restablecer las relaciones”",
    "excerpt": "La presidenta de México, Claudia Sheinbaum, confirmó que sostuvo una reunión con su homóloga peruana, Keiko Fujimori, en la ciudad de Shenzhen, China, en el marco de la cumbre de…",
@@ -914,39 +947,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdWVIczdLT0hLU2xlbjZKN1htVFdXX05FNFlTUFdUZEtjM1lEQkFkUUhRUVBjTl95eFloMnFRakp6cExiRHVGN21aeXZGTjdFYXlTdWlXdzl4bjBYNnZHX05jQXBFS2R6cVc2Zk9Obm11NDZ6LThhX1ppMjA0OEFYUndSczhUcjl5eEd6bVdCMjgzb3FQX1BieDBlWUdKcVBfTmswVENMRXVZOW9qMUxLUmktRm42eW9ZY0xNRVk5bFNmcllmbmc1MFR2SDRYV3M4VG5xVFlWN0wzV0FLdGVPb2I1aXg?oc=5",
    "date": "2026-11-19T12:40:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "06d8141f5a43",
-   "title": "Keiko Fujimori se reunió con Claudia Sheinbaum: \"Conversaron de diversos temas\", revela Carlos Espá",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lRmxfQk5wVnZmd3hDd1NIbGU5SFNYNm5pZkMzVUFqTFhGYkFzd25qWGczZVdLUFh0Y1dKTEtUYVZVd2stMll3UnBKaThMLUpFM1oxNDhTWlk5N2NBLUVqbzhwSGIyWDFkcXcydEE2OW5MSzBaNDRGLWd1QXJRZw?oc=5",
-   "date": "2026-11-19T12:23:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "471c22868858",
-   "title": "Gobierno de la presidenta Keiko Fujimori suscribe acuerdo de libre comercio con Tailandia.",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOS1JWHg5MkJ0VEw2NGJ3Z0JsakVhSkI2Z013T1ZkX0dTWWgyazdaVTRjeWFqOXNnZnU3SDJyb0x1RDJuTEgtMGVhdi01bEVRMXhtRURZa0o2VFJBZDBDay1GaGI0dnpraUZfYXRnanhpa2ZOSk1DMlNjZXl5ZHJra3ZyNmFjY2pScVdSRThsT3BtbkEtMlB4OG5wM0d0MEpNMXZnLUxvZVV3SnRDMkdmckJVNUx4ajZuRkpsRm5yb29CQQ?oc=5",
-   "date": "2026-11-19T11:28:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "feabe0083602",
-   "title": "Intervención de la presidenta Keiko Fujimori en APEC, llegada a la sesión plenaria y fotografía de familia",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZEZneldSSkxyczl5bVQ3RWJHam0xNWNEaExZLThUX3NGbkJhRnd1b2JUbEs0NWxKOUxUdUFtVmZ1ZHZmOVhlaDB2T1l0ZFpTNDB2NHc1MjUwT3pUZE9jcTZDR01VZHQxMmFnSHNuREtuV3hsb25MNkdqdVJOTHl0VWZSUmNDRDdIM0NGUWlkSEh2SWlWWjBRZHd0U2Z4QVl4blo1cll5VnZBalFnUWxxYlZvRk11cFV1cW4tSU81ZE5wWlZsT2JUMlZIRUxFMVBJVnRWLQ?oc=5",
-   "date": "2026-11-19T11:18:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
