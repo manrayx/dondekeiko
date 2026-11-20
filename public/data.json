@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:37:32.902815+00:00",
+ "generated_at": "2026-11-20T15:58:54.552731+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio Imperial de Japón VIDEO",
-   "city": "Japón",
-   "abroad": true
+   "name": "Tokio",
+   "abroad": true,
+   "city": "Tokio"
   },
-  "source": "Perú21",
-  "date": "2026-11-20T14:57:46+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-20T15:44:19+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -269,6 +269,21 @@
  "agenda_minutes_7d": 591,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "108f36a8dd9e",
+   "title": "Keiko Fujimori reafirma con Japón la asociación estratégica bilateral durante cumbre celebrada en Tokio",
+   "excerpt": "La mandataria peruana destacó que el diálogo con Sanae Takaichi coincidió con el décimo aniversario del vínculo entre Lima y la capital japonesa, sustentado en el Estado de derecho y…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/20/keiko-fujimori-reafirma-con-japon-la-asociacion-estrategica-bilateral-durante-cumbre-celebrada-en-tokio/",
+   "date": "2026-11-20T15:44:19+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tokio",
+    "abroad": true,
+    "city": "Tokio"
+   },
+   "next": null
+  },
   {
    "id": "12adb28c8338",
    "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
@@ -471,6 +486,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
    "date": "2026-11-20T11:34:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "95a1ec83d82f",
+   "title": "Presidenta Keiko Fujimori fue recibida en...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSFVOQmFUVVhqc0FpVUhSR1ppMmlzVldmQ0F4UTV6QUNNMUs4SUJyLWhCZ1FSaW5ZTnJZcC03OTZiREc4QmhaV1JIRlJDanlNdEpXZFpOMm9ndldKdnZPVE9aRFJvQWhRdUUxQ0IwSFctdGJGQmlsTld3bHVFcWJUcHRTSllGWVEyWFVTTlpqN2psMGNQTkVxSWhvd0F0NGZjN1NTbm5KWENER2lSak9ubnpTVdIBswFBVV95cUxPbGZNckJNa1RfSW45aDU4eTY1ZnlmS2JDNU1mMnJTcU5NWURPeHlwaTVabDhBZGRQeUd5bjF5RlFTaVdpVHdUWDBaek4yblItRWNVdGJhanhVcmFkTERmdmMxVERfYU54LWcxT2FFS3lyMDZFNWZEX3BfTXY4Rllmc3ZJN25ZYWNJMjhURGtrTzF0MVJYQUxBdHdjSlNoWnRZN015YWlIT0V3ak9UR0R4bXJOWQ?oc=5",
+   "date": "2026-11-20T11:21:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -925,32 +951,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOW55aTNQbkIzS1NUVDNWOGQ3b1FSTmJrejU3VFh3NVRuQmYyMUNSWFI0LWJzaTdMMy14eDNZNUtSeGZrbzVYLXB2SVgzQ2ZfekF1NXNDb2N6ZlpmeVhDdVpBWDEzOXJ0eWZMVmZyUUxPTDFOOVdDaFhpRUhnNzk4bHI3RXVlTGVSUXZ0cF9XZTBnd2k3cWRKUTBPSnFENERqeTVSUjR2Ni1KemdUUnB6N0Job3JtM1JvS0tSWXdvYw?oc=5",
    "date": "2026-11-19T16:18:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e95e35babd8c",
-   "title": "Presidenta Keiko Fujimori interviene durante sesión plenaria del Foro APEC 2026 en China",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM2xEdEJQZ2NsdjF6ZEpDRHpBUk4ydk0wYWJ1NXpfVVFSQnpXY2VKRW01ZHhSSWZiYW1KdEZGU2lHbDgtSlhtVE4wZi1kVnVQUFkydWF4RFl2MnBHRUZzeVZremFjYVN3THFXdVNMWFVkdlNqaGVVcjJZU1hpLTRzRjhad3VYZUhGV3VYTUxjVXlBNlQ5NTIxU1BVWnduZE01S2EwWFZoWUdYRGEwUHZHSnJUQm1ycDJwNmdsaFh5dUZHZl9Eemc?oc=5",
-   "date": "2026-11-19T15:15:51+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "00418f4ae3b3",
-   "title": "Gobierno de la presidenta Keiko Fujimori suscribe acuerdo de libre comercio con Tailandia",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmQyWWJQYmJiVkdmek1oejkxQ0VaUWttVXRuT2M0N1hOVjRrclFGblBEeExIaXBpSy03a1QwZUNJaXRnQWhxalhtVnh3cHdzUmtHNkxBNUVwNVhDM19fV0lRX2UzV1M0YnJ3ODFsYkkxN3NFLWh4ZlplMVdCb1pLYVhUUHh6eDZ6WnpiMjNCSFpqeEFCUTk0ODB1bHV3YkVxb0RiWXZxTzRhaUlabGd6VEt3Qy1jWkFndzZHT0FGY2lkbXc?oc=5",
-   "date": "2026-11-19T14:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
