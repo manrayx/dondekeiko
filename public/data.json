@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:09:04.864929+00:00",
+ "generated_at": "2026-11-20T23:30:19.903008+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,16 +103,7 @@
   "source": "Reporte Asia",
   "date": "2026-11-20T18:02:53+00:00"
  },
- "next": {
-  "place": {
-   "name": "China",
-   "abroad": true
-  },
-  "source": "La República",
-  "date": "2026-11-19T22:35:36+00:00",
-  "title": "Carlos Raffo, el personaje que aparece en el entorno de confianza de Keiko Fujimori en su viaje a China",
-  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZUx1M2xndDFsbjFtSzRYMzFSYWZTazdGQVFFV2NYN243VzFxSzBEZDZQcE1TaXViWF9jTTFHRDZSMjIweEppR1RyYnY2SzEtaGlBc0FPWEZlV1dWSU1pRnFHSEVlbUFZQkJxRFdCQ19qZDBhN3ZNVjFxWFk2Smh6Z0YwZmZLME9Ob2ZYX1lZeWJlWXFDNVp2VnVQN1ZjNkFiR0xrMVZ2eFFfNlVWRmotOXdnamhjNFU5LWR1X0tOVkVlQnZfYVdNNjd0ZjNxMzB5Yk5JU1VqM0JsU1FRTURTN2NoekI5Tk0xNmlPbnJlZw?oc=5"
- },
+ "next": null,
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
@@ -564,8 +555,8 @@
    "id": "95361171eff5",
    "title": "Keiko Fujimori se reunió con el emperador Naruhito en el Palacio Imperial de Japón VIDEO",
    "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmw0VElnX1lRY1lJQW9xTnBWOGFoOTYydmdOWXBpTDBpaDZiTjlwQXV0UldSZXJBbVZPRW5vNUtMN1haWGI4OXRuRktQOGtHbFVXM005d1k3QW5kdmNkc3Q0MGRLRjhGaXV0bnJnN3dEdjVleERrSHpib0V3ekYtdW1NalZmQV9xcl9hSjNobUYtdndhZldNUlRoek5hQnR4b2pjRURmZmhROS0wWS1lc200dFlKLU5DUTlwNQ?oc=5",
+   "source": "Perú 21",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWFMSlFZTGhMeWxyaThmbXRHZFJxS3pHYjAzRTd1Q1EwOFNCOEotdU9WN1VqMXBSNmY1a0luam9RYWNJY3U0VkE5Z0Z0ZmhvS0VMbUhsTmlRYlpjWkpYT3FBWVdBLXNDWURnb0NXbmFHbGxKWTJQMnVhZlBsd3lkVUYtSVJSUG5aWTg1MFFEWVpuazNLVEllTWFMcEt6NHd5N1dQXzNhMGtZVlEwSTNObXEtZjQ5aEU?oc=5",
    "date": "2026-11-20T14:57:46+00:00",
    "state": "posando",
    "place": {
@@ -602,7 +593,7 @@
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y la primera ministra de Japón",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzA0alE3NGZBV2FJc2tpX2ctRG8xWnZBelRxdEVhSVlkUWlhbk1yMDA5TmpWZXA4NzVteENnVk9nTzFENkc0bWRzdVA1ZnhCOE9lT1l6d19LWl9OQXVIOW5XeVVqQjNGYS1tYUVVNzNkV2ZYdVBNcm9TY0N1R1dmeTRQZXlYY3Q1Um5BTlhwRWdTUmxjWGpiT0plMzNyY1Q3dzl6WFRLbmxRbTY0N04tWWhGMmIzLVkyV0Rv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzFxWUlxNVZiUE9zYWZ3cVptLWhRMFZLUkoxYUM1TElzUHJheVYwV2tzZlhSaDR5TExEemdrQTlWMUVzUnpJa2ZzWU0yLU5nYjIxaXJjVEZkX21qaHBUSWw0WUlRUkRaUVNBeDMwVTBrWENlaGtGSHJia2w5T29VdDFoVU9lcnI3QVpJd0RWUG5QVmEz?oc=5",
    "date": "2026-11-20T13:39:23+00:00",
    "state": "posando",
    "place": null,
@@ -858,7 +849,7 @@
    "id": "05fc1d100f9b",
    "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con gobernadora de Tokio: ¿qué temas abordaron?",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkFweVZ1azlmRUJoSHltVFlHUnc4SGkwTDlOMHA1X3psUlNXNWVqUlBhdkRoZWtCSm1sd1lVQV9XeHBrbURzRlNaNU52eGJxQTd1bmNYb2YweUFQVHc4U0dveUNwUGZWVDlJM0dQZHlOTFp5NTVQanFFSDlfUjE5NFhMdHZSZm1KeFM3U0tIbkQwWFJ6aGN3b25ROTdSQnZmWkNHVkZFXzRHV2I5cl9QWUUwd1c0R0d4VmRvQ1NtOGR2Q092?oc=5",
    "date": "2026-11-20T02:34:21+00:00",
    "state": "posando",
@@ -971,6 +962,17 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
    "date": "2026-11-20T00:27:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "192ef8539d54",
+   "title": "Presidenta Keiko Fujimori califica de \"muy fructífera\" su agenda en APEC 2026 antes de viajar a Japón",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkxJWDczVnBvbVVDdFVmNGQzVm54VHk5Q2ZmYi1UWlo5NmxobzdDbG1YS21EMkVEaDhGX2V4aDhBRGdERGhpZTdNMDQtMUUyVVNsa0Y2VHp3VG5tb3YxT2I0VVJNeEtMNl9ZVTFOc1ZSdTRUUDk5NjNjX3ZVQmo5ZWtoS0NuZjZ1UDVpc21PTXFqM0FCcEtUU0FXUzJUVmItMWFTdHA4cDc0aTc0WWl0UEhMMEZFZGs4VFNTamhsS2JiejY4NzFFaW1BQjRNOTNNNUE?oc=5",
+   "date": "2026-11-20T00:25:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1109,20 +1111,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "0befa3f44f7c",
-   "title": "Carlos Raffo, el personaje que aparece en el entorno de confianza de Keiko Fujimori en su viaje a China",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZUx1M2xndDFsbjFtSzRYMzFSYWZTazdGQVFFV2NYN243VzFxSzBEZDZQcE1TaXViWF9jTTFHRDZSMjIweEppR1RyYnY2SzEtaGlBc0FPWEZlV1dWSU1pRnFHSEVlbUFZQkJxRFdCQ19qZDBhN3ZNVjFxWFk2Smh6Z0YwZmZLME9Ob2ZYX1lZeWJlWXFDNVp2VnVQN1ZjNkFiR0xrMVZ2eFFfNlVWRmotOXdnamhjNFU5LWR1X0tOVkVlQnZfYVdNNjd0ZjNxMzB5Yk5JU1VqM0JsU1FRTURTN2NoekI5Tk0xNmlPbnJlZw?oc=5",
-   "date": "2026-11-19T22:35:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "China",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
