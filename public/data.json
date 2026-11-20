@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:24:36.741264+00:00",
+ "generated_at": "2026-11-20T18:07:38.857916+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -290,6 +290,17 @@
    "next": null
   },
   {
+   "id": "3756c155f11e",
+   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGthM1IxbWV6bTBGWWVzdHU4a0lQN3hPdEt4WFJQV1dYdEk0OW5KUk83UkxCWERNb1FULXBEc0M1UlFFWlBHNUV3N3RlYnd2UVZxTS1oNURUQUF0cjYwSERlZDZWQ3NUbnRXVDRpZzRDN2xPbE9CcldoYW5aaFA4YXlhcnB0T3cyYldrVnhkZ0g4aDhHSko3MmZ4aHFKbUpTZmIzZVlUbTVEeU1CNGkwcmlRS3JxMy03N0xXQ0I2dw?oc=5",
+   "date": "2026-11-20T16:43:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5a075faf63a9",
    "title": "Keiko Fujimori visita como presidenta el Japón que se negó a entregar a su padre",
    "excerpt": "",
@@ -548,17 +559,6 @@
    "next": null
   },
   {
-   "id": "3756c155f11e",
-   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGthM1IxbWV6bTBGWWVzdHU4a0lQN3hPdEt4WFJQV1dYdEk0OW5KUk83UkxCWERNb1FULXBEc0M1UlFFWlBHNUV3N3RlYnd2UVZxTS1oNURUQUF0cjYwSERlZDZWQ3NUbnRXVDRpZzRDN2xPbE9CcldoYW5aaFA4YXlhcnB0T3cyYldrVnhkZ0g4aDhHSko3MmZ4aHFKbUpTZmIzZVlUbTVEeU1CNGkwcmlRS3JxMy03N0xXQ0I2dw?oc=5",
-   "date": "2026-11-20T11:10:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "14f72b196186",
    "title": "Keiko Fujimori pide que Perú sea la \"puerta de entrada a Sudamérica\" en su visita a Japón",
    "excerpt": "",
@@ -757,6 +757,17 @@
    "next": null
   },
   {
+   "id": "2c4b6c8b8e2f",
+   "title": "Keiko Fujimori se reunirá con el emperador...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
+   "date": "2026-11-20T00:27:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a89869d12e36",
    "title": "Presidenta Keiko Fujimori califica de “muy fructífera para el Perú” agenda desarrollada en China [video]",
    "excerpt": "",
@@ -769,17 +780,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "2c4b6c8b8e2f",
-   "title": "Keiko Fujimori se reunirá con el emperador...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
-   "date": "2026-11-20T00:00:03+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
