@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:22:37.606747+00:00",
+ "generated_at": "2026-11-21T02:44:24.323171+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "34990c41d223",
+   "title": "Juan Velit: Presidenta Keiko Fujimori tuvo destacada performance en cumbre APEC",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblZ4cUo4X204ZkVDQ0w3UU5RNFhyZ3FkV0VMSkMzbW1KS1ZiaWtJbFBrZHhsYkM2b0xILWJ5SzdTVVN4ekFCZ0lDRGloSzJFTWsxWEhBSTdIdlNLcDZpODlWOHNvTmx2WW1MSndURnhYNVpjSnFMbl8zelVBSXZxNDZvLTZ3N3ByWVZkU1pncGEzeTdhUXYwTmZwY09JQlN6dV9HN3FZZ1YwcDhDcHZvRVNHazgtUG1mQnhieVJFVQ?oc=5",
+   "date": "2026-11-21T02:33:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5cf06c91b1ea",
    "title": "Presidenta Fujimori agradece apoyo de Japón para enfrentar fenómeno El Niño",
    "excerpt": "",
@@ -447,17 +458,6 @@
    "source": "Rumbo Minero",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzVTMV9IY2ZncW1sSU1pREtvdFY1U3diUXBraVF0c3BrNjBYZEdMZFJJVFRraEFIR2JkY1BfU0NMeUE0M2xYSkZ0Y1g2MnZ6WUUxRVA0cWxPUWREVGpOWXNBVk5WcWZic3AyLVgyb1pBNHlJcXh6SlozWXhZN3kzd1R2ek1jdDMwUkRoOGN2d0FMX0s4WFdMOHlVa3g0bDVPSHhfcGhfMjFlRm5xNDJLblQ4MHVCUQ?oc=5",
    "date": "2026-11-20T22:00:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "34990c41d223",
-   "title": "Juan Velit: Presidenta Keiko Fujimori tuvo destacada performance en cumbre APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblZ4cUo4X204ZkVDQ0w3UU5RNFhyZ3FkV0VMSkMzbW1KS1ZiaWtJbFBrZHhsYkM2b0xILWJ5SzdTVVN4ekFCZ0lDRGloSzJFTWsxWEhBSTdIdlNLcDZpODlWOHNvTmx2WW1MSndURnhYNVpjSnFMbl8zelVBSXZxNDZvLTZ3N3ByWVZkU1pncGEzeTdhUXYwTmZwY09JQlN6dV9HN3FZZ1YwcDhDcHZvRVNHazgtUG1mQnhieVJFVQ?oc=5",
-   "date": "2026-11-20T20:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
