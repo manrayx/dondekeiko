@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:21:47.874933+00:00",
+ "generated_at": "2026-11-21T23:48:04.199431+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,8 +100,8 @@
    "abroad": true,
    "city": "Japón"
   },
-  "source": "www.apnoticias.pe",
-  "date": "2026-11-21T11:02:38+00:00"
+  "source": "Lima Gris",
+  "date": "2026-11-21T16:11:49+00:00"
  },
  "next": {
   "place": {
@@ -491,6 +491,21 @@
    "date": "2026-11-21T18:02:00+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "cdfc852b0915",
+   "title": "Keiko Fujimori visitó Japón y suscribe nueve acuerdos de cooperación para enfrentar desastres naturales",
+   "excerpt": "",
+   "source": "Lima Gris",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHkySG80ekYtcVdkSVk3RUhkNkxjc2E3WVhKVml3amo4WldobWdvSUJ3SWNYY01XTzk2TXJubzEwWVpsd2dSVWpNdnJlRjFEVjNMZTRNVi1QRHhFdnpDeVA1c0JCZ2hkR3ZsYlJVXzBfdEtHd3EyQnE5MXFaYnc5eUpKeTRBU181REJvaWZBVXV1WC1SWnpybUJPVENKSm9BbUczWkNKdHZ6dFdsVkYydXd5X0hmNHZsV2ZoVVJDN3FoeEHSAcgBQVVfeXFMTTlLRTl0SnVzZUJmdFZydWhlTXBZTV9UTWdCb1FJdVllX2JDdjE0d0RoV1Fzdng5S18wVnY0NXZla3ZWNUpOZlo3MFBVWnhVdm1seG81NUxpNkhFWU42N3J1bkhINlpINDhUU2wza1dORm16aGZwZEdPYnhFRUxDZmo4dmFqTHFNTF95ZlAwejlwUGR1UDNHNVk5dUQ2MzVxVkh0R2ZyaHFqaFVFS3F5RnFtTzV2dE1IaXl1UHVZaS04V0Z5T0pncW8?oc=5",
+   "date": "2026-11-21T16:11:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Japón",
+    "abroad": true,
+    "city": "Japón"
+   },
    "next": null
   },
   {
@@ -1103,17 +1118,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWlhOUNBdUJpc3oteE0zZlF5MkQxcm9zT3hlTkdvU1BLbV9fcUFQTjFZUlUzbXI3M0wta2FGM01USm9ZOUhnSmlGM2dyWnJnVmkyaFZNTFNiNmtBX2Uta2tOUi1kRzRZUEZ3UEF0NFBsVUFxQjZEcnUxckFPdjFLcXJ1NGcwZ1ZKcURSR0g0RzdrM1A1UzhNM24yWnBrdDlsbzVyYWtnRm8yZ19LVjRvMjBub1E0SmM5QzFkMUxIbzLSAdQBQVVfeXFMTzVSandHYUs3ZlJ5ZnA3b09tbEdUaVBmU1haYlBvaTdZV083dmVxYTRZZ2JsQXdrbVBIbTlZR3lrWGRIVTRySmRoVE1RMDJwWWoyeHd6blA4eWpLTG91NGVERDJBZVNlZE42SVJqVW1XQzJieVVaUjF5dUNPSGpYSnFtVHJSUHIyeno3bGlJY3JpTG42MlY4UkdIalhsTTY1U3M0X1lucHd0dm1kdG1BV0N6QW9qbEJwbGxZcTRLeDFlZXhFcGUtaHJUa3FPbktjbmRGWWY?oc=5",
    "date": "2026-11-20T03:02:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "556d3951aa5b",
-   "title": "Presidenta Fujimori se reunió con la directora gerente del FMI en el marco de APEC 2026",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTdxVFd1TTU5VmxUeV9WR3ZVb1VhaWFxT2VVLUJUbnFjSDlKSTBySmVGYmQtX2FuTUQyQU1YeC05MUk3NW9POWM5VDJ4ZFhIYlYxOU1hVS1zSFlzWnpPb2ZfaXJhaUNXb29XcndRaDlKQzRTeHE3ZE1jeEVQNTBKZjNFN2tDYlktVkFQWEZZTzBxWXRwQzlpWlFNZm1ZSlBzYzhSc0pvcGlGLWVHekNpSXVNMVQwTzJvckVVXzBB?oc=5",
-   "date": "2026-11-20T02:54:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
