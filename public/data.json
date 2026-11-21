@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:32:20.267703+00:00",
+ "generated_at": "2026-11-21T05:15:05.323076+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -397,27 +397,22 @@
     "lng": -77.00256,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-11-13T11:00:00-05:00",
-   "end": "2026-11-13T12:23:00-05:00",
-   "minutes": 83,
-   "subject": "Asiste a la misa celebrada por el papa León XIV.",
-   "lugar": "Pampas de Pimentel, provincia de Chiclayo, región Lambayeque",
-   "state": "posando",
-   "place": {
-    "name": "Pampas de Pimentel",
-    "full": "Pampas de Pimentel, provincia de Chiclayo, región Lambayeque",
-    "city": "Lambayeque",
-    "lat": -6.701,
-    "lng": -79.906,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 1027,
+ "agenda_minutes_7d": 944,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "78918ea4cbc2",
+   "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
+   "excerpt": "La presidenta de la República participó como “testigo de honor” en la ceremonia de suscripción de los instrumentos.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
+   "date": "2026-11-21T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "34990c41d223",
    "title": "Juan Velit: Presidenta Keiko Fujimori tuvo destacada performance en cumbre APEC",
@@ -447,17 +442,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnNXQWVfSmxJdkhXM2V5cFE5UkthZFJhcjN6QzFwYk9kNVpJUXU0T3hKT3dRajhiV1lCU3RPYUFxNWJvaUw2dlh0LV9GaU1aTGMxOXNDam03SWQxX1NYMWpTWnRqYzgwNER2cTJRMXBKUTRLWERMWnNhbVFnaUxjVGdUcmlKZEdKR244bjV4NUZLNS10RDk0WHZCeGdOQnVkMThMZUk1aVExbHNia2dlSTk1eVlHU3c?oc=5",
    "date": "2026-11-21T02:08:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3756c155f11e",
-   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGthM1IxbWV6bTBGWWVzdHU4a0lQN3hPdEt4WFJQV1dYdEk0OW5KUk83UkxCWERNb1FULXBEc0M1UlFFWlBHNUV3N3RlYnd2UVZxTS1oNURUQUF0cjYwSERlZDZWQ3NUbnRXVDRpZzRDN2xPbE9CcldoYW5aaFA4YXlhcnB0T3cyYldrVnhkZ0g4aDhHSko3MmZ4aHFKbUpTZmIzZVlUbTVEeU1CNGkwcmlRS3JxMy03N0xXQ0I2dw?oc=5",
-   "date": "2026-11-20T22:35:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -532,6 +516,17 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSDhsc2dpa2tNdDJuYVcyaEN5NXFzSUR2OG1sQUlRUkhEUTBERVZfdTFnMUVYQ05QdE1VRDJlZzQtOHQ0NjA5LVlVTEkyZlNIbXdZdHZqTktwRER4VG91TGtwWEFmbWNrcExUNU82OHlWczVxYjFkV2lQWlZqaWVGcFRjUFppRnk1bm4xSEpBVjdWdkJSVWQ1ZzRxd2lOV0dObjVoVUw3UFpsN0dBSVFUZTJzNXQwVDFweXktdUhyV0ptR0IxNWdYWWxvWktvZGY2T0E?oc=5",
    "date": "2026-11-20T17:18:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8e3b04eca0d7",
+   "title": "🔴🔵 Keiko Fujimori se reunió con el emperador de Japón Naruhito",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFk1bmdwY1k1YUpQZjhvSEVXN1haajN0dUZBbzZHQWVPMzRjbHh6OEJOMTFzT0tDczVNRkhqTFBCaW82WkNYTEV4TF93d0NJVGRwbTFqeXMxRXZtTndJX05mN05FUW82aTJtTHB5S1NQR1FQcnJTQ1RtejVLSzJ3Y1hVZktWeG5PRV84TUlfWUhDT25sZEotLV9HVjV4RUU?oc=5",
+   "date": "2026-11-20T16:43:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -753,6 +748,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-inicia-visita-oficial-a-japon-con-reunion-con-la-gobernadora-de-tokio-noticia/",
    "date": "2026-11-20T12:15:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3756c155f11e",
+   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVcweHJfcTZfN3FaYndNTGgydWNZcmMtdVZydy1fWGZSQkJHQ0dHZ2JteFhXZ3hnWUc4YVNILTdEVFRKTVZrazE2OGFVM1VGUUhCMGVkSTQ3dmhOUEJKZmxzUTlENXV4ckNtd3RXUFJRQUlfU3B0YlpiNWtES2xuaExmNk5yRnR1clJQcE9PWXBYUUlLT3FzN1RKUWNSUjZZV1ZGTUVzbERZQTFMaWxyR3MyRFhzQlZtd2c?oc=5",
+   "date": "2026-11-20T11:45:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1080,28 +1086,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHBxcjhlR0VpRHVjZEp5TWVCNHBVMV9KR3BtT0J4amxCRnY2eHM0bGxtWGhLY2dZQnNKT0pCYUZUc0J2NXdEZnU0U2w3Z3NXcGJZb3RRRVNjcGdXVVdrSVhiOGNCalhfejEwSXFPUzBYMXJpNXJVY2dTMk4zVk41RExkSUJnNVNZc0NtVE9sbkd4amlJNEY4ajlrQVo1VkJaYXdqWTBCZw?oc=5",
    "date": "2026-11-19T23:23:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5cc59ac0eded",
-   "title": "Presidenta Fujimori y jefe ejecutivo de Hong Kong abordaron impulso a exportaciones",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2ZRenZCeGRiSXRIbmhUWjJFeDZoQ01ISjBYR3c3c0tEd0dHdDJ2cDEtajJ6VXlIMzNLQVVnM2UyRVVvMnZ0M3hFQUMwbFA3ZjVzXzBENmxYTHRvSHlxTkdycTduZmdzUjl6NzBsYy1aS1BFNkZQUWpBNHpaRW54VEEwNkhrUzA3dVk5OWJqNWZULWh5VTdPTXlna0ZZbzhFeVRQTlgtZS1RbnpyZVRsRWY1cTZ0eHNwZTFn?oc=5",
-   "date": "2026-11-19T23:12:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "933482d25208",
-   "title": "Galarreta aseguró que el papa León XIV estuvo \"tranquilo\" con viaje de Keiko Fujimori a APEC 2026: \"Le deseó suerte al Gobierno\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRFVaaFN6ZUM0R1JRbWR0MWE0eXI3SHhoZFljWm04QktkOE5rS2U2SnA2RHl3UHo3UzRwWWFNb3QzZGlSbnAtcmpXckVQWnJsellGMEV5T0pIMHMtaWJodzZfa3NpeDRWTnFnN0I4WTM2MHkwR0FKdWFybHBSVHRpZnd4TVltejhZcEFmVVlLSUd1SmlWM00xSDNaa0U5NXpOWEMtZU13T3JPZ1JlMDNrRkdiSm1aQUZOU0JQNFIzRXFUbkZQMkZUYTJqdTJHYWZWWGhWQkloenhya3RqMElLd05KaVZ2Y0t3OEJ2U1N0WDZxQThhRDU4LTFaUjVQSVhVWmc?oc=5",
-   "date": "2026-11-19T23:10:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
