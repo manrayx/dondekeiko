@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T03:05:41.220084+00:00",
+ "generated_at": "2026-11-21T03:48:49.822451+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,6 +419,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b8b910b975e5",
+   "title": "Keiko Fujimori y Japón reafirman asociación estratégica y amplían agenda de cooperación bilateral",
+   "excerpt": "",
+   "source": "Revelación.pe",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVhNWlJuWUZ2ZWJVMGFtaFA2YWk2eTNGbC16NFgzUVN2aGdiUnl5YlJVdkNDRnl6eXMwRkJPRng1TGVVcV9tNEdPUTRYOFAyUFhycmo3R2xleDJNX3hKMm00V2ZoSWhLdDJpaklOWkkxUGNrVV9SWHI3WVRPWDc1MVRWVEVSWTdyaTIxd095S0d0WlJZMXlDWWhGZTYtaUVIdFo4a1drcHZ2bkQ2NzF3bmFRZHk4ak16ZzlLVW53azJ0Q2dGY0lmMElvdDN4aFJPRERjd1NNZ0UxbWZlOWdv?oc=5",
+   "date": "2026-11-21T03:42:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "34990c41d223",
    "title": "Juan Velit: Presidenta Keiko Fujimori tuvo destacada performance en cumbre APEC",
    "excerpt": "",
@@ -458,6 +469,17 @@
    "source": "Rumbo Minero",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzVTMV9IY2ZncW1sSU1pREtvdFY1U3diUXBraVF0c3BrNjBYZEdMZFJJVFRraEFIR2JkY1BfU0NMeUE0M2xYSkZ0Y1g2MnZ6WUUxRVA0cWxPUWREVGpOWXNBVk5WcWZic3AyLVgyb1pBNHlJcXh6SlozWXhZN3kzd1R2ek1jdDMwUkRoOGN2d0FMX0s4WFdMOHlVa3g0bDVPSHhfcGhfMjFlRm5xNDJLblQ4MHVCUQ?oc=5",
    "date": "2026-11-20T22:00:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "91c1b972a5c6",
+   "title": "Keiko Fujimori se reúne con el emperador de Japón y destaca vínculos históricos",
+   "excerpt": "",
+   "source": "DIARIO VIRAL",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOThSTUt0TVBmYThYeWNTRkhxaXhNblN5alNUaWN4c1I2aE5GWk42NVNZTnJwRmNabkJVV0NPZ0pTcWhLdW5zRUJtbGlsMUU4UGkwY3hxMmhUVlB2SlMtUlBBWVpybUQ4QUhfcFJtQXpXeGVaV0pkQWJId2tsc0dlRDY0VzBzS091eG05ZXhpWXFlQzdsTEpEeTZUSlp1RjduNDlOLTlUd3lqempNeFM5UzZ3Zw?oc=5",
+   "date": "2026-11-20T19:36:51+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1082,34 +1104,6 @@
    "date": "2026-11-19T23:10:18+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "e5a5ee31365a",
-   "title": "Fujimori dialogó con Sheinbaum sobre restablecimiento de relaciones diplomáticas",
-   "excerpt": "La presidenta de México, Claudia Sheinbaum, aseguró este jueves que mantuvo una “breve reunión” en Shenzhen (sureste de China) con su par peruana, Keiko Fujimori, que sirvió para “restablecer las…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/sheinbaum-informo-que-se-reunio-con-fujimori-en-shenzhen-para-restablecer-las-relaciones-noticia/",
-   "date": "2026-11-19T23:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "43de5c4af47f",
-   "title": "Premier Luis Galarreta: “El papa León XIV me preguntó cuándo viajó Keiko Fujimori (a China), le deseó suerte al gobierno”",
-   "excerpt": "El jefe de Gabinete relató detalles de la conversación que sostuvo con el pontífice durante su despedida en Lima y destacó la actitud que tuvo hacia el Ejecutivo",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/19/premier-luis-galarreta-el-papa-leon-xiv-me-pregunto-cuando-viajo-keiko-fujimori-a-china-le-deseo-suerte-al-gobierno/",
-   "date": "2026-11-19T22:53:05+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
    "next": null
   }
  ],
