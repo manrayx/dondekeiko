@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:51:36.274408+00:00",
+ "generated_at": "2026-11-21T00:12:53.613955+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -425,6 +425,17 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNGthM1IxbWV6bTBGWWVzdHU4a0lQN3hPdEt4WFJQV1dYdEk0OW5KUk83UkxCWERNb1FULXBEc0M1UlFFWlBHNUV3N3RlYnd2UVZxTS1oNURUQUF0cjYwSERlZDZWQ3NUbnRXVDRpZzRDN2xPbE9CcldoYW5aaFA4YXlhcnB0T3cyYldrVnhkZ0g4aDhHSko3MmZ4aHFKbUpTZmIzZVlUbTVEeU1CNGkwcmlRS3JxMy03N0xXQ0I2dw?oc=5",
    "date": "2026-11-20T22:35:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7c3f5ea2021c",
+   "title": "Keiko Fujimori invita a empresarios de Japón a invertir en Perú",
+   "excerpt": "",
+   "source": "Rumbo Minero",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzVTMV9IY2ZncW1sSU1pREtvdFY1U3diUXBraVF0c3BrNjBYZEdMZFJJVFRraEFIR2JkY1BfU0NMeUE0M2xYSkZ0Y1g2MnZ6WUUxRVA0cWxPUWREVGpOWXNBVk5WcWZic3AyLVgyb1pBNHlJcXh6SlozWXhZN3kzd1R2ek1jdDMwUkRoOGN2d0FMX0s4WFdMOHlVa3g0bDVPSHhfcGhfMjFlRm5xNDJLblQ4MHVCUQ?oc=5",
+   "date": "2026-11-20T22:00:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1099,17 +1110,6 @@
     "abroad": false,
     "city": "Lima"
    },
-   "next": null
-  },
-  {
-   "id": "3b1dfabf1158",
-   "title": "CCL pedirá a Keiko Fujimori reducir el gasto corriente del Estado durante CADE 2026",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdU9FbGd1ek5CeUVWRjJZSE9SNGMyVllTN3RhTmJLanMtTTJCczc1UDM3cjFoSG9HaGlFUkd5ZmN3SXhvbTE4M2p4QjlXdVgyOVBkQUFVWm9uOVpGZDFtQWFoTTNWRWhWazFxRk1IU01zSmMtM3d1UHFrU3dpZmZhcnR0ODZTTHNfNW1Qd1Vuc0dZSzNJaEZBVEd1V2dOOWpkX2pSNlVkenRlVF8td21yeXQxWlJqUTVwOFhwSk5yR1UtdWtXdGVubjZBdXk2MHI0UHJhWUln0gHbAUFVX3lxTE9zckJiZ05fc2dGZEFqek9tV3JyclU4bEo4MkQ3NlpMVnJ0MF9JQ2pNN2tGSHZKWFFvV045QUNzVlhteUUyNmx6NEtrcjA1NHRlUDlFZDc0anIwcUZ6ZHF2Qy1hSnhoTXZqbzlwaFFBaGp6Tk1xeTg4NFFCcXJGa0tkVHpmVjJ4Xzh6R3lZQnVFOXlLTkFOQlJGSHlybmtSZTg5ODZuckMzWDBCWHBfMHZYTEhrLTBndE0yWU1ENUpzdnZneXFYdmZLZjV0U1BrbkJrT21wRVBmQTU5RQ?oc=5",
-   "date": "2026-11-19T22:40:14+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
