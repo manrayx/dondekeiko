@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T18:27:15.446547+00:00",
+ "generated_at": "2026-11-21T18:48:56.731046+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,12 +428,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "02cda06ecf85",
+   "title": "El rol de Keiko Fujimori en la cumbre de APEC 2026: acuerdos, reuniones y gestiones",
+   "excerpt": "La presidenta peruana cerró su participación en Shenzhen con compromisos de cooperación de China y Corea del Sur, un acuerdo comercial con Tailandia y reuniones para atraer inversiones y ampliar…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/21/el-rol-de-keiko-fujimori-en-la-cumbre-de-apec-2026-acuerdos-reuniones-y-gestiones/",
+   "date": "2026-11-21T18:44:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3574e20b0a66",
    "title": "VIAJE DE KEIKO FUJIMORI AL FORO APEC 2026 FORTALECE LA CONFIANZA INTERNACIONAL EN EL PERÚ, SOSTIENE ECONOMISTA CÉSAR ZAMORA",
    "excerpt": "",
    "source": "RCR Peru",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0ZhbWsteHFMMjNsOFZVRkpXQnVwQWNobWNBY2FyVnRNeG5XRzlOOUtTR1hBVDlnVkM4VUxoYWI5N1NxUm5xMWxqbTBkUmRqNzhzaW5aRVhpWlBKQ0hSTEpVclFtY2lic3ZsM2tTT2tqdzJpMXpGQXpiakl2OWtMTHRHVGtzWm5oOXhtU3dJUWxaQzdHZFN5cktwZldjX3dXYjg5dGtobDh3NXp4amYzOFNibm05VUQ4NTI4Zlg0TWN5VW84aVFyaXZ1V1JSNUk3SlRyemVpMkpJTUlQdmdsRw?oc=5",
    "date": "2026-11-21T18:16:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1bbff4b7fb5a",
+   "title": "Presidenta Keiko Fujimori: APEC es una gran oportunidad para el Perú",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1J4aXVCRzNzd3o0bmNGWTF5b3dPNDZPM1BsMW5EQjljdWRmX0phTXpscVJSREJwZ2VOUmJhLXlnOGxBbjhrNzhjS3AyaE1wMW5WdVpHdzM3TnNSR1hka2JZZGZEcmhtV1FCN1UzSEFIdlA2ZnJEalV5REgyT1ZTS2FjbDhkSkkxS2hUUDNOdWljTFNKN1VSU2J6UExhaXhlS0hValdhWV9tbmRtM2VoZ2RqYzNna0FSVlE?oc=5",
+   "date": "2026-11-21T18:16:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1092,32 +1114,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
    "date": "2026-11-20T02:31:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dd89807c5209",
-   "title": "Presidenta Keiko Fujimori llegó a Japón tras su participación en APEC 2026",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2Vob0NxZU9VTTI3dVNUdjNQVHNpSm00V2dxVl85Q3NDUEY5dHdXN3h1VG94MFJ6NXdtQ3dQVV9oV09aNXhwWERIbTVXQkJYQU84cFBTMmJGcmRUNGJBTFRuSGM2S3Exb0FmTjExYnVpMEFaci10VEs0dVh1dkhsREQxTDFFNFpyMTlRV0d3ejM1SE9WZ0VwUGlmeUZBNGlMQkpUUXV1U2szd3F3dWgyV1VWT3dIUnhq?oc=5",
-   "date": "2026-11-20T02:26:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Japón",
-    "abroad": true,
-    "city": "Japón"
-   },
-   "next": null
-  },
-  {
-   "id": "a346a9129d70",
-   "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones, luego del aporte de US$ 45 millones de China",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
-   "date": "2026-11-20T01:42:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
