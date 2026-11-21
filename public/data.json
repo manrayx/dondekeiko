@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:31:44.018113+00:00",
+ "generated_at": "2026-11-21T15:36:11.726591+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -540,6 +540,17 @@
    "next": null
   },
   {
+   "id": "dc57d6cb5f37",
+   "title": "Keiko Fujimori se reúne con diputados japoneses: ¿qué acuerdos busca impulsar?",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOUUppUEJLX1duWFFkeVVIcENzZXYtN0lYdEV6SG1kZEwtMGpSN2tISTlhNlBON2lJRHlQdzZmLW9mT2ppYWdZN0stN255d0xsNnpBV3MwVmdpdnUxbXBocTZSU3lTUnlGOENZVGlxODFlc1FCSkJ3dWpUN0MxUjVaZ3N1WTZEaG1wQk1kd2xHQmhRNVlWSnlMUkJWTjdSdkMxcVl5enR4NHlqLTJHN0lpOHlKRHI2S1NwV0FQMnBaZHFuNDllU0NEblpCQXFhbEZrdHUzQ3lFSngxQVl0bHUtOVphNjhad1BsUDB5VW9OSmhtSml0QWhnU3g4c29HWEh3RWxPZzA3My0?oc=5",
+   "date": "2026-11-20T21:57:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "74956e41213a",
    "title": "Keiko Fujimori consolida la alianza estratégica entre Perú y Japón tras su visita a Tokio",
    "excerpt": "",
@@ -879,6 +890,21 @@
    "next": null
   },
   {
+   "id": "46aa51f2e36a",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por el emperador Naruhito en el Palacio Imperial de Tokio",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTU84dHJoZ3dIaXR0d21NV2Zpb2xpR2ttSWpVMWJWbnJPTGYtaXVlMFhnYVlnYTVXOUs4UjBvcmxRTEFOUmZ4LWtoNUFoTXlfZ0Iwd0VoQ3E3Z19kT2duN2V0M05vU2NHcVBMbTdLVWc2QkFXWXMtR2lvYksxRDZEb2lVMHFxNEpYbVdJQ1NTRHhZSjlWYXZwampFNkE1TzZsRTc1YnFYSFFPTHdmSlZfWUNScTRPcFMzVnhOcmtSanFJdlRVcEZLSHFNVFlqRzNPdU1QYw?oc=5",
+   "date": "2026-11-20T11:09:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio Imperial de Tokio",
+    "city": "Tokio",
+    "abroad": true
+   },
+   "next": null
+  },
+  {
    "id": "14f72b196186",
    "title": "Keiko Fujimori pide que Perú sea la \"puerta de entrada a Sudamérica\" en su visita a Japón",
    "excerpt": "",
@@ -967,6 +993,17 @@
    "next": null
   },
   {
+   "id": "512b025769a8",
+   "title": "Keiko Fujimori destaca resultados de su visita a China por APEC 2026: “Ha sido una agenda muy fructífera para el Perú”",
+   "excerpt": "",
+   "source": "Latina Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVFpnc01qUENuYWZ4QW1fdW5sMFZWM2ZHWWxtR0REdjZZR1lWWFZCMWU5MmxQZ2FsdnFlNE9oMW14Q0gybmJ1RGJsV2lReWRsR1FqWkJoSjNBTlFiMW95eUVra05FbGM4OXNkQkhXeHFyMW94X3Q5X2I0cTNvQm1xS3Jxck5hVWtZRFB0anZUbExISTMzZHZrNDhYZjdVb29PNTg0aXRsNnNnQzlJYzZ6b3F2SW1tNTkzTlRrTmFuYmdYa0hjbjczS0NlMFlhUGNiTGVkdEtqcWR3UFdpUUpaM1ZnRTA1TFVtSkViWkp6TDVuUQ?oc=5",
+   "date": "2026-11-20T03:37:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "792140b7c7cd",
    "title": "Keiko Fujimori anuncia donaciones de US$ 47 millones de China y Corea para el Perú",
    "excerpt": "",
@@ -1022,6 +1059,21 @@
    "next": null
   },
   {
+   "id": "dd89807c5209",
+   "title": "Presidenta Keiko Fujimori llegó a Japón tras su participación en APEC 2026",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2Vob0NxZU9VTTI3dVNUdjNQVHNpSm00V2dxVl85Q3NDUEY5dHdXN3h1VG94MFJ6NXdtQ3dQVV9oV09aNXhwWERIbTVXQkJYQU84cFBTMmJGcmRUNGJBTFRuSGM2S3Exb0FmTjExYnVpMEFaci10VEs0dVh1dkhsREQxTDFFNFpyMTlRV0d3ejM1SE9WZ0VwUGlmeUZBNGlMQkpUUXV1U2szd3F3dWgyV1VWT3dIUnhq?oc=5",
+   "date": "2026-11-20T02:26:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Japón",
+    "abroad": true,
+    "city": "Japón"
+   },
+   "next": null
+  },
+  {
    "id": "a346a9129d70",
    "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones, luego del aporte de US$ 45 millones de China",
    "excerpt": "",
@@ -1050,50 +1102,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmRUWEVTcktsT2NDSDBxWERDRjhFdmpWTjU5d3RnMXh5aERERHI4MUo4ODdaYWFKV1dBcGpiWHIwOGZoZXhMZThOWEFYRFNnWThrT1Y1NGlOZXJhdFk0TW85M2Y0dEhrTG9zMFRLaGJMR0JKLVJPd0VXTTRIRGJ2al9tb18xSlN6VHVhSUQ1ajlKdzgtT3BaeWJKdER3WXBKYVEtR1VjTEd3eTBSelJpTGhFMDNrazNtV000VU5iUGREdlFaa2NOZl9QTHc?oc=5",
    "date": "2026-11-20T01:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a1ba6a848b63",
-   "title": "Keiko Fujimori se reunió por primera vez con Claudia Sheinbaum tras restablecer relaciones con México",
-   "excerpt": "La presidenta mexicana confirmó que ambas sostuvieron una breve conversación en Shenzhen, China. Según Sheinbaum, la decisión de recuperar los vínculos diplomáticos partió de la mandataria peruana.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/19/keiko-fujimori-se-reunio-por-primera-vez-con-claudia-sheinbaum-tras-restablecer-relaciones-con-mexico-hnews-1364295",
-   "date": "2026-11-20T01:16:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5614d1671ecc",
-   "title": "Peru's President Keiko Fujimori meets with Philippine counterpart | News | ANDINA - Peru News Agency",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzZLNFZ1LXh4WG15MXFqZ0NDdlFJSmhyU3VEenZTc3VabWhqdkkxT0x5QW5JUFYxblVrSFMxUHYzQ1VSNEs3V2dVOTY2Y3ZNbzJBaTlJcFkzMF9PSzBNR3U5cjMtOWlfbHYxVHpZWHRMSkpaMnhycGh0OEdiaTdTSk1hZlhoUnhIR1BlVWNSbnJWUG5WajJxcGJac3R5R1kzTng4Qllkdnd0b0ZDWi1v?oc=5",
-   "date": "2026-11-20T01:04:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a9008d1b4282",
-   "title": "Luis Galarreta dice que el papa León XIV estuvo \"tranquilo\" con el viaje de Keiko Fujimori a APEC 2026",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTctR3V1dVJsTkFCaHh0YkZTQ1RKbUh5V0NoRkVlWmtfREVqS3hWSVhETDE0c2R0WnJHcjdrMm9ENGxDSkw0NVJrUzNoVDFYdHhIaEw4eGd1LVAtbVR4cml4c05IMWFQLVdFU2RtWnVoZDc5UmE5X2J4R3NHYmE1RUNkS0VibmQ0SVdvYlRXNHBXTENoQk1IT21Eenp2aGVfMXQ5cDFLdHMyOGx0YWYzRWVGWVhJSGZkaEI3ZHNaVGJZV2pPcGpOSA?oc=5",
-   "date": "2026-11-20T00:53:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "247aae849ac4",
-   "title": "Iván Arenas Keiko, el equilibrio entre las olas",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRNmJhcjVYRVd0SWllMVJQYi1FaVpkRDduNU1ic2trQ3RqZ3dsRmp0T0RwNFJvRE4wQk8zZ1F5dFllLUMzd0lxVk90N25JRlYtZ05vNEcyTUJRaTlkUFhra3Vtczd0Y3VXM1JjclM5OE5Ec2pHQWtuV1pwazRvQQ?oc=5",
-   "date": "2026-11-20T00:39:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
