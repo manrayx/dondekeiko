@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:35:39.589149+00:00",
+ "generated_at": "2026-11-21T20:56:54.053424+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "eac87414842f",
+   "title": "Errores que el gobierno de Keiko Fujimori debe evitar para no repetir crisis política",
+   "excerpt": "Según el análisis, la estabilidad del próximo gobierno dependerá de su capacidad para recuperar la confianza ciudadana y alcanzar consensos en sectores como salud, educación, seguridad e infraestructura",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/07/16/los-errores-que-el-gobierno-de-keiko-fujimori-debe-evitar-para-no-repetir-crisis-politica/",
+   "date": "2026-11-21T20:35:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5d909d96b474",
+   "title": "Keiko Fujimori: \"Estamos en un momento importante de la relación con China\"",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVV4OEw0Z3pjQm5Fa1pLWjdTTTczTHVBR05oQ0J3LVFseDNuTlBvc183QVNrWk5yN21KejBHcnpvUXVlV1dvVXhUMmpINFhYbEpzck11ak5rM3d2X19jMGdobVZwWmREREJTUUhNMHZoQkR2ZzY4WWd1MFBLR2lXREhwMUhjR1JYQmgxNnBTWDV0X21kdW53ajU3MVJpSnFJaGc?oc=5",
+   "date": "2026-11-21T20:30:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "02cda06ecf85",
    "title": "El rol de Keiko Fujimori en la cumbre de APEC 2026: acuerdos, reuniones y gestiones",
    "excerpt": "La presidenta peruana cerró su participación en Shenzhen con compromisos de cooperación de China y Corea del Sur, un acuerdo comercial con Tailandia y reuniones para atraer inversiones y ampliar…",
@@ -770,7 +792,7 @@
    "title": "Keiko Fujimori se reunió con el emperador Naruhito en el Palacio Imperial de Japón VIDEO",
    "excerpt": "",
    "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWFMSlFZTGhMeWxyaThmbXRHZFJxS3pHYjAzRTd1Q1EwOFNCOEotdU9WN1VqMXBSNmY1a0luam9RYWNJY3U0VkE5Z0Z0ZmhvS0VMbUhsTmlRYlpjWkpYT3FBWVdBLXNDWURnb0NXbmFHbGxKWTJQMnVhZlBsd3lkVUYtSVJSUG5aWTg1MFFEWVpuazNLVEllTWFMcEt6NHd5N1dQXzNhMGtZVlEwSTNObXEtZjQ5aEU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMmw0VElnX1lRY1lJQW9xTnBWOGFoOTYydmdOWXBpTDBpaDZiTjlwQXV0UldSZXJBbVZPRW5vNUtMN1haWGI4OXRuRktQOGtHbFVXM005d1k3QW5kdmNkc3Q0MGRLRjhGaXV0bnJnN3dEdjVleERrSHpib0V3ekYtdW1NalZmQV9xcl9hSjNobUYtdndhZldNUlRoek5hQnR4b2pjRURmZmhROS0wWS1lc200dFlKLU5DUTlwNQ?oc=5",
    "date": "2026-11-20T14:57:46+00:00",
    "state": "posando",
    "place": {
@@ -807,7 +829,7 @@
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y la primera ministra de Japón",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzFxWUlxNVZiUE9zYWZ3cVptLWhRMFZLUkoxYUM1TElzUHJheVYwV2tzZlhSaDR5TExEemdrQTlWMUVzUnpJa2ZzWU0yLU5nYjIxaXJjVEZkX21qaHBUSWw0WUlRUkRaUVNBeDMwVTBrWENlaGtGSHJia2w5T29VdDFoVU9lcnI3QVpJd0RWUG5QVmEz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzA0alE3NGZBV2FJc2tpX2ctRG8xWnZBelRxdEVhSVlkUWlhbk1yMDA5TmpWZXA4NzVteENnVk9nTzFENkc0bWRzdVA1ZnhCOE9lT1l6d19LWl9OQXVIOW5XeVVqQjNGYS1tYUVVNzNkV2ZYdVBNcm9TY0N1R1dmeTRQZXlYY3Q1Um5BTlhwRWdTUmxjWGpiT0plMzNyY1Q3dzl6WFRLbmxRbTY0N04tWWhGMmIzLVkyV0Rv?oc=5",
    "date": "2026-11-20T13:39:23+00:00",
    "state": "posando",
    "place": null,
@@ -1092,28 +1114,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTdxVFd1TTU5VmxUeV9WR3ZVb1VhaWFxT2VVLUJUbnFjSDlKSTBySmVGYmQtX2FuTUQyQU1YeC05MUk3NW9POWM5VDJ4ZFhIYlYxOU1hVS1zSFlzWnpPb2ZfaXJhaUNXb29XcndRaDlKQzRTeHE3ZE1jeEVQNTBKZjNFN2tDYlktVkFQWEZZTzBxWXRwQzlpWlFNZm1ZSlBzYzhSc0pvcGlGLWVHekNpSXVNMVQwTzJvckVVXzBB?oc=5",
    "date": "2026-11-20T02:54:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "429b5b62988f",
-   "title": "Keiko Fujimori califica de “muy fructífera...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakVhcEx2MUFzaGJ2V05XSHJzTnBFZUhOZjJrZC1JSHFoYmV0MmgwUjUxbXNSUnFTaHBYME1BOUxFbTBnWjlLVG44QkJHNlNZM1NTODJCQzBqTVhzZUtndU41T1N5NENvSmdYbnZuSWFwb0p4bnZOd1Y1a1czN3dNT0ZlSEt6Q0tHUVhTeHhsR18wOWRrdkR6eF9Ec2ZQaDdXODBVOXlfb3Y5a21xOVHSAbMBQVVfeXFMTXVnTGVQajFGd2ZuVUdic19yNGVPM0daZ2dMRmtoM2EtWUNwMzhKYWc0N2dVNUNfQUhJdEItSDF0cUZHUFV3TnZSbk9nOURES1BLU1JqME9wT3NGbHBOZFZKZUR5Q1lUcjhkb1pKLUZNWW9BclNqT2h3RjBaSm9nYUFZbC1tbHdpYmlZZXYzQ2hIUC1EcGV1Zk9rNVdHdlpvSEMxZ1FBbzYyeW9vYXEtZjFkdmM?oc=5",
-   "date": "2026-11-20T02:37:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "05fc1d100f9b",
-   "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con gobernadora de Tokio: ¿qué temas abordaron?",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYkFweVZ1azlmRUJoSHltVFlHUnc4SGkwTDlOMHA1X3psUlNXNWVqUlBhdkRoZWtCSm1sd1lVQV9XeHBrbURzRlNaNU52eGJxQTd1bmNYb2YweUFQVHc4U0dveUNwUGZWVDlJM0dQZHlOTFp5NTVQanFFSDlfUjE5NFhMdHZSZm1KeFM3U0tIbkQwWFJ6aGN3b25ROTdSQnZmWkNHVkZFXzRHV2I5cl9QWUUwd1c0R0d4VmRvQ1NtOGR2Q092?oc=5",
-   "date": "2026-11-20T02:34:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
