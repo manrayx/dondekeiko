@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T10:36:49.485374+00:00",
+ "generated_at": "2026-11-21T11:19:06.336590+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Tokio",
+   "name": "Japón",
    "abroad": true,
-   "city": "Tokio"
+   "city": "Japón"
   },
-  "source": "Reporte Asia",
-  "date": "2026-11-20T18:02:53+00:00"
+  "source": "www.apnoticias.pe",
+  "date": "2026-11-21T11:02:38+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -403,6 +403,21 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "02ebacce77f0",
+   "title": "🤝 Keiko Fujimori se reúne con Sanae Takaichi en Japón ¿Qué busca Perú? #ADNRPP",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcU9ySmtoLVA3anExTkJTb01IOWlYLVQyTEc5cElualdJeS1yV3RRbDRLRjRqNEQ1RjU1TE4yT0ZoWmZNcnltYjktT1M0Q3hsU3NMYktkSTlpWTlBa3FSMV93akRWX3pfdzRSMUx6MjdJQVRQb2RpOEFlMDJOcUVqSlVlT0Zqc1E2Ri1CYmY2MVRHWkxUUmtUbV9VX2dRNUFNRC0wT0ZIOVptTjkyQ2dxTlZR?oc=5",
+   "date": "2026-11-21T11:02:38+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Japón",
+    "abroad": true,
+    "city": "Japón"
+   },
+   "next": null
+  },
+  {
    "id": "34990c41d223",
    "title": "Juan Velit: Presidenta Keiko Fujimori tuvo destacada performance en cumbre APEC",
    "excerpt": "",
@@ -431,6 +446,17 @@
    "source": "Revelación.pe",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVhNWlJuWUZ2ZWJVMGFtaFA2YWk2eTNGbC16NFgzUVN2aGdiUnl5YlJVdkNDRnl6eXMwRkJPRng1TGVVcV9tNEdPUTRYOFAyUFhycmo3R2xleDJNX3hKMm00V2ZoSWhLdDJpaklOWkkxUGNrVV9SWHI3WVRPWDc1MVRWVEVSWTdyaTIxd095S0d0WlJZMXlDWWhGZTYtaUVIdFo4a1drcHZ2bkQ2NzF3bmFRZHk4ak16ZzlLVW53azJ0Q2dGY0lmMElvdDN4aFJPRERjd1NNZ0UxbWZlOWdv?oc=5",
    "date": "2026-11-21T03:42:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3994db69d8e3",
+   "title": "Presidenta Fujimori se reunió con diputados japoneses para ampliar inversiones y cooperación con el Perú",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTdpQWFrLVl1M1NaVWdEY2Z3OVRzQm1McW1jTTA3cTNVRXlXUnhkZkVnWUZfbjJLd1RqVXBZSFBZTFdRNnpsUFpnaHFzckJFNm1xcDhra1RKWkVUT0Q5M2lJWDh3S0NRSFJRTmlnNDlmNHVLVFp5WGpLUUgydFZLMGV3bklsV2JJS25mV2xDWXE3X0N4Y2tuVmlzWnZtNHJoeGdwZng2YWF5R294cG96bVBuMGJFRUlrQ1BzUFhRUTBYUQ?oc=5",
+   "date": "2026-11-21T03:02:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1060,32 +1086,6 @@
    "source": "julioastillero.com",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTNQT1hRMGExNnNKc3JpcHlqcl85Y25YWTFOLU9CdkN6QWE0cEU0Q3F4Q2RfdEZoeHFkZ0FTMmFKSW52ekQ0a21ESlQ3bHRxaVhBUUMtSDdFQUtRT0h1MjRCV0NHcFgxS1JyTi1TQWkwbllXOGFpR3ZxUnZSeVMtNzh2czloT002QTRLVEJyRDIzUEZydExOemdIVFpKNko4aXI1UWJMM2dHSnYycmswY3JGaEhRazhPYUVQRUtUdEZRQzdvakp3?oc=5",
    "date": "2026-11-19T23:54:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "28033d183f17",
-   "title": "Keiko Fujimori se reúne con el emperador y la primera ministra de Japón este viernes en Tokio",
-   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMVM3SUZJYnRoVExzQXBKQXhGc2doU25WOVk2OEE1MVNjSWJPa3N3OVJERHdBWVhhWk9xTVdKX3pHdFIxajNiNnJhYUtpRi1mY0JZcnVQOXNaWXB5LTFhWFN1Q0RXSEhpWkVHQXNmdEp3c2xQX2NWb2x5c3ZPSEUxbUNVdUltMlpzNzFGYy1NeVB3XzR1UWdCNmQ3ZXF0UTBUc3ZLcUdKeDg1WlF1c2djOFROUXZZbW5EcjF1eHNVSHBSdUhwZXJYcFhCVFcyNDF2ejkzdlYyRWN2ZC1SdUF2Nk9tTE9vbUXSAfsBQVVfeXFMTlhlV2pteUJDSkNUQ1pPMnNiZmMzMVhmVzZpM0Q3WjlSXzZReU81NjNVRnlxNWZraUFsVl83Y0U0ZVAyQ2g4Q01VSVJ3XzFWRWhSaGxibWNPMWdRNllnaDZNQU1yaTlibk1Gb29HdElXVUEwUzNmRURFOWROSGhZVENSZmJoRWpOOGhzaWFuWUxxQk5wTWFBUTRYRkhrZUtnMFdkdHI3S1FKWHFwZUcyY1dNWWxlc19scUdBdXBIUEs2MVlVWEg5WDhiWGtFSUdTazhiOGRTNlhOdEdHZE5MV3p3Qk5XWEJTMlBlU3BsaU9NRk9PcTFsVUkteGc?oc=5",
-   "date": "2026-11-19T23:50:07+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tokio",
-    "abroad": true,
-    "city": "Tokio"
-   },
-   "next": null
-  },
-  {
-   "id": "f93336217445",
-   "title": "Luis Galarreta sobre el papa León XIV: “Estaba absolutamente tranquilo, le deseó suerte al Gobierno cuando se despidió”",
-   "excerpt": "El jefe del Gabinete Ministerial, Luis Galarreta, afirmó que el papa León XIV estaba al tanto del viaje de la presidenta Keiko Fujimori a China y le deseó suerte al…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/luis-galarreta-sobre-el-papa-leon-xiv-estaba-absolutamente-tranquilo-le-deseo-suerte-al-gobierno-cuando-se-despidio-ultimas-noticia/",
-   "date": "2026-11-19T23:48:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
