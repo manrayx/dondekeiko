@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:39:55.616910+00:00",
+ "generated_at": "2026-11-21T18:27:15.446547+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -427,6 +427,17 @@
  "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "3574e20b0a66",
+   "title": "VIAJE DE KEIKO FUJIMORI AL FORO APEC 2026 FORTALECE LA CONFIANZA INTERNACIONAL EN EL PERÚ, SOSTIENE ECONOMISTA CÉSAR ZAMORA",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0ZhbWsteHFMMjNsOFZVRkpXQnVwQWNobWNBY2FyVnRNeG5XRzlOOUtTR1hBVDlnVkM4VUxoYWI5N1NxUm5xMWxqbTBkUmRqNzhzaW5aRVhpWlBKQ0hSTEpVclFtY2lic3ZsM2tTT2tqdzJpMXpGQXpiakl2OWtMTHRHVGtzWm5oOXhtU3dJUWxaQzdHZFN5cktwZldjX3dXYjg5dGtobDh3NXp4amYzOFNibm05VUQ4NTI4Zlg0TWN5VW84aVFyaXZ1V1JSNUk3SlRyemVpMkpJTUlQdmdsRw?oc=5",
+   "date": "2026-11-21T18:16:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "3bba476dbdc0",
    "title": "El INPE no se va: Gobierno de Keiko Fujimori deroga norma que disponía su desaparición",
@@ -1103,17 +1114,6 @@
   {
    "id": "a346a9129d70",
    "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones, luego del aporte de US$ 45 millones de China",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
-   "date": "2026-11-20T01:42:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c565dfe662d8",
-   "title": "Keiko Fujimori anuncia apoyo de Corea por US$ 2 millones al Perú",
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
