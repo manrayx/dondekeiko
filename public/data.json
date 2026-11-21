@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T15:36:11.726591+00:00",
+ "generated_at": "2026-11-21T16:18:35.759520+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -128,6 +128,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-20T22:19:00-05:00",
+   "end": "2026-11-20T22:49:00-05:00",
+   "minutes": 30,
+   "subject": "Presentación de Jolín Bazán Valderrama, alias ‘Jolín’, presunto cabecilla de la organización criminal ‘La Nueva Jauría’.",
+   "lugar": "Dirección de Aviación Policial, Callao",
+   "state": "posando",
+   "place": {
+    "name": "Dirección de Aviación Policial",
+    "full": "Dirección de Aviación Policial, Callao",
+    "city": "Callao",
+    "lat": -12.02823,
+    "lng": -77.10499,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
@@ -408,7 +424,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 944,
+ "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -1267,6 +1283,10 @@
    -12.08546,
    -77.00787
   ],
-  "sala del acuerdo nacional – pcm, peru": null
+  "sala del acuerdo nacional – pcm, peru": null,
+  "direccion de aviacion policial, callao, peru": [
+   -12.02823,
+   -77.10499
+  ]
  }
 }
