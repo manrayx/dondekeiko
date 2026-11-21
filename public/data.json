@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T16:18:35.759520+00:00",
+ "generated_at": "2026-11-21T16:39:55.616910+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -148,7 +148,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -159,6 +159,38 @@
     "lng": -77.043,
     "abroad": false,
     "approx": true
+   }
+  },
+  {
+   "start": "2026-11-20T12:40:00-05:00",
+   "end": "2026-11-20T13:07:00-05:00",
+   "minutes": 27,
+   "subject": "Entrevista con el conductor de Tú tienes la palabra, Joel Quezada.",
+   "lugar": "Conexión desde la PCM, Cercado de Lima",
+   "state": "entrevista",
+   "place": {
+    "name": "Conexión desde la PCM",
+    "full": "Conexión desde la PCM, Cercado de Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-20T11:37:00-05:00",
+   "end": "2026-11-20T12:36:00-05:00",
+   "minutes": 59,
+   "subject": "Entrevista con el conductor de #BaellaTalks, Alfonso Baella Herrera.",
+   "lugar": "Sala Quiñonez de la PCM, Cercado de Lima",
+   "state": "entrevista",
+   "place": {
+    "name": "Sala Quiñonez de la PCM",
+    "full": "Sala Quiñonez de la PCM, Cercado de Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false
    }
   },
   {
@@ -206,6 +238,22 @@
     "city": null,
     "lat": -12.08546,
     "lng": -77.00787,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-20T08:18:00-05:00",
+   "end": "2026-11-20T08:47:00-05:00",
+   "minutes": 29,
+   "subject": "Entrevista con la conductora de Primera Hora, María Fernanda Montenegro.",
+   "lugar": "Estudio de Tv Perú, Santa Beatriz, Cercado de Lima",
+   "state": "entrevista",
+   "place": {
+    "name": "Estudio de Tv Perú",
+    "full": "Estudio de Tv Perú, Santa Beatriz, Cercado de Lima",
+    "city": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
     "abroad": false
    }
   },
@@ -311,22 +359,6 @@
    }
   },
   {
-   "start": "2026-11-17T12:40:00-05:00",
-   "end": "2026-11-17T13:07:00-05:00",
-   "minutes": 27,
-   "subject": "Entrevista con el conductor de Tú tienes la palabra, Joel Quezada.",
-   "lugar": "Conexión desde la PCM, Cercado de Lima",
-   "state": "entrevista",
-   "place": {
-    "name": "Conexión desde la PCM",
-    "full": "Conexión desde la PCM, Cercado de Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
-  },
-  {
    "start": "2026-11-17T12:15:00-05:00",
    "end": "2026-11-17T13:35:00-05:00",
    "minutes": 80,
@@ -344,22 +376,6 @@
    }
   },
   {
-   "start": "2026-11-17T11:37:00-05:00",
-   "end": "2026-11-17T12:36:00-05:00",
-   "minutes": 59,
-   "subject": "Entrevista con el conductor de #BaellaTalks, Alfonso Baella Herrera.",
-   "lugar": "Sala Quiñonez de la PCM, Cercado de Lima",
-   "state": "entrevista",
-   "place": {
-    "name": "Sala Quiñonez de la PCM",
-    "full": "Sala Quiñonez de la PCM, Cercado de Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
-  },
-  {
    "start": "2026-11-17T09:47:00-05:00",
    "end": "2026-11-17T11:00:00-05:00",
    "minutes": 73,
@@ -369,22 +385,6 @@
    "place": {
     "name": "Sala Pérez de Cuellar de la PCM",
     "full": "Sala Pérez de Cuellar de la PCM, Cercado de Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-17T08:18:00-05:00",
-   "end": "2026-11-17T08:47:00-05:00",
-   "minutes": 29,
-   "subject": "Entrevista con la conductora de Primera Hora, María Fernanda Montenegro.",
-   "lugar": "Estudio de Tv Perú, Santa Beatriz, Cercado de Lima",
-   "state": "entrevista",
-   "place": {
-    "name": "Estudio de Tv Perú",
-    "full": "Estudio de Tv Perú, Santa Beatriz, Cercado de Lima",
     "city": "Lima",
     "lat": -12.046,
     "lng": -77.043,
@@ -459,6 +459,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
    "date": "2026-11-21T13:32:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "15fd0b7d39fe",
+   "title": "Presidenta Keiko Fujimori se reúne con empresarios japoneses",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcktOallCS1ZVOVEtOV9aZTJsWnQyNmJiTWxCZE10czJudE56Q1NKX1liN09pVHpBeFZ4ZllXLUJoYVFDaHI5Qklua295RUlQbTZkZVhBR2NhWUFGclFoVGJ2SkJ0ZDRLRFpSUFQ2dWp2YUg3VFdMYVFyNExjeXpOZkZtNWlTU1RvWVpJV0FENmZtbk8yc29DY0VRQ0FINV8yYUow?oc=5",
+   "date": "2026-11-21T12:55:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1107,17 +1118,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGNEWG1UOE55eVVhbGRtTWVOVTRDNU5sTUQxUC1XZUMtcjlFUVdpbHhTaHRSNjNCLWNFOVpwa0F0SVIxbTVpZ1YydzJIZnROZzRNNU80R3FncllyZlhNeHdRZlc1dF93ZlBENEVPQWRzRG9UM0lrMlpzS3RKVVZTZWZBRi1QYmpMT0dIRWRBS1ljakhIRFRCRQ?oc=5",
    "date": "2026-11-20T01:42:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ca471062ba9c",
-   "title": "Presidenta Fujimori inicia visita oficial a Japón: sostiene encuentro con la gobernadora de Tokio",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmRUWEVTcktsT2NDSDBxWERDRjhFdmpWTjU5d3RnMXh5aERERHI4MUo4ODdaYWFKV1dBcGpiWHIwOGZoZXhMZThOWEFYRFNnWThrT1Y1NGlOZXJhdFk0TW85M2Y0dEhrTG9zMFRLaGJMR0JKLVJPd0VXTTRIRGJ2al9tb18xSlN6VHVhSUQ1ajlKdzgtT3BaeWJKdER3WXBKYVEtR1VjTEd3eTBSelJpTGhFMDNrazNtV000VU5iUGREdlFaa2NOZl9QTHc?oc=5",
-   "date": "2026-11-20T01:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
