@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T14:10:30.828012+00:00",
+ "generated_at": "2026-11-21T14:31:44.018113+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,16 @@
   "source": "www.apnoticias.pe",
   "date": "2026-11-21T11:02:38+00:00"
  },
- "next": null,
+ "next": {
+  "place": {
+   "name": "Japón",
+   "abroad": true
+  },
+  "source": "RCR Peru",
+  "date": "2026-11-21T14:05:51+00:00",
+  "title": "KEIKO FUJIMORI CONSOLIDA ACUERDOS COMERCIALES Y DIPLOMÁTICOS DURANTE LA CUMBRE APEC Y SU VIAJE A JAPÓN",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWFGc1l1enpoMHpXNTJnWktrbjItVF9lTFdWeGVnaXZ4bXhBbmRELWZ0dkd4bVFzS2hjdkZxVkNFeWFIVFZPUFRlLXV4bkIxVExTU2duLXFyUlpKLTUzQjZ4YXJLSGZWOWNRMmZmM2RNRVBIWmhjU1AwWU1KUy1CdXlzZXE2V25hV1ZoVWFfWVJDUXRkVExwcDlsWWpwWE54dFNRbmRjdmJSUmJyWVdpLVZOVjdKQnVQa1ZvSHNpbVJjVzhwcmc?oc=5"
+ },
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
@@ -402,6 +411,31 @@
  "agenda_minutes_7d": 944,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "3bba476dbdc0",
+   "title": "El INPE no se va: Gobierno de Keiko Fujimori deroga norma que disponía su desaparición",
+   "excerpt": "El decreto legislativo publicado este sábado reconoce que el proceso de absorción hacia la SUNIR, dispuesto en la gestión de José Jerí, nunca se concretó",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/21/el-inpe-no-se-va-gobierno-de-keiko-fujimori-deroga-norma-que-disponia-su-desaparicion/",
+   "date": "2026-11-21T14:09:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2c83f66eed12",
+   "title": "KEIKO FUJIMORI CONSOLIDA ACUERDOS COMERCIALES Y DIPLOMÁTICOS DURANTE LA CUMBRE APEC Y SU VIAJE A JAPÓN",
+   "excerpt": "",
+   "source": "RCR Peru",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWFGc1l1enpoMHpXNTJnWktrbjItVF9lTFdWeGVnaXZ4bXhBbmRELWZ0dkd4bVFzS2hjdkZxVkNFeWFIVFZPUFRlLXV4bkIxVExTU2duLXFyUlpKLTUzQjZ4YXJLSGZWOWNRMmZmM2RNRVBIWmhjU1AwWU1KUy1CdXlzZXE2V25hV1ZoVWFfWVJDUXRkVExwcDlsWWpwWE54dFNRbmRjdmJSUmJyWVdpLVZOVjdKQnVQa1ZvSHNpbVJjVzhwcmc?oc=5",
+   "date": "2026-11-21T14:05:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Japón",
+    "abroad": true
+   }
+  },
   {
    "id": "78918ea4cbc2",
    "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
@@ -1060,28 +1094,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRNmJhcjVYRVd0SWllMVJQYi1FaVpkRDduNU1ic2trQ3RqZ3dsRmp0T0RwNFJvRE4wQk8zZ1F5dFllLUMzd0lxVk90N25JRlYtZ05vNEcyTUJRaTlkUFhra3Vtczd0Y3VXM1JjclM5OE5Ec2pHQWtuV1pwazRvQQ?oc=5",
    "date": "2026-11-20T00:39:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2c4b6c8b8e2f",
-   "title": "Keiko Fujimori se reunirá con el emperador...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
-   "date": "2026-11-20T00:27:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "192ef8539d54",
-   "title": "Presidenta Keiko Fujimori califica de \"muy fructífera\" su agenda en APEC 2026 antes de viajar a Japón",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbkxJWDczVnBvbVVDdFVmNGQzVm54VHk5Q2ZmYi1UWlo5NmxobzdDbG1YS21EMkVEaDhGX2V4aDhBRGdERGhpZTdNMDQtMUUyVVNsa0Y2VHp3VG5tb3YxT2I0VVJNeEtMNl9ZVTFOc1ZSdTRUUDk5NjNjX3ZVQmo5ZWtoS0NuZjZ1UDVpc21PTXFqM0FCcEtUU0FXUzJUVmItMWFTdHA4cDc0aTc0WWl0UEhMMEZFZGs4VFNTamhsS2JiejY4NzFFaW1BQjRNOTNNNUE?oc=5",
-   "date": "2026-11-20T00:25:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
