@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:39:43.466232+00:00",
+ "generated_at": "2026-11-22T06:36:15.754674+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -115,11 +115,11 @@
  },
  "counts_7d": {
   "transmitiendo": 1,
-  "entrevista": 1,
+  "entrevista": 2,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 58
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -434,6 +434,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/22/keiko-fujimori-desea-aplicar-inteligencia-artificial-en-el-estado-queremos-darle-mucha-mas-velocidad-y-transparencia/",
    "date": "2026-11-22T02:18:18+00:00",
+   "state": "entrevista",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "550e938a83fd",
+   "title": "Keiko Fujimori brinda entrevista exclusiva a la televisión china CCTV tras participar en APEC 2026",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRk1VZTdBRUVkY0Z0aUxTejRpeVJjSUFZYjBIYVJQZjFPQmNsQloyMFp2RktKYkhLbmdNdkQ1d2NoQ09vWmNrdlZDbmpHR19XUEdCaTNra1VmYVFQbVlGaGJGa3RoUTZKdTZLaDZ4MXFNOFVwUk1fYk9JOFQ4UHpydkxWZnl5dS1aWFEwVHJtZ01WUEhnRG85NEQ0d0k4SXdSdERCX2lleXJIUDlFWTFkQ1YwN1Npd01uMzdHcy1zNWFaWWhDR2M4bXF4enZTRFNnRDY4?oc=5",
+   "date": "2026-11-22T02:10:13+00:00",
    "state": "entrevista",
    "place": null,
    "next": null
@@ -892,7 +903,7 @@
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y la primera ministra de Japón",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzFxWUlxNVZiUE9zYWZ3cVptLWhRMFZLUkoxYUM1TElzUHJheVYwV2tzZlhSaDR5TExEemdrQTlWMUVzUnpJa2ZzWU0yLU5nYjIxaXJjVEZkX21qaHBUSWw0WUlRUkRaUVNBeDMwVTBrWENlaGtGSHJia2w5T29VdDFoVU9lcnI3QVpJd0RWUG5QVmEz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzA0alE3NGZBV2FJc2tpX2ctRG8xWnZBelRxdEVhSVlkUWlhbk1yMDA5TmpWZXA4NzVteENnVk9nTzFENkc0bWRzdVA1ZnhCOE9lT1l6d19LWl9OQXVIOW5XeVVqQjNGYS1tYUVVNzNkV2ZYdVBNcm9TY0N1R1dmeTRQZXlYY3Q1Um5BTlhwRWdTUmxjWGpiT0plMzNyY1Q3dzl6WFRLbmxRbTY0N04tWWhGMmIzLVkyV0Rv?oc=5",
    "date": "2026-11-20T13:39:23+00:00",
    "state": "posando",
    "place": null,
@@ -1111,17 +1122,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU9yMlBQSjZxbnIwWXlyVGZPd0UwTG9qZkVtckxRY1lMMHQyMUpaM0RQU00yUWNRTElRaGZKcjktSk9CMGU3ZVU0MDFNVWozTDhnODliWGpad3ZCRTYyajF3XzlnanRwd2p6ZlZLa2tWUFlvaDdHaFNFbTNab3Y4dXRfN1dTYW5ITzVMREpjSFRKV04yS09nb1FOcFFhR3hBWjZOQjFzVUQ2SkhKbDNIWXdFelJINmVIMlo1UmRn?oc=5",
    "date": "2026-11-20T06:10:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ad0d1db34c10",
-   "title": "Keiko Fujimori y la recuperación de la institución presidencial",
-   "excerpt": "",
-   "source": "El Montonero",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXNHSXpoZ0hObkJSZWRMaUdUY3JrSTNfYTlKVndOSUJTSTlDd3hqWWlKcFA2djhPZ3ZEMmxDZm42UE83Rmx0LUtTWVZnWkxiLU5sWmVJcFdnRzNMZFFIUjdhVmRSeDF2S0p1RV93ZXJUaGRTOWkzYWl0V3dNazNuYkNLN1BUU0hwdi1KSk1iUUYtWWtEMU4zVUpaSQ?oc=5",
-   "date": "2026-11-20T06:00:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
