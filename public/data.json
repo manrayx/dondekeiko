@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:18:16.430883+00:00",
+ "generated_at": "2026-11-22T22:39:36.914040+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8f358b19af5c",
+   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
+   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
+   "date": "2026-11-22T22:27:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1bf2467b50df",
    "title": "Keiko Fujimori se reunió con figuras que ayudaron a su padre durante su exilio en Japón",
    "excerpt": "Las reuniones fueron con representantes de The Nippon Foundation, la diputada Yuko Obuchi y el senador Muneo Suzuki. Especialistas en materia política consideraron que la mandataria aprovechó su paso por…",
@@ -449,17 +460,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
    "date": "2026-11-22T21:29:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f358b19af5c",
-   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
-   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
-   "date": "2026-11-22T20:27:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
