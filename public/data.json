@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:51:51.658862+00:00",
+ "generated_at": "2026-11-22T16:13:30.693125+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,23 +428,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8f358b19af5c",
+   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
+   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
+   "date": "2026-11-22T16:09:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8cd086f3c384",
    "title": "La presidenta peruana, Keiko Fujimori, habla sobre las relaciones con Estados Unidos y China.",
    "excerpt": "",
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1hPUEsyQkhkUkhrQ0FXRDR0WjZFY1l5RklBMUZqMS1rclgtZFVCeXpGNDI2RmxNR2NCX0ZDRzBzVTM2dHFzLWd6ZDVodWFHYm5uanhrd0RYTWpxTDU4czBXZ2R4ZGFXc0VET21ITzNmNjhGM3lTam5QZmRWYUlncV8tMDNZU2NpVjB1ek5waTZrazFkQzBB?oc=5",
    "date": "2026-11-22T14:44:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f358b19af5c",
-   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
-   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
-   "date": "2026-11-22T14:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
