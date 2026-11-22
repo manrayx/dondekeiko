@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:57:41.112210+00:00",
+ "generated_at": "2026-11-22T08:01:25.257198+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "4ab9a3105fb4",
+   "title": "Keiko Fujimori busca convertir al Perú en un centro logístico para conectar Sudamérica con Asia",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmpVdDFoSUVkcEt6bWMwUWprSEotX2xhMFEyQjZ2TGlYVExKdlY5V3JQZXZBZ2ktcTFGZjNFMUtrYzBLVXdHWlloZEJ6WkdfRnVmWDhqakVmY1d3dC1jWms2Q2ZscHVza1d0dFFwNGIyZFlzTWh5dklZLUZ5YlRqdmZ3RHZIbjJrTUt3REZQVTVBSzdSX2tYVWZWb0QwWUY5dXN3aE8tbWpoUXBrbDRoekNTUVQtWmU2UEZSTm1GMkRTaWYyVHRITEFGU0FWaVnSAeMBQVVfeXFMTThfTkc5NUZxR0E5Q0VsTTJkUXpMWGM5WFN5ZS16c1hwWTJVbUtsa0xCVHQ1aDlzZ0hhU0FWdnRDSmZEeHdwY19qTFNyQmdjMHJtVkt5d0pOdVNOVXpLaWhPcUxObnpaa1JmWFVBRmdDWnlGd3RhWTducW9tdkthbUN1YWMyNGZaSGFnQzdXV2xzRnJTNUIyakR1eHZha25lRlJWa3BuOGZSSkVfV2tZcDU3Z3ljOW52WGFxc3BEM2l5Szh2ZV9WRzE0OHNZSVNUV3pRZXROeUtrdmxCUjFid18yY00?oc=5",
+   "date": "2026-11-22T03:06:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6ef7dd933fe4",
    "title": "Keiko Fujimori desea aplicar inteligencia artificial en el Estado: “Queremos darle mucha más velocidad y transparencia”",
    "excerpt": "La entrevista de la mandataria peruana con CGTN se realizó durante la cumbre de APEC, celebrada en Shenzhen entre el 17 y el 19 de noviembre, donde expuso sus propuestas…",
@@ -498,6 +509,17 @@
    "next": null
   },
   {
+   "id": "654a2f0b63ac",
+   "title": "Presidenta Keiko Fujimori: APEC representa una gran oportunidad para el Perú",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVN4UXFQbHZsaFJOUGZYSlkxN3VQMkZjUzE0ZGlxa0xFU3ZwdllnNUk0YlBmcDBLa0JuMDdHNXMzU21CQUR3MG03ZXQ0N2JKQjhwUHozVnptWTNCeUxZbEJvcEFkSHpTTTB4Z3A0R3YtOGNja3pLcGg1R2M0ZFhSbEE0bkNoTlRUZUJzLUtHa1Z0UjA1N0NNdk9HcGxzZ0tHQUlDY2NEU3ZTVDdmRFlXMQ?oc=5",
+   "date": "2026-11-21T20:31:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5d909d96b474",
    "title": "Keiko Fujimori: \"Estamos en un momento importante de la relación con China\"",
    "excerpt": "",
@@ -537,17 +559,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1J4aXVCRzNzd3o0bmNGWTF5b3dPNDZPM1BsMW5EQjljdWRmX0phTXpscVJSREJwZ2VOUmJhLXlnOGxBbjhrNzhjS3AyaE1wMW5WdVpHdzM3TnNSR1hka2JZZGZEcmhtV1FCN1UzSEFIdlA2ZnJEalV5REgyT1ZTS2FjbDhkSkkxS2hUUDNOdWljTFNKN1VSU2J6UExhaXhlS0hValdhWV9tbmRtM2VoZ2RqYzNna0FSVlE?oc=5",
    "date": "2026-11-21T18:16:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "654a2f0b63ac",
-   "title": "Presidenta Keiko Fujimori: APEC representa una gran oportunidad para el Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGlIanJSb3gxdG1DaEtaTWlFSlptSlVaeWVzcDJKbEdoSzJpLW55aHdzRm5SemZFaG01SVV5Q3NQVHMzOHlwUmRJdVVVUU9iTW1xejVkR0M1NDVub05PVkJ1QjNOWHBOTWNvLXlSeGE0MU9JTE1aX01KWldTRDhtR2dfVUNXWlltT1pRTXBXdllEX08xOXBObURCbHBQSG53RmNUY2E1cnBuYjNWVFh3aw?oc=5",
-   "date": "2026-11-21T18:02:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1111,17 +1122,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnptUThFbEJzZVZ6ZXRmM3lWYmt4YVdaYll0ZmtIZ1lad0hZZmZHZVRMeGFDeVFTRlBaTV9vSndVZy1GWFZLYTVnMzI4ek1kWnN5Y2dnRnV3RHhwQ0FqZUdNWWlWMjJWcTVKWG1VRGZXTGN5RDN0VnlScnNGbHlGSTNVaFJ1czZqTnVuVGU5S05TR2g1WGVobko3ZDJPMWM0aHotMTVscGxEUm5Ibnl4Rk1QblpVaEk?oc=5",
    "date": "2026-11-20T06:10:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d54b5a7aa17b",
-   "title": "Presidenta Keiko Fujimori sostiene encuentro con la gobernadora de Tokio",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTU9yMlBQSjZxbnIwWXlyVGZPd0UwTG9qZkVtckxRY1lMMHQyMUpaM0RQU00yUWNRTElRaGZKcjktSk9CMGU3ZVU0MDFNVWozTDhnODliWGpad3ZCRTYyajF3XzlnanRwd2p6ZlZLa2tWUFlvaDdHaFNFbTNab3Y4dXRfN1dTYW5ITzVMREpjSFRKV04yS09nb1FOcFFhR3hBWjZOQjFzVUQ2SkhKbDNIWXdFelJINmVIMlo1UmRn?oc=5",
-   "date": "2026-11-20T06:10:12+00:00",
    "state": "posando",
    "place": null,
    "next": null
