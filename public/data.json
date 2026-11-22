@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:17:37.499234+00:00",
+ "generated_at": "2026-11-22T17:39:14.168284+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "China",
-   "abroad": true,
-   "city": "China"
+   "name": "Lima",
+   "lat": -12.046,
+   "lng": -77.043,
+   "abroad": false,
+   "city": "Lima"
   },
   "source": "La República",
-  "date": "2026-11-22T02:07:53+00:00"
+  "date": "2026-11-22T17:24:40+00:00"
  },
  "next": {
   "place": {
@@ -427,6 +429,23 @@
  "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "7484f06eac17",
+   "title": "Hayley Williams, vocalista de Paramore, lanza contundente mensaje a la presidenta Keiko Fujimori durante su concierto en Lima",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWEg1WXlxa0lwZFR4Tmg3Um02UkgxVXBsTlR6dWJYMmo1THR2SERaLWJRLVJlelFPbFJoLV9SZ01RWTQ1T2lDXzhoWnB2cjFzaXVxSlhLbllZaVZqQ1RUV01NWUp3R1JZOXVsOGFod2EtZHRaaGhLc2FaRXRlVGp2LU4zM3hPNlpuMUZEdlQ5akpvUnh2ajVoSGVnVVM0SUFLSmppLXhSQ3JhT2VMeV9uTE4tNHFrc09Gem5feHdMRzFYajFKM081dl92dUNwOXBuQ25OSWZFZnYwQmVBQlFNSGxjUS1sQU9pMGJFSFI3ZFl0bEJqQVlzS2ltMjFTdUJFWEJqOTBzcExtVFVoQXfSAZMCQVVfeXFMUGgyZEtEZUoyYjVvcXZZT0pETVM4UV9TWTBWTm9BcHc5LU9mem1VcnBlTG1HRG1pR1RPc1N1T0NlUTdkaHFZM3N2bGtpVHFzRERHc0pUbzRkbDVIVUc5SEItbnl2azYzUVBMRUFXOHNDQVhuS2t1QzVJemtud2E4TEtPRHJLTmR1WWtGbmxhMFpmeldYa3hrdDRERHpCMWhXRFpyNjktUmp4U014R2plS0ZPTENiYlEtODRsa2F5ZG5rUFZrVEN6ZkREd3hCNjNkNVd1T2ZpaV9lbk9wUkt1MVB2UGkyS3FiR1ZPU3I2Yi1rYm4wYTNpZ3dBeVZqMWUza3NnWjZPWXRYQTZUUWRjcTVjbm8?oc=5",
+   "date": "2026-11-22T17:24:40+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
   {
    "id": "8f358b19af5c",
    "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
@@ -1107,17 +1126,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHJGWEY5OEhEa2thVHpZNTlUSXREVVpLU0ltaFFkUG1lVVFLZDNzazNnUEh2WE5PeTlPb0otWHFmUzZadVFvcXVJaXNZbm9RZGFDNjNXRWYxLXNVWmpNNjBEeWREMWUxUjhac2Rvb0JUaWhJeURCdVNtM1A2aXo5bGVLRQ?oc=5",
    "date": "2026-11-20T12:18:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "78956d15df0d",
-   "title": "Presidenta Keiko Fujimori se reunió con el emperador de Japón Naruhito",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDhZVUJadmdJenBxNEh5UDM3VDhZd3B5djlRbU1yZnNWTGZqTGhEZFZEVVNkekVITS05akVYQTdIWV9zTDZuVXVpWVpibUxXYkFqV3ZLSXdjbS01Z3pCR3A1b3ByVk1GejYyc1lJTm10bnJ3ZlBIQWFyTVg0OThqUS1YTDdCb2QzNGhLSFNnci1weFU4Mk50M0Ywb0FRY21QbkM1ZGtBSlZJYk1a?oc=5",
-   "date": "2026-11-20T12:15:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
