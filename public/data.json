@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:00:24.726224+00:00",
+ "generated_at": "2026-11-22T18:21:42.057262+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,6 +430,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8f358b19af5c",
+   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
+   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
+   "date": "2026-11-22T18:09:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7484f06eac17",
    "title": "Hayley Williams, vocalista de Paramore, lanza contundente mensaje a la presidenta Keiko Fujimori durante su concierto en Lima",
    "excerpt": "",
@@ -444,17 +455,6 @@
     "abroad": false,
     "city": "Lima"
    },
-   "next": null
-  },
-  {
-   "id": "8f358b19af5c",
-   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
-   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
-   "date": "2026-11-22T16:09:03+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
