@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T00:31:08.929566+00:00",
+ "generated_at": "2026-11-22T02:18:26.181458+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Japón",
+   "name": "China",
    "abroad": true,
-   "city": "Japón"
+   "city": "China"
   },
-  "source": "Lima Gris",
-  "date": "2026-11-21T16:11:49+00:00"
+  "source": "La República",
+  "date": "2026-11-22T02:07:53+00:00"
  },
  "next": {
   "place": {
@@ -115,11 +115,11 @@
  },
  "counts_7d": {
   "transmitiendo": 1,
-  "entrevista": 0,
+  "entrevista": 1,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 59
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -427,6 +427,32 @@
  "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "6ef7dd933fe4",
+   "title": "Keiko Fujimori desea aplicar inteligencia artificial en el Estado: “Queremos darle mucha más velocidad y transparencia”",
+   "excerpt": "La entrevista de la mandataria peruana con CGTN se realizó durante la cumbre de APEC, celebrada en Shenzhen entre el 17 y el 19 de noviembre, donde expuso sus propuestas…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/22/keiko-fujimori-desea-aplicar-inteligencia-artificial-en-el-estado-queremos-darle-mucha-mas-velocidad-y-transparencia/",
+   "date": "2026-11-22T02:18:18+00:00",
+   "state": "entrevista",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "09d469240a6b",
+   "title": "Keiko Fujimori elogia a Xi Jinping, líder del Partido Comunista de China, y destaca su gestión: “Es un líder fuerte”",
+   "excerpt": "Keiko Fujimori resaltó la organización disciplinada del partido y el crecimiento sostenible en China bajo el liderazgo de Xi Jinping, pese a que en la campaña electoral de 2021 advirtió…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/21/keiko-fujimori-elogia-a-xi-jinping-lider-del-partido-comunista-de-china-y-destaca-su-gestion-es-un-lider-fuerte-hnews-1988280",
+   "date": "2026-11-22T02:07:53+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
+   "next": null
+  },
   {
    "id": "38059445b0d4",
    "title": "Resultados oficiales ONPE EN VIVO: conteo de votos entre Keiko Fujimori y Roberto Sánchez",
@@ -1096,28 +1122,6 @@
    "source": "El Montonero",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXNHSXpoZ0hObkJSZWRMaUdUY3JrSTNfYTlKVndOSUJTSTlDd3hqWWlKcFA2djhPZ3ZEMmxDZm42UE83Rmx0LUtTWVZnWkxiLU5sWmVJcFdnRzNMZFFIUjdhVmRSeDF2S0p1RV93ZXJUaGRTOWkzYWl0V3dNazNuYkNLN1BUU0hwdi1KSk1iUUYtWWtEMU4zVUpaSQ?oc=5",
    "date": "2026-11-20T06:00:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8fb8e57a621f",
-   "title": "Keiko Fujimori se reunió con gobernadora de Tokio para conocer sobre respuesta japonesa ante desastres naturales",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdWVLbHBHX3FlLVRqMmZFZ0ZoUERQRTJDNXN1NXMtc0RwczF3cFAya3cyVUMwOWZmSzF4RzlxY3hseW04ZEphMHBOSVRYTkFPVTRRZEdUTWx6U29OeWNyWE5yeTA3R1JEeFJfZUtsT1JGX2tYUnpkVWo3RzVUYm5STmF5Sm4ycHNHSllCLWt4TmRxV1ZqOVp1NVN6ZkNqWUd3TW5iN1BTUnNLa091dG5JLV9VMkcyaDE0QUI1aU5PZnRvWm5jbWk3Wm05cU91MldfY2RaM0ZtWGVlWUg0bGRraEdqOTRoSmItOXI1SGpDcWx5Ukk0?oc=5",
-   "date": "2026-11-20T05:11:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ef91b7891e16",
-   "title": "Fujimori anuncia apoyo de China y Corea del Sur por US$ 47 millones: Los anuncios tras APEC 2026",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, calificó de “muy fructífera para el Perú” la agenda desarrollada en Shenzhen, China, durante su participación en la Semana de Líderes Económicos del…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/fujimori-anuncia-apoyo-de-china-y-corea-del-sur-por-us-47-millones-los-anuncios-tras-apec-2026-noticia/",
-   "date": "2026-11-20T04:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
