@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:52:25.095457+00:00",
+ "generated_at": "2026-11-22T11:13:46.587033+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -115,11 +115,11 @@
  },
  "counts_7d": {
   "transmitiendo": 1,
-  "entrevista": 2,
+  "entrevista": 3,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 57
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -427,6 +427,17 @@
  "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "8f358b19af5c",
+   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico” | ENTREVISTA",
+   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
+   "date": "2026-11-22T11:00:01+00:00",
+   "state": "entrevista",
+   "place": null,
+   "next": null
+  },
   {
    "id": "4ab9a3105fb4",
    "title": "Keiko Fujimori busca convertir al Perú en un centro logístico para conectar Sudamérica con Asia",
@@ -1113,17 +1124,6 @@
     "city": "Tokio",
     "abroad": true
    },
-   "next": null
-  },
-  {
-   "id": "14f72b196186",
-   "title": "Keiko Fujimori pide que Perú sea la \"puerta de entrada a Sudamérica\" en su visita a Japón",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUFwMUZ3Z2FyekpiYjZPZXFyUW44M3VMWl9FbTduYW9rY1d6MGg2YXdNcnNiUDhPM1I3WmJ0UVY2eUxXTXYwT2JXOHNhUVg2STFwbk02MWt2YlpVWmZ6X2V2N3hRSUx2ampxZ2J4TS1MY1FhYUdLN1ZhNVZPWldwOVR2U2NIZnJqbVJXRG9ZLWZIZ2lGZkJuVnEtcFhsNnQwNmQ1MUhGUmpnRXppd01vRTU0TERLeHItOFVlMlNmRGpjLUk4dTVMdzl3?oc=5",
-   "date": "2026-11-20T11:00:17+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
