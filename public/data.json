@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:39:36.914040+00:00",
+ "generated_at": "2026-11-22T23:00:50.902715+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -115,11 +115,11 @@
  },
  "counts_7d": {
   "transmitiendo": 1,
-  "entrevista": 2,
+  "entrevista": 1,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 57
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -507,10 +507,10 @@
    "id": "6ef7dd933fe4",
    "title": "Keiko Fujimori desea aplicar inteligencia artificial en el Estado: “Queremos darle mucha más velocidad y transparencia”",
    "excerpt": "La entrevista de la mandataria peruana con CGTN se realizó durante la cumbre de APEC, celebrada en Shenzhen entre el 17 y el 19 de noviembre, donde expuso sus propuestas…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/22/keiko-fujimori-desea-aplicar-inteligencia-artificial-en-el-estado-queremos-darle-mucha-mas-velocidad-y-transparencia/",
-   "date": "2026-11-22T02:18:18+00:00",
-   "state": "entrevista",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEdCVHVTeVlodzdSd0ZDbGhibWhzS2U2bjM2N2IwRWxZaC1iYUtya29ROWg5eDBYbWFSODY5aEluQmFEd2pCYm1nSGFWUk1Eb0NmYklJcWJBRUszWHlYXzVNQndhWEVGdWdCTGQtR0xBdUhMMl83cmJGbHZpcEU1bDVsTkM1cGNFRmdmUTdKVThSSllUZ1RpRDJySFlETnVQc0k0NjJQSzhVenN2am1HZ09lQkdSWTVORmhOLWloSlpyS09Kb0J3eHEzeU1sVS01WGFSNVVhMjZqbmlZWlhEQ3VCSTYyVXFhRjhKRkpn0gGIAkFVX3lxTE5oeURza3R1MXlDTTRMeVQzYTRRc0FPWDgxWUNPNXBpM1JjYm1WcW9Eck1PRjVjTnl0WVFlM2JMdnlUWm1fQ0s3NnFocmEtX1F0OEVvYlY0V3BjbmxLc2JReUhqQnRUc1FEVzR2OFpSQmVBcXI4bEZONHlGcDdyNlA4c3NPc3BSS0hlYlJGaW0tM2ZYZjZGVHdJbmU3M3k0Mlp5Nlp1MWEzcHo0NEQ0N1FIUU13WVI3Z2l0LTNhX0NTeDBfNlZBaW41OHFnanhXcnNUTGNkZk1qczJ1Nk9zNWtNQ3hBcHB6c3BOOFRGdUN0RHpTVVZ1cFIxdS1kTFVhVFVTUVM3ZzRORA?oc=5",
+   "date": "2026-11-22T02:17:00+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -588,7 +588,7 @@
    "id": "5d909d96b474",
    "title": "Keiko Fujimori: \"Estamos en un momento importante de la relación con China\"",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVV4OEw0Z3pjQm5Fa1pLWjdTTTczTHVBR05oQ0J3LVFseDNuTlBvc183QVNrWk5yN21KejBHcnpvUXVlV1dvVXhUMmpINFhYbEpzck11ak5rM3d2X19jMGdobVZwWmREREJTUUhNMHZoQkR2ZzY4WWd1MFBLR2lXREhwMUhjR1JYQmgxNnBTWDV0X21kdW53ajU3MVJpSnFJaGc?oc=5",
    "date": "2026-11-21T19:02:46+00:00",
    "state": "posando",
@@ -1045,11 +1045,22 @@
    "next": null
   },
   {
+   "id": "78956d15df0d",
+   "title": "Presidenta Keiko Fujimori se reunió con el emperador de Japón Naruhito",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0JTUFJjaWpOWnFMNDU5dG5ZMXhVRm1hMEI1bE5ETUx0Tm53NFNMV182eTNHdFdoaGg2OXJlZmEzWVFDdFFQbUVRcjBvcXdSY0dhaG5VOXJiTDctX0h0X2dVX3lXUGpnNmNUQUowTVowcl91eVBfZ2lVZFZ6dW42TGNUMzBoSzBSLXZwbnlEcC1RdllIRkFVQXR0NnZBZVNZT3dOeThHVjd5SWVCZ2sw?oc=5",
+   "date": "2026-11-20T13:40:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "36b11869e983",
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y la primera ministra de Japón",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzFxWUlxNVZiUE9zYWZ3cVptLWhRMFZLUkoxYUM1TElzUHJheVYwV2tzZlhSaDR5TExEemdrQTlWMUVzUnpJa2ZzWU0yLU5nYjIxaXJjVEZkX21qaHBUSWw0WUlRUkRaUVNBeDMwVTBrWENlaGtGSHJia2w5T29VdDFoVU9lcnI3QVpJd0RWUG5QVmEz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzA0alE3NGZBV2FJc2tpX2ctRG8xWnZBelRxdEVhSVlkUWlhbk1yMDA5TmpWZXA4NzVteENnVk9nTzFENkc0bWRzdVA1ZnhCOE9lT1l6d19LWl9OQXVIOW5XeVVqQjNGYS1tYUVVNzNkV2ZYdVBNcm9TY0N1R1dmeTRQZXlYY3Q1Um5BTlhwRWdTUmxjWGpiT0plMzNyY1Q3dzl6WFRLbmxRbTY0N04tWWhGMmIzLVkyV0Rv?oc=5",
    "date": "2026-11-20T13:39:23+00:00",
    "state": "posando",
    "place": null,
@@ -1070,7 +1081,7 @@
    "id": "9b06d6269be8",
    "title": "Keiko Fujimori se reúne con primera ministra de Japón para fortalecer relaciones bilaterales VIDEO",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0lhN3lsQlc3VDFDR3ItaGs1ekR0YWU1SVYxWmFpUDRIeVZWaU1COGIxYmhOTzF4U2VUVi1YX3RjRDFkUFVweGswR3NHd1NPbk8xMXREREFkbzJQb2VrOGpQOWNXYVBPLWFFOGZselBMSXhfcGR5WUZqaktNZHB5SUtYX1BDZ3JQb2JkaTRHbm9rb2Z6VkRVcnNSU1dOZ3JHMUt2YmxLYUd0bzZGR1k5aXRpVnNaMGRzbkhyZzFkdEdOLTdt?oc=5",
    "date": "2026-11-20T13:26:08+00:00",
    "state": "posando",
@@ -1117,17 +1128,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RZV0wySkZwR3Y4cWhITzRqbXpzRzIyTjRFMzdnM1V3ZjcyWUN6RmZwaHdReFVZMTVseHN6S0x0bjBIOXpfTy1lV2g1dTZ0RThSamppQVJxS0NiSGZoVTJ2M3MtTTNIRXFpcmphVGhkOTUzYndBanNYMEFkVmxpU2t2MW1jajdhWmpNc0VkYmcwQVl0ZXBNN3FZeHUxd3lOQmppbFpQZkVQR2ZjNUFOT0V0MzR5QUFiSXpDR09vazd2dw?oc=5",
    "date": "2026-11-20T12:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8eab471eb7af",
-   "title": "Keiko Fujimori se roba las miradas al acomodarle la bufanda a José Antonio Kast: \"Tengo yo el privilegio\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHJGWEY5OEhEa2thVHpZNTlUSXREVVpLU0ltaFFkUG1lVVFLZDNzazNnUEh2WE5PeTlPb0otWHFmUzZadVFvcXVJaXNZbm9RZGFDNjNXRWYxLXNVWmpNNjBEeWREMWUxUjhac2Rvb0JUaWhJeURCdVNtM1A2aXo5bGVLRQ?oc=5",
-   "date": "2026-11-20T12:18:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
