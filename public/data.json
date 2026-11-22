@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T13:01:34.373967+00:00",
+ "generated_at": "2026-11-22T13:22:23.061519+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -547,7 +547,7 @@
    "excerpt": "",
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVV4OEw0Z3pjQm5Fa1pLWjdTTTczTHVBR05oQ0J3LVFseDNuTlBvc183QVNrWk5yN21KejBHcnpvUXVlV1dvVXhUMmpINFhYbEpzck11ak5rM3d2X19jMGdobVZwWmREREJTUUhNMHZoQkR2ZzY4WWd1MFBLR2lXREhwMUhjR1JYQmgxNnBTWDV0X21kdW53ajU3MVJpSnFJaGc?oc=5",
-   "date": "2026-11-21T20:30:47+00:00",
+   "date": "2026-11-21T19:02:46+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -691,6 +691,17 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0x6RGpCUG5PdGNReFFHM1Bad01aUFRkZE5pN1c0NjVsN3AwSmc4Z0NMczBpQXF1YU9kLVBDcmR4eV9sV0FwY0tXN05EZ0F4MGl4bU1EUmx1NFNybUFadVdydnJHMzF4ejdJeXRFNWx3TjdtR2ZPdWFVVi1vVXhfbHhKa3RPcERVSFZMNl9Gdl9DdjdCajJHQzVQMHNiOHhKM2xXOGUxd1pnQU5YMUFJTkVscXNFVFVFS2txNjg5SHFCdw?oc=5",
    "date": "2026-11-21T05:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3756c155f11e",
+   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVcweHJfcTZfN3FaYndNTGgydWNZcmMtdVZydy1fWGZSQkJHQ0dHZ2JteFhXZ3hnWUc4YVNILTdEVFRKTVZrazE2OGFVM1VGUUhCMGVkSTQ3dmhOUEJKZmxzUTlENXV4ckNtd3RXUFJRQUlfU3B0YlpiNWtES2xuaExmNk5yRnR1clJQcE9PWXBYUUlLT3FzN1RKUWNSUjZZV1ZGTUVzbERZQTFMaWxyR3MyRFhzQlZtd2c?oc=5",
+   "date": "2026-11-21T04:04:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -891,6 +902,17 @@
    "next": null
   },
   {
+   "id": "12adb28c8338",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
+   "date": "2026-11-20T16:10:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9ad36bd3a13a",
    "title": "Presidenta Fujimori agradece apoyo que brindará Japón para enfrentar el fenómeno El Niño",
    "excerpt": "",
@@ -1002,14 +1024,10 @@
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y primera ministra de Japón",
    "excerpt": "La presidenta de la república, Keiko Fujimori, fue recibida este viernes en audiencia por su majestad el emperador Naruhito, en el Palacio Imperial de Tokio, en un encuentro de especial…",
    "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-se-reunio-con-el-emperador-naruhito-y-primera-ministra-de-japon-noticia/",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3FpR292YkJjXzU2YWNJTFJCN0ZoS2JrN3p6UDdtWnU2eDVkc21ZMEVHZS1yR2xWem5IMjNNVTZKbmxIQVB5TlVHaC1yUjBqbGtsLVpPQlFwNXYtbF9jd1drUXVFQ3dtN0FmYjdfWTBVcjJnUDdrSWFOOUVSeW5mUU51dVJNMzg2VTBlRGM4Yjh2MWw3YnhsMldpNGpLcExTOUZ6aDFXbEZfZjM3NnZVZQ?oc=5",
    "date": "2026-11-20T13:20:00+00:00",
    "state": "posando",
-   "place": {
-    "name": "Palacio Imperial de Tokio",
-    "city": "Tokio",
-    "abroad": true
-   },
+   "place": null,
    "next": null
   },
   {
@@ -1090,34 +1108,12 @@
    "next": null
   },
   {
-   "id": "3756c155f11e",
-   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEhlOHRLZ25vd25vX19FVEtfZGhFRFBGZjllUzdfZl94dzYwSjh1SndBZXZVM3JxU3ZFcTlFNTdZLUR6VFFaYVdrU3dzUXdDN1ZtOGpPNkpoVDFXZ3o1M3hmRWRjb1p1QmlzeVgwZHF1cGdPUTZkMDVFc3VlbzRGajAybnc3aDMwMzJTZjhvbmhwejk5Nmsxc3V6UnVESlMwNWJuVEVtbW12QkdjNldwb1oxNW1TVFE?oc=5",
-   "date": "2026-11-20T11:49:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "2dacc5c04b5c",
    "title": "Presidenta Fujimori sostuvo reunión bilateral con su homólogo de Filipinas en el marco de APEC",
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdy1uTHd5bVlGbHpGV3YtXy1BbEdZT0RPbFphUlpIM3IzTkxqeVVfWnliQUFtanZDNTE1WVNPeUxPekhLeTc0aGt1WUxlcUI0RzNRN29SSjJJX0R0eHN2Slg2bXA3eDBxUjAwT1d1REFxSW9KV0xzOURTOUZtb2lMcVUzbkFBM1ZTX3NLLXJfcGhHOGlISWhhd3NsZ1I3Q2k1NjB0Tl9CaWc2S2FWZGMxSmVMWHZPLUcwOGlNREtRbTN0Zw?oc=5",
    "date": "2026-11-20T11:43:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b273d6b3d99a",
-   "title": "Keiko Fujimori inicia visita oficial a Japón y es recibida en audiencia por el emperador Naruhito",
-   "excerpt": "La presidenta Keiko Fujimori realizará una visita de Estado al emperador de Japón, Naruhito, y sostendrá una reunión cumbre con la primera ministra de ese país, Sanae Takaichi, este viernes…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-se-reune-con-el-emperador-y-la-primera-ministra-de-japon-este-viernes-en-tokio-apuesplan-noticia/",
-   "date": "2026-11-20T11:34:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
