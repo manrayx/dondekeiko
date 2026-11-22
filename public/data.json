@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T23:00:50.902715+00:00",
+ "generated_at": "2026-11-22T23:22:00.045983+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -588,7 +588,7 @@
    "id": "5d909d96b474",
    "title": "Keiko Fujimori: \"Estamos en un momento importante de la relación con China\"",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVV4OEw0Z3pjQm5Fa1pLWjdTTTczTHVBR05oQ0J3LVFseDNuTlBvc183QVNrWk5yN21KejBHcnpvUXVlV1dvVXhUMmpINFhYbEpzck11ak5rM3d2X19jMGdobVZwWmREREJTUUhNMHZoQkR2ZzY4WWd1MFBLR2lXREhwMUhjR1JYQmgxNnBTWDV0X21kdW53ajU3MVJpSnFJaGc?oc=5",
    "date": "2026-11-21T19:02:46+00:00",
    "state": "posando",
@@ -1045,22 +1045,11 @@
    "next": null
   },
   {
-   "id": "78956d15df0d",
-   "title": "Presidenta Keiko Fujimori se reunió con el emperador de Japón Naruhito",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS0JTUFJjaWpOWnFMNDU5dG5ZMXhVRm1hMEI1bE5ETUx0Tm53NFNMV182eTNHdFdoaGg2OXJlZmEzWVFDdFFQbUVRcjBvcXdSY0dhaG5VOXJiTDctX0h0X2dVX3lXUGpnNmNUQUowTVowcl91eVBfZ2lVZFZ6dW42TGNUMzBoSzBSLXZwbnlEcC1RdllIRkFVQXR0NnZBZVNZT3dOeThHVjd5SWVCZ2sw?oc=5",
-   "date": "2026-11-20T13:40:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "36b11869e983",
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y la primera ministra de Japón",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzA0alE3NGZBV2FJc2tpX2ctRG8xWnZBelRxdEVhSVlkUWlhbk1yMDA5TmpWZXA4NzVteENnVk9nTzFENkc0bWRzdVA1ZnhCOE9lT1l6d19LWl9OQXVIOW5XeVVqQjNGYS1tYUVVNzNkV2ZYdVBNcm9TY0N1R1dmeTRQZXlYY3Q1Um5BTlhwRWdTUmxjWGpiT0plMzNyY1Q3dzl6WFRLbmxRbTY0N04tWWhGMmIzLVkyV0Rv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzFxWUlxNVZiUE9zYWZ3cVptLWhRMFZLUkoxYUM1TElzUHJheVYwV2tzZlhSaDR5TExEemdrQTlWMUVzUnpJa2ZzWU0yLU5nYjIxaXJjVEZkX21qaHBUSWw0WUlRUkRaUVNBeDMwVTBrWENlaGtGSHJia2w5T29VdDFoVU9lcnI3QVpJd0RWUG5QVmEz?oc=5",
    "date": "2026-11-20T13:39:23+00:00",
    "state": "posando",
    "place": null,
@@ -1081,7 +1070,7 @@
    "id": "9b06d6269be8",
    "title": "Keiko Fujimori se reúne con primera ministra de Japón para fortalecer relaciones bilaterales VIDEO",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc0lhN3lsQlc3VDFDR3ItaGs1ekR0YWU1SVYxWmFpUDRIeVZWaU1COGIxYmhOTzF4U2VUVi1YX3RjRDFkUFVweGswR3NHd1NPbk8xMXREREFkbzJQb2VrOGpQOWNXYVBPLWFFOGZselBMSXhfcGR5WUZqaktNZHB5SUtYX1BDZ3JQb2JkaTRHbm9rb2Z6VkRVcnNSU1dOZ3JHMUt2YmxLYUd0bzZGR1k5aXRpVnNaMGRzbkhyZzFkdEdOLTdt?oc=5",
    "date": "2026-11-20T13:26:08+00:00",
    "state": "posando",
@@ -1128,6 +1117,17 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RZV0wySkZwR3Y4cWhITzRqbXpzRzIyTjRFMzdnM1V3ZjcyWUN6RmZwaHdReFVZMTVseHN6S0x0bjBIOXpfTy1lV2g1dTZ0RThSamppQVJxS0NiSGZoVTJ2M3MtTTNIRXFpcmphVGhkOTUzYndBanNYMEFkVmxpU2t2MW1jajdhWmpNc0VkYmcwQVl0ZXBNN3FZeHUxd3lOQmppbFpQZkVQR2ZjNUFOT0V0MzR5QUFiSXpDR09vazd2dw?oc=5",
    "date": "2026-11-20T12:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "78956d15df0d",
+   "title": "Presidenta Keiko Fujimori se reunió con el emperador de Japón Naruhito",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDhZVUJadmdJenBxNEh5UDM3VDhZd3B5djlRbU1yZnNWTGZqTGhEZFZEVVNkekVITS05akVYQTdIWV9zTDZuVXVpWVpibUxXYkFqV3ZLSXdjbS01Z3pCR3A1b3ByVk1GejYyc1lJTm10bnJ3ZlBIQWFyTVg0OThqUS1YTDdCb2QzNGhLSFNnci1weFU4Mk50M0Ywb0FRY21QbkM1ZGtBSlZJYk1a?oc=5",
+   "date": "2026-11-20T12:15:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
