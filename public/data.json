@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:48:04.199431+00:00",
+ "generated_at": "2026-11-22T00:31:08.929566+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -114,12 +114,12 @@
   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWFGc1l1enpoMHpXNTJnWktrbjItVF9lTFdWeGVnaXZ4bXhBbmRELWZ0dkd4bVFzS2hjdkZxVkNFeWFIVFZPUFRlLXV4bkIxVExTU2duLXFyUlpKLTUzQjZ4YXJLSGZWOWNRMmZmM2RNRVBIWmhjU1AwWU1KUy1CdXlzZXE2V25hV1ZoVWFfWVJDUXRkVExwcDlsWWpwWE54dFNRbmRjdmJSUmJyWVdpLVZOVjdKQnVQa1ZvSHNpbVJjVzhwcmc?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 60
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -427,6 +427,28 @@
  "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "38059445b0d4",
+   "title": "Resultados oficiales ONPE EN VIVO: conteo de votos entre Keiko Fujimori y Roberto Sánchez",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWtLQjRQX1V0bHR0VTBqU0trX1Fqd2NvbW84bjBZVC1fY1R1WW5GNlFpcVpFQjJRTUlaend3Q01ac0d1LXpnaENSVFNsbUhOdGo0TGc4ZGxwQXBQaDNNWXlvM0xJT2JNLXZkYVFjaWttX0NKMXFjTTZlbm5FMkV4UzZ4MmJvek1sTVBZSDlKQ01YVFRycW9pOThVckFmM2I5VWdOVEo1OEJMTC1ndXo0SFRrQ0EzdnVKb3kxMzBoNjBvQQ?oc=5",
+   "date": "2026-11-21T23:26:27+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "52069032a89b",
+   "title": "Gobierno de Keiko Fujimori podrá nombrar funcionarios sin acreditar experiencia laboral específica",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUzZKTDdMNk9sUmtETXVqcnF4MFRSRm1zeE9TV3RtMVgxeTFVcEdOeUJMVlF5T3QyMXc4aEVLZ3U3djhSNC10ek1uei1hdWxyUV8zUXozaG9ETjZDRFczLXROUkhSTU9JN2dpSG4yX0ZpOXMxUmFNcEk4ckRCMk1iRDl3SndRamhsenpXaXJLLS1wZC1uNVdWZFdFS016OHBPUndoaWYydjdBbXhDTmFkcVFjaFFmX1dRRkJXeUVrOUNvT2FWSThfT2sya3c0bVVoMDk1RzJkaEJWVTgySHpMR2VjMmR3cGxkWm5J0gHwAUFVX3lxTE1lQXlucV9JaEp5bUo4VGxBUlF6TUJxQ2VBZng0MXp5aTEzRXlaamtRMUNCcFdmeWwzYnJ0cm5xZ1RERTltTXZjM2VfODFFdm9nRUdSV3hJcGNwS2NQb3FzcE8ycmxTY2o2dmdaQnd1WlBfakNKbHpHV0YzY0VITEljWWlEOVZoY0Y2aDlMakNINk1ycFNud1d0N1R1QzA0a3VKXzR6NzJmZ252MUxnLTh0QmNhVXBTYUE1bjJ0RVZlYk5weDBubkQ5dzB1QUFpSE5QSmpsU1RpVkloTXpBOEE0OGJmYmhKUGRWSkpQRE5UMw?oc=5",
+   "date": "2026-11-21T21:00:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "eac87414842f",
    "title": "Errores que el gobierno de Keiko Fujimori debe evitar para no repetir crisis política",
@@ -1096,28 +1118,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/fujimori-anuncia-apoyo-de-china-y-corea-del-sur-por-us-47-millones-los-anuncios-tras-apec-2026-noticia/",
    "date": "2026-11-20T04:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "512b025769a8",
-   "title": "Keiko Fujimori destaca resultados de su visita a China por APEC 2026: “Ha sido una agenda muy fructífera para el Perú”",
-   "excerpt": "",
-   "source": "Latina Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVFpnc01qUENuYWZ4QW1fdW5sMFZWM2ZHWWxtR0REdjZZR1lWWFZCMWU5MmxQZ2FsdnFlNE9oMW14Q0gybmJ1RGJsV2lReWRsR1FqWkJoSjNBTlFiMW95eUVra05FbGM4OXNkQkhXeHFyMW94X3Q5X2I0cTNvQm1xS3Jxck5hVWtZRFB0anZUbExISTMzZHZrNDhYZjdVb29PNTg0aXRsNnNnQzlJYzZ6b3F2SW1tNTkzTlRrTmFuYmdYa0hjbjczS0NlMFlhUGNiTGVkdEtqcWR3UFdpUUpaM1ZnRTA1TFVtSkViWkp6TDVuUQ?oc=5",
-   "date": "2026-11-20T03:37:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "792140b7c7cd",
-   "title": "Keiko Fujimori anuncia donaciones de US$ 47 millones de China y Corea para el Perú",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWlhOUNBdUJpc3oteE0zZlF5MkQxcm9zT3hlTkdvU1BLbV9fcUFQTjFZUlUzbXI3M0wta2FGM01USm9ZOUhnSmlGM2dyWnJnVmkyaFZNTFNiNmtBX2Uta2tOUi1kRzRZUEZ3UEF0NFBsVUFxQjZEcnUxckFPdjFLcXJ1NGcwZ1ZKcURSR0g0RzdrM1A1UzhNM24yWnBrdDlsbzVyYWtnRm8yZ19LVjRvMjBub1E0SmM5QzFkMUxIbzLSAdQBQVVfeXFMTzVSandHYUs3ZlJ5ZnA3b09tbEdUaVBmU1haYlBvaTdZV083dmVxYTRZZ2JsQXdrbVBIbTlZR3lrWGRIVTRySmRoVE1RMDJwWWoyeHd6blA4eWpLTG91NGVERDJBZVNlZE42SVJqVW1XQzJieVVaUjF5dUNPSGpYSnFtVHJSUHIyeno3bGlJY3JpTG42MlY4UkdIalhsTTY1U3M0X1lucHd0dm1kdG1BV0N6QW9qbEJwbGxZcTRLeDFlZXhFcGUtaHJUa3FPbktjbmRGWWY?oc=5",
-   "date": "2026-11-20T03:02:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
