@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:14:08.713925+00:00",
+ "generated_at": "2026-11-22T21:35:48.489557+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,6 +430,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "78918ea4cbc2",
+   "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
+   "excerpt": "La presidenta de la República participó como “testigo de honor” en la ceremonia de suscripción de los instrumentos.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
+   "date": "2026-11-22T21:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8f358b19af5c",
    "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
    "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
@@ -464,17 +475,6 @@
    "source": "Vietnam.vn",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1hPUEsyQkhkUkhrQ0FXRDR0WjZFY1l5RklBMUZqMS1rclgtZFVCeXpGNDI2RmxNR2NCX0ZDRzBzVTM2dHFzLWd6ZDVodWFHYm5uanhrd0RYTWpxTDU4czBXZ2R4ZGFXc0VET21ITzNmNjhGM3lTam5QZmRWYUlncV8tMDNZU2NpVjB1ek5waTZrazFkQzBB?oc=5",
    "date": "2026-11-22T14:44:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "78918ea4cbc2",
-   "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
-   "excerpt": "La presidenta de la República participó como “testigo de honor” en la ceremonia de suscripción de los instrumentos.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
-   "date": "2026-11-22T12:28:03+00:00",
    "state": "posando",
    "place": null,
    "next": null
