@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:35:48.489557+00:00",
+ "generated_at": "2026-11-22T22:18:16.430883+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Lima",
-   "lat": -12.046,
-   "lng": -77.043,
-   "abroad": false,
-   "city": "Lima"
+   "name": "Japón",
+   "abroad": true,
+   "city": "Japón"
   },
   "source": "La República",
-  "date": "2026-11-22T17:24:40+00:00"
+  "date": "2026-11-22T22:12:22+00:00"
  },
  "next": {
   "place": {
@@ -429,6 +427,21 @@
  "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "1bf2467b50df",
+   "title": "Keiko Fujimori se reunió con figuras que ayudaron a su padre durante su exilio en Japón",
+   "excerpt": "Las reuniones fueron con representantes de The Nippon Foundation, la diputada Yuko Obuchi y el senador Muneo Suzuki. Especialistas en materia política consideraron que la mandataria aprovechó su paso por…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/22/keiko-fujimori-se-reunio-con-figuras-que-ayudaron-a-su-padre-durante-su-exilio-en-japon-hnews-1506296",
+   "date": "2026-11-22T22:12:22+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Japón",
+    "abroad": true,
+    "city": "Japón"
+   },
+   "next": null
+  },
   {
    "id": "78918ea4cbc2",
    "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
@@ -1115,17 +1128,6 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHJGWEY5OEhEa2thVHpZNTlUSXREVVpLU0ltaFFkUG1lVVFLZDNzazNnUEh2WE5PeTlPb0otWHFmUzZadVFvcXVJaXNZbm9RZGFDNjNXRWYxLXNVWmpNNjBEeWREMWUxUjhac2Rvb0JUaWhJeURCdVNtM1A2aXo5bGVLRQ?oc=5",
    "date": "2026-11-20T12:18:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "78956d15df0d",
-   "title": "Presidenta Keiko Fujimori se reunió con el emperador de Japón Naruhito",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDhZVUJadmdJenBxNEh5UDM3VDhZd3B5djlRbU1yZnNWTGZqTGhEZFZEVVNkekVITS05akVYQTdIWV9zTDZuVXVpWVpibUxXYkFqV3ZLSXdjbS01Z3pCR3A1b3ByVk1GejYyc1lJTm10bnJ3ZlBIQWFyTVg0OThqUS1YTDdCb2QzNGhLSFNnci1weFU4Mk50M0Ywb0FRY21QbkM1ZGtBSlZJYk1a?oc=5",
-   "date": "2026-11-20T12:15:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
