@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:56:20.588274+00:00",
+ "generated_at": "2026-11-22T17:17:37.499234+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -567,9 +567,9 @@
    "id": "02cda06ecf85",
    "title": "El rol de Keiko Fujimori en la cumbre de APEC 2026: acuerdos, reuniones y gestiones",
    "excerpt": "La presidenta peruana cerró su participación en Shenzhen con compromisos de cooperación de China y Corea del Sur, un acuerdo comercial con Tailandia y reuniones para atraer inversiones y ampliar…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/21/el-rol-de-keiko-fujimori-en-la-cumbre-de-apec-2026-acuerdos-reuniones-y-gestiones/",
-   "date": "2026-11-21T18:44:01+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcllXUzZfRXhhdWs0NWxMdnF5Z1hnVVdTdHdjeS1WRUpMYW1PZUZtT2RzanZ0RFh4Vk9Lc3hDb2hOU1NFa3dpVm10YkNzaWtnblRiQXJzVDVIenVDZkFqR2lLcXI2T2JfbG1XLXpuMFVHV1djel9wX2hPZlZ2aHl6V1ZwTmczYkJJcndCR1VseVRWazlsa2lTdGJtcFdyNWR2ak1Xdm9XNWxxUXkxalhnVGN4WFN4RnQzUGdDOGdMc9IB2gFBVV95cUxPaHNwZmhWLWtmaHBPT1RIX2tRVXlvelpFaHl6QmdXY3NMNXpURi1MT1g0cWpoR25URFBkR2RaQ21PYXpXcG4zS1djX0U5U1hFc3NsbzQtOGZiOXdOa0RHY2FzMHpTTVBXbDJyeUY5N3diRHBmV01md2x5MDg2dXVhMUUwam5YaXVZdmpneVlxRFpYRnh0TFdyMmdkUXI4UXVqbmFTODhXOHZsUkFQS0tjeFdmeVVvZjVNYTM1TVpQME5qR1RmVVctN0hYRWRwYTVSUDlsZlp0d0RTZw?oc=5",
+   "date": "2026-11-21T18:36:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -702,6 +702,17 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0x6RGpCUG5PdGNReFFHM1Bad01aUFRkZE5pN1c0NjVsN3AwSmc4Z0NMczBpQXF1YU9kLVBDcmR4eV9sV0FwY0tXN05EZ0F4MGl4bU1EUmx1NFNybUFadVdydnJHMzF4ejdJeXRFNWx3TjdtR2ZPdWFVVi1vVXhfbHhKa3RPcERVSFZMNl9Gdl9DdjdCajJHQzVQMHNiOHhKM2xXOGUxd1pnQU5YMUFJTkVscXNFVFVFS2txNjg5SHFCdw?oc=5",
    "date": "2026-11-21T05:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3756c155f11e",
+   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVcweHJfcTZfN3FaYndNTGgydWNZcmMtdVZydy1fWGZSQkJHQ0dHZ2JteFhXZ3hnWUc4YVNILTdEVFRKTVZrazE2OGFVM1VGUUhCMGVkSTQ3dmhOUEJKZmxzUTlENXV4ckNtd3RXUFJRQUlfU3B0YlpiNWtES2xuaExmNk5yRnR1clJQcE9PWXBYUUlLT3FzN1RKUWNSUjZZV1ZGTUVzbERZQTFMaWxyR3MyRFhzQlZtd2c?oc=5",
+   "date": "2026-11-21T04:04:57+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -950,6 +961,21 @@
    "next": null
   },
   {
+   "id": "36e7f252e37e",
+   "title": "Keiko Fujimori fue recibida en audiencia por el emperador Naruhito en el Palacio Imperial de Tokio",
+   "excerpt": "",
+   "source": "ATV.pe",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSTM4X3l2cWlpY1NiU2M5N1NrMzNWZzRaYXBKdHk4QTV5LS1pcDcxOGs0RlFYaHBXN0VXTDBiSkMxMHlra2lxVm5LNWgxc2ZYQ3NlczNWMHBKSlhiWW1UOHV5T2QwM1dvcjVySzNERmFMMzR4MF9hX3J5RW1wc0dLazRwOFRRcUU?oc=5",
+   "date": "2026-11-20T15:05:29+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio Imperial de Tokio",
+    "city": "Tokio",
+    "abroad": true
+   },
+   "next": null
+  },
+  {
    "id": "95361171eff5",
    "title": "Keiko Fujimori se reunió con el emperador Naruhito en el Palacio Imperial de Japón VIDEO",
    "excerpt": "",
@@ -1002,7 +1028,7 @@
    "title": "Keiko Fujimori se reunió con el emperador Naruhito y la primera ministra de Japón",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONzA0alE3NGZBV2FJc2tpX2ctRG8xWnZBelRxdEVhSVlkUWlhbk1yMDA5TmpWZXA4NzVteENnVk9nTzFENkc0bWRzdVA1ZnhCOE9lT1l6d19LWl9OQXVIOW5XeVVqQjNGYS1tYUVVNzNkV2ZYdVBNcm9TY0N1R1dmeTRQZXlYY3Q1Um5BTlhwRWdTUmxjWGpiT0plMzNyY1Q3dzl6WFRLbmxRbTY0N04tWWhGMmIzLVkyV0Rv?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzFxWUlxNVZiUE9zYWZ3cVptLWhRMFZLUkoxYUM1TElzUHJheVYwV2tzZlhSaDR5TExEemdrQTlWMUVzUnpJa2ZzWU0yLU5nYjIxaXJjVEZkX21qaHBUSWw0WUlRUkRaUVNBeDMwVTBrWENlaGtGSHJia2w5T29VdDFoVU9lcnI3QVpJd0RWUG5QVmEz?oc=5",
    "date": "2026-11-20T13:39:23+00:00",
    "state": "posando",
    "place": null,
@@ -1092,28 +1118,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDhZVUJadmdJenBxNEh5UDM3VDhZd3B5djlRbU1yZnNWTGZqTGhEZFZEVVNkekVITS05akVYQTdIWV9zTDZuVXVpWVpibUxXYkFqV3ZLSXdjbS01Z3pCR3A1b3ByVk1GejYyc1lJTm10bnJ3ZlBIQWFyTVg0OThqUS1YTDdCb2QzNGhLSFNnci1weFU4Mk50M0Ywb0FRY21QbkM1ZGtBSlZJYk1a?oc=5",
    "date": "2026-11-20T12:15:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "67e0e59e8dcc",
-   "title": "Keiko Fujimori inicia visita oficial a Japón y se reúne con la gobernadora de Tokio",
-   "excerpt": "La presidenta Keiko Fujimori inició su visita oficial a Japón con una reunión con la gobernadora de Tokio, Yuriko Koike, en la que expresó el interés del Perú en conocer…",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHB5UWdNdXA0Q1NQdERKYWUtcERnaVJ2LWR1RzMtRXZzNVJYT2w5NnM2Q3FuNkNCYUwtMHl6bGxkeXlmVjA1d2s1MDVUdThuZTFoU2g0QktvTTFUT1Btbm1ocjVJNTJHNnMwREtfdmNjVXNsRWVpYTF1T04tbmQ1NGxIbllUcHcyREN1RmVObTkwX01JdUlqVXIyYzJMeFF1cWxRNGFPT0dGdGlMX2dGWkJxN1QxZ2s2WG4zLUUtcVpYTDk0?oc=5",
-   "date": "2026-11-20T12:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3756c155f11e",
-   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEhlOHRLZ25vd25vX19FVEtfZGhFRFBGZjllUzdfZl94dzYwSjh1SndBZXZVM3JxU3ZFcTlFNTdZLUR6VFFaYVdrU3dzUXdDN1ZtOGpPNkpoVDFXZ3o1M3hmRWRjb1p1QmlzeVgwZHF1cGdPUTZkMDVFc3VlbzRGajAybnc3aDMwMzJTZjhvbmhwejk5Nmsxc3V6UnVESlMwNWJuVEVtbW12QkdjNldwb1oxNW1TVFE?oc=5",
-   "date": "2026-11-20T11:49:04+00:00",
    "state": "posando",
    "place": null,
    "next": null
