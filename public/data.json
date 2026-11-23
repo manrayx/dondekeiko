@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:44:51.351210+00:00",
+ "generated_at": "2026-11-23T20:06:38.758498+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -436,6 +436,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e55696fd32e0",
+   "title": "Keiko Fujimori respaldó a Carlos Espá tras fallas en misa del papa León XIV en Las Palmas: \"Las disculpas a quienes se han visto afectados\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGJxazFSTjF2NUJKNTRncjlPQmRHcG1kWVcxWDdFMUwzRHh6NEp6Q3RSS25HSEhvaEdDYjQ5NUNFajF2dEZFejJkUExFdHEtMlAzNkdramt2RWZkRVdmeDR5WFJ3a2haYlBtU25RdkJfUzkwWTY5dm12NGVUVEJVdHcxbl84RjNvOUdGUS1PUll2dkMwUmg0RUtVV0d5cG9pYllj?oc=5",
+   "date": "2026-11-23T20:02:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8f358b19af5c",
+   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
+   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
+   "date": "2026-11-23T19:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9410bc56f345",
+   "title": "Keiko Fujimori anuncia mayor capacitación y nuevas plazas para agentes del INPE",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenNycGRsbEhUelBlU3ZHRGZOTlNkY0dxY1UzWWhLS001cW1Qa0diSEtpbDZoeHB1WjZRYVlCMlRKeG54eUx6cDJFRkJCYW1oSGhoZ2RVVnJUeGlDOVpJMng1WlR2dkdrZ3J3SUs1a08yLTA4ZDVyTlR3azhjR01Bd1BPTlhMT1NTT184RXhtbXF2R1NkX2l1YnF5aFJ3YlpUUlNaQ0VGMEJnMWJzVmJObnpTWFo0ejJkOHI1d3ln0gHSAUFVX3lxTFBmdHNEeFdZZlVfMDhSajJBeE9zRXJIdzNqM1VsTzlVQmFXSXZvVFh4QnQ5Z3kySEpBejBBY3dYZkZLeTN5MXNFQ21YaGc3XzJrMTMtYS03eTItalVFQmplcFJSZTRhcVFJZlE1UTNfOVNlMDFQeGI0ZGk4c2xiU2FYNnpFeERqQU1JTHJFdElNOGJHX3NfSmVtN1FDWFcxNGdtdFFVYXd3M3pqVWZ6WXFRSjh4QTl2QWtvb2NoNV9ZUTd5enFicWFJaldicjlKU3dkZw?oc=5",
+   "date": "2026-11-23T19:18:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8d527abac027",
    "title": "Keiko Fujimori advierte que El Niño llegará con fuerza y anuncia mayor despliegue de prevención",
    "excerpt": "",
@@ -611,17 +644,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWtpRWR4eUI2V2xoUHV2LXpIZmgwNkFVREk5eVp5U0h5OVhlcjk0aTRqQl82WTJHLTEzWkNkeC1ZWk10Z1RBTGJZZWk4MWR2SldIRno5OVlPdDhpVDFfX2xraXNfLTR0Z3dITXFaU0ZyUDd6RTRnaWhCek1PejU4aG5SZ3lZZnAtREs2YWhJdWNKZmlmSXpsMlgtcjFSVXlYbmU5NGRLSE1yZndWay1LZVhsWUViOUtUNEE?oc=5",
    "date": "2026-11-23T16:49:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f358b19af5c",
-   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
-   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
-   "date": "2026-11-23T16:45:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1097,28 +1119,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcllXUzZfRXhhdWs0NWxMdnF5Z1hnVVdTdHdjeS1WRUpMYW1PZUZtT2RzanZ0RFh4Vk9Lc3hDb2hOU1NFa3dpVm10YkNzaWtnblRiQXJzVDVIenVDZkFqR2lLcXI2T2JfbG1XLXpuMFVHV1djel9wX2hPZlZ2aHl6V1ZwTmczYkJJcndCR1VseVRWazlsa2lTdGJtcFdyNWR2ak1Xdm9XNWxxUXkxalhnVGN4WFN4RnQzUGdDOGdMc9IB2gFBVV95cUxPaHNwZmhWLWtmaHBPT1RIX2tRVXlvelpFaHl6QmdXY3NMNXpURi1MT1g0cWpoR25URFBkR2RaQ21PYXpXcG4zS1djX0U5U1hFc3NsbzQtOGZiOXdOa0RHY2FzMHpTTVBXbDJyeUY5N3diRHBmV01md2x5MDg2dXVhMUUwam5YaXVZdmpneVlxRFpYRnh0TFdyMmdkUXI4UXVqbmFTODhXOHZsUkFQS0tjeFdmeVVvZjVNYTM1TVpQME5qR1RmVVctN0hYRWRwYTVSUDlsZlp0d0RTZw?oc=5",
    "date": "2026-11-21T18:36:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3574e20b0a66",
-   "title": "VIAJE DE KEIKO FUJIMORI AL FORO APEC 2026 FORTALECE LA CONFIANZA INTERNACIONAL EN EL PERÚ, SOSTIENE ECONOMISTA CÉSAR ZAMORA",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0ZhbWsteHFMMjNsOFZVRkpXQnVwQWNobWNBY2FyVnRNeG5XRzlOOUtTR1hBVDlnVkM4VUxoYWI5N1NxUm5xMWxqbTBkUmRqNzhzaW5aRVhpWlBKQ0hSTEpVclFtY2lic3ZsM2tTT2tqdzJpMXpGQXpiakl2OWtMTHRHVGtzWm5oOXhtU3dJUWxaQzdHZFN5cktwZldjX3dXYjg5dGtobDh3NXp4amYzOFNibm05VUQ4NTI4Zlg0TWN5VW84aVFyaXZ1V1JSNUk3SlRyemVpMkpJTUlQdmdsRw?oc=5",
-   "date": "2026-11-21T18:16:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1bbff4b7fb5a",
-   "title": "Presidenta Keiko Fujimori: APEC es una gran oportunidad para el Perú",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1J4aXVCRzNzd3o0bmNGWTF5b3dPNDZPM1BsMW5EQjljdWRmX0phTXpscVJSREJwZ2VOUmJhLXlnOGxBbjhrNzhjS3AyaE1wMW5WdVpHdzM3TnNSR1hka2JZZGZEcmhtV1FCN1UzSEFIdlA2ZnJEalV5REgyT1ZTS2FjbDhkSkkxS2hUUDNOdWljTFNKN1VSU2J6UExhaXhlS0hValdhWV9tbmRtM2VoZ2RqYzNna0FSVlE?oc=5",
-   "date": "2026-11-21T18:16:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
