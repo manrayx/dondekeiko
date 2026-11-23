@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:00:56.516995+00:00",
+ "generated_at": "2026-11-23T14:22:13.076432+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "78918ea4cbc2",
+   "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
+   "excerpt": "La presidenta de la República participó como “testigo de honor” en la ceremonia de suscripción de los instrumentos.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
+   "date": "2026-11-23T14:05:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f65b0fc3017c",
    "title": "Keiko Fujimori participa en entrega de 14 máquinas donadas por Japón para reforzar prevención frente a El Niño",
    "excerpt": "La presidenta de la república, Keiko Fujimori, participa en la entrega de 14 unidades de maquinaria pesada donadas por el Fondo General de Contravalor Perú-Japón, que permitirán fortalecer los trabajos…",
@@ -495,17 +506,6 @@
     "abroad": true,
     "city": "Japón"
    },
-   "next": null
-  },
-  {
-   "id": "78918ea4cbc2",
-   "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
-   "excerpt": "La presidenta de la República participó como “testigo de honor” en la ceremonia de suscripción de los instrumentos.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
-   "date": "2026-11-22T21:29:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -1015,6 +1015,17 @@
    "next": null
   },
   {
+   "id": "c1492870f65d",
+   "title": "Keiko Fujimori ante empresarios japoneses: Perú...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkdoYWpWVGNNSms0SjZrdWFHT2JJMlRmQklJR3lBeVlFdTdSMzZfQ0VxaWt6WXhpQUh6Y0ZaYjNnV3RteklsUzVGdUhOLWdqSWJNaUJ2QWlVVktCaVRFbWhpMTdOYlliM0FNMEhQNXM2Tko1YzIwZ3lvdmZEMWo4R3UwMkdDODR1NkxFa3JnaXJ1UjBWNHY2RVRKMC15MXNDcVVqZnNuVlVta0Rsc3hlbEVB0gG3AUFVX3lxTFBuWVk4ZlA0RGoyT2lkdHBtTDdTdFZmNkVlcktlNjU5Qmo5dERua0FoVTQxQU5CQUZKT2NQNVdWRV9kNUs5bEwxTkFQcXdCWmZRSTVtMzZDdE5FZGpTb0h5eDdVb201bDlwd0oyUi1pSVVsNHR1Tll2SEZVV2JSWER1RTQxTDc2bGRYNkpjOW1hM2ROay1yaFZtNXpiemZjNHh6X2JYM2V0aGZXVDZNc00zUDJVeFQwVQ?oc=5",
+   "date": "2026-11-20T17:47:24+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a1661f634752",
    "title": "Presidenta de Perú, Keiko Fujimori, visita Japón",
    "excerpt": "",
@@ -1117,17 +1128,6 @@
    "source": "DIARIO VIRAL",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd083bFE3eUhsNVMyZ1A5bGNYWDhkVWJKa2o0OVFSNGN0cExXeFRlTDBRMlJFTVFqdHhRUkl1WW5WbXJjV1lzd2Jpd3FEcUN2N3FuNi1aOThpQ1pLQUM3TzlCcUVLVDRIem9HWWViOVRpajJiejNTUmtMU0wxelVXWTVFbndEYXd6dVYzajhuM3RPV1hKVWNyRDllbG9wWmxQMlJFaUM0aEVxUnh6ajlPMw?oc=5",
    "date": "2026-11-20T16:13:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9ad36bd3a13a",
-   "title": "Presidenta Fujimori agradece apoyo que brindará Japón para enfrentar el fenómeno El Niño",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1lkOGJNZXpOQ3ppVjhYVXBhcFBWS3NOM3Ryb3JSSjVhWm1pSi1kT3FTVldGOV9Yajluc04wajlydXlsVXZ3clFEM21XaEFTZVBpQkozOHgtS19odlRvb0UyazgwXzlxcGVJZjN5Skg1NE44N09FSW1nVXJ0YkNOMGwzQkFxY1R5RWpVc1VYS3liQ1pjZjN3X2pqOFMzS1ZlbC1rVGRGdm1Xb01iSHVpSVFkdWRFVjhrNjFtdXloeFVndw?oc=5",
-   "date": "2026-11-20T15:47:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
