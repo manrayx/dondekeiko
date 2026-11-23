@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:51:40.111745+00:00",
+ "generated_at": "2026-11-23T03:17:27.672131+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -655,21 +655,6 @@
    "next": null
   },
   {
-   "id": "cdfc852b0915",
-   "title": "Keiko Fujimori visitó Japón y suscribe nueve acuerdos de cooperación para enfrentar desastres naturales",
-   "excerpt": "",
-   "source": "Lima Gris",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHkySG80ekYtcVdkSVk3RUhkNkxjc2E3WVhKVml3amo4WldobWdvSUJ3SWNYY01XTzk2TXJubzEwWVpsd2dSVWpNdnJlRjFEVjNMZTRNVi1QRHhFdnpDeVA1c0JCZ2hkR3ZsYlJVXzBfdEtHd3EyQnE5MXFaYnc5eUpKeTRBU181REJvaWZBVXV1WC1SWnpybUJPVENKSm9BbUczWkNKdHZ6dFdsVkYydXd5X0hmNHZsV2ZoVVJDN3FoeEHSAcgBQVVfeXFMTTlLRTl0SnVzZUJmdFZydWhlTXBZTV9UTWdCb1FJdVllX2JDdjE0d0RoV1Fzdng5S18wVnY0NXZla3ZWNUpOZlo3MFBVWnhVdm1seG81NUxpNkhFWU42N3J1bkhINlpINDhUU2wza1dORm16aGZwZEdPYnhFRUxDZmo4dmFqTHFNTF95ZlAwejlwUGR1UDNHNVk5dUQ2MzVxVkh0R2ZyaHFqaFVFS3F5RnFtTzV2dE1IaXl1UHVZaS04V0Z5T0pncW8?oc=5",
-   "date": "2026-11-21T16:11:49+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Japón",
-    "abroad": true,
-    "city": "Japón"
-   },
-   "next": null
-  },
-  {
    "id": "cdb4c780d925",
    "title": "Keiko Fujimori busca inversiones japonesas en Perú y se reúne con poderoso gremio empresarial de Japón",
    "excerpt": "",
@@ -678,6 +663,21 @@
    "date": "2026-11-21T15:26:43+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "cdfc852b0915",
+   "title": "Keiko Fujimori visitó Japón y suscribe nueve acuerdos de cooperación para enfrentar desastres naturales",
+   "excerpt": "",
+   "source": "Lima Gris",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHkySG80ekYtcVdkSVk3RUhkNkxjc2E3WVhKVml3amo4WldobWdvSUJ3SWNYY01XTzk2TXJubzEwWVpsd2dSVWpNdnJlRjFEVjNMZTRNVi1QRHhFdnpDeVA1c0JCZ2hkR3ZsYlJVXzBfdEtHd3EyQnE5MXFaYnc5eUpKeTRBU181REJvaWZBVXV1WC1SWnpybUJPVENKSm9BbUczWkNKdHZ6dFdsVkYydXd5X0hmNHZsV2ZoVVJDN3FoeEHSAcgBQVVfeXFMTTlLRTl0SnVzZUJmdFZydWhlTXBZTV9UTWdCb1FJdVllX2JDdjE0d0RoV1Fzdng5S18wVnY0NXZla3ZWNUpOZlo3MFBVWnhVdm1seG81NUxpNkhFWU42N3J1bkhINlpINDhUU2wza1dORm16aGZwZEdPYnhFRUxDZmo4dmFqTHFNTF95ZlAwejlwUGR1UDNHNVk5dUQ2MzVxVkh0R2ZyaHFqaFVFS3F5RnFtTzV2dE1IaXl1UHVZaS04V0Z5T0pncW8?oc=5",
+   "date": "2026-11-21T14:58:55+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Japón",
+    "abroad": true,
+    "city": "Japón"
+   },
    "next": null
   },
   {
