@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:02:03.622501+00:00",
+ "generated_at": "2026-11-23T19:23:08.124589+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -156,7 +156,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -436,6 +436,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8d527abac027",
+   "title": "Keiko Fujimori advierte que El Niño llegará con fuerza y anuncia mayor despliegue de prevención",
+   "excerpt": "",
+   "source": "La Razón",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakp4VTVLUkkwa0dWSllHbXotUnRmMk1XaVVZckVpQ3JjYzF5bEZwRHZOOFo1dXlYdGx2MXVPUFY5dWJCZVNLenpCTWd3d3ZoNEROanRLZk93QkJvQS01Wm8zMXdOWEY3TnA0d2pFSHB6eWUwTDZfWmdtaGRIbUhGb00tblI1Wmw1ZWFaOFZ4TGRqdnc1b0d0QlB6RzFka0h3V0ZBSW1PTUZDMUtfOENSTFJkMDdiZw?oc=5",
+   "date": "2026-11-23T19:00:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2a0ffe8dca33",
    "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
    "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
@@ -600,6 +611,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
    "date": "2026-11-23T16:45:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d72c39e10e85",
+   "title": "Presidenta Keiko Fujimori sostiene reuniones bilaterales con autoridades de México, Filipinas y Hong Kong",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
+   "date": "2026-11-23T16:27:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -890,17 +912,6 @@
    "next": null
   },
   {
-   "id": "d72c39e10e85",
-   "title": "Presidenta Keiko Fujimori sostiene reuniones bilaterales con autoridades de México, Filipinas y Hong Kong",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
-   "date": "2026-11-22T20:49:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "7484f06eac17",
    "title": "Hayley Williams, vocalista de Paramore, lanza contundente mensaje a la presidenta Keiko Fujimori durante su concierto en Lima",
    "excerpt": "",
@@ -1094,9 +1105,9 @@
    "id": "1bbff4b7fb5a",
    "title": "Presidenta Keiko Fujimori: APEC es una gran oportunidad para el Perú",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcW40RTB2NlFoaFVMRVNNaXY5RTFUdUplZ3g1UVhjZkZCWGJqcTdwQ0ZYaHVNMmNoWDRPMW9lTEM2NVgyQlhveFBLWjZYTFFQcm1qZWpsU2NkS3EzU3hUSFVIVHJMdE1seTJKN0NOMnpKcFhBMG1VMzNnaGROTWxUaXFWZ185MmJEUkRzVmhRZmt0RXVqMWhMQVJCY3lyYkMtQV9KUWFmYnRWUVhrcHF1Xw?oc=5",
-   "date": "2026-11-21T18:14:00+00:00",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1J4aXVCRzNzd3o0bmNGWTF5b3dPNDZPM1BsMW5EQjljdWRmX0phTXpscVJSREJwZ2VOUmJhLXlnOGxBbjhrNzhjS3AyaE1wMW5WdVpHdzM3TnNSR1hka2JZZGZEcmhtV1FCN1UzSEFIdlA2ZnJEalV5REgyT1ZTS2FjbDhkSkkxS2hUUDNOdWljTFNKN1VSU2J6UExhaXhlS0hValdhWV9tbmRtM2VoZ2RqYzNna0FSVlE?oc=5",
+   "date": "2026-11-21T18:16:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1108,17 +1119,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGlIanJSb3gxdG1DaEtaTWlFSlptSlVaeWVzcDJKbEdoSzJpLW55aHdzRm5SemZFaG01SVV5Q3NQVHMzOHlwUmRJdVVVUU9iTW1xejVkR0M1NDVub05PVkJ1QjNOWHBOTWNvLXlSeGE0MU9JTE1aX01KWldTRDhtR2dfVUNXWlltT1pRTXBXdllEX08xOXBObURCbHBQSG53RmNUY2E1cnBuYjNWVFh3aw?oc=5",
    "date": "2026-11-21T18:02:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cdb4c780d925",
-   "title": "Keiko Fujimori busca inversiones japonesas en Perú y se reúne con poderoso gremio empresarial de Japón",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZGtiamdDLVlXWUVZbW9wLWtLOTM0c2NWX1BOV3hRZndvc1MxTjVuQmNnYXBZbDBRMGxJUm04OWtFSDJnbEhEYTdGZFBSZ2dKYklqTFV1Z3g3YnFvMjBGdzg5dDloRFNRVm9JMWp5aDlNMFBNUDV5UFlhaTRNMjk5aVpVRmlwTnlfU2g5bnM5MmU1aGxLZDVWTU1yNmRFRm9QTnlBM3o5a2kwUFpNNGRyMm91a0l2QUs0eGxLd2s1ejNSaEpXRXR6V2c3T2hiWlEyM21fVzJoMFhvNHpURDVKZXVNejhzN05uUjh5NnRQbG85bGF3U21xLS1CTktMTTg4V0E0T2F0aEo2S3YzMDBGcw?oc=5",
-   "date": "2026-11-21T15:26:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
