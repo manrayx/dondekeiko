@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T22:37:17.870139+00:00",
+ "generated_at": "2026-11-23T23:19:47.093512+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -436,6 +436,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1d9185aa29ca",
+   "title": "Keiko Fujimori respalda al canciller Espá ante moción de interpelación por misa del papa",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, expresó su respaldo al canciller Carlos Espá y al gabinete ministerial, luego de que se presentara una moción de interpelación contra el titular…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-respalda-al-canciller-carlos-espa-ante-mocion-de-interpelacion-por-misa-del-papa-noticia/",
+   "date": "2026-11-23T23:09:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f61dbca92b0a",
    "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
    "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
@@ -519,17 +530,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2dBUWpiSFhEZzBpb2ptbkFSa2o0NHlmNVNNWGhIRVRGVnJ0eXNZMXdnNEJINWtmRUdpTzVaTXBxaUUyUWI3eEY1TTNQdWFHV2wxTzY3VVplQ0VQYWIyZy1XRmk2TC0tWEQwbDJxMkdZdTlrOG5MZWtTSDVjbW5xQ2hHX2dOZ1dTMERTSHpLc05kY1JrQ0lhYXNCQ3JIUElIcE01YXhkMk5hXzFn0gHAAUFVX3lxTE1FaVZZT2N4cjV0V2xxZ1RZUWVQVDllUEZ6MkdqeU45c2dOSmtSTTZIV2IxNGR5MkE1bTJra1oxdFM2aEdSVElDNXZMNFVJRnJpREgwT0cxWTIyNkhwMUlZRjJkLVJ5Q1hKLW5kSzdlZGU1OTBQUm1jQlZUUWE5TkpmSlJtR0FKWGdDYk5zemNRNWlESXRkTHJ2ZHZ2dmRWQkgzcmUzSXJjOTFLck1zTDFUc0xERFRmdUpXMHlnWnNRZw?oc=5",
    "date": "2026-11-23T18:49:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1d9185aa29ca",
-   "title": "Keiko Fujimori respalda al canciller Espá ante moción de interpelación por misa del papa",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, expresó su respaldo al canciller Carlos Espá y al gabinete ministerial, luego de que se presentara una moción de interpelación contra el titular…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-respalda-al-canciller-carlos-espa-ante-mocion-de-interpelacion-por-misa-del-papa-noticia/",
-   "date": "2026-11-23T18:24:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -933,7 +933,7 @@
    "id": "1fd122d687b7",
    "title": "Keiko Fujimori pide disculpas por deficiencias en misa del papa León XIV en Las Palmas y respalda a canciller",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFIWG1jcVB1TmVuaG1jNERCMnpoRHpzRDk5ZEhPZ001akNKQzZIUVFNbEE0OXAwNV8yckxvWVV0X3E3QnRPd3p4SUFDaTJxd0VZZ3UzX0xBRjVteXVHUkh0WVczekhXMHN0NTBWN09XSDExRVJ1NVJ3YUtPRmU1U2NmT3czRnpoSFdrMUFaT183SEhMS2R6VDA4amhPZWNZLUhTRnF1ZENyZGVMZTZkag?oc=5",
    "date": "2026-11-23T12:24:57+00:00",
    "state": "posando",
@@ -993,7 +993,7 @@
    "title": "Hayley Williams, vocalista de Paramore, lanza contundente mensaje a la presidenta Keiko Fujimori durante su concierto en Lima",
    "excerpt": "",
    "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWEg1WXlxa0lwZFR4Tmg3Um02UkgxVXBsTlR6dWJYMmo1THR2SERaLWJRLVJlelFPbFJoLV9SZ01RWTQ1T2lDXzhoWnB2cjFzaXVxSlhLbllZaVZqQ1RUV01NWUp3R1JZOXVsOGFod2EtZHRaaGhLc2FaRXRlVGp2LU4zM3hPNlpuMUZEdlQ5akpvUnh2ajVoSGVnVVM0SUFLSmppLXhSQ3JhT2VMeV9uTE4tNHFrc09Gem5feHdMRzFYajFKM081dl92dUNwOXBuQ25OSWZFZnYwQmVBQlFNSGxjUS1sQU9pMGJFSFI3ZFl0bEJqQVlzS2ltMjFTdUJFWEJqOTBzcExtVFVoQXfSAZMCQVVfeXFMUGgyZEtEZUoyYjVvcXZZT0pETVM4UV9TWTBWTm9BcHc5LU9mem1VcnBlTG1HRG1pR1RPc1N1T0NlUTdkaHFZM3N2bGtpVHFzRERHc0pUbzRkbDVIVUc5SEItbnl2azYzUVBMRUFXOHNDQVhuS2t1QzVJemtud2E4TEtPRHJLTmR1WWtGbmxhMFpmeldYa3hrdDRERHpCMWhXRFpyNjktUmp4U014R2plS0ZPTENiYlEtODRsa2F5ZG5rUFZrVEN6ZkREd3hCNjNkNVd1T2ZpaV9lbk9wUkt1MVB2UGkyS3FiR1ZPU3I2Yi1rYm4wYTNpZ3dBeVZqMWUza3NnWjZPWXRYQTZUUWRjcTVjbm8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaDJkS0RlSjJiNW9xdllPSkRNUzhRX1NZMFZOb0FwdzktT2Z6bVVycGVMbUdEbWlHVE9zU3VPQ2VRN2RocVkzc3Zsa2lUcXNEREdzSlRvNGRsNUhVRzlIQi1ueXZrNjNRUExFQVc4c0NBWG5La3VDNUl6a253YThMS09EcktOZHVZa0ZubGEwWmZ6V1hreGt0NEREekIxaFdEWnI2OS1SanhTTXhHamVLRk9MQ2JiUS04NGxrYXlkbmtQVmtUQ3pmRER3eEI2M2Q1V3VPZmlpX2VuT3BSS3UxUHZQaTJLcWJHVk9TcjZiLWtibjBhM2lnd0F5VmoxZTNrc2daNk9ZdFhBNlRRZGNxNWNub9IBkwJBVV95cUxQaDJkS0RlSjJiNW9xdllPSkRNUzhRX1NZMFZOb0FwdzktT2Z6bVVycGVMbUdEbWlHVE9zU3VPQ2VRN2RocVkzc3Zsa2lUcXNEREdzSlRvNGRsNUhVRzlIQi1ueXZrNjNRUExFQVc4c0NBWG5La3VDNUl6a253YThMS09EcktOZHVZa0ZubGEwWmZ6V1hreGt0NEREekIxaFdEWnI2OS1SanhTTXhHamVLRk9MQ2JiUS04NGxrYXlkbmtQVmtUQ3pmRER3eEI2M2Q1V3VPZmlpX2VuT3BSS3UxUHZQaTJLcWJHVk9TcjZiLWtibjBhM2lnd0F5VmoxZTNrc2daNk9ZdFhBNlRRZGNxNWNubw?oc=5",
    "date": "2026-11-22T17:24:40+00:00",
    "state": "posando",
    "place": {
