@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:30:46.014043+00:00",
+ "generated_at": "2026-11-23T16:52:30.536350+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Japón",
-   "abroad": true,
-   "city": "Japón"
+   "name": "Piura",
+   "lat": -5.194,
+   "lng": -80.632,
+   "abroad": false,
+   "city": "Piura"
   },
-  "source": "La República",
-  "date": "2026-11-22T22:12:22+00:00"
+  "source": "Panamericana TV",
+  "date": "2026-11-23T15:23:03+00:00"
  },
  "next": {
   "place": {
@@ -445,12 +447,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8f358b19af5c",
+   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
+   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
+   "date": "2026-11-23T16:45:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f0fda0507373",
    "title": "Keiko Fujimori admite fallos en misa del papa León XIV y respalda al canciller Espá",
    "excerpt": "",
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnR0ME9BMTJkNmp1RTFfMFJYMDU3Y1phLWZPREs5Sk96X3BVMF9Tdzc2cWl1RzRUR1BqR3hHSzFqSm1fb0dxcHdBR0ZBUEtsWERKZG9VanNGS2hHX2NETldYdkpZcWROZHRsZlFvYjBMbExIYWh4ZU8zeUhBQU5Lb19pMGRYQ2F4VV9zaVRMYlo5Q2swZkxDVjZaYWpDSVdRWXk1OUxVb2VZczF0SVo0TlVIMS10Zw?oc=5",
-   "date": "2026-11-23T15:59:59+00:00",
+   "date": "2026-11-23T16:02:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -519,6 +532,23 @@
    "date": "2026-11-23T15:24:37+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "7df749ab5d6a",
+   "title": "Keiko Fujimori respalda al canciller Espá y responde por inundaciones en Piura",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3B0ekMtRHJETkw5b2hMdmJwaURVR01Dcnp2SG90TkdlMVE4UzVleG04WGJrSmtuODVzOUk0MVZfczF5WFBidi1jeEVWQ2VybE9pWEE1LWNrTWxQR1kydFd6Nk1rRl9mbmdxTFFLODdGRGh3NmV2YU1wZzRaS2NyUU5wNmxMcU9tajg5NElUMkNfVW1BZ1JZalUybEYtOEJKc2RGUVNNVGNmUkJpY2lCalVNU3BPTEo3WjNXV1JB?oc=5",
+   "date": "2026-11-23T15:23:03+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
    "next": null
   },
   {
@@ -676,6 +706,17 @@
    "next": null
   },
   {
+   "id": "35285b3279ba",
+   "title": "President Keiko Fujimori: APEC is a great opportunity for Peru",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmxKZXp4b2V1SDNhTXRQajNQaGFvVjMxVFFlaE5FNjZ6X2VmbXJheHR4V0JlLTFUT1duUEM4WWV2Z0lpR2pGNTNOVnVFYnJfMkNqMHo2cDNSTUVYanN3R0w2Y1E4aDJRSWtTeDNSNDB1Z0ZJTVRCSUdKVGE0TkFwNW9KSG90LUx2bHR3TjFjMDN1ZmtNWEVHaDVBQ3o3eUF6dTlHYktHTHU3OHpt?oc=5",
+   "date": "2026-11-23T11:31:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d6d4831fc8e8",
    "title": "Keiko Fujimori agradece al Senado permiso para...",
    "excerpt": "",
@@ -693,17 +734,6 @@
    "source": "DIARIO VIRAL",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcW1TNVRrZ1A1dmxzdHVHR0REY2ZDemlyR0dPLWlmVVQ5dFl5Mk1HUHh6dFhieURyQnBSSzR6RHpfeVp3RGt6STJDdHNWUzZ6NDNGSEk0YndUM2JuV2hiYnhZd013Wm95WkhvbzZVREQ4RkdzSGM4clI1ZElLUEY0SU9sd1d4WVhYbUpYUjEtbGVSYXRwLWtDNmM5TEd5N0o1UkdQcjdjTEJFUFVz?oc=5",
    "date": "2026-11-23T01:59:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8f358b19af5c",
-   "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
-   "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/hugo-de-zela-la-relacion-con-estados-unidos-es-variada-y-con-china-tiene-un-caracter-economico-entrevista-apuesplan-noticia/",
-   "date": "2026-11-23T01:42:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1020,6 +1050,17 @@
    "next": null
   },
   {
+   "id": "99b19858e711",
+   "title": "Keiko Fujimori se reunió con la primera ministra de Japón: ¿De qué hablaron?",
+   "excerpt": "",
+   "source": "Latina Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWhVbWc3eG9TaGt4N3RULUp3RlJTVDlwUG9ncXNELWZSZzI2bjJJNC1MVTlmVmJGZzN3LUVRdWJYVkU1VmVXa3JOTi1iYnF5SDdtV29STUl5Vmx6YW81MkJSdGlxUXdNZFFMaFpkb19pb3RzNFdpRHJGUld4UXBlNzdqSzc4NzJWYXd3V2FYb1Z3VXdiNXlnYWtMRllKVGVrWGprTkV0V2lvZi05WC1OQXVQb3hRSFVldUE?oc=5",
+   "date": "2026-11-21T11:54:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "02ebacce77f0",
    "title": "🤝 Keiko Fujimori se reúne con Sanae Takaichi en Japón ¿Qué busca Perú? #ADNRPP",
    "excerpt": "",
@@ -1096,39 +1137,6 @@
    "source": "Revelación.pe",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVhNWlJuWUZ2ZWJVMGFtaFA2YWk2eTNGbC16NFgzUVN2aGdiUnl5YlJVdkNDRnl6eXMwRkJPRng1TGVVcV9tNEdPUTRYOFAyUFhycmo3R2xleDJNX3hKMm00V2ZoSWhLdDJpaklOWkkxUGNrVV9SWHI3WVRPWDc1MVRWVEVSWTdyaTIxd095S0d0WlJZMXlDWWhGZTYtaUVIdFo4a1drcHZ2bkQ2NzF3bmFRZHk4ak16ZzlLVW53azJ0Q2dGY0lmMElvdDN4aFJPRERjd1NNZ0UxbWZlOWdv?oc=5",
    "date": "2026-11-21T03:42:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3994db69d8e3",
-   "title": "Presidenta Fujimori se reunió con diputados japoneses para ampliar inversiones y cooperación con el Perú",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTdpQWFrLVl1M1NaVWdEY2Z3OVRzQm1McW1jTTA3cTNVRXlXUnhkZkVnWUZfbjJLd1RqVXBZSFBZTFdRNnpsUFpnaHFzckJFNm1xcDhra1RKWkVUT0Q5M2lJWDh3S0NRSFJRTmlnNDlmNHVLVFp5WGpLUUgydFZLMGV3bklsV2JJS25mV2xDWXE3X0N4Y2tuVmlzWnZtNHJoeGdwZng2YWF5R294cG96bVBuMGJFRUlrQ1BzUFhRUTBYUQ?oc=5",
-   "date": "2026-11-21T03:02:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "43c108536f3e",
-   "title": "Presidenta Fujimori ante empresarios de Japón: “Nuestras cifras nos ponen en un nivel muy espectacular en la región”",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmJ5d3d1NWdTUkQ2SDctMGJGUnZPS0tfUXA1REt1NVdPLS1nVWwxU05fSXJkLWQyR0wtbkJ2eDlzWlc4cDhvNVFBRXdfcmZwbmwwSXV5Sk5tQk00b3E1UkpGUTZZRWYwTDFpMm1uRjAzSlhLOExkWnF1b1ZueXQyZEd1a1BVMDFWQ0N6enlMNkd5RlR3V2FuMkFlNHdhUWlPQXpSMUFhVlZtYkZIOTBsb3kxUUZuU3U3YkJPajRn?oc=5",
-   "date": "2026-11-21T03:02:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5cf06c91b1ea",
-   "title": "Presidenta Fujimori agradece apoyo de Japón para enfrentar fenómeno El Niño",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnNXQWVfSmxJdkhXM2V5cFE5UkthZFJhcjN6QzFwYk9kNVpJUXU0T3hKT3dRajhiV1lCU3RPYUFxNWJvaUw2dlh0LV9GaU1aTGMxOXNDam03SWQxX1NYMWpTWnRqYzgwNER2cTJRMXBKUTRLWERMWnNhbVFnaUxjVGdUcmlKZEdKR244bjV4NUZLNS10RDk0WHZCeGdOQnVkMThMZUk1aVExbHNia2dlSTk1eVlHU3c?oc=5",
-   "date": "2026-11-21T02:08:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
