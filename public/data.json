@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T11:52:04.851831+00:00",
+ "generated_at": "2026-11-23T12:13:22.272918+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -482,6 +482,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
    "date": "2026-11-22T21:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d72c39e10e85",
+   "title": "Presidenta Keiko Fujimori sostiene reuniones bilaterales con autoridades de México, Filipinas y Hong Kong",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
+   "date": "2026-11-22T20:49:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1121,17 +1132,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/actualidad/gobierno-designa-a-teodoro-crisologo-grandez-como-nuevo-jefe-del-gabinete-de-asesores-de-keiko-fujimori-ultimas-noticia/",
    "date": "2026-11-20T13:58:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "36b11869e983",
-   "title": "Keiko Fujimori se reunió con el emperador Naruhito y la primera ministra de Japón",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzFxWUlxNVZiUE9zYWZ3cVptLWhRMFZLUkoxYUM1TElzUHJheVYwV2tzZlhSaDR5TExEemdrQTlWMUVzUnpJa2ZzWU0yLU5nYjIxaXJjVEZkX21qaHBUSWw0WUlRUkRaUVNBeDMwVTBrWENlaGtGSHJia2w5T29VdDFoVU9lcnI3QVpJd0RWUG5QVmEz?oc=5",
-   "date": "2026-11-20T13:39:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
