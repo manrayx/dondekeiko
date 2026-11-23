@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T16:52:30.536350+00:00",
+ "generated_at": "2026-11-23T17:14:16.858446+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -447,6 +447,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f61dbca92b0a",
+   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
+   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
+   "date": "2026-11-23T16:52:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8f358b19af5c",
    "title": "Hugo de Zela: “La relación con Estados Unidos es variada y con China tiene un carácter económico”",
    "excerpt": "El exministro de Relaciones Exteriores repasa la marcha de los vínculos de nuestro país con las grandes potencias y evalúa la gira por Asia de la presidenta Keiko Fujimori. Además,…",
@@ -464,17 +475,6 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnR0ME9BMTJkNmp1RTFfMFJYMDU3Y1phLWZPREs5Sk96X3BVMF9Tdzc2cWl1RzRUR1BqR3hHSzFqSm1fb0dxcHdBR0ZBUEtsWERKZG9VanNGS2hHX2NETldYdkpZcWROZHRsZlFvYjBMbExIYWh4ZU8zeUhBQU5Lb19pMGRYQ2F4VV9zaVRMYlo5Q2swZkxDVjZaYWpDSVdRWXk1OUxVb2VZczF0SVo0TlVIMS10Zw?oc=5",
    "date": "2026-11-23T16:02:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f61dbca92b0a",
-   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
-   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
-   "date": "2026-11-23T15:57:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
