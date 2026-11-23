@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:49:41.994081+00:00",
+ "generated_at": "2026-11-23T21:10:49.198086+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -109,8 +109,8 @@
   "entrevista": 2,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 55
+  "triste": 3,
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -660,6 +660,17 @@
    "next": null
   },
   {
+   "id": "b42f427d0fa9",
+   "title": "Ayacucho: Exigen a Keiko Fujimori cumplir compromisos sobre vía Los Libertadores y transportistas anuncian paro",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdms5QUJSbzFxcGJMWldzNVMycUpGdUl2MGtSVjl0VU5idmdrUGpKbnhFdU91ZmpwWE5nOE8xTWJBU29FODFaaUZ3SVlmRGpuX0tRTTBoT0VIQ2txTlNTRW55VFBfc2dKQ0IzVkdwMVNZcDBGN29GSFE2cExBQmp4dERra0hsV3B4cHR2RkJPV2s4eVk3MDhJMDFITnN1N1d6S0I2TWM4b2NfRlNaUXBpRXMxbGNTWHFJZ2pTMHJYZVBFLWFOcFd4LWdTQlNXU3pzZkxN?oc=5",
+   "date": "2026-11-23T16:08:32+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f0fda0507373",
    "title": "Keiko Fujimori admite fallos en misa del papa León XIV y respalda al canciller Espá",
    "excerpt": "",
@@ -1108,17 +1119,6 @@
    "source": "La República",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUzZKTDdMNk9sUmtETXVqcnF4MFRSRm1zeE9TV3RtMVgxeTFVcEdOeUJMVlF5T3QyMXc4aEVLZ3U3djhSNC10ek1uei1hdWxyUV8zUXozaG9ETjZDRFczLXROUkhSTU9JN2dpSG4yX0ZpOXMxUmFNcEk4ckRCMk1iRDl3SndRamhsenpXaXJLLS1wZC1uNVdWZFdFS016OHBPUndoaWYydjdBbXhDTmFkcVFjaFFmX1dRRkJXeUVrOUNvT2FWSThfT2sya3c0bVVoMDk1RzJkaEJWVTgySHpMR2VjMmR3cGxkWm5J0gHwAUFVX3lxTE1lQXlucV9JaEp5bUo4VGxBUlF6TUJxQ2VBZng0MXp5aTEzRXlaamtRMUNCcFdmeWwzYnJ0cm5xZ1RERTltTXZjM2VfODFFdm9nRUdSV3hJcGNwS2NQb3FzcE8ycmxTY2o2dmdaQnd1WlBfakNKbHpHV0YzY0VITEljWWlEOVZoY0Y2aDlMakNINk1ycFNud1d0N1R1QzA0a3VKXzR6NzJmZ252MUxnLTh0QmNhVXBTYUE1bjJ0RVZlYk5weDBubkQ5dzB1QUFpSE5QSmpsU1RpVkloTXpBOEE0OGJmYmhKUGRWSkpQRE5UMw?oc=5",
    "date": "2026-11-21T21:00:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "eac87414842f",
-   "title": "Errores que el gobierno de Keiko Fujimori debe evitar para no repetir crisis política",
-   "excerpt": "Según el análisis, la estabilidad del próximo gobierno dependerá de su capacidad para recuperar la confianza ciudadana y alcanzar consensos en sectores como salud, educación, seguridad e infraestructura",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/07/16/los-errores-que-el-gobierno-de-keiko-fujimori-debe-evitar-para-no-repetir-crisis-politica/",
-   "date": "2026-11-21T20:35:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
