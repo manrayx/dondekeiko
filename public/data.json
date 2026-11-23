@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:23:08.124589+00:00",
+ "generated_at": "2026-11-23T19:44:51.351210+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -442,6 +442,17 @@
    "source": "La Razón",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakp4VTVLUkkwa0dWSllHbXotUnRmMk1XaVVZckVpQ3JjYzF5bEZwRHZOOFo1dXlYdGx2MXVPUFY5dWJCZVNLenpCTWd3d3ZoNEROanRLZk93QkJvQS01Wm8zMXdOWEY3TnA0d2pFSHB6eWUwTDZfWmdtaGRIbUhGb00tblI1Wmw1ZWFaOFZ4TGRqdnc1b0d0QlB6RzFka0h3V0ZBSW1PTUZDMUtfOENSTFJkMDdiZw?oc=5",
    "date": "2026-11-23T19:00:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "38fea0c6a15b",
+   "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2dBUWpiSFhEZzBpb2ptbkFSa2o0NHlmNVNNWGhIRVRGVnJ0eXNZMXdnNEJINWtmRUdpTzVaTXBxaUUyUWI3eEY1TTNQdWFHV2wxTzY3VVplQ0VQYWIyZy1XRmk2TC0tWEQwbDJxMkdZdTlrOG5MZWtTSDVjbW5xQ2hHX2dOZ1dTMERTSHpLc05kY1JrQ0lhYXNCQ3JIUElIcE01YXhkMk5hXzFn0gHAAUFVX3lxTE1FaVZZT2N4cjV0V2xxZ1RZUWVQVDllUEZ6MkdqeU45c2dOSmtSTTZIV2IxNGR5MkE1bTJra1oxdFM2aEdSVElDNXZMNFVJRnJpREgwT0cxWTIyNkhwMUlZRjJkLVJ5Q1hKLW5kSzdlZGU1OTBQUm1jQlZUUWE5TkpmSlJtR0FKWGdDYk5zemNRNWlESXRkTHJ2ZHZ2dmRWQkgzcmUzSXJjOTFLck1zTDFUc0xERFRmdUpXMHlnWnNRZw?oc=5",
+   "date": "2026-11-23T18:49:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1108,17 +1119,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1J4aXVCRzNzd3o0bmNGWTF5b3dPNDZPM1BsMW5EQjljdWRmX0phTXpscVJSREJwZ2VOUmJhLXlnOGxBbjhrNzhjS3AyaE1wMW5WdVpHdzM3TnNSR1hka2JZZGZEcmhtV1FCN1UzSEFIdlA2ZnJEalV5REgyT1ZTS2FjbDhkSkkxS2hUUDNOdWljTFNKN1VSU2J6UExhaXhlS0hValdhWV9tbmRtM2VoZ2RqYzNna0FSVlE?oc=5",
    "date": "2026-11-21T18:16:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "654a2f0b63ac",
-   "title": "Presidenta Keiko Fujimori: APEC representa una gran oportunidad para el Perú",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZGlIanJSb3gxdG1DaEtaTWlFSlptSlVaeWVzcDJKbEdoSzJpLW55aHdzRm5SemZFaG01SVV5Q3NQVHMzOHlwUmRJdVVVUU9iTW1xejVkR0M1NDVub05PVkJ1QjNOWHBOTWNvLXlSeGE0MU9JTE1aX01KWldTRDhtR2dfVUNXWlltT1pRTXBXdllEX08xOXBObURCbHBQSG53RmNUY2E1cnBuYjNWVFh3aw?oc=5",
-   "date": "2026-11-21T18:02:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
