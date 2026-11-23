@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:56:42.713557+00:00",
+ "generated_at": "2026-11-23T13:17:56.527737+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -115,11 +115,11 @@
  },
  "counts_7d": {
   "transmitiendo": 1,
-  "entrevista": 1,
+  "entrevista": 2,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 58
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -428,6 +428,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f65b0fc3017c",
+   "title": "Keiko Fujimori participa en entrega de 14 máquinas donadas por Japón para reforzar prevención frente a El Niño",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, participa en la entrega de 14 unidades de maquinaria pesada donadas por el Fondo General de Contravalor Perú-Japón, que permitirán fortalecer los trabajos…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-participa-en-entrega-de-14-maquinas-donadas-por-japon-para-reforzar-prevencion-frente-al-fenomeno-el-nino-apuesplan-ultimas-noticia/",
+   "date": "2026-11-23T13:05:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b0ff9668dbb2",
    "title": "Tras visita de Keiko Fujimori, Japón dona 14 máquinas pesadas para enfrentar El Niño",
    "excerpt": "",
@@ -560,6 +571,17 @@
     "abroad": true,
     "city": "China"
    },
+   "next": null
+  },
+  {
+   "id": "abe36f199e5b",
+   "title": "Economista Manuel Romero Caro en entrevista con Expreso: “Keiko Fujimori se ha tirado al piso ante China”",
+   "excerpt": "",
+   "source": "Diario Expreso",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYlBwSGpyN2t6SUZSRm9ROUVSQmg2U2g2bFhmWEtieWNoS01vd0FPU2FoMzRvaHVObEVQYWxMZDFma00xazNnVU5tc3RDeUladGFfS1dpVE9aWTY4N1FoTUQ3OVhoVmJpSmhqdklfbzRPUFBCR3lOcjE1MVg0UW9FajMtWnRod3V3TmN0eFpLazdPT1Z6dW5TYUZOOW5TWlFpb1MzdzhNLW9VZFh6ZFFBT0lmNGtTamgwQTVNSHlUWV9yV3E3V3BqVnphNHhlZV9zWkJmVEZidzA5d3Y3YlBfQWo5bHgtbVg3ckI3RjYyaDVudk1FbC1OSXJR?oc=5",
+   "date": "2026-11-22T10:54:46+00:00",
+   "state": "entrevista",
+   "place": null,
    "next": null
   },
   {
@@ -1074,6 +1096,17 @@
    "next": null
   },
   {
+   "id": "8fedd990de71",
+   "title": "Keiko Fujimori plantea ampliar inversiones japonesas y cooperación con Perú",
+   "excerpt": "",
+   "source": "DIARIO VIRAL",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd083bFE3eUhsNVMyZ1A5bGNYWDhkVWJKa2o0OVFSNGN0cExXeFRlTDBRMlJFTVFqdHhRUkl1WW5WbXJjV1lzd2Jpd3FEcUN2N3FuNi1aOThpQ1pLQUM3TzlCcUVLVDRIem9HWWViOVRpajJiejNTUmtMU0wxelVXWTVFbndEYXd6dVYzajhuM3RPV1hKVWNyRDllbG9wWmxQMlJFaUM0aEVxUnh6ajlPMw?oc=5",
+   "date": "2026-11-20T16:13:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9ad36bd3a13a",
    "title": "Presidenta Fujimori agradece apoyo que brindará Japón para enfrentar el fenómeno El Niño",
    "excerpt": "",
@@ -1097,47 +1130,6 @@
     "abroad": true,
     "city": "Tokio"
    },
-   "next": null
-  },
-  {
-   "id": "36e7f252e37e",
-   "title": "Keiko Fujimori fue recibida en audiencia por el emperador Naruhito en el Palacio Imperial de Tokio",
-   "excerpt": "",
-   "source": "ATV.pe",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSTM4X3l2cWlpY1NiU2M5N1NrMzNWZzRaYXBKdHk4QTV5LS1pcDcxOGs0RlFYaHBXN0VXTDBiSkMxMHlra2lxVm5LNWgxc2ZYQ3NlczNWMHBKSlhiWW1UOHV5T2QwM1dvcjVySzNERmFMMzR4MF9hX3J5RW1wc0dLazRwOFRRcUU?oc=5",
-   "date": "2026-11-20T15:05:29+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio Imperial de Tokio",
-    "city": "Tokio",
-    "abroad": true
-   },
-   "next": null
-  },
-  {
-   "id": "95361171eff5",
-   "title": "Keiko Fujimori se reunió con el emperador Naruhito en el Palacio Imperial de Japón VIDEO",
-   "excerpt": "",
-   "source": "Perú 21",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeWFMSlFZTGhMeWxyaThmbXRHZFJxS3pHYjAzRTd1Q1EwOFNCOEotdU9WN1VqMXBSNmY1a0luam9RYWNJY3U0VkE5Z0Z0ZmhvS0VMbUhsTmlRYlpjWkpYT3FBWVdBLXNDWURnb0NXbmFHbGxKWTJQMnVhZlBsd3lkVUYtSVJSUG5aWTg1MFFEWVpuazNLVEllTWFMcEt6NHd5N1dQXzNhMGtZVlEwSTNObXEtZjQ5aEU?oc=5",
-   "date": "2026-11-20T14:57:46+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio Imperial de Japón VIDEO",
-    "city": "Japón",
-    "abroad": true
-   },
-   "next": null
-  },
-  {
-   "id": "5c4ce8a6dacd",
-   "title": "Keiko Fujimori se reunió con la primera ministra de Japón y el emperador Naruhito",
-   "excerpt": "",
-   "source": "Latina Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWlCSDJCME92R2lsM0tTdU8tSnpiQmlvVkp6N21ZaUttck1tRFhsTlBSTHdDT2xOUG5fdHdUZEh2T1R5RWN0MEtfRFI0bEZ4djJkSnNNOTgyU2lobURRbEVwdUN0cmlkYUVYWDlyem9GUHZUX1Nkb3lmdVNJREVXUDQ4eXZ6eFVCdDRhTjBFakpHZFljaHpsai1lSENVcERKTnMyZUlSREtnZGxzZklMd1pWYWhtUmszeG1zdXM4OE9yMXhESkNYcWE2ekpjTXRzWWVSaXdLbHdKNmpmMXNWQkd3?oc=5",
-   "date": "2026-11-20T14:56:27+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
