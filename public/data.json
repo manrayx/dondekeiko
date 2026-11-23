@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:19:12.220410+00:00",
+ "generated_at": "2026-11-23T18:40:28.605360+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,25 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Piura",
-   "lat": -5.194,
-   "lng": -80.632,
-   "abroad": false,
-   "city": "Piura"
+   "name": "Ecuador",
+   "abroad": true,
+   "city": "Ecuador"
   },
-  "source": "Panamericana TV",
-  "date": "2026-11-23T15:23:03+00:00"
+  "source": "América Económica",
+  "date": "2026-11-23T18:21:40+00:00"
  },
- "next": {
-  "place": {
-   "name": "Japón",
-   "abroad": true
-  },
-  "source": "RCR Peru",
-  "date": "2026-11-21T14:05:51+00:00",
-  "title": "KEIKO FUJIMORI CONSOLIDA ACUERDOS COMERCIALES Y DIPLOMÁTICOS DURANTE LA CUMBRE APEC Y SU VIAJE A JAPÓN",
-  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWFGc1l1enpoMHpXNTJnWktrbjItVF9lTFdWeGVnaXZ4bXhBbmRELWZ0dkd4bVFzS2hjdkZxVkNFeWFIVFZPUFRlLXV4bkIxVExTU2duLXFyUlpKLTUzQjZ4YXJLSGZWOWNRMmZmM2RNRVBIWmhjU1AwWU1KUy1CdXlzZXE2V25hV1ZoVWFfWVJDUXRkVExwcDlsWWpwWE54dFNRbmRjdmJSUmJyWVdpLVZOVjdKQnVQa1ZvSHNpbVJjVzhwcmc?oc=5"
- },
+ "next": null,
  "counts_7d": {
   "transmitiendo": 1,
   "entrevista": 2,
@@ -447,6 +436,54 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2a0ffe8dca33",
+   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-sobre-el-55-de-su-desaprobacion-las-encuestas-hay-que-tomarlas-como-foto-del-momento-hnews-1044062",
+   "date": "2026-11-23T18:35:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f61dbca92b0a",
+   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
+   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
+   "date": "2026-11-23T18:35:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1d9185aa29ca",
+   "title": "Keiko Fujimori respalda al canciller Espá ante moción de interpelación por misa del papa",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, expresó su respaldo al canciller Carlos Espá y al gabinete ministerial, luego de que se presentara una moción de interpelación contra el titular…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-respalda-al-canciller-carlos-espa-ante-mocion-de-interpelacion-por-misa-del-papa-noticia/",
+   "date": "2026-11-23T18:24:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "06dd3b6919bf",
+   "title": "Keiko Fujimori destaca el Escudo de las Américas tras la captura de alias Jolín en Ecuador",
+   "excerpt": "",
+   "source": "América Económica",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEM3YmNvZU1ybzN2NlIzM0k3Nm1OYkpUU0c3NHBsOTMyeHAzWF8xY2VtODFxMWp4cnVvYzROUTNwNnJNV1BNVmVVd09tdVBMMzFTemVkRzJRSXYyS2tIT1Rnd1pjSXpYWDUtSkdZbERvbGhCamFLYVNsaURJdVhReVpQYlA5WXRmR1ppX0lkN1lUcHdSUWpDN3FtREJCX2VWdjZQbldVclZnc1E4bXp2bVB6NHVrM3QyZE1MMWotWkJDakRtcncwUlBteldGMXRCX1FJ0gHYAUFVX3lxTE1faWh3M1BkTjhNVTNwYUx3WXJkUkFnaFM5Qlg3c1VqWkRGRjlyTXFaSzEzM2x0QnVUX3dkM3dUUmdnaEs3ZHlHbjdrc09KeDdpeG5XdUVxcGMwbHRhYXltWk1kUXNBTnUzUjdqWkVWeUVpeUx1cXU4bHB0cXAwQmFMNjZWLVV5dXpaeE14RGV5S0ZwVXNMM3VXeTJCMHJ5Rnk3TURmaDBlUndTY0x4RGxEN0ZHZ2lwekNsdzBrSmdjQlpKd0hvdFItWV9rX0NYc250TF9kYWdDWg?oc=5",
+   "date": "2026-11-23T18:21:40+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Ecuador",
+    "abroad": true,
+    "city": "Ecuador"
+   },
+   "next": null
+  },
+  {
    "id": "ca2804f4522f",
    "title": "Presidenta Fujimori afirma que el Gobierno responderá con más fuerza frente al fenómeno El Niño",
    "excerpt": "",
@@ -458,12 +495,34 @@
    "next": null
   },
   {
+   "id": "8f9fa616ea97",
+   "title": "“Así como ‘Jolín’, caerán otros criminales”, advierte Keiko Fujimori",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1JlX0wzcW9NTHZRdUl2eml3a2tHX3JlaDJOUFd1RFl6b1RwQXR2Q0FROWFDdTYtU0tFN1hJbWNweUVsc1NMSC1Sb3RnOFdVUXpsME8xSUlrT0hKSVRBTVMyRnEybVdFbjdTVl93emZUd0xHMVFJZlN1NVh2S0o1Zi1WMXo2Uk81bklvWDJNNzRfWEcz?oc=5",
+   "date": "2026-11-23T18:08:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7ec316fc1193",
    "title": "Presidenta Fujimori destaca fortaleza económica del Perú e invita a empresarios chinos a invertir en el país",
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUZvMjBWM3laZ1NlNkxsNFRoVTdxdlFZWDJhREI0ckIxT1BmcVNwM2ZteXRUX1RCdVlLbzB3dGI1QzlVanBIbDdZandCc3RNSEM4TE5nR0tKYkN4TC16WkxmOHlGQ1c0LUhQYUs4X2ZzQUM0bC1LdUNSelc4Q2w2VGgxQk9sVzAzbXpqVUZZaExvRENiWmlmOWpXMzlRMHBic2xDYjdTY2l1ckF3UW5IMFNTOXBTRDZHUFE3LUpB?oc=5",
    "date": "2026-11-23T17:36:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9bc120cba385",
+   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión en Encuesta de IEP (telefónica): «Las encuestas hay que tomarlas como foto del momento» – Gato Encerrado",
+   "excerpt": "",
+   "source": "Gato Encerrado",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS3hpdlNRS0NKS01UQ3JBMlAwRW44TUM0bkRocWE3Q3h4cHcxejdURndCbjNWMnVIZTZudW5SeHNkSnNPdmI2ZURrbDlWdHFoeWtNQW1WOGF3a3RxTW9sM2NSRHdVeDVVZWRvckxSRHpwdnZUQUJIbldyM29jZFVISUNfbHlIRkt0XzVMWWlCQURyRzY5OU9KMmNtcTZPRVZMNjA2LUFIRVVlbWVhWmQ5M3lVWlA0ZGZCQ1VHWXlxYVlld0l4R3FRUlRYWGU2MGNLRzc4SklVX3hLMVhuM2ludWpubjJOaG5CRnN2Z0w4TE1xZkV5RGYtWmpzNTJIUQ?oc=5",
+   "date": "2026-11-23T17:35:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -513,12 +572,12 @@
    "next": null
   },
   {
-   "id": "f61dbca92b0a",
-   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
-   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
-   "date": "2026-11-23T16:52:35+00:00",
+   "id": "5a651cde1f1c",
+   "title": "Encuesta de Datum: Keiko Fujimori inicia su cuarto mes de gobierno con 55% de desaprobación",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWtpRWR4eUI2V2xoUHV2LXpIZmgwNkFVREk5eVp5U0h5OVhlcjk0aTRqQl82WTJHLTEzWkNkeC1ZWk10Z1RBTGJZZWk4MWR2SldIRno5OVlPdDhpVDFfX2xraXNfLTR0Z3dITXFaU0ZyUDd6RTRnaWhCek1PejU4aG5SZ3lZZnAtREs2YWhJdWNKZmlmSXpsMlgtcjFSVXlYbmU5NGRLSE1yZndWay1LZVhsWUViOUtUNEE?oc=5",
+   "date": "2026-11-23T16:49:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -596,17 +655,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT2hqY2FfSFdtRThVY09aS1hMSGhZUDRpUFN1QTA5bEhvUVVOMkd5SEk1Ym9WWjJMS3luMEVBTWtmR1dISGZTQkF2aHp2X2E2TDk2UWI3WlRNbWlFRGpITHpOaWw2bHUwMGdDUV9lNlFaOWpweGlvdjc4cTVqWWpiS2dGbWRtTTJXdml3VTluYnFQME83Mkx4eHpNdFNuSGlNcm54ZWVtRDZFUktCZjNCeDVxUTZHZXd4VGdOb3lCb1JfTW1ZelpESTZ1TXZ4cFFCR2JTczI2TWdRb0haMmpDZGRCWW1Mb2vSAfsBQVVfeXFMUGEyMk9tMVF4MC1GeWFPeVRSQkJtVUhOOTRXQ1doZjBxNVFRSXZna25KN18tbG14bmR3QkE3bU4tUVp4NlRGSXl1MU9ucWJHNkZkU0hxVWJGb28yWnczS0cya0RaUVJkYmh2V1RMblA3U2pVZlFhejlpa0NVRG5ybHRvbkdmSExiUWdSTW0xZDFzZDZPMVliR0NILS1DMFRHMDRaellXZS1sYXhFVURoRVpHSm5jeHBCV3VDNEVDMGJ5UEc2ZUJtZG1XTjFnT2dJY0lZSUFEWXBxTjFFX3U5UUpxS0NGQUZodk5YM0k4b2s2ZEs2UUhfc3FXZVE?oc=5",
    "date": "2026-11-23T15:25:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1d9185aa29ca",
-   "title": "Keiko Fujimori respalda al canciller Espá ante moción de interpelación por misa del papa",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, expresó su respaldo al canciller Carlos Espá y al gabinete ministerial, luego de que se presentara una moción de interpelación contra el titular…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-respalda-al-canciller-carlos-espa-ante-mocion-de-interpelacion-por-misa-del-papa-noticia/",
-   "date": "2026-11-23T15:24:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -701,17 +749,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWVaaTRxaWpIY1pjMjZjZlk0UDhtZGtFYWZFZWVjbnl1VHVYcXZYVXRSblN6SkZobGNRMUcxeXpUNDZvdEtCWU8yMm5wSWYyZFBGbzNxWjVXT3I0YldHUTYyTkc5TV96dzkyTjZ2djFIekE0cE9FbU1fZW1uaDVWTE5QRmUwdU12aDFjMGlMXzFvcS1aQ2NzUTVCdll0UW56SC1CaU9CYXE2N1dfMmNRcjZxRVlmNHhYUTAzMFBFYWx6XzExNnljX1ZaWEZrVllTQXl3eVJiQQ?oc=5",
    "date": "2026-11-23T14:47:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2a0ffe8dca33",
-   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-sobre-el-55-de-su-desaprobacion-las-encuestas-hay-que-tomarlas-como-foto-del-momento-hnews-1044062",
-   "date": "2026-11-23T14:47:08+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1088,53 +1125,6 @@
     "abroad": true,
     "city": "Japón"
    },
-   "next": null
-  },
-  {
-   "id": "3bba476dbdc0",
-   "title": "El INPE no se va: Gobierno de Keiko Fujimori deroga norma que disponía su desaparición",
-   "excerpt": "El decreto legislativo publicado este sábado reconoce que el proceso de absorción hacia la SUNIR, dispuesto en la gestión de José Jerí, nunca se concretó",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXlTeG15djBiVGJ4dlk3UkNZR184dGxRWWlFcS1CS1pzWEJDM1VCSzZoNDVkV3llM3lOQXNYTVhyZFF0QmU4VnpoY3daczFqUDlVX2FVc01PR2JBTEJQTm5MSTRoSzNyUGM2X0VzbXJwQnZqbEdVRzcyTHNjbmdtRXZyUUxKdEZFNXdKYTI5TjhlRW1zQjFlcHBuZGxZdHFEQkJZZVpKTjhCT1l6VUJKNjA5V1FFZFJ6a2tLeUhKZXg4VnRP0gHfAUFVX3lxTE93YVVkTWVrc1dkUEVaVVliVWJfa281MTJ2TGEzdnZOQll0M1lRejhtV3JQOEtMOFJVMENwVkMya1VocFBYOWVlMUdielA3MlQ2dXFrel9VZWc1b2Q4T1l4LTdwXzVqMmo5T1hVLTRhd0s0MFc5Zm5JaTlKU0dObENkeFRPRjczekNiQ1dOUm1BNGhPUGgyRmxJdlBWRFR6Zm9Bd1dVSXdmbVppU0lzaDZrZUxuaEwtTklKWk9GZmkzSzFPcXFldUpBQm45YWFaZGlWVVROMjF1RFRwV2JxWVk?oc=5",
-   "date": "2026-11-21T14:09:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2c83f66eed12",
-   "title": "KEIKO FUJIMORI CONSOLIDA ACUERDOS COMERCIALES Y DIPLOMÁTICOS DURANTE LA CUMBRE APEC Y SU VIAJE A JAPÓN",
-   "excerpt": "",
-   "source": "RCR Peru",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOWFGc1l1enpoMHpXNTJnWktrbjItVF9lTFdWeGVnaXZ4bXhBbmRELWZ0dkd4bVFzS2hjdkZxVkNFeWFIVFZPUFRlLXV4bkIxVExTU2duLXFyUlpKLTUzQjZ4YXJLSGZWOWNRMmZmM2RNRVBIWmhjU1AwWU1KUy1CdXlzZXE2V25hV1ZoVWFfWVJDUXRkVExwcDlsWWpwWE54dFNRbmRjdmJSUmJyWVdpLVZOVjdKQnVQa1ZvSHNpbVJjVzhwcmc?oc=5",
-   "date": "2026-11-21T14:05:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Japón",
-    "abroad": true
-   }
-  },
-  {
-   "id": "15fd0b7d39fe",
-   "title": "Presidenta Keiko Fujimori se reúne con empresarios japoneses",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcktOallCS1ZVOVEtOV9aZTJsWnQyNmJiTWxCZE10czJudE56Q1NKX1liN09pVHpBeFZ4ZllXLUJoYVFDaHI5Qklua295RUlQbTZkZVhBR2NhWUFGclFoVGJ2SkJ0ZDRLRFpSUFQ2dWp2YUg3VFdMYVFyNExjeXpOZkZtNWlTU1RvWVpJV0FENmZtbk8yc29DY0VRQ0FINV8yYUow?oc=5",
-   "date": "2026-11-21T12:55:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "99b19858e711",
-   "title": "Keiko Fujimori se reunió con la primera ministra de Japón: ¿De qué hablaron?",
-   "excerpt": "",
-   "source": "Latina Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWhVbWc3eG9TaGt4N3RULUp3RlJTVDlwUG9ncXNELWZSZzI2bjJJNC1MVTlmVmJGZzN3LUVRdWJYVkU1VmVXa3JOTi1iYnF5SDdtV29STUl5Vmx6YW81MkJSdGlxUXdNZFFMaFpkb19pb3RzNFdpRHJGUld4UXBlNzdqSzc4NzJWYXd3V2FYb1Z3VXdiNXlnYWtMRllKVGVrWGprTkV0V2lvZi05WC1OQXVQb3hRSFVldUE?oc=5",
-   "date": "2026-11-21T11:54:44+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
