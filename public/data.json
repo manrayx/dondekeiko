@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T21:10:49.198086+00:00",
+ "generated_at": "2026-11-23T21:32:39.963040+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,8 +105,8 @@
  },
  "next": null,
  "counts_7d": {
-  "transmitiendo": 1,
-  "entrevista": 2,
+  "transmitiendo": 0,
+  "entrevista": 3,
   "celebrando": 0,
   "molesta": 0,
   "triste": 3,
@@ -436,6 +436,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f61dbca92b0a",
+   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
+   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
+   "date": "2026-11-23T21:24:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2a0ffe8dca33",
+   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-sobre-el-55-de-su-desaprobacion-las-encuestas-hay-que-tomarlas-como-foto-del-momento-hnews-1044062",
+   "date": "2026-11-23T21:24:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e55696fd32e0",
    "title": "Keiko Fujimori respaldó a Carlos Espá tras fallas en misa del papa León XIV en Las Palmas: \"Las disculpas a quienes se han visto afectados\"",
    "excerpt": "",
@@ -497,28 +519,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2dBUWpiSFhEZzBpb2ptbkFSa2o0NHlmNVNNWGhIRVRGVnJ0eXNZMXdnNEJINWtmRUdpTzVaTXBxaUUyUWI3eEY1TTNQdWFHV2wxTzY3VVplQ0VQYWIyZy1XRmk2TC0tWEQwbDJxMkdZdTlrOG5MZWtTSDVjbW5xQ2hHX2dOZ1dTMERTSHpLc05kY1JrQ0lhYXNCQ3JIUElIcE01YXhkMk5hXzFn0gHAAUFVX3lxTE1FaVZZT2N4cjV0V2xxZ1RZUWVQVDllUEZ6MkdqeU45c2dOSmtSTTZIV2IxNGR5MkE1bTJra1oxdFM2aEdSVElDNXZMNFVJRnJpREgwT0cxWTIyNkhwMUlZRjJkLVJ5Q1hKLW5kSzdlZGU1OTBQUm1jQlZUUWE5TkpmSlJtR0FKWGdDYk5zemNRNWlESXRkTHJ2ZHZ2dmRWQkgzcmUzSXJjOTFLck1zTDFUc0xERFRmdUpXMHlnWnNRZw?oc=5",
    "date": "2026-11-23T18:49:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2a0ffe8dca33",
-   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-sobre-el-55-de-su-desaprobacion-las-encuestas-hay-que-tomarlas-como-foto-del-momento-hnews-1044062",
-   "date": "2026-11-23T18:35:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f61dbca92b0a",
-   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
-   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
-   "date": "2026-11-23T18:35:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -706,6 +706,17 @@
   {
    "id": "1877307ed98a",
    "title": "La aprobación de Keiko Fujimori cayó de 60% a 38% desde agosto",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGJadWE4b3o3UnVWajNzdXpwSkdwQm9fQjBsQ0o1SWV3RlpUSDNqWllnTmxTMURaaEZzQkF3S2tFWUlSX0FTcVBBaWNVUzFVOWlKQ3Q4blpUelQxWHd1UXpLanBYUExtQ2UwLWJOZ1d3RmVfT0pTeHlNZW5CX1JJUk5nZnhGajluOFBVWnN6MldfazBtYWpYMGdR?oc=5",
+   "date": "2026-11-23T15:32:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "32f31b965f56",
+   "title": "Sondeo Datum: aprobación de Keiko Fujimori cayó de 60% a 38% desde agosto pasado",
    "excerpt": "",
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGJadWE4b3o3UnVWajNzdXpwSkdwQm9fQjBsQ0o1SWV3RlpUSDNqWllnTmxTMURaaEZzQkF3S2tFWUlSX0FTcVBBaWNVUzFVOWlKQ3Q4blpUelQxWHd1UXpLanBYUExtQ2UwLWJOZ1d3RmVfT0pTeHlNZW5CX1JJUk5nZnhGajluOFBVWnN6MldfazBtYWpYMGdR?oc=5",
@@ -1065,6 +1076,17 @@
    "next": null
   },
   {
+   "id": "0192f1ec82b6",
+   "title": "Entrevista a Keiko Fujimori sobre tecnología e inteligencia artificial en la gestión pública",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTllWX29vcnZDelE5VDZhMVB6S01KeGh6bFpwTnMxV1g2cXRuZlA4MTRyU0tiTVo2S01hd182X1o5M0d5Yll3emVTUDF4cHR0WnZVLWU5aC1VTjJWdWFUVjlxSFItYWFmZHdjN2xfbTFudEZ5MzFZNmhmWTNWVTNfZXVkdmFqeTNDQVZ6cTlGQ3AyS05VVkpHaU9wTjdoVi0wS1hLUm5sUzRvNndjbEE3VkdVbEF5SFd0VGo0alBpNDRId3ZZRFZTLURvYWNPTWpXR0FGcEFPYkd3dzg?oc=5",
+   "date": "2026-11-22T02:12:01+00:00",
+   "state": "entrevista",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "550e938a83fd",
    "title": "Keiko Fujimori brinda entrevista exclusiva a la televisión china CCTV tras participar en APEC 2026",
    "excerpt": "",
@@ -1097,28 +1119,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQU5XbzNEVGpnQl8tR3ZxZV9lU1NaZ3owVHAyQlNEREZuWm5NeXNBYjloWjdvUnM0Z0U2TnBUakFtZUlhN1NUcXlpeHRaNkQyZWxsU3lBVENvemdIOUhRNlpIMkNaU2RXRTN4RTZUaTJ3U3FaN1kzV3FjWEQteldvRGRMR3RKS2RTcERRNWUzQTJ2bk43M1F5OTVRbkJzVWJiWWfSAacBQVVfeXFMTVh2ZkREVkZFczdKMDRObV9PN25mdU56Q2luV1M4X0pfUEdFQW11X3BXS3VwbkJvMnh6Z2xPMjZveXJsTDZXaXVFSzlVYVhKX2FrbzM5TW83dUdHMVcwUC1fVG5vVnRPWGtiUFA0dm5hX092SnZLa04tSDMxWEg0ZE5rVTA4cWNiZ1pfamJ4WG9ISnFVNExfNklqWDlhekRibmlKSU42Rmc?oc=5",
    "date": "2026-11-22T02:00:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "38059445b0d4",
-   "title": "Resultados oficiales ONPE EN VIVO: conteo de votos entre Keiko Fujimori y Roberto Sánchez",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWtLQjRQX1V0bHR0VTBqU0trX1Fqd2NvbW84bjBZVC1fY1R1WW5GNlFpcVpFQjJRTUlaend3Q01ac0d1LXpnaENSVFNsbUhOdGo0TGc4ZGxwQXBQaDNNWXlvM0xJT2JNLXZkYVFjaWttX0NKMXFjTTZlbm5FMkV4UzZ4MmJvek1sTVBZSDlKQ01YVFRycW9pOThVckFmM2I5VWdOVEo1OEJMTC1ndXo0SFRrQ0EzdnVKb3kxMzBoNjBvQQ?oc=5",
-   "date": "2026-11-21T23:26:27+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "52069032a89b",
-   "title": "Gobierno de Keiko Fujimori podrá nombrar funcionarios sin acreditar experiencia laboral específica",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUzZKTDdMNk9sUmtETXVqcnF4MFRSRm1zeE9TV3RtMVgxeTFVcEdOeUJMVlF5T3QyMXc4aEVLZ3U3djhSNC10ek1uei1hdWxyUV8zUXozaG9ETjZDRFczLXROUkhSTU9JN2dpSG4yX0ZpOXMxUmFNcEk4ckRCMk1iRDl3SndRamhsenpXaXJLLS1wZC1uNVdWZFdFS016OHBPUndoaWYydjdBbXhDTmFkcVFjaFFmX1dRRkJXeUVrOUNvT2FWSThfT2sya3c0bVVoMDk1RzJkaEJWVTgySHpMR2VjMmR3cGxkWm5J0gHwAUFVX3lxTE1lQXlucV9JaEp5bUo4VGxBUlF6TUJxQ2VBZng0MXp5aTEzRXlaamtRMUNCcFdmeWwzYnJ0cm5xZ1RERTltTXZjM2VfODFFdm9nRUdSV3hJcGNwS2NQb3FzcE8ycmxTY2o2dmdaQnd1WlBfakNKbHpHV0YzY0VITEljWWlEOVZoY0Y2aDlMakNINk1ycFNud1d0N1R1QzA0a3VKXzR6NzJmZ252MUxnLTh0QmNhVXBTYUE1bjJ0RVZlYk5weDBubkQ5dzB1QUFpSE5QSmpsU1RpVkloTXpBOEE0OGJmYmhKUGRWSkpQRE5UMw?oc=5",
-   "date": "2026-11-21T21:00:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
