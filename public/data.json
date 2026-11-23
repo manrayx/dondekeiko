@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:17:56.527737+00:00",
+ "generated_at": "2026-11-23T14:00:56.516995+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -1030,6 +1030,21 @@
    "next": null
   },
   {
+   "id": "65995e5fb64a",
+   "title": "Presidenta Fujimori participó en seminario empresarial “Perú-Japón” en Tokio",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHpITzVNM0VSZzhVSFU4THJiZjdGMTQxRVNrM1FkTnpKNFdXOHlrTExyb1czS04yQzdEcGNJNFhsSHJfVTU2bkpfUjZ4VU9Xc0NqTlpmYUp5VlVyQ3oyS1FmU3l3Wlh1NzhzOWhoTHlaVEV3a0Jqd2dQTnIyY1ZFalZSbkZLRFJUVHFEN1hxbWRzSmxlY1NERlRQRmZKWEFMczRZVHNHZzBBLTh4RjNLMFBB?oc=5",
+   "date": "2026-11-20T17:23:01+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tokio",
+    "abroad": true,
+    "city": "Tokio"
+   },
+   "next": null
+  },
+  {
    "id": "26f6a8b25203",
    "title": "Keiko Fujimori saluda a emperador Naruhito de Japón e invita a que Perú sea la «puerta de entrada a Sudamérica»",
    "excerpt": "",
@@ -1115,21 +1130,6 @@
    "date": "2026-11-20T15:47:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "108f36a8dd9e",
-   "title": "Keiko Fujimori reafirma con Japón la asociación estratégica bilateral durante cumbre celebrada en Tokio",
-   "excerpt": "La mandataria peruana destacó que el diálogo con Sanae Takaichi coincidió con el décimo aniversario del vínculo entre Lima y la capital japonesa, sustentado en el Estado de derecho y…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUhpNWUyeFhrTVAtTmdoczBaOGpNYk9RamN6UnVwWUlWN3dhdVVNWnVZS2hlSGFPR1pMMDhvZ2Z5U0NMRjRZdGhDZmZBaHZPVFNVY3BvQkpFVTBrS3pqakxlTC1LU3RLYU5PQW5PcE5jc2I3S1llWUdSOEc5NzdkdVdjQnBEQjVuOFJoNGVZcWhLcERodUpRdlhaa3RTYXRxa1l6Y1dTSDJFQkdGNXJuVE10WTB6a0xHU1ctUmtHRXd6UHVUMDV1ZUVuVnZXVEdrTDh0elhLS0ZKeVd60gH3AUFVX3lxTE4yeFlCUXJZbEw1VkVyOGZsZlBHc0pSOUZMZDZ1TDQtelYtSkRqaGdSVGwyRnVIMHpwdHpERjYxWWZxS1Awa01ORmE1U2w5NDFsSjFEZURrYmh0Y3BsbTRKY2xLc251NFBYQklvdmhuVTlhcjZRYnhObHZHb25rV1dVUXROYVRfbTBRMWdWMTRwQ18yTDhnbW9XbFlFaURfMWlOWDVFZnc0LWY1anduclZqY1UwNEg4eHNsRml3Ym44T3NKYjNaeF9MZWpHbVVlMlpzUWxDMllNSG9Zc1ZEWGdWdnM0SkI4Qi1sN3BzZTRiNTd0bnVtaTA?oc=5",
-   "date": "2026-11-20T15:44:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tokio",
-    "abroad": true,
-    "city": "Tokio"
-   },
    "next": null
   }
  ],
