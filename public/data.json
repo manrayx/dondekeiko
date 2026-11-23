@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T18:40:28.605360+00:00",
+ "generated_at": "2026-11-23T19:02:03.622501+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -501,6 +501,17 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1JlX0wzcW9NTHZRdUl2eml3a2tHX3JlaDJOUFd1RFl6b1RwQXR2Q0FROWFDdTYtU0tFN1hJbWNweUVsc1NMSC1Sb3RnOFdVUXpsME8xSUlrT0hKSVRBTVMyRnEybVdFbjdTVl93emZUd0xHMVFJZlN1NVh2S0o1Zi1WMXo2Uk81bklvWDJNNzRfWEcz?oc=5",
    "date": "2026-11-23T18:08:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e74b1fb7b0e8",
+   "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV en Las Palmas y respalda a canciller Espá",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDBBMHRLTTB5UlFiVTY1a3hPVERsQXpkN1M1eWJfMGlzTU9TODdUaXFKMTJQS1ZJUWF5QVNoWFZxUEhmcDlBWm9Id2Fub1RuV1ppdkFsZXNzekN5a3A5bGdFTlFYb1otbjEzcGpoTFp0bEZ5MmpSU0ZmU3YxYUlsQmV2NDFfWlJGSGFMelcwbE1aMjh1ODJ6SmZjVDNiVTNpRXpFdl9vT2t1Rl8zZzhvRHRlRFRGOWZFemRQN2xnV2drRjFtQmhKV2ZVaTBFdmZwRUhv?oc=5",
+   "date": "2026-11-23T17:51:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1110,21 +1121,6 @@
    "date": "2026-11-21T15:26:43+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "cdfc852b0915",
-   "title": "Keiko Fujimori visitó Japón y suscribe nueve acuerdos de cooperación para enfrentar desastres naturales",
-   "excerpt": "",
-   "source": "Lima Gris",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHkySG80ekYtcVdkSVk3RUhkNkxjc2E3WVhKVml3amo4WldobWdvSUJ3SWNYY01XTzk2TXJubzEwWVpsd2dSVWpNdnJlRjFEVjNMZTRNVi1QRHhFdnpDeVA1c0JCZ2hkR3ZsYlJVXzBfdEtHd3EyQnE5MXFaYnc5eUpKeTRBU181REJvaWZBVXV1WC1SWnpybUJPVENKSm9BbUczWkNKdHZ6dFdsVkYydXd5X0hmNHZsV2ZoVVJDN3FoeEHSAcgBQVVfeXFMTTlLRTl0SnVzZUJmdFZydWhlTXBZTV9UTWdCb1FJdVllX2JDdjE0d0RoV1Fzdng5S18wVnY0NXZla3ZWNUpOZlo3MFBVWnhVdm1seG81NUxpNkhFWU42N3J1bkhINlpINDhUU2wza1dORm16aGZwZEdPYnhFRUxDZmo4dmFqTHFNTF95ZlAwejlwUGR1UDNHNVk5dUQ2MzVxVkh0R2ZyaHFqaFVFS3F5RnFtTzV2dE1IaXl1UHVZaS04V0Z5T0pncW8?oc=5",
-   "date": "2026-11-21T14:58:55+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Japón",
-    "abroad": true,
-    "city": "Japón"
-   },
    "next": null
   }
  ],
