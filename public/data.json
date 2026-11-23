@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T14:43:29.424554+00:00",
+ "generated_at": "2026-11-23T15:04:40.506797+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -118,8 +118,8 @@
   "entrevista": 2,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 0,
-  "posando": 57
+  "triste": 1,
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -427,6 +427,61 @@
  "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a7685c579a5c",
+   "title": "Keiko Fujimori expresa su respaldo al canciller Carlos Espá ante moción de interpelación",
+   "excerpt": "La presidenta Keiko Fujimori expresó su respaldo al canciller Carlos Espá y a todo su Gabinete Ministerial, ante la posibilidad de que el titular de Torre Tagle sea interpelado en…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-quiero-expresar-mi-respaldo-al-canciller-y-a-todo-el-gabinete-carlos-espa-congreso-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-23T14:58:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5216d364b4d1",
+   "title": "Presidenta Keiko Fujimori recibe 14 máquinas donadas por Japón para fortalecer prevención ante El Niño",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWVaaTRxaWpIY1pjMjZjZlk0UDhtZGtFYWZFZWVjbnl1VHVYcXZYVXRSblN6SkZobGNRMUcxeXpUNDZvdEtCWU8yMm5wSWYyZFBGbzNxWjVXT3I0YldHUTYyTkc5TV96dzkyTjZ2djFIekE0cE9FbU1fZW1uaDVWTE5QRmUwdU12aDFjMGlMXzFvcS1aQ2NzUTVCdll0UW56SC1CaU9CYXE2N1dfMmNRcjZxRVlmNHhYUTAzMFBFYWx6XzExNnljX1ZaWEZrVllTQXl3eVJiQQ?oc=5",
+   "date": "2026-11-23T14:47:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2a0ffe8dca33",
+   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-sobre-el-55-de-su-desaprobacion-las-encuestas-hay-que-tomarlas-como-foto-del-momento-hnews-1044062",
+   "date": "2026-11-23T14:47:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e9a63ea8d61c",
+   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante críticas por deficiencias en misa del papa León XIV en Las Palmas",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY0RNVUZrTzMtdFpNdlBubUNzS1p4X0lXajcxQ3p5bHNLUVZweU43RmRNWG5iUlJYQ01SZGpqRFAwNUF3LXBZVFNBRW55T3pacFhXVTdZLU5tdGZpSEZCanZxeWdwOFlFY01ZbG55R2duczBGa0NqeDU0OXhXX3dNUVhfN0Jmc0V1QzVvRnM1MU1oWlgwNWhWMTZsRXhMbk5tb3JXNm1wcWloZTRWM2o5bWRIWkQ3QmFjQ3I4SjI5aWNjdHRXMHZoRjdManJVbmowa0ZDTkZaNEdEX2JfQnRWYUM4RDh6SlBuYVlYSGhzQ2M4czdleGJwZ3dXYXc?oc=5",
+   "date": "2026-11-23T14:44:55+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "07a6399ef826",
+   "title": "Keiko Fujimori anuncia construcción de dos cárceles y capacitación para personal del INPE",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzZXbm92TmJaVHBEaWtZdHhnbzU2T00yM1JGYjRuNmczMzVGOExFaVFTRk03emxNOFBQS0ZPZ1gzRmVhN2JJLWU4Uk5iSzJqMDdKRUw1OThSdWtkcEJSbUZyaXgwUFRXNXBva3I4RjVZMkJqZ1hya0JPbmRCbUZEbHdwVy1jTHBpTDYwbUhNb3hWbTlRZTNPNkhBMjF5Wk5GVGRMdzV3Rnc4Q1o2bU50cU0wMDM?oc=5",
+   "date": "2026-11-23T14:43:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "b596f6531ab3",
    "title": "Keiko Fujimori respalda al canciller Carlos Espá tras fallas en misa del papa León XIV en Las Palmas",
@@ -820,6 +875,17 @@
    "next": null
   },
   {
+   "id": "ef9bf775baee",
+   "title": "Presidenta Fujimori sobre su participación en APEC 2026: “Ha sido una agenda muy fructífera”",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2JlcDVnU2YxaEJWQXRscExwbDFfTTY4aUstSWZFQVl3TGg5NWZrODJzeVdaYzB3bzBId2FSbU5ybmp3U0d4X0c2QXQtaTFUcXJ4bjZOMldIZTJGdkFHRnZtSl83X194TmJCcW5KNDc4WFQ4UHdsSlRkSTBOSURaT3hOald3Tk4zUlpYTDA4T1I4VkoxZG1wQ0NBc2VKYVk4cFZvOGpIczlhcmZqT011SEh6ZndDYmZ2anZpYVo4bVBjWVJiRDdJ?oc=5",
+   "date": "2026-11-21T10:52:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "34990c41d223",
    "title": "Juan Velit: Presidenta Keiko Fujimori tuvo destacada performance en cumbre APEC",
    "excerpt": "",
@@ -1064,72 +1130,6 @@
     "abroad": true,
     "city": "Tokio"
    },
-   "next": null
-  },
-  {
-   "id": "26f6a8b25203",
-   "title": "Keiko Fujimori saluda a emperador Naruhito de Japón e invita a que Perú sea la «puerta de entrada a Sudamérica»",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSDhsc2dpa2tNdDJuYVcyaEN5NXFzSUR2OG1sQUlRUkhEUTBERVZfdTFnMUVYQ05QdE1VRDJlZzQtOHQ0NjA5LVlVTEkyZlNIbXdZdHZqTktwRER4VG91TGtwWEFmbWNrcExUNU82OHlWczVxYjFkV2lQWlZqaWVGcFRjUFppRnk1bm4xSEpBVjdWdkJSVWQ1ZzRxd2lOV0dObjVoVUw3UFpsN0dBSVFUZTJzNXQwVDFweXktdUhyV0ptR0IxNWdYWWxvWktvZGY2T0E?oc=5",
-   "date": "2026-11-20T17:18:06+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e4642c8f17aa",
-   "title": "Keiko Fujimori pide a Japón considerar al Perú como la «puerta de entrada a Sudamérica»",
-   "excerpt": "",
-   "source": "Diario Altavoz",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYW41Sjdpa2g3cVBaWkd4VUVzMmxxdGZKN3FNS2FvSkVhQnlmOGxPb2pNOFZLNXF4THZ4Rk5UWlUwVWlRTXRJTFc1a29ISV94M2M3TzBDTVZJTDQzdlhEbW54a29VNkNPWlFIdWFYbElRUzMwN2NEN0NGTV9WcWZ1LVNHZ0tnVzJ2a2k4MTdFS1oxd0lhR2lBMi1NdUF3VExlbmJmS1FYa05BbnJndFFhazJjQnc?oc=5",
-   "date": "2026-11-20T17:15:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8e3b04eca0d7",
-   "title": "🔴🔵 Keiko Fujimori se reunió con el emperador de Japón Naruhito",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFk1bmdwY1k1YUpQZjhvSEVXN1haajN0dUZBbzZHQWVPMzRjbHh6OEJOMTFzT0tDczVNRkhqTFBCaW82WkNYTEV4TF93d0NJVGRwbTFqeXMxRXZtTndJX05mN05FUW82aTJtTHB5S1NQR1FQcnJTQ1RtejVLSzJ3Y1hVZktWeG5PRV84TUlfWUhDT25sZEotLV9HVjV4RUU?oc=5",
-   "date": "2026-11-20T16:43:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5467143ae5aa",
-   "title": "Keiko Fujimori refuerza lazos con Japón y agradece al emperador Naruhito por apoyo ante El Niño",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPX0c2TjB6NFA5TDZpT3IzcG5lVDUweUt5UUlKc3dEaGU0TWhtZ01hYnVLZFl3bWlWemFyekdHMVM1WW05ZnlweVNNQ0s5dlZRa0x6TXVlWl9lNXZ3WXlGLVNrdFNuRWI5RXlPOE5OUjZyOXY4Z09CLXBnekdhLWstaUxrSnpyZ2hUdXdEVTl5ZGVIVlE3TGowaGFxMTAyejBoZ09PSmgxaUEyOXZLdlBDN0NGbWxsbnVkRWdzX2gtV2hwSFdaN3RPYXhUN2dPck9oV1kzWTdXRGVnSV83THBoLVNmY3A0bUw2WWpr?oc=5",
-   "date": "2026-11-20T16:29:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5a075faf63a9",
-   "title": "Keiko Fujimori visita como presidenta el Japón que se negó a entregar a su padre",
-   "excerpt": "",
-   "source": "EL PAÍS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHM3Sl9maC1pM1hfR2Z3TzIxTHBCeC1BVnZKOTB3LVZQMUxlbDhvSG5pZmhYUFB4Q2I0bnpkaTljX193NFg1T0ZtQUpVWWR2Ynk2YS1VRU9UUkJTcWtTRkJpU0lpeDNhZWZmWDZTZnRleVkwMHZkSGtWd0QyQVg5cHFQckZWNHg4UXFMM29HVjVsUWJ6d19EU0JBUHJaaTQwbmlpcXZkeE1GektQeGN0NlNTemtIUndiMVJtcTFZTTTSAdQBQVVfeXFMUEo0b1JQSjY3ZGNVMWk5WWxkV0kxTXM3NTJ5LXBJMWt3VHA2bHp3ZlFEXzlYRFQyb1R0SkptMThnTHJ4elNqTjUwZlVzd01jY05pUE5WM1hoYkhIeHpQd2dCVmdfUUpudnQ3TG9HcVMwNmsxY0pHLXBwVndJbEs0ODdYM01xZlNFYUNhTzkxUG5DeWFaU21wa2xPM3dEQXV4TzhYTUdPX1YtSS02UEdienV5b3pFd0NEWGJZSTloMEpKUzlOTTBPWldOWXZkdmNxeF9ENUo?oc=5",
-   "date": "2026-11-20T16:18:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "30d35330ddff",
-   "title": "Keiko Fujimori visita como presidenta Japón, el país que se negó a entregar a su padre",
-   "excerpt": "",
-   "source": "EL PAÍS",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWHM3Sl9maC1pM1hfR2Z3TzIxTHBCeC1BVnZKOTB3LVZQMUxlbDhvSG5pZmhYUFB4Q2I0bnpkaTljX193NFg1T0ZtQUpVWWR2Ynk2YS1VRU9UUkJTcWtTRkJpU0lpeDNhZWZmWDZTZnRleVkwMHZkSGtWd0QyQVg5cHFQckZWNHg4UXFMM29HVjVsUWJ6d19EU0JBUHJaaTQwbmlpcXZkeE1GektQeGN0NlNTemtIUndiMVJtcTFZTTTSAdQBQVVfeXFMUEo0b1JQSjY3ZGNVMWk5WWxkV0kxTXM3NTJ5LXBJMWt3VHA2bHp3ZlFEXzlYRFQyb1R0SkptMThnTHJ4elNqTjUwZlVzd01jY05pUE5WM1hoYkhIeHpQd2dCVmdfUUpudnQ3TG9HcVMwNmsxY0pHLXBwVndJbEs0ODdYM01xZlNFYUNhTzkxUG5DeWFaU21wa2xPM3dEQXV4TzhYTUdPX1YtSS02UEdienV5b3pFd0NEWGJZSTloMEpKUzlOTTBPWldOWXZkdmNxeF9ENUo?oc=5",
-   "date": "2026-11-20T16:18:17+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
