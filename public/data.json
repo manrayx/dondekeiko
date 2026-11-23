@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:14:16.858446+00:00",
+ "generated_at": "2026-11-23T17:35:57.682910+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -447,6 +447,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "35285b3279ba",
+   "title": "President Keiko Fujimori: APEC is a great opportunity for Peru",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmxKZXp4b2V1SDNhTXRQajNQaGFvVjMxVFFlaE5FNjZ6X2VmbXJheHR4V0JlLTFUT1duUEM4WWV2Z0lpR2pGNTNOVnVFYnJfMkNqMHo2cDNSTUVYanN3R0w2Y1E4aDJRSWtTeDNSNDB1Z0ZJTVRCSUdKVGE0TkFwNW9KSG90LUx2bHR3TjFjMDN1ZmtNWEVHaDVBQ3o3eUF6dTlHYktHTHU3OHpt?oc=5",
+   "date": "2026-11-23T17:31:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "715351a0ccfe",
+   "title": "Presidenta Keiko Fujimori: Gobierno responderá con más fuerza frente al fenómeno El Niño",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTZoaEdvSElUckwyd09VNE1jdHlVZkxvRnk1U3Q4QzNpSWtnMUN1cWFXVlhBTzFaOXZWdWZ6cTJyVXRlc19TVktVd193R1FjYUdLUWZvd0ZnM3R4WGhiZmVYMnJKTmFFZ2FpbW1qWkE1UXFSUzlxZHpvNVI3OEwxM010MjhJUkR0Ylh3eXNiaUplQlZfMXhjdWZvcXVMb1NqY2tpcktxWEF0bTlPN1JtdWU0T2hXaTd1eDFlYXotTTE?oc=5",
+   "date": "2026-11-23T17:19:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f61dbca92b0a",
    "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
    "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
@@ -486,6 +508,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWhHcmdtZXlQb0xpc0pQZl9Sc19vamhlVjNrbmZoWDhsX3dudHNFMUMzcnNIZjEydjBYNXBpZHdxREh6T0I1Tl9raWhMMEtuZzkxQnZoUTZCdk1ab2lxU3U2V2xjazgzTWt0aFdxUEEyTFZoM29lZEp0TjZvUm9WVnM5SGNlMUNCaDZPZlZGeWg4S0JGZWk4UmJFQVpYUnR2VmZlQWRadmlQcjVpV2o2OU1XX2hMUdIBygFBVV95cUxPZnRnS1RnYUYyREl4bEltYUhqV3hBZFduXzhNZnAwTGZzMnNFUm1YUF9UYUw4OUw3VnZmRlFZcWh6RC1oRkJrOVZmbFZfd0dobGFqX1dCUFN0cFZGSzFycXZ1b1k0aV9IUENQWWhxNkkwRkpqWG0wMUVwQU1mOXk1OHNwYnpVZXRJdnVUQWN5N1Zzdkd5bnBlNjBTWlZsU0tNQk9HczVuR09pMmJ0TXZyVFlSSHdnZnFnQjZQdU5JVXg4VWZlSng4N1Jn?oc=5",
    "date": "2026-11-23T15:36:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e86d53db1d46",
+   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante posible interpelación por fallas en misa del papa León XIV",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmh0NjMwTktwYnR2UjRjd3B3dFFnX19iYUE4X0Rsalc0a1ZSb0xUS1BabS1Na19aY2EteE9lNHItLTRHbDBjUHBhM0YzZEtsSEtleEtxZm5rSmVHQTRzRlNWNzdJTElZcEdqamdKZWl1ZWI1eFZuSW1WdUQwa19Bc0NvcGI3RWtLSzRKOTd4Zl9jNWpmR1pXeENMRVl2ZFRsb21LZ2p5ZjA1eVNxM3Q1aWp2TVdPVXN2YnFXZkJQeEoyRWVsZGxHS0hPRVdWSmxGd0tWN00wM0g?oc=5",
+   "date": "2026-11-23T15:33:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -549,6 +582,17 @@
     "abroad": false,
     "city": "Piura"
    },
+   "next": null
+  },
+  {
+   "id": "4126aa214604",
+   "title": "Keiko Fujimori respalda al canciller Carlos Espá...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3B0ekMtRHJETkw5b2hMdmJwaURVR01Dcnp2SG90TkdlMVE4UzVleG04WGJrSmtuODVzOUk0MVZfczF5WFBidi1jeEVWQ2VybE9pWEE1LWNrTWxQR1kydFd6Nk1rRl9mbmdxTFFLODdGRGh3NmV2YU1wZzRaS2NyUU5wNmxMcU9tajg5NElUMkNfVW1BZ1JZalUybEYtOEJKc2RGUVNNVGNmUkJpY2lCalVNU3BPTEo3WjNXV1JB0gHDAUFVX3lxTE5lYzBGZWtSbE1WYXNjUDNPT3lUZWdmSHhWNWZMbnR5MC1jdDVqNThmQTlORG9PQlhyeXFoYWw2X1ZUdGI3R1ZQVXJubjRKRFNsNzZrZXJUSzdUcHV1WkxRYjR1S3JBODFESC1KWElUbF9hbGw5bXhTaEpyR0dlSHJpck01TDFiVU5FSjBES0lFN3FJMEJCT1J1SXJLMGlSd2F1SlhMZ0MzYjVMbXpQT25hcm9ydVNBVkZPTHZvb2JreVdpOA?oc=5",
+   "date": "2026-11-23T15:23:03+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -701,17 +745,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFIWG1jcVB1TmVuaG1jNERCMnpoRHpzRDk5ZEhPZ001akNKQzZIUVFNbEE0OXAwNV8yckxvWVV0X3E3QnRPd3p4SUFDaTJxd0VZZ3UzX0xBRjVteXVHUkh0WVczekhXMHN0NTBWN09XSDExRVJ1NVJ3YUtPRmU1U2NmT3czRnpoSFdrMUFaT183SEhMS2R6VDA4amhPZWNZLUhTRnF1ZENyZGVMZTZkag?oc=5",
    "date": "2026-11-23T12:24:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "35285b3279ba",
-   "title": "President Keiko Fujimori: APEC is a great opportunity for Peru",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmxKZXp4b2V1SDNhTXRQajNQaGFvVjMxVFFlaE5FNjZ6X2VmbXJheHR4V0JlLTFUT1duUEM4WWV2Z0lpR2pGNTNOVnVFYnJfMkNqMHo2cDNSTUVYanN3R0w2Y1E4aDJRSWtTeDNSNDB1Z0ZJTVRCSUdKVGE0TkFwNW9KSG90LUx2bHR3TjFjMDN1ZmtNWEVHaDVBQ3o3eUF6dTlHYktHTHU3OHpt?oc=5",
-   "date": "2026-11-23T11:31:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1104,39 +1137,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNjBLOWVsVVhJallCZEc5ZjVCQmFtMlB5cjlNUEN5UzV2cUc2bi1zRE9lVk5nVXllTTJaN2IxMHBRVjlRNmFUUmlkVGhCRkU5Wm9FRGhYM1lyR0ZLSGdicTg4Y3dKQ0xuY1JqcS1pdHJwN3JhZi02bHNLTFB2UHJ2dXI2QWFRVzBYZmtnTkVpX1NzZEFSRXFGNGVfNWxRTHIwLW9ZdWlNbGNUMDZoUkRxa1ZrU2ttQUlaTkEtUi1WWGxRVzhEb0UzdlliN3BFMGZtV2JTY0twLW5XNFk?oc=5",
    "date": "2026-11-21T08:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "97424fd2aa48",
-   "title": "Presidenta Fujimori dialogó con The Nippon Foundation sobre apoyo frente al fenómeno El Niño y temas educativos",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0x6RGpCUG5PdGNReFFHM1Bad01aUFRkZE5pN1c0NjVsN3AwSmc4Z0NMczBpQXF1YU9kLVBDcmR4eV9sV0FwY0tXN05EZ0F4MGl4bU1EUmx1NFNybUFadVdydnJHMzF4ejdJeXRFNWx3TjdtR2ZPdWFVVi1vVXhfbHhKa3RPcERVSFZMNl9Gdl9DdjdCajJHQzVQMHNiOHhKM2xXOGUxd1pnQU5YMUFJTkVscXNFVFVFS2txNjg5SHFCdw?oc=5",
-   "date": "2026-11-21T05:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3756c155f11e",
-   "title": "Presidenta Keiko Fujimori sostuvo reunión cumbre con primera ministra de Japón",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVcweHJfcTZfN3FaYndNTGgydWNZcmMtdVZydy1fWGZSQkJHQ0dHZ2JteFhXZ3hnWUc4YVNILTdEVFRKTVZrazE2OGFVM1VGUUhCMGVkSTQ3dmhOUEJKZmxzUTlENXV4ckNtd3RXUFJRQUlfU3B0YlpiNWtES2xuaExmNk5yRnR1clJQcE9PWXBYUUlLT3FzN1RKUWNSUjZZV1ZGTUVzbERZQTFMaWxyR3MyRFhzQlZtd2c?oc=5",
-   "date": "2026-11-21T04:04:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b8b910b975e5",
-   "title": "Keiko Fujimori y Japón reafirman asociación estratégica y amplían agenda de cooperación bilateral",
-   "excerpt": "",
-   "source": "Revelación.pe",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNVhNWlJuWUZ2ZWJVMGFtaFA2YWk2eTNGbC16NFgzUVN2aGdiUnl5YlJVdkNDRnl6eXMwRkJPRng1TGVVcV9tNEdPUTRYOFAyUFhycmo3R2xleDJNX3hKMm00V2ZoSWhLdDJpaklOWkkxUGNrVV9SWHI3WVRPWDc1MVRWVEVSWTdyaTIxd095S0d0WlJZMXlDWWhGZTYtaUVIdFo4a1drcHZ2bkQ2NzF3bmFRZHk4ak16ZzlLVW53azJ0Q2dGY0lmMElvdDN4aFJPRERjd1NNZ0UxbWZlOWdv?oc=5",
-   "date": "2026-11-21T03:42:36+00:00",
    "state": "posando",
    "place": null,
    "next": null
