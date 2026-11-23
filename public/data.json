@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:06:38.758498+00:00",
+ "generated_at": "2026-11-23T20:28:17.188921+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -458,6 +458,17 @@
    "next": null
   },
   {
+   "id": "d72c39e10e85",
+   "title": "Presidenta Keiko Fujimori sostiene reuniones bilaterales con autoridades de México, Filipinas y Hong Kong",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
+   "date": "2026-11-23T19:29:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9410bc56f345",
    "title": "Keiko Fujimori anuncia mayor capacitación y nuevas plazas para agentes del INPE",
    "excerpt": "",
@@ -649,17 +660,6 @@
    "next": null
   },
   {
-   "id": "d72c39e10e85",
-   "title": "Presidenta Keiko Fujimori sostiene reuniones bilaterales con autoridades de México, Filipinas y Hong Kong",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQamV1OEY2eERQSHBuRjNwU05sbTBrZ3RycWVYUzc3Y1hnNjJ2RjJEUVBPTGViTWpFLWxoVXRyUS1OejAtNXhHeTRfVHlhcF8yeF9yeFNYRmFnUkhGSFJBRkhYLUNKOW1tUS13VE92dEVveUtlZWVUNjFoN0hJSkN2R092RGRvd2xjRWtyT1d2THZjSFFobVpsT2xkLXMwa1dkWURFT1hmUE14ZmpFR0IyM0FSUVR1eXBjQmhoQnJ1ZGE5bFZpM05jYkR2S3ZuMUFRTjNIcVduRlJ2Zw?oc=5",
-   "date": "2026-11-23T16:27:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "f0fda0507373",
    "title": "Keiko Fujimori admite fallos en misa del papa León XIV y respalda al canciller Espá",
    "excerpt": "",
@@ -708,7 +708,7 @@
    "title": "Keiko Fujimori pide disculpas por fallas en la misa del papa León XIV y respalda al ministro Carlos Espá",
    "excerpt": "Desde el congreso, integrantes de cuatro bancadas presentaron una moción de interpelación contra el canciller, que otorgó un contrato por S/ 11 millones a las empresas involucradas con la producción…",
    "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN05ZV2k2Z0JyUk5xcDA5U3hwMEZLUmxLZUpjUjFsRDJNNkpEbXYtU1o2alNNV2FiYUREQk03RWx4SG10SzRaY3VTWVZZdWJzWjJXZmZMWEVGMUNRYXZHNHozWHVqM2R5ZXg2YXFqUGt3cTkydm45RWQ0SE5iRTFyM0FYbktIWkpmMmtvR3FEUDl6Q1pMamVLYjRWR1o2OGdXV0lpTEkwVEpjZGh4cGFNQnA1MlczeGRsdUltb2JLazJzZ0o1SDhFa0E1S2RUUWFEV3JjX0NLS1RmdEZBTHfSAfgBQVVfeXFMTVdpd3VCcXljU3FFdV9Md01CUF8wVDJDXzd0ZGxHRTJsSlRSUDVFQjBZU0ZCcXFpZi1Qc21OZ2wzWURJUGRQMHNJaHgxYnNGVnJQc0pxYXJ3LWNGYnM4UHRpdkJvN1RubzNKQ3d6eUlxUkw2LWtiQXQycXkxOXozZjEteXNaS3ZEZ1d5VWo3NTJGUTJtRnA0YVhGM0hsQXNlVjFCaHlCWk1vUzZNbnpjWHI5V1RJUlVRR01TRGZacklXOU5WTkxSU1lPODVFMHlrTWJxYUxQQkhvQmlqejdKUGxQVU9lcDNDMm5fNkxIekhZX3FELUEwdE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN05ZV2k2Z0JyUk5xcDA5U3hwMEZLUmxLZUpjUjFsRDJNNkpEbXYtU1o2alNNV2FiYUREQk03RWx4SG10SzRaY3VTWVZZdWJzWjJXZmZMWEVGMUNRYXZHNHozWHVqM2R5ZXg2YXFqUGt3cTkydm45RWQ0SE5iRTFyM0FYbktIWkpmMmtvR3FEUDl6Q1pMamVLYjRWR1o2OGdXV0lpTEkwVEpjZGh4cGFNQnA1MlczeGRsdUltb2JLazJzZ0o1SDhFa0E1S2RUUWFEV3JjX0NLS1RmdEZBTHc?oc=5",
    "date": "2026-11-23T15:30:00+00:00",
    "state": "posando",
    "place": null,
@@ -853,6 +853,28 @@
    "next": null
   },
   {
+   "id": "0a53a96e2a44",
+   "title": "EnVivo | Actividad Oficial de la presidenta de la república, Keiko Fujimori, hoy 23 de noviembre",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlNGVk14X2dPMUtpRElsNGM4TDR3MTZ4ekVwelA2YTlCYnFGeUlKOXI2Z0tKMmQzVGJJTHo4bXJVb0k1bHQyUWpVU1p1R3FCYWRua2tPNEhOeTVmbmgyN3V5MXJOUFAzRlh4UVJNRGcyeG5ja3pKUHZ6TjlaWGdEclVSbHJuUEFXQXV2U2t3M3hIcVRBTXlHZzlFdGlOR1FiMW5ETkx6NXd2N1dmNGE2UjRodm5mVmVNQzIzLXItQ294NTNwdU9YR0RtQQ?oc=5",
+   "date": "2026-11-23T14:21:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "366df7f81ef2",
+   "title": "🔴🔵 Encuesta Datum: Keiko Fujimori registra 38 % de aprobación y 55 % de desaprobación",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWVCcGRJVUNqRjhFdlBtNURwLXdMUDRYc2ZGOXZqMzFicFdXYzFJRTU0UG9qS01SS01XczloMWE2bEhTZ2s4YU04SlZjdmU4ZWpsNnNwLU5oOFppQ1ZOV0c3MFZlMGlPVkw4ckl4SU81OXBPY0xHOUExVkhpZTF2eUplR2hMbXhiVURuYXhhRFJqZWo0LXhfcTV0VGJROWl1NmhrX3FJU1ptV2J4NjczUEFYU0NZTnM?oc=5",
+   "date": "2026-11-23T14:21:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "78918ea4cbc2",
    "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
    "excerpt": "La presidenta de la República participó como “testigo de honor” en la ceremonia de suscripción de los instrumentos.",
@@ -949,7 +971,7 @@
    "title": "Hayley Williams, vocalista de Paramore, lanza contundente mensaje a la presidenta Keiko Fujimori durante su concierto en Lima",
    "excerpt": "",
    "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWEg1WXlxa0lwZFR4Tmg3Um02UkgxVXBsTlR6dWJYMmo1THR2SERaLWJRLVJlelFPbFJoLV9SZ01RWTQ1T2lDXzhoWnB2cjFzaXVxSlhLbllZaVZqQ1RUV01NWUp3R1JZOXVsOGFod2EtZHRaaGhLc2FaRXRlVGp2LU4zM3hPNlpuMUZEdlQ5akpvUnh2ajVoSGVnVVM0SUFLSmppLXhSQ3JhT2VMeV9uTE4tNHFrc09Gem5feHdMRzFYajFKM081dl92dUNwOXBuQ25OSWZFZnYwQmVBQlFNSGxjUS1sQU9pMGJFSFI3ZFl0bEJqQVlzS2ltMjFTdUJFWEJqOTBzcExtVFVoQXfSAZMCQVVfeXFMUGgyZEtEZUoyYjVvcXZZT0pETVM4UV9TWTBWTm9BcHc5LU9mem1VcnBlTG1HRG1pR1RPc1N1T0NlUTdkaHFZM3N2bGtpVHFzRERHc0pUbzRkbDVIVUc5SEItbnl2azYzUVBMRUFXOHNDQVhuS2t1QzVJemtud2E4TEtPRHJLTmR1WWtGbmxhMFpmeldYa3hrdDRERHpCMWhXRFpyNjktUmp4U014R2plS0ZPTENiYlEtODRsa2F5ZG5rUFZrVEN6ZkREd3hCNjNkNVd1T2ZpaV9lbk9wUkt1MVB2UGkyS3FiR1ZPU3I2Yi1rYm4wYTNpZ3dBeVZqMWUza3NnWjZPWXRYQTZUUWRjcTVjbm8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaDJkS0RlSjJiNW9xdllPSkRNUzhRX1NZMFZOb0FwdzktT2Z6bVVycGVMbUdEbWlHVE9zU3VPQ2VRN2RocVkzc3Zsa2lUcXNEREdzSlRvNGRsNUhVRzlIQi1ueXZrNjNRUExFQVc4c0NBWG5La3VDNUl6a253YThMS09EcktOZHVZa0ZubGEwWmZ6V1hreGt0NEREekIxaFdEWnI2OS1SanhTTXhHamVLRk9MQ2JiUS04NGxrYXlkbmtQVmtUQ3pmRER3eEI2M2Q1V3VPZmlpX2VuT3BSS3UxUHZQaTJLcWJHVk9TcjZiLWtibjBhM2lnd0F5VmoxZTNrc2daNk9ZdFhBNlRRZGNxNWNub9IBkwJBVV95cUxQaDJkS0RlSjJiNW9xdllPSkRNUzhRX1NZMFZOb0FwdzktT2Z6bVVycGVMbUdEbWlHVE9zU3VPQ2VRN2RocVkzc3Zsa2lUcXNEREdzSlRvNGRsNUhVRzlIQi1ueXZrNjNRUExFQVc4c0NBWG5La3VDNUl6a253YThMS09EcktOZHVZa0ZubGEwWmZ6V1hreGt0NEREekIxaFdEWnI2OS1SanhTTXhHamVLRk9MQ2JiUS04NGxrYXlkbmtQVmtUQ3pmRER3eEI2M2Q1V3VPZmlpX2VuT3BSS3UxUHZQaTJLcWJHVk9TcjZiLWtibjBhM2lnd0F5VmoxZTNrc2daNk9ZdFhBNlRRZGNxNWNubw?oc=5",
    "date": "2026-11-22T17:24:40+00:00",
    "state": "posando",
    "place": {
@@ -1097,28 +1119,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/07/16/los-errores-que-el-gobierno-de-keiko-fujimori-debe-evitar-para-no-repetir-crisis-politica/",
    "date": "2026-11-21T20:35:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5d909d96b474",
-   "title": "Keiko Fujimori: \"Estamos en un momento importante de la relación con China\"",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeVV4OEw0Z3pjQm5Fa1pLWjdTTTczTHVBR05oQ0J3LVFseDNuTlBvc183QVNrWk5yN21KejBHcnpvUXVlV1dvVXhUMmpINFhYbEpzck11ak5rM3d2X19jMGdobVZwWmREREJTUUhNMHZoQkR2ZzY4WWd1MFBLR2lXREhwMUhjR1JYQmgxNnBTWDV0X21kdW53ajU3MVJpSnFJaGc?oc=5",
-   "date": "2026-11-21T19:02:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "02cda06ecf85",
-   "title": "El rol de Keiko Fujimori en la cumbre de APEC 2026: acuerdos, reuniones y gestiones",
-   "excerpt": "La presidenta peruana cerró su participación en Shenzhen con compromisos de cooperación de China y Corea del Sur, un acuerdo comercial con Tailandia y reuniones para atraer inversiones y ampliar…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcllXUzZfRXhhdWs0NWxMdnF5Z1hnVVdTdHdjeS1WRUpMYW1PZUZtT2RzanZ0RFh4Vk9Lc3hDb2hOU1NFa3dpVm10YkNzaWtnblRiQXJzVDVIenVDZkFqR2lLcXI2T2JfbG1XLXpuMFVHV1djel9wX2hPZlZ2aHl6V1ZwTmczYkJJcndCR1VseVRWazlsa2lTdGJtcFdyNWR2ak1Xdm9XNWxxUXkxalhnVGN4WFN4RnQzUGdDOGdMc9IB2gFBVV95cUxPaHNwZmhWLWtmaHBPT1RIX2tRVXlvelpFaHl6QmdXY3NMNXpURi1MT1g0cWpoR25URFBkR2RaQ21PYXpXcG4zS1djX0U5U1hFc3NsbzQtOGZiOXdOa0RHY2FzMHpTTVBXbDJyeUY5N3diRHBmV01md2x5MDg2dXVhMUUwam5YaXVZdmpneVlxRFpYRnh0TFdyMmdkUXI4UXVqbmFTODhXOHZsUkFQS0tjeFdmeVVvZjVNYTM1TVpQME5qR1RmVVctN0hYRWRwYTVSUDlsZlp0d0RTZw?oc=5",
-   "date": "2026-11-21T18:36:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
