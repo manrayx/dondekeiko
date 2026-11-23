@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:26:27.392895+00:00",
+ "generated_at": "2026-11-23T01:08:38.428944+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -490,6 +490,21 @@
    "date": "2026-11-22T14:44:58+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "75f3d7b454f2",
+   "title": "Keiko Fujimori en China, por Óscar Vidarte Arévalo",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY01iREhITWNsZE5wWjR3OFZVYVRMNEpCVkxvTEtHS1dyQ3ZZa014S3lkdWtvTUIyRDhNcVNpMnpYLURaQjY4V0lrQnRmNF9RbzhyeDlFY2RjU1JYNnpSem90a3E0enhZbnBnSFdDTTBXNTRQZFgtdTZQMEd4S3NmNVFfcENrWjVHWmpLMHYyR21jWlJLeDF5RVpTN2pNNGlF0gGmAUFVX3lxTE5HVkZubF8yV0NURTgxakEyXzJhYlpqRk4xZHM0S29nampLMXRJSXZVZXJOYm1mYlZfWDJyWUV6d0p0enFhX1JyN2dxUEVaOC1OdVYtakN1azYxMzk4OUlDejdkQnY4NDYteklwUThoVFFLM082b0lfSFRtOU9OWHBvemczYnJZQmVEZG5ObkZkTTZhUFNHaWxrV3E1dkI1TWV3akZXNXc?oc=5",
+   "date": "2026-11-22T13:53:38+00:00",
+   "state": "posando",
+   "place": {
+    "name": "China",
+    "abroad": true,
+    "city": "China"
+   },
    "next": null
   },
   {
@@ -1117,17 +1132,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2lVNkN4c1Vzb3pTWmphS2VnazRRcU50Zm1LQVZLQUxvbXJuSEYxWGRXNHhsYzk3OUFFT1EwQmVIOWs3NGdDNmdBaks5VWRLS21hRC15YnVEUmN5Y1FFdzhEU1h4NWJYalFJRkZ6UXZselIyNDQtZ29XM0M4aElhd3duTDRGdV9rcGk3VjN6Y1ZheUxZREZVNWpmN3JhNl9JTFQyekt6eWotY1NMZF9SWlRyMEpXLTQ3cWFfNU5pYzZ4dW4wNUJMSnZ30gHeAUFVX3lxTE55OW15VEsyRGlkNUk4TFJuZElucmItYTB5MUMyeEE2MzFIX3JaTGpiX1ZRUmxQcUQxbVF5eENtejBfT21wOXg0aWFoVnlvNV80a2ZEVGd0NjVmVDA0XzNIOVJWWHAxd2JjZ3IwTFVVRTBWb2dqQnZINlVuVjRGeGJpZVU2bTRmMmJFRkd3NXdiOFlNU1poeEhzN3NHRzZYbEFBRkdQek11dGVBbThEMEVmbmsyTjlkOVhOd1RVX1BBVlpIRUJVc3M1N00yNDNPZ3RXVURMVmFGeGxENVRpZw?oc=5",
    "date": "2026-11-20T12:34:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6dbb420e041d",
-   "title": "Presidenta Fujimori califica de “muy fructífera” la participación del Perú en APEC 2026",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RZV0wySkZwR3Y4cWhITzRqbXpzRzIyTjRFMzdnM1V3ZjcyWUN6RmZwaHdReFVZMTVseHN6S0x0bjBIOXpfTy1lV2g1dTZ0RThSamppQVJxS0NiSGZoVTJ2M3MtTTNIRXFpcmphVGhkOTUzYndBanNYMEFkVmxpU2t2MW1jajdhWmpNc0VkYmcwQVl0ZXBNN3FZeHUxd3lOQmppbFpQZkVQR2ZjNUFOT0V0MzR5QUFiSXpDR09vazd2dw?oc=5",
-   "date": "2026-11-20T12:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
