@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:19:47.093512+00:00",
+ "generated_at": "2026-11-23T23:41:32.246763+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -436,12 +436,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1cd028a92a6e",
+   "title": "La economía de Perú crece un 3,1% en el tercer trimestre y da un impulso al Gobierno de Keiko Fujimori",
+   "excerpt": "",
+   "source": "Bloomberg Línea",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVEJmSGNWbGZLcVhLVV9aOTZFNzVva1k1cDZWZkFUTGNTU1Y4ZGpOY0Zvd01OeHVxLS1sRllLREtfVzVIWUpia3pDXzR5NnBqR004TnFKUjdScElCMzlEdVkyQ2F4Z1BHTURVTHFWSEREMC1rSXZ2bFZhMFZHeFQxbl81eVJIMV82Wm5Ic0M4S2J0X0huRjIzejB3YWN4a2RQcGdUSFkzbEFGdHk2eExfQzlsTjlkRHV6bERhRklIZ0p4bmhKdll2eFJ1dzBhX1RDWU1mcnhhYkduSXFTLXJQVEM5TUhZUdIB-gFBVV95cUxNMjdBSk8wdlNZeUEtcTViR1lxdHNVajdDWnpXekZPNkIwZDNicHpQNk9vdGZMUXE5ZEJXYzhva1djZVp4cjlDZ1haZzR2WjBnQXc0TUphMDY4Wm9WUDlOSHdydml2c2trZFZ5X1dieC1VUC1iX1ZSUDdzOFpRc2dzOURXVGpNb3REcS1pWl9zWURfTGZKcU91dVVRVW8yMVJ0aVV0QTFfMVpISWlGRWlsUGdlY0hERUdPa0tGLXp1d245eGhVU3h0RWxyRGxaSkRlSVNGdVBGYjExWmZuNTZLU2xzUlAtOVRsLUNmNUJIMGJDcFBDdHJCLThn?oc=5",
+   "date": "2026-11-23T23:27:41+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1d9185aa29ca",
    "title": "Keiko Fujimori respalda al canciller Espá ante moción de interpelación por misa del papa",
    "excerpt": "La presidenta de la República, Keiko Fujimori, expresó su respaldo al canciller Carlos Espá y al gabinete ministerial, luego de que se presentara una moción de interpelación contra el titular…",
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-respalda-al-canciller-carlos-espa-ante-mocion-de-interpelacion-por-misa-del-papa-noticia/",
    "date": "2026-11-23T23:09:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e74b1fb7b0e8",
+   "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV en Las Palmas y respalda a canciller Espá",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDBBMHRLTTB5UlFiVTY1a3hPVERsQXpkN1M1eWJfMGlzTU9TODdUaXFKMTJQS1ZJUWF5QVNoWFZxUEhmcDlBWm9Id2Fub1RuV1ppdkFsZXNzekN5a3A5bGdFTlFYb1otbjEzcGpoTFp0bEZ5MmpSU0ZmU3YxYUlsQmV2NDFfWlJGSGFMelcwbE1aMjh1ODJ6SmZjVDNiVTNpRXpFdl9vT2t1Rl8zZzhvRHRlRFRGOWZFemRQN2xnV2drRjFtQmhKV2ZVaTBFdmZwRUhv?oc=5",
+   "date": "2026-11-23T23:03:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -572,17 +594,6 @@
    "next": null
   },
   {
-   "id": "e74b1fb7b0e8",
-   "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV en Las Palmas y respalda a canciller Espá",
-   "excerpt": "",
-   "source": "Perú Informa",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDBBMHRLTTB5UlFiVTY1a3hPVERsQXpkN1M1eWJfMGlzTU9TODdUaXFKMTJQS1ZJUWF5QVNoWFZxUEhmcDlBWm9Id2Fub1RuV1ppdkFsZXNzekN5a3A5bGdFTlFYb1otbjEzcGpoTFp0bEZ5MmpSU0ZmU3YxYUlsQmV2NDFfWlJGSGFMelcwbE1aMjh1ODJ6SmZjVDNiVTNpRXpFdl9vT2t1Rl8zZzhvRHRlRFRGOWZFemRQN2xnV2drRjFtQmhKV2ZVaTBFdmZwRUhv?oc=5",
-   "date": "2026-11-23T17:51:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "7ec316fc1193",
    "title": "Presidenta Fujimori destaca fortaleza económica del Perú e invita a empresarios chinos a invertir en el país",
    "excerpt": "",
@@ -595,7 +606,7 @@
   },
   {
    "id": "9bc120cba385",
-   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión en Encuesta de IEP (telefónica): «Las encuestas hay que tomarlas como foto del momento» – Gato Encerrado",
+   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión en Encuesta de IEP (telefónica): «Las encuestas hay que tomarlas como foto del momento",
    "excerpt": "",
    "source": "Gato Encerrado",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS3hpdlNRS0NKS01UQ3JBMlAwRW44TUM0bkRocWE3Q3h4cHcxejdURndCbjNWMnVIZTZudW5SeHNkSnNPdmI2ZURrbDlWdHFoeWtNQW1WOGF3a3RxTW9sM2NSRHdVeDVVZWRvckxSRHpwdnZUQUJIbldyM29jZFVISUNfbHlIRkt0XzVMWWlCQURyRzY5OU9KMmNtcTZPRVZMNjA2LUFIRVVlbWVhWmQ5M3lVWlA0ZGZCQ1VHWXlxYVlld0l4R3FRUlRYWGU2MGNLRzc4SklVX3hLMVhuM2ludWpubjJOaG5CRnN2Z0w4TE1xZkV5RGYtWmpzNTJIUQ?oc=5",
@@ -673,6 +684,17 @@
   {
    "id": "f0fda0507373",
    "title": "Keiko Fujimori admite fallos en misa del papa León XIV y respalda al canciller Espá",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnR0ME9BMTJkNmp1RTFfMFJYMDU3Y1phLWZPREs5Sk96X3BVMF9Tdzc2cWl1RzRUR1BqR3hHSzFqSm1fb0dxcHdBR0ZBUEtsWERKZG9VanNGS2hHX2NETldYdkpZcWROZHRsZlFvYjBMbExIYWh4ZU8zeUhBQU5Lb19pMGRYQ2F4VV9zaVRMYlo5Q2swZkxDVjZaYWpDSVdRWXk1OUxVb2VZczF0SVo0TlVIMS10Zw?oc=5",
+   "date": "2026-11-23T16:02:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fff59605f31e",
+   "title": "Keiko Fujimori admite fallos en misa del papa León XIV y respalda al canciller Carlos Espá",
    "excerpt": "",
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSnR0ME9BMTJkNmp1RTFfMFJYMDU3Y1phLWZPREs5Sk96X3BVMF9Tdzc2cWl1RzRUR1BqR3hHSzFqSm1fb0dxcHdBR0ZBUEtsWERKZG9VanNGS2hHX2NETldYdkpZcWROZHRsZlFvYjBMbExIYWh4ZU8zeUhBQU5Lb19pMGRYQ2F4VV9zaVRMYlo5Q2swZkxDVjZaYWpDSVdRWXk1OUxVb2VZczF0SVo0TlVIMS10Zw?oc=5",
@@ -869,7 +891,7 @@
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVpvNXZjMlBTY1MzSHhDZ2dVUktYZ1lISy02R0xvUlh5bFpPNFppM0pjS2NiUlV4eE1QZlF1SmprM01xbF8zWUYwQU9WWElneUZIT0RVNjM4ZXRVVjFhMURSTVpMN3hkOFhPcDVYbkh3cjFSRE8zdmNZZkpnbXVVWkV2cV9LTmg0cjAwQ0RsYnZ1X0hYWkR5NVA2dUEtbU5lYi14SDZiVllNLUMwY1M5OEtPcFNCdE15dmc?oc=5",
-   "date": "2026-11-23T14:32:08+00:00",
+   "date": "2026-11-23T14:33:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -933,7 +955,7 @@
    "id": "1fd122d687b7",
    "title": "Keiko Fujimori pide disculpas por deficiencias en misa del papa León XIV en Las Palmas y respalda a canciller",
    "excerpt": "",
-   "source": "Perú 21",
+   "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFIWG1jcVB1TmVuaG1jNERCMnpoRHpzRDk5ZEhPZ001akNKQzZIUVFNbEE0OXAwNV8yckxvWVV0X3E3QnRPd3p4SUFDaTJxd0VZZ3UzX0xBRjVteXVHUkh0WVczekhXMHN0NTBWN09XSDExRVJ1NVJ3YUtPRmU1U2NmT3czRnpoSFdrMUFaT183SEhMS2R6VDA4amhPZWNZLUhTRnF1ZENyZGVMZTZkag?oc=5",
    "date": "2026-11-23T12:24:57+00:00",
    "state": "posando",
@@ -993,7 +1015,7 @@
    "title": "Hayley Williams, vocalista de Paramore, lanza contundente mensaje a la presidenta Keiko Fujimori durante su concierto en Lima",
    "excerpt": "",
    "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaDJkS0RlSjJiNW9xdllPSkRNUzhRX1NZMFZOb0FwdzktT2Z6bVVycGVMbUdEbWlHVE9zU3VPQ2VRN2RocVkzc3Zsa2lUcXNEREdzSlRvNGRsNUhVRzlIQi1ueXZrNjNRUExFQVc4c0NBWG5La3VDNUl6a253YThMS09EcktOZHVZa0ZubGEwWmZ6V1hreGt0NEREekIxaFdEWnI2OS1SanhTTXhHamVLRk9MQ2JiUS04NGxrYXlkbmtQVmtUQ3pmRER3eEI2M2Q1V3VPZmlpX2VuT3BSS3UxUHZQaTJLcWJHVk9TcjZiLWtibjBhM2lnd0F5VmoxZTNrc2daNk9ZdFhBNlRRZGNxNWNub9IBkwJBVV95cUxQaDJkS0RlSjJiNW9xdllPSkRNUzhRX1NZMFZOb0FwdzktT2Z6bVVycGVMbUdEbWlHVE9zU3VPQ2VRN2RocVkzc3Zsa2lUcXNEREdzSlRvNGRsNUhVRzlIQi1ueXZrNjNRUExFQVc4c0NBWG5La3VDNUl6a253YThMS09EcktOZHVZa0ZubGEwWmZ6V1hreGt0NEREekIxaFdEWnI2OS1SanhTTXhHamVLRk9MQ2JiUS04NGxrYXlkbmtQVmtUQ3pmRER3eEI2M2Q1V3VPZmlpX2VuT3BSS3UxUHZQaTJLcWJHVk9TcjZiLWtibjBhM2lnd0F5VmoxZTNrc2daNk9ZdFhBNlRRZGNxNWNubw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWEg1WXlxa0lwZFR4Tmg3Um02UkgxVXBsTlR6dWJYMmo1THR2SERaLWJRLVJlelFPbFJoLV9SZ01RWTQ1T2lDXzhoWnB2cjFzaXVxSlhLbllZaVZqQ1RUV01NWUp3R1JZOXVsOGFod2EtZHRaaGhLc2FaRXRlVGp2LU4zM3hPNlpuMUZEdlQ5akpvUnh2ajVoSGVnVVM0SUFLSmppLXhSQ3JhT2VMeV9uTE4tNHFrc09Gem5feHdMRzFYajFKM081dl92dUNwOXBuQ25OSWZFZnYwQmVBQlFNSGxjUS1sQU9pMGJFSFI3ZFl0bEJqQVlzS2ltMjFTdUJFWEJqOTBzcExtVFVoQXfSAZMCQVVfeXFMUGgyZEtEZUoyYjVvcXZZT0pETVM4UV9TWTBWTm9BcHc5LU9mem1VcnBlTG1HRG1pR1RPc1N1T0NlUTdkaHFZM3N2bGtpVHFzRERHc0pUbzRkbDVIVUc5SEItbnl2azYzUVBMRUFXOHNDQVhuS2t1QzVJemtud2E4TEtPRHJLTmR1WWtGbmxhMFpmeldYa3hrdDRERHpCMWhXRFpyNjktUmp4U014R2plS0ZPTENiYlEtODRsa2F5ZG5rUFZrVEN6ZkREd3hCNjNkNVd1T2ZpaV9lbk9wUkt1MVB2UGkyS3FiR1ZPU3I2Yi1rYm4wYTNpZ3dBeVZqMWUza3NnWjZPWXRYQTZUUWRjcTVjbm8?oc=5",
    "date": "2026-11-22T17:24:40+00:00",
    "state": "posando",
    "place": {
@@ -1094,32 +1116,6 @@
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRk1VZTdBRUVkY0Z0aUxTejRpeVJjSUFZYjBIYVJQZjFPQmNsQloyMFp2RktKYkhLbmdNdkQ1d2NoQ09vWmNrdlZDbmpHR19XUEdCaTNra1VmYVFQbVlGaGJGa3RoUTZKdTZLaDZ4MXFNOFVwUk1fYk9JOFQ4UHpydkxWZnl5dS1aWFEwVHJtZ01WUEhnRG85NEQ0d0k4SXdSdERCX2lleXJIUDlFWTFkQ1YwN1Npd01uMzdHcy1zNWFaWWhDR2M4bXF4enZTRFNnRDY4?oc=5",
    "date": "2026-11-22T02:10:13+00:00",
    "state": "entrevista",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "09d469240a6b",
-   "title": "Keiko Fujimori elogia a Xi Jinping, líder del Partido Comunista de China, y destaca su gestión: “Es un líder fuerte”",
-   "excerpt": "Keiko Fujimori resaltó la organización disciplinada del partido y el crecimiento sostenible en China bajo el liderazgo de Xi Jinping, pese a que en la campaña electoral de 2021 advirtió…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/21/keiko-fujimori-elogia-a-xi-jinping-lider-del-partido-comunista-de-china-y-destaca-su-gestion-es-un-lider-fuerte-hnews-1988280",
-   "date": "2026-11-22T02:07:53+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
-   "next": null
-  },
-  {
-   "id": "10219614e0c1",
-   "title": "El crecimiento económico y los gobiernos de Keiko Fujimori y Alan García",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQU5XbzNEVGpnQl8tR3ZxZV9lU1NaZ3owVHAyQlNEREZuWm5NeXNBYjloWjdvUnM0Z0U2TnBUakFtZUlhN1NUcXlpeHRaNkQyZWxsU3lBVENvemdIOUhRNlpIMkNaU2RXRTN4RTZUaTJ3U3FaN1kzV3FjWEQteldvRGRMR3RKS2RTcERRNWUzQTJ2bk43M1F5OTVRbkJzVWJiWWfSAacBQVVfeXFMTVh2ZkREVkZFczdKMDRObV9PN25mdU56Q2luV1M4X0pfUEdFQW11X3BXS3VwbkJvMnh6Z2xPMjZveXJsTDZXaXVFSzlVYVhKX2FrbzM5TW83dUdHMVcwUC1fVG5vVnRPWGtiUFA0dm5hX092SnZLa04tSDMxWEg0ZE5rVTA4cWNiZ1pfamJ4WG9ISnFVNExfNklqWDlhekRibmlKSU42Rmc?oc=5",
-   "date": "2026-11-22T02:00:43+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
