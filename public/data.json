@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T15:04:40.506797+00:00",
+ "generated_at": "2026-11-23T15:26:02.735749+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -128,6 +128,23 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-23T08:43:00-05:00",
+   "end": "2026-11-23T09:21:00-05:00",
+   "minutes": 38,
+   "subject": "Lidera ceremonia de entrega de 14 máquinas donadas por el Fondo General de Contravalor Perú-Japón, que serán empleadas en los trabajos de preparación y prevención ante el fenómeno El Niño",
+   "lugar": "Planta de la empresa Komatsu, Pucusana",
+   "state": "posando",
+   "place": {
+    "name": "Planta de la empresa Komatsu",
+    "full": "Planta de la empresa Komatsu, Pucusana",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
   {
    "start": "2026-11-20T22:19:00-05:00",
    "end": "2026-11-20T22:49:00-05:00",
@@ -424,9 +441,42 @@
    }
   }
  ],
- "agenda_minutes_7d": 974,
+ "agenda_minutes_7d": 1012,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "f61dbca92b0a",
+   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
+   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
+   "date": "2026-11-23T15:24:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "78e04b7e9982",
+   "title": "Keiko Fujimori expresa su respaldo al canciller Carlos Espá ante moción de interpelación por caso misa en Las Palmas",
+   "excerpt": "La presidenta Keiko Fujimori expresó su respaldo al canciller Carlos Espá y a todo su Gabinete Ministerial, ante la posibilidad de que el titular de Torre Tagle sea interpelado en…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-quiero-expresar-mi-respaldo-al-canciller-y-a-todo-el-gabinete-carlos-espa-congreso-papa-leon-xiv-apuesplan-ultimas-noticia/",
+   "date": "2026-11-23T15:07:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "84e2792c843b",
+   "title": "Declaraciones de Keiko Fujimori en actividad oficial en Pucusana",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHJMemdqdE92ZVBHOGJNaFZEVmxuVXdOamI0TFpXeVZjYkdoR1U1Yll1SjdIWGVfMlJoWE04Mi00N0otVVQzM2kzbW5zNUUzSHNRQi15ak50bk9aQ29Lb3pQcWxKZHhoSjVZNkR5OXVCSXZmV3N0UEQ3cjJLMmdpMGowTHRvVjNnc05BcGxrYmEzMzFBYmQ5WnM5RnlDQm9MNDVnaDJEZEF5LXJUcnc?oc=5",
+   "date": "2026-11-23T15:07:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a7685c579a5c",
    "title": "Keiko Fujimori expresa su respaldo al canciller Carlos Espá ante moción de interpelación",
@@ -434,6 +484,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-quiero-expresar-mi-respaldo-al-canciller-y-a-todo-el-gabinete-carlos-espa-congreso-papa-leon-xiv-apuesplan-ultimas-noticia/",
    "date": "2026-11-23T14:58:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a55d18cdfd57",
+   "title": "Keiko Fujimori destaca cooperación internacional en captura de alias ‘Jolín’",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcW1QckN3QThtRDRXbm5lOVpObFlvbjBaeTdiOW15VEg0VGhLUXNVWXlYS1gzaXVDSnRzcjR3V1ZkNkh6ekRPMEktdlZfTDVUR24wUGNUOFVVN3Azb2VEX1NDNUlIZkg3MFJHVmJydWl4MXEtNDRJRl91dElERjN1V1pZaG9wS1pyNG9DQjlCNVRvYU1qZVFfME1wbzRoWUNNMDZwam5tZk0?oc=5",
+   "date": "2026-11-23T14:53:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1075,62 +1136,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "4db43d3cd2c2",
-   "title": "El emperador Naruhito recibió a Keiko Fujimori en Tokio durante su visita oficial a Japón",
-   "excerpt": "",
-   "source": "Reporte Asia",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjRvaGo1U1F0dEtSQTBSME8tenVKNmxNSWdERng3cFFkc1ZsUllhM0RybDJnS0dBMW03VFRPMHRYMmxUVEVRT3BjUlkyYnphNHhuSEZlU2llSk11SzlpM3FWSUNzRzFNRWJfMk9LbGhCWXMtQUlYbFcwOVNJc1pXUGxJNDI5TU5qZndpMURSbHJDOFZTcF90Uk5sSTNad3B6V0hHaTlFVzREbmdBNnNLNE00bldmSVFJQTA2MkNsT2FlNnct?oc=5",
-   "date": "2026-11-20T18:02:53+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tokio",
-    "abroad": true,
-    "city": "Tokio"
-   },
-   "next": null
-  },
-  {
-   "id": "c1492870f65d",
-   "title": "Keiko Fujimori ante empresarios japoneses: Perú...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkdoYWpWVGNNSms0SjZrdWFHT2JJMlRmQklJR3lBeVlFdTdSMzZfQ0VxaWt6WXhpQUh6Y0ZaYjNnV3RteklsUzVGdUhOLWdqSWJNaUJ2QWlVVktCaVRFbWhpMTdOYlliM0FNMEhQNXM2Tko1YzIwZ3lvdmZEMWo4R3UwMkdDODR1NkxFa3JnaXJ1UjBWNHY2RVRKMC15MXNDcVVqZnNuVlVta0Rsc3hlbEVB0gG3AUFVX3lxTFBuWVk4ZlA0RGoyT2lkdHBtTDdTdFZmNkVlcktlNjU5Qmo5dERua0FoVTQxQU5CQUZKT2NQNVdWRV9kNUs5bEwxTkFQcXdCWmZRSTVtMzZDdE5FZGpTb0h5eDdVb201bDlwd0oyUi1pSVVsNHR1Tll2SEZVV2JSWER1RTQxTDc2bGRYNkpjOW1hM2ROay1yaFZtNXpiemZjNHh6X2JYM2V0aGZXVDZNc00zUDJVeFQwVQ?oc=5",
-   "date": "2026-11-20T17:47:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a1661f634752",
-   "title": "Presidenta de Perú, Keiko Fujimori, visita Japón",
-   "excerpt": "",
-   "source": "Enfoque Digital TV",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaldLeGx5c2hCYURmOVdIbERfTTF1WWpQZjlCZU1HelBuYW1selh2UWpINm5hMGpzUFF5M2l6V1RJa0RHQUw4cmhubVA2VDE5ZHoxU0hNVjNSa3hHZEcyV3pIamthN0puWTlfRHJlU1dqVnc0WmZDb2U2Mm56R0dXcjY3V1lXTG5zdWtleVJQamZDYWF3MjFOM1BFUFhRVXBpLWJqTGVETDZLLTRPWVE?oc=5",
-   "date": "2026-11-20T17:30:02+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Japón",
-    "abroad": true,
-    "city": "Japón"
-   },
-   "next": null
-  },
-  {
-   "id": "65995e5fb64a",
-   "title": "Presidenta Fujimori participó en seminario empresarial “Perú-Japón” en Tokio",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVHpITzVNM0VSZzhVSFU4THJiZjdGMTQxRVNrM1FkTnpKNFdXOHlrTExyb1czS04yQzdEcGNJNFhsSHJfVTU2bkpfUjZ4VU9Xc0NqTlpmYUp5VlVyQ3oyS1FmU3l3Wlh1NzhzOWhoTHlaVEV3a0Jqd2dQTnIyY1ZFalZSbkZLRFJUVHFEN1hxbWRzSmxlY1NERlRQRmZKWEFMczRZVHNHZzBBLTh4RjNLMFBB?oc=5",
-   "date": "2026-11-20T17:23:01+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Tokio",
-    "abroad": true,
-    "city": "Tokio"
-   },
-   "next": null
   }
  ],
  "geocache": {
@@ -1297,6 +1302,7 @@
   "direccion de aviacion policial, callao, peru": [
    -12.02823,
    -77.10499
-  ]
+  ],
+  "planta de la empresa komatsu, pucusana, peru": null
  }
 }
