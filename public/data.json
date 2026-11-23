@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:13:22.272918+00:00",
+ "generated_at": "2026-11-23T12:56:42.713557+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -427,6 +427,17 @@
  "agenda_minutes_7d": 974,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b0ff9668dbb2",
+   "title": "Tras visita de Keiko Fujimori, Japón dona 14 máquinas pesadas para enfrentar El Niño",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFIWG1jcVB1TmVuaG1jNERCMnpoRHpzRDk5ZEhPZ001akNKQzZIUVFNbEE0OXAwNV8yckxvWVV0X3E3QnRPd3p4SUFDaTJxd0VZZ3UzX0xBRjVteXVHUkh0WVczekhXMHN0NTBWN09XSDExRVJ1NVJ3YUtPRmU1U2NmT3czRnpoSFdrMUFaT183SEhMS2R6VDA4amhPZWNZLUhTRnF1ZENyZGVMZTZkag?oc=5",
+   "date": "2026-11-23T12:24:57+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "d6d4831fc8e8",
    "title": "Keiko Fujimori agradece al Senado permiso para...",
@@ -875,6 +886,21 @@
    "next": null
   },
   {
+   "id": "a3eb41117340",
+   "title": "Keiko Fujimori reafirma asociación estratégica bilateral con Japón durante cumbre en Tokio -",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHRFWDcxZTg2a3hLM1hXMGtYRmdHZDYzUXZEU2Nzd09CTTBVVmp3VXJiUVdTWDVPQnVNOWVKNGpqVWl5ZEJMNW5aZkpzQ181bjhMcTljT09OUTh5YjctWlViSlgwU0NxVWhfY1hIWGd1QXRRUHZic0ZrM3dWcVZFT2pUU05HeUdnb0ZOREdiODVCcnhQX1RMSEsxZFVqMV8tZlByaE1jVFVBR1dMcTNZRnNBSmF3dEhWUG1Z?oc=5",
+   "date": "2026-11-20T23:48:06+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Tokio",
+    "abroad": true,
+    "city": "Tokio"
+   },
+   "next": null
+  },
+  {
    "id": "50a17fbb17af",
    "title": "Presidenta Keiko Fujimori sostuvo reuniones bilaterales y de negocios con autoridades y empresarios japoneses",
    "excerpt": "",
@@ -1110,28 +1136,6 @@
    "source": "Latina Noticias",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZWlCSDJCME92R2lsM0tTdU8tSnpiQmlvVkp6N21ZaUttck1tRFhsTlBSTHdDT2xOUG5fdHdUZEh2T1R5RWN0MEtfRFI0bEZ4djJkSnNNOTgyU2lobURRbEVwdUN0cmlkYUVYWDlyem9GUHZUX1Nkb3lmdVNJREVXUDQ4eXZ6eFVCdDRhTjBFakpHZFljaHpsai1lSENVcERKTnMyZUlSREtnZGxzZklMd1pWYWhtUmszeG1zdXM4OE9yMXhESkNYcWE2ekpjTXRzWWVSaXdLbHdKNmpmMXNWQkd3?oc=5",
    "date": "2026-11-20T14:56:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dc86d4eeb367",
-   "title": "Keiko Fujimori pide que Perú sea la ‘puerta de entrada a Sudamérica’ en su visita a Japón",
-   "excerpt": "",
-   "source": "El Universo",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORFUtMFBPeWFnN1BKVWdhT2ZrR0hQbEU0OVowaW93UzliSXY5Mm5WdHhFRjNMUFlmTk9QVUFfaU9wRjNhczRrdlF6Y2xudm1DOVQ0bUJGd2FHNVBaZE1XQS1oY3JoSDJYMENkaklVaUQ2bk5XVkxxVUxFR1QzNF9YblRpNHFBV3lPMlJ1b29HZzJJWUVZNjVPQzBoMkcyeTNqTzVmRVBpS2d2cUxNdzYyS3RxeEdUT1cxYjhLOXZvcDB2UmtqUmRFZU44SlFVRlhoSi1oRnd30gHqAUFVX3lxTE1lZVdLTkxFYzZBbFlOSVNVSEd2M0c3OTVFSHFyX1ZNLUJ5S21jMDZvZE5zV0U4NS1VdEF6eENoLXlHeUhnRlBPYlJNYk9DbFRyU2hZUXdtZXprN0VPMFpGb1hXZjBNTW5HRy03T3JPalRoR3lua0RSY1BaZmM1NFhoOWluZUVWbThPbF9PM0ExWWVxdVRJZXcxZVZydjZHM21Mckw2VVlQRUJWclZyZjBlX09ZZkx6RXpLZzRlUEdjTGdRWDhvd3dwWWllcVdYOUFhU3FWbENDU2NPem01WGlCS3B5MHY0X25YZw?oc=5",
-   "date": "2026-11-20T14:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "61dafe183895",
-   "title": "Gobierno designa a Teodoro Crisólogo Grández como jefe del Gabinete de Asesores de Keiko Fujimori",
-   "excerpt": "El Poder Ejecutivo oficializó la designación de Teodoro Alonso Crisólogo Grández en el cargo de Jefe de Gabinete de Asesores del Despacho Presidencial de Keiko Fujimori. El nombramiento fue formalizado…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/actualidad/gobierno-designa-a-teodoro-crisologo-grandez-como-nuevo-jefe-del-gabinete-de-asesores-de-keiko-fujimori-ultimas-noticia/",
-   "date": "2026-11-20T13:58:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
