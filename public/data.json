@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T17:35:57.682910+00:00",
+ "generated_at": "2026-11-23T18:19:12.220410+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 2,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 56
+  "triste": 2,
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -447,6 +447,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ca2804f4522f",
+   "title": "Presidenta Fujimori afirma que el Gobierno responderá con más fuerza frente al fenómeno El Niño",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUM0LWt4T3ZnX0lNektrbGE2TUNsbkdkcnk4SDdkV2QwTnFqNzhPTUVLU0V2cEdNTS1nd0dhdnNjR1hvN25wYmtTQkwxS3hHV29qYnhyOVdxYWFfUGJmMmVRSC1NWldHX3h0R0ctbkhkSjNpV01Ta0ZoMlUyaHRraU1ReWpUTkVhNXB5RmZxenlWZmY1eXJjbm04bS1wTFNKanFuczUtNG9tTk9kUUpfYjI3cXNCYW8zdmU0NFVmcw?oc=5",
+   "date": "2026-11-23T18:15:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "7ec316fc1193",
+   "title": "Presidenta Fujimori destaca fortaleza económica del Perú e invita a empresarios chinos a invertir en el país",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUZvMjBWM3laZ1NlNkxsNFRoVTdxdlFZWDJhREI0ckIxT1BmcVNwM2ZteXRUX1RCdVlLbzB3dGI1QzlVanBIbDdZandCc3RNSEM4TE5nR0tKYkN4TC16WkxmOHlGQ1c0LUhQYUs4X2ZzQUM0bC1LdUNSelc4Q2w2VGgxQk9sVzAzbXpqVUZZaExvRENiWmlmOWpXMzlRMHBic2xDYjdTY2l1ckF3UW5IMFNTOXBTRDZHUFE3LUpB?oc=5",
+   "date": "2026-11-23T17:36:34+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0420197963c2",
+   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión de Encuesta de IEP: «Las encuestas hay que tomarlas como foto del momento» – Gato Encerrado",
+   "excerpt": "",
+   "source": "Gato Encerrado",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS3hpdlNRS0NKS01UQ3JBMlAwRW44TUM0bkRocWE3Q3h4cHcxejdURndCbjNWMnVIZTZudW5SeHNkSnNPdmI2ZURrbDlWdHFoeWtNQW1WOGF3a3RxTW9sM2NSRHdVeDVVZWRvckxSRHpwdnZUQUJIbldyM29jZFVISUNfbHlIRkt0XzVMWWlCQURyRzY5OU9KMmNtcTZPRVZMNjA2LUFIRVVlbWVhWmQ5M3lVWlA0ZGZCQ1VHWXlxYVlld0l4R3FRUlRYWGU2MGNLRzc4SklVX3hLMVhuM2ludWpubjJOaG5CRnN2Z0w4TE1xZkV5RGYtWmpzNTJIUQ?oc=5",
+   "date": "2026-11-23T17:33:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "35285b3279ba",
    "title": "President Keiko Fujimori: APEC is a great opportunity for Peru",
    "excerpt": "",
@@ -465,6 +498,17 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTZoaEdvSElUckwyd09VNE1jdHlVZkxvRnk1U3Q4QzNpSWtnMUN1cWFXVlhBTzFaOXZWdWZ6cTJyVXRlc19TVktVd193R1FjYUdLUWZvd0ZnM3R4WGhiZmVYMnJKTmFFZ2FpbW1qWkE1UXFSUzlxZHpvNVI3OEwxM010MjhJUkR0Ylh3eXNiaUplQlZfMXhjdWZvcXVMb1NqY2tpcktxWEF0bTlPN1JtdWU0T2hXaTd1eDFlYXotTTE?oc=5",
    "date": "2026-11-23T17:19:00+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0027d7b38694",
+   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante críticas",
+   "excerpt": "",
+   "source": "ATV.pe",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORjI4TVhvOGphTWFTWUdqNW80OU9SaWlnWDlZVzI1VzJXcXFFUlJSd0xSVDBaVGNydlh3djAwVEFyUmtxVXNUZEZFVmFkSFEtVnhWSGMwcWRnZ0hiQkZ2ZWVKNUk1Q0RHS1k2UXNoTmJRY3V3WVZpUER1TnRkVjNxcWxnUnFEMkNxR0E?oc=5",
+   "date": "2026-11-23T17:00:40+00:00",
+   "state": "triste",
    "place": null,
    "next": null
   },
@@ -1002,9 +1046,9 @@
    "id": "1bbff4b7fb5a",
    "title": "Presidenta Keiko Fujimori: APEC es una gran oportunidad para el Perú",
    "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN1J4aXVCRzNzd3o0bmNGWTF5b3dPNDZPM1BsMW5EQjljdWRmX0phTXpscVJSREJwZ2VOUmJhLXlnOGxBbjhrNzhjS3AyaE1wMW5WdVpHdzM3TnNSR1hka2JZZGZEcmhtV1FCN1UzSEFIdlA2ZnJEalV5REgyT1ZTS2FjbDhkSkkxS2hUUDNOdWljTFNKN1VSU2J6UExhaXhlS0hValdhWV9tbmRtM2VoZ2RqYzNna0FSVlE?oc=5",
-   "date": "2026-11-21T18:16:09+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcW40RTB2NlFoaFVMRVNNaXY5RTFUdUplZ3g1UVhjZkZCWGJqcTdwQ0ZYaHVNMmNoWDRPMW9lTEM2NVgyQlhveFBLWjZYTFFQcm1qZWpsU2NkS3EzU3hUSFVIVHJMdE1seTJKN0NOMnpKcFhBMG1VMzNnaGROTWxUaXFWZ185MmJEUkRzVmhRZmt0RXVqMWhMQVJCY3lyYkMtQV9KUWFmYnRWUVhrcHF1Xw?oc=5",
+   "date": "2026-11-21T18:14:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1089,54 +1133,6 @@
    "source": "Latina Noticias",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWhVbWc3eG9TaGt4N3RULUp3RlJTVDlwUG9ncXNELWZSZzI2bjJJNC1MVTlmVmJGZzN3LUVRdWJYVkU1VmVXa3JOTi1iYnF5SDdtV29STUl5Vmx6YW81MkJSdGlxUXdNZFFMaFpkb19pb3RzNFdpRHJGUld4UXBlNzdqSzc4NzJWYXd3V2FYb1Z3VXdiNXlnYWtMRllKVGVrWGprTkV0V2lvZi05WC1OQXVQb3hRSFVldUE?oc=5",
    "date": "2026-11-21T11:54:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "02ebacce77f0",
-   "title": "🤝 Keiko Fujimori se reúne con Sanae Takaichi en Japón ¿Qué busca Perú? #ADNRPP",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcU9ySmtoLVA3anExTkJTb01IOWlYLVQyTEc5cElualdJeS1yV3RRbDRLRjRqNEQ1RjU1TE4yT0ZoWmZNcnltYjktT1M0Q3hsU3NMYktkSTlpWTlBa3FSMV93akRWX3pfdzRSMUx6MjdJQVRQb2RpOEFlMDJOcUVqSlVlT0Zqc1E2Ri1CYmY2MVRHWkxUUmtUbV9VX2dRNUFNRC0wT0ZIOVptTjkyQ2dxTlZR?oc=5",
-   "date": "2026-11-21T11:02:38+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Japón",
-    "abroad": true,
-    "city": "Japón"
-   },
-   "next": null
-  },
-  {
-   "id": "ef9bf775baee",
-   "title": "Presidenta Fujimori sobre su participación en APEC 2026: “Ha sido una agenda muy fructífera”",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2JlcDVnU2YxaEJWQXRscExwbDFfTTY4aUstSWZFQVl3TGg5NWZrODJzeVdaYzB3bzBId2FSbU5ybmp3U0d4X0c2QXQtaTFUcXJ4bjZOMldIZTJGdkFHRnZtSl83X194TmJCcW5KNDc4WFQ4UHdsSlRkSTBOSURaT3hOald3Tk4zUlpYTDA4T1I4VkoxZG1wQ0NBc2VKYVk4cFZvOGpIczlhcmZqT011SEh6ZndDYmZ2anZpYVo4bVBjWVJiRDdJ?oc=5",
-   "date": "2026-11-21T10:52:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "34990c41d223",
-   "title": "Juan Velit: Presidenta Keiko Fujimori tuvo destacada performance en cumbre APEC",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblZ4cUo4X204ZkVDQ0w3UU5RNFhyZ3FkV0VMSkMzbW1KS1ZiaWtJbFBrZHhsYkM2b0xILWJ5SzdTVVN4ekFCZ0lDRGloSzJFTWsxWEhBSTdIdlNLcDZpODlWOHNvTmx2WW1MSndURnhYNVpjSnFMbl8zelVBSXZxNDZvLTZ3N3ByWVZkU1pncGEzeTdhUXYwTmZwY09JQlN6dV9HN3FZZ1YwcDhDcHZvRVNHazgtUG1mQnhieVJFVQ?oc=5",
-   "date": "2026-11-21T08:33:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4ae6abcefe16",
-   "title": "Presidenta Keiko Fujimori recibe autorización del Senado para viajar a China y Japón por reuniones del APEC",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNjBLOWVsVVhJallCZEc5ZjVCQmFtMlB5cjlNUEN5UzV2cUc2bi1zRE9lVk5nVXllTTJaN2IxMHBRVjlRNmFUUmlkVGhCRkU5Wm9FRGhYM1lyR0ZLSGdicTg4Y3dKQ0xuY1JqcS1pdHJwN3JhZi02bHNLTFB2UHJ2dXI2QWFRVzBYZmtnTkVpX1NzZEFSRXFGNGVfNWxRTHIwLW9ZdWlNbGNUMDZoUkRxa1ZrU2ttQUlaTkEtUi1WWGxRVzhEb0UzdlliN3BFMGZtV2JTY0twLW5XNFk?oc=5",
-   "date": "2026-11-21T08:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
