@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:23:38.522904+00:00",
+ "generated_at": "2026-11-24T18:45:30.561410+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,7 +105,16 @@
   "source": "La República",
   "date": "2026-11-24T15:14:21+00:00"
  },
- "next": null,
+ "next": {
+  "place": {
+   "name": "Colombia",
+   "abroad": true
+  },
+  "source": "Revista Caretas",
+  "date": "2026-11-24T17:50:38+00:00",
+  "title": "Keiko Fujimori alista un nuevo viaje a Colombia en medio de crisis por El Niño: planea reunirse con Abelardo de la Espriella",
+  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd3R6cllxM3kwZTZ0SlVvVGY3NzF1R0hDSlhjUWVYT2lzcjB6NEttNW9CRDFaZUJVTl9MeXJoVXVBa2VsTi1vcmViSkhUNE14NUROR1dmNmhTejJpWjZxNm05YXRBbW1yV0JjNlpSUjFFbFdTbXJtSWFQcjBqVmNMMi1zZGlsakhZTzV2cVhrQ3UwSlB2OC0tTWpnWEg2U0JjSUpLWjBCNEtmX3g4QUFncVoyM1lCU0V1OHV1ZGVlSWpGU094YlNxOWxHYlJHZ0h3Z2JDSVZHMmx3X1lZemJwME83T19Mcmc?oc=5"
+ },
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
@@ -406,12 +415,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6a55a1fd8724",
+   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia el 3 de diciembre",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-el-3-de-diciembre-ultimas-noticia/",
+   "date": "2026-11-24T18:38:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a86c5d2dd725",
    "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
-   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, el primer vicepresidente quedará a…",
+   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
-   "date": "2026-11-24T18:13:26+00:00",
+   "date": "2026-11-24T18:25:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "48949d858de8",
+   "title": "Presidenta Keiko Fujimori solicita autorización al Senado para salir del Perú el próximo 3 de diciembre a Colombia",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObHFvWkVjVW1mazg2YlhxcFFGX25lU2p0WnBLS085OWlsb0dhZmFOZEEtVFdnMUxwQXd6Q2lrZU5IZHREWEJWSWRlYUdqUnMxOGZhelNzOHJOQXFTNERvbDlhSTlVQnJleDFEbnBuWmlmMjFTVHhXcEJoRXRheUNYZ1M2U3hTSWVOMkc5eWktcm9BZE9fV3hkdGRuWjI?oc=5",
+   "date": "2026-11-24T18:13:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -437,6 +468,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "aa9b40a541d7",
+   "title": "Keiko Fujimori alista un nuevo viaje a Colombia en medio de crisis por El Niño: planea reunirse con Abelardo de la Espriella",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd3R6cllxM3kwZTZ0SlVvVGY3NzF1R0hDSlhjUWVYT2lzcjB6NEttNW9CRDFaZUJVTl9MeXJoVXVBa2VsTi1vcmViSkhUNE14NUROR1dmNmhTejJpWjZxNm05YXRBbW1yV0JjNlpSUjFFbFdTbXJtSWFQcjBqVmNMMi1zZGlsakhZTzV2cVhrQ3UwSlB2OC0tTWpnWEg2U0JjSUpLWjBCNEtmX3g4QUFncVoyM1lCU0V1OHV1ZGVlSWpGU094YlNxOWxHYlJHZ0h3Z2JDSVZHMmx3X1lZemJwME83T19Mcmc?oc=5",
+   "date": "2026-11-24T17:50:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
   },
   {
    "id": "64bd0ca03042",
@@ -1044,39 +1089,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-participa-en-entrega-de-14-maquinas-donadas-por-japon-para-reforzar-prevencion-frente-al-fenomeno-el-nino-apuesplan-ultimas-noticia/",
    "date": "2026-11-23T13:05:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b0ff9668dbb2",
-   "title": "Tras visita de Keiko Fujimori, Japón dona 14 máquinas pesadas para enfrentar El Niño",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFIWG1jcVB1TmVuaG1jNERCMnpoRHpzRDk5ZEhPZ001akNKQzZIUVFNbEE0OXAwNV8yckxvWVV0X3E3QnRPd3p4SUFDaTJxd0VZZ3UzX0xBRjVteXVHUkh0WVczekhXMHN0NTBWN09XSDExRVJ1NVJ3YUtPRmU1U2NmT3czRnpoSFdrMUFaT183SEhMS2R6VDA4amhPZWNZLUhTRnF1ZENyZGVMZTZkag?oc=5",
-   "date": "2026-11-23T12:24:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1fd122d687b7",
-   "title": "Keiko Fujimori pide disculpas por deficiencias en misa del papa León XIV en Las Palmas y respalda a canciller",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFIWG1jcVB1TmVuaG1jNERCMnpoRHpzRDk5ZEhPZ001akNKQzZIUVFNbEE0OXAwNV8yckxvWVV0X3E3QnRPd3p4SUFDaTJxd0VZZ3UzX0xBRjVteXVHUkh0WVczekhXMHN0NTBWN09XSDExRVJ1NVJ3YUtPRmU1U2NmT3czRnpoSFdrMUFaT183SEhMS2R6VDA4amhPZWNZLUhTRnF1ZENyZGVMZTZkag?oc=5",
-   "date": "2026-11-23T12:24:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "631c113b8a1b",
-   "title": "Keiko Fujimori retrocede en la reorganización del sistema penitenciario",
-   "excerpt": "",
-   "source": "DIARIO VIRAL",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcW1TNVRrZ1A1dmxzdHVHR0REY2ZDemlyR0dPLWlmVVQ5dFl5Mk1HUHh6dFhieURyQnBSSzR6RHpfeVp3RGt6STJDdHNWUzZ6NDNGSEk0YndUM2JuV2hiYnhZd013Wm95WkhvbzZVREQ4RkdzSGM4clI1ZElLUEY0SU9sd1d4WVhYbUpYUjEtbGVSYXRwLWtDNmM5TEd5N0o1UkdQcjdjTEJFUFVz?oc=5",
-   "date": "2026-11-23T01:59:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
