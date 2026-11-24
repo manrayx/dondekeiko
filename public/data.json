@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:40:08.470288+00:00",
+ "generated_at": "2026-11-24T23:01:16.682357+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,6 +432,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d5420135f3b1",
+   "title": "Keiko Fujimori alista nuevo viaje: Colombia como destino",
+   "excerpt": "La presidenta Keiko Fujimori, solicitó al Senado un permiso para viajar a Colombia el próximo 3 de diciembre.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-alista-nuevo-viaje-colombia-como-destino-noticia/",
+   "date": "2026-11-24T23:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e82b63bd6f0b",
    "title": "Keiko Fujimori solicita autorización del Congreso para viajar a Colombia",
    "excerpt": "",
@@ -545,7 +556,7 @@
    "id": "c202d4154021",
    "title": "Keiko Fujimori pide permiso al Senado para viajar a Colombia el 3 de diciembre",
    "excerpt": "",
-   "source": "RPP",
+   "source": "RPP Noticias",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUV6bmx2N1V4M2FGTGlRMTJHekk3WHl2c2ZSaDNybF9DVzJWblZvUkt6NDFmVmNTdXFxdFMtYzVpUGs2R2dOZmFPWE9ldTNRWEI3bF8wOElwdlh0WmhvQThDeFJ3dXc5ek1TNTBjS1BfaE40SHgzS2FuS3d1UHZxSGNLM1pGOHA2VTJNeWdQWVlvQmhTZXZybE5sY2hpbERya3RPODdvYWVXZ2J2UDJiWWpYbkdjdjZYNzRhdUZDWjFDdWQwMmc?oc=5",
    "date": "2026-11-24T19:58:09+00:00",
    "state": "posando",
@@ -570,17 +581,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-asistio-a-homenaje-postumo-a-su-madre-susana-higuchi-en-la-facultad-de-ingenieria-civil-de-la-uni-ultimas-noticia/",
    "date": "2026-11-24T19:32:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d5420135f3b1",
-   "title": "Keiko Fujimori alista nuevo viaje: Colombia como destino",
-   "excerpt": "La presidenta Keiko Fujimori, solicitó al Senado un permiso para viajar a Colombia el próximo 3 de diciembre.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-alista-nuevo-viaje-colombia-como-destino-noticia/",
-   "date": "2026-11-24T19:29:39+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -777,6 +777,17 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWZoX3EyZHRCU0MxSEtxZ0dVbXhYancwWExRNUdMTVlSTlRXZUVlMHZFN2pTem5jckpLNUtha0VoSUlGZGwtQTZabDFWX0IyeTRfcklIbklSTE8tdFRFU29GME5ibkFEbUJPdWhUcGpMeTBZeFlRZEtzSXpyMXlvM0xtN0ZCUkVuLWZTM2xZR2ctekV1Tzl1VjVsMnBYU2h0U2Q40gGoAUFVX3lxTFBaUTdYYUJreC1oQ0RUelo4V2JpSFQzcHE0b3UzLThzQTZLeTRjdjFjVWN1a2hocWpFS2g4SFJXS2FHV1VRQ3NabDRrVk1XN1VFTmVnUVJNN3NidXNLdkxTOFphWEtoOEowRklMRVJld0szVTZ5djEwLWJLNDBmZUNFSjlQOVNpWlNHLUd0dE9HYXpBVHlzUkZNRlBsbzVzRnZvUmx2eFVGeg?oc=5",
    "date": "2026-11-24T09:45:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "39c9b79c97b0",
+   "title": "Presidenta Fujimori destaca captura de “Jolín”: “Así como él caerán los otros criminales”",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3ZfdUlLZGg4Z294d09mRGJNTS1ta0J6TzA2d1NoczhwTEVlNkJySGZadWZWMWVCS0RCbHlKNV9Sd2xfWTBOeVQ0Mm84NHJnaU9KSEhuS2NXYlVXQmtkbHI4cnJNRlplSGVEa2tFTDdKZ2dFLW5CTjBSVW5zdzg1anlCLVJUSW5qRGJISnUtVm9UV3JSQkRWWDJzMnhrTGFQbE5oY0RRekFjZnFXQ1Naa21ISmZrZXdVSnRRdHFPT1ktUEk?oc=5",
+   "date": "2026-11-24T06:47:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1089,17 +1100,6 @@
    "source": "Revista Caretas",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmh0NjMwTktwYnR2UjRjd3B3dFFnX19iYUE4X0Rsalc0a1ZSb0xUS1BabS1Na19aY2EteE9lNHItLTRHbDBjUHBhM0YzZEtsSEtleEtxZm5rSmVHQTRzRlNWNzdJTElZcEdqamdKZWl1ZWI1eFZuSW1WdUQwa19Bc0NvcGI3RWtLSzRKOTd4Zl9jNWpmR1pXeENMRVl2ZFRsb21LZ2p5ZjA1eVNxM3Q1aWp2TVdPVXN2YnFXZkJQeEoyRWVsZGxHS0hPRVdWSmxGd0tWN00wM0g?oc=5",
    "date": "2026-11-23T15:33:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1877307ed98a",
-   "title": "La aprobación de Keiko Fujimori cayó de 60% a 38% desde agosto",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGJadWE4b3o3UnVWajNzdXpwSkdwQm9fQjBsQ0o1SWV3RlpUSDNqWllnTmxTMURaaEZzQkF3S2tFWUlSX0FTcVBBaWNVUzFVOWlKQ3Q4blpUelQxWHd1UXpLanBYUExtQ2UwLWJOZ1d3RmVfT0pTeHlNZW5CX1JJUk5nZnhGajluOFBVWnN6MldfazBtYWpYMGdR?oc=5",
-   "date": "2026-11-23T15:32:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
