@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T12:38:28.242223+00:00",
+ "generated_at": "2026-11-24T13:00:13.591542+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -404,6 +404,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "64bd0ca03042",
+   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
+   "excerpt": "",
+   "source": "perucheck",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOelk2U29lNGRjdnFlMXZMdlI2S2lXNWYxQk5XN0dYZUs5RTVNSG81MVdDajFnZmh2b2FVTks2VXRSY2c0SUt6bU0yZmZVejRxVFdHRmpwN1ZTUmMyZ1M5cE9Lck0zbF95R1BmMS0tY25LRXViVmloc1RPT1lKUGpIVV9SbDhidVY4OWUwXzRYQkxZWFhSQko3X2p1TnVyT1NZMmU2Z2R6aFVvazBXRU1MX0tRTTFjZ3RyWTBsMmNhTDVwOGZlWEIzVGU3alRadm9KZUpYb1FCMElKdjlEdUlCM3czZEhwUlVTQkp4N0tDYnJ4b1RrSXJnYjZWMnFqcFk?oc=5",
+   "date": "2026-11-24T12:53:59+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "84bcf5d8afa5",
+   "title": "La economía peruana crece 3,1% en el tercer trimestre, impulsada por la inversión privada y respaldo a Keiko Fujimori",
+   "excerpt": "El PBI nacional aceleró su crecimiento frente al segundo trimestre, impulsado por el dinamismo de la inversión privada y la demanda interna. Sin embargo, la caída de la producción minera,…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/24/la-economia-peruana-crece-31-en-el-tercer-trimestre-impulsada-por-la-inversion-privada-y-respaldo-a-keiko-fujimori/",
+   "date": "2026-11-24T12:48:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b2f2e792fc5a",
    "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
    "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
@@ -609,7 +631,7 @@
    "id": "8f9fa616ea97",
    "title": "“Así como ‘Jolín’, caerán otros criminales”, advierte Keiko Fujimori",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1JlX0wzcW9NTHZRdUl2eml3a2tHX3JlaDJOUFd1RFl6b1RwQXR2Q0FROWFDdTYtU0tFN1hJbWNweUVsc1NMSC1Sb3RnOFdVUXpsME8xSUlrT0hKSVRBTVMyRnEybVdFbjdTVl93emZUd0xHMVFJZlN1NVh2S0o1Zi1WMXo2Uk81bklvWDJNNzRfWEcz?oc=5",
    "date": "2026-11-23T18:08:30+00:00",
    "state": "posando",
@@ -843,6 +865,17 @@
    "next": null
   },
   {
+   "id": "e9a63ea8d61c",
+   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante críticas por deficiencias en misa del papa León XIV en Las Palmas",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRTd2cjhTbTJpNFQxeGxMX05DY2Q0aGdnSnJKQW8zSms1a0c3SWJIcFBJektrd3VncGo0Z282Z2swbV8tTzU0djZVbzdnbnR5OHVaczBUYmgzRFBfX0p2THpMOXNEakZPUGxoQzdub01kS09mdklIb0t2dl9qS3ZZc0d6TXg4aXkyVy1fQm56SVMyTWJIT3hXMF9nMHFmcUxFZzdQZ25BSWZWdWJtS1h2UExzTWR3SUlYc0lPN05FOTBuekw3VTRJS2lOVnZzc25hSVREOE5qb0YtbENhTHFPcG9Jd0JiQnoxVlhSOFVNb3E?oc=5",
+   "date": "2026-11-23T15:02:24+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a7685c579a5c",
    "title": "Keiko Fujimori expresa su respaldo al canciller Carlos Espá ante moción de interpelación",
    "excerpt": "La presidenta Keiko Fujimori expresó su respaldo al canciller Carlos Espá y a todo su Gabinete Ministerial, ante la posibilidad de que el titular de Torre Tagle sea interpelado en…",
@@ -883,17 +916,6 @@
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWVaaTRxaWpIY1pjMjZjZlk0UDhtZGtFYWZFZWVjbnl1VHVYcXZYVXRSblN6SkZobGNRMUcxeXpUNDZvdEtCWU8yMm5wSWYyZFBGbzNxWjVXT3I0YldHUTYyTkc5TV96dzkyTjZ2djFIekE0cE9FbU1fZW1uaDVWTE5QRmUwdU12aDFjMGlMXzFvcS1aQ2NzUTVCdll0UW56SC1CaU9CYXE2N1dfMmNRcjZxRVlmNHhYUTAzMFBFYWx6XzExNnljX1ZaWEZrVllTQXl3eVJiQQ?oc=5",
    "date": "2026-11-23T14:47:33+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e9a63ea8d61c",
-   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante críticas por deficiencias en misa del papa León XIV en Las Palmas",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY0RNVUZrTzMtdFpNdlBubUNzS1p4X0lXajcxQ3p5bHNLUVZweU43RmRNWG5iUlJYQ01SZGpqRFAwNUF3LXBZVFNBRW55T3pacFhXVTdZLU5tdGZpSEZCanZxeWdwOFlFY01ZbG55R2duczBGa0NqeDU0OXhXX3dNUVhfN0Jmc0V1QzVvRnM1MU1oWlgwNWhWMTZsRXhMbk5tb3JXNm1wcWloZTRWM2o5bWRIWkQ3QmFjQ3I4SjI5aWNjdHRXMHZoRjdManJVbmowa0ZDTkZaNEdEX2JfQnRWYUM4RDh6SlBuYVlYSGhzQ2M4czdleGJwZ3dXYXc?oc=5",
-   "date": "2026-11-23T14:44:55+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   },
@@ -978,7 +1000,7 @@
    "id": "1fd122d687b7",
    "title": "Keiko Fujimori pide disculpas por deficiencias en misa del papa León XIV en Las Palmas y respalda a canciller",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFIWG1jcVB1TmVuaG1jNERCMnpoRHpzRDk5ZEhPZ001akNKQzZIUVFNbEE0OXAwNV8yckxvWVV0X3E3QnRPd3p4SUFDaTJxd0VZZ3UzX0xBRjVteXVHUkh0WVczekhXMHN0NTBWN09XSDExRVJ1NVJ3YUtPRmU1U2NmT3czRnpoSFdrMUFaT183SEhMS2R6VDA4amhPZWNZLUhTRnF1ZENyZGVMZTZkag?oc=5",
    "date": "2026-11-23T12:24:57+00:00",
    "state": "posando",
@@ -1059,32 +1081,6 @@
    "date": "2026-11-22T14:51:54+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "8cd086f3c384",
-   "title": "La presidenta peruana, Keiko Fujimori, habla sobre las relaciones con Estados Unidos y China.",
-   "excerpt": "",
-   "source": "Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1hPUEsyQkhkUkhrQ0FXRDR0WjZFY1l5RklBMUZqMS1rclgtZFVCeXpGNDI2RmxNR2NCX0ZDRzBzVTM2dHFzLWd6ZDVodWFHYm5uanhrd0RYTWpxTDU4czBXZ2R4ZGFXc0VET21ITzNmNjhGM3lTam5QZmRWYUlncV8tMDNZU2NpVjB1ek5waTZrazFkQzBB?oc=5",
-   "date": "2026-11-22T14:44:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "75f3d7b454f2",
-   "title": "Keiko Fujimori en China, por Óscar Vidarte Arévalo",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY01iREhITWNsZE5wWjR3OFZVYVRMNEpCVkxvTEtHS1dyQ3ZZa014S3lkdWtvTUIyRDhNcVNpMnpYLURaQjY4V0lrQnRmNF9RbzhyeDlFY2RjU1JYNnpSem90a3E0enhZbnBnSFdDTTBXNTRQZFgtdTZQMEd4S3NmNVFfcENrWjVHWmpLMHYyR21jWlJLeDF5RVpTN2pNNGlF0gGmAUFVX3lxTE5HVkZubF8yV0NURTgxakEyXzJhYlpqRk4xZHM0S29nampLMXRJSXZVZXJOYm1mYlZfWDJyWUV6d0p0enFhX1JyN2dxUEVaOC1OdVYtakN1azYxMzk4OUlDejdkQnY4NDYteklwUThoVFFLM082b0lfSFRtOU9OWHBvemczYnJZQmVEZG5ObkZkTTZhUFNHaWxrV3E1dkI1TWV3akZXNXc?oc=5",
-   "date": "2026-11-22T13:53:38+00:00",
-   "state": "posando",
-   "place": {
-    "name": "China",
-    "abroad": true,
-    "city": "China"
-   },
    "next": null
   }
  ],
