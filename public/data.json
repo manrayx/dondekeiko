@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:36:20.853715+00:00",
+ "generated_at": "2026-11-24T22:19:06.660338+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -431,6 +431,17 @@
  "agenda_minutes_7d": 822,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "e82b63bd6f0b",
+   "title": "Keiko Fujimori solicita autorización del Congreso para viajar a Colombia",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHN6ZVhUWXBDejZ3LWNLUTdYamxuamhsMmQxelZ0YWI4MFc0SllVSFpNbW96UDdxMDFqWVlMZUtPdGR5SWlHM0JXZlNpQ2lra3JobzZ5ZjJWUFFFVzA0OW01XzBTZ0xVOWtGRGpCMGRMWXVHdXhtbUZrU09sVWQ0eHcwWlBubUNfRGE3SGY0Q3pZclR6OGlUWHhlRnVXMUE?oc=5",
+   "date": "2026-11-24T21:40:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a86c5d2dd725",
    "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
@@ -1089,17 +1100,6 @@
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGJadWE4b3o3UnVWajNzdXpwSkdwQm9fQjBsQ0o1SWV3RlpUSDNqWllnTmxTMURaaEZzQkF3S2tFWUlSX0FTcVBBaWNVUzFVOWlKQ3Q4blpUelQxWHd1UXpLanBYUExtQ2UwLWJOZ1d3RmVfT0pTeHlNZW5CX1JJUk5nZnhGajluOFBVWnN6MldfazBtYWpYMGdR?oc=5",
    "date": "2026-11-23T15:32:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "607317d58495",
-   "title": "Keiko Fujimori pide disculpas por fallas en la misa del papa León XIV y respalda al ministro Carlos Espá",
-   "excerpt": "Desde el congreso, integrantes de cuatro bancadas presentaron una moción de interpelación contra el canciller, que otorgó un contrato por S/ 11 millones a las empresas involucradas con la producción…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN05ZV2k2Z0JyUk5xcDA5U3hwMEZLUmxLZUpjUjFsRDJNNkpEbXYtU1o2alNNV2FiYUREQk03RWx4SG10SzRaY3VTWVZZdWJzWjJXZmZMWEVGMUNRYXZHNHozWHVqM2R5ZXg2YXFqUGt3cTkydm45RWQ0SE5iRTFyM0FYbktIWkpmMmtvR3FEUDl6Q1pMamVLYjRWR1o2OGdXV0lpTEkwVEpjZGh4cGFNQnA1MlczeGRsdUltb2JLazJzZ0o1SDhFa0E1S2RUUWFEV3JjX0NLS1RmdEZBTHc?oc=5",
-   "date": "2026-11-23T15:30:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
