@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T00:24:57.900882+00:00",
+ "generated_at": "2026-11-24T00:46:59.521177+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -106,11 +106,11 @@
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
-  "entrevista": 3,
+  "entrevista": 1,
   "celebrando": 0,
   "molesta": 0,
   "triste": 3,
-  "posando": 54
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -436,6 +436,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b2226da9c081",
+   "title": "Keiko Fujimori destaca que tecnología del FBI fue clave para ubicar a 'Jolín', líder de la organización criminal La Jauría",
+   "excerpt": "La mandataria adelantó que continuarán las acciones contra otros integrantes de organizaciones criminales que operan en el país",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/24/keiko-fujimori-destaca-que-tecnologia-del-fbi-fue-clave-para-ubicar-a-jolin-lider-de-la-organizacion-criminal-la-jauria/",
+   "date": "2026-11-24T00:32:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1cd028a92a6e",
    "title": "La economía de Perú crece un 3,1% en el tercer trimestre y da un impulso al Gobierno de Keiko Fujimori",
    "excerpt": "",
@@ -563,6 +574,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2dBUWpiSFhEZzBpb2ptbkFSa2o0NHlmNVNNWGhIRVRGVnJ0eXNZMXdnNEJINWtmRUdpTzVaTXBxaUUyUWI3eEY1TTNQdWFHV2wxTzY3VVplQ0VQYWIyZy1XRmk2TC0tWEQwbDJxMkdZdTlrOG5MZWtTSDVjbW5xQ2hHX2dOZ1dTMERTSHpLc05kY1JrQ0lhYXNCQ3JIUElIcE01YXhkMk5hXzFn0gHAAUFVX3lxTE1FaVZZT2N4cjV0V2xxZ1RZUWVQVDllUEZ6MkdqeU45c2dOSmtSTTZIV2IxNGR5MkE1bTJra1oxdFM2aEdSVElDNXZMNFVJRnJpREgwT0cxWTIyNkhwMUlZRjJkLVJ5Q1hKLW5kSzdlZGU1OTBQUm1jQlZUUWE5TkpmSlJtR0FKWGdDYk5zemNRNWlESXRkTHJ2ZHZ2dmRWQkgzcmUzSXJjOTFLck1zTDFUc0xERFRmdUpXMHlnWnNRZw?oc=5",
    "date": "2026-11-23T18:49:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "50d32cdfeb25",
+   "title": "Presidenta Keiko Fujimori destaca captura de “Jolín”: “Como él caerán los otros criminales”",
+   "excerpt": "",
+   "source": "Chimbote en Línea",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbFBMTEh2UmFYRmZDM3R4RVpxN1J1VHkxc3VSRDR2UmhSUFIwRlVBU2xDUDM2ZnExWU1xOWthWkIxTko3NjU1Z0xGWkdXVGQ1VU9takR6aEsxT3lWaEs1NHpfbVA4MWVSWGM0Um1ZdGlqd21KMllXeDZldGFTZTljeS1ScTZ3V3VoTzg3cTd6VlJxNmJINnRvRHM0MGZkei16ajMzWGxqbkVXYWwzSEpTVXdVbm84dHRydHNZN3c3ZXVMZlBxQTFiZEFkTkZQd3NIVUlaYmlYaFhXM3pQVFhRN3FKZXVldmc?oc=5",
+   "date": "2026-11-23T18:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1015,7 +1037,7 @@
    "title": "Hayley Williams, vocalista de Paramore, lanza contundente mensaje a la presidenta Keiko Fujimori durante su concierto en Lima",
    "excerpt": "",
    "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQaDJkS0RlSjJiNW9xdllPSkRNUzhRX1NZMFZOb0FwdzktT2Z6bVVycGVMbUdEbWlHVE9zU3VPQ2VRN2RocVkzc3Zsa2lUcXNEREdzSlRvNGRsNUhVRzlIQi1ueXZrNjNRUExFQVc4c0NBWG5La3VDNUl6a253YThMS09EcktOZHVZa0ZubGEwWmZ6V1hreGt0NEREekIxaFdEWnI2OS1SanhTTXhHamVLRk9MQ2JiUS04NGxrYXlkbmtQVmtUQ3pmRER3eEI2M2Q1V3VPZmlpX2VuT3BSS3UxUHZQaTJLcWJHVk9TcjZiLWtibjBhM2lnd0F5VmoxZTNrc2daNk9ZdFhBNlRRZGNxNWNub9IBkwJBVV95cUxQaDJkS0RlSjJiNW9xdllPSkRNUzhRX1NZMFZOb0FwdzktT2Z6bVVycGVMbUdEbWlHVE9zU3VPQ2VRN2RocVkzc3Zsa2lUcXNEREdzSlRvNGRsNUhVRzlIQi1ueXZrNjNRUExFQVc4c0NBWG5La3VDNUl6a253YThMS09EcktOZHVZa0ZubGEwWmZ6V1hreGt0NEREekIxaFdEWnI2OS1SanhTTXhHamVLRk9MQ2JiUS04NGxrYXlkbmtQVmtUQ3pmRER3eEI2M2Q1V3VPZmlpX2VuT3BSS3UxUHZQaTJLcWJHVk9TcjZiLWtibjBhM2lnd0F5VmoxZTNrc2daNk9ZdFhBNlRRZGNxNWNubw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWEg1WXlxa0lwZFR4Tmg3Um02UkgxVXBsTlR6dWJYMmo1THR2SERaLWJRLVJlelFPbFJoLV9SZ01RWTQ1T2lDXzhoWnB2cjFzaXVxSlhLbllZaVZqQ1RUV01NWUp3R1JZOXVsOGFod2EtZHRaaGhLc2FaRXRlVGp2LU4zM3hPNlpuMUZEdlQ5akpvUnh2ajVoSGVnVVM0SUFLSmppLXhSQ3JhT2VMeV9uTE4tNHFrc09Gem5feHdMRzFYajFKM081dl92dUNwOXBuQ25OSWZFZnYwQmVBQlFNSGxjUS1sQU9pMGJFSFI3ZFl0bEJqQVlzS2ltMjFTdUJFWEJqOTBzcExtVFVoQXfSAZMCQVVfeXFMUGgyZEtEZUoyYjVvcXZZT0pETVM4UV9TWTBWTm9BcHc5LU9mem1VcnBlTG1HRG1pR1RPc1N1T0NlUTdkaHFZM3N2bGtpVHFzRERHc0pUbzRkbDVIVUc5SEItbnl2azYzUVBMRUFXOHNDQVhuS2t1QzVJemtud2E4TEtPRHJLTmR1WWtGbmxhMFpmeldYa3hrdDRERHpCMWhXRFpyNjktUmp4U014R2plS0ZPTENiYlEtODRsa2F5ZG5rUFZrVEN6ZkREd3hCNjNkNVd1T2ZpaV9lbk9wUkt1MVB2UGkyS3FiR1ZPU3I2Yi1rYm4wYTNpZ3dBeVZqMWUza3NnWjZPWXRYQTZUUWRjcTVjbm8?oc=5",
    "date": "2026-11-22T17:24:40+00:00",
    "state": "posando",
    "place": {
@@ -1094,28 +1116,6 @@
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEdCVHVTeVlodzdSd0ZDbGhibWhzS2U2bjM2N2IwRWxZaC1iYUtya29ROWg5eDBYbWFSODY5aEluQmFEd2pCYm1nSGFWUk1Eb0NmYklJcWJBRUszWHlYXzVNQndhWEVGdWdCTGQtR0xBdUhMMl83cmJGbHZpcEU1bDVsTkM1cGNFRmdmUTdKVThSSllUZ1RpRDJySFlETnVQc0k0NjJQSzhVenN2am1HZ09lQkdSWTVORmhOLWloSlpyS09Kb0J3eHEzeU1sVS01WGFSNVVhMjZqbmlZWlhEQ3VCSTYyVXFhRjhKRkpn0gGIAkFVX3lxTE5oeURza3R1MXlDTTRMeVQzYTRRc0FPWDgxWUNPNXBpM1JjYm1WcW9Eck1PRjVjTnl0WVFlM2JMdnlUWm1fQ0s3NnFocmEtX1F0OEVvYlY0V3BjbmxLc2JReUhqQnRUc1FEVzR2OFpSQmVBcXI4bEZONHlGcDdyNlA4c3NPc3BSS0hlYlJGaW0tM2ZYZjZGVHdJbmU3M3k0Mlp5Nlp1MWEzcHo0NEQ0N1FIUU13WVI3Z2l0LTNhX0NTeDBfNlZBaW41OHFnanhXcnNUTGNkZk1qczJ1Nk9zNWtNQ3hBcHB6c3BOOFRGdUN0RHpTVVZ1cFIxdS1kTFVhVFVTUVM3ZzRORA?oc=5",
    "date": "2026-11-22T02:17:00+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0192f1ec82b6",
-   "title": "Entrevista a Keiko Fujimori sobre tecnología e inteligencia artificial en la gestión pública",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTllWX29vcnZDelE5VDZhMVB6S01KeGh6bFpwTnMxV1g2cXRuZlA4MTRyU0tiTVo2S01hd182X1o5M0d5Yll3emVTUDF4cHR0WnZVLWU5aC1VTjJWdWFUVjlxSFItYWFmZHdjN2xfbTFudEZ5MzFZNmhmWTNWVTNfZXVkdmFqeTNDQVZ6cTlGQ3AyS05VVkpHaU9wTjdoVi0wS1hLUm5sUzRvNndjbEE3VkdVbEF5SFd0VGo0alBpNDRId3ZZRFZTLURvYWNPTWpXR0FGcEFPYkd3dzg?oc=5",
-   "date": "2026-11-22T02:12:01+00:00",
-   "state": "entrevista",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "550e938a83fd",
-   "title": "Keiko Fujimori brinda entrevista exclusiva a la televisión china CCTV tras participar en APEC 2026",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRk1VZTdBRUVkY0Z0aUxTejRpeVJjSUFZYjBIYVJQZjFPQmNsQloyMFp2RktKYkhLbmdNdkQ1d2NoQ09vWmNrdlZDbmpHR19XUEdCaTNra1VmYVFQbVlGaGJGa3RoUTZKdTZLaDZ4MXFNOFVwUk1fYk9JOFQ4UHpydkxWZnl5dS1aWFEwVHJtZ01WUEhnRG85NEQ0d0k4SXdSdERCX2lleXJIUDlFWTFkQ1YwN1Npd01uMzdHcy1zNWFaWWhDR2M4bXF4enZTRFNnRDY4?oc=5",
-   "date": "2026-11-22T02:10:13+00:00",
-   "state": "entrevista",
    "place": null,
    "next": null
   }
