@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:37:05.590967+00:00",
+ "generated_at": "2026-11-24T09:24:26.656467+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -106,11 +106,11 @@
  "next": null,
  "counts_7d": {
   "transmitiendo": 0,
-  "entrevista": 1,
+  "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 3,
-  "posando": 56
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -448,6 +448,17 @@
    "next": null
   },
   {
+   "id": "2dacc5c04b5c",
+   "title": "Presidenta Fujimori sostuvo reunión bilateral con su homólogo de Filipinas en el marco de APEC",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdy1uTHd5bVlGbHpGV3YtXy1BbEdZT0RPbFphUlpIM3IzTkxqeVVfWnliQUFtanZDNTE1WVNPeUxPekhLeTc0aGt1WUxlcUI0RzNRN29SSjJJX0R0eHN2Slg2bXA3eDBxUjAwT1d1REFxSW9KV0xzOURTOUZtb2lMcVUzbkFBM1ZTX3NLLXJfcGhHOGlISWhhd3NsZ1I3Q2k1NjB0Tl9CaWc2S2FWZGMxSmVMWHZPLUcwOGlNREtRbTN0Zw?oc=5",
+   "date": "2026-11-24T02:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b2226da9c081",
    "title": "Keiko Fujimori destaca que tecnología del FBI fue clave para ubicar a 'Jolín', líder de la organización criminal La Jauría",
    "excerpt": "La mandataria adelantó que continuarán las acciones contra otros integrantes de organizaciones criminales que operan en el país",
@@ -542,6 +553,17 @@
    "source": "La Razón",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakp4VTVLUkkwa0dWSllHbXotUnRmMk1XaVVZckVpQ3JjYzF5bEZwRHZOOFo1dXlYdGx2MXVPUFY5dWJCZVNLenpCTWd3d3ZoNEROanRLZk93QkJvQS01Wm8zMXdOWEY3TnA0d2pFSHB6eWUwTDZfWmdtaGRIbUhGb00tblI1Wmw1ZWFaOFZ4TGRqdnc1b0d0QlB6RzFka0h3V0ZBSW1PTUZDMUtfOENSTFJkMDdiZw?oc=5",
    "date": "2026-11-23T19:00:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dccc564fec03",
+   "title": "Keiko Fujimori: “Aspiramos a que el Perú se convierta en un hub logístico de Sudamérica. No solamente para China, sino para toda Asia”",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOel9DaUdYdXhxZVU3Rm9ibmRULVJ3Ti1iUVFPWmZ1cUtSOHhSUXNPbFNYRENZNHJjMGlrTkcxREh2UmFlbUNjUXA2UjNYRmxCODNDc09rYmJ2a19Pc1Vwdi00U1VtZERrZXRpUklfX1ZRUS1pbkxJUVdFUzZhQkg3TjhXS29kOGxqTVlVa0JUaC1fSURFbjRtREZOUWZMZWJTVHFwV1VTU0tUbWFNS1V4cktfbjQwcEMtbmV6R2k3aXlYeUJXRjBna2VlenpBRDFCOG4wUjVyU3RBYm5Jbl8xdUJBbFNnRjI0UDR0NkFQdmw0OThJME4weGhGU0lCRTY4eHU0OdIBmAJBVV95cUxPMDJ4TVZoRF8zd0xBd01GVzdHREgxczFTRjdwSDc4cDdQLUoxOWhTU0xUeTQwYUJZbXZCd2c1YWs0WC16U3hSbk4xcHU5cEZ1VVBDZE5TbThIdzQ4WmdzaUlKYWV5NUZBa2M0cE1YV0Voa1E1dDlsOXlZRHFELUM4VkhVeC00UlVNZlUwZUg3c0ZiSDNVTFB0YXZsTFV2WUVuTVpFd3FXbnNCOVFWSVFlMFprNWkwVEJ5dHRuLWhtd1Y2elV6cmY3Zzc5Zy01NURwLWtmX0xwWTQxM2VKellKWXR5XzhDWmtSNVpNWXU2Ym4wLVFYbXhEV0dVR1hvYm5OVUNwTzQwNFVQTG9POFpkUjN1SFpBa0FP?oc=5",
+   "date": "2026-11-23T18:50:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1063,28 +1085,6 @@
     "abroad": true,
     "city": "China"
    },
-   "next": null
-  },
-  {
-   "id": "abe36f199e5b",
-   "title": "Economista Manuel Romero Caro en entrevista con Expreso: “Keiko Fujimori se ha tirado al piso ante China”",
-   "excerpt": "",
-   "source": "Diario Expreso",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYlBwSGpyN2t6SUZSRm9ROUVSQmg2U2g2bFhmWEtieWNoS01vd0FPU2FoMzRvaHVObEVQYWxMZDFma00xazNnVU5tc3RDeUladGFfS1dpVE9aWTY4N1FoTUQ3OVhoVmJpSmhqdklfbzRPUFBCR3lOcjE1MVg0UW9FajMtWnRod3V3TmN0eFpLazdPT1Z6dW5TYUZOOW5TWlFpb1MzdzhNLW9VZFh6ZFFBT0lmNGtTamgwQTVNSHlUWV9yV3E3V3BqVnphNHhlZV9zWkJmVEZidzA5d3Y3YlBfQWo5bHgtbVg3ckI3RjYyaDVudk1FbC1OSXJR?oc=5",
-   "date": "2026-11-22T10:54:46+00:00",
-   "state": "entrevista",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4ab9a3105fb4",
-   "title": "Keiko Fujimori busca convertir al Perú en un centro logístico para conectar Sudamérica con Asia",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmpVdDFoSUVkcEt6bWMwUWprSEotX2xhMFEyQjZ2TGlYVExKdlY5V3JQZXZBZ2ktcTFGZjNFMUtrYzBLVXdHWlloZEJ6WkdfRnVmWDhqakVmY1d3dC1jWms2Q2ZscHVza1d0dFFwNGIyZFlzTWh5dklZLUZ5YlRqdmZ3RHZIbjJrTUt3REZQVTVBSzdSX2tYVWZWb0QwWUY5dXN3aE8tbWpoUXBrbDRoekNTUVQtWmU2UEZSTm1GMkRTaWYyVHRITEFGU0FWaVnSAeMBQVVfeXFMTThfTkc5NUZxR0E5Q0VsTTJkUXpMWGM5WFN5ZS16c1hwWTJVbUtsa0xCVHQ1aDlzZ0hhU0FWdnRDSmZEeHdwY19qTFNyQmdjMHJtVkt5d0pOdVNOVXpLaWhPcUxObnpaa1JmWFVBRmdDWnlGd3RhWTducW9tdkthbUN1YWMyNGZaSGFnQzdXV2xzRnJTNUIyakR1eHZha25lRlJWa3BuOGZSSkVfV2tZcDU3Z3ljOW52WGFxc3BEM2l5Szh2ZV9WRzE0OHNZSVNUV3pRZXROeUtrdmxCUjFid18yY00?oc=5",
-   "date": "2026-11-22T03:06:15+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
