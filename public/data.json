@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:10:46.347867+00:00",
+ "generated_at": "2026-11-24T20:32:37.765897+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,6 +432,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b58842264b23",
+   "title": "Keiko Fujimori alista nueva salida del país: presidenta solicita permiso al Senado para viajar a Colombia este 3 de diciembre",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0hzTjBqTHBlQVpzNHRrZVlfWk9DYm1PbXpXTDlydEJPcE95ZWxwS2kxbjlOWU8wNVhfMi1YQVJVYkdrUklISEp5eWF6YktKSXRHUWNVWUtpbnJPeFo4eV9XU2xjZ0ZmU01MbTRFQ2QxOG9iUzM1OFRxblJTOXhidUpMX28wYmFa?oc=5",
+   "date": "2026-11-24T20:30:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f61dbca92b0a",
+   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
+   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
+   "date": "2026-11-24T20:23:12+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ab49a4127238",
    "title": "Hildebrandt sobre Carlos Espá: \"Es un fantoche, es la sombra de su juventud. Me da pena\"",
    "excerpt": "El periodista contó que a Espá lo recomendó Álvaro Vargas Llosa. Afirma que la presidenta Keiko Fujimori, \"la señora que no entiende nada\", lo aceptó.",
@@ -689,17 +711,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcTFkRmYzYjlhRXRaN21SR3hQUGhrTnJVWGd1V205SmZTbjZZaEUwaXMxT1JNRWRubENXeUs1MGpUd2tsWlprMUNJUXVNZDdRbDZTZDBXdGRjWEpadmhXakRGLUtMWXZsTVM5c2ZDTkpqSFZOYTVoLXNlNUoxQmxOU1luV2xRN2pfQlhJWmdEWU9EQmZ1c2F5eEZXYVNHVEN3U0hHMzdZbG9wa2hBTks0Y0k5MFBhX1pLZFRncEd3aEtaNTkxeWxDSHZ0dFFFZXRNaGIyMmpQSC1fQ3lrMk1adldwd3pVaUZucGJN0gGGAkFVX3lxTE9FV3phR1JhWVVaV08zQ2R4TDFyanFxdzFKSVhvY1E5NF8wTjV2S1dCSWdaNzVtUEhaakNrSDNLcWc3UVVRb3RfQ3duT3BfUHR1c0pTcTBsaUVXU0xsSDg1NHBKZ0NHTEtPbWNYTGkzaWNiNlItQTVsZURONWNTMGlLZ1JpajBRV3YwYnVPaUFYMzdWVGNYT3ZZLThhdUdJR09MQkNKX2xpcElHbUk0UG9pZFNYZUNRNTFuSGFodEU1YlRtZkpFQ1JzV2UxVUNtemtpRUswMHBKYTJJVmpYdmVzTXRNNGN3ekdUSXN3VzlLUlNMTnk3UTMtTGRRS2tSV3Q1UWNaRmc?oc=5",
    "date": "2026-11-24T12:48:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f61dbca92b0a",
-   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
-   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
-   "date": "2026-11-24T11:25:31+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1097,17 +1108,6 @@
     "abroad": false,
     "city": "Piura"
    },
-   "next": null
-  },
-  {
-   "id": "4126aa214604",
-   "title": "Keiko Fujimori respalda al canciller Carlos Espá...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3B0ekMtRHJETkw5b2hMdmJwaURVR01Dcnp2SG90TkdlMVE4UzVleG04WGJrSmtuODVzOUk0MVZfczF5WFBidi1jeEVWQ2VybE9pWEE1LWNrTWxQR1kydFd6Nk1rRl9mbmdxTFFLODdGRGh3NmV2YU1wZzRaS2NyUU5wNmxMcU9tajg5NElUMkNfVW1BZ1JZalUybEYtOEJKc2RGUVNNVGNmUkJpY2lCalVNU3BPTEo3WjNXV1JB0gHDAUFVX3lxTE5lYzBGZWtSbE1WYXNjUDNPT3lUZWdmSHhWNWZMbnR5MC1jdDVqNThmQTlORG9PQlhyeXFoYWw2X1ZUdGI3R1ZQVXJubjRKRFNsNzZrZXJUSzdUcHV1WkxRYjR1S3JBODFESC1KWElUbF9hbGw5bXhTaEpyR0dlSHJpck01TDFiVU5FSjBES0lFN3FJMEJCT1J1SXJLMGlSd2F1SlhMZ0MzYjVMbXpQT25hcm9ydVNBVkZPTHZvb2JreVdpOA?oc=5",
-   "date": "2026-11-23T15:23:03+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
