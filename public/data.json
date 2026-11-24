@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T23:01:16.682357+00:00",
+ "generated_at": "2026-11-24T23:22:16.595215+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -556,7 +556,7 @@
    "id": "c202d4154021",
    "title": "Keiko Fujimori pide permiso al Senado para viajar a Colombia el 3 de diciembre",
    "excerpt": "",
-   "source": "RPP Noticias",
+   "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUV6bmx2N1V4M2FGTGlRMTJHekk3WHl2c2ZSaDNybF9DVzJWblZvUkt6NDFmVmNTdXFxdFMtYzVpUGs2R2dOZmFPWE9ldTNRWEI3bF8wOElwdlh0WmhvQThDeFJ3dXc5ek1TNTBjS1BfaE40SHgzS2FuS3d1UHZxSGNLM1pGOHA2VTJNeWdQWVlvQmhTZXZybE5sY2hpbERya3RPODdvYWVXZ2J2UDJiWWpYbkdjdjZYNzRhdUZDWjFDdWQwMmc?oc=5",
    "date": "2026-11-24T19:58:09+00:00",
    "state": "posando",
@@ -708,6 +708,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "b41062075228",
+   "title": "Keiko Fujimori alista viaje a Colombia: los asuntos que tratará con su homólogo Abelardo de la Espriella",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQS2FUMlkyUU9EdGdldjE3YVJPZ3NuNk9lR1JLUFRyZWNjd2pVekQyZnAxUFBOSlNIMUx2cnRnSC11bGZOVWdqZnVkN3BKUXRBYkE4a0xYRExJYWNpdVYyaWtmRWZmQXVxa25wYTVCYlFzeEM5U1ljdzMycXd0UEZCZFhnQXlhQ3VMbjc0SUdlbWxwRGNVRDBxd0FlajkyMS1iTUZHZmQxbTlLa1VOUzRIRTFEZzhaanhLM05rVHgwNi0yMWI4WUREd2V2SVh0bnI3cGY3QWFmQkJQeWM2cXlHWWhlNDg4aEdyVVNiRHpVa2FxTnR2SFZkekNleThJWkhmTlFJamlKZ2ZuZUNqOHZ5Zi1iaS1IQQ?oc=5",
+   "date": "2026-11-24T17:02:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
   },
   {
    "id": "64bd0ca03042",
@@ -1089,17 +1103,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRWhHcmdtZXlQb0xpc0pQZl9Sc19vamhlVjNrbmZoWDhsX3dudHNFMUMzcnNIZjEydjBYNXBpZHdxREh6T0I1Tl9raWhMMEtuZzkxQnZoUTZCdk1ab2lxU3U2V2xjazgzTWt0aFdxUEEyTFZoM29lZEp0TjZvUm9WVnM5SGNlMUNCaDZPZlZGeWg4S0JGZWk4UmJFQVpYUnR2VmZlQWRadmlQcjVpV2o2OU1XX2hMUdIBygFBVV95cUxPZnRnS1RnYUYyREl4bEltYUhqV3hBZFduXzhNZnAwTGZzMnNFUm1YUF9UYUw4OUw3VnZmRlFZcWh6RC1oRkJrOVZmbFZfd0dobGFqX1dCUFN0cFZGSzFycXZ1b1k0aV9IUENQWWhxNkkwRkpqWG0wMUVwQU1mOXk1OHNwYnpVZXRJdnVUQWN5N1Zzdkd5bnBlNjBTWlZsU0tNQk9HczVuR09pMmJ0TXZyVFlSSHdnZnFnQjZQdU5JVXg4VWZlSng4N1Jn?oc=5",
    "date": "2026-11-23T15:36:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e86d53db1d46",
-   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante posible interpelación por fallas en misa del papa León XIV",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORmh0NjMwTktwYnR2UjRjd3B3dFFnX19iYUE4X0Rsalc0a1ZSb0xUS1BabS1Na19aY2EteE9lNHItLTRHbDBjUHBhM0YzZEtsSEtleEtxZm5rSmVHQTRzRlNWNzdJTElZcEdqamdKZWl1ZWI1eFZuSW1WdUQwa19Bc0NvcGI3RWtLSzRKOTd4Zl9jNWpmR1pXeENMRVl2ZFRsb21LZ2p5ZjA1eVNxM3Q1aWp2TVdPVXN2YnFXZkJQeEoyRWVsZGxHS0hPRVdWSmxGd0tWN00wM0g?oc=5",
-   "date": "2026-11-23T15:33:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
