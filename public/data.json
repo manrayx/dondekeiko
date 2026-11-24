@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:19:06.660338+00:00",
+ "generated_at": "2026-11-24T22:40:08.470288+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -460,6 +460,17 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlZWX3NtMVBfR3ZNazVUWm9Id0NZQlI3YkdYTUp5T2lKTmdUcFJjWWh1eHVnOFViZlEwcUUwSV9DY0ltVDBRSWtVVkpPM0VadS0wdkdDdW92YnEyLW5yYXJ5MWxmNndhYkFvWG9uUGlPLVFSc0lVVURZLXhyU1MzSzJndkFDWEdsY1JWemJzNmlRTXkyMDRvVVBva3pBZkHSAaQBQVVfeXFMTXd6NUtEQUFGM1VBdWZ5bjBpR1JFUGt0M3dNMldQYnNRR0RPb0NEdnk0Y29fTW02YjdRbHVKVW8wQ1loZWdTQkRMMlpQT0Q3X1IxTG03WHlUeFBvVXZpblA5OUlkbFpVMFZMNm52NGpiLW1mT3lQdkhvcGh6YjNybzFMaG1PT2FUc3I5cWVFaFRWd3NRNmZNelowRDdkQnZjWE8wcnM?oc=5",
    "date": "2026-11-24T21:08:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "08b53820d600",
+   "title": "Keiko Fujimori solicita autorización para viajar a Colombia",
+   "excerpt": "",
+   "source": "CanalB.pe",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1V4QXJ2ZjRGWndVQ0ZuNXVGSGltamRhSU40eWVyTWtrUEd2YnBJWjU5N3dIU2dxZ2NWeHJ0Znk0WHpnWlh6cGt2S1AwV29kN3Qtc2VGcDh6c0w3RjBEUHhERmRRYWNaTnlTbFA4eTJPdmcxNG1GS2RoSkhJODg3NDF2b1RXMGU1aURHdWp5R0daZW83azRSVlNtUQ?oc=5",
+   "date": "2026-11-24T21:07:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1085,17 +1096,6 @@
   {
    "id": "1877307ed98a",
    "title": "La aprobación de Keiko Fujimori cayó de 60% a 38% desde agosto",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGJadWE4b3o3UnVWajNzdXpwSkdwQm9fQjBsQ0o1SWV3RlpUSDNqWllnTmxTMURaaEZzQkF3S2tFWUlSX0FTcVBBaWNVUzFVOWlKQ3Q4blpUelQxWHd1UXpLanBYUExtQ2UwLWJOZ1d3RmVfT0pTeHlNZW5CX1JJUk5nZnhGajluOFBVWnN6MldfazBtYWpYMGdR?oc=5",
-   "date": "2026-11-23T15:32:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "32f31b965f56",
-   "title": "Sondeo Datum: aprobación de Keiko Fujimori cayó de 60% a 38% desde agosto pasado",
    "excerpt": "",
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRGJadWE4b3o3UnVWajNzdXpwSkdwQm9fQjBsQ0o1SWV3RlpUSDNqWllnTmxTMURaaEZzQkF3S2tFWUlSX0FTcVBBaWNVUzFVOWlKQ3Q4blpUelQxWHd1UXpLanBYUExtQ2UwLWJOZ1d3RmVfT0pTeHlNZW5CX1JJUk5nZnhGajluOFBVWnN6MldfazBtYWpYMGdR?oc=5",
