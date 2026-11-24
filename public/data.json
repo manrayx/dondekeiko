@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:53:55.698162+00:00",
+ "generated_at": "2026-11-24T21:15:12.315874+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,6 +432,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "236dfc262184",
+   "title": "Keiko Fujimori recuerda a su madre Susana Higuchi: “Nunca se dio por vencida”",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlZWX3NtMVBfR3ZNazVUWm9Id0NZQlI3YkdYTUp5T2lKTmdUcFJjWWh1eHVnOFViZlEwcUUwSV9DY0ltVDBRSWtVVkpPM0VadS0wdkdDdW92YnEyLW5yYXJ5MWxmNndhYkFvWG9uUGlPLVFSc0lVVURZLXhyU1MzSzJndkFDWEdsY1JWemJzNmlRTXkyMDRvVVBva3pBZkHSAaQBQVVfeXFMTXd6NUtEQUFGM1VBdWZ5bjBpR1JFUGt0M3dNMldQYnNRR0RPb0NEdnk0Y29fTW02YjdRbHVKVW8wQ1loZWdTQkRMMlpQT0Q3X1IxTG03WHlUeFBvVXZpblA5OUlkbFpVMFZMNm52NGpiLW1mT3lQdkhvcGh6YjNybzFMaG1PT2FUc3I5cWVFaFRWd3NRNmZNelowRDdkQnZjWE8wcnM?oc=5",
+   "date": "2026-11-24T21:08:14+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a86c5d2dd725",
    "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
    "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
@@ -448,7 +459,7 @@
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXpXOW1EYkJqd25uTDBob0NYcWd4cmdWU0p0UDBxeTN3RmF5NDhKZFU4WjZzRnJXLTNmVnpxRmItNW80OFhHMnVHWjZfTV82OXd0QWZPNS1UTkVCZXgtZ3BEd0tyOE90cWUzOUF3WmYySUlpVGZYYTF2Z0hFTXBZSWNleUpsczVtLUhubmZYWTRycUhRLS0zcG9teV9NLXE5?oc=5",
-   "date": "2026-11-24T20:43:11+00:00",
+   "date": "2026-11-24T20:44:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1089,17 +1100,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN05ZV2k2Z0JyUk5xcDA5U3hwMEZLUmxLZUpjUjFsRDJNNkpEbXYtU1o2alNNV2FiYUREQk03RWx4SG10SzRaY3VTWVZZdWJzWjJXZmZMWEVGMUNRYXZHNHozWHVqM2R5ZXg2YXFqUGt3cTkydm45RWQ0SE5iRTFyM0FYbktIWkpmMmtvR3FEUDl6Q1pMamVLYjRWR1o2OGdXV0lpTEkwVEpjZGh4cGFNQnA1MlczeGRsdUltb2JLazJzZ0o1SDhFa0E1S2RUUWFEV3JjX0NLS1RmdEZBTHc?oc=5",
    "date": "2026-11-23T15:30:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b8df03eb038e",
-   "title": "Presidenta Keiko Fujimori recibe 14 máquinas donadas por Japón para enfrentar la llegada del Fenómeno del Niño",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOT2hqY2FfSFdtRThVY09aS1hMSGhZUDRpUFN1QTA5bEhvUVVOMkd5SEk1Ym9WWjJMS3luMEVBTWtmR1dISGZTQkF2aHp2X2E2TDk2UWI3WlRNbWlFRGpITHpOaWw2bHUwMGdDUV9lNlFaOWpweGlvdjc4cTVqWWpiS2dGbWRtTTJXdml3VTluYnFQME83Mkx4eHpNdFNuSGlNcm54ZWVtRDZFUktCZjNCeDVxUTZHZXd4VGdOb3lCb1JfTW1ZelpESTZ1TXZ4cFFCR2JTczI2TWdRb0haMmpDZGRCWW1Mb2vSAfsBQVVfeXFMUGEyMk9tMVF4MC1GeWFPeVRSQkJtVUhOOTRXQ1doZjBxNVFRSXZna25KN18tbG14bmR3QkE3bU4tUVp4NlRGSXl1MU9ucWJHNkZkU0hxVWJGb28yWnczS0cya0RaUVJkYmh2V1RMblA3U2pVZlFhejlpa0NVRG5ybHRvbkdmSExiUWdSTW0xZDFzZDZPMVliR0NILS1DMFRHMDRaellXZS1sYXhFVURoRVpHSm5jeHBCV3VDNEVDMGJ5UEc2ZUJtZG1XTjFnT2dJY0lZSUFEWXBxTjFFX3U5UUpxS0NGQUZodk5YM0k4b2s2ZEs2UUhfc3FXZVE?oc=5",
-   "date": "2026-11-23T15:25:22+00:00",
    "state": "posando",
    "place": null,
    "next": null
