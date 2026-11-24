@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:07:20.663846+00:00",
+ "generated_at": "2026-11-24T19:28:28.779645+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -130,6 +130,23 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-24T12:40:00-05:00",
+   "end": "2026-11-24T13:10:00-05:00",
+   "minutes": 30,
+   "subject": "Participa en el homenaje y reconocimiento póstumo a su madre, Susana Higuchi Miyagawa, en el marco de las actividades conmemorativas por los 150 años de la Facultad de Ingeniería Civil de la Universidad Nacional de Ingeniería, de la cual fue egresada.",
+   "lugar": "Sede de la Universidad Nacional de Ingeniería (UNI), Rímac",
+   "state": "posando",
+   "place": {
+    "name": "Sede de la Universidad Nacional de Ingeniería (UNI)",
+    "full": "Sede de la Universidad Nacional de Ingeniería (UNI), Rímac",
+    "city": null,
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "approx": true
+   }
+  },
   {
    "start": "2026-11-23T08:43:00-05:00",
    "end": "2026-11-23T09:21:00-05:00",
@@ -411,9 +428,42 @@
    }
   }
  ],
- "agenda_minutes_7d": 792,
+ "agenda_minutes_7d": 822,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "1b98108b482e",
+   "title": "Keiko Fujimori recibió reconocimiento póstumo de la UNI a su madre, Susana Higuchi",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, participó en la ceremonia de reconocimiento póstumo que la Universidad Nacional de Ingeniería (UNI) realizó en homenaje a su madre, Susana Higuchi, quien…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-recibio-reconocimiento-postumo-de-la-uni-a-su-madre-susana-higuchi-ultimas-noticia/",
+   "date": "2026-11-24T19:21:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2a51daba592d",
+   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi, por los 150 años de la Facultad de Ingeniería Civil de la UNI",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNY2U2UDlISWJpREpaWGI0LVRjZVB0TTF4dkJmbjRlSHZkTmxYZEVPci1MUHVOZmFoUzFsUkNJRGR0cW8tZFEwZndKUmpnNkgwV01Ld25wSTNQQm1EVjhPaUg3c2ZjMTFqWnZxWlhJbXJ4QVB2T1IySkFEYUZLVkF5WUpTTU50MEFhYUJOOHJ3NnJXTG5ydm5IWHZ6aUMyVHdoSnVsOTJBUXBFZE14bmhLTlp2M1ZWYVVac25YRFkyOTFkcTJzaGF4eEFFQ2FkT0doRG5pamNoeTgzTHFnR3BzbVZfaW5WZHNEdFRjVWY4QkV6a1NVRXpsTk5vamk3bkZfdmc?oc=5",
+   "date": "2026-11-24T19:18:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c3765980b95d",
+   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre, Susana Higuchi",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTFRcnhEc2g2bzRrdUNZVnIxUmlpYnFvUHhkdV9EU3ZDNWpvY2JNWUJzcVZJV2VXZWVFcEtuTXJLbXNUVjdITmxwSnJCXzJwd2M4Sk9hM3NBWDdiYXZVeXA5UEdPdVlhMGVqNVVvNlhrMzFaZTc1aVVyVGh4YXVueWtFb1Npc1dpVUVsY05RWWFWeVNwUEJxNjZjbUlGLWVCUlRUT2hCYktkZU9GbkNJTnpiTTdUeDdrd2hEbkJYcULSAdQBQVVfeXFMTUZvUjhRc21YeFk2LXdtQnBwb0xwanl3M0FzYkY5emt1V3JrZUVaNjgtVE56c2xlQWk0YmhNeTlyMHJSb1RMaEY2cHVRbzNSQmFzX01iRFZEa2NCZE5sN3o1ZjFxX2hrM1RvZ3R5QXRRUUF6SUNSeG1aRFNlWHZzUWY1dVhFRDNPQTZOWC1nS2Mtb00xMzNJbDhISnJDNUQ0RVZQLURSLU1YMG1ac1k0Zk4tZk1RLUJzb0NjODkxOWxBLWtmNXBzMDVjUE5hRGpQb24tWEg?oc=5",
+   "date": "2026-11-24T19:15:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a86c5d2dd725",
    "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
@@ -548,9 +598,9 @@
    "id": "84bcf5d8afa5",
    "title": "La economía peruana crece 3,1% en el tercer trimestre, impulsada por la inversión privada y respaldo a Keiko Fujimori",
    "excerpt": "El PBI nacional aceleró su crecimiento frente al segundo trimestre, impulsado por el dinamismo de la inversión privada y la demanda interna. Sin embargo, la caída de la producción minera,…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/24/la-economia-peruana-crece-31-en-el-tercer-trimestre-impulsada-por-la-inversion-privada-y-respaldo-a-keiko-fujimori/",
-   "date": "2026-11-24T12:48:35+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcTFkRmYzYjlhRXRaN21SR3hQUGhrTnJVWGd1V205SmZTbjZZaEUwaXMxT1JNRWRubENXeUs1MGpUd2tsWlprMUNJUXVNZDdRbDZTZDBXdGRjWEpadmhXakRGLUtMWXZsTVM5c2ZDTkpqSFZOYTVoLXNlNUoxQmxOU1luV2xRN2pfQlhJWmdEWU9EQmZ1c2F5eEZXYVNHVEN3U0hHMzdZbG9wa2hBTks0Y0k5MFBhX1pLZFRncEd3aEtaNTkxeWxDSHZ0dFFFZXRNaGIyMmpQSC1fQ3lrMk1adldwd3pVaUZucGJN0gGGAkFVX3lxTE9FV3phR1JhWVVaV08zQ2R4TDFyanFxdzFKSVhvY1E5NF8wTjV2S1dCSWdaNzVtUEhaakNrSDNLcWc3UVVRb3RfQ3duT3BfUHR1c0pTcTBsaUVXU0xsSDg1NHBKZ0NHTEtPbWNYTGkzaWNiNlItQTVsZURONWNTMGlLZ1JpajBRV3YwYnVPaUFYMzdWVGNYT3ZZLThhdUdJR09MQkNKX2xpcElHbUk0UG9pZFNYZUNRNTFuSGFodEU1YlRtZkpFQ1JzV2UxVUNtemtpRUswMHBKYTJJVmpYdmVzTXRNNGN3ekdUSXN3VzlLUlNMTnk3UTMtTGRRS2tSV3Q1UWNaRmc?oc=5",
+   "date": "2026-11-24T12:48:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1059,39 +1109,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "b596f6531ab3",
-   "title": "Keiko Fujimori respalda al canciller Carlos Espá tras fallas en misa del papa León XIV en Las Palmas",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVpvNXZjMlBTY1MzSHhDZ2dVUktYZ1lISy02R0xvUlh5bFpPNFppM0pjS2NiUlV4eE1QZlF1SmprM01xbF8zWUYwQU9WWElneUZIT0RVNjM4ZXRVVjFhMURSTVpMN3hkOFhPcDVYbkh3cjFSRE8zdmNZZkpnbXVVWkV2cV9LTmg0cjAwQ0RsYnZ1X0hYWkR5NVA2dUEtbU5lYi14SDZiVllNLUMwY1M5OEtPcFNCdE15dmc?oc=5",
-   "date": "2026-11-23T14:33:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0a53a96e2a44",
-   "title": "EnVivo | Actividad Oficial de la presidenta de la república, Keiko Fujimori, hoy 23 de noviembre",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlNGVk14X2dPMUtpRElsNGM4TDR3MTZ4ekVwelA2YTlCYnFGeUlKOXI2Z0tKMmQzVGJJTHo4bXJVb0k1bHQyUWpVU1p1R3FCYWRua2tPNEhOeTVmbmgyN3V5MXJOUFAzRlh4UVJNRGcyeG5ja3pKUHZ6TjlaWGdEclVSbHJuUEFXQXV2U2t3M3hIcVRBTXlHZzlFdGlOR1FiMW5ETkx6NXd2N1dmNGE2UjRodm5mVmVNQzIzLXItQ294NTNwdU9YR0RtQQ?oc=5",
-   "date": "2026-11-23T14:21:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "366df7f81ef2",
-   "title": "🔴🔵 Encuesta Datum: Keiko Fujimori registra 38 % de aprobación y 55 % de desaprobación",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWVCcGRJVUNqRjhFdlBtNURwLXdMUDRYc2ZGOXZqMzFicFdXYzFJRTU0UG9qS01SS01XczloMWE2bEhTZ2s4YU04SlZjdmU4ZWpsNnNwLU5oOFppQ1ZOV0c3MFZlMGlPVkw4ckl4SU81OXBPY0xHOUExVkhpZTF2eUplR2hMbXhiVURuYXhhRFJqZWo0LXhfcTV0VGJROWl1NmhrX3FJU1ptV2J4NjczUEFYU0NZTnM?oc=5",
-   "date": "2026-11-23T14:21:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1263,6 +1280,7 @@
   "ministerio de defensa, peru": [
    -12.06528,
    -77.0406
-  ]
+  ],
+  "sede de la universidad nacional de ingenieria (uni), rimac, peru": null
  }
 }
