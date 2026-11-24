@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:41:32.246763+00:00",
+ "generated_at": "2026-11-24T00:03:15.929393+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -491,6 +491,17 @@
    "next": null
   },
   {
+   "id": "ca2804f4522f",
+   "title": "Presidenta Fujimori afirma que el Gobierno responderá con más fuerza frente al fenómeno El Niño",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUM0LWt4T3ZnX0lNektrbGE2TUNsbkdkcnk4SDdkV2QwTnFqNzhPTUVLU0V2cEdNTS1nd0dhdnNjR1hvN25wYmtTQkwxS3hHV29qYnhyOVdxYWFfUGJmMmVRSC1NWldHX3h0R0ctbkhkSjNpV01Ta0ZoMlUyaHRraU1ReWpUTkVhNXB5RmZxenlWZmY1eXJjbm04bS1wTFNKanFuczUtNG9tTk9kUUpfYjI3cXNCYW8zdmU0NFVmcw?oc=5",
+   "date": "2026-11-23T21:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e55696fd32e0",
    "title": "Keiko Fujimori respaldó a Carlos Espá tras fallas en misa del papa León XIV en Las Palmas: \"Las disculpas a quienes se han visto afectados\"",
    "excerpt": "",
@@ -569,17 +580,6 @@
     "abroad": true,
     "city": "Ecuador"
    },
-   "next": null
-  },
-  {
-   "id": "ca2804f4522f",
-   "title": "Presidenta Fujimori afirma que el Gobierno responderá con más fuerza frente al fenómeno El Niño",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUM0LWt4T3ZnX0lNektrbGE2TUNsbkdkcnk4SDdkV2QwTnFqNzhPTUVLU0V2cEdNTS1nd0dhdnNjR1hvN25wYmtTQkwxS3hHV29qYnhyOVdxYWFfUGJmMmVRSC1NWldHX3h0R0ctbkhkSjNpV01Ta0ZoMlUyaHRraU1ReWpUTkVhNXB5RmZxenlWZmY1eXJjbm04bS1wTFNKanFuczUtNG9tTk9kUUpfYjI3cXNCYW8zdmU0NFVmcw?oc=5",
-   "date": "2026-11-23T18:15:14+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
