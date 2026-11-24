@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:32:37.765897+00:00",
+ "generated_at": "2026-11-24T20:53:55.698162+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,12 +432,56 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a86c5d2dd725",
+   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
+   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
+   "date": "2026-11-24T20:46:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "00ea473b24c5",
+   "title": "Keiko Fujimori se conmueve al participar en homenaje póstumo a su madre, Susana Higuchi: \"Me resulta un poco difícil hablar\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXpXOW1EYkJqd25uTDBob0NYcWd4cmdWU0p0UDBxeTN3RmF5NDhKZFU4WjZzRnJXLTNmVnpxRmItNW80OFhHMnVHWjZfTV82OXd0QWZPNS1UTkVCZXgtZ3BEd0tyOE90cWUzOUF3WmYySUlpVGZYYTF2Z0hFTXBZSWNleUpsczVtLUhubmZYWTRycUhRLS0zcG9teV9NLXE5?oc=5",
+   "date": "2026-11-24T20:43:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b2f2e792fc5a",
+   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
+   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-24T20:41:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "182d929735e8",
+   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakxxY3hsUE9uZGZjRGpRWl9mVEQ2cU0takdqX2tNeXhUT0xSQXJoelEtWGdsSjJ3SjNZTDFpUzliNW1kXy1CWGNhOUhvajBuNGdHX2pfV0dLeXFnRmdYU2M3OU50NlJOclRNYWlJZ1hzWHJCRzhadkhpRmVyVXJtNXhNbEp5WTRGWjMzNUFoaGhHbGF2QWRFQ3dPS0pXR1pPa21RRV9HU2JaRTdZbTRKbE83VzFYV29aZmc?oc=5",
+   "date": "2026-11-24T20:33:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b58842264b23",
    "title": "Keiko Fujimori alista nueva salida del país: presidenta solicita permiso al Senado para viajar a Colombia este 3 de diciembre",
    "excerpt": "",
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0hzTjBqTHBlQVpzNHRrZVlfWk9DYm1PbXpXTDlydEJPcE95ZWxwS2kxbjlOWU8wNVhfMi1YQVJVYkdrUklISEp5eWF6YktKSXRHUWNVWUtpbnJPeFo4eV9XU2xjZ0ZmU01MbTRFQ2QxOG9iUzM1OFRxblJTOXhidUpMX28wYmFa?oc=5",
-   "date": "2026-11-24T20:30:06+00:00",
+   "date": "2026-11-24T20:31:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -476,12 +520,12 @@
    "next": null
   },
   {
-   "id": "182d929735e8",
-   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
+   "id": "3e93f38195a0",
+   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
    "excerpt": "",
    "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakxxY3hsUE9uZGZjRGpRWl9mVEQ2cU0takdqX2tNeXhUT0xSQXJoelEtWGdsSjJ3SjNZTDFpUzliNW1kXy1CWGNhOUhvajBuNGdHX2pfV0dLeXFnRmdYU2M3OU50NlJOclRNYWlJZ1hzWHJCRzhadkhpRmVyVXJtNXhNbEp5WTRGWjMzNUFoaGhHbGF2QWRFQ3dPS0pXR1pPa21RRV9HU2JaRTdZbTRKbE83VzFYV29aZmc?oc=5",
-   "date": "2026-11-24T19:44:11+00:00",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjdKYkgxSmUxeW1XUS1jZXRveU1DSnNwNndoTFJxOUpRczNmTE1qWFFxVzJTbUtvRS1nNXdyZTlsSGFjRV93X3FwYi1hblI5WXJUUDZGVnlJNldXdURiUHE4R2NWOENtQVFId0lIYk9nS19udTQzNDc3dVRnSFdHNzJmV29UbWphdTVwNy1FWURhQWxRNkpRd2k0N3h4VlpnUE9pV25qSnlYMjF1MFh2ZmNPZ01pYUVGaEppR0RqVms?oc=5",
+   "date": "2026-11-24T19:36:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -504,17 +548,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-alista-nuevo-viaje-colombia-como-destino-noticia/",
    "date": "2026-11-24T19:29:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3e93f38195a0",
-   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjdKYkgxSmUxeW1XUS1jZXRveU1DSnNwNndoTFJxOUpRczNmTE1qWFFxVzJTbUtvRS1nNXdyZTlsSGFjRV93X3FwYi1hblI5WXJUUDZGVnlJNldXdURiUHE4R2NWOENtQVFId0lIYk9nS19udTQzNDc3dVRnSFdHNzJmV29UbWphdTVwNy1FWURhQWxRNkpRd2k0N3h4VlpnUE9pV25qSnlYMjF1MFh2ZmNPZ01pYUVGaEppR0RqVms?oc=5",
-   "date": "2026-11-24T19:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -564,17 +597,6 @@
    "next": null
   },
   {
-   "id": "a86c5d2dd725",
-   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
-   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
-   "date": "2026-11-24T19:01:37+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "45f08a6fec0c",
    "title": "Keiko Fujimori pide autorización al Senado para viajar a Colombia el próximo 3 de diciembre",
    "excerpt": "",
@@ -614,17 +636,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObHFvWkVjVW1mazg2YlhxcFFGX25lU2p0WnBLS085OWlsb0dhZmFOZEEtVFdnMUxwQXd6Q2lrZU5IZHREWEJWSWRlYUdqUnMxOGZhelNzOHJOQXFTNERvbDlhSTlVQnJleDFEbnBuWmlmMjFTVHhXcEJoRXRheUNYZ1M2U3hTSWVOMkc5eWktcm9BZE9fV3hkdGRuWjI?oc=5",
    "date": "2026-11-24T18:13:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b2f2e792fc5a",
-   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
-   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-24T18:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1091,23 +1102,6 @@
    "date": "2026-11-23T15:25:22+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "7df749ab5d6a",
-   "title": "Keiko Fujimori respalda al canciller Espá y responde por inundaciones en Piura",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3B0ekMtRHJETkw5b2hMdmJwaURVR01Dcnp2SG90TkdlMVE4UzVleG04WGJrSmtuODVzOUk0MVZfczF5WFBidi1jeEVWQ2VybE9pWEE1LWNrTWxQR1kydFd6Nk1rRl9mbmdxTFFLODdGRGh3NmV2YU1wZzRaS2NyUU5wNmxMcU9tajg5NElUMkNfVW1BZ1JZalUybEYtOEJKc2RGUVNNVGNmUkJpY2lCalVNU3BPTEo3WjNXV1JB?oc=5",
-   "date": "2026-11-23T15:23:03+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
    "next": null
   }
  ],
