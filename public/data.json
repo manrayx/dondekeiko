@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T16:13:47.642827+00:00",
+ "generated_at": "2026-11-24T16:35:34.654815+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -406,6 +406,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "64bd0ca03042",
+   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUFNakl2UkZDN0Qxem5yS1RvNlJuVEtqczVPaWljVmlKSzNhOFEtQjhuMWhuTzdJam5RcVNCNGRfVHNkODByX3hwU3gzNnpKQ1RaVFdDNmNDbVhvejFSUjVXelZSbGJnQy1kaDB5UkFCYmJWRzFkSXBnd3QwcjAyeXctNkZQNmNiMldwTU1PdERzX1EzYnMtV3I0M0xDdFVOVEgyTTg5WHhiT0s0d0RWdGpHZE1qN3AzQ290ZktYNA?oc=5",
+   "date": "2026-11-24T16:13:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b2f2e792fc5a",
    "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
    "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
@@ -431,17 +442,6 @@
     "lng": -77.0406,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "64bd0ca03042",
-   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
-   "excerpt": "",
-   "source": "perucheck",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOelk2U29lNGRjdnFlMXZMdlI2S2lXNWYxQk5XN0dYZUs5RTVNSG81MVdDajFnZmh2b2FVTks2VXRSY2c0SUt6bU0yZmZVejRxVFdHRmpwN1ZTUmMyZ1M5cE9Lck0zbF95R1BmMS0tY25LRXViVmloc1RPT1lKUGpIVV9SbDhidVY4OWUwXzRYQkxZWFhSQko3X2p1TnVyT1NZMmU2Z2R6aFVvazBXRU1MX0tRTTFjZ3RyWTBsMmNhTDVwOGZlWEIzVGU3alRadm9KZUpYb1FCMElKdjlEdUlCM3czZEhwUlVTQkp4N0tDYnJ4b1RrSXJnYjZWMnFqcFk?oc=5",
-   "date": "2026-11-24T12:53:59+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
