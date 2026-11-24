@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:01:48.221358+00:00",
+ "generated_at": "2026-11-24T18:23:38.522904+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -406,12 +406,12 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "64bd0ca03042",
-   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUFNakl2UkZDN0Qxem5yS1RvNlJuVEtqczVPaWljVmlKSzNhOFEtQjhuMWhuTzdJam5RcVNCNGRfVHNkODByX3hwU3gzNnpKQ1RaVFdDNmNDbVhvejFSUjVXelZSbGJnQy1kaDB5UkFCYmJWRzFkSXBnd3QwcjAyeXctNkZQNmNiMldwTU1PdERzX1EzYnMtV3I0M0xDdFVOVEgyTTg5WHhiT0s0d0RWdGpHZE1qN3AzQ290ZktYNA?oc=5",
-   "date": "2026-11-24T16:13:10+00:00",
+   "id": "a86c5d2dd725",
+   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
+   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, el primer vicepresidente quedará a…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
+   "date": "2026-11-24T18:13:26+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -422,7 +422,29 @@
    "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-24T16:01:50+00:00",
+   "date": "2026-11-24T18:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3e93f38195a0",
+   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEZEMUdJRzlUME40Z242YTlQTUtWa1ZfVURiV0toNlFiZGdrZDlQMFNZWUVRcE9GUU1oQm0zYVIxalliRGcxQ1dDYWJBY0FyMXZadjFMVXMtQi1zdUN1Y1k3WE1KazRjZS1YdHpmTDV4QUM4TWtjTUlDUzRsSmdldmx4Qm52VG1OcHFYSWZPaThvLXYwSmQ5cmwtRG9CcEpiZVJCbnNUWnc2S3MtQ2dsQ29CX0VRUlhY?oc=5",
+   "date": "2026-11-24T17:51:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "64bd0ca03042",
+   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUFNakl2UkZDN0Qxem5yS1RvNlJuVEtqczVPaWljVmlKSzNhOFEtQjhuMWhuTzdJam5RcVNCNGRfVHNkODByX3hwU3gzNnpKQ1RaVFdDNmNDbVhvejFSUjVXelZSbGJnQy1kaDB5UkFCYmJWRzFkSXBnd3QwcjAyeXctNkZQNmNiMldwTU1PdERzX1EzYnMtV3I0M0xDdFVOVEgyTTg5WHhiT0s0d0RWdGpHZE1qN3AzQ290ZktYNA?oc=5",
+   "date": "2026-11-24T16:13:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1057,32 +1079,6 @@
    "date": "2026-11-23T01:59:17+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "9742737eb89f",
-   "title": "Presidenta Fujimori dialogó con primer ministro de Singapur sobre cooperación en educación y gobierno digital",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ2hpMDB1ZzVrLXZsX0hkUl9NbDNWU3NBNDdCeC1LbHExLVZJeno3YzJDZDI5THNmWlQ4WlNWeVRaMVRmbFh2ZFpkUURXbEsyVUhBUzhQaUtPYlhTbWdsMEhSd09USFk2elVVd21hVE9SQkNyY3BOV3RjVjdCSEF5WEtFMkwxeUFrWExXV1BjMTJfeVp2VzdIRmVrLThWYndRZDdDRmdFMU1XOXRYb2NWcVFfOTI5b0FMemhuR0xZU3FGQQ?oc=5",
-   "date": "2026-11-23T00:45:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1bf2467b50df",
-   "title": "Keiko Fujimori se reunió con figuras que ayudaron a su padre durante su exilio en Japón",
-   "excerpt": "Las reuniones fueron con representantes de The Nippon Foundation, la diputada Yuko Obuchi y el senador Muneo Suzuki. Especialistas en materia política consideraron que la mandataria aprovechó su paso por…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/22/keiko-fujimori-se-reunio-con-figuras-que-ayudaron-a-su-padre-durante-su-exilio-en-japon-hnews-1506296",
-   "date": "2026-11-22T22:12:22+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Japón",
-    "abroad": true,
-    "city": "Japón"
-   },
    "next": null
   }
  ],
