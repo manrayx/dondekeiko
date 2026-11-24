@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:49:36.456436+00:00",
+ "generated_at": "2026-11-24T20:10:46.347867+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,6 +432,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ab49a4127238",
+   "title": "Hildebrandt sobre Carlos Espá: \"Es un fantoche, es la sombra de su juventud. Me da pena\"",
+   "excerpt": "El periodista contó que a Espá lo recomendó Álvaro Vargas Llosa. Afirma que la presidenta Keiko Fujimori, \"la señora que no entiende nada\", lo aceptó.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/24/hildebrandt-sobre-carlos-espa-es-un-fantoche-es-la-sombra-de-su-juventud-me-da-pena-hnews-1544520",
+   "date": "2026-11-24T20:07:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c202d4154021",
+   "title": "Keiko Fujimori pide permiso al Senado para viajar a Colombia el 3 de diciembre",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUV6bmx2N1V4M2FGTGlRMTJHekk3WHl2c2ZSaDNybF9DVzJWblZvUkt6NDFmVmNTdXFxdFMtYzVpUGs2R2dOZmFPWE9ldTNRWEI3bF8wOElwdlh0WmhvQThDeFJ3dXc5ek1TNTBjS1BfaE40SHgzS2FuS3d1UHZxSGNLM1pGOHA2VTJNeWdQWVlvQmhTZXZybE5sY2hpbERya3RPODdvYWVXZ2J2UDJiWWpYbkdjdjZYNzRhdUZDWjFDdWQwMmc?oc=5",
+   "date": "2026-11-24T19:58:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "182d929735e8",
    "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
    "excerpt": "",
@@ -460,6 +482,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-alista-nuevo-viaje-colombia-como-destino-noticia/",
    "date": "2026-11-24T19:29:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3e93f38195a0",
+   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjdKYkgxSmUxeW1XUS1jZXRveU1DSnNwNndoTFJxOUpRczNmTE1qWFFxVzJTbUtvRS1nNXdyZTlsSGFjRV93X3FwYi1hblI5WXJUUDZGVnlJNldXdURiUHE4R2NWOENtQVFId0lIYk9nS19udTQzNDc3dVRnSFdHNzJmV29UbWphdTVwNy1FWURhQWxRNkpRd2k0N3h4VlpnUE9pV25qSnlYMjF1MFh2ZmNPZ01pYUVGaEppR0RqVms?oc=5",
+   "date": "2026-11-24T19:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -575,17 +608,6 @@
    "next": null
   },
   {
-   "id": "3e93f38195a0",
-   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNEZEMUdJRzlUME40Z242YTlQTUtWa1ZfVURiV0toNlFiZGdrZDlQMFNZWUVRcE9GUU1oQm0zYVIxalliRGcxQ1dDYWJBY0FyMXZadjFMVXMtQi1zdUN1Y1k3WE1KazRjZS1YdHpmTDV4QUM4TWtjTUlDUzRsSmdldmx4Qm52VG1OcHFYSWZPaThvLXYwSmQ5cmwtRG9CcEpiZVJCbnNUWnc2S3MtQ2dsQ29CX0VRUlhY?oc=5",
-   "date": "2026-11-24T17:51:17+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "cfdffdb8dd36",
    "title": "Todo lo que dijo Keiko Fujimori en el emotivo homenaje póstumo a su madre Susana Higuchi en la UNI",
    "excerpt": "",
@@ -628,6 +650,17 @@
    "source": "El Búho.pe",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUFNakl2UkZDN0Qxem5yS1RvNlJuVEtqczVPaWljVmlKSzNhOFEtQjhuMWhuTzdJam5RcVNCNGRfVHNkODByX3hwU3gzNnpKQ1RaVFdDNmNDbVhvejFSUjVXelZSbGJnQy1kaDB5UkFCYmJWRzFkSXBnd3QwcjAyeXctNkZQNmNiMldwTU1PdERzX1EzYnMtV3I0M0xDdFVOVEgyTTg5WHhiT0s0d0RWdGpHZE1qN3AzQ290ZktYNA?oc=5",
    "date": "2026-11-24T16:13:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c7c7f58f11ca",
+   "title": "¡Tuvo que dar la cara! Keiko Fujimori sale a disculparse por Carlos Espá, pero lo respalda (VIDEO)",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYW1OV09qV0VUZm9TdEhFOEwtMzRRM0JrLTZvQ2hCejJKaHVSMTZ4T1gwWC0yaTR5WUs2Sk5tc0NRa3dpN190WV9zVzRtaGdBdW1NdEhua01NWWdtUGh0cUNMYk5ta0JRdFlMdkktVlhMOFZMQVJOaWoxTjlOdVp0X2pmR3dtZkZHbUw3SDlzSDBfMVptRmJHTGpMaHFpSEw2dGJQNXhsdjZybzRjRzFJQ1VTLTVNZEpyZ1pBZw?oc=5",
+   "date": "2026-11-24T15:25:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1073,39 +1106,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3B0ekMtRHJETkw5b2hMdmJwaURVR01Dcnp2SG90TkdlMVE4UzVleG04WGJrSmtuODVzOUk0MVZfczF5WFBidi1jeEVWQ2VybE9pWEE1LWNrTWxQR1kydFd6Nk1rRl9mbmdxTFFLODdGRGh3NmV2YU1wZzRaS2NyUU5wNmxMcU9tajg5NElUMkNfVW1BZ1JZalUybEYtOEJKc2RGUVNNVGNmUkJpY2lCalVNU3BPTEo3WjNXV1JB0gHDAUFVX3lxTE5lYzBGZWtSbE1WYXNjUDNPT3lUZWdmSHhWNWZMbnR5MC1jdDVqNThmQTlORG9PQlhyeXFoYWw2X1ZUdGI3R1ZQVXJubjRKRFNsNzZrZXJUSzdUcHV1WkxRYjR1S3JBODFESC1KWElUbF9hbGw5bXhTaEpyR0dlSHJpck01TDFiVU5FSjBES0lFN3FJMEJCT1J1SXJLMGlSd2F1SlhMZ0MzYjVMbXpQT25hcm9ydVNBVkZPTHZvb2JreVdpOA?oc=5",
    "date": "2026-11-23T15:23:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "78e04b7e9982",
-   "title": "Keiko Fujimori expresa su respaldo al canciller Carlos Espá ante moción de interpelación por caso misa en Las Palmas",
-   "excerpt": "La presidenta Keiko Fujimori expresó su respaldo al canciller Carlos Espá y a todo su Gabinete Ministerial, ante la posibilidad de que el titular de Torre Tagle sea interpelado en…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-quiero-expresar-mi-respaldo-al-canciller-y-a-todo-el-gabinete-carlos-espa-congreso-papa-leon-xiv-apuesplan-ultimas-noticia/",
-   "date": "2026-11-23T15:07:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "84e2792c843b",
-   "title": "Declaraciones de Keiko Fujimori en actividad oficial en Pucusana",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHJMemdqdE92ZVBHOGJNaFZEVmxuVXdOamI0TFpXeVZjYkdoR1U1Yll1SjdIWGVfMlJoWE04Mi00N0otVVQzM2kzbW5zNUUzSHNRQi15ak50bk9aQ29Lb3pQcWxKZHhoSjVZNkR5OXVCSXZmV3N0UEQ3cjJLMmdpMGowTHRvVjNnc05BcGxrYmEzMzFBYmQ5WnM5RnlDQm9MNDVnaDJEZEF5LXJUcnc?oc=5",
-   "date": "2026-11-23T15:07:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a7685c579a5c",
-   "title": "Keiko Fujimori expresa su respaldo al canciller Carlos Espá ante moción de interpelación",
-   "excerpt": "La presidenta Keiko Fujimori expresó su respaldo al canciller Carlos Espá y a todo su Gabinete Ministerial, ante la posibilidad de que el titular de Torre Tagle sea interpelado en…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-quiero-expresar-mi-respaldo-al-canciller-y-a-todo-el-gabinete-carlos-espa-congreso-papa-leon-xiv-apuesplan-ultimas-noticia/",
-   "date": "2026-11-23T14:58:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
