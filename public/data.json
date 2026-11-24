@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T09:24:26.656467+00:00",
+ "generated_at": "2026-11-24T11:34:02.713851+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -404,6 +404,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "f61dbca92b0a",
+   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
+   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
+   "date": "2026-11-24T11:25:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2a0ffe8dca33",
+   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-sobre-el-55-de-su-desaprobacion-las-encuestas-hay-que-tomarlas-como-foto-del-momento-hnews-1044062",
+   "date": "2026-11-24T11:24:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e74b1fb7b0e8",
    "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV en Las Palmas y respalda a canciller Espá",
    "excerpt": "",
@@ -476,28 +498,6 @@
    "source": "Bloomberg Línea",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVEJmSGNWbGZLcVhLVV9aOTZFNzVva1k1cDZWZkFUTGNTU1Y4ZGpOY0Zvd01OeHVxLS1sRllLREtfVzVIWUpia3pDXzR5NnBqR004TnFKUjdScElCMzlEdVkyQ2F4Z1BHTURVTHFWSEREMC1rSXZ2bFZhMFZHeFQxbl81eVJIMV82Wm5Ic0M4S2J0X0huRjIzejB3YWN4a2RQcGdUSFkzbEFGdHk2eExfQzlsTjlkRHV6bERhRklIZ0p4bmhKdll2eFJ1dzBhX1RDWU1mcnhhYkduSXFTLXJQVEM5TUhZUdIB-gFBVV95cUxNMjdBSk8wdlNZeUEtcTViR1lxdHNVajdDWnpXekZPNkIwZDNicHpQNk9vdGZMUXE5ZEJXYzhva1djZVp4cjlDZ1haZzR2WjBnQXc0TUphMDY4Wm9WUDlOSHdydml2c2trZFZ5X1dieC1VUC1iX1ZSUDdzOFpRc2dzOURXVGpNb3REcS1pWl9zWURfTGZKcU91dVVRVW8yMVJ0aVV0QTFfMVpISWlGRWlsUGdlY0hERUdPa0tGLXp1d245eGhVU3h0RWxyRGxaSkRlSVNGdVBGYjExWmZuNTZLU2xzUlAtOVRsLUNmNUJIMGJDcFBDdHJCLThn?oc=5",
    "date": "2026-11-23T23:27:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f61dbca92b0a",
-   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
-   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
-   "date": "2026-11-23T21:24:59+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2a0ffe8dca33",
-   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-sobre-el-55-de-su-desaprobacion-las-encuestas-hay-que-tomarlas-como-foto-del-momento-hnews-1044062",
-   "date": "2026-11-23T21:24:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
