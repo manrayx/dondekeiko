@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T04:23:03.615849+00:00",
+ "generated_at": "2026-11-24T05:06:04.714588+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -398,43 +398,22 @@
     "lng": -77.043,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-11-16T12:35:00-05:00",
-   "end": "2026-11-16T14:40:00-05:00",
-   "minutes": 125,
-   "subject": "Ceremonia de despedida al papa León XIV.",
-   "lugar": "Grupo Aéreo N°8, Callao",
-   "state": "posando",
-   "place": {
-    "name": "Grupo Aéreo N°8",
-    "full": "Grupo Aéreo N°8, Callao",
-    "city": "Callao",
-    "lat": -12.056,
-    "lng": -77.118,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-16T10:30:00-05:00",
-   "end": "2026-11-16T12:05:00-05:00",
-   "minutes": 95,
-   "subject": "Participa en la misa celebrada por el papa León XIV.",
-   "lugar": "Base Aérea Las Palmas, Santiago de Surco",
-   "state": "posando",
-   "place": {
-    "name": "Base Aérea Las Palmas",
-    "full": "Base Aérea Las Palmas, Santiago de Surco",
-    "city": null,
-    "lat": -12.16056,
-    "lng": -77.00256,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 1012,
+ "agenda_minutes_7d": 792,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b2f2e792fc5a",
+   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
+   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-24T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "1d9185aa29ca",
    "title": "Keiko Fujimori respalda al canciller Espá ante moción de interpelación por misa del papa",
@@ -1104,17 +1083,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSEdCVHVTeVlodzdSd0ZDbGhibWhzS2U2bjM2N2IwRWxZaC1iYUtya29ROWg5eDBYbWFSODY5aEluQmFEd2pCYm1nSGFWUk1Eb0NmYklJcWJBRUszWHlYXzVNQndhWEVGdWdCTGQtR0xBdUhMMl83cmJGbHZpcEU1bDVsTkM1cGNFRmdmUTdKVThSSllUZ1RpRDJySFlETnVQc0k0NjJQSzhVenN2am1HZ09lQkdSWTVORmhOLWloSlpyS09Kb0J3eHEzeU1sVS01WGFSNVVhMjZqbmlZWlhEQ3VCSTYyVXFhRjhKRkpn0gGIAkFVX3lxTE5oeURza3R1MXlDTTRMeVQzYTRRc0FPWDgxWUNPNXBpM1JjYm1WcW9Eck1PRjVjTnl0WVFlM2JMdnlUWm1fQ0s3NnFocmEtX1F0OEVvYlY0V3BjbmxLc2JReUhqQnRUc1FEVzR2OFpSQmVBcXI4bEZONHlGcDdyNlA4c3NPc3BSS0hlYlJGaW0tM2ZYZjZGVHdJbmU3M3k0Mlp5Nlp1MWEzcHo0NEQ0N1FIUU13WVI3Z2l0LTNhX0NTeDBfNlZBaW41OHFnanhXcnNUTGNkZk1qczJ1Nk9zNWtNQ3hBcHB6c3BOOFRGdUN0RHpTVVZ1cFIxdS1kTFVhVFVTUVM3ZzRORA?oc=5",
    "date": "2026-11-22T02:17:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "10219614e0c1",
-   "title": "El crecimiento económico y los gobiernos de Keiko Fujimori y Alan García",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQU5XbzNEVGpnQl8tR3ZxZV9lU1NaZ3owVHAyQlNEREZuWm5NeXNBYjloWjdvUnM0Z0U2TnBUakFtZUlhN1NUcXlpeHRaNkQyZWxsU3lBVENvemdIOUhRNlpIMkNaU2RXRTN4RTZUaTJ3U3FaN1kzV3FjWEQteldvRGRMR3RKS2RTcERRNWUzQTJ2bk43M1F5OTVRbkJzVWJiWWfSAacBQVVfeXFMTVh2ZkREVkZFczdKMDRObV9PN25mdU56Q2luV1M4X0pfUEdFQW11X3BXS3VwbkJvMnh6Z2xPMjZveXJsTDZXaXVFSzlVYVhKX2FrbzM5TW83dUdHMVcwUC1fVG5vVnRPWGtiUFA0dm5hX092SnZLa04tSDMxWEg0ZE5rVTA4cWNiZ1pfamJ4WG9ISnFVNExfNklqWDlhekRibmlKSU42Rmc?oc=5",
-   "date": "2026-11-22T02:00:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
