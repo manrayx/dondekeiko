@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T11:34:02.713851+00:00",
+ "generated_at": "2026-11-24T12:38:28.242223+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -404,6 +404,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b2f2e792fc5a",
+   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
+   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-24T12:21:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "f61dbca92b0a",
    "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
    "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
@@ -432,17 +443,6 @@
    "source": "Perú Informa",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDBBMHRLTTB5UlFiVTY1a3hPVERsQXpkN1M1eWJfMGlzTU9TODdUaXFKMTJQS1ZJUWF5QVNoWFZxUEhmcDlBWm9Id2Fub1RuV1ppdkFsZXNzekN5a3A5bGdFTlFYb1otbjEzcGpoTFp0bEZ5MmpSU0ZmU3YxYUlsQmV2NDFfWlJGSGFMelcwbE1aMjh1ODJ6SmZjVDNiVTNpRXpFdl9vT2t1Rl8zZzhvRHRlRFRGOWZFemRQN2xnV2drRjFtQmhKV2ZVaTBFdmZwRUhv?oc=5",
    "date": "2026-11-24T05:36:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b2f2e792fc5a",
-   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
-   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-24T05:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
