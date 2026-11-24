@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T01:30:40.820157+00:00",
+ "generated_at": "2026-11-24T01:51:39.390629+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -616,6 +616,17 @@
    "next": null
   },
   {
+   "id": "715351a0ccfe",
+   "title": "Presidenta Keiko Fujimori: Gobierno responderá con más fuerza frente al fenómeno El Niño",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTZoaEdvSElUckwyd09VNE1jdHlVZkxvRnk1U3Q4QzNpSWtnMUN1cWFXVlhBTzFaOXZWdWZ6cTJyVXRlc19TVktVd193R1FjYUdLUWZvd0ZnM3R4WGhiZmVYMnJKTmFFZ2FpbW1qWkE1UXFSUzlxZHpvNVI3OEwxM010MjhJUkR0Ylh3eXNiaUplQlZfMXhjdWZvcXVMb1NqY2tpcktxWEF0bTlPN1JtdWU0T2hXaTd1eDFlYXotTTE?oc=5",
+   "date": "2026-11-23T17:37:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "7ec316fc1193",
    "title": "Presidenta Fujimori destaca fortaleza económica del Perú e invita a empresarios chinos a invertir en el país",
    "excerpt": "",
@@ -655,17 +666,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmxKZXp4b2V1SDNhTXRQajNQaGFvVjMxVFFlaE5FNjZ6X2VmbXJheHR4V0JlLTFUT1duUEM4WWV2Z0lpR2pGNTNOVnVFYnJfMkNqMHo2cDNSTUVYanN3R0w2Y1E4aDJRSWtTeDNSNDB1Z0ZJTVRCSUdKVGE0TkFwNW9KSG90LUx2bHR3TjFjMDN1ZmtNWEVHaDVBQ3o3eUF6dTlHYktHTHU3OHpt?oc=5",
    "date": "2026-11-23T17:31:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "715351a0ccfe",
-   "title": "Presidenta Keiko Fujimori: Gobierno responderá con más fuerza frente al fenómeno El Niño",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTZoaEdvSElUckwyd09VNE1jdHlVZkxvRnk1U3Q4QzNpSWtnMUN1cWFXVlhBTzFaOXZWdWZ6cTJyVXRlc19TVktVd193R1FjYUdLUWZvd0ZnM3R4WGhiZmVYMnJKTmFFZ2FpbW1qWkE1UXFSUzlxZHpvNVI3OEwxM010MjhJUkR0Ylh3eXNiaUplQlZfMXhjdWZvcXVMb1NqY2tpcktxWEF0bTlPN1JtdWU0T2hXaTd1eDFlYXotTTE?oc=5",
-   "date": "2026-11-23T17:19:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -842,17 +842,6 @@
    "next": null
   },
   {
-   "id": "e9a63ea8d61c",
-   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante críticas por deficiencias en misa del papa León XIV en Las Palmas",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRTd2cjhTbTJpNFQxeGxMX05DY2Q0aGdnSnJKQW8zSms1a0c3SWJIcFBJektrd3VncGo0Z282Z2swbV8tTzU0djZVbzdnbnR5OHVaczBUYmgzRFBfX0p2THpMOXNEakZPUGxoQzdub01kS09mdklIb0t2dl9qS3ZZc0d6TXg4aXkyVy1fQm56SVMyTWJIT3hXMF9nMHFmcUxFZzdQZ25BSWZWdWJtS1h2UExzTWR3SUlYc0lPN05FOTBuekw3VTRJS2lOVnZzc25hSVREOE5qb0YtbENhTHFPcG9Jd0JiQnoxVlhSOFVNb3E?oc=5",
-   "date": "2026-11-23T15:02:24+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "a7685c579a5c",
    "title": "Keiko Fujimori expresa su respaldo al canciller Carlos Espá ante moción de interpelación",
    "excerpt": "La presidenta Keiko Fujimori expresó su respaldo al canciller Carlos Espá y a todo su Gabinete Ministerial, ante la posibilidad de que el titular de Torre Tagle sea interpelado en…",
@@ -893,6 +882,17 @@
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWVaaTRxaWpIY1pjMjZjZlk0UDhtZGtFYWZFZWVjbnl1VHVYcXZYVXRSblN6SkZobGNRMUcxeXpUNDZvdEtCWU8yMm5wSWYyZFBGbzNxWjVXT3I0YldHUTYyTkc5TV96dzkyTjZ2djFIekE0cE9FbU1fZW1uaDVWTE5QRmUwdU12aDFjMGlMXzFvcS1aQ2NzUTVCdll0UW56SC1CaU9CYXE2N1dfMmNRcjZxRVlmNHhYUTAzMFBFYWx6XzExNnljX1ZaWEZrVllTQXl3eVJiQQ?oc=5",
    "date": "2026-11-23T14:47:33+00:00",
    "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e9a63ea8d61c",
+   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante críticas por deficiencias en misa del papa León XIV en Las Palmas",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY0RNVUZrTzMtdFpNdlBubUNzS1p4X0lXajcxQ3p5bHNLUVZweU43RmRNWG5iUlJYQ01SZGpqRFAwNUF3LXBZVFNBRW55T3pacFhXVTdZLU5tdGZpSEZCanZxeWdwOFlFY01ZbG55R2duczBGa0NqeDU0OXhXX3dNUVhfN0Jmc0V1QzVvRnM1MU1oWlgwNWhWMTZsRXhMbk5tb3JXNm1wcWloZTRWM2o5bWRIWkQ3QmFjQ3I4SjI5aWNjdHRXMHZoRjdManJVbmowa0ZDTkZaNEdEX2JfQnRWYUM4RDh6SlBuYVlYSGhzQ2M4czdleGJwZ3dXYXc?oc=5",
+   "date": "2026-11-23T14:44:55+00:00",
+   "state": "triste",
    "place": null,
    "next": null
   },
