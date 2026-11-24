@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:15:12.315874+00:00",
+ "generated_at": "2026-11-24T21:36:20.853715+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,23 +432,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a86c5d2dd725",
+   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
+   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
+   "date": "2026-11-24T21:20:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "236dfc262184",
    "title": "Keiko Fujimori recuerda a su madre Susana Higuchi: “Nunca se dio por vencida”",
    "excerpt": "",
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlZWX3NtMVBfR3ZNazVUWm9Id0NZQlI3YkdYTUp5T2lKTmdUcFJjWWh1eHVnOFViZlEwcUUwSV9DY0ltVDBRSWtVVkpPM0VadS0wdkdDdW92YnEyLW5yYXJ5MWxmNndhYkFvWG9uUGlPLVFSc0lVVURZLXhyU1MzSzJndkFDWEdsY1JWemJzNmlRTXkyMDRvVVBva3pBZkHSAaQBQVVfeXFMTXd6NUtEQUFGM1VBdWZ5bjBpR1JFUGt0M3dNMldQYnNRR0RPb0NEdnk0Y29fTW02YjdRbHVKVW8wQ1loZWdTQkRMMlpQT0Q3X1IxTG03WHlUeFBvVXZpblA5OUlkbFpVMFZMNm52NGpiLW1mT3lQdkhvcGh6YjNybzFMaG1PT2FUc3I5cWVFaFRWd3NRNmZNelowRDdkQnZjWE8wcnM?oc=5",
    "date": "2026-11-24T21:08:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a86c5d2dd725",
-   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
-   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
-   "date": "2026-11-24T20:46:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
