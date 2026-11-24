@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T14:47:31.903739+00:00",
+ "generated_at": "2026-11-24T15:31:03.309603+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Ecuador",
-   "abroad": true,
-   "city": "Ecuador"
+   "name": "Ministerio de Defensa",
+   "city": null,
+   "lat": -12.06528,
+   "lng": -77.0406,
+   "abroad": false
   },
-  "source": "América Económica",
-  "date": "2026-11-23T18:21:40+00:00"
+  "source": "La República",
+  "date": "2026-11-24T15:14:21+00:00"
  },
  "next": null,
  "counts_7d": {
@@ -404,6 +406,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "18ffced53ab6",
+   "title": "Gobierno de Fujimori recicla a José Williams: ex presidente del Congreso ahora dirigirá el CAEN",
+   "excerpt": "Williams, excongresista de Avanza País, asume su nuevo cargo con rango de director de Programa Sectorial II en el Ministerio de Defensa.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/24/gobierno-de-fujimori-recicla-a-jose-williams-ex-presidente-del-congreso-ahora-dirigira-el-caen-hnews-1835112",
+   "date": "2026-11-24T15:14:21+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Ministerio de Defensa",
+    "city": null,
+    "lat": -12.06528,
+    "lng": -77.0406,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "b2f2e792fc5a",
    "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
    "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
@@ -536,6 +555,17 @@
    "next": null
   },
   {
+   "id": "6c2df3d400f1",
+   "title": "Pucusana: Keiko Fujimori recibe 14 maquinarias...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeXdRd21yQWZ5OU5tQTAxaGxFa1pQVkpnTnFJS29LR3EwNjM4bWlUNEpjVUdSN21NenF1NTlSVGZfT0FNUzk0TENsaFRRbTg5RjA3dk4zM01GSzVxUjhWWUdrZ3h5ak91S2s5MHRDbTlaWDdSY3d3bVpKdkFnRVJ1dFR6cnhNMDNvWHk3VjhPWkgycWFqa1ZXQlRhSGVYeWZZeVVJTGpmc1dObDAzSENkQTRvR1ZHSXFlTFpxX3NDMEoxYTMxa1HSAcsBQVVfeXFMTk5fbzJHN1dULVV2V09xajh5ZGhMcThuVWpMd2x4dEtNMFMxQTVlcXlkcmtnM2dZT3FPTEdCUnh5aWFBU1NmcmtMX04zMHcxMHpDSTZjZ1ZEYk5JT3JUd3J5ZHFYOHMyX09WbWp2bHdDYVRtaEYtallBX0VfNVhwUXVUWGEwTDZCMzg4NGQyVndBbjVRZy1yWVdKRG5mbVEwWkNpWVNtaHZ1YTdqcnprY3VGNHNpbXZMSjhoaldOdjRLNm8zd291VW0xZzQ?oc=5",
+   "date": "2026-11-23T21:43:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ca2804f4522f",
    "title": "Presidenta Fujimori afirma que el Gobierno responderá con más fuerza frente al fenómeno El Niño",
    "excerpt": "",
@@ -642,7 +672,7 @@
    "id": "8f9fa616ea97",
    "title": "“Así como ‘Jolín’, caerán otros criminales”, advierte Keiko Fujimori",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1JlX0wzcW9NTHZRdUl2eml3a2tHX3JlaDJOUFd1RFl6b1RwQXR2Q0FROWFDdTYtU0tFN1hJbWNweUVsc1NMSC1Sb3RnOFdVUXpsME8xSUlrT0hKSVRBTVMyRnEybVdFbjdTVl93emZUd0xHMVFJZlN1NVh2S0o1Zi1WMXo2Uk81bklvWDJNNzRfWEcz?oc=5",
    "date": "2026-11-23T18:08:30+00:00",
    "state": "posando",
@@ -1011,7 +1041,7 @@
    "id": "1fd122d687b7",
    "title": "Keiko Fujimori pide disculpas por deficiencias en misa del papa León XIV en Las Palmas y respalda a canciller",
    "excerpt": "",
-   "source": "Perú21",
+   "source": "Perú 21",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUFIWG1jcVB1TmVuaG1jNERCMnpoRHpzRDk5ZEhPZ001akNKQzZIUVFNbEE0OXAwNV8yckxvWVV0X3E3QnRPd3p4SUFDaTJxd0VZZ3UzX0xBRjVteXVHUkh0WVczekhXMHN0NTBWN09XSDExRVJ1NVJ3YUtPRmU1U2NmT3czRnpoSFdrMUFaT183SEhMS2R6VDA4amhPZWNZLUhTRnF1ZENyZGVMZTZkag?oc=5",
    "date": "2026-11-23T12:24:57+00:00",
    "state": "posando",
@@ -1053,34 +1083,6 @@
     "abroad": true,
     "city": "Japón"
    },
-   "next": null
-  },
-  {
-   "id": "7484f06eac17",
-   "title": "Hayley Williams, vocalista de Paramore, lanza contundente mensaje a la presidenta Keiko Fujimori durante su concierto en Lima",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWEg1WXlxa0lwZFR4Tmg3Um02UkgxVXBsTlR6dWJYMmo1THR2SERaLWJRLVJlelFPbFJoLV9SZ01RWTQ1T2lDXzhoWnB2cjFzaXVxSlhLbllZaVZqQ1RUV01NWUp3R1JZOXVsOGFod2EtZHRaaGhLc2FaRXRlVGp2LU4zM3hPNlpuMUZEdlQ5akpvUnh2ajVoSGVnVVM0SUFLSmppLXhSQ3JhT2VMeV9uTE4tNHFrc09Gem5feHdMRzFYajFKM081dl92dUNwOXBuQ25OSWZFZnYwQmVBQlFNSGxjUS1sQU9pMGJFSFI3ZFl0bEJqQVlzS2ltMjFTdUJFWEJqOTBzcExtVFVoQXfSAZMCQVVfeXFMUGgyZEtEZUoyYjVvcXZZT0pETVM4UV9TWTBWTm9BcHc5LU9mem1VcnBlTG1HRG1pR1RPc1N1T0NlUTdkaHFZM3N2bGtpVHFzRERHc0pUbzRkbDVIVUc5SEItbnl2azYzUVBMRUFXOHNDQVhuS2t1QzVJemtud2E4TEtPRHJLTmR1WWtGbmxhMFpmeldYa3hrdDRERHpCMWhXRFpyNjktUmp4U014R2plS0ZPTENiYlEtODRsa2F5ZG5rUFZrVEN6ZkREd3hCNjNkNVd1T2ZpaV9lbk9wUkt1MVB2UGkyS3FiR1ZPU3I2Yi1rYm4wYTNpZ3dBeVZqMWUza3NnWjZPWXRYQTZUUWRjcTVjbm8?oc=5",
-   "date": "2026-11-22T17:24:40+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "2b557fa81d16",
-   "title": "Keiko Fujimori elogia a Xi Jinping: “Es un líder fuerte”",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUXl3d3lKdmtBNTh1RnAzZUZVNXFrNnZUSTVPMm5BaHlQYzlWRmRkeDNIeGtleGExWi1wUERGQ25ZS2xkVkRvbG9QS2w5U0hxUm9ZRGRMQW1oWjhjbUQzVmpKbGdMWERIdGNuSTh2M0JQVFlCcE9HN3pnWWk2czVEUlhtdmw5eXFsM09HUXZmM0ctd3NCUHRLZ3k5UjVBWXVIRkRfeDBR0gG6AUFVX3lxTE91VElyTXU5TWFubWpfa3hjc1JJUDAwbkxiQ1BtSlBqaVlabkxQMElFYW0xcnFIVEV1YV9nOGxsR1dfRmxsRGlCVi1udllvSWdPQ2FrZjNTWWtKak9SdzMxbDJqbmt2dkxhc1U0S2JWOTZnaEo2T1oyNDZmQzRGeHBkU1B2eUNzQWZBeWxwdnA0QTNTT2E4QWF2ckVzQVZKak1ZTWExeTdZQWNkYS1YYVFyY3BmdnYtVnVPUQ?oc=5",
-   "date": "2026-11-22T14:51:54+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
@@ -1249,6 +1251,10 @@
    -12.02823,
    -77.10499
   ],
-  "planta de la empresa komatsu, pucusana, peru": null
+  "planta de la empresa komatsu, pucusana, peru": null,
+  "ministerio de defensa, peru": [
+   -12.06528,
+   -77.0406
+  ]
  }
 }
