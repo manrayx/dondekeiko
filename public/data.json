@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T18:45:30.561410+00:00",
+ "generated_at": "2026-11-24T19:07:20.663846+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -415,6 +415,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a86c5d2dd725",
+   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
+   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
+   "date": "2026-11-24T19:01:37+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "45f08a6fec0c",
+   "title": "Keiko Fujimori pide autorización al Senado para viajar a Colombia el próximo 3 de diciembre",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY19ra05GQV9zTmZocjdaNWMyV0VYandrMjg0bS1pRTdyZXlKNnFEU2NNekllcEplcE01N3cyR0EyQ1YzZ3BoLTdnS25IZEw4ODBFSDRwdzUzTUVDa1U1R2VRNEk0NGh3cmk4LTBRLW9jQ2FvNDI0RGQtWEExazNkc2oxbkdQTlVtdXNva1ZnNVNKVThLZU1BSmtLdGtRa21mM3I2WjE2MGVQcU9FbWxCMHo3ZmlFODVPSmZxREpnZ0o?oc=5",
+   "date": "2026-11-24T18:53:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "6a55a1fd8724",
    "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia el 3 de diciembre",
    "excerpt": "",
@@ -426,12 +448,12 @@
    "next": null
   },
   {
-   "id": "a86c5d2dd725",
-   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
-   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
-   "date": "2026-11-24T18:25:40+00:00",
+   "id": "2b2d7a1c827a",
+   "title": "Keiko Fujimori solicita autorización de viaje al Congreso para ir a Colombia el próximo 3 de diciembre",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGRTd3NMQVFvNUNtQkVHTXRCOWtKRXgxRFZZbUJEZnVOcWlpTzc5Nm9FQjlVYUJuNDVlbDEtaHZpYXEzdzRDcnhLcHFzREk2MXpFRUV6V1d5dnJNb0JIV0ZTTHJyWU1ibEd4STlCel9RM2NqX1ZKT3hkNDI1bUwtSGQzd2hMaXdveVg3ZzZlNEZ5N1dtT0g5bWh6NDBLSVNyeVdldHJwUVAxOXZkN1R0dlQzRnUzNHp2UmU2MTJ5N0dRQ0J6dXhmYy03RQ?oc=5",
+   "date": "2026-11-24T18:20:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -482,6 +504,17 @@
     "name": "Colombia",
     "abroad": true
    }
+  },
+  {
+   "id": "e74b1fb7b0e8",
+   "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV en Las Palmas y respalda a canciller Espá",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDBBMHRLTTB5UlFiVTY1a3hPVERsQXpkN1M1eWJfMGlzTU9TODdUaXFKMTJQS1ZJUWF5QVNoWFZxUEhmcDlBWm9Id2Fub1RuV1ppdkFsZXNzekN5a3A5bGdFTlFYb1otbjEzcGpoTFp0bEZ5MmpSU0ZmU3YxYUlsQmV2NDFfWlJGSGFMelcwbE1aMjh1ODJ6SmZjVDNiVTNpRXpFdl9vT2t1Rl8zZzhvRHRlRFRGOWZFemRQN2xnV2drRjFtQmhKV2ZVaTBFdmZwRUhv?oc=5",
+   "date": "2026-11-24T17:26:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "64bd0ca03042",
@@ -551,17 +584,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWZoX3EyZHRCU0MxSEtxZ0dVbXhYancwWExRNUdMTVlSTlRXZUVlMHZFN2pTem5jckpLNUtha0VoSUlGZGwtQTZabDFWX0IyeTRfcklIbklSTE8tdFRFU29GME5ibkFEbUJPdWhUcGpMeTBZeFlRZEtzSXpyMXlvM0xtN0ZCUkVuLWZTM2xZR2ctekV1Tzl1VjVsMnBYU2h0U2Q40gGoAUFVX3lxTFBaUTdYYUJreC1oQ0RUelo4V2JpSFQzcHE0b3UzLThzQTZLeTRjdjFjVWN1a2hocWpFS2g4SFJXS2FHV1VRQ3NabDRrVk1XN1VFTmVnUVJNN3NidXNLdkxTOFphWEtoOEowRklMRVJld0szVTZ5djEwLWJLNDBmZUNFSjlQOVNpWlNHLUd0dE9HYXpBVHlzUkZNRlBsbzVzRnZvUmx2eFVGeg?oc=5",
    "date": "2026-11-24T09:45:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e74b1fb7b0e8",
-   "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV en Las Palmas y respalda a canciller Espá",
-   "excerpt": "",
-   "source": "Perú Informa",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDBBMHRLTTB5UlFiVTY1a3hPVERsQXpkN1M1eWJfMGlzTU9TODdUaXFKMTJQS1ZJUWF5QVNoWFZxUEhmcDlBWm9Id2Fub1RuV1ppdkFsZXNzekN5a3A5bGdFTlFYb1otbjEzcGpoTFp0bEZ5MmpSU0ZmU3YxYUlsQmV2NDFfWlJGSGFMelcwbE1aMjh1ODJ6SmZjVDNiVTNpRXpFdl9vT2t1Rl8zZzhvRHRlRFRGOWZFemRQN2xnV2drRjFtQmhKV2ZVaTBFdmZwRUhv?oc=5",
-   "date": "2026-11-24T05:36:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1067,28 +1089,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWVCcGRJVUNqRjhFdlBtNURwLXdMUDRYc2ZGOXZqMzFicFdXYzFJRTU0UG9qS01SS01XczloMWE2bEhTZ2s4YU04SlZjdmU4ZWpsNnNwLU5oOFppQ1ZOV0c3MFZlMGlPVkw4ckl4SU81OXBPY0xHOUExVkhpZTF2eUplR2hMbXhiVURuYXhhRFJqZWo0LXhfcTV0VGJROWl1NmhrX3FJU1ptV2J4NjczUEFYU0NZTnM?oc=5",
    "date": "2026-11-23T14:21:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "78918ea4cbc2",
-   "title": "Keiko Fujimori: ¿Cuáles son los nueve acuerdos suscritos por Perú y Japón durante su visita oficial?",
-   "excerpt": "La presidenta de la República participó como “testigo de honor” en la ceremonia de suscripción de los instrumentos.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-se-reune-con-emperador-y-primera-ministra-de-japon-que-acuerdos-suscribieron-durante-la-visita-oficial-apuesplan-noticia/",
-   "date": "2026-11-23T14:05:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f65b0fc3017c",
-   "title": "Keiko Fujimori participa en entrega de 14 máquinas donadas por Japón para reforzar prevención frente a El Niño",
-   "excerpt": "La presidenta de la república, Keiko Fujimori, participa en la entrega de 14 unidades de maquinaria pesada donadas por el Fondo General de Contravalor Perú-Japón, que permitirán fortalecer los trabajos…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-participa-en-entrega-de-14-maquinas-donadas-por-japon-para-reforzar-prevencion-frente-al-fenomeno-el-nino-apuesplan-ultimas-noticia/",
-   "date": "2026-11-23T13:05:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
