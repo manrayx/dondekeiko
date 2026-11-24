@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:52:24.898504+00:00",
+ "generated_at": "2026-11-24T16:13:47.642827+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -406,6 +406,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b2f2e792fc5a",
+   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
+   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-24T16:01:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "18ffced53ab6",
    "title": "Gobierno de Fujimori recicla a José Williams: ex presidente del Congreso ahora dirigirá el CAEN",
    "excerpt": "Williams, excongresista de Avanza País, asume su nuevo cargo con rango de director de Programa Sectorial II en el Ministerio de Defensa.",
@@ -420,17 +431,6 @@
     "lng": -77.0406,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "b2f2e792fc5a",
-   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
-   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-24T13:37:58+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -536,9 +536,9 @@
    "id": "b2226da9c081",
    "title": "Keiko Fujimori destaca que tecnología del FBI fue clave para ubicar a 'Jolín', líder de la organización criminal La Jauría",
    "excerpt": "La mandataria adelantó que continuarán las acciones contra otros integrantes de organizaciones criminales que operan en el país",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/24/keiko-fujimori-destaca-que-tecnologia-del-fbi-fue-clave-para-ubicar-a-jolin-lider-de-la-organizacion-criminal-la-jauria/",
-   "date": "2026-11-24T00:32:19+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZURBT1ZPQ0h6Wm1fVTVhdHllU2RJWDVhWl9hajh5OV8xMHJsVWRQdEl6QkhzYnRmYVd1OTJyRVQwTXQ2MGZrckJVVkQzMHJrVHJpd3E1eHgybVlaaEpjMkdSVUtDWHVPc2dvelJ1Wkw1eXpmQjFBQVVuNU9NSE1MYkg1UkhpWUtEMGZlRE5wVHpMMGxmWUVBMXhhZTNwSDFMaFZFWF8wUlNOZkxGM3hBOXNyWUMzMk9YM2VXcF9BNDlpZ1hrLVhnZjFEbVpRci1pZUFvS3l1dmtxNkZqSkkxUWo1MzVTTXRfYU50V09GY2dQQdIBjAJBVV95cUxQZ1BQNHBvandsYUZ4OFd3eXZxekRvenVTQi1sb0dyTEpDbnQxTnVGanY4ZU5ndzlMdlBrTlJDZXI1ZmVqaUZiQUhtN0xHQ2JGc3A1RVpsV0V1NG5KMVkyZFNTRl9ZZzVreWVtdF9mVnh1dFFoOXdMT1FkTmV0Vm1KVUZCTlRrc1REZ0hVRTR6Qk9sUEh4aC1xeVEtUjFpVDY4ell2MkgtUW5ESWFvQVVzNUVSZFR6WTVCS0ZuWEl0ZUtmOGdoWWRZRFhyVG5BbWF3SDFfUW4zYlM5d01XcW93ejdOd01jWDkwdVFrVU05V3k1N2RxWmlGSEVnV1RoZ3EwcG05NmJ0YlQzYmdQ?oc=5",
+   "date": "2026-11-24T00:32:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
