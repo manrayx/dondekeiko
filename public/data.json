@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T13:21:34.221379+00:00",
+ "generated_at": "2026-11-24T13:43:23.660643+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -404,6 +404,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b2f2e792fc5a",
+   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
+   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
+   "date": "2026-11-24T13:37:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "64bd0ca03042",
    "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
    "excerpt": "",
@@ -421,17 +432,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/24/la-economia-peruana-crece-31-en-el-tercer-trimestre-impulsada-por-la-inversion-privada-y-respaldo-a-keiko-fujimori/",
    "date": "2026-11-24T12:48:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b2f2e792fc5a",
-   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
-   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-24T12:21:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
