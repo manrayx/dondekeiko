@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:00:11.543850+00:00",
+ "generated_at": "2026-11-25T09:21:37.291878+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -387,7 +387,7 @@
    "excerpt": "",
    "source": "Crónica Viva",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3FpcTVjMXVjNnpMMFNBWFZGc09QU01ta0F6bHpCbkc3SHE5QUxBSUlsWGRNdFBMSldNb2FHTW1VZThGRHNZM1RFMVYzMEswWDA1aHFnRl9OYmxRR2VfdjlFazFDbU01ZzRCT2tNZHZaNkp6cnFEaEtZdWNfbFlNd3doRGRoaXlrOVpjMHRaUkhXdTg1dEhkMWozandvRFdXNHNnYlhoSHpJYThERnZIN1hmUzB3aHRSMk5UT0ZNcw?oc=5",
-   "date": "2026-11-25T03:09:49+00:00",
+   "date": "2026-11-25T03:09:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -399,6 +399,17 @@
    "source": "Diario EP",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm1VZGktb0JnT3FvUVU1QmtYS3NfXzRZZWVxblZBTVNtU3o5SG05S01OZWw4Y3FRX0VIS3U2SzU5Y19UTzZsWFBMRGFlbnN5QTI2MGU2T3VYOUZmN3RudDVwaW04YnJVVlFhSnNGRWF2b0tHUEt3SFlscUtoSy1wWGpFZGF4UHJIXzgxYjY0MjhhVkw1OVE?oc=5",
    "date": "2026-11-25T02:59:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dd458331ebe0",
+   "title": "Presidenta Keiko Fujimori solicita autorización para viajar a Colombia",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMW5yRlU3TFJVWVdsd044WmF3RHhUVlVFRVBORXk3Q29kNTVxbU5GMXpNcm9UNEZKbDkyX0V2akw4T05qWldfT1JUMDByTFJXU1lPeGVyaGFTWDJlbHdBeUc1WmxMazZQTDZ4WnItbXo0ZnNHZ0U1eFZ2SW90SGFycEc1SXNxRXJWTnJwVGdSY25YbDgxRmZIdk1mUXFwWG1DWFh3QWFhckZXc25pcExyMEVR?oc=5",
+   "date": "2026-11-25T02:46:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -420,17 +431,6 @@
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
-   "date": "2026-11-25T02:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dd458331ebe0",
-   "title": "Presidenta Keiko Fujimori solicita autorización para viajar a Colombia",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMW5yRlU3TFJVWVdsd044WmF3RHhUVlVFRVBORXk3Q29kNTVxbU5GMXpNcm9UNEZKbDkyX0V2akw4T05qWldfT1JUMDByTFJXU1lPeGVyaGFTWDJlbHdBeUc1WmxMazZQTDZ4WnItbXo0ZnNHZ0U1eFZ2SW90SGFycEc1SXNxRXJWTnJwVGdSY25YbDgxRmZIdk1mUXFwWG1DWFh3QWFhckZXc25pcExyMEVR?oc=5",
    "date": "2026-11-25T02:01:00+00:00",
    "state": "posando",
    "place": null,
@@ -1010,6 +1010,17 @@
    "next": null
   },
   {
+   "id": "95a1ec83d82f",
+   "title": "Presidenta Keiko Fujimori fue recibida en...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWZrZXhOcGVndzU5MWR4d0Vsa3pBOE5pOUVtdFR0ZmxxZWJDZElZZzdOcjIzeW03Y2sxY3puaVVEdTFyTnNDSk90czVmRkhERlhoTDJSWXVaOXF4X1A1dXRJakxvTldXb0IxMjFjeWRWZU9CSzJJcS12STV4MXJVY2FLQTY3WnpJTHNMc3FpVnh0QmRYNzAxMl9FUng0Zlh5U21HbV9ZUEdoLWNTR3fSAbMBQVVfeXFMT2xmTXJCTWtUX0luOWg1OHk2NWZ5ZktiQzVNZjJyU3FOTVlET3h5cGk1Wmw4QWRkUHlHeW4xeUZRU2lXaVR3VFgwWnpOMm5SLUVjVXRiYWp4VXJhZExEZnZjMVREX2FOeC1nMU9hRUt5cjA2RTVmRF9wX012OEZZZnN2STduWWFjSTI4VERra08xdDFSWEFMQXR3Y0pTaFp0WTdNeWFpSE9Fd2pPVEdEeG1yTlk?oc=5",
+   "date": "2026-11-23T19:13:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8d527abac027",
    "title": "Keiko Fujimori advierte que El Niño llegará con fuerza y anuncia mayor despliegue de prevención",
    "excerpt": "",
@@ -1038,17 +1049,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2dBUWpiSFhEZzBpb2ptbkFSa2o0NHlmNVNNWGhIRVRGVnJ0eXNZMXdnNEJINWtmRUdpTzVaTXBxaUUyUWI3eEY1TTNQdWFHV2wxTzY3VVplQ0VQYWIyZy1XRmk2TC0tWEQwbDJxMkdZdTlrOG5MZWtTSDVjbW5xQ2hHX2dOZ1dTMERTSHpLc05kY1JrQ0lhYXNCQ3JIUElIcE01YXhkMk5hXzFn0gHAAUFVX3lxTE1FaVZZT2N4cjV0V2xxZ1RZUWVQVDllUEZ6MkdqeU45c2dOSmtSTTZIV2IxNGR5MkE1bTJra1oxdFM2aEdSVElDNXZMNFVJRnJpREgwT0cxWTIyNkhwMUlZRjJkLVJ5Q1hKLW5kSzdlZGU1OTBQUm1jQlZUUWE5TkpmSlJtR0FKWGdDYk5zemNRNWlESXRkTHJ2ZHZ2dmRWQkgzcmUzSXJjOTFLck1zTDFUc0xERFRmdUpXMHlnWnNRZw?oc=5",
    "date": "2026-11-23T18:49:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "50d32cdfeb25",
-   "title": "Presidenta Keiko Fujimori destaca captura de “Jolín”: “Como él caerán los otros criminales”",
-   "excerpt": "",
-   "source": "Trujillo en Línea",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZWluUGp5QjlmSC1Ebk5Pb2tXOW56NFVTMWNJTko5Rl9wYV9XOTV1NTE4c0NjVTRLZldvaWZMekd1eGFLVDVicmZmUzNGc0lXVjZWTm82QXB2MzhHVDBCcHV4TTE5M3lUQVU0cks3S25FSmlxbVdKN0hEN0VFRl9aZHR2c2x6Sy00b1BiMWxtRHluZVhPZ2tYZ0NQQ0xUQVQyeUNTSFBwbkJsZkgxaEdlSTJxT0I5WlZWUHZBNGhfTk14RVl3T21COWZLLUNvLTFBQlBDcm5SNDZtQQ?oc=5",
-   "date": "2026-11-23T18:37:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
