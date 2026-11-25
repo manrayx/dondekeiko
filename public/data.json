@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T21:11:35.530238+00:00",
+ "generated_at": "2026-11-25T21:53:59.825592+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -381,6 +381,17 @@
  "agenda_minutes_7d": 649,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "51c2133d410d",
+   "title": "Presidenta Keiko Fujimori y autoridades de la Sunarp revisaron acciones para impulsar la titulación de predios a nivel nacional",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTE5ILWxIX3FfNlNuQjZueHBVVHNqS1hmbDJ0M0Q3ZkNMLWpabEVMQjRfWGVWQzhheHJwNm5fS0lnaGQ5UUg2aEZhTzl1MWVQZWhOMmV4NFdWMXQtOG5KekpWZDlTdGIwVmNpY21pWnhpdkhON2VveHhmcm1tcnVzWDhYbUM2V1BVWkc0NElub3dFLWJjX0lWM3VsZnk4SjhHX0RPSGI5NzRJeU1sT2FXTmhOX2lRQ1VQRVR1ZU0xemFwdGNkWWU2Tm15bFhzeVVMdlBRenRuMkM3dVJQVEFnQmg0eFNDNDJXeHEyX0tRaFJJNTBydEE?oc=5",
+   "date": "2026-11-25T21:39:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "9d6a656df704",
    "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
@@ -1044,17 +1055,6 @@
    "source": "Perú Informa",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFVLS1JsV0FoV3YwaEdfRl9TS0RfaGdZcVlDdEhwYXFOS28wREdta3NER1kxdnFMd24yWUdJR19qMWh0aWQzOTE4Y2M4UEFxX0hJc1dIWnFWNS11Vndod2J6bmctODhaTHdXZlJNUjFzQUJtSFdJdDg5M0FNNC1rV1JaTVdFaHpYZlhlT2dwNEZjYVMzMzBfQlJTTFJlc25iQUx0Y2dwZ3RGeGlIQXJ1Vko4ei1yMmNhZU90SmJvVmc3Zld1RjNsRUE4TQ?oc=5",
    "date": "2026-11-24T04:44:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9fb64a6a5fbb",
-   "title": "Keiko Fujimori respalda al canciller Carlos Espá",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdk9TdlRWYkRhcFJSSVgxaWZ6Vy00aUZFR1pSRjJzcnlPdC1MTzJmUzhPWXBhanpnSGhHdUcyaUZPUUdTWE9QWVAyeFB0bXBWaXpfMFJVc0VOUWVJZWR1Z1FaYXpkMV9ta0V3WGR1N2x2a3ViNWFHT052cFpPMmxZandUV1U3Q0txT25NODR3ZXpzX2prTW00Q3dQQTVlVXp0UUVmZm5HVFlFQlJUMXZ4WnF4VEZlUVHSAbwBQVVfeXFMTk1qSHlqcXNvRnVVSDlKSjBDWENoempBRlVneUFodnlkNFVFLTZIX0IwTXNNaTFJRW15VmQ5aEswOEtrVE9kREVhajVRdTZaYWw0X3ptVTdkaG1kd0FyOXJ1MUZKa2RwQmFRQ2hMUHVoUV9FaDVCazNldVlEV0dXdm4zQmZ5SHdNdXNQMW81bmpDNUlPYWZ4Yi0wbzlYdTAtZlkzNzN2MHNEYnVfNi1kY3g2d0NiTEtEeTB0X2o?oc=5",
-   "date": "2026-11-24T04:32:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
