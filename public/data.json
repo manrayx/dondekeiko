@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:15:24.209826+00:00",
+ "generated_at": "2026-11-25T22:58:01.557072+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,7 +111,7 @@
    "abroad": true
   },
   "source": "Gestión",
-  "date": "2026-11-25T20:42:00+00:00",
+  "date": "2026-11-25T22:45:00+00:00",
   "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
   "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/"
  },
@@ -382,6 +382,31 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9d6a656df704",
+   "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
+   "excerpt": "La presidenta, Keiko Fujimori, podría viajar a Colombia el próximo 3 de diciembre para participar en el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. El Senado debatirá este viernes 27…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/",
+   "date": "2026-11-25T22:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "d629246b2ba2",
+   "title": "Julio Velarde ve difícil una salida anticipada de Keiko Fujimori: “Ahora sacar a un presidente es altamente improbable; va a durar cinco años\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQWV5QnRiYlZhRG02Y1dlejFlMV8tNlVJZFFOLWhBWWhra1k4N3JUMGZQQmp2X2V4Rlk2RE8zXzZOdWRzMER4Y0JzMDhoWVFlMG5ScGZjOW1hNnVLd0FCN2Y1SDNqX1hVUW5hT0xseDBUakdybkhmTjl4ZG9VelliRzZMYW5RUjBXZzFUOXU0UFc5MW02U3NxOTF5V3F1ODhSaXZUNnh5UTJMbGVOZXAzMFFQWWJuaHl1QkpYTlpPWHBRRjFxamM5SkZjM2JMS1c1a09BTE96dEFJemVQem55UXN0Z3ZqVDNwT2ZFUkxPMUt1ZHE4cm5HZ1pXU3VWdHBEQXNBTnBxeWZqVHdnbERDQm1xNGwzQQ?oc=5",
+   "date": "2026-11-25T22:00:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "51c2133d410d",
    "title": "Presidenta Keiko Fujimori y autoridades de la Sunarp revisaron acciones para impulsar la titulación de predios a nivel nacional",
    "excerpt": "",
@@ -391,20 +416,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "9d6a656df704",
-   "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
-   "excerpt": "La presidenta, Keiko Fujimori, podría viajar a Colombia el próximo 3 de diciembre para participar en el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. El Senado debatirá este viernes 27…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/",
-   "date": "2026-11-25T20:42:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   },
   {
    "id": "f6d6a91ea79a",
@@ -1044,17 +1055,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWZoX3EyZHRCU0MxSEtxZ0dVbXhYancwWExRNUdMTVlSTlRXZUVlMHZFN2pTem5jckpLNUtha0VoSUlGZGwtQTZabDFWX0IyeTRfcklIbklSTE8tdFRFU29GME5ibkFEbUJPdWhUcGpMeTBZeFlRZEtzSXpyMXlvM0xtN0ZCUkVuLWZTM2xZR2ctekV1Tzl1VjVsMnBYU2h0U2Q40gGoAUFVX3lxTFBaUTdYYUJreC1oQ0RUelo4V2JpSFQzcHE0b3UzLThzQTZLeTRjdjFjVWN1a2hocWpFS2g4SFJXS2FHV1VRQ3NabDRrVk1XN1VFTmVnUVJNN3NidXNLdkxTOFphWEtoOEowRklMRVJld0szVTZ5djEwLWJLNDBmZUNFSjlQOVNpWlNHLUd0dE9HYXpBVHlzUkZNRlBsbzVzRnZvUmx2eFVGeg?oc=5",
    "date": "2026-11-24T09:45:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "39c9b79c97b0",
-   "title": "Presidenta Fujimori destaca captura de “Jolín”: “Así como él caerán los otros criminales”",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3ZfdUlLZGg4Z294d09mRGJNTS1ta0J6TzA2d1NoczhwTEVlNkJySGZadWZWMWVCS0RCbHlKNV9Sd2xfWTBOeVQ0Mm84NHJnaU9KSEhuS2NXYlVXQmtkbHI4cnJNRlplSGVEa2tFTDdKZ2dFLW5CTjBSVW5zdzg1anlCLVJUSW5qRGJISnUtVm9UV3JSQkRWWDJzMnhrTGFQbE5oY0RRekFjZnFXQ1Naa21ISmZrZXdVSnRRdHFPT1ktUEk?oc=5",
-   "date": "2026-11-24T06:47:34+00:00",
    "state": "posando",
    "place": null,
    "next": null
