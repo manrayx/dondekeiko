@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:19:07.847127+00:00",
+ "generated_at": "2026-11-25T23:41:05.852373+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -509,17 +509,6 @@
    "next": null
   },
   {
-   "id": "64bd0ca03042",
-   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
-   "excerpt": "",
-   "source": "Radio Yaraví Arequipa",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWs1X0preXFOV3JxZ2J6Q3lEU05nVDZ0WDJvRjZhU2xGLUsxUlhqaFhUY0tGdV9DSWtsdFZoRXdJVHJKMzJTaE1zU1NjX3YwOXZKNUtrSl9JVUU3cHN4LThLTDhCaEI5a2RlM3B6RzZBOVdzdFJYdnFlNHBTc3o4RmkzMzB2TWZLOHpFT3ZFajJoQ2lvdXgyd3Rubjdva21LZDduVXlaT2Njb2FfWUxnUkFGcHp1c0VmTThfUzduV2lvMXRVb09hVGtCbm5xeGw5N1FIVDZhSkk?oc=5",
-   "date": "2026-11-25T16:38:04+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "7c1de2e3b11b",
    "title": "Keiko se va a Colombia",
    "excerpt": "",
@@ -1008,6 +997,17 @@
     "name": "Colombia",
     "abroad": true
    }
+  },
+  {
+   "id": "64bd0ca03042",
+   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
+   "excerpt": "",
+   "source": "El Búho.pe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUFNakl2UkZDN0Qxem5yS1RvNlJuVEtqczVPaWljVmlKSzNhOFEtQjhuMWhuTzdJam5RcVNCNGRfVHNkODByX3hwU3gzNnpKQ1RaVFdDNmNDbVhvejFSUjVXelZSbGJnQy1kaDB5UkFCYmJWRzFkSXBnd3QwcjAyeXctNkZQNmNiMldwTU1PdERzX1EzYnMtV3I0M0xDdFVOVEgyTTg5WHhiT0s0d0RWdGpHZE1qN3AzQ290ZktYNA?oc=5",
+   "date": "2026-11-24T16:13:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "c7c7f58f11ca",
