@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:22:17.418993+00:00",
+ "generated_at": "2026-11-25T05:05:13.936925+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -184,7 +184,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -376,59 +376,9 @@
     "lng": -77.0298,
     "abroad": false
    }
-  },
-  {
-   "start": "2026-11-17T17:10:00-05:00",
-   "end": "2026-11-17T17:30:00-05:00",
-   "minutes": 20,
-   "subject": "Reunión bilateral con su homólogo de la República Popular China, Xi Jinping. (Hora local)",
-   "lugar": "Ciudad de Shenzhen, República Popular China",
-   "state": "posando",
-   "place": {
-    "name": "Ciudad de Shenzhen",
-    "full": "Ciudad de Shenzhen, República Popular China",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-11-17T12:15:00-05:00",
-   "end": "2026-11-17T13:35:00-05:00",
-   "minutes": 80,
-   "subject": "Almuerzo de trabajo con empresarios chinos organizado por la Embajada del Perú en la República Popular China. (Hora local)",
-   "lugar": "Ciudad de Shenzhen, República Popular China",
-   "state": "posando",
-   "place": {
-    "name": "Ciudad de Shenzhen",
-    "full": "Ciudad de Shenzhen, República Popular China",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-11-17T09:47:00-05:00",
-   "end": "2026-11-17T11:00:00-05:00",
-   "minutes": 73,
-   "subject": "Reunión con el senador Elard Melgar Valdez, el presidente de la Superintendencia Nacional de Bienes Estales (SBN), Pedro Alberto Farje Horna, los alcaldes virtuales de la provincia de Huara y del distrito de Sayán, el teniente alcalde virtual de la provincia de Huaura y el presidente de la Cámara de Comercio de Huacho.",
-   "lugar": "Sala Pérez de Cuellar de la PCM, Cercado de Lima",
-   "state": "posando",
-   "place": {
-    "name": "Sala Pérez de Cuellar de la PCM",
-    "full": "Sala Pérez de Cuellar de la PCM, Cercado de Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 822,
+ "agenda_minutes_7d": 649,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
