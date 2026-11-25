@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:08:20.552892+00:00",
+ "generated_at": "2026-11-25T20:29:28.712951+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -443,6 +443,17 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMW5yRlU3TFJVWVdsd044WmF3RHhUVlVFRVBORXk3Q29kNTVxbU5GMXpNcm9UNEZKbDkyX0V2akw4T05qWldfT1JUMDByTFJXU1lPeGVyaGFTWDJlbHdBeUc1WmxMazZQTDZ4WnItbXo0ZnNHZ0U1eFZ2SW90SGFycEc1SXNxRXJWTnJwVGdSY25YbDgxRmZIdk1mUXFwWG1DWFh3QWFhckZXc25pcExyMEVR?oc=5",
    "date": "2026-11-25T13:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c699b36e8ea5",
+   "title": "Opiniones divididas de diputados sobre pedido de viaje de Keiko Fujimori: \"No veo nada provechoso\"",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3JLWHllRnNvVjd6Y3YzTUkycXZRY1E5Ul9peDY5TGdSeW5oLWliSmJRR1FwdTNUNzNSMTJoT0lkX0Jjc1RMd2U2ZkRjNm5jSUIxQ1Jnbml2NFVJdDdXUXluUEtpdGRqdUhwdGJRdV9pNXdWLVFQQm1CNmNVSlpRSnJMSnA5ckM0MDAzaUdsM2ZRQ1ViMGpNZEhCQkhYNWw4NEt5RXkwVUZJaEJDUHFjQmpkR1ZiZFg0ZFl0dFVITVV1d0g1eHpQVVM3d0FlZ0U?oc=5",
+   "date": "2026-11-25T12:01:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1038,17 +1049,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUM0LWt4T3ZnX0lNektrbGE2TUNsbkdkcnk4SDdkV2QwTnFqNzhPTUVLU0V2cEdNTS1nd0dhdnNjR1hvN25wYmtTQkwxS3hHV29qYnhyOVdxYWFfUGJmMmVRSC1NWldHX3h0R0ctbkhkSjNpV01Ta0ZoMlUyaHRraU1ReWpUTkVhNXB5RmZxenlWZmY1eXJjbm04bS1wTFNKanFuczUtNG9tTk9kUUpfYjI3cXNCYW8zdmU0NFVmcw?oc=5",
    "date": "2026-11-23T21:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e55696fd32e0",
-   "title": "Keiko Fujimori respaldó a Carlos Espá tras fallas en misa del papa León XIV en Las Palmas: \"Las disculpas a quienes se han visto afectados\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGJxazFSTjF2NUJKNTRncjlPQmRHcG1kWVcxWDdFMUwzRHh6NEp6Q3RSS25HSEhvaEdDYjQ5NUNFajF2dEZFejJkUExFdHEtMlAzNkdramt2RWZkRVdmeDR5WFJ3a2haYlBtU25RdkJfUzkwWTY5dm12NGVUVEJVdHcxbl84RjNvOUdGUS1PUll2dkMwUmg0RUtVV0d5cG9pYllj?oc=5",
-   "date": "2026-11-23T20:02:59+00:00",
    "state": "posando",
    "place": null,
    "next": null
