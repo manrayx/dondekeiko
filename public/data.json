@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:52:15.438373+00:00",
+ "generated_at": "2026-11-25T02:13:35.559803+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -443,6 +443,17 @@
    "next": null
   },
   {
+   "id": "3e93f38195a0",
+   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjdKYkgxSmUxeW1XUS1jZXRveU1DSnNwNndoTFJxOUpRczNmTE1qWFFxVzJTbUtvRS1nNXdyZTlsSGFjRV93X3FwYi1hblI5WXJUUDZGVnlJNldXdURiUHE4R2NWOENtQVFId0lIYk9nS19udTQzNDc3dVRnSFdHNzJmV29UbWphdTVwNy1FWURhQWxRNkpRd2k0N3h4VlpnUE9pV25qSnlYMjF1MFh2ZmNPZ01pYUVGaEppR0RqVms?oc=5",
+   "date": "2026-11-25T01:34:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "94e77d76a181",
    "title": "UNI rinde homenaje póstumo a Susana Higuchi por su trayectoria como ingeniera civil y legado profesional",
    "excerpt": "La madre de Keiko Fujimori egresó de Ingeniería Civil en 1972, en una época con escasa presencia femenina en la carrera, antes de convertirse en primera dama y congresista",
@@ -460,17 +471,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-alista-nuevo-viaje-colombia-como-destino-noticia/",
    "date": "2026-11-24T23:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3e93f38195a0",
-   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjdKYkgxSmUxeW1XUS1jZXRveU1DSnNwNndoTFJxOUpRczNmTE1qWFFxVzJTbUtvRS1nNXdyZTlsSGFjRV93X3FwYi1hblI5WXJUUDZGVnlJNldXdURiUHE4R2NWOENtQVFId0lIYk9nS19udTQzNDc3dVRnSFdHNzJmV29UbWphdTVwNy1FWURhQWxRNkpRd2k0N3h4VlpnUE9pV25qSnlYMjF1MFh2ZmNPZ01pYUVGaEppR0RqVms?oc=5",
-   "date": "2026-11-24T22:49:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
