@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:30:48.477286+00:00",
+ "generated_at": "2026-11-25T01:52:15.438373+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 58
+  "triste": 1,
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -432,6 +432,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b471420e19e4",
+   "title": "Keiko Fujimori anuncia el inicio de las obras de la etapa IV del Proyecto Integral de Agua y Alcantarillado de Juliaca",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdnZPME1mc0k2MVpwdi1YNHFVOXF6b1UtSnFQS2cyRVVzQzdueVlYZ1ViazFNSGtRMkZKS3J2czlOZ0d1Z3hQWjQzSlRFajZKekF4ZHFkUU1mYURvdzZRRnNGR25oSXN1UXdUQjB6MmhveEkzeGxVbXBfMlA3cGUyQjFQR19yUkRJMnNJbmtyVmlGLTV0TDFvcDM3dTRpNExKU2tSekhsSS1PZ3ltbmFKYmVWRFBGcXJWTHBIY29pd2JVOC13LUNOVndfeWlXMVlGXzAtSg?oc=5",
+   "date": "2026-11-25T01:42:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "94e77d76a181",
    "title": "UNI rinde homenaje póstumo a Susana Higuchi por su trayectoria como ingeniera civil y legado profesional",
    "excerpt": "La madre de Keiko Fujimori egresó de Ingeniería Civil en 1972, en una época con escasa presencia femenina en la carrera, antes de convertirse en primera dama y congresista",
@@ -542,17 +553,6 @@
    "next": null
   },
   {
-   "id": "182d929735e8",
-   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakxxY3hsUE9uZGZjRGpRWl9mVEQ2cU0takdqX2tNeXhUT0xSQXJoelEtWGdsSjJ3SjNZTDFpUzliNW1kXy1CWGNhOUhvajBuNGdHX2pfV0dLeXFnRmdYU2M3OU50NlJOclRNYWlJZ1hzWHJCRzhadkhpRmVyVXJtNXhNbEp5WTRGWjMzNUFoaGhHbGF2QWRFQ3dPS0pXR1pPa21RRV9HU2JaRTdZbTRKbE83VzFYV29aZmc?oc=5",
-   "date": "2026-11-24T20:33:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "b58842264b23",
    "title": "Keiko Fujimori alista nueva salida del país: presidenta solicita permiso al Senado para viajar a Colombia este 3 de diciembre",
    "excerpt": "",
@@ -603,6 +603,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-asistio-a-homenaje-postumo-a-su-madre-susana-higuchi-en-la-facultad-de-ingenieria-civil-de-la-uni-ultimas-noticia/",
    "date": "2026-11-24T19:32:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "182d929735e8",
+   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakxxY3hsUE9uZGZjRGpRWl9mVEQ2cU0takdqX2tNeXhUT0xSQXJoelEtWGdsSjJ3SjNZTDFpUzliNW1kXy1CWGNhOUhvajBuNGdHX2pfV0dLeXFnRmdYU2M3OU50NlJOclRNYWlJZ1hzWHJCRzhadkhpRmVyVXJtNXhNbEp5WTRGWjMzNUFoaGhHbGF2QWRFQ3dPS0pXR1pPa21RRV9HU2JaRTdZbTRKbE83VzFYV29aZmc?oc=5",
+   "date": "2026-11-24T19:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1093,17 +1104,6 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWtpRWR4eUI2V2xoUHV2LXpIZmgwNkFVREk5eVp5U0h5OVhlcjk0aTRqQl82WTJHLTEzWkNkeC1ZWk10Z1RBTGJZZWk4MWR2SldIRno5OVlPdDhpVDFfX2xraXNfLTR0Z3dITXFaU0ZyUDd6RTRnaWhCek1PejU4aG5SZ3lZZnAtREs2YWhJdWNKZmlmSXpsMlgtcjFSVXlYbmU5NGRLSE1yZndWay1LZVhsWUViOUtUNEE?oc=5",
    "date": "2026-11-23T16:49:23+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b42f427d0fa9",
-   "title": "Ayacucho: Exigen a Keiko Fujimori cumplir compromisos sobre vía Los Libertadores y transportistas anuncian paro",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdms5QUJSbzFxcGJMWldzNVMycUpGdUl2MGtSVjl0VU5idmdrUGpKbnhFdU91ZmpwWE5nOE8xTWJBU29FODFaaUZ3SVlmRGpuX0tRTTBoT0VIQ2txTlNTRW55VFBfc2dKQ0IzVkdwMVNZcDBGN29GSFE2cExBQmp4dERra0hsV3B4cHR2RkJPV2s4eVk3MDhJMDFITnN1N1d6S0I2TWM4b2NfRlNaUXBpRXMxbGNTWHFJZ2pTMHJYZVBFLWFOcFd4LWdTQlNXU3pzZkxN?oc=5",
-   "date": "2026-11-23T16:08:32+00:00",
-   "state": "triste",
    "place": null,
    "next": null
   }
