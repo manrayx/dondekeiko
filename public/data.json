@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T05:05:13.936925+00:00",
+ "generated_at": "2026-11-25T06:09:55.544485+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -421,6 +421,17 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMW5yRlU3TFJVWVdsd044WmF3RHhUVlVFRVBORXk3Q29kNTVxbU5GMXpNcm9UNEZKbDkyX0V2akw4T05qWldfT1JUMDByTFJXU1lPeGVyaGFTWDJlbHdBeUc1WmxMazZQTDZ4WnItbXo0ZnNHZ0U1eFZ2SW90SGFycEc1SXNxRXJWTnJwVGdSY25YbDgxRmZIdk1mUXFwWG1DWFh3QWFhckZXc25pcExyMEVR?oc=5",
    "date": "2026-11-25T02:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "acbd889f2ee2",
+   "title": "Rodrigo Paz viajará a Perú el viernes para un \"gabinete binacional\" con Keiko Fujimori",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlpBeXlfak1fN3FjcV90R2VrbEFnYmFhbkN4YkFqaEdDMDJpS3ZvdEVNVkxUNE8xQnpHSjdxbF93UWlPcjJmVWM3ZnR5cHpEc0I4Y0NTMk13UndxUXJkTGFFcTVfZlZKWUh2VkxESWIzeE1ad2o4WUpreEUtcUd3ai04aEkzNEwzYi1qYVJSeE5aMWMzM2tDUVl1dmkxcHRVTENRVTlaSGVoQQ?oc=5",
+   "date": "2026-11-25T01:49:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -988,6 +999,17 @@
    "next": null
   },
   {
+   "id": "95a1ec83d82f",
+   "title": "Presidenta Keiko Fujimori fue recibida en...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQWZrZXhOcGVndzU5MWR4d0Vsa3pBOE5pOUVtdFR0ZmxxZWJDZElZZzdOcjIzeW03Y2sxY3puaVVEdTFyTnNDSk90czVmRkhERlhoTDJSWXVaOXF4X1A1dXRJakxvTldXb0IxMjFjeWRWZU9CSzJJcS12STV4MXJVY2FLQTY3WnpJTHNMc3FpVnh0QmRYNzAxMl9FUng0Zlh5U21HbV9ZUEdoLWNTR3fSAbMBQVVfeXFMT2xmTXJCTWtUX0luOWg1OHk2NWZ5ZktiQzVNZjJyU3FOTVlET3h5cGk1Wmw4QWRkUHlHeW4xeUZRU2lXaVR3VFgwWnpOMm5SLUVjVXRiYWp4VXJhZExEZnZjMVREX2FOeC1nMU9hRUt5cjA2RTVmRF9wX012OEZZZnN2STduWWFjSTI4VERra08xdDFSWEFMQXR3Y0pTaFp0WTdNeWFpSE9Fd2pPVEdEeG1yTlk?oc=5",
+   "date": "2026-11-23T19:13:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8d527abac027",
    "title": "Keiko Fujimori advierte que El Niño llegará con fuerza y anuncia mayor despliegue de prevención",
    "excerpt": "",
@@ -1027,32 +1049,6 @@
    "source": "Trujillo en Línea",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZWluUGp5QjlmSC1Ebk5Pb2tXOW56NFVTMWNJTko5Rl9wYV9XOTV1NTE4c0NjVTRLZldvaWZMekd1eGFLVDVicmZmUzNGc0lXVjZWTm82QXB2MzhHVDBCcHV4TTE5M3lUQVU0cks3S25FSmlxbVdKN0hEN0VFRl9aZHR2c2x6Sy00b1BiMWxtRHluZVhPZ2tYZ0NQQ0xUQVQyeUNTSFBwbkJsZkgxaEdlSTJxT0I5WlZWUHZBNGhfTk14RVl3T21COWZLLUNvLTFBQlBDcm5SNDZtQQ?oc=5",
    "date": "2026-11-23T18:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "06dd3b6919bf",
-   "title": "Keiko Fujimori destaca el Escudo de las Américas tras la captura de alias Jolín en Ecuador",
-   "excerpt": "",
-   "source": "América Económica",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEM3YmNvZU1ybzN2NlIzM0k3Nm1OYkpUU0c3NHBsOTMyeHAzWF8xY2VtODFxMWp4cnVvYzROUTNwNnJNV1BNVmVVd09tdVBMMzFTemVkRzJRSXYyS2tIT1Rnd1pjSXpYWDUtSkdZbERvbGhCamFLYVNsaURJdVhReVpQYlA5WXRmR1ppX0lkN1lUcHdSUWpDN3FtREJCX2VWdjZQbldVclZnc1E4bXp2bVB6NHVrM3QyZE1MMWotWkJDakRtcncwUlBteldGMXRCX1FJ0gHYAUFVX3lxTE1faWh3M1BkTjhNVTNwYUx3WXJkUkFnaFM5Qlg3c1VqWkRGRjlyTXFaSzEzM2x0QnVUX3dkM3dUUmdnaEs3ZHlHbjdrc09KeDdpeG5XdUVxcGMwbHRhYXltWk1kUXNBTnUzUjdqWkVWeUVpeUx1cXU4bHB0cXAwQmFMNjZWLVV5dXpaeE14RGV5S0ZwVXNMM3VXeTJCMHJ5Rnk3TURmaDBlUndTY0x4RGxEN0ZHZ2lwekNsdzBrSmdjQlpKd0hvdFItWV9rX0NYc250TF9kYWdDWg?oc=5",
-   "date": "2026-11-23T18:21:40+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Ecuador",
-    "abroad": true,
-    "city": "Ecuador"
-   },
-   "next": null
-  },
-  {
-   "id": "8f9fa616ea97",
-   "title": "“Así como ‘Jolín’, caerán otros criminales”, advierte Keiko Fujimori",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1JlX0wzcW9NTHZRdUl2eml3a2tHX3JlaDJOUFd1RFl6b1RwQXR2Q0FROWFDdTYtU0tFN1hJbWNweUVsc1NMSC1Sb3RnOFdVUXpsME8xSUlrT0hKSVRBTVMyRnEybVdFbjdTVl93emZUd0xHMVFJZlN1NVh2S0o1Zi1WMXo2Uk81bklvWDJNNzRfWEcz?oc=5",
-   "date": "2026-11-23T18:08:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
