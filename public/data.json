@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:58:01.557072+00:00",
+ "generated_at": "2026-11-25T23:19:07.847127+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -382,6 +382,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "04f3c5247240",
+   "title": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
+   "excerpt": "La sesión del Pleno del Senado está programada para las 10 a. m. de este viernes 27 de noviembre. El primer vicepresidente, Alejandro Muñante, será el encargado de dirigir el…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/25/pleno-del-senado-evaluara-este-viernes-el-pedido-de-keiko-fujimori-para-viajar-a-colombia-hnews-1817475",
+   "date": "2026-11-25T23:06:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e9049361079e",
+   "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo son una puerta que abrimos al mundo\"",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMHN6T21YazNSUTFjRnpmX29pS3p5YWp1c056WFRya2N5MmY3b3BVU1lzSG5mT0dHOGg4RDVQYmNsOFJBcFItRlpleEVyLVdTamdkd1BmQzdSamN1M0F3b2QyZlctVERiRXd6UThoY3pIalRNcVpUMnhVTy1rY1pua1Yydkg3dk1ra0otZkxWN0pmcm9xcE5YYkVHNUFRazdEVGlQdWxmRU5nbzdHaUlCcHc3cWN2ekF1RXJNLVNJOXZBSC10eEpsSkN6LTd6SWdSTHc?oc=5",
+   "date": "2026-11-25T23:02:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9d6a656df704",
    "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
    "excerpt": "La presidenta, Keiko Fujimori, podría viajar a Colombia el próximo 3 de diciembre para participar en el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. El Senado debatirá este viernes 27…",
@@ -482,6 +504,17 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWQ4bFkwS1VOOWdUajRId0pHclZTRDQ0MDR4SF9IMXEtcFdmLXc4TnYyLTJhdEpta09PZUtraGdLYUQ4OGpTdDhvQzFxZ1dtYUQxY1BUU2daY2Q3TTRrenZRTnF2M204LWxmT0pCcmg4cy1aVkZXUVB2WFVuM0RJQmVEN0tMV2xuWGlfNmlIVkJqYVpiOWpySF9ibGRlRnNWTlhNc185WDk4Rjh0dVhUaHBWLUgtN2pTcm56dENaUmEyaUNWaUFpTFZLV3g?oc=5",
    "date": "2026-11-25T17:01:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "64bd0ca03042",
+   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
+   "excerpt": "",
+   "source": "Radio Yaraví Arequipa",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWs1X0preXFOV3JxZ2J6Q3lEU05nVDZ0WDJvRjZhU2xGLUsxUlhqaFhUY0tGdV9DSWtsdFZoRXdJVHJKMzJTaE1zU1NjX3YwOXZKNUtrSl9JVUU3cHN4LThLTDhCaEI5a2RlM3B6RzZBOVdzdFJYdnFlNHBTc3o4RmkzMzB2TWZLOHpFT3ZFajJoQ2lvdXgyd3Rubjdva21LZDduVXlaT2Njb2FfWUxnUkFGcHp1c0VmTThfUzduV2lvMXRVb09hVGtCbm5xeGw5N1FIVDZhSkk?oc=5",
+   "date": "2026-11-25T16:38:04+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -977,17 +1010,6 @@
    }
   },
   {
-   "id": "64bd0ca03042",
-   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUFNakl2UkZDN0Qxem5yS1RvNlJuVEtqczVPaWljVmlKSzNhOFEtQjhuMWhuTzdJam5RcVNCNGRfVHNkODByX3hwU3gzNnpKQ1RaVFdDNmNDbVhvejFSUjVXelZSbGJnQy1kaDB5UkFCYmJWRzFkSXBnd3QwcjAyeXctNkZQNmNiMldwTU1PdERzX1EzYnMtV3I0M0xDdFVOVEgyTTg5WHhiT0s0d0RWdGpHZE1qN3AzQ290ZktYNA?oc=5",
-   "date": "2026-11-24T16:13:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c7c7f58f11ca",
    "title": "¡Tuvo que dar la cara! Keiko Fujimori sale a disculparse por Carlos Espá, pero lo respalda (VIDEO)",
    "excerpt": "",
@@ -1033,28 +1055,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcTFkRmYzYjlhRXRaN21SR3hQUGhrTnJVWGd1V205SmZTbjZZaEUwaXMxT1JNRWRubENXeUs1MGpUd2tsWlprMUNJUXVNZDdRbDZTZDBXdGRjWEpadmhXakRGLUtMWXZsTVM5c2ZDTkpqSFZOYTVoLXNlNUoxQmxOU1luV2xRN2pfQlhJWmdEWU9EQmZ1c2F5eEZXYVNHVEN3U0hHMzdZbG9wa2hBTks0Y0k5MFBhX1pLZFRncEd3aEtaNTkxeWxDSHZ0dFFFZXRNaGIyMmpQSC1fQ3lrMk1adldwd3pVaUZucGJN0gGGAkFVX3lxTE9FV3phR1JhWVVaV08zQ2R4TDFyanFxdzFKSVhvY1E5NF8wTjV2S1dCSWdaNzVtUEhaakNrSDNLcWc3UVVRb3RfQ3duT3BfUHR1c0pTcTBsaUVXU0xsSDg1NHBKZ0NHTEtPbWNYTGkzaWNiNlItQTVsZURONWNTMGlLZ1JpajBRV3YwYnVPaUFYMzdWVGNYT3ZZLThhdUdJR09MQkNKX2xpcElHbUk0UG9pZFNYZUNRNTFuSGFodEU1YlRtZkpFQ1JzV2UxVUNtemtpRUswMHBKYTJJVmpYdmVzTXRNNGN3ekdUSXN3VzlLUlNMTnk3UTMtTGRRS2tSV3Q1UWNaRmc?oc=5",
    "date": "2026-11-24T12:48:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2a0ffe8dca33",
-   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión: \"Las encuestas hay que tomarlas como foto del momento\"",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, minimizó la desaprobación del 53% a su gestión, considerada una \"foto del momento\", en una rueda de prensa tras su viaje a Asia.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-sobre-el-55-de-su-desaprobacion-las-encuestas-hay-que-tomarlas-como-foto-del-momento-hnews-1044062",
-   "date": "2026-11-24T11:24:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d6d4831fc8e8",
-   "title": "Keiko Fujimori agradece al Senado permiso para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWWZoX3EyZHRCU0MxSEtxZ0dVbXhYancwWExRNUdMTVlSTlRXZUVlMHZFN2pTem5jckpLNUtha0VoSUlGZGwtQTZabDFWX0IyeTRfcklIbklSTE8tdFRFU29GME5ibkFEbUJPdWhUcGpMeTBZeFlRZEtzSXpyMXlvM0xtN0ZCUkVuLWZTM2xZR2ctekV1Tzl1VjVsMnBYU2h0U2Q40gGoAUFVX3lxTFBaUTdYYUJreC1oQ0RUelo4V2JpSFQzcHE0b3UzLThzQTZLeTRjdjFjVWN1a2hocWpFS2g4SFJXS2FHV1VRQ3NabDRrVk1XN1VFTmVnUVJNN3NidXNLdkxTOFphWEtoOEowRklMRVJld0szVTZ5djEwLWJLNDBmZUNFSjlQOVNpWlNHLUd0dE9HYXpBVHlzUkZNRlBsbzVzRnZvUmx2eFVGeg?oc=5",
-   "date": "2026-11-24T09:45:40+00:00",
    "state": "posando",
    "place": null,
    "next": null
