@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T14:22:10.207073+00:00",
+ "generated_at": "2026-11-25T15:04:35.607032+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -382,6 +382,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "dfce2aa863a5",
+   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
+   "date": "2026-11-25T13:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "99f634e91494",
    "title": "Keiko Fujimori pide al Senado de la República permiso para ir a Colombia el 3 de diciembre",
    "excerpt": "",
@@ -421,17 +432,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NzRzdxeG16VVkzUGNtUUZlX0xNRW4zMkV5SUN0UDJmNWNHWXR0Und6NXZCRk4yeDV5WEF1Mk1sRzNtbDZjckJjYTFKYzNuSDNCajcwYzhuWDVtVkdmUnRCaXlVbHpNaC1uaVMwUEU3d3lWSkJoNndqeGc2ZU5qRG5xWDJ4UERwQ0d5cWlJSmN5dVZ4SkUyVENhbWRTM2p6X0c4a3hyaGdQM2xSZXg1anNocU5IQ2RXQ1E?oc=5",
    "date": "2026-11-25T02:27:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dfce2aa863a5",
-   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
-   "date": "2026-11-25T02:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
