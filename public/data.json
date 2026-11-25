@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:29:28.712951+00:00",
+ "generated_at": "2026-11-25T20:50:25.740641+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "Colombia",
    "abroad": true
   },
-  "source": "Revista Caretas",
-  "date": "2026-11-24T17:50:38+00:00",
-  "title": "Keiko Fujimori alista un nuevo viaje a Colombia en medio de crisis por El Niño: planea reunirse con Abelardo de la Espriella",
-  "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd3R6cllxM3kwZTZ0SlVvVGY3NzF1R0hDSlhjUWVYT2lzcjB6NEttNW9CRDFaZUJVTl9MeXJoVXVBa2VsTi1vcmViSkhUNE14NUROR1dmNmhTejJpWjZxNm05YXRBbW1yV0JjNlpSUjFFbFdTbXJtSWFQcjBqVmNMMi1zZGlsakhZTzV2cVhrQ3UwSlB2OC0tTWpnWEg2U0JjSUpLWjBCNEtmX3g4QUFncVoyM1lCU0V1OHV1ZGVlSWpGU094YlNxOWxHYlJHZ0h3Z2JDSVZHMmx3X1lZemJwME83T19Mcmc?oc=5"
+  "source": "Gestión",
+  "date": "2026-11-25T20:42:00+00:00",
+  "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
+  "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -382,12 +382,51 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9d6a656df704",
+   "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
+   "excerpt": "La presidenta, Keiko Fujimori, podría viajar a Colombia el próximo 3 de diciembre para participar en el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. El Senado debatirá este viernes 27…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/",
+   "date": "2026-11-25T20:42:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "f6d6a91ea79a",
+   "title": "Pleno del Senado debatirá este viernes autorización para que presidenta Keiko Fujimori viaje a Colombia",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5",
+   "date": "2026-11-25T20:09:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "a78983726c28",
    "title": "Bernie Navarro sobre elogios de Keiko Fujimori a Xi Jinping: “Es parte del proceso internacional”",
    "excerpt": "El embajador de EE. UU. en Perú consideró que es fundamental que la presidenta Fujimori mantenga acercamientos con los países representados en Perú, incluyendo China y su líder comunista.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/25/bernie-navarro-sobre-elogios-de-keiko-fujimori-a-xi-jinping-es-parte-del-proceso-internacional-hnews-452375",
    "date": "2026-11-25T19:25:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "56cd6ce56d70",
+   "title": "Reunión entre Keiko Fujimori y Abelardo De La Espriella será el 3 diciembre",
+   "excerpt": "",
+   "source": "Caracol Radio",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGV2dFZtVlNtdkt5dU42eExEcDFXTkxnb0FzMkRza3p4cUZRRWgzZ1Y3bi1LZU1nazFVV0JLVk52TklyRjNQaVdFYnZwMWRTRk02d2Nhc2N5NVg1TUlzdUlrNDRKVVNHWXUzUjFjQUlDX0R4aGFiOEpuZGMxWU5WSTlOaV91SUFPWHpLLUlQeFdQVEZjcTA4QWhaQ2tMTVJnZW5HMnV0OGRaSHQzR1Vn0gHDAUFVX3lxTE1tcUh2djQydWtUNkJxSEZrcE1pNVNhb1JROURHaEtUNzgwVi1zN01tdFNBbk5OOTNiQldwM3dYcmdxNzF2cEJxRkdtR3pZVUszYVo0c1pCSFEyVEFJWXdodGMwZkZLcE4wSGRCN3B1NGdsX3hQaGtCN3pyMkNjaUktbWJQN2ZIdFNIZWRtSmdpaG9lZjlKN3ZvN25sX2lmZkxQWFN3WWYyMnRyc3A1MUJXSmh6QkVxTVllajVvSy1NU1VKdw?oc=5",
+   "date": "2026-11-25T18:32:08+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -558,6 +597,17 @@
    "next": null
   },
   {
+   "id": "6272b70b821e",
+   "title": "Presidentes Keiko Fujimori y Xi Jinping...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0FSNmlmV0h4ZlozNE1FVEU3b3ByZ0dkWVB4UUQ5YXAzcDEwTHBXYjVlWnJvbDJNTnlhY29oUk9zS2hHNWVxclFrd2FXRk1BYWVDNVlEc1lycktwd3pwYXYxWkNHRUVFVnFscENpTWhtcDBmV0Y2QUhnNXVmS2tvVGZ2TnplYm9XbFRTRjhmT3IyUk1vTnNoZ09hUjZLemlnRXFCaGY0U3RvUE5KSGlwX2hrdVRNOHNjenJpZHhncnnSAcYBQVVfeXFMTTBLR0ZZbmtpWS1CdHIxLTFrUEJ0alhQN241RGtWYkZCMlNuNU9nXzhZcVo5SGlac2FKaGJlX1hUd0hvRHNTR0tUOUpZZFZVX0xRSkZDY3Y1RkF5aUs5SEY4RWFTWkdwb0JHZU9XdUpWbnZNN1lSN2VnMHM2OUJiajBrWGNsLXFzNEdYMVFOc1BCeEZhRElnMHlCbHZSV3J0ZjQyRE5fTEh4cVZYRklRcS13ZEpzaWU5V2N5Q2lOYzUxSm1tN2xn?oc=5",
+   "date": "2026-11-24T22:47:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "58c251cf6624",
    "title": "Keiko Fujimori solicita permiso al Senado para...",
    "excerpt": "",
@@ -575,6 +625,17 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHN6ZVhUWXBDejZ3LWNLUTdYamxuamhsMmQxelZ0YWI4MFc0SllVSFpNbW96UDdxMDFqWVlMZUtPdGR5SWlHM0JXZlNpQ2lra3JobzZ5ZjJWUFFFVzA0OW01XzBTZ0xVOWtGRGpCMGRMWXVHdXhtbUZrU09sVWQ0eHcwWlBubUNfRGE3SGY0Q3pZclR6OGlUWHhlRnVXMUE?oc=5",
    "date": "2026-11-24T21:40:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ab8569ecab64",
+   "title": "Keiko Fujimori pasea por Tokio, el refugio que salvó a su padre de la justicia",
+   "excerpt": "",
+   "source": "Los Reporteros MX",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLVFjbFA0a05PNkVDODA5NEM2aVlaM1JHc3NpbVM1QmhkTFNjWnMxQjA2TzNQUThZaV9KeE9EcngxQjNQYmp0dnZ5R2RTbVNROHF6MWVvbWlvdXp5b3BCQk1lM01KZ0Z2SmxYSHRkeGpxZFlvVzFkZGRQMmNraUh5NmtudERGZmRzMEpfV1dONGFkUlhPVUVkaklLM2NZU2w0QXNKam40WEs5Zw?oc=5",
+   "date": "2026-11-24T21:40:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -836,6 +897,17 @@
    }
   },
   {
+   "id": "e2bc1109167b",
+   "title": "Japón explorará nuevas inversiones en Perú tras la visita de Keiko Fujimori",
+   "excerpt": "",
+   "source": "LaRepublica.co",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlFIUWw2Xy12Z0hlaDQ4WG9vUTJhbjl5Vnd5Mk9YbzNneXBJZFFpWDNwZGNkd01hTmhIV0ZmQ0Jpajl0bTAtWlNIaVZxdzN5TTh4bGlnZnNMX0U2RC14UTlzdGh3T3c2YTc4NGx3TDdOMG50eWs0c3FrbjlqdmtkLWNFNTFqYk0yUlJxdmpxaWdZQnB0M0JNbzBTTUxnNTAzMXlzOWxsMUJyeDNQMnFjNEtJU0FibEFCdzI3TjZianBqQdIBwgFBVV95cUxPdlFIUWw2Xy12Z0hlaDQ4WG9vUTJhbjl5Vnd5Mk9YbzNneXBJZFFpWDNwZGNkd01hTmhIV0ZmQ0Jpajl0bTAtWlNIaVZxdzN5TTh4bGlnZnNMX0U2RC14UTlzdGh3T3c2YTc4NGx3TDdOMG50eWs0c3FrbjlqdmtkLWNFNTFqYk0yUlJxdmpxaWdZQnB0M0JNbzBTTUxnNTAzMXlzOWxsMUJyeDNQMnFjNEtJU0FibEFCdzI3TjZianBqQQ?oc=5",
+   "date": "2026-11-24T17:35:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e74b1fb7b0e8",
    "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV en Las Palmas y respalda a canciller Espá",
    "excerpt": "",
@@ -983,72 +1055,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/keiko-fujimori-respalda-al-canciller-carlos-espa-ante-mocion-de-interpelacion-por-misa-del-papa-noticia/",
    "date": "2026-11-24T04:15:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c1a408f85091",
-   "title": "Keiko Fujimori viajaría a Asia durante despedida...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjgtTjQ2dXpnXy1mWmdFeGlwdWtvbDZOM3M1RmprRFYzVVBhUkY2emN4enh2Q1hsZEpZOHpCc3d3SDhHZGcwanZUSWRGcVNBVkJEM0ZsRTR1VzVJa0FNU28tTHJ5VmFObGlzNmxpRU1iemJZX0JvOTFRQmZaSkxyWi1qRUpsanpyaUhIdndWN3pmNk92SW91cXpRSWg4ejdZUUwybXplUFNudlBYaXNJVXRTd3lfeFNMUlF5Snp5RdIBxAFBVV95cUxOemV3eTU3Q3hvUnBQYWN0NWM4TkF1T1l5S2tCVFFXdjhTaVh3T0h1UjBvai15WjVxUDZuaVdBUTMyd1RnM2VMMGxjcXR6b0djbDh1Y2JuZ19qQlNGWDMwLUJJMldtajg1YkZIMGRlbm9IREZadDI5V0JIYWYyMHcyQ1gyTklGRGxNLVJ5cE9lREtCTHRsOEl5N2d3QXZnbDc1RmpReW5CcFpfN3REc0RZVm5WMC1GNFZzWlVxUVdSTGlhZTJ4?oc=5",
-   "date": "2026-11-24T01:20:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b2226da9c081",
-   "title": "Keiko Fujimori destaca que tecnología del FBI fue clave para ubicar a 'Jolín', líder de la organización criminal La Jauría",
-   "excerpt": "La mandataria adelantó que continuarán las acciones contra otros integrantes de organizaciones criminales que operan en el país",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZURBT1ZPQ0h6Wm1fVTVhdHllU2RJWDVhWl9hajh5OV8xMHJsVWRQdEl6QkhzYnRmYVd1OTJyRVQwTXQ2MGZrckJVVkQzMHJrVHJpd3E1eHgybVlaaEpjMkdSVUtDWHVPc2dvelJ1Wkw1eXpmQjFBQVVuNU9NSE1MYkg1UkhpWUtEMGZlRE5wVHpMMGxmWUVBMXhhZTNwSDFMaFZFWF8wUlNOZkxGM3hBOXNyWUMzMk9YM2VXcF9BNDlpZ1hrLVhnZjFEbVpRci1pZUFvS3l1dmtxNkZqSkkxUWo1MzVTTXRfYU50V09GY2dQQdIBjAJBVV95cUxQZ1BQNHBvandsYUZ4OFd3eXZxekRvenVTQi1sb0dyTEpDbnQxTnVGanY4ZU5ndzlMdlBrTlJDZXI1ZmVqaUZiQUhtN0xHQ2JGc3A1RVpsV0V1NG5KMVkyZFNTRl9ZZzVreWVtdF9mVnh1dFFoOXdMT1FkTmV0Vm1KVUZCTlRrc1REZ0hVRTR6Qk9sUEh4aC1xeVEtUjFpVDY4ell2MkgtUW5ESWFvQVVzNUVSZFR6WTVCS0ZuWEl0ZUtmOGdoWWRZRFhyVG5BbWF3SDFfUW4zYlM5d01XcW93ejdOd01jWDkwdVFrVU05V3k1N2RxWmlGSEVnV1RoZ3EwcG05NmJ0YlQzYmdQ?oc=5",
-   "date": "2026-11-24T00:32:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1cd028a92a6e",
-   "title": "La economía de Perú crece un 3,1% en el tercer trimestre y da un impulso al Gobierno de Keiko Fujimori",
-   "excerpt": "",
-   "source": "Bloomberg Línea",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPVEJmSGNWbGZLcVhLVV9aOTZFNzVva1k1cDZWZkFUTGNTU1Y4ZGpOY0Zvd01OeHVxLS1sRllLREtfVzVIWUpia3pDXzR5NnBqR004TnFKUjdScElCMzlEdVkyQ2F4Z1BHTURVTHFWSEREMC1rSXZ2bFZhMFZHeFQxbl81eVJIMV82Wm5Ic0M4S2J0X0huRjIzejB3YWN4a2RQcGdUSFkzbEFGdHk2eExfQzlsTjlkRHV6bERhRklIZ0p4bmhKdll2eFJ1dzBhX1RDWU1mcnhhYkduSXFTLXJQVEM5TUhZUdIB-gFBVV95cUxNMjdBSk8wdlNZeUEtcTViR1lxdHNVajdDWnpXekZPNkIwZDNicHpQNk9vdGZMUXE5ZEJXYzhva1djZVp4cjlDZ1haZzR2WjBnQXc0TUphMDY4Wm9WUDlOSHdydml2c2trZFZ5X1dieC1VUC1iX1ZSUDdzOFpRc2dzOURXVGpNb3REcS1pWl9zWURfTGZKcU91dVVRVW8yMVJ0aVV0QTFfMVpISWlGRWlsUGdlY0hERUdPa0tGLXp1d245eGhVU3h0RWxyRGxaSkRlSVNGdVBGYjExWmZuNTZLU2xzUlAtOVRsLUNmNUJIMGJDcFBDdHJCLThn?oc=5",
-   "date": "2026-11-23T23:27:41+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "429b5b62988f",
-   "title": "Keiko Fujimori califica de “muy fructífera...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakVhcEx2MUFzaGJ2V05XSHJzTnBFZUhOZjJrZC1JSHFoYmV0MmgwUjUxbXNSUnFTaHBYME1BOUxFbTBnWjlLVG44QkJHNlNZM1NTODJCQzBqTVhzZUtndU41T1N5NENvSmdYbnZuSWFwb0p4bnZOd1Y1a1czN3dNT0ZlSEt6Q0tHUVhTeHhsR18wOWRrdkR6eF9Ec2ZQaDdXODBVOXlfb3Y5a21xOVHSAbMBQVVfeXFMTXVnTGVQajFGd2ZuVUdic19yNGVPM0daZ2dMRmtoM2EtWUNwMzhKYWc0N2dVNUNfQUhJdEItSDF0cUZHUFV3TnZSbk9nOURES1BLU1JqME9wT3NGbHBOZFZKZUR5Q1lUcjhkb1pKLUZNWW9BclNqT2h3RjBaSm9nYUFZbC1tbHdpYmlZZXYzQ2hIUC1EcGV1Zk9rNVdHdlpvSEMxZ1FBbzYyeW9vYXEtZjFkdmM?oc=5",
-   "date": "2026-11-23T23:10:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6c2df3d400f1",
-   "title": "Pucusana: Keiko Fujimori recibe 14 maquinarias...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeXdRd21yQWZ5OU5tQTAxaGxFa1pQVkpnTnFJS29LR3EwNjM4bWlUNEpjVUdSN21NenF1NTlSVGZfT0FNUzk0TENsaFRRbTg5RjA3dk4zM01GSzVxUjhWWUdrZ3h5ak91S2s5MHRDbTlaWDdSY3d3bVpKdkFnRVJ1dFR6cnhNMDNvWHk3VjhPWkgycWFqa1ZXQlRhSGVYeWZZeVVJTGpmc1dObDAzSENkQTRvR1ZHSXFlTFpxX3NDMEoxYTMxa1HSAcsBQVVfeXFMTk5fbzJHN1dULVV2V09xajh5ZGhMcThuVWpMd2x4dEtNMFMxQTVlcXlkcmtnM2dZT3FPTEdCUnh5aWFBU1NmcmtMX04zMHcxMHpDSTZjZ1ZEYk5JT3JUd3J5ZHFYOHMyX09WbWp2bHdDYVRtaEYtallBX0VfNVhwUXVUWGEwTDZCMzg4NGQyVndBbjVRZy1yWVdKRG5mbVEwWkNpWVNtaHZ1YTdqcnprY3VGNHNpbXZMSjhoaldOdjRLNm8zd291VW0xZzQ?oc=5",
-   "date": "2026-11-23T21:43:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ca2804f4522f",
-   "title": "Presidenta Fujimori afirma que el Gobierno responderá con más fuerza frente al fenómeno El Niño",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUM0LWt4T3ZnX0lNektrbGE2TUNsbkdkcnk4SDdkV2QwTnFqNzhPTUVLU0V2cEdNTS1nd0dhdnNjR1hvN25wYmtTQkwxS3hHV29qYnhyOVdxYWFfUGJmMmVRSC1NWldHX3h0R0ctbkhkSjNpV01Ta0ZoMlUyaHRraU1ReWpUTkVhNXB5RmZxenlWZmY1eXJjbm04bS1wTFNKanFuczUtNG9tTk9kUUpfYjI3cXNCYW8zdmU0NFVmcw?oc=5",
-   "date": "2026-11-23T21:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
