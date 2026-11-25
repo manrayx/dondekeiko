@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:13:35.559803+00:00",
+ "generated_at": "2026-11-25T02:56:24.392624+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 59
+  "triste": 0,
+  "posando": 60
  },
  "total_7d": 60,
  "silence": {
@@ -432,6 +432,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "dfce2aa863a5",
+   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
+   "date": "2026-11-25T02:46:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "540685c70f26",
+   "title": "Presidenta Fujimori solicita autorización para viajar a Colombia el 3 de diciembre",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NzRzdxeG16VVkzUGNtUUZlX0xNRW4zMkV5SUN0UDJmNWNHWXR0Und6NXZCRk4yeDV5WEF1Mk1sRzNtbDZjckJjYTFKYzNuSDNCajcwYzhuWDVtVkdmUnRCaXlVbHpNaC1uaVMwUEU3d3lWSkJoNndqeGc2ZU5qRG5xWDJ4UERwQ0d5cWlJSmN5dVZ4SkUyVENhbWRTM2p6X0c4a3hyaGdQM2xSZXg1anNocU5IQ2RXQ1E?oc=5",
+   "date": "2026-11-25T02:27:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b471420e19e4",
    "title": "Keiko Fujimori anuncia el inicio de las obras de la etapa IV del Proyecto Integral de Agua y Alcantarillado de Juliaca",
    "excerpt": "",
@@ -460,6 +482,17 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/25/uni-rinde-homenaje-postumo-a-susana-higuchi-por-su-trayectoria-como-ingeniera-civil-y-legado-profesional/",
    "date": "2026-11-25T01:06:19+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9d92252b5ad3",
+   "title": "Gobierno de Keiko Fujimori designa a José Williams como nuevo director del CAEN",
+   "excerpt": "",
+   "source": "Radio Yaraví Arequipa",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYW1aMGFMYVhCX3dLekpuRzdtc2lrWlQwbmhHVjF3TW5vZjRtMVIza0QtUUllclhwSkRzVkF1TkpfVl9DclVSNy1Ed2NvQngyV2o2dlhneE9Ja0haYzJvZ1BkS1dGZTJMQW11NTdJTE1FY2VDdHN6ejNTY0dOWHdRcXpEc1pKNy1ZQmNUdk5oV1pDLWpjQ1l3aWk0M2YzU0M0eERnQmZkMDhTbEU2eV9DOXdYblYySnVEYVotdHdyQjlKUQ?oc=5",
+   "date": "2026-11-24T23:24:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1070,39 +1103,6 @@
    "source": "Gato Encerrado",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS3hpdlNRS0NKS01UQ3JBMlAwRW44TUM0bkRocWE3Q3h4cHcxejdURndCbjNWMnVIZTZudW5SeHNkSnNPdmI2ZURrbDlWdHFoeWtNQW1WOGF3a3RxTW9sM2NSRHdVeDVVZWRvckxSRHpwdnZUQUJIbldyM29jZFVISUNfbHlIRkt0XzVMWWlCQURyRzY5OU9KMmNtcTZPRVZMNjA2LUFIRVVlbWVhWmQ5M3lVWlA0ZGZCQ1VHWXlxYVlld0l4R3FRUlRYWGU2MGNLRzc4SklVX3hLMVhuM2ludWpubjJOaG5CRnN2Z0w4TE1xZkV5RGYtWmpzNTJIUQ?oc=5",
    "date": "2026-11-23T17:33:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "35285b3279ba",
-   "title": "President Keiko Fujimori: APEC is a great opportunity for Peru",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmxKZXp4b2V1SDNhTXRQajNQaGFvVjMxVFFlaE5FNjZ6X2VmbXJheHR4V0JlLTFUT1duUEM4WWV2Z0lpR2pGNTNOVnVFYnJfMkNqMHo2cDNSTUVYanN3R0w2Y1E4aDJRSWtTeDNSNDB1Z0ZJTVRCSUdKVGE0TkFwNW9KSG90LUx2bHR3TjFjMDN1ZmtNWEVHaDVBQ3o3eUF6dTlHYktHTHU3OHpt?oc=5",
-   "date": "2026-11-23T17:31:44+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0027d7b38694",
-   "title": "Keiko Fujimori respalda al canciller Carlos Espá ante críticas",
-   "excerpt": "",
-   "source": "ATV.pe",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORjI4TVhvOGphTWFTWUdqNW80OU9SaWlnWDlZVzI1VzJXcXFFUlJSd0xSVDBaVGNydlh3djAwVEFyUmtxVXNUZEZFVmFkSFEtVnhWSGMwcWRnZ0hiQkZ2ZWVKNUk1Q0RHS1k2UXNoTmJRY3V3WVZpUER1TnRkVjNxcWxnUnFEMkNxR0E?oc=5",
-   "date": "2026-11-23T17:00:40+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5a651cde1f1c",
-   "title": "Encuesta de Datum: Keiko Fujimori inicia su cuarto mes de gobierno con 55% de desaprobación",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWtpRWR4eUI2V2xoUHV2LXpIZmgwNkFVREk5eVp5U0h5OVhlcjk0aTRqQl82WTJHLTEzWkNkeC1ZWk10Z1RBTGJZZWk4MWR2SldIRno5OVlPdDhpVDFfX2xraXNfLTR0Z3dITXFaU0ZyUDd6RTRnaWhCek1PejU4aG5SZ3lZZnAtREs2YWhJdWNKZmlmSXpsMlgtcjFSVXlYbmU5NGRLSE1yZndWay1LZVhsWUViOUtUNEE?oc=5",
-   "date": "2026-11-23T16:49:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
