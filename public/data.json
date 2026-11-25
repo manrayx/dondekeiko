@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:56:24.392624+00:00",
+ "generated_at": "2026-11-25T03:17:46.097271+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,6 +432,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "99f634e91494",
+   "title": "Keiko Fujimori pide al Senado de la República permiso para ir a Colombia el 3 de diciembre",
+   "excerpt": "",
+   "source": "Crónica Viva",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3FpcTVjMXVjNnpMMFNBWFZGc09QU01ta0F6bHpCbkc3SHE5QUxBSUlsWGRNdFBMSldNb2FHTW1VZThGRHNZM1RFMVYzMEswWDA1aHFnRl9OYmxRR2VfdjlFazFDbU01ZzRCT2tNZHZaNkp6cnFEaEtZdWNfbFlNd3doRGRoaXlrOVpjMHRaUkhXdTg1dEhkMWozandvRFdXNHNnYlhoSHpJYThERnZIN1hmUzB3aHRSMk5UT0ZNcw?oc=5",
+   "date": "2026-11-25T03:09:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "dfce2aa863a5",
    "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
    "excerpt": "",
@@ -449,6 +460,17 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NzRzdxeG16VVkzUGNtUUZlX0xNRW4zMkV5SUN0UDJmNWNHWXR0Und6NXZCRk4yeDV5WEF1Mk1sRzNtbDZjckJjYTFKYzNuSDNCajcwYzhuWDVtVkdmUnRCaXlVbHpNaC1uaVMwUEU3d3lWSkJoNndqeGc2ZU5qRG5xWDJ4UERwQ0d5cWlJSmN5dVZ4SkUyVENhbWRTM2p6X0c4a3hyaGdQM2xSZXg1anNocU5IQ2RXQ1E?oc=5",
    "date": "2026-11-25T02:27:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dd458331ebe0",
+   "title": "Presidenta Keiko Fujimori solicita autorización para viajar a Colombia",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMW5yRlU3TFJVWVdsd044WmF3RHhUVlVFRVBORXk3Q29kNTVxbU5GMXpNcm9UNEZKbDkyX0V2akw4T05qWldfT1JUMDByTFJXU1lPeGVyaGFTWDJlbHdBeUc1WmxMazZQTDZ4WnItbXo0ZnNHZ0U1eFZ2SW90SGFycEc1SXNxRXJWTnJwVGdSY25YbDgxRmZIdk1mUXFwWG1DWFh3QWFhckZXc25pcExyMEVR?oc=5",
+   "date": "2026-11-25T02:01:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -520,6 +542,17 @@
    "next": null
   },
   {
+   "id": "08b53820d600",
+   "title": "Keiko Fujimori solicita autorización para viajar a Colombia",
+   "excerpt": "",
+   "source": "CanalB.pe",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1V4QXJ2ZjRGWndVQ0ZuNXVGSGltamRhSU40eWVyTWtrUEd2YnBJWjU5N3dIU2dxZ2NWeHJ0Znk0WHpnWlh6cGt2S1AwV29kN3Qtc2VGcDh6c0w3RjBEUHhERmRRYWNaTnlTbFA4eTJPdmcxNG1GS2RoSkhJODg3NDF2b1RXMGU1aURHdWp5R0daZW83azRSVlNtUQ?oc=5",
+   "date": "2026-11-24T21:31:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a86c5d2dd725",
    "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
    "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
@@ -537,17 +570,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlZWX3NtMVBfR3ZNazVUWm9Id0NZQlI3YkdYTUp5T2lKTmdUcFJjWWh1eHVnOFViZlEwcUUwSV9DY0ltVDBRSWtVVkpPM0VadS0wdkdDdW92YnEyLW5yYXJ5MWxmNndhYkFvWG9uUGlPLVFSc0lVVURZLXhyU1MzSzJndkFDWEdsY1JWemJzNmlRTXkyMDRvVVBva3pBZkHSAaQBQVVfeXFMTXd6NUtEQUFGM1VBdWZ5bjBpR1JFUGt0M3dNMldQYnNRR0RPb0NEdnk0Y29fTW02YjdRbHVKVW8wQ1loZWdTQkRMMlpQT0Q3X1IxTG03WHlUeFBvVXZpblA5OUlkbFpVMFZMNm52NGpiLW1mT3lQdkhvcGh6YjNybzFMaG1PT2FUc3I5cWVFaFRWd3NRNmZNelowRDdkQnZjWE8wcnM?oc=5",
    "date": "2026-11-24T21:08:14+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08b53820d600",
-   "title": "Keiko Fujimori solicita autorización para viajar a Colombia",
-   "excerpt": "",
-   "source": "CanalB.pe",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1V4QXJ2ZjRGWndVQ0ZuNXVGSGltamRhSU40eWVyTWtrUEd2YnBJWjU5N3dIU2dxZ2NWeHJ0Znk0WHpnWlh6cGt2S1AwV29kN3Qtc2VGcDh6c0w3RjBEUHhERmRRYWNaTnlTbFA4eTJPdmcxNG1GS2RoSkhJODg3NDF2b1RXMGU1aURHdWp5R0daZW83azRSVlNtUQ?oc=5",
-   "date": "2026-11-24T21:07:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -829,6 +851,17 @@
    "next": null
   },
   {
+   "id": "65ee0a356428",
+   "title": "Keiko Fujimori responde a sondeos sobre desaprobación de su gestión",
+   "excerpt": "",
+   "source": "Gaceta Perú TV",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelQyYzAxN09EVnFfdERvYzdsZVVNNkNiRV96c0FvakFTZUYxV2hxSDdnRGVLMENrQW1NcnZTQVVubDBXVnJueWxFRG4xZVlMQUdIRjNwMUVZSzI3UmFxa1c1eHhSQllENEw4OE10d1o0NzY3Q2w0bE83ckZpTU9XcFBGQ21PRXpqUVlvbVpucS1XcWViTld3RGYtTllJNS14UE1WUlBscw?oc=5",
+   "date": "2026-11-24T14:54:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "84bcf5d8afa5",
    "title": "La economía peruana crece 3,1% en el tercer trimestre, impulsada por la inversión privada y respaldo a Keiko Fujimori",
    "excerpt": "El PBI nacional aceleró su crecimiento frente al segundo trimestre, impulsado por el dinamismo de la inversión privada y la demanda interna. Sin embargo, la caída de la producción minera,…",
@@ -1070,39 +1103,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTZoaEdvSElUckwyd09VNE1jdHlVZkxvRnk1U3Q4QzNpSWtnMUN1cWFXVlhBTzFaOXZWdWZ6cTJyVXRlc19TVktVd193R1FjYUdLUWZvd0ZnM3R4WGhiZmVYMnJKTmFFZ2FpbW1qWkE1UXFSUzlxZHpvNVI3OEwxM010MjhJUkR0Ylh3eXNiaUplQlZfMXhjdWZvcXVMb1NqY2tpcktxWEF0bTlPN1JtdWU0T2hXaTd1eDFlYXotTTE?oc=5",
    "date": "2026-11-23T17:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7ec316fc1193",
-   "title": "Presidenta Fujimori destaca fortaleza económica del Perú e invita a empresarios chinos a invertir en el país",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUZvMjBWM3laZ1NlNkxsNFRoVTdxdlFZWDJhREI0ckIxT1BmcVNwM2ZteXRUX1RCdVlLbzB3dGI1QzlVanBIbDdZandCc3RNSEM4TE5nR0tKYkN4TC16WkxmOHlGQ1c0LUhQYUs4X2ZzQUM0bC1LdUNSelc4Q2w2VGgxQk9sVzAzbXpqVUZZaExvRENiWmlmOWpXMzlRMHBic2xDYjdTY2l1ckF3UW5IMFNTOXBTRDZHUFE3LUpB?oc=5",
-   "date": "2026-11-23T17:36:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9bc120cba385",
-   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión en Encuesta de IEP (telefónica): «Las encuestas hay que tomarlas como foto del momento",
-   "excerpt": "",
-   "source": "Gato Encerrado",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS3hpdlNRS0NKS01UQ3JBMlAwRW44TUM0bkRocWE3Q3h4cHcxejdURndCbjNWMnVIZTZudW5SeHNkSnNPdmI2ZURrbDlWdHFoeWtNQW1WOGF3a3RxTW9sM2NSRHdVeDVVZWRvckxSRHpwdnZUQUJIbldyM29jZFVISUNfbHlIRkt0XzVMWWlCQURyRzY5OU9KMmNtcTZPRVZMNjA2LUFIRVVlbWVhWmQ5M3lVWlA0ZGZCQ1VHWXlxYVlld0l4R3FRUlRYWGU2MGNLRzc4SklVX3hLMVhuM2ludWpubjJOaG5CRnN2Z0w4TE1xZkV5RGYtWmpzNTJIUQ?oc=5",
-   "date": "2026-11-23T17:35:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0420197963c2",
-   "title": "Keiko Fujimori minimiza el más de 50% de desaprobación a su gestión de Encuesta de IEP: «Las encuestas hay que tomarlas como foto del momento» – Gato Encerrado",
-   "excerpt": "",
-   "source": "Gato Encerrado",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS3hpdlNRS0NKS01UQ3JBMlAwRW44TUM0bkRocWE3Q3h4cHcxejdURndCbjNWMnVIZTZudW5SeHNkSnNPdmI2ZURrbDlWdHFoeWtNQW1WOGF3a3RxTW9sM2NSRHdVeDVVZWRvckxSRHpwdnZUQUJIbldyM29jZFVISUNfbHlIRkt0XzVMWWlCQURyRzY5OU9KMmNtcTZPRVZMNjA2LUFIRVVlbWVhWmQ5M3lVWlA0ZGZCQ1VHWXlxYVlld0l4R3FRUlRYWGU2MGNLRzc4SklVX3hLMVhuM2ludWpubjJOaG5CRnN2Z0w4TE1xZkV5RGYtWmpzNTJIUQ?oc=5",
-   "date": "2026-11-23T17:33:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
