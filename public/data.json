@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T04:41:54.120982+00:00",
+ "generated_at": "2026-11-26T05:03:15.223302+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -372,6 +372,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e9049361079e",
+   "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo son una puerta que abrimos al mundo\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzljaGpRVDZ1RHhjR1diSUxIUlZQRm1RbzVJSHZGUjFRZ0locW9wbE9PZm9DajFDd19Eb3g5QkhXZy1jdGxRY2Npc0ZMVk9PaVR5NGRRVE1NcDBGTzR2VnlTd3lqYnFtaTVHTmloTzQ5Z3A0c3lvdUk4U05tM3pQLVJVNFN0Qm5OLTdzcmJkLTZCU01DRTJOVS1kdEdDa1FZS2R6QVBQRmZXY3R3Vm5OMHNzUzNxRnRDSmFhWHA4UVhPLUd2?oc=5",
+   "date": "2026-11-26T05:00:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ddb081b9a2fd",
    "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
    "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
@@ -579,17 +590,6 @@
    "next": null
   },
   {
-   "id": "e9049361079e",
-   "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo son una puerta que abrimos al mundo\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzljaGpRVDZ1RHhjR1diSUxIUlZQRm1RbzVJSHZGUjFRZ0locW9wbE9PZm9DajFDd19Eb3g5QkhXZy1jdGxRY2Npc0ZMVk9PaVR5NGRRVE1NcDBGTzR2VnlTd3lqYnFtaTVHTmloTzQ5Z3A0c3lvdUk4U05tM3pQLVJVNFN0Qm5OLTdzcmJkLTZCU01DRTJOVS1kdEdDa1FZS2R6QVBQRmZXY3R3Vm5OMHNzUzNxRnRDSmFhWHA4UVhPLUd2?oc=5",
-   "date": "2026-11-25T16:59:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "7c1de2e3b11b",
    "title": "Keiko se va a Colombia",
    "excerpt": "",
@@ -629,6 +629,17 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3JLWHllRnNvVjd6Y3YzTUkycXZRY1E5Ul9peDY5TGdSeW5oLWliSmJRR1FwdTNUNzNSMTJoT0lkX0Jjc1RMd2U2ZkRjNm5jSUIxQ1Jnbml2NFVJdDdXUXluUEtpdGRqdUhwdGJRdV9pNXdWLVFQQm1CNmNVSlpRSnJMSnA5ckM0MDAzaUdsM2ZRQ1ViMGpNZEhCQkhYNWw4NEt5RXkwVUZJaEJDUHFjQmpkR1ZiZFg0ZFl0dFVITVV1d0g1eHpQVVM3d0FlZ0U?oc=5",
    "date": "2026-11-25T12:01:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "f25254a3ff17",
+   "title": "Sheput sobre viaje de Keiko Fujimori al APEC:...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDZmZjZuN0hsSGhvQUl0UEZycVkxaVVtNHA2eWVGNG5sNmNiYnkyaDdZYVNic1BJQTM3a1FnMEh4X2ZDbzAtTW1oTXA5bjFvQnFyS3M0ZWVUTi1iV3JEWVgyZW9wNTBZR29lV19YMmtId0VqX1hyZVRsVWtIYW9sam1OdGdDNm5XZ2RoR2ZyVEc2LUlOLWxxZWRiaEJ2a3PSAaQBQVVfeXFMUHVmRzMxaDFoZ05EMnowLWRTYnhnZ0lkbEY1MU5kWHlCLS1jNVpKb0RQS0poOGZqZndiejlXNGVhN1piODRtNXhfa0VCcE5UcXRRQnk4SXJ4MWxtUjMyRVBqdEFRNzVNa1p2MWk1aXlqRnRHeEJEdlJaMW53WmZFMnZSVXNkN3JHNmNqSlJYTW83QWJnZjhnQkU4WFgySmxJeEFxRXk?oc=5",
+   "date": "2026-11-25T09:30:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1025,17 +1036,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGRTd3NMQVFvNUNtQkVHTXRCOWtKRXgxRFZZbUJEZnVOcWlpTzc5Nm9FQjlVYUJuNDVlbDEtaHZpYXEzdzRDcnhLcHFzREk2MXpFRUV6V1d5dnJNb0JIV0ZTTHJyWU1ibEd4STlCel9RM2NqX1ZKT3hkNDI1bUwtSGQzd2hMaXdveVg3ZzZlNEZ5N1dtT0g5bWh6NDBLSVNyeVdldHJwUVAxOXZkN1R0dlQzRnUzNHp2UmU2MTJ5N0dRQ0J6dXhmYy03RQ?oc=5",
    "date": "2026-11-24T18:20:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "48949d858de8",
-   "title": "Presidenta Keiko Fujimori solicita autorización al Senado para salir del Perú el próximo 3 de diciembre a Colombia",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObHFvWkVjVW1mazg2YlhxcFFGX25lU2p0WnBLS085OWlsb0dhZmFOZEEtVFdnMUxwQXd6Q2lrZU5IZHREWEJWSWRlYUdqUnMxOGZhelNzOHJOQXFTNERvbDlhSTlVQnJleDFEbnBuWmlmMjFTVHhXcEJoRXRheUNYZ1M2U3hTSWVOMkc5eWktcm9BZE9fV3hkdGRuWjI?oc=5",
-   "date": "2026-11-24T18:13:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
