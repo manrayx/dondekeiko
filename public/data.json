@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:01:30.598334+00:00",
+ "generated_at": "2026-11-26T15:22:22.953194+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -131,6 +131,38 @@
  },
  "agenda": [
   {
+   "start": "2026-11-26T09:22:00-05:00",
+   "end": "2026-11-26T09:56:00-05:00",
+   "minutes": 34,
+   "subject": "Inaugura el segundo nivel del Pabellón de Hospitalización Pediátrica Especializada de la Ciudadela de Salud Infantil \"Virgen de VIDAWASI\".",
+   "lugar": "Yanahuara, Urubamba (Valle Sagrado de los Incas), región Cusco",
+   "state": "posando",
+   "place": {
+    "name": "Yanahuara",
+    "full": "Yanahuara, Urubamba (Valle Sagrado de los Incas), región Cusco",
+    "city": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-26T08:50:00-05:00",
+   "end": "2026-11-26T09:15:00-05:00",
+   "minutes": 25,
+   "subject": "Lidera ceremonia de suscripción de la adenda al contrato de concesión de distribución de gas natural con la empresa Cálidda, para extender la masificación de gas natural a 7 regiones en la sierra y selva.",
+   "lugar": "Yanahuara, Urubamba (Valle Sagrado de los Incas), región Cusco",
+   "state": "posando",
+   "place": {
+    "name": "Yanahuara",
+    "full": "Yanahuara, Urubamba (Valle Sagrado de los Incas), región Cusco",
+    "city": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false
+   }
+  },
+  {
    "start": "2026-11-24T12:40:00-05:00",
    "end": "2026-11-24T13:10:00-05:00",
    "minutes": 30,
@@ -184,7 +216,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -378,9 +410,42 @@
    }
   }
  ],
- "agenda_minutes_7d": 649,
+ "agenda_minutes_7d": 708,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b9df91ac08e8",
+   "title": "Presidenta Keiko Fujimori firma adenda para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnpDN2lnWVpOLU5iSC1zM0RjWmxnT0IxTjhYdHhDcWpxVk9Zc2sxRTVwRG1FaHNoM1dpR19LX2k5bnlZVGp0VVVlT2VjcnV5c1VpTXY0ZFYtZzB0UUtFbVliUllqS1kzaE9WUDh2eG9fdmgzLUFxMDZUYXdoWmpsbHZCUF8tT3B4V3ItVm1rZTJrR21Ja3RJT0Z6WlQzRU9IMEdmUEgtYlpwZW02YmFFMFdTX0F4bHl4blBTb9IBwgFBVV95cUxQUFV1enF3azBEX3pnOHhib0V5VzNFVnVYaWZNWjUwNXBUMUZXdkdTWmN3ZnVkVW82dnJDay1VeVFjRWdPR240V0p4YUZsX3AwcS1vY0xvTzRGby1YZjdRWGRXZ0pBUzhsVVVfckNRT3Yxb09UdnBiZm1aYUh0X3lsUHNRMHFlMUc3amVBYnhqbXdGeVpqd1I4bk9kVTdTdXRodmZZWnVPcXR5RVhhS0FaU1o4cHBwTEt2eU0zSmdfMGtJQQ?oc=5",
+   "date": "2026-11-26T15:13:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e3f5c3619bf0",
+   "title": "Empresarios peruanos muestran inusual confianza en el gobierno de Fujimori",
+   "excerpt": "",
+   "source": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dCQ3JuV00yMVZYZXlLQzQwRXdvVEp1WEo5QjIySVdRZXg2dlYtUmljN3dyeWNHNnFwd2NuQS1Ka3FNS1kwQjJYc3oydUotQVdnZXpONFlTWDJDMzl0VElyTDNGaHRvMGpULUNSRzhxVnRJZk1FWmhETm50V0ZxTS1vS3BrU0hXYWlJTjhReWdrLUNkeW1jX1FkT19TbFVwbmlNX0JXRnk?oc=5",
+   "date": "2026-11-26T14:57:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "64a3882a0e33",
+   "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300 mil familias del centro y sur",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlhxallmWTEtYkZSSHVSdHFZNVpFM0d2bnc5VlBNZlBzT3ZGX2RYbHNWWS1zR09jTUFwTEhmekw3MkY5WGlzaHFRVUwyNUVqSUxTQ0c4emRLN0xESFVhaDB6MTJkUHA1ZVZwR2hsNWtfcVdzdDNEWTljb3VXYVBvWWIzYVJNbS1ZVW9ZZy11S1NUNmM4UFpadThFQWlZV1RLc1pQV1JzOTdoLTlYVDQzb2Z5ZDZsR3pjc2RYbXJSMGFDeEhNLTlWX0V0S3NqdVd0?oc=5",
+   "date": "2026-11-26T14:56:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "99986110b8e9",
    "title": "Bolivia busca fortalecer su conexión con el Pacífico en la reunión de Rodrigo Paz y Keiko Fujimori",
@@ -692,6 +757,17 @@
     "name": "Colombia",
     "abroad": true
    }
+  },
+  {
+   "id": "ae5f6a5ac18c",
+   "title": "Presidenta Fujimori y autoridades de Sunarp revisaron acciones para impulsar titulación de predios",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYm1NRmhTZmtxblN3VWlXeXlNLUlwdm45YmxtVEd4UTZlR2hZSDRmc0xqdFhVTlIwSEczUEFtS3p5bFp0S0VEX05CSS1FUGQ5SUdQMnYwWDV6SXI1RV9tN1BZTk5BN2RFX0F1aGZLVlJNM3hHQTM4UXRFbV9mVThPTU9yaEdLQmNRZ21vcEZVVzdiR04xMzRSS2R4RHVHTTNHNkgzb0UzNEM5eFZCbVBpcGF0WldMMkExdWxaTVlySGVDWHpMSnJrZW1nYmZwRXc?oc=5",
+   "date": "2026-11-25T22:19:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "50250a40ba2b",
@@ -1011,50 +1087,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "e82b63bd6f0b",
-   "title": "Keiko Fujimori solicita autorización del Congreso para viajar a Colombia",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHN6ZVhUWXBDejZ3LWNLUTdYamxuamhsMmQxelZ0YWI4MFc0SllVSFpNbW96UDdxMDFqWVlMZUtPdGR5SWlHM0JXZlNpQ2lra3JobzZ5ZjJWUFFFVzA0OW01XzBTZ0xVOWtGRGpCMGRMWXVHdXhtbUZrU09sVWQ0eHcwWlBubUNfRGE3SGY0Q3pZclR6OGlUWHhlRnVXMUE?oc=5",
-   "date": "2026-11-24T21:40:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ab8569ecab64",
-   "title": "Keiko Fujimori pasea por Tokio, el refugio que salvó a su padre de la justicia",
-   "excerpt": "",
-   "source": "Los Reporteros MX",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLVFjbFA0a05PNkVDODA5NEM2aVlaM1JHc3NpbVM1QmhkTFNjWnMxQjA2TzNQUThZaV9KeE9EcngxQjNQYmp0dnZ5R2RTbVNROHF6MWVvbWlvdXp5b3BCQk1lM01KZ0Z2SmxYSHRkeGpxZFlvVzFkZGRQMmNraUh5NmtudERGZmRzMEpfV1dONGFkUlhPVUVkaklLM2NZU2w0QXNKam40WEs5Zw?oc=5",
-   "date": "2026-11-24T21:40:24+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08b53820d600",
-   "title": "Keiko Fujimori solicita autorización para viajar a Colombia",
-   "excerpt": "",
-   "source": "CanalB.pe",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1V4QXJ2ZjRGWndVQ0ZuNXVGSGltamRhSU40eWVyTWtrUEd2YnBJWjU5N3dIU2dxZ2NWeHJ0Znk0WHpnWlh6cGt2S1AwV29kN3Qtc2VGcDh6c0w3RjBEUHhERmRRYWNaTnlTbFA4eTJPdmcxNG1GS2RoSkhJODg3NDF2b1RXMGU1aURHdWp5R0daZW83azRSVlNtUQ?oc=5",
-   "date": "2026-11-24T21:31:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a86c5d2dd725",
-   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia y participar en el Encuentro Presidencial y VII Gabinete Binacional",
-   "excerpt": "La mandataria participará en Barranquilla en el VII Gabinete Binacional y sostendrá una reunión privada con el presidente Abelardo de la Espriella. Durante su ausencia, Luis Galarreta quedará a cargo…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/24/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-y-participar-en-el-encuentro-presidencial-y-vii-gabinete-binacional-hnews-739296",
-   "date": "2026-11-24T21:20:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
@@ -1227,6 +1259,8 @@
    -12.06528,
    -77.0406
   ],
-  "sede de la universidad nacional de ingenieria (uni), rimac, peru": null
+  "sede de la universidad nacional de ingenieria (uni), rimac, peru": null,
+  "yanahuara, urubamba (valle sagrado de los incas), region cusco, peru": null,
+  "yanahuara, region cusco, peru": null
  }
 }
