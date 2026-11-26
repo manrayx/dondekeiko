@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:40:01.402938+00:00",
+ "generated_at": "2026-11-26T10:01:48.273111+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -397,7 +397,7 @@
    "id": "93aef0fcf41e",
    "title": "Flavio Figallo asegura que no se opondría al viaje de Keiko Fujimori a Colombia: \"Han estado congeladas las relaciones diplomáticas\"",
    "excerpt": "",
-   "source": "RPP Noticias",
+   "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWW5DUWMwek56a2lPLXpMbkFOZjBiRFBsckxvQW05UW5YMHFCMWZDWTFFUTJ5LWFBN1Zva1VKUmdoc0JkbC1URmVVQlJhMUN3NmhNMFVtUkNxM3ZFRHIxS2J0dE94blV4MEduM0hNX0ZkWWN4Y0RmNjhndUphT0tJVmstTFdCeGpWMk9Yejd0czNjbkJiOUJzY0wyVnhnbTE3emtySTBjVWxEbFJPQUZqVkJlc3B0QmtzcF9CVnppWnJpMnl5WTJGeGY4NHVRUUswSmlhU3loM3hqbFh1a1ZDU3hBel9aQ2tZVmNaSi1STUZfcHV4aEhDSVRZdEhSTEpKcDlJeGg3SW9PZw?oc=5",
    "date": "2026-11-26T03:23:13+00:00",
    "state": "posando",
@@ -799,6 +799,28 @@
    "next": null
   },
   {
+   "id": "182d929735e8",
+   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
+   "excerpt": "",
+   "source": "www.radionacional.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZWMxaFo3c0p6WkpEUl90SkdCX3oxSC1Sb05DNjlDTWp2STVkTDA0bHotQ3psN18zemVndXJGUVhpNDgtNG9IcC0wZjBCWHJzNF9rUDBIMGVGMTNTZ042OFA1dTJMamFmTmN3WmNzMm9JQmh1U2hNLW45bk9BVllBYVI5MEh6eHJnbFFib3dfVkNPTE0xRlNWMXRrel81QWVzWEhiWHhQQjVyWFdqdTNuUmV5OWJEeXV1NFRDek9wZTY2OHROMktxMVk5NA?oc=5",
+   "date": "2026-11-24T22:43:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3e93f38195a0",
+   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
+   "excerpt": "",
+   "source": "www.radionacional.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN1FneTdla1E2RGRxdjZWMm9kUHVsUE1oQllxUlNVVk5Ec0RpcnBpRHJ4bU94T0VueVpNenhJV1Zkd2pMeFcwZGJmSE1xSmlzM1Y0RlpOaVIxY0tYY2dicGJEX2Z5bFUtaGRVVE1SOVFrRl92QzU0RjRkRl9JLTdMT1lUNHFXOHhDRVowcm1UTE96WTR0VE5YQzFGbHFwajVzbnZ6NU1jcm1tUjlzeDExXzhmU3dPaDZqcFk2WkFMWWdFTE5YMmRCUm54cW1FX1ZHbVVydEY2RUF2czJz?oc=5",
+   "date": "2026-11-24T22:41:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "58c251cf6624",
    "title": "Keiko Fujimori solicita permiso al Senado para...",
    "excerpt": "",
@@ -934,20 +956,9 @@
    "id": "c202d4154021",
    "title": "Keiko Fujimori pide permiso al Senado para viajar a Colombia el 3 de diciembre",
    "excerpt": "",
-   "source": "RPP Noticias",
+   "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUV6bmx2N1V4M2FGTGlRMTJHekk3WHl2c2ZSaDNybF9DVzJWblZvUkt6NDFmVmNTdXFxdFMtYzVpUGs2R2dOZmFPWE9ldTNRWEI3bF8wOElwdlh0WmhvQThDeFJ3dXc5ek1TNTBjS1BfaE40SHgzS2FuS3d1UHZxSGNLM1pGOHA2VTJNeWdQWVlvQmhTZXZybE5sY2hpbERya3RPODdvYWVXZ2J2UDJiWWpYbkdjdjZYNzRhdUZDWjFDdWQwMmc?oc=5",
    "date": "2026-11-24T20:00:50+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "182d929735e8",
-   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakxxY3hsUE9uZGZjRGpRWl9mVEQ2cU0takdqX2tNeXhUT0xSQXJoelEtWGdsSjJ3SjNZTDFpUzliNW1kXy1CWGNhOUhvajBuNGdHX2pfV0dLeXFnRmdYU2M3OU50NlJOclRNYWlJZ1hzWHJCRzhadkhpRmVyVXJtNXhNbEp5WTRGWjMzNUFoaGhHbGF2QWRFQ3dPS0pXR1pPa21RRV9HU2JaRTdZbTRKbE83VzFYV29aZmc?oc=5",
-   "date": "2026-11-24T19:29:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -992,17 +1003,6 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTFRcnhEc2g2bzRrdUNZVnIxUmlpYnFvUHhkdV9EU3ZDNWpvY2JNWUJzcVZJV2VXZWVFcEtuTXJLbXNUVjdITmxwSnJCXzJwd2M4Sk9hM3NBWDdiYXZVeXA5UEdPdVlhMGVqNVVvNlhrMzFaZTc1aVVyVGh4YXVueWtFb1Npc1dpVUVsY05RWWFWeVNwUEJxNjZjbUlGLWVCUlRUT2hCYktkZU9GbkNJTnpiTTdUeDdrd2hEbkJYcULSAdQBQVVfeXFMTUZvUjhRc21YeFk2LXdtQnBwb0xwanl3M0FzYkY5emt1V3JrZUVaNjgtVE56c2xlQWk0YmhNeTlyMHJSb1RMaEY2cHVRbzNSQmFzX01iRFZEa2NCZE5sN3o1ZjFxX2hrM1RvZ3R5QXRRUUF6SUNSeG1aRFNlWHZzUWY1dVhFRDNPQTZOWC1nS2Mtb00xMzNJbDhISnJDNUQ0RVZQLURSLU1YMG1ac1k0Zk4tZk1RLUJzb0NjODkxOWxBLWtmNXBzMDVjUE5hRGpQb24tWEg?oc=5",
    "date": "2026-11-24T19:15:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3e93f38195a0",
-   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjdKYkgxSmUxeW1XUS1jZXRveU1DSnNwNndoTFJxOUpRczNmTE1qWFFxVzJTbUtvRS1nNXdyZTlsSGFjRV93X3FwYi1hblI5WXJUUDZGVnlJNldXdURiUHE4R2NWOENtQVFId0lIYk9nS19udTQzNDc3dVRnSFdHNzJmV29UbWphdTVwNy1FWURhQWxRNkpRd2k0N3h4VlpnUE9pV25qSnlYMjF1MFh2ZmNPZ01pYUVGaEppR0RqVms?oc=5",
-   "date": "2026-11-24T18:56:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
