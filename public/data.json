@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:35:13.453047+00:00",
+ "generated_at": "2026-11-26T13:57:03.536823+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,7 +94,17 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": null,
+ "last_place": {
+  "place": {
+   "name": "Cusco",
+   "lat": -13.532,
+   "lng": -71.967,
+   "abroad": false,
+   "city": "Cusco"
+  },
+  "source": "El Comercio Perú",
+  "date": "2026-11-26T13:33:20+00:00"
+ },
  "next": {
   "place": {
    "name": "Colombia",
@@ -377,9 +387,26 @@
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T13:31:47+00:00",
+   "date": "2026-11-26T13:56:00+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "c50ce6b5f357",
+   "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en CADE 2026",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOU5FcHBacDdSX1FRRmVmYmxNUHZldU16eWJfZzU5Sm9hQlBPbGJaVE9NR0QyWHBuM2MzbWlEbmdZOW02cFhlbXEyZkptclVqbXpON1Q0UHJTLS1CQXhxeVBWRFNrRVJnOVNTd05LaU5OeDlSU0R6RlAycUNVQXpScHMwaHJMR0NKNmN3ZTY2ODRObnFwRGphWUwteUFUQy1FQV95ckFlTFdwVEpmakxheklZV1lxUUg5LTdMV2tYLUd5WGlKYnlKOHp3OENrcnRsMndvVnhjQ0NsRkxCODJoRDJaOXlFN3VfV3Q4T1dwUVZ4bjRyX0Fqdm9tVmF6WXRwLWhCLTMwMzM2ZVXSAZ8CQVVfeXFMTWc3RU1DNXlBdVM0eC1GNy1NRVpmTDl4OEUyOU9BUzI3a09TdkctcGROMENkMmZyaVdZMk44VklqSk40YjVydzh6TjFFSFdMdFNsVTFpc1JRNU5hOW9ZbU5PQ2VyLW1sUHktdzl0czJ0dDJLUVc3dzIyZWs1Q3VDb3NkdWVETUxkQ3Y1RERud2ZpSlhEM1dEYlpNZzlYcWd6Q1o5U3FxR2pzYVJTblZncXhjTFphRUpua3l1QWlFeU1xNUFXVGxnUzJ4dTE5TXIxSnZHTllzNE15WWZtYTlaUTlPdTdubWdwbHdNQjR6Y2VuQVVDQXZBTW8tRWRqYXBEaE9nUWVSV21mNm9IcmVnRkY3YTNieGhXc1Awd09rTU0?oc=5",
+   "date": "2026-11-26T13:33:20+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false,
+    "city": "Cusco"
+   },
    "next": null
   },
   {
@@ -430,7 +457,7 @@
    "id": "93aef0fcf41e",
    "title": "Flavio Figallo asegura que no se opondría al viaje de Keiko Fujimori a Colombia: \"Han estado congeladas las relaciones diplomáticas\"",
    "excerpt": "",
-   "source": "RPP Noticias",
+   "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWW5DUWMwek56a2lPLXpMbkFOZjBiRFBsckxvQW05UW5YMHFCMWZDWTFFUTJ5LWFBN1Zva1VKUmdoc0JkbC1URmVVQlJhMUN3NmhNMFVtUkNxM3ZFRHIxS2J0dE94blV4MEduM0hNX0ZkWWN4Y0RmNjhndUphT0tJVmstTFdCeGpWMk9Yejd0czNjbkJiOUJzY0wyVnhnbTE3emtySTBjVWxEbFJPQUZqVkJlc3B0QmtzcF9CVnppWnJpMnl5WTJGeGY4NHVRUUswSmlhU3loM3hqbFh1a1ZDU3hBel9aQ2tZVmNaSi1STUZfcHV4aEhDSVRZdEhSTEpKcDlJeGg3SW9PZw?oc=5",
    "date": "2026-11-26T03:23:13+00:00",
    "state": "posando",
@@ -656,6 +683,17 @@
    "next": null
   },
   {
+   "id": "dfce2aa863a5",
+   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
+   "date": "2026-11-25T13:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c699b36e8ea5",
    "title": "Opiniones divididas de diputados sobre pedido de viaje de Keiko Fujimori: \"No veo nada provechoso\"",
    "excerpt": "",
@@ -695,17 +733,6 @@
    "source": "Diario EP",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm1VZGktb0JnT3FvUVU1QmtYS3NfXzRZZWVxblZBTVNtU3o5SG05S01OZWw4Y3FRX0VIS3U2SzU5Y19UTzZsWFBMRGFlbnN5QTI2MGU2T3VYOUZmN3RudDVwaW04YnJVVlFhSnNGRWF2b0tHUEt3SFlscUtoSy1wWGpFZGF4UHJIXzgxYjY0MjhhVkw1OVE?oc=5",
    "date": "2026-11-25T02:59:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dfce2aa863a5",
-   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
-   "excerpt": "",
-   "source": "Radio Nacional",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVZtS0FwNFotRU1LSFBaOVVydi1Hbk15R1c1MEVhYVRleDhwNjlCeEx4dDBpRzBwWHZEcXZLeGhmSkltSUJEb3JFUW5LWWRjWUVRRzU5WnpsR2U4OEw0cjVKbXFIT3hoenNJclRKeE1LeVNlWUllT1MxYU5yNWxRU29JTGc5cE5JM1JoQUFHX2NldUMwZzYzc0wwai14WlpsOHM0dHNsRUo0aHdxRWF1OGtFTi1HUGYwOHVfeTQwWFdpQ3ZScXlSNDRiV1BadFhS?oc=5",
-   "date": "2026-11-25T02:56:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -989,7 +1016,7 @@
    "id": "c202d4154021",
    "title": "Keiko Fujimori pide permiso al Senado para viajar a Colombia el 3 de diciembre",
    "excerpt": "",
-   "source": "RPP Noticias",
+   "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUV6bmx2N1V4M2FGTGlRMTJHekk3WHl2c2ZSaDNybF9DVzJWblZvUkt6NDFmVmNTdXFxdFMtYzVpUGs2R2dOZmFPWE9ldTNRWEI3bF8wOElwdlh0WmhvQThDeFJ3dXc5ek1TNTBjS1BfaE40SHgzS2FuS3d1UHZxSGNLM1pGOHA2VTJNeWdQWVlvQmhTZXZybE5sY2hpbERya3RPODdvYWVXZ2J2UDJiWWpYbkdjdjZYNzRhdUZDWjFDdWQwMmc?oc=5",
    "date": "2026-11-24T19:58:09+00:00",
    "state": "posando",
@@ -1025,17 +1052,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNY2U2UDlISWJpREpaWGI0LVRjZVB0TTF4dkJmbjRlSHZkTmxYZEVPci1MUHVOZmFoUzFsUkNJRGR0cW8tZFEwZndKUmpnNkgwV01Ld25wSTNQQm1EVjhPaUg3c2ZjMTFqWnZxWlhJbXJ4QVB2T1IySkFEYUZLVkF5WUpTTU50MEFhYUJOOHJ3NnJXTG5ydm5IWHZ6aUMyVHdoSnVsOTJBUXBFZE14bmhLTlp2M1ZWYVVac25YRFkyOTFkcTJzaGF4eEFFQ2FkT0doRG5pamNoeTgzTHFnR3BzbVZfaW5WZHNEdFRjVWY4QkV6a1NVRXpsTk5vamk3bkZfdmc?oc=5",
    "date": "2026-11-24T19:18:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c3765980b95d",
-   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre, Susana Higuchi",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTFRcnhEc2g2bzRrdUNZVnIxUmlpYnFvUHhkdV9EU3ZDNWpvY2JNWUJzcVZJV2VXZWVFcEtuTXJLbXNUVjdITmxwSnJCXzJwd2M4Sk9hM3NBWDdiYXZVeXA5UEdPdVlhMGVqNVVvNlhrMzFaZTc1aVVyVGh4YXVueWtFb1Npc1dpVUVsY05RWWFWeVNwUEJxNjZjbUlGLWVCUlRUT2hCYktkZU9GbkNJTnpiTTdUeDdrd2hEbkJYcULSAdQBQVVfeXFMTUZvUjhRc21YeFk2LXdtQnBwb0xwanl3M0FzYkY5emt1V3JrZUVaNjgtVE56c2xlQWk0YmhNeTlyMHJSb1RMaEY2cHVRbzNSQmFzX01iRFZEa2NCZE5sN3o1ZjFxX2hrM1RvZ3R5QXRRUUF6SUNSeG1aRFNlWHZzUWY1dVhFRDNPQTZOWC1nS2Mtb00xMzNJbDhISnJDNUQ0RVZQLURSLU1YMG1ac1k0Zk4tZk1RLUJzb0NjODkxOWxBLWtmNXBzMDVjUE5hRGpQb24tWEg?oc=5",
-   "date": "2026-11-24T19:15:26+00:00",
    "state": "posando",
    "place": null,
    "next": null
