@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T14:18:16.637087+00:00",
+ "generated_at": "2026-11-26T14:39:52.610905+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 59
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -382,13 +382,79 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "194c766178e5",
+   "title": "Proyecto de gas natural “7 regiones”: Gobierno de Keiko Fujimori firma adenda con Cálidda",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWJIdWlxemRJTWRBNGxwbGFib2ppYXFsaGVIdHBjY01KWFg0ak0xOWVxYVlXaW1HYkFGZmcweGNWSllsT2R5dWx2czVZOXVUQXJsSDl6ZV8wVHlISThONV9pcjdpaW00cFpkNUZuYlZLZ3FpS1RyVVhjbFJtUmZ6SlpDYVFFZFA5ejZvOFRNZmpvQzdyMG1LdElHUy1ObHpCdHppbTk5SHB5VTVlcm5PalU1M2xveEg4WmtLMEJPMHY?oc=5",
+   "date": "2026-11-26T14:34:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c79b863b653b",
    "title": "EN VIVO: Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T14:13:57+00:00",
+   "date": "2026-11-26T14:33:13+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "805085d0fbf6",
+   "title": "Keiko Fujimori defiende adenda para masificación del gas: “Hemos llegado al gobierno para tomar decisiones”",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3NJQWpTdFl2RnFLWDdlTXQtcmczeEU4ajhNaVVvZXhadExaOXRvM1RSbjhGVjNScl9hdERzNEJZZjBTRGxzdzBvVHMyMUNCVGpRZzY5LWpfTjZlbk1SUGRlQ0RQUEFjbXJPSDN1Qnd4VlF0dWx2M3dIUkVKOUFnMUptOVVJOTlKcHNid0V0ODJZMi1aWHltSTYyQjY4R0ZzZjVmVjNGWkMzM0VVWnZDWFR5b1p2RWhNc2FueXdBVGRwS1lZcGc?oc=5",
+   "date": "2026-11-26T14:30:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4315ec565dee",
+   "title": "Keiko Fujimori: “La masificación del gas tiene que ser una verdadera política de Estado”",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjZyb1JaVmc3dWlnNFBaaUl4cUo3cktaTlRwUjVndk9tcVZKZFBJWWRyTkNEbFlETWpZeUVUaGNUS3N1Mjd2NVFJVjBnQUxfamt5LXdLa2JIcU9BNjJJUG5wNER0YkFqQlhtMHpzaXp2ZlY1cUtzc29KSW1keHBtbEVkREk3REVIYjhVcVpRNXd3NktoQ21KczFUZmdrSkIyQUZoc1dSR2Z1Q0FQWTI3NmNpZXF5ZHpuYkdsdXVTLXo0NmJ1MjQyeWNBelR5REpzWFM4Q05jTzRPZDhwd25SMtIB5gFBVV95cUxQaURHZjlvUHdMN2ZqamNNWGdza3lPQ3BZSTA3cjRNXzRqSl9DbnJFNlBUTUtRWmFuWWhRYXpUYl8yM0xzTEVOOXFvQ01helI5bFhmeEJpUURTcmV4X3o1OWdkcEItY0VvMFI4bHVVaTFtc2V3Tk1uY04zWFhrc0wtV2xyR1ZKX2d5QWp1X3Z1a3M5N0NjbWdfQ1lrcGxXYWtQRnJ3M2Jsa2haMl9oNHZoQTZZdnJ6ZThjWUtjR3lWaHIzcGxvMVloWWNhWnNIb0xkYnNxMWJaZUY0ekQwRWZlOEYxblFodw?oc=5",
+   "date": "2026-11-26T14:27:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "93c96fa96d76",
+   "title": "Presidenta Keiko Fujimori participa en firma de adenda a contrato para masificar gas natural [en vivo]",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFJjdUpOb3NUY25SV0VmTGJoSHRiV2wyYTBXRWRiT0puMVFrbFV1Z2VXcE1XRWhYdnYtbUJsb3lmM1JSNzFNMm5EVFBrU3oybHlURUZCaWxlcG05cjVzTWMxREc5N0RZN25KV2xjaEZ3YXNpSWZKczlvV3FKTnA0aE54OTNfSmFhTk40clJYZ0k0M21HQVZqTkZXLWRLcWU2NEh2dGRqTUN2eWU5TUlZYjBGbVdYeHZHUVk1allLRW93anFPTUdOWVlueVdNeE8yNVE?oc=5",
+   "date": "2026-11-26T14:20:00+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "23025b0744cc",
+   "title": "Keiko Fujimori participó en firma de adenda entre el Gobierno y Cálidda para masificar el gas natural a siete regiones",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDFQR2pad2hvTjQzU1ZUR3piam4zb1Q2dS15blVQMEJVMWhrSjJBOWRlWVZ4eXVFQUk5anN1M3k2Sm04cUhTVlQtSW02aHlYa0VlQUNyUTBQa2tQUTRVbklMZFVDSnFMZFpQd1NQZEIxWi05TXF5ZUNxOFYxZHhlZUFsbXJQNWNXanYwNXh6TURCN3NyNUtMenRnOEt2QVdTekJQYk93clgySkxFcU9ScnBmWEd1WC1fTzBld3VvdVRJSFZqTTl1RWhwd0dmNl9WZ09uQl9sdHJRRTlZWkoxNGdGVktkX2x3VE1tcmQ2ZVJoVnZVN3Y3Q2FhRQ?oc=5",
+   "date": "2026-11-26T14:17:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "4a7911931b05",
+   "title": "Presidenta Fujimori participa en firma de adenda a contrato para masificar gas natural",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3E2UVRBTVhnaVZlbUJrZVBKd1Y3SXlyZzhZOEc3am55UHhhR2hic1pOWTFqdjhRWFQwcExsemV1SkNmOW05eUtQXzFGVVowTHpQamlWU2ZZMjR0eTRzZ1BCUExrLVdoNDM5R0V0Z3VhWWFXc0tfN2E4aTlDTHBfMTlCSnhDOEV4VzhjLTZ6djB1SnNlelA1S2E2UUhmZV9QZ2VGZ2lrTTlsQ2RkWlRtZ3VwSWNTZTVoWHpzRkU1d1JoV2RJd0E?oc=5",
+   "date": "2026-11-26T14:05:00+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -716,17 +782,6 @@
    "next": null
   },
   {
-   "id": "dfce2aa863a5",
-   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
-   "date": "2026-11-25T13:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c699b36e8ea5",
    "title": "Opiniones divididas de diputados sobre pedido de viaje de Keiko Fujimori: \"No veo nada provechoso\"",
    "excerpt": "",
@@ -766,6 +821,17 @@
    "source": "Diario EP",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm1VZGktb0JnT3FvUVU1QmtYS3NfXzRZZWVxblZBTVNtU3o5SG05S01OZWw4Y3FRX0VIS3U2SzU5Y19UTzZsWFBMRGFlbnN5QTI2MGU2T3VYOUZmN3RudDVwaW04YnJVVlFhSnNGRWF2b0tHUEt3SFlscUtoSy1wWGpFZGF4UHJIXzgxYjY0MjhhVkw1OVE?oc=5",
    "date": "2026-11-25T02:59:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dfce2aa863a5",
+   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
+   "excerpt": "",
+   "source": "Radio Nacional",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVZtS0FwNFotRU1LSFBaOVVydi1Hbk15R1c1MEVhYVRleDhwNjlCeEx4dDBpRzBwWHZEcXZLeGhmSkltSUJEb3JFUW5LWWRjWUVRRzU5WnpsR2U4OEw0cjVKbXFIT3hoenNJclRKeE1LeVNlWUllT1MxYU5yNWxRU29JTGc5cE5JM1JoQUFHX2NldUMwZzYzc0wwai14WlpsOHM0dHNsRUo0aHdxRWF1OGtFTi1HUGYwOHVfeTQwWFdpQ3ZScXlSNDRiV1BadFhS?oc=5",
+   "date": "2026-11-25T02:56:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -892,6 +958,28 @@
    "next": null
   },
   {
+   "id": "182d929735e8",
+   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
+   "excerpt": "",
+   "source": "www.radionacional.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZWMxaFo3c0p6WkpEUl90SkdCX3oxSC1Sb05DNjlDTWp2STVkTDA0bHotQ3psN18zemVndXJGUVhpNDgtNG9IcC0wZjBCWHJzNF9rUDBIMGVGMTNTZ042OFA1dTJMamFmTmN3WmNzMm9JQmh1U2hNLW45bk9BVllBYVI5MEh6eHJnbFFib3dfVkNPTE0xRlNWMXRrel81QWVzWEhiWHhQQjVyWFdqdTNuUmV5OWJEeXV1NFRDek9wZTY2OHROMktxMVk5NA?oc=5",
+   "date": "2026-11-24T22:43:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3e93f38195a0",
+   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
+   "excerpt": "",
+   "source": "www.radionacional.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN1FneTdla1E2RGRxdjZWMm9kUHVsUE1oQllxUlNVVk5Ec0RpcnBpRHJ4bU94T0VueVpNenhJV1Zkd2pMeFcwZGJmSE1xSmlzM1Y0RlpOaVIxY0tYY2dicGJEX2Z5bFUtaGRVVE1SOVFrRl92QzU0RjRkRl9JLTdMT1lUNHFXOHhDRVowcm1UTE96WTR0VE5YQzFGbHFwajVzbnZ6NU1jcm1tUjlzeDExXzhmU3dPaDZqcFk2WkFMWWdFTE5YMmRCUm54cW1FX1ZHbVVydEY2RUF2czJz?oc=5",
+   "date": "2026-11-24T22:41:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "58c251cf6624",
    "title": "Keiko Fujimori solicita permiso al Senado para...",
    "excerpt": "",
@@ -964,94 +1052,6 @@
    "source": "La Decana Radio Juliaca",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2N4Y1VzdjZ2OTVkUUprbzZxTjFHUlhIcnNBeFhoRDlJYVZDVmFRbzl4OWptSmdwLUJZcjB4MHZXeHJIXzdLWkstWEZTVkZtYzVFVUtSRXhuTURxVmQyY0gyLWRNcUZyU214dERUbWRVc0VpX1JGY1Iyak4wTlFHdUY4eFhQTzhNNExiYUtzNXN0aG9waWV1OUpFWUhvSTgxaW5Pdw?oc=5",
    "date": "2026-11-24T20:51:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "00ea473b24c5",
-   "title": "Keiko Fujimori se conmueve al participar en homenaje póstumo a su madre, Susana Higuchi: \"Me resulta un poco difícil hablar\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXpXOW1EYkJqd25uTDBob0NYcWd4cmdWU0p0UDBxeTN3RmF5NDhKZFU4WjZzRnJXLTNmVnpxRmItNW80OFhHMnVHWjZfTV82OXd0QWZPNS1UTkVCZXgtZ3BEd0tyOE90cWUzOUF3WmYySUlpVGZYYTF2Z0hFTXBZSWNleUpsczVtLUhubmZYWTRycUhRLS0zcG9teV9NLXE5?oc=5",
-   "date": "2026-11-24T20:44:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b2f2e792fc5a",
-   "title": "Oposición busca interpelar a Carlos Espá: ¿En manos de qué bancadas está el futuro del canciller?",
-   "excerpt": "A su regreso de China y Japón, en donde participó de la Cumbre APEC y realizó una visita oficial, la presidenta Keiko Fujimori respaldó la continuidad del ministro de Relaciones…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/oposicion-busca-interpelar-a-carlos-espa-en-manos-de-que-bancadas-esta-el-futuro-del-canciller-misa-las-palmas-papa-leon-xiv-apuesplan-noticia/",
-   "date": "2026-11-24T20:41:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b58842264b23",
-   "title": "Keiko Fujimori alista nueva salida del país: presidenta solicita permiso al Senado para viajar a Colombia este 3 de diciembre",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPT0hzTjBqTHBlQVpzNHRrZVlfWk9DYm1PbXpXTDlydEJPcE95ZWxwS2kxbjlOWU8wNVhfMi1YQVJVYkdrUklISEp5eWF6YktKSXRHUWNVWUtpbnJPeFo4eV9XU2xjZ0ZmU01MbTRFQ2QxOG9iUzM1OFRxblJTOXhidUpMX28wYmFa?oc=5",
-   "date": "2026-11-24T20:31:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f61dbca92b0a",
-   "title": "Keiko Fujimori sobre los cuestionamientos a Carlos Espá: \"Quiero expresar todo mi respaldo al canciller y al gabinete\"",
-   "excerpt": "La presidenta Fujimori aseguró que apoya al canciller luego de que el Congreso presentó una moción de interpelación por las fallas en la organización de la misa papal. Sin embargo,…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/23/keiko-fujimori-respalda-a-carlos-espa-pese-a-fallas-en-la-misa-del-papa-leon-xiv-en-las-palmas-hnews-315376",
-   "date": "2026-11-24T20:23:12+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bb4f255f2fc0",
-   "title": "Keiko Fujimori pide autorización al Senado para viajar a Colombia en diciembre",
-   "excerpt": "",
-   "source": "Latina Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUHJLY3FCcFJPbmo3TDhYU2N4WW1LZnJhaUJUYlZJZzFncjhCYU1HYkhZY0JBQWtWQXo1SEdfeV85akZLT29QUVVMTzlFejdvVF9QT3JGaDA3Vy03YTZzNEJBVDJKYjR3VDd1TFNyb2NBaEh2ekpCWl9VSmJoUVdNb3pPejhUdklHbDVVb1ZFamVEcE5SbmlsTGJRd21SWmQzT2wzQzl2b3pGWEVsLXJVYkMxc2JucF9IVC1zSnJaSHRXSG9qUDNZdGRwWXJQTnpvV3BQM2tGbnBTTVQ4Skp1ekEtZzlOVlVVVllzX3Jn?oc=5",
-   "date": "2026-11-24T20:07:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c202d4154021",
-   "title": "Keiko Fujimori pide permiso al Senado para viajar a Colombia el 3 de diciembre",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUV6bmx2N1V4M2FGTGlRMTJHekk3WHl2c2ZSaDNybF9DVzJWblZvUkt6NDFmVmNTdXFxdFMtYzVpUGs2R2dOZmFPWE9ldTNRWEI3bF8wOElwdlh0WmhvQThDeFJ3dXc5ek1TNTBjS1BfaE40SHgzS2FuS3d1UHZxSGNLM1pGOHA2VTJNeWdQWVlvQmhTZXZybE5sY2hpbERya3RPODdvYWVXZ2J2UDJiWWpYbkdjdjZYNzRhdUZDWjFDdWQwMmc?oc=5",
-   "date": "2026-11-24T19:58:09+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "182d929735e8",
-   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakxxY3hsUE9uZGZjRGpRWl9mVEQ2cU0takdqX2tNeXhUT0xSQXJoelEtWGdsSjJ3SjNZTDFpUzliNW1kXy1CWGNhOUhvajBuNGdHX2pfV0dLeXFnRmdYU2M3OU50NlJOclRNYWlJZ1hzWHJCRzhadkhpRmVyVXJtNXhNbEp5WTRGWjMzNUFoaGhHbGF2QWRFQ3dPS0pXR1pPa21RRV9HU2JaRTdZbTRKbE83VzFYV29aZmc?oc=5",
-   "date": "2026-11-24T19:29:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a79e79fadae7",
-   "title": "Keiko Fujimori solicita autorización para viajar a Colombia el próximo 3 de diciembre",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1hyZ3JQRXpYRFExekVaZUdTZ0diOFBCY2N6UXNNYmhYYmtxdGdRbzVXOUJJakdNUzRVOTRwMHBNcjZOUEJMQXRPbkkwcjlsQjU5UThzZGhPRmctcW5LVzR4VkFtWDhTQktmMzZsNm1pa08tdHllcEdONG5DV3RqY1YzM0NIUDU1ek9MSU85VnB1TmZEclh2Z01kcFJLOURiSVU1bTJsZ2JPbGdhemFiTTk5RU9tRW0yVTlQLV9WTmpKY3JUTUHSAdoBQVVfeXFMUFpuamNQaV9tZ3ZIbFZPTUlXZ1hSUFMwMXF1VjVNUmdyay03UzNhUHk0TjBHYUFLQUNFRjFIMGo0SzQ3UXplRGx6U2RkdWJsaDhsSFltS09aTEROYlRKYlo3bFBob0p2OS13VHhtWGotS3I5T1BnQ1NXalFON1VDNXRQQUFEVDhxay1HZWktYlRYajlSM3JWWVBINHVRNW4taHdEWmg1Ulk3ZllDYmdMMFRQd2FxUk9tY3Rrc0l4NXd4cVdfT0xKbmFZR1JaRVE1NnpDMG9ZTFJ5cnc?oc=5",
-   "date": "2026-11-24T19:26:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
