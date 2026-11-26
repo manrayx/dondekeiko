@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:43:45.740825+00:00",
+ "generated_at": "2026-11-26T16:04:52.939467+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -414,6 +414,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c79b863b653b",
+   "title": "EN VIVO: Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
+   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
+   "date": "2026-11-26T15:56:30+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "93c96fa96d76",
+   "title": "Presidenta Keiko Fujimori participa en firma de adenda a contrato para masificar gas natural [en vivo]",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFJjdUpOb3NUY25SV0VmTGJoSHRiV2wyYTBXRWRiT0puMVFrbFV1Z2VXcE1XRWhYdnYtbUJsb3lmM1JSNzFNMm5EVFBrU3oybHlURUZCaWxlcG05cjVzTWMxREc5N0RZN25KV2xjaEZ3YXNpSWZKczlvV3FKTnA0aE54OTNfSmFhTk40clJYZ0k0M21HQVZqTkZXLWRLcWU2NEh2dGRqTUN2eWU5TUlZYjBGbVdYeHZHUVk1allLRW93anFPTUdOWVlueVdNeE8yNVE?oc=5",
+   "date": "2026-11-26T15:51:00+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b9df91ac08e8",
    "title": "Presidenta Keiko Fujimori firma adenda para...",
    "excerpt": "",
@@ -491,17 +513,6 @@
    "next": null
   },
   {
-   "id": "c79b863b653b",
-   "title": "EN VIVO: Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
-   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T14:33:13+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "805085d0fbf6",
    "title": "Keiko Fujimori defiende adenda para masificación del gas: “Hemos llegado al gobierno para tomar decisiones”",
    "excerpt": "",
@@ -520,17 +531,6 @@
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjZyb1JaVmc3dWlnNFBaaUl4cUo3cktaTlRwUjVndk9tcVZKZFBJWWRyTkNEbFlETWpZeUVUaGNUS3N1Mjd2NVFJVjBnQUxfamt5LXdLa2JIcU9BNjJJUG5wNER0YkFqQlhtMHpzaXp2ZlY1cUtzc29KSW1keHBtbEVkREk3REVIYjhVcVpRNXd3NktoQ21KczFUZmdrSkIyQUZoc1dSR2Z1Q0FQWTI3NmNpZXF5ZHpuYkdsdXVTLXo0NmJ1MjQyeWNBelR5REpzWFM4Q05jTzRPZDhwd25SMtIB5gFBVV95cUxQaURHZjlvUHdMN2ZqamNNWGdza3lPQ3BZSTA3cjRNXzRqSl9DbnJFNlBUTUtRWmFuWWhRYXpUYl8yM0xzTEVOOXFvQ01helI5bFhmeEJpUURTcmV4X3o1OWdkcEItY0VvMFI4bHVVaTFtc2V3Tk1uY04zWFhrc0wtV2xyR1ZKX2d5QWp1X3Z1a3M5N0NjbWdfQ1lrcGxXYWtQRnJ3M2Jsa2haMl9oNHZoQTZZdnJ6ZThjWUtjR3lWaHIzcGxvMVloWWNhWnNIb0xkYnNxMWJaZUY0ekQwRWZlOEYxblFodw?oc=5",
    "date": "2026-11-26T14:27:52+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "93c96fa96d76",
-   "title": "Presidenta Keiko Fujimori participa en firma de adenda a contrato para masificar gas natural [en vivo]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFJjdUpOb3NUY25SV0VmTGJoSHRiV2wyYTBXRWRiT0puMVFrbFV1Z2VXcE1XRWhYdnYtbUJsb3lmM1JSNzFNMm5EVFBrU3oybHlURUZCaWxlcG05cjVzTWMxREc5N0RZN25KV2xjaEZ3YXNpSWZKczlvV3FKTnA0aE54OTNfSmFhTk40clJYZ0k0M21HQVZqTkZXLWRLcWU2NEh2dGRqTUN2eWU5TUlZYjBGbVdYeHZHUVk1allLRW93anFPTUdOWVlueVdNeE8yNVE?oc=5",
-   "date": "2026-11-26T14:20:00+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   },
@@ -1067,23 +1067,23 @@
    "next": null
   },
   {
-   "id": "182d929735e8",
-   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
+   "id": "e82b63bd6f0b",
+   "title": "Keiko Fujimori solicita autorización del Congreso para viajar a Colombia",
    "excerpt": "",
-   "source": "www.radionacional.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZWMxaFo3c0p6WkpEUl90SkdCX3oxSC1Sb05DNjlDTWp2STVkTDA0bHotQ3psN18zemVndXJGUVhpNDgtNG9IcC0wZjBCWHJzNF9rUDBIMGVGMTNTZ042OFA1dTJMamFmTmN3WmNzMm9JQmh1U2hNLW45bk9BVllBYVI5MEh6eHJnbFFib3dfVkNPTE0xRlNWMXRrel81QWVzWEhiWHhQQjVyWFdqdTNuUmV5OWJEeXV1NFRDek9wZTY2OHROMktxMVk5NA?oc=5",
-   "date": "2026-11-24T22:43:01+00:00",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHN6ZVhUWXBDejZ3LWNLUTdYamxuamhsMmQxelZ0YWI4MFc0SllVSFpNbW96UDdxMDFqWVlMZUtPdGR5SWlHM0JXZlNpQ2lra3JobzZ5ZjJWUFFFVzA0OW01XzBTZ0xVOWtGRGpCMGRMWXVHdXhtbUZrU09sVWQ0eHcwWlBubUNfRGE3SGY0Q3pZclR6OGlUWHhlRnVXMUE?oc=5",
+   "date": "2026-11-24T21:40:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
   },
   {
-   "id": "3e93f38195a0",
-   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
+   "id": "08b53820d600",
+   "title": "Keiko Fujimori solicita autorización para viajar a Colombia",
    "excerpt": "",
-   "source": "www.radionacional.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN1FneTdla1E2RGRxdjZWMm9kUHVsUE1oQllxUlNVVk5Ec0RpcnBpRHJ4bU94T0VueVpNenhJV1Zkd2pMeFcwZGJmSE1xSmlzM1Y0RlpOaVIxY0tYY2dicGJEX2Z5bFUtaGRVVE1SOVFrRl92QzU0RjRkRl9JLTdMT1lUNHFXOHhDRVowcm1UTE96WTR0VE5YQzFGbHFwajVzbnZ6NU1jcm1tUjlzeDExXzhmU3dPaDZqcFk2WkFMWWdFTE5YMmRCUm54cW1FX1ZHbVVydEY2RUF2czJz?oc=5",
-   "date": "2026-11-24T22:41:01+00:00",
+   "source": "CanalB.pe",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1V4QXJ2ZjRGWndVQ0ZuNXVGSGltamRhSU40eWVyTWtrUEd2YnBJWjU5N3dIU2dxZ2NWeHJ0Znk0WHpnWlh6cGt2S1AwV29kN3Qtc2VGcDh6c0w3RjBEUHhERmRRYWNaTnlTbFA4eTJPdmcxNG1GS2RoSkhJODg3NDF2b1RXMGU1aURHdWp5R0daZW83azRSVlNtUQ?oc=5",
+   "date": "2026-11-24T21:31:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
