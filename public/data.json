@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:41:05.852373+00:00",
+ "generated_at": "2026-11-26T00:02:16.385466+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -382,23 +382,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d4731e6a0e79",
+   "title": "CADE 2026: Empresarios piden estos tres resultados al gobierno de Keiko Fujimori | ECONOMIA",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWNUVmtzVDJORXZmWXExMklVYmFITTZkZV9SQVhYOUw5OGZGUXpNOHl5dWQ2VVZCc1Y3R3JqbUJhdlhMcnFYRkJvZmxhZWozUzhndi04SE82dHB4T0NKbTBWaF9WM3NBSUYwMlJkbDBZc1V3VGtiTTluTlEtNmlFdENXdzJLYmR0WTRfOHR1ZTRsX0lvdFZyR1FQOVlkTE42VGNhNUQ4QU95YTFxVVBRUTlnR21YY1k?oc=5",
+   "date": "2026-11-25T23:34:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0286929535b5",
+   "title": "Presidenta Fujimori coordina con Sunarp impulsar entrega de títulos de propiedad",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlNCbTJQVDNmYVNnOFdlUWFndDcydEprdUMxRFBiaWs3RmRBNUhFZVNDd2JSNXJkb0F1ZmVjY3RjQ0N2Q3doUEdtcDRBNWljUWR4bjRaemZ4ZG1zZG5WdzFlUFpBeF85QWZxWi1sWnp1ekJ4bzl2Y1FTQUJKMHNydFdqTmZSMFp0WnoydUM2eE1rczF4OHI0QXVyUGNNZnBuaHhRcmFZenNueXlsZFVPQ2luSDI1Rk15X0lZUnNzdjk5UQ?oc=5",
+   "date": "2026-11-25T23:13:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "04f3c5247240",
    "title": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
    "excerpt": "La sesión del Pleno del Senado está programada para las 10 a. m. de este viernes 27 de noviembre. El primer vicepresidente, Alejandro Muñante, será el encargado de dirigir el…",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/25/pleno-del-senado-evaluara-este-viernes-el-pedido-de-keiko-fujimori-para-viajar-a-colombia-hnews-1817475",
    "date": "2026-11-25T23:06:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e9049361079e",
-   "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo son una puerta que abrimos al mundo\"",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMHN6T21YazNSUTFjRnpmX29pS3p5YWp1c056WFRya2N5MmY3b3BVU1lzSG5mT0dHOGg4RDVQYmNsOFJBcFItRlpleEVyLVdTamdkd1BmQzdSamN1M0F3b2QyZlctVERiRXd6UThoY3pIalRNcVpUMnhVTy1rY1pua1Yydkg3dk1ra0otZkxWN0pmcm9xcE5YYkVHNUFRazdEVGlQdWxmRU5nbzdHaUlCcHc3cWN2ekF1RXJNLVNJOXZBSC10eEpsSkN6LTd6SWdSTHc?oc=5",
-   "date": "2026-11-25T23:02:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -504,6 +515,17 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWQ4bFkwS1VOOWdUajRId0pHclZTRDQ0MDR4SF9IMXEtcFdmLXc4TnYyLTJhdEpta09PZUtraGdLYUQ4OGpTdDhvQzFxZ1dtYUQxY1BUU2daY2Q3TTRrenZRTnF2M204LWxmT0pCcmg4cy1aVkZXUVB2WFVuM0RJQmVEN0tMV2xuWGlfNmlIVkJqYVpiOWpySF9ibGRlRnNWTlhNc185WDk4Rjh0dVhUaHBWLUgtN2pTcm56dENaUmEyaUNWaUFpTFZLV3g?oc=5",
    "date": "2026-11-25T17:01:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e9049361079e",
+   "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo son una puerta que abrimos al mundo\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzljaGpRVDZ1RHhjR1diSUxIUlZQRm1RbzVJSHZGUjFRZ0locW9wbE9PZm9DajFDd19Eb3g5QkhXZy1jdGxRY2Npc0ZMVk9PaVR5NGRRVE1NcDBGTzR2VnlTd3lqYnFtaTVHTmloTzQ5Z3A0c3lvdUk4U05tM3pQLVJVNFN0Qm5OLTdzcmJkLTZCU01DRTJOVS1kdEdDa1FZS2R6QVBQRmZXY3R3Vm5OMHNzUzNxRnRDSmFhWHA4UVhPLUd2?oc=5",
+   "date": "2026-11-25T16:59:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1035,28 +1057,6 @@
     "lng": -77.0406,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "65ee0a356428",
-   "title": "Keiko Fujimori responde a sondeos sobre desaprobación de su gestión",
-   "excerpt": "",
-   "source": "Gaceta Perú TV",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelQyYzAxN09EVnFfdERvYzdsZVVNNkNiRV96c0FvakFTZUYxV2hxSDdnRGVLMENrQW1NcnZTQVVubDBXVnJueWxFRG4xZVlMQUdIRjNwMUVZSzI3UmFxa1c1eHhSQllENEw4OE10d1o0NzY3Q2w0bE83ckZpTU9XcFBGQ21PRXpqUVlvbVpucS1XcWViTld3RGYtTllJNS14UE1WUlBscw?oc=5",
-   "date": "2026-11-24T14:54:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "84bcf5d8afa5",
-   "title": "La economía peruana crece 3,1% en el tercer trimestre, impulsada por la inversión privada y respaldo a Keiko Fujimori",
-   "excerpt": "El PBI nacional aceleró su crecimiento frente al segundo trimestre, impulsado por el dinamismo de la inversión privada y la demanda interna. Sin embargo, la caída de la producción minera,…",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcTFkRmYzYjlhRXRaN21SR3hQUGhrTnJVWGd1V205SmZTbjZZaEUwaXMxT1JNRWRubENXeUs1MGpUd2tsWlprMUNJUXVNZDdRbDZTZDBXdGRjWEpadmhXakRGLUtMWXZsTVM5c2ZDTkpqSFZOYTVoLXNlNUoxQmxOU1luV2xRN2pfQlhJWmdEWU9EQmZ1c2F5eEZXYVNHVEN3U0hHMzdZbG9wa2hBTks0Y0k5MFBhX1pLZFRncEd3aEtaNTkxeWxDSHZ0dFFFZXRNaGIyMmpQSC1fQ3lrMk1adldwd3pVaUZucGJN0gGGAkFVX3lxTE9FV3phR1JhWVVaV08zQ2R4TDFyanFxdzFKSVhvY1E5NF8wTjV2S1dCSWdaNzVtUEhaakNrSDNLcWc3UVVRb3RfQ3duT3BfUHR1c0pTcTBsaUVXU0xsSDg1NHBKZ0NHTEtPbWNYTGkzaWNiNlItQTVsZURONWNTMGlLZ1JpajBRV3YwYnVPaUFYMzdWVGNYT3ZZLThhdUdJR09MQkNKX2xpcElHbUk0UG9pZFNYZUNRNTFuSGFodEU1YlRtZkpFQ1JzV2UxVUNtemtpRUswMHBKYTJJVmpYdmVzTXRNNGN3ekdUSXN3VzlLUlNMTnk3UTMtTGRRS2tSV3Q1UWNaRmc?oc=5",
-   "date": "2026-11-24T12:48:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
