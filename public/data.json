@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T02:54:00.616131+00:00",
+ "generated_at": "2026-11-26T03:15:47.607615+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -452,6 +452,20 @@
    }
   },
   {
+   "id": "c4b7118bb6cc",
+   "title": "Keiko Fujimori: Senado debate viaje a Colombia este viernes",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPanhPckRYUnpDaVBsSlBpQ0lCenNmeGFYblJ1SC1Hc1YyQm5vcnJLVHVpMTdBS2JsQ1l1MlNVblRLckRFcTdyc20xTHdpUTRIRzMxaWZKWUhrMkI4ck1va2MtUnRkTmkzUGp0ME94UTI2UlF3T0FyaHlqNTZKNlRscWYxck56NHVRVnZfWnRNMzB4MGNpd3I1RlFUUTQ0UXFqelh3NExFeFVrTUtBalpXd2tLONIBuAFBVV95cUxQY2wzNEtqQUZRVG1aNTdaamZfUnE1eUtYeHlxUWRnQ0Z6X1p2QjB1RV9Pd2ZWaU5VRnNROGNNU0ZTUXJJdWJyajJYZDZlemEyazhsdlZvNkhGQ2FZYTZrVVRKQ0tmRzF5SEtTcjJJemhUQVpSVUFycVRXMHlNbnRvOGl6WjFVVzJmY1p6RFlIdGtNZFQ4NjMySFUzRm1wT2cxVFI5bGdyTUNVM3NfNHV1M29JcEVOYzFi?oc=5",
+   "date": "2026-11-25T22:41:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "d629246b2ba2",
    "title": "Julio Velarde ve difícil una salida anticipada de Keiko Fujimori: “Ahora sacar a un presidente es altamente improbable; va a durar cinco años\"",
    "excerpt": "",
@@ -878,7 +892,7 @@
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUV6bmx2N1V4M2FGTGlRMTJHekk3WHl2c2ZSaDNybF9DVzJWblZvUkt6NDFmVmNTdXFxdFMtYzVpUGs2R2dOZmFPWE9ldTNRWEI3bF8wOElwdlh0WmhvQThDeFJ3dXc5ek1TNTBjS1BfaE40SHgzS2FuS3d1UHZxSGNLM1pGOHA2VTJNeWdQWVlvQmhTZXZybE5sY2hpbERya3RPODdvYWVXZ2J2UDJiWWpYbkdjdjZYNzRhdUZDWjFDdWQwMmc?oc=5",
-   "date": "2026-11-24T20:00:50+00:00",
+   "date": "2026-11-24T19:58:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1025,17 +1039,6 @@
    "source": "LaRepublica.co",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlFIUWw2Xy12Z0hlaDQ4WG9vUTJhbjl5Vnd5Mk9YbzNneXBJZFFpWDNwZGNkd01hTmhIV0ZmQ0Jpajl0bTAtWlNIaVZxdzN5TTh4bGlnZnNMX0U2RC14UTlzdGh3T3c2YTc4NGx3TDdOMG50eWs0c3FrbjlqdmtkLWNFNTFqYk0yUlJxdmpxaWdZQnB0M0JNbzBTTUxnNTAzMXlzOWxsMUJyeDNQMnFjNEtJU0FibEFCdzI3TjZianBqQdIBwgFBVV95cUxPdlFIUWw2Xy12Z0hlaDQ4WG9vUTJhbjl5Vnd5Mk9YbzNneXBJZFFpWDNwZGNkd01hTmhIV0ZmQ0Jpajl0bTAtWlNIaVZxdzN5TTh4bGlnZnNMX0U2RC14UTlzdGh3T3c2YTc4NGx3TDdOMG50eWs0c3FrbjlqdmtkLWNFNTFqYk0yUlJxdmpxaWdZQnB0M0JNbzBTTUxnNTAzMXlzOWxsMUJyeDNQMnFjNEtJU0FibEFCdzI3TjZianBqQQ?oc=5",
    "date": "2026-11-24T17:35:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e74b1fb7b0e8",
-   "title": "Keiko Fujimori pide disculpas por fallas en misa del papa León XIV en Las Palmas y respalda a canciller Espá",
-   "excerpt": "",
-   "source": "Perú Informa",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDBBMHRLTTB5UlFiVTY1a3hPVERsQXpkN1M1eWJfMGlzTU9TODdUaXFKMTJQS1ZJUWF5QVNoWFZxUEhmcDlBWm9Id2Fub1RuV1ppdkFsZXNzekN5a3A5bGdFTlFYb1otbjEzcGpoTFp0bEZ5MmpSU0ZmU3YxYUlsQmV2NDFfWlJGSGFMelcwbE1aMjh1ODJ6SmZjVDNiVTNpRXpFdl9vT2t1Rl8zZzhvRHRlRFRGOWZFemRQN2xnV2drRjFtQmhKV2ZVaTBFdmZwRUhv?oc=5",
-   "date": "2026-11-24T17:26:39+00:00",
    "state": "posando",
    "place": null,
    "next": null
