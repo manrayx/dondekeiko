@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T02:11:24.908207+00:00",
+ "generated_at": "2026-11-26T02:54:00.616131+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -620,6 +620,17 @@
    "next": null
   },
   {
+   "id": "3994db69d8e3",
+   "title": "Presidenta Fujimori se reunió con diputados japoneses para ampliar inversiones y cooperación con el Perú",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTdpQWFrLVl1M1NaVWdEY2Z3OVRzQm1McW1jTTA3cTNVRXlXUnhkZkVnWUZfbjJLd1RqVXBZSFBZTFdRNnpsUFpnaHFzckJFNm1xcDhra1RKWkVUT0Q5M2lJWDh3S0NRSFJRTmlnNDlmNHVLVFp5WGpLUUgydFZLMGV3bklsV2JJS25mV2xDWXE3X0N4Y2tuVmlzWnZtNHJoeGdwZng2YWF5R294cG96bVBuMGJFRUlrQ1BzUFhRUTBYUQ?oc=5",
+   "date": "2026-11-25T02:46:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "540685c70f26",
    "title": "Presidenta Fujimori solicita autorización para viajar a Colombia el 3 de diciembre",
    "excerpt": "",
@@ -1028,20 +1039,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "b41062075228",
-   "title": "Keiko Fujimori alista viaje a Colombia: los asuntos que tratará con su homólogo Abelardo de la Espriella",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQS2FUMlkyUU9EdGdldjE3YVJPZ3NuNk9lR1JLUFRyZWNjd2pVekQyZnAxUFBOSlNIMUx2cnRnSC11bGZOVWdqZnVkN3BKUXRBYkE4a0xYRExJYWNpdVYyaWtmRWZmQXVxa25wYTVCYlFzeEM5U1ljdzMycXd0UEZCZFhnQXlhQ3VMbjc0SUdlbWxwRGNVRDBxd0FlajkyMS1iTUZHZmQxbTlLa1VOUzRIRTFEZzhaanhLM05rVHgwNi0yMWI4WUREd2V2SVh0bnI3cGY3QWFmQkJQeWM2cXlHWWhlNDg4aEdyVVNiRHpVa2FxTnR2SFZkekNleThJWkhmTlFJamlKZ2ZuZUNqOHZ5Zi1iaS1IQQ?oc=5",
-   "date": "2026-11-24T17:02:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
