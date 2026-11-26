@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T11:06:25.462228+00:00",
+ "generated_at": "2026-11-26T11:27:55.704313+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -634,6 +634,17 @@
    "next": null
   },
   {
+   "id": "dfce2aa863a5",
+   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
+   "date": "2026-11-25T13:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c699b36e8ea5",
    "title": "Opiniones divididas de diputados sobre pedido de viaje de Keiko Fujimori: \"No veo nada provechoso\"",
    "excerpt": "",
@@ -673,17 +684,6 @@
    "source": "Diario EP",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm1VZGktb0JnT3FvUVU1QmtYS3NfXzRZZWVxblZBTVNtU3o5SG05S01OZWw4Y3FRX0VIS3U2SzU5Y19UTzZsWFBMRGFlbnN5QTI2MGU2T3VYOUZmN3RudDVwaW04YnJVVlFhSnNGRWF2b0tHUEt3SFlscUtoSy1wWGpFZGF4UHJIXzgxYjY0MjhhVkw1OVE?oc=5",
    "date": "2026-11-25T02:59:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dfce2aa863a5",
-   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
-   "excerpt": "",
-   "source": "Radio Nacional",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVZtS0FwNFotRU1LSFBaOVVydi1Hbk15R1c1MEVhYVRleDhwNjlCeEx4dDBpRzBwWHZEcXZLeGhmSkltSUJEb3JFUW5LWWRjWUVRRzU5WnpsR2U4OEw0cjVKbXFIT3hoenNJclRKeE1LeVNlWUllT1MxYU5yNWxRU29JTGc5cE5JM1JoQUFHX2NldUMwZzYzc0wwai14WlpsOHM0dHNsRUo0aHdxRWF1OGtFTi1HUGYwOHVfeTQwWFdpQ3ZScXlSNDRiV1BadFhS?oc=5",
-   "date": "2026-11-25T02:56:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -805,28 +805,6 @@
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0FSNmlmV0h4ZlozNE1FVEU3b3ByZ0dkWVB4UUQ5YXAzcDEwTHBXYjVlWnJvbDJNTnlhY29oUk9zS2hHNWVxclFrd2FXRk1BYWVDNVlEc1lycktwd3pwYXYxWkNHRUVFVnFscENpTWhtcDBmV0Y2QUhnNXVmS2tvVGZ2TnplYm9XbFRTRjhmT3IyUk1vTnNoZ09hUjZLemlnRXFCaGY0U3RvUE5KSGlwX2hrdVRNOHNjenJpZHhncnnSAcYBQVVfeXFMTTBLR0ZZbmtpWS1CdHIxLTFrUEJ0alhQN241RGtWYkZCMlNuNU9nXzhZcVo5SGlac2FKaGJlX1hUd0hvRHNTR0tUOUpZZFZVX0xRSkZDY3Y1RkF5aUs5SEY4RWFTWkdwb0JHZU9XdUpWbnZNN1lSN2VnMHM2OUJiajBrWGNsLXFzNEdYMVFOc1BCeEZhRElnMHlCbHZSV3J0ZjQyRE5fTEh4cVZYRklRcS13ZEpzaWU5V2N5Q2lOYzUxSm1tN2xn?oc=5",
    "date": "2026-11-24T22:47:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "182d929735e8",
-   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
-   "excerpt": "",
-   "source": "www.radionacional.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZWMxaFo3c0p6WkpEUl90SkdCX3oxSC1Sb05DNjlDTWp2STVkTDA0bHotQ3psN18zemVndXJGUVhpNDgtNG9IcC0wZjBCWHJzNF9rUDBIMGVGMTNTZ042OFA1dTJMamFmTmN3WmNzMm9JQmh1U2hNLW45bk9BVllBYVI5MEh6eHJnbFFib3dfVkNPTE0xRlNWMXRrel81QWVzWEhiWHhQQjVyWFdqdTNuUmV5OWJEeXV1NFRDek9wZTY2OHROMktxMVk5NA?oc=5",
-   "date": "2026-11-24T22:43:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3e93f38195a0",
-   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
-   "excerpt": "",
-   "source": "www.radionacional.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN1FneTdla1E2RGRxdjZWMm9kUHVsUE1oQllxUlNVVk5Ec0RpcnBpRHJ4bU94T0VueVpNenhJV1Zkd2pMeFcwZGJmSE1xSmlzM1Y0RlpOaVIxY0tYY2dicGJEX2Z5bFUtaGRVVE1SOVFrRl92QzU0RjRkRl9JLTdMT1lUNHFXOHhDRVowcm1UTE96WTR0VE5YQzFGbHFwajVzbnZ6NU1jcm1tUjlzeDExXzhmU3dPaDZqcFk2WkFMWWdFTE5YMmRCUm54cW1FX1ZHbVVydEY2RUF2czJz?oc=5",
-   "date": "2026-11-24T22:41:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -975,6 +953,17 @@
    "next": null
   },
   {
+   "id": "182d929735e8",
+   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakxxY3hsUE9uZGZjRGpRWl9mVEQ2cU0takdqX2tNeXhUT0xSQXJoelEtWGdsSjJ3SjNZTDFpUzliNW1kXy1CWGNhOUhvajBuNGdHX2pfV0dLeXFnRmdYU2M3OU50NlJOclRNYWlJZ1hzWHJCRzhadkhpRmVyVXJtNXhNbEp5WTRGWjMzNUFoaGhHbGF2QWRFQ3dPS0pXR1pPa21RRV9HU2JaRTdZbTRKbE83VzFYV29aZmc?oc=5",
+   "date": "2026-11-24T19:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a79e79fadae7",
    "title": "Keiko Fujimori solicita autorización para viajar a Colombia el próximo 3 de diciembre",
    "excerpt": "",
@@ -1014,6 +1003,17 @@
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTFRcnhEc2g2bzRrdUNZVnIxUmlpYnFvUHhkdV9EU3ZDNWpvY2JNWUJzcVZJV2VXZWVFcEtuTXJLbXNUVjdITmxwSnJCXzJwd2M4Sk9hM3NBWDdiYXZVeXA5UEdPdVlhMGVqNVVvNlhrMzFaZTc1aVVyVGh4YXVueWtFb1Npc1dpVUVsY05RWWFWeVNwUEJxNjZjbUlGLWVCUlRUT2hCYktkZU9GbkNJTnpiTTdUeDdrd2hEbkJYcULSAdQBQVVfeXFMTUZvUjhRc21YeFk2LXdtQnBwb0xwanl3M0FzYkY5emt1V3JrZUVaNjgtVE56c2xlQWk0YmhNeTlyMHJSb1RMaEY2cHVRbzNSQmFzX01iRFZEa2NCZE5sN3o1ZjFxX2hrM1RvZ3R5QXRRUUF6SUNSeG1aRFNlWHZzUWY1dVhFRDNPQTZOWC1nS2Mtb00xMzNJbDhISnJDNUQ0RVZQLURSLU1YMG1ac1k0Zk4tZk1RLUJzb0NjODkxOWxBLWtmNXBzMDVjUE5hRGpQb24tWEg?oc=5",
    "date": "2026-11-24T19:15:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "3e93f38195a0",
+   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTjdKYkgxSmUxeW1XUS1jZXRveU1DSnNwNndoTFJxOUpRczNmTE1qWFFxVzJTbUtvRS1nNXdyZTlsSGFjRV93X3FwYi1hblI5WXJUUDZGVnlJNldXdURiUHE4R2NWOENtQVFId0lIYk9nS19udTQzNDc3dVRnSFdHNzJmV29UbWphdTVwNy1FWURhQWxRNkpRd2k0N3h4VlpnUE9pV25qSnlYMjF1MFh2ZmNPZ01pYUVGaEppR0RqVms?oc=5",
+   "date": "2026-11-24T18:56:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
