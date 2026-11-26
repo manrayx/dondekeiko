@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:47:33.030069+00:00",
+ "generated_at": "2026-11-26T17:08:40.549489+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 3,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 57
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -419,8 +419,52 @@
    "excerpt": "La presidenta llegó tras firmar la adenda con Calidda pese a las críticas de la electa gobernadora de Cusco, Verónika Mendoza.",
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/26/keiko-fujimori-llega-a-la-clausura-del-cade-ejecutivos-2026-en-urubamba-bajo-un-gran-resguardo-policial-hnews-438464",
-   "date": "2026-11-26T16:47:00+00:00",
+   "date": "2026-11-26T17:07:10+00:00",
    "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "84a7cb3e699f",
+   "title": "EN VIVO: Keiko Fujimori brinda discurso en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
+   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
+   "date": "2026-11-26T17:06:39+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "07de5bb0f68e",
+   "title": "Gobierno de presidenta Keiko Fujimori firma adenda que permitirá extender masificación del gas natural a siete regiones del centro y sur del país",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWWJWblhldG1vc1lKWlYzTER3Z3JEY0gtbmRFTDlKU0hIYUdXZGF1Q2QweU5oaXBCcWVMRDRiVWJBUjJXNXpCeGpUQ2FMTVB6LXlEelljNmRYRlpNRmZ5T1B6ZU5KS0pjS19yQl9keTRKVUg1T09rSmw4T0M4ZFAxUUNrYmU2ZWQzUC15TW9WZVVHWVBvdWdqWUsxRWRRdk4xY184NXZmMFROWHdjTk9vZDFXWXg5OUlEVlYxdlNmWm1tdV9DV3U0OGVPc3VGQkNkZkxyZ0o0NVA1alh6OXVuc0RQaEhkemk5SEptclZWRGJRZm9EU2ZCYVZPMUVLYUQtMnlPQUVmdzRqQjBDekM0SA?oc=5",
+   "date": "2026-11-26T16:50:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "69593a7cf522",
+   "title": "Keiko Fujimori a Verónika Mendoza: “El camino fácil es criticar”",
+   "excerpt": "",
+   "source": "agendapais.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2thbFN5LTF4WHItLTIxQmVjR0kzdVdMcXp2Sll5SEU3Z1BRUnF3SDZhcHg2RjZaRVBXbXVpZ2RDZ0ViZ0V4QUJlXzdEaVRWb1BFWFNfRGhJU0FDZ182S1dsc21EQzR0SndNTUFGdVlJWERmMUZNYUJfWXV0Nl9QMFlBOXA3dHZ5SnV5T1JsaGZfMUNVb1BR?oc=5",
+   "date": "2026-11-26T16:49:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a79e357156f4",
+   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1QzVnNPSFJmWE5JSm8zektMRnVRWU8xRmk2bmV4Z3d3eUQzbzhXYlRhQnV4RkFxTUk4WjM0a25xQUdGSjlsWXFOdFZBTWdxSWFtWm13bDQ1RlFYTURaUHMtQk1vQS1yRDlSb01weFY5a2h6R3JnWVB1TUZneHZLSTJzNHZyVUdXNGJuaElmR2diZ3ZRUlJnTnlLSXJLY1J0Ny1abFpqNTlkRFJhcDVLbEJ6Mms0YmNrcFYzaQ?oc=5",
+   "date": "2026-11-26T16:43:00+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -432,17 +476,6 @@
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
    "date": "2026-11-26T16:42:13+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a79e357156f4",
-   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
-   "date": "2026-11-26T16:39:00+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   },
@@ -465,6 +498,17 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFJjdUpOb3NUY25SV0VmTGJoSHRiV2wyYTBXRWRiT0puMVFrbFV1Z2VXcE1XRWhYdnYtbUJsb3lmM1JSNzFNMm5EVFBrU3oybHlURUZCaWxlcG05cjVzTWMxREc5N0RZN25KV2xjaEZ3YXNpSWZKczlvV3FKTnA0aE54OTNfSmFhTk40clJYZ0k0M21HQVZqTkZXLWRLcWU2NEh2dGRqTUN2eWU5TUlZYjBGbVdYeHZHUVk1allLRW93anFPTUdOWVlueVdNeE8yNVE?oc=5",
    "date": "2026-11-26T15:51:00+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "23025b0744cc",
+   "title": "Keiko Fujimori participó en firma de adenda entre el Gobierno y Cálidda para masificar el gas natural a siete regiones",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDFQR2pad2hvTjQzU1ZUR3piam4zb1Q2dS15blVQMEJVMWhrSjJBOWRlWVZ4eXVFQUk5anN1M3k2Sm04cUhTVlQtSW02aHlYa0VlQUNyUTBQa2tQUTRVbklMZFVDSnFMZFpQd1NQZEIxWi05TXF5ZUNxOFYxZHhlZUFsbXJQNWNXanYwNXh6TURCN3NyNUtMenRnOEt2QVdTekJQYk93clgySkxFcU9ScnBmWEd1WC1fTzBld3VvdVRJSFZqTTl1RWhwd0dmNl9WZ09uQl9sdHJRRTlZWkoxNGdGVktkX2x3VE1tcmQ2ZVJoVnZVN3Y3Q2FhRQ?oc=5",
+   "date": "2026-11-26T15:39:20+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -533,8 +577,8 @@
    "id": "dd5ac0282862",
    "title": "Keiko Fujimori destaca respaldo de gobernadores a la adenda del gas: \"Han puesto primero a sus pueblos\"",
    "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORENQMkxVMkY2bkFDRGo2OHlTeGVRQTJnWnQ4bDZDbVpsMzQ2RE9STEliZmEwUDJvcGgtSFhEQXpoY0dvTUdMd2p3dkp5d3NwVmNjckZDZVgyUVhhbmZzVzY0U1BFeXI4Ry1sVHR5bUROQ29uUVZxMDlnQm9FUU9hTEFrbnJBMGQ2YVE0T3dMcTBxclRsUVE3aEdrVFFmYjdvVnh1Y1QyYjczRW92TENOX2pfMlcyTTdXTVU2eWRlR0hSeXdVYkQwU0tXaHk4dVE?oc=5",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVBuanNBNy1LQ0gxc0RabWJQSTVPY1JIMERseFJ2Mnlxc3RXbUhfc2pDZzl1cndoQ0Ewa2t3NGgxM1FLdUp1X0c3eEdJTTh2bWdST0xFYmIya3JXdHhYbG12cVhOakk1bXo5ZlVRM1VHWFRqOWZXMXE5ejlZU3VpajdjSmRwQjdqNTd6OFljS2U0RE5rS2kxN2s0c1M2UmhQUFI2bzhFdjhCN3Q1TmtRVEF5dm1tclRmdTBCMWV2czhqTmd4Qm1udGthblpTZEU?oc=5",
    "date": "2026-11-26T14:49:00+00:00",
    "state": "posando",
    "place": null,
@@ -579,7 +623,7 @@
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3NJQWpTdFl2RnFLWDdlTXQtcmczeEU4ajhNaVVvZXhadExaOXRvM1RSbjhGVjNScl9hdERzNEJZZjBTRGxzdzBvVHMyMUNCVGpRZzY5LWpfTjZlbk1SUGRlQ0RQUEFjbXJPSDN1Qnd4VlF0dWx2M3dIUkVKOUFnMUptOVVJOTlKcHNid0V0ODJZMi1aWHltSTYyQjY4R0ZzZjVmVjNGWkMzM0VVWnZDWFR5b1p2RWhNc2FueXdBVGRwS1lZcGc?oc=5",
-   "date": "2026-11-26T14:30:58+00:00",
+   "date": "2026-11-26T14:28:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -591,17 +635,6 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjZyb1JaVmc3dWlnNFBaaUl4cUo3cktaTlRwUjVndk9tcVZKZFBJWWRyTkNEbFlETWpZeUVUaGNUS3N1Mjd2NVFJVjBnQUxfamt5LXdLa2JIcU9BNjJJUG5wNER0YkFqQlhtMHpzaXp2ZlY1cUtzc29KSW1keHBtbEVkREk3REVIYjhVcVpRNXd3NktoQ21KczFUZmdrSkIyQUZoc1dSR2Z1Q0FQWTI3NmNpZXF5ZHpuYkdsdXVTLXo0NmJ1MjQyeWNBelR5REpzWFM4Q05jTzRPZDhwd25SMtIB5gFBVV95cUxQaURHZjlvUHdMN2ZqamNNWGdza3lPQ3BZSTA3cjRNXzRqSl9DbnJFNlBUTUtRWmFuWWhRYXpUYl8yM0xzTEVOOXFvQ01helI5bFhmeEJpUURTcmV4X3o1OWdkcEItY0VvMFI4bHVVaTFtc2V3Tk1uY04zWFhrc0wtV2xyR1ZKX2d5QWp1X3Z1a3M5N0NjbWdfQ1lrcGxXYWtQRnJ3M2Jsa2haMl9oNHZoQTZZdnJ6ZThjWUtjR3lWaHIzcGxvMVloWWNhWnNIb0xkYnNxMWJaZUY0ekQwRWZlOEYxblFodw?oc=5",
    "date": "2026-11-26T14:27:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "23025b0744cc",
-   "title": "Keiko Fujimori participó en firma de adenda entre el Gobierno y Cálidda para masificar el gas natural a siete regiones",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDFQR2pad2hvTjQzU1ZUR3piam4zb1Q2dS15blVQMEJVMWhrSjJBOWRlWVZ4eXVFQUk5anN1M3k2Sm04cUhTVlQtSW02aHlYa0VlQUNyUTBQa2tQUTRVbklMZFVDSnFMZFpQd1NQZEIxWi05TXF5ZUNxOFYxZHhlZUFsbXJQNWNXanYwNXh6TURCN3NyNUtMenRnOEt2QVdTekJQYk93clgySkxFcU9ScnBmWEd1WC1fTzBld3VvdVRJSFZqTTl1RWhwd0dmNl9WZ09uQl9sdHJRRTlZWkoxNGdGVktkX2x3VE1tcmQ2ZVJoVnZVN3Y3Q2FhRQ?oc=5",
-   "date": "2026-11-26T14:17:58+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1051,39 +1084,6 @@
    "source": "La Decana Radio Juliaca",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU21SY3RzUTctbVBEOWQ2Si16MlFPMUdMR0czcDFRTjkyYnd5cUowZUZaNTd4Q0dYRFA0ZGZCYm1iZzdqUV9aSXZnMkJLcElxNllkMEl6RHd2ejBoNWs5X0gyY3dNSXZsYktzRFI1Z2dtSlQxRlotQWNkZnh4QTBCbFhBS3BxeXgwVmlhbWJ6Y2VoaUNybkJVQkZuNlZSYlFQVTE2c1h1MmVWUkJIRF9sdTk3Ulhrdy1rT0MyNDYtTXNnVHRWMy1zMDJB?oc=5",
    "date": "2026-11-25T00:17:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f0dc5cdb62db",
-   "title": "Keiko Fujimori anuncia fecha de inicio del megaproyecto de agua y desagüe de Juliaca",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNaWhmemlwWVJuVXhZWnpUM1Ftc0tKbVIwV0o2M2JJOVhmUXF2SXFsV0tBZUtNSm44ZGNyOHhFUmRETnJFOEI1S0JUVk5pekFBckpUcTVZMTd3bkRsdEs0WllnM1V3eDlGczZxVnNsVzdRcHFtQ25zOWczaFFiSnhCb0R6cVJQVmlTamp1ajJLRHBUdUxRN3dlNFlNTTFtQjZqMFRVenM2d1ZxejVNQnhUT3M0eXVZejJyc2JyUWthZXJzMmc1aTV0YWtBX3k1cS01bWtBanBaa3RkZTlJLWh3VlZYTWVPSEtEdFhMVmJhb2dXaDhNN3pkdG1NX2lrRjJ3M2FpLXlwdk5Udw?oc=5",
-   "date": "2026-11-24T23:41:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9d92252b5ad3",
-   "title": "Gobierno de Keiko Fujimori designa a José Williams como nuevo director del CAEN",
-   "excerpt": "",
-   "source": "Radio Yaraví Arequipa",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYW1aMGFMYVhCX3dLekpuRzdtc2lrWlQwbmhHVjF3TW5vZjRtMVIza0QtUUllclhwSkRzVkF1TkpfVl9DclVSNy1Ed2NvQngyV2o2dlhneE9Ja0haYzJvZ1BkS1dGZTJMQW11NTdJTE1FY2VDdHN6ejNTY0dOWHdRcXpEc1pKNy1ZQmNUdk5oV1pDLWpjQ1l3aWk0M2YzU0M0eERnQmZkMDhTbEU2eV9DOXdYblYySnVEYVotdHdyQjlKUQ?oc=5",
-   "date": "2026-11-24T23:24:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9c8f17f9325c",
-   "title": "Keiko Fujimori pide permiso para asistir a la cumbre Perú-Colombia",
-   "excerpt": "",
-   "source": "ATV.pe",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MVlZHREQtZ0NQcFJFdmVqUy01VGkzMlZtc3I3dTRiclJJanh4OHNzSzZtellaZEZVM1lCZjZvX0EzTkJPalVMTWUzanlHb29vd2hDaWJVUm9mSFNxY0djZ2lMS2dVWUVnXzZ6SHR4eWU?oc=5",
-   "date": "2026-11-24T23:01:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
