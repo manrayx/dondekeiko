@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:08:40.549489+00:00",
+ "generated_at": "2026-11-26T17:30:10.058784+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -131,6 +131,22 @@
  },
  "agenda": [
   {
+   "start": "2026-11-26T11:07:00-05:00",
+   "end": "2026-11-26T12:14:00-05:00",
+   "minutes": 67,
+   "subject": "Ceremonia de clausura de la 64.ª edición de CADE Ejecutivos 2026.",
+   "lugar": "Yanahuara, Urubamba (Valle Sagrado de los Incas), región Cusco",
+   "state": "posando",
+   "place": {
+    "name": "Yanahuara",
+    "full": "Yanahuara, Urubamba (Valle Sagrado de los Incas), región Cusco",
+    "city": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false
+   }
+  },
+  {
    "start": "2026-11-26T09:22:00-05:00",
    "end": "2026-11-26T09:56:00-05:00",
    "minutes": 34,
@@ -216,7 +232,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -410,9 +426,20 @@
    }
   }
  ],
- "agenda_minutes_7d": 708,
+ "agenda_minutes_7d": 775,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "31ec756a9da2",
+   "title": "Keiko Fujimori exhorta al Congreso a arribar a acuerdos a favor de la Ley MAPE y cierre del Reinfo",
+   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
+   "date": "2026-11-26T17:19:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "0c8448f43699",
    "title": "Keiko Fujimori llega a la clausura del CADE Ejecutivos 2026 en Urubamba bajo un gran resguardo policial",
@@ -450,9 +477,9 @@
    "id": "69593a7cf522",
    "title": "Keiko Fujimori a Verónika Mendoza: “El camino fácil es criticar”",
    "excerpt": "",
-   "source": "agendapais.com",
+   "source": "Agenda País",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2thbFN5LTF4WHItLTIxQmVjR0kzdVdMcXp2Sll5SEU3Z1BRUnF3SDZhcHg2RjZaRVBXbXVpZ2RDZ0ViZ0V4QUJlXzdEaVRWb1BFWFNfRGhJU0FDZ182S1dsc21EQzR0SndNTUFGdVlJWERmMUZNYUJfWXV0Nl9QMFlBOXA3dHZ5SnV5T1JsaGZfMUNVb1BR?oc=5",
-   "date": "2026-11-26T16:49:11+00:00",
+   "date": "2026-11-26T16:48:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -569,6 +596,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVhPRXg3SjNKeWg5SzJSVVV1MzNFak5PdHNhemxKNlN4b1gzMWNvSTRXS21BbERqOTlCbWFWM1AyQTZCQjVER25pNXJoZE9NSTZiWnl0ZVZhQU9yOEY0Y0dsMWxoS3ZsM3RwMFAyWHFnQmxzOW9oTzFzR3lYUlV1RG55YUVLb2pOMVQ2VXRRTlBXdHZHVnFud0Q1SFd3VVdoN0VtQjZfR2EyVmhtWVJBdDVzd1A4QnN4XzdpV2lDTVBpRk5TTFdLWENKSUFvZDA?oc=5",
    "date": "2026-11-26T14:56:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "42fecfa25017",
+   "title": "Keiko Fujimori participó en firma de adenda con Cálidda para ampliar concesión de gas en siete regiones",
+   "excerpt": "",
+   "source": "La República",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGZJM1RPdm1iRGlRR3FaZ0xldDk0UFo3ZnNCZ1VrTDZYQ1Q4Tmd0Rk5PLW95R18xWnBNa0xUX1dIVW16bnA3M0cyWmZRaktoU1ljQ0lNbk5wLXVVVk00d1hvMV9nczVxZnhRRV9WTDl3d25OdTZSbV94T0hDS29LZk03VHBZbmpNU0Q5RUw5WmpOZHk4TnZYT1FWNUZsdE9CQjh4NkVWdzZpSjN5SS1NZW9KTU1BRHljM2RQT1hhYU5xR3o4eHRON3Y1WmR6Wm5vUlF3dW9McFNHMnljdDVaZktoaEFrMEl3N21qMkRfUEw3d9IB9wFBVV95cUxNMVczOTlXWFB2dkVfZ1JvekFFaDB1RHVMMjFQSEF6Ymo5NmFrZHliNW5YV0tSaGk2OFFseWNXVFpDN0NTUnloUmh4d25PdldIZG1iWVJOQWxrYmk0WEhSVkhPOUhZSDZ5RU5JeDFIRmpab2h4ek9BRUt3OHdDY0hsbkpEZkFIQ0NVMnZyci16VVY5Y3RiSXVzV0pFazVaaS14UVBoNnBwOG5wWlNtWTRaWnJ4TUhGX290SS04UHFlM1dtc2pzU25kWVFiU3BDLVNlYzdFUV9tOFFMUDUtM1hTQ3VGYXdsaHRoWk9QeUZQSk5lUERROWRR?oc=5",
+   "date": "2026-11-26T14:55:18+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1062,28 +1100,6 @@
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/25/uni-rinde-homenaje-postumo-a-susana-higuchi-por-su-trayectoria-como-ingeniera-civil-y-legado-profesional/",
    "date": "2026-11-25T01:06:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b471420e19e4",
-   "title": "Keiko Fujimori anuncia el inicio de las obras de la etapa IV del Proyecto Integral de Agua y Alcantarillado de Juliaca",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdnZPME1mc0k2MVpwdi1YNHFVOXF6b1UtSnFQS2cyRVVzQzdueVlYZ1ViazFNSGtRMkZKS3J2czlOZ0d1Z3hQWjQzSlRFajZKekF4ZHFkUU1mYURvdzZRRnNGR25oSXN1UXdUQjB6MmhveEkzeGxVbXBfMlA3cGUyQjFQR19yUkRJMnNJbmtyVmlGLTV0TDFvcDM3dTRpNExKU2tSekhsSS1PZ3ltbmFKYmVWRFBGcXJWTHBIY29pd2JVOC13LUNOVndfeWlXMVlGXzAtSg?oc=5",
-   "date": "2026-11-25T00:37:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2bf31a99301a",
-   "title": "Keiko Fujimori anuncia inicio de la etapa IV del PIAA de Juliaca para el 11 de diciembre",
-   "excerpt": "",
-   "source": "La Decana Radio Juliaca",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU21SY3RzUTctbVBEOWQ2Si16MlFPMUdMR0czcDFRTjkyYnd5cUowZUZaNTd4Q0dYRFA0ZGZCYm1iZzdqUV9aSXZnMkJLcElxNllkMEl6RHd2ejBoNWs5X0gyY3dNSXZsYktzRFI1Z2dtSlQxRlotQWNkZnh4QTBCbFhBS3BxeXgwVmlhbWJ6Y2VoaUNybkJVQkZuNlZSYlFQVTE2c1h1MmVWUkJIRF9sdTk3Ulhrdy1rT0MyNDYtTXNnVHRWMy1zMDJB?oc=5",
-   "date": "2026-11-25T00:17:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
