@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:23:52.782962+00:00",
+ "generated_at": "2026-11-26T00:45:23.987707+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -174,7 +174,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -371,6 +371,17 @@
  "agenda_minutes_7d": 649,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "ab49a4127238",
+   "title": "Hildebrandt sobre Carlos Espá: \"Es un fantoche, es la sombra de su juventud. Me da pena\"",
+   "excerpt": "El periodista contó que a Espá lo recomendó Álvaro Vargas Llosa. Afirma que la presidenta Keiko Fujimori, \"la señora que no entiende nada\", lo aceptó.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/24/hildebrandt-sobre-carlos-espa-es-un-fantoche-es-la-sombra-de-su-juventud-me-da-pena-hnews-1544520",
+   "date": "2026-11-26T00:38:17+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "d4731e6a0e79",
    "title": "CADE 2026: Empresarios piden estos tres resultados al gobierno de Keiko Fujimori | ECONOMIA",
@@ -824,17 +835,6 @@
    "source": "Latina Noticias",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUHJLY3FCcFJPbmo3TDhYU2N4WW1LZnJhaUJUYlZJZzFncjhCYU1HYkhZY0JBQWtWQXo1SEdfeV85akZLT29QUVVMTzlFejdvVF9QT3JGaDA3Vy03YTZzNEJBVDJKYjR3VDd1TFNyb2NBaEh2ekpCWl9VSmJoUVdNb3pPejhUdklHbDVVb1ZFamVEcE5SbmlsTGJRd21SWmQzT2wzQzl2b3pGWEVsLXJVYkMxc2JucF9IVC1zSnJaSHRXSG9qUDNZdGRwWXJQTnpvV3BQM2tGbnBTTVQ4Skp1ekEtZzlOVlVVVllzX3Jn?oc=5",
    "date": "2026-11-24T20:07:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ab49a4127238",
-   "title": "Hildebrandt sobre Carlos Espá: \"Es un fantoche, es la sombra de su juventud. Me da pena\"",
-   "excerpt": "El periodista contó que a Espá lo recomendó Álvaro Vargas Llosa. Afirma que la presidenta Keiko Fujimori, \"la señora que no entiende nada\", lo aceptó.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/24/hildebrandt-sobre-carlos-espa-es-un-fantoche-es-la-sombra-de-su-juventud-me-da-pena-hnews-1544520",
-   "date": "2026-11-24T20:07:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
