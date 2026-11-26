@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:10:23.304242+00:00",
+ "generated_at": "2026-11-26T12:52:42.770708+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -371,6 +371,17 @@
  "agenda_minutes_7d": 649,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "66c9c5fbed32",
+   "title": "Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
+   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
+   "date": "2026-11-26T12:47:54+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "a78983726c28",
    "title": "Bernie Navarro sobre elogios de Keiko Fujimori a Xi Jinping: “Es parte del proceso internacional”",
@@ -947,7 +958,7 @@
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLUV6bmx2N1V4M2FGTGlRMTJHekk3WHl2c2ZSaDNybF9DVzJWblZvUkt6NDFmVmNTdXFxdFMtYzVpUGs2R2dOZmFPWE9ldTNRWEI3bF8wOElwdlh0WmhvQThDeFJ3dXc5ek1TNTBjS1BfaE40SHgzS2FuS3d1UHZxSGNLM1pGOHA2VTJNeWdQWVlvQmhTZXZybE5sY2hpbERya3RPODdvYWVXZ2J2UDJiWWpYbkdjdjZYNzRhdUZDWjFDdWQwMmc?oc=5",
-   "date": "2026-11-24T20:00:50+00:00",
+   "date": "2026-11-24T19:58:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1025,17 +1036,6 @@
    "source": "Exitosa Noticias",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY19ra05GQV9zTmZocjdaNWMyV0VYandrMjg0bS1pRTdyZXlKNnFEU2NNekllcEplcE01N3cyR0EyQ1YzZ3BoLTdnS25IZEw4ODBFSDRwdzUzTUVDa1U1R2VRNEk0NGh3cmk4LTBRLW9jQ2FvNDI0RGQtWEExazNkc2oxbkdQTlVtdXNva1ZnNVNKVThLZU1BSmtLdGtRa21mM3I2WjE2MGVQcU9FbWxCMHo3ZmlFODVPSmZxREpnZ0o?oc=5",
    "date": "2026-11-24T18:53:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6a55a1fd8724",
-   "title": "Keiko Fujimori solicita permiso al Senado para viajar a Colombia el 3 de diciembre",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-el-3-de-diciembre-ultimas-noticia/",
-   "date": "2026-11-24T18:38:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
