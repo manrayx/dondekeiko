@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:49:06.411399+00:00",
+ "generated_at": "2026-11-26T23:31:37.002686+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,7 +105,18 @@
   "source": "La República",
   "date": "2026-11-26T20:49:47+00:00"
  },
- "next": null,
+ "next": {
+  "place": {
+   "name": "Cusco",
+   "lat": -13.532,
+   "lng": -71.967,
+   "abroad": false
+  },
+  "source": "www.apnoticias.pe",
+  "date": "2026-11-26T15:18:30+00:00",
+  "title": "🔴🔵 Keiko Fujimori llegará a Cusco para la clausura del CADE 2026",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSU9GOW9UWW9ZQzJuWnpLZHozVWs1VzRRejBNdExMa1Z3alhSc3A4RkJTNkFNdFkzSmN3b2dfQkNBT1V4MktkX2J4bUs4NGpQUThuVzZlaWJvWWNnNFUzeUk4ZUhKbVo5amluaUVxN0pQX3MyUTV5Y1UxUHRKM2hOai0zQVdjU0tad0M1cVZydTFqSEhKZWtaUExKZGt2QTBYS2paU2dya3gydHRqS01Z?oc=5"
+ },
  "counts_7d": {
   "transmitiendo": 4,
   "entrevista": 0,
@@ -421,6 +432,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0d5d2d4b1150",
+   "title": "Keiko Fujimori y Rodrigo Paz encabezarán encuentro presidencial y Gabinete Binacional Perú-Bolivia",
+   "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
+   "date": "2026-11-26T23:29:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "31ec756a9da2",
+   "title": "Keiko Fujimori exhorta al Congreso a arribar a acuerdos a favor de la Ley MAPE y cierre del Reinfo",
+   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
+   "date": "2026-11-26T23:11:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a79e357156f4",
    "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
    "excerpt": "",
@@ -499,17 +532,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVXNTMmxOYWdQT0w4Y2xnZjBGY1dnR2Fpc2hia09kNk5CZGtpakd3QTFvdVFNQm1MdUdvZmhzNTdVbzBPUVJ6REN3ejNwVFNlenVLbUFIZl91Sjdmbkw4akhZUENvWGZMa1pXLXRmcUl0RjZJQkszN2NRNDhDTFd3QXFWSHRGWmh0eWVkUHVPQXpLaE9rbHRheTRRU1Y3T2tZZmN5NF9uUWlKaFdtU2l5Vm1oTFFkcHUzZ1diRi1JZWhPM1NzNTd3V09wUDBUc09TODlOZUJXTkxFLUd6WlE?oc=5",
    "date": "2026-11-26T20:37:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "31ec756a9da2",
-   "title": "Keiko Fujimori exhorta al Congreso a arribar a acuerdos a favor de la Ley MAPE y cierre del Reinfo",
-   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T20:36:08+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -890,6 +912,22 @@
    "next": null
   },
   {
+   "id": "17e171df1ec6",
+   "title": "🔴🔵 Keiko Fujimori llegará a Cusco para la clausura del CADE 2026",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSU9GOW9UWW9ZQzJuWnpLZHozVWs1VzRRejBNdExMa1Z3alhSc3A4RkJTNkFNdFkzSmN3b2dfQkNBT1V4MktkX2J4bUs4NGpQUThuVzZlaWJvWWNnNFUzeUk4ZUhKbVo5amluaUVxN0pQX3MyUTV5Y1UxUHRKM2hOai0zQVdjU0tad0M1cVZydTFqSEhKZWtaUExKZGt2QTBYS2paU2dya3gydHRqS01Z?oc=5",
+   "date": "2026-11-26T15:18:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false
+   }
+  },
+  {
    "id": "12adb28c8338",
    "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
    "excerpt": "",
@@ -1078,28 +1116,6 @@
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWXpnUGZCSXlCS1kwR3FOajRWUEtwWkdsbWRNZjR0VzZGT3JLOVBOanFsczc5TUVpMi1HZ3hZMWZxY214RHFiTzNacjFMenA0RVpYTzVvQ3BvV1FVeXN6VmlFMzRaZk9nZUZnYmdnY045N3JNQVByS3hqSVNLY0kyY0lIMHZjSkUycGNFSzU3ZDczd0YyOXhqR3c1eEsxNkdrRlpVM2NnVmZqSTByWWpuRUdmME54M3l5T2VhaDJzZFliZzE2VGs3TVlJVFpLbTh1U2wxLWYtVFpyRHd5M2ViczFUbFM2eUhDVWtqZDRKUkJBcm5sWWZZaGNOdHTSAZACQVVfeXFMTURoaU9URjBMT3ZodktqRnd1Z3RWNUJkVzhHVEFaaFI5RW9ydHZ5M0xIMmo5aWs4N2JybTB5MW80Ym84a0hUOC1VVGhjdjVtMDBad1ZJV3Q5TVVnT1NoTUc5c2syNWNKX3JMb2F6U1haWml5eGUwdG5wUjlaMGcwNUc0LU5IVnpsYlhsamdoWjFiTENjaHhvQnlEdnlpLTRKZ1dNNVdTT2k2d3lzZjlzN2dBZ1pNZnpRY0IyYkpiRk5yOVZNbnptQ25oLUE5TFNCeWY5MVdzSjFESWFtWW9KeTNhbnc0NTRzREdRbGZnTjZDMzhUSGVmWnhuTUpRWlZBYTU2WVJXY3hDb3ppdllDaWY?oc=5",
    "date": "2026-11-26T12:47:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2c4b6c8b8e2f",
-   "title": "Keiko Fujimori se reunirá con el emperador...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
-   "date": "2026-11-26T12:00:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a78983726c28",
-   "title": "Bernie Navarro sobre elogios de Keiko Fujimori a Xi Jinping: “Es parte del proceso internacional”",
-   "excerpt": "El embajador de EE. UU. en Perú consideró que es fundamental que la presidenta Fujimori mantenga acercamientos con los países representados en Perú, incluyendo China y su líder comunista.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/25/bernie-navarro-sobre-elogios-de-keiko-fujimori-a-xi-jinping-es-parte-del-proceso-internacional-hnews-452375",
-   "date": "2026-11-26T11:34:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
