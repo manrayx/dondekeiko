@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T06:28:58.524966+00:00",
+ "generated_at": "2026-11-26T08:57:46.735017+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -100,10 +100,10 @@
    "name": "Colombia",
    "abroad": true
   },
-  "source": "Gestión",
-  "date": "2026-11-25T22:45:00+00:00",
-  "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
-  "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/"
+  "source": "tvperu.gob.pe",
+  "date": "2026-11-26T02:01:00+00:00",
+  "title": "Pleno del Senado debatirá este viernes autorización para que presidenta Keiko Fujimori viaje a Colombia",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -405,6 +405,20 @@
    "next": null
   },
   {
+   "id": "f6d6a91ea79a",
+   "title": "Pleno del Senado debatirá este viernes autorización para que presidenta Keiko Fujimori viaje a Colombia",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5",
+   "date": "2026-11-26T02:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "8ca1eab0e1bf",
    "title": "Keiko Fujimori destaca el rol de la tecnología del FBI en la ubicación de ‘Jolín’, cabecilla de La Jauría",
    "excerpt": "",
@@ -530,20 +544,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "f6d6a91ea79a",
-   "title": "Pleno del Senado debatirá este viernes autorización para que presidenta Keiko Fujimori viaje a Colombia",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5",
-   "date": "2026-11-25T20:09:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   },
   {
    "id": "a78983726c28",
@@ -673,17 +673,6 @@
    "source": "Diario EP",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm1VZGktb0JnT3FvUVU1QmtYS3NfXzRZZWVxblZBTVNtU3o5SG05S01OZWw4Y3FRX0VIS3U2SzU5Y19UTzZsWFBMRGFlbnN5QTI2MGU2T3VYOUZmN3RudDVwaW04YnJVVlFhSnNGRWF2b0tHUEt3SFlscUtoSy1wWGpFZGF4UHJIXzgxYjY0MjhhVkw1OVE?oc=5",
    "date": "2026-11-25T02:59:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3994db69d8e3",
-   "title": "Presidenta Fujimori se reunió con diputados japoneses para ampliar inversiones y cooperación con el Perú",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTdpQWFrLVl1M1NaVWdEY2Z3OVRzQm1McW1jTTA3cTNVRXlXUnhkZkVnWUZfbjJLd1RqVXBZSFBZTFdRNnpsUFpnaHFzckJFNm1xcDhra1RKWkVUT0Q5M2lJWDh3S0NRSFJRTmlnNDlmNHVLVFp5WGpLUUgydFZLMGV3bklsV2JJS25mV2xDWXE3X0N4Y2tuVmlzWnZtNHJoeGdwZng2YWF5R294cG96bVBuMGJFRUlrQ1BzUFhRUTBYUQ?oc=5",
-   "date": "2026-11-25T02:46:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1036,6 +1025,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/internacional/keiko-fujimori-solicita-permiso-al-senado-para-viajar-a-colombia-el-3-de-diciembre-ultimas-noticia/",
    "date": "2026-11-24T18:38:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2b2d7a1c827a",
+   "title": "Keiko Fujimori solicita autorización de viaje al Congreso para ir a Colombia el próximo 3 de diciembre",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZGRTd3NMQVFvNUNtQkVHTXRCOWtKRXgxRFZZbUJEZnVOcWlpTzc5Nm9FQjlVYUJuNDVlbDEtaHZpYXEzdzRDcnhLcHFzREk2MXpFRUV6V1d5dnJNb0JIV0ZTTHJyWU1ibEd4STlCel9RM2NqX1ZKT3hkNDI1bUwtSGQzd2hMaXdveVg3ZzZlNEZ5N1dtT0g5bWh6NDBLSVNyeVdldHJwUVAxOXZkN1R0dlQzRnUzNHp2UmU2MTJ5N0dRQ0J6dXhmYy03RQ?oc=5",
+   "date": "2026-11-24T18:20:11+00:00",
    "state": "posando",
    "place": null,
    "next": null
