@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:51:13.140736+00:00",
+ "generated_at": "2026-11-26T18:12:18.283159+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 56
+  "triste": 2,
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -430,12 +430,78 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "fdb024fb1d83",
+   "title": "Keiko Fujimori firma adenda con Cálidda para llevar gas natural a siete regiones del país: \"Las familias van a tener un ahorro fundamental\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXU2NkxXN25Cemc5VkFGVC1DUEwxMVJ3b0s1REdnNFFhVENlRW9RelktZmJJX2ZaWkdhUTBUbmc1VzU2c0s5Unp3TTZabGd3dGtTWlUyb1RvcjdKeXJJaUpDaGFQZHFsMGplY0YzMlFISEV4b2hjaGlvSk1Ib0NFOXdLQ1lzZEtfdUVTU2ozdS1CZDhsZUNwRjlRQWw?oc=5",
+   "date": "2026-11-26T18:11:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "31ec756a9da2",
    "title": "Keiko Fujimori exhorta al Congreso a arribar a acuerdos a favor de la Ley MAPE y cierre del Reinfo",
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T17:44:53+00:00",
+   "date": "2026-11-26T18:04:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "282a134e52cf",
+   "title": "Fujimori sobre críticas a la adenda por Cálidda: “No esperé 15 años para tener los brazos cruzados. O cambias las cosas o siguen igual”",
+   "excerpt": "La presidenta defendió el acuerdo para ampliar la concesión de gas natural a siete regiones del país y aseguró que permitirá conectar a más de 300.000 hogares. Además, anunció que…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/26/keiko-fujimori-sobre-criticas-a-la-adenda-por-calidda-no-espere-15-anos-para-tener-los-brazos-cruzados-o-cambias-las-cosas-o-siguen-igual-hnews-379054",
+   "date": "2026-11-26T18:02:36+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "8816559f4e45",
+   "title": "Keiko Fujimori pide al Congreso debatir y aprobar el proyecto gubernamental sobre Ley MAPE",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3ZFbl9XdVFnMDNYbE1UWXZHN3JyaXBraU9EaHFtUUdELWcwR2UxSHFpdndURzN5UENxOTE3ZUVjWFo1ZG5wcTk2TS1pUm9PbE9Cc2d5TVhOc2tfOEQzVmZmT0JqamdmWVlXS2g0aFFtTkZTWWxBb2hJNTZqemg1bUM1c3NxcHRhRUZKNnNCUU0yMFNGd0FUMzlIN2o4S2dPMGY0eGhYaTdOMHRLSUpXWHBldHpsWHdELWNvdjZKQk14QzZpR2x2YWNNVmwzSWhPZlJzVGR3?oc=5",
+   "date": "2026-11-26T17:54:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c68e4a39cd4c",
+   "title": "CADE 2026: Presidenta Fujimori le pide al Congreso aprobar nueva Ley MAPE",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFZxNTBKcjJrU0FYMHNaazVTcy1Hc0laNVFUYzB4Q2EtbVpZWVAzYmZlM1prMS1MeHA4Mk9wV0FTakJfdWpCNVlVRUl0d2NITDR0YzA5UlpPVVRzaTBJTGQ5czdNa2dIVlo4R3l1WkJEcVdQQ0ZUWS1TTDZmSy1DRDVCY0g3STAyQlR1Nng1ZzUtNWo3WmUwM3AyWlJjT0YtdlE?oc=5",
+   "date": "2026-11-26T17:43:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d8693655b8c9",
+   "title": "Presidenta Keiko Fujimori pide al Congreso debatir y aprobar la ley MAPE",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUTVfSzZqcmhNSWc0Yk9mN092RlAxTUwtUWFLUDA5RjNleGk3b0d5OE8xTkotWDJzdy00WF81S2ZkQ2NNWnlid1h2WDVrczhsTmE0ZzdLYjRvMlpmX1h0eWQwNU9CVmJMdmxKZUM5ODhROTMyeUtaQnBTOXVBVk4xS3JMYW81M211OHo5VzBfLXdxMW9YSEFRNlo3Yl95NldsTnY4MWZDV3NUU3l0OHZsUi05Und2aFJLLUZzLW95ZTlBVmQ2SWxVVFpCLVJrWWNBc2RiTTJpU1cybk1pUkkwZ2xhYV9ybU8xQVptWtIB8gFBVV95cUxOWlFEQVhURUlfWFc0M3hIY2wzN2ZZcTJHa0xuRWlLckViWnJUaEE3c3JQQUMwbjdmeDFFUV90YkhqblpPWFEyQ3djNVVpV1kwWGlFYm9zSWNNVlRhS3NrRXUwbEhvOGpfd29nc1k3R0V2clF2aHVkcUdUclJfVFNGMEM3WGhLSmhLWFhMX0N0ZmFLSklmc205LWQ3NHlzeXNWQzFVTThFYUcxQmZyRk5fSTJSYWQyWFpLUG5GcFliT0ZMVE15cjQ1WXNzOVlZMVg3RmF6c3JMT3ptempoSnlpaVdHd21ySERGVnB0cl9veUxlZw?oc=5",
+   "date": "2026-11-26T17:38:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2fd3513a192a",
+   "title": "Keiko Fujimori pide al Congreso debatir y aprobar la ley MAPE durante su discurso en CADE Ejecutivos 2026",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWTc4YmxoSmI2ejd3akNVYnZ2RDJsYTlBWnd3d3VVV3ZsMVY3T2o5SmxiVWQ4QjFCZVA4ckhRb3BpamtfTGg0YTZubFdGS0lyUEs2US1RQTdYTERiUVBvV2R0ZnU3VHE3WDVuZFg1NDJBY3lyaktRS3ZWdzh4aFlBbHpEeTcwalVodUdoOEUxc1EtcHk2TVRMVFA5U0lBa3hadER1QUNlRjh1RmxoVEpSNVFfRERSNjBVay1DdHVoZWhrOTFzM0YweW8xU3dVTmhTS0E?oc=5",
+   "date": "2026-11-26T17:37:40+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -557,12 +623,12 @@
    "next": null
   },
   {
-   "id": "b9df91ac08e8",
-   "title": "Presidenta Keiko Fujimori firma adenda para...",
+   "id": "12adb28c8338",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
    "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnpDN2lnWVpOLU5iSC1zM0RjWmxnT0IxTjhYdHhDcWpxVk9Zc2sxRTVwRG1FaHNoM1dpR19LX2k5bnlZVGp0VVVlT2VjcnV5c1VpTXY0ZFYtZzB0UUtFbVliUllqS1kzaE9WUDh2eG9fdmgzLUFxMDZUYXdoWmpsbHZCUF8tT3B4V3ItVm1rZTJrR21Ja3RJT0Z6WlQzRU9IMEdmUEgtYlpwZW02YmFFMFdTX0F4bHl4blBTb9IBwgFBVV95cUxQUFV1enF3azBEX3pnOHhib0V5VzNFVnVYaWZNWjUwNXBUMUZXdkdTWmN3ZnVkVW82dnJDay1VeVFjRWdPR240V0p4YUZsX3AwcS1vY0xvTzRGby1YZjdRWGRXZ0pBUzhsVVVfckNRT3Yxb09UdnBiZm1aYUh0X3lsUHNRMHFlMUc3amVBYnhqbXdGeVpqd1I4bk9kVTdTdXRodmZZWnVPcXR5RVhhS0FaU1o4cHBwTEt2eU0zSmdfMGtJQQ?oc=5",
-   "date": "2026-11-26T15:13:42+00:00",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
+   "date": "2026-11-26T15:14:32+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -624,6 +690,17 @@
    "source": "La República",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGZJM1RPdm1iRGlRR3FaZ0xldDk0UFo3ZnNCZ1VrTDZYQ1Q4Tmd0Rk5PLW95R18xWnBNa0xUX1dIVW16bnA3M0cyWmZRaktoU1ljQ0lNbk5wLXVVVk00d1hvMV9nczVxZnhRRV9WTDl3d25OdTZSbV94T0hDS29LZk03VHBZbmpNU0Q5RUw5WmpOZHk4TnZYT1FWNUZsdE9CQjh4NkVWdzZpSjN5SS1NZW9KTU1BRHljM2RQT1hhYU5xR3o4eHRON3Y1WmR6Wm5vUlF3dW9McFNHMnljdDVaZktoaEFrMEl3N21qMkRfUEw3d9IB9wFBVV95cUxNMVczOTlXWFB2dkVfZ1JvekFFaDB1RHVMMjFQSEF6Ymo5NmFrZHliNW5YV0tSaGk2OFFseWNXVFpDN0NTUnloUmh4d25PdldIZG1iWVJOQWxrYmk0WEhSVkhPOUhZSDZ5RU5JeDFIRmpab2h4ek9BRUt3OHdDY0hsbkpEZkFIQ0NVMnZyci16VVY5Y3RiSXVzV0pFazVaaS14UVBoNnBwOG5wWlNtWTRaWnJ4TUhGX290SS04UHFlM1dtc2pzU25kWVFiU3BDLVNlYzdFUV9tOFFMUDUtM1hTQ3VGYXdsaHRoWk9QeUZQSk5lUERROWRR?oc=5",
    "date": "2026-11-26T14:55:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "b9df91ac08e8",
+   "title": "Presidenta Keiko Fujimori firma adenda para...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnpDN2lnWVpOLU5iSC1zM0RjWmxnT0IxTjhYdHhDcWpxVk9Zc2sxRTVwRG1FaHNoM1dpR19LX2k5bnlZVGp0VVVlT2VjcnV5c1VpTXY0ZFYtZzB0UUtFbVliUllqS1kzaE9WUDh2eG9fdmgzLUFxMDZUYXdoWmpsbHZCUF8tT3B4V3ItVm1rZTJrR21Ja3RJT0Z6WlQzRU9IMEdmUEgtYlpwZW02YmFFMFdTX0F4bHl4blBTb9IBwgFBVV95cUxQUFV1enF3azBEX3pnOHhib0V5VzNFVnVYaWZNWjUwNXBUMUZXdkdTWmN3ZnVkVW82dnJDay1VeVFjRWdPR240V0p4YUZsX3AwcS1vY0xvTzRGby1YZjdRWGRXZ0pBUzhsVVVfckNRT3Yxb09UdnBiZm1aYUh0X3lsUHNRMHFlMUc3amVBYnhqbXdGeVpqd1I4bk9kVTdTdXRodmZZWnVPcXR5RVhhS0FaU1o4cHBwTEt2eU0zSmdfMGtJQQ?oc=5",
+   "date": "2026-11-26T14:54:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1029,83 +1106,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
    "date": "2026-11-25T13:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c699b36e8ea5",
-   "title": "Opiniones divididas de diputados sobre pedido de viaje de Keiko Fujimori: \"No veo nada provechoso\"",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3JLWHllRnNvVjd6Y3YzTUkycXZRY1E5Ul9peDY5TGdSeW5oLWliSmJRR1FwdTNUNzNSMTJoT0lkX0Jjc1RMd2U2ZkRjNm5jSUIxQ1Jnbml2NFVJdDdXUXluUEtpdGRqdUhwdGJRdV9pNXdWLVFQQm1CNmNVSlpRSnJMSnA5ckM0MDAzaUdsM2ZRQ1ViMGpNZEhCQkhYNWw4NEt5RXkwVUZJaEJDUHFjQmpkR1ZiZFg0ZFl0dFVITVV1d0g1eHpQVVM3d0FlZ0U?oc=5",
-   "date": "2026-11-25T12:01:54+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f25254a3ff17",
-   "title": "Sheput sobre viaje de Keiko Fujimori al APEC:...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTDZmZjZuN0hsSGhvQUl0UEZycVkxaVVtNHA2eWVGNG5sNmNiYnkyaDdZYVNic1BJQTM3a1FnMEh4X2ZDbzAtTW1oTXA5bjFvQnFyS3M0ZWVUTi1iV3JEWVgyZW9wNTBZR29lV19YMmtId0VqX1hyZVRsVWtIYW9sam1OdGdDNm5XZ2RoR2ZyVEc2LUlOLWxxZWRiaEJ2a3PSAaQBQVVfeXFMUHVmRzMxaDFoZ05EMnowLWRTYnhnZ0lkbEY1MU5kWHlCLS1jNVpKb0RQS0poOGZqZndiejlXNGVhN1piODRtNXhfa0VCcE5UcXRRQnk4SXJ4MWxtUjMyRVBqdEFRNzVNa1p2MWk1aXlqRnRHeEJEdlJaMW53WmZFMnZSVXNkN3JHNmNqSlJYTW83QWJnZjhnQkU4WFgySmxJeEFxRXk?oc=5",
-   "date": "2026-11-25T09:30:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "99f634e91494",
-   "title": "Keiko Fujimori pide al Senado de la República permiso para ir a Colombia el 3 de diciembre",
-   "excerpt": "",
-   "source": "Crónica Viva",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT3FpcTVjMXVjNnpMMFNBWFZGc09QU01ta0F6bHpCbkc3SHE5QUxBSUlsWGRNdFBMSldNb2FHTW1VZThGRHNZM1RFMVYzMEswWDA1aHFnRl9OYmxRR2VfdjlFazFDbU01ZzRCT2tNZHZaNkp6cnFEaEtZdWNfbFlNd3doRGRoaXlrOVpjMHRaUkhXdTg1dEhkMWozandvRFdXNHNnYlhoSHpJYThERnZIN1hmUzB3aHRSMk5UT0ZNcw?oc=5",
-   "date": "2026-11-25T03:09:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ffb7142ee4dd",
-   "title": "Keiko Fujimori pide permiso para viajar a Colombia en diciembre",
-   "excerpt": "",
-   "source": "Diario EP",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm1VZGktb0JnT3FvUVU1QmtYS3NfXzRZZWVxblZBTVNtU3o5SG05S01OZWw4Y3FRX0VIS3U2SzU5Y19UTzZsWFBMRGFlbnN5QTI2MGU2T3VYOUZmN3RudDVwaW04YnJVVlFhSnNGRWF2b0tHUEt3SFlscUtoSy1wWGpFZGF4UHJIXzgxYjY0MjhhVkw1OVE?oc=5",
-   "date": "2026-11-25T02:59:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "540685c70f26",
-   "title": "Presidenta Fujimori solicita autorización para viajar a Colombia el 3 de diciembre",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ1NzRzdxeG16VVkzUGNtUUZlX0xNRW4zMkV5SUN0UDJmNWNHWXR0Und6NXZCRk4yeDV5WEF1Mk1sRzNtbDZjckJjYTFKYzNuSDNCajcwYzhuWDVtVkdmUnRCaXlVbHpNaC1uaVMwUEU3d3lWSkJoNndqeGc2ZU5qRG5xWDJ4UERwQ0d5cWlJSmN5dVZ4SkUyVENhbWRTM2p6X0c4a3hyaGdQM2xSZXg1anNocU5IQ2RXQ1E?oc=5",
-   "date": "2026-11-25T02:27:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c1a408f85091",
-   "title": "Keiko Fujimori viajaría a Asia durante despedida...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjgtTjQ2dXpnXy1mWmdFeGlwdWtvbDZOM3M1RmprRFYzVVBhUkY2emN4enh2Q1hsZEpZOHpCc3d3SDhHZGcwanZUSWRGcVNBVkJEM0ZsRTR1VzVJa0FNU28tTHJ5VmFObGlzNmxpRU1iemJZX0JvOTFRQmZaSkxyWi1qRUpsanpyaUhIdndWN3pmNk92SW91cXpRSWg4ejdZUUwybXplUFNudlBYaXNJVXRTd3lfeFNMUlF5Snp5RdIBxAFBVV95cUxOemV3eTU3Q3hvUnBQYWN0NWM4TkF1T1l5S2tCVFFXdjhTaVh3T0h1UjBvai15WjVxUDZuaVdBUTMyd1RnM2VMMGxjcXR6b0djbDh1Y2JuZ19qQlNGWDMwLUJJMldtajg1YkZIMGRlbm9IREZadDI5V0JIYWYyMHcyQ1gyTklGRGxNLVJ5cE9lREtCTHRsOEl5N2d3QXZnbDc1RmpReW5CcFpfN3REc0RZVm5WMC1GNFZzWlVxUVdSTGlhZTJ4?oc=5",
-   "date": "2026-11-25T01:55:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "acbd889f2ee2",
-   "title": "Rodrigo Paz viajará a Perú el viernes para un \"gabinete binacional\" con Keiko Fujimori",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlpBeXlfak1fN3FjcV90R2VrbEFnYmFhbkN4YkFqaEdDMDJpS3ZvdEVNVkxUNE8xQnpHSjdxbF93UWlPcjJmVWM3ZnR5cHpEc0I4Y0NTMk13UndxUXJkTGFFcTVfZlZKWUh2VkxESWIzeE1ad2o4WUpreEUtcUd3ai04aEkzNEwzYi1qYVJSeE5aMWMzM2tDUVl1dmkxcHRVTENRVTlaSGVoQQ?oc=5",
-   "date": "2026-11-25T01:49:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
