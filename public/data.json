@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:12:18.283159+00:00",
+ "generated_at": "2026-11-26T18:33:27.346674+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,12 +430,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "fdb024fb1d83",
-   "title": "Keiko Fujimori firma adenda con Cálidda para llevar gas natural a siete regiones del país: \"Las familias van a tener un ahorro fundamental\"",
+   "id": "282a134e52cf",
+   "title": "Fujimori sobre críticas a la adenda por Cálidda: “No esperé 15 años para tener los brazos cruzados. O cambias las cosas o siguen igual”",
+   "excerpt": "La presidenta defendió el acuerdo para ampliar la concesión de gas natural a siete regiones del país y aseguró que permitirá conectar a más de 300.000 hogares. Además, anunció que…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/26/keiko-fujimori-sobre-criticas-a-la-adenda-por-calidda-no-espere-15-anos-para-tener-los-brazos-cruzados-o-cambias-las-cosas-o-siguen-igual-hnews-379054",
+   "date": "2026-11-26T18:32:10+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1722297f5a4d",
+   "title": "Keiko Fujimori espera que el Congreso apruebe la ley MAPE y evita pronunciarse sobre una cuestión de confianza",
    "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXU2NkxXN25Cemc5VkFGVC1DUEwxMVJ3b0s1REdnNFFhVENlRW9RelktZmJJX2ZaWkdhUTBUbmc1VzU2c0s5Unp3TTZabGd3dGtTWlUyb1RvcjdKeXJJaUpDaGFQZHFsMGplY0YzMlFISEV4b2hjaGlvSk1Ib0NFOXdLQ1lzZEtfdUVTU2ozdS1CZDhsZUNwRjlRQWw?oc=5",
-   "date": "2026-11-26T18:11:18+00:00",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQzZac0YzYUJMZi1pWldYVldjVmI5TlNaSUg1TC1zZ0pZTmtua2k2aVdrLXNxZkVjOUREd0FRczdXRnhLZ25yTWs3bHg0RC1CcE1RQlBuQndUV3p6ZXZzdlN2Sld3LWllaEhpdkQ2blRsOEQ3Sl9WRjBla2JGYi1ycEx2Wkp5d1pHNENQdWhIb21PMVNOSWVNLXB0cXctQkt0WEozU2pueEpYaXlVZHlIaTBlamZkZ2t0QmtkNUp0b2d4elhOVE9CY3BrbUYwVms?oc=5",
+   "date": "2026-11-26T18:27:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "99aa26ee5d60",
+   "title": "Fujimori: “El Perú está listo para ser la puerta de entrada de inversión global en Sudamérica”",
+   "excerpt": "La presidenta Keiko Fujimori afirmó que el Perú tiene condiciones para recuperar tasas de crecimiento económico superiores al 5% o 6% y posicionarse como un destino para las inversiones internacionales…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-el-peru-esta-listo-para-ser-la-puerta-de-entrada-de-inversion-global-en-sudamerica-noticia/",
+   "date": "2026-11-26T18:18:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -446,19 +468,41 @@
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T18:04:55+00:00",
+   "date": "2026-11-26T18:17:37+00:00",
    "state": "posando",
    "place": null,
    "next": null
   },
   {
-   "id": "282a134e52cf",
-   "title": "Fujimori sobre críticas a la adenda por Cálidda: “No esperé 15 años para tener los brazos cruzados. O cambias las cosas o siguen igual”",
-   "excerpt": "La presidenta defendió el acuerdo para ampliar la concesión de gas natural a siete regiones del país y aseguró que permitirá conectar a más de 300.000 hogares. Además, anunció que…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/26/keiko-fujimori-sobre-criticas-a-la-adenda-por-calidda-no-espere-15-anos-para-tener-los-brazos-cruzados-o-cambias-las-cosas-o-siguen-igual-hnews-379054",
-   "date": "2026-11-26T18:02:36+00:00",
-   "state": "triste",
+   "id": "340d12deeffa",
+   "title": "Keiko Fujimori pide aprobar el proyecto del Gobierno sobre Ley MAPE: \"Quiero confiar en la buena actitud del Congreso\"",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYWtZZ0pLbXViU2YzMVV4TnBoZ2ttNVd2N3VJdUNSOVF3R1VyVUVVY0FUVTJaekZVSnE1ejNIb3kzZmVLQXVyVDEtSGNGRDhldjBlbTNFSzktaFU5WERrYkttS2lWbm1KemFPSkVwdHZRcVVaZHdIWVZYdjJERV8tanVXbkUwZnBRUnpGcDFhbUtsbVlDQWtqeExxQTBiRS1KLXRmaTAtcWxYVnpyMmhSOTFlM3ZKZElHcF9DWUc2VTV4bVBiU1JUdzZXUksydi1jSmUtVnFkVGotYlZMblZEVXRfZUVTNVR6Q013?oc=5",
+   "date": "2026-11-26T18:16:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "86fad8dea7c1",
+   "title": "Presidenta Keiko Fujimori en CADE 2026: “El sector privado no es enemigo del gobierno. Quizá así lo vieron otros gobiernos, nosotros no”",
+   "excerpt": "",
+   "source": "Semana Económica",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOHJabW1RSnhSV3R2d2VENThvQXVpY09wMWxTVGMzNXZvdnRMSXc2ZXQxSENOaE1ENGpPU0FrM0kwbFptOTBnYTk3OVJXQXFzU2NQR1VPTGpnSU1rN1BJaW5nVVhSNXlqdEM4MkE5OUVvNzB0RVdrcEZWLU0xUVRBUkZBb0hMTDE2X3RYcURvXzRoUDNVblZ4ZDhHVWFWVU83VmQ4R0VJWU5QWlFablBrUEktZGVZM1FUU0oxbFJrQjNXWmV1OWdNQzV6aEJaZWFPS0VtN1hITVp5SnV0SXc?oc=5",
+   "date": "2026-11-26T18:13:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "fdb024fb1d83",
+   "title": "Keiko Fujimori firma adenda con Cálidda para llevar gas natural a siete regiones del país: \"Las familias van a tener un ahorro fundamental\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXU2NkxXN25Cemc5VkFGVC1DUEwxMVJ3b0s1REdnNFFhVENlRW9RelktZmJJX2ZaWkdhUTBUbmc1VzU2c0s5Unp3TTZabGd3dGtTWlUyb1RvcjdKeXJJaUpDaGFQZHFsMGplY0YzMlFISEV4b2hjaGlvSk1Ib0NFOXdLQ1lzZEtfdUVTU2ozdS1CZDhsZUNwRjlRQWw?oc=5",
+   "date": "2026-11-26T18:11:18+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -709,8 +753,8 @@
    "id": "dd5ac0282862",
    "title": "Keiko Fujimori destaca respaldo de gobernadores a la adenda del gas: \"Han puesto primero a sus pueblos\"",
    "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVBuanNBNy1LQ0gxc0RabWJQSTVPY1JIMERseFJ2Mnlxc3RXbUhfc2pDZzl1cndoQ0Ewa2t3NGgxM1FLdUp1X0c3eEdJTTh2bWdST0xFYmIya3JXdHhYbG12cVhOakk1bXo5ZlVRM1VHWFRqOWZXMXE5ejlZU3VpajdjSmRwQjdqNTd6OFljS2U0RE5rS2kxN2s0c1M2UmhQUFI2bzhFdjhCN3Q1TmtRVEF5dm1tclRmdTBCMWV2czhqTmd4Qm1udGthblpTZEU?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORENQMkxVMkY2bkFDRGo2OHlTeGVRQTJnWnQ4bDZDbVpsMzQ2RE9STEliZmEwUDJvcGgtSFhEQXpoY0dvTUdMd2p3dkp5d3NwVmNjckZDZVgyUVhhbmZzVzY0U1BFeXI4Ry1sVHR5bUROQ29uUVZxMDlnQm9FUU9hTEFrbnJBMGQ2YVE0T3dMcTBxclRsUVE3aEdrVFFmYjdvVnh1Y1QyYjczRW92TENOX2pfMlcyTTdXTVU2eWRlR0hSeXdVYkQwU0tXaHk4dVE?oc=5",
    "date": "2026-11-26T14:49:00+00:00",
    "state": "posando",
    "place": null,
@@ -1062,50 +1106,6 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWQ4bFkwS1VOOWdUajRId0pHclZTRDQ0MDR4SF9IMXEtcFdmLXc4TnYyLTJhdEpta09PZUtraGdLYUQ4OGpTdDhvQzFxZ1dtYUQxY1BUU2daY2Q3TTRrenZRTnF2M204LWxmT0pCcmg4cy1aVkZXUVB2WFVuM0RJQmVEN0tMV2xuWGlfNmlIVkJqYVpiOWpySF9ibGRlRnNWTlhNc185WDk4Rjh0dVhUaHBWLUgtN2pTcm56dENaUmEyaUNWaUFpTFZLV3g?oc=5",
    "date": "2026-11-25T17:01:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "846e1c248dce",
-   "title": "Keiko Fujimori plantea convertir al Perú en puerta de entrada de inversiones a Sudamérica",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUY4cVFpR2lmb2hvRXR5VTJ5dG1YR2luZWRFVi1BX3IxOUdiOF9qLTlzRlRNcmpDMkZ0akhoNjJIV0VybVNJT25Kd3pLTFhkM2ZtRzBFOXdkZGpSVDZpRXhsNFFUY1N5dnI2MVl5T043eU9DYjJHelh0Rl84aVdqYXJ6ZFlVRkhUZXZkM2xvbERRbnNyU24xcDkzeVdvSDRiWkZURVhkR2NFRmU3Tm9HcE5vaDVsSENnNFkxMjZnM2w?oc=5",
-   "date": "2026-11-25T15:22:56+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7c1de2e3b11b",
-   "title": "Keiko se va a Colombia",
-   "excerpt": "",
-   "source": "El Men",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VR2NOZnBQc3UzWUlfMUVySW1GMUVwOXp6M0VLaGN2SlNTQWF2THBLWmtXQkRNS0pxNDV5V0xyMER6R0ZPNzZWZWJDQnkzUFk1eHc?oc=5",
-   "date": "2026-11-25T14:25:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dd458331ebe0",
-   "title": "Presidenta Keiko Fujimori solicita autorización para viajar a Colombia",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMW5yRlU3TFJVWVdsd044WmF3RHhUVlVFRVBORXk3Q29kNTVxbU5GMXpNcm9UNEZKbDkyX0V2akw4T05qWldfT1JUMDByTFJXU1lPeGVyaGFTWDJlbHdBeUc1WmxMazZQTDZ4WnItbXo0ZnNHZ0U1eFZ2SW90SGFycEc1SXNxRXJWTnJwVGdSY25YbDgxRmZIdk1mUXFwWG1DWFh3QWFhckZXc25pcExyMEVR?oc=5",
-   "date": "2026-11-25T13:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dfce2aa863a5",
-   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
-   "date": "2026-11-25T13:40:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
