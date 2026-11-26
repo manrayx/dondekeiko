@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T11:27:55.704313+00:00",
+ "generated_at": "2026-11-26T11:49:17.571891+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -372,6 +372,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a78983726c28",
+   "title": "Bernie Navarro sobre elogios de Keiko Fujimori a Xi Jinping: “Es parte del proceso internacional”",
+   "excerpt": "El embajador de EE. UU. en Perú consideró que es fundamental que la presidenta Fujimori mantenga acercamientos con los países representados en Perú, incluyendo China y su líder comunista.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/25/bernie-navarro-sobre-elogios-de-keiko-fujimori-a-xi-jinping-es-parte-del-proceso-internacional-hnews-452375",
+   "date": "2026-11-26T11:34:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "e9049361079e",
    "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo son una puerta que abrimos al mundo\"",
    "excerpt": "",
@@ -552,17 +563,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTE5ILWxIX3FfNlNuQjZueHBVVHNqS1hmbDJ0M0Q3ZkNMLWpabEVMQjRfWGVWQzhheHJwNm5fS0lnaGQ5UUg2aEZhTzl1MWVQZWhOMmV4NFdWMXQtOG5KekpWZDlTdGIwVmNpY21pWnhpdkhON2VveHhmcm1tcnVzWDhYbUM2V1BVWkc0NElub3dFLWJjX0lWM3VsZnk4SjhHX0RPSGI5NzRJeU1sT2FXTmhOX2lRQ1VQRVR1ZU0xemFwdGNkWWU2Tm15bFhzeVVMdlBRenRuMkM3dVJQVEFnQmg0eFNDNDJXeHEyX0tRaFJJNTBydEE?oc=5",
    "date": "2026-11-25T21:39:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a78983726c28",
-   "title": "Bernie Navarro sobre elogios de Keiko Fujimori a Xi Jinping: “Es parte del proceso internacional”",
-   "excerpt": "El embajador de EE. UU. en Perú consideró que es fundamental que la presidenta Fujimori mantenga acercamientos con los países representados en Perú, incluyendo China y su líder comunista.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/25/bernie-navarro-sobre-elogios-de-keiko-fujimori-a-xi-jinping-es-parte-del-proceso-internacional-hnews-452375",
-   "date": "2026-11-25T19:25:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
