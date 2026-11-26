@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T01:06:58.206043+00:00",
+ "generated_at": "2026-11-26T02:11:24.908207+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -372,6 +372,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "8ca1eab0e1bf",
+   "title": "Keiko Fujimori destaca el rol de la tecnología del FBI en la ubicación de ‘Jolín’, cabecilla de La Jauría",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFVLS1JsV0FoV3YwaEdfRl9TS0RfaGdZcVlDdEhwYXFOS28wREdta3NER1kxdnFMd24yWUdJR19qMWh0aWQzOTE4Y2M4UEFxX0hJc1dIWnFWNS11Vndod2J6bmctODhaTHdXZlJNUjFzQUJtSFdJdDg5M0FNNC1rV1JaTVdFaHpYZlhlT2dwNEZjYVMzMzBfQlJTTFJlc25iQUx0Y2dwZ3RGeGlIQXJ1Vko4ei1yMmNhZU90SmJvVmc3Zld1RjNsRUE4TQ?oc=5",
+   "date": "2026-11-26T01:58:33+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "ab49a4127238",
    "title": "Hildebrandt sobre Carlos Espá: \"Es un fantoche, es la sombra de su juventud. Me da pena\"",
    "excerpt": "El periodista contó que a Espá lo recomendó Álvaro Vargas Llosa. Afirma que la presidenta Keiko Fujimori, \"la señora que no entiende nada\", lo aceptó.",
@@ -681,6 +692,17 @@
    "source": "Radio Yaraví Arequipa",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYW1aMGFMYVhCX3dLekpuRzdtc2lrWlQwbmhHVjF3TW5vZjRtMVIza0QtUUllclhwSkRzVkF1TkpfVl9DclVSNy1Ed2NvQngyV2o2dlhneE9Ja0haYzJvZ1BkS1dGZTJMQW11NTdJTE1FY2VDdHN6ejNTY0dOWHdRcXpEc1pKNy1ZQmNUdk5oV1pDLWpjQ1l3aWk0M2YzU0M0eERnQmZkMDhTbEU2eV9DOXdYblYySnVEYVotdHdyQjlKUQ?oc=5",
    "date": "2026-11-24T23:24:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "9c8f17f9325c",
+   "title": "Keiko Fujimori pide permiso para asistir a la cumbre Perú-Colombia",
+   "excerpt": "",
+   "source": "ATV.pe",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MVlZHREQtZ0NQcFJFdmVqUy01VGkzMlZtc3I3dTRiclJJanh4OHNzSzZtellaZEZVM1lCZjZvX0EzTkJPalVMTWUzanlHb29vd2hDaWJVUm9mSFNxY0djZ2lMS2dVWUVnXzZ6SHR4eWU?oc=5",
+   "date": "2026-11-24T23:01:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1020,28 +1042,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "64bd0ca03042",
-   "title": "Keiko Fujimori volvió a mencionar que el 80% del motor de la economía depende del sector privado",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUFNakl2UkZDN0Qxem5yS1RvNlJuVEtqczVPaWljVmlKSzNhOFEtQjhuMWhuTzdJam5RcVNCNGRfVHNkODByX3hwU3gzNnpKQ1RaVFdDNmNDbVhvejFSUjVXelZSbGJnQy1kaDB5UkFCYmJWRzFkSXBnd3QwcjAyeXctNkZQNmNiMldwTU1PdERzX1EzYnMtV3I0M0xDdFVOVEgyTTg5WHhiT0s0d0RWdGpHZE1qN3AzQ290ZktYNA?oc=5",
-   "date": "2026-11-24T16:13:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c7c7f58f11ca",
-   "title": "¡Tuvo que dar la cara! Keiko Fujimori sale a disculparse por Carlos Espá, pero lo respalda (VIDEO)",
-   "excerpt": "",
-   "source": "El Búho.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYW1OV09qV0VUZm9TdEhFOEwtMzRRM0JrLTZvQ2hCejJKaHVSMTZ4T1gwWC0yaTR5WUs2Sk5tc0NRa3dpN190WV9zVzRtaGdBdW1NdEhua01NWWdtUGh0cUNMYk5ta0JRdFlMdkktVlhMOFZMQVJOaWoxTjlOdVp0X2pmR3dtZkZHbUw3SDlzSDBfMVptRmJHTGpMaHFpSEw2dGJQNXhsdjZybzRjRzFJQ1VTLTVNZEpyZ1pBZw?oc=5",
-   "date": "2026-11-24T15:25:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
