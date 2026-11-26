@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T17:30:10.058784+00:00",
+ "generated_at": "2026-11-26T17:51:13.140736+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Cusco"
   },
-  "source": "El Comercio Perú",
-  "date": "2026-11-26T14:58:57+00:00"
+  "source": "Agencia Andina",
+  "date": "2026-11-26T17:36:22+00:00"
  },
  "next": {
   "place": {
@@ -435,9 +435,26 @@
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T17:19:02+00:00",
+   "date": "2026-11-26T17:44:53+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "0a0a61771429",
+   "title": "Presidenta Keiko Fujimori asiste a inauguración de segundo nivel de hospitalización pediátrica en Cusco",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYUFSblZabGRUNWV1cWdlNjR4bXNWQVNTNjhyNzZGZW9jYlp6NnFPbTJpS0JsRGRtb2RaYXV6Tk9GZk41ZlNzNFU5Q0RoMGJTWjVnQk9ZX1N6TjJhREdWc2hpSW5kZnd5dFJoMTNXYXBpYnFBT0dqcGs3cDBKNDdmZUJZVlJSOGFSRWl0Uzd4UThWN0VkM1ZEdWFkMEpROUR4dS1rWHBSTDBkRXNMdTlZT0lUT19SaEx0QXMzYkNQNWRzN2Fvbzh6aUFBamFYaEIzbXZpZDFn?oc=5",
+   "date": "2026-11-26T17:36:22+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false,
+    "city": "Cusco"
+   },
    "next": null
   },
   {
@@ -1089,17 +1106,6 @@
    "source": "El Deber",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlpBeXlfak1fN3FjcV90R2VrbEFnYmFhbkN4YkFqaEdDMDJpS3ZvdEVNVkxUNE8xQnpHSjdxbF93UWlPcjJmVWM3ZnR5cHpEc0I4Y0NTMk13UndxUXJkTGFFcTVfZlZKWUh2VkxESWIzeE1ad2o4WUpreEUtcUd3ai04aEkzNEwzYi1qYVJSeE5aMWMzM2tDUVl1dmkxcHRVTENRVTlaSGVoQQ?oc=5",
    "date": "2026-11-25T01:49:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "94e77d76a181",
-   "title": "UNI rinde homenaje póstumo a Susana Higuchi por su trayectoria como ingeniera civil y legado profesional",
-   "excerpt": "La madre de Keiko Fujimori egresó de Ingeniería Civil en 1972, en una época con escasa presencia femenina en la carrera, antes de convertirse en primera dama y congresista",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/25/uni-rinde-homenaje-postumo-a-susana-higuchi-por-su-trayectoria-como-ingeniera-civil-y-legado-profesional/",
-   "date": "2026-11-25T01:06:19+00:00",
    "state": "posando",
    "place": null,
    "next": null
