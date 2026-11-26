@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:57:03.536823+00:00",
+ "generated_at": "2026-11-26T14:18:16.637087+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 0,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 0,
-  "posando": 60
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -382,12 +382,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
-   "id": "66c9c5fbed32",
-   "title": "Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
+   "id": "c79b863b653b",
+   "title": "EN VIVO: Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T13:56:00+00:00",
+   "date": "2026-11-26T14:13:57+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0eca31fc7ae3",
+   "title": "Rodrigo Paz visitará a Keiko Fujimori para reactivar el “gabinete binacional” entre Bolivia y Perú",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcHcyM2M4ZndLOFphbjMzOHZ5WGZKQmx0UjBXVlhyOXNSMUY5cUs4RDh5R05GcXRDMU9EZjNDMTY0Zk1YWUxzbHB6SmNYX0Y0S3F4WlE5R0xwTG8wRGFBS1JpeTRHOGNNeFJ1RUpXRk9LcGhVR2xCdGdLNFgxX1ZwaUNnQy1BRTQzRFd4R0Q2UWZOaWVhNmxGZTVVaXdrTzJUeVR5UnFadDE0RGJCNU5WSFRDeV9IWVZTajdpcThnWV82Y2NHVzlWRHNYd2VVdUVJb0ZiQU80Z9IB8gFBVV95cUxPV0R0X2ItQ2xJaGlFdHZQcVh1REE0YVl2ZkNLeW43MUR5TGxYRDhiLVVKMlFMSnNidWF3VWx5Zk0wUzZaS1VLMHNfR3U5ODZqMWQxM3dxeUR3X2VmVEk0SlpOdG9qcDBpTmdhdmM0NU1STjBPdTVyQjNhVGUxb01nZDFrQ0tmdkJ3Vm9BNzNOY182cG9ud1lyQm9IRzY4T0M3NWtEVmtNclpYZUtxbjdNZzBKQy1INWhMUWNKZ2xVRFlBRTlTczgyRVZ4ZllGbFg4LU92X0F3X0dsR2htczd2ejU4VFdXaF9lSFRFWXBzcjVaZw?oc=5",
+   "date": "2026-11-26T13:57:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -407,6 +418,28 @@
     "abroad": false,
     "city": "Cusco"
    },
+   "next": null
+  },
+  {
+   "id": "66c9c5fbed32",
+   "title": "Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
+   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWXpnUGZCSXlCS1kwR3FOajRWUEtwWkdsbWRNZjR0VzZGT3JLOVBOanFsczc5TUVpMi1HZ3hZMWZxY214RHFiTzNacjFMenA0RVpYTzVvQ3BvV1FVeXN6VmlFMzRaZk9nZUZnYmdnY045N3JNQVByS3hqSVNLY0kyY0lIMHZjSkUycGNFSzU3ZDczd0YyOXhqR3c1eEsxNkdrRlpVM2NnVmZqSTByWWpuRUdmME54M3l5T2VhaDJzZFliZzE2VGs3TVlJVFpLbTh1U2wxLWYtVFpyRHd5M2ViczFUbFM2eUhDVWtqZDRKUkJBcm5sWWZZaGNOdHTSAZACQVVfeXFMTURoaU9URjBMT3ZodktqRnd1Z3RWNUJkVzhHVEFaaFI5RW9ydHZ5M0xIMmo5aWs4N2JybTB5MW80Ym84a0hUOC1VVGhjdjVtMDBad1ZJV3Q5TVVnT1NoTUc5c2syNWNKX3JMb2F6U1haWml5eGUwdG5wUjlaMGcwNUc0LU5IVnpsYlhsamdoWjFiTENjaHhvQnlEdnlpLTRKZ1dNNVdTT2k2d3lzZjlzN2dBZ1pNZnpRY0IyYkpiRk5yOVZNbnptQ25oLUE5TFNCeWY5MVdzSjFESWFtWW9KeTNhbnc0NTRzREdRbGZnTjZDMzhUSGVmWnhuTUpRWlZBYTU2WVJXY3hDb3ppdllDaWY?oc=5",
+   "date": "2026-11-26T12:35:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2c4b6c8b8e2f",
+   "title": "Keiko Fujimori se reunirá con el emperador...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
+   "date": "2026-11-26T12:00:58+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -859,28 +892,6 @@
    "next": null
   },
   {
-   "id": "182d929735e8",
-   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
-   "excerpt": "",
-   "source": "www.radionacional.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZWMxaFo3c0p6WkpEUl90SkdCX3oxSC1Sb05DNjlDTWp2STVkTDA0bHotQ3psN18zemVndXJGUVhpNDgtNG9IcC0wZjBCWHJzNF9rUDBIMGVGMTNTZ042OFA1dTJMamFmTmN3WmNzMm9JQmh1U2hNLW45bk9BVllBYVI5MEh6eHJnbFFib3dfVkNPTE0xRlNWMXRrel81QWVzWEhiWHhQQjVyWFdqdTNuUmV5OWJEeXV1NFRDek9wZTY2OHROMktxMVk5NA?oc=5",
-   "date": "2026-11-24T22:43:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3e93f38195a0",
-   "title": "Presidenta Keiko Fujimori participa en homenaje póstumo a su madre Susana Higuchi en la UNI",
-   "excerpt": "",
-   "source": "www.radionacional.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN1FneTdla1E2RGRxdjZWMm9kUHVsUE1oQllxUlNVVk5Ec0RpcnBpRHJ4bU94T0VueVpNenhJV1Zkd2pMeFcwZGJmSE1xSmlzM1Y0RlpOaVIxY0tYY2dicGJEX2Z5bFUtaGRVVE1SOVFrRl92QzU0RjRkRl9JLTdMT1lUNHFXOHhDRVowcm1UTE96WTR0VE5YQzFGbHFwajVzbnZ6NU1jcm1tUjlzeDExXzhmU3dPaDZqcFk2WkFMWWdFTE5YMmRCUm54cW1FX1ZHbVVydEY2RUF2czJz?oc=5",
-   "date": "2026-11-24T22:41:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "58c251cf6624",
    "title": "Keiko Fujimori solicita permiso al Senado para...",
    "excerpt": "",
@@ -1024,34 +1035,23 @@
    "next": null
   },
   {
+   "id": "182d929735e8",
+   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOakxxY3hsUE9uZGZjRGpRWl9mVEQ2cU0takdqX2tNeXhUT0xSQXJoelEtWGdsSjJ3SjNZTDFpUzliNW1kXy1CWGNhOUhvajBuNGdHX2pfV0dLeXFnRmdYU2M3OU50NlJOclRNYWlJZ1hzWHJCRzhadkhpRmVyVXJtNXhNbEp5WTRGWjMzNUFoaGhHbGF2QWRFQ3dPS0pXR1pPa21RRV9HU2JaRTdZbTRKbE83VzFYV29aZmc?oc=5",
+   "date": "2026-11-24T19:29:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a79e79fadae7",
    "title": "Keiko Fujimori solicita autorización para viajar a Colombia el próximo 3 de diciembre",
    "excerpt": "",
    "source": "Diario Correo",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX1hyZ3JQRXpYRFExekVaZUdTZ0diOFBCY2N6UXNNYmhYYmtxdGdRbzVXOUJJakdNUzRVOTRwMHBNcjZOUEJMQXRPbkkwcjlsQjU5UThzZGhPRmctcW5LVzR4VkFtWDhTQktmMzZsNm1pa08tdHllcEdONG5DV3RqY1YzM0NIUDU1ek9MSU85VnB1TmZEclh2Z01kcFJLOURiSVU1bTJsZ2JPbGdhemFiTTk5RU9tRW0yVTlQLV9WTmpKY3JUTUHSAdoBQVVfeXFMUFpuamNQaV9tZ3ZIbFZPTUlXZ1hSUFMwMXF1VjVNUmdyay03UzNhUHk0TjBHYUFLQUNFRjFIMGo0SzQ3UXplRGx6U2RkdWJsaDhsSFltS09aTEROYlRKYlo3bFBob0p2OS13VHhtWGotS3I5T1BnQ1NXalFON1VDNXRQQUFEVDhxay1HZWktYlRYajlSM3JWWVBINHVRNW4taHdEWmg1Ulk3ZllDYmdMMFRQd2FxUk9tY3Rrc0l4NXd4cVdfT0xKbmFZR1JaRVE1NnpDMG9ZTFJ5cnc?oc=5",
    "date": "2026-11-24T19:26:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1b98108b482e",
-   "title": "Keiko Fujimori recibió reconocimiento póstumo de la UNI a su madre, Susana Higuchi",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, participó en la ceremonia de reconocimiento póstumo que la Universidad Nacional de Ingeniería (UNI) realizó en homenaje a su madre, Susana Higuchi, quien…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-recibio-reconocimiento-postumo-de-la-uni-a-su-madre-susana-higuchi-ultimas-noticia/",
-   "date": "2026-11-24T19:21:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2a51daba592d",
-   "title": "Presidenta Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi, por los 150 años de la Facultad de Ingeniería Civil de la UNI",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNY2U2UDlISWJpREpaWGI0LVRjZVB0TTF4dkJmbjRlSHZkTmxYZEVPci1MUHVOZmFoUzFsUkNJRGR0cW8tZFEwZndKUmpnNkgwV01Ld25wSTNQQm1EVjhPaUg3c2ZjMTFqWnZxWlhJbXJ4QVB2T1IySkFEYUZLVkF5WUpTTU50MEFhYUJOOHJ3NnJXTG5ydm5IWHZ6aUMyVHdoSnVsOTJBUXBFZE14bmhLTlp2M1ZWYVVac25YRFkyOTFkcTJzaGF4eEFFQ2FkT0doRG5pamNoeTgzTHFnR3BzbVZfaW5WZHNEdFRjVWY4QkV6a1NVRXpsTk5vamk3bkZfdmc?oc=5",
-   "date": "2026-11-24T19:18:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
