@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T03:15:47.607615+00:00",
+ "generated_at": "2026-11-26T03:37:40.452490+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -371,6 +371,17 @@
  "agenda_minutes_7d": 649,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "93aef0fcf41e",
+   "title": "Flavio Figallo asegura que no se opondría al viaje de Keiko Fujimori a Colombia: \"Han estado congeladas las relaciones diplomáticas\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWW5DUWMwek56a2lPLXpMbkFOZjBiRFBsckxvQW05UW5YMHFCMWZDWTFFUTJ5LWFBN1Zva1VKUmdoc0JkbC1URmVVQlJhMUN3NmhNMFVtUkNxM3ZFRHIxS2J0dE94blV4MEduM0hNX0ZkWWN4Y0RmNjhndUphT0tJVmstTFdCeGpWMk9Yejd0czNjbkJiOUJzY0wyVnhnbTE3emtySTBjVWxEbFJPQUZqVkJlc3B0QmtzcF9CVnppWnJpMnl5WTJGeGY4NHVRUUswSmlhU3loM3hqbFh1a1ZDU3hBel9aQ2tZVmNaSi1STUZfcHV4aEhDSVRZdEhSTEpKcDlJeGg3SW9PZw?oc=5",
+   "date": "2026-11-26T03:23:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "8ca1eab0e1bf",
    "title": "Keiko Fujimori destaca el rol de la tecnología del FBI en la ubicación de ‘Jolín’, cabecilla de La Jauría",
@@ -1031,17 +1042,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "e2bc1109167b",
-   "title": "Japón explorará nuevas inversiones en Perú tras la visita de Keiko Fujimori",
-   "excerpt": "",
-   "source": "LaRepublica.co",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdlFIUWw2Xy12Z0hlaDQ4WG9vUTJhbjl5Vnd5Mk9YbzNneXBJZFFpWDNwZGNkd01hTmhIV0ZmQ0Jpajl0bTAtWlNIaVZxdzN5TTh4bGlnZnNMX0U2RC14UTlzdGh3T3c2YTc4NGx3TDdOMG50eWs0c3FrbjlqdmtkLWNFNTFqYk0yUlJxdmpxaWdZQnB0M0JNbzBTTUxnNTAzMXlzOWxsMUJyeDNQMnFjNEtJU0FibEFCdzI3TjZianBqQdIBwgFBVV95cUxPdlFIUWw2Xy12Z0hlaDQ4WG9vUTJhbjl5Vnd5Mk9YbzNneXBJZFFpWDNwZGNkd01hTmhIV0ZmQ0Jpajl0bTAtWlNIaVZxdzN5TTh4bGlnZnNMX0U2RC14UTlzdGh3T3c2YTc4NGx3TDdOMG50eWs0c3FrbjlqdmtkLWNFNTFqYk0yUlJxdmpxaWdZQnB0M0JNbzBTTUxnNTAzMXlzOWxsMUJyeDNQMnFjNEtJU0FibEFCdzI3TjZianBqQQ?oc=5",
-   "date": "2026-11-24T17:35:22+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
