@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:22:22.953194+00:00",
+ "generated_at": "2026-11-26T15:43:45.740825+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -447,6 +447,17 @@
    "next": null
   },
   {
+   "id": "dd5ac0282862",
+   "title": "Keiko Fujimori destaca respaldo de gobernadores a la adenda del gas: \"Han puesto primero a sus pueblos\"",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVBuanNBNy1LQ0gxc0RabWJQSTVPY1JIMERseFJ2Mnlxc3RXbUhfc2pDZzl1cndoQ0Ewa2t3NGgxM1FLdUp1X0c3eEdJTTh2bWdST0xFYmIya3JXdHhYbG12cVhOakk1bXo5ZlVRM1VHWFRqOWZXMXE5ejlZU3VpajdjSmRwQjdqNTd6OFljS2U0RE5rS2kxN2s0c1M2UmhQUFI2bzhFdjhCN3Q1TmtRVEF5dm1tclRmdTBCMWV2czhqTmd4Qm1udGthblpTZEU?oc=5",
+   "date": "2026-11-26T14:49:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "99986110b8e9",
    "title": "Bolivia busca fortalecer su conexión con el Pacífico en la reunión de Rodrigo Paz y Keiko Fujimori",
    "excerpt": "",
@@ -880,6 +891,17 @@
    "next": null
   },
   {
+   "id": "dfce2aa863a5",
+   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
+   "date": "2026-11-25T13:40:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c699b36e8ea5",
    "title": "Opiniones divididas de diputados sobre pedido de viaje de Keiko Fujimori: \"No veo nada provechoso\"",
    "excerpt": "",
@@ -919,17 +941,6 @@
    "source": "Diario EP",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm1VZGktb0JnT3FvUVU1QmtYS3NfXzRZZWVxblZBTVNtU3o5SG05S01OZWw4Y3FRX0VIS3U2SzU5Y19UTzZsWFBMRGFlbnN5QTI2MGU2T3VYOUZmN3RudDVwaW04YnJVVlFhSnNGRWF2b0tHUEt3SFlscUtoSy1wWGpFZGF4UHJIXzgxYjY0MjhhVkw1OVE?oc=5",
    "date": "2026-11-25T02:59:53+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dfce2aa863a5",
-   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
-   "excerpt": "",
-   "source": "Radio Nacional",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVZtS0FwNFotRU1LSFBaOVVydi1Hbk15R1c1MEVhYVRleDhwNjlCeEx4dDBpRzBwWHZEcXZLeGhmSkltSUJEb3JFUW5LWWRjWUVRRzU5WnpsR2U4OEw0cjVKbXFIT3hoenNJclRKeE1LeVNlWUllT1MxYU5yNWxRU29JTGc5cE5JM1JoQUFHX2NldUMwZzYzc0wwai14WlpsOHM0dHNsRUo0aHdxRWF1OGtFTi1HUGYwOHVfeTQwWFdpQ3ZScXlSNDRiV1BadFhS?oc=5",
-   "date": "2026-11-25T02:56:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1073,17 +1084,6 @@
    "source": "www.radionacional.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN1FneTdla1E2RGRxdjZWMm9kUHVsUE1oQllxUlNVVk5Ec0RpcnBpRHJ4bU94T0VueVpNenhJV1Zkd2pMeFcwZGJmSE1xSmlzM1Y0RlpOaVIxY0tYY2dicGJEX2Z5bFUtaGRVVE1SOVFrRl92QzU0RjRkRl9JLTdMT1lUNHFXOHhDRVowcm1UTE96WTR0VE5YQzFGbHFwajVzbnZ6NU1jcm1tUjlzeDExXzhmU3dPaDZqcFk2WkFMWWdFTE5YMmRCUm54cW1FX1ZHbVVydEY2RUF2czJz?oc=5",
    "date": "2026-11-24T22:41:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "58c251cf6624",
-   "title": "Keiko Fujimori solicita permiso al Senado para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajBmdmNGVDZvVnJVazhjZnJsQVFScjNfN1VUaWNuOFVMVHppNGhVc01jVWthNFRxR3NyS2VnMVJMeGZsZmxuYzhVSnFCWldHWl9MX2xqUmt0MTEyNGxFTlhVU1NuanA0OXFNazJjT1dvVDFUNEloWGw0eEJHZkg5REpHekE0NlpYVVlPTWR1MmRmTHBUSUIzeE1HdmQ5M0lEVXVQVm1jWUZvQdIBrwFBVV95cUxPdmFjZjBCbWNWZ2dQd3lSMnotNmVoSmI3cG9yeUxaTlNRelBlRGxKeEoxQWV4SlVkVUphSUZHYUNOYllhZ0xNOGlJeWI3RHpSaWstVnFpRGtwbFdFNnR2ZVZyd1ZBa01UZDJXMVp6RkRCZmY0WGU3bkt0dkxLOGc1QkI1QlJvYkxyVWxuSVh0Wmw2MXBYZ28waTFybG1pTUJ1ZDhsRnpWUjdTUkhSOHJB?oc=5",
-   "date": "2026-11-24T22:38:07+00:00",
    "state": "posando",
    "place": null,
    "next": null
