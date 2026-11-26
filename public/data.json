@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:41:04.183426+00:00",
+ "generated_at": "2026-11-26T21:02:34.528895+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,32 +96,23 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "La Libertad",
+   "lat": -8.112,
+   "lng": -79.029,
+   "abroad": false,
+   "city": "La Libertad"
   },
-  "source": "Canal N",
-  "date": "2026-11-26T18:47:40+00:00"
+  "source": "La República",
+  "date": "2026-11-26T20:49:47+00:00"
  },
- "next": {
-  "place": {
-   "name": "Colombia",
-   "abroad": true
-  },
-  "source": "tvperu.gob.pe",
-  "date": "2026-11-26T02:01:00+00:00",
-  "title": "Pleno del Senado debatirá este viernes autorización para que presidenta Keiko Fujimori viaje a Colombia",
-  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5"
- },
+ "next": null,
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 4,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 2,
-  "posando": 55
+  "posando": 54
  },
  "total_7d": 60,
  "silence": {
@@ -430,6 +421,56 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "ed45c43258bd",
+   "title": "Keiko Fujimori evita responder si plantearía cuestión de confianza por ley MAPE",
+   "excerpt": "La presidenta de la República, Keiko Fujimori, evitó pronunciarse sobre la posibilidad de plantear una cuestión de confianza si el Congreso no aprueba el proyecto de ley de la Minería…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-evita-responder-si-plantearia-cuestion-de-confianza-por-ley-mape-noticia/",
+   "date": "2026-11-26T20:57:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2f431fd97d46",
+   "title": "Gobierno de Keiko Fujimori nombró a 26 afiliados a Fuerza Popular como subprefectos el en Perú",
+   "excerpt": "Las designaciones incluyen a subprefectos en La Libertad, Pasco, Cajamarca y Arequipa. Los nombramientos los realizó el Ministerio del Interior a través de una serie de resoluciones directoriales.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/26/gobierno-de-keiko-fujimori-nombro-a-26-afiliados-a-fuerza-popular-como-subprefectos-el-en-peru-hnews-2296528",
+   "date": "2026-11-26T20:49:47+00:00",
+   "state": "posando",
+   "place": {
+    "name": "La Libertad",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false,
+    "city": "La Libertad"
+   },
+   "next": null
+  },
+  {
+   "id": "3c06979a05f6",
+   "title": "Keiko Fujimori anuncia que el Banco Interamericano de Desarrollo aprobó crédito de USD 10 mil millones para proyectos",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeGozcDdTYVkySFpsWlFFa3V0MllzSmNuSkFxN2RoaVVmMGI2VlZIZ3VJWVA4ZHYzQkZvV3FDTjAtakVZRmVfNldrUk5nLUNvRWJEcVlia203cFVzRDJJMUhlOVVLam11V2FJaEV3N2hHU3ZxNWNzU1Azb2RJWE9MV085YlFkY0dPVURibFAtbHFDUzBYSmN6X2NkT1hSRXNnajVqZ1EzRnBrQkNVZnczWlgydFY4UGhvWnU2UUM4S2Y2RzBpNGJRVHdtbWJRWUVZdkxqRzNrZjFsTkdKaE5paGxINU9UVzFxbkM0aVdMZ9IBigJBVV95cUxQODJsNi1lbzFlclNXVWl4WXNOX0tMZmhFeHlVOEEtZDk0QVI5NEFLdndkNTFiUExZdjI2clIybS1QZFl0ckNWc0JmSi1NbEloUGVIcXdCck1kWWp3MC1wMnZZOGZGaTQzdlFKbFhxNGxqbVFIZGxMa1JsUHhwS09LM2IzTlZQYnZkazVDRUpBY3NmbEtjYVZ2VHI4Uy1Za25KT1VvS3EzSkhNZmo3YllvM1lhTzRUVlZ2bGZqYWRvSFN3N1lpN195ckNWNXZCMlp4S2tvdzJJbmhLRnVMWlM4SmRVU1pVYXdKQkVPR2loTThBRzJ1QjZWNnhYaEhTb0E2WWowSXh2NllTQQ?oc=5",
+   "date": "2026-11-26T20:44:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "620c24f5db08",
+   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN2FQN1FTT1pyTGtfaEJKZVFLcGVNSmJGNmtlR3FVdExTbnZOOWctb1NFY1F5Z2tZanhsQThDTW1vNlh6NWNycl8wM1QzTFFPZ0RnOWp2S2l3QUFudkMtZGVEcmJFN3hGMVZLUkRzT2ZTY2tCV2ZUUFVWb2F0N3ZPOXE0cWIwcVJ0QkRqQktmOWRZZHBPaGFlUkdLWU1GZGtVX3lYMHJONUFrNEhlNG5jYnU1V3ItdjgzSWN2dDhucWg4bEtPNVNYRFRKX3Y?oc=5",
+   "date": "2026-11-26T20:43:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5416c2d17940",
    "title": "CADE Ejecutivos 2026: presidenta Keiko Fujimori participó en la clausura de la Conferencia Anual de Ejecutivos",
    "excerpt": "",
@@ -561,7 +602,7 @@
    "title": "Keiko Fujimori pide al Congreso que apruebe la Ley MAPE para combatir la minería ilegal",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTl8wYU1tZmQyOVFWcG1DamJhMW00VHlEUVNTT2lGX3dHSGx3VzhVdjB0MDlVU1dGZmdYQ0ptTHlVWVhWRGtENHR4eENyUjVseURYeFR3aVc3MUlMRHNiV0JDSkNWMGJtYmN1Z1l2b0xLLWdyWUVPd2ZoVnlhYkVKU2o4dVlreC1TcXBGRmpVdWNEenJ6OUpiV0c0WkRoYnA3NUFNOEVSYmdPOVJwWnJHR3oyU0I5SVnSAbcBQVVfeXFMTk5fMGFNbWZkMjlRVnBtQ2piYTFtNFR5RFFTU09pRl93R0hsd1c4VXYwdDA5VVNXRmZnWENKbUx5VVlYVkRrRDR0eHhDclI1bHlEWHhUd2lXNzFJTERzYldCQ0pDVjBibWJjdWdZdm9MSy1ncllFT3dmaFZ5YWJFSlNqOHVZa3gtU3FwRkZqVXVjRHpyejlKYldHNFpEaGJwNzVBTThFUmJnTzlScFpyR0d6MlNCOUlZ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGE3R3dJVGg3TV9od2oyMllwV2N6SkFfaklrY0VQQnBNTzctdkU4QURVd1JVY1hPSmItdnU4MDE2eXdKc1BxZWJsX3VmU25SdFJFSEJCUi1GS2ktZTQ0OTZXU0d3WjlyLTJZUG1FTVhVdXh6RnpKRndabGcyVGVCZWJZanc1QXZPVl9DVWhNNmU0TnBSREgteGJNclI2SGdJQXN6cUxWa084dUhocFdLdTdsQdIBtwFBVV95cUxOTl8wYU1tZmQyOVFWcG1DamJhMW00VHlEUVNTT2lGX3dHSGx3VzhVdjB0MDlVU1dGZmdYQ0ptTHlVWVhWRGtENHR4eENyUjVseURYeFR3aVc3MUlMRHNiV0JDSkNWMGJtYmN1Z1l2b0xLLWdyWUVPd2ZoVnlhYkVKU2o4dVlreC1TcXBGRmpVdWNEenJ6OUpiV0c0WkRoYnA3NUFNOEVSYmdPOVJwWnJHR3oyU0I5SVk?oc=5",
    "date": "2026-11-26T18:32:25+00:00",
    "state": "posando",
    "place": null,
@@ -800,6 +841,17 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFJjdUpOb3NUY25SV0VmTGJoSHRiV2wyYTBXRWRiT0puMVFrbFV1Z2VXcE1XRWhYdnYtbUJsb3lmM1JSNzFNMm5EVFBrU3oybHlURUZCaWxlcG05cjVzTWMxREc5N0RZN25KV2xjaEZ3YXNpSWZKczlvV3FKTnA0aE54OTNfSmFhTk40clJYZ0k0M21HQVZqTkZXLWRLcWU2NEh2dGRqTUN2eWU5TUlZYjBGbVdYeHZHUVk1allLRW93anFPTUdOWVlueVdNeE8yNVE?oc=5",
    "date": "2026-11-26T15:51:00+00:00",
+   "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c42e558f9d5b",
+   "title": "CADE EJECUTIVOS 2026 🔴 EN VIVO | KEIKO FUJIMORI PARTICIPA EN LA JORNADA DE CLAUSURA",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0hQSWZVd094VURheE9kd2NNNDQwbWVWUUpESWZCdlBDMUlWM0QyMWxCMllMbG5MTXc0UkdIcFR5bGpQbmFyV0RJQjdxU21IN3pxcTFyalFyekFEZThSLVlFTlBjUGV2WXRJV2xqcW5aODRPUlZMYm43VjN2Q1E4a25zbG9IZXd4UmlqSXZQZ3dqcU5haUQ2MVE3emg4U0NiaUJoTzB2ZW1OQVN6eUVVd2pVYmY4djBYa2c?oc=5",
+   "date": "2026-11-26T15:33:45+00:00",
    "state": "transmitiendo",
    "place": null,
    "next": null
@@ -1048,64 +1100,6 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
    "date": "2026-11-26T04:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "93aef0fcf41e",
-   "title": "Flavio Figallo asegura que no se opondría al viaje de Keiko Fujimori a Colombia: \"Han estado congeladas las relaciones diplomáticas\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPWW5DUWMwek56a2lPLXpMbkFOZjBiRFBsckxvQW05UW5YMHFCMWZDWTFFUTJ5LWFBN1Zva1VKUmdoc0JkbC1URmVVQlJhMUN3NmhNMFVtUkNxM3ZFRHIxS2J0dE94blV4MEduM0hNX0ZkWWN4Y0RmNjhndUphT0tJVmstTFdCeGpWMk9Yejd0czNjbkJiOUJzY0wyVnhnbTE3emtySTBjVWxEbFJPQUZqVkJlc3B0QmtzcF9CVnppWnJpMnl5WTJGeGY4NHVRUUswSmlhU3loM3hqbFh1a1ZDU3hBel9aQ2tZVmNaSi1STUZfcHV4aEhDSVRZdEhSTEpKcDlJeGg3SW9PZw?oc=5",
-   "date": "2026-11-26T03:23:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "f6d6a91ea79a",
-   "title": "Pleno del Senado debatirá este viernes autorización para que presidenta Keiko Fujimori viaje a Colombia",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU9uaFBmbm96VUQ0M0JXZW9HVl9lX2drdk51WEhPckhPVDJ6YjhGWUJtdENzQjdteVFrZnhZUHk1Y283QXFqT2VIWnUxRlBmZkE5MTUyS0JDOEkya2hZZlJmTlAwd0tTUUFBNzN2MHRDQUxTRVIxVURkckQzZHNGVzg4STU5Qktxb0l2cWhBckVOZ1YyVTk0MjRtb2g2VHJ5bFd3Yi10blg2SEtfdWlvTkNUZWcyVDZJdXdBYURR?oc=5",
-   "date": "2026-11-26T02:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "0286929535b5",
-   "title": "Presidenta Fujimori coordina con Sunarp impulsar entrega de títulos de propiedad",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTlNCbTJQVDNmYVNnOFdlUWFndDcydEprdUMxRFBiaWs3RmRBNUhFZVNDd2JSNXJkb0F1ZmVjY3RjQ0N2Q3doUEdtcDRBNWljUWR4bjRaemZ4ZG1zZG5WdzFlUFpBeF85QWZxWi1sWnp1ekJ4bzl2Y1FTQUJKMHNydFdqTmZSMFp0WnoydUM2eE1rczF4OHI0QXVyUGNNZnBuaHhRcmFZenNueXlsZFVPQ2luSDI1Rk15X0lZUnNzdjk5UQ?oc=5",
-   "date": "2026-11-26T02:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8ca1eab0e1bf",
-   "title": "Keiko Fujimori destaca el rol de la tecnología del FBI en la ubicación de ‘Jolín’, cabecilla de La Jauría",
-   "excerpt": "",
-   "source": "Perú Informa",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFVLS1JsV0FoV3YwaEdfRl9TS0RfaGdZcVlDdEhwYXFOS28wREdta3NER1kxdnFMd24yWUdJR19qMWh0aWQzOTE4Y2M4UEFxX0hJc1dIWnFWNS11Vndod2J6bmctODhaTHdXZlJNUjFzQUJtSFdJdDg5M0FNNC1rV1JaTVdFaHpYZlhlT2dwNEZjYVMzMzBfQlJTTFJlc25iQUx0Y2dwZ3RGeGlIQXJ1Vko4ei1yMmNhZU90SmJvVmc3Zld1RjNsRUE4TQ?oc=5",
-   "date": "2026-11-26T01:58:33+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ab49a4127238",
-   "title": "Hildebrandt sobre Carlos Espá: \"Es un fantoche, es la sombra de su juventud. Me da pena\"",
-   "excerpt": "El periodista contó que a Espá lo recomendó Álvaro Vargas Llosa. Afirma que la presidenta Keiko Fujimori, \"la señora que no entiende nada\", lo aceptó.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/24/hildebrandt-sobre-carlos-espa-es-un-fantoche-es-la-sombra-de-su-juventud-me-da-pena-hnews-1544520",
-   "date": "2026-11-26T00:38:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
