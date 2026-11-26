@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:15:43.998237+00:00",
+ "generated_at": "2026-11-26T19:37:12.090747+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -579,6 +579,17 @@
    "next": null
   },
   {
+   "id": "31ba40362f8d",
+   "title": "Keiko Fujimori inaugura ampliación de hospitalización pediátrica de VidaWasi",
+   "excerpt": "",
+   "source": "Revista COSAS Perú",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQi0ybHpDaDh2WUE3TmF6S29RZU1DUlNRYlpWSWQ3WUZPd19YNmRWaWV3MEJ4UmNSeTdQOXVUQmhYajd5SGFFanFYWjk0bXZLSUF4YlBScjYyODlVZGZCa3BMeDItcE5TanFGVnNEOGFXR2U0aVRHU3FrMWRQenRTaHl3d0tXU3luSmJsYXFFc240MC1KdWJPWnI3LW5yanVrcnBLdEpLVdIBqwFBVV95cUxPMDBsT1JWMWhfazY1M3hXWHRMaWpRWUZ0LTE5NmhrOUNlRDRReEdSYncxSGpEaUxQLW8tM1Bfc2ZIYnpQa0xpdHg3NS1rU0JZS0IybXhMSnZXS3JJVjA2aldPbS14LUpZV2FIbGFKdUxxREVqelRWTzhUMDQ5ODlvRlZPVTg1UlNVcVBsX18wWUlTZ0IyVlA5TkdPdlhLV2F2bDkySG1aWUNPemM?oc=5",
+   "date": "2026-11-26T17:50:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c68e4a39cd4c",
    "title": "CADE 2026: Presidenta Fujimori le pide al Congreso aprobar nueva Ley MAPE",
    "excerpt": "",
@@ -759,7 +770,7 @@
    "id": "e3f5c3619bf0",
    "title": "Empresarios peruanos muestran inusual confianza en el gobierno de Fujimori",
    "excerpt": "",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dCQ3JuV00yMVZYZXlLQzQwRXdvVEp1WEo5QjIySVdRZXg2dlYtUmljN3dyeWNHNnFwd2NuQS1Ka3FNS1kwQjJYc3oydUotQVdnZXpONFlTWDJDMzl0VElyTDNGaHRvMGpULUNSRzhxVnRJZk1FWmhETm50V0ZxTS1vS3BrU0hXYWlJTjhReWdrLUNkeW1jX1FkT19TbFVwbmlNX0JXRnk?oc=5",
    "date": "2026-11-26T14:57:02+00:00",
    "state": "posando",
@@ -814,8 +825,8 @@
    "id": "dd5ac0282862",
    "title": "Keiko Fujimori destaca respaldo de gobernadores a la adenda del gas: \"Han puesto primero a sus pueblos\"",
    "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVBuanNBNy1LQ0gxc0RabWJQSTVPY1JIMERseFJ2Mnlxc3RXbUhfc2pDZzl1cndoQ0Ewa2t3NGgxM1FLdUp1X0c3eEdJTTh2bWdST0xFYmIya3JXdHhYbG12cVhOakk1bXo5ZlVRM1VHWFRqOWZXMXE5ejlZU3VpajdjSmRwQjdqNTd6OFljS2U0RE5rS2kxN2s0c1M2UmhQUFI2bzhFdjhCN3Q1TmtRVEF5dm1tclRmdTBCMWV2czhqTmd4Qm1udGthblpTZEU?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORENQMkxVMkY2bkFDRGo2OHlTeGVRQTJnWnQ4bDZDbVpsMzQ2RE9STEliZmEwUDJvcGgtSFhEQXpoY0dvTUdMd2p3dkp5d3NwVmNjckZDZVgyUVhhbmZzVzY0U1BFeXI4Ry1sVHR5bUROQ29uUVZxMDlnQm9FUU9hTEFrbnJBMGQ2YVE0T3dMcTBxclRsUVE3aEdrVFFmYjdvVnh1Y1QyYjczRW92TENOX2pfMlcyTTdXTVU2eWRlR0hSeXdVYkQwU0tXaHk4dVE?oc=5",
    "date": "2026-11-26T14:49:00+00:00",
    "state": "posando",
    "place": null,
@@ -1101,17 +1112,6 @@
    "source": "Página|12",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNU4zVE1XcU9FeDJIdWR6SjRURlRVcmU2QjVid1FFWGU4OGh1bmZobXU4dG01Xy1NQ1drcU1zZFFDOWZSaXJoR1ZoeFJkOTdka2FWaTdxdkJqYnhNWGRXTWVjWjAwTUU3cGhqWGMteTB6MXBiNHpOQVM5VHNoTEpfMlVha1ZRbV9RUW42VjY3Qk1KTHJucmJueXVRNzF3RHdxWkdKN01oZXFkdkk?oc=5",
    "date": "2026-11-25T22:01:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d629246b2ba2",
-   "title": "Julio Velarde ve difícil una salida anticipada de Keiko Fujimori: “Ahora sacar a un presidente es altamente improbable; va a durar cinco años\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQWV5QnRiYlZhRG02Y1dlejFlMV8tNlVJZFFOLWhBWWhra1k4N3JUMGZQQmp2X2V4Rlk2RE8zXzZOdWRzMER4Y0JzMDhoWVFlMG5ScGZjOW1hNnVLd0FCN2Y1SDNqX1hVUW5hT0xseDBUakdybkhmTjl4ZG9VelliRzZMYW5RUjBXZzFUOXU0UFc5MW02U3NxOTF5V3F1ODhSaXZUNnh5UTJMbGVOZXAzMFFQWWJuaHl1QkpYTlpPWHBRRjFxamM5SkZjM2JMS1c1a09BTE96dEFJemVQem55UXN0Z3ZqVDNwT2ZFUkxPMUt1ZHE4cm5HZ1pXU3VWdHBEQXNBTnBxeWZqVHdnbERDQm1xNGwzQQ?oc=5",
-   "date": "2026-11-25T22:00:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
