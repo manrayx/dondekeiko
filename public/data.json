@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:54:45.340921+00:00",
+ "generated_at": "2026-11-26T19:15:43.998237+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Cusco",
-   "lat": -13.532,
-   "lng": -71.967,
-   "abroad": false,
-   "city": "Cusco"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "Agencia Andina",
-  "date": "2026-11-26T17:36:22+00:00"
+  "source": "Canal N",
+  "date": "2026-11-26T18:47:40+00:00"
  },
  "next": {
   "place": {
@@ -430,6 +430,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2755101e96fb",
+   "title": "Keiko Fujimori anuncia evaluación de medidas para apoyar a familias vulnerables ante alza de alimentos",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejlyOEtHc0d0eXZDaHlINlFnOEtLYkxjcE5qLUY3cVlRR1lTeTliQ2cwMk5BX25UZkxUVFgtMHZKTl9SNUFiRnB3Qi1MYi1ENkMxZTR4U2N3VHlUTHZvSnVpVWU0RkczMTBhTEp0R2k4dWo0XzNFWTRDa1lOQi1hRHNtZzVpYmM1bnB4cjBGcExVNUhQUndkYnpXUm1fNHIzeHF2cVRuczdZczh3clBUR2NkOVYxMDNyN3Z4d192RWs1Z2tP?oc=5",
+   "date": "2026-11-26T18:47:40+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "78163edf6082",
+   "title": "Keiko Fujimori anuncia creación de unidad de cumplimiento y oficina de transformación digital en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd1lXU3YwRlRodFFpdEtxaG9QSU1leDZPX1oyXzJFNFFERXJjRVhiWF9maWNYVjh1dlA4OTBZX0xhY0hhMW1EVVMzRVpuZGlHNkFLTUY3a1hLbHRERk03djg3YThLbWhhY3JiMmZnWXZPZ0tQZHZDZWQyaHB1cWM1Nm5TTnNIUDJPWDF0TEFfdjVQSUpldEQxZEFpWm9ROEZ6RkM1OHVnR3V6N09iT0l2azJQSUI3RDdCTFB2WFNRekVMaVJiMFBEcHpiM0FYS1g5SzVrYw?oc=5",
+   "date": "2026-11-26T18:47:40+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "99aa26ee5d60",
    "title": "Fujimori: “El Perú está listo para ser la puerta de entrada de inversión global en Sudamérica”",
    "excerpt": "La presidenta Keiko Fujimori afirmó que el Perú tiene condiciones para recuperar tasas de crecimiento económico superiores al 5% o 6% y posicionarse como un destino para las inversiones internacionales…",
@@ -445,7 +473,7 @@
    "title": "Keiko Fujimori insta al Congreso a aprobar la Ley MAPE: “Es tiempo de tomar decisiones políticas”",
    "excerpt": "",
    "source": "Rumbo Minero",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0ZpSnBrazFwelFtMUFXcFQ0MlJ6Y2Y3dWJWcVFhNjIzN3dRSVRkNTFoM2FVNVBiVk1ISEktUjRxU3h2M3ZqUUU3YWtnRkV5V2RPanRwSjVvcmd1bmc1MXBESkRURzdOMW81TTAyUU1WRHNDM2VpaktQWjFKdTFad1NmUjZSVlNjUU1lZVgteUJFS2Q1VTBCVmpVaVRtZ1FXX0FGdjhndTJETzVKbFloaDNHNExLc2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWdvc3RhT2txRzZoZXpyMDdxWkc1eGJydTlCQlNMenlPWGwyUy15Z2NNZkV1c2JuYlUxVS1Pc3pBLXdSSXBTVkVjQWg0eExZS0l4Ty1iTm9zeFAyZi1QTFp0S1I5T1pkMGhWTVRrUHhKN21Xbk9kdlZJY29XU1AtR0lWbWNvTndBRHhHcG1UM3ltVXBVUkg2TFVsazRnUXZoSjhfbmxSLUx5OWFzOWNYWlRIMU9ucEhZUU9KellvVDFnS0pqUVhRZEtzRExiUQ?oc=5",
    "date": "2026-11-26T18:37:29+00:00",
    "state": "posando",
    "place": null,
@@ -1084,28 +1112,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQWV5QnRiYlZhRG02Y1dlejFlMV8tNlVJZFFOLWhBWWhra1k4N3JUMGZQQmp2X2V4Rlk2RE8zXzZOdWRzMER4Y0JzMDhoWVFlMG5ScGZjOW1hNnVLd0FCN2Y1SDNqX1hVUW5hT0xseDBUakdybkhmTjl4ZG9VelliRzZMYW5RUjBXZzFUOXU0UFc5MW02U3NxOTF5V3F1ODhSaXZUNnh5UTJMbGVOZXAzMFFQWWJuaHl1QkpYTlpPWHBRRjFxamM5SkZjM2JMS1c1a09BTE96dEFJemVQem55UXN0Z3ZqVDNwT2ZFUkxPMUt1ZHE4cm5HZ1pXU3VWdHBEQXNBTnBxeWZqVHdnbERDQm1xNGwzQQ?oc=5",
    "date": "2026-11-25T22:00:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "51c2133d410d",
-   "title": "Presidenta Keiko Fujimori y autoridades de la Sunarp revisaron acciones para impulsar la titulación de predios a nivel nacional",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTE5ILWxIX3FfNlNuQjZueHBVVHNqS1hmbDJ0M0Q3ZkNMLWpabEVMQjRfWGVWQzhheHJwNm5fS0lnaGQ5UUg2aEZhTzl1MWVQZWhOMmV4NFdWMXQtOG5KekpWZDlTdGIwVmNpY21pWnhpdkhON2VveHhmcm1tcnVzWDhYbUM2V1BVWkc0NElub3dFLWJjX0lWM3VsZnk4SjhHX0RPSGI5NzRJeU1sT2FXTmhOX2lRQ1VQRVR1ZU0xemFwdGNkWWU2Tm15bFhzeVVMdlBRenRuMkM3dVJQVEFnQmg0eFNDNDJXeHEyX0tRaFJJNTBydEE?oc=5",
-   "date": "2026-11-25T21:39:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fd5a4a9d4678",
-   "title": "Presidenta Keiko Fujimori: \"Cada diálogo y cada acuerdo es una puerta que abrimos al mundo\"",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbW9TYVF3UkJLZ2FEZmFHeGtOMFBoOURSTFZQYTJScE4ybHk2VGFLa2Y3RzVIcEdMNHFEbktiM0xXUWNVQ0E5VGxWUkk1SVYwUUdGTzBQd2JzYnlyRUNiN3VjeTd6bW1jaXBETkp4ZHJ4ODJzM1RjYWZFbzhDQ0ZWX0ZqSGk5aEZoTDFHSlNDOXJMX0EyYTF1RVUySEhYaXNyNEdjdzVpcG9FajNxSmxwY0lCMHczRk1rWURLbHVsOG1EQQ?oc=5",
-   "date": "2026-11-25T19:11:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
