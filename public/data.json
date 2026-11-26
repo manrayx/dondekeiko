@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T00:02:16.385466+00:00",
+ "generated_at": "2026-11-26T00:23:52.782962+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -94,17 +94,7 @@
   "abroad": false
  },
  "silence_limit": 24,
- "last_place": {
-  "place": {
-   "name": "Ministerio de Defensa",
-   "city": null,
-   "lat": -12.06528,
-   "lng": -77.0406,
-   "abroad": false
-  },
-  "source": "La República",
-  "date": "2026-11-24T15:14:21+00:00"
- },
+ "last_place": null,
  "next": {
   "place": {
    "name": "Colombia",
@@ -410,6 +400,17 @@
    "source": "La República",
    "url": "https://larepublica.pe/politica/2026/11/25/pleno-del-senado-evaluara-este-viernes-el-pedido-de-keiko-fujimori-para-viajar-a-colombia-hnews-1817475",
    "date": "2026-11-25T23:06:48+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "af3a19ab15fc",
+   "title": "Senado debatirá viaje de Keiko Fujimori a Colombia este viernes",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2NjcGxxREFkcUpObG1wSDJlREM4UXN1eUdXeGpiNzk1U1R3Rzd4MzZNd0VVb2JDTGFPNDRHUlVEMFNWd0dmYmRKdXdFMW9UZi1tRlpIdmowQ2NaQ3puZ2tzTEttWTVHMnUwekU2OGlGQWxyeXotMmdxYzdBMFNWWTkyZlZPb1VveTY5M2o1dVd4MkprOXZoaGkzMA?oc=5",
+   "date": "2026-11-25T22:52:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1040,23 +1041,6 @@
    "date": "2026-11-24T15:25:10+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "18ffced53ab6",
-   "title": "Gobierno de Fujimori recicla a José Williams: ex presidente del Congreso ahora dirigirá el CAEN",
-   "excerpt": "Williams, excongresista de Avanza País, asume su nuevo cargo con rango de director de Programa Sectorial II en el Ministerio de Defensa.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/24/gobierno-de-fujimori-recicla-a-jose-williams-ex-presidente-del-congreso-ahora-dirigira-el-caen-hnews-1835112",
-   "date": "2026-11-24T15:14:21+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Ministerio de Defensa",
-    "city": null,
-    "lat": -12.06528,
-    "lng": -77.0406,
-    "abroad": false
-   },
    "next": null
   }
  ],
