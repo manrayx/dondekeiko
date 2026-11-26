@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T10:44:39.402964+00:00",
+ "generated_at": "2026-11-26T11:06:25.462228+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -372,23 +372,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e9049361079e",
+   "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo son una puerta que abrimos al mundo\"",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzljaGpRVDZ1RHhjR1diSUxIUlZQRm1RbzVJSHZGUjFRZ0locW9wbE9PZm9DajFDd19Eb3g5QkhXZy1jdGxRY2Npc0ZMVk9PaVR5NGRRVE1NcDBGTzR2VnlTd3lqYnFtaTVHTmloTzQ5Z3A0c3lvdUk4U05tM3pQLVJVNFN0Qm5OLTdzcmJkLTZCU01DRTJOVS1kdEdDa1FZS2R6QVBQRmZXY3R3Vm5OMHNzUzNxRnRDSmFhWHA4UVhPLUd2?oc=5",
+   "date": "2026-11-26T11:00:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "4784434213cd",
    "title": "¿Efecto rebote?",
    "excerpt": "La reciente encuesta de Datum (América TV, 22/11/2026) grafica una importante contención del deterioro en el apoyo popular que venía experimentando la presidenta Keiko Fujimori. Si se compara con la…",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/opinion/columnistas/efecto-rebote-por-jose-carlos-requena-aprobacion-de-keiko-fujimori-noticia/",
    "date": "2026-11-26T10:25:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e9049361079e",
-   "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo son una puerta que abrimos al mundo\"",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONzljaGpRVDZ1RHhjR1diSUxIUlZQRm1RbzVJSHZGUjFRZ0locW9wbE9PZm9DajFDd19Eb3g5QkhXZy1jdGxRY2Npc0ZMVk9PaVR5NGRRVE1NcDBGTzR2VnlTd3lqYnFtaTVHTmloTzQ5Z3A0c3lvdUk4U05tM3pQLVJVNFN0Qm5OLTdzcmJkLTZCU01DRTJOVS1kdEdDa1FZS2R6QVBQRmZXY3R3Vm5OMHNzUzNxRnRDSmFhWHA4UVhPLUd2?oc=5",
-   "date": "2026-11-26T05:03:04+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -623,17 +623,6 @@
    "next": null
   },
   {
-   "id": "dfce2aa863a5",
-   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejJsS3FlNEVpdnN6VTV3V3pVMTVUM3pOT0hUYmFhZElnalVKTFd1X0ZTWXJqZVl2ZVZpdlFuNE93S0VRblptNEVvNHFxNWl6V3QzVW15SlNiS1dMdVI2YkkyWHRHUkNYQ095dzBUbmQyeEhESnMzYlBZOURxc2kwQm1nR0ZCODd2YUU3UWRFU1Y4dHpuLXlOZVhnd3hzQnZla01EQWxaOFFPN21rTVctcVJmN3NTb3ppZFJ0Vw?oc=5",
-   "date": "2026-11-25T13:40:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "dd458331ebe0",
    "title": "Presidenta Keiko Fujimori solicita autorización para viajar a Colombia",
    "excerpt": "",
@@ -684,6 +673,17 @@
    "source": "Diario EP",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObm1VZGktb0JnT3FvUVU1QmtYS3NfXzRZZWVxblZBTVNtU3o5SG05S01OZWw4Y3FRX0VIS3U2SzU5Y19UTzZsWFBMRGFlbnN5QTI2MGU2T3VYOUZmN3RudDVwaW04YnJVVlFhSnNGRWF2b0tHUEt3SFlscUtoSy1wWGpFZGF4UHJIXzgxYjY0MjhhVkw1OVE?oc=5",
    "date": "2026-11-25T02:59:53+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dfce2aa863a5",
+   "title": "Presidenta Keiko Fujimori: en diciembre inician obras del proyecto de agua de Juliaca",
+   "excerpt": "",
+   "source": "Radio Nacional",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVZtS0FwNFotRU1LSFBaOVVydi1Hbk15R1c1MEVhYVRleDhwNjlCeEx4dDBpRzBwWHZEcXZLeGhmSkltSUJEb3JFUW5LWWRjWUVRRzU5WnpsR2U4OEw0cjVKbXFIT3hoenNJclRKeE1LeVNlWUllT1MxYU5yNWxRU29JTGc5cE5JM1JoQUFHX2NldUMwZzYzc0wwai14WlpsOHM0dHNsRUo0aHdxRWF1OGtFTi1HUGYwOHVfeTQwWFdpQ3ZScXlSNDRiV1BadFhS?oc=5",
+   "date": "2026-11-25T02:56:01+00:00",
    "state": "posando",
    "place": null,
    "next": null
