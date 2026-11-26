@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:33:27.346674+00:00",
+ "generated_at": "2026-11-26T18:54:45.340921+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,6 +430,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "99aa26ee5d60",
+   "title": "Fujimori: “El Perú está listo para ser la puerta de entrada de inversión global en Sudamérica”",
+   "excerpt": "La presidenta Keiko Fujimori afirmó que el Perú tiene condiciones para recuperar tasas de crecimiento económico superiores al 5% o 6% y posicionarse como un destino para las inversiones internacionales…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/keiko-fujimori-el-peru-esta-listo-para-ser-la-puerta-de-entrada-de-inversion-global-en-sudamerica-noticia/",
+   "date": "2026-11-26T18:44:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "75ac40602212",
+   "title": "Keiko Fujimori insta al Congreso a aprobar la Ley MAPE: “Es tiempo de tomar decisiones políticas”",
+   "excerpt": "",
+   "source": "Rumbo Minero",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV0ZpSnBrazFwelFtMUFXcFQ0MlJ6Y2Y3dWJWcVFhNjIzN3dRSVRkNTFoM2FVNVBiVk1ISEktUjRxU3h2M3ZqUUU3YWtnRkV5V2RPanRwSjVvcmd1bmc1MXBESkRURzdOMW81TTAyUU1WRHNDM2VpaktQWjFKdTFad1NmUjZSVlNjUU1lZVgteUJFS2Q1VTBCVmpVaVRtZ1FXX0FGdjhndTJETzVKbFloaDNHNExLc2c?oc=5",
+   "date": "2026-11-26T18:37:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "282a134e52cf",
    "title": "Fujimori sobre críticas a la adenda por Cálidda: “No esperé 15 años para tener los brazos cruzados. O cambias las cosas o siguen igual”",
    "excerpt": "La presidenta defendió el acuerdo para ampliar la concesión de gas natural a siete regiones del país y aseguró que permitirá conectar a más de 300.000 hogares. Además, anunció que…",
@@ -452,12 +474,12 @@
    "next": null
   },
   {
-   "id": "99aa26ee5d60",
-   "title": "Fujimori: “El Perú está listo para ser la puerta de entrada de inversión global en Sudamérica”",
-   "excerpt": "La presidenta Keiko Fujimori afirmó que el Perú tiene condiciones para recuperar tasas de crecimiento económico superiores al 5% o 6% y posicionarse como un destino para las inversiones internacionales…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-el-peru-esta-listo-para-ser-la-puerta-de-entrada-de-inversion-global-en-sudamerica-noticia/",
-   "date": "2026-11-26T18:18:50+00:00",
+   "id": "e3867055e993",
+   "title": "CADE Ejecutivos 2026: Presidenta Keiko Fujimori reafirma compromiso con la inversión y el crecimiento",
+   "excerpt": "",
+   "source": "IPAE - Acción Empresarial",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQME9GLVBYcEZVU1ZQUlNRTmthYXFnS1B3NkNZbV9CVkV2N3Nsb0JEWGM4U05yRlZoVXNXT1lpSnNabU0yQVdSZFJnQXNRYmFpVjUxMWFJWVJPTkdGeGF3amdtZW1GSF9mMmx3NFdWbHZ5TVg3VXR5dkFOWWQ1V29HVlR1dkV2RTl2R0l6V3dHeG1SYzQ5UnZsZEhwUHpYVmI3UV9QbGNadGktUUVlay1aRE5MUlMwMEV5ZERpMDBR?oc=5",
+   "date": "2026-11-26T18:26:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -502,6 +524,17 @@
    "source": "Willax",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXU2NkxXN25Cemc5VkFGVC1DUEwxMVJ3b0s1REdnNFFhVENlRW9RelktZmJJX2ZaWkdhUTBUbmc1VzU2c0s5Unp3TTZabGd3dGtTWlUyb1RvcjdKeXJJaUpDaGFQZHFsMGplY0YzMlFISEV4b2hjaGlvSk1Ib0NFOXdLQ1lzZEtfdUVTU2ozdS1CZDhsZUNwRjlRQWw?oc=5",
    "date": "2026-11-26T18:11:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "386f078a3247",
+   "title": "Gobierno de presidenta Fujimori firma adenda que permitirá extender masificación del gas natural",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQkFmYWQtYWVhbWFUWmFjVVRvLVN2WXFTVl9rdExjN3p0T2p4RGtCd0MzM0M3SWI1eVJMUzU4MWs1Y1phamJvLTJBNTBwSE9ycEFHSG82RzVQMEd3dUZlb3A1S1c0WUJJUUNYQXdBVldOS1VYMVdGUlZSM0lfU05Hb1BOUlF3STdsNXBLVzdIVjRyajc0X3pPbV9icm9NYWN5YmJpa0pnV3VjZXRYa1RMOFhzRnJraHBJTnE4NVNsTE4xODFpZFJwTjlOUGI?oc=5",
+   "date": "2026-11-26T18:04:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -753,8 +786,8 @@
    "id": "dd5ac0282862",
    "title": "Keiko Fujimori destaca respaldo de gobernadores a la adenda del gas: \"Han puesto primero a sus pueblos\"",
    "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORENQMkxVMkY2bkFDRGo2OHlTeGVRQTJnWnQ4bDZDbVpsMzQ2RE9STEliZmEwUDJvcGgtSFhEQXpoY0dvTUdMd2p3dkp5d3NwVmNjckZDZVgyUVhhbmZzVzY0U1BFeXI4Ry1sVHR5bUROQ29uUVZxMDlnQm9FUU9hTEFrbnJBMGQ2YVE0T3dMcTBxclRsUVE3aEdrVFFmYjdvVnh1Y1QyYjczRW92TENOX2pfMlcyTTdXTVU2eWRlR0hSeXdVYkQwU0tXaHk4dVE?oc=5",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVBuanNBNy1LQ0gxc0RabWJQSTVPY1JIMERseFJ2Mnlxc3RXbUhfc2pDZzl1cndoQ0Ewa2t3NGgxM1FLdUp1X0c3eEdJTTh2bWdST0xFYmIya3JXdHhYbG12cVhOakk1bXo5ZlVRM1VHWFRqOWZXMXE5ejlZU3VpajdjSmRwQjdqNTd6OFljS2U0RE5rS2kxN2s0c1M2UmhQUFI2bzhFdjhCN3Q1TmtRVEF5dm1tclRmdTBCMWV2czhqTmd4Qm1udGthblpTZEU?oc=5",
    "date": "2026-11-26T14:49:00+00:00",
    "state": "posando",
    "place": null,
@@ -843,7 +876,7 @@
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio Perú",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWXpnUGZCSXlCS1kwR3FOajRWUEtwWkdsbWRNZjR0VzZGT3JLOVBOanFsczc5TUVpMi1HZ3hZMWZxY214RHFiTzNacjFMenA0RVpYTzVvQ3BvV1FVeXN6VmlFMzRaZk9nZUZnYmdnY045N3JNQVByS3hqSVNLY0kyY0lIMHZjSkUycGNFSzU3ZDczd0YyOXhqR3c1eEsxNkdrRlpVM2NnVmZqSTByWWpuRUdmME54M3l5T2VhaDJzZFliZzE2VGs3TVlJVFpLbTh1U2wxLWYtVFpyRHd5M2ViczFUbFM2eUhDVWtqZDRKUkJBcm5sWWZZaGNOdHTSAZACQVVfeXFMTURoaU9URjBMT3ZodktqRnd1Z3RWNUJkVzhHVEFaaFI5RW9ydHZ5M0xIMmo5aWs4N2JybTB5MW80Ym84a0hUOC1VVGhjdjVtMDBad1ZJV3Q5TVVnT1NoTUc5c2syNWNKX3JMb2F6U1haWml5eGUwdG5wUjlaMGcwNUc0LU5IVnpsYlhsamdoWjFiTENjaHhvQnlEdnlpLTRKZ1dNNVdTT2k2d3lzZjlzN2dBZ1pNZnpRY0IyYkpiRk5yOVZNbnptQ25oLUE5TFNCeWY5MVdzSjFESWFtWW9KeTNhbnc0NTRzREdRbGZnTjZDMzhUSGVmWnhuTUpRWlZBYTU2WVJXY3hDb3ppdllDaWY?oc=5",
-   "date": "2026-11-26T12:35:38+00:00",
+   "date": "2026-11-26T12:47:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1073,39 +1106,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbW9TYVF3UkJLZ2FEZmFHeGtOMFBoOURSTFZQYTJScE4ybHk2VGFLa2Y3RzVIcEdMNHFEbktiM0xXUWNVQ0E5VGxWUkk1SVYwUUdGTzBQd2JzYnlyRUNiN3VjeTd6bW1jaXBETkp4ZHJ4ODJzM1RjYWZFbzhDQ0ZWX0ZqSGk5aEZoTDFHSlNDOXJMX0EyYTF1RVUySEhYaXNyNEdjdzVpcG9FajNxSmxwY0lCMHczRk1rWURLbHVsOG1EQQ?oc=5",
    "date": "2026-11-25T19:11:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "56cd6ce56d70",
-   "title": "Reunión entre Keiko Fujimori y Abelardo De La Espriella será el 3 diciembre",
-   "excerpt": "",
-   "source": "Caracol Radio",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGV2dFZtVlNtdkt5dU42eExEcDFXTkxnb0FzMkRza3p4cUZRRWgzZ1Y3bi1LZU1nazFVV0JLVk52TklyRjNQaVdFYnZwMWRTRk02d2Nhc2N5NVg1TUlzdUlrNDRKVVNHWXUzUjFjQUlDX0R4aGFiOEpuZGMxWU5WSTlOaV91SUFPWHpLLUlQeFdQVEZjcTA4QWhaQ2tMTVJnZW5HMnV0OGRaSHQzR1Vn0gHDAUFVX3lxTE1tcUh2djQydWtUNkJxSEZrcE1pNVNhb1JROURHaEtUNzgwVi1zN01tdFNBbk5OOTNiQldwM3dYcmdxNzF2cEJxRkdtR3pZVUszYVo0c1pCSFEyVEFJWXdodGMwZkZLcE4wSGRCN3B1NGdsX3hQaGtCN3pyMkNjaUktbWJQN2ZIdFNIZWRtSmdpaG9lZjlKN3ZvN25sX2lmZkxQWFN3WWYyMnRyc3A1MUJXSmh6QkVxTVllajVvSy1NU1VKdw?oc=5",
-   "date": "2026-11-25T18:32:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d56786633ba8",
-   "title": "Keiko Fujimori asistió a homenaje póstumo a su madre, Susana Higuchi, en la Facultad de Ingeniería Civil de la UNI",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, participó en la ceremonia de reconocimiento póstumo que la Universidad Nacional de Ingeniería (UNI) realizó en homenaje a su madre, Susana Higuchi, quien…",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-asistio-a-homenaje-postumo-a-su-madre-susana-higuchi-en-la-facultad-de-ingenieria-civil-de-la-uni-ultimas-noticia/",
-   "date": "2026-11-25T17:19:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "af4491864b88",
-   "title": "Presidenta Fujimori: \"Cada diálogo y cada acuerdo es una puerta que abrimos al mundo\"",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWQ4bFkwS1VOOWdUajRId0pHclZTRDQ0MDR4SF9IMXEtcFdmLXc4TnYyLTJhdEpta09PZUtraGdLYUQ4OGpTdDhvQzFxZ1dtYUQxY1BUU2daY2Q3TTRrenZRTnF2M204LWxmT0pCcmg4cy1aVkZXUVB2WFVuM0RJQmVEN0tMV2xuWGlfNmlIVkJqYVpiOWpySF9ibGRlRnNWTlhNc185WDk4Rjh0dVhUaHBWLUgtN2pTcm56dENaUmEyaUNWaUFpTFZLV3g?oc=5",
-   "date": "2026-11-25T17:01:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
