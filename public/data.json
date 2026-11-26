@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:04:52.939467+00:00",
+ "generated_at": "2026-11-26T16:25:51.620879+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -419,8 +419,19 @@
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T15:56:30+00:00",
+   "date": "2026-11-26T16:17:30+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "04f3c5247240",
+   "title": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
+   "excerpt": "La sesión del Pleno del Senado está programada para las 10 a. m. de este viernes 27 de noviembre. El primer vicepresidente, Alejandro Muñante, será el encargado de dirigir el…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/25/pleno-del-senado-evaluara-este-viernes-el-pedido-de-keiko-fujimori-para-viajar-a-colombia-hnews-1817475",
+   "date": "2026-11-26T16:13:49+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -491,23 +502,23 @@
    "next": null
   },
   {
+   "id": "194c766178e5",
+   "title": "Proyecto de gas natural “7 regiones”: Gobierno de Keiko Fujimori firma adenda con Cálidda",
+   "excerpt": "",
+   "source": "Gestión",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWJIdWlxemRJTWRBNGxwbGFib2ppYXFsaGVIdHBjY01KWFg0ak0xOWVxYVlXaW1HYkFGZmcweGNWSllsT2R5dWx2czVZOXVUQXJsSDl6ZV8wVHlISThONV9pcjdpaW00cFpkNUZuYlZLZ3FpS1RyVVhjbFJtUmZ6SlpDYVFFZFA5ejZvOFRNZmpvQzdyMG1LdElHUy1ObHpCdHppbTk5SHB5VTVlcm5PalU1M2xveEg4WmtLMEJPMHY?oc=5",
+   "date": "2026-11-26T14:44:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3e4950f9bfd8",
    "title": "Keiko Fujimori firmó la adenda al contrato de Cálidda: \"Hoy damos un paso fundamental hacia la justicia social en el Perú\"",
    "excerpt": "La mandataria presidió en Urubamba la ceremonia de firma del acuerdo que amplía la red de gas natural hacia siete departamentos del centro y sur del país, beneficiando a más…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/26/keiko-fujimori-firmo-la-adenda-al-contrato-de-calidda-hoy-damos-un-paso-fundamental-hacia-la-justicia-social-en-el-peru/",
    "date": "2026-11-26T14:43:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "194c766178e5",
-   "title": "Proyecto de gas natural “7 regiones”: Gobierno de Keiko Fujimori firma adenda con Cálidda",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWJIdWlxemRJTWRBNGxwbGFib2ppYXFsaGVIdHBjY01KWFg0ak0xOWVxYVlXaW1HYkFGZmcweGNWSllsT2R5dWx2czVZOXVUQXJsSDl6ZV8wVHlISThONV9pcjdpaW00cFpkNUZuYlZLZ3FpS1RyVVhjbFJtUmZ6SlpDYVFFZFA5ejZvOFRNZmpvQzdyMG1LdElHUy1ObHpCdHppbTk5SHB5VTVlcm5PalU1M2xveEg4WmtLMEJPMHY?oc=5",
-   "date": "2026-11-26T14:34:09+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -720,17 +731,6 @@
    "next": null
   },
   {
-   "id": "04f3c5247240",
-   "title": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
-   "excerpt": "La sesión del Pleno del Senado está programada para las 10 a. m. de este viernes 27 de noviembre. El primer vicepresidente, Alejandro Muñante, será el encargado de dirigir el…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/25/pleno-del-senado-evaluara-este-viernes-el-pedido-de-keiko-fujimori-para-viajar-a-colombia-hnews-1817475",
-   "date": "2026-11-25T23:06:48+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "af3a19ab15fc",
    "title": "Senado debatirá viaje de Keiko Fujimori a Colombia este viernes",
    "excerpt": "",
@@ -864,6 +864,17 @@
    "source": "notiperú",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTWQ4bFkwS1VOOWdUajRId0pHclZTRDQ0MDR4SF9IMXEtcFdmLXc4TnYyLTJhdEpta09PZUtraGdLYUQ4OGpTdDhvQzFxZ1dtYUQxY1BUU2daY2Q3TTRrenZRTnF2M204LWxmT0pCcmg4cy1aVkZXUVB2WFVuM0RJQmVEN0tMV2xuWGlfNmlIVkJqYVpiOWpySF9ibGRlRnNWTlhNc185WDk4Rjh0dVhUaHBWLUgtN2pTcm56dENaUmEyaUNWaUFpTFZLV3g?oc=5",
    "date": "2026-11-25T17:01:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "846e1c248dce",
+   "title": "Keiko Fujimori plantea convertir al Perú en puerta de entrada de inversiones a Sudamérica",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUY4cVFpR2lmb2hvRXR5VTJ5dG1YR2luZWRFVi1BX3IxOUdiOF9qLTlzRlRNcmpDMkZ0akhoNjJIV0VybVNJT25Kd3pLTFhkM2ZtRzBFOXdkZGpSVDZpRXhsNFFUY1N5dnI2MVl5T043eU9DYjJHelh0Rl84aVdqYXJ6ZFlVRkhUZXZkM2xvbERRbnNyU24xcDkzeVdvSDRiWkZURVhkR2NFRmU3Tm9HcE5vaDVsSENnNFkxMjZnM2w?oc=5",
+   "date": "2026-11-25T15:22:56+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1073,17 +1084,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHN6ZVhUWXBDejZ3LWNLUTdYamxuamhsMmQxelZ0YWI4MFc0SllVSFpNbW96UDdxMDFqWVlMZUtPdGR5SWlHM0JXZlNpQ2lra3JobzZ5ZjJWUFFFVzA0OW01XzBTZ0xVOWtGRGpCMGRMWXVHdXhtbUZrU09sVWQ0eHcwWlBubUNfRGE3SGY0Q3pZclR6OGlUWHhlRnVXMUE?oc=5",
    "date": "2026-11-24T21:40:30+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "08b53820d600",
-   "title": "Keiko Fujimori solicita autorización para viajar a Colombia",
-   "excerpt": "",
-   "source": "CanalB.pe",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV1V4QXJ2ZjRGWndVQ0ZuNXVGSGltamRhSU40eWVyTWtrUEd2YnBJWjU5N3dIU2dxZ2NWeHJ0Znk0WHpnWlh6cGt2S1AwV29kN3Qtc2VGcDh6c0w3RjBEUHhERmRRYWNaTnlTbFA4eTJPdmcxNG1GS2RoSkhJODg3NDF2b1RXMGU1aURHdWp5R0daZW83azRSVlNtUQ?oc=5",
-   "date": "2026-11-24T21:31:50+00:00",
    "state": "posando",
    "place": null,
    "next": null
