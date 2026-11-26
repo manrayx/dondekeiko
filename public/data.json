@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:25:51.620879+00:00",
+ "generated_at": "2026-11-26T16:47:33.030069+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "city": "Cusco"
   },
   "source": "El Comercio Perú",
-  "date": "2026-11-26T13:33:20+00:00"
+  "date": "2026-11-26T14:58:57+00:00"
  },
  "next": {
   "place": {
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 0,
-  "posando": 58
+  "triste": 1,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -414,13 +414,35 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0c8448f43699",
+   "title": "Keiko Fujimori llega a la clausura del CADE Ejecutivos 2026 en Urubamba bajo un gran resguardo policial",
+   "excerpt": "La presidenta llegó tras firmar la adenda con Calidda pese a las críticas de la electa gobernadora de Cusco, Verónika Mendoza.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/26/keiko-fujimori-llega-a-la-clausura-del-cade-ejecutivos-2026-en-urubamba-bajo-un-gran-resguardo-policial-hnews-438464",
+   "date": "2026-11-26T16:47:00+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c79b863b653b",
    "title": "EN VIVO: Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T16:17:30+00:00",
+   "date": "2026-11-26T16:42:13+00:00",
    "state": "transmitiendo",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a79e357156f4",
+   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
+   "date": "2026-11-26T16:39:00+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -458,6 +480,23 @@
    "next": null
   },
   {
+   "id": "c50ce6b5f357",
+   "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en Cade Ejecutivos 2026",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOU5FcHBacDdSX1FRRmVmYmxNUHZldU16eWJfZzU5Sm9hQlBPbGJaVE9NR0QyWHBuM2MzbWlEbmdZOW02cFhlbXEyZkptclVqbXpON1Q0UHJTLS1CQXhxeVBWRFNrRVJnOVNTd05LaU5OeDlSU0R6RlAycUNVQXpScHMwaHJMR0NKNmN3ZTY2ODRObnFwRGphWUwteUFUQy1FQV95ckFlTFdwVEpmakxheklZV1lxUUg5LTdMV2tYLUd5WGlKYnlKOHp3OENrcnRsMndvVnhjQ0NsRkxCODJoRDJaOXlFN3VfV3Q4T1dwUVZ4bjRyX0Fqdm9tVmF6WXRwLWhCLTMwMzM2ZVXSAZ8CQVVfeXFMTWc3RU1DNXlBdVM0eC1GNy1NRVpmTDl4OEUyOU9BUzI3a09TdkctcGROMENkMmZyaVdZMk44VklqSk40YjVydzh6TjFFSFdMdFNsVTFpc1JRNU5hOW9ZbU5PQ2VyLW1sUHktdzl0czJ0dDJLUVc3dzIyZWs1Q3VDb3NkdWVETUxkQ3Y1RERud2ZpSlhEM1dEYlpNZzlYcWd6Q1o5U3FxR2pzYVJTblZncXhjTFphRUpua3l1QWlFeU1xNUFXVGxnUzJ4dTE5TXIxSnZHTllzNE15WWZtYTlaUTlPdTdubWdwbHdNQjR6Y2VuQVVDQXZBTW8tRWRqYXBEaE9nUWVSV21mNm9IcmVnRkY3YTNieGhXc1Awd09rTU0?oc=5",
+   "date": "2026-11-26T14:58:57+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false,
+    "city": "Cusco"
+   },
+   "next": null
+  },
+  {
    "id": "e3f5c3619bf0",
    "title": "Empresarios peruanos muestran inusual confianza en el gobierno de Fujimori",
    "excerpt": "",
@@ -480,11 +519,22 @@
    "next": null
   },
   {
+   "id": "5abe123612dc",
+   "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300,000 familias del centro y sur",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVhPRXg3SjNKeWg5SzJSVVV1MzNFak5PdHNhemxKNlN4b1gzMWNvSTRXS21BbERqOTlCbWFWM1AyQTZCQjVER25pNXJoZE9NSTZiWnl0ZVZhQU9yOEY0Y0dsMWxoS3ZsM3RwMFAyWHFnQmxzOW9oTzFzR3lYUlV1RG55YUVLb2pOMVQ2VXRRTlBXdHZHVnFud0Q1SFd3VVdoN0VtQjZfR2EyVmhtWVJBdDVzd1A4QnN4XzdpV2lDTVBpRk5TTFdLWENKSUFvZDA?oc=5",
+   "date": "2026-11-26T14:56:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "dd5ac0282862",
    "title": "Keiko Fujimori destaca respaldo de gobernadores a la adenda del gas: \"Han puesto primero a sus pueblos\"",
    "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVBuanNBNy1LQ0gxc0RabWJQSTVPY1JIMERseFJ2Mnlxc3RXbUhfc2pDZzl1cndoQ0Ewa2t3NGgxM1FLdUp1X0c3eEdJTTh2bWdST0xFYmIya3JXdHhYbG12cVhOakk1bXo5ZlVRM1VHWFRqOWZXMXE5ejlZU3VpajdjSmRwQjdqNTd6OFljS2U0RE5rS2kxN2s0c1M2UmhQUFI2bzhFdjhCN3Q1TmtRVEF5dm1tclRmdTBCMWV2czhqTmd4Qm1udGthblpTZEU?oc=5",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORENQMkxVMkY2bkFDRGo2OHlTeGVRQTJnWnQ4bDZDbVpsMzQ2RE9STEliZmEwUDJvcGgtSFhEQXpoY0dvTUdMd2p3dkp5d3NwVmNjckZDZVgyUVhhbmZzVzY0U1BFeXI4Ry1sVHR5bUROQ29uUVZxMDlnQm9FUU9hTEFrbnJBMGQ2YVE0T3dMcTBxclRsUVE3aEdrVFFmYjdvVnh1Y1QyYjczRW92TENOX2pfMlcyTTdXTVU2eWRlR0hSeXdVYkQwU0tXaHk4dVE?oc=5",
    "date": "2026-11-26T14:49:00+00:00",
    "state": "posando",
    "place": null,
@@ -576,23 +626,6 @@
    "date": "2026-11-26T13:57:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c50ce6b5f357",
-   "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en CADE 2026",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOU5FcHBacDdSX1FRRmVmYmxNUHZldU16eWJfZzU5Sm9hQlBPbGJaVE9NR0QyWHBuM2MzbWlEbmdZOW02cFhlbXEyZkptclVqbXpON1Q0UHJTLS1CQXhxeVBWRFNrRVJnOVNTd05LaU5OeDlSU0R6RlAycUNVQXpScHMwaHJMR0NKNmN3ZTY2ODRObnFwRGphWUwteUFUQy1FQV95ckFlTFdwVEpmakxheklZV1lxUUg5LTdMV2tYLUd5WGlKYnlKOHp3OENrcnRsMndvVnhjQ0NsRkxCODJoRDJaOXlFN3VfV3Q4T1dwUVZ4bjRyX0Fqdm9tVmF6WXRwLWhCLTMwMzM2ZVXSAZ8CQVVfeXFMTWc3RU1DNXlBdVM0eC1GNy1NRVpmTDl4OEUyOU9BUzI3a09TdkctcGROMENkMmZyaVdZMk44VklqSk40YjVydzh6TjFFSFdMdFNsVTFpc1JRNU5hOW9ZbU5PQ2VyLW1sUHktdzl0czJ0dDJLUVc3dzIyZWs1Q3VDb3NkdWVETUxkQ3Y1RERud2ZpSlhEM1dEYlpNZzlYcWd6Q1o5U3FxR2pzYVJTblZncXhjTFphRUpua3l1QWlFeU1xNUFXVGxnUzJ4dTE5TXIxSnZHTllzNE15WWZtYTlaUTlPdTdubWdwbHdNQjR6Y2VuQVVDQXZBTW8tRWRqYXBEaE9nUWVSV21mNm9IcmVnRkY3YTNieGhXc1Awd09rTU0?oc=5",
-   "date": "2026-11-26T13:33:20+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Cusco",
-    "lat": -13.532,
-    "lng": -71.967,
-    "abroad": false,
-    "city": "Cusco"
-   },
    "next": null
   },
   {
@@ -1051,39 +1084,6 @@
    "source": "ATV.pe",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MVlZHREQtZ0NQcFJFdmVqUy01VGkzMlZtc3I3dTRiclJJanh4OHNzSzZtellaZEZVM1lCZjZvX0EzTkJPalVMTWUzanlHb29vd2hDaWJVUm9mSFNxY0djZ2lMS2dVWUVnXzZ6SHR4eWU?oc=5",
    "date": "2026-11-24T23:01:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d5420135f3b1",
-   "title": "Keiko Fujimori alista nuevo viaje: Colombia como destino",
-   "excerpt": "La presidenta Keiko Fujimori, solicitó al Senado un permiso para viajar a Colombia el próximo 3 de diciembre.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-alista-nuevo-viaje-colombia-como-destino-noticia/",
-   "date": "2026-11-24T23:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6272b70b821e",
-   "title": "Presidentes Keiko Fujimori y Xi Jinping...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0FSNmlmV0h4ZlozNE1FVEU3b3ByZ0dkWVB4UUQ5YXAzcDEwTHBXYjVlWnJvbDJNTnlhY29oUk9zS2hHNWVxclFrd2FXRk1BYWVDNVlEc1lycktwd3pwYXYxWkNHRUVFVnFscENpTWhtcDBmV0Y2QUhnNXVmS2tvVGZ2TnplYm9XbFRTRjhmT3IyUk1vTnNoZ09hUjZLemlnRXFCaGY0U3RvUE5KSGlwX2hrdVRNOHNjenJpZHhncnnSAcYBQVVfeXFMTTBLR0ZZbmtpWS1CdHIxLTFrUEJ0alhQN241RGtWYkZCMlNuNU9nXzhZcVo5SGlac2FKaGJlX1hUd0hvRHNTR0tUOUpZZFZVX0xRSkZDY3Y1RkF5aUs5SEY4RWFTWkdwb0JHZU9XdUpWbnZNN1lSN2VnMHM2OUJiajBrWGNsLXFzNEdYMVFOc1BCeEZhRElnMHlCbHZSV3J0ZjQyRE5fTEh4cVZYRklRcS13ZEpzaWU5V2N5Q2lOYzUxSm1tN2xn?oc=5",
-   "date": "2026-11-24T22:47:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e82b63bd6f0b",
-   "title": "Keiko Fujimori solicita autorización del Congreso para viajar a Colombia",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHN6ZVhUWXBDejZ3LWNLUTdYamxuamhsMmQxelZ0YWI4MFc0SllVSFpNbW96UDdxMDFqWVlMZUtPdGR5SWlHM0JXZlNpQ2lra3JobzZ5ZjJWUFFFVzA0OW01XzBTZ0xVOWtGRGpCMGRMWXVHdXhtbUZrU09sVWQ0eHcwWlBubUNfRGE3SGY0Q3pZclR6OGlUWHhlRnVXMUE?oc=5",
-   "date": "2026-11-24T21:40:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
