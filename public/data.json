@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T03:37:40.452490+00:00",
+ "generated_at": "2026-11-26T04:20:37.602714+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -371,6 +371,17 @@
  "agenda_minutes_7d": 649,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "ddb081b9a2fd",
+   "title": "Raúl Tola: “Con los antecedentes del fujimorismo, hay temores muy fundados sobre lo que pueda pasar en nuestro país”",
+   "excerpt": "La última novela de Raúl Tola, El peso del aire, va sobre el periodismo peruano durante el primer gobierno de Fujimori. Esta es una novela que Tola ha escrito en…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/08/21/raul-tola-con-los-antecedentes-del-fujimorismo-hay-temores-muy-fundados-sobre-lo-que-pueda-pasar-en-nuestro-pais-hnews-1721433",
+   "date": "2026-11-26T04:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "93aef0fcf41e",
    "title": "Flavio Figallo asegura que no se opondría al viaje de Keiko Fujimori a Colombia: \"Han estado congeladas las relaciones diplomáticas\"",
@@ -1028,20 +1039,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "aa9b40a541d7",
-   "title": "Keiko Fujimori alista un nuevo viaje a Colombia en medio de crisis por El Niño: planea reunirse con Abelardo de la Espriella",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd3R6cllxM3kwZTZ0SlVvVGY3NzF1R0hDSlhjUWVYT2lzcjB6NEttNW9CRDFaZUJVTl9MeXJoVXVBa2VsTi1vcmViSkhUNE14NUROR1dmNmhTejJpWjZxNm05YXRBbW1yV0JjNlpSUjFFbFdTbXJtSWFQcjBqVmNMMi1zZGlsakhZTzV2cVhrQ3UwSlB2OC0tTWpnWEg2U0JjSUpLWjBCNEtmX3g4QUFncVoyM1lCU0V1OHV1ZGVlSWpGU094YlNxOWxHYlJHZ0h3Z2JDSVZHMmx3X1lZemJwME83T19Mcmc?oc=5",
-   "date": "2026-11-24T17:50:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
