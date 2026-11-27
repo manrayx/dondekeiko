@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:08:42.030244+00:00",
+ "generated_at": "2026-11-27T14:29:56.493609+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,17 +111,17 @@
    "abroad": true
   },
   "source": "El Comercio",
-  "date": "2026-11-27T13:48:26+00:00",
-  "title": "Keiko Fujimori: Pleno del Senado debate autorización para viaje a Colombia el 3 de diciembre",
-  "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-a-presidenta-pasa-salir-del-pais-el-3-de-diciembre-a-gabinete-binacional-noticia/"
+  "date": "2026-11-27T14:10:46+00:00",
+  "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
+  "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/"
  },
  "counts_7d": {
-  "transmitiendo": 2,
+  "transmitiendo": 1,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 3,
-  "posando": 55
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -396,6 +396,20 @@
  "agenda_minutes_7d": 531,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "484b7caff244",
+   "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/",
+   "date": "2026-11-27T14:10:46+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
   {
    "id": "903c1d56bb46",
    "title": "Keiko Fujimori: Pleno del Senado debate autorización para viaje a Colombia el 3 de diciembre",
@@ -1094,17 +1108,6 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2thbFN5LTF4WHItLTIxQmVjR0kzdVdMcXp2Sll5SEU3Z1BRUnF3SDZhcHg2RjZaRVBXbXVpZ2RDZ0ViZ0V4QUJlXzdEaVRWb1BFWFNfRGhJU0FDZ182S1dsc21EQzR0SndNTUFGdVlJWERmMUZNYUJfWXV0Nl9QMFlBOXA3dHZ5SnV5T1JsaGZfMUNVb1BR?oc=5",
    "date": "2026-11-26T16:48:47+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c79b863b653b",
-   "title": "EN VIVO: Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
-   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T16:42:13+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
