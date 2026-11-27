@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:47:40.315329+00:00",
+ "generated_at": "2026-11-27T19:08:52.781295+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -412,6 +412,17 @@
  "agenda_minutes_7d": 534,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "673ad709b8ef",
+   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
+   "date": "2026-11-27T18:45:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "3bbe234bf1f8",
    "title": "Keiko Fujimori en Gabinete Binacional Perú-Bolivia: \"Es el inicio de un fortalecimiento de 200 años de amistad que nunca debió cortarse\"",
@@ -1107,9 +1118,9 @@
    "id": "2a7ec5632761",
    "title": "Perú y Bolivia retoman su Gabinete Binacional después de cinco años: temas que discutirán Keiko Fujimori y Rodrigo Paz",
    "excerpt": "El mandatario boliviano arribó esta tarde a la capital peruana junto a seis ministros de Estado, con una agenda que incluye 48 propuestas de cooperación bilateral",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/27/peru-y-bolivia-retoman-su-gabinete-binacional-despues-de-cinco-anos-temas-que-discutiran-keiko-fujimori-y-rodrigo-paz/",
-   "date": "2026-11-27T00:17:24+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRVNwNEJRbXBQTHBiV0pZVWdncWRQUmhOQ1N3RDhoYXJwS09iTHdSUzJmZkJSNXF3VjVxRmVudjZfMXdGcE1CdjJ1Yi1uNmppdi1MR2g5TVJpR1J5N0l0VVFMS1pySFRRY0RYQlJ0dkpRX1BzUHV3QlNsR21FYmRXRERDdUF5N1NabVpIMjMtcUZ1MDc4RjlZRlEySnotTkRDWXBvRENPb0VqajViVWF6bmYxTkRHN0s2RnBlMXM1emlWb1I4eWQ5ckFCRm1rMENzR2xpTXdVczhESUFLb0phVzR1NU9VbkluNzI2UXotUdIBigJBVV95cUxPWnFTS1l6cU1Md2JPNHlESmR6MTVxTmN5dlAtYk05OXJia3FSMFVMZE9IU2JsSElfNmN3Zm5vYnlsWEVuWFo1ZjBwczRJcEFSbHFBNWpGcHZfS05FVzRJblZ2RXZRMHcxX0FJbmVoM3dLQ0hqS1RocmNEeDBBeVpGRm94Zy1jdGVhd3dQT0dFX0hyZ2o3VkRjcWVMUUtfM2VJeU0ydnlEdk4tSlFkeDZya1ptQUxobVF1TTd3TTdRdVdYaVVKUVluZl9YUXIzNlV3YWdqanNzTWVKWEtRNExlUkYwel91Tkd0cVdyTExCYklHbUtibTN5cTlNOVYxdWVlaTV0N0RWcWMzdw?oc=5",
+   "date": "2026-11-27T00:17:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1229,17 +1240,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-evita-responder-si-plantearia-cuestion-de-confianza-por-ley-mape-noticia/",
    "date": "2026-11-26T20:57:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a79e357156f4",
-   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
-   "date": "2026-11-26T20:46:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
