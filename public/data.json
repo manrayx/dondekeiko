@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:21:36.382061+00:00",
+ "generated_at": "2026-11-27T17:43:01.648480+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -413,6 +413,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "77b6c6ebd835",
+   "title": "\"Querido amigo\": Keiko Fujimori recibe a Rodrigo Paz y promete recuperar cercanía entre Perú y Bolivia",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVRGa0lyMk1LSW1HQjNzSzBKT3loUlhQZWRaRkF5UmFMZXlyb3Yxa3BrYkM1QThrSWRlQ29RalhaSHppMzctVUwxeXlxa2lQSTZhZmZobXhTUjlHVGRsUEVrNjcycHh3QzF5WVdDa05fM2JmVUNhSlhXZkIxd0x0bl9lc2Z1cjNJRGxMTWhCTkQ3dzRpQ0dvVFlTWEdOWm1MR1NUT0ZtLV91WWF2aDBlQzdaODNYeW80UUJVSlR2NWlxYTdY?oc=5",
+   "date": "2026-11-27T17:37:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "ff4b437188bc",
+   "title": "Keiko Fujimori agradece a Bolivia por captura y deportación de alias ‘Johnson Pulpo’",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEloVWxzYjAtODhnbDVMckNhdHBjRkRtRzBxa1Jxelp0SlhNWFBxRnowOWVhTjhwYlhCcGxTVGt1bDRldllaOVZ4bkotN0Z2WXdNUGFGcHRJOTNNdmZFWHh0SWV5TnotenBlOG9HT0FuYmN5TDFTY0lWUThyelJzWHJLT2J0TDE5TS1KSXNaTHNGUWlSQlBUaUpacEhFZU1IVUdSeWdpejZtc19sVWhB?oc=5",
+   "date": "2026-11-27T17:27:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "31ec756a9da2",
+   "title": "Keiko Fujimori exhorta al Congreso a arribar a acuerdos a favor de la Ley MAPE y cierre del Reinfo",
+   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
+   "date": "2026-11-27T17:22:27+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "03ec49a80629",
    "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
    "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
@@ -583,23 +616,6 @@
    }
   },
   {
-   "id": "dd6d54a03e82",
-   "title": "Rodrigo Paz y Keiko Fujimori encabezan el séptimo Gabinete Binacional en Lima",
-   "excerpt": "",
-   "source": "Red Uno",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUw2YVZoNmg1TlphM3RJWmVOTXdsZWh3eVBNZEU0SWxwaXItdjlTRlNmR0ljR1hGcXAxVU52NlhMWDAwUTQ3YXMtcTJuTGZfVGFxcWtnT19mTHl5RTFrd3JfdkI4WFJSZ2tXVFZ0RWhFNEs4NVdqandJOGxvVVhmek9wTDRybl90LU1MM051R2l0OWMzOGZuaGN4QjM5UEx6ay02ZGthOVZJS0puZTFvNFZEamlDSEltNFQ4ZVZEQnBNWFktenBrcUZSSjE?oc=5",
-   "date": "2026-11-27T15:55:11+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
    "id": "4be1ba61cd21",
    "title": "Keiko Fujimori cambia su agenda por emergencia en Piura: \"Nuestra prioridad es atender a las familias afectadas\"",
    "excerpt": "",
@@ -630,6 +646,23 @@
     "lng": -80.632,
     "abroad": false,
     "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "dd6d54a03e82",
+   "title": "Rodrigo Paz y Keiko Fujimori encabezan el séptimo Gabinete Binacional en Lima",
+   "excerpt": "",
+   "source": "Red Uno",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUw2YVZoNmg1TlphM3RJWmVOTXdsZWh3eVBNZEU0SWxwaXItdjlTRlNmR0ljR1hGcXAxVU52NlhMWDAwUTQ3YXMtcTJuTGZfVGFxcWtnT19mTHl5RTFrd3JfdkI4WFJSZ2tXVFZ0RWhFNEs4NVdqandJOGxvVVhmek9wTDRybl90LU1MM051R2l0OWMzOGZuaGN4QjM5UEx6ay02ZGthOVZJS0puZTFvNFZEamlDSEltNFQ4ZVZEQnBNWFktenBrcUZSSjE?oc=5",
+   "date": "2026-11-27T15:51:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
    },
    "next": null
   },
@@ -750,6 +783,17 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT015YTkydldCTE9peEVEY2c0Sk9wUm5Nb3FDa2F2Y1YtNTNwSUQ4SExjX09TYUxsdjY4U2p5MnhYWGM4Y0VORGl4dlk2QTR1TUlVY1BnczJ3aDRXWGNJYW05UzY3OGp5NGt2V19fMXo2czRGQVNHRUQtUFhBLXk1bVFuVW5XQTNkb0UwZU9wOG1fTHV1TjVsdlBwdVpfR1R2aXlldWNiYUN6QQ?oc=5",
    "date": "2026-11-27T15:32:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "bbab66eea216",
+   "title": "Gobierno suspende viaje de Keiko Fujimori a Colombia ante emergencia por lluvias",
+   "excerpt": "",
+   "source": "América TV",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObW1fS0UyOFVOb2IwTElDUXAtLWtMV2VXb2VOSG96UldzY1RCbldUQmNFOC1wbUQzZDB5ZDY5QlA2c3ZDV19qR2IwS3I5cW1WcFdiclhwWjFESmFFWkF6TXE5dFl6a09JY09SS1dtc0ZWcHZEZFJ1WHRNVkZwSHEyZXZTTTAwRkQ5alZGUDU4RWZTTXFhTjAxUjVqSVozYTBuQkxNWGNMWlM4Unk5YlVXNGZWTG9iVGdxWHlBZ1o4MnBZMmFy0gHKAUFVX3lxTE5EWVNJdm5pLUxRZ0dYcHl6UFZUUElMOW9ra1dqRld2MWtlM2tpN0NNWkdhcWtycE9CX2JaaWtPUmk3WHNCZkFpMVZ0THVzcVpCU2JVUDNpRnNydDVhXzNGclJmMUxOS1piOHVtVzRVRWF3VndJY0loMGZYQjQ0b0ZhQTBmMWZlRzF5NXhrTXJOblJWWUh0c1dCX0pQODY0LURQRDZFV2U5UlBWVDdqdFdGbjFGSjBSTlgxbk5BdHB6U1lEa0poNzdDWGc?oc=5",
+   "date": "2026-11-27T15:29:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1044,17 +1088,6 @@
    "next": null
   },
   {
-   "id": "31ec756a9da2",
-   "title": "Keiko Fujimori exhorta al Congreso a arribar a acuerdos a favor de la Ley MAPE y cierre del Reinfo",
-   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T23:11:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "aa268da29c96",
    "title": "Padre de alias \"Jolín\" asegura que su hijo es DJ y cuestiona condena de cadena perpetua: \"Responderán ante Dios\"",
    "excerpt": "La detención del cabecilla de “La Nueva Jauría” en Ecuador contó con apoyo del FBI y la Policía Nacional del Perú, según confirmó la presidenta Keiko Fujimori",
@@ -1209,39 +1242,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "2755101e96fb",
-   "title": "Keiko Fujimori anuncia evaluación de medidas para apoyar a familias vulnerables ante alza de alimentos",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejlyOEtHc0d0eXZDaHlINlFnOEtLYkxjcE5qLUY3cVlRR1lTeTliQ2cwMk5BX25UZkxUVFgtMHZKTl9SNUFiRnB3Qi1MYi1ENkMxZTR4U2N3VHlUTHZvSnVpVWU0RkczMTBhTEp0R2k4dWo0XzNFWTRDa1lOQi1hRHNtZzVpYmM1bnB4cjBGcExVNUhQUndkYnpXUm1fNHIzeHF2cVRuczdZczh3clBUR2NkOVYxMDNyN3Z4d192RWs1Z2tP?oc=5",
-   "date": "2026-11-26T18:47:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "99aa26ee5d60",
-   "title": "Fujimori: “El Perú está listo para ser la puerta de entrada de inversión global en Sudamérica”",
-   "excerpt": "La presidenta Keiko Fujimori afirmó que el Perú tiene condiciones para recuperar tasas de crecimiento económico superiores al 5% o 6% y posicionarse como un destino para las inversiones internacionales…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/keiko-fujimori-el-peru-esta-listo-para-ser-la-puerta-de-entrada-de-inversion-global-en-sudamerica-noticia/",
-   "date": "2026-11-26T18:44:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ce45d4dd42b5",
-   "title": "Keiko Fujimori: “El Perú está listo para ser la puerta de entrada de inversión global en Sudamérica” | PERU",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDJ2OWJlbVNMVEI0aXhQNEVkUDRQdzZ0OEp1emFPVjQ2dnVOTHJVa293TGhtYWFhcnFXdHpCNEVuV0pMVTNxOHlDaWVWN0I1SjlRcTFNdmlrX0w5YjhuekV2U21ncEUwOUNIak55bzFxSjBRR1FFdmM1TzItaTdXTXlsWGZnaHpBOFZpcWZmNzRXM3NrSzlVWGpKenJaOFVXbXRyU29jWGg1QzY3T3VMU2pHRHFCNUF3Szl3UFIwQ3c4OVRqcFhHMXN3?oc=5",
-   "date": "2026-11-26T18:44:26+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
