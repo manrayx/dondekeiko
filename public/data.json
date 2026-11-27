@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:29:56.493609+00:00",
+ "generated_at": "2026-11-27T14:51:14.095262+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "La Libertad",
-   "lat": -8.112,
-   "lng": -79.029,
-   "abroad": false,
-   "city": "La Libertad"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "La República",
-  "date": "2026-11-27T11:55:25+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-27T14:49:08+00:00"
  },
  "next": {
   "place": {
@@ -396,6 +396,38 @@
  "agenda_minutes_7d": 531,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "03ec49a80629",
+   "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
+   "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
+   "date": "2026-11-27T14:49:08+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "c5f304072c64",
+   "title": "Presidenta Keiko Fujimori recibe en Palacio de Gobierno a homólogo de Bolivia, Rodrigo Paz",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMVlhbzRoS05nbzFOSldjLXU3bGVuLTlSemVYZ0xKbVhIdEdET0l5ZU9lblVTRl9aVS1ycWI3OGZydVo4TGZlaW9hUUFLaE9VZEtaSUtTajZiYzBqd3g4Y3ZibW5Va2twanJzVnlQa1hfSk4wVWxyaGdrR2liQnVEa2xlRVg3NXBlMXJTc1ZBV3d4a1JMcWw3dTRuLVhFbUhDbmZyZERTT01sdm5LaVhZQ3pTakxBZGlHOTRmSHFmMFNnRFVTQ3c?oc=5",
+   "date": "2026-11-27T14:46:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "Bolivia",
+    "abroad": true
+   },
+   "next": null
+  },
   {
    "id": "484b7caff244",
    "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
@@ -1085,28 +1117,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHQzWDJRVVMtQ1NGUDQtY1R4U1dJbDdyX1dCTUF3OTBsQmpMd29iSXVmbE80YV9WUjlTUy1FNC1mRkRBOTR5OUJUOXNkY2NiOWxkXzlvaWlBbWFQdnhQc25Ed3pVajZDTTJWRUVDSWpFUzM4RnZYenBFekhCOFdwNHBua1Y3TmpkalJ4UGF5Tm11UjVWbWZORk14ZU5LdVZQeWpCNTRySmJIbHFjLWdWZGZBS3JFcWFOLWxtRnRZRkZ1Ukkt?oc=5",
    "date": "2026-11-26T17:03:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "07de5bb0f68e",
-   "title": "Gobierno de presidenta Keiko Fujimori firma adenda que permitirá extender masificación del gas natural a siete regiones del centro y sur del país",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWWJWblhldG1vc1lKWlYzTER3Z3JEY0gtbmRFTDlKU0hIYUdXZGF1Q2QweU5oaXBCcWVMRDRiVWJBUjJXNXpCeGpUQ2FMTVB6LXlEelljNmRYRlpNRmZ5T1B6ZU5KS0pjS19yQl9keTRKVUg1T09rSmw4T0M4ZFAxUUNrYmU2ZWQzUC15TW9WZVVHWVBvdWdqWUsxRWRRdk4xY184NXZmMFROWHdjTk9vZDFXWXg5OUlEVlYxdlNmWm1tdV9DV3U0OGVPc3VGQkNkZkxyZ0o0NVA1alh6OXVuc0RQaEhkemk5SEptclZWRGJRZm9EU2ZCYVZPMUVLYUQtMnlPQUVmdzRqQjBDekM0SA?oc=5",
-   "date": "2026-11-26T16:50:42+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "69593a7cf522",
-   "title": "Keiko Fujimori a Verónika Mendoza: “El camino fácil es criticar”",
-   "excerpt": "",
-   "source": "Agenda País",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2thbFN5LTF4WHItLTIxQmVjR0kzdVdMcXp2Sll5SEU3Z1BRUnF3SDZhcHg2RjZaRVBXbXVpZ2RDZ0ViZ0V4QUJlXzdEaVRWb1BFWFNfRGhJU0FDZ182S1dsc21EQzR0SndNTUFGdVlJWERmMUZNYUJfWXV0Nl9QMFlBOXA3dHZ5SnV5T1JsaGZfMUNVb1BR?oc=5",
-   "date": "2026-11-26T16:48:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
