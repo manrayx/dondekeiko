@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T10:13:23.433012+00:00",
+ "generated_at": "2026-11-27T10:34:45.597713+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Lima"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-27T00:06:00+00:00"
+  "source": "Red Uno",
+  "date": "2026-11-27T10:30:37+00:00"
  },
  "next": {
   "place": {
@@ -116,12 +116,12 @@
   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOUp6enA5VzI4M2dEYldncXNQNzBJUzdGRzg4b2xrT01yWnlCbl9iTTZfOGM0V1E0bDJ2UDZHTkRqZWNoM2hWQ0ZtUWcwY3czT3hyMWdOdmE4QXRkWTlqeFN0VmFQNEtzejlZbXlMUERRRmQ4TV8xZGZiWEdQMTd1aVpwUjAxTm1XTi01UGpwQXZuLUYxR1FSRmlGek4yM2l5ZjY3UjhPSmlWd3pJQnRBMXdZZlZIYVJJMVBLc21JTHBLdmh0WjBMdUphSzFwV2RhYXBRNzJaOWtNQTItRE9Sdl8yQlItaTNnVEtrLXBXX1dQVnJDUi1pazBtQmQtcmZ1Mk5xYk5uM0lfR0Q5?oc=5"
  },
  "counts_7d": {
-  "transmitiendo": 3,
+  "transmitiendo": 2,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
   "triste": 3,
-  "posando": 54
+  "posando": 55
  },
  "total_7d": 60,
  "silence": {
@@ -397,12 +397,29 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "bfa9f05328fb",
+   "title": "Rodrigo Paz y Keiko Fujimori se reunirán este viernes en Lima",
+   "excerpt": "",
+   "source": "Red Uno",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGY5YlRGTHFmazdYU25xMzQtSThEZ2wxa3pGR0JiTzlsakh5UjQ0VlR2U0V6LVJmcWhRaDNKeDU3NFdYOTVMSXY5RE9kSkJJWVNHQUNWLUJTYzFaVlgxemg4Z2FBSFlEZXZWdHBFcnlweHBWNVNrV2FXaDM4aEY3b0ZNTTREVTFlQ04tTmlUQjVPZTJpRUpTajdkQjYyNFJwRnlzQ2R1SWhBTU9lZGg4?oc=5",
+   "date": "2026-11-27T10:30:37+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
    "id": "620c24f5db08",
    "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
    "excerpt": "",
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
-   "date": "2026-11-27T08:46:41+00:00",
+   "date": "2026-11-27T10:13:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -425,6 +442,17 @@
    "source": "latinanoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1dTb1RQM1dCVmZSeVgtSjF2NTFISzRRLUZpTnFMbDFzdEFYNk9YTGtGcjZrWlRkWXpyWEJZNEJFSnZpMVJ4NTczSV9qaW5jV21JOVJqT0tYOTZ0VWU2NDhXRVpaLUl6eVNFQlI2czNwaFNtUDRFNUJFWFdwZ1MxdkR4YjlLM0JqdTNlMmlydmplMlJTczdIWGlvcVJCV1c5QVFUcUM4UnBVc29URE0tbXctQUdxWHhsc3pVU0pKSHNLTnZKNWl5cm03VmpRVk1KMnRTa3NuUFM?oc=5",
    "date": "2026-11-27T04:49:21+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a79e357156f4",
+   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
+   "date": "2026-11-27T04:46:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1034,17 +1062,6 @@
    "next": null
   },
   {
-   "id": "a79e357156f4",
-   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1QzVnNPSFJmWE5JSm8zektMRnVRWU8xRmk2bmV4Z3d3eUQzbzhXYlRhQnV4RkFxTUk4WjM0a25xQUdGSjlsWXFOdFZBTWdxSWFtWm13bDQ1RlFYTURaUHMtQk1vQS1yRDlSb01weFY5a2h6R3JnWVB1TUZneHZLSTJzNHZyVUdXNGJuaElmR2diZ3ZRUlJnTnlLSXJLY1J0Ny1abFpqNTlkRFJhcDVLbEJ6Mms0YmNrcFYzaQ?oc=5",
-   "date": "2026-11-26T16:43:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c79b863b653b",
    "title": "EN VIVO: Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
@@ -1085,17 +1102,6 @@
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnplU25oLWhqenFkb1JjZ2lpQm42RnpFMkp6aHJiVTFsUjlqazVUWXlSV1FXdGdIVERIM0hpaUhNdkxUT19fbklaalljbFNQeXJrS0d3bVNwaVB6SWM5NU9QQXBRVVhZSUdXdUxzSmRhNnJ2dDZYZjZNcS1VSE01NllMdHVpZWRMRFZKdVd0ekNNUkJaQW8teXVUN005d9IBngFBVV95cUxQRnplU25oLWhqenFkb1JjZ2lpQm42RnpFMkp6aHJiVTFsUjlqazVUWXlSV1FXdGdIVERIM0hpaUhNdkxUT19fbklaalljbFNQeXJrS0d3bVNwaVB6SWM5NU9QQXBRVVhZSUdXdUxzSmRhNnJ2dDZYZjZNcS1VSE01NllMdHVpZWRMRFZKdVd0ekNNUkJaQW8teXVUN005dw?oc=5",
    "date": "2026-11-26T16:07:44+00:00",
    "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "93c96fa96d76",
-   "title": "Presidenta Keiko Fujimori participa en firma de adenda a contrato para masificar gas natural [en vivo]",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeFJjdUpOb3NUY25SV0VmTGJoSHRiV2wyYTBXRWRiT0puMVFrbFV1Z2VXcE1XRWhYdnYtbUJsb3lmM1JSNzFNMm5EVFBrU3oybHlURUZCaWxlcG05cjVzTWMxREc5N0RZN25KV2xjaEZ3YXNpSWZKczlvV3FKTnA0aE54OTNfSmFhTk40clJYZ0k0M21HQVZqTkZXLWRLcWU2NEh2dGRqTUN2eWU5TUlZYjBGbVdYeHZHUVk1allLRW93anFPTUdOWVlueVdNeE8yNVE?oc=5",
-   "date": "2026-11-26T15:51:00+00:00",
-   "state": "transmitiendo",
    "place": null,
    "next": null
   }
