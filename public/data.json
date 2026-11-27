@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T02:24:09.914313+00:00",
+ "generated_at": "2026-11-27T02:45:26.802047+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 54
+  "triste": 3,
+  "posando": 53
  },
  "total_7d": 60,
  "silence": {
@@ -430,6 +430,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "620c24f5db08",
+   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
+   "date": "2026-11-27T02:42:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a702d5d813fe",
    "title": "¿Keiko Fujimori viajará a Colombia? Senado evaluará pedido este viernes",
    "excerpt": "",
@@ -483,23 +494,12 @@
    "next": null
   },
   {
-   "id": "620c24f5db08",
-   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
-   "date": "2026-11-27T00:21:51+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "2a7ec5632761",
    "title": "Perú y Bolivia retoman su Gabinete Binacional después de cinco años: temas que discutirán Keiko Fujimori y Rodrigo Paz",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRVNwNEJRbXBQTHBiV0pZVWdncWRQUmhOQ1N3RDhoYXJwS09iTHdSUzJmZkJSNXF3VjVxRmVudjZfMXdGcE1CdjJ1Yi1uNmppdi1MR2g5TVJpR1J5N0l0VVFMS1pySFRRY0RYQlJ0dkpRX1BzUHV3QlNsR21FYmRXRERDdUF5N1NabVpIMjMtcUZ1MDc4RjlZRlEySnotTkRDWXBvRENPb0VqajViVWF6bmYxTkRHN0s2RnBlMXM1emlWb1I4eWQ5ckFCRm1rMENzR2xpTXdVczhESUFLb0phVzR1NU9VbkluNzI2UXotUdIBigJBVV95cUxPWnFTS1l6cU1Md2JPNHlESmR6MTVxTmN5dlAtYk05OXJia3FSMFVMZE9IU2JsSElfNmN3Zm5vYnlsWEVuWFo1ZjBwczRJcEFSbHFBNWpGcHZfS05FVzRJblZ2RXZRMHcxX0FJbmVoM3dLQ0hqS1RocmNEeDBBeVpGRm94Zy1jdGVhd3dQT0dFX0hyZ2o3VkRjcWVMUUtfM2VJeU0ydnlEdk4tSlFkeDZya1ptQUxobVF1TTd3TTdRdVdYaVVKUVluZl9YUXIzNlV3YWdqanNzTWVKWEtRNExlUkYwel91Tkd0cVdyTExCYklHbUtibTN5cTlNOVYxdWVlaTV0N0RWcWMzdw?oc=5",
-   "date": "2026-11-27T00:17:00+00:00",
+   "excerpt": "El mandatario boliviano arribó esta tarde a la capital peruana junto a seis ministros de Estado, con una agenda que incluye 48 propuestas de cooperación bilateral",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/27/peru-y-bolivia-retoman-su-gabinete-binacional-despues-de-cinco-anos-temas-que-discutiran-keiko-fujimori-y-rodrigo-paz/",
+   "date": "2026-11-27T00:17:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -507,9 +507,9 @@
   {
    "id": "d21e8799a096",
    "title": "Presidente de Bolivia, Rodrigo Paz, llega a Lima para reunirse este viernes con Keiko Fujimori",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnhwVHpOMVRmcFc1Qzc5SWdTc3JjeFBlbEx4MnFrUEVSTTZmX016bmhUX1VKODZycDZJbDZPWWRYMFcxU1phQzZFa2ZqSVZndjFZclQwbnF6alNQQllVRjFTcDJCNHNBRjRzZ3JOS2FYb3ZuZFluaHQtb0lvenB4Z1F3WkNab1VXSlhVOEIwRUZWdXBiWDNEZ2NpVll2QUdmZzRYLUNMVzNDck1JcUNuSlJoWjBFV3BETjhjcTl0RlNDeHd1T0tIVjR4X0tQQdIB6AFBVV95cUxPR1Vld1dqZjZOYXNOTVlKS0owQnRvSU5VTm1mT0hWNmQ3SVNQMnBzRVN5TlVMa01GSGNpOGhIMnhHTWNJeG1jUXhYdkVXRnhjTkxkZDltU0hLZkw4SkhuQUktZXNabUdxNU8wMWNTQWdMOVd0aUFZaDNUWjgtVm1YM2plV0lDeGZUdFR3QVYyZzhhYW1kZTN0N2FhWFk1ZlVnWVVBLXBKSzBmSWY4dm5sbEVIUnd3ZjgxM3Zvd1QyTjE5LUw0OUhoVnFrUFU2VXNzelRsdFZ6cFItNmlPUDlpY1BMaTYtOHpx?oc=5",
+   "excerpt": "Ambos mandatarios encabezarán el VII Gabinete Binacional Perú-Bolivia, donde abordarán temas de comercio, inversiones, seguridad y cooperación fronteriza",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/27/presidente-de-bolivia-rodrigo-paz-llega-a-lima-para-reunirse-este-viernes-con-keiko-fujimori/",
    "date": "2026-11-27T00:06:00+00:00",
    "state": "posando",
    "place": {
@@ -539,6 +539,32 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
    "date": "2026-11-26T23:11:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "aa268da29c96",
+   "title": "Padre de alias \"Jolín\" asegura que su hijo es DJ y cuestiona condena de cadena perpetua: \"Responderán ante Dios\"",
+   "excerpt": "La detención del cabecilla de “La Nueva Jauría” en Ecuador contó con apoyo del FBI y la Policía Nacional del Perú, según confirmó la presidenta Keiko Fujimori",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/26/padre-de-alias-jolin-asegura-que-su-hijo-es-dj-y-cuestiona-condena-de-cadena-perpetua-responderan-ante-dios/",
+   "date": "2026-11-26T23:03:24+00:00",
+   "state": "triste",
+   "place": {
+    "name": "Ecuador",
+    "abroad": true,
+    "city": "Ecuador"
+   },
+   "next": null
+  },
+  {
+   "id": "a79e357156f4",
+   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
+   "date": "2026-11-26T22:46:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -618,10 +644,10 @@
   {
    "id": "3c06979a05f6",
    "title": "Keiko Fujimori anuncia que el Banco Interamericano de Desarrollo aprobó crédito de USD 10 mil millones para proyectos",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeGozcDdTYVkySFpsWlFFa3V0MllzSmNuSkFxN2RoaVVmMGI2VlZIZ3VJWVA4ZHYzQkZvV3FDTjAtakVZRmVfNldrUk5nLUNvRWJEcVlia203cFVzRDJJMUhlOVVLam11V2FJaEV3N2hHU3ZxNWNzU1Azb2RJWE9MV085YlFkY0dPVURibFAtbHFDUzBYSmN6X2NkT1hSRXNnajVqZ1EzRnBrQkNVZnczWlgydFY4UGhvWnU2UUM4S2Y2RzBpNGJRVHdtbWJRWUVZdkxqRzNrZjFsTkdKaE5paGxINU9UVzFxbkM0aVdMZ9IBigJBVV95cUxQODJsNi1lbzFlclNXVWl4WXNOX0tMZmhFeHlVOEEtZDk0QVI5NEFLdndkNTFiUExZdjI2clIybS1QZFl0ckNWc0JmSi1NbEloUGVIcXdCck1kWWp3MC1wMnZZOGZGaTQzdlFKbFhxNGxqbVFIZGxMa1JsUHhwS09LM2IzTlZQYnZkazVDRUpBY3NmbEtjYVZ2VHI4Uy1Za25KT1VvS3EzSkhNZmo3YllvM1lhTzRUVlZ2bGZqYWRvSFN3N1lpN195ckNWNXZCMlp4S2tvdzJJbmhLRnVMWlM4SmRVU1pVYXdKQkVPR2loTThBRzJ1QjZWNnhYaEhTb0E2WWowSXh2NllTQQ?oc=5",
-   "date": "2026-11-26T20:44:00+00:00",
+   "excerpt": "El organismo multilateral dividió el financiamiento en dos bloques, uno para el sector público y otro para el privado, con un plazo de ejecución de cuatro años",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/26/keiko-fujimori-anuncia-que-el-banco-interamericano-de-desarrollo-aprobo-credito-de-usd-10-mil-millones-para-proyectos/",
+   "date": "2026-11-26T20:44:53+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -640,10 +666,10 @@
   {
    "id": "eb51ac2e3bf5",
    "title": "Keiko Fujimori en contra de extender el REINFO: presidenta espera que el Congreso apruebe la ley MAPE",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR1ZLVF8teDJSZDJyQ0JRMkJNUmRBWUY3VzNrTUtFaUlIejhxMS1XcmNfc1JibVJHMDFLWXVNMXRkcWV5MWxnWFd6dUpZeXBMRVRBRFZDb1VJeW1tRmZfdEFBV3NGb3p3cnlQLVJFUmFIVG0tU056RW1DMllSdzhrQ0tNaVBFY0JYVkRaT19fVGxLdHV5WjFERkl0NDBELVUzcjRGZEtWZVZLb0hoaUtzV1dDZ3NtSFh4Z3U3U3JJSGJSMnlPWktEa2VENVlVVTFfeXFoWVpLRS3SAfMBQVVfeXFMTm9KTE0wQ1RIYjZSczUtNng5REU0eHBNYjFMSEJLWVNFRXZxSFBsajFmVW1HWVllOEVZRXZ5WDNpZ0tFMWEtN2c0QnZUai11dUQzdWd0dkhEcXFseGlKMmNOTW5mbHJNcnA3anByU3ZWaFJzYTlKTzUwaEtXd0ZhaGRrTHdublI0eFF2amNGOGRmQTVuZnYyTlV2TTAwOC1yMmJwTHhxRU5OdUZpU3o2YmhWNDdJZjRRSmlFS19lZjNFLVdVSGFnTmtTWXdwNE9UQzNsZzZZM21fRTFDUjNKMjhlcGFKYlhlc0RFWWg3dXExdk1v?oc=5",
-   "date": "2026-11-26T20:14:00+00:00",
+   "excerpt": "La mandataria reconoció que los plazos legales para el trámite urgente de la norma ya se cumplieron, aunque evitó precisar las consecuencias de ese retraso en el Parlamento",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/26/keiko-fujimori-en-contra-de-extender-el-reinfo-presidenta-espera-que-el-congreso-apruebe-la-ley-mape/",
+   "date": "2026-11-26T20:14:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1019,17 +1045,6 @@
    "next": null
   },
   {
-   "id": "a79e357156f4",
-   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1QzVnNPSFJmWE5JSm8zektMRnVRWU8xRmk2bmV4Z3d3eUQzbzhXYlRhQnV4RkFxTUk4WjM0a25xQUdGSjlsWXFOdFZBTWdxSWFtWm13bDQ1RlFYTURaUHMtQk1vQS1yRDlSb01weFY5a2h6R3JnWVB1TUZneHZLSTJzNHZyVUdXNGJuaElmR2diZ3ZRUlJnTnlLSXJLY1J0Ny1abFpqNTlkRFJhcDVLbEJ6Mms0YmNrcFYzaQ?oc=5",
-   "date": "2026-11-26T16:43:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c79b863b653b",
    "title": "EN VIVO: Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
    "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
@@ -1088,17 +1103,6 @@
     "lng": -71.967,
     "abroad": false
    }
-  },
-  {
-   "id": "12adb28c8338",
-   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
-   "date": "2026-11-26T15:14:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "c50ce6b5f357",
