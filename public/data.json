@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:33:54.341325+00:00",
+ "generated_at": "2026-11-27T15:55:04.394530+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,24 +96,24 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Piura",
+   "lat": -5.194,
+   "lng": -80.632,
+   "abroad": false,
+   "city": "Piura"
   },
-  "source": "El Comercio",
-  "date": "2026-11-27T14:53:23+00:00"
+  "source": "Gestión",
+  "date": "2026-11-27T15:54:18+00:00"
  },
  "next": {
   "place": {
    "name": "Colombia",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-27T15:10:36+00:00",
-  "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
-  "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/"
+  "source": "La República",
+  "date": "2026-11-27T15:45:22+00:00",
+  "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
+  "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -412,6 +412,133 @@
  "agenda_minutes_7d": 534,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "46344f151416",
+   "title": "Ejecutivo pide al Senado no debatir viaje de Keiko Fujimori a Colombia por emergencia en Piura",
+   "excerpt": "El Ejecutivo solicitó a la Cámara de Senadores que no someta a debate ni votación la autorización de viaje de la presidenta Keiko Fujimori a Colombia, prevista para el 3…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/el-nino-ejecutivo-pide-al-senado-no-debatir-viaje-de-keiko-fujimori-a-colombia-por-lluvias-en-piura-noticia/",
+   "date": "2026-11-27T15:54:18+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "4be1ba61cd21",
+   "title": "Keiko Fujimori cambia su agenda por emergencia en Piura: \"Nuestra prioridad es atender a las familias afectadas\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEJJX1IwaFVyT3B0LVhZdkk3MEZZS04zTDQ1VzBLcE9FaGQwRE5NTEk2VGVfZEx6bEY2dnJRMkhpd1JTNVZ4bEZ5MVNreVNJbUlCSXFMaEk2TXRJRTVBaE9MelQ2OHFERm5mQzdiSUNUYnBXb29fdXc5Y3l6QU1VSi1nWUx5M1pYUFJhNg?oc=5",
+   "date": "2026-11-27T15:52:07+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "dd6d54a03e82",
+   "title": "Rodrigo Paz y Keiko Fujimori encabezan el séptimo Gabinete Binacional en Lima",
+   "excerpt": "",
+   "source": "Red Uno",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUw2YVZoNmg1TlphM3RJWmVOTXdsZWh3eVBNZEU0SWxwaXItdjlTRlNmR0ljR1hGcXAxVU52NlhMWDAwUTQ3YXMtcTJuTGZfVGFxcWtnT19mTHl5RTFrd3JfdkI4WFJSZ2tXVFZ0RWhFNEs4NVdqandJOGxvVVhmek9wTDRybl90LU1MM051R2l0OWMzOGZuaGN4QjM5UEx6ay02ZGthOVZJS0puZTFvNFZEamlDSEltNFQ4ZVZEQnBNWFktenBrcUZSSjE?oc=5",
+   "date": "2026-11-27T15:51:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
+   "id": "00f5660bb8f0",
+   "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
+   "excerpt": "La presidenta acordó con su homólogo colombiano, Abelardo de la Espriella, aplazar el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. Además, pidió al premier Luis Galarreta gestionar ante el Senado…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709",
+   "date": "2026-11-27T15:45:22+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "ad702b9a8f40",
+   "title": "CADE 2026: Keiko Fujimori firma adenda para ampliar el gas natural en siete regiones",
+   "excerpt": "",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTdGZjJ0Z2ROZWxnUnlUdkN2TkllMlJMYmx3bHpyNmVJaktZU2IySlhuQ2JUaHNHYXVLbkw3RTd2XzQzZG8zNG9ZeWp6OERyY2VNbmNaMm1rejZiQlNlWFRIY015cWg3OTdzck9UY1pnVjVMbmhteUVYLVBxem0xMDlMbGJudFI2aTM4aXR5enhPdUd5RGVhbUxZMkNvQVlydHNST2prU2RyekQ1b19ULThvSS1od281N1ZxT0ZSenJaeU1UUjJmUUh1OHY?oc=5",
+   "date": "2026-11-27T15:44:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "6bba7f2a6654",
+   "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias e inundaciones en Piura",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1NsNE16Z2xpVGhvOF9vcFZlMUhYc0hjWXlfcy02TmtPc0FLZ3RiRlUyblJBLVJsU1I2aXAxbFdFeng4ajNQUmhOSHl0ZDlRTF9iUmNnNlY4QzBNT0ZBdVJDY2dFR3NFcWlBY0d5cEdUSjVyc2ptOVBOM2w0cENLdzB6YWJQV2RxRHpsQV9xRERQdXV3dmVMcTBrTTRqU0dfcVlTUnUzVjlMWmRwUjBMbXJ3OXRpNEVUcHlCbEhndDgwbFVBcVltNC1iaGdNUQ?oc=5",
+   "date": "2026-11-27T15:42:46+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "337e7c1ac528",
+   "title": "Keiko Fujimori posterga viaje a Colombia ante la emergencia en Piura por las intensas lluvias e inundaciones",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/",
+   "date": "2026-11-27T15:42:23+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "de536b2dd32e",
+   "title": "PCM solicita dejar sin efecto viaje de Keiko Fujimori a Colombia por emergencia en el norte del país",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT015YTkydldCTE9peEVEY2c0Sk9wUm5Nb3FDa2F2Y1YtNTNwSUQ4SExjX09TYUxsdjY4U2p5MnhYWGM4Y0VORGl4dlk2QTR1TUlVY1BnczJ3aDRXWGNJYW05UzY3OGp5NGt2V19fMXo2czRGQVNHRUQtUFhBLXk1bVFuVW5XQTNkb0UwZU9wOG1fTHV1TjVsdlBwdVpfR1R2aXlldWNiYUN6QQ?oc=5",
+   "date": "2026-11-27T15:32:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "484b7caff244",
    "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
@@ -1040,106 +1167,6 @@
    "source": "Revista COSAS Perú",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDBsT1JWMWhfazY1M3hXWHRMaWpRWUZ0LTE5NmhrOUNlRDRReEdSYncxSGpEaUxQLW8tM1Bfc2ZIYnpQa0xpdHg3NS1rU0JZS0IybXhMSnZXS3JJVjA2aldPbS14LUpZV2FIbGFKdUxxREVqelRWTzhUMDQ5ODlvRlZPVTg1UlNVcVBsX18wWUlTZ0IyVlA5TkdPdlhLV2F2bDkySG1aWUNPemPSAasBQVVfeXFMTzAwbE9SVjFoX2s2NTN4V1h0TGlqUVlGdC0xOTZoazlDZUQ0UXhHUmJ3MUhqRGlMUC1vLTNQX3NmSGJ6UGtMaXR4NzUta1NCWUtCMm14TEp2V0tySVYwNmpXT20teC1KWVdhSGxhSnVMcURFanpUVk84VDA0OTg5b0ZWT1U4NVJTVXFQbF9fMFlJU2dCMlZQOU5HT3ZYS1dhdmw5MkhtWllDT3pj?oc=5",
    "date": "2026-11-26T17:50:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "31228237e12a",
-   "title": "Keiko Fujimori inaugura ampliación de hospitalización pediátrica de VidaWas",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY0diY3NiMHNjU0pYd3NIRXUyN19hNWdCbW40eHg1Sk5OdmJ0N0VpUVRfdlJhdFQ5a1dETm04cWxGQWNNaEZ0ZUxZa3ptVjlzcVhub0tGV0lmZ0N4SmstQ0x4TFlFbVd3TERQcFNDODlZcmlOT1h5Y2JSQTJjOVBIdGk4V2huTDE2WUNTWUhOTnJFN1dkLXpmb2JkRVBGLXdiUU5tRFNB0gGqAUFVX3lxTE5oZkpWUjdUTE9RR1FZd2NTNmJJX1hRcXZqYkQtTkI4cWxxREhOYVo4X053Tnp5aGZuQ1ZkRnFOaEZLOVRKOTlwaG5iR3BFam40ai1TYkhlekl1TDNzMjNmbHlMczFRenRBZ2pkMVlVSUxJOVhMYXRjMWE2YVNseF93MzhRMTBfWGNUbXRUam01SUlYcThpWFZPM0tmTmlsN09BbkhhMHJ6MWFn?oc=5",
-   "date": "2026-11-26T17:50:05+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3486cd766c49",
-   "title": "Keiko Fujimori firma controvertida adenda con empresa colombiana Cálidda para masificar el gas natural en Cusco",
-   "excerpt": "",
-   "source": "Gato Encerrado",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMmdyUFFqMWFrLUZ0aDNEX25OUUJUbXNzZUoyWHlXS2VLNFg2M2xuLTk5TDZ3aE83M2prTlhKQlFORWtFdTBpTjNmaGZUaDlJaFg4aHJXV2UtRi0zTXRHeXY0MmRWSEJtOHBLVUJMd2RXMmY3YlpOSFc4MWd4RExuUk9LbHpkRnZnbTR3RG5nMWVna3FFWTUyUDF6SkNDUWVhSHlMVWY3SzUzS2hhQkhiTEhibXpOY1FieFEzSV92ZFVnSkVwYnlMXzk2dHdXbi1Cbm9EQlNzUFYyZw?oc=5",
-   "date": "2026-11-26T17:47:20+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Cusco",
-    "lat": -13.532,
-    "lng": -71.967,
-    "abroad": false,
-    "city": "Cusco"
-   },
-   "next": null
-  },
-  {
-   "id": "1007f829945f",
-   "title": "CADE 2026: Presidenta Fujimori le pide al Congreso aprobar la Ley MAPE",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHNPTnFqcHJTZ3hDMUp5QjRZT0tOMUdlMkw0M3lFSENwemlLUnREYjFNSWZuRmxQaXdmVVphYW4xdlVya0JCdlBna01UZVZNbUJmNXVwMmU3bEZneExsN3JlR0Nza1diNXBCZFdtazJKQUhNdXZhS3FFaURJSVBQazRWMWo1a1JocElWUFZoUGxySFRXSDVDd0dVTjlBdw?oc=5",
-   "date": "2026-11-26T17:43:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c68e4a39cd4c",
-   "title": "CADE 2026: Presidenta Fujimori le pide al Congreso aprobar nueva Ley MAPE",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFZxNTBKcjJrU0FYMHNaazVTcy1Hc0laNVFUYzB4Q2EtbVpZWVAzYmZlM1prMS1MeHA4Mk9wV0FTakJfdWpCNVlVRUl0d2NITDR0YzA5UlpPVVRzaTBJTGQ5czdNa2dIVlo4R3l1WkJEcVdQQ0ZUWS1TTDZmSy1DRDVCY0g3STAyQlR1Nng1ZzUtNWo3WmUwM3AyWlJjT0YtdlE?oc=5",
-   "date": "2026-11-26T17:43:49+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "d8693655b8c9",
-   "title": "Presidenta Keiko Fujimori pide al Congreso debatir y aprobar la ley MAPE",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUTVfSzZqcmhNSWc0Yk9mN092RlAxTUwtUWFLUDA5RjNleGk3b0d5OE8xTkotWDJzdy00WF81S2ZkQ2NNWnlid1h2WDVrczhsTmE0ZzdLYjRvMlpmX1h0eWQwNU9CVmJMdmxKZUM5ODhROTMyeUtaQnBTOXVBVk4xS3JMYW81M211OHo5VzBfLXdxMW9YSEFRNlo3Yl95NldsTnY4MWZDV3NUU3l0OHZsUi05Und2aFJLLUZzLW95ZTlBVmQ2SWxVVFpCLVJrWWNBc2RiTTJpU1cybk1pUkkwZ2xhYV9ybU8xQVptWtIB8gFBVV95cUxOWlFEQVhURUlfWFc0M3hIY2wzN2ZZcTJHa0xuRWlLckViWnJUaEE3c3JQQUMwbjdmeDFFUV90YkhqblpPWFEyQ3djNVVpV1kwWGlFYm9zSWNNVlRhS3NrRXUwbEhvOGpfd29nc1k3R0V2clF2aHVkcUdUclJfVFNGMEM3WGhLSmhLWFhMX0N0ZmFLSklmc205LWQ3NHlzeXNWQzFVTThFYUcxQmZyRk5fSTJSYWQyWFpLUG5GcFliT0ZMVE15cjQ1WXNzOVlZMVg3RmF6c3JMT3ptempoSnlpaVdHd21ySERGVnB0cl9veUxlZw?oc=5",
-   "date": "2026-11-26T17:38:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2fd3513a192a",
-   "title": "Keiko Fujimori pide al Congreso debatir y aprobar la ley MAPE durante su discurso en CADE Ejecutivos 2026",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWTc4YmxoSmI2ejd3akNVYnZ2RDJsYTlBWnd3d3VVV3ZsMVY3T2o5SmxiVWQ4QjFCZVA4ckhRb3BpamtfTGg0YTZubFdGS0lyUEs2US1RQTdYTERiUVBvV2R0ZnU3VHE3WDVuZFg1NDJBY3lyaktRS3ZWdzh4aFlBbHpEeTcwalVodUdoOEUxc1EtcHk2TVRMVFA5U0lBa3hadER1QUNlRjh1RmxoVEpSNVFfRERSNjBVay1DdHVoZWhrOTFzM0YweW8xU3dVTmhTS0E?oc=5",
-   "date": "2026-11-26T17:37:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0a0a61771429",
-   "title": "Presidenta Keiko Fujimori asiste a inauguración de segundo nivel de hospitalización pediátrica en Cusco",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYUFSblZabGRUNWV1cWdlNjR4bXNWQVNTNjhyNzZGZW9jYlp6NnFPbTJpS0JsRGRtb2RaYXV6Tk9GZk41ZlNzNFU5Q0RoMGJTWjVnQk9ZX1N6TjJhREdWc2hpSW5kZnd5dFJoMTNXYXBpYnFBT0dqcGs3cDBKNDdmZUJZVlJSOGFSRWl0Uzd4UThWN0VkM1ZEdWFkMEpROUR4dS1rWHBSTDBkRXNMdTlZT0lUT19SaEx0QXMzYkNQNWRzN2Fvbzh6aUFBamFYaEIzbXZpZDFn?oc=5",
-   "date": "2026-11-26T17:36:22+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Cusco",
-    "lat": -13.532,
-    "lng": -71.967,
-    "abroad": false,
-    "city": "Cusco"
-   },
-   "next": null
-  },
-  {
-   "id": "eda770621d64",
-   "title": "Keiko Fujimori sobre la formalización minera en CADE 2026: “Se avanzó casi nada” con el Reinfo",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOFhEUGZWb0RBQ19KeVQyRHB3TFVDb1h5cWhNVTMyS1dvLUo1TVlnd09yYVZlbUE0RlJCeU1ZemZydjNHMTBLc1VyWWR5dDdwdXZoUmI1MEVyajBYdUtvUmFiNG9HUkpPcFJFVE4tSmJtNXJhT09KN2R0ekstWUZiY2Z4U2dIQ3ZPeExyWUIyMHVYeTl6cFBkVjNEZmlpQTBnTS1XaV9GekJsVVlDNkk4SkplRTlHQnN3Ym13UnJ1X0RWcmtiQUtrelpEendwcDBiQ3pDc0ZDWmxuMF9ZNUxEQnpiaDPSAeoBQVVfeXFMTUUyb3psU3k1Mjg0UVdOYnhad2NfZ1k0ZWFVaTN5TC1tTE5EaHFMbF9UMmRJMHpGTldlMzcyMUNkNTBudXhRMUp0TmhFRnBaVkFsbFVZZUxMWnFIZjNYc3JRMEYzVlQwamd3ckNzN3VSODhxeV9fWmZfOGp0WlkzaXp5SzFJTjZmNXZPcnhBMWJFMzZDRTdZcFY4YXU0WTF5OTV0MlQzTXF1SGdKb29UQTBOei16TzB1aHZGU2VkM3BRdzV5cXp1T2I0RWxOdkl6aTB0aHRqRUFxRW5nQ3FfemRVb2M0QU5uWlpR?oc=5",
-   "date": "2026-11-26T17:32:23+00:00",
    "state": "posando",
    "place": null,
    "next": null
