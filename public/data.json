@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:12:45.356229+00:00",
+ "generated_at": "2026-11-27T15:33:54.341325+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "Colombia",
    "abroad": true
   },
-  "source": "Gestión",
-  "date": "2026-11-27T14:50:03+00:00",
-  "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
-  "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/"
+  "source": "El Comercio",
+  "date": "2026-11-27T15:10:36+00:00",
+  "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
+  "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -130,6 +130,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-27T09:40:00-05:00",
+   "end": "2026-11-27T09:43:00-05:00",
+   "minutes": 3,
+   "subject": "Recibe a su homólogo de Bolivia, Rodrigo Paz Pereira.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-26T11:07:00-05:00",
    "end": "2026-11-26T12:14:00-05:00",
@@ -393,9 +409,23 @@
    }
   }
  ],
- "agenda_minutes_7d": 531,
+ "agenda_minutes_7d": 534,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "484b7caff244",
+   "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/",
+   "date": "2026-11-27T15:10:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
   {
    "id": "c044387030fb",
    "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
@@ -467,20 +497,6 @@
     "abroad": true
    },
    "next": null
-  },
-  {
-   "id": "484b7caff244",
-   "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/",
-   "date": "2026-11-27T14:10:46+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   },
   {
    "id": "903c1d56bb46",
