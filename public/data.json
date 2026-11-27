@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:18:22.824788+00:00",
+ "generated_at": "2026-11-27T11:39:30.058439+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -397,6 +397,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "04f3c5247240",
+   "title": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
+   "excerpt": "La sesión del Pleno del Senado está programada para las 10 a. m. de este viernes 27 de noviembre. El primer vicepresidente, Alejandro Muñante, será el encargado de dirigir el…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/25/pleno-del-senado-evaluara-este-viernes-el-pedido-de-keiko-fujimori-para-viajar-a-colombia-hnews-1817475",
+   "date": "2026-11-27T11:18:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "bfa9f05328fb",
    "title": "Rodrigo Paz y Keiko Fujimori se reunirán este viernes en Lima",
    "excerpt": "",
@@ -673,9 +684,9 @@
    "id": "eb51ac2e3bf5",
    "title": "Keiko Fujimori en contra de extender el REINFO: presidenta espera que el Congreso apruebe la ley MAPE",
    "excerpt": "La mandataria reconoció que los plazos legales para el trámite urgente de la norma ya se cumplieron, aunque evitó precisar las consecuencias de ese retraso en el Parlamento",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/26/keiko-fujimori-en-contra-de-extender-el-reinfo-presidenta-espera-que-el-congreso-apruebe-la-ley-mape/",
-   "date": "2026-11-26T20:14:55+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR1ZLVF8teDJSZDJyQ0JRMkJNUmRBWUY3VzNrTUtFaUlIejhxMS1XcmNfc1JibVJHMDFLWXVNMXRkcWV5MWxnWFd6dUpZeXBMRVRBRFZDb1VJeW1tRmZfdEFBV3NGb3p3cnlQLVJFUmFIVG0tU056RW1DMllSdzhrQ0tNaVBFY0JYVkRaT19fVGxLdHV5WjFERkl0NDBELVUzcjRGZEtWZVZLb0hoaUtzV1dDZ3NtSFh4Z3U3U3JJSGJSMnlPWktEa2VENVlVVTFfeXFoWVpLRS3SAfMBQVVfeXFMTm9KTE0wQ1RIYjZSczUtNng5REU0eHBNYjFMSEJLWVNFRXZxSFBsajFmVW1HWVllOEVZRXZ5WDNpZ0tFMWEtN2c0QnZUai11dUQzdWd0dkhEcXFseGlKMmNOTW5mbHJNcnA3anByU3ZWaFJzYTlKTzUwaEtXd0ZhaGRrTHdublI0eFF2amNGOGRmQTVuZnYyTlV2TTAwOC1yMmJwTHhxRU5OdUZpU3o2YmhWNDdJZjRRSmlFS19lZjNFLVdVSGFnTmtTWXdwNE9UQzNsZzZZM21fRTFDUjNKMjhlcGFKYlhlc0RFWWg3dXExdk1v?oc=5",
+   "date": "2026-11-26T20:14:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1079,17 +1090,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlNsYjdKR196RklXSkFNNWdrMGw3SHM2RkdtTmFnR3BLdk5KeUxYc2FrWkdRVzVZQkM4MGN1SWVhamREci1hOWRTRjdPbVFtbVB0SFNqeV8yUXZXaGtaaVdkT1ZxcWhaUFlEWWh5T3VTZ1NxUlhJcHJkb2pMeVdQZ3g3di1CQ0V1NXBKZDFYLUxpeFE0UjZPZ0U5U01rSDZQaDFpcmZqWF85aEJqcWlQb0Q5cmNTRkVSUUdxTmVqajVuVUlUdTZrLW5lMXo0Zm8?oc=5",
    "date": "2026-11-26T16:38:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "04f3c5247240",
-   "title": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
-   "excerpt": "La sesión del Pleno del Senado está programada para las 10 a. m. de este viernes 27 de noviembre. El primer vicepresidente, Alejandro Muñante, será el encargado de dirigir el…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/25/pleno-del-senado-evaluara-este-viernes-el-pedido-de-keiko-fujimori-para-viajar-a-colombia-hnews-1817475",
-   "date": "2026-11-26T16:13:49+00:00",
    "state": "posando",
    "place": null,
    "next": null
