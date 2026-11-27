@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:01:36.720812+00:00",
+ "generated_at": "2026-11-27T07:22:49.318740+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -442,17 +442,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "1007f829945f",
-   "title": "CADE 2026: Presidenta Fujimori le pide al Congreso aprobar la Ley MAPE",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejluSE9Oa3Z1YlBSc3B3ZVplQTFtR095a2tZRDZ5RnJXX0xQM1hzVVFkSV9oSzE3Rm1iY24zNDNhLW1mWTczeU9mTXdHeTgxemZ0b0hULXIwVG13elNHTEpWaWhuYUNKYjd4bEZ1OEdndG9Oc1VpVFZZSkNjOTRHMlI3SFdqTXktckktRVJ5QnNBd1ItYktJd3NtUnkwajh5TkI4?oc=5",
-   "date": "2026-11-27T01:08:34+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "a9dca8789455",
@@ -907,6 +896,17 @@
    "next": null
   },
   {
+   "id": "1007f829945f",
+   "title": "CADE 2026: Presidenta Fujimori le pide al Congreso aprobar la Ley MAPE",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVHNPTnFqcHJTZ3hDMUp5QjRZT0tOMUdlMkw0M3lFSENwemlLUnREYjFNSWZuRmxQaXdmVVphYW4xdlVya0JCdlBna01UZVZNbUJmNXVwMmU3bEZneExsN3JlR0Nza1diNXBCZFdtazJKQUhNdXZhS3FFaURJSVBQazRWMWo1a1JocElWUFZoUGxySFRXSDVDd0dVTjlBdw?oc=5",
+   "date": "2026-11-26T17:43:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c68e4a39cd4c",
    "title": "CADE 2026: Presidenta Fujimori le pide al Congreso aprobar nueva Ley MAPE",
    "excerpt": "",
@@ -1083,6 +1083,17 @@
    }
   },
   {
+   "id": "12adb28c8338",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
+   "date": "2026-11-26T15:14:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c50ce6b5f357",
    "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en Cade Ejecutivos 2026",
    "excerpt": "",
@@ -1097,17 +1108,6 @@
     "abroad": false,
     "city": "Cusco"
    },
-   "next": null
-  },
-  {
-   "id": "e3f5c3619bf0",
-   "title": "Empresarios peruanos muestran inusual confianza en el gobierno de Fujimori",
-   "excerpt": "",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dCQ3JuV00yMVZYZXlLQzQwRXdvVEp1WEo5QjIySVdRZXg2dlYtUmljN3dyeWNHNnFwd2NuQS1Ka3FNS1kwQjJYc3oydUotQVdnZXpONFlTWDJDMzl0VElyTDNGaHRvMGpULUNSRzhxVnRJZk1FWmhETm50V0ZxTS1vS3BrU0hXYWlJTjhReWdrLUNkeW1jX1FkT19TbFVwbmlNX0JXRnk?oc=5",
-   "date": "2026-11-26T14:57:02+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
