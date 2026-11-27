@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T12:00:53.635713+00:00",
+ "generated_at": "2026-11-27T12:22:02.157806+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -397,6 +397,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1b46d6b42e48",
+   "title": "Ley Mape: La presidenta Keiko Fujimori le pide al Congreso aprobar su proyecto",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkxhZGdJRHhjRzNvLTMzNkNPemdGU2dNeEluMDJWN3pKRGxLUUNqUWE0bE9URnJBSEgyR1lyR2w1MUJuN1c5NVlUTjJRMk1wazFHX1lNQVl6Z3NBa2FYR281ckVOZnpINFNjRUlWbGlldnhXUnRxMXdmS3RXMkV3dE9vdmV2Ujk3dEJVTW5rQkFyTVE0TWVTNkZxd2pQajJNTWVCaDZZOWRHWU9jeFB4NUdidUgzZ1g3cnVF0gHPAUFVX3lxTE95VlpZS01NQWJGb0Jsd3BibUdKVEJPTlRGak1sWFNxUjZjNWdSRE1UMU4xRWNXb3Q3VVRualhTd1hEdk13RHBtbTMwbTVpRnRBeU53bGhrU3QyandRQXpsVnFHRzZkM08xQ1k0ODBCR1RpWkFLZWh4TDNMYnFDSlVUcDJBZUJ4RWM1S0JwaWlzN21oTTcyeUR5M1FvOVU2WXZGQjhDRUlFc1FsdFpyel8yWTFPOUFmWHBRRk01RTZjcmFkUFltYzlHNVF3VG5DYw?oc=5",
+   "date": "2026-11-27T12:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "2f431fd97d46",
    "title": "Gobierno de Keiko Fujimori nombró a 26 afiliados a Fuerza Popular como subprefectos el en Perú",
    "excerpt": "Las designaciones incluyen a subprefectos en La Libertad, Pasco, Cajamarca y Arequipa. Los nombramientos los realizó el Ministerio del Interior a través de una serie de resoluciones directoriales.",
@@ -662,9 +673,9 @@
    "id": "3c06979a05f6",
    "title": "Keiko Fujimori anuncia que el Banco Interamericano de Desarrollo aprobó crédito de USD 10 mil millones para proyectos",
    "excerpt": "El organismo multilateral dividió el financiamiento en dos bloques, uno para el sector público y otro para el privado, con un plazo de ejecución de cuatro años",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/26/keiko-fujimori-anuncia-que-el-banco-interamericano-de-desarrollo-aprobo-credito-de-usd-10-mil-millones-para-proyectos/",
-   "date": "2026-11-26T20:44:53+00:00",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeGozcDdTYVkySFpsWlFFa3V0MllzSmNuSkFxN2RoaVVmMGI2VlZIZ3VJWVA4ZHYzQkZvV3FDTjAtakVZRmVfNldrUk5nLUNvRWJEcVlia203cFVzRDJJMUhlOVVLam11V2FJaEV3N2hHU3ZxNWNzU1Azb2RJWE9MV085YlFkY0dPVURibFAtbHFDUzBYSmN6X2NkT1hSRXNnajVqZ1EzRnBrQkNVZnczWlgydFY4UGhvWnU2UUM4S2Y2RzBpNGJRVHdtbWJRWUVZdkxqRzNrZjFsTkdKaE5paGxINU9UVzFxbkM0aVdMZ9IBigJBVV95cUxQODJsNi1lbzFlclNXVWl4WXNOX0tMZmhFeHlVOEEtZDk0QVI5NEFLdndkNTFiUExZdjI2clIybS1QZFl0ckNWc0JmSi1NbEloUGVIcXdCck1kWWp3MC1wMnZZOGZGaTQzdlFKbFhxNGxqbVFIZGxMa1JsUHhwS09LM2IzTlZQYnZkazVDRUpBY3NmbEtjYVZ2VHI4Uy1Za25KT1VvS3EzSkhNZmo3YllvM1lhTzRUVlZ2bGZqYWRvSFN3N1lpN195ckNWNXZCMlp4S2tvdzJJbmhLRnVMWlM4SmRVU1pVYXdKQkVPR2loTThBRzJ1QjZWNnhYaEhTb0E2WWowSXh2NllTQQ?oc=5",
+   "date": "2026-11-26T20:44:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1090,17 +1101,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlNsYjdKR196RklXSkFNNWdrMGw3SHM2RkdtTmFnR3BLdk5KeUxYc2FrWkdRVzVZQkM4MGN1SWVhamREci1hOWRTRjdPbVFtbVB0SFNqeV8yUXZXaGtaaVdkT1ZxcWhaUFlEWWh5T3VTZ1NxUlhJcHJkb2pMeVdQZ3g3di1CQ0V1NXBKZDFYLUxpeFE0UjZPZ0U5U01rSDZQaDFpcmZqWF85aEJqcWlQb0Q5cmNTRkVSUUdxTmVqajVuVUlUdTZrLW5lMXo0Zm8?oc=5",
    "date": "2026-11-26T16:38:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5c3cfc0cfe63",
-   "title": "Keiko Fujimori firma adenda con Cálidda: gas natural para 15 ciudades",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRnplU25oLWhqenFkb1JjZ2lpQm42RnpFMkp6aHJiVTFsUjlqazVUWXlSV1FXdGdIVERIM0hpaUhNdkxUT19fbklaalljbFNQeXJrS0d3bVNwaVB6SWM5NU9QQXBRVVhZSUdXdUxzSmRhNnJ2dDZYZjZNcS1VSE01NllMdHVpZWRMRFZKdVd0ekNNUkJaQW8teXVUN005d9IBngFBVV95cUxQRnplU25oLWhqenFkb1JjZ2lpQm42RnpFMkp6aHJiVTFsUjlqazVUWXlSV1FXdGdIVERIM0hpaUhNdkxUT19fbklaalljbFNQeXJrS0d3bVNwaVB6SWM5NU9QQXBRVVhZSUdXdUxzSmRhNnJ2dDZYZjZNcS1VSE01NllMdHVpZWRMRFZKdVd0ekNNUkJaQW8teXVUN005dw?oc=5",
-   "date": "2026-11-26T16:07:44+00:00",
    "state": "posando",
    "place": null,
    "next": null
