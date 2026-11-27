@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T15:55:04.394530+00:00",
+ "generated_at": "2026-11-27T16:16:46.120199+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,24 +96,24 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Piura",
-   "lat": -5.194,
-   "lng": -80.632,
-   "abroad": false,
-   "city": "Piura"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "Gestión",
-  "date": "2026-11-27T15:54:18+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-27T16:14:59+00:00"
  },
  "next": {
   "place": {
    "name": "Colombia",
    "abroad": true
   },
-  "source": "La República",
-  "date": "2026-11-27T15:45:22+00:00",
-  "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
-  "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709"
+  "source": "El Comercio",
+  "date": "2026-11-27T16:10:58+00:00",
+  "title": "Keiko Fujimori posterga viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
+  "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -413,6 +413,142 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "03ec49a80629",
+   "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
+   "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
+   "date": "2026-11-27T16:14:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "6c573124de47",
+   "title": "Keiko Fujimori posterga viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/",
+   "date": "2026-11-27T16:10:58+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "3b01a8386ab2",
+   "title": "Presidenta Keiko Fujimori posterga su viaje a Colombia ante emergencia por lluvias en Piura",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdWhLMUdsQVFDNGlkX1V6cVBvSTIxRlBxRTNzcHFna3I2WDNfYTBlZkl2UlVnQkxTRjZENnVTOVQzUlFEanZ4ZXYzYXZvUng2WDNnS25ZZmJ2am15R0pXSHkzMjNKVURrb1pQR0dZNDlWbFA2Z0t3MXdjMUpOZHgtT1JESWZza1luMUVPUDc5SW9PaFhNU2lQLWZqSVRUeFVnMDZaMEFYcVpFenpzY1lRdlZuRFItWmVDWDEzVUN3dXdpQXktUXFVX0N2UXZSd9IB4gFBVV95cUxPSFVFS0pmSUFadU9BZFdTeWFDMnc5ZnFZNXFQNlMwOFlwbjVjOFJMTl9aWFo4bTdmYUJta0NkbVFpR1liT3dDSXVDektUQktYVVViLVJGSzFlVWppNXpjRmhXbDl2cDYxMGhPejY2amdnUzRYa25WR2lPdm5EeWtaM3R0YXA5eXQwd1VmZWdPM0poS0Itcm9pQ1ZBMGdJZ1hkbWY4RENpai0wSV9SN1Y0dHNvLXEwdmw1aGVTQWpna0pmTEZNcVoyU3d0a2E2N3FXMW9nQlBxR21ZdzhQeXpUMlB3?oc=5",
+   "date": "2026-11-27T16:06:56+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "00f5660bb8f0",
+   "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
+   "excerpt": "La presidenta acordó con su homólogo colombiano, Abelardo de la Espriella, aplazar el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. Además, pidió al premier Luis Galarreta gestionar ante el Senado…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709",
+   "date": "2026-11-27T16:04:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "574984c9db14",
+   "title": "Keiko Fujimori habló con Abelardo De La Espriella y postergó su visita a Colombia",
+   "excerpt": "",
+   "source": "Revista Semana",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDhPZENycExOWEJweDd3Zk5adUdHQ2VaQzZ0YUwybnRYNlExWHcwcVdLRjNCMnJaeWt0VURfQUxuckNsS0RtbmJjVVdibEtkRjMyNlhSTmF0Q0RKNXZ2M2VYYzc5MHEwSUZFTDhWTll6bFhTSnNVWC1SZ2FfM2p1aGhaU0hTRWJHWVd4MlB3bXBhbmxab2MteTNiWG1RN3pNcGkwX3pQSEE1MktzWEJ6YXRRbUJZNVVPUEJ3QnRGNWM3eWZIQ2fSAcsBQVVfeXFMUHhBeEdxajh4X2w0VlU3TDJERnhBQXdlcTdkNWI3RmhoalVlWkstaUJoZEpTMkxMbmF1OG1lLVR2T3d1Zy1XOVV0cDBJZFhHNEdPUVFTUTRiSkd1UmZCZG55MjVKUE1uSDBmRE9OZHA1OGMyd3p5NGJhdU9LWWtHS3gzV3BkWWlyLXQzMzRvT1p3OHlNelVCaHBnUFM2aWoxT1Y2ZkVLRTJyMGtPRjZ0VTUybDIxdGJsb3p0RFBTNER2alM3QnI3Ni1HRE0?oc=5",
+   "date": "2026-11-27T16:01:15+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "579497fcdc4a",
+   "title": "Keiko Fujimori suspende su viaje a Colombia por fuertes lluvias en Piura",
+   "excerpt": "La mandataria peruana acordó con su par colombiano postergar el encuentro binacional previsto en Barranquilla",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/27/keiko-fujimori-suspende-su-viaje-a-colombia-por-fuertes-lluvias-en-piura/",
+   "date": "2026-11-27T15:56:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "dd6d54a03e82",
+   "title": "Rodrigo Paz y Keiko Fujimori encabezan el séptimo Gabinete Binacional en Lima",
+   "excerpt": "",
+   "source": "Red Uno",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUw2YVZoNmg1TlphM3RJWmVOTXdsZWh3eVBNZEU0SWxwaXItdjlTRlNmR0ljR1hGcXAxVU52NlhMWDAwUTQ3YXMtcTJuTGZfVGFxcWtnT19mTHl5RTFrd3JfdkI4WFJSZ2tXVFZ0RWhFNEs4NVdqandJOGxvVVhmek9wTDRybl90LU1MM051R2l0OWMzOGZuaGN4QjM5UEx6ay02ZGthOVZJS0puZTFvNFZEamlDSEltNFQ4ZVZEQnBNWFktenBrcUZSSjE?oc=5",
+   "date": "2026-11-27T15:55:11+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
+   "id": "4be1ba61cd21",
+   "title": "Keiko Fujimori cambia su agenda por emergencia en Piura: \"Nuestra prioridad es atender a las familias afectadas\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEJJX1IwaFVyT3B0LVhZdkk3MEZZS04zTDQ1VzBLcE9FaGQwRE5NTEk2VGVfZEx6bEY2dnJRMkhpd1JTNVZ4bEZ5MVNreVNJbUlCSXFMaEk2TXRJRTVBaE9MelQ2OHFERm5mQzdiSUNUYnBXb29fdXc5Y3l6QU1VSi1nWUx5M1pYUFJhNg?oc=5",
+   "date": "2026-11-27T15:54:38+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "46344f151416",
    "title": "Ejecutivo pide al Senado no debatir viaje de Keiko Fujimori a Colombia por emergencia en Piura",
    "excerpt": "El Ejecutivo solicitó a la Cámara de Senadores que no someta a debate ni votación la autorización de viaje de la presidenta Keiko Fujimori a Colombia, prevista para el 3…",
@@ -430,12 +566,23 @@
    "next": null
   },
   {
-   "id": "4be1ba61cd21",
-   "title": "Keiko Fujimori cambia su agenda por emergencia en Piura: \"Nuestra prioridad es atender a las familias afectadas\"",
+   "id": "af55494ebe22",
+   "title": "Presidentes Keiko Fujimori y Rodrigo Paz lideran VII Gabinete Binacional entre Perú y Bolivia",
    "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEJJX1IwaFVyT3B0LVhZdkk3MEZZS04zTDQ1VzBLcE9FaGQwRE5NTEk2VGVfZEx6bEY2dnJRMkhpd1JTNVZ4bEZ5MVNreVNJbUlCSXFMaEk2TXRJRTVBaE9MelQ2OHFERm5mQzdiSUNUYnBXb29fdXc5Y3l6QU1VSi1nWUx5M1pYUFJhNg?oc=5",
-   "date": "2026-11-27T15:52:07+00:00",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaG9PSEhyRWxGNGxETld4U21MbVFWT0VEZGV4eXlBOHFFQmdQTXhHNTJQTFpzTkRSSkNNcUV3bUtIaW9FN2ExOGhyaEFweURtTUZ4YVJoajg4LThEakw3WjQtT0dfd0trYVFnU21sWi1sT25Yb1B4blhlXzZ1VWJPaVVoX2tKeXVTbzU0MXhFWS1kbmxQaUNtN2NoRFhxMjVrRkdweUl1dkR1ZDBKWXhrWDRtdVB1djFxaFh6THJmdlM1VmMwUkkzXw?oc=5",
+   "date": "2026-11-27T15:49:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "648063bb0728",
+   "title": "Keiko Fujimori posterga viaje a Colombia por emergencia en Piura y cancela pedido de viaje al Senado",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnNqcE1fMGN2U09aamZfaE1LRXJ2MXp1a0k1TUlHSHd1WEc0ZDRCTE00TlBUQ0hvLWxRM0YtM0JUUG5QdFd2dS05OFpwdnNLZTZtSE14YTV4dm5uR3dCMzc5RU5MNHI3dUtsejI1VmFZLUV3R2hfTERVYnNIaEFQNEJqTHpiRmNpMzl6dmlzeGp6MTdlQi1RbGFUV0xRTjRDSHNXMHdaTzFaSUxQdzMxQVB6dUlvWUlJMFhiTVAxRk9GeHB0WWZlWQ?oc=5",
+   "date": "2026-11-27T15:46:11+00:00",
    "state": "posando",
    "place": {
     "name": "Piura",
@@ -444,34 +591,6 @@
     "abroad": false,
     "city": "Piura"
    },
-   "next": null
-  },
-  {
-   "id": "dd6d54a03e82",
-   "title": "Rodrigo Paz y Keiko Fujimori encabezan el séptimo Gabinete Binacional en Lima",
-   "excerpt": "",
-   "source": "Red Uno",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUw2YVZoNmg1TlphM3RJWmVOTXdsZWh3eVBNZEU0SWxwaXItdjlTRlNmR0ljR1hGcXAxVU52NlhMWDAwUTQ3YXMtcTJuTGZfVGFxcWtnT19mTHl5RTFrd3JfdkI4WFJSZ2tXVFZ0RWhFNEs4NVdqandJOGxvVVhmek9wTDRybl90LU1MM051R2l0OWMzOGZuaGN4QjM5UEx6ay02ZGthOVZJS0puZTFvNFZEamlDSEltNFQ4ZVZEQnBNWFktenBrcUZSSjE?oc=5",
-   "date": "2026-11-27T15:51:17+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "00f5660bb8f0",
-   "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
-   "excerpt": "La presidenta acordó con su homólogo colombiano, Abelardo de la Espriella, aplazar el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. Además, pidió al premier Luis Galarreta gestionar ante el Senado…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709",
-   "date": "2026-11-27T15:45:22+00:00",
-   "state": "posando",
-   "place": null,
    "next": {
     "name": "Colombia",
     "abroad": true
@@ -540,6 +659,17 @@
    "next": null
   },
   {
+   "id": "c044387030fb",
+   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
+   "date": "2026-11-27T15:22:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "484b7caff244",
    "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
    "excerpt": "",
@@ -554,32 +684,18 @@
    }
   },
   {
-   "id": "c044387030fb",
-   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+   "id": "af9c0daf6714",
+   "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias en el norte del país",
    "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
-   "date": "2026-11-27T15:10:06+00:00",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOFFGdFk4QTVXSUxVMDRzZDhjUlNGM1dqSlM5aXc2cWhrUTZYTldMdmd6YkUwVWxmdUY5MjBGdlVtVmJ4OXZaa19fbVdQUE5xWV9LVEZ0SHRObE9TeWdQUjNjeWFfNFBOdlp5UTBnWHhyNnpZOGdxVENkanZhWlRIQkx2bWg2ZURRcXFtRWQ5c2xmS3NoZmRJSDJOX2NuSUo0SXRDczhnSkFnY1RvbEFmWjY1VGYya0sxdzBDalVEWEpBTzA0?oc=5",
+   "date": "2026-11-27T15:02:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "03ec49a80629",
-   "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
-   "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
-   "date": "2026-11-27T14:53:23+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
   },
   {
    "id": "8b59deea57c3",
@@ -1090,83 +1206,6 @@
    "source": "https://geniostv.pe/",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYWtZZ0pLbXViU2YzMVV4TnBoZ2ttNVd2N3VJdUNSOVF3R1VyVUVVY0FUVTJaekZVSnE1ejNIb3kzZmVLQXVyVDEtSGNGRDhldjBlbTNFSzktaFU5WERrYkttS2lWbm1KemFPSkVwdHZRcVVaZHdIWVZYdjJERV8tanVXbkUwZnBRUnpGcDFhbUtsbVlDQWtqeExxQTBiRS1KLXRmaTAtcWxYVnpyMmhSOTFlM3ZKZElHcF9DWUc2VTV4bVBiU1JUdzZXUksydi1jSmUtVnFkVGotYlZMblZEVXRfZUVTNVR6Q013?oc=5",
    "date": "2026-11-26T18:16:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "620c24f5db08",
-   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
-   "date": "2026-11-26T18:16:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "86fad8dea7c1",
-   "title": "Presidenta Keiko Fujimori en CADE 2026: “El sector privado no es enemigo del gobierno. Quizá así lo vieron otros gobiernos, nosotros no”",
-   "excerpt": "",
-   "source": "Semana Económica",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOHJabW1RSnhSV3R2d2VENThvQXVpY09wMWxTVGMzNXZvdnRMSXc2ZXQxSENOaE1ENGpPU0FrM0kwbFptOTBnYTk3OVJXQXFzU2NQR1VPTGpnSU1rN1BJaW5nVVhSNXlqdEM4MkE5OUVvNzB0RVdrcEZWLU0xUVRBUkZBb0hMTDE2X3RYcURvXzRoUDNVblZ4ZDhHVWFWVU83VmQ4R0VJWU5QWlFablBrUEktZGVZM1FUU0oxbFJrQjNXWmV1OWdNQzV6aEJaZWFPS0VtN1hITVp5SnV0SXc?oc=5",
-   "date": "2026-11-26T18:13:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "fdb024fb1d83",
-   "title": "Keiko Fujimori firma adenda con Cálidda para llevar gas natural a siete regiones del país: \"Las familias van a tener un ahorro fundamental\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeXU2NkxXN25Cemc5VkFGVC1DUEwxMVJ3b0s1REdnNFFhVENlRW9RelktZmJJX2ZaWkdhUTBUbmc1VzU2c0s5Unp3TTZabGd3dGtTWlUyb1RvcjdKeXJJaUpDaGFQZHFsMGplY0YzMlFISEV4b2hjaGlvSk1Ib0NFOXdLQ1lzZEtfdUVTU2ozdS1CZDhsZUNwRjlRQWw?oc=5",
-   "date": "2026-11-26T18:11:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "69cbc7c80429",
-   "title": "Keiko Fujimori anuncia S/18 mil millones adicionales para evitar que la economía se enfríe",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlFfZm1ER19BRGxsanFneDBOTnlKd2xPRmw1U2hCRFNUdnVfZmtubDdrTzdTQlVTaDRpcEV5Y1V6VXk0al9adTFxVHFCa21pdU8xV0JaczhYV2p2WUZxX3RnN0pZc2FzNm85RDRRbFVzZG9ITk9sWFBDU2dZRk52OXJ6ZVZTSmgtc1BJdndrcTdGQXdNUXBYbDJUczBsZW52THVjdWt2R0ZnNWFKU2xwUjlYdmhET0tfdlpSQl9BOU1fUTRvTlgydlZIONIB3wFBVV95cUxQZ2JHSE5qODc4YXZscUZfRC1YeFVjeXBLTTdQYjdQMjNWaHdpdnpXYkVUUGxKT2RqdGc5SS1HcHdnb2oxblM2RlZlVDBFNzlhSS03VGxBZ0pKcjloMlAxbk1pVTRzTG1zMTgwZWU0c1kzamVOQ1JpM0tGUzZqREJ4dnN6Z2NiTXYyZUc0YlR4M1JQbUdnTU9rSS1FVkV3YlhBSWhORHhwWmZNS180NkxVQ2szZVFneGU5ZFpjRTZ4MTMtWXdSUmNMaGVfVjlFZG9rUHZlWUItV0lnYmtBVUpn?oc=5",
-   "date": "2026-11-26T18:08:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "8816559f4e45",
-   "title": "Keiko Fujimori pide al Congreso debatir y aprobar el proyecto gubernamental sobre Ley MAPE",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3ZFbl9XdVFnMDNYbE1UWXZHN3JyaXBraU9EaHFtUUdELWcwR2UxSHFpdndURzN5UENxOTE3ZUVjWFo1ZG5wcTk2TS1pUm9PbE9Cc2d5TVhOc2tfOEQzVmZmT0JqamdmWVlXS2g0aFFtTkZTWWxBb2hJNTZqemg1bUM1c3NxcHRhRUZKNnNCUU0yMFNGd0FUMzlIN2o4S2dPMGY0eGhYaTdOMHRLSUpXWHBldHpsWHdELWNvdjZKQk14QzZpR2x2YWNNVmwzSWhPZlJzVGR3?oc=5",
-   "date": "2026-11-26T18:04:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "824ec3e50812",
-   "title": "Presidenta Fujimori destaca importancia de promover una salud “oportuna, descentralizada y de calidad”",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEtlQ3Y2NXFRbWdYd0J3NkdodlFFRWhRMkdOeGJ6djdUaGJOb3JxOUdPU09nZjRvNHpzYTE5N1Fkb25LVzNYNFNtQmRwMlZXMzJfZGN4R0l5bzFvWVlzdkFPMlVyTGQ2dXNMOC11clpTdmd2YXJ1ME9tdkhMM2NEbTdqUEU0ZlIzUlJmT1Q4TGI3WDFHUEVueVdWWHNPZkhHWnU5MF9fYm84V1lrWVNBcmVvQVI0anFxVG80SnpwaGwwTkJzSUtvZHE4T1Z6dnJQSkE?oc=5",
-   "date": "2026-11-26T18:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "31ba40362f8d",
-   "title": "Keiko Fujimori inaugura ampliación de hospitalización pediátrica de VidaWasi",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDBsT1JWMWhfazY1M3hXWHRMaWpRWUZ0LTE5NmhrOUNlRDRReEdSYncxSGpEaUxQLW8tM1Bfc2ZIYnpQa0xpdHg3NS1rU0JZS0IybXhMSnZXS3JJVjA2aldPbS14LUpZV2FIbGFKdUxxREVqelRWTzhUMDQ5ODlvRlZPVTg1UlNVcVBsX18wWUlTZ0IyVlA5TkdPdlhLV2F2bDkySG1aWUNPemPSAasBQVVfeXFMTzAwbE9SVjFoX2s2NTN4V1h0TGlqUVlGdC0xOTZoazlDZUQ0UXhHUmJ3MUhqRGlMUC1vLTNQX3NmSGJ6UGtMaXR4NzUta1NCWUtCMm14TEp2V0tySVYwNmpXT20teC1KWVdhSGxhSnVMcURFanpUVk84VDA0OTg5b0ZWT1U4NVJTVXFQbF9fMFlJU2dCMlZQOU5HT3ZYS1dhdmw5MkhtWllDT3pj?oc=5",
-   "date": "2026-11-26T17:50:05+00:00",
    "state": "posando",
    "place": null,
    "next": null
