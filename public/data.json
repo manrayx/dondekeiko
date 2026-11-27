@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T13:25:33.627213+00:00",
+ "generated_at": "2026-11-27T14:08:42.030244+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "Colombia",
    "abroad": true
   },
-  "source": "Expreso",
-  "date": "2026-11-27T01:27:15+00:00",
-  "title": "¿Keiko Fujimori viajará a Colombia? Senado evaluará pedido este viernes",
-  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOUp6enA5VzI4M2dEYldncXNQNzBJUzdGRzg4b2xrT01yWnlCbl9iTTZfOGM0V1E0bDJ2UDZHTkRqZWNoM2hWQ0ZtUWcwY3czT3hyMWdOdmE4QXRkWTlqeFN0VmFQNEtzejlZbXlMUERRRmQ4TV8xZGZiWEdQMTd1aVpwUjAxTm1XTi01UGpwQXZuLUYxR1FSRmlGek4yM2l5ZjY3UjhPSmlWd3pJQnRBMXdZZlZIYVJJMVBLc21JTHBLdmh0WjBMdUphSzFwV2RhYXBRNzJaOWtNQTItRE9Sdl8yQlItaTNnVEtrLXBXX1dQVnJDUi1pazBtQmQtcmZ1Mk5xYk5uM0lfR0Q5?oc=5"
+  "source": "El Comercio",
+  "date": "2026-11-27T13:48:26+00:00",
+  "title": "Keiko Fujimori: Pleno del Senado debate autorización para viaje a Colombia el 3 de diciembre",
+  "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-a-presidenta-pasa-salir-del-pais-el-3-de-diciembre-a-gabinete-binacional-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 2,
@@ -397,6 +397,20 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "903c1d56bb46",
+   "title": "Keiko Fujimori: Pleno del Senado debate autorización para viaje a Colombia el 3 de diciembre",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-a-presidenta-pasa-salir-del-pais-el-3-de-diciembre-a-gabinete-binacional-noticia/",
+   "date": "2026-11-27T13:48:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "1b46d6b42e48",
    "title": "Ley Mape: La presidenta Keiko Fujimori le pide al Congreso aprobar su proyecto",
    "excerpt": "",
@@ -481,17 +495,6 @@
    "source": "latinanoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1dTb1RQM1dCVmZSeVgtSjF2NTFISzRRLUZpTnFMbDFzdEFYNk9YTGtGcjZrWlRkWXpyWEJZNEJFSnZpMVJ4NTczSV9qaW5jV21JOVJqT0tYOTZ0VWU2NDhXRVpaLUl6eVNFQlI2czNwaFNtUDRFNUJFWFdwZ1MxdkR4YjlLM0JqdTNlMmlydmplMlJTczdIWGlvcVJCV1c5QVFUcUM4UnBVc29URE0tbXctQUdxWHhsc3pVU0pKSHNLTnZKNWl5cm03VmpRVk1KMnRTa3NuUFM?oc=5",
    "date": "2026-11-27T04:49:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a79e357156f4",
-   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
-   "date": "2026-11-27T04:46:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -665,6 +668,17 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/politica/keiko-fujimori-evita-responder-si-plantearia-cuestion-de-confianza-por-ley-mape-noticia/",
    "date": "2026-11-26T20:57:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "a79e357156f4",
+   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
+   "date": "2026-11-26T20:46:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1091,17 +1105,6 @@
    "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
    "date": "2026-11-26T16:42:13+00:00",
    "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "cfe3199d3183",
-   "title": "Keiko Fujimori señala que masificación del gas beneficiará a 300 mil familias de siete regiones",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSlNsYjdKR196RklXSkFNNWdrMGw3SHM2RkdtTmFnR3BLdk5KeUxYc2FrWkdRVzVZQkM4MGN1SWVhamREci1hOWRTRjdPbVFtbVB0SFNqeV8yUXZXaGtaaVdkT1ZxcWhaUFlEWWh5T3VTZ1NxUlhJcHJkb2pMeVdQZ3g3di1CQ0V1NXBKZDFYLUxpeFE0UjZPZ0U5U01rSDZQaDFpcmZqWF85aEJqcWlQb0Q5cmNTRkVSUUdxTmVqajVuVUlUdTZrLW5lMXo0Zm8?oc=5",
-   "date": "2026-11-26T16:38:57+00:00",
-   "state": "posando",
    "place": null,
    "next": null
   }
