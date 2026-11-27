@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:31:37.002686+00:00",
+ "generated_at": "2026-11-27T00:15:03.632008+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "La Libertad",
-   "lat": -8.112,
-   "lng": -79.029,
+   "name": "Lima",
+   "lat": -12.046,
+   "lng": -77.043,
    "abroad": false,
-   "city": "La Libertad"
+   "city": "Lima"
   },
-  "source": "La República",
-  "date": "2026-11-26T20:49:47+00:00"
+  "source": "Infobae",
+  "date": "2026-11-27T00:06:00+00:00"
  },
  "next": {
   "place": {
@@ -234,7 +234,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -432,6 +432,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "d21e8799a096",
+   "title": "Presidente de Bolivia, Rodrigo Paz, llega a Lima para reunirse este viernes con Keiko Fujimori",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnhwVHpOMVRmcFc1Qzc5SWdTc3JjeFBlbEx4MnFrUEVSTTZmX016bmhUX1VKODZycDZJbDZPWWRYMFcxU1phQzZFa2ZqSVZndjFZclQwbnF6alNQQllVRjFTcDJCNHNBRjRzZ3JOS2FYb3ZuZFluaHQtb0lvenB4Z1F3WkNab1VXSlhVOEIwRUZWdXBiWDNEZ2NpVll2QUdmZzRYLUNMVzNDck1JcUNuSlJoWjBFV3BETjhjcTl0RlNDeHd1T0tIVjR4X0tQQdIB6AFBVV95cUxPR1Vld1dqZjZOYXNOTVlKS0owQnRvSU5VTm1mT0hWNmQ3SVNQMnBzRVN5TlVMa01GSGNpOGhIMnhHTWNJeG1jUXhYdkVXRnhjTkxkZDltU0hLZkw4SkhuQUktZXNabUdxNU8wMWNTQWdMOVd0aUFZaDNUWjgtVm1YM2plV0lDeGZUdFR3QVYyZzhhYW1kZTN0N2FhWFk1ZlVnWVVBLXBKSzBmSWY4dm5sbEVIUnd3ZjgxM3Zvd1QyTjE5LUw0OUhoVnFrUFU2VXNzelRsdFZ6cFItNmlPUDlpY1BMaTYtOHpx?oc=5",
+   "date": "2026-11-27T00:06:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
    "id": "0d5d2d4b1150",
    "title": "Keiko Fujimori y Rodrigo Paz encabezarán encuentro presidencial y Gabinete Binacional Perú-Bolivia",
    "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
@@ -471,6 +488,28 @@
    "source": "Congreso",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnV3N3hVLXFRUXA3OEw1UTRRa2tNUWhFZXQ1ZzRMdDhWNlFPTjRYUnIxQXdkYUVkQnJTRmltNmNrTjY4bHNzdVZMX1NVNHRROUFTQ3Z1cWdoX1FDUFVKeDRrM19MY0FKazhnTGtiaWdZVU9BTmk1VERoYTBmUmtDRmZ0NEhWQUo2dXktcWdudC1RWnB5dWtCb09DdEhOUE1YWjBjT2JRWE9iWWtYUjZXV0lDSVoyZXctNG5oWGhwSQ?oc=5",
    "date": "2026-11-26T22:16:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "53cbf36ad2ac",
+   "title": "Keiko Fujimori exige al Congreso aprobar la Ley MAPE tras vencerse los plazos y anuncia millonaria inversión en CADE 2026",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblA1dGpWLWVQMW1YNE1uVjJMeF9Tak0taG13ek82UEtRVGcyeldhZ1haRjE2WnEwM2tjWFFtRk1iMWRCdlhSSWtaQjRhSDk0UGVNVVQ0SGY3S3RQT2lrMVZkUnBaN3JNNlJmRTNla0RNUko5cE8xZWFJaDBSMEVEUkpJbjZ4d1J3WEE?oc=5",
+   "date": "2026-11-26T21:42:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2b03d94dae61",
+   "title": "Keiko Fujimori en CADE 2026: “Es tiempo de avanzar, es tiempo de formalizar”",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQm9TQ3ZTU0hMU2dmYU1YZHd1UHQxUm1pQVZwQTlESHdEZWtOaFVqVEZHVm9oZ212WVdfdjUwb2NYMDAzUmx4UnNFV1dXMEs0aFNuOHkxczMyR2tDTUZpYUEyTmRISVhSdl9ibVN0ckdvX2V0N1hvTHdJRUhPOGFJUGNnRFdSNFN3U3FPLTJETVE4RGhBRHFnWVZmYzR3RjBZc2prWtIBpAFBVV95cUxNQm9TQ3ZTU0hMU2dmYU1YZHd1UHQxUm1pQVZwQTlESHdEZWtOaFVqVEZHVm9oZ212WVdfdjUwb2NYMDAzUmx4UnNFV1dXMEs0aFNuOHkxczMyR2tDTUZpYUEyTmRISVhSdl9ibVN0ckdvX2V0N1hvTHdJRUhPOGFJUGNnRFdSNFN3U3FPLTJETVE4RGhBRHFnWVZmYzR3RjBZc2prWg?oc=5",
+   "date": "2026-11-26T21:34:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -719,12 +758,12 @@
    "next": null
   },
   {
-   "id": "824ec3e50812",
-   "title": "Presidenta Fujimori destaca importancia de promover una salud “oportuna, descentralizada y de calidad”",
+   "id": "69cbc7c80429",
+   "title": "Keiko Fujimori anuncia S/18 mil millones adicionales para evitar que la economía se enfríe",
    "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEtlQ3Y2NXFRbWdYd0J3NkdodlFFRWhRMkdOeGJ6djdUaGJOb3JxOUdPU09nZjRvNHpzYTE5N1Fkb25LVzNYNFNtQmRwMlZXMzJfZGN4R0l5bzFvWVlzdkFPMlVyTGQ2dXNMOC11clpTdmd2YXJ1ME9tdkhMM2NEbTdqUEU0ZlIzUlJmT1Q4TGI3WDFHUEVueVdWWHNPZkhHWnU5MF9fYm84V1lrWVNBcmVvQVI0anFxVG80SnpwaGwwTkJzSUtvZHE4T1Z6dnJQSkE?oc=5",
-   "date": "2026-11-26T18:00:00+00:00",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTlFfZm1ER19BRGxsanFneDBOTnlKd2xPRmw1U2hCRFNUdnVfZmtubDdrTzdTQlVTaDRpcEV5Y1V6VXk0al9adTFxVHFCa21pdU8xV0JaczhYV2p2WUZxX3RnN0pZc2FzNm85RDRRbFVzZG9ITk9sWFBDU2dZRk52OXJ6ZVZTSmgtc1BJdndrcTdGQXdNUXBYbDJUczBsZW52THVjdWt2R0ZnNWFKU2xwUjlYdmhET0tfdlpSQl9BOU1fUTRvTlgydlZIONIB3wFBVV95cUxQZ2JHSE5qODc4YXZscUZfRC1YeFVjeXBLTTdQYjdQMjNWaHdpdnpXYkVUUGxKT2RqdGc5SS1HcHdnb2oxblM2RlZlVDBFNzlhSS03VGxBZ0pKcjloMlAxbk1pVTRzTG1zMTgwZWU0c1kzamVOQ1JpM0tGUzZqREJ4dnN6Z2NiTXYyZUc0YlR4M1JQbUdnTU9rSS1FVkV3YlhBSWhORHhwWmZNS180NkxVQ2szZVFneGU5ZFpjRTZ4MTMtWXdSUmNMaGVfVjlFZG9rUHZlWUItV0lnYmtBVUpn?oc=5",
+   "date": "2026-11-26T18:08:35+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -735,7 +774,18 @@
    "excerpt": "",
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU3ZFbl9XdVFnMDNYbE1UWXZHN3JyaXBraU9EaHFtUUdELWcwR2UxSHFpdndURzN5UENxOTE3ZUVjWFo1ZG5wcTk2TS1pUm9PbE9Cc2d5TVhOc2tfOEQzVmZmT0JqamdmWVlXS2g0aFFtTkZTWWxBb2hJNTZqemg1bUM1c3NxcHRhRUZKNnNCUU0yMFNGd0FUMzlIN2o4S2dPMGY0eGhYaTdOMHRLSUpXWHBldHpsWHdELWNvdjZKQk14QzZpR2x2YWNNVmwzSWhPZlJzVGR3?oc=5",
-   "date": "2026-11-26T17:54:16+00:00",
+   "date": "2026-11-26T18:04:36+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "824ec3e50812",
+   "title": "Presidenta Fujimori destaca importancia de promover una salud “oportuna, descentralizada y de calidad”",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEtlQ3Y2NXFRbWdYd0J3NkdodlFFRWhRMkdOeGJ6djdUaGJOb3JxOUdPU09nZjRvNHpzYTE5N1Fkb25LVzNYNFNtQmRwMlZXMzJfZGN4R0l5bzFvWVlzdkFPMlVyTGQ2dXNMOC11clpTdmd2YXJ1ME9tdkhMM2NEbTdqUEU0ZlIzUlJmT1Q4TGI3WDFHUEVueVdWWHNPZkhHWnU5MF9fYm84V1lrWVNBcmVvQVI0anFxVG80SnpwaGwwTkJzSUtvZHE4T1Z6dnJQSkE?oc=5",
+   "date": "2026-11-26T18:00:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -760,6 +810,23 @@
    "date": "2026-11-26T17:50:05+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "3486cd766c49",
+   "title": "Keiko Fujimori firma controvertida adenda con empresa colombiana Cálidda para masificar el gas natural en Cusco",
+   "excerpt": "",
+   "source": "Gato Encerrado",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMmdyUFFqMWFrLUZ0aDNEX25OUUJUbXNzZUoyWHlXS2VLNFg2M2xuLTk5TDZ3aE83M2prTlhKQlFORWtFdTBpTjNmaGZUaDlJaFg4aHJXV2UtRi0zTXRHeXY0MmRWSEJtOHBLVUJMd2RXMmY3YlpOSFc4MWd4RExuUk9LbHpkRnZnbTR3RG5nMWVna3FFWTUyUDF6SkNDUWVhSHlMVWY3SzUzS2hhQkhiTEhibXpOY1FieFEzSV92ZFVnSkVwYnlMXzk2dHdXbi1Cbm9EQlNzUFYyZw?oc=5",
+   "date": "2026-11-26T17:47:20+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Cusco",
+    "lat": -13.532,
+    "lng": -71.967,
+    "abroad": false,
+    "city": "Cusco"
+   },
    "next": null
   },
   {
@@ -928,17 +995,6 @@
    }
   },
   {
-   "id": "12adb28c8338",
-   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
-   "date": "2026-11-26T15:14:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c50ce6b5f357",
    "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en Cade Ejecutivos 2026",
    "excerpt": "",
@@ -1072,50 +1128,6 @@
    "source": "América TV",
    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjZyb1JaVmc3dWlnNFBaaUl4cUo3cktaTlRwUjVndk9tcVZKZFBJWWRyTkNEbFlETWpZeUVUaGNUS3N1Mjd2NVFJVjBnQUxfamt5LXdLa2JIcU9BNjJJUG5wNER0YkFqQlhtMHpzaXp2ZlY1cUtzc29KSW1keHBtbEVkREk3REVIYjhVcVpRNXd3NktoQ21KczFUZmdrSkIyQUZoc1dSR2Z1Q0FQWTI3NmNpZXF5ZHpuYkdsdXVTLXo0NmJ1MjQyeWNBelR5REpzWFM4Q05jTzRPZDhwd25SMtIB5gFBVV95cUxQaURHZjlvUHdMN2ZqamNNWGdza3lPQ3BZSTA3cjRNXzRqSl9DbnJFNlBUTUtRWmFuWWhRYXpUYl8yM0xzTEVOOXFvQ01helI5bFhmeEJpUURTcmV4X3o1OWdkcEItY0VvMFI4bHVVaTFtc2V3Tk1uY04zWFhrc0wtV2xyR1ZKX2d5QWp1X3Z1a3M5N0NjbWdfQ1lrcGxXYWtQRnJ3M2Jsa2haMl9oNHZoQTZZdnJ6ZThjWUtjR3lWaHIzcGxvMVloWWNhWnNIb0xkYnNxMWJaZUY0ekQwRWZlOEYxblFodw?oc=5",
    "date": "2026-11-26T14:27:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "23025b0744cc",
-   "title": "Keiko Fujimori participó en firma de adenda entre el Gobierno y Cálidda para masificar el gas natural a siete regiones",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSDFQR2pad2hvTjQzU1ZUR3piam4zb1Q2dS15blVQMEJVMWhrSjJBOWRlWVZ4eXVFQUk5anN1M3k2Sm04cUhTVlQtSW02aHlYa0VlQUNyUTBQa2tQUTRVbklMZFVDSnFMZFpQd1NQZEIxWi05TXF5ZUNxOFYxZHhlZUFsbXJQNWNXanYwNXh6TURCN3NyNUtMenRnOEt2QVdTekJQYk93clgySkxFcU9ScnBmWEd1WC1fTzBld3VvdVRJSFZqTTl1RWhwd0dmNl9WZ09uQl9sdHJRRTlZWkoxNGdGVktkX2x3VE1tcmQ2ZVJoVnZVN3Y3Q2FhRQ?oc=5",
-   "date": "2026-11-26T14:17:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4a7911931b05",
-   "title": "Presidenta Fujimori participa en firma de adenda a contrato para masificar gas natural",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQb3E2UVRBTVhnaVZlbUJrZVBKd1Y3SXlyZzhZOEc3am55UHhhR2hic1pOWTFqdjhRWFQwcExsemV1SkNmOW05eUtQXzFGVVowTHpQamlWU2ZZMjR0eTRzZ1BCUExrLVdoNDM5R0V0Z3VhWWFXc0tfN2E4aTlDTHBfMTlCSnhDOEV4VzhjLTZ6djB1SnNlelA1S2E2UUhmZV9QZ2VGZ2lrTTlsQ2RkWlRtZ3VwSWNTZTVoWHpzRkU1d1JoV2RJd0E?oc=5",
-   "date": "2026-11-26T14:05:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0eca31fc7ae3",
-   "title": "Rodrigo Paz visitará a Keiko Fujimori para reactivar el “gabinete binacional” entre Bolivia y Perú",
-   "excerpt": "",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcHcyM2M4ZndLOFphbjMzOHZ5WGZKQmx0UjBXVlhyOXNSMUY5cUs4RDh5R05GcXRDMU9EZjNDMTY0Zk1YWUxzbHB6SmNYX0Y0S3F4WlE5R0xwTG8wRGFBS1JpeTRHOGNNeFJ1RUpXRk9LcGhVR2xCdGdLNFgxX1ZwaUNnQy1BRTQzRFd4R0Q2UWZOaWVhNmxGZTVVaXdrTzJUeVR5UnFadDE0RGJCNU5WSFRDeV9IWVZTajdpcThnWV82Y2NHVzlWRHNYd2VVdUVJb0ZiQU80Z9IB8gFBVV95cUxPV0R0X2ItQ2xJaGlFdHZQcVh1REE0YVl2ZkNLeW43MUR5TGxYRDhiLVVKMlFMSnNidWF3VWx5Zk0wUzZaS1VLMHNfR3U5ODZqMWQxM3dxeUR3X2VmVEk0SlpOdG9qcDBpTmdhdmM0NU1STjBPdTVyQjNhVGUxb01nZDFrQ0tmdkJ3Vm9BNzNOY182cG9ud1lyQm9IRzY4T0M3NWtEVmtNclpYZUtxbjdNZzBKQy1INWhMUWNKZ2xVRFlBRTlTczgyRVZ4ZllGbFg4LU92X0F3X0dsR2htczd2ejU4VFdXaF9lSFRFWXBzcjVaZw?oc=5",
-   "date": "2026-11-26T13:57:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "66c9c5fbed32",
-   "title": "Keiko Fujimori participa hoy en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
-   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWXpnUGZCSXlCS1kwR3FOajRWUEtwWkdsbWRNZjR0VzZGT3JLOVBOanFsczc5TUVpMi1HZ3hZMWZxY214RHFiTzNacjFMenA0RVpYTzVvQ3BvV1FVeXN6VmlFMzRaZk9nZUZnYmdnY045N3JNQVByS3hqSVNLY0kyY0lIMHZjSkUycGNFSzU3ZDczd0YyOXhqR3c1eEsxNkdrRlpVM2NnVmZqSTByWWpuRUdmME54M3l5T2VhaDJzZFliZzE2VGs3TVlJVFpLbTh1U2wxLWYtVFpyRHd5M2ViczFUbFM2eUhDVWtqZDRKUkJBcm5sWWZZaGNOdHTSAZACQVVfeXFMTURoaU9URjBMT3ZodktqRnd1Z3RWNUJkVzhHVEFaaFI5RW9ydHZ5M0xIMmo5aWs4N2JybTB5MW80Ym84a0hUOC1VVGhjdjVtMDBad1ZJV3Q5TVVnT1NoTUc5c2syNWNKX3JMb2F6U1haWml5eGUwdG5wUjlaMGcwNUc0LU5IVnpsYlhsamdoWjFiTENjaHhvQnlEdnlpLTRKZ1dNNVdTT2k2d3lzZjlzN2dBZ1pNZnpRY0IyYkpiRk5yOVZNbnptQ25oLUE5TFNCeWY5MVdzSjFESWFtWW9KeTNhbnc0NTRzREdRbGZnTjZDMzhUSGVmWnhuTUpRWlZBYTU2WVJXY3hDb3ppdllDaWY?oc=5",
-   "date": "2026-11-26T12:47:54+00:00",
    "state": "posando",
    "place": null,
    "next": null
