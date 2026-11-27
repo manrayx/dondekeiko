@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T22:00:45.173886+00:00",
+ "generated_at": "2026-11-27T22:22:18.239898+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -108,18 +108,18 @@
    "name": "Colombia",
    "abroad": true
   },
-  "source": "La República",
-  "date": "2026-11-27T20:45:38+00:00",
-  "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
-  "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709"
+  "source": "Panamericana TV",
+  "date": "2026-11-27T21:33:09+00:00",
+  "title": "Keiko Fujimori posterga viaje a Colombia ante...",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVDFReUZXU1FoUFBuMWhLODExUTZCMTQxOVlQRUdEdHk2Y3djanhIenlVaGdYT0gyaGZLd0JEMGhJM1lPemp0SzJKWXV0UlBoMmlEWFM5X3cxeEE1TUZBTVluSWVOMjVnUi1iMFpXNjlwREdtekY0QUlleFM2VDFpbXIxUWtVbDNDWmVfREU3T1VsS1pzX3Q2Nk42Umo3a1dYV0I2WVF3RjhLMjJTaDVoa01oUUJVRUIzaXNxQXBOczdxZ9IBxwFBVV95cUxQaVFGTjE1cEFiNER5Y3dEbktGLXlUdDEwZzdmYmF5YllURXRycmxvMDY3UmEwd28wSzN5cHFxMnlmUVpZUXpLc0lwaTVuUTh6U3QzUENTQURwZDFycUJpcVlKZkFPcHpHU1g1akl0aUU3cjhFSkVkUFVUVHVFN3Z2aWVGX3dqbXVPSEl2Z2pvU2hEdEprTWFhdEdHaU5SZlE5NXM0ZkdiYldfZGVVNmlBRXlqMVlsNEl5Mm5aU3lfVUNQd2kzTmRr?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 59
+  "triste": 0,
+  "posando": 60
  },
  "total_7d": 60,
  "silence": {
@@ -513,6 +513,31 @@
    "next": null
   },
   {
+   "id": "f7f215cf7e45",
+   "title": "Presidenta Fujimori: Perú y Bolivia tienen muchos proyectos que los van a beneficiar",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb1JxbTA4YWVTd2lZSzVjRTVraEZKcFFlMlljT1pnRzVwYUhxbk1IRHpvcmZNZWptM0RQY0JqM1pveFIyVURFYmVBUnZSaUVZLU9IQU1qOUxNZ0VPZ1FfN0FLcnQyZ0M4bGRnX3VSUm9fWmx1Tm02ZHJnQk9xMEliTTZXQ3dKdC1XVUowbWhqMDFhc3drU0FaOGZGMFBJcGNFaU9wYW5JSkFJbFVPMzhIV2N4NmctY0NxZ0FrS2R6Q2tHREg3Rm5xeFM3OS1jWkk2eHA0?oc=5",
+   "date": "2026-11-27T21:44:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1407adbc33c7",
+   "title": "Keiko Fujimori posterga viaje a Colombia ante...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVDFReUZXU1FoUFBuMWhLODExUTZCMTQxOVlQRUdEdHk2Y3djanhIenlVaGdYT0gyaGZLd0JEMGhJM1lPemp0SzJKWXV0UlBoMmlEWFM5X3cxeEE1TUZBTVluSWVOMjVnUi1iMFpXNjlwREdtekY0QUlleFM2VDFpbXIxUWtVbDNDWmVfREU3T1VsS1pzX3Q2Nk42Umo3a1dYV0I2WVF3RjhLMjJTaDVoa01oUUJVRUIzaXNxQXBOczdxZ9IBxwFBVV95cUxQaVFGTjE1cEFiNER5Y3dEbktGLXlUdDEwZzdmYmF5YllURXRycmxvMDY3UmEwd28wSzN5cHFxMnlmUVpZUXpLc0lwaTVuUTh6U3QzUENTQURwZDFycUJpcVlKZkFPcHpHU1g1akl0aUU3cjhFSkVkUFVUVHVFN3Z2aWVGX3dqbXVPSEl2Z2pvU2hEdEprTWFhdEdHaU5SZlE5NXM0ZkdiYldfZGVVNmlBRXlqMVlsNEl5Mm5aU3lfVUNQd2kzTmRr?oc=5",
+   "date": "2026-11-27T21:33:09+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "9dc7fe03e4d1",
    "title": "Reggiardo pide implementar medidas de seguridad de la MML tras ataque en la Costa Verde",
    "excerpt": "El alcalde de Lima, Renzo Reggiardo, solicitó a la presidenta Keiko Fujimori poner en marcha las medidas de seguridad propuestas por la Municipalidad Metropolitana de Lima (MML), luego del asalto…",
@@ -549,9 +574,9 @@
    "id": "79a5158470ea",
    "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
    "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbU5ySGRTY3FtN2RxRVJ3TVVmejNfaXB1Q2tUTUtZREY1b2RGX3N4dWJ5elhJby1FNDB2M0tteHFWTWlScy1zTWtRVE1HNlFFal9GRjRwYkhhclBQcmFpX0sxU3dDU05GQlk2NENuRjhaRVhDal8tY1hMNDh6YzFNTFU4UHVXTnBldFd5STc1QW94LUpsbWd3LVFTUnhtS0Q1c3ViTmdYcHhVOThYakliVVR2bjV3bWZlRnBTdkRhbGtZNlRDNGM5N0xsSGpCQQ?oc=5",
-   "date": "2026-11-27T20:54:47+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
+   "date": "2026-11-27T20:53:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -600,6 +625,17 @@
     "lng": -80.632,
     "abroad": false
    }
+  },
+  {
+   "id": "e477dac01908",
+   "title": "Presidenta Fujimori anuncia que viajará al norte para atender emergencia por lluvias",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE5ZQm1mWV9OOW1vR2Uyc2NwX2pjUDRKSlhXX2FYMm5yXzFjNmtTbVF2Um80WmZBMXhQa0kwc2cwclQxUmUtNF8tS0xNZ3hfZVQ3Mncyc2s1SExtZ2RTa1IyWE1PTEhlQWVYRDdGLTNfTDVZR2QzQi1aR2IwQ1hTRzVuU1RHQjlMZzN6QjlaZ2dYN254REhpMGNyYXRoZjBlVDFqTEo3NU13MnY5WjZjUjUwYjdDbEQyMEhaNA?oc=5",
+   "date": "2026-11-27T20:23:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "f71eb9c7ff98",
@@ -680,12 +716,34 @@
    "next": null
   },
   {
+   "id": "5d37ee48a751",
+   "title": "Keiko Fujimori en CADE promete inversión; PIB baja a 3,1 %",
+   "excerpt": "",
+   "source": "Panorama Ecuador",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUMyMV9hdHBOcVFSVFdudF9lNmk5eGkzUlFmcDItNmhobUF2bWJqVFJlMGM3d3dRWWlhY002YXpmTTVJZERhdjNQdzdlWi0yLUJlRE1hMnlMUmw3dTBfV3BpSnltMEthWWtRNGduWmdmS0RwUTkwWHNDSkc5OENORENqaHhJb01lYm90UFVUeE5pZy0wSDhKSG93T0RmTDR4elFPNDF0Nm8weXlLbThsTzVwLU4?oc=5",
+   "date": "2026-11-27T19:11:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "673ad709b8ef",
    "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
    "excerpt": "",
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
    "date": "2026-11-27T19:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c044387030fb",
+   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
+   "date": "2026-11-27T18:57:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -833,20 +891,6 @@
     "abroad": false,
     "city": "Piura"
    },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "1407adbc33c7",
-   "title": "Keiko Fujimori posterga viaje a Colombia ante...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnVFSXA2Zy1BeHM4NjQ2MERfVGFzbU5ILVZHVE9rTmFJRVhIMU9DVy1uaVQ1STFNX2RBVVc4eFJUNzJwNThZU2FVTHJvckFETGxUV1R4NU5oWWduTEV2X294Qml3YlR3WVhTT0xhaWgwLVJjbDdlZjE3dExVZG96YVBVMTJ5aVg0UWhIZFlDLUdENUcyaG9BSFRaOHdGQXVjdUQwYnRmYUJJNXAxaWoydWRmMmpvZVJfQl9TSdIBvAFBVV95cUxPRnVFSXA2Zy1BeHM4NjQ2MERfVGFzbU5ILVZHVE9rTmFJRVhIMU9DVy1uaVQ1STFNX2RBVVc4eFJUNzJwNThZU2FVTHJvckFETGxUV1R4NU5oWWduTEV2X294Qml3YlR3WVhTT0xhaWgwLVJjbDdlZjE3dExVZG96YVBVMTJ5aVg0UWhIZFlDLUdENUcyaG9BSFRaOHdGQXVjdUQwYnRmYUJJNXAxaWoydWRmMmpvZVJfQl9TSQ?oc=5",
-   "date": "2026-11-27T16:12:35+00:00",
-   "state": "posando",
-   "place": null,
    "next": {
     "name": "Colombia",
     "abroad": true
@@ -1121,17 +1165,6 @@
    }
   },
   {
-   "id": "c044387030fb",
-   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmNXUjM4cEctLVZvemVRWGM3bUhlc2FXY1pHd0JNXzM2RFR4Z0gyZWlkNHhlblNDd0JZcmRyY2QyZ3E4eWU0MHVSNUtZSnNLTG1EbFVtRDhEMTV2Q2lvMzB4M0NWRlNSc3Jmal9RU1FDYmFSN2p3UGZTYjY0dFM2SUZXaXVjNWROZTVLVTQzT0dLWXNNYVlMSlg1ZklVTDZ0OG5YYmpoMEJzcURQa0wtakxaeW8tRkE?oc=5",
-   "date": "2026-11-27T15:10:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "af9c0daf6714",
    "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias en el norte del país",
    "excerpt": "",
@@ -1277,39 +1310,6 @@
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVWdPWmpscGExLWVQcWdDZy1FR2VtSGtCQ2VBVGU5ZlRLUmNVRE91LXZnNmJyOExFSnBwYUN5VTNheDJEcXJjNFVaSHd4a3FheUNVWmdZOVlFVUI3Zk03Slh6YWRuWFk5RmcyY3dCU2ZlTzd4RHFQWExVZ3dtZGpRTkx1eXFoVDNRUDB6RUk1bVBjeTEydm92c2c0R1BsVmRiR3hDSUFkcmFJcVc1TF82bjV0ZzhDTzFzb3RuWGNKM0RHNlBhc0VNSlJ2R2dHTWs?oc=5",
    "date": "2026-11-27T08:22:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5df98513004f",
-   "title": "Keiko Fujimori responde a críticas por adenda con Cálidda: \"No he luchado 15 años de mi vida para quedarme de brazos cruzados\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTGFudXlNRWxJa29zbXEyLUFFeXR5V0JnMWcwUGpSZnJHUzBBeHMydGVidTZlbkp5Z2tWMzkyQzJfVUN4ZlpjTVVfZ1E1UFM5M3VTNEtQRkp5dklTQnQ2dkVBSkxaaDRZRlZXaTdmR1NRMGd5YzhOZ21KaTcwOWM?oc=5",
-   "date": "2026-11-27T07:38:10+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1695b12a924c",
-   "title": "Keiko Fujimori: “No he enfrentado cuatro procesos electorales para quedarme de brazos cruzados”",
-   "excerpt": "",
-   "source": "latinanoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1dTb1RQM1dCVmZSeVgtSjF2NTFISzRRLUZpTnFMbDFzdEFYNk9YTGtGcjZrWlRkWXpyWEJZNEJFSnZpMVJ4NTczSV9qaW5jV21JOVJqT0tYOTZ0VWU2NDhXRVpaLUl6eVNFQlI2czNwaFNtUDRFNUJFWFdwZ1MxdkR4YjlLM0JqdTNlMmlydmplMlJTczdIWGlvcVJCV1c5QVFUcUM4UnBVc29URE0tbXctQUdxWHhsc3pVU0pKSHNLTnZKNWl5cm03VmpRVk1KMnRTa3NuUFM?oc=5",
-   "date": "2026-11-27T04:49:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5abe123612dc",
-   "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300,000 familias del centro y sur",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVhPRXg3SjNKeWg5SzJSVVV1MzNFak5PdHNhemxKNlN4b1gzMWNvSTRXS21BbERqOTlCbWFWM1AyQTZCQjVER25pNXJoZE9NSTZiWnl0ZVZhQU9yOEY0Y0dsMWxoS3ZsM3RwMFAyWHFnQmxzOW9oTzFzR3lYUlV1RG55YUVLb2pOMVQ2VXRRTlBXdHZHVnFud0Q1SFd3VVdoN0VtQjZfR2EyVmhtWVJBdDVzd1A4QnN4XzdpV2lDTVBpRk5TTFdLWENKSUFvZDA?oc=5",
-   "date": "2026-11-27T03:46:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
