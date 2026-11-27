@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T14:51:14.095262+00:00",
+ "generated_at": "2026-11-27T15:12:45.356229+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,25 +103,25 @@
    "abroad": false
   },
   "source": "El Comercio",
-  "date": "2026-11-27T14:49:08+00:00"
+  "date": "2026-11-27T14:53:23+00:00"
  },
  "next": {
   "place": {
    "name": "Colombia",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-27T14:10:46+00:00",
-  "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
-  "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/"
+  "source": "Gestión",
+  "date": "2026-11-27T14:50:03+00:00",
+  "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
+  "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/"
  },
  "counts_7d": {
-  "transmitiendo": 1,
+  "transmitiendo": 0,
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 3,
-  "posando": 56
+  "triste": 2,
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -397,12 +397,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c044387030fb",
+   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
+   "date": "2026-11-27T15:10:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "03ec49a80629",
    "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
    "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
-   "date": "2026-11-27T14:49:08+00:00",
+   "date": "2026-11-27T14:53:23+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -412,6 +423,35 @@
     "abroad": false
    },
    "next": null
+  },
+  {
+   "id": "8b59deea57c3",
+   "title": "Keiko Fujimori recibe en Palacio de Gobierno al presidente de Bolivia, Rodrigo Paz, para encuentro bilateral",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTWl2MGtBM3BVT0VNblRxem5rT0FfQ0JmZjlOYTI1VDBxWERyNWdMVUV1SnplWWV6MVpwX245b3hrNnFFdWxqYm9LTGhaRVN5NHZMamxEZ0w0RFJsN3FaRVYyWmt0c2diRGgzTUZEelJBVlNmbl9WYlJ5a3FmbTViT3V5ZHNISlotajBLQ0xTTXNSTkMxWFd1RlpFQ0NwMjBJaTUwblpLajcxd3Y5RmVIck9ET0EyazdUeUcxSVZ6VzdGd1N1S2dpaw?oc=5",
+   "date": "2026-11-27T14:50:56+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "Bolivia",
+    "abroad": true
+   },
+   "next": null
+  },
+  {
+   "id": "9d6a656df704",
+   "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
+   "excerpt": "La presidenta, Keiko Fujimori, podría viajar a Colombia el próximo 3 de diciembre para participar en el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. El Senado debatirá este viernes 27…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/",
+   "date": "2026-11-27T14:50:03+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
   },
   {
    "id": "c5f304072c64",
@@ -482,17 +522,6 @@
     "abroad": false,
     "city": "La Libertad"
    },
-   "next": null
-  },
-  {
-   "id": "620c24f5db08",
-   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
-   "date": "2026-11-27T11:53:05+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -923,6 +952,17 @@
    "next": null
   },
   {
+   "id": "620c24f5db08",
+   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
+   "date": "2026-11-26T18:16:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "86fad8dea7c1",
    "title": "Presidenta Keiko Fujimori en CADE 2026: “El sector privado no es enemigo del gobierno. Quizá así lo vieron otros gobiernos, nosotros no”",
    "excerpt": "",
@@ -1084,39 +1124,6 @@
    "source": "La República",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOFhEUGZWb0RBQ19KeVQyRHB3TFVDb1h5cWhNVTMyS1dvLUo1TVlnd09yYVZlbUE0RlJCeU1ZemZydjNHMTBLc1VyWWR5dDdwdXZoUmI1MEVyajBYdUtvUmFiNG9HUkpPcFJFVE4tSmJtNXJhT09KN2R0ekstWUZiY2Z4U2dIQ3ZPeExyWUIyMHVYeTl6cFBkVjNEZmlpQTBnTS1XaV9GekJsVVlDNkk4SkplRTlHQnN3Ym13UnJ1X0RWcmtiQUtrelpEendwcDBiQ3pDc0ZDWmxuMF9ZNUxEQnpiaDPSAeoBQVVfeXFMTUUyb3psU3k1Mjg0UVdOYnhad2NfZ1k0ZWFVaTN5TC1tTE5EaHFMbF9UMmRJMHpGTldlMzcyMUNkNTBudXhRMUp0TmhFRnBaVkFsbFVZZUxMWnFIZjNYc3JRMEYzVlQwamd3ckNzN3VSODhxeV9fWmZfOGp0WlkzaXp5SzFJTjZmNXZPcnhBMWJFMzZDRTdZcFY4YXU0WTF5OTV0MlQzTXF1SGdKb29UQTBOei16TzB1aHZGU2VkM3BRdzV5cXp1T2I0RWxOdkl6aTB0aHRqRUFxRW5nQ3FfemRVb2M0QU5uWlpR?oc=5",
    "date": "2026-11-26T17:32:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "0c8448f43699",
-   "title": "Keiko Fujimori llega a la clausura del CADE Ejecutivos 2026 en Urubamba bajo un gran resguardo policial",
-   "excerpt": "La presidenta llegó tras firmar la adenda con Calidda pese a las críticas de la electa gobernadora de Cusco, Verónika Mendoza.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/26/keiko-fujimori-llega-a-la-clausura-del-cade-ejecutivos-2026-en-urubamba-bajo-un-gran-resguardo-policial-hnews-438464",
-   "date": "2026-11-26T17:07:10+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "84a7cb3e699f",
-   "title": "EN VIVO: Keiko Fujimori brinda discurso en la sesión de clausura de CADE Ejecutivos 2026 en el Cusco",
-   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-26T17:06:39+00:00",
-   "state": "transmitiendo",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7886aa5c4a51",
-   "title": "Keiko Fujimori tras firmar adenda para masificar el gas: \"Esto es un ahorro significativo\"",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHQzWDJRVVMtQ1NGUDQtY1R4U1dJbDdyX1dCTUF3OTBsQmpMd29iSXVmbE80YV9WUjlTUy1FNC1mRkRBOTR5OUJUOXNkY2NiOWxkXzlvaWlBbWFQdnhQc25Ed3pVajZDTTJWRUVDSWpFUzM4RnZYenBFekhCOFdwNHBua1Y3TmpkalJ4UGF5Tm11UjVWbWZORk14ZU5LdVZQeWpCNTRySmJIbHFjLWdWZGZBS3JFcWFOLWxtRnRZRkZ1Ukkt?oc=5",
-   "date": "2026-11-26T17:03:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
