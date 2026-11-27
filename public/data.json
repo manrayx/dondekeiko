@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:51:26.435408+00:00",
+ "generated_at": "2026-11-27T20:12:43.577303+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Piura",
+   "lat": -5.194,
+   "lng": -80.632,
+   "abroad": false,
+   "city": "Piura"
   },
-  "source": "AP Noticias",
-  "date": "2026-11-27T17:54:11+00:00"
+  "source": "La Razón",
+  "date": "2026-11-27T20:00:00+00:00"
  },
  "next": {
   "place": {
@@ -429,6 +429,40 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "e69ef7db8fc9",
+   "title": "Keiko Fujimori prioriza atención de emergencia por lluvias en Piura %",
+   "excerpt": "",
+   "source": "La Razón",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORnppNlZCYms2eDRySkp0RzcyVlppakN6YzdlUFNsWUlwUEhtY3hKTF9kempJbkxsQUpBOHFxUnU5S3lWNXo4dVlyYkFyQWpYMEp2M2xQNEh6bnJiY1lvMzJkWDVWY0xCOGpmZ3ltM1dRYnB3MExCVWkzeEdhandTRC1QLW5La3Q0d05ONGl6VGNCdG9RV2VIMldBcWNhaEE3TDlXVUdpdllWTGNwc3FDWHVCU0YxZw?oc=5",
+   "date": "2026-11-27T20:00:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "2674489dd5e6",
+   "title": "Presidenta Keiko Fujimori recibió al mandatario boliviano, Rodrigo Paz en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzYyLVNBUVplMHk5S2lmQ2lnQ2Etc2c1aTFhRWRrX3ZIOExuXy1nenktR3lueHg4NzN4U1AyWkJQbDUwNi1sYldDSVFxV05nOGdhQmFNOGdSN29leG9DbjBVenNvRGFnZGJTczBIUXVpRmRRZVJKbFEwTDhWVEdqOVZZeDV3Z3pkMUc2VktMLXM2bkltbGxELWFZZVpZVG5zWm00NDFIQnVkUW5CRjh1YlJWa2FXN2ZOZl9sUFVFcURhWEM3M3c3MG5lZw?oc=5",
+   "date": "2026-11-27T19:41:15+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "b832d65ef506",
    "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia -",
    "excerpt": "",
@@ -446,6 +480,28 @@
    "source": "hoy diario del magdalena",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDlybXZSNzV6b053LXdtanBQWUxZOEJfV0l6dl90ZE9VbnJmeTFrVmhld0I2MDlkLWFMZjFBeXlPN0RBeGpwakRHRHFwekZwN28xSU94azl2cWtHVHZ5aFNyYVVMT1NvZVc1VVN4ZkNGTlMwaGpYU09rd0FTQjRPY0htWE44d1h3Y0ZvU2ZlWFJ6M29mY2VKLVZyV2dfaDBPVFJpbDNsazRhRWdXS1NVS3VQa1pROWhUcXg1dk1BVQ?oc=5",
    "date": "2026-11-27T19:13:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c044387030fb",
+   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
+   "date": "2026-11-27T18:57:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "574984c9db14",
+   "title": "Keiko Fujimori habló con Abelardo De La Espriella y postergó su visita a Colombia",
+   "excerpt": "",
+   "source": "Revista Semana",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDhPZENycExOWEJweDd3Zk5adUdHQ2VaQzZ0YUwybnRYNlExWHcwcVdLRjNCMnJaeWt0VURfQUxuckNsS0RtbmJjVVdibEtkRjMyNlhSTmF0Q0RKNXZ2M2VYYzc5MHEwSUZFTDhWTll6bFhTSnNVWC1SZ2FfM2p1aGhaU0hTRWJHWVd4MlB3bXBhbmxab2MteTNiWG1RN3pNcGkwX3pQSEE1MktzWEJ6YXRRbUJZNVVPUEJ3QnRGNWM3eWZIQ2fSAcsBQVVfeXFMUHhBeEdxajh4X2w0VlU3TDJERnhBQXdlcTdkNWI3RmhoalVlWkstaUJoZEpTMkxMbmF1OG1lLVR2T3d1Zy1XOVV0cDBJZFhHNEdPUVFTUTRiSkd1UmZCZG55MjVKUE1uSDBmRE9OZHA1OGMyd3p5NGJhdU9LWWtHS3gzV3BkWWlyLXQzMzRvT1p3OHlNelVCaHBnUFM2aWoxT1Y2ZkVLRTJyMGtPRjZ0VTUybDIxdGJsb3p0RFBTNER2alM3QnI3Ni1HRE0?oc=5",
+   "date": "2026-11-27T18:50:29+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -624,23 +680,6 @@
    }
   },
   {
-   "id": "2674489dd5e6",
-   "title": "Presidenta Keiko Fujimori recibió al mandatario boliviano, Rodrigo Paz en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzYyLVNBUVplMHk5S2lmQ2lnQ2Etc2c1aTFhRWRrX3ZIOExuXy1nenktR3lueHg4NzN4U1AyWkJQbDUwNi1sYldDSVFxV05nOGdhQmFNOGdSN29leG9DbjBVenNvRGFnZGJTczBIUXVpRmRRZVJKbFEwTDhWVEdqOVZZeDV3Z3pkMUc2VktMLXM2bkltbGxELWFZZVpZVG5zWm00NDFIQnVkUW5CRjh1YlJWa2FXN2ZOZl9sUFVFcURhWEM3M3c3MG5lZw?oc=5",
-   "date": "2026-11-27T16:27:01+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
    "id": "1407adbc33c7",
    "title": "Keiko Fujimori posterga viaje a Colombia ante...",
    "excerpt": "",
@@ -693,17 +732,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "574984c9db14",
-   "title": "Keiko Fujimori habló con Abelardo De La Espriella y postergó su visita a Colombia",
-   "excerpt": "",
-   "source": "Revista Semana",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDhPZENycExOWEJweDd3Zk5adUdHQ2VaQzZ0YUwybnRYNlExWHcwcVdLRjNCMnJaeWt0VURfQUxuckNsS0RtbmJjVVdibEtkRjMyNlhSTmF0Q0RKNXZ2M2VYYzc5MHEwSUZFTDhWTll6bFhTSnNVWC1SZ2FfM2p1aGhaU0hTRWJHWVd4MlB3bXBhbmxab2MteTNiWG1RN3pNcGkwX3pQSEE1MktzWEJ6YXRRbUJZNVVPUEJ3QnRGNWM3eWZIQ2fSAcsBQVVfeXFMUHhBeEdxajh4X2w0VlU3TDJERnhBQXdlcTdkNWI3RmhoalVlWkstaUJoZEpTMkxMbmF1OG1lLVR2T3d1Zy1XOVV0cDBJZFhHNEdPUVFTUTRiSkd1UmZCZG55MjVKUE1uSDBmRE9OZHA1OGMyd3p5NGJhdU9LWWtHS3gzV3BkWWlyLXQzMzRvT1p3OHlNelVCaHBnUFM2aWoxT1Y2ZkVLRTJyMGtPRjZ0VTUybDIxdGJsb3p0RFBTNER2alM3QnI3Ni1HRE0?oc=5",
-   "date": "2026-11-27T16:01:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "579497fcdc4a",
@@ -932,17 +960,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "c044387030fb",
-   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmNXUjM4cEctLVZvemVRWGM3bUhlc2FXY1pHd0JNXzM2RFR4Z0gyZWlkNHhlblNDd0JZcmRyY2QyZ3E4eWU0MHVSNUtZSnNLTG1EbFVtRDhEMTV2Q2lvMzB4M0NWRlNSc3Jmal9RU1FDYmFSN2p3UGZTYjY0dFM2SUZXaXVjNWROZTVLVTQzT0dLWXNNYVlMSlg1ZklVTDZ0OG5YYmpoMEJzcURQa0wtakxaeW8tRkE?oc=5",
-   "date": "2026-11-27T15:10:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "af9c0daf6714",
@@ -1247,17 +1264,6 @@
     "abroad": true,
     "city": "Colombia"
    },
-   "next": null
-  },
-  {
-   "id": "4ec86375a093",
-   "title": "Miguel Torres sostiene un encuentro con la jefa del Estado, Keiko Fujimori",
-   "excerpt": "",
-   "source": "Congreso",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnV3N3hVLXFRUXA3OEw1UTRRa2tNUWhFZXQ1ZzRMdDhWNlFPTjRYUnIxQXdkYUVkQnJTRmltNmNrTjY4bHNzdVZMX1NVNHRROUFTQ3Z1cWdoX1FDUFVKeDRrM19MY0FKazhnTGtiaWdZVU9BTmk1VERoYTBmUmtDRmZ0NEhWQUo2dXktcWdudC1RWnB5dWtCb09DdEhOUE1YWjBjT2JRWE9iWWtYUjZXV0lDSVoyZXctNG5oWGhwSQ?oc=5",
-   "date": "2026-11-26T22:16:02+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
