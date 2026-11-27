@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T02:45:26.802047+00:00",
+ "generated_at": "2026-11-27T03:06:40.196254+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -430,6 +430,28 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a79e357156f4",
+   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
+   "date": "2026-11-27T02:53:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5abe123612dc",
+   "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300,000 familias del centro y sur",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVhPRXg3SjNKeWg5SzJSVVV1MzNFak5PdHNhemxKNlN4b1gzMWNvSTRXS21BbERqOTlCbWFWM1AyQTZCQjVER25pNXJoZE9NSTZiWnl0ZVZhQU9yOEY0Y0dsMWxoS3ZsM3RwMFAyWHFnQmxzOW9oTzFzR3lYUlV1RG55YUVLb2pOMVQ2VXRRTlBXdHZHVnFud0Q1SFd3VVdoN0VtQjZfR2EyVmhtWVJBdDVzd1A4QnN4XzdpV2lDTVBpRk5TTFdLWENKSUFvZDA?oc=5",
+   "date": "2026-11-27T02:53:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "620c24f5db08",
    "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
    "excerpt": "",
@@ -559,34 +581,12 @@
    "next": null
   },
   {
-   "id": "a79e357156f4",
-   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
-   "date": "2026-11-26T22:46:35+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "4ec86375a093",
    "title": "Miguel Torres sostiene un encuentro con la jefa del Estado, Keiko Fujimori",
    "excerpt": "",
    "source": "Congreso",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnV3N3hVLXFRUXA3OEw1UTRRa2tNUWhFZXQ1ZzRMdDhWNlFPTjRYUnIxQXdkYUVkQnJTRmltNmNrTjY4bHNzdVZMX1NVNHRROUFTQ3Z1cWdoX1FDUFVKeDRrM19MY0FKazhnTGtiaWdZVU9BTmk1VERoYTBmUmtDRmZ0NEhWQUo2dXktcWdudC1RWnB5dWtCb09DdEhOUE1YWjBjT2JRWE9iWWtYUjZXV0lDSVoyZXctNG5oWGhwSQ?oc=5",
    "date": "2026-11-26T22:16:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5abe123612dc",
-   "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300,000 familias del centro y sur",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVhPRXg3SjNKeWg5SzJSVVV1MzNFak5PdHNhemxKNlN4b1gzMWNvSTRXS21BbERqOTlCbWFWM1AyQTZCQjVER25pNXJoZE9NSTZiWnl0ZVZhQU9yOEY0Y0dsMWxoS3ZsM3RwMFAyWHFnQmxzOW9oTzFzR3lYUlV1RG55YUVLb2pOMVQ2VXRRTlBXdHZHVnFud0Q1SFd3VVdoN0VtQjZfR2EyVmhtWVJBdDVzd1A4QnN4XzdpV2lDTVBpRk5TTFdLWENKSUFvZDA?oc=5",
-   "date": "2026-11-26T21:46:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1105,6 +1105,17 @@
    }
   },
   {
+   "id": "12adb28c8338",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
+   "date": "2026-11-26T15:14:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c50ce6b5f357",
    "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en Cade Ejecutivos 2026",
    "excerpt": "",
@@ -1128,17 +1139,6 @@
    "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dCQ3JuV00yMVZYZXlLQzQwRXdvVEp1WEo5QjIySVdRZXg2dlYtUmljN3dyeWNHNnFwd2NuQS1Ka3FNS1kwQjJYc3oydUotQVdnZXpONFlTWDJDMzl0VElyTDNGaHRvMGpULUNSRzhxVnRJZk1FWmhETm50V0ZxTS1vS3BrU0hXYWlJTjhReWdrLUNkeW1jX1FkT19TbFVwbmlNX0JXRnk?oc=5",
    "date": "2026-11-26T14:57:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "64a3882a0e33",
-   "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300 mil familias del centro y sur",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlhxallmWTEtYkZSSHVSdHFZNVpFM0d2bnc5VlBNZlBzT3ZGX2RYbHNWWS1zR09jTUFwTEhmekw3MkY5WGlzaHFRVUwyNUVqSUxTQ0c4emRLN0xESFVhaDB6MTJkUHA1ZVZwR2hsNWtfcVdzdDNEWTljb3VXYVBvWWIzYVJNbS1ZVW9ZZy11S1NUNmM4UFpadThFQWlZV1RLc1pQV1JzOTdoLTlYVDQzb2Z5ZDZsR3pjc2RYbXJSMGFDeEhNLTlWX0V0S3NqdVd0?oc=5",
-   "date": "2026-11-26T14:56:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
