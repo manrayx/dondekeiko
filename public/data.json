@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:17:28.291280+00:00",
+ "generated_at": "2026-11-27T21:39:26.318730+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -475,12 +475,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9dc7fe03e4d1",
+   "title": "Reggiardo pide implementar medidas de seguridad de la MML tras ataque en la Costa Verde",
+   "excerpt": "El alcalde de Lima, Renzo Reggiardo, solicitó a la presidenta Keiko Fujimori poner en marcha las medidas de seguridad propuestas por la Municipalidad Metropolitana de Lima (MML), luego del asalto…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/alcalde-renzo-reggiardo-pide-a-keiko-fujimori-implementar-medidas-de-seguridad-de-la-mml-tras-ataque-en-la-costa-verde-noticia/",
+   "date": "2026-11-27T21:22:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a48f239577ef",
    "title": "Keiko Fujimori anuncia que viajará hoy a Piura ante inundaciones que dejaron viviendas bajo el agua y varias familias afectadas",
    "excerpt": "La mandataria confirmó que los ministros de Defensa y Agricultura ya se encuentran en la región, donde las inundaciones dejaron viviendas anegadas, calles bajo el agua y miles de familias…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/27/keiko-fujimori-anuncia-que-viajara-hoy-a-piura-ante-inundaciones-que-dejaron-viviendas-bajo-el-agua-y-varias-familias-afectadas/",
    "date": "2026-11-27T21:14:47+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "0a7eac678b40",
+   "title": "Keiko Fujimori anunció que en las próximas horas viajará al norte",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTNwTmVDWHFLNDNtZU5Zd25ycWZJaElQZmVaU3YzLWloZjVtWUZabDZDMFhfcnpQdzdxczdUcS1yc2k5NEN6N2ZoUk80NGZ3VzA4UnRHY3FlNjE5VzBjaTB0RWhWa21HaFc1dGl1c1hyZXdINVNwRlFzQ3RfQ1hyclRndlQ2d1Vja0dWdV9xdmFndEtVMHQyRC1Faw?oc=5",
+   "date": "2026-11-27T21:12:45+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -642,6 +664,17 @@
    "next": null
   },
   {
+   "id": "c044387030fb",
+   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
+   "date": "2026-11-27T18:57:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "574984c9db14",
    "title": "Keiko Fujimori habló con Abelardo De La Espriella y postergó su visita a Colombia",
    "excerpt": "",
@@ -659,17 +692,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYjBFNGQ2OEJjOGdnT1JNNjlrb2FOakJVdzVmejg0LW9TNGhYLVc3UGdsWndDR0hBMEM4R3luTWhBM2tEWDVTREJVZVMxSThsSktDTGtzM3l4UnBLWlZhZkY2M21lZHFyQXVMR05iZUhWZndPMlNIV1Fzc1FMdkN6UlE5V1lxWm9TVXhPODJLRmVUZ3hTc0tOR3JuN1BhYTRkc2d3NDlkcjM0QWQtQ3B3NXN5dGp3a3N3Q0NORTMtOEc5WjZ5REtSWWd0VGRya1B4YzY0M21NVHIwaHdWZGpYM1QzYl96eUU2S25qQURmUG5PejhOYW9vT0R2ekFNVVRNLWFtZUtITmZoOUFES3Bz?oc=5",
    "date": "2026-11-27T18:24:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "9dc7fe03e4d1",
-   "title": "Reggiardo pide implementar medidas de seguridad de la MML tras ataque en la Costa Verde",
-   "excerpt": "El alcalde de Lima, Renzo Reggiardo, solicitó a la presidenta Keiko Fujimori poner en marcha las medidas de seguridad propuestas por la Municipalidad Metropolitana de Lima (MML), luego del asalto…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/alcalde-renzo-reggiardo-pide-a-keiko-fujimori-implementar-medidas-de-seguridad-de-la-mml-tras-ataque-en-la-costa-verde-noticia/",
-   "date": "2026-11-27T18:22:06+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -805,8 +827,8 @@
    "title": "Keiko Fujimori posterga viaje a Colombia ante...",
    "excerpt": "",
    "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzJ1MEZZVHM5anFqRUxiS3ZuUG9xcXhHeUtGYW5uYkg5NWZESnJnXzNyS2JUSTBiOFNScVZoMGk1Z2N5bTR3UnZpUFRtUm44c3lkZ0p3MzJTaFRqTEdOdng2dDNZd2Fia1dxUy1XYWZjOG5GdHBxdU5XTy1OZG56NG9pZzc5ektrdjBwa0ZxSVI5ZWUzcGxDQzVPU3JucnU4TDVhMElFRjlMYnBOTFhvUW1BaDJHazjSAbwBQVVfeXFMT0Z1RUlwNmctQXhzODY0NjBEX1Rhc21OSC1WR1RPa05hSUVYSDFPQ1ctbmlUNUkxTV9kQVVXOHhSVDcycDU4WVNhVUxyb3JBRExsVFdUeDVOaFlnbkxFdl9veEJpd2JUd1lYU09MYWloMC1SY2w3ZWYxN3RMVWRvemFQVTEyeWlYNFFoSGRZQy1HRDVHMmhvQUhUWjh3RkF1Y3VEMGJ0ZmFCSTVwMWlqMnVkZjJqb2VSX0JfU0k?oc=5",
-   "date": "2026-11-27T16:22:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnVFSXA2Zy1BeHM4NjQ2MERfVGFzbU5ILVZHVE9rTmFJRVhIMU9DVy1uaVQ1STFNX2RBVVc4eFJUNzJwNThZU2FVTHJvckFETGxUV1R4NU5oWWduTEV2X294Qml3YlR3WVhTT0xhaWgwLVJjbDdlZjE3dExVZG96YVBVMTJ5aVg0UWhIZFlDLUdENUcyaG9BSFRaOHdGQXVjdUQwYnRmYUJJNXAxaWoydWRmMmpvZVJfQl9TSdIBvAFBVV95cUxPRnVFSXA2Zy1BeHM4NjQ2MERfVGFzbU5ILVZHVE9rTmFJRVhIMU9DVy1uaVQ1STFNX2RBVVc4eFJUNzJwNThZU2FVTHJvckFETGxUV1R4NU5oWWduTEV2X294Qml3YlR3WVhTT0xhaWgwLVJjbDdlZjE3dExVZG96YVBVMTJ5aVg0UWhIZFlDLUdENUcyaG9BSFRaOHdGQXVjdUQwYnRmYUJJNXAxaWoydWRmMmpvZVJfQl9TSQ?oc=5",
+   "date": "2026-11-27T16:12:35+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -1083,17 +1105,6 @@
    }
   },
   {
-   "id": "c044387030fb",
-   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmNXUjM4cEctLVZvemVRWGM3bUhlc2FXY1pHd0JNXzM2RFR4Z0gyZWlkNHhlblNDd0JZcmRyY2QyZ3E4eWU0MHVSNUtZSnNLTG1EbFVtRDhEMTV2Q2lvMzB4M0NWRlNSc3Jmal9RU1FDYmFSN2p3UGZTYjY0dFM2SUZXaXVjNWROZTVLVTQzT0dLWXNNYVlMSlg1ZklVTDZ0OG5YYmpoMEJzcURQa0wtakxaeW8tRkE?oc=5",
-   "date": "2026-11-27T15:10:07+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "af9c0daf6714",
    "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias en el norte del país",
    "excerpt": "",
@@ -1289,17 +1300,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "a9dca8789455",
-   "title": "Presidenta Keiko Fujimori se reúne con alcaldes electos de Cusco y presidente del Grupo BID",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaFpvQlpSREpLbC02X2FvT0tIWFZiOVhXd1VFRFNMWURxZHBNNEJBVVloWl9YYk5Ka29UVHlId094TkxpSDF6d29XZ0c0UXRqVzRtay1oZEgxQktIZW9Ndm9DbHQxa3BzajVVN1E2ekVqeFJFeW5EekFRNzUwQ3g4NXB3dnQwYmg3Y0Z1LUFLRE15SVltLXdKNjdReEhOcEdkMlI2ZkNJLUhDRDJEYjgxZ0hvanp1cmRzZVZMUHhSTDJlNVNmUzdkSA?oc=5",
-   "date": "2026-11-27T00:52:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
