@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T22:43:52.408185+00:00",
+ "generated_at": "2026-11-27T23:05:07.769353+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -111,7 +111,7 @@
    "abroad": false
   },
   "source": "CRprensa.com",
-  "date": "2026-11-27T22:31:43+00:00",
+  "date": "2026-11-27T22:31:38+00:00",
   "title": "Presidenta Keiko Fujimori viajará a Piura por emergencia de lluvias y posterga reunión con Colombia",
   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1R3NzRYTm12djRsUlZkSDdwQzYxclNjakMwLXRUN2FhSzNYYjdMdkFCQ3FSNXFGZWtBMXFSdjZNWk15bkNpTjAyOWRMRjVXTzhQekVXdHA4NWV4MzYxTmNxRk1Jc3RlSk1mSkFfZVRzWGNjeGNpWk1MSmh0UHVXNjBjSWxfZldFSV9SVmpiQzBWekl5ZVYzdUxORVBhZ196S1pGSFZUc3NVUy0xSlJqRFVYWlBtWlVGczJiTXBoWUoxbEJaUFI2SVVDN1g?oc=5"
  },
@@ -520,7 +520,7 @@
    "excerpt": "",
    "source": "CRprensa.com",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1R3NzRYTm12djRsUlZkSDdwQzYxclNjakMwLXRUN2FhSzNYYjdMdkFCQ3FSNXFGZWtBMXFSdjZNWk15bkNpTjAyOWRMRjVXTzhQekVXdHA4NWV4MzYxTmNxRk1Jc3RlSk1mSkFfZVRzWGNjeGNpWk1MSmh0UHVXNjBjSWxfZldFSV9SVmpiQzBWekl5ZVYzdUxORVBhZ196S1pGSFZUc3NVUy0xSlJqRFVYWlBtWlVGczJiTXBoWUoxbEJaUFI2SVVDN1g?oc=5",
-   "date": "2026-11-27T22:31:43+00:00",
+   "date": "2026-11-27T22:31:38+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -794,6 +794,17 @@
    "next": null
   },
   {
+   "id": "673ad709b8ef",
+   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
+   "date": "2026-11-27T19:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c044387030fb",
    "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
    "excerpt": "",
@@ -811,17 +822,6 @@
    "source": "Revista Semana",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDhPZENycExOWEJweDd3Zk5adUdHQ2VaQzZ0YUwybnRYNlExWHcwcVdLRjNCMnJaeWt0VURfQUxuckNsS0RtbmJjVVdibEtkRjMyNlhSTmF0Q0RKNXZ2M2VYYzc5MHEwSUZFTDhWTll6bFhTSnNVWC1SZ2FfM2p1aGhaU0hTRWJHWVd4MlB3bXBhbmxab2MteTNiWG1RN3pNcGkwX3pQSEE1MktzWEJ6YXRRbUJZNVVPUEJ3QnRGNWM3eWZIQ2fSAcsBQVVfeXFMUHhBeEdxajh4X2w0VlU3TDJERnhBQXdlcTdkNWI3RmhoalVlWkstaUJoZEpTMkxMbmF1OG1lLVR2T3d1Zy1XOVV0cDBJZFhHNEdPUVFTUTRiSkd1UmZCZG55MjVKUE1uSDBmRE9OZHA1OGMyd3p5NGJhdU9LWWtHS3gzV3BkWWlyLXQzMzRvT1p3OHlNelVCaHBnUFM2aWoxT1Y2ZkVLRTJyMGtPRjZ0VTUybDIxdGJsb3p0RFBTNER2alM3QnI3Ni1HRE0?oc=5",
    "date": "2026-11-27T18:54:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "673ad709b8ef",
-   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
-   "date": "2026-11-27T18:45:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
