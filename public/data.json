@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:00:11.566794+00:00",
+ "generated_at": "2026-11-27T17:21:36.382061+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Piura",
-   "lat": -5.194,
-   "lng": -80.632,
-   "abroad": false,
-   "city": "Piura"
+   "name": "Palacio de Gobierno",
+   "city": null,
+   "lat": -12.04491,
+   "lng": -77.0298,
+   "abroad": false
   },
-  "source": "La FM",
-  "date": "2026-11-27T16:51:21+00:00"
+  "source": "El Comercio",
+  "date": "2026-11-27T17:21:00+00:00"
  },
  "next": {
   "place": {
@@ -413,6 +413,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "03ec49a80629",
+   "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
+   "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
+   "date": "2026-11-27T17:21:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "c74dd5b1854e",
    "title": "Keiko Fujimori suspende cumbre con De la Espriella por emergencias invernales en Piura",
    "excerpt": "",
@@ -456,23 +473,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzYyLVNBUVplMHk5S2lmQ2lnQ2Etc2c1aTFhRWRrX3ZIOExuXy1nenktR3lueHg4NzN4U1AyWkJQbDUwNi1sYldDSVFxV05nOGdhQmFNOGdSN29leG9DbjBVenNvRGFnZGJTczBIUXVpRmRRZVJKbFEwTDhWVEdqOVZZeDV3Z3pkMUc2VktMLXM2bkltbGxELWFZZVpZVG5zWm00NDFIQnVkUW5CRjh1YlJWa2FXN2ZOZl9sUFVFcURhWEM3M3c3MG5lZw?oc=5",
    "date": "2026-11-27T16:27:01+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
-   "id": "03ec49a80629",
-   "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
-   "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
-   "date": "2026-11-27T16:14:59+00:00",
    "state": "posando",
    "place": {
     "name": "Palacio de Gobierno",
@@ -561,26 +561,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "6bba7f2a6654",
-   "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias e inundaciones en Piura",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0ZRMnFsdmR2R3RNRGNUV1pPRU1HNGk3S0NySkQwdmRFZ3J4MUstaWRCTDdPQzNDN2hORVJsaTNVQXN4WHlGWkVMTFFTdUZiODJUM0x6WnN1VDV1b3JTU29aTFZ5cEctYjM1ZktvdDFhTGdtbEN1aE15ZHViN0tqTzZELUNEUm52cjZoVG02RFVRZGRuWkg2SGstNkw0MExYb1FfOHpna2Y3eUUwSWszTTRjMzhZOEhuRUtPbTV3REw?oc=5",
-   "date": "2026-11-27T15:58:42+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   },
   {
    "id": "579497fcdc4a",
@@ -696,6 +676,26 @@
    "next": null
   },
   {
+   "id": "6bba7f2a6654",
+   "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias e inundaciones en Piura",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1NsNE16Z2xpVGhvOF9vcFZlMUhYc0hjWXlfcy02TmtPc0FLZ3RiRlUyblJBLVJsU1I2aXAxbFdFeng4ajNQUmhOSHl0ZDlRTF9iUmNnNlY4QzBNT0ZBdVJDY2dFR3NFcWlBY0d5cEdUSjVyc2ptOVBOM2w0cENLdzB6YWJQV2RxRHpsQV9xRERQdXV3dmVMcTBrTTRqU0dfcVlTUnUzVjlMWmRwUjBMbXJ3OXRpNEVUcHlCbEhndDgwbFVBcVltNC1iaGdNUQ?oc=5",
+   "date": "2026-11-27T15:42:46+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "337e7c1ac528",
    "title": "Keiko Fujimori posterga viaje a Colombia ante la emergencia en Piura por las intensas lluvias e inundaciones",
    "excerpt": "",
@@ -714,21 +714,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "dab701ba694a",
-   "title": "Keiko Fujimori posterga encuentro presidencial en Colombia por emergencia en Piura",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnFWYmllQlJJXzgyek4zOE03ZnpKdFlFNl9ZQjZyb1BLSlRObW5zVk8yY0k1Ty1SREVwVklzV0xVUDBPZlo2UVJUMmpJVFdHaFYxS3J3c1NncHRxVW1kRm56cXhMbjV6NW9iQUF3VEFvNW02WVdZYTNhUjU0OXlEdHFMOWxRRGFjY3BkUEVJdS1GMlFkdWIwQ1hn?oc=5",
-   "date": "2026-11-27T15:40:59+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Colombia",
-    "abroad": true,
-    "city": "Colombia"
-   },
-   "next": null
   },
   {
    "id": "ab8844b0b48a",
@@ -1081,6 +1066,21 @@
     "name": "Ecuador",
     "abroad": true,
     "city": "Ecuador"
+   },
+   "next": null
+  },
+  {
+   "id": "dab701ba694a",
+   "title": "Keiko Fujimori posterga encuentro presidencial en Colombia por emergencia en Piura",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdWVEdW45a0tkeTVLRnBweTBoWFNrbFJOb3BMVURDcVlyNDQ2eDFUb01CMkc1UWhUTTFtSWhTTlg5YmFrelZFS0ZHNGRNUU10RC1SUEVWUG9qTTR2aDJ3WVg1M2dJUU5FX3hweS10QllqejF1cVlNV0RoU3F2cEJOem5IRDU0UkZvNnRSQW5qMVZveVh1?oc=5",
+   "date": "2026-11-26T23:00:26+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Colombia",
+    "abroad": true,
+    "city": "Colombia"
    },
    "next": null
   },
