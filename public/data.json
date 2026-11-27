@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T21:39:26.318730+00:00",
+ "generated_at": "2026-11-27T22:00:45.173886+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -128,6 +128,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-27T16:49:00-05:00",
+   "end": "2026-11-27T16:51:00-05:00",
+   "minutes": 2,
+   "subject": "Despedida a su homólogo de Bolivia, Rodrigo Paz Pereira.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-27T15:21:00-05:00",
    "end": "2026-11-27T15:34:00-05:00",
@@ -471,9 +487,31 @@
    }
   }
  ],
- "agenda_minutes_7d": 743,
+ "agenda_minutes_7d": 745,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a48f239577ef",
+   "title": "Keiko Fujimori anuncia que viajará hoy a Piura ante inundaciones que dejaron viviendas bajo el agua y varias familias afectadas",
+   "excerpt": "La mandataria confirmó que los ministros de Defensa y Agricultura ya se encuentran en la región, donde las inundaciones dejaron viviendas anegadas, calles bajo el agua y miles de familias…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/27/keiko-fujimori-anuncia-que-viajara-hoy-a-piura-ante-inundaciones-que-dejaron-viviendas-bajo-el-agua-y-varias-familias-afectadas/",
+   "date": "2026-11-27T21:48:28+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1cf95ad87857",
+   "title": "Keiko Fujimori anunció que en las próximas horas viajará al norte debido a lluvias",
+   "excerpt": "La presidenta de la república, Keiko Fujimori, anunció que en las próximas horas viajará al norte del país y expresó su solidaridad con las poblaciones de Piura y Tumbes, regiones…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-anuncio-que-en-las-proximas-horas-viajara-al-norte-noticia/",
+   "date": "2026-11-27T21:47:11+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "9dc7fe03e4d1",
    "title": "Reggiardo pide implementar medidas de seguridad de la MML tras ataque en la Costa Verde",
@@ -481,17 +519,6 @@
    "source": "Gestión",
    "url": "https://gestion.pe/peru/alcalde-renzo-reggiardo-pide-a-keiko-fujimori-implementar-medidas-de-seguridad-de-la-mml-tras-ataque-en-la-costa-verde-noticia/",
    "date": "2026-11-27T21:22:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a48f239577ef",
-   "title": "Keiko Fujimori anuncia que viajará hoy a Piura ante inundaciones que dejaron viviendas bajo el agua y varias familias afectadas",
-   "excerpt": "La mandataria confirmó que los ministros de Defensa y Agricultura ya se encuentran en la región, donde las inundaciones dejaron viviendas anegadas, calles bajo el agua y miles de familias…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/27/keiko-fujimori-anuncia-que-viajara-hoy-a-piura-ante-inundaciones-que-dejaron-viviendas-bajo-el-agua-y-varias-familias-afectadas/",
-   "date": "2026-11-27T21:14:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -522,9 +549,9 @@
    "id": "79a5158470ea",
    "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
    "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
-   "date": "2026-11-27T20:53:00+00:00",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbU5ySGRTY3FtN2RxRVJ3TVVmejNfaXB1Q2tUTUtZREY1b2RGX3N4dWJ5elhJby1FNDB2M0tteHFWTWlScy1zTWtRVE1HNlFFal9GRjRwYkhhclBQcmFpX0sxU3dDU05GQlk2NENuRjhaRVhDal8tY1hMNDh6YzFNTFU4UHVXTnBldFd5STc1QW94LUpsbWd3LVFTUnhtS0Q1c3ViTmdYcHhVOThYakliVVR2bjV3bWZlRnBTdkRhbGtZNlRDNGM5N0xsSGpCQQ?oc=5",
+   "date": "2026-11-27T20:54:47+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -659,17 +686,6 @@
    "source": "El Peruano",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
    "date": "2026-11-27T19:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c044387030fb",
-   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
-   "date": "2026-11-27T18:57:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -897,6 +913,23 @@
    }
   },
   {
+   "id": "dd6d54a03e82",
+   "title": "Rodrigo Paz y Keiko Fujimori encabezan el séptimo Gabinete Binacional en Lima",
+   "excerpt": "",
+   "source": "Red Uno",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUw2YVZoNmg1TlphM3RJWmVOTXdsZWh3eVBNZEU0SWxwaXItdjlTRlNmR0ljR1hGcXAxVU52NlhMWDAwUTQ3YXMtcTJuTGZfVGFxcWtnT19mTHl5RTFrd3JfdkI4WFJSZ2tXVFZ0RWhFNEs4NVdqandJOGxvVVhmek9wTDRybl90LU1MM051R2l0OWMzOGZuaGN4QjM5UEx6ay02ZGthOVZJS0puZTFvNFZEamlDSEltNFQ4ZVZEQnBNWFktenBrcUZSSjE?oc=5",
+   "date": "2026-11-27T15:55:11+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
+   "next": null
+  },
+  {
    "id": "4be1ba61cd21",
    "title": "Keiko Fujimori cambia su agenda por emergencia en Piura: \"Nuestra prioridad es atender a las familias afectadas\"",
    "excerpt": "",
@@ -931,23 +964,6 @@
    "next": null
   },
   {
-   "id": "dd6d54a03e82",
-   "title": "Rodrigo Paz y Keiko Fujimori encabezan el séptimo Gabinete Binacional en Lima",
-   "excerpt": "",
-   "source": "Red Uno",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUw2YVZoNmg1TlphM3RJWmVOTXdsZWh3eVBNZEU0SWxwaXItdjlTRlNmR0ljR1hGcXAxVU52NlhMWDAwUTQ3YXMtcTJuTGZfVGFxcWtnT19mTHl5RTFrd3JfdkI4WFJSZ2tXVFZ0RWhFNEs4NVdqandJOGxvVVhmek9wTDRybl90LU1MM051R2l0OWMzOGZuaGN4QjM5UEx6ay02ZGthOVZJS0puZTFvNFZEamlDSEltNFQ4ZVZEQnBNWFktenBrcUZSSjE?oc=5",
-   "date": "2026-11-27T15:51:17+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
    "id": "af55494ebe22",
    "title": "Presidentes Keiko Fujimori y Rodrigo Paz lideran VII Gabinete Binacional entre Perú y Bolivia",
    "excerpt": "",
@@ -956,23 +972,6 @@
    "date": "2026-11-27T15:49:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "ab8844b0b48a",
-   "title": "Presidenta Fujimori posterga Gabinete Binacional con Colombia por emergencia en Piura",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHZlZFZEa21aTWZQSjlUeXltSnJ2YndXcmJiTnRWT1A0UmR6UW96LTl4dUt2dklIT2ZXYXVHeE5HbEhJUXlMTGt0NnFfVENPb3RYNC00WXNmSWR1eGZ4MFZ5OUxwNUlHT0JxTXVnR3FncnhDaWJqbHNpWk8tdlAtNjJzWm9tNkdwTTVrcWttYUV0cUFUMXpNTC1EeW9PcE50UW5DVHU4T3NfdEZxQkktSFFha0ZmbXQ1aVJPZFB4cWo?oc=5",
-   "date": "2026-11-27T15:46:59+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
    "next": null
   },
   {
@@ -1047,6 +1046,23 @@
    }
   },
   {
+   "id": "ab8844b0b48a",
+   "title": "Presidenta Fujimori posterga Gabinete Binacional con Colombia por emergencia en Piura",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHZlZFZEa21aTWZQSjlUeXltSnJ2YndXcmJiTnRWT1A0UmR6UW96LTl4dUt2dklIT2ZXYXVHeE5HbEhJUXlMTGt0NnFfVENPb3RYNC00WXNmSWR1eGZ4MFZ5OUxwNUlHT0JxTXVnR3FncnhDaWJqbHNpWk8tdlAtNjJzWm9tNkdwTTVrcWttYUV0cUFUMXpNTC1EeW9PcE50UW5DVHU4T3NfdEZxQkktSFFha0ZmbXQ1aVJPZFB4cWo?oc=5",
+   "date": "2026-11-27T15:37:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "de536b2dd32e",
    "title": "PCM solicita dejar sin efecto viaje de Keiko Fujimori a Colombia por emergencia en el norte del país",
    "excerpt": "",
@@ -1103,6 +1119,17 @@
     "name": "Colombia",
     "abroad": true
    }
+  },
+  {
+   "id": "c044387030fb",
+   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmNXUjM4cEctLVZvemVRWGM3bUhlc2FXY1pHd0JNXzM2RFR4Z0gyZWlkNHhlblNDd0JZcmRyY2QyZ3E4eWU0MHVSNUtZSnNLTG1EbFVtRDhEMTV2Q2lvMzB4M0NWRlNSc3Jmal9RU1FDYmFSN2p3UGZTYjY0dFM2SUZXaXVjNWROZTVLVTQzT0dLWXNNYVlMSlg1ZklVTDZ0OG5YYmpoMEJzcURQa0wtakxaeW8tRkE?oc=5",
+   "date": "2026-11-27T15:10:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "af9c0daf6714",
@@ -1286,20 +1313,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "a702d5d813fe",
-   "title": "¿Keiko Fujimori viajará a Colombia? Senado evaluará pedido este viernes",
-   "excerpt": "",
-   "source": "Expreso",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOUp6enA5VzI4M2dEYldncXNQNzBJUzdGRzg4b2xrT01yWnlCbl9iTTZfOGM0V1E0bDJ2UDZHTkRqZWNoM2hWQ0ZtUWcwY3czT3hyMWdOdmE4QXRkWTlqeFN0VmFQNEtzejlZbXlMUERRRmQ4TV8xZGZiWEdQMTd1aVpwUjAxTm1XTi01UGpwQXZuLUYxR1FSRmlGek4yM2l5ZjY3UjhPSmlWd3pJQnRBMXdZZlZIYVJJMVBLc21JTHBLdmh0WjBMdUphSzFwV2RhYXBRNzJaOWtNQTItRE9Sdl8yQlItaTNnVEtrLXBXX1dQVnJDUi1pazBtQmQtcmZ1Mk5xYk5uM0lfR0Q5?oc=5",
-   "date": "2026-11-27T01:27:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
