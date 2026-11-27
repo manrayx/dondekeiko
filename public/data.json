@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:05:07.769353+00:00",
+ "generated_at": "2026-11-27T23:26:15.111424+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "lng": -80.632,
    "abroad": false
   },
-  "source": "CRprensa.com",
-  "date": "2026-11-27T22:31:38+00:00",
-  "title": "Presidenta Keiko Fujimori viajará a Piura por emergencia de lluvias y posterga reunión con Colombia",
-  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1R3NzRYTm12djRsUlZkSDdwQzYxclNjakMwLXRUN2FhSzNYYjdMdkFCQ3FSNXFGZWtBMXFSdjZNWk15bkNpTjAyOWRMRjVXTzhQekVXdHA4NWV4MzYxTmNxRk1Jc3RlSk1mSkFfZVRzWGNjeGNpWk1MSmh0UHVXNjBjSWxfZldFSV9SVmpiQzBWekl5ZVYzdUxORVBhZ196S1pGSFZUc3NVUy0xSlJqRFVYWlBtWlVGczJiTXBoWUoxbEJaUFI2SVVDN1g?oc=5"
+  "source": "El Comercio",
+  "date": "2026-11-27T23:05:31+00:00",
+  "title": "Keiko Fujimori anuncia viaje a Piura y Tumbes ante inundaciones y lluvias intensas",
+  "url": "https://elcomercio.pe/lima/sucesos/keiko-fujimori-anuncia-viaje-a-piura-y-tumbes-ante-inundaciones-y-lluvias-intensas-fenomeno-el-nino-ultimas-noticia/"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -493,6 +493,22 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "213c932467cc",
+   "title": "Keiko Fujimori anuncia viaje a Piura y Tumbes ante inundaciones y lluvias intensas",
+   "excerpt": "La presidenta Keiko Fujimori anunció que viajará a Piura y Tumbes para atender las emergencias ocasionadas por las intensas lluvias e inundaciones. Además, confirmó la postergación del gabinete binacional con…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/lima/sucesos/keiko-fujimori-anuncia-viaje-a-piura-y-tumbes-ante-inundaciones-y-lluvias-intensas-fenomeno-el-nino-ultimas-noticia/",
+   "date": "2026-11-27T23:05:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false
+   }
+  },
+  {
    "id": "28b87deded56",
    "title": "Keiko Fujimori ofrece a Bolivia apertura a los inversionistas: “Bajo las mismas condiciones que los peruanos”",
    "excerpt": "La mandataria destacó el potencial de la relación bilateral para atraer capitales, impulsar proyectos de conectividad y aprovechar la infraestructura portuaria peruana, tras cinco años sin reuniones presidenciales entre ambos…",
@@ -542,6 +558,17 @@
    "next": null
   },
   {
+   "id": "ade0d2905148",
+   "title": "Presidenta Fujimori destaca integración económica y lucha contra el crimen entre Perú y Bolivia",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGJJc2dTTFhESHNkd2x6cWFRRnljWl9PZTBVdWhCLVA2UVVuZkFmemZYX1BZZHhKMW15WUViRE1nYzRJbkoxVTM1ejFwbDdOYVVuMjhPOHI3bTdPR1BfaTBvdWR4eWpjeHhrMVdVOU9tbG8yWDg4YVNZU3pwaFAyVVUtMFhJRlpqUWExbmU3aXFqS2NhM2VydjJXb2dHN3NPZHNneXdUbzM4VXU2VWFUa0ZNZExfaGp6cm1pRg?oc=5",
+   "date": "2026-11-27T21:56:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a48f239577ef",
    "title": "Keiko Fujimori anuncia que viajará hoy a Piura ante inundaciones que dejaron viviendas bajo el agua y varias familias afectadas",
    "excerpt": "La mandataria confirmó que los ministros de Defensa y Agricultura ya se encuentran en la región, donde las inundaciones dejaron viviendas anegadas, calles bajo el agua y miles de familias…",
@@ -562,6 +589,20 @@
    "state": "posando",
    "place": null,
    "next": null
+  },
+  {
+   "id": "56d4fe7e865a",
+   "title": "Keiko Fujimori cancela su viaje a Colombia: Perú se inunda",
+   "excerpt": "",
+   "source": "Los Reporteros MX",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFdiQzZVbmlBOFhwT1I2VEpCNmNUc0FRVEpHbEIyTFYxSDMxSEFHN3Q5Mk05b3ltUUVfT3dxUURKTnpxSkx5TGpDRmVEMWFzYTZuVnB1V0ZEZVhCUG5xWUE2bE50RzFMeXJyZE5sVi02RkNCaXRpeTduUFNKVF9kYjJmcDlURFdaSHB6U19xQQ?oc=5",
+   "date": "2026-11-27T21:45:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
   },
   {
    "id": "f7f215cf7e45",
@@ -827,6 +868,17 @@
    "next": null
   },
   {
+   "id": "7e7339f1bbca",
+   "title": "VII Gabinete Binacional Perú-Bolivia: Keiko Fujimori destaca captura y deportación de 'Johnson Pulpo'",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOGhvZ0s3TmFXd0VtdC10eWJSVDVjX214a0VhdzhELUM4T3dNa1pUb3ZUS05PdzNYLWpBMVI5RkU3QVBpZnpOVV81NUVHM1pQc0Z2S19EYWZCMV90N0p3ZG5sckctdzd4SlhtWmlXRFphUU9BR0NfcnR5c3AxLTAzbTN3NzFaLWw5Tng1ZC1BczBvVkl3YzludnhFSXdaODN1VW9oMUhjNnEzbi1nWi16NUhZbm0wbk9sdndnNUxZdWRmdDR0c1ZnOFpJaEFPVzFlSWdudXhWbnI?oc=5",
+   "date": "2026-11-27T18:25:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3bbe234bf1f8",
    "title": "Keiko Fujimori en Gabinete Binacional Perú-Bolivia: \"Es el inicio de un fortalecimiento de 200 años de amistad que nunca debió cortarse\"",
    "excerpt": "",
@@ -988,7 +1040,7 @@
    "title": "Presidenta Keiko Fujimori posterga su viaje a Colombia ante emergencia por lluvias en Piura",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdWhLMUdsQVFDNGlkX1V6cVBvSTIxRlBxRTNzcHFna3I2WDNfYTBlZkl2UlVnQkxTRjZENnVTOVQzUlFEanZ4ZXYzYXZvUng2WDNnS25ZZmJ2am15R0pXSHkzMjNKVURrb1pQR0dZNDlWbFA2Z0t3MXdjMUpOZHgtT1JESWZza1luMUVPUDc5SW9PaFhNU2lQLWZqSVRUeFVnMDZaMEFYcVpFenpzY1lRdlZuRFItWmVDWDEzVUN3dXdpQXktUXFVX0N2UXZSdw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdWhLMUdsQVFDNGlkX1V6cVBvSTIxRlBxRTNzcHFna3I2WDNfYTBlZkl2UlVnQkxTRjZENnVTOVQzUlFEanZ4ZXYzYXZvUng2WDNnS25ZZmJ2am15R0pXSHkzMjNKVURrb1pQR0dZNDlWbFA2Z0t3MXdjMUpOZHgtT1JESWZza1luMUVPUDc5SW9PaFhNU2lQLWZqSVRUeFVnMDZaMEFYcVpFenpzY1lRdlZuRFItWmVDWDEzVUN3dXdpQXktUXFVX0N2UXZSd9IB4gFBVV95cUxPSFVFS0pmSUFadU9BZFdTeWFDMnc5ZnFZNXFQNlMwOFlwbjVjOFJMTl9aWFo4bTdmYUJta0NkbVFpR1liT3dDSXVDektUQktYVVViLVJGSzFlVWppNXpjRmhXbDl2cDYxMGhPejY2amdnUzRYa25WR2lPdm5EeWtaM3R0YXA5eXQwd1VmZWdPM0poS0Itcm9pQ1ZBMGdJZ1hkbWY4RENpai0wSV9SN1Y0dHNvLXEwdmw1aGVTQWpna0pmTEZNcVoyU3d0a2E2N3FXMW9nQlBxR21ZdzhQeXpUMlB3?oc=5",
    "date": "2026-11-27T16:06:56+00:00",
    "state": "posando",
    "place": {
@@ -1199,7 +1251,7 @@
    "id": "bbab66eea216",
    "title": "Gobierno suspende viaje de Keiko Fujimori a Colombia ante emergencia por lluvias",
    "excerpt": "",
-   "source": "América TV",
+   "source": "América Noticias",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObW1fS0UyOFVOb2IwTElDUXAtLWtMV2VXb2VOSG96UldzY1RCbldUQmNFOC1wbUQzZDB5ZDY5QlA2c3ZDV19qR2IwS3I5cW1WcFdiclhwWjFESmFFWkF6TXE5dFl6a09JY09SS1dtc0ZWcHZEZFJ1WHRNVkZwSHEyZXZTTTAwRkQ5alZGUDU4RWZTTXFhTjAxUjVqSVozYTBuQkxNWGNMWlM4Unk5YlVXNGZWTG9iVGdxWHlBZ1o4MnBZMmFy0gHKAUFVX3lxTE5EWVNJdm5pLUxRZ0dYcHl6UFZUUElMOW9ra1dqRld2MWtlM2tpN0NNWkdhcWtycE9CX2JaaWtPUmk3WHNCZkFpMVZ0THVzcVpCU2JVUDNpRnNydDVhXzNGclJmMUxOS1piOHVtVzRVRWF3VndJY0loMGZYQjQ0b0ZhQTBmMWZlRzF5NXhrTXJOblJWWUh0c1dCX0pQODY0LURQRDZFV2U5UlBWVDdqdFdGbjFGSjBSTlgxbk5BdHB6U1lEa0poNzdDWGc?oc=5",
    "date": "2026-11-27T15:29:15+00:00",
    "state": "posando",
@@ -1255,64 +1307,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "c5f304072c64",
-   "title": "Presidenta Keiko Fujimori recibe en Palacio de Gobierno a homólogo de Bolivia, Rodrigo Paz",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSE9RVHdpVUtBV3ZoN25xZGFZaVBoUHVyN1o4Ym5rTDBpeEwtV3VGQUo3X1VqeG9zQXBVdHNDRENGb2V2N21XZmNhY3U0RmFHYzJJam9rTHZ6aXdReUI0ZjQ5cDc4ek9jWHQ3cGJ5LTFSZUY1TFZRR3FvWlB6Rm1UM0xsZzZmUXlleC12bVBtTzdocUJ2dVhXbS1la196d3lyald4Yk5teHpjWlFSRDFpRTByUmdBX1N3SERnUkdRdlJaVE91XzZ2bkZ6V3otcWx5Y3VoQVFFWEstSERo?oc=5",
-   "date": "2026-11-27T14:54:15+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "Bolivia",
-    "abroad": true
-   },
-   "next": null
-  },
-  {
-   "id": "8b59deea57c3",
-   "title": "Keiko Fujimori recibe en Palacio de Gobierno al presidente de Bolivia, Rodrigo Paz, para encuentro bilateral",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTWl2MGtBM3BVT0VNblRxem5rT0FfQ0JmZjlOYTI1VDBxWERyNWdMVUV1SnplWWV6MVpwX245b3hrNnFFdWxqYm9LTGhaRVN5NHZMamxEZ0w0RFJsN3FaRVYyWmt0c2diRGgzTUZEelJBVlNmbl9WYlJ5a3FmbTViT3V5ZHNISlotajBLQ0xTTXNSTkMxWFd1RlpFQ0NwMjBJaTUwblpLajcxd3Y5RmVIck9ET0EyazdUeUcxSVZ6VzdGd1N1S2dpaw?oc=5",
-   "date": "2026-11-27T14:52:43+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "Bolivia",
-    "abroad": true
-   },
-   "next": null
-  },
-  {
-   "id": "9d6a656df704",
-   "title": "Senado debatirá este viernes autorización para que Keiko Fujimori viaje a Colombia",
-   "excerpt": "La presidenta, Keiko Fujimori, podría viajar a Colombia el próximo 3 de diciembre para participar en el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. El Senado debatirá este viernes 27…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/senado-debatira-este-viernes-autorizacion-para-que-keiko-fujimori-viaje-a-colombia-noticia/",
-   "date": "2026-11-27T14:50:03+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "903c1d56bb46",
-   "title": "Keiko Fujimori: Pleno del Senado debate autorización para viaje a Colombia el 3 de diciembre",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZkVEWWhsWmVWa2ZJbmJTZlJVMGJhMXNCMmhwcnc0ZUNOSmtlT0V3VXF6eFVoNUxCamJXa0NLVEpKRlVNN1ZlQThvb3ZYMXgtRWNCamlLWnF4NHFXTzZaMGxHcmI2SEZmQk9IQm9QcDRYckdVbkpzMXVfV3kxbFpHcjFNbDNLYl9LREpEUWExVjQtdVRWZmhfUV9PVTc4a0FLVE5VZEpuUC1ITG1rcDMzOWpYajNwaFN4VXNmSG5RS2NKbTFXNFNPWFA5cEFULUJBaHBrd1U5ZGxuQkg5aGFqclp2TGZWT3JUTndoOVplbUdxY2NEVnh6VnhQMmhBZGx6NFItQU9uTktmMndMemx2R21KdU3SAagCQVVfeXFMUExFSGk5TmtkZW1Eb2VONjFYZWx3MFA5NU1zNTNmbVkwLW1yWENLZ3hEUjRSU3RWcGVsZVlGYkdCNVpLODFpc2psNllQaXJsY1MzTlhIbUl4ZW10SnE2MThvaFc1NzdUV285UTdLRWx4VVZvS3FqTEI3SzNYZUl3SFM2dG9ZNWtXSE50RVNIa24tc2Q4TkRNYml2NlJZNDF5YzR1N2FKYWJBMV9wVzhsVVpYWHE5ZnM2d3RTZzZDTW9wWFpDdTdIOEN4OGhKcW45QTd4WGt4a1ZNbExQY2tDdmo3S09Nd1pLeHpBaEJ4d0hCV1FOQXhwYU9mS2lOZHJsT05wbmVvVkI1dlZaR3ZNNFkwMjVITm5vRmVXcXNGYnUyWFl1QnlBTXk?oc=5",
-   "date": "2026-11-27T13:48:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
