@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:12:43.577303+00:00",
+ "generated_at": "2026-11-27T20:34:20.981066+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -130,6 +130,38 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-27T15:14:00-05:00",
+   "end": "2026-11-27T15:20:00-05:00",
+   "minutes": 6,
+   "subject": "Ceremonia de suscripción de acuerdos bilaterales y de la Declaración Presidencial de Lima.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
+  {
+   "start": "2026-11-27T12:06:00-05:00",
+   "end": "2026-11-27T15:10:00-05:00",
+   "minutes": 184,
+   "subject": "Sesión Plenaria del Gabinete Binacional Perú - Bolivia.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-27T11:55:00-05:00",
    "end": "2026-11-27T12:01:00-05:00",
@@ -425,9 +457,20 @@
    }
   }
  ],
- "agenda_minutes_7d": 540,
+ "agenda_minutes_7d": 730,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "f71eb9c7ff98",
+   "title": "Keiko Fujimori cancela encuentro con Abelardo de la Espriella en Barranquilla",
+   "excerpt": "",
+   "source": "Eluniversal.com.co",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSXZxS3J4SVp1MWpsc1poanJ2MmtFVC1yQkM5NWZLMW5tZmlWZy1DbEJCUUFiX2g5T0J1dnd0eVQ2WElzQmFoeVUyZDFhT3k2V1BxUDJ3S25KTXp2QUpZRVQ3TGhhSWJGWmJuR0FNLWZSUm16T3RTcHhhek1MNy1leWNEN011TndGRUtfM0Y4NEF2aElCUkNxVlk1NGNFVUd0ZmFQWDcwWlhfeEU5ZmJ6V05VQkxuNWpFdDd0YTJRRTZLaDdHeVoyRw?oc=5",
+   "date": "2026-11-27T20:17:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "e69ef7db8fc9",
    "title": "Keiko Fujimori prioriza atención de emergencia por lluvias en Piura %",
@@ -485,6 +528,17 @@
    "next": null
   },
   {
+   "id": "673ad709b8ef",
+   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
+   "date": "2026-11-27T19:07:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c044387030fb",
    "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
    "excerpt": "",
@@ -501,18 +555,7 @@
    "excerpt": "",
    "source": "Revista Semana",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDhPZENycExOWEJweDd3Zk5adUdHQ2VaQzZ0YUwybnRYNlExWHcwcVdLRjNCMnJaeWt0VURfQUxuckNsS0RtbmJjVVdibEtkRjMyNlhSTmF0Q0RKNXZ2M2VYYzc5MHEwSUZFTDhWTll6bFhTSnNVWC1SZ2FfM2p1aGhaU0hTRWJHWVd4MlB3bXBhbmxab2MteTNiWG1RN3pNcGkwX3pQSEE1MktzWEJ6YXRRbUJZNVVPUEJ3QnRGNWM3eWZIQ2fSAcsBQVVfeXFMUHhBeEdxajh4X2w0VlU3TDJERnhBQXdlcTdkNWI3RmhoalVlWkstaUJoZEpTMkxMbmF1OG1lLVR2T3d1Zy1XOVV0cDBJZFhHNEdPUVFTUTRiSkd1UmZCZG55MjVKUE1uSDBmRE9OZHA1OGMyd3p5NGJhdU9LWWtHS3gzV3BkWWlyLXQzMzRvT1p3OHlNelVCaHBnUFM2aWoxT1Y2ZkVLRTJyMGtPRjZ0VTUybDIxdGJsb3p0RFBTNER2alM3QnI3Ni1HRE0?oc=5",
-   "date": "2026-11-27T18:50:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "673ad709b8ef",
-   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
-   "date": "2026-11-27T18:45:00+00:00",
+   "date": "2026-11-27T18:54:38+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1248,21 +1291,6 @@
     "name": "Ecuador",
     "abroad": true,
     "city": "Ecuador"
-   },
-   "next": null
-  },
-  {
-   "id": "dab701ba694a",
-   "title": "Keiko Fujimori posterga encuentro presidencial en Colombia por emergencia en Piura",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdWVEdW45a0tkeTVLRnBweTBoWFNrbFJOb3BMVURDcVlyNDQ2eDFUb01CMkc1UWhUTTFtSWhTTlg5YmFrelZFS0ZHNGRNUU10RC1SUEVWUG9qTTR2aDJ3WVg1M2dJUU5FX3hweS10QllqejF1cVlNV0RoU3F2cEJOem5IRDU0UkZvNnRSQW5qMVZveVh1?oc=5",
-   "date": "2026-11-26T23:00:26+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Colombia",
-    "abroad": true,
-    "city": "Colombia"
    },
    "next": null
   }
