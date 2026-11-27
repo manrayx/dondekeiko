@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T17:43:01.648480+00:00",
+ "generated_at": "2026-11-27T18:04:47.077645+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "lng": -77.0298,
    "abroad": false
   },
-  "source": "El Comercio",
-  "date": "2026-11-27T17:21:00+00:00"
+  "source": "AP Noticias",
+  "date": "2026-11-27T17:54:11+00:00"
  },
  "next": {
   "place": {
@@ -413,6 +413,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2cdb03da231a",
+   "title": "Rodrigo Paz tras reunirse con Keiko Fujimori en Palacio: \"Bolivia y el Perú abren una nueva etapa de integración\"",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMElCSG1Vek90V25rZHlaUHZIaWtjYnZ2REZkSDFxSkZkUHNXV0pLTElGWkt6dkFDbkFIN2t6dHVpMnpJSUpKbGlISnZQMUdHbEI3bzJkQzRJLVI0eG9pQkdzQnM0WllnY1ZlUTg4UXVxc3B0cm9Ga25zc2IzMlV3dnViNkloMThxdWZQeGpZZjE1YnE4dGRiQjA5RENrNkptTFU5ekdTNGhTOUpJeklrRUplYndnemdhaTlyZ0lUSHRHQTYyOUZPRWU4NHF3WlpYZ1ZxbEZyaUVtbHY3?oc=5",
+   "date": "2026-11-27T17:54:11+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
+   "id": "99c67399070c",
+   "title": "Keiko Fujimori recibe a Rodrigo Paz: Perú y Bolivia retoman Gabinete Binacional tras cinco años",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2c1TlZJVGluamJXcjlONUFrcWxodm8wRjJYU2c3Y3hFcUlFbzRqSTh3QU5ZV1pfSHhUaTN5aWE5WUdHSDk5NXcyekNtT1Y1NVg4WTJfY1RTUVB4VG1NcHU5TTZtWS1heTVrSUoydXZya041dWtYLUpXWHVQZGRBU3lFQ3Job0pDbzlHaHNrUXZtdzdlYVRJaHNacmJQbnM?oc=5",
+   "date": "2026-11-27T17:38:10+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "77b6c6ebd835",
    "title": "\"Querido amigo\": Keiko Fujimori recibe a Rodrigo Paz y promete recuperar cercanía entre Perú y Bolivia",
    "excerpt": "",
@@ -678,6 +706,23 @@
    "next": null
   },
   {
+   "id": "ab8844b0b48a",
+   "title": "Presidenta Fujimori posterga Gabinete Binacional con Colombia por emergencia en Piura",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHZlZFZEa21aTWZQSjlUeXltSnJ2YndXcmJiTnRWT1A0UmR6UW96LTl4dUt2dklIT2ZXYXVHeE5HbEhJUXlMTGt0NnFfVENPb3RYNC00WXNmSWR1eGZ4MFZ5OUxwNUlHT0JxTXVnR3FncnhDaWJqbHNpWk8tdlAtNjJzWm9tNkdwTTVrcWttYUV0cUFUMXpNTC1EeW9PcE50UW5DVHU4T3NfdEZxQkktSFFha0ZmbXQ1aVJPZFB4cWo?oc=5",
+   "date": "2026-11-27T15:46:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "648063bb0728",
    "title": "Keiko Fujimori posterga viaje a Colombia por emergencia en Piura y cancela pedido de viaje al Senado",
    "excerpt": "",
@@ -747,23 +792,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "ab8844b0b48a",
-   "title": "Presidenta Fujimori posterga Gabinete Binacional con Colombia por emergencia en Piura",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHZlZFZEa21aTWZQSjlUeXltSnJ2YndXcmJiTnRWT1A0UmR6UW96LTl4dUt2dklIT2ZXYXVHeE5HbEhJUXlMTGt0NnFfVENPb3RYNC00WXNmSWR1eGZ4MFZ5OUxwNUlHT0JxTXVnR3FncnhDaWJqbHNpWk8tdlAtNjJzWm9tNkdwTTVrcWttYUV0cUFUMXpNTC1EeW9PcE50UW5DVHU4T3NfdEZxQkktSFFha0ZmbXQ1aVJPZFB4cWo?oc=5",
-   "date": "2026-11-27T15:37:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": null
   },
   {
    "id": "de536b2dd32e",
@@ -849,6 +877,21 @@
    }
   },
   {
+   "id": "c5f304072c64",
+   "title": "Presidenta Keiko Fujimori recibe en Palacio de Gobierno a homólogo de Bolivia, Rodrigo Paz",
+   "excerpt": "",
+   "source": "notiperú",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSE9RVHdpVUtBV3ZoN25xZGFZaVBoUHVyN1o4Ym5rTDBpeEwtV3VGQUo3X1VqeG9zQXBVdHNDRENGb2V2N21XZmNhY3U0RmFHYzJJam9rTHZ6aXdReUI0ZjQ5cDc4ek9jWHQ3cGJ5LTFSZUY1TFZRR3FvWlB6Rm1UM0xsZzZmUXlleC12bVBtTzdocUJ2dVhXbS1la196d3lyald4Yk5teHpjWlFSRDFpRTByUmdBX1N3SERnUkdRdlJaVE91XzZ2bkZ6V3otcWx5Y3VoQVFFWEstSERo?oc=5",
+   "date": "2026-11-27T14:54:15+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": "Bolivia",
+    "abroad": true
+   },
+   "next": null
+  },
+  {
    "id": "8b59deea57c3",
    "title": "Keiko Fujimori recibe en Palacio de Gobierno al presidente de Bolivia, Rodrigo Paz, para encuentro bilateral",
    "excerpt": "",
@@ -876,21 +919,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "c5f304072c64",
-   "title": "Presidenta Keiko Fujimori recibe en Palacio de Gobierno a homólogo de Bolivia, Rodrigo Paz",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMVlhbzRoS05nbzFOSldjLXU3bGVuLTlSemVYZ0xKbVhIdEdET0l5ZU9lblVTRl9aVS1ycWI3OGZydVo4TGZlaW9hUUFLaE9VZEtaSUtTajZiYzBqd3g4Y3ZibW5Va2twanJzVnlQa1hfSk4wVWxyaGdrR2liQnVEa2xlRVg3NXBlMXJTc1ZBV3d4a1JMcWw3dTRuLVhFbUhDbmZyZERTT01sdm5LaVhZQ3pTakxBZGlHOTRmSHFmMFNnRFVTQ3c?oc=5",
-   "date": "2026-11-27T14:46:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": "Bolivia",
-    "abroad": true
-   },
-   "next": null
   },
   {
    "id": "903c1d56bb46",
@@ -1214,34 +1242,6 @@
    "date": "2026-11-26T20:00:17+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "3e6a33080aa5",
-   "title": "Keiko Fujimori anuncia crédito del BID por 10,000 millones de dólares para Perú",
-   "excerpt": "",
-   "source": "Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHRYX1ZqaDY2amNNaHN6bGtKb2RUMzdRZ2NPWVA2amQzY2RQY1Zwams3UWdwclRmVFY3b2w2b3BYalFPUnc2cC0yMWtlYUZRTjVwZXMtY2RnNnZpa1o5ajh2YmxGeGVlbmxBY2RKREh3cmRieTVaX2lPbEhxa3Q5QjNjcEI2M3lOdFZqcVZSQnI?oc=5",
-   "date": "2026-11-26T19:16:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "78163edf6082",
-   "title": "Keiko Fujimori anuncia creación de unidad de cumplimiento y oficina de transformación digital en Palacio de Gobierno",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd1lXU3YwRlRodFFpdEtxaG9QSU1leDZPX1oyXzJFNFFERXJjRVhiWF9maWNYVjh1dlA4OTBZX0xhY0hhMW1EVVMzRVpuZGlHNkFLTUY3a1hLbHRERk03djg3YThLbWhhY3JiMmZnWXZPZ0tQZHZDZWQyaHB1cWM1Nm5TTnNIUDJPWDF0TEFfdjVQSUpldEQxZEFpWm9ROEZ6RkM1OHVnR3V6N09iT0l2azJQSUI3RDdCTFB2WFNRekVMaVJiMFBEcHpiM0FYS1g5SzVrYw?oc=5",
-   "date": "2026-11-26T18:47:40+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
