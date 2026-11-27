@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T00:36:46.850936+00:00",
+ "generated_at": "2026-11-27T00:58:26.473914+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Lima"
   },
-  "source": "Infobae",
-  "date": "2026-11-27T00:06:00+00:00"
+  "source": "Perú21",
+  "date": "2026-11-27T00:29:25+00:00"
  },
  "next": {
   "place": {
@@ -432,14 +432,42 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a9dca8789455",
+   "title": "Presidenta Keiko Fujimori se reúne con alcaldes electos de Cusco y presidente del Grupo BID",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaFpvQlpSREpLbC02X2FvT0tIWFZiOVhXd1VFRFNMWURxZHBNNEJBVVloWl9YYk5Ka29UVHlId094TkxpSDF6d29XZ0c0UXRqVzRtay1oZEgxQktIZW9Ndm9DbHQxa3BzajVVN1E2ekVqeFJFeW5EekFRNzUwQ3g4NXB3dnQwYmg3Y0Z1LUFLRE15SVltLXdKNjdReEhOcEdkMlI2ZkNJLUhDRDJEYjgxZ0hvanp1cmRzZVZMUHhSTDJlNVNmUzdkSA?oc=5",
+   "date": "2026-11-27T00:52:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "3bd621cf46db",
    "title": "Gobierno de Keiko Fujimori gastará S/ 4.3 millones en publicidad estatal para su campaña por El Niño",
    "excerpt": "",
    "source": "El Foco",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGJITXVGaFhENmpBdDdiSUZLc1RLWm5pRG55WjdYelZlMGpjb2RGMWZEM0dFY3JrTFlsaWoyZ0VIbWZySGpldDdaVEhQZTJQNzRoSUJPSDItNl9BR1pWZ1dqUVR3eUxoNHZTY1NjcE14RjQ4WW9fb1d0YVVDTFp5b29hT1FkV3ZmMTFIYkZJT3RtSjQ5N1ZreFBmRkpEQ2VpWmdXbnk1S3dhcjViR0VOd3RaTDlwZVE0TGJlTU9Ba2NLWnJXZG9XUThudWd5aWlkeGhQMm45dHNDOFpKUFZfX0pQVHV4dw?oc=5",
-   "date": "2026-11-27T00:35:23+00:00",
+   "date": "2026-11-27T00:34:59+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "e6ce0fea352b",
+   "title": "Rodrigo Paz llega a Lima: se reunirá con Keiko Fujimori en el VII Gabinete Binacional",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGtHdzJOMGRHVXd1bmJvWEdwdG02bFU0amVHdlFET2I2TF9ud0o1eEFLOVUtUkhGSzhZUnJxNC1yMjNUanZDVVY4QXA4TVc2WVo5Y1lXY0xrelNZTXB1UTZibG44OVh3VmtyczZDYmt5NHZtWkx5SUxYalNrU3JJX2U4czFGQ0JNMmhnWlV3X3ZCS1BLdGNSSkQ1eWt4Mi10?oc=5",
+   "date": "2026-11-27T00:29:25+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
    "next": null
   },
   {
@@ -1103,31 +1131,9 @@
    "id": "dd5ac0282862",
    "title": "Keiko Fujimori destaca respaldo de gobernadores a la adenda del gas: \"Han puesto primero a sus pueblos\"",
    "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORENQMkxVMkY2bkFDRGo2OHlTeGVRQTJnWnQ4bDZDbVpsMzQ2RE9STEliZmEwUDJvcGgtSFhEQXpoY0dvTUdMd2p3dkp5d3NwVmNjckZDZVgyUVhhbmZzVzY0U1BFeXI4Ry1sVHR5bUROQ29uUVZxMDlnQm9FUU9hTEFrbnJBMGQ2YVE0T3dMcTBxclRsUVE3aEdrVFFmYjdvVnh1Y1QyYjczRW92TENOX2pfMlcyTTdXTVU2eWRlR0hSeXdVYkQwU0tXaHk4dVE?oc=5",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaVBuanNBNy1LQ0gxc0RabWJQSTVPY1JIMERseFJ2Mnlxc3RXbUhfc2pDZzl1cndoQ0Ewa2t3NGgxM1FLdUp1X0c3eEdJTTh2bWdST0xFYmIya3JXdHhYbG12cVhOakk1bXo5ZlVRM1VHWFRqOWZXMXE5ejlZU3VpajdjSmRwQjdqNTd6OFljS2U0RE5rS2kxN2s0c1M2UmhQUFI2bzhFdjhCN3Q1TmtRVEF5dm1tclRmdTBCMWV2czhqTmd4Qm1udGthblpTZEU?oc=5",
    "date": "2026-11-26T14:49:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "99986110b8e9",
-   "title": "Bolivia busca fortalecer su conexión con el Pacífico en la reunión de Rodrigo Paz y Keiko Fujimori",
-   "excerpt": "",
-   "source": "Asuntos Centrales",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3EwSXBBV0ZQbm05a2Q3a0doeXlpQjhWYzNsZ1l5Zk40LTZxdEUtVWZWSzVZYTVVdnVIc1hJRHhDTmY1WWF6MkR2UnlDSFNlbUhKTGpxRkplQTFNWF9qcjY2R3p1SU1USHVXbDlSR3dLNW9zNk9UY2tYZDF1RGVGM1YzbTJGU0ZNM08xNGFXbkpmYTRSRkhNcXpqY2JvNlRWM3hPWW9GV0M3QzI4RDV2b3hWdnpuR0NWbUM1czFaVVFhY3I5REdR?oc=5",
-   "date": "2026-11-26T14:47:57+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "194c766178e5",
-   "title": "Proyecto de gas natural “7 regiones”: Gobierno de Keiko Fujimori firma adenda con Cálidda",
-   "excerpt": "",
-   "source": "Gestión",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWJIdWlxemRJTWRBNGxwbGFib2ppYXFsaGVIdHBjY01KWFg0ak0xOWVxYVlXaW1HYkFGZmcweGNWSllsT2R5dWx2czVZOXVUQXJsSDl6ZV8wVHlISThONV9pcjdpaW00cFpkNUZuYlZLZ3FpS1RyVVhjbFJtUmZ6SlpDYVFFZFA5ejZvOFRNZmpvQzdyMG1LdElHUy1ObHpCdHppbTk5SHB5VTVlcm5PalU1M2xveEg4WmtLMEJPMHY?oc=5",
-   "date": "2026-11-26T14:44:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
