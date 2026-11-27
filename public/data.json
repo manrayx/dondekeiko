@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:08:52.781295+00:00",
+ "generated_at": "2026-11-27T19:30:30.520079+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -413,6 +413,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "b832d65ef506",
+   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia -",
+   "excerpt": "",
+   "source": "Perú Informa",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0RrRzhmMjk0RS1zWEkxaTBhMWxvRndGSllFeUJQeFlvZW95RWpWZ0xYdEJPX0hiOVI4SEszYm0wblZhRHpmNl9pSHpjYUxITTd4SVdhY0ZLZG5kRWxqdDFEMGxWVGE2MXNsUkRGS1BHeVFMZzhLYmJRU2V1SE1CbVhFQXc0dXNGcUlPR3FZMlgyRElWbldHQVhabTlxaW80TWExNHA3NUR4OVlTZ0h6WUxHMTZPUQ?oc=5",
+   "date": "2026-11-27T19:24:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "673ad709b8ef",
    "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
    "excerpt": "",
@@ -608,7 +619,7 @@
    "excerpt": "",
    "source": "Panamericana TV",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzJ1MEZZVHM5anFqRUxiS3ZuUG9xcXhHeUtGYW5uYkg5NWZESnJnXzNyS2JUSTBiOFNScVZoMGk1Z2N5bTR3UnZpUFRtUm44c3lkZ0p3MzJTaFRqTEdOdng2dDNZd2Fia1dxUy1XYWZjOG5GdHBxdU5XTy1OZG56NG9pZzc5ektrdjBwa0ZxSVI5ZWUzcGxDQzVPU3JucnU4TDVhMElFRjlMYnBOTFhvUW1BaDJHazjSAbwBQVVfeXFMT0Z1RUlwNmctQXhzODY0NjBEX1Rhc21OSC1WR1RPa05hSUVYSDFPQ1ctbmlUNUkxTV9kQVVXOHhSVDcycDU4WVNhVUxyb3JBRExsVFdUeDVOaFlnbkxFdl9veEJpd2JUd1lYU09MYWloMC1SY2w3ZWYxN3RMVWRvemFQVTEyeWlYNFFoSGRZQy1HRDVHMmhvQUhUWjh3RkF1Y3VEMGJ0ZmFCSTVwMWlqMnVkZjJqb2VSX0JfU0k?oc=5",
-   "date": "2026-11-27T16:12:06+00:00",
+   "date": "2026-11-27T16:22:28+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -1229,17 +1240,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQm9TQ3ZTU0hMU2dmYU1YZHd1UHQxUm1pQVZwQTlESHdEZWtOaFVqVEZHVm9oZ212WVdfdjUwb2NYMDAzUmx4UnNFV1dXMEs0aFNuOHkxczMyR2tDTUZpYUEyTmRISVhSdl9ibVN0ckdvX2V0N1hvTHdJRUhPOGFJUGNnRFdSNFN3U3FPLTJETVE4RGhBRHFnWVZmYzR3RjBZc2prWtIBpAFBVV95cUxNQm9TQ3ZTU0hMU2dmYU1YZHd1UHQxUm1pQVZwQTlESHdEZWtOaFVqVEZHVm9oZ212WVdfdjUwb2NYMDAzUmx4UnNFV1dXMEs0aFNuOHkxczMyR2tDTUZpYUEyTmRISVhSdl9ibVN0ckdvX2V0N1hvTHdJRUhPOGFJUGNnRFdSNFN3U3FPLTJETVE4RGhBRHFnWVZmYzR3RjBZc2prWg?oc=5",
    "date": "2026-11-26T21:34:55+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ed45c43258bd",
-   "title": "Keiko Fujimori evita responder si plantearía cuestión de confianza por ley MAPE",
-   "excerpt": "La presidenta de la República, Keiko Fujimori, evitó pronunciarse sobre la posibilidad de plantear una cuestión de confianza si el Congreso no aprueba el proyecto de ley de la Minería…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-evita-responder-si-plantearia-cuestion-de-confianza-por-ley-mape-noticia/",
-   "date": "2026-11-26T20:57:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
