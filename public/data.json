@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T01:19:31.315251+00:00",
+ "generated_at": "2026-11-27T01:41:05.839032+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,15 +107,13 @@
  },
  "next": {
   "place": {
-   "name": "Cusco",
-   "lat": -13.532,
-   "lng": -71.967,
-   "abroad": false
+   "name": "Colombia",
+   "abroad": true
   },
-  "source": "www.apnoticias.pe",
-  "date": "2026-11-26T15:18:30+00:00",
-  "title": "🔴🔵 Keiko Fujimori llegará a Cusco para la clausura del CADE 2026",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSU9GOW9UWW9ZQzJuWnpLZHozVWs1VzRRejBNdExMa1Z3alhSc3A4RkJTNkFNdFkzSmN3b2dfQkNBT1V4MktkX2J4bUs4NGpQUThuVzZlaWJvWWNnNFUzeUk4ZUhKbVo5amluaUVxN0pQX3MyUTV5Y1UxUHRKM2hOai0zQVdjU0tad0M1cVZydTFqSEhKZWtaUExKZGt2QTBYS2paU2dya3gydHRqS01Z?oc=5"
+  "source": "Expreso",
+  "date": "2026-11-27T01:24:06+00:00",
+  "title": "¿Keiko Fujimori viajará a Colombia? Senado evaluará pedido este viernes",
+  "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOUp6enA5VzI4M2dEYldncXNQNzBJUzdGRzg4b2xrT01yWnlCbl9iTTZfOGM0V1E0bDJ2UDZHTkRqZWNoM2hWQ0ZtUWcwY3czT3hyMWdOdmE4QXRkWTlqeFN0VmFQNEtzejlZbXlMUERRRmQ4TV8xZGZiWEdQMTd1aVpwUjAxTm1XTi01UGpwQXZuLUYxR1FSRmlGek4yM2l5ZjY3UjhPSmlWd3pJQnRBMXdZZlZIYVJJMVBLc21JTHBLdmh0WjBMdUphSzFwV2RhYXBRNzJaOWtNQTItRE9Sdl8yQlItaTNnVEtrLXBXX1dQVnJDUi1pazBtQmQtcmZ1Mk5xYk5uM0lfR0Q5?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 4,
@@ -432,6 +430,20 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "a702d5d813fe",
+   "title": "¿Keiko Fujimori viajará a Colombia? Senado evaluará pedido este viernes",
+   "excerpt": "",
+   "source": "Expreso",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOUp6enA5VzI4M2dEYldncXNQNzBJUzdGRzg4b2xrT01yWnlCbl9iTTZfOGM0V1E0bDJ2UDZHTkRqZWNoM2hWQ0ZtUWcwY3czT3hyMWdOdmE4QXRkWTlqeFN0VmFQNEtzejlZbXlMUERRRmQ4TV8xZGZiWEdQMTd1aVpwUjAxTm1XTi01UGpwQXZuLUYxR1FSRmlGek4yM2l5ZjY3UjhPSmlWd3pJQnRBMXdZZlZIYVJJMVBLc21JTHBLdmh0WjBMdUphSzFwV2RhYXBRNzJaOWtNQTItRE9Sdl8yQlItaTNnVEtrLXBXX1dQVnJDUi1pazBtQmQtcmZ1Mk5xYk5uM0lfR0Q5?oc=5",
+   "date": "2026-11-27T01:24:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "a9dca8789455",
    "title": "Presidenta Keiko Fujimori se reúne con alcaldes electos de Cusco y presidente del Grupo BID",
    "excerpt": "",
@@ -549,6 +561,17 @@
    "source": "Congreso",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnV3N3hVLXFRUXA3OEw1UTRRa2tNUWhFZXQ1ZzRMdDhWNlFPTjRYUnIxQXdkYUVkQnJTRmltNmNrTjY4bHNzdVZMX1NVNHRROUFTQ3Z1cWdoX1FDUFVKeDRrM19MY0FKazhnTGtiaWdZVU9BTmk1VERoYTBmUmtDRmZ0NEhWQUo2dXktcWdudC1RWnB5dWtCb09DdEhOUE1YWjBjT2JRWE9iWWtYUjZXV0lDSVoyZXctNG5oWGhwSQ?oc=5",
    "date": "2026-11-26T22:16:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "5abe123612dc",
+   "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300,000 familias del centro y sur",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVhPRXg3SjNKeWg5SzJSVVV1MzNFak5PdHNhemxKNlN4b1gzMWNvSTRXS21BbERqOTlCbWFWM1AyQTZCQjVER25pNXJoZE9NSTZiWnl0ZVZhQU9yOEY0Y0dsMWxoS3ZsM3RwMFAyWHFnQmxzOW9oTzFzR3lYUlV1RG55YUVLb2pOMVQ2VXRRTlBXdHZHVnFud0Q1SFd3VVdoN0VtQjZfR2EyVmhtWVJBdDVzd1A4QnN4XzdpV2lDTVBpRk5TTFdLWENKSUFvZDA?oc=5",
+   "date": "2026-11-26T21:46:24+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -704,6 +727,17 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDJ2OWJlbVNMVEI0aXhQNEVkUDRQdzZ0OEp1emFPVjQ2dnVOTHJVa293TGhtYWFhcnFXdHpCNEVuV0pMVTNxOHlDaWVWN0I1SjlRcTFNdmlrX0w5YjhuekV2U21ncEUwOUNIak55bzFxSjBRR1FFdmM1TzItaTdXTXlsWGZnaHpBOFZpcWZmNzRXM3NrSzlVWGpKenJaOFVXbXRyU29jWGg1QzY3T3VMU2pHRHFCNUF3Szl3UFIwQ3c4OVRqcFhHMXN3?oc=5",
    "date": "2026-11-26T18:44:26+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "c7f06f8a492d",
+   "title": "Presidenta Fujimori: “El Perú está listo para ser la puerta de entrada de inversión global en Sudamérica”",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3NXSS1pZzhWT0hqN3pKUDhKME5ja1dGdWkwbDRJRUF5MGNqVkRtek1XNWFFYWdiWFlGVnBfY2pkVFJKbWtBZmFKRHh6MzhSc0NCcVV0RlJfdzRRMzFqbDJnblgzMDVHZlJaRlZyakl2MEVuTDhOWmxhcWxaRVBQd3RzV1N2dS11a3JjcWRTbE53OUstdWx2ZlV5NXJhbFZCbVVNU0FXdUlDbUR0Q3liZVM0ZjBpU0FFVnNsVHhLelZKSUk?oc=5",
+   "date": "2026-11-26T18:42:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -963,6 +997,17 @@
    "next": null
   },
   {
+   "id": "7886aa5c4a51",
+   "title": "Keiko Fujimori tras firmar adenda para masificar el gas: \"Esto es un ahorro significativo\"",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOHQzWDJRVVMtQ1NGUDQtY1R4U1dJbDdyX1dCTUF3OTBsQmpMd29iSXVmbE80YV9WUjlTUy1FNC1mRkRBOTR5OUJUOXNkY2NiOWxkXzlvaWlBbWFQdnhQc25Ed3pVajZDTTJWRUVDSWpFUzM4RnZYenBFekhCOFdwNHBua1Y3TmpkalJ4UGF5Tm11UjVWbWZORk14ZU5LdVZQeWpCNTRySmJIbHFjLWdWZGZBS3JFcWFOLWxtRnRZRkZ1Ukkt?oc=5",
+   "date": "2026-11-26T17:03:02+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "07de5bb0f68e",
    "title": "Gobierno de presidenta Keiko Fujimori firma adenda que permitirá extender masificación del gas natural a siete regiones del centro y sur del país",
    "excerpt": "",
@@ -1076,7 +1121,7 @@
    "id": "e3f5c3619bf0",
    "title": "Empresarios peruanos muestran inusual confianza en el gobierno de Fujimori",
    "excerpt": "",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dCQ3JuV00yMVZYZXlLQzQwRXdvVEp1WEo5QjIySVdRZXg2dlYtUmljN3dyeWNHNnFwd2NuQS1Ka3FNS1kwQjJYc3oydUotQVdnZXpONFlTWDJDMzl0VElyTDNGaHRvMGpULUNSRzhxVnRJZk1FWmhETm50V0ZxTS1vS3BrU0hXYWlJTjhReWdrLUNkeW1jX1FkT19TbFVwbmlNX0JXRnk?oc=5",
    "date": "2026-11-26T14:57:02+00:00",
    "state": "posando",
@@ -1090,50 +1135,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZlhxallmWTEtYkZSSHVSdHFZNVpFM0d2bnc5VlBNZlBzT3ZGX2RYbHNWWS1zR09jTUFwTEhmekw3MkY5WGlzaHFRVUwyNUVqSUxTQ0c4emRLN0xESFVhaDB6MTJkUHA1ZVZwR2hsNWtfcVdzdDNEWTljb3VXYVBvWWIzYVJNbS1ZVW9ZZy11S1NUNmM4UFpadThFQWlZV1RLc1pQV1JzOTdoLTlYVDQzb2Z5ZDZsR3pjc2RYbXJSMGFDeEhNLTlWX0V0S3NqdVd0?oc=5",
    "date": "2026-11-26T14:56:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5abe123612dc",
-   "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300,000 familias del centro y sur",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeVhPRXg3SjNKeWg5SzJSVVV1MzNFak5PdHNhemxKNlN4b1gzMWNvSTRXS21BbERqOTlCbWFWM1AyQTZCQjVER25pNXJoZE9NSTZiWnl0ZVZhQU9yOEY0Y0dsMWxoS3ZsM3RwMFAyWHFnQmxzOW9oTzFzR3lYUlV1RG55YUVLb2pOMVQ2VXRRTlBXdHZHVnFud0Q1SFd3VVdoN0VtQjZfR2EyVmhtWVJBdDVzd1A4QnN4XzdpV2lDTVBpRk5TTFdLWENKSUFvZDA?oc=5",
-   "date": "2026-11-26T14:56:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "42fecfa25017",
-   "title": "Keiko Fujimori participó en firma de adenda con Cálidda para ampliar concesión de gas en siete regiones",
-   "excerpt": "",
-   "source": "La República",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGZJM1RPdm1iRGlRR3FaZ0xldDk0UFo3ZnNCZ1VrTDZYQ1Q4Tmd0Rk5PLW95R18xWnBNa0xUX1dIVW16bnA3M0cyWmZRaktoU1ljQ0lNbk5wLXVVVk00d1hvMV9nczVxZnhRRV9WTDl3d25OdTZSbV94T0hDS29LZk03VHBZbmpNU0Q5RUw5WmpOZHk4TnZYT1FWNUZsdE9CQjh4NkVWdzZpSjN5SS1NZW9KTU1BRHljM2RQT1hhYU5xR3o4eHRON3Y1WmR6Wm5vUlF3dW9McFNHMnljdDVaZktoaEFrMEl3N21qMkRfUEw3d9IB9wFBVV95cUxNMVczOTlXWFB2dkVfZ1JvekFFaDB1RHVMMjFQSEF6Ymo5NmFrZHliNW5YV0tSaGk2OFFseWNXVFpDN0NTUnloUmh4d25PdldIZG1iWVJOQWxrYmk0WEhSVkhPOUhZSDZ5RU5JeDFIRmpab2h4ek9BRUt3OHdDY0hsbkpEZkFIQ0NVMnZyci16VVY5Y3RiSXVzV0pFazVaaS14UVBoNnBwOG5wWlNtWTRaWnJ4TUhGX290SS04UHFlM1dtc2pzU25kWVFiU3BDLVNlYzdFUV9tOFFMUDUtM1hTQ3VGYXdsaHRoWk9QeUZQSk5lUERROWRR?oc=5",
-   "date": "2026-11-26T14:55:18+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b9df91ac08e8",
-   "title": "Presidenta Keiko Fujimori firma adenda para...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnpDN2lnWVpOLU5iSC1zM0RjWmxnT0IxTjhYdHhDcWpxVk9Zc2sxRTVwRG1FaHNoM1dpR19LX2k5bnlZVGp0VVVlT2VjcnV5c1VpTXY0ZFYtZzB0UUtFbVliUllqS1kzaE9WUDh2eG9fdmgzLUFxMDZUYXdoWmpsbHZCUF8tT3B4V3ItVm1rZTJrR21Ja3RJT0Z6WlQzRU9IMEdmUEgtYlpwZW02YmFFMFdTX0F4bHl4blBTb9IBwgFBVV95cUxQUFV1enF3azBEX3pnOHhib0V5VzNFVnVYaWZNWjUwNXBUMUZXdkdTWmN3ZnVkVW82dnJDay1VeVFjRWdPR240V0p4YUZsX3AwcS1vY0xvTzRGby1YZjdRWGRXZ0pBUzhsVVVfckNRT3Yxb09UdnBiZm1aYUh0X3lsUHNRMHFlMUc3amVBYnhqbXdGeVpqd1I4bk9kVTdTdXRodmZZWnVPcXR5RVhhS0FaU1o4cHBwTEt2eU0zSmdfMGtJQQ?oc=5",
-   "date": "2026-11-26T14:54:19+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "dd5ac0282862",
-   "title": "Keiko Fujimori destaca respaldo de gobernadores a la adenda del gas: \"Han puesto primero a sus pueblos\"",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORENQMkxVMkY2bkFDRGo2OHlTeGVRQTJnWnQ4bDZDbVpsMzQ2RE9STEliZmEwUDJvcGgtSFhEQXpoY0dvTUdMd2p3dkp5d3NwVmNjckZDZVgyUVhhbmZzVzY0U1BFeXI4Ry1sVHR5bUROQ29uUVZxMDlnQm9FUU9hTEFrbnJBMGQ2YVE0T3dMcTBxclRsUVE3aEdrVFFmYjdvVnh1Y1QyYjczRW92TENOX2pfMlcyTTdXTVU2eWRlR0hSeXdVYkQwU0tXaHk4dVE?oc=5",
-   "date": "2026-11-26T14:49:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
