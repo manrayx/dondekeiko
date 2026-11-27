@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T09:09:53.229349+00:00",
+ "generated_at": "2026-11-27T09:31:04.334762+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Lima"
   },
-  "source": "Perú21",
-  "date": "2026-11-27T00:29:25+00:00"
+  "source": "Infobae Perú",
+  "date": "2026-11-27T00:06:00+00:00"
  },
  "next": {
   "place": {
@@ -430,6 +430,17 @@
    "next": null
   },
   {
+   "id": "a79e357156f4",
+   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
+   "date": "2026-11-27T04:46:35+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5abe123612dc",
    "title": "Presidenta Fujimori: Masificación del gas beneficiará a 300,000 familias del centro y sur",
    "excerpt": "",
@@ -477,23 +488,6 @@
    "next": null
   },
   {
-   "id": "e6ce0fea352b",
-   "title": "Rodrigo Paz llega a Lima: se reunirá con Keiko Fujimori en el VII Gabinete Binacional",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGtHdzJOMGRHVXd1bmJvWEdwdG02bFU0amVHdlFET2I2TF9ud0o1eEFLOVUtUkhGSzhZUnJxNC1yMjNUanZDVVY4QXA4TVc2WVo5Y1lXY0xrelNZTXB1UTZibG44OVh3VmtyczZDYmt5NHZtWkx5SUxYalNrU3JJX2U4czFGQ0JNMmhnWlV3X3ZCS1BLdGNSSkQ1eWt4Mi10?oc=5",
-   "date": "2026-11-27T00:29:25+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
    "id": "2a7ec5632761",
    "title": "Perú y Bolivia retoman su Gabinete Binacional después de cinco años: temas que discutirán Keiko Fujimori y Rodrigo Paz",
    "excerpt": "El mandatario boliviano arribó esta tarde a la capital peruana junto a seis ministros de Estado, con una agenda que incluye 48 propuestas de cooperación bilateral",
@@ -530,6 +524,23 @@
    "date": "2026-11-26T23:29:11+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "e6ce0fea352b",
+   "title": "Rodrigo Paz llega a Lima: se reunirá con Keiko Fujimori en el VII Gabinete Binacional",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGtHdzJOMGRHVXd1bmJvWEdwdG02bFU0amVHdlFET2I2TF9ud0o1eEFLOVUtUkhGSzhZUnJxNC1yMjNUanZDVVY4QXA4TVc2WVo5Y1lXY0xrelNZTXB1UTZibG44OVh3VmtyczZDYmt5NHZtWkx5SUxYalNrU3JJX2U4czFGQ0JNMmhnWlV3X3ZCS1BLdGNSSkQ1eWt4Mi10?oc=5",
+   "date": "2026-11-26T23:24:24+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Lima",
+    "lat": -12.046,
+    "lng": -77.043,
+    "abroad": false,
+    "city": "Lima"
+   },
    "next": null
   },
   {
@@ -922,7 +933,7 @@
    "title": "CADE 2026: Presidenta Fujimori le pide al Congreso aprobar nueva Ley MAPE",
    "excerpt": "",
    "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVVsY0h6bk96WHhOdEM3SkhWS3c4WV80cjlnaUpCajFIX2JIYlZxVDZ6emlvR2ZtbWFfMUpCZHBrS2tlVXFFTkppRkZKM2RkSU5pVkhsYnpiU1lFc25hYTZ6cnM1bk1qM045dHN2S2M5VHlxME12NWE3eVZJQUkydk51dUU1dVdLa0VDdEZxZnJJX1hLbHhEVi1UanptUGxSSHhXQmE1NA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFZxNTBKcjJrU0FYMHNaazVTcy1Hc0laNVFUYzB4Q2EtbVpZWVAzYmZlM1prMS1MeHA4Mk9wV0FTakJfdWpCNVlVRUl0d2NITDR0YzA5UlpPVVRzaTBJTGQ5czdNa2dIVlo4R3l1WkJEcVdQQ0ZUWS1TTDZmSy1DRDVCY0g3STAyQlR1Nng1ZzUtNWo3WmUwM3AyWlJjT0YtdlE?oc=5",
    "date": "2026-11-26T17:43:49+00:00",
    "state": "posando",
    "place": null,
@@ -1029,17 +1040,6 @@
    "source": "Agenda País",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2thbFN5LTF4WHItLTIxQmVjR0kzdVdMcXp2Sll5SEU3Z1BRUnF3SDZhcHg2RjZaRVBXbXVpZ2RDZ0ViZ0V4QUJlXzdEaVRWb1BFWFNfRGhJU0FDZ182S1dsc21EQzR0SndNTUFGdVlJWERmMUZNYUJfWXV0Nl9QMFlBOXA3dHZ5SnV5T1JsaGZfMUNVb1BR?oc=5",
    "date": "2026-11-26T16:48:47+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a79e357156f4",
-   "title": "Presidenta Keiko Fujimori participa en clausura de CADE 2026",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1QzVnNPSFJmWE5JSm8zektMRnVRWU8xRmk2bmV4Z3d3eUQzbzhXYlRhQnV4RkFxTUk4WjM0a25xQUdGSjlsWXFOdFZBTWdxSWFtWm13bDQ1RlFYTURaUHMtQk1vQS1yRDlSb01weFY5a2h6R3JnWVB1TUZneHZLSTJzNHZyVUdXNGJuaElmR2diZ3ZRUlJnTnlLSXJLY1J0Ny1abFpqNTlkRFJhcDVLbEJ6Mms0YmNrcFYzaQ?oc=5",
-   "date": "2026-11-26T16:43:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
