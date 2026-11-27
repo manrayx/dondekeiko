@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T00:15:03.632008+00:00",
+ "generated_at": "2026-11-27T00:36:46.850936+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -432,11 +432,44 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3bd621cf46db",
+   "title": "Gobierno de Keiko Fujimori gastará S/ 4.3 millones en publicidad estatal para su campaña por El Niño",
+   "excerpt": "",
+   "source": "El Foco",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGJITXVGaFhENmpBdDdiSUZLc1RLWm5pRG55WjdYelZlMGpjb2RGMWZEM0dFY3JrTFlsaWoyZ0VIbWZySGpldDdaVEhQZTJQNzRoSUJPSDItNl9BR1pWZ1dqUVR3eUxoNHZTY1NjcE14RjQ4WW9fb1d0YVVDTFp5b29hT1FkV3ZmMTFIYkZJT3RtSjQ5N1ZreFBmRkpEQ2VpWmdXbnk1S3dhcjViR0VOd3RaTDlwZVE0TGJlTU9Ba2NLWnJXZG9XUThudWd5aWlkeGhQMm45dHNDOFpKUFZfX0pQVHV4dw?oc=5",
+   "date": "2026-11-27T00:35:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "620c24f5db08",
+   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
+   "date": "2026-11-27T00:21:51+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2a7ec5632761",
+   "title": "Perú y Bolivia retoman su Gabinete Binacional después de cinco años: temas que discutirán Keiko Fujimori y Rodrigo Paz",
+   "excerpt": "",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRVNwNEJRbXBQTHBiV0pZVWdncWRQUmhOQ1N3RDhoYXJwS09iTHdSUzJmZkJSNXF3VjVxRmVudjZfMXdGcE1CdjJ1Yi1uNmppdi1MR2g5TVJpR1J5N0l0VVFMS1pySFRRY0RYQlJ0dkpRX1BzUHV3QlNsR21FYmRXRERDdUF5N1NabVpIMjMtcUZ1MDc4RjlZRlEySnotTkRDWXBvRENPb0VqajViVWF6bmYxTkRHN0s2RnBlMXM1emlWb1I4eWQ5ckFCRm1rMENzR2xpTXdVczhESUFLb0phVzR1NU9VbkluNzI2UXotUdIBigJBVV95cUxPWnFTS1l6cU1Md2JPNHlESmR6MTVxTmN5dlAtYk05OXJia3FSMFVMZE9IU2JsSElfNmN3Zm5vYnlsWEVuWFo1ZjBwczRJcEFSbHFBNWpGcHZfS05FVzRJblZ2RXZRMHcxX0FJbmVoM3dLQ0hqS1RocmNEeDBBeVpGRm94Zy1jdGVhd3dQT0dFX0hyZ2o3VkRjcWVMUUtfM2VJeU0ydnlEdk4tSlFkeDZya1ptQUxobVF1TTd3TTdRdVdYaVVKUVluZl9YUXIzNlV3YWdqanNzTWVKWEtRNExlUkYwel91Tkd0cVdyTExCYklHbUtibTN5cTlNOVYxdWVlaTV0N0RWcWMzdw?oc=5",
+   "date": "2026-11-27T00:17:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "d21e8799a096",
    "title": "Presidente de Bolivia, Rodrigo Paz, llega a Lima para reunirse este viernes con Keiko Fujimori",
    "excerpt": "",
    "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnhwVHpOMVRmcFc1Qzc5SWdTc3JjeFBlbEx4MnFrUEVSTTZmX016bmhUX1VKODZycDZJbDZPWWRYMFcxU1phQzZFa2ZqSVZndjFZclQwbnF6alNQQllVRjFTcDJCNHNBRjRzZ3JOS2FYb3ZuZFluaHQtb0lvenB4Z1F3WkNab1VXSlhVOEIwRUZWdXBiWDNEZ2NpVll2QUdmZzRYLUNMVzNDck1JcUNuSlJoWjBFV3BETjhjcTl0RlNDeHd1T0tIVjR4X0tQQdIB6AFBVV95cUxPR1Vld1dqZjZOYXNOTVlKS0owQnRvSU5VTm1mT0hWNmQ3SVNQMnBzRVN5TlVMa01GSGNpOGhIMnhHTWNJeG1jUXhYdkVXRnhjTkxkZDltU0hLZkw4SkhuQUktZXNabUdxNU8wMWNTQWdMOVd0aUFZaDNUWjgtVm1YM2plV0lDeGZUdFR3QVYyZzhhYW1kZTN0N2FhWFk1ZlVnWVVBLXBKSzBmSWY4dm5sbEVIUnd3ZjgxM3Zvd1QyTjE5LUw0OUhoVnFrUFU2VXNzelRsdFZ6cFItNmlPUDlpY1BMaTYtOHpx?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnhwVHpOMVRmcFc1Qzc5SWdTc3JjeFBlbEx4MnFrUEVSTTZmX016bmhUX1VKODZycDZJbDZPWWRYMFcxU1phQzZFa2ZqSVZndjFZclQwbnF6alNQQllVRjFTcDJCNHNBRjRzZ3JOS2FYb3ZuZFluaHQtb0lvenB4Z1F3WkNab1VXSlhVOEIwRUZWdXBiWDNEZ2NpVll2QUdmZzRYLUNMVzNDck1JcUNuSlJoWjBFV3BETjhjcTl0RlNDeHd1T0tIVjR4X0tQQQ?oc=5",
    "date": "2026-11-27T00:06:00+00:00",
    "state": "posando",
    "place": {
@@ -549,17 +582,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeGozcDdTYVkySFpsWlFFa3V0MllzSmNuSkFxN2RoaVVmMGI2VlZIZ3VJWVA4ZHYzQkZvV3FDTjAtakVZRmVfNldrUk5nLUNvRWJEcVlia203cFVzRDJJMUhlOVVLam11V2FJaEV3N2hHU3ZxNWNzU1Azb2RJWE9MV085YlFkY0dPVURibFAtbHFDUzBYSmN6X2NkT1hSRXNnajVqZ1EzRnBrQkNVZnczWlgydFY4UGhvWnU2UUM4S2Y2RzBpNGJRVHdtbWJRWUVZdkxqRzNrZjFsTkdKaE5paGxINU9UVzFxbkM0aVdMZ9IBigJBVV95cUxQODJsNi1lbzFlclNXVWl4WXNOX0tMZmhFeHlVOEEtZDk0QVI5NEFLdndkNTFiUExZdjI2clIybS1QZFl0ckNWc0JmSi1NbEloUGVIcXdCck1kWWp3MC1wMnZZOGZGaTQzdlFKbFhxNGxqbVFIZGxMa1JsUHhwS09LM2IzTlZQYnZkazVDRUpBY3NmbEtjYVZ2VHI4Uy1Za25KT1VvS3EzSkhNZmo3YllvM1lhTzRUVlZ2bGZqYWRvSFN3N1lpN195ckNWNXZCMlp4S2tvdzJJbmhLRnVMWlM4SmRVU1pVYXdKQkVPR2loTThBRzJ1QjZWNnhYaEhTb0E2WWowSXh2NllTQQ?oc=5",
    "date": "2026-11-26T20:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "620c24f5db08",
-   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
-   "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN2FQN1FTT1pyTGtfaEJKZVFLcGVNSmJGNmtlR3FVdExTbnZOOWctb1NFY1F5Z2tZanhsQThDTW1vNlh6NWNycl8wM1QzTFFPZ0RnOWp2S2l3QUFudkMtZGVEcmJFN3hGMVZLUkRzT2ZTY2tCV2ZUUFVWb2F0N3ZPOXE0cWIwcVJ0QkRqQktmOWRZZHBPaGFlUkdLWU1GZGtVX3lYMHJONUFrNEhlNG5jYnU1V3ItdjgzSWN2dDhucWg4bEtPNVNYRFRKX3Y?oc=5",
-   "date": "2026-11-26T20:43:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -995,6 +1017,17 @@
    }
   },
   {
+   "id": "12adb28c8338",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
+   "date": "2026-11-26T15:14:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c50ce6b5f357",
    "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en Cade Ejecutivos 2026",
    "excerpt": "",
@@ -1095,39 +1128,6 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWJIdWlxemRJTWRBNGxwbGFib2ppYXFsaGVIdHBjY01KWFg0ak0xOWVxYVlXaW1HYkFGZmcweGNWSllsT2R5dWx2czVZOXVUQXJsSDl6ZV8wVHlISThONV9pcjdpaW00cFpkNUZuYlZLZ3FpS1RyVVhjbFJtUmZ6SlpDYVFFZFA5ejZvOFRNZmpvQzdyMG1LdElHUy1ObHpCdHppbTk5SHB5VTVlcm5PalU1M2xveEg4WmtLMEJPMHY?oc=5",
    "date": "2026-11-26T14:44:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3e4950f9bfd8",
-   "title": "Keiko Fujimori firmó la adenda al contrato de Cálidda: \"Hoy damos un paso fundamental hacia la justicia social en el Perú\"",
-   "excerpt": "La mandataria presidió en Urubamba la ceremonia de firma del acuerdo que amplía la red de gas natural hacia siete departamentos del centro y sur del país, beneficiando a más…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/26/keiko-fujimori-firmo-la-adenda-al-contrato-de-calidda-hoy-damos-un-paso-fundamental-hacia-la-justicia-social-en-el-peru/",
-   "date": "2026-11-26T14:43:13+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "805085d0fbf6",
-   "title": "Keiko Fujimori defiende adenda para masificación del gas: “Hemos llegado al gobierno para tomar decisiones”",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3NJQWpTdFl2RnFLWDdlTXQtcmczeEU4ajhNaVVvZXhadExaOXRvM1RSbjhGVjNScl9hdERzNEJZZjBTRGxzdzBvVHMyMUNCVGpRZzY5LWpfTjZlbk1SUGRlQ0RQUEFjbXJPSDN1Qnd4VlF0dWx2M3dIUkVKOUFnMUptOVVJOTlKcHNid0V0ODJZMi1aWHltSTYyQjY4R0ZzZjVmVjNGWkMzM0VVWnZDWFR5b1p2RWhNc2FueXdBVGRwS1lZcGc?oc=5",
-   "date": "2026-11-26T14:30:58+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "4315ec565dee",
-   "title": "Keiko Fujimori: “La masificación del gas tiene que ser una verdadera política de Estado”",
-   "excerpt": "",
-   "source": "América TV",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdjZyb1JaVmc3dWlnNFBaaUl4cUo3cktaTlRwUjVndk9tcVZKZFBJWWRyTkNEbFlETWpZeUVUaGNUS3N1Mjd2NVFJVjBnQUxfamt5LXdLa2JIcU9BNjJJUG5wNER0YkFqQlhtMHpzaXp2ZlY1cUtzc29KSW1keHBtbEVkREk3REVIYjhVcVpRNXd3NktoQ21KczFUZmdrSkIyQUZoc1dSR2Z1Q0FQWTI3NmNpZXF5ZHpuYkdsdXVTLXo0NmJ1MjQyeWNBelR5REpzWFM4Q05jTzRPZDhwd25SMtIB5gFBVV95cUxQaURHZjlvUHdMN2ZqamNNWGdza3lPQ3BZSTA3cjRNXzRqSl9DbnJFNlBUTUtRWmFuWWhRYXpUYl8yM0xzTEVOOXFvQ01helI5bFhmeEJpUURTcmV4X3o1OWdkcEItY0VvMFI4bHVVaTFtc2V3Tk1uY04zWFhrc0wtV2xyR1ZKX2d5QWp1X3Z1a3M5N0NjbWdfQ1lrcGxXYWtQRnJ3M2Jsa2haMl9oNHZoQTZZdnJ6ZThjWUtjR3lWaHIzcGxvMVloWWNhWnNIb0xkYnNxMWJaZUY0ekQwRWZlOEYxblFodw?oc=5",
-   "date": "2026-11-26T14:27:52+00:00",
    "state": "posando",
    "place": null,
    "next": null
