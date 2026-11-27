@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T20:34:20.981066+00:00",
+ "generated_at": "2026-11-27T20:55:36.582989+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,12 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Piura",
-   "lat": -5.194,
-   "lng": -80.632,
-   "abroad": false,
-   "city": "Piura"
+   "name": "Colombia",
+   "abroad": true,
+   "city": "Colombia"
   },
-  "source": "La Razón",
-  "date": "2026-11-27T20:00:00+00:00"
+  "source": "Perú21",
+  "date": "2026-11-27T20:36:49+00:00"
  },
  "next": {
   "place": {
@@ -111,7 +109,7 @@
    "abroad": true
   },
   "source": "La República",
-  "date": "2026-11-27T18:08:52+00:00",
+  "date": "2026-11-27T20:45:38+00:00",
   "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
   "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709"
  },
@@ -120,8 +118,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 58
+  "triste": 1,
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -130,6 +128,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-27T15:21:00-05:00",
+   "end": "2026-11-27T15:34:00-05:00",
+   "minutes": 13,
+   "subject": "Declaración Presidencial Conjunta.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-27T15:14:00-05:00",
    "end": "2026-11-27T15:20:00-05:00",
@@ -296,7 +310,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -457,9 +471,54 @@
    }
   }
  ],
- "agenda_minutes_7d": 730,
+ "agenda_minutes_7d": 743,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "00f5660bb8f0",
+   "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
+   "excerpt": "La presidenta acordó con su homólogo colombiano, Abelardo de la Espriella, aplazar el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. Además, pidió al premier Luis Galarreta gestionar ante el Senado…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709",
+   "date": "2026-11-27T20:45:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "1067b27a49de",
+   "title": "Keiko Fujimori suspende encuentro con Abelardo de la Espriella previsto en Barranquilla",
+   "excerpt": "",
+   "source": "laopinion.co",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWhxVXdCUS1qMWlSNFdNOFlzTnpkUEEtYnlMcE5rckpXVkhCNjREcUhCa0ZUcHJTczVNRk5NeWJscVFVdWZHUGF2SUxvdWdqc1V6eExHa0ROMWdSYjc2cndMRy1kR1pVSkQ3bkRmeWljQVFVbTNWS3NoS09JVkNpXzJ4Z1YyOGdxajc1NW9lOGJDVjlYY053ZnBtTHBYdVB2NDdBSU81cVlYekZGTGp4VDRhSEw?oc=5",
+   "date": "2026-11-27T20:42:31+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1fd5d6ae4303",
+   "title": "Keiko Fujimori anuncia que viajará a Piura por emergencia y suspende su reunión en Colombia",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTlhuQVlFV0RqdTZpeGFlYnR3TlNoUkFSa3FCV09QU3VVT2xfWnAycldYS2VBVWJjLXdDN25EZTlnRkVwVjZRYUUyendnNmJfZ2JUSWRfck5McTRXNTI2TjJhUU90bGlFNk9KaEl1VUlsdV8tSkNWV2RlbnJ6YVllMTkxYm9KNmFvczdsSHhvVXByaVFoQTFvczVENVg2dw?oc=5",
+   "date": "2026-11-27T20:36:49+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Colombia",
+    "abroad": true,
+    "city": "Colombia"
+   },
+   "next": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false
+   }
+  },
   {
    "id": "f71eb9c7ff98",
    "title": "Keiko Fujimori cancela encuentro con Abelardo de la Espriella en Barranquilla",
@@ -528,6 +587,17 @@
    "next": null
   },
   {
+   "id": "0c9397704d19",
+   "title": "Keiko Fujimori promete estabilidad en Perú mientras PIB baja a 3,1 %",
+   "excerpt": "",
+   "source": "Panorama Ecuador",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUMyMV9hdHBOcVFSVFdudF9lNmk5eGkzUlFmcDItNmhobUF2bWJqVFJlMGM3d3dRWWlhY002YXpmTTVJZERhdjNQdzdlWi0yLUJlRE1hMnlMUmw3dTBfV3BpSnltMEthWWtRNGduWmdmS0RwUTkwWHNDSkc5OENORENqaHhJb01lYm90UFVUeE5pZy0wSDhKSG93T0RmTDR4elFPNDF0Nm8weXlLbThsTzVwLU4?oc=5",
+   "date": "2026-11-27T19:11:20+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "673ad709b8ef",
    "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
    "excerpt": "",
@@ -583,34 +653,14 @@
    "next": null
   },
   {
-   "id": "00f5660bb8f0",
-   "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
-   "excerpt": "La presidenta acordó con su homólogo colombiano, Abelardo de la Espriella, aplazar el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. Además, pidió al premier Luis Galarreta gestionar ante el Senado…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709",
-   "date": "2026-11-27T18:08:52+00:00",
+   "id": "77b6c6ebd835",
+   "title": "\"Querido amigo\": Keiko Fujimori recibe a Rodrigo Paz y promete recuperar cercanía entre Perú y Bolivia",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVRGa0lyMk1LSW1HQjNzSzBKT3loUlhQZWRaRkF5UmFMZXlyb3Yxa3BrYkM1QThrSWRlQ29RalhaSHppMzctVUwxeXlxa2lQSTZhZmZobXhTUjlHVGRsUEVrNjcycHh3QzF5WVdDa05fM2JmVUNhSlhXZkIxd0x0bl9lc2Z1cjNJRGxMTWhCTkQ3dzRpQ0dvVFlTWEdOWm1MR1NUT0ZtLV91WWF2aDBlQzdaODNYeW80UUJVSlR2NWlxYTdY?oc=5",
+   "date": "2026-11-27T17:40:08+00:00",
    "state": "posando",
    "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "2cdb03da231a",
-   "title": "Rodrigo Paz tras reunirse con Keiko Fujimori en Palacio: \"Bolivia y el Perú abren una nueva etapa de integración\"",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMElCSG1Vek90V25rZHlaUHZIaWtjYnZ2REZkSDFxSkZkUHNXV0pLTElGWkt6dkFDbkFIN2t6dHVpMnpJSUpKbGlISnZQMUdHbEI3bzJkQzRJLVI0eG9pQkdzQnM0WllnY1ZlUTg4UXVxc3B0cm9Ga25zc2IzMlV3dnViNkloMThxdWZQeGpZZjE1YnE4dGRiQjA5RENrNkptTFU5ekdTNGhTOUpJeklrRUplYndnemdhaTlyZ0lUSHRHQTYyOUZPRWU4NHF3WlpYZ1ZxbEZyaUVtbHY3?oc=5",
-   "date": "2026-11-27T17:54:11+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   },
   {
@@ -620,17 +670,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2c1TlZJVGluamJXcjlONUFrcWxodm8wRjJYU2c3Y3hFcUlFbzRqSTh3QU5ZV1pfSHhUaTN5aWE5WUdHSDk5NXcyekNtT1Y1NVg4WTJfY1RTUVB4VG1NcHU5TTZtWS1heTVrSUoydXZya041dWtYLUpXWHVQZGRBU3lFQ3Job0pDbzlHaHNrUXZtdzdlYVRJaHNacmJQbnM?oc=5",
    "date": "2026-11-27T17:38:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "77b6c6ebd835",
-   "title": "\"Querido amigo\": Keiko Fujimori recibe a Rodrigo Paz y promete recuperar cercanía entre Perú y Bolivia",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVRGa0lyMk1LSW1HQjNzSzBKT3loUlhQZWRaRkF5UmFMZXlyb3Yxa3BrYkM1QThrSWRlQ29RalhaSHppMzctVUwxeXlxa2lQSTZhZmZobXhTUjlHVGRsUEVrNjcycHh3QzF5WVdDa05fM2JmVUNhSlhXZkIxd0x0bl9lc2Z1cjNJRGxMTWhCTkQ3dzRpQ0dvVFlTWEdOWm1MR1NUT0ZtLV91WWF2aDBlQzdaODNYeW80UUJVSlR2NWlxYTdY?oc=5",
-   "date": "2026-11-27T17:37:30+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -703,6 +742,23 @@
    "next": null
   },
   {
+   "id": "2cdb03da231a",
+   "title": "Rodrigo Paz tras reunirse con Keiko Fujimori en Palacio: \"Bolivia y el Perú abren una nueva etapa de integración\"",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZEFZbVV4NnU5VFJnRkpLaHVVVkhDaml4ZXRObkgtN3ZkMVRTd094VDhjTGwzMEI0R2JWX0tMZE1uS09LZGFpVDBBTXJXdW9JZms1LV94ODRSaU9uM2tPS2pWS0pJcE9uSy10UnA3bzJya0Y4QWZya2xObzJBYjRjYWpNNmdLUHJyT2UteUY0VUc0M1lrdEZidjloOEdWSjQxcU1jUnRoVU9zZFZ5ei1YRkFBbThuTXVnR0FsN3RBTVRteDFjbW56VXNnUGZSRXUyQVoxU0xxeXEwNG8?oc=5",
+   "date": "2026-11-27T16:36:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "1095e00f21ca",
    "title": "Keiko Fujimori suspende viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
    "excerpt": "",
@@ -727,8 +783,8 @@
    "title": "Keiko Fujimori posterga viaje a Colombia ante...",
    "excerpt": "",
    "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzJ1MEZZVHM5anFqRUxiS3ZuUG9xcXhHeUtGYW5uYkg5NWZESnJnXzNyS2JUSTBiOFNScVZoMGk1Z2N5bTR3UnZpUFRtUm44c3lkZ0p3MzJTaFRqTEdOdng2dDNZd2Fia1dxUy1XYWZjOG5GdHBxdU5XTy1OZG56NG9pZzc5ektrdjBwa0ZxSVI5ZWUzcGxDQzVPU3JucnU4TDVhMElFRjlMYnBOTFhvUW1BaDJHazjSAbwBQVVfeXFMT0Z1RUlwNmctQXhzODY0NjBEX1Rhc21OSC1WR1RPa05hSUVYSDFPQ1ctbmlUNUkxTV9kQVVXOHhSVDcycDU4WVNhVUxyb3JBRExsVFdUeDVOaFlnbkxFdl9veEJpd2JUd1lYU09MYWloMC1SY2w3ZWYxN3RMVWRvemFQVTEyeWlYNFFoSGRZQy1HRDVHMmhvQUhUWjh3RkF1Y3VEMGJ0ZmFCSTVwMWlqMnVkZjJqb2VSX0JfU0k?oc=5",
-   "date": "2026-11-27T16:22:28+00:00",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRnVFSXA2Zy1BeHM4NjQ2MERfVGFzbU5ILVZHVE9rTmFJRVhIMU9DVy1uaVQ1STFNX2RBVVc4eFJUNzJwNThZU2FVTHJvckFETGxUV1R4NU5oWWduTEV2X294Qml3YlR3WVhTT0xhaWgwLVJjbDdlZjE3dExVZG96YVBVMTJ5aVg0UWhIZFlDLUdENUcyaG9BSFRaOHdGQXVjdUQwYnRmYUJJNXAxaWoydWRmMmpvZVJfQl9TSdIBvAFBVV95cUxPRnVFSXA2Zy1BeHM4NjQ2MERfVGFzbU5ILVZHVE9rTmFJRVhIMU9DVy1uaVQ1STFNX2RBVVc4eFJUNzJwNThZU2FVTHJvckFETGxUV1R4NU5oWWduTEV2X294Qml3YlR3WVhTT0xhaWgwLVJjbDdlZjE3dExVZG96YVBVMTJ5aVg0UWhIZFlDLUdENUcyaG9BSFRaOHdGQXVjdUQwYnRmYUJJNXAxaWoydWRmMmpvZVJfQl9TSQ?oc=5",
+   "date": "2026-11-27T16:12:35+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -1248,49 +1304,6 @@
     "lng": -77.043,
     "abroad": false,
     "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "0d5d2d4b1150",
-   "title": "Keiko Fujimori y Rodrigo Paz encabezarán encuentro presidencial y Gabinete Binacional Perú-Bolivia",
-   "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
-   "date": "2026-11-26T23:29:11+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e6ce0fea352b",
-   "title": "Rodrigo Paz llega a Lima: se reunirá con Keiko Fujimori en el VII Gabinete Binacional",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTGtHdzJOMGRHVXd1bmJvWEdwdG02bFU0amVHdlFET2I2TF9ud0o1eEFLOVUtUkhGSzhZUnJxNC1yMjNUanZDVVY4QXA4TVc2WVo5Y1lXY0xrelNZTXB1UTZibG44OVh3VmtyczZDYmt5NHZtWkx5SUxYalNrU3JJX2U4czFGQ0JNMmhnWlV3X3ZCS1BLdGNSSkQ1eWt4Mi10?oc=5",
-   "date": "2026-11-26T23:24:24+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "aa268da29c96",
-   "title": "Padre de alias \"Jolín\" asegura que su hijo es DJ y cuestiona condena de cadena perpetua: \"Responderán ante Dios\"",
-   "excerpt": "La detención del cabecilla de “La Nueva Jauría” en Ecuador contó con apoyo del FBI y la Policía Nacional del Perú, según confirmó la presidenta Keiko Fujimori",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/26/padre-de-alias-jolin-asegura-que-su-hijo-es-dj-y-cuestiona-condena-de-cadena-perpetua-responderan-ante-dios/",
-   "date": "2026-11-26T23:03:24+00:00",
-   "state": "triste",
-   "place": {
-    "name": "Ecuador",
-    "abroad": true,
-    "city": "Ecuador"
    },
    "next": null
   }
