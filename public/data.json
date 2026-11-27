@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:26:15.111424+00:00",
+ "generated_at": "2026-11-27T23:47:35.746291+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -509,6 +509,17 @@
    }
   },
   {
+   "id": "e477dac01908",
+   "title": "Presidenta Fujimori anuncia que viajará al norte para atender emergencia por lluvias",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE5ZQm1mWV9OOW1vR2Uyc2NwX2pjUDRKSlhXX2FYMm5yXzFjNmtTbVF2Um80WmZBMXhQa0kwc2cwclQxUmUtNF8tS0xNZ3hfZVQ3Mncyc2s1SExtZ2RTa1IyWE1PTEhlQWVYRDdGLTNfTDVZR2QzQi1aR2IwQ1hTRzVuU1RHQjlMZzN6QjlaZ2dYN254REhpMGNyYXRoZjBlVDFqTEo3NU13MnY5WjZjUjUwYjdDbEQyMEhaNA?oc=5",
+   "date": "2026-11-27T22:53:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "28b87deded56",
    "title": "Keiko Fujimori ofrece a Bolivia apertura a los inversionistas: “Bajo las mismas condiciones que los peruanos”",
    "excerpt": "La mandataria destacó el potencial de la relación bilateral para atraer capitales, impulsar proyectos de conectividad y aprovechar la infraestructura portuaria peruana, tras cinco años sin reuniones presidenciales entre ambos…",
@@ -545,17 +556,6 @@
     "lng": -80.632,
     "abroad": false
    }
-  },
-  {
-   "id": "e477dac01908",
-   "title": "Presidenta Fujimori anuncia que viajará al norte para atender emergencia por lluvias",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE5ZQm1mWV9OOW1vR2Uyc2NwX2pjUDRKSlhXX2FYMm5yXzFjNmtTbVF2Um80WmZBMXhQa0kwc2cwclQxUmUtNF8tS0xNZ3hfZVQ3Mncyc2s1SExtZ2RTa1IyWE1PTEhlQWVYRDdGLTNfTDVZR2QzQi1aR2IwQ1hTRzVuU1RHQjlMZzN6QjlaZ2dYN254REhpMGNyYXRoZjBlVDFqTEo3NU13MnY5WjZjUjUwYjdDbEQyMEhaNA?oc=5",
-   "date": "2026-11-27T21:56:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "ade0d2905148",
@@ -1127,6 +1127,17 @@
    "next": null
   },
   {
+   "id": "e7f26da71ef0",
+   "title": "Keiko Fujimori y presidente de Bolivia lideran Encuentro Presidencial y VII Gabinete Binacional",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeEY3XzVpRmtjcTJhelRFajVFM2c2ZElVTldYX0pMU2ZnMzN6T2FiaG9UbnEzOVJBSUxycEVoV2pFakx5MjZYcWNYb09BVWRZdk1vQUZJUENHOHo3QlY3MkMyRzh3aU04ZTdCTGJDSEduMDlUU0pHT1hnSE5ueGFMeE5UdWk4a0ZDRVR0bTRkUHRYUGpnbE9nV3VaUmpVekRxNkNHeEZIQWxETk5kMFowRGFpTmpSQmJMX1FsYmlrUE9fc21GX19OTkJvRFJ4UFE1RDVvLUtBQm1aMVpzRTg3d0hYMNIB9wFBVV95cUxQT3JZbjFWX1N3RVdGTzhYZUhXMlJRaGFLb1ZodXlpODdJTFlHb1FoZGMxeTlYVXNPRkFnZ1BLa0xXMEg2LTRncktmdUVEZmVYU29hNG4zQ0dvVTdnZ1F0UFhiQzdRRG5yZkVxbDRRRThBV3B1LW1FUnFibnE4Tlo5SlA3SFRkS0lvQ2NnVDBQaHVSVTU5ZFRpT1pRMy00UDh6M3pVOXdWTFZPVFltZ09oQ3ljNlY4amczTWVpaVQ5alF5UGhrNndwRUlELUU2ck1QTW1fQXBDd241YkdRZnZMS0xGMlhWX2JEbXRBTkxLRHN6cThlbk04?oc=5",
+   "date": "2026-11-27T15:52:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "af55494ebe22",
    "title": "Presidentes Keiko Fujimori y Rodrigo Paz lideran VII Gabinete Binacional entre Perú y Bolivia",
    "excerpt": "",
@@ -1296,17 +1307,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "9c77f952aae4",
-   "title": "Presidenta Keiko Fujimori y su homólogo de Bolivia, Rodrigo Paz lideran Encuentro Presidencial y VII Gabinete Binacional",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0JQbUFYaW44SXU4aHprYkZGMldxRjIxZlViM1pmbkFfZ2p3enZpOTY1UWR4T2ttQjhWdS1RUjA4bVE2VWtrSkhUZklBek5mQkpqMGZ3NUtndk9xX1BrRHFRVFcwRDFVV21pZ0hPSEgyWUZwOHJJMGR5T1ltMXlCU0ZVY1loRFhZY1h3REhrVFoxSXJaTE1vZExrMG1WWHB0alZXZ1FQU0ZSdEpSOVp3U3BXT2wybVNYV0JjbTM5N3hiQQ?oc=5",
-   "date": "2026-11-27T15:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
