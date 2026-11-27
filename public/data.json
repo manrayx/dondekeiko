@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T22:22:18.239898+00:00",
+ "generated_at": "2026-11-27T22:43:52.408185+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -105,13 +105,15 @@
  },
  "next": {
   "place": {
-   "name": "Colombia",
-   "abroad": true
+   "name": "Piura",
+   "lat": -5.194,
+   "lng": -80.632,
+   "abroad": false
   },
-  "source": "Panamericana TV",
-  "date": "2026-11-27T21:33:09+00:00",
-  "title": "Keiko Fujimori posterga viaje a Colombia ante...",
-  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVDFReUZXU1FoUFBuMWhLODExUTZCMTQxOVlQRUdEdHk2Y3djanhIenlVaGdYT0gyaGZLd0JEMGhJM1lPemp0SzJKWXV0UlBoMmlEWFM5X3cxeEE1TUZBTVluSWVOMjVnUi1iMFpXNjlwREdtekY0QUlleFM2VDFpbXIxUWtVbDNDWmVfREU3T1VsS1pzX3Q2Nk42Umo3a1dYV0I2WVF3RjhLMjJTaDVoa01oUUJVRUIzaXNxQXBOczdxZ9IBxwFBVV95cUxQaVFGTjE1cEFiNER5Y3dEbktGLXlUdDEwZzdmYmF5YllURXRycmxvMDY3UmEwd28wSzN5cHFxMnlmUVpZUXpLc0lwaTVuUTh6U3QzUENTQURwZDFycUJpcVlKZkFPcHpHU1g1akl0aUU3cjhFSkVkUFVUVHVFN3Z2aWVGX3dqbXVPSEl2Z2pvU2hEdEprTWFhdEdHaU5SZlE5NXM0ZkdiYldfZGVVNmlBRXlqMVlsNEl5Mm5aU3lfVUNQd2kzTmRr?oc=5"
+  "source": "CRprensa.com",
+  "date": "2026-11-27T22:31:43+00:00",
+  "title": "Presidenta Keiko Fujimori viajará a Piura por emergencia de lluvias y posterga reunión con Colombia",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1R3NzRYTm12djRsUlZkSDdwQzYxclNjakMwLXRUN2FhSzNYYjdMdkFCQ3FSNXFGZWtBMXFSdjZNWk15bkNpTjAyOWRMRjVXTzhQekVXdHA4NWV4MzYxTmNxRk1Jc3RlSk1mSkFfZVRzWGNjeGNpWk1MSmh0UHVXNjBjSWxfZldFSV9SVmpiQzBWekl5ZVYzdUxORVBhZ196S1pGSFZUc3NVUy0xSlJqRFVYWlBtWlVGczJiTXBoWUoxbEJaUFI2SVVDN1g?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -491,6 +493,55 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "28b87deded56",
+   "title": "Keiko Fujimori ofrece a Bolivia apertura a los inversionistas: “Bajo las mismas condiciones que los peruanos”",
+   "excerpt": "La mandataria destacó el potencial de la relación bilateral para atraer capitales, impulsar proyectos de conectividad y aprovechar la infraestructura portuaria peruana, tras cinco años sin reuniones presidenciales entre ambos…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/27/keiko-fujimori-ofrece-a-bolivia-apertura-a-los-inversionistas-bajo-las-mismas-condiciones-que-los-peruanos/",
+   "date": "2026-11-27T22:37:18+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "eaa790fbd036",
+   "title": "Perú y Bolivia suscriben convenios para fortalecer negocios e integración logística",
+   "excerpt": "La presidenta, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, encabezaron la suscripción de una serie de acuerdos bilaterales durante el Encuentro Presidencial y VII Gabinete Binacional, realizado en…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/peru-y-bolivia-suscriben-convenios-para-fortalecer-negocios-e-integracion-logistica-noticia/",
+   "date": "2026-11-27T22:31:55+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "62f8daeb16a8",
+   "title": "Presidenta Keiko Fujimori viajará a Piura por emergencia de lluvias y posterga reunión con Colombia",
+   "excerpt": "",
+   "source": "CRprensa.com",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1R3NzRYTm12djRsUlZkSDdwQzYxclNjakMwLXRUN2FhSzNYYjdMdkFCQ3FSNXFGZWtBMXFSdjZNWk15bkNpTjAyOWRMRjVXTzhQekVXdHA4NWV4MzYxTmNxRk1Jc3RlSk1mSkFfZVRzWGNjeGNpWk1MSmh0UHVXNjBjSWxfZldFSV9SVmpiQzBWekl5ZVYzdUxORVBhZ196S1pGSFZUc3NVUy0xSlJqRFVYWlBtWlVGczJiTXBoWUoxbEJaUFI2SVVDN1g?oc=5",
+   "date": "2026-11-27T22:31:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false
+   }
+  },
+  {
+   "id": "e477dac01908",
+   "title": "Presidenta Fujimori anuncia que viajará al norte para atender emergencia por lluvias",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE5ZQm1mWV9OOW1vR2Uyc2NwX2pjUDRKSlhXX2FYMm5yXzFjNmtTbVF2Um80WmZBMXhQa0kwc2cwclQxUmUtNF8tS0xNZ3hfZVQ3Mncyc2s1SExtZ2RTa1IyWE1PTEhlQWVYRDdGLTNfTDVZR2QzQi1aR2IwQ1hTRzVuU1RHQjlMZzN6QjlaZ2dYN254REhpMGNyYXRoZjBlVDFqTEo3NU13MnY5WjZjUjUwYjdDbEQyMEhaNA?oc=5",
+   "date": "2026-11-27T21:56:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "a48f239577ef",
    "title": "Keiko Fujimori anuncia que viajará hoy a Piura ante inundaciones que dejaron viviendas bajo el agua y varias familias afectadas",
    "excerpt": "La mandataria confirmó que los ministros de Defensa y Agricultura ya se encuentran en la región, donde las inundaciones dejaron viviendas anegadas, calles bajo el agua y miles de familias…",
@@ -538,6 +589,22 @@
    }
   },
   {
+   "id": "1f2de2f96029",
+   "title": "Keiko Fujimori anunció hoy que viajará a Tumbes y Piura",
+   "excerpt": "",
+   "source": "América Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZFBxdTVwSHpacnZLZ1FudWZGU2lVOU1GWDdJeEdROUVBaGxZZS1pMHVkN1hEeWg0cFZNazZIdlRlYUViVEtzazZRUmdwRjNEWHQ0UGdMS3hvYnRKUG5hZ0xQSklsem9PU0ctemdiZV9ITkFLdDlnYm1PNzM0VThUdmNNbWVfdXljTllNN05uV3RRNnFpNkxVMVJlY3I3T2V0NTJGSlF4WjV2X0YyelktNzJ1YVF3VkNhZWhN0gHAAUFVX3lxTE5ST3AxT1BXa2VNbVV5S2tQX1FCNkNTZDVhN2t6dXozUHZXanM2eWFVQ1B2ajYtZEJDSDBIN21KUWdIcHBuWXpjYllSWXdtenFuTTR1ZkRHRnFFQ3lpZGd4UFliS1NZanFmUEZHMUlDOGV3c0hHQUdwVmlzNHNncXpEVGQxSnZsYXAyNGNpeENTaWZCaDI5Yl95eDVYVEVHaTFRNmdyS1dRc1hzOXdXTC02Q0Y1R04wbUkwN0hDZkRRNg?oc=5",
+   "date": "2026-11-27T21:24:08+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false
+   }
+  },
+  {
    "id": "9dc7fe03e4d1",
    "title": "Reggiardo pide implementar medidas de seguridad de la MML tras ataque en la Costa Verde",
    "excerpt": "El alcalde de Lima, Renzo Reggiardo, solicitó a la presidenta Keiko Fujimori poner en marcha las medidas de seguridad propuestas por la Municipalidad Metropolitana de Lima (MML), luego del asalto…",
@@ -566,6 +633,17 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUmVrYXZ6VWhHT3VITXlPdm14X2tyME9EYU55OHN1YkVCV0t2b2tBa0pTb2pXS3ZVbjMwaTg1eU40Smp3VFdXYmRrY3RjVGNCSVB4UVlnbHVJcHZMMldIcmE2TTVJNnFBSlUwN2Vval9MNjcxVEptS0dlRmtFWk9JbFFtNVpFdmwwRnFfTXVmUmh0WnBKYzIwaXd1dkU2T0VqY3FRTVg2d0h1ZmxVTUNFdlgwdXROMjNRcGQwVUZCUnpVZkxERE04c1dsVUdJVDVtQVM0c0NvYW1qVUxYVWhERzh3MUZrOUJhZXlVOExjOA?oc=5",
    "date": "2026-11-27T21:08:49+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "07c254382af2",
+   "title": "Keiko Fujimori y Rodrigo Paz relanzan relación en Gabinete Perú-Bolivia",
+   "excerpt": "",
+   "source": "Panorama Ecuador",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGN6NElOaXA3RWw4ODNnNlNfZGg4bk43blhWdWhYUWJQV3l5SUVEVXY5WEhJWHVsSGNKQTA2OC16R3BXUHNTV0xzUk5BNnJ3TkxXR3pRak1Od2lIU2s5NEl5QXJNX25ndk5qV2JrNFhteDl5TE1CSm92ZG44VjB6bjdVQlF5dkN4aHgtZjFVa3Q4eURqdXlhSmhQbmNfTjVWekcxTHFzTzFvenp2TmtDN3BkVTVCdw?oc=5",
+   "date": "2026-11-27T21:01:16+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -625,17 +703,6 @@
     "lng": -80.632,
     "abroad": false
    }
-  },
-  {
-   "id": "e477dac01908",
-   "title": "Presidenta Fujimori anuncia que viajará al norte para atender emergencia por lluvias",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE5ZQm1mWV9OOW1vR2Uyc2NwX2pjUDRKSlhXX2FYMm5yXzFjNmtTbVF2Um80WmZBMXhQa0kwc2cwclQxUmUtNF8tS0xNZ3hfZVQ3Mncyc2s1SExtZ2RTa1IyWE1PTEhlQWVYRDdGLTNfTDVZR2QzQi1aR2IwQ1hTRzVuU1RHQjlMZzN6QjlaZ2dYN254REhpMGNyYXRoZjBlVDFqTEo3NU13MnY5WjZjUjUwYjdDbEQyMEhaNA?oc=5",
-   "date": "2026-11-27T20:23:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "f71eb9c7ff98",
@@ -727,17 +794,6 @@
    "next": null
   },
   {
-   "id": "673ad709b8ef",
-   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
-   "date": "2026-11-27T19:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c044387030fb",
    "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
    "excerpt": "",
@@ -755,6 +811,17 @@
    "source": "Revista Semana",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDhPZENycExOWEJweDd3Zk5adUdHQ2VaQzZ0YUwybnRYNlExWHcwcVdLRjNCMnJaeWt0VURfQUxuckNsS0RtbmJjVVdibEtkRjMyNlhSTmF0Q0RKNXZ2M2VYYzc5MHEwSUZFTDhWTll6bFhTSnNVWC1SZ2FfM2p1aGhaU0hTRWJHWVd4MlB3bXBhbmxab2MteTNiWG1RN3pNcGkwX3pQSEE1MktzWEJ6YXRRbUJZNVVPUEJ3QnRGNWM3eWZIQ2fSAcsBQVVfeXFMUHhBeEdxajh4X2w0VlU3TDJERnhBQXdlcTdkNWI3RmhoalVlWkstaUJoZEpTMkxMbmF1OG1lLVR2T3d1Zy1XOVV0cDBJZFhHNEdPUVFTUTRiSkd1UmZCZG55MjVKUE1uSDBmRE9OZHA1OGMyd3p5NGJhdU9LWWtHS3gzV3BkWWlyLXQzMzRvT1p3OHlNelVCaHBnUFM2aWoxT1Y2ZkVLRTJyMGtPRjZ0VTUybDIxdGJsb3p0RFBTNER2alM3QnI3Ni1HRE0?oc=5",
    "date": "2026-11-27T18:54:38+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "673ad709b8ef",
+   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
+   "date": "2026-11-27T18:45:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1246,73 +1313,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "1b46d6b42e48",
-   "title": "Ley Mape: La presidenta Keiko Fujimori le pide al Congreso aprobar su proyecto",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUkxhZGdJRHhjRzNvLTMzNkNPemdGU2dNeEluMDJWN3pKRGxLUUNqUWE0bE9URnJBSEgyR1lyR2w1MUJuN1c5NVlUTjJRMk1wazFHX1lNQVl6Z3NBa2FYR281ckVOZnpINFNjRUlWbGlldnhXUnRxMXdmS3RXMkV3dE9vdmV2Ujk3dEJVTW5rQkFyTVE0TWVTNkZxd2pQajJNTWVCaDZZOWRHWU9jeFB4NUdidUgzZ1g3cnVF0gHPAUFVX3lxTE95VlpZS01NQWJGb0Jsd3BibUdKVEJPTlRGak1sWFNxUjZjNWdSRE1UMU4xRWNXb3Q3VVRualhTd1hEdk13RHBtbTMwbTVpRnRBeU53bGhrU3QyandRQXpsVnFHRzZkM08xQ1k0ODBCR1RpWkFLZWh4TDNMYnFDSlVUcDJBZUJ4RWM1S0JwaWlzN21oTTcyeUR5M1FvOVU2WXZGQjhDRUlFc1FsdFpyel8yWTFPOUFmWHBRRk01RTZjcmFkUFltYzlHNVF3VG5DYw?oc=5",
-   "date": "2026-11-27T12:00:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2f431fd97d46",
-   "title": "Gobierno de Keiko Fujimori nombró a 26 afiliados a Fuerza Popular como subprefectos el en Perú",
-   "excerpt": "Las designaciones incluyen a subprefectos en La Libertad, Pasco, Cajamarca y Arequipa. Los nombramientos los realizó el Ministerio del Interior a través de una serie de resoluciones directoriales.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/26/gobierno-de-keiko-fujimori-nombro-a-26-afiliados-a-fuerza-popular-como-subprefectos-el-en-peru-hnews-2296528",
-   "date": "2026-11-27T11:55:25+00:00",
-   "state": "posando",
-   "place": {
-    "name": "La Libertad",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false,
-    "city": "La Libertad"
-   },
-   "next": null
-  },
-  {
-   "id": "04f3c5247240",
-   "title": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
-   "excerpt": "La sesión del Pleno del Senado está programada para las 10 a. m. de este viernes 27 de noviembre. El primer vicepresidente, Alejandro Muñante, será el encargado de dirigir el…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/25/pleno-del-senado-evaluara-este-viernes-el-pedido-de-keiko-fujimori-para-viajar-a-colombia-hnews-1817475",
-   "date": "2026-11-27T11:18:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bfa9f05328fb",
-   "title": "Rodrigo Paz y Keiko Fujimori se reunirán este viernes en Lima",
-   "excerpt": "",
-   "source": "Red Uno",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGY5YlRGTHFmazdYU25xMzQtSThEZ2wxa3pGR0JiTzlsakh5UjQ0VlR2U0V6LVJmcWhRaDNKeDU3NFdYOTVMSXY5RE9kSkJJWVNHQUNWLUJTYzFaVlgxemg4Z2FBSFlEZXZWdHBFcnlweHBWNVNrV2FXaDM4aEY3b0ZNTTREVTFlQ04tTmlUQjVPZTJpRUpTajdkQjYyNFJwRnlzQ2R1SWhBTU9lZGg4?oc=5",
-   "date": "2026-11-27T10:35:31+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "ae1f27efb802",
-   "title": "Keiko Fujimori en clausura del CADE Ejecutivos 2026: \"El crecimiento no basta si no es compartido",
-   "excerpt": "",
-   "source": "www.apnoticias.pe",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVWdPWmpscGExLWVQcWdDZy1FR2VtSGtCQ2VBVGU5ZlRLUmNVRE91LXZnNmJyOExFSnBwYUN5VTNheDJEcXJjNFVaSHd4a3FheUNVWmdZOVlFVUI3Zk03Slh6YWRuWFk5RmcyY3dCU2ZlTzd4RHFQWExVZ3dtZGpRTkx1eXFoVDNRUDB6RUk1bVBjeTEydm92c2c0R1BsVmRiR3hDSUFkcmFJcVc1TF82bjV0ZzhDTzFzb3RuWGNKM0RHNlBhc0VNSlJ2R2dHTWs?oc=5",
-   "date": "2026-11-27T08:22:52+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   }
  ],
  "geocache": {
