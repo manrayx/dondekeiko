@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:22:49.318740+00:00",
+ "generated_at": "2026-11-27T07:43:54.154968+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -403,6 +403,17 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
    "date": "2026-11-27T05:38:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "1695b12a924c",
+   "title": "Keiko Fujimori: “No he enfrentado cuatro procesos electorales para quedarme de brazos cruzados”",
+   "excerpt": "",
+   "source": "latinanoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1dTb1RQM1dCVmZSeVgtSjF2NTFISzRRLUZpTnFMbDFzdEFYNk9YTGtGcjZrWlRkWXpyWEJZNEJFSnZpMVJ4NTczSV9qaW5jV21JOVJqT0tYOTZ0VWU2NDhXRVpaLUl6eVNFQlI2czNwaFNtUDRFNUJFWFdwZ1MxdkR4YjlLM0JqdTNlMmlydmplMlJTczdIWGlvcVJCV1c5QVFUcUM4UnBVc29URE0tbXctQUdxWHhsc3pVU0pKSHNLTnZKNWl5cm03VmpRVk1KMnRTa3NuUFM?oc=5",
+   "date": "2026-11-27T04:49:21+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1091,23 +1102,6 @@
    "date": "2026-11-26T15:14:32+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c50ce6b5f357",
-   "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en Cade Ejecutivos 2026",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOU5FcHBacDdSX1FRRmVmYmxNUHZldU16eWJfZzU5Sm9hQlBPbGJaVE9NR0QyWHBuM2MzbWlEbmdZOW02cFhlbXEyZkptclVqbXpON1Q0UHJTLS1CQXhxeVBWRFNrRVJnOVNTd05LaU5OeDlSU0R6RlAycUNVQXpScHMwaHJMR0NKNmN3ZTY2ODRObnFwRGphWUwteUFUQy1FQV95ckFlTFdwVEpmakxheklZV1lxUUg5LTdMV2tYLUd5WGlKYnlKOHp3OENrcnRsMndvVnhjQ0NsRkxCODJoRDJaOXlFN3VfV3Q4T1dwUVZ4bjRyX0Fqdm9tVmF6WXRwLWhCLTMwMzM2ZVXSAZ8CQVVfeXFMTWc3RU1DNXlBdVM0eC1GNy1NRVpmTDl4OEUyOU9BUzI3a09TdkctcGROMENkMmZyaVdZMk44VklqSk40YjVydzh6TjFFSFdMdFNsVTFpc1JRNU5hOW9ZbU5PQ2VyLW1sUHktdzl0czJ0dDJLUVc3dzIyZWs1Q3VDb3NkdWVETUxkQ3Y1RERud2ZpSlhEM1dEYlpNZzlYcWd6Q1o5U3FxR2pzYVJTblZncXhjTFphRUpua3l1QWlFeU1xNUFXVGxnUzJ4dTE5TXIxSnZHTllzNE15WWZtYTlaUTlPdTdubWdwbHdNQjR6Y2VuQVVDQXZBTW8tRWRqYXBEaE9nUWVSV21mNm9IcmVnRkY3YTNieGhXc1Awd09rTU0?oc=5",
-   "date": "2026-11-26T14:58:57+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Cusco",
-    "lat": -13.532,
-    "lng": -71.967,
-    "abroad": false,
-    "city": "Cusco"
-   },
    "next": null
   }
  ],
