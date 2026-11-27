@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:53:35.468247+00:00",
+ "generated_at": "2026-11-27T05:14:55.453114+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -391,42 +391,9 @@
     "abroad": false,
     "approx": true
    }
-  },
-  {
-   "start": "2026-11-19T16:55:00-05:00",
-   "end": "2026-11-19T17:58:00-05:00",
-   "minutes": 63,
-   "subject": "Lidera conferencia de prensa con ministros.",
-   "lugar": "Sala del Acuerdo Nacional – PCM",
-   "state": "posando",
-   "place": {
-    "name": "Sala del Acuerdo Nacional – PCM",
-    "full": "Sala del Acuerdo Nacional – PCM",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-11-19T13:25:00-05:00",
-   "end": "2026-11-19T16:26:00-05:00",
-   "minutes": 181,
-   "subject": "Consejo de Ministros.",
-   "lugar": "Palacio de Gobierno",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "full": "Palacio de Gobierno",
-    "city": "Lima",
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   }
   }
  ],
- "agenda_minutes_7d": 775,
+ "agenda_minutes_7d": 531,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -905,7 +872,7 @@
    "title": "Keiko Fujimori inaugura ampliación de hospitalización pediátrica de VidaWasi",
    "excerpt": "",
    "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQi0ybHpDaDh2WUE3TmF6S29RZU1DUlNRYlpWSWQ3WUZPd19YNmRWaWV3MEJ4UmNSeTdQOXVUQmhYajd5SGFFanFYWjk0bXZLSUF4YlBScjYyODlVZGZCa3BMeDItcE5TanFGVnNEOGFXR2U0aVRHU3FrMWRQenRTaHl3d0tXU3luSmJsYXFFc240MC1KdWJPWnI3LW5yanVrcnBLdEpLVdIBqwFBVV95cUxPMDBsT1JWMWhfazY1M3hXWHRMaWpRWUZ0LTE5NmhrOUNlRDRReEdSYncxSGpEaUxQLW8tM1Bfc2ZIYnpQa0xpdHg3NS1rU0JZS0IybXhMSnZXS3JJVjA2aldPbS14LUpZV2FIbGFKdUxxREVqelRWTzhUMDQ5ODlvRlZPVTg1UlNVcVBsX18wWUlTZ0IyVlA5TkdPdlhLV2F2bDkySG1aWUNPemM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMDBsT1JWMWhfazY1M3hXWHRMaWpRWUZ0LTE5NmhrOUNlRDRReEdSYncxSGpEaUxQLW8tM1Bfc2ZIYnpQa0xpdHg3NS1rU0JZS0IybXhMSnZXS3JJVjA2aldPbS14LUpZV2FIbGFKdUxxREVqelRWTzhUMDQ5ODlvRlZPVTg1UlNVcVBsX18wWUlTZ0IyVlA5TkdPdlhLV2F2bDkySG1aWUNPemPSAasBQVVfeXFMTzAwbE9SVjFoX2s2NTN4V1h0TGlqUVlGdC0xOTZoazlDZUQ0UXhHUmJ3MUhqRGlMUC1vLTNQX3NmSGJ6UGtMaXR4NzUta1NCWUtCMm14TEp2V0tySVYwNmpXT20teC1KWVdhSGxhSnVMcURFanpUVk84VDA0OTg5b0ZWT1U4NVJTVXFQbF9fMFlJU2dCMlZQOU5HT3ZYS1dhdmw5MkhtWllDT3pj?oc=5",
    "date": "2026-11-26T17:50:05+00:00",
    "state": "posando",
    "place": null,
@@ -1116,6 +1083,17 @@
    }
   },
   {
+   "id": "12adb28c8338",
+   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
+   "date": "2026-11-26T15:14:32+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c50ce6b5f357",
    "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en Cade Ejecutivos 2026",
    "excerpt": "",
@@ -1130,17 +1108,6 @@
     "abroad": false,
     "city": "Cusco"
    },
-   "next": null
-  },
-  {
-   "id": "e3f5c3619bf0",
-   "title": "Empresarios peruanos muestran inusual confianza en el gobierno de Fujimori",
-   "excerpt": "",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dCQ3JuV00yMVZYZXlLQzQwRXdvVEp1WEo5QjIySVdRZXg2dlYtUmljN3dyeWNHNnFwd2NuQS1Ka3FNS1kwQjJYc3oydUotQVdnZXpONFlTWDJDMzl0VElyTDNGaHRvMGpULUNSRzhxVnRJZk1FWmhETm50V0ZxTS1vS3BrU0hXYWlJTjhReWdrLUNkeW1jX1FkT19TbFVwbmlNX0JXRnk?oc=5",
-   "date": "2026-11-26T14:57:02+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
