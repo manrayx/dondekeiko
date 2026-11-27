@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:30:30.520079+00:00",
+ "generated_at": "2026-11-27T19:51:26.435408+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -130,6 +130,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-27T11:55:00-05:00",
+   "end": "2026-11-27T12:01:00-05:00",
+   "minutes": 6,
+   "subject": "Develación del sello postal conmemorativo por los 200 años de relaciones diplomáticas entre el Perú y Bolivia.",
+   "lugar": "Palacio de Gobierno",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "full": "Palacio de Gobierno",
+    "city": "Lima",
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-27T09:40:00-05:00",
    "end": "2026-11-27T09:43:00-05:00",
@@ -409,7 +425,7 @@
    }
   }
  ],
- "agenda_minutes_7d": 534,
+ "agenda_minutes_7d": 540,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
@@ -419,6 +435,17 @@
    "source": "Perú Informa",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd0RrRzhmMjk0RS1zWEkxaTBhMWxvRndGSllFeUJQeFlvZW95RWpWZ0xYdEJPX0hiOVI4SEszYm0wblZhRHpmNl9pSHpjYUxITTd4SVdhY0ZLZG5kRWxqdDFEMGxWVGE2MXNsUkRGS1BHeVFMZzhLYmJRU2V1SE1CbVhFQXc0dXNGcUlPR3FZMlgyRElWbldHQVhabTlxaW80TWExNHA3NUR4OVlTZ0h6WUxHMTZPUQ?oc=5",
    "date": "2026-11-27T19:24:30+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "e7d2f1680094",
+   "title": "Keiko Fujimori canceló encuentro con De La Espriella en Barranquilla",
+   "excerpt": "",
+   "source": "hoy diario del magdalena",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeDlybXZSNzV6b053LXdtanBQWUxZOEJfV0l6dl90ZE9VbnJmeTFrVmhld0I2MDlkLWFMZjFBeXlPN0RBeGpwakRHRHFwekZwN28xSU94azl2cWtHVHZ5aFNyYVVMT1NvZVc1VVN4ZkNGTlMwaGpYU09rd0FTQjRPY0htWE44d1h3Y0ZvU2ZlWFJ6M29mY2VKLVZyV2dfaDBPVFJpbDNsazRhRWdXS1NVS3VQa1pROWhUcXg1dk1BVQ?oc=5",
+   "date": "2026-11-27T19:13:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -882,17 +909,6 @@
    "next": null
   },
   {
-   "id": "c044387030fb",
-   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
-   "date": "2026-11-27T15:22:01+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "2c4b6c8b8e2f",
    "title": "Keiko Fujimori se reunirá con el emperador...",
    "excerpt": "",
@@ -918,6 +934,17 @@
    }
   },
   {
+   "id": "c044387030fb",
+   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
+   "excerpt": "",
+   "source": "El Deber",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORmNXUjM4cEctLVZvemVRWGM3bUhlc2FXY1pHd0JNXzM2RFR4Z0gyZWlkNHhlblNDd0JZcmRyY2QyZ3E4eWU0MHVSNUtZSnNLTG1EbFVtRDhEMTV2Q2lvMzB4M0NWRlNSc3Jmal9RU1FDYmFSN2p3UGZTYjY0dFM2SUZXaXVjNWROZTVLVTQzT0dLWXNNYVlMSlg1ZklVTDZ0OG5YYmpoMEJzcURQa0wtakxaeW8tRkE?oc=5",
+   "date": "2026-11-27T15:10:07+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "af9c0daf6714",
    "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias en el norte del país",
    "excerpt": "",
@@ -930,6 +957,17 @@
     "name": "Colombia",
     "abroad": true
    }
+  },
+  {
+   "id": "9c77f952aae4",
+   "title": "Presidenta Keiko Fujimori y su homólogo de Bolivia, Rodrigo Paz lideran Encuentro Presidencial y VII Gabinete Binacional",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0JQbUFYaW44SXU4aHprYkZGMldxRjIxZlViM1pmbkFfZ2p3enZpOTY1UWR4T2ttQjhWdS1RUjA4bVE2VWtrSkhUZklBek5mQkpqMGZ3NUtndk9xX1BrRHFRVFcwRDFVV21pZ0hPSEgyWUZwOHJJMGR5T1ltMXlCU0ZVY1loRFhZY1h3REhrVFoxSXJaTE1vZExrMG1WWHB0alZXZ1FQU0ZSdEpSOVp3U3BXT2wybVNYV0JjbTM5N3hiQQ?oc=5",
+   "date": "2026-11-27T15:00:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "c5f304072c64",
@@ -1218,28 +1256,6 @@
    "source": "Congreso",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnV3N3hVLXFRUXA3OEw1UTRRa2tNUWhFZXQ1ZzRMdDhWNlFPTjRYUnIxQXdkYUVkQnJTRmltNmNrTjY4bHNzdVZMX1NVNHRROUFTQ3Z1cWdoX1FDUFVKeDRrM19MY0FKazhnTGtiaWdZVU9BTmk1VERoYTBmUmtDRmZ0NEhWQUo2dXktcWdudC1RWnB5dWtCb09DdEhOUE1YWjBjT2JRWE9iWWtYUjZXV0lDSVoyZXctNG5oWGhwSQ?oc=5",
    "date": "2026-11-26T22:16:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "53cbf36ad2ac",
-   "title": "Keiko Fujimori exige al Congreso aprobar la Ley MAPE tras vencerse los plazos y anuncia millonaria inversión en CADE 2026",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblA1dGpWLWVQMW1YNE1uVjJMeF9Tak0taG13ek82UEtRVGcyeldhZ1haRjE2WnEwM2tjWFFtRk1iMWRCdlhSSWtaQjRhSDk0UGVNVVQ0SGY3S3RQT2lrMVZkUnBaN3JNNlJmRTNla0RNUko5cE8xZWFJaDBSMEVEUkpJbjZ4d1J3WEE?oc=5",
-   "date": "2026-11-26T21:42:02+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "2b03d94dae61",
-   "title": "Keiko Fujimori en CADE 2026: “Es tiempo de avanzar, es tiempo de formalizar”",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQm9TQ3ZTU0hMU2dmYU1YZHd1UHQxUm1pQVZwQTlESHdEZWtOaFVqVEZHVm9oZ212WVdfdjUwb2NYMDAzUmx4UnNFV1dXMEs0aFNuOHkxczMyR2tDTUZpYUEyTmRISVhSdl9ibVN0ckdvX2V0N1hvTHdJRUhPOGFJUGNnRFdSNFN3U3FPLTJETVE4RGhBRHFnWVZmYzR3RjBZc2prWtIBpAFBVV95cUxNQm9TQ3ZTU0hMU2dmYU1YZHd1UHQxUm1pQVZwQTlESHdEZWtOaFVqVEZHVm9oZ212WVdfdjUwb2NYMDAzUmx4UnNFV1dXMEs0aFNuOHkxczMyR2tDTUZpYUEyTmRISVhSdl9ibVN0ckdvX2V0N1hvTHdJRUhPOGFJUGNnRFdSNFN3U3FPLTJETVE4RGhBRHFnWVZmYzR3RjBZc2prWg?oc=5",
-   "date": "2026-11-26T21:34:55+00:00",
    "state": "posando",
    "place": null,
    "next": null
