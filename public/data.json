@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:25:52.815847+00:00",
+ "generated_at": "2026-11-27T18:47:40.315329+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 1,
-  "posando": 59
+  "triste": 2,
+  "posando": 58
  },
  "total_7d": 60,
  "silence": {
@@ -413,6 +413,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "3bbe234bf1f8",
+   "title": "Keiko Fujimori en Gabinete Binacional Perú-Bolivia: \"Es el inicio de un fortalecimiento de 200 años de amistad que nunca debió cortarse\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYjBFNGQ2OEJjOGdnT1JNNjlrb2FOakJVdzVmejg0LW9TNGhYLVc3UGdsWndDR0hBMEM4R3luTWhBM2tEWDVTREJVZVMxSThsSktDTGtzM3l4UnBLWlZhZkY2M21lZHFyQXVMR05iZUhWZndPMlNIV1Fzc1FMdkN6UlE5V1lxWm9TVXhPODJLRmVUZ3hTc0tOR3JuN1BhYTRkc2d3NDlkcjM0QWQtQ3B3NXN5dGp3a3N3Q0NORTMtOEc5WjZ5REtSWWd0VGRya1B4YzY0M21NVHIwaHdWZGpYM1QzYl96eUU2S25qQURmUG5PejhOYW9vT0R2ekFNVVRNLWFtZUtITmZoOUFES3Bz?oc=5",
+   "date": "2026-11-27T18:24:39+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "9dc7fe03e4d1",
    "title": "Reggiardo pide implementar medidas de seguridad de la MML tras ataque en la Costa Verde",
    "excerpt": "El alcalde de Lima, Renzo Reggiardo, solicitó a la presidenta Keiko Fujimori poner en marcha las medidas de seguridad propuestas por la Municipalidad Metropolitana de Lima (MML), luego del asalto…",
@@ -513,6 +524,17 @@
     "lng": -77.0298,
     "abroad": false
    },
+   "next": null
+  },
+  {
+   "id": "641d14d3d3f0",
+   "title": "Perú: gobierno de Keiko Fujimori rechaza medidas para proteger a pueblos indígenas en aislamiento",
+   "excerpt": "",
+   "source": "Mongabay Latam",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHY4cUFtZ2VIVGpqLWVGNHlpSFlLTUtuV1Q3aHQxa2ZTSHhEMl92enAtSU5TYmQ3M1F2N3hfRU5nbkVNMWoxbEVEYzNScHVGUFBmR253aFcwTkFvUWVIUjJUbjBJWThhUGh3QWtMWHFUZzRVaXYyV21CYzUtN2taSmFOZC1fUURpSjBueEdjY1RzSUhlbFg0NlJiSUdmamFJc2FzbjRHMHh2ZEFRYVlnX0Z6T1hLMnM?oc=5",
+   "date": "2026-11-27T16:52:03+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   },
   {
@@ -935,8 +957,8 @@
    "id": "903c1d56bb46",
    "title": "Keiko Fujimori: Pleno del Senado debate autorización para viaje a Colombia el 3 de diciembre",
    "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-a-presidenta-pasa-salir-del-pais-el-3-de-diciembre-a-gabinete-binacional-noticia/",
+   "source": "El Comercio Perú",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZkVEWWhsWmVWa2ZJbmJTZlJVMGJhMXNCMmhwcnc0ZUNOSmtlT0V3VXF6eFVoNUxCamJXa0NLVEpKRlVNN1ZlQThvb3ZYMXgtRWNCamlLWnF4NHFXTzZaMGxHcmI2SEZmQk9IQm9QcDRYckdVbkpzMXVfV3kxbFpHcjFNbDNLYl9LREpEUWExVjQtdVRWZmhfUV9PVTc4a0FLVE5VZEpuUC1ITG1rcDMzOWpYajNwaFN4VXNmSG5RS2NKbTFXNFNPWFA5cEFULUJBaHBrd1U5ZGxuQkg5aGFqclp2TGZWT3JUTndoOVplbUdxY2NEVnh6VnhQMmhBZGx6NFItQU9uTktmMndMemx2R21KdU3SAagCQVVfeXFMUExFSGk5TmtkZW1Eb2VONjFYZWx3MFA5NU1zNTNmbVkwLW1yWENLZ3hEUjRSU3RWcGVsZVlGYkdCNVpLODFpc2psNllQaXJsY1MzTlhIbUl4ZW10SnE2MThvaFc1NzdUV285UTdLRWx4VVZvS3FqTEI3SzNYZUl3SFM2dG9ZNWtXSE50RVNIa24tc2Q4TkRNYml2NlJZNDF5YzR1N2FKYWJBMV9wVzhsVVpYWHE5ZnM2d3RTZzZDTW9wWFpDdTdIOEN4OGhKcW45QTd4WGt4a1ZNbExQY2tDdmo3S09Nd1pLeHpBaEJ4d0hCV1FOQXhwYU9mS2lOZHJsT05wbmVvVkI1dlZaR3ZNNFkwMjVITm5vRmVXcXNGYnUyWFl1QnlBTXk?oc=5",
    "date": "2026-11-27T13:48:26+00:00",
    "state": "posando",
    "place": null,
@@ -1013,6 +1035,17 @@
    "next": null
   },
   {
+   "id": "5df98513004f",
+   "title": "Keiko Fujimori responde a críticas por adenda con Cálidda: \"No he luchado 15 años de mi vida para quedarme de brazos cruzados\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OTGFudXlNRWxJa29zbXEyLUFFeXR5V0JnMWcwUGpSZnJHUzBBeHMydGVidTZlbkp5Z2tWMzkyQzJfVUN4ZlpjTVVfZ1E1UFM5M3VTNEtQRkp5dklTQnQ2dkVBSkxaaDRZRlZXaTdmR1NRMGd5YzhOZ21KaTcwOWM?oc=5",
+   "date": "2026-11-27T07:38:10+00:00",
+   "state": "triste",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "1695b12a924c",
    "title": "Keiko Fujimori: “No he enfrentado cuatro procesos electorales para quedarme de brazos cruzados”",
    "excerpt": "",
@@ -1085,8 +1118,8 @@
    "id": "d21e8799a096",
    "title": "Presidente de Bolivia, Rodrigo Paz, llega a Lima para reunirse este viernes con Keiko Fujimori",
    "excerpt": "Ambos mandatarios encabezarán el VII Gabinete Binacional Perú-Bolivia, donde abordarán temas de comercio, inversiones, seguridad y cooperación fronteriza",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/27/presidente-de-bolivia-rodrigo-paz-llega-a-lima-para-reunirse-este-viernes-con-keiko-fujimori/",
+   "source": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNnhwVHpOMVRmcFc1Qzc5SWdTc3JjeFBlbEx4MnFrUEVSTTZmX016bmhUX1VKODZycDZJbDZPWWRYMFcxU1phQzZFa2ZqSVZndjFZclQwbnF6alNQQllVRjFTcDJCNHNBRjRzZ3JOS2FYb3ZuZFluaHQtb0lvenB4Z1F3WkNab1VXSlhVOEIwRUZWdXBiWDNEZ2NpVll2QUdmZzRYLUNMVzNDck1JcUNuSlJoWjBFV3BETjhjcTl0RlNDeHd1T0tIVjR4X0tQQdIB6AFBVV95cUxPR1Vld1dqZjZOYXNOTVlKS0owQnRvSU5VTm1mT0hWNmQ3SVNQMnBzRVN5TlVMa01GSGNpOGhIMnhHTWNJeG1jUXhYdkVXRnhjTkxkZDltU0hLZkw4SkhuQUktZXNabUdxNU8wMWNTQWdMOVd0aUFZaDNUWjgtVm1YM2plV0lDeGZUdFR3QVYyZzhhYW1kZTN0N2FhWFk1ZlVnWVVBLXBKSzBmSWY4dm5sbEVIUnd3ZjgxM3Zvd1QyTjE5LUw0OUhoVnFrUFU2VXNzelRsdFZ6cFItNmlPUDlpY1BMaTYtOHpx?oc=5",
    "date": "2026-11-27T00:06:00+00:00",
    "state": "posando",
    "place": {
@@ -1207,39 +1240,6 @@
    "source": "Agencia Andina",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb2gxdHNUVlFrbjBKR3FZdkJMRzNQQ2QxQ25LRmxKbDUzTEtNdUdSV0dUYmI5TlN0TzVReFFBa1Nkelk2QTBKcmRIdGdCZ3haN1BGd3RCMjkyOTFHU3NBaUdwazFLOWhFb2FFY2E0Y3diandLMFZzN1llWFBOdGNrMUNRdUd6WDZwOU9yYlIyUVFsb2ZTaHQzQmI2ajUxZWxiT244?oc=5",
    "date": "2026-11-26T20:46:27+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3c06979a05f6",
-   "title": "Keiko Fujimori anuncia que el Banco Interamericano de Desarrollo aprobó crédito de USD 10 mil millones para proyectos",
-   "excerpt": "El organismo multilateral dividió el financiamiento en dos bloques, uno para el sector público y otro para el privado, con un plazo de ejecución de cuatro años",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeGozcDdTYVkySFpsWlFFa3V0MllzSmNuSkFxN2RoaVVmMGI2VlZIZ3VJWVA4ZHYzQkZvV3FDTjAtakVZRmVfNldrUk5nLUNvRWJEcVlia203cFVzRDJJMUhlOVVLam11V2FJaEV3N2hHU3ZxNWNzU1Azb2RJWE9MV085YlFkY0dPVURibFAtbHFDUzBYSmN6X2NkT1hSRXNnajVqZ1EzRnBrQkNVZnczWlgydFY4UGhvWnU2UUM4S2Y2RzBpNGJRVHdtbWJRWUVZdkxqRzNrZjFsTkdKaE5paGxINU9UVzFxbkM0aVdMZ9IBigJBVV95cUxQODJsNi1lbzFlclNXVWl4WXNOX0tMZmhFeHlVOEEtZDk0QVI5NEFLdndkNTFiUExZdjI2clIybS1QZFl0ckNWc0JmSi1NbEloUGVIcXdCck1kWWp3MC1wMnZZOGZGaTQzdlFKbFhxNGxqbVFIZGxMa1JsUHhwS09LM2IzTlZQYnZkazVDRUpBY3NmbEtjYVZ2VHI4Uy1Za25KT1VvS3EzSkhNZmo3YllvM1lhTzRUVlZ2bGZqYWRvSFN3N1lpN195ckNWNXZCMlp4S2tvdzJJbmhLRnVMWlM4SmRVU1pVYXdKQkVPR2loTThBRzJ1QjZWNnhYaEhTb0E2WWowSXh2NllTQQ?oc=5",
-   "date": "2026-11-26T20:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "5416c2d17940",
-   "title": "CADE Ejecutivos 2026: presidenta Keiko Fujimori participó en la clausura de la Conferencia Anual de Ejecutivos",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVXNTMmxOYWdQT0w4Y2xnZjBGY1dnR2Fpc2hia09kNk5CZGtpakd3QTFvdVFNQm1MdUdvZmhzNTdVbzBPUVJ6REN3ejNwVFNlenVLbUFIZl91Sjdmbkw4akhZUENvWGZMa1pXLXRmcUl0RjZJQkszN2NRNDhDTFd3QXFWSHRGWmh0eWVkUHVPQXpLaE9rbHRheTRRU1Y3T2tZZmN5NF9uUWlKaFdtU2l5Vm1oTFFkcHUzZ1diRi1JZWhPM1NzNTd3V09wUDBUc09TODlOZUJXTkxFLUd6WlE?oc=5",
-   "date": "2026-11-26T20:37:21+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "eb51ac2e3bf5",
-   "title": "Keiko Fujimori en contra de extender el REINFO: presidenta espera que el Congreso apruebe la ley MAPE",
-   "excerpt": "La mandataria reconoció que los plazos legales para el trámite urgente de la norma ya se cumplieron, aunque evitó precisar las consecuencias de ese retraso en el Parlamento",
-   "source": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR1ZLVF8teDJSZDJyQ0JRMkJNUmRBWUY3VzNrTUtFaUlIejhxMS1XcmNfc1JibVJHMDFLWXVNMXRkcWV5MWxnWFd6dUpZeXBMRVRBRFZDb1VJeW1tRmZfdEFBV3NGb3p3cnlQLVJFUmFIVG0tU056RW1DMllSdzhrQ0tNaVBFY0JYVkRaT19fVGxLdHV5WjFERkl0NDBELVUzcjRGZEtWZVZLb0hoaUtzV1dDZ3NtSFh4Z3U3U3JJSGJSMnlPWktEa2VENVlVVTFfeXFoWVpLRS3SAfMBQVVfeXFMTm9KTE0wQ1RIYjZSczUtNng5REU0eHBNYjFMSEJLWVNFRXZxSFBsajFmVW1HWVllOEVZRXZ5WDNpZ0tFMWEtN2c0QnZUai11dUQzdWd0dkhEcXFseGlKMmNOTW5mbHJNcnA3anByU3ZWaFJzYTlKTzUwaEtXd0ZhaGRrTHdublI0eFF2amNGOGRmQTVuZnYyTlV2TTAwOC1yMmJwTHhxRU5OdUZpU3o2YmhWNDdJZjRRSmlFS19lZjNFLVdVSGFnTmtTWXdwNE9UQzNsZzZZM21fRTFDUjNKMjhlcGFKYlhlc0RFWWg3dXExdk1v?oc=5",
-   "date": "2026-11-26T20:14:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
