@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:04:47.077645+00:00",
+ "generated_at": "2026-11-27T18:25:52.815847+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -110,10 +110,10 @@
    "name": "Colombia",
    "abroad": true
   },
-  "source": "El Comercio",
-  "date": "2026-11-27T16:27:07+00:00",
-  "title": "Keiko Fujimori suspende viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
-  "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/"
+  "source": "La República",
+  "date": "2026-11-27T18:08:52+00:00",
+  "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
+  "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -413,6 +413,31 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "9dc7fe03e4d1",
+   "title": "Reggiardo pide implementar medidas de seguridad de la MML tras ataque en la Costa Verde",
+   "excerpt": "El alcalde de Lima, Renzo Reggiardo, solicitó a la presidenta Keiko Fujimori poner en marcha las medidas de seguridad propuestas por la Municipalidad Metropolitana de Lima (MML), luego del asalto…",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/alcalde-renzo-reggiardo-pide-a-keiko-fujimori-implementar-medidas-de-seguridad-de-la-mml-tras-ataque-en-la-costa-verde-noticia/",
+   "date": "2026-11-27T18:22:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "00f5660bb8f0",
+   "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
+   "excerpt": "La presidenta acordó con su homólogo colombiano, Abelardo de la Espriella, aplazar el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. Además, pidió al premier Luis Galarreta gestionar ante el Senado…",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709",
+   "date": "2026-11-27T18:08:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "2cdb03da231a",
    "title": "Rodrigo Paz tras reunirse con Keiko Fujimori en Palacio: \"Bolivia y el Perú abren una nueva etapa de integración\"",
    "excerpt": "",
@@ -593,20 +618,6 @@
     "abroad": false,
     "city": "Piura"
    },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "00f5660bb8f0",
-   "title": "Keiko Fujimori ya no viajará a Colombia: mandataria posterga viaje ante emergencia por FEN",
-   "excerpt": "La presidenta acordó con su homólogo colombiano, Abelardo de la Espriella, aplazar el Encuentro Presidencial y VII Gabinete Binacional Perú-Colombia. Además, pidió al premier Luis Galarreta gestionar ante el Senado…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/27/keiko-fujimori-ya-no-viajara-a-colombia-mandataria-posterga-viaje-ante-emergencia-por-fen-hnews-371709",
-   "date": "2026-11-27T16:04:31+00:00",
-   "state": "posando",
-   "place": null,
    "next": {
     "name": "Colombia",
     "abroad": true
@@ -1229,17 +1240,6 @@
    "source": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR1ZLVF8teDJSZDJyQ0JRMkJNUmRBWUY3VzNrTUtFaUlIejhxMS1XcmNfc1JibVJHMDFLWXVNMXRkcWV5MWxnWFd6dUpZeXBMRVRBRFZDb1VJeW1tRmZfdEFBV3NGb3p3cnlQLVJFUmFIVG0tU056RW1DMllSdzhrQ0tNaVBFY0JYVkRaT19fVGxLdHV5WjFERkl0NDBELVUzcjRGZEtWZVZLb0hoaUtzV1dDZ3NtSFh4Z3U3U3JJSGJSMnlPWktEa2VENVlVVTFfeXFoWVpLRS3SAfMBQVVfeXFMTm9KTE0wQ1RIYjZSczUtNng5REU0eHBNYjFMSEJLWVNFRXZxSFBsajFmVW1HWVllOEVZRXZ5WDNpZ0tFMWEtN2c0QnZUai11dUQzdWd0dkhEcXFseGlKMmNOTW5mbHJNcnA3anByU3ZWaFJzYTlKTzUwaEtXd0ZhaGRrTHdublI0eFF2amNGOGRmQTVuZnYyTlV2TTAwOC1yMmJwTHhxRU5OdUZpU3o2YmhWNDdJZjRRSmlFS19lZjNFLVdVSGFnTmtTWXdwNE9UQzNsZzZZM21fRTFDUjNKMjhlcGFKYlhlc0RFWWg3dXExdk1v?oc=5",
    "date": "2026-11-26T20:14:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "b15c78525b6c",
-   "title": "Empresarios de Perú recuperan la confianza con el gobierno de Keiko Fujimori y apuestan por más inversión",
-   "excerpt": "",
-   "source": "Bloomberg Línea",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONzBHSkdqLTVpY21fbE5CcWxXT3pXdTRRM3A4WWMtaC1fUV9SOThUZlVXU2tnTVdISDBYWm9oNmdFdXJtcWw2VWFQNWZlT25SVk43U3N1M3gwZWFDWUtHd0s3NlduQnc3OEtlOXRiME1nQjlCOEZ1Z2JUaVBQVURLQlFWNkRCVlhieEUyUnBwWjJSa3NMYTFIRDNGVjZUaWwta2QyYnRicWJsYlZfRFM2Wnc1X2E3ZEo5bGo1RjVpXzNqeWxjc194RG5YRkJKdmZDZGVpZnZ3a21hZjhKQXY1MEhPOXJGTTVkMkdOetIBgAJBVV95cUxNOWNQQU1xMHhQN2VGUTVDOUR3eXFnZllSTTI0dXNJaVJ2dmNnRXpoUzRpR2J2VnBmYkxMeHRlWGFPd2JmWlA3WG5vcDNWNG40Y1NHYVRnT2t4RlN2T0Q4ZlZmTnRESG02S2dBdFNDYmRseVMwbFREd3JhOWxIaEptdVR3Yk9qTHF2bXNaZ0NZMjJQNW10R1dqa0hlbU5IcGFlbmE3d1E5WjRqOTJ3bVVHVFZMXzgxTnpVWjcyYjRMcm9CTUpZa0VjSFZZb2FfN081RmRmWEVJd01pT2NGVG5NVnRCMUk2aS1oQUFZOXN1MGFGZDV3TXY3eklVMFdhY29H?oc=5",
-   "date": "2026-11-26T20:00:17+00:00",
    "state": "posando",
    "place": null,
    "next": null
