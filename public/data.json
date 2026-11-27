@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:38:30.380483+00:00",
+ "generated_at": "2026-11-27T17:00:11.566794+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "El Comercio",
-  "date": "2026-11-27T16:27:07+00:00"
+  "source": "La FM",
+  "date": "2026-11-27T16:51:21+00:00"
  },
  "next": {
   "place": {
@@ -413,6 +413,23 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c74dd5b1854e",
+   "title": "Keiko Fujimori suspende cumbre con De la Espriella por emergencias invernales en Piura",
+   "excerpt": "",
+   "source": "La FM",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmg5RWZNUm9uS2JIX3VHVlpwYk9mWm9nbm5lZ2hKT1R5cEJTNmNpYzNXbTN6by11Ml9aV1ZrMGNIU0xvTER5WUdvekU3QVU5c1lpUmFDQ3JsRGlNdklSWWhWVjhvWTdFdnV1UnIwdmFnTG9ZSWViczhFWWpQUnRUREE4cEhsa1hJUFh0c0FiXzR0bEtiaXRDWHBPY196TjhTRzZucklpeWZ1WG9EUmNXOWsySnRDNWNHQkVXQ2p5aELSAcABQVVfeXFMT2tIajFGSExBdzZ1YVM3TjUwT1l2M19UbzdFWFFzZnNRU1BiejFEa1kzTTFFeUlmTlhfbDU2NFg0b0x5ejRhRGFQM3phSERkV0hEUDVrTDNxbGxNVFVzblhfa3NXN09DOHdLNE1YY1BPMlVpS3NuS3FCalh5WWlwMVV0bFo5TTdldDJ6ZVRPd3JPX2ZQdUFMZEZwQW1xNTVhRFFfQlBNbEFlanpkbHdkN0Flbkh6VmstbjdLNzA4UlFR?oc=5",
+   "date": "2026-11-27T16:51:21+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "1095e00f21ca",
    "title": "Keiko Fujimori suspende viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
    "excerpt": "",
@@ -546,6 +563,26 @@
    "next": null
   },
   {
+   "id": "6bba7f2a6654",
+   "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias e inundaciones en Piura",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0ZRMnFsdmR2R3RNRGNUV1pPRU1HNGk3S0NySkQwdmRFZ3J4MUstaWRCTDdPQzNDN2hORVJsaTNVQXN4WHlGWkVMTFFTdUZiODJUM0x6WnN1VDV1b3JTU29aTFZ5cEctYjM1ZktvdDFhTGdtbEN1aE15ZHViN0tqTzZELUNEUm52cjZoVG02RFVRZGRuWkg2SGstNkw0MExYb1FfOHpna2Y3eUUwSWszTTRjMzhZOEhuRUtPbTV3REw?oc=5",
+   "date": "2026-11-27T15:58:42+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
    "id": "579497fcdc4a",
    "title": "Keiko Fujimori suspende su viaje a Colombia por fuertes lluvias en Piura",
    "excerpt": "La mandataria peruana acordó con su par colombiano postergar el encuentro binacional previsto en Barranquilla",
@@ -659,26 +696,6 @@
    "next": null
   },
   {
-   "id": "6bba7f2a6654",
-   "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias e inundaciones en Piura",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1NsNE16Z2xpVGhvOF9vcFZlMUhYc0hjWXlfcy02TmtPc0FLZ3RiRlUyblJBLVJsU1I2aXAxbFdFeng4ajNQUmhOSHl0ZDlRTF9iUmNnNlY4QzBNT0ZBdVJDY2dFR3NFcWlBY0d5cEdUSjVyc2ptOVBOM2w0cENLdzB6YWJQV2RxRHpsQV9xRERQdXV3dmVMcTBrTTRqU0dfcVlTUnUzVjlMWmRwUjBMbXJ3OXRpNEVUcHlCbEhndDgwbFVBcVltNC1iaGdNUQ?oc=5",
-   "date": "2026-11-27T15:42:46+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
    "id": "337e7c1ac528",
    "title": "Keiko Fujimori posterga viaje a Colombia ante la emergencia en Piura por las intensas lluvias e inundaciones",
    "excerpt": "",
@@ -714,8 +731,36 @@
    "next": null
   },
   {
+   "id": "ab8844b0b48a",
+   "title": "Presidenta Fujimori posterga Gabinete Binacional con Colombia por emergencia en Piura",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTHZlZFZEa21aTWZQSjlUeXltSnJ2YndXcmJiTnRWT1A0UmR6UW96LTl4dUt2dklIT2ZXYXVHeE5HbEhJUXlMTGt0NnFfVENPb3RYNC00WXNmSWR1eGZ4MFZ5OUxwNUlHT0JxTXVnR3FncnhDaWJqbHNpWk8tdlAtNjJzWm9tNkdwTTVrcWttYUV0cUFUMXpNTC1EeW9PcE50UW5DVHU4T3NfdEZxQkktSFFha0ZmbXQ1aVJPZFB4cWo?oc=5",
+   "date": "2026-11-27T15:37:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "de536b2dd32e",
    "title": "PCM solicita dejar sin efecto viaje de Keiko Fujimori a Colombia por emergencia en el norte del país",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT015YTkydldCTE9peEVEY2c0Sk9wUm5Nb3FDa2F2Y1YtNTNwSUQ4SExjX09TYUxsdjY4U2p5MnhYWGM4Y0VORGl4dlk2QTR1TUlVY1BnczJ3aDRXWGNJYW05UzY3OGp5NGt2V19fMXo2czRGQVNHRUQtUFhBLXk1bVFuVW5XQTNkb0UwZU9wOG1fTHV1TjVsdlBwdVpfR1R2aXlldWNiYUN6QQ?oc=5",
+   "date": "2026-11-27T15:32:43+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "d9e9dd94965f",
+   "title": "Gobierno suspende viaje de Keiko Fujimori a Colombia por emergencia en el norte del país",
    "excerpt": "",
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT015YTkydldCTE9peEVEY2c0Sk9wUm5Nb3FDa2F2Y1YtNTNwSUQ4SExjX09TYUxsdjY4U2p5MnhYWGM4Y0VORGl4dlk2QTR1TUlVY1BnczJ3aDRXWGNJYW05UzY3OGp5NGt2V19fMXo2czRGQVNHRUQtUFhBLXk1bVFuVW5XQTNkb0UwZU9wOG1fTHV1TjVsdlBwdVpfR1R2aXlldWNiYUN6QQ?oc=5",
@@ -731,6 +776,17 @@
    "source": "El Deber",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
    "date": "2026-11-27T15:22:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "2c4b6c8b8e2f",
+   "title": "Keiko Fujimori se reunirá con el emperador...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
+   "date": "2026-11-27T15:16:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1184,50 +1240,6 @@
    "source": "Gestión",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbDJ2OWJlbVNMVEI0aXhQNEVkUDRQdzZ0OEp1emFPVjQ2dnVOTHJVa293TGhtYWFhcnFXdHpCNEVuV0pMVTNxOHlDaWVWN0I1SjlRcTFNdmlrX0w5YjhuekV2U21ncEUwOUNIak55bzFxSjBRR1FFdmM1TzItaTdXTXlsWGZnaHpBOFZpcWZmNzRXM3NrSzlVWGpKenJaOFVXbXRyU29jWGg1QzY3T3VMU2pHRHFCNUF3Szl3UFIwQ3c4OVRqcFhHMXN3?oc=5",
    "date": "2026-11-26T18:44:26+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c7f06f8a492d",
-   "title": "Presidenta Fujimori: “El Perú está listo para ser la puerta de entrada de inversión global en Sudamérica”",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3NXSS1pZzhWT0hqN3pKUDhKME5ja1dGdWkwbDRJRUF5MGNqVkRtek1XNWFFYWdiWFlGVnBfY2pkVFJKbWtBZmFKRHh6MzhSc0NCcVV0RlJfdzRRMzFqbDJnblgzMDVHZlJaRlZyakl2MEVuTDhOWmxhcWxaRVBQd3RzV1N2dS11a3JjcWRTbE53OUstdWx2ZlV5NXJhbFZCbVVNU0FXdUlDbUR0Q3liZVM0ZjBpU0FFVnNsVHhLelZKSUk?oc=5",
-   "date": "2026-11-26T18:42:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "386f078a3247",
-   "title": "Gobierno de presidenta Fujimori firma adenda que permitirá extender masificación del gas natural",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQkFmYWQtYWVhbWFUWmFjVVRvLVN2WXFTVl9rdExjN3p0T2p4RGtCd0MzM0M3SWI1eVJMUzU4MWs1Y1phamJvLTJBNTBwSE9ycEFHSG82RzVQMEd3dUZlb3A1S1c0WUJJUUNYQXdBVldOS1VYMVdGUlZSM0lfU05Hb1BOUlF3STdsNXBLVzdIVjRyajc0X3pPbV9icm9NYWN5YmJpa0pnV3VjZXRYa1RMOFhzRnJraHBJTnE4NVNsTE4xODFpZFJwTjlOUGI?oc=5",
-   "date": "2026-11-26T18:39:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "75ac40602212",
-   "title": "Keiko Fujimori insta al Congreso a aprobar la Ley MAPE: “Es tiempo de tomar decisiones políticas”",
-   "excerpt": "",
-   "source": "Rumbo Minero",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWdvc3RhT2txRzZoZXpyMDdxWkc1eGJydTlCQlNMenlPWGwyUy15Z2NNZkV1c2JuYlUxVS1Pc3pBLXdSSXBTVkVjQWg0eExZS0l4Ty1iTm9zeFAyZi1QTFp0S1I5T1pkMGhWTVRrUHhKN21Xbk9kdlZJY29XU1AtR0lWbWNvTndBRHhHcG1UM3ltVXBVUkg2TFVsazRnUXZoSjhfbmxSLUx5OWFzOWNYWlRIMU9ucEhZUU9KellvVDFnS0pqUVhRZEtzRExiUQ?oc=5",
-   "date": "2026-11-26T18:37:29+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ed970c7a6f6e",
-   "title": "Keiko Fujimori pide al Congreso que apruebe la Ley MAPE para combatir la minería ilegal",
-   "excerpt": "",
-   "source": "Revista COSAS Perú",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGE3R3dJVGg3TV9od2oyMllwV2N6SkFfaklrY0VQQnBNTzctdkU4QURVd1JVY1hPSmItdnU4MDE2eXdKc1BxZWJsX3VmU25SdFJFSEJCUi1GS2ktZTQ0OTZXU0d3WjlyLTJZUG1FTVhVdXh6RnpKRndabGcyVGVCZWJZanc1QXZPVl9DVWhNNmU0TnBSREgteGJNclI2SGdJQXN6cUxWa084dUhocFdLdTdsQdIBtwFBVV95cUxOTl8wYU1tZmQyOVFWcG1DamJhMW00VHlEUVNTT2lGX3dHSGx3VzhVdjB0MDlVU1dGZmdYQ0ptTHlVWVhWRGtENHR4eENyUjVseURYeFR3aVc3MUlMRHNiV0JDSkNWMGJtYmN1Z1l2b0xLLWdyWUVPd2ZoVnlhYkVKU2o4dVlreC1TcXBGRmpVdWNEenJ6OUpiV0c0WkRoYnA3NUFNOEVSYmdPOVJwWnJHR3oyU0I5SVk?oc=5",
-   "date": "2026-11-26T18:32:25+00:00",
    "state": "posando",
    "place": null,
    "next": null
