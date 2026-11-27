@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:39:30.058439+00:00",
+ "generated_at": "2026-11-27T12:00:53.635713+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Lima",
-   "lat": -12.046,
-   "lng": -77.043,
+   "name": "La Libertad",
+   "lat": -8.112,
+   "lng": -79.029,
    "abroad": false,
-   "city": "Lima"
+   "city": "La Libertad"
   },
-  "source": "Red Uno",
-  "date": "2026-11-27T10:35:31+00:00"
+  "source": "La República",
+  "date": "2026-11-27T11:55:25+00:00"
  },
  "next": {
   "place": {
@@ -397,6 +397,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "2f431fd97d46",
+   "title": "Gobierno de Keiko Fujimori nombró a 26 afiliados a Fuerza Popular como subprefectos el en Perú",
+   "excerpt": "Las designaciones incluyen a subprefectos en La Libertad, Pasco, Cajamarca y Arequipa. Los nombramientos los realizó el Ministerio del Interior a través de una serie de resoluciones directoriales.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/26/gobierno-de-keiko-fujimori-nombro-a-26-afiliados-a-fuerza-popular-como-subprefectos-el-en-peru-hnews-2296528",
+   "date": "2026-11-27T11:55:25+00:00",
+   "state": "posando",
+   "place": {
+    "name": "La Libertad",
+    "lat": -8.112,
+    "lng": -79.029,
+    "abroad": false,
+    "city": "La Libertad"
+   },
+   "next": null
+  },
+  {
+   "id": "620c24f5db08",
+   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
+   "date": "2026-11-27T11:53:05+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "04f3c5247240",
    "title": "Pleno del Senado evaluará este viernes el pedido de Keiko Fujimori para viajar a Colombia",
    "excerpt": "La sesión del Pleno del Senado está programada para las 10 a. m. de este viernes 27 de noviembre. El primer vicepresidente, Alejandro Muñante, será el encargado de dirigir el…",
@@ -422,17 +450,6 @@
     "abroad": false,
     "city": "Lima"
    },
-   "next": null
-  },
-  {
-   "id": "620c24f5db08",
-   "title": "Presidenta Keiko Fujimori invoca al Congreso a debatir y aprobar la Ley MAPE",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeXBDTUFCMEVsakNpRGJVWko1Z2pQczNsNzB0VFVIckVlc19Cck5jVUJjSkdaSWo5eUIyYnhxYXU0VzNMb3hIUEFtWXpoSzIyeUNfWE96b1QwTDYyUXVYQnRSUFhiNEpfMEpNYlBsbDQzVFJiTUdkZzMwQ2pDZEZabWJSR1VFZklUa2F4bC1kVjZSaEhlTjVwcWo1WmJLWll0aXNCV0F4WmkzaTNBN2ZEb185cjdIQ0J5MmZrLQ?oc=5",
-   "date": "2026-11-27T10:13:16+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -639,23 +656,6 @@
    "date": "2026-11-26T20:57:52+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "2f431fd97d46",
-   "title": "Gobierno de Keiko Fujimori nombró a 26 afiliados a Fuerza Popular como subprefectos el en Perú",
-   "excerpt": "Las designaciones incluyen a subprefectos en La Libertad, Pasco, Cajamarca y Arequipa. Los nombramientos los realizó el Ministerio del Interior a través de una serie de resoluciones directoriales.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/26/gobierno-de-keiko-fujimori-nombro-a-26-afiliados-a-fuerza-popular-como-subprefectos-el-en-peru-hnews-2296528",
-   "date": "2026-11-26T20:49:47+00:00",
-   "state": "posando",
-   "place": {
-    "name": "La Libertad",
-    "lat": -8.112,
-    "lng": -79.029,
-    "abroad": false,
-    "city": "La Libertad"
-   },
    "next": null
   },
   {
