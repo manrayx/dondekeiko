@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T05:57:21.170731+00:00",
+ "generated_at": "2026-11-27T06:18:44.518618+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -1083,17 +1083,6 @@
    }
   },
   {
-   "id": "12adb28c8338",
-   "title": "Presidenta Keiko Fujimori fue recibida en audiencia por su majestad el emperador Naruhito",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3lfbE1EdDRua3dQOXZyY3ZZdzFiWWRDUTBWTXlTYUlIUEpFX2d0N3dTLXZqbWtMSzNUWENLRGhGVFJsMDZRUGF4VzhZN1pSSUYyMGlieHZPd0JXUzNFc21QYW9hYVg3dnBjYmpFZTBVRjJEU08yLUhvcDhOc1cwdGpOMXlCVWxGczROOUZYYlQ0NkZzQzR2R3VwYjFySzhQVzMzM3Q5VGZOVjlBWUtBRFJ2Q0FaWTl2cFcyalY2ZWhQUQ?oc=5",
-   "date": "2026-11-26T15:14:32+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "c50ce6b5f357",
    "title": "Keiko Fujimori llega a Cusco para viabilizar proyecto de masificación de gas natural en 7 regiones y participar en Cade Ejecutivos 2026",
    "excerpt": "",
@@ -1108,6 +1097,17 @@
     "abroad": false,
     "city": "Cusco"
    },
+   "next": null
+  },
+  {
+   "id": "e3f5c3619bf0",
+   "title": "Empresarios peruanos muestran inusual confianza en el gobierno de Fujimori",
+   "excerpt": "",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2dCQ3JuV00yMVZYZXlLQzQwRXdvVEp1WEo5QjIySVdRZXg2dlYtUmljN3dyeWNHNnFwd2NuQS1Ka3FNS1kwQjJYc3oydUotQVdnZXpONFlTWDJDMzl0VElyTDNGaHRvMGpULUNSRzhxVnRJZk1FWmhETm50V0ZxTS1vS3BrU0hXYWlJTjhReWdrLUNkeW1jX1FkT19TbFVwbmlNX0JXRnk?oc=5",
+   "date": "2026-11-26T14:57:02+00:00",
+   "state": "posando",
+   "place": null,
    "next": null
   }
  ],
