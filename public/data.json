@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T16:16:46.120199+00:00",
+ "generated_at": "2026-11-27T16:38:30.380483+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,14 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Palacio de Gobierno",
-   "city": null,
-   "lat": -12.04491,
-   "lng": -77.0298,
-   "abroad": false
+   "name": "Piura",
+   "lat": -5.194,
+   "lng": -80.632,
+   "abroad": false,
+   "city": "Piura"
   },
   "source": "El Comercio",
-  "date": "2026-11-27T16:14:59+00:00"
+  "date": "2026-11-27T16:27:07+00:00"
  },
  "next": {
   "place": {
@@ -111,8 +111,8 @@
    "abroad": true
   },
   "source": "El Comercio",
-  "date": "2026-11-27T16:10:58+00:00",
-  "title": "Keiko Fujimori posterga viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
+  "date": "2026-11-27T16:27:07+00:00",
+  "title": "Keiko Fujimori suspende viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
   "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/"
  },
  "counts_7d": {
@@ -120,8 +120,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 2,
-  "posando": 58
+  "triste": 1,
+  "posando": 59
  },
  "total_7d": 60,
  "silence": {
@@ -413,6 +413,43 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1095e00f21ca",
+   "title": "Keiko Fujimori suspende viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
+   "excerpt": "",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/",
+   "date": "2026-11-27T16:27:07+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
+  },
+  {
+   "id": "2674489dd5e6",
+   "title": "Presidenta Keiko Fujimori recibió al mandatario boliviano, Rodrigo Paz en Palacio de Gobierno",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMzYyLVNBUVplMHk5S2lmQ2lnQ2Etc2c1aTFhRWRrX3ZIOExuXy1nenktR3lueHg4NzN4U1AyWkJQbDUwNi1sYldDSVFxV05nOGdhQmFNOGdSN29leG9DbjBVenNvRGFnZGJTczBIUXVpRmRRZVJKbFEwTDhWVEdqOVZZeDV3Z3pkMUc2VktMLXM2bkltbGxELWFZZVpZVG5zWm00NDFIQnVkUW5CRjh1YlJWa2FXN2ZOZl9sUFVFcURhWEM3M3c3MG5lZw?oc=5",
+   "date": "2026-11-27T16:27:01+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
+   },
+   "next": null
+  },
+  {
    "id": "03ec49a80629",
    "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
    "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
@@ -428,6 +465,20 @@
     "abroad": false
    },
    "next": null
+  },
+  {
+   "id": "1407adbc33c7",
+   "title": "Keiko Fujimori posterga viaje a Colombia ante...",
+   "excerpt": "",
+   "source": "Panamericana TV",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMzJ1MEZZVHM5anFqRUxiS3ZuUG9xcXhHeUtGYW5uYkg5NWZESnJnXzNyS2JUSTBiOFNScVZoMGk1Z2N5bTR3UnZpUFRtUm44c3lkZ0p3MzJTaFRqTEdOdng2dDNZd2Fia1dxUy1XYWZjOG5GdHBxdU5XTy1OZG56NG9pZzc5ektrdjBwa0ZxSVI5ZWUzcGxDQzVPU3JucnU4TDVhMElFRjlMYnBOTFhvUW1BaDJHazjSAbwBQVVfeXFMT0Z1RUlwNmctQXhzODY0NjBEX1Rhc21OSC1WR1RPa05hSUVYSDFPQ1ctbmlUNUkxTV9kQVVXOHhSVDcycDU4WVNhVUxyb3JBRExsVFdUeDVOaFlnbkxFdl9veEJpd2JUd1lYU09MYWloMC1SY2w3ZWYxN3RMVWRvemFQVTEyeWlYNFFoSGRZQy1HRDVHMmhvQUhUWjh3RkF1Y3VEMGJ0ZmFCSTVwMWlqMnVkZjJqb2VSX0JfU0k?oc=5",
+   "date": "2026-11-27T16:12:06+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
   },
   {
    "id": "6c573124de47",
@@ -454,7 +505,7 @@
    "title": "Presidenta Keiko Fujimori posterga su viaje a Colombia ante emergencia por lluvias en Piura",
    "excerpt": "",
    "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdWhLMUdsQVFDNGlkX1V6cVBvSTIxRlBxRTNzcHFna3I2WDNfYTBlZkl2UlVnQkxTRjZENnVTOVQzUlFEanZ4ZXYzYXZvUng2WDNnS25ZZmJ2am15R0pXSHkzMjNKVURrb1pQR0dZNDlWbFA2Z0t3MXdjMUpOZHgtT1JESWZza1luMUVPUDc5SW9PaFhNU2lQLWZqSVRUeFVnMDZaMEFYcVpFenpzY1lRdlZuRFItWmVDWDEzVUN3dXdpQXktUXFVX0N2UXZSd9IB4gFBVV95cUxPSFVFS0pmSUFadU9BZFdTeWFDMnc5ZnFZNXFQNlMwOFlwbjVjOFJMTl9aWFo4bTdmYUJta0NkbVFpR1liT3dDSXVDektUQktYVVViLVJGSzFlVWppNXpjRmhXbDl2cDYxMGhPejY2amdnUzRYa25WR2lPdm5EeWtaM3R0YXA5eXQwd1VmZWdPM0poS0Itcm9pQ1ZBMGdJZ1hkbWY4RENpai0wSV9SN1Y0dHNvLXEwdmw1aGVTQWpna0pmTEZNcVoyU3d0a2E2N3FXMW9nQlBxR21ZdzhQeXpUMlB3?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdWhLMUdsQVFDNGlkX1V6cVBvSTIxRlBxRTNzcHFna3I2WDNfYTBlZkl2UlVnQkxTRjZENnVTOVQzUlFEanZ4ZXYzYXZvUng2WDNnS25ZZmJ2am15R0pXSHkzMjNKVURrb1pQR0dZNDlWbFA2Z0t3MXdjMUpOZHgtT1JESWZza1luMUVPUDc5SW9PaFhNU2lQLWZqSVRUeFVnMDZaMEFYcVpFenpzY1lRdlZuRFItWmVDWDEzVUN3dXdpQXktUXFVX0N2UXZSdw?oc=5",
    "date": "2026-11-27T16:06:56+00:00",
    "state": "posando",
    "place": {
@@ -646,6 +697,21 @@
     "name": "Colombia",
     "abroad": true
    }
+  },
+  {
+   "id": "dab701ba694a",
+   "title": "Keiko Fujimori posterga encuentro presidencial en Colombia por emergencia en Piura",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnFWYmllQlJJXzgyek4zOE03ZnpKdFlFNl9ZQjZyb1BLSlRObW5zVk8yY0k1Ty1SREVwVklzV0xVUDBPZlo2UVJUMmpJVFdHaFYxS3J3c1NncHRxVW1kRm56cXhMbjV6NW9iQUF3VEFvNW02WVdZYTNhUjU0OXlEdHFMOWxRRGFjY3BkUEVJdS1GMlFkdWIwQ1hn?oc=5",
+   "date": "2026-11-27T15:40:59+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Colombia",
+    "abroad": true,
+    "city": "Colombia"
+   },
+   "next": null
   },
   {
    "id": "de536b2dd32e",
@@ -1162,50 +1228,6 @@
    "source": "Revista COSAS Perú",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGE3R3dJVGg3TV9od2oyMllwV2N6SkFfaklrY0VQQnBNTzctdkU4QURVd1JVY1hPSmItdnU4MDE2eXdKc1BxZWJsX3VmU25SdFJFSEJCUi1GS2ktZTQ0OTZXU0d3WjlyLTJZUG1FTVhVdXh6RnpKRndabGcyVGVCZWJZanc1QXZPVl9DVWhNNmU0TnBSREgteGJNclI2SGdJQXN6cUxWa084dUhocFdLdTdsQdIBtwFBVV95cUxOTl8wYU1tZmQyOVFWcG1DamJhMW00VHlEUVNTT2lGX3dHSGx3VzhVdjB0MDlVU1dGZmdYQ0ptTHlVWVhWRGtENHR4eENyUjVseURYeFR3aVc3MUlMRHNiV0JDSkNWMGJtYmN1Z1l2b0xLLWdyWUVPd2ZoVnlhYkVKU2o4dVlreC1TcXBGRmpVdWNEenJ6OUpiV0c0WkRoYnA3NUFNOEVSYmdPOVJwWnJHR3oyU0I5SVk?oc=5",
    "date": "2026-11-26T18:32:25+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "282a134e52cf",
-   "title": "Fujimori sobre críticas a la adenda por Cálidda: “No esperé 15 años para tener los brazos cruzados. O cambias las cosas o siguen igual”",
-   "excerpt": "La presidenta defendió el acuerdo para ampliar la concesión de gas natural a siete regiones del país y aseguró que permitirá conectar a más de 300.000 hogares. Además, anunció que…",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/26/keiko-fujimori-sobre-criticas-a-la-adenda-por-calidda-no-espere-15-anos-para-tener-los-brazos-cruzados-o-cambias-las-cosas-o-siguen-igual-hnews-379054",
-   "date": "2026-11-26T18:32:10+00:00",
-   "state": "triste",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "1722297f5a4d",
-   "title": "Keiko Fujimori espera que el Congreso apruebe la ley MAPE y evita pronunciarse sobre una cuestión de confianza",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQzZac0YzYUJMZi1pWldYVldjVmI5TlNaSUg1TC1zZ0pZTmtua2k2aVdrLXNxZkVjOUREd0FRczdXRnhLZ25yTWs3bHg0RC1CcE1RQlBuQndUV3p6ZXZzdlN2Sld3LWllaEhpdkQ2blRsOEQ3Sl9WRjBla2JGYi1ycEx2Wkp5d1pHNENQdWhIb21PMVNOSWVNLXB0cXctQkt0WEozU2pueEpYaXlVZHlIaTBlamZkZ2t0QmtkNUp0b2d4elhOVE9CY3BrbUYwVms?oc=5",
-   "date": "2026-11-26T18:27:40+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "e3867055e993",
-   "title": "CADE Ejecutivos 2026: Presidenta Keiko Fujimori reafirma compromiso con la inversión y el crecimiento",
-   "excerpt": "",
-   "source": "IPAE - Acción Empresarial",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQME9GLVBYcEZVU1ZQUlNRTmthYXFnS1B3NkNZbV9CVkV2N3Nsb0JEWGM4U05yRlZoVXNXT1lpSnNabU0yQVdSZFJnQXNRYmFpVjUxMWFJWVJPTkdGeGF3amdtZW1GSF9mMmx3NFdWbHZ5TVg3VXR5dkFOWWQ1V29HVlR1dkV2RTl2R0l6V3dHeG1SYzQ5UnZsZEhwUHpYVmI3UV9QbGNadGktUUVlay1aRE5MUlMwMEV5ZERpMDBR?oc=5",
-   "date": "2026-11-26T18:26:15+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "340d12deeffa",
-   "title": "Keiko Fujimori pide aprobar el proyecto del Gobierno sobre Ley MAPE: \"Quiero confiar en la buena actitud del Congreso\"",
-   "excerpt": "",
-   "source": "https://geniostv.pe/",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYWtZZ0pLbXViU2YzMVV4TnBoZ2ttNVd2N3VJdUNSOVF3R1VyVUVVY0FUVTJaekZVSnE1ejNIb3kzZmVLQXVyVDEtSGNGRDhldjBlbTNFSzktaFU5WERrYkttS2lWbm1KemFPSkVwdHZRcVVaZHdIWVZYdjJERV8tanVXbkUwZnBRUnpGcDFhbUtsbVlDQWtqeExxQTBiRS1KLXRmaTAtcWxYVnpyMmhSOTFlM3ZKZElHcF9DWUc2VTV4bVBiU1JUdzZXUksydi1jSmUtVnFkVGotYlZMblZEVXRfZUVTNVR6Q013?oc=5",
-   "date": "2026-11-26T18:16:13+00:00",
    "state": "posando",
    "place": null,
    "next": null
