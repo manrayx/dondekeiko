@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T09:06:44.900469+00:00",
+ "generated_at": "2026-11-28T09:27:53.302694+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "RPP",
-  "date": "2026-11-28T05:01:04+00:00"
+  "source": "www.apnoticias.pe",
+  "date": "2026-11-28T07:11:12+00:00"
  },
  "next": {
   "place": {
@@ -337,6 +337,23 @@
    "date": "2026-11-28T08:55:23+00:00",
    "state": "posando",
    "place": null,
+   "next": null
+  },
+  {
+   "id": "5bfb30e5247a",
+   "title": "Keiko Fujimori llega a Piura en medio de fuertes lluvias por segunda noche consecutiva | El Comercio",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObExZcXhxV2xmRFFQMHdsM0k3TmlDOURURHFMOGQ0blE1eUp2OFZia1d3SmRFdEMtbkJySlotOElFRzlJX0RTYW0tek1CUjNfRTdhT29ZV2VTeFpDZEd1dTAtYmZyQ01EUWFoV2FNSHI4dmlxMTlEZmhWOXdLdm8ySGRsbE92THRoQ21FM3ZJZExzYXVPd2w0dElfYjhVTS1vTnVicWpXVk16WjN2ejNtYXRHc1E5WUVmbGZ6WWtpSTdTX3dxX3lMdzlGZlNUMTkxMUM4?oc=5",
+   "date": "2026-11-28T07:11:12+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
    "next": null
   },
   {
@@ -1127,17 +1144,6 @@
    "source": "Perú21",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2c1TlZJVGluamJXcjlONUFrcWxodm8wRjJYU2c3Y3hFcUlFbzRqSTh3QU5ZV1pfSHhUaTN5aWE5WUdHSDk5NXcyekNtT1Y1NVg4WTJfY1RTUVB4VG1NcHU5TTZtWS1heTVrSUoydXZya041dWtYLUpXWHVQZGRBU3lFQ3Job0pDbzlHaHNrUXZtdzdlYVRJaHNacmJQbnM?oc=5",
    "date": "2026-11-27T17:38:10+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "ff4b437188bc",
-   "title": "Keiko Fujimori agradece a Bolivia por captura y deportación de alias ‘Johnson Pulpo’",
-   "excerpt": "",
-   "source": "Canal N",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEloVWxzYjAtODhnbDVMckNhdHBjRkRtRzBxa1Jxelp0SlhNWFBxRnowOWVhTjhwYlhCcGxTVGt1bDRldllaOVZ4bkotN0Z2WXdNUGFGcHRJOTNNdmZFWHh0SWV5TnotenBlOG9HT0FuYmN5TDFTY0lWUThyelJzWHJLT2J0TDE5TS1KSXNaTHNGUWlSQlBUaUpacEhFZU1IVUdSeWdpejZtc19sVWhB?oc=5",
-   "date": "2026-11-27T17:27:43+00:00",
    "state": "posando",
    "place": null,
    "next": null
