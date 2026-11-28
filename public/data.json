@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T06:14:45.856852+00:00",
+ "generated_at": "2026-11-28T06:57:51.793901+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -329,6 +329,17 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "79a5158470ea",
+   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
+   "date": "2026-11-28T06:45:16+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "b638a8dfbf72",
    "title": "La gente no lo sabe",
    "excerpt": "La presidenta Keiko Fujimori aprovechó CADE para hacer un discurso de compromiso claro con el cambio, con la reforma del Estado para resolver los problemas de los peruanos y dar…",
@@ -514,17 +525,6 @@
    "next": null
   },
   {
-   "id": "79a5158470ea",
-   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
-   "date": "2026-11-28T02:55:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "dd188524682d",
    "title": "Keiko Fujimori llega a Piura en medio de fuertes lluvias y plantea entregar bonos a familias damnificadas",
    "excerpt": "",
@@ -624,6 +624,28 @@
    "next": null
   },
   {
+   "id": "9c77f952aae4",
+   "title": "Presidenta Keiko Fujimori y su homólogo de Bolivia, Rodrigo Paz lideran Encuentro Presidencial y VII Gabinete Binacional",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0JQbUFYaW44SXU4aHprYkZGMldxRjIxZlViM1pmbkFfZ2p3enZpOTY1UWR4T2ttQjhWdS1RUjA4bVE2VWtrSkhUZklBek5mQkpqMGZ3NUtndk9xX1BrRHFRVFcwRDFVV21pZ0hPSEgyWUZwOHJJMGR5T1ltMXlCU0ZVY1loRFhZY1h3REhrVFoxSXJaTE1vZExrMG1WWHB0alZXZ1FQU0ZSdEpSOVp3U3BXT2wybVNYV0JjbTM5N3hiQQ?oc=5",
+   "date": "2026-11-28T01:41:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "544bacbeffb4",
+   "title": "Presidenta Keiko Fujimori despide al mandatario de Bolivia, Rodrigo Paz, tras encuentro bilateral",
+   "excerpt": "",
+   "source": "www.apnoticias.pe",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWFpaYmc5blRQeks0MTF5Y2pmbjl5Vld6NHltcHpXNFI1WEQtUmFuOTB2QV9kalRFSjh3UkNud3F6ZUtaeHNjSHR5aGNhTDh4MUxoR2pGdDNaWmtDbDNlQTJjOWptRzV0Y2RhZkltT3hWck96LTV1dFV3UWpfNEI4czVmbjFZc3pXX1U3c0NNeS02cWtZNHNRck92cnJ5clk4a3pWOE02YjFmMjNpOHdzRnVxMS1vVHlTMUtGMnE0ZE1iVEhsRXF1a19GcGZzZzQ?oc=5",
+   "date": "2026-11-28T01:40:45+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0b165c5022bb",
    "title": "Keiko Fujimori viajará a Piura para atender emergencia por lluvias",
    "excerpt": "",
@@ -665,17 +687,6 @@
     "abroad": false,
     "city": "Piura"
    },
-   "next": null
-  },
-  {
-   "id": "9c77f952aae4",
-   "title": "Presidenta Keiko Fujimori y su homólogo de Bolivia, Rodrigo Paz lideran Encuentro Presidencial y VII Gabinete Binacional",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0JQbUFYaW44SXU4aHprYkZGMldxRjIxZlViM1pmbkFfZ2p3enZpOTY1UWR4T2ttQjhWdS1RUjA4bVE2VWtrSkhUZklBek5mQkpqMGZ3NUtndk9xX1BrRHFRVFcwRDFVV21pZ0hPSEgyWUZwOHJJMGR5T1ltMXlCU0ZVY1loRFhZY1h3REhrVFoxSXJaTE1vZExrMG1WWHB0alZXZ1FQU0ZSdEpSOVp3U3BXT2wybVNYV0JjbTM5N3hiQQ?oc=5",
-   "date": "2026-11-28T00:01:00+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   },
   {
@@ -1123,17 +1134,6 @@
     "lng": -77.0298,
     "abroad": false
    },
-   "next": null
-  },
-  {
-   "id": "641d14d3d3f0",
-   "title": "Perú: gobierno de Keiko Fujimori rechaza medidas para proteger a pueblos indígenas en aislamiento",
-   "excerpt": "",
-   "source": "Mongabay Latam",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHY4cUFtZ2VIVGpqLWVGNHlpSFlLTUtuV1Q3aHQxa2ZTSHhEMl92enAtSU5TYmQ3M1F2N3hfRU5nbkVNMWoxbEVEYzNScHVGUFBmR253aFcwTkFvUWVIUjJUbjBJWThhUGh3QWtMWHFUZzRVaXYyV21CYzUtN2taSmFOZC1fUURpSjBueEdjY1RzSUhlbFg0NlJiSUdmamFJc2FzbjRHMHh2ZEFRYVlnX0Z6T1hLMnM?oc=5",
-   "date": "2026-11-27T16:52:03+00:00",
-   "state": "posando",
-   "place": null,
    "next": null
   }
  ],
