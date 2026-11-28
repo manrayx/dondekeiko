@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T06:57:51.793901+00:00",
+ "generated_at": "2026-11-28T07:19:00.534682+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -418,23 +418,6 @@
    "next": null
   },
   {
-   "id": "8d90e08bee6d",
-   "title": "Presidenta Fujimori llegó a Piura para atender emergencias por lluvias",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEx4SVR0RWE0bnV6Y05LTjdrczNvdm1CZlJ5cVhvNXlUSzVkX3RsazA4SllhVmRGNDdtWFJYYU1uUDdQR0tFdkUxQUZsSm5DYWxJTkU3cXZpZTNZeU1ja1V2WFo0LXVNTmZ4aEw4Qi1MNVNDRXN2NUFkNldyLV9oSmI5ZzEySXM4UVpseWpmbGxBaXduZENhaGozYm0?oc=5",
-   "date": "2026-11-28T03:33:45+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": null
-  },
-  {
    "id": "c33ec3aaa8ce",
    "title": "Fujimori llega a Piura tras lluvias extremas y anuncia bonos para damnificados: “Es realmente un meganiño”",
    "excerpt": "La presidenta Keiko Fujimori llegó a Piura para supervisar la emergencia por las lluvias extremas y anunció bonos para las familias damnificadas, pero estos aún están en planificación.",
@@ -594,6 +577,23 @@
     "name": "Colombia",
     "abroad": true
    }
+  },
+  {
+   "id": "8d90e08bee6d",
+   "title": "Presidenta Fujimori llegó a Piura para atender emergencias por lluvias",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEx4SVR0RWE0bnV6Y05LTjdrczNvdm1CZlJ5cVhvNXlUSzVkX3RsazA4SllhVmRGNDdtWFJYYU1uUDdQR0tFdkUxQUZsSm5DYWxJTkU3cXZpZTNZeU1ja1V2WFo0LXVNTmZ4aEw4Qi1MNVNDRXN2NUFkNldyLV9oSmI5ZzEySXM4UVpseWpmbGxBaXduZENhaGozYm0?oc=5",
+   "date": "2026-11-28T02:04:24+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
   },
   {
    "id": "82014aa97cbf",
