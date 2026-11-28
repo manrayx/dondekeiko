@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T14:28:16.903829+00:00",
+ "generated_at": "2026-11-28T15:11:23.926218+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -398,6 +398,23 @@
    "next": null
   },
   {
+   "id": "155cf34ed6b9",
+   "title": "Lluvias en Piura: presidenta Fujimori llega a la región para supervisar atención de emergencias",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXpIUUttNUpxejdLSVplQTdwbXVBNG85SFBLYzE3R0hzRm9jYWFxVFd2ZUY5RGs1NmVNVmVERThneW10T2VycFlJNlBtaWt1dUg1ZlZZRkpLLWRvQUJXVHA4SFQ0b2RrZVFLd2pfSktDZnN0akNsX21CNGs5UkJYdXkybDNiWXJua2RocHcwcHNwN0RZQVd3SmdFWEowc2FaYm15MURNQTBYZGtFYUcwV0RoNmtBQlRBN3dkVEJPY0VrQQ?oc=5",
+   "date": "2026-11-28T12:28:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "340c2fd568ad",
    "title": "Gobierno ya tiene claro los 53 terrenos que posee para realizar megaproyectos de vivienda",
    "excerpt": "Fondo Mivivienda señaló que su meta para este periodo de gobierno de Keiko Fujimori será de 1 millón 250 mil hogares",
@@ -779,23 +796,6 @@
    "date": "2026-11-28T01:41:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "155cf34ed6b9",
-   "title": "Lluvias en Piura: presidenta Fujimori llega a la región para supervisar atención de emergencias",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXpIUUttNUpxejdLSVplQTdwbXVBNG85SFBLYzE3R0hzRm9jYWFxVFd2ZUY5RGs1NmVNVmVERThneW10T2VycFlJNlBtaWt1dUg1ZlZZRkpLLWRvQUJXVHA4SFQ0b2RrZVFLd2pfSktDZnN0akNsX21CNGs5UkJYdXkybDNiWXJua2RocHcwcHNwN0RZQVd3SmdFWEowc2FaYm15MURNQTBYZGtFYUcwV0RoNmtBQlRBN3dkVEJPY0VrQQ?oc=5",
-   "date": "2026-11-28T01:41:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
    "next": null
   },
   {
