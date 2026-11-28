@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:27:30.254201+00:00",
+ "generated_at": "2026-11-28T05:10:30.765969+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "El Peruano",
-  "date": "2026-11-28T04:15:00+00:00"
+  "source": "RPP",
+  "date": "2026-11-28T05:01:04+00:00"
  },
  "next": {
   "place": {
@@ -325,191 +325,39 @@
     "abroad": false,
     "approx": true
    }
-  },
-  {
-   "start": "2026-11-20T22:19:00-05:00",
-   "end": "2026-11-20T22:49:00-05:00",
-   "minutes": 30,
-   "subject": "Presentación de Jolín Bazán Valderrama, alias ‘Jolín’, presunto cabecilla de la organización criminal ‘La Nueva Jauría’.",
-   "lugar": "Dirección de Aviación Policial, Callao",
-   "state": "posando",
-   "place": {
-    "name": "Dirección de Aviación Policial",
-    "full": "Dirección de Aviación Policial, Callao",
-    "city": "Callao",
-    "lat": -12.02823,
-    "lng": -77.10499,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-20T13:02:00-05:00",
-   "end": "2026-11-20T13:23:00-05:00",
-   "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
-   "lugar": "Desde la PCM",
-   "state": "entrevista",
-   "place": {
-    "name": "Desde la PCM",
-    "full": "Desde la PCM",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-11-20T12:40:00-05:00",
-   "end": "2026-11-20T13:07:00-05:00",
-   "minutes": 27,
-   "subject": "Entrevista con el conductor de Tú tienes la palabra, Joel Quezada.",
-   "lugar": "Conexión desde la PCM, Cercado de Lima",
-   "state": "entrevista",
-   "place": {
-    "name": "Conexión desde la PCM",
-    "full": "Conexión desde la PCM, Cercado de Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-20T11:37:00-05:00",
-   "end": "2026-11-20T12:36:00-05:00",
-   "minutes": 59,
-   "subject": "Entrevista con el conductor de #BaellaTalks, Alfonso Baella Herrera.",
-   "lugar": "Sala Quiñonez de la PCM, Cercado de Lima",
-   "state": "entrevista",
-   "place": {
-    "name": "Sala Quiñonez de la PCM",
-    "full": "Sala Quiñonez de la PCM, Cercado de Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-20T11:18:00-05:00",
-   "end": "2026-11-20T12:43:00-05:00",
-   "minutes": 85,
-   "subject": "Reunión de comunicadores de instituciones pública.",
-   "lugar": "Colegio de Ingenieros de Lima, Miraflores",
-   "state": "posando",
-   "place": {
-    "name": "Colegio de Ingenieros de Lima",
-    "full": "Colegio de Ingenieros de Lima, Miraflores",
-    "city": "Lima",
-    "lat": -12.1151,
-    "lng": -77.02934,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-20T10:40:00-05:00",
-   "end": "2026-11-20T10:48:00-05:00",
-   "minutes": 8,
-   "subject": "Entrevista con reportero de Tv Perú.",
-   "lugar": "San Borja",
-   "state": "entrevista",
-   "place": {
-    "name": "San Borja",
-    "full": "San Borja",
-    "city": null,
-    "lat": -12.09645,
-    "lng": -76.99569,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-20T10:05:00-05:00",
-   "end": "2026-11-20T10:38:00-05:00",
-   "minutes": 33,
-   "subject": "Asiste a evento por el 34.º aniversario del Indecopi, “Indecopi 34 años: evolución, desafíos y futuro”.",
-   "lugar": "Auditorio del Indecopi, San Borja",
-   "state": "posando",
-   "place": {
-    "name": "Auditorio del Indecopi",
-    "full": "Auditorio del Indecopi, San Borja",
-    "city": null,
-    "lat": -12.08546,
-    "lng": -77.00787,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-20T08:18:00-05:00",
-   "end": "2026-11-20T08:47:00-05:00",
-   "minutes": 29,
-   "subject": "Entrevista con la conductora de Primera Hora, María Fernanda Montenegro.",
-   "lugar": "Estudio de Tv Perú, Santa Beatriz, Cercado de Lima",
-   "state": "entrevista",
-   "place": {
-    "name": "Estudio de Tv Perú",
-    "full": "Estudio de Tv Perú, Santa Beatriz, Cercado de Lima",
-    "city": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false
-   }
-  },
-  {
-   "start": "2026-11-20T08:00:00-05:00",
-   "end": "2026-11-20T08:15:00-05:00",
-   "minutes": 15,
-   "subject": "Entrevista telefónica con Nicolás Lúcar, conductor del programa: Hablemos Claro de Exitosa.",
-   "lugar": "Desde la PCM",
-   "state": "entrevista",
-   "place": {
-    "name": "Desde la PCM",
-    "full": "Desde la PCM",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-11-20T07:35:00-05:00",
-   "end": "2026-11-20T07:50:00-05:00",
-   "minutes": 15,
-   "subject": "Entrevista telefónica con Melissa Peschiera, conductora del programa: Mañanas al día de canal N.",
-   "lugar": "Desde la PCM",
-   "state": "entrevista",
-   "place": {
-    "name": "Desde la PCM",
-    "full": "Desde la PCM",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
-  },
-  {
-   "start": "2026-11-20T07:15:00-05:00",
-   "end": "2026-11-20T07:30:00-05:00",
-   "minutes": 15,
-   "subject": "Entrevista telefónica con Carlos Villarreal y Johana Castro, conductores del programa la Rotativa del Aire de RPP.",
-   "lugar": "Desde la PCM",
-   "state": "entrevista",
-   "place": {
-    "name": "Desde la PCM",
-    "full": "Desde la PCM",
-    "city": null,
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "approx": true
-   }
   }
  ],
- "agenda_minutes_7d": 765,
+ "agenda_minutes_7d": 428,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "78b4497cded9",
+   "title": "Keiko Fujimori llegó a Piura para supervisar las labores de emergencia por las fuertes luvias en la región [VIDEO]",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdWk0czh2RUhVQ29CTkp0UFpWWnc4bnhvSnBlamtkSE1QMTdRTzNNUjBaaDgzVDJuRVJjSjBNZTJFbl9XeV9BbVRleXRlSmNJXzVqRDJ0Q183QzZCQmhXS1RWTWVnMVpvTHVFOE9zWDVtQ3lMYmNMQ0dMTjRaaF9wQmh3VFhYM3Q3OHIzcEE3OFh2dUtEZjlMRk1FS1docFpQWEs3QjlEbmlWRVJfdm1rWmpRM1pWTldQVjZ1VXRlM1g4Z3VITjA1ZWExd2xJYXBfM0VjMFJac1VVRWJ0VkVvRUpfcU9HWEl6UkE?oc=5",
+   "date": "2026-11-28T05:01:04+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "560971f5528a",
+   "title": "Perú y Bolivia retoman gabinetes binacionales tras cinco años: ¿qué acuerdos suscribieron Keiko Fujimori y Rodrigo Paz?",
+   "excerpt": "Keiko Fujimori y Rodrigo Paz encabezaron el Encuentro Presidencial y VII Gabinete Binacional Perú-Bolivia.",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/politica/peru-y-bolivia-retoman-gabinetes-binacionales-tras-cinco-anos-que-acuerdos-suscribieron-keiko-fujimori-y-rodrigo-paz-noticia/",
+   "date": "2026-11-28T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "83c3893fcf55",
    "title": "Presidenta Keiko Fujimori llegó a Piura para supervisar acciones del Gobierno frente a las lluvias",
@@ -687,23 +535,6 @@
    "url": "https://www.infobae.com/peru/2026/11/26/piura-bajo-agua-lluvias-extremas-inundan-el-centro-de-la-ciudad-y-activan-quebradas/",
    "date": "2026-11-28T02:49:36+00:00",
    "state": "transmitiendo",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": null
-  },
-  {
-   "id": "78b4497cded9",
-   "title": "Keiko Fujimori llegó a Piura para supervisar las labores de emergencia por las fuertes luvias en la región [VIDEO]",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdWk0czh2RUhVQ29CTkp0UFpWWnc4bnhvSnBlamtkSE1QMTdRTzNNUjBaaDgzVDJuRVJjSjBNZTJFbl9XeV9BbVRleXRlSmNJXzVqRDJ0Q183QzZCQmhXS1RWTWVnMVpvTHVFOE9zWDVtQ3lMYmNMQ0dMTjRaaF9wQmh3VFhYM3Q3OHIzcEE3OFh2dUtEZjlMRk1FS1docFpQWEs3QjlEbmlWRVJfdm1rWmpRM1pWTldQVjZ1VXRlM1g4Z3VITjA1ZWExd2xJYXBfM0VjMFJac1VVRWJ0VkVvRUpfcU9HWEl6UkE?oc=5",
-   "date": "2026-11-28T02:32:12+00:00",
-   "state": "posando",
    "place": {
     "name": "Piura",
     "lat": -5.194,
@@ -1306,26 +1137,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/",
    "date": "2026-11-27T16:27:07+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "6c573124de47",
-   "title": "Keiko Fujimori posterga viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/",
-   "date": "2026-11-27T16:10:58+00:00",
    "state": "posando",
    "place": {
     "name": "Piura",
