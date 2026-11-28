@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T00:51:52.588343+00:00",
+ "generated_at": "2026-11-28T01:13:05.804944+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -112,10 +112,10 @@
    "lng": -80.632,
    "abroad": false
   },
-  "source": "El Comercio",
-  "date": "2026-11-27T23:05:31+00:00",
-  "title": "Keiko Fujimori anuncia viaje a Piura y Tumbes ante inundaciones y lluvias intensas",
-  "url": "https://elcomercio.pe/lima/sucesos/keiko-fujimori-anuncia-viaje-a-piura-y-tumbes-ante-inundaciones-y-lluvias-intensas-fenomeno-el-nino-ultimas-noticia/"
+  "source": "Norte Sostenible",
+  "date": "2026-11-28T00:54:52+00:00",
+  "title": "Keiko Fujimori viajará a Piura para atender emergencia por lluvias",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdjE2aUJVbWQ1UHV2OHhRaG9kcldWZjRPMHExVk1OT0VHVUFqWldrYjJMUm1rUVhsQU9ldS04TEpsV3ByWlBlTHR3MGZUZF9DbERSNWZITFUxSXJEbjlrM3pPdWhJNm1EWXNKYXJHNHVFZGVwSEh0US1DczRNM1U?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 0,
@@ -495,6 +495,33 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "0b165c5022bb",
+   "title": "Keiko Fujimori viajará a Piura para atender emergencia por lluvias",
+   "excerpt": "",
+   "source": "Norte Sostenible",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdjE2aUJVbWQ1UHV2OHhRaG9kcldWZjRPMHExVk1OT0VHVUFqWldrYjJMUm1rUVhsQU9ldS04TEpsV3ByWlBlTHR3MGZUZF9DbERSNWZITFUxSXJEbjlrM3pPdWhJNm1EWXNKYXJHNHVFZGVwSEh0US1DczRNM1U?oc=5",
+   "date": "2026-11-28T00:54:52+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false
+   }
+  },
+  {
+   "id": "9c77f952aae4",
+   "title": "Presidenta Keiko Fujimori y su homólogo de Bolivia, Rodrigo Paz lideran Encuentro Presidencial y VII Gabinete Binacional",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0JQbUFYaW44SXU4aHprYkZGMldxRjIxZlViM1pmbkFfZ2p3enZpOTY1UWR4T2ttQjhWdS1RUjA4bVE2VWtrSkhUZklBek5mQkpqMGZ3NUtndk9xX1BrRHFRVFcwRDFVV21pZ0hPSEgyWUZwOHJJMGR5T1ltMXlCU0ZVY1loRFhZY1h3REhrVFoxSXJaTE1vZExrMG1WWHB0alZXZ1FQU0ZSdEpSOVp3U3BXT2wybVNYV0JjbTM5N3hiQQ?oc=5",
+   "date": "2026-11-28T00:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c59eba0af646",
    "title": "Keiko Fujimori aplaza su visita a Colombia por las inundaciones en Piura",
    "excerpt": "",
@@ -627,9 +654,9 @@
    "id": "f7f215cf7e45",
    "title": "Presidenta Fujimori: Perú y Bolivia tienen muchos proyectos que los van a beneficiar",
    "excerpt": "",
-   "source": "notiperú",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb1JxbTA4YWVTd2lZSzVjRTVraEZKcFFlMlljT1pnRzVwYUhxbk1IRHpvcmZNZWptM0RQY0JqM1pveFIyVURFYmVBUnZSaUVZLU9IQU1qOUxNZ0VPZ1FfN0FLcnQyZ0M4bGRnX3VSUm9fWmx1Tm02ZHJnQk9xMEliTTZXQ3dKdC1XVUowbWhqMDFhc3drU0FaOGZGMFBJcGNFaU9wYW5JSkFJbFVPMzhIV2N4NmctY0NxZ0FrS2R6Q2tHREg3Rm5xeFM3OS1jWkk2eHA0?oc=5",
-   "date": "2026-11-27T21:44:16+00:00",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORlBMWE1hWE45bXJES0tqVXhDRkhzbGJHaEh3V0Z6aUJQSW5HSnhRMDJHZVVxd0YzMEVFeVhObGVGM25zRFVXNFF5SmZiNnY2Mncyc0xPdWpIZ0tSZXVxN0ZnblRpV242WkVlVWxCZDhPaGQ5X1ctQ01JNVFjd3ZWTWxDNmZKSHRjV29fbkhGcm4tRlhyVS1wSWZvQVJDQjhqMDdSS2pmODUwbm9KSXZnMnVONHk5UE95N0VvRFFqVmR3YU9H?oc=5",
+   "date": "2026-11-27T21:38:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1287,31 +1314,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "2c4b6c8b8e2f",
-   "title": "Keiko Fujimori se reunirá con el emperador...",
-   "excerpt": "",
-   "source": "Panamericana TV",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1hHUE44bFZpM2FLT2VLOFRlbHJkbi1KUk9BSGdHZlZ1MzJabkhBUEY2am5BME95ZWQ2MW5iaFduWUJoMEJhMUIxT1FUS3JNMnJuVEQ4UGdnaUxwcVdXNXlzQWZFcUZRNW1GQjNuNjFObDNNQmt5NDM0TGRNSXFtWU45ZENnbncwbnJBZmRRRVBMVWtjYW9NNk0yUEVLTmlWVnlfaTVmdXl4Q3dTOG45UtIBtgFBVV95cUxQSXY3U0FRc3ZoWlQxRkZ3VFZ3bjFZaVZFQnBjSC0zWHgxU1dkeTAtcUNKOUd3SXhneDB4U2tVcmVpUVpidWdZZU1qZVRNRWpta3FHNm5zcFpVV3NFLU5LakkxVmoyXzFndmhzWXJQZkhFakhkeExISmJfSmhOWmJOb0ZBelAzSFJvazRzc29kT0FPaG1RaFIxY1lJWGM1clFMdkhiaDlkRllGNXJkTWpTNWxxdWR1QQ?oc=5",
-   "date": "2026-11-27T15:16:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "484b7caff244",
-   "title": "Keiko Fujimori: Pleno del Senado debate esta mañana autorización para viaje a Colombia el 3 de diciembre",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/",
-   "date": "2026-11-27T15:10:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
