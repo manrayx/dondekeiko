@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T12:21:06.773744+00:00",
+ "generated_at": "2026-11-28T12:42:23.812630+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -103,7 +103,7 @@
    "city": "Piura"
   },
   "source": "La República",
-  "date": "2026-11-28T12:11:16+00:00"
+  "date": "2026-11-28T12:40:11+00:00"
  },
  "next": {
   "place": {
@@ -329,6 +329,34 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "1978de09f5c7",
+   "title": "Keiko Fujimori llega a Piura y anuncia bonos aún en planificación: “Ojalá que la lluvia pare”",
+   "excerpt": "La presidenta Keiko Fujimori llegó a Piura para supervisar la emergencia por las lluvias extremas y anunció bonos para las familias damnificadas, pero estos aún están en planificación.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/27/fujimori-llega-a-piura-tras-lluvias-extremas-y-anuncia-bonos-para-damnificados-es-realmente-un-meganino-hnews-570321",
+   "date": "2026-11-28T12:40:11+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "340c2fd568ad",
+   "title": "Gobierno ya tiene claro los 53 terrenos que posee para realizar megaproyectos de vivienda",
+   "excerpt": "Fondo Mivivienda señaló que su meta para este periodo de gobierno de Keiko Fujimori será de 1 millón 250 mil hogares",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/28/gobierno-ya-tiene-claro-los-53-terrenos-que-posee-para-realizar-megaproyectos-de-vivienda/",
+   "date": "2026-11-28T12:23:44+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "c33ec3aaa8ce",
    "title": "Fujimori llega a Piura tras lluvias extremas y anuncia bonos para damnificados: “Es realmente un meganiño”",
    "excerpt": "La presidenta Keiko Fujimori llegó a Piura para supervisar la emergencia por las lluvias extremas y anunció bonos para las familias damnificadas, pero estos aún están en planificación.",
@@ -368,17 +396,6 @@
    "next": null
   },
   {
-   "id": "79a5158470ea",
-   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
-   "date": "2026-11-28T08:55:23+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "5bfb30e5247a",
    "title": "Keiko Fujimori llega a Piura en medio de fuertes lluvias por segunda noche consecutiva | El Comercio",
    "excerpt": "",
@@ -404,23 +421,6 @@
    "date": "2026-11-28T05:30:00+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "78b4497cded9",
-   "title": "Keiko Fujimori llegó a Piura para supervisar las labores de emergencia por las fuertes luvias en la región [VIDEO]",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdWk0czh2RUhVQ29CTkp0UFpWWnc4bnhvSnBlamtkSE1QMTdRTzNNUjBaaDgzVDJuRVJjSjBNZTJFbl9XeV9BbVRleXRlSmNJXzVqRDJ0Q183QzZCQmhXS1RWTWVnMVpvTHVFOE9zWDVtQ3lMYmNMQ0dMTjRaaF9wQmh3VFhYM3Q3OHIzcEE3OFh2dUtEZjlMRk1FS1docFpQWEs3QjlEbmlWRVJfdm1rWmpRM1pWTldQVjZ1VXRlM1g4Z3VITjA1ZWExd2xJYXBfM0VjMFJac1VVRWJ0VkVvRUpfcU9HWEl6UkE?oc=5",
-   "date": "2026-11-28T05:01:04+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
    "next": null
   },
   {
@@ -615,6 +615,23 @@
    "next": null
   },
   {
+   "id": "78b4497cded9",
+   "title": "Keiko Fujimori llegó a Piura para supervisar las labores de emergencia por las fuertes luvias en la región [VIDEO]",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNenluUF93QlA4WGY1TkFZV0p0cEtRNGxJTEJPbGVtaWlEY2p1R2lHMVE3b00wa2JISkhSeWZtWmJfTlRVSHJnYks3cmluM3NsbzlKUDk3NUJ6TDlCREQzRUlWQThrRk82SG5zeUpwR0wwQVU5dnVBUHhGRkZJd0MzazVieVJHOEEzTUJtUUNqLXByNXVadmNpQ0I1VVhOcG9uZVpxbGFycjF1b0tsUTM3T2dZbGV3Q2RWMUVEdHFRU0tNT1VDVEhEODloS3Q5cEFxandDN0hOZ3hlXzBWU1hteWJMaW4zb3c?oc=5",
+   "date": "2026-11-28T02:33:43+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "e2c6cc89274e",
    "title": "La presidenta Keiko Fujimori Higuchi llegó a Piura y suspendió su viaje a Colombia",
    "excerpt": "",
@@ -795,6 +812,17 @@
    }
   },
   {
+   "id": "79a5158470ea",
+   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnk4bEVmczc0Q2pLVjFPN1JKZmZBNkdFd19kdkxCS2Zwd0pXRHNENnlUSWktVW10ZVFVaW5CN2wzUW45S3lvcDZLa1psRHlsUkU2Q25NT1ZMUGtuUWZPZUdPRzhwSGVoQW54V2VjMWlZa0Z6OEVIYXE4NjY2VTUwYVJ4X3JlUk1VeVkxd3FyR2FIVXNETHBfN0pkSTJlbE1YYjlvMzhvT0J5TVJVMy1fbkFUSzk0QTd1?oc=5",
+   "date": "2026-11-27T22:44:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "28b87deded56",
    "title": "Keiko Fujimori ofrece a Bolivia apertura a los inversionistas: “Bajo las mismas condiciones que los peruanos”",
    "excerpt": "La mandataria destacó el potencial de la relación bilateral para atraer capitales, impulsar proyectos de conectividad y aprovechar la infraestructura portuaria peruana, tras cinco años sin reuniones presidenciales entre ambos…",
@@ -831,6 +859,17 @@
     "lng": -80.632,
     "abroad": false
    }
+  },
+  {
+   "id": "acd2d0aaf725",
+   "title": "Keiko Fujimori tras lluvias en el norte del país: \"En las próximas horas estaré viajando a Piura\"",
+   "excerpt": "",
+   "source": "https://geniostv.pe/",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONDdDVE5KamRaeXlVVS1JM0tFbDF1b1dWc1IyM3I3WGE4NG5wUDNLa0laMFpfRnZweDBQSUluTVJKWlhfVldXRnNROTdvR2dDaENKcHczU1l5dWJ0dTlKYktUSXR1eVlCUnN4SFNRSWtpRXFKdnY0bnpzMm1lbHpodmJLcWhod2pHQTFlOWg3d3FYby1tRWlYNS12SEhLQnYwM0x3dG1Pel9nMUtNbVE4bHRnODY0cXoyY19MOUhZOWZCdkRkLXlUTF84U0hHRVE?oc=5",
+   "date": "2026-11-27T22:13:42+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
   },
   {
    "id": "29da2a935f20",
@@ -933,17 +972,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTTNwTmVDWHFLNDNtZU5Zd25ycWZJaElQZmVaU3YzLWloZjVtWUZabDZDMFhfcnpQdzdxczdUcS1yc2k5NEN6N2ZoUk80NGZ3VzA4UnRHY3FlNjE5VzBjaTB0RWhWa21HaFc1dGl1c1hyZXdINVNwRlFzQ3RfQ1hyclRndlQ2d1Vja0dWdV9xdmFndEtVMHQyRC1Faw?oc=5",
    "date": "2026-11-27T21:12:45+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "acd2d0aaf725",
-   "title": "Keiko Fujimori tras lluvias en el norte del país: \"En las próximas horas estaré viajando a Piura\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUmVrYXZ6VWhHT3VITXlPdm14X2tyME9EYU55OHN1YkVCV0t2b2tBa0pTb2pXS3ZVbjMwaTg1eU40Smp3VFdXYmRrY3RjVGNCSVB4UVlnbHVJcHZMMldIcmE2TTVJNnFBSlUwN2Vval9MNjcxVEptS0dlRmtFWk9JbFFtNVpFdmwwRnFfTXVmUmh0WnBKYzIwaXd1dkU2T0VqY3FRTVg2d0h1ZmxVTUNFdlgwdXROMjNRcGQwVUZCUnpVZkxERE04c1dsVUdJVDVtQVM0c0NvYW1qVUxYVWhERzh3MUZrOUJhZXlVOExjOA?oc=5",
-   "date": "2026-11-27T21:08:49+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1122,28 +1150,6 @@
    "source": "Revista Semana",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDhPZENycExOWEJweDd3Zk5adUdHQ2VaQzZ0YUwybnRYNlExWHcwcVdLRjNCMnJaeWt0VURfQUxuckNsS0RtbmJjVVdibEtkRjMyNlhSTmF0Q0RKNXZ2M2VYYzc5MHEwSUZFTDhWTll6bFhTSnNVWC1SZ2FfM2p1aGhaU0hTRWJHWVd4MlB3bXBhbmxab2MteTNiWG1RN3pNcGkwX3pQSEE1MktzWEJ6YXRRbUJZNVVPUEJ3QnRGNWM3eWZIQ2fSAcsBQVVfeXFMUHhBeEdxajh4X2w0VlU3TDJERnhBQXdlcTdkNWI3RmhoalVlWkstaUJoZEpTMkxMbmF1OG1lLVR2T3d1Zy1XOVV0cDBJZFhHNEdPUVFTUTRiSkd1UmZCZG55MjVKUE1uSDBmRE9OZHA1OGMyd3p5NGJhdU9LWWtHS3gzV3BkWWlyLXQzMzRvT1p3OHlNelVCaHBnUFM2aWoxT1Y2ZkVLRTJyMGtPRjZ0VTUybDIxdGJsb3p0RFBTNER2alM3QnI3Ni1HRE0?oc=5",
    "date": "2026-11-27T18:54:38+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "7e7339f1bbca",
-   "title": "VII Gabinete Binacional Perú-Bolivia: Keiko Fujimori destaca captura y deportación de 'Johnson Pulpo'",
-   "excerpt": "",
-   "source": "Exitosa Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOGhvZ0s3TmFXd0VtdC10eWJSVDVjX214a0VhdzhELUM4T3dNa1pUb3ZUS05PdzNYLWpBMVI5RkU3QVBpZnpOVV81NUVHM1pQc0Z2S19EYWZCMV90N0p3ZG5sckctdzd4SlhtWmlXRFphUU9BR0NfcnR5c3AxLTAzbTN3NzFaLWw5Tng1ZC1BczBvVkl3YzludnhFSXdaODN1VW9oMUhjNnEzbi1nWi16NUhZbm0wbk9sdndnNUxZdWRmdDR0c1ZnOFpJaEFPVzFlSWdudXhWbnI?oc=5",
-   "date": "2026-11-27T18:25:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "3bbe234bf1f8",
-   "title": "Keiko Fujimori en Gabinete Binacional Perú-Bolivia: \"Es el inicio de un fortalecimiento de 200 años de amistad que nunca debió cortarse\"",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYjBFNGQ2OEJjOGdnT1JNNjlrb2FOakJVdzVmejg0LW9TNGhYLVc3UGdsWndDR0hBMEM4R3luTWhBM2tEWDVTREJVZVMxSThsSktDTGtzM3l4UnBLWlZhZkY2M21lZHFyQXVMR05iZUhWZndPMlNIV1Fzc1FMdkN6UlE5V1lxWm9TVXhPODJLRmVUZ3hTc0tOR3JuN1BhYTRkc2d3NDlkcjM0QWQtQ3B3NXN5dGp3a3N3Q0NORTMtOEc5WjZ5REtSWWd0VGRya1B4YzY0M21NVHIwaHdWZGpYM1QzYl96eUU2S25qQURmUG5PejhOYW9vT0R2ekFNVVRNLWFtZUtITmZoOUFES3Bz?oc=5",
-   "date": "2026-11-27T18:24:39+00:00",
    "state": "posando",
    "place": null,
    "next": null
