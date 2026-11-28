@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T01:13:05.804944+00:00",
+ "generated_at": "2026-11-28T01:34:28.103307+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -113,7 +113,7 @@
    "abroad": false
   },
   "source": "Norte Sostenible",
-  "date": "2026-11-28T00:54:52+00:00",
+  "date": "2026-11-28T00:54:24+00:00",
   "title": "Keiko Fujimori viajará a Piura para atender emergencia por lluvias",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdjE2aUJVbWQ1UHV2OHhRaG9kcldWZjRPMHExVk1OT0VHVUFqWldrYjJMUm1rUVhsQU9ldS04TEpsV3ByWlBlTHR3MGZUZF9DbERSNWZITFUxSXJEbjlrM3pPdWhJNm1EWXNKYXJHNHVFZGVwSEh0US1DczRNM1U?oc=5"
  },
@@ -500,7 +500,7 @@
    "excerpt": "",
    "source": "Norte Sostenible",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdjE2aUJVbWQ1UHV2OHhRaG9kcldWZjRPMHExVk1OT0VHVUFqWldrYjJMUm1rUVhsQU9ldS04TEpsV3ByWlBlTHR3MGZUZF9DbERSNWZITFUxSXJEbjlrM3pPdWhJNm1EWXNKYXJHNHVFZGVwSEh0US1DczRNM1U?oc=5",
-   "date": "2026-11-28T00:54:52+00:00",
+   "date": "2026-11-28T00:54:24+00:00",
    "state": "posando",
    "place": null,
    "next": {
@@ -516,6 +516,17 @@
    "excerpt": "",
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT0JQbUFYaW44SXU4aHprYkZGMldxRjIxZlViM1pmbkFfZ2p3enZpOTY1UWR4T2ttQjhWdS1RUjA4bVE2VWtrSkhUZklBek5mQkpqMGZ3NUtndk9xX1BrRHFRVFcwRDFVV21pZ0hPSEgyWUZwOHJJMGR5T1ltMXlCU0ZVY1loRFhZY1h3REhrVFoxSXJaTE1vZExrMG1WWHB0alZXZ1FQU0ZSdEpSOVp3U3BXT2wybVNYV0JjbTM5N3hiQQ?oc=5",
+   "date": "2026-11-28T00:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "cf51ca791978",
+   "title": "Presidenta Keiko Fujimori: “Acuerdos deben traducirse en beneficios para zonas fronterizas”",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUC0xMldTTjhURnNTaDVmOFNvSkJzbEpFbXdIR1ZWSjN0YVVHZmpZWlh5S2Ixa0Y5U0tOZ1ZYT0ExY2xmc255UDdZYWpuUE9MS2hXOTFZYWY3V2VoXzJjWE1xUTc0SGZrWV9lU2VkdzNtRFd0aTZxRUhabWVlY1NYMl9GLU1wQ2l2VHJYcVlJMFFXbnNCdFQ4dXJ4T1BlYl9LaTZrWklKeElNdlhwTFFNRjVrRnY0MXhmaXFTbWd4UQ?oc=5",
    "date": "2026-11-28T00:01:00+00:00",
    "state": "posando",
    "place": null,
@@ -1300,17 +1311,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT015YTkydldCTE9peEVEY2c0Sk9wUm5Nb3FDa2F2Y1YtNTNwSUQ4SExjX09TYUxsdjY4U2p5MnhYWGM4Y0VORGl4dlk2QTR1TUlVY1BnczJ3aDRXWGNJYW05UzY3OGp5NGt2V19fMXo2czRGQVNHRUQtUFhBLXk1bVFuVW5XQTNkb0UwZU9wOG1fTHV1TjVsdlBwdVpfR1R2aXlldWNiYUN6QQ?oc=5",
    "date": "2026-11-27T15:32:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "bbab66eea216",
-   "title": "Gobierno suspende viaje de Keiko Fujimori a Colombia ante emergencia por lluvias",
-   "excerpt": "",
-   "source": "América Noticias",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObW1fS0UyOFVOb2IwTElDUXAtLWtMV2VXb2VOSG96UldzY1RCbldUQmNFOC1wbUQzZDB5ZDY5QlA2c3ZDV19qR2IwS3I5cW1WcFdiclhwWjFESmFFWkF6TXE5dFl6a09JY09SS1dtc0ZWcHZEZFJ1WHRNVkZwSHEyZXZTTTAwRkQ5alZGUDU4RWZTTXFhTjAxUjVqSVozYTBuQkxNWGNMWlM4Unk5YlVXNGZWTG9iVGdxWHlBZ1o4MnBZMmFy0gHKAUFVX3lxTE5EWVNJdm5pLUxRZ0dYcHl6UFZUUElMOW9ra1dqRld2MWtlM2tpN0NNWkdhcWtycE9CX2JaaWtPUmk3WHNCZkFpMVZ0THVzcVpCU2JVUDNpRnNydDVhXzNGclJmMUxOS1piOHVtVzRVRWF3VndJY0loMGZYQjQ0b0ZhQTBmMWZlRzF5NXhrTXJOblJWWUh0c1dCX0pQODY0LURQRDZFV2U5UlBWVDdqdFdGbjFGSjBSTlgxbk5BdHB6U1lEa0poNzdDWGc?oc=5",
-   "date": "2026-11-27T15:29:15+00:00",
    "state": "posando",
    "place": null,
    "next": null
