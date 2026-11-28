@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:47:35.746291+00:00",
+ "generated_at": "2026-11-28T00:08:54.437824+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -96,12 +96,14 @@
  "silence_limit": 24,
  "last_place": {
   "place": {
-   "name": "Colombia",
-   "abroad": true,
-   "city": "Colombia"
+   "name": "Piura",
+   "lat": -5.194,
+   "lng": -80.632,
+   "abroad": false,
+   "city": "Piura"
   },
-  "source": "Perú21",
-  "date": "2026-11-27T20:36:49+00:00"
+  "source": "CW+ Noticias",
+  "date": "2026-11-27T23:58:18+00:00"
  },
  "next": {
   "place": {
@@ -492,6 +494,23 @@
  "agenda_minutes_7d": 745,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "c59eba0af646",
+   "title": "Keiko Fujimori aplaza su visita a Colombia por las inundaciones en Piura",
+   "excerpt": "",
+   "source": "CW+ Noticias",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDc1UGd3RkZURWZaTkI1QlVVU0I1eWNUQ0pLOUlhLXdZaEkybmJPX2hsUHloWXhCSjVqR0R5Slo4RmpmbEw5UHlwX3l4enBzQ3Q4X2RNcEdxekttYjFtQVBpaXV3a2xOcHZrQXVNV2tTN0ZvdDV0UWJzSUxDbFFvTENEVTY?oc=5",
+   "date": "2026-11-27T23:58:18+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
   {
    "id": "213c932467cc",
    "title": "Keiko Fujimori anuncia viaje a Piura y Tumbes ante inundaciones y lluvias intensas",
@@ -890,23 +909,6 @@
    "next": null
   },
   {
-   "id": "2cdb03da231a",
-   "title": "Rodrigo Paz tras reunirse con Keiko Fujimori en Palacio: \"Bolivia y el Perú abren una nueva etapa de integración\"",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMElCSG1Vek90V25rZHlaUHZIaWtjYnZ2REZkSDFxSkZkUHNXV0pLTElGWkt6dkFDbkFIN2t6dHVpMnpJSUpKbGlISnZQMUdHbEI3bzJkQzRJLVI0eG9pQkdzQnM0WllnY1ZlUTg4UXVxc3B0cm9Ga25zc2IzMlV3dnViNkloMThxdWZQeGpZZjE1YnE4dGRiQjA5RENrNkptTFU5ekdTNGhTOUpJeklrRUplYndnemdhaTlyZ0lUSHRHQTYyOUZPRWU4NHF3WlpYZ1ZxbEZyaUVtbHY3?oc=5",
-   "date": "2026-11-27T17:54:11+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
-   "next": null
-  },
-  {
    "id": "77b6c6ebd835",
    "title": "\"Querido amigo\": Keiko Fujimori recibe a Rodrigo Paz y promete recuperar cercanía entre Perú y Bolivia",
    "excerpt": "",
@@ -992,6 +994,23 @@
     "lng": -80.632,
     "abroad": false,
     "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "2cdb03da231a",
+   "title": "Rodrigo Paz tras reunirse con Keiko Fujimori en Palacio: \"Bolivia y el Perú abren una nueva etapa de integración\"",
+   "excerpt": "",
+   "source": "AP Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMElCSG1Vek90V25rZHlaUHZIaWtjYnZ2REZkSDFxSkZkUHNXV0pLTElGWkt6dkFDbkFIN2t6dHVpMnpJSUpKbGlISnZQMUdHbEI3bzJkQzRJLVI0eG9pQkdzQnM0WllnY1ZlUTg4UXVxc3B0cm9Ga25zc2IzMlV3dnViNkloMThxdWZQeGpZZjE1YnE4dGRiQjA5RENrNkptTFU5ekdTNGhTOUpJeklrRUplYndnemdhaTlyZ0lUSHRHQTYyOUZPRWU4NHF3WlpYZ1ZxbEZyaUVtbHY3?oc=5",
+   "date": "2026-11-27T16:36:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Palacio de Gobierno",
+    "city": null,
+    "lat": -12.04491,
+    "lng": -77.0298,
+    "abroad": false
    },
    "next": null
   },
@@ -1287,20 +1306,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-y-su-viaje-a-colombia-pleno-del-senado-debate-autorizacion-para-que-presidenta-asista-el-3-de-diciembre-a-gabinete-binacional-noticia/",
    "date": "2026-11-27T15:10:36+00:00",
-   "state": "posando",
-   "place": null,
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "af9c0daf6714",
-   "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias en el norte del país",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOFFGdFk4QTVXSUxVMDRzZDhjUlNGM1dqSlM5aXc2cWhrUTZYTldMdmd6YkUwVWxmdUY5MjBGdlVtVmJ4OXZaa19fbVdQUE5xWV9LVEZ0SHRObE9TeWdQUjNjeWFfNFBOdlp5UTBnWHhyNnpZOGdxVENkanZhWlRIQkx2bWg2ZURRcXFtRWQ5c2xmS3NoZmRJSDJOX2NuSUo0SXRDczhnSkFnY1RvbEFmWjY1VGYya0sxdzBDalVEWEpBTzA0?oc=5",
-   "date": "2026-11-27T15:02:00+00:00",
    "state": "posando",
    "place": null,
    "next": {
