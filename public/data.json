@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T03:21:43.836205+00:00",
+ "generated_at": "2026-11-28T03:43:24.486046+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-28T03:18:13+00:00"
+  "source": "La República",
+  "date": "2026-11-28T03:33:17+00:00"
  },
  "next": {
   "place": {
@@ -122,8 +122,8 @@
   "entrevista": 0,
   "celebrando": 0,
   "molesta": 0,
-  "triste": 0,
-  "posando": 58
+  "triste": 1,
+  "posando": 57
  },
  "total_7d": 60,
  "silence": {
@@ -511,12 +511,29 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c33ec3aaa8ce",
+   "title": "Fujimori llega a Piura tras lluvias extremas y anuncia bonos para damnificados: “Es realmente un meganiño”",
+   "excerpt": "La presidenta Keiko Fujimori llegó a Piura para supervisar la emergencia por las lluvias extremas y anunció bonos para las familias damnificadas, pero estos aún están en planificación.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/27/fujimori-llega-a-piura-tras-lluvias-extremas-y-anuncia-bonos-para-damnificados-es-realmente-un-meganino-hnews-570321",
+   "date": "2026-11-28T03:33:17+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "0f9b90e94a20",
    "title": "Emergencia por lluvias extremas EN VIVO: nuevas precipitaciones azotan Piura y presidenta Fujimori supervisa la zona",
    "excerpt": "Las precipitaciones mantienen la emergencia en el norte del Perú. En Piura, las inundaciones afectaron viviendas, calles y sistemas de drenaje, mientras brigadas policiales auxiliaron a residentes con botes inflables.…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/26/piura-bajo-agua-lluvias-extremas-inundan-el-centro-de-la-ciudad-y-activan-quebradas/",
-   "date": "2026-11-28T03:18:13+00:00",
+   "date": "2026-11-28T03:27:53+00:00",
    "state": "transmitiendo",
    "place": {
     "name": "Piura",
@@ -525,6 +542,34 @@
     "abroad": false,
     "city": "Piura"
    },
+   "next": null
+  },
+  {
+   "id": "c82d5fa5cdd7",
+   "title": "Keiko Fujimori anuncia bono para damnificados por lluvias en Piura",
+   "excerpt": "Esta noche, la presidenta Keiko Fujimori llegó a Piura y anunció la entrega de bonos a las familias damnificadas por las intensas lluvias asociadas al fenómeno El Niño.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-anuncia-bono-para-damnificados-por-lluvias-en-piura-noticia/",
+   "date": "2026-11-28T03:27:14+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "c27907738676",
+   "title": "Orlando Fernández cuestiona posible visita de Keiko Fujimori y exige…",
+   "excerpt": "",
+   "source": "La Decana Radio Juliaca",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUmU4SHRoRXFsQWdMeUdZWGRKSlNySTlDWDItaldBUjE2dTNMMG5JSkh5dWU3aDRJZW44czFrWXdtYVA0T1NwSVRDc1NuYmFlNkxCOGRWcDRLZHk4WmFWUU1zblhINWtXcThSZ25XUXQ4dWVndVotYkFUM21DbXB4ZFVSRTZLM2FMc3VvMURzTndFeHNnSzl6dW45cW5xRTl2UUo2Y05wMmgyRDduLUQ2RWh0OWplTHptWVdPZV9sWGt2VVJfWVF4T3JoLVVSZ0JHTFZNWGtZMEhRX1RaR3c?oc=5",
+   "date": "2026-11-28T03:15:00+00:00",
+   "state": "triste",
+   "place": null,
    "next": null
   },
   {
@@ -669,6 +714,17 @@
    "next": null
   },
   {
+   "id": "e477dac01908",
+   "title": "Presidenta Fujimori anuncia que viajará al norte para atender emergencia por lluvias",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE5ZQm1mWV9OOW1vR2Uyc2NwX2pjUDRKSlhXX2FYMm5yXzFjNmtTbVF2Um80WmZBMXhQa0kwc2cwclQxUmUtNF8tS0xNZ3hfZVQ3Mncyc2s1SExtZ2RTa1IyWE1PTEhlQWVYRDdGLTNfTDVZR2QzQi1aR2IwQ1hTRzVuU1RHQjlMZzN6QjlaZ2dYN254REhpMGNyYXRoZjBlVDFqTEo3NU13MnY5WjZjUjUwYjdDbEQyMEhaNA?oc=5",
+   "date": "2026-11-28T01:41:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "0b165c5022bb",
    "title": "Keiko Fujimori viajará a Piura para atender emergencia por lluvias",
    "excerpt": "",
@@ -756,17 +812,6 @@
    }
   },
   {
-   "id": "e477dac01908",
-   "title": "Presidenta Fujimori anuncia que viajará al norte para atender emergencia por lluvias",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE5ZQm1mWV9OOW1vR2Uyc2NwX2pjUDRKSlhXX2FYMm5yXzFjNmtTbVF2Um80WmZBMXhQa0kwc2cwclQxUmUtNF8tS0xNZ3hfZVQ3Mncyc2s1SExtZ2RTa1IyWE1PTEhlQWVYRDdGLTNfTDVZR2QzQi1aR2IwQ1hTRzVuU1RHQjlMZzN6QjlaZ2dYN254REhpMGNyYXRoZjBlVDFqTEo3NU13MnY5WjZjUjUwYjdDbEQyMEhaNA?oc=5",
-   "date": "2026-11-27T22:53:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
    "id": "28b87deded56",
    "title": "Keiko Fujimori ofrece a Bolivia apertura a los inversionistas: “Bajo las mismas condiciones que los peruanos”",
    "excerpt": "La mandataria destacó el potencial de la relación bilateral para atraer capitales, impulsar proyectos de conectividad y aprovechar la infraestructura portuaria peruana, tras cinco años sin reuniones presidenciales entre ambos…",
@@ -803,6 +848,23 @@
     "lng": -80.632,
     "abroad": false
    }
+  },
+  {
+   "id": "29da2a935f20",
+   "title": "Keiko Fujimori viajará al norte del país para atender emergencia por lluvias en Piura y Tumbes",
+   "excerpt": "",
+   "source": "Diario Correo",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUEVLaE5ZS05Fd2IwWl9lcTlYSU1OMWtUMWxDRnRmVldtX3RIQzNfTzVMRWtJeWthM3FLUEpWcTY2MG1ndmlhNWRyalhiS19Mc2ZtaEstVzZBZXREeDBOTnNqdXlLdlBfZ0p1SmZ4bmdZNTFjSlQ4d1RsYTdpNzZmcjBhQlE1eXlURHNYVXdTRWJrTFh3VWpSa0VRemhic3VzUXM2ZTQ1Qld5WVFSQWdjU2plYVVzSzBOVnFsYndHUFU3NW9hV2NvVUxJOWZDRGk5QlHSAeYBQVVfeXFMTkNHRXNpZTRBNGJtdktRd1VlSVlzNkFKbUZ6dDVIZjJzaS1yODc5d2Y0a2xBUmZZNVhIT1c2U3F5M21BNEt6TFBHcERzY3M4bkpCOG1GZ2F1ZTlvc0VQd0pKSlJaVzFfMWRhcUZMbVdhRU5DMi1BTG1ibS12MFNGWmMxc1R2UXBOb0JVRjduX3hkdWRzRjBkTkdkMWl1cGF3ZHl1MzZvYzI5R2FXYWQyZDFxZUZmS18xdEFjODBwWldzYVV4ZWFNdTZjQllFTWtzak9lakpmSEkxeV9wbWhGYlNMd1pHY2c?oc=5",
+   "date": "2026-11-27T21:57:13+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
   },
   {
    "id": "ade0d2905148",
@@ -1279,77 +1341,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "579497fcdc4a",
-   "title": "Keiko Fujimori suspende su viaje a Colombia por fuertes lluvias en Piura",
-   "excerpt": "La mandataria peruana acordó con su par colombiano postergar el encuentro binacional previsto en Barranquilla",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/27/keiko-fujimori-suspende-su-viaje-a-colombia-por-fuertes-lluvias-en-piura/",
-   "date": "2026-11-27T15:56:49+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "dd6d54a03e82",
-   "title": "Rodrigo Paz y Keiko Fujimori encabezan el séptimo Gabinete Binacional en Lima",
-   "excerpt": "",
-   "source": "Red Uno",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUw2YVZoNmg1TlphM3RJWmVOTXdsZWh3eVBNZEU0SWxwaXItdjlTRlNmR0ljR1hGcXAxVU52NlhMWDAwUTQ3YXMtcTJuTGZfVGFxcWtnT19mTHl5RTFrd3JfdkI4WFJSZ2tXVFZ0RWhFNEs4NVdqandJOGxvVVhmek9wTDRybl90LU1MM051R2l0OWMzOGZuaGN4QjM5UEx6ay02ZGthOVZJS0puZTFvNFZEamlDSEltNFQ4ZVZEQnBNWFktenBrcUZSSjE?oc=5",
-   "date": "2026-11-27T15:55:11+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Lima",
-    "lat": -12.046,
-    "lng": -77.043,
-    "abroad": false,
-    "city": "Lima"
-   },
-   "next": null
-  },
-  {
-   "id": "4be1ba61cd21",
-   "title": "Keiko Fujimori cambia su agenda por emergencia en Piura: \"Nuestra prioridad es atender a las familias afectadas\"",
-   "excerpt": "",
-   "source": "Willax",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEJJX1IwaFVyT3B0LVhZdkk3MEZZS04zTDQ1VzBLcE9FaGQwRE5NTEk2VGVfZEx6bEY2dnJRMkhpd1JTNVZ4bEZ5MVNreVNJbUlCSXFMaEk2TXRJRTVBaE9MelQ2OHFERm5mQzdiSUNUYnBXb29fdXc5Y3l6QU1VSi1nWUx5M1pYUFJhNg?oc=5",
-   "date": "2026-11-27T15:54:38+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": null
-  },
-  {
-   "id": "46344f151416",
-   "title": "Ejecutivo pide al Senado no debatir viaje de Keiko Fujimori a Colombia por emergencia en Piura",
-   "excerpt": "El Ejecutivo solicitó a la Cámara de Senadores que no someta a debate ni votación la autorización de viaje de la presidenta Keiko Fujimori a Colombia, prevista para el 3…",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/el-nino-ejecutivo-pide-al-senado-no-debatir-viaje-de-keiko-fujimori-a-colombia-por-lluvias-en-piura-noticia/",
-   "date": "2026-11-27T15:54:18+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": null
   }
  ],
  "geocache": {
