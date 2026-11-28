@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T05:10:30.765969+00:00",
+ "generated_at": "2026-11-28T05:32:03.835738+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -330,6 +330,17 @@
  "agenda_minutes_7d": 428,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "b638a8dfbf72",
+   "title": "La gente no lo sabe",
+   "excerpt": "La presidenta Keiko Fujimori aprovechó CADE para hacer un discurso de compromiso claro con el cambio, con la reforma del Estado para resolver los problemas de los peruanos y dar…",
+   "source": "El Comercio",
+   "url": "https://elcomercio.pe/opinion/columnistas/la-gente-no-lo-sabe-por-jaime-de-althaus-noticia/",
+   "date": "2026-11-28T05:30:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
   {
    "id": "78b4497cded9",
    "title": "Keiko Fujimori llegó a Piura para supervisar las labores de emergencia por las fuertes luvias en la región [VIDEO]",
@@ -1129,26 +1140,6 @@
     "abroad": false
    },
    "next": null
-  },
-  {
-   "id": "1095e00f21ca",
-   "title": "Keiko Fujimori suspende viaje a Colombia ante emergencia en Piura por las intensas lluvias e inundaciones",
-   "excerpt": "",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/",
-   "date": "2026-11-27T16:27:07+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
