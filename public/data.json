@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T04:05:24.858023+00:00",
+ "generated_at": "2026-11-28T04:27:30.254201+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "La República",
-  "date": "2026-11-28T03:33:17+00:00"
+  "source": "El Peruano",
+  "date": "2026-11-28T04:15:00+00:00"
  },
  "next": {
   "place": {
@@ -511,6 +511,40 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "83c3893fcf55",
+   "title": "Presidenta Keiko Fujimori llegó a Piura para supervisar acciones del Gobierno frente a las lluvias",
+   "excerpt": "",
+   "source": "El Peruano",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUm8zTkFiQUQxWTNrTFhBZGxmQVBQN0xCQjFaTlhHR3d3U2UycGZNb3JPaGRhclV6ekoxWkdvVVBiRUVNYVV4Smt6QS1GOFY1VzBJMV9CZmtNNTVsdTVobXFIQTRDTXd0N2VKa3FXQk5PR1BUaTVGSG50UkxvbUxOclRsVnVvWC1ZWW5yMUVkWWlYMGhyMU9oR1lFRlh4YTNOODNiTXZydGozYmlSZkdBamhQeFlJRGlyWDJjUFFwc29rc1R1UzdCa3NfZ2d6UUU?oc=5",
+   "date": "2026-11-28T04:15:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "8d90e08bee6d",
+   "title": "Presidenta Fujimori llegó a Piura para atender emergencias por lluvias",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEx4SVR0RWE0bnV6Y05LTjdrczNvdm1CZlJ5cVhvNXlUSzVkX3RsazA4SllhVmRGNDdtWFJYYU1uUDdQR0tFdkUxQUZsSm5DYWxJTkU3cXZpZTNZeU1ja1V2WFo0LXVNTmZ4aEw4Qi1MNVNDRXN2NUFkNldyLV9oSmI5ZzEySXM4UVpseWpmbGxBaXduZENhaGozYm0?oc=5",
+   "date": "2026-11-28T03:33:45+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "c33ec3aaa8ce",
    "title": "Fujimori llega a Piura tras lluvias extremas y anuncia bonos para damnificados: “Es realmente un meganiño”",
    "excerpt": "La presidenta Keiko Fujimori llegó a Piura para supervisar la emergencia por las lluvias extremas y anunció bonos para las familias damnificadas, pero estos aún están en planificación.",
@@ -669,23 +703,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdWk0czh2RUhVQ29CTkp0UFpWWnc4bnhvSnBlamtkSE1QMTdRTzNNUjBaaDgzVDJuRVJjSjBNZTJFbl9XeV9BbVRleXRlSmNJXzVqRDJ0Q183QzZCQmhXS1RWTWVnMVpvTHVFOE9zWDVtQ3lMYmNMQ0dMTjRaaF9wQmh3VFhYM3Q3OHIzcEE3OFh2dUtEZjlMRk1FS1docFpQWEs3QjlEbmlWRVJfdm1rWmpRM1pWTldQVjZ1VXRlM1g4Z3VITjA1ZWExd2xJYXBfM0VjMFJac1VVRWJ0VkVvRUpfcU9HWEl6UkE?oc=5",
    "date": "2026-11-28T02:32:12+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": null
-  },
-  {
-   "id": "8d90e08bee6d",
-   "title": "Presidenta Fujimori llegó a Piura para atender emergencias por lluvias",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNEx4SVR0RWE0bnV6Y05LTjdrczNvdm1CZlJ5cVhvNXlUSzVkX3RsazA4SllhVmRGNDdtWFJYYU1uUDdQR0tFdkUxQUZsSm5DYWxJTkU3cXZpZTNZeU1ja1V2WFo0LXVNTmZ4aEw4Qi1MNVNDRXN2NUFkNldyLV9oSmI5ZzEySXM4UVpseWpmbGxBaXduZENhaGozYm0?oc=5",
-   "date": "2026-11-28T02:04:24+00:00",
    "state": "posando",
    "place": {
     "name": "Piura",
@@ -1309,26 +1326,6 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/keiko-fujimori-posterga-viaje-a-colombia-ante-la-emergencia-en-piura-por-las-intensas-lluvias-e-inundaciones-noticia/",
    "date": "2026-11-27T16:10:58+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "3b01a8386ab2",
-   "title": "Presidenta Keiko Fujimori posterga su viaje a Colombia ante emergencia por lluvias en Piura",
-   "excerpt": "",
-   "source": "Diario Correo",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdWhLMUdsQVFDNGlkX1V6cVBvSTIxRlBxRTNzcHFna3I2WDNfYTBlZkl2UlVnQkxTRjZENnVTOVQzUlFEanZ4ZXYzYXZvUng2WDNnS25ZZmJ2am15R0pXSHkzMjNKVURrb1pQR0dZNDlWbFA2Z0t3MXdjMUpOZHgtT1JESWZza1luMUVPUDc5SW9PaFhNU2lQLWZqSVRUeFVnMDZaMEFYcVpFenpzY1lRdlZuRFItWmVDWDEzVUN3dXdpQXktUXFVX0N2UXZSd9IB4gFBVV95cUxPSFVFS0pmSUFadU9BZFdTeWFDMnc5ZnFZNXFQNlMwOFlwbjVjOFJMTl9aWFo4bTdmYUJta0NkbVFpR1liT3dDSXVDektUQktYVVViLVJGSzFlVWppNXpjRmhXbDl2cDYxMGhPejY2amdnUzRYa25WR2lPdm5EeWtaM3R0YXA5eXQwd1VmZWdPM0poS0Itcm9pQ1ZBMGdJZ1hkbWY4RENpai0wSV9SN1Y0dHNvLXEwdmw1aGVTQWpna0pmTEZNcVoyU3d0a2E2N3FXMW9nQlBxR21ZdzhQeXpUMlB3?oc=5",
-   "date": "2026-11-27T16:06:56+00:00",
    "state": "posando",
    "place": {
     "name": "Piura",
