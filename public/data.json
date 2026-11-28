@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:40:47.376992+00:00",
+ "generated_at": "2026-11-28T08:02:20.246380+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -690,6 +690,23 @@
    }
   },
   {
+   "id": "155cf34ed6b9",
+   "title": "Lluvias en Piura: presidenta Fujimori llega a la región para supervisar atención de emergencias",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXpIUUttNUpxejdLSVplQTdwbXVBNG85SFBLYzE3R0hzRm9jYWFxVFd2ZUY5RGs1NmVNVmVERThneW10T2VycFlJNlBtaWt1dUg1ZlZZRkpLLWRvQUJXVHA4SFQ0b2RrZVFLd2pfSktDZnN0akNsX21CNGs5UkJYdXkybDNiWXJua2RocHcwcHNwN0RZQVd3SmdFWEowc2FaYm15MURNQTBYZGtFYUcwV0RoNmtBQlRBN3dkVEJPY0VrQQ?oc=5",
+   "date": "2026-11-28T00:44:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "c59eba0af646",
    "title": "Keiko Fujimori aplaza su visita a Colombia por las inundaciones en Piura",
    "excerpt": "",
@@ -1121,17 +1138,6 @@
    "source": "Canal N",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEloVWxzYjAtODhnbDVMckNhdHBjRkRtRzBxa1Jxelp0SlhNWFBxRnowOWVhTjhwYlhCcGxTVGt1bDRldllaOVZ4bkotN0Z2WXdNUGFGcHRJOTNNdmZFWHh0SWV5TnotenBlOG9HT0FuYmN5TDFTY0lWUThyelJzWHJLT2J0TDE5TS1KSXNaTHNGUWlSQlBUaUpacEhFZU1IVUdSeWdpejZtc19sVWhB?oc=5",
    "date": "2026-11-27T17:27:43+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "31ec756a9da2",
-   "title": "Keiko Fujimori exhorta al Congreso a arribar a acuerdos a favor de la Ley MAPE y cierre del Reinfo",
-   "excerpt": "La presidenta Keiko Fujimori participa hoy en la sesión de clausura de la 64 edición de CADE Ejecutivos 2026, que se desarrolla desde el martes en Urubamba, Cusco.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/keiko-fujimori-en-vivo-cade-ejecutivos-2026-presidenta-expone-en-sesion-de-clausura-de-conferencia-anual-de-ejecutivos-apuesplan-noticia/",
-   "date": "2026-11-27T17:22:27+00:00",
    "state": "posando",
    "place": null,
    "next": null
