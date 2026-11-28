@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T09:27:53.302694+00:00",
+ "generated_at": "2026-11-28T12:21:06.773744+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "www.apnoticias.pe",
-  "date": "2026-11-28T07:11:12+00:00"
+  "source": "La República",
+  "date": "2026-11-28T12:11:16+00:00"
  },
  "next": {
   "place": {
@@ -117,11 +117,11 @@
  },
  "counts_7d": {
   "transmitiendo": 2,
-  "entrevista": 0,
+  "entrevista": 1,
   "celebrando": 0,
   "molesta": 0,
   "triste": 1,
-  "posando": 57
+  "posando": 56
  },
  "total_7d": 60,
  "silence": {
@@ -329,6 +329,45 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "c33ec3aaa8ce",
+   "title": "Fujimori llega a Piura tras lluvias extremas y anuncia bonos para damnificados: “Es realmente un meganiño”",
+   "excerpt": "La presidenta Keiko Fujimori llegó a Piura para supervisar la emergencia por las lluvias extremas y anunció bonos para las familias damnificadas, pero estos aún están en planificación.",
+   "source": "La República",
+   "url": "https://larepublica.pe/politica/2026/11/27/fujimori-llega-a-piura-tras-lluvias-extremas-y-anuncia-bonos-para-damnificados-es-realmente-un-meganino-hnews-570321",
+   "date": "2026-11-28T12:11:16+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "460b47b7a2c6",
+   "title": "Encuesta Ipsos: el 50% de peruanos aprueba viaje de Keiko Fujimori a China",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1h0eVdGMmJFMVFUTlVHZGtHRWstYXVfczEzMUl5V0hDWk1Ybm9oU25DbHJvOTFnWlRKS0xldW1yZXVQdVZwaFNaV0dPWUJSOEVpYXVQNkdTQXdGU0JFODY0SWVVbUM1bkVFQ0t0R0hxajRPeVlKZkVJT09IRVNrNGlzT2gzTDY2Z3VjSFNlejQ0NEY1QXloZGZhWllFWnM?oc=5",
+   "date": "2026-11-28T12:05:01+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dee8e1036c05",
+   "title": "Entrevista a Alfredo Ferrero sobre la gira de Keiko Fujimori por Asia",
+   "excerpt": "",
+   "source": "Perú21",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVFSTDhvVDJ2SXJfRmo2MHZ3aTNheGdtUEF1S1I3RjVzc093WHotRUZwS0hGdXk3a1BxaF9TbjJOUDdpb01JWktPdFZtRy1MRHZZV1c0OHJpb2dsVnRlZzl3M29mVy03elNXd21zZU1XVTdDS2hZVGV1ZkZVSnk1TklWeGNaWUJ4YlR0ZVN4NWlaOE85c0lwS1QzZ9IBoAFBVV95cUxOVzdKdnNQcTJ4RFNfaFRlOXJLZU9RYUVqVXdud2hmdWdhNzltRWx0UXVsX0VZMUtaM2lLOVBVaVJPUTlsTGxRRnJGbXJRbmM0RWUzOFRwTXZQN0NEQkhuLWRkV2RraDNka29iZ2kyYjF2MjNmTktsdlBSSi10R2JsTl9vcFdaU0V4djE0QVBpbF9GX1pVWl9NMXlkX2pRUWhY?oc=5",
+   "date": "2026-11-28T11:46:52+00:00",
+   "state": "entrevista",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "79a5158470ea",
    "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
    "excerpt": "",
@@ -449,23 +488,6 @@
    "date": "2026-11-28T03:40:29+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c33ec3aaa8ce",
-   "title": "Fujimori llega a Piura tras lluvias extremas y anuncia bonos para damnificados: “Es realmente un meganiño”",
-   "excerpt": "La presidenta Keiko Fujimori llegó a Piura para supervisar la emergencia por las lluvias extremas y anunció bonos para las familias damnificadas, pero estos aún están en planificación.",
-   "source": "La República",
-   "url": "https://larepublica.pe/politica/2026/11/27/fujimori-llega-a-piura-tras-lluvias-extremas-y-anuncia-bonos-para-damnificados-es-realmente-un-meganino-hnews-570321",
-   "date": "2026-11-28T03:33:17+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
    "next": null
   },
   {
@@ -680,6 +702,23 @@
    "next": null
   },
   {
+   "id": "155cf34ed6b9",
+   "title": "Lluvias en Piura: presidenta Fujimori llega a la región para supervisar atención de emergencias",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXpIUUttNUpxejdLSVplQTdwbXVBNG85SFBLYzE3R0hzRm9jYWFxVFd2ZUY5RGs1NmVNVmVERThneW10T2VycFlJNlBtaWt1dUg1ZlZZRkpLLWRvQUJXVHA4SFQ0b2RrZVFLd2pfSktDZnN0akNsX21CNGs5UkJYdXkybDNiWXJua2RocHcwcHNwN0RZQVd3SmdFWEowc2FaYm15MURNQTBYZGtFYUcwV0RoNmtBQlRBN3dkVEJPY0VrQQ?oc=5",
+   "date": "2026-11-28T01:41:00+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "544bacbeffb4",
    "title": "Presidenta Keiko Fujimori despide al mandatario de Bolivia, Rodrigo Paz, tras encuentro bilateral",
    "excerpt": "",
@@ -705,23 +744,6 @@
     "lng": -80.632,
     "abroad": false
    }
-  },
-  {
-   "id": "155cf34ed6b9",
-   "title": "Lluvias en Piura: presidenta Fujimori llega a la región para supervisar atención de emergencias",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaXpIUUttNUpxejdLSVplQTdwbXVBNG85SFBLYzE3R0hzRm9jYWFxVFd2ZUY5RGs1NmVNVmVERThneW10T2VycFlJNlBtaWt1dUg1ZlZZRkpLLWRvQUJXVHA4SFQ0b2RrZVFLd2pfSktDZnN0akNsX21CNGs5UkJYdXkybDNiWXJua2RocHcwcHNwN0RZQVd3SmdFWEowc2FaYm15MURNQTBYZGtFYUcwV0RoNmtBQlRBN3dkVEJPY0VrQQ?oc=5",
-   "date": "2026-11-28T00:44:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": null
   },
   {
    "id": "c59eba0af646",
@@ -1122,28 +1144,6 @@
    "source": "RPP",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYjBFNGQ2OEJjOGdnT1JNNjlrb2FOakJVdzVmejg0LW9TNGhYLVc3UGdsWndDR0hBMEM4R3luTWhBM2tEWDVTREJVZVMxSThsSktDTGtzM3l4UnBLWlZhZkY2M21lZHFyQXVMR05iZUhWZndPMlNIV1Fzc1FMdkN6UlE5V1lxWm9TVXhPODJLRmVUZ3hTc0tOR3JuN1BhYTRkc2d3NDlkcjM0QWQtQ3B3NXN5dGp3a3N3Q0NORTMtOEc5WjZ5REtSWWd0VGRya1B4YzY0M21NVHIwaHdWZGpYM1QzYl96eUU2S25qQURmUG5PejhOYW9vT0R2ekFNVVRNLWFtZUtITmZoOUFES3Bz?oc=5",
    "date": "2026-11-27T18:24:39+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "77b6c6ebd835",
-   "title": "\"Querido amigo\": Keiko Fujimori recibe a Rodrigo Paz y promete recuperar cercanía entre Perú y Bolivia",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVRGa0lyMk1LSW1HQjNzSzBKT3loUlhQZWRaRkF5UmFMZXlyb3Yxa3BrYkM1QThrSWRlQ29RalhaSHppMzctVUwxeXlxa2lQSTZhZmZobXhTUjlHVGRsUEVrNjcycHh3QzF5WVdDa05fM2JmVUNhSlhXZkIxd0x0bl9lc2Z1cjNJRGxMTWhCTkQ3dzRpQ0dvVFlTWEdOWm1MR1NUT0ZtLV91WWF2aDBlQzdaODNYeW80UUJVSlR2NWlxYTdY?oc=5",
-   "date": "2026-11-27T17:40:08+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "99c67399070c",
-   "title": "Keiko Fujimori recibe a Rodrigo Paz: Perú y Bolivia retoman Gabinete Binacional tras cinco años",
-   "excerpt": "",
-   "source": "Perú21",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX2c1TlZJVGluamJXcjlONUFrcWxodm8wRjJYU2c3Y3hFcUlFbzRqSTh3QU5ZV1pfSHhUaTN5aWE5WUdHSDk5NXcyekNtT1Y1NVg4WTJfY1RTUVB4VG1NcHU5TTZtWS1heTVrSUoydXZya041dWtYLUpXWHVQZGRBU3lFQ3Job0pDbzlHaHNrUXZtdzdlYVRJaHNacmJQbnM?oc=5",
-   "date": "2026-11-27T17:38:10+00:00",
    "state": "posando",
    "place": null,
    "next": null
