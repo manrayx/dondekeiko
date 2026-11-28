@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T14:06:56.912869+00:00",
+ "generated_at": "2026-11-28T14:28:16.903829+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,18 +102,20 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "Expreso",
-  "date": "2026-11-28T12:41:57+00:00"
+  "source": "Gestión",
+  "date": "2026-11-28T14:07:34+00:00"
  },
  "next": {
   "place": {
-   "name": "Colombia",
-   "abroad": true
+   "name": "Piura",
+   "lat": -5.194,
+   "lng": -80.632,
+   "abroad": false
   },
-  "source": "ATV.pe",
-  "date": "2026-11-28T02:25:50+00:00",
-  "title": "La presidenta Keiko Fujimori Higuchi llegó a Piura y suspendió su viaje a Colombia",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyVHNkSldGaXdicnZyTGJ0Z0tDUEVNMUFJMXpDazltTVItTnVJYjVqRzV3VWliM1g2ZWk0N1QyMXp1VFQ5LXgyS054NGdpdk92YVNIdWxtOUpjT0NpN0Vta3dXMU1faVgz?oc=5"
+  "source": "Revista Caretas",
+  "date": "2026-11-28T14:10:13+00:00",
+  "title": "Keiko Fujimori viaja a Piura y anuncia bonos para afectados por las inundaciones",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0YyOEZ3dXRzSVpyNmNOTjBWOWpleC1wMnZ3YkpfNnlOMWxjbTBKV3p4YUp6RkM5RE1wNWFJeFhVS29lcXdWbWsweGJybExQSS0wZ0FQZ0h5dk1sendYWHp2VS1JT2VzTXh3SVdlWTVVYWhFSkk3MHl1VHU4ZzJUWVVOSHFhYkluX0lubFp4T3VRenJ2QWtGV1dNX0tjSHc1UldCakhBeFhYRE80SEE?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 2,
@@ -329,6 +331,39 @@
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
   {
+   "id": "6526a1bd2a6f",
+   "title": "Keiko Fujimori viaja a Piura y anuncia bonos para afectados por las inundaciones",
+   "excerpt": "",
+   "source": "Revista Caretas",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0YyOEZ3dXRzSVpyNmNOTjBWOWpleC1wMnZ3YkpfNnlOMWxjbTBKV3p4YUp6RkM5RE1wNWFJeFhVS29lcXdWbWsweGJybExQSS0wZ0FQZ0h5dk1sendYWHp2VS1JT2VzTXh3SVdlWTVVYWhFSkk3MHl1VHU4ZzJUWVVOSHFhYkluX0lubFp4T3VRenJ2QWtGV1dNX0tjSHc1UldCakhBeFhYRE80SEE?oc=5",
+   "date": "2026-11-28T14:10:13+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false
+   }
+  },
+  {
+   "id": "c82d5fa5cdd7",
+   "title": "Keiko Fujimori anuncia bono para damnificados por lluvias en Piura",
+   "excerpt": "Esta noche, la presidenta Keiko Fujimori llegó a Piura y anunció la entrega de bonos a las familias damnificadas por las intensas lluvias asociadas al fenómeno El Niño.",
+   "source": "Gestión",
+   "url": "https://gestion.pe/peru/politica/keiko-fujimori-anuncia-bono-para-damnificados-por-lluvias-en-piura-noticia/",
+   "date": "2026-11-28T14:07:34+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "e77d1fe490a9",
    "title": "Keiko Fujimori promete bonos a damnificados por inundaciones en Piura: lo que falta definir sobre entrega",
    "excerpt": "",
@@ -413,12 +448,40 @@
    "next": null
   },
   {
+   "id": "79a5158470ea",
+   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
+   "date": "2026-11-28T08:55:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "5bfb30e5247a",
    "title": "Keiko Fujimori llega a Piura en medio de fuertes lluvias por segunda noche consecutiva | El Comercio",
    "excerpt": "",
    "source": "www.apnoticias.pe",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObExZcXhxV2xmRFFQMHdsM0k3TmlDOURURHFMOGQ0blE1eUp2OFZia1d3SmRFdEMtbkJySlotOElFRzlJX0RTYW0tek1CUjNfRTdhT29ZV2VTeFpDZEd1dTAtYmZyQ01EUWFoV2FNSHI4dmlxMTlEZmhWOXdLdm8ySGRsbE92THRoQ21FM3ZJZExzYXVPd2w0dElfYjhVTS1vTnVicWpXVk16WjN2ejNtYXRHc1E5WUVmbGZ6WWtpSTdTX3dxX3lMdzlGZlNUMTkxMUM4?oc=5",
    "date": "2026-11-28T07:11:12+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "24cc996b5c8c",
+   "title": "Keiko Fujimori anuncia medidas de prevención y entrega ayuda humanitaria a damnificados por inundaciones en Piura",
+   "excerpt": "",
+   "source": "Exitosa Noticias",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFNubXRORGltTmZGX3l6bW1Pa0R0MzQwZm5uNHE3eFhtTk1LUFhlVl9VMXcwcnhoRmlVX1RxSFhkSktmX3YwRE1uVTY0Mjh3Sl96dU1JeVJoUGh2NDNmS1psS3hVUmVOWUhHOHpkT0wxVjZNT2ZVVENNLW5JOXVENzNjSVBYWkppblJvdVFxaUkxOE5RRjBKVDl4eHM2em9RaTh6eF91YjdBdEFQODgtSV9DUGczOUdNNEpFdzAzSmpDU1BfcHhRN1JhUFJIUHZxVlNGSmh5cHJIX2YxdXlPRw?oc=5",
+   "date": "2026-11-28T07:09:00+00:00",
    "state": "posando",
    "place": {
     "name": "Piura",
@@ -532,23 +595,6 @@
    "url": "https://www.infobae.com/peru/2026/11/26/piura-bajo-agua-lluvias-extremas-inundan-el-centro-de-la-ciudad-y-activan-quebradas/",
    "date": "2026-11-28T03:27:53+00:00",
    "state": "transmitiendo",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": null
-  },
-  {
-   "id": "c82d5fa5cdd7",
-   "title": "Keiko Fujimori anuncia bono para damnificados por lluvias en Piura",
-   "excerpt": "Esta noche, la presidenta Keiko Fujimori llegó a Piura y anunció la entrega de bonos a las familias damnificadas por las intensas lluvias asociadas al fenómeno El Niño.",
-   "source": "Gestión",
-   "url": "https://gestion.pe/peru/politica/keiko-fujimori-anuncia-bono-para-damnificados-por-lluvias-en-piura-noticia/",
-   "date": "2026-11-28T03:27:14+00:00",
-   "state": "posando",
    "place": {
     "name": "Piura",
     "lat": -5.194,
@@ -827,17 +873,6 @@
     "lng": -80.632,
     "abroad": false
    }
-  },
-  {
-   "id": "79a5158470ea",
-   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnk4bEVmczc0Q2pLVjFPN1JKZmZBNkdFd19kdkxCS2Zwd0pXRHNENnlUSWktVW10ZVFVaW5CN2wzUW45S3lvcDZLa1psRHlsUkU2Q25NT1ZMUGtuUWZPZUdPRzhwSGVoQW54V2VjMWlZa0Z6OEVIYXE4NjY2VTUwYVJ4X3JlUk1VeVkxd3FyR2FIVXNETHBfN0pkSTJlbE1YYjlvMzhvT0J5TVJVMy1fbkFUSzk0QTd1?oc=5",
-   "date": "2026-11-27T22:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "28b87deded56",
@@ -1134,28 +1169,6 @@
    "source": "Panorama Ecuador",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUMyMV9hdHBOcVFSVFdudF9lNmk5eGkzUlFmcDItNmhobUF2bWJqVFJlMGM3d3dRWWlhY002YXpmTTVJZERhdjNQdzdlWi0yLUJlRE1hMnlMUmw3dTBfV3BpSnltMEthWWtRNGduWmdmS0RwUTkwWHNDSkc5OENORENqaHhJb01lYm90UFVUeE5pZy0wSDhKSG93T0RmTDR4elFPNDF0Nm8weXlLbThsTzVwLU4?oc=5",
    "date": "2026-11-27T19:11:20+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "673ad709b8ef",
-   "title": "Presidenta Keiko Fujimori destaca importancia de integración y cooperación con Bolivia",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQVI2azhRTHpPR0xpYWUwWkJtcXJFTElTa3haajV4UjJUdVNaeWNNOThocmw5eEJ1ZTZMREl0aWxTVEFCWTdxOVhvZEdpdmh6MVJKSE1YNUVFeFVHZUdvdl90SmtJakgwSC1GcU01Qmg4cUFScWpLdEFmUmhUTk0td0hjUFFscHJndXBzd25OLWdGdk1FVVUxLWtFbm9YNG9hTGl6TmtucmxraXpVYjRKOFVjRkZxQ05rRjRYSEluaw?oc=5",
-   "date": "2026-11-27T19:07:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "c044387030fb",
-   "title": "Rodrigo Paz y Keiko Fujimori ya están reunidos para abrir una nueva agenda de cooperación",
-   "excerpt": "",
-   "source": "El Deber",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY29haGRlNlU1WENvT3ZVOE0xcFNDZ0hBUXBsTXFjM2JGeUs5U19EdHVKcTJzLVhINzFVdkJvc0hVOGJ2NzdpUnppVlpoYzdoemFGWER0SEF6T1RYSjdyRHNWS20zR2F1TDY0TldnOUpkaFcyU0pCNkwtRG5BcXdhU2FTY242SWVRNnB3aUJKZXp2aG9UU2JGQ1hURlhPUUJPcWFXV3Y2QmxDVlVub2dnVQ?oc=5",
-   "date": "2026-11-27T18:57:02+00:00",
    "state": "posando",
    "place": null,
    "next": null
