@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T13:03:25.537356+00:00",
+ "generated_at": "2026-11-28T13:24:49.174797+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -409,6 +409,17 @@
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQVFSTDhvVDJ2SXJfRmo2MHZ3aTNheGdtUEF1S1I3RjVzc093WHotRUZwS0hGdXk3a1BxaF9TbjJOUDdpb01JWktPdFZtRy1MRHZZV1c0OHJpb2dsVnRlZzl3M29mVy03elNXd21zZU1XVTdDS2hZVGV1ZkZVSnk1TklWeGNaWUJ4YlR0ZVN4NWlaOE85c0lwS1QzZ9IBoAFBVV95cUxOVzdKdnNQcTJ4RFNfaFRlOXJLZU9RYUVqVXdud2hmdWdhNzltRWx0UXVsX0VZMUtaM2lLOVBVaVJPUTlsTGxRRnJGbXJRbmM0RWUzOFRwTXZQN0NEQkhuLWRkV2RraDNka29iZ2kyYjF2MjNmTktsdlBSSi10R2JsTl9vcFdaU0V4djE0QVBpbF9GX1pVWl9NMXlkX2pRUWhY?oc=5",
    "date": "2026-11-28T11:46:52+00:00",
    "state": "entrevista",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "79a5158470ea",
+   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
+   "date": "2026-11-28T08:55:23+00:00",
+   "state": "posando",
    "place": null,
    "next": null
   },
@@ -827,17 +838,6 @@
     "lng": -80.632,
     "abroad": false
    }
-  },
-  {
-   "id": "79a5158470ea",
-   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
-   "excerpt": "",
-   "source": "El Peruano",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnk4bEVmczc0Q2pLVjFPN1JKZmZBNkdFd19kdkxCS2Zwd0pXRHNENnlUSWktVW10ZVFVaW5CN2wzUW45S3lvcDZLa1psRHlsUkU2Q25NT1ZMUGtuUWZPZUdPRzhwSGVoQW54V2VjMWlZa0Z6OEVIYXE4NjY2VTUwYVJ4X3JlUk1VeVkxd3FyR2FIVXNETHBfN0pkSTJlbE1YYjlvMzhvT0J5TVJVMy1fbkFUSzk0QTd1?oc=5",
-   "date": "2026-11-27T22:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "28b87deded56",
