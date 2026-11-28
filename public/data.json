@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T05:53:19.695564+00:00",
+ "generated_at": "2026-11-28T06:14:45.856852+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -107,15 +107,13 @@
  },
  "next": {
   "place": {
-   "name": "Piura",
-   "lat": -5.194,
-   "lng": -80.632,
-   "abroad": false
+   "name": "Colombia",
+   "abroad": true
   },
-  "source": "Norte Sostenible",
-  "date": "2026-11-28T00:54:24+00:00",
-  "title": "Keiko Fujimori viajará a Piura para atender emergencia por lluvias",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNdjE2aUJVbWQ1UHV2OHhRaG9kcldWZjRPMHExVk1OT0VHVUFqWldrYjJMUm1rUVhsQU9ldS04TEpsV3ByWlBlTHR3MGZUZF9DbERSNWZITFUxSXJEbjlrM3pPdWhJNm1EWXNKYXJHNHVFZGVwSEh0US1DczRNM1U?oc=5"
+  "source": "ATV.pe",
+  "date": "2026-11-28T02:25:50+00:00",
+  "title": "La presidenta Keiko Fujimori Higuchi llegó a Piura y suspendió su viaje a Colombia",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyVHNkSldGaXdicnZyTGJ0Z0tDUEVNMUFJMXpDazltTVItTnVJYjVqRzV3VWliM1g2ZWk0N1QyMXp1VFQ5LXgyS054NGdpdk92YVNIdWxtOUpjT0NpN0Vta3dXMU1faVgz?oc=5"
  },
  "counts_7d": {
   "transmitiendo": 2,
@@ -398,6 +396,17 @@
    "next": null
   },
   {
+   "id": "f7f215cf7e45",
+   "title": "Presidenta Fujimori: Perú y Bolivia tienen muchos proyectos que los van a beneficiar",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORlBMWE1hWE45bXJES0tqVXhDRkhzbGJHaEh3V0Z6aUJQSW5HSnhRMDJHZVVxd0YzMEVFeVhObGVGM25zRFVXNFF5SmZiNnY2Mncyc0xPdWpIZ0tSZXVxN0ZnblRpV242WkVlVWxCZDhPaGQ5X1ctQ01JNVFjd3ZWTWxDNmZKSHRjV29fbkhGcm4tRlhyVS1wSWZvQVJDQjhqMDdSS2pmODUwbm9KSXZnMnVONHk5UE95N0VvRFFqVmR3YU9H?oc=5",
+   "date": "2026-11-28T03:40:29+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "8d90e08bee6d",
    "title": "Presidenta Fujimori llegó a Piura para atender emergencias por lluvias",
    "excerpt": "",
@@ -565,6 +574,26 @@
     "city": "Piura"
    },
    "next": null
+  },
+  {
+   "id": "e2c6cc89274e",
+   "title": "La presidenta Keiko Fujimori Higuchi llegó a Piura y suspendió su viaje a Colombia",
+   "excerpt": "",
+   "source": "ATV.pe",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyVHNkSldGaXdicnZyTGJ0Z0tDUEVNMUFJMXpDazltTVItTnVJYjVqRzV3VWliM1g2ZWk0N1QyMXp1VFQ5LXgyS054NGdpdk92YVNIdWxtOUpjT0NpN0Vta3dXMU1faVgz?oc=5",
+   "date": "2026-11-28T02:25:50+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": {
+    "name": "Colombia",
+    "abroad": true
+   }
   },
   {
    "id": "82014aa97cbf",
@@ -771,17 +800,6 @@
     "name": "Colombia",
     "abroad": true
    }
-  },
-  {
-   "id": "f7f215cf7e45",
-   "title": "Presidenta Fujimori: Perú y Bolivia tienen muchos proyectos que los van a beneficiar",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORlBMWE1hWE45bXJES0tqVXhDRkhzbGJHaEh3V0Z6aUJQSW5HSnhRMDJHZVVxd0YzMEVFeVhObGVGM25zRFVXNFF5SmZiNnY2Mncyc0xPdWpIZ0tSZXVxN0ZnblRpV242WkVlVWxCZDhPaGQ5X1ctQ01JNVFjd3ZWTWxDNmZKSHRjV29fbkhGcm4tRlhyVS1wSWZvQVJDQjhqMDdSS2pmODUwbm9KSXZnMnVONHk5UE95N0VvRFFqVmR3YU9H?oc=5",
-   "date": "2026-11-27T21:38:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "1407adbc33c7",
@@ -1116,23 +1134,6 @@
    "date": "2026-11-27T16:52:03+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "c74dd5b1854e",
-   "title": "Keiko Fujimori suspende cumbre con De la Espriella por emergencias invernales en Piura",
-   "excerpt": "",
-   "source": "La FM",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmg5RWZNUm9uS2JIX3VHVlpwYk9mWm9nbm5lZ2hKT1R5cEJTNmNpYzNXbTN6by11Ml9aV1ZrMGNIU0xvTER5WUdvekU3QVU5c1lpUmFDQ3JsRGlNdklSWWhWVjhvWTdFdnV1UnIwdmFnTG9ZSWViczhFWWpQUnRUREE4cEhsa1hJUFh0c0FiXzR0bEtiaXRDWHBPY196TjhTRzZucklpeWZ1WG9EUmNXOWsySnRDNWNHQkVXQ2p5aELSAcABQVVfeXFMT2tIajFGSExBdzZ1YVM3TjUwT1l2M19UbzdFWFFzZnNRU1BiejFEa1kzTTFFeUlmTlhfbDU2NFg0b0x5ejRhRGFQM3phSERkV0hEUDVrTDNxbGxNVFVzblhfa3NXN09DOHdLNE1YY1BPMlVpS3NuS3FCalh5WWlwMVV0bFo5TTdldDJ6ZVRPd3JPX2ZQdUFMZEZwQW1xNTVhRFFfQlBNbEFlanpkbHdkN0Flbkh6VmstbjdLNzA4UlFR?oc=5",
-   "date": "2026-11-27T16:51:21+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
    "next": null
   }
  ],
