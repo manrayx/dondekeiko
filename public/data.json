@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T02:38:32.722049+00:00",
+ "generated_at": "2026-11-28T03:00:25.347014+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -102,8 +102,8 @@
    "abroad": false,
    "city": "Piura"
   },
-  "source": "Infobae Perú",
-  "date": "2026-11-28T02:16:58+00:00"
+  "source": "DSN Noticias",
+  "date": "2026-11-28T02:54:28+00:00"
  },
  "next": {
   "place": {
@@ -132,6 +132,22 @@
   "doing": "Sin agenda pública conocida. ¿Estará probándose sombreros?"
  },
  "agenda": [
+  {
+   "start": "2026-11-27T20:50:00-05:00",
+   "end": "2026-11-27T21:10:00-05:00",
+   "minutes": 20,
+   "subject": "Visita de supervisión a la urbanización Ignacio Merino, una de la más afectadas por las lluvias registradas en la víspera.",
+   "lugar": "Distrito de Piura, región Piura",
+   "state": "posando",
+   "place": {
+    "name": "Distrito de Piura",
+    "full": "Distrito de Piura, región Piura",
+    "city": "Piura",
+    "lat": -4.10673,
+    "lng": -81.05207,
+    "abroad": false
+   }
+  },
   {
    "start": "2026-11-27T16:49:00-05:00",
    "end": "2026-11-27T16:51:00-05:00",
@@ -330,7 +346,7 @@
    "start": "2026-11-20T13:02:00-05:00",
    "end": "2026-11-20T13:23:00-05:00",
    "minutes": 21,
-   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En contacto de ATV.",
+   "subject": "Entrevista telefónica con Pamela Vértiz, conductora del programa En Contacto de ATV.",
    "lugar": "Desde la PCM",
    "state": "entrevista",
    "place": {
@@ -491,16 +507,72 @@
    }
   }
  ],
- "agenda_minutes_7d": 745,
+ "agenda_minutes_7d": 765,
  "agenda_page": "https://visitas.servicios.gob.pe/visitas/agenda/?ruc=20161704378",
  "items": [
+  {
+   "id": "a48f239577ef",
+   "title": "Keiko Fujimori anuncia que viajará hoy a Piura ante inundaciones que dejaron viviendas bajo el agua y varias familias afectadas",
+   "excerpt": "La mandataria confirmó que los ministros de Defensa y Agricultura ya se encuentran en la región, donde las inundaciones dejaron viviendas anegadas, calles bajo el agua y miles de familias…",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/11/27/keiko-fujimori-anuncia-que-viajara-hoy-a-piura-ante-inundaciones-que-dejaron-viviendas-bajo-el-agua-y-varias-familias-afectadas/",
+   "date": "2026-11-28T02:55:58+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "79a5158470ea",
+   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
+   "excerpt": "",
+   "source": "Agencia Andina",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
+   "date": "2026-11-28T02:55:23+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "dd188524682d",
+   "title": "Keiko Fujimori llega a Piura en medio de fuertes lluvias y plantea entregar bonos a familias damnificadas",
+   "excerpt": "",
+   "source": "DSN Noticias",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZjFEb3ExRkg3SUpLWmhlRmg1ZWVscEpxYXRiZmk0R0tVb1hSTUR3UV8yc2FqeVJtX1RHYnh5ZVpWclFqQ2NuVXVSUnBiNjhlalNTUVg4c3V4a3dnejd3QU83elZBd2tWUFViUkpvNm1GWFdaak1LdUotYXlHX1luNUc0UDdQT0RFTzA4MEI4ZWNmeVVjd1laUERSb25pZ3k5QWZxdFJhSFpPZ2gtN2ZTV0ZQd0xSMHNfMVJSMW1R?oc=5",
+   "date": "2026-11-28T02:54:28+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
+   "id": "c8b983a6e917",
+   "title": "Keiko Fujimori anuncia bonos para familias damnificadas por lluvias en Piura: \"Espero que sea lo más pronto posible\"",
+   "excerpt": "",
+   "source": "RPP",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUk4zUWZJVEQzYnNoR3NpZ1VLbWM3cUdpWjdBNWVFeGNtR3R2Z1k4VThTQkZBWHJhdVhNaFp0dWVZRTItX3A2VWJmZ3RrNDVqZG5udDBaZEVZM1hWYjdiVE43WHdtSkVCRXNJcklPYXRZVm1VNFh3TlFrdl9IOTVqY1d6Uk10Q1N3LUttTFl0OV9paWFJbE1jVGlrYko5MGZFdDktVGx5RzFzdUtVWmxzbzVXRlZJLVpaSkp5d244aWQ0QnM?oc=5",
+   "date": "2026-11-28T02:50:24+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
   {
    "id": "5469b6132780",
    "title": "Emergencia por lluvias extremas EN VIVO: presidenta Keiko Fujimori llega a Piura para supervisar la emergencia",
    "excerpt": "Las precipitaciones mantienen la emergencia en el norte del Perú. En Piura, las inundaciones afectaron viviendas, calles y sistemas de drenaje, mientras brigadas policiales auxiliaron a residentes con botes inflables.…",
    "source": "Infobae Perú",
    "url": "https://www.infobae.com/peru/2026/11/26/piura-bajo-agua-lluvias-extremas-inundan-el-centro-de-la-ciudad-y-activan-quebradas/",
-   "date": "2026-11-28T02:16:58+00:00",
+   "date": "2026-11-28T02:49:36+00:00",
    "state": "transmitiendo",
    "place": {
     "name": "Piura",
@@ -618,6 +690,22 @@
    "next": null
   },
   {
+   "id": "6f12e83817e1",
+   "title": "Keiko Fujimori anuncia viaje a Tumbes y Piura por intensas lluvias e inundaciones: \"En las próximas horas estaré viajando\"",
+   "excerpt": "",
+   "source": "Willax",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEtkX29YQ1QyMUVnVllFUTlZTGtTZGhTNl9nV0k3Wl9XZWR0SUcwZXByNWxjNU5Xcl9hYU1UYkltd1E1MFQ5UWlIRHAyZ3k4RmZpZVBJRXhCRk5ZTFFaSUNmUEo4RHVYbEhrenJIN1JTS3VhVEJNb2JSY1A5bDBkSWF1dGtJS0FX?oc=5",
+   "date": "2026-11-27T23:28:50+00:00",
+   "state": "posando",
+   "place": null,
+   "next": {
+    "name": "Tumbes",
+    "lat": -3.566,
+    "lng": -80.451,
+    "abroad": false
+   }
+  },
+  {
    "id": "213c932467cc",
    "title": "Keiko Fujimori anuncia viaje a Piura y Tumbes ante inundaciones y lluvias intensas",
    "excerpt": "La presidenta Keiko Fujimori anunció que viajará a Piura y Tumbes para atender las emergencias ocasionadas por las intensas lluvias e inundaciones. Además, confirmó la postergación del gabinete binacional con…",
@@ -689,17 +777,6 @@
    "source": "tvperu.gob.pe",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGJJc2dTTFhESHNkd2x6cWFRRnljWl9PZTBVdWhCLVA2UVVuZkFmemZYX1BZZHhKMW15WUViRE1nYzRJbkoxVTM1ejFwbDdOYVVuMjhPOHI3bTdPR1BfaTBvdWR4eWpjeHhrMVdVOU9tbG8yWDg4YVNZU3pwaFAyVVUtMFhJRlpqUWExbmU3aXFqS2NhM2VydjJXb2dHN3NPZHNneXdUbzM4VXU2VWFUa0ZNZExfaGp6cm1pRg?oc=5",
    "date": "2026-11-27T21:56:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "a48f239577ef",
-   "title": "Keiko Fujimori anuncia que viajará hoy a Piura ante inundaciones que dejaron viviendas bajo el agua y varias familias afectadas",
-   "excerpt": "La mandataria confirmó que los ministros de Defensa y Agricultura ya se encuentran en la región, donde las inundaciones dejaron viviendas anegadas, calles bajo el agua y miles de familias…",
-   "source": "Infobae Perú",
-   "url": "https://www.infobae.com/peru/2026/11/27/keiko-fujimori-anuncia-que-viajara-hoy-a-piura-ante-inundaciones-que-dejaron-viviendas-bajo-el-agua-y-varias-familias-afectadas/",
-   "date": "2026-11-27T21:48:28+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -810,17 +887,6 @@
    "source": "Panorama Ecuador",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGN6NElOaXA3RWw4ODNnNlNfZGg4bk43blhWdWhYUWJQV3l5SUVEVXY5WEhJWHVsSGNKQTA2OC16R3BXUHNTV0xzUk5BNnJ3TkxXR3pRak1Od2lIU2s5NEl5QXJNX25ndk5qV2JrNFhteDl5TE1CSm92ZG44VjB6bjdVQlF5dkN4aHgtZjFVa3Q4eURqdXlhSmhQbmNfTjVWekcxTHFzTzFvenp2TmtDN3BkVTVCdw?oc=5",
    "date": "2026-11-27T21:01:16+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "79a5158470ea",
-   "title": "Presidenta Keiko Fujimori anuncia que en próximas horas viajará al norte del país",
-   "excerpt": "",
-   "source": "Agencia Andina",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjMwUElZUGlST3o1dUNJN0VrN0UzUUthSkM2dFhXb3l1MzJlSHNRazFFWHRiS1hBdzMzcC1tTEVKQ1pSVWN1SlowemxxZnFocHlDdUN0NG5NclB6X2tBQ2psVFlTQ3hCaXczSjBwcjk1ckNSa1Jubjk2R1ZnazdhRmpQSGZuZmV2cUNSbGNMaGt2bFRJLVZ6ZWdBQjVsUF8yX0xtQjNDcVRNcVhSRXdzSWk2cTU2SE5kM0JuVk9IN0ZnUEU?oc=5",
-   "date": "2026-11-27T20:53:00+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1272,57 +1338,6 @@
    "state": "posando",
    "place": null,
    "next": null
-  },
-  {
-   "id": "648063bb0728",
-   "title": "Keiko Fujimori posterga viaje a Colombia por emergencia en Piura y cancela pedido de viaje al Senado",
-   "excerpt": "",
-   "source": "Revista Caretas",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnNqcE1fMGN2U09aamZfaE1LRXJ2MXp1a0k1TUlHSHd1WEc0ZDRCTE00TlBUQ0hvLWxRM0YtM0JUUG5QdFd2dS05OFpwdnNLZTZtSE14YTV4dm5uR3dCMzc5RU5MNHI3dUtsejI1VmFZLUV3R2hfTERVYnNIaEFQNEJqTHpiRmNpMzl6dmlzeGp6MTdlQi1RbGFUV0xRTjRDSHNXMHdaTzFaSUxQdzMxQVB6dUlvWUlJMFhiTVAxRk9GeHB0WWZlWQ?oc=5",
-   "date": "2026-11-27T15:46:11+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
-  },
-  {
-   "id": "ad702b9a8f40",
-   "title": "CADE 2026: Keiko Fujimori firma adenda para ampliar el gas natural en siete regiones",
-   "excerpt": "",
-   "source": "El Comercio Perú",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRTdGZjJ0Z2ROZWxnUnlUdkN2TkllMlJMYmx3bHpyNmVJaktZU2IySlhuQ2JUaHNHYXVLbkw3RTd2XzQzZG8zNG9ZeWp6OERyY2VNbmNaMm1rejZiQlNlWFRIY015cWg3OTdzck9UY1pnVjVMbmhteUVYLVBxem0xMDlMbGJudFI2aTM4aXR5enhPdUd5RGVhbUxZMkNvQVlydHNST2prU2RyekQ1b19ULThvSS1od281N1ZxT0ZSenJaeU1UUjJmUUh1OHY?oc=5",
-   "date": "2026-11-27T15:44:28+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
-  },
-  {
-   "id": "6bba7f2a6654",
-   "title": "Keiko Fujimori suspende su viaje a Colombia ante emergencia por lluvias e inundaciones en Piura",
-   "excerpt": "",
-   "source": "RPP",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM1NsNE16Z2xpVGhvOF9vcFZlMUhYc0hjWXlfcy02TmtPc0FLZ3RiRlUyblJBLVJsU1I2aXAxbFdFeng4ajNQUmhOSHl0ZDlRTF9iUmNnNlY4QzBNT0ZBdVJDY2dFR3NFcWlBY0d5cEdUSjVyc2ptOVBOM2w0cENLdzB6YWJQV2RxRHpsQV9xRERQdXV3dmVMcTBrTTRqU0dfcVlTUnUzVjlMWmRwUjBMbXJ3OXRpNEVUcHlCbEhndDgwbFVBcVltNC1iaGdNUQ?oc=5",
-   "date": "2026-11-27T15:42:46+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Piura",
-    "lat": -5.194,
-    "lng": -80.632,
-    "abroad": false,
-    "city": "Piura"
-   },
-   "next": {
-    "name": "Colombia",
-    "abroad": true
-   }
   }
  ],
  "geocache": {
@@ -1497,6 +1512,10 @@
   ],
   "sede de la universidad nacional de ingenieria (uni), rimac, peru": null,
   "yanahuara, urubamba (valle sagrado de los incas), region cusco, peru": null,
-  "yanahuara, region cusco, peru": null
+  "yanahuara, region cusco, peru": null,
+  "distrito de piura, region piura, peru": [
+   -4.10673,
+   -81.05207
+  ]
  }
 }
