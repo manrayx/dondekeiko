@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:19:00.534682+00:00",
+ "generated_at": "2026-11-28T07:40:47.376992+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -379,6 +379,23 @@
    "next": null
   },
   {
+   "id": "eab5f0f1c7fb",
+   "title": "Keiko Fujimori llega a Piura, supervisa zonas inundadas y anuncia bonos para las familias damnificadas",
+   "excerpt": "",
+   "source": "Canal N",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV0U5Qzd3eUJmRUF5M2ZFUmNGcHUwckt1ZFNUdjV6Tkh3aWVJWlZUMHNjVV84enk0VXJrY2FvZEJ1T0Zpc3Zsd09MV0ItZ2xmTURnTWNqc0d3QTFxTmtXeVhnQkNFZ3ZUbDFtX2hjOG5URUtrVjJYZ055VTM0ZVp0S1BQdEROR2MtSWgwMTFzd25DZ0k5UnRkcQ?oc=5",
+   "date": "2026-11-28T04:37:51+00:00",
+   "state": "posando",
+   "place": {
+    "name": "Piura",
+    "lat": -5.194,
+    "lng": -80.632,
+    "abroad": false,
+    "city": "Piura"
+   },
+   "next": null
+  },
+  {
    "id": "30db63bf314e",
    "title": "Keiko Fujimori analiza adelantar pagos de bonos a afectados por lluvias y El Niño",
    "excerpt": "",
@@ -635,6 +652,17 @@
    "next": null
   },
   {
+   "id": "cf51ca791978",
+   "title": "Presidenta Keiko Fujimori: “Acuerdos deben traducirse en beneficios para zonas fronterizas”",
+   "excerpt": "",
+   "source": "tvperu.gob.pe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUC0xMldTTjhURnNTaDVmOFNvSkJzbEpFbXdIR1ZWSjN0YVVHZmpZWlh5S2Ixa0Y5U0tOZ1ZYT0ExY2xmc255UDdZYWpuUE9MS2hXOTFZYWY3V2VoXzJjWE1xUTc0SGZrWV9lU2VkdzNtRFd0aTZxRUhabWVlY1NYMl9GLU1wQ2l2VHJYcVlJMFFXbnNCdFQ4dXJ4T1BlYl9LaTZrWklKeElNdlhwTFFNRjVrRnY0MXhmaXFTbWd4UQ?oc=5",
+   "date": "2026-11-28T01:41:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
    "id": "544bacbeffb4",
    "title": "Presidenta Keiko Fujimori despide al mandatario de Bolivia, Rodrigo Paz, tras encuentro bilateral",
    "excerpt": "",
@@ -660,17 +688,6 @@
     "lng": -80.632,
     "abroad": false
    }
-  },
-  {
-   "id": "cf51ca791978",
-   "title": "Presidenta Keiko Fujimori: “Acuerdos deben traducirse en beneficios para zonas fronterizas”",
-   "excerpt": "",
-   "source": "tvperu.gob.pe",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUC0xMldTTjhURnNTaDVmOFNvSkJzbEpFbXdIR1ZWSjN0YVVHZmpZWlh5S2Ixa0Y5U0tOZ1ZYT0ExY2xmc255UDdZYWpuUE9MS2hXOTFZYWY3V2VoXzJjWE1xUTc0SGZrWV9lU2VkdzNtRFd0aTZxRUhabWVlY1NYMl9GLU1wQ2l2VHJYcVlJMFFXbnNCdFQ4dXJ4T1BlYl9LaTZrWklKeElNdlhwTFFNRjVrRnY0MXhmaXFTbWd4UQ?oc=5",
-   "date": "2026-11-28T00:44:00+00:00",
-   "state": "posando",
-   "place": null,
-   "next": null
   },
   {
    "id": "c59eba0af646",
@@ -1117,23 +1134,6 @@
    "date": "2026-11-27T17:22:27+00:00",
    "state": "posando",
    "place": null,
-   "next": null
-  },
-  {
-   "id": "03ec49a80629",
-   "title": "Keiko Fujimori y Rodrigo Paz se reúnen en Palacio de Gobierno y lideran VII Gabinete Binacional Perú-Bolivia",
-   "excerpt": "Este viernes 27 de noviembre la presidenta de la república, Keiko Fujimori, y su homólogo de Bolivia, Rodrigo Paz, presidirán el Encuentro Presidencial y VII Gabinete Binacional.",
-   "source": "El Comercio",
-   "url": "https://elcomercio.pe/politica/gobierno/keiko-fujimori-y-rodrigo-paz-encabezan-encuentro-presidencial-y-gabinete-binacional-peru-bolivia-ultimas-noticia/",
-   "date": "2026-11-27T17:21:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
-   },
    "next": null
   }
  ],
