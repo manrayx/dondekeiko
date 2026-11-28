@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T05:32:03.835738+00:00",
+ "generated_at": "2026-11-28T05:53:19.695564+00:00",
  "states": {
   "transmitiendo": {
    "label": "En vivo",
@@ -365,6 +365,17 @@
    "source": "El Comercio",
    "url": "https://elcomercio.pe/politica/peru-y-bolivia-retoman-gabinetes-binacionales-tras-cinco-anos-que-acuerdos-suscribieron-keiko-fujimori-y-rodrigo-paz-noticia/",
    "date": "2026-11-28T05:01:00+00:00",
+   "state": "posando",
+   "place": null,
+   "next": null
+  },
+  {
+   "id": "30db63bf314e",
+   "title": "Keiko Fujimori analiza adelantar pagos de bonos a afectados por lluvias y El Niño",
+   "excerpt": "",
+   "source": "Uruguay Al Día",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtfUWlGS08tMVVkZGZCVy1tdHdhUTg2UzZ4Snl2bWNOYWt6UERHV3RMLTFCb25NWklKa2dMQWNMcjhLTjlpRjY3bXZ4V1VlZlpzaUUtMDVrakF5OEFwc3NRT0pONS1wMWpPWFJJRVFEbFJkaXhQYXRPN0hkZmtTTEFaY2xDWDRMWExYaTdpZ3hrRHFvNlVRTWRhY3F1cTExN00wNkw0Y0daVUFZM2dZ?oc=5",
+   "date": "2026-11-28T04:33:42+00:00",
    "state": "posando",
    "place": null,
    "next": null
@@ -1121,23 +1132,6 @@
     "lng": -80.632,
     "abroad": false,
     "city": "Piura"
-   },
-   "next": null
-  },
-  {
-   "id": "2cdb03da231a",
-   "title": "Rodrigo Paz tras reunirse con Keiko Fujimori en Palacio: \"Bolivia y el Perú abren una nueva etapa de integración\"",
-   "excerpt": "",
-   "source": "AP Noticias",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMElCSG1Vek90V25rZHlaUHZIaWtjYnZ2REZkSDFxSkZkUHNXV0pLTElGWkt6dkFDbkFIN2t6dHVpMnpJSUpKbGlISnZQMUdHbEI3bzJkQzRJLVI0eG9pQkdzQnM0WllnY1ZlUTg4UXVxc3B0cm9Ga25zc2IzMlV3dnViNkloMThxdWZQeGpZZjE1YnE4dGRiQjA5RENrNkptTFU5ekdTNGhTOUpJeklrRUplYndnemdhaTlyZ0lUSHRHQTYyOUZPRWU4NHF3WlpYZ1ZxbEZyaUVtbHY3?oc=5",
-   "date": "2026-11-27T16:36:00+00:00",
-   "state": "posando",
-   "place": {
-    "name": "Palacio de Gobierno",
-    "city": null,
-    "lat": -12.04491,
-    "lng": -77.0298,
-    "abroad": false
    },
    "next": null
   }
